@@ -1,27 +1,7 @@
+import os
 import pandas as pd
 import requests
 from io import StringIO
-
-class PremierLeagueTeam:
-    def __init__(self, team_name):
-        self.team_name = team_name
-        self.expected_goals = 0
-        self.actual_goals = 0
-        self.expected_goals_against = 0
-        self.actual_goals_against = 0
-
-    def __repr__(self):
-        return (f"Team: {self.team_name}\n"
-                f"Expected Goals (xG): {self.expected_goals}\n"
-                f"Actual Goals: {self.actual_goals}\n"
-                f"Expected Goals Against (xGA): {self.expected_goals_against}\n"
-                f"Actual Goals Against: {self.actual_goals_against}\n")
-
-    def update_stats(self, xg, goals, xga, goals_against):
-        self.expected_goals += xg
-        self.actual_goals += goals
-        self.expected_goals_against += xga
-        self.actual_goals_against += goals_against
 
 def fetch_csv_data_from_github(url):
     """Fetch CSV data from a GitHub URL and return it as a pandas DataFrame."""
@@ -33,40 +13,46 @@ def fetch_csv_data_from_github(url):
     else:
         raise Exception(f"Failed to fetch data from {url}")
 
-def get_team_stats_for_season(season, teams):
-    """Scrape the expected goals (xG), actual goals, expected goals against (xGA), and actual goals against for each team in a given season."""
-    #Change the link 
-    base_url = f"https://raw.githubusercontent.com/vaastav/Fantasy-Premier-League/master/data/{season}/understat/merged_gw.csv"
-    df = fetch_csv_data_from_github(base_url)
+def save_team_data_to_csv(season, team_names, output_folder):
+    """Fetch each team's data from the GitHub repository and save it as a CSV file locally."""
+    base_url = f"https://raw.githubusercontent.com/vaastav/Fantasy-Premier-League/master/data/{season}/understat/"
+    # Create the output folder if it doesn't exist
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
     
-    # Filter relevant columns: team name, expected goals (xG), goals, expected goals against (xGA), and goals against
-    relevant_columns = ['team', 'xG', 'goals_scored', 'xGA', 'goals_conceded']
-    df_filtered = df[relevant_columns]
-    
-    for team in teams:
-        team_data = df_filtered[df_filtered['team'] == team.team_name]
-        team_xg = team_data['xG'].sum()
-        team_goals = team_data['goals_scored'].sum()
-        team_xga = team_data['xGA'].sum()
-        team_goals_against = team_data['goals_conceded'].sum()
-
-        team.update_stats(team_xg, team_goals, team_xga, team_goals_against)
+    for team_name in team_names:
+        # Convert team names to the file format by replacing spaces with underscores
+        team_filename = team_name.replace(' ', '_')
+        team_url = base_url + f"understat_{team_filename}.csv"
+        
+        try:
+            # Fetch the CSV file for the team
+            df = fetch_csv_data_from_github(team_url)
+            
+            # Save the CSV data to a local file in the output folder
+            local_file_path = os.path.join(output_folder, f"{team_filename}_{season}.csv")
+            df.to_csv(local_file_path, index=False)
+            
+            print(f"Data for {team_name} saved successfully to {local_file_path}")
+        
+        except Exception as e:
+            print(f"Error fetching data for {team_name}: {e}")
 
 def main():
-    # List of teams
-    team_names = ['Arsenal', 'Aston Villa', 'Bournemouth', 'Brentford', 'Brighton', 'Burnley', 'Chelsea', 'Crystal Palace', 'Everton', 'Fulham', 'Liverpool', 'Luton', 'Man City', 'Man Utd', 'Newcastle', 'Nott\'m Forest', 'Sheffield Utd', 'Spurs', 'West Ham', 'Wolves']  # Add the team names you want
-    teams = [PremierLeagueTeam(name) for name in team_names]
+    # List of team names
+    team_names = [
+        'Arsenal', 'Aston_Villa', 'Bournemouth', 'Brentford', 'Brighton', 'Burnley',
+        'Chelsea', 'Crystal_Palace', 'Everton', 'Fulham', 'Liverpool', 'Luton',
+        'Manchester_City', 'Manchester_United', 'Newcastle_United', 'Nottingham_Forest', 'Sheffield_United', 'Southampton', 
+        'Tottenham', 'West_Ham', 'Wolverhampton_Wanderers'
+    ]
     
-    # Get data for the last two seasons
-    seasons = ['2022-23', '2023-24']
+    # Specify seasons and the output folder for the CSV files
+    seasons = ['2021-22', '2022-23', '2023-24']
+    output_folder = 'fpl_team_data'  # Directory to save the CSV files
     
     for season in seasons:
-        get_team_stats_for_season(season, teams)
-    
-    # Display team stats
-    for team in teams:
-        print(team)
+        save_team_data_to_csv(season, team_names, output_folder)
 
 if __name__ == "__main__":
     main()
-
