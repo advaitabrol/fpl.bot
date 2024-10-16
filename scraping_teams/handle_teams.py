@@ -39,19 +39,33 @@ def save_team_data_to_csv(season, team_names, output_folder):
             print(f"Error fetching data for {team_name}: {e}")
 
 def main():
-    # List of team names
-    team_names = [
-        'Arsenal', 'Aston_Villa', 'Bournemouth', 'Brentford', 'Brighton', 'Burnley',
-        'Chelsea', 'Crystal_Palace', 'Everton', 'Fulham', 'Liverpool', 'Luton',
-        'Manchester_City', 'Manchester_United', 'Newcastle_United', 'Nottingham_Forest', 'Sheffield_United', 'Southampton', 
-        'Tottenham', 'West_Ham', 'Wolverhampton_Wanderers'
-    ]
+    # Teams for each season
+    team_names_per_season = {
+        '2021-22': [
+            'Arsenal', 'Aston Villa', 'Brentford', 'Brighton', 'Burnley', 'Chelsea', 
+            'Crystal Palace', 'Everton', 'Leeds', 'Leicester', 'Liverpool', 
+            'Manchester City', 'Manchester United', 'Newcastle United', 'Norwich', 
+            'Southampton', 'Tottenham', 'Watford', 'West Ham', 'Wolverhampton Wanderers'
+        ],
+        '2022-23': [
+            'Arsenal', 'Aston Villa', 'Bournemouth', 'Brentford', 'Brighton', 'Chelsea', 
+            'Crystal Palace', 'Everton', 'Fulham', 'Leeds', 'Leicester', 
+            'Liverpool', 'Manchester City', 'Manchester United', 'Newcastle United', 
+            'Nottingham Forest', 'Southampton', 'Tottenham', 'West Ham', 'Wolverhampton Wanderers'
+        ],
+        '2023-24': [
+            'Arsenal', 'Aston Villa', 'Bournemouth', 'Brentford', 'Brighton', 'Burnley', 'Chelsea', 
+            'Crystal Palace', 'Everton', 'Fulham', 'Liverpool', 'Luton', 'Manchester City', 
+            'Manchester United', 'Newcastle United', 'Nottingham Forest', 'Sheffield United', 
+            'Tottenham', 'West Ham', 'Wolverhampton Wanderers'
+        ]
+    }
     
-    # Specify seasons and the output folder for the CSV files
-    seasons = ['2021-22', '2022-23', '2023-24']
+    # Specify the output folder for the CSV files
     output_folder = 'fpl_team_data'  # Directory to save the CSV files
     
-    for season in seasons:
+    # Loop over each season and fetch the team data
+    for season, team_names in team_names_per_season.items():
         save_team_data_to_csv(season, team_names, output_folder)
 
 if __name__ == "__main__":
