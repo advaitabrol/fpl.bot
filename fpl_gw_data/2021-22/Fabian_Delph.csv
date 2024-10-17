@@ -1,39 +1,39 @@
-name,position,team,xP,assists,bonus,clean_sheets,fixture,goals_conceded,goals_scored,ict_index,minutes,opponent_team,penalties_missed,red_cards,total_points,was_home,yellow_cards
-Fabian Delph,MID,Everton,1.0,0,0,0,4,0,0,0.0,0,Southampton,0,0,0,True,0
-Fabian Delph,MID,Everton,0.2,0,0,0,100,0,0,2.0,45,Wolverhampton,0,0,1,False,0
-Fabian Delph,MID,Everton,0.7,0,0,0,106,0,0,2.7,59,Tottenham,0,0,0,True,1
-Fabian Delph,MID,Everton,-0.2,0,0,0,115,2,0,0.2,62,Manchester City,0,0,2,False,0
-Fabian Delph,MID,Everton,0.8,0,0,0,122,0,0,0.0,0,Brentford,0,0,0,False,0
-Fabian Delph,MID,Everton,-0.2,0,0,0,132,1,0,0.2,17,Liverpool,0,0,1,True,0
-Fabian Delph,MID,Everton,0.3,0,0,0,142,0,0,0.0,0,Arsenal,0,0,0,True,0
-Fabian Delph,MID,Everton,0.8,0,0,0,156,1,0,0.8,57,Crystal Palace,0,0,1,False,0
-Fabian Delph,MID,Everton,-0.3,0,0,0,168,0,0,0.0,0,Chelsea,0,0,0,False,0
-Fabian Delph,MID,Everton,0.5,0,0,0,14,0,0,0.7,7,Leicester City,0,0,1,False,0
-Fabian Delph,MID,Everton,0.0,0,0,0,205,0,0,0.0,0,Brighton,0,0,0,True,0
-Fabian Delph,MID,Everton,0.4,0,0,0,217,0,0,0.0,0,Norwich,0,0,0,False,0
-Fabian Delph,MID,Everton,0.0,0,0,0,225,0,0,0.0,0,Aston Villa,0,0,0,True,0
-Fabian Delph,MID,Everton,0.0,0,0,0,239,0,0,0.0,0,Newcastle United,0,0,0,False,0
-Fabian Delph,MID,Everton,0.0,0,0,0,244,0,0,0.0,0,Leicester City,0,0,0,True,0
-Fabian Delph,MID,Everton,0.0,0,0,0,258,0,0,0.0,0,Southampton,0,0,0,False,0
-Fabian Delph,MID,Everton,0.0,0,0,0,266,0,0,0.0,0,Manchester City,0,0,0,True,0
-Fabian Delph,MID,Everton,0.0,0,0,0,278,0,0,0.0,0,Tottenham,0,0,0,False,0
-Fabian Delph,MID,Everton,0.0,0,0,0,286,0,0,0.0,0,Wolverhampton,0,0,0,True,0
-Fabian Delph,MID,Everton,0.0,0,0,0,195,0,0,0.0,0,Newcastle United,0,0,0,True,0
-Fabian Delph,MID,Everton,0.0,0,0,0,22,0,0,0.0,0,Brighton,0,0,0,False,0
-Fabian Delph,MID,Everton,0.0,0,0,0,309,0,0,0.0,0,West Ham,0,0,0,False,0
-Fabian Delph,MID,Everton,0.0,0,0,0,183,0,0,0.0,0,Burnley,0,0,0,False,0
-Fabian Delph,MID,Everton,-0.4,0,0,1,314,0,0,1.9,83,Manchester United,0,0,3,True,0
-Fabian Delph,MID,Everton,0.7,0,0,0,172,1,0,4.7,90,Leeds United,0,0,2,True,0
-Fabian Delph,MID,Everton,-0.5,0,0,0,338,0,0,0.0,0,Liverpool,0,0,0,False,0
-Fabian Delph,MID,Everton,0.2,0,0,1,342,0,0,0.1,70,Chelsea,0,0,2,True,1
-Fabian Delph,MID,Everton,3.1,0,0,0,357,1,0,2.3,90,Leeds United,0,0,2,False,0
-Fabian Delph,MID,Everton,3.1,0,0,1,299,0,0,3.4,80,Watford,0,0,3,False,0
-Fabian Delph,MID,Everton,0.5,0,0,0,362,0,0,0.0,0,Brentford,0,0,0,True,0
-Fabian Delph,MID,Everton,0.5,0,0,0,322,0,0,0.0,0,Crystal Palace,0,0,0,True,0
-Fabian Delph,MID,Everton,0.0,0,0,0,371,0,0,0.0,0,Arsenal,0,0,0,False,0
-Fabian Delph,MID,Everton,0.0,0,0,0,35,0,0,0.0,0,Burnley,0,0,0,True,0
-Fabian Delph,MID,Everton,0.0,0,0,0,41,0,0,0.0,0,Aston Villa,0,0,0,False,0
-Fabian Delph,MID,Everton,0.0,0,0,0,55,0,0,0.0,0,Norwich,0,0,0,True,0
-Fabian Delph,MID,Everton,0.0,0,0,0,67,0,0,0.0,0,Manchester United,0,0,0,False,0
-Fabian Delph,MID,Everton,0.0,0,0,0,74,0,0,0.0,0,West Ham,0,0,0,True,0
-Fabian Delph,MID,Everton,0.0,0,0,0,86,0,0,0.0,0,Watford,0,0,0,True,0
+name,position,team,bonus,clean_sheets,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,total_points,was_home
+Fabian Delph,MID,Everton,0,0,0,0.0,2021-08-14,0,Southampton,0,True
+Fabian Delph,MID,Everton,0,0,0,2.0,2021-11-01,45,Wolverhampton,1,False
+Fabian Delph,MID,Everton,0,0,0,2.7,2021-11-07,59,Tottenham,0,True
+Fabian Delph,MID,Everton,0,0,2,0.2,2021-11-21,62,Manchester City,2,False
+Fabian Delph,MID,Everton,0,0,0,0.0,2021-11-28,0,Brentford,0,False
+Fabian Delph,MID,Everton,0,0,1,0.2,2021-12-01,17,Liverpool,1,True
+Fabian Delph,MID,Everton,0,0,0,0.0,2021-12-06,0,Arsenal,0,True
+Fabian Delph,MID,Everton,0,0,1,0.8,2021-12-12,57,Crystal Palace,1,False
+Fabian Delph,MID,Everton,0,0,0,0.0,2021-12-16,0,Chelsea,0,False
+Fabian Delph,MID,Everton,0,0,0,0.7,2021-08-21,7,Leicester City,1,False
+Fabian Delph,MID,Everton,0,0,0,0.0,2022-01-02,0,Brighton,0,True
+Fabian Delph,MID,Everton,0,0,0,0.0,2022-01-15,0,Norwich,0,False
+Fabian Delph,MID,Everton,0,0,0,0.0,2022-01-22,0,Aston Villa,0,True
+Fabian Delph,MID,Everton,0,0,0,0.0,2022-02-08,0,Newcastle United,0,False
+Fabian Delph,MID,Everton,0,0,0,0.0,2022-02-12,0,Leicester City,0,True
+Fabian Delph,MID,Everton,0,0,0,0.0,2022-02-19,0,Southampton,0,False
+Fabian Delph,MID,Everton,0,0,0,0.0,2022-02-26,0,Manchester City,0,True
+Fabian Delph,MID,Everton,0,0,0,0.0,2022-03-07,0,Tottenham,0,False
+Fabian Delph,MID,Everton,0,0,0,0.0,2022-03-13,0,Wolverhampton,0,True
+Fabian Delph,MID,Everton,0,0,0,0.0,2022-03-17,0,Newcastle United,0,True
+Fabian Delph,MID,Everton,0,0,0,0.0,2021-08-28,0,Brighton,0,False
+Fabian Delph,MID,Everton,0,0,0,0.0,2022-04-03,0,West Ham,0,False
+Fabian Delph,MID,Everton,0,0,0,0.0,2022-04-06,0,Burnley,0,False
+Fabian Delph,MID,Everton,0,1,0,1.9,2022-04-09,83,Manchester United,3,True
+Fabian Delph,MID,Everton,0,0,1,4.7,2022-04-20,90,Leeds United,2,True
+Fabian Delph,MID,Everton,0,0,0,0.0,2022-04-24,0,Liverpool,0,False
+Fabian Delph,MID,Everton,0,1,0,0.1,2022-05-01,70,Chelsea,2,True
+Fabian Delph,MID,Everton,0,0,1,2.3,2022-05-08,90,Leeds United,2,False
+Fabian Delph,MID,Everton,0,1,0,3.4,2022-05-11,80,Watford,3,False
+Fabian Delph,MID,Everton,0,0,0,0.0,2022-05-15,0,Brentford,0,True
+Fabian Delph,MID,Everton,0,0,0,0.0,2022-05-19,0,Crystal Palace,0,True
+Fabian Delph,MID,Everton,0,0,0,0.0,2022-05-22,0,Arsenal,0,False
+Fabian Delph,MID,Everton,0,0,0,0.0,2021-09-13,0,Burnley,0,True
+Fabian Delph,MID,Everton,0,0,0,0.0,2021-09-18,0,Aston Villa,0,False
+Fabian Delph,MID,Everton,0,0,0,0.0,2021-09-25,0,Norwich,0,True
+Fabian Delph,MID,Everton,0,0,0,0.0,2021-10-02,0,Manchester United,0,False
+Fabian Delph,MID,Everton,0,0,0,0.0,2021-10-17,0,West Ham,0,True
+Fabian Delph,MID,Everton,0,0,0,0.0,2021-10-23,0,Watford,0,True

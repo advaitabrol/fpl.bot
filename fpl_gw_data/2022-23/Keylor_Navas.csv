@@ -1,19 +1,19 @@
-name,position,team,xP,assists,bonus,clean_sheets,expected_assists,expected_goals_conceded,fixture,goals_conceded,minutes,opponent_team,own_goals,penalties_saved,red_cards,saves,starts,total_points,was_home,yellow_cards
-Keylor Navas,GK,Nott'm Forest,1.9,0,2,1,0.0,0.79,218,0,90,Leicester City,0,0,0,4,1,9,True,0
-Keylor Navas,GK,Nott'm Forest,5.0,0,0,0,0.0,1.62,224,2,90,Fulham,0,0,0,1,1,1,False,0
-Keylor Navas,GK,Nott'm Forest,3.7,0,1,0,0.0,2.54,238,1,90,Manchester City,0,0,0,5,1,4,True,0
-Keylor Navas,GK,Nott'm Forest,3.5,0,0,0,0.0,2.73,250,4,90,West Ham,0,0,0,1,1,0,False,0
-Keylor Navas,GK,Nott'm Forest,3.0,0,0,0,0.0,1.7,258,2,90,Everton,0,0,0,1,1,1,True,0
-Keylor Navas,GK,Nott'm Forest,1.8,0,0,0,0.0,2.05,269,3,90,Tottenham,0,0,0,4,1,2,False,0
-Keylor Navas,GK,Nott'm Forest,0.3,0,0,0,0.0,2.42,278,2,90,Newcastle United,0,0,0,2,1,0,True,1
-Keylor Navas,GK,Nott'm Forest,3.0,0,0,0,0.0,0.47,289,1,90,Wolverhampton,0,0,0,0,1,2,True,0
-Keylor Navas,GK,Nott'm Forest,3.0,0,0,0,0.01,1.94,65,2,90,Leicester City,0,0,0,4,1,2,False,0
-Keylor Navas,GK,Nott'm Forest,1.2,0,0,0,0.0,1.37,291,2,90,Aston Villa,0,0,0,1,1,1,False,0
-Keylor Navas,GK,Nott'm Forest,1.8,0,0,0,0.0,3.49,306,2,90,Manchester United,0,0,0,5,1,2,True,0
-Keylor Navas,GK,Nott'm Forest,1.1,0,0,0,0.0,2.87,318,3,90,Liverpool,0,0,0,2,1,1,False,0
-Keylor Navas,GK,Nott'm Forest,1.8,0,0,0,0.0,2.37,324,1,90,Brighton,0,0,0,6,1,3,True,1
-Keylor Navas,GK,Nott'm Forest,2.0,0,0,0,0.0,1.63,333,2,90,Brentford,0,0,0,6,1,3,False,0
-Keylor Navas,GK,Nott'm Forest,2.5,0,0,0,0.0,3.23,347,3,90,Southampton,0,0,0,2,1,1,True,0
-Keylor Navas,GK,Nott'm Forest,0.0,0,0,0,0.0,1.14,354,2,90,Chelsea,0,0,0,4,1,2,False,0
-Keylor Navas,GK,Nott'm Forest,3.3,0,2,1,0.0,0.64,367,0,90,Arsenal,0,0,0,3,1,9,True,0
-Keylor Navas,GK,Nott'm Forest,0.0,0,0,0,0.0,0.0,375,0,0,Crystal Palace,0,0,0,0,0,0,False,0
+name,position,team,bonus,clean_sheets,expected_goals_conceded,goals_conceded,kickoff_time,minutes,opponent_team,own_goals,penalties_saved,saves,starts,total_points,was_home
+Keylor Navas,GK,Nott'm Forest,2,1,0.79,0,2023-02-05,90,Leicester City,0,0,4,1,9,True
+Keylor Navas,GK,Nott'm Forest,0,0,1.62,2,2023-02-11,90,Fulham,0,0,1,1,1,False
+Keylor Navas,GK,Nott'm Forest,1,0,2.54,1,2023-02-18,90,Manchester City,0,0,5,1,4,True
+Keylor Navas,GK,Nott'm Forest,0,0,2.73,4,2023-02-25,90,West Ham,0,0,1,1,0,False
+Keylor Navas,GK,Nott'm Forest,0,0,1.7,2,2023-03-05,90,Everton,0,0,1,1,1,True
+Keylor Navas,GK,Nott'm Forest,0,0,2.05,3,2023-03-11,90,Tottenham,0,0,4,1,2,False
+Keylor Navas,GK,Nott'm Forest,0,0,2.42,2,2023-03-17,90,Newcastle United,0,0,2,1,0,True
+Keylor Navas,GK,Nott'm Forest,0,0,0.47,1,2023-04-01,90,Wolverhampton,0,0,0,1,2,True
+Keylor Navas,GK,Nott'm Forest,0,0,1.94,2,2023-04-04,90,Leicester City,0,0,4,1,2,False
+Keylor Navas,GK,Nott'm Forest,0,0,1.37,2,2023-04-08,90,Aston Villa,0,0,1,1,1,False
+Keylor Navas,GK,Nott'm Forest,0,0,3.49,2,2023-04-16,90,Manchester United,0,0,5,1,2,True
+Keylor Navas,GK,Nott'm Forest,0,0,2.87,3,2023-04-22,90,Liverpool,0,0,2,1,1,False
+Keylor Navas,GK,Nott'm Forest,0,0,2.37,1,2023-04-26,90,Brighton,0,0,6,1,3,True
+Keylor Navas,GK,Nott'm Forest,0,0,1.63,2,2023-04-29,90,Brentford,0,0,6,1,3,False
+Keylor Navas,GK,Nott'm Forest,0,0,3.23,3,2023-05-08,90,Southampton,0,0,2,1,1,True
+Keylor Navas,GK,Nott'm Forest,0,0,1.14,2,2023-05-13,90,Chelsea,0,0,4,1,2,False
+Keylor Navas,GK,Nott'm Forest,2,1,0.64,0,2023-05-20,90,Arsenal,0,0,3,1,9,True
+Keylor Navas,GK,Nott'm Forest,0,0,0.0,0,2023-05-28,0,Crystal Palace,0,0,0,0,0,False

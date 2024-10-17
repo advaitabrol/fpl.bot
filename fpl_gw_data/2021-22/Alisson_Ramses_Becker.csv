@@ -1,39 +1,39 @@
-name,position,team,xP,assists,bonus,clean_sheets,fixture,goals_conceded,minutes,opponent_team,own_goals,penalties_saved,red_cards,saves,total_points,was_home,yellow_cards
-Alisson Ramses Becker,GK,Liverpool,5.0,0,0,1,7,0,90,Norwich,0,0,0,3,7,False,0
-Alisson Ramses Becker,GK,Liverpool,3.5,0,0,0,94,2,90,Brighton,0,0,0,4,2,True,0
-Alisson Ramses Becker,GK,Liverpool,2.5,0,0,0,110,3,90,West Ham,1,0,0,1,-1,False,0
-Alisson Ramses Becker,GK,Liverpool,4.5,0,1,1,114,0,90,Arsenal,0,0,0,3,8,True,0
-Alisson Ramses Becker,GK,Liverpool,5.0,0,0,1,128,0,90,Southampton,0,0,0,3,7,True,0
-Alisson Ramses Becker,GK,Liverpool,5.0,0,0,0,132,1,90,Everton,0,0,0,1,2,False,0
-Alisson Ramses Becker,GK,Liverpool,6.8,0,0,1,150,0,90,Wolverhampton,0,0,0,1,6,False,0
-Alisson Ramses Becker,GK,Liverpool,6.8,0,0,1,158,0,90,Aston Villa,0,0,0,0,6,True,0
-Alisson Ramses Becker,GK,Liverpool,6.7,0,0,0,169,1,90,Newcastle United,0,0,0,1,2,True,0
-Alisson Ramses Becker,GK,Liverpool,5.2,0,0,0,177,2,90,Tottenham,0,0,0,3,2,False,0
-Alisson Ramses Becker,GK,Liverpool,8.5,0,1,1,15,0,90,Burnley,0,0,0,3,8,True,0
-Alisson Ramses Becker,GK,Liverpool,4.3,0,0,0,197,1,90,Leeds United,0,0,0,0,2,False,0
-Alisson Ramses Becker,GK,Liverpool,1.5,0,0,0,203,0,0,Chelsea,0,0,0,0,0,False,0
-Alisson Ramses Becker,GK,Liverpool,3.7,0,0,1,214,0,90,Brentford,0,0,0,1,6,True,0
-Alisson Ramses Becker,GK,Liverpool,5.5,0,0,0,224,1,90,Crystal Palace,0,0,0,4,3,False,0
-Alisson Ramses Becker,GK,Liverpool,6.0,0,0,1,237,0,90,Leeds United,0,0,0,1,6,True,0
-Alisson Ramses Becker,GK,Liverpool,7.8,0,3,1,242,0,90,Burnley,0,0,0,5,10,False,0
-Alisson Ramses Becker,GK,Liverpool,16.1,1,0,0,256,1,90,Norwich,0,0,0,0,5,True,0
-Alisson Ramses Becker,GK,Liverpool,16.1,0,0,1,184,0,90,Leicester City,0,0,0,2,6,True,0
-Alisson Ramses Becker,GK,Liverpool,7.7,0,2,1,274,0,90,West Ham,0,0,0,4,9,True,0
-Alisson Ramses Becker,GK,Liverpool,15.5,0,2,1,283,0,90,Brighton,0,0,0,3,9,False,0
-Alisson Ramses Becker,GK,Liverpool,15.5,0,0,1,261,0,90,Arsenal,0,0,0,2,6,False,0
-Alisson Ramses Becker,GK,Liverpool,5.7,0,0,0,23,1,90,Chelsea,0,0,0,2,2,True,0
-Alisson Ramses Becker,GK,Liverpool,8.5,0,0,1,306,0,90,Watford,0,0,0,2,6,True,0
-Alisson Ramses Becker,GK,Liverpool,4.3,0,0,0,316,2,90,Manchester City,0,0,0,2,1,False,0
-Alisson Ramses Becker,GK,Liverpool,4.8,0,0,1,294,0,90,Manchester United,0,0,0,1,6,True,0
-Alisson Ramses Becker,GK,Liverpool,6.3,0,0,1,338,0,90,Everton,0,0,0,1,6,True,0
-Alisson Ramses Becker,GK,Liverpool,6.5,0,3,1,345,0,90,Newcastle United,0,0,0,2,9,False,0
-Alisson Ramses Becker,GK,Liverpool,11.9,0,0,0,358,1,90,Tottenham,0,0,0,2,2,True,0
-Alisson Ramses Becker,GK,Liverpool,11.9,0,0,0,321,1,90,Aston Villa,0,0,0,3,3,False,0
-Alisson Ramses Becker,GKP,Liverpool,5.4,0,0,0,366,1,90,Southampton,0,0,0,1,2,False,0
-Alisson Ramses Becker,GK,Liverpool,5.2,0,0,0,378,1,90,Wolverhampton,0,0,0,4,3,True,0
-Alisson Ramses Becker,GK,Liverpool,6.8,0,2,1,36,0,90,Leicester City,0,0,0,4,9,False,0
-Alisson Ramses Becker,GK,Liverpool,7.0,0,1,1,44,0,90,Crystal Palace,0,0,0,2,7,True,0
-Alisson Ramses Becker,GK,Liverpool,6.7,0,0,0,52,3,90,Brentford,0,0,0,0,1,False,0
-Alisson Ramses Becker,GK,Liverpool,4.5,0,0,0,66,2,90,Manchester City,0,0,0,1,1,True,0
-Alisson Ramses Becker,GK,Liverpool,0.0,0,0,0,80,0,0,Watford,0,0,0,0,0,False,0
-Alisson Ramses Becker,GK,Liverpool,2.7,0,0,1,88,0,90,Manchester United,0,0,0,3,7,False,0
+name,position,team,bonus,clean_sheets,goals_conceded,kickoff_time,minutes,opponent_team,own_goals,penalties_saved,saves,total_points,was_home
+Alisson Ramses Becker,GK,Liverpool,0,1,0,2021-08-14,90,Norwich,0,0,3,7,False
+Alisson Ramses Becker,GK,Liverpool,0,0,2,2021-10-30,90,Brighton,0,0,4,2,True
+Alisson Ramses Becker,GK,Liverpool,0,0,3,2021-11-07,90,West Ham,1,0,1,-1,False
+Alisson Ramses Becker,GK,Liverpool,1,1,0,2021-11-20,90,Arsenal,0,0,3,8,True
+Alisson Ramses Becker,GK,Liverpool,0,1,0,2021-11-27,90,Southampton,0,0,3,7,True
+Alisson Ramses Becker,GK,Liverpool,0,0,1,2021-12-01,90,Everton,0,0,1,2,False
+Alisson Ramses Becker,GK,Liverpool,0,1,0,2021-12-04,90,Wolverhampton,0,0,1,6,False
+Alisson Ramses Becker,GK,Liverpool,0,1,0,2021-12-11,90,Aston Villa,0,0,0,6,True
+Alisson Ramses Becker,GK,Liverpool,0,0,1,2021-12-16,90,Newcastle United,0,0,1,2,True
+Alisson Ramses Becker,GK,Liverpool,0,0,2,2021-12-19,90,Tottenham,0,0,3,2,False
+Alisson Ramses Becker,GK,Liverpool,1,1,0,2021-08-21,90,Burnley,0,0,3,8,True
+Alisson Ramses Becker,GK,Liverpool,0,0,1,2021-12-28,90,Leeds United,0,0,0,2,False
+Alisson Ramses Becker,GK,Liverpool,0,0,0,2022-01-02,0,Chelsea,0,0,0,0,False
+Alisson Ramses Becker,GK,Liverpool,0,1,0,2022-01-16,90,Brentford,0,0,1,6,True
+Alisson Ramses Becker,GK,Liverpool,0,0,1,2022-01-23,90,Crystal Palace,0,0,4,3,False
+Alisson Ramses Becker,GK,Liverpool,0,1,0,2022-02-10,90,Leeds United,0,0,1,6,True
+Alisson Ramses Becker,GK,Liverpool,3,1,0,2022-02-13,90,Burnley,0,0,5,10,False
+Alisson Ramses Becker,GK,Liverpool,0,0,1,2022-02-19,90,Norwich,0,0,0,5,True
+Alisson Ramses Becker,GK,Liverpool,0,1,0,2022-02-23,90,Leicester City,0,0,2,6,True
+Alisson Ramses Becker,GK,Liverpool,2,1,0,2022-03-05,90,West Ham,0,0,4,9,True
+Alisson Ramses Becker,GK,Liverpool,2,1,0,2022-03-12,90,Brighton,0,0,3,9,False
+Alisson Ramses Becker,GK,Liverpool,0,1,0,2022-03-16,90,Arsenal,0,0,2,6,False
+Alisson Ramses Becker,GK,Liverpool,0,0,1,2021-08-28,90,Chelsea,0,0,2,2,True
+Alisson Ramses Becker,GK,Liverpool,0,1,0,2022-04-02,90,Watford,0,0,2,6,True
+Alisson Ramses Becker,GK,Liverpool,0,0,2,2022-04-10,90,Manchester City,0,0,2,1,False
+Alisson Ramses Becker,GK,Liverpool,0,1,0,2022-04-19,90,Manchester United,0,0,1,6,True
+Alisson Ramses Becker,GK,Liverpool,0,1,0,2022-04-24,90,Everton,0,0,1,6,True
+Alisson Ramses Becker,GK,Liverpool,3,1,0,2022-04-30,90,Newcastle United,0,0,2,9,False
+Alisson Ramses Becker,GK,Liverpool,0,0,1,2022-05-07,90,Tottenham,0,0,2,2,True
+Alisson Ramses Becker,GK,Liverpool,0,0,1,2022-05-10,90,Aston Villa,0,0,3,3,False
+Alisson Ramses Becker,GKP,Liverpool,0,0,1,2022-05-17,90,Southampton,0,0,1,2,False
+Alisson Ramses Becker,GK,Liverpool,0,0,1,2022-05-22,90,Wolverhampton,0,0,4,3,True
+Alisson Ramses Becker,GK,Liverpool,2,1,0,2021-09-12,90,Leicester City,0,0,4,9,False
+Alisson Ramses Becker,GK,Liverpool,1,1,0,2021-09-18,90,Crystal Palace,0,0,2,7,True
+Alisson Ramses Becker,GK,Liverpool,0,0,3,2021-09-25,90,Brentford,0,0,0,1,False
+Alisson Ramses Becker,GK,Liverpool,0,0,2,2021-10-03,90,Manchester City,0,0,1,1,True
+Alisson Ramses Becker,GK,Liverpool,0,0,0,2021-10-16,0,Watford,0,0,0,0,False
+Alisson Ramses Becker,GK,Liverpool,0,1,0,2021-10-24,90,Manchester United,0,0,3,7,False

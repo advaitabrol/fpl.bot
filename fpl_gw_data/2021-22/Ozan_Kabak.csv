@@ -1,36 +1,36 @@
-name,position,team,xP,assists,bonus,clean_sheets,fixture,goals_conceded,goals_scored,ict_index,minutes,opponent_team,own_goals,penalties_missed,red_cards,total_points,was_home,yellow_cards
-Ozan Kabak,DEF,Norwich,1.2,0,0,0,97,2,0,1.6,90,Leicester City,0,0,0,1,True,0
-Ozan Kabak,DEF,Norwich,0.5,0,0,0,102,0,0,0.0,0,Brentford,0,0,0,0,False,0
-Ozan Kabak,DEF,Norwich,-0.5,0,0,0,117,0,0,0.0,0,Southampton,0,0,0,0,True,0
-Ozan Kabak,DEF,Norwich,-0.3,0,0,0,130,0,0,0.0,0,Wolverhampton,0,0,0,0,True,0
-Ozan Kabak,DEF,Norwich,0.0,0,0,0,138,0,0,0.0,0,Newcastle United,0,0,0,0,False,0
-Ozan Kabak,DEF,Norwich,-1.0,0,0,0,147,0,0,0.0,0,Tottenham,0,0,0,0,False,0
-Ozan Kabak,DEF,Norwich,-0.6,0,0,0,160,1,0,7.5,90,Manchester United,0,0,0,2,True,0
-Ozan Kabak,DEF,Norwich,0.0,0,0,0,167,1,0,1.8,45,Aston Villa,0,0,0,1,True,0
-Ozan Kabak,DEF,Norwich,-0.4,0,0,0,187,5,0,1.2,90,Arsenal,0,0,0,0,True,0
-Ozan Kabak,DEF,Norwich,0.1,0,0,0,194,0,0,0.0,0,Crystal Palace,0,0,0,0,False,0
-Ozan Kabak,DEF,Norwich,-0.8,0,0,0,179,0,0,0.0,0,West Ham,0,0,0,0,False,0
-Ozan Kabak,DEF,Norwich,-0.5,0,0,0,217,0,0,0.0,0,Everton,0,0,0,0,True,0
-Ozan Kabak,DEF,Norwich,0.0,0,0,0,230,0,0,0.0,0,Watford,0,0,0,0,False,0
-Ozan Kabak,DEF,Norwich,0.0,0,0,0,234,0,0,0.0,0,Crystal Palace,0,0,0,0,True,0
-Ozan Kabak,DEF,Norwich,0.0,0,0,0,248,0,0,0.0,0,Manchester City,0,0,0,0,True,0
-Ozan Kabak,DEF,Norwich,-1.5,0,0,0,256,0,0,0.0,0,Liverpool,0,0,0,0,False,0
-Ozan Kabak,DEF,Norwich,-0.5,0,0,0,269,0,0,0.0,0,Southampton,0,0,0,0,False,0
-Ozan Kabak,DEF,Norwich,-1.1,0,0,0,277,0,0,0.0,0,Brentford,0,0,0,0,True,0
-Ozan Kabak,DEF,Norwich,-1.1,0,0,0,297,3,0,2.8,90,Chelsea,0,0,0,1,True,0
-Ozan Kabak,DEF,Norwich,-0.1,0,0,0,287,2,0,1.0,90,Leicester City,0,0,0,1,False,0
-Ozan Kabak,DEF,Norwich,0.0,0,0,0,301,0,0,0.0,0,Brighton,0,0,0,0,False,0
-Ozan Kabak,DEF,Norwich,0.0,0,0,0,318,0,0,0.0,0,Burnley,0,0,0,0,True,0
-Ozan Kabak,DEF,Norwich,0.0,0,0,0,324,0,0,0.0,0,Manchester United,0,0,0,0,False,0
-Ozan Kabak,DEF,Norwich,0.0,0,0,0,340,0,0,0.0,0,Newcastle United,0,0,0,0,True,0
-Ozan Kabak,DEF,Norwich,0.0,0,0,0,341,0,0,0.0,0,Aston Villa,0,0,0,0,False,0
-Ozan Kabak,DEF,Norwich,0.0,0,0,0,360,0,0,0.0,0,West Ham,0,0,0,0,True,0
-Ozan Kabak,DEF,Norwich,0.0,0,0,0,207,0,0,0.0,0,Leeds United,0,0,0,0,False,0
-Ozan Kabak,DEF,Norwich,0.0,0,0,0,370,0,0,0.0,0,Wolverhampton,0,0,0,0,False,0
-Ozan Kabak,DEF,Norwich,0.0,0,0,0,380,0,0,0.0,0,Tottenham,0,0,0,0,True,0
-Ozan Kabak,DEF,Norwich,0.8,0,0,0,31,0,0,0.0,0,Arsenal,0,0,0,0,False,0
-Ozan Kabak,DEF,Norwich,0.5,0,0,0,47,3,0,1.8,90,Watford,0,0,0,1,True,0
-Ozan Kabak,DEF,Norwich,-0.3,0,0,0,55,1,0,2.4,68,Everton,0,0,0,1,False,1
-Ozan Kabak,DEF,Norwich,2.0,0,0,1,62,0,0,1.9,90,Burnley,0,0,0,6,False,0
-Ozan Kabak,DEF,Norwich,3.5,0,0,1,78,0,0,1.9,90,Brighton,0,0,0,5,True,1
-Ozan Kabak,DEF,Norwich,1.3,0,0,0,84,7,0,1.7,90,Chelsea,0,0,0,-1,False,0
+name,position,team,bonus,clean_sheets,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,own_goals,total_points,was_home
+Ozan Kabak,DEF,Norwich,0,0,2,1.6,2021-10-31,90,Leicester City,0,1,True
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2021-11-06,0,Brentford,0,0,False
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2021-11-20,0,Southampton,0,0,True
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2021-11-27,0,Wolverhampton,0,0,True
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2021-11-30,0,Newcastle United,0,0,False
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2021-12-05,0,Tottenham,0,0,False
+Ozan Kabak,DEF,Norwich,0,0,1,7.5,2021-12-11,90,Manchester United,0,2,True
+Ozan Kabak,DEF,Norwich,0,0,1,1.8,2021-12-14,45,Aston Villa,0,1,True
+Ozan Kabak,DEF,Norwich,0,0,5,1.2,2021-12-26,90,Arsenal,0,0,True
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2021-12-28,0,Crystal Palace,0,0,False
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2022-01-12,0,West Ham,0,0,False
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2022-01-15,0,Everton,0,0,True
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2022-01-21,0,Watford,0,0,False
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2022-02-09,0,Crystal Palace,0,0,True
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2022-02-12,0,Manchester City,0,0,True
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2022-02-19,0,Liverpool,0,0,False
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2022-02-25,0,Southampton,0,0,False
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2022-03-05,0,Brentford,0,0,True
+Ozan Kabak,DEF,Norwich,0,0,3,2.8,2022-03-10,90,Chelsea,0,1,True
+Ozan Kabak,DEF,Norwich,0,0,2,1.0,2022-03-13,90,Leicester City,0,1,False
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2022-04-02,0,Brighton,0,0,False
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2022-04-10,0,Burnley,0,0,True
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2022-04-16,0,Manchester United,0,0,False
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2022-04-23,0,Newcastle United,0,0,True
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2022-04-30,0,Aston Villa,0,0,False
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2022-05-08,0,West Ham,0,0,True
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2022-05-11,0,Leeds United,0,0,False
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2022-05-15,0,Wolverhampton,0,0,False
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2022-05-22,0,Tottenham,0,0,True
+Ozan Kabak,DEF,Norwich,0,0,0,0.0,2021-09-11,0,Arsenal,0,0,False
+Ozan Kabak,DEF,Norwich,0,0,3,1.8,2021-09-18,90,Watford,0,1,True
+Ozan Kabak,DEF,Norwich,0,0,1,2.4,2021-09-25,68,Everton,0,1,False
+Ozan Kabak,DEF,Norwich,0,1,0,1.9,2021-10-02,90,Burnley,0,6,False
+Ozan Kabak,DEF,Norwich,0,1,0,1.9,2021-10-16,90,Brighton,0,5,True
+Ozan Kabak,DEF,Norwich,0,0,7,1.7,2021-10-23,90,Chelsea,0,-1,False

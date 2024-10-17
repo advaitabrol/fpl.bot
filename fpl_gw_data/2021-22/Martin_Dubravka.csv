@@ -1,39 +1,39 @@
-name,position,team,xP,assists,bonus,clean_sheets,fixture,goals_conceded,minutes,opponent_team,own_goals,penalties_saved,red_cards,saves,total_points,was_home,yellow_cards
-Martin Dubravka,GK,Newcastle,0.0,0,0,0,9,0,0,West Ham,0,0,0,0,0,True,0
-Martin Dubravka,GK,Newcastle,-1.5,0,0,0,96,0,0,Chelsea,0,0,0,0,0,True,0
-Martin Dubravka,GK,Newcastle,-0.5,0,0,0,103,0,0,Brighton,0,0,0,0,0,False,0
-Martin Dubravka,GK,Newcastle,-0.5,0,0,0,116,0,0,Brentford,0,0,0,0,0,True,0
-Martin Dubravka,GK,Newcastle,-0.5,0,0,0,121,2,90,Arsenal,0,0,0,4,2,False,0
-Martin Dubravka,GK,Newcastle,1.2,0,0,0,138,1,90,Norwich,0,0,0,5,3,True,0
-Martin Dubravka,GK,Newcastle,2.8,0,0,1,145,0,90,Burnley,0,0,0,1,6,True,0
-Martin Dubravka,GK,Newcastle,1.7,0,0,0,157,4,90,Leeds United,0,0,0,1,0,False,0
-Martin Dubravka,GK,Newcastle,0.8,0,0,0,169,3,90,Liverpool,0,0,0,6,3,False,0
-Martin Dubravka,GK,Newcastle,0.6,0,0,0,175,4,90,Manchester City,0,0,0,3,1,True,0
-Martin Dubravka,GK,Newcastle,1.5,0,0,0,186,1,90,Manchester United,0,0,0,2,2,True,0
-Martin Dubravka,GK,Newcastle,0.0,0,0,0,11,0,0,Aston Villa,0,0,0,0,0,False,0
-Martin Dubravka,GK,Newcastle,1.9,0,0,0,216,1,90,Watford,0,0,0,4,3,True,0
-Martin Dubravka,GK,Newcastle,5.5,0,2,1,226,0,90,Leicester City,0,0,0,4,9,False,0
-Martin Dubravka,GK,Newcastle,4.2,0,0,0,239,1,90,Everton,0,0,0,2,2,True,0
-Martin Dubravka,GK,Newcastle,6.7,0,3,1,247,0,90,Aston Villa,0,0,0,1,9,True,0
-Martin Dubravka,GK,Newcastle,3.8,0,0,0,259,1,90,West Ham,0,0,0,2,2,False,0
-Martin Dubravka,GK,Newcastle,5.0,0,0,1,262,0,90,Brentford,0,0,0,1,5,False,1
-Martin Dubravka,GK,Newcastle,8.8,0,0,0,276,1,90,Brighton,0,0,0,3,3,True,0
-Martin Dubravka,GK,Newcastle,8.8,0,0,0,209,1,90,Southampton,0,0,0,4,3,False,0
-Martin Dubravka,GK,Newcastle,4.6,0,0,0,284,1,90,Chelsea,0,0,0,2,2,False,0
-Martin Dubravka,GK,Newcastle,4.6,0,0,0,195,1,90,Everton,0,0,0,2,2,False,0
-Martin Dubravka,GK,Newcastle,0.0,0,0,0,25,0,0,Southampton,0,0,0,0,0,True,0
-Martin Dubravka,GK,Newcastle,1.0,0,0,0,308,5,90,Tottenham,0,0,0,1,0,False,0
-Martin Dubravka,GK,Newcastle,2.8,0,1,1,317,0,90,Wolverhampton,0,0,0,2,7,True,0
-Martin Dubravka,GK,Newcastle,7.6,0,0,0,325,1,90,Leeds United,0,0,0,1,2,True,0
-Martin Dubravka,GK,Newcastle,7.6,0,0,1,296,0,90,Crystal Palace,0,0,0,2,6,True,0
-Martin Dubravka,GK,Newcastle,4.7,0,0,1,340,0,90,Norwich,0,0,0,2,6,False,0
-Martin Dubravka,GK,Newcastle,3.7,0,2,0,345,1,90,Liverpool,0,0,0,9,7,True,0
-Martin Dubravka,GK,Newcastle,3.4,0,0,0,359,5,90,Manchester City,0,0,0,4,1,False,0
-Martin Dubravka,GKP,Newcastle,4.9,0,1,1,365,0,90,Arsenal,0,0,0,2,7,True,0
-Martin Dubravka,GK,Newcastle,5.3,0,0,0,374,1,90,Burnley,0,0,0,3,3,False,0
-Martin Dubravka,GK,Newcastle,0.0,0,0,0,38,0,0,Manchester United,0,0,0,0,0,False,0
-Martin Dubravka,GK,Newcastle,0.0,0,0,0,46,0,0,Leicester City,0,0,0,0,0,True,0
-Martin Dubravka,GK,Newcastle,0.0,0,0,0,60,0,0,Watford,0,0,0,0,0,False,0
-Martin Dubravka,GK,Newcastle,0.0,0,0,0,70,0,0,Wolverhampton,0,0,0,0,0,False,0
-Martin Dubravka,GK,Newcastle,0.0,0,0,0,77,0,0,Tottenham,0,0,0,0,0,True,0
-Martin Dubravka,GK,Newcastle,0.0,0,0,0,85,0,0,Crystal Palace,0,0,0,0,0,False,0
+name,position,team,bonus,clean_sheets,goals_conceded,kickoff_time,minutes,opponent_team,own_goals,penalties_saved,saves,total_points,was_home
+Martin Dubravka,GK,Newcastle,0,0,0,2021-08-15,0,West Ham,0,0,0,0,True
+Martin Dubravka,GK,Newcastle,0,0,0,2021-10-30,0,Chelsea,0,0,0,0,True
+Martin Dubravka,GK,Newcastle,0,0,0,2021-11-06,0,Brighton,0,0,0,0,False
+Martin Dubravka,GK,Newcastle,0,0,0,2021-11-20,0,Brentford,0,0,0,0,True
+Martin Dubravka,GK,Newcastle,0,0,2,2021-11-27,90,Arsenal,0,0,4,2,False
+Martin Dubravka,GK,Newcastle,0,0,1,2021-11-30,90,Norwich,0,0,5,3,True
+Martin Dubravka,GK,Newcastle,0,1,0,2021-12-04,90,Burnley,0,0,1,6,True
+Martin Dubravka,GK,Newcastle,0,0,4,2021-12-12,90,Leeds United,0,0,1,0,False
+Martin Dubravka,GK,Newcastle,0,0,3,2021-12-16,90,Liverpool,0,0,6,3,False
+Martin Dubravka,GK,Newcastle,0,0,4,2021-12-19,90,Manchester City,0,0,3,1,True
+Martin Dubravka,GK,Newcastle,0,0,1,2021-12-27,90,Manchester United,0,0,2,2,True
+Martin Dubravka,GK,Newcastle,0,0,0,2021-08-21,0,Aston Villa,0,0,0,0,False
+Martin Dubravka,GK,Newcastle,0,0,1,2022-01-15,90,Watford,0,0,4,3,True
+Martin Dubravka,GK,Newcastle,2,1,0,2022-01-22,90,Leicester City,0,0,4,9,False
+Martin Dubravka,GK,Newcastle,0,0,1,2022-02-08,90,Everton,0,0,2,2,True
+Martin Dubravka,GK,Newcastle,3,1,0,2022-02-13,90,Aston Villa,0,0,1,9,True
+Martin Dubravka,GK,Newcastle,0,0,1,2022-02-19,90,West Ham,0,0,2,2,False
+Martin Dubravka,GK,Newcastle,0,1,0,2022-02-26,90,Brentford,0,0,1,5,False
+Martin Dubravka,GK,Newcastle,0,0,1,2022-03-05,90,Brighton,0,0,3,3,True
+Martin Dubravka,GK,Newcastle,0,0,1,2022-03-10,90,Southampton,0,0,4,3,False
+Martin Dubravka,GK,Newcastle,0,0,1,2022-03-13,90,Chelsea,0,0,2,2,False
+Martin Dubravka,GK,Newcastle,0,0,1,2022-03-17,90,Everton,0,0,2,2,False
+Martin Dubravka,GK,Newcastle,0,0,0,2021-08-28,0,Southampton,0,0,0,0,True
+Martin Dubravka,GK,Newcastle,0,0,5,2022-04-03,90,Tottenham,0,0,1,0,False
+Martin Dubravka,GK,Newcastle,1,1,0,2022-04-08,90,Wolverhampton,0,0,2,7,True
+Martin Dubravka,GK,Newcastle,0,0,1,2022-04-17,90,Leeds United,0,0,1,2,True
+Martin Dubravka,GK,Newcastle,0,1,0,2022-04-20,90,Crystal Palace,0,0,2,6,True
+Martin Dubravka,GK,Newcastle,0,1,0,2022-04-23,90,Norwich,0,0,2,6,False
+Martin Dubravka,GK,Newcastle,2,0,1,2022-04-30,90,Liverpool,0,0,9,7,True
+Martin Dubravka,GK,Newcastle,0,0,5,2022-05-08,90,Manchester City,0,0,4,1,False
+Martin Dubravka,GKP,Newcastle,1,1,0,2022-05-16,90,Arsenal,0,0,2,7,True
+Martin Dubravka,GK,Newcastle,0,0,1,2022-05-22,90,Burnley,0,0,3,3,False
+Martin Dubravka,GK,Newcastle,0,0,0,2021-09-11,0,Manchester United,0,0,0,0,False
+Martin Dubravka,GK,Newcastle,0,0,0,2021-09-17,0,Leicester City,0,0,0,0,True
+Martin Dubravka,GK,Newcastle,0,0,0,2021-09-25,0,Watford,0,0,0,0,False
+Martin Dubravka,GK,Newcastle,0,0,0,2021-10-02,0,Wolverhampton,0,0,0,0,False
+Martin Dubravka,GK,Newcastle,0,0,0,2021-10-17,0,Tottenham,0,0,0,0,True
+Martin Dubravka,GK,Newcastle,0,0,0,2021-10-23,0,Crystal Palace,0,0,0,0,False

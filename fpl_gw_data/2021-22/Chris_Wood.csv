@@ -1,37 +1,37 @@
-name,position,team,xP,assists,bonus,fixture,goals_scored,ict_index,minutes,opponent_team,penalties_missed,red_cards,total_points,was_home,yellow_cards
-Chris Wood,FWD,Burnley,1.7,0,0,2,0,4.1,90,Brighton,0,0,2,True,0
-Chris Wood,FWD,Burnley,2.8,0,0,92,1,11.3,90,Brentford,0,0,6,True,0
-Chris Wood,FWD,Burnley,1.5,0,0,104,0,1.0,60,Chelsea,0,0,2,False,0
-Chris Wood,FWD,Burnley,3.5,0,0,112,1,4.8,79,Crystal Palace,0,0,6,True,0
-Chris Wood,FWD,Burnley,2.5,0,0,137,0,1.7,58,Wolverhampton,0,0,1,False,0
-Chris Wood,FWD,Burnley,3.0,0,0,145,0,1.7,90,Newcastle United,0,0,2,False,0
-Chris Wood,FWD,Burnley,1.5,0,0,154,0,0.8,59,West Ham,0,0,1,True,0
-Chris Wood,FWD,Burnley,1.0,0,0,15,0,4.0,74,Liverpool,0,0,2,False,0
-Chris Wood,FWD,Burnley,0.5,0,0,198,0,5.8,90,Manchester United,0,0,2,False,0
-Chris Wood,FWD,Burnley,1.5,0,0,206,0,4.3,83,Leicester City,0,0,2,False,0
-Chris Wood,FWD,Newcastle,2.0,0,0,216,0,4.6,90,Watford,0,0,2,True,0
-Chris Wood,FWD,Newcastle,1.5,0,0,226,0,7.7,90,Leicester City,0,0,2,False,0
-Chris Wood,FWD,Newcastle,1.5,0,0,239,0,4.7,90,Everton,0,0,2,True,0
-Chris Wood,FWD,Newcastle,2.0,0,0,247,0,2.2,90,Aston Villa,0,0,2,True,0
-Chris Wood,FWD,Newcastle,1.5,0,0,259,0,3.6,90,West Ham,0,0,2,False,0
-Chris Wood,FWD,Newcastle,2.5,0,0,262,0,11.2,90,Brentford,0,0,2,False,0
-Chris Wood,FWD,Newcastle,6.4,0,0,276,0,2.8,90,Brighton,0,0,2,True,0
-Chris Wood,FWD,Newcastle,6.4,0,2,209,1,6.0,90,Southampton,0,0,8,False,0
-Chris Wood,FWD,Newcastle,5.0,0,0,284,0,0.7,90,Chelsea,0,0,2,False,0
-Chris Wood,FWD,Newcastle,5.0,0,0,195,0,4.3,90,Everton,0,0,2,False,0
-Chris Wood,FWD,Burnley,3.8,0,3,29,1,13.7,90,Leicester City,0,0,9,True,0
-Chris Wood,FWD,Newcastle,3.0,0,0,308,0,0.7,69,Tottenham,0,0,2,False,0
-Chris Wood,FWD,Newcastle,3.8,0,3,317,1,6.7,90,Wolverhampton,0,0,9,True,0
-Chris Wood,FWD,Newcastle,7.6,0,0,325,0,1.4,68,Leeds United,0,0,2,True,0
-Chris Wood,FWD,Newcastle,7.6,0,0,296,0,1.0,90,Crystal Palace,0,0,2,True,0
-Chris Wood,FWD,Newcastle,3.5,0,0,340,0,0.0,0,Norwich,0,0,0,False,0
-Chris Wood,FWD,Newcastle,1.7,0,0,345,0,0.0,23,Liverpool,0,0,1,True,0
-Chris Wood,FWD,Newcastle,0.4,0,0,359,0,2.1,67,Manchester City,0,0,2,False,0
-Chris Wood,FWD,Newcastle,0.5,0,0,365,0,0.0,0,Arsenal,0,0,0,True,0
-Chris Wood,FWD,Newcastle,1.0,0,0,374,0,0.0,18,Burnley,0,0,1,False,0
-Chris Wood,FWD,Burnley,3.8,0,0,35,0,5.3,85,Everton,0,0,2,False,0
-Chris Wood,FWD,Burnley,2.8,0,0,43,0,1.9,81,Arsenal,0,0,2,True,0
-Chris Wood,FWD,Burnley,3.3,0,0,57,0,2.9,90,Leeds United,0,0,2,False,0
-Chris Wood,FWD,Burnley,1.8,0,0,62,0,4.5,79,Norwich,0,0,1,True,1
-Chris Wood,FWD,Burnley,0.2,0,0,76,0,0.4,81,Manchester City,0,0,2,False,0
-Chris Wood,FWD,Burnley,1.3,0,0,89,0,2.2,90,Southampton,0,0,2,False,0
+name,position,team,bonus,ict_index,kickoff_time,minutes,opponent_team,total_points,was_home
+Chris Wood,FWD,Burnley,0,4.1,2021-08-14,90,Brighton,2,True
+Chris Wood,FWD,Burnley,0,11.3,2021-10-30,90,Brentford,6,True
+Chris Wood,FWD,Burnley,0,1.0,2021-11-06,60,Chelsea,2,False
+Chris Wood,FWD,Burnley,0,4.8,2021-11-20,79,Crystal Palace,6,True
+Chris Wood,FWD,Burnley,0,1.7,2021-12-01,58,Wolverhampton,1,False
+Chris Wood,FWD,Burnley,0,1.7,2021-12-04,90,Newcastle United,2,False
+Chris Wood,FWD,Burnley,0,0.8,2021-12-12,59,West Ham,1,True
+Chris Wood,FWD,Burnley,0,4.0,2021-08-21,74,Liverpool,2,False
+Chris Wood,FWD,Burnley,0,5.8,2021-12-30,90,Manchester United,2,False
+Chris Wood,FWD,Burnley,0,4.3,2022-01-02,83,Leicester City,2,False
+Chris Wood,FWD,Newcastle,0,4.6,2022-01-15,90,Watford,2,True
+Chris Wood,FWD,Newcastle,0,7.7,2022-01-22,90,Leicester City,2,False
+Chris Wood,FWD,Newcastle,0,4.7,2022-02-08,90,Everton,2,True
+Chris Wood,FWD,Newcastle,0,2.2,2022-02-13,90,Aston Villa,2,True
+Chris Wood,FWD,Newcastle,0,3.6,2022-02-19,90,West Ham,2,False
+Chris Wood,FWD,Newcastle,0,11.2,2022-02-26,90,Brentford,2,False
+Chris Wood,FWD,Newcastle,0,2.8,2022-03-05,90,Brighton,2,True
+Chris Wood,FWD,Newcastle,2,6.0,2022-03-10,90,Southampton,8,False
+Chris Wood,FWD,Newcastle,0,0.7,2022-03-13,90,Chelsea,2,False
+Chris Wood,FWD,Newcastle,0,4.3,2022-03-17,90,Everton,2,False
+Chris Wood,FWD,Burnley,3,13.7,2021-08-29,90,Leicester City,9,True
+Chris Wood,FWD,Newcastle,0,0.7,2022-04-03,69,Tottenham,2,False
+Chris Wood,FWD,Newcastle,3,6.7,2022-04-08,90,Wolverhampton,9,True
+Chris Wood,FWD,Newcastle,0,1.4,2022-04-17,68,Leeds United,2,True
+Chris Wood,FWD,Newcastle,0,1.0,2022-04-20,90,Crystal Palace,2,True
+Chris Wood,FWD,Newcastle,0,0.0,2022-04-23,0,Norwich,0,False
+Chris Wood,FWD,Newcastle,0,0.0,2022-04-30,23,Liverpool,1,True
+Chris Wood,FWD,Newcastle,0,2.1,2022-05-08,67,Manchester City,2,False
+Chris Wood,FWD,Newcastle,0,0.0,2022-05-16,0,Arsenal,0,True
+Chris Wood,FWD,Newcastle,0,0.0,2022-05-22,18,Burnley,1,False
+Chris Wood,FWD,Burnley,0,5.3,2021-09-13,85,Everton,2,False
+Chris Wood,FWD,Burnley,0,1.9,2021-09-18,81,Arsenal,2,True
+Chris Wood,FWD,Burnley,0,2.9,2021-09-25,90,Leeds United,2,False
+Chris Wood,FWD,Burnley,0,4.5,2021-10-02,79,Norwich,1,True
+Chris Wood,FWD,Burnley,0,0.4,2021-10-16,81,Manchester City,2,False
+Chris Wood,FWD,Burnley,0,2.2,2021-10-23,90,Southampton,2,False

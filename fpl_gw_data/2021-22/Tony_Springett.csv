@@ -1,10 +1,10 @@
-name,position,team,xP,assists,bonus,clean_sheets,fixture,goals_conceded,goals_scored,ict_index,minutes,opponent_team,penalties_missed,red_cards,total_points,was_home,yellow_cards
-Tony Springett,MID,Norwich,0.8,0,0,0,301,0,0,0.0,0,Brighton,0,0,0,False,0
-Tony Springett,MID,Norwich,0.0,0,0,0,318,0,0,0.0,0,Burnley,0,0,0,True,0
-Tony Springett,MID,Norwich,-1.0,0,0,0,324,0,0,0.0,0,Manchester United,0,0,0,False,0
-Tony Springett,MID,Norwich,-0.5,0,0,0,340,0,0,0.0,0,Newcastle United,0,0,0,True,0
-Tony Springett,MID,Norwich,-0.5,0,0,0,341,0,0,0.0,0,Aston Villa,0,0,0,False,0
-Tony Springett,MID,Norwich,0.2,0,0,0,360,1,0,1.0,45,West Ham,0,0,1,True,0
-Tony Springett,MID,Norwich,0.2,0,0,0,207,2,0,5.3,66,Leeds United,0,0,2,False,0
-Tony Springett,MID,Norwich,0.1,0,0,0,370,0,0,0.0,0,Wolverhampton,0,0,0,False,0
-Tony Springett,MID,Norwich,-0.5,0,0,0,380,3,0,0.0,29,Tottenham,0,0,0,True,1
+name,position,team,bonus,clean_sheets,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,total_points,was_home
+Tony Springett,MID,Norwich,0,0,0,0.0,2022-04-02,0,Brighton,0,False
+Tony Springett,MID,Norwich,0,0,0,0.0,2022-04-10,0,Burnley,0,True
+Tony Springett,MID,Norwich,0,0,0,0.0,2022-04-16,0,Manchester United,0,False
+Tony Springett,MID,Norwich,0,0,0,0.0,2022-04-23,0,Newcastle United,0,True
+Tony Springett,MID,Norwich,0,0,0,0.0,2022-04-30,0,Aston Villa,0,False
+Tony Springett,MID,Norwich,0,0,1,1.0,2022-05-08,45,West Ham,1,True
+Tony Springett,MID,Norwich,0,0,2,5.3,2022-05-11,66,Leeds United,2,False
+Tony Springett,MID,Norwich,0,0,0,0.0,2022-05-15,0,Wolverhampton,0,False
+Tony Springett,MID,Norwich,0,0,3,0.0,2022-05-22,29,Tottenham,0,True

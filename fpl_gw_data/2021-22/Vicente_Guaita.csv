@@ -1,39 +1,39 @@
-name,position,team,xP,assists,bonus,clean_sheets,fixture,goals_conceded,minutes,opponent_team,own_goals,penalties_saved,red_cards,saves,total_points,was_home,yellow_cards
-Vicente Guaita,GK,Crystal Palace,1.3,0,0,0,3,3,90,Chelsea,0,0,0,3,2,False,0
-Vicente Guaita,GK,Crystal Palace,2.2,0,1,1,95,0,90,Manchester City,0,0,0,3,7,False,1
-Vicente Guaita,GK,Crystal Palace,4.2,0,0,1,105,0,90,Wolverhampton,0,0,0,2,6,True,0
-Vicente Guaita,GK,Crystal Palace,5.0,0,0,0,112,3,90,Burnley,0,0,0,6,3,False,0
-Vicente Guaita,GK,Crystal Palace,4.2,0,0,0,126,2,90,Aston Villa,0,0,0,1,1,True,0
-Vicente Guaita,GK,Crystal Palace,3.0,0,0,0,133,1,90,Leicester City,0,0,0,2,2,False,0
-Vicente Guaita,GK,Crystal Palace,1.5,0,0,0,144,1,90,Manchester United,0,0,0,2,2,False,0
-Vicente Guaita,GK,Crystal Palace,2.2,0,0,0,156,1,90,Everton,0,0,0,5,3,True,0
-Vicente Guaita,GK,Crystal Palace,1.8,0,0,0,165,0,0,Southampton,0,0,0,0,0,True,0
-Vicente Guaita,GK,Crystal Palace,0.9,0,0,0,188,0,0,Tottenham,0,0,0,0,0,False,0
-Vicente Guaita,GK,Crystal Palace,6.0,0,2,1,13,0,90,Brentford,0,0,0,3,9,True,0
-Vicente Guaita,GK,Crystal Palace,2.7,0,0,1,194,0,90,Norwich,0,0,0,2,6,True,0
-Vicente Guaita,GK,Crystal Palace,1.3,0,0,0,204,3,90,West Ham,0,0,0,2,1,True,0
-Vicente Guaita,GK,Crystal Palace,1.4,0,0,0,212,0,0,Brighton,0,0,0,0,0,False,0
-Vicente Guaita,GK,Crystal Palace,0.0,0,0,0,224,3,90,Liverpool,0,0,0,4,2,True,0
-Vicente Guaita,GK,Crystal Palace,1.8,0,0,0,234,1,90,Norwich,0,0,0,0,2,False,0
-Vicente Guaita,GK,Crystal Palace,3.8,0,0,1,241,0,90,Brentford,0,0,0,2,6,False,0
-Vicente Guaita,GK,Crystal Palace,3.9,0,0,0,254,0,45,Chelsea,0,0,0,2,1,True,0
-Vicente Guaita,GK,Crystal Palace,3.9,0,0,0,178,0,0,Watford,0,0,0,0,0,False,0
-Vicente Guaita,GK,Crystal Palace,2.3,0,0,0,265,0,0,Burnley,0,0,0,0,0,True,0
-Vicente Guaita,GK,Crystal Palace,2.3,0,2,1,280,0,90,Wolverhampton,0,0,0,5,8,False,1
-Vicente Guaita,GK,Crystal Palace,2.6,0,2,1,285,0,90,Manchester City,0,0,0,4,9,True,0
-Vicente Guaita,GK,Crystal Palace,3.5,0,0,0,28,2,90,West Ham,0,0,0,2,1,False,0
-Vicente Guaita,GK,Crystal Palace,7.5,0,0,1,304,0,90,Arsenal,0,0,0,3,7,True,0
-Vicente Guaita,GK,Crystal Palace,5.7,0,0,0,315,2,90,Leeds United,0,0,0,1,1,False,0
-Vicente Guaita,GK,Crystal Palace,3.7,0,0,0,296,1,90,Newcastle United,0,0,0,3,3,False,0
-Vicente Guaita,GK,Crystal Palace,4.5,0,1,1,336,0,90,Leicester City,0,0,0,2,7,True,0
-Vicente Guaita,GK,Crystal Palace,4.0,0,0,0,346,1,90,Southampton,0,0,0,2,2,False,0
-Vicente Guaita,GK,Crystal Palace,3.5,0,0,0,356,0,0,Watford,0,0,0,0,0,True,0
-Vicente Guaita,GKP,Crystal Palace,3.4,0,0,0,361,0,0,Aston Villa,0,0,0,0,0,False,0
-Vicente Guaita,GKP,Crystal Palace,3.4,0,0,0,322,0,0,Everton,0,0,0,0,0,False,0
-Vicente Guaita,GK,Crystal Palace,2.7,0,3,1,376,0,90,Manchester United,0,0,0,4,10,True,0
-Vicente Guaita,GK,Crystal Palace,4.8,0,0,1,34,0,90,Tottenham,0,0,0,1,6,True,0
-Vicente Guaita,GK,Crystal Palace,4.3,0,0,0,44,3,90,Liverpool,0,0,0,7,3,False,0
-Vicente Guaita,GK,Crystal Palace,4.0,0,0,0,54,1,90,Brighton,0,0,0,3,3,True,0
-Vicente Guaita,GK,Crystal Palace,3.5,0,0,0,64,2,90,Leeds United,0,0,0,3,2,True,0
-Vicente Guaita,GK,Crystal Palace,1.8,0,0,0,71,2,90,Arsenal,0,0,0,4,2,False,0
-Vicente Guaita,GK,Crystal Palace,2.7,0,0,0,85,1,90,Newcastle United,0,0,0,0,2,True,0
+name,position,team,bonus,clean_sheets,goals_conceded,kickoff_time,minutes,opponent_team,own_goals,penalties_saved,saves,total_points,was_home
+Vicente Guaita,GK,Crystal Palace,0,0,3,2021-08-14,90,Chelsea,0,0,3,2,False
+Vicente Guaita,GK,Crystal Palace,1,1,0,2021-10-30,90,Manchester City,0,0,3,7,False
+Vicente Guaita,GK,Crystal Palace,0,1,0,2021-11-06,90,Wolverhampton,0,0,2,6,True
+Vicente Guaita,GK,Crystal Palace,0,0,3,2021-11-20,90,Burnley,0,0,6,3,False
+Vicente Guaita,GK,Crystal Palace,0,0,2,2021-11-27,90,Aston Villa,0,0,1,1,True
+Vicente Guaita,GK,Crystal Palace,0,0,1,2021-11-30,90,Leicester City,0,0,2,2,False
+Vicente Guaita,GK,Crystal Palace,0,0,1,2021-12-05,90,Manchester United,0,0,2,2,False
+Vicente Guaita,GK,Crystal Palace,0,0,1,2021-12-12,90,Everton,0,0,5,3,True
+Vicente Guaita,GK,Crystal Palace,0,0,0,2021-12-15,0,Southampton,0,0,0,0,True
+Vicente Guaita,GK,Crystal Palace,0,0,0,2021-12-26,0,Tottenham,0,0,0,0,False
+Vicente Guaita,GK,Crystal Palace,2,1,0,2021-08-21,90,Brentford,0,0,3,9,True
+Vicente Guaita,GK,Crystal Palace,0,1,0,2021-12-28,90,Norwich,0,0,2,6,True
+Vicente Guaita,GK,Crystal Palace,0,0,3,2022-01-01,90,West Ham,0,0,2,1,True
+Vicente Guaita,GK,Crystal Palace,0,0,0,2022-01-14,0,Brighton,0,0,0,0,False
+Vicente Guaita,GK,Crystal Palace,0,0,3,2022-01-23,90,Liverpool,0,0,4,2,True
+Vicente Guaita,GK,Crystal Palace,0,0,1,2022-02-09,90,Norwich,0,0,0,2,False
+Vicente Guaita,GK,Crystal Palace,0,1,0,2022-02-12,90,Brentford,0,0,2,6,False
+Vicente Guaita,GK,Crystal Palace,0,0,0,2022-02-19,45,Chelsea,0,0,2,1,True
+Vicente Guaita,GK,Crystal Palace,0,0,0,2022-02-23,0,Watford,0,0,0,0,False
+Vicente Guaita,GK,Crystal Palace,0,0,0,2022-02-26,0,Burnley,0,0,0,0,True
+Vicente Guaita,GK,Crystal Palace,2,1,0,2022-03-05,90,Wolverhampton,0,0,5,8,False
+Vicente Guaita,GK,Crystal Palace,2,1,0,2022-03-14,90,Manchester City,0,0,4,9,True
+Vicente Guaita,GK,Crystal Palace,0,0,2,2021-08-28,90,West Ham,0,0,2,1,False
+Vicente Guaita,GK,Crystal Palace,0,1,0,2022-04-04,90,Arsenal,0,0,3,7,True
+Vicente Guaita,GK,Crystal Palace,0,0,2,2022-04-10,90,Leeds United,0,0,1,1,False
+Vicente Guaita,GK,Crystal Palace,0,0,1,2022-04-20,90,Newcastle United,0,0,3,3,False
+Vicente Guaita,GK,Crystal Palace,1,1,0,2022-04-25,90,Leicester City,0,0,2,7,True
+Vicente Guaita,GK,Crystal Palace,0,0,1,2022-04-30,90,Southampton,0,0,2,2,False
+Vicente Guaita,GK,Crystal Palace,0,0,0,2022-05-07,0,Watford,0,0,0,0,True
+Vicente Guaita,GKP,Crystal Palace,0,0,0,2022-05-15,0,Aston Villa,0,0,0,0,False
+Vicente Guaita,GKP,Crystal Palace,0,0,0,2022-05-19,0,Everton,0,0,0,0,False
+Vicente Guaita,GK,Crystal Palace,3,1,0,2022-05-22,90,Manchester United,0,0,4,10,True
+Vicente Guaita,GK,Crystal Palace,0,1,0,2021-09-11,90,Tottenham,0,0,1,6,True
+Vicente Guaita,GK,Crystal Palace,0,0,3,2021-09-18,90,Liverpool,0,0,7,3,False
+Vicente Guaita,GK,Crystal Palace,0,0,1,2021-09-27,90,Brighton,0,0,3,3,True
+Vicente Guaita,GK,Crystal Palace,0,0,2,2021-10-03,90,Leeds United,0,0,3,2,True
+Vicente Guaita,GK,Crystal Palace,0,0,2,2021-10-18,90,Arsenal,0,0,4,2,False
+Vicente Guaita,GK,Crystal Palace,0,0,1,2021-10-23,90,Newcastle United,0,0,0,2,True

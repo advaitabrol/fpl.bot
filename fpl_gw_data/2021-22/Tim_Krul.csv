@@ -1,39 +1,39 @@
-name,position,team,xP,assists,bonus,clean_sheets,fixture,goals_conceded,minutes,opponent_team,own_goals,penalties_saved,red_cards,saves,total_points,was_home,yellow_cards
-Tim Krul,GK,Norwich,0.8,0,0,0,7,3,90,Liverpool,0,0,0,3,2,True,0
-Tim Krul,GK,Norwich,3.5,0,0,0,97,2,90,Leicester City,0,0,0,3,2,True,0
-Tim Krul,GK,Norwich,3.5,0,0,0,102,1,90,Brentford,0,0,0,6,4,False,0
-Tim Krul,GK,Norwich,1.7,0,0,0,117,1,90,Southampton,0,0,0,4,2,True,1
-Tim Krul,GK,Norwich,3.0,0,0,1,130,0,90,Wolverhampton,0,0,0,2,6,True,0
-Tim Krul,GK,Norwich,3.5,0,0,0,138,1,90,Newcastle United,0,0,0,0,2,False,0
-Tim Krul,GK,Norwich,2.0,0,0,0,147,3,90,Tottenham,0,0,0,4,2,False,0
-Tim Krul,GK,Norwich,2.0,0,0,0,160,1,90,Manchester United,0,0,0,4,3,True,0
-Tim Krul,GK,Norwich,2.3,0,0,0,167,2,90,Aston Villa,0,0,0,4,2,True,0
-Tim Krul,GK,Norwich,0.2,0,0,0,187,0,0,Arsenal,0,0,0,0,0,True,0
-Tim Krul,GK,Norwich,-1.5,0,0,0,16,5,90,Manchester City,1,0,0,0,-2,False,0
-Tim Krul,GK,Norwich,0.2,0,0,0,194,0,0,Crystal Palace,0,0,0,0,0,False,0
-Tim Krul,GK,Norwich,0.0,0,0,0,179,2,90,West Ham,0,0,0,3,2,False,0
-Tim Krul,GK,Norwich,0.7,0,0,0,217,1,90,Everton,0,0,0,4,3,True,0
-Tim Krul,GK,Norwich,0.0,0,0,0,230,0,0,Watford,0,0,0,0,0,False,0
-Tim Krul,GK,Norwich,0.0,0,0,0,234,0,0,Crystal Palace,0,0,0,0,0,True,0
-Tim Krul,GK,Norwich,0.0,0,0,0,248,0,0,Manchester City,0,0,0,0,0,True,0
-Tim Krul,GK,Norwich,0.0,0,0,0,256,0,0,Liverpool,0,0,0,0,0,False,0
-Tim Krul,GK,Norwich,-0.5,0,0,0,269,0,0,Southampton,0,0,0,0,0,False,0
-Tim Krul,GK,Norwich,-0.1,0,0,0,277,3,90,Brentford,0,0,0,3,2,True,0
-Tim Krul,GK,Norwich,-0.1,0,0,0,297,3,90,Chelsea,0,0,0,4,2,True,0
-Tim Krul,GK,Norwich,1.1,0,2,0,287,2,90,Leicester City,0,0,0,5,4,False,0
-Tim Krul,GK,Norwich,-0.7,0,0,0,26,2,90,Leeds United,0,0,0,1,1,True,0
-Tim Krul,GK,Norwich,4.8,0,3,1,301,0,90,Brighton,0,0,0,4,10,False,0
-Tim Krul,GK,Norwich,7.7,0,2,1,318,0,90,Burnley,0,0,0,3,9,True,0
-Tim Krul,GK,Norwich,6.3,0,0,0,324,3,90,Manchester United,0,0,0,6,3,False,0
-Tim Krul,GK,Norwich,5.5,0,0,0,340,3,90,Newcastle United,0,0,0,4,2,True,0
-Tim Krul,GK,Norwich,3.5,0,0,0,341,2,90,Aston Villa,0,0,0,4,2,False,0
-Tim Krul,GK,Norwich,1.8,0,0,0,360,4,90,West Ham,0,0,0,1,0,True,0
-Tim Krul,GK,Norwich,1.8,0,0,0,207,0,0,Leeds United,0,0,0,0,0,False,0
-Tim Krul,GKP,Norwich,0.3,0,0,0,370,0,0,Wolverhampton,0,0,0,0,0,False,0
-Tim Krul,GK,Norwich,0.0,0,0,0,380,5,90,Tottenham,0,0,0,7,2,True,0
-Tim Krul,GK,Norwich,-0.3,0,0,0,31,1,90,Arsenal,0,0,0,5,3,False,0
-Tim Krul,GK,Norwich,1.0,0,0,0,47,3,90,Watford,0,0,0,5,2,True,0
-Tim Krul,GK,Norwich,1.0,0,0,0,55,2,90,Everton,0,0,0,2,1,False,0
-Tim Krul,GK,Norwich,3.8,0,2,1,62,0,90,Burnley,0,0,0,5,9,False,0
-Tim Krul,GK,Norwich,5.8,0,2,1,78,0,90,Brighton,0,0,0,3,9,True,0
-Tim Krul,GK,Norwich,3.5,0,0,0,84,7,90,Chelsea,0,0,0,7,1,False,0
+name,position,team,bonus,clean_sheets,goals_conceded,kickoff_time,minutes,opponent_team,own_goals,penalties_saved,saves,total_points,was_home
+Tim Krul,GK,Norwich,0,0,3,2021-08-14,90,Liverpool,0,0,3,2,True
+Tim Krul,GK,Norwich,0,0,2,2021-10-31,90,Leicester City,0,0,3,2,True
+Tim Krul,GK,Norwich,0,0,1,2021-11-06,90,Brentford,0,0,6,4,False
+Tim Krul,GK,Norwich,0,0,1,2021-11-20,90,Southampton,0,0,4,2,True
+Tim Krul,GK,Norwich,0,1,0,2021-11-27,90,Wolverhampton,0,0,2,6,True
+Tim Krul,GK,Norwich,0,0,1,2021-11-30,90,Newcastle United,0,0,0,2,False
+Tim Krul,GK,Norwich,0,0,3,2021-12-05,90,Tottenham,0,0,4,2,False
+Tim Krul,GK,Norwich,0,0,1,2021-12-11,90,Manchester United,0,0,4,3,True
+Tim Krul,GK,Norwich,0,0,2,2021-12-14,90,Aston Villa,0,0,4,2,True
+Tim Krul,GK,Norwich,0,0,0,2021-12-26,0,Arsenal,0,0,0,0,True
+Tim Krul,GK,Norwich,0,0,5,2021-08-21,90,Manchester City,1,0,0,-2,False
+Tim Krul,GK,Norwich,0,0,0,2021-12-28,0,Crystal Palace,0,0,0,0,False
+Tim Krul,GK,Norwich,0,0,2,2022-01-12,90,West Ham,0,0,3,2,False
+Tim Krul,GK,Norwich,0,0,1,2022-01-15,90,Everton,0,0,4,3,True
+Tim Krul,GK,Norwich,0,0,0,2022-01-21,0,Watford,0,0,0,0,False
+Tim Krul,GK,Norwich,0,0,0,2022-02-09,0,Crystal Palace,0,0,0,0,True
+Tim Krul,GK,Norwich,0,0,0,2022-02-12,0,Manchester City,0,0,0,0,True
+Tim Krul,GK,Norwich,0,0,0,2022-02-19,0,Liverpool,0,0,0,0,False
+Tim Krul,GK,Norwich,0,0,0,2022-02-25,0,Southampton,0,0,0,0,False
+Tim Krul,GK,Norwich,0,0,3,2022-03-05,90,Brentford,0,0,3,2,True
+Tim Krul,GK,Norwich,0,0,3,2022-03-10,90,Chelsea,0,0,4,2,True
+Tim Krul,GK,Norwich,2,0,2,2022-03-13,90,Leicester City,0,0,5,4,False
+Tim Krul,GK,Norwich,0,0,2,2021-08-28,90,Leeds United,0,0,1,1,True
+Tim Krul,GK,Norwich,3,1,0,2022-04-02,90,Brighton,0,0,4,10,False
+Tim Krul,GK,Norwich,2,1,0,2022-04-10,90,Burnley,0,0,3,9,True
+Tim Krul,GK,Norwich,0,0,3,2022-04-16,90,Manchester United,0,0,6,3,False
+Tim Krul,GK,Norwich,0,0,3,2022-04-23,90,Newcastle United,0,0,4,2,True
+Tim Krul,GK,Norwich,0,0,2,2022-04-30,90,Aston Villa,0,0,4,2,False
+Tim Krul,GK,Norwich,0,0,4,2022-05-08,90,West Ham,0,0,1,0,True
+Tim Krul,GK,Norwich,0,0,0,2022-05-11,0,Leeds United,0,0,0,0,False
+Tim Krul,GKP,Norwich,0,0,0,2022-05-15,0,Wolverhampton,0,0,0,0,False
+Tim Krul,GK,Norwich,0,0,5,2022-05-22,90,Tottenham,0,0,7,2,True
+Tim Krul,GK,Norwich,0,0,1,2021-09-11,90,Arsenal,0,0,5,3,False
+Tim Krul,GK,Norwich,0,0,3,2021-09-18,90,Watford,0,0,5,2,True
+Tim Krul,GK,Norwich,0,0,2,2021-09-25,90,Everton,0,0,2,1,False
+Tim Krul,GK,Norwich,2,1,0,2021-10-02,90,Burnley,0,0,5,9,False
+Tim Krul,GK,Norwich,2,1,0,2021-10-16,90,Brighton,0,0,3,9,True
+Tim Krul,GK,Norwich,0,0,7,2021-10-23,90,Chelsea,0,0,7,1,False

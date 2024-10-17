@@ -1,33 +1,33 @@
-name,position,team,xP,assists,bonus,expected_assists,expected_goals,fixture,goals_scored,ict_index,minutes,opponent_team,penalties_missed,red_cards,starts,total_points,was_home,yellow_cards
-Jamie Donley,FWD,Spurs,0.0,0,0,0.0,0.0,96,0,0.0,0,Crystal Palace,0,0,0,0,False,0
-Jamie Donley,FWD,Spurs,0.0,0,0,0.0,0.0,110,0,0.0,0,Chelsea,0,0,0,0,True,0
-Jamie Donley,FWD,Spurs,0.0,0,0,0.0,0.0,120,0,0.0,0,Wolverhampton,0,0,0,0,False,0
-Jamie Donley,FWD,Spurs,0.0,0,0,0.0,0.0,130,0,0.0,0,Aston Villa,0,0,0,0,True,0
-Jamie Donley,FWD,Spurs,-0.8,0,0,0.0,0.0,137,0,0.3,1,Manchester City,0,0,0,1,False,0
-Jamie Donley,FWD,Spurs,0.2,0,0,0.0,0.0,148,0,0.0,0,West Ham,0,0,0,0,True,0
-Jamie Donley,FWD,Spurs,-0.1,0,0,0.0,0.0,159,0,0.0,1,Newcastle United,0,0,0,1,True,0
-Jamie Donley,FWD,Spurs,0.4,0,0,0.0,0.0,169,0,0.0,0,Nottingham Forest,0,0,0,0,False,0
-Jamie Donley,FWD,Spurs,0.3,0,0,0.0,0.0,178,0,0.0,0,Everton,0,0,0,0,True,0
-Jamie Donley,FWD,Spurs,0.3,0,0,0.0,0.0,184,0,0.0,0,Brighton,0,0,0,0,False,0
-Jamie Donley,FWD,Spurs,0.2,0,0,0.0,0.0,198,0,0.0,0,Bournemouth,0,0,0,0,True,0
-Jamie Donley,FWD,Spurs,0.0,0,0,0.0,0.0,208,0,0.0,0,Manchester United,0,0,0,0,False,0
-Jamie Donley,FWD,Spurs,0.0,0,0,0.0,0.0,216,0,0.0,1,Brentford,0,0,0,0,True,1
-Jamie Donley,FWD,Spurs,0.0,0,0,0.0,0.0,227,0,0.0,0,Everton,0,0,0,0,False,0
-Jamie Donley,FWD,Spurs,0.0,0,0,0.0,0.0,238,0,0.0,0,Brighton,0,0,0,0,True,0
-Jamie Donley,FWD,Spurs,0.0,0,0,0.0,0.0,250,0,0.0,0,Wolverhampton,0,0,0,0,True,0
-Jamie Donley,FWD,Spurs,0.5,0,0,0.0,0.0,270,0,0.0,0,Crystal Palace,0,0,0,0,True,0
-Jamie Donley,FWD,Spurs,0.0,0,0,0.0,0.0,272,0,0.0,0,Aston Villa,0,0,0,0,False,0
-Jamie Donley,FWD,Spurs,0.5,0,0,0.0,0.0,286,0,0.0,0,Fulham,0,0,0,0,False,0
-Jamie Donley,FWD,Spurs,1.0,0,0,0.0,0.0,300,0,0.0,0,Luton,0,0,0,0,True,0
-Jamie Donley,FWD,Spurs,0.5,0,0,0.0,0.0,306,0,0.0,0,West Ham,0,0,0,0,False,0
-Jamie Donley,FWD,Spurs,0.5,0,0,0.0,0.0,319,0,0.0,0,Nottingham Forest,0,0,0,0,True,0
-Jamie Donley,FWD,Spurs,0.5,0,0,0.0,0.0,328,0,0.0,0,Newcastle United,0,0,0,0,False,0
-Jamie Donley,FWD,Spurs,0.0,0,0,0.0,0.0,348,0,0.0,0,Arsenal,0,0,0,0,True,0
-Jamie Donley,FWD,Spurs,0.0,0,0,0.0,0.0,255,0,0.0,0,Chelsea,0,0,0,0,False,0
-Jamie Donley,FWD,Spurs,0.0,0,0,0.0,0.0,357,0,0.0,0,Liverpool,0,0,0,0,False,0
-Jamie Donley,FWD,Spurs,0.5,0,0,0.0,0.0,368,0,0.0,0,Burnley,0,0,0,0,True,0
-Jamie Donley,FWD,Spurs,0.5,0,0,0.0,0.0,339,0,0.0,0,Manchester City,0,0,0,0,True,0
-Jamie Donley,FWD,Spurs,1.0,0,0,0.0,0.0,380,0,0.0,0,Sheffield,0,0,0,0,False,0
-Jamie Donley,FWD,Spurs,0.7,0,0,0.0,0.0,68,0,0.0,0,Liverpool,0,0,0,0,True,0
-Jamie Donley,FWD,Spurs,0.5,0,0,0.0,0.0,77,0,0.0,0,Luton,0,0,0,0,False,0
-Jamie Donley,FWD,Spurs,0.0,0,0,0.0,0.0,90,0,0.0,0,Fulham,0,0,0,0,True,0
+name,position,team,bonus,ict_index,kickoff_time,minutes,opponent_team,starts,total_points,was_home
+Jamie Donley,FWD,Spurs,0,0.0,2023-10-27,0,Crystal Palace,0,0,False
+Jamie Donley,FWD,Spurs,0,0.0,2023-11-06,0,Chelsea,0,0,True
+Jamie Donley,FWD,Spurs,0,0.0,2023-11-11,0,Wolverhampton,0,0,False
+Jamie Donley,FWD,Spurs,0,0.0,2023-11-26,0,Aston Villa,0,0,True
+Jamie Donley,FWD,Spurs,0,0.3,2023-12-03,1,Manchester City,0,1,False
+Jamie Donley,FWD,Spurs,0,0.0,2023-12-07,0,West Ham,0,0,True
+Jamie Donley,FWD,Spurs,0,0.0,2023-12-10,1,Newcastle United,0,1,True
+Jamie Donley,FWD,Spurs,0,0.0,2023-12-15,0,Nottingham Forest,0,0,False
+Jamie Donley,FWD,Spurs,0,0.0,2023-12-23,0,Everton,0,0,True
+Jamie Donley,FWD,Spurs,0,0.0,2023-12-28,0,Brighton,0,0,False
+Jamie Donley,FWD,Spurs,0,0.0,2023-12-31,0,Bournemouth,0,0,True
+Jamie Donley,FWD,Spurs,0,0.0,2024-01-14,0,Manchester United,0,0,False
+Jamie Donley,FWD,Spurs,0,0.0,2024-01-31,1,Brentford,0,0,True
+Jamie Donley,FWD,Spurs,0,0.0,2024-02-03,0,Everton,0,0,False
+Jamie Donley,FWD,Spurs,0,0.0,2024-02-10,0,Brighton,0,0,True
+Jamie Donley,FWD,Spurs,0,0.0,2024-02-17,0,Wolverhampton,0,0,True
+Jamie Donley,FWD,Spurs,0,0.0,2024-03-02,0,Crystal Palace,0,0,True
+Jamie Donley,FWD,Spurs,0,0.0,2024-03-10,0,Aston Villa,0,0,False
+Jamie Donley,FWD,Spurs,0,0.0,2024-03-16,0,Fulham,0,0,False
+Jamie Donley,FWD,Spurs,0,0.0,2024-03-30,0,Luton,0,0,True
+Jamie Donley,FWD,Spurs,0,0.0,2024-04-02,0,West Ham,0,0,False
+Jamie Donley,FWD,Spurs,0,0.0,2024-04-07,0,Nottingham Forest,0,0,True
+Jamie Donley,FWD,Spurs,0,0.0,2024-04-13,0,Newcastle United,0,0,False
+Jamie Donley,FWD,Spurs,0,0.0,2024-04-28,0,Arsenal,0,0,True
+Jamie Donley,FWD,Spurs,0,0.0,2024-05-02,0,Chelsea,0,0,False
+Jamie Donley,FWD,Spurs,0,0.0,2024-05-05,0,Liverpool,0,0,False
+Jamie Donley,FWD,Spurs,0,0.0,2024-05-11,0,Burnley,0,0,True
+Jamie Donley,FWD,Spurs,0,0.0,2024-05-14,0,Manchester City,0,0,True
+Jamie Donley,FWD,Spurs,0,0.0,2024-05-19,0,Sheffield,0,0,False
+Jamie Donley,FWD,Spurs,0,0.0,2023-09-30,0,Liverpool,0,0,True
+Jamie Donley,FWD,Spurs,0,0.0,2023-10-07,0,Luton,0,0,False
+Jamie Donley,FWD,Spurs,0,0.0,2023-10-23,0,Fulham,0,0,True

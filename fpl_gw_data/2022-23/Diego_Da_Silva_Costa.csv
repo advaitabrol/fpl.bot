@@ -1,33 +1,33 @@
-name,position,team,xP,assists,bonus,expected_assists,expected_goals,fixture,goals_scored,ict_index,minutes,opponent_team,penalties_missed,red_cards,starts,total_points,was_home,yellow_cards
-Diego Da Silva Costa,FWD,Wolves,0.2,0,0,0.0,0.0,94,0,0.9,56,Chelsea,0,0,0,1,False,0
-Diego Da Silva Costa,FWD,Wolves,1.5,0,0,0.0,0.0,110,0,3.9,81,Nottingham Forest,0,0,0,2,True,0
-Diego Da Silva Costa,FWD,Wolves,0.0,0,0,0.0,0.0,115,0,4.0,74,Crystal Palace,0,0,0,2,False,0
-Diego Da Silva Costa,FWD,Wolves,1.6,0,0,0.0,0.0,130,0,18.4,79,Leeds United,0,0,0,2,True,0
-Diego Da Silva Costa,FWD,Wolves,0.9,0,0,0.0,0.0,133,0,4.7,90,Brentford,0,1,0,-1,False,0
-Diego Da Silva Costa,FWD,Wolves,0.0,0,0,0.0,0.0,150,0,0.0,0,Brighton,0,0,0,0,True,0
-Diego Da Silva Costa,FWD,Wolves,0.0,0,0,0.0,0.0,160,0,0.0,0,Arsenal,0,0,0,0,True,0
-Diego Da Silva Costa,FWD,Wolves,1.0,0,0,0.00789,0.0965,166,0,3.1,90,Everton,0,0,1,1,False,1
-Diego Da Silva Costa,FWD,Wolves,1.0,0,0,0.09581,0.1017,180,0,3.9,45,Manchester United,0,0,1,1,True,0
-Diego Da Silva Costa,FWD,Wolves,1.0,0,0,0.01697,0.1906,182,0,1.0,65,Aston Villa,0,0,1,1,False,1
-Diego Da Silva Costa,FWD,Wolves,0.6,0,0,0.0,0.0,200,0,0.0,0,West Ham,0,0,0,0,True,0
-Diego Da Silva Costa,FWD,Wolves,-0.4,0,0,0.0,0.0,208,0,0.0,0,Manchester City,0,0,0,0,False,0
-Diego Da Silva Costa,FWD,Wolves,-1.0,0,0,0.0,0.0,220,0,0.0,0,Liverpool,0,0,0,0,True,0
-Diego Da Silva Costa,FWD,Wolves,0.8,0,0,0.0,0.16,229,0,2.6,31,Southampton,0,0,0,1,False,0
-Diego Da Silva Costa,FWD,Wolves,1.2,0,0,0.12,0.0,240,0,0.5,20,Bournemouth,0,0,0,1,True,0
-Diego Da Silva Costa,FWD,Wolves,1.1,0,0,0.0,0.0,244,0,0.1,6,Fulham,0,0,0,1,False,0
-Diego Da Silva Costa,FWD,Wolves,1.1,0,0,0.0,0.0,67,0,0.2,11,Liverpool,0,0,0,1,False,0
-Diego Da Silva Costa,FWD,Wolves,1.0,0,0,0.0,0.0,260,0,0.1,27,Tottenham,0,0,1,1,True,0
-Diego Da Silva Costa,FWD,Wolves,0.0,0,0,0.0,0.0,268,0,0.0,0,Newcastle United,0,0,0,0,False,0
-Diego Da Silva Costa,FWD,Wolves,0.0,0,0,0.0,0.0,280,0,0.0,0,Leicester City,0,0,0,0,True,0
-Diego Da Silva Costa,FWD,Wolves,0.3,0,0,0.03,0.0,289,0,1.8,25,Nottingham Forest,0,0,0,1,False,0
-Diego Da Silva Costa,FWD,Wolves,1.0,0,0,0.0,0.25,300,0,2.1,62,Chelsea,0,0,1,2,True,0
-Diego Da Silva Costa,FWD,Wolves,4.0,0,3,0.02,0.18,310,1,13.0,72,Brentford,0,0,1,9,True,0
-Diego Da Silva Costa,FWD,Wolves,2.4,0,0,0.01,0.0,317,0,0.0,57,Leeds United,0,0,1,1,False,0
-Diego Da Silva Costa,FWD,Wolves,2.8,0,0,0.03,0.16,327,0,4.7,88,Crystal Palace,0,0,1,1,True,1
-Diego Da Silva Costa,FWD,Wolves,2.8,0,0,0.02,0.0,334,0,0.0,45,Brighton,0,0,1,1,False,0
-Diego Da Silva Costa,FWD,Wolves,2.6,0,0,0.07,0.36,350,0,4.5,82,Aston Villa,0,0,1,1,True,1
-Diego Da Silva Costa,FWD,Wolves,0.0,0,0,0.01,0.0,359,0,0.5,77,Manchester United,0,0,1,1,False,1
-Diego Da Silva Costa,FWD,Wolves,1.0,0,0,0.0,0.02,370,0,2.2,20,Everton,0,0,0,1,True,0
-Diego Da Silva Costa,FWD,Wolves,0.3,0,0,0.0,0.0,371,0,0.0,0,Arsenal,0,0,0,0,False,0
-Diego Da Silva Costa,FWD,Wolves,0.5,0,0,0.0,0.0,80,0,0.0,0,Manchester City,0,0,0,0,True,0
-Diego Da Silva Costa,FWD,Wolves,0.4,0,0,0.0,0.0,90,0,1.1,32,West Ham,0,0,0,1,False,0
+name,position,team,bonus,ict_index,kickoff_time,minutes,opponent_team,starts,total_points,was_home
+Diego Da Silva Costa,FWD,Wolves,0,0.9,2022-10-08,56,Chelsea,0,1,False
+Diego Da Silva Costa,FWD,Wolves,0,3.9,2022-10-15,81,Nottingham Forest,0,2,True
+Diego Da Silva Costa,FWD,Wolves,0,4.0,2022-10-18,74,Crystal Palace,0,2,False
+Diego Da Silva Costa,FWD,Wolves,0,18.4,2022-10-23,79,Leeds United,0,2,True
+Diego Da Silva Costa,FWD,Wolves,0,4.7,2022-10-29,90,Brentford,0,-1,False
+Diego Da Silva Costa,FWD,Wolves,0,0.0,2022-11-05,0,Brighton,0,0,True
+Diego Da Silva Costa,FWD,Wolves,0,0.0,2022-11-12,0,Arsenal,0,0,True
+Diego Da Silva Costa,FWD,Wolves,0,3.1,2022-12-26,90,Everton,1,1,False
+Diego Da Silva Costa,FWD,Wolves,0,3.9,2022-12-31,45,Manchester United,1,1,True
+Diego Da Silva Costa,FWD,Wolves,0,1.0,2023-01-04,65,Aston Villa,1,1,False
+Diego Da Silva Costa,FWD,Wolves,0,0.0,2023-01-14,0,West Ham,0,0,True
+Diego Da Silva Costa,FWD,Wolves,0,0.0,2023-01-22,0,Manchester City,0,0,False
+Diego Da Silva Costa,FWD,Wolves,0,0.0,2023-02-04,0,Liverpool,0,0,True
+Diego Da Silva Costa,FWD,Wolves,0,2.6,2023-02-11,31,Southampton,0,1,False
+Diego Da Silva Costa,FWD,Wolves,0,0.5,2023-02-18,20,Bournemouth,0,1,True
+Diego Da Silva Costa,FWD,Wolves,0,0.1,2023-02-24,6,Fulham,0,1,False
+Diego Da Silva Costa,FWD,Wolves,0,0.2,2023-03-01,11,Liverpool,0,1,False
+Diego Da Silva Costa,FWD,Wolves,0,0.1,2023-03-04,27,Tottenham,1,1,True
+Diego Da Silva Costa,FWD,Wolves,0,0.0,2023-03-12,0,Newcastle United,0,0,False
+Diego Da Silva Costa,FWD,Wolves,0,0.0,2023-03-18,0,Leicester City,0,0,True
+Diego Da Silva Costa,FWD,Wolves,0,1.8,2023-04-01,25,Nottingham Forest,0,1,False
+Diego Da Silva Costa,FWD,Wolves,0,2.1,2023-04-08,62,Chelsea,1,2,True
+Diego Da Silva Costa,FWD,Wolves,3,13.0,2023-04-15,72,Brentford,1,9,True
+Diego Da Silva Costa,FWD,Wolves,0,0.0,2023-04-22,57,Leeds United,1,1,False
+Diego Da Silva Costa,FWD,Wolves,0,4.7,2023-04-25,88,Crystal Palace,1,1,True
+Diego Da Silva Costa,FWD,Wolves,0,0.0,2023-04-29,45,Brighton,1,1,False
+Diego Da Silva Costa,FWD,Wolves,0,4.5,2023-05-06,82,Aston Villa,1,1,True
+Diego Da Silva Costa,FWD,Wolves,0,0.5,2023-05-13,77,Manchester United,1,1,False
+Diego Da Silva Costa,FWD,Wolves,0,2.2,2023-05-20,20,Everton,0,1,True
+Diego Da Silva Costa,FWD,Wolves,0,0.0,2023-05-28,0,Arsenal,0,0,False
+Diego Da Silva Costa,FWD,Wolves,0,0.0,2022-09-17,0,Manchester City,0,0,True
+Diego Da Silva Costa,FWD,Wolves,0,1.1,2022-10-01,32,West Ham,0,1,False

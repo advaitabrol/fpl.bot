@@ -1,17 +1,17 @@
-name,position,team,xP,assists,bonus,clean_sheets,fixture,goals_conceded,goals_scored,ict_index,minutes,opponent_team,penalties_missed,red_cards,total_points,was_home,yellow_cards
-Luis Díaz,MID,Liverpool,2.8,0,0,1,237,0,0,7.9,89,Leeds United,0,0,3,True,0
-Luis Díaz,MID,Liverpool,3.0,0,0,0,242,0,0,0.0,0,Burnley,0,0,0,False,0
-Luis Díaz,MID,Liverpool,10.1,0,2,0,256,1,1,17.2,89,Norwich,0,0,9,True,0
-Luis Díaz,MID,Liverpool,10.1,0,0,1,184,0,0,9.4,84,Leicester City,0,0,3,True,0
-Luis Díaz,MID,Liverpool,4.1,0,0,1,274,0,0,8.0,90,West Ham,0,0,3,True,0
-Luis Díaz,MID,Liverpool,11.1,0,0,1,283,0,1,11.3,90,Brighton,0,0,8,False,0
-Luis Díaz,MID,Liverpool,11.1,0,0,0,261,0,0,0.6,55,Arsenal,0,0,1,False,0
-Luis Díaz,MID,Liverpool,4.5,0,0,0,306,0,0,0.0,0,Watford,0,0,0,True,0
-Luis Díaz,MID,Liverpool,0.7,0,0,0,316,0,0,0.3,20,Manchester City,0,0,1,False,0
-Luis Díaz,MID,Liverpool,4.8,1,1,1,294,0,1,12.6,69,Manchester United,0,0,12,True,0
-Luis Díaz,MID,Liverpool,5.7,1,0,0,338,0,0,7.7,30,Everton,0,0,4,True,0
-Luis Díaz,MID,Liverpool,6.0,0,0,1,345,0,0,11.8,90,Newcastle United,0,0,3,False,0
-Luis Díaz,MID,Liverpool,15.1,0,3,0,358,1,1,12.2,90,Tottenham,0,0,10,True,0
-Luis Díaz,MID,Liverpool,15.1,1,0,0,321,1,0,6.1,71,Aston Villa,0,0,5,False,0
-Luis Díaz,MID,Liverpool,5.4,0,0,0,366,0,0,0.0,0,Southampton,0,0,0,False,0
-Luis Díaz,MID,Liverpool,5.0,0,0,0,378,1,0,0.0,90,Wolverhampton,0,0,2,True,0
+name,position,team,bonus,clean_sheets,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,total_points,was_home
+Luis Díaz,MID,Liverpool,0,1,0,7.9,2022-02-10,89,Leeds United,3,True
+Luis Díaz,MID,Liverpool,0,0,0,0.0,2022-02-13,0,Burnley,0,False
+Luis Díaz,MID,Liverpool,2,0,1,17.2,2022-02-19,89,Norwich,9,True
+Luis Díaz,MID,Liverpool,0,1,0,9.4,2022-02-23,84,Leicester City,3,True
+Luis Díaz,MID,Liverpool,0,1,0,8.0,2022-03-05,90,West Ham,3,True
+Luis Díaz,MID,Liverpool,0,1,0,11.3,2022-03-12,90,Brighton,8,False
+Luis Díaz,MID,Liverpool,0,0,0,0.6,2022-03-16,55,Arsenal,1,False
+Luis Díaz,MID,Liverpool,0,0,0,0.0,2022-04-02,0,Watford,0,True
+Luis Díaz,MID,Liverpool,0,0,0,0.3,2022-04-10,20,Manchester City,1,False
+Luis Díaz,MID,Liverpool,1,1,0,12.6,2022-04-19,69,Manchester United,12,True
+Luis Díaz,MID,Liverpool,0,0,0,7.7,2022-04-24,30,Everton,4,True
+Luis Díaz,MID,Liverpool,0,1,0,11.8,2022-04-30,90,Newcastle United,3,False
+Luis Díaz,MID,Liverpool,3,0,1,12.2,2022-05-07,90,Tottenham,10,True
+Luis Díaz,MID,Liverpool,0,0,1,6.1,2022-05-10,71,Aston Villa,5,False
+Luis Díaz,MID,Liverpool,0,0,0,0.0,2022-05-17,0,Southampton,0,False
+Luis Díaz,MID,Liverpool,0,0,1,0.0,2022-05-22,90,Wolverhampton,2,True

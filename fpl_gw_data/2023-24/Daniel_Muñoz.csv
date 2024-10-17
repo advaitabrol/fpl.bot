@@ -1,18 +1,18 @@
-name,position,team,xP,assists,bonus,clean_sheets,expected_assists,expected_goals,expected_goals_conceded,fixture,goals_conceded,goals_scored,ict_index,minutes,opponent_team,own_goals,penalties_missed,red_cards,starts,total_points,was_home,yellow_cards
-Daniel Muñoz,DEF,Crystal Palace,2.6,0,0,0,0.0,0.0,0.0,212,0,0,0.0,0,Sheffield,0,0,0,0,0,True,0
-Daniel Muñoz,DEF,Crystal Palace,-0.5,0,0,0,0.02,0.0,1.53,224,4,0,3.3,90,Brighton,0,0,0,1,-1,False,1
-Daniel Muñoz,DEF,Crystal Palace,-0.3,0,0,0,0.03,0.0,1.21,232,3,0,5.3,90,Chelsea,0,0,0,1,0,True,1
-Daniel Muñoz,DEF,Crystal Palace,0.2,0,0,0,0.06,0.0,1.66,243,1,0,4.1,90,Everton,0,0,0,1,2,False,0
-Daniel Muñoz,DEF,Crystal Palace,0.0,0,1,1,0.04,0.29,0.1,256,0,0,4.9,90,Burnley,0,0,0,1,7,True,0
-Daniel Muñoz,DEF,Crystal Palace,2.0,0,0,0,0.01,0.0,1.87,270,3,0,1.8,90,Tottenham,0,0,0,1,1,False,0
-Daniel Muñoz,DEF,Crystal Palace,4.0,1,0,0,0.15,0.37,0.83,276,1,0,4.8,90,Luton,0,0,0,1,4,True,1
-Daniel Muñoz,DEF,Crystal Palace,2.3,0,0,0,0.0,0.11,0.92,298,1,0,2.6,90,Nottingham Forest,0,0,0,1,2,False,0
-Daniel Muñoz,DEF,Crystal Palace,2.7,0,0,0,0.01,0.0,1.22,302,1,0,1.4,90,Bournemouth,0,0,0,1,2,False,0
-Daniel Muñoz,DEF,Crystal Palace,1.0,0,0,0,0.02,0.0,1.91,313,4,0,1.4,90,Manchester City,0,0,0,1,0,True,0
-Daniel Muñoz,DEF,Crystal Palace,2.0,0,0,1,0.03,0.0,2.87,326,0,0,3.3,90,Liverpool,0,0,0,1,6,False,0
-Daniel Muñoz,DEF,Crystal Palace,5.6,0,0,0,0.18,0.0,1.27,333,2,0,6.0,90,West Ham,0,0,0,1,1,True,0
-Daniel Muñoz,DEF,Crystal Palace,5.6,0,0,1,0.05,0.0,0.18,284,0,0,4.5,90,Newcastle United,0,0,0,1,6,True,0
-Daniel Muñoz,DEF,Crystal Palace,3.0,0,0,0,0.2,0.03,1.14,344,1,0,2.9,90,Fulham,0,0,0,1,2,False,0
-Daniel Muñoz,DEF,Crystal Palace,5.6,2,1,1,0.06,0.11,0.35,356,0,0,10.5,90,Manchester United,0,0,0,1,13,True,0
-Daniel Muñoz,DEF,Crystal Palace,4.6,0,0,0,0.02,0.35,1.57,370,1,0,5.3,90,Wolverhampton,0,0,0,1,1,False,1
-Daniel Muñoz,DEF,Crystal Palace,6.0,1,1,1,0.38,0.0,1.08,376,0,0,9.6,90,Aston Villa,0,0,0,1,10,True,0
+name,position,team,bonus,clean_sheets,expected_goals_conceded,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,own_goals,starts,total_points,was_home
+Daniel Muñoz,DEF,Crystal Palace,0,0,0.0,0,0.0,2024-01-30,0,Sheffield,0,0,0,True
+Daniel Muñoz,DEF,Crystal Palace,0,0,1.53,4,3.3,2024-02-03,90,Brighton,0,1,-1,False
+Daniel Muñoz,DEF,Crystal Palace,0,0,1.21,3,5.3,2024-02-12,90,Chelsea,0,1,0,True
+Daniel Muñoz,DEF,Crystal Palace,0,0,1.66,1,4.1,2024-02-19,90,Everton,0,1,2,False
+Daniel Muñoz,DEF,Crystal Palace,1,1,0.1,0,4.9,2024-02-24,90,Burnley,0,1,7,True
+Daniel Muñoz,DEF,Crystal Palace,0,0,1.87,3,1.8,2024-03-02,90,Tottenham,0,1,1,False
+Daniel Muñoz,DEF,Crystal Palace,0,0,0.83,1,4.8,2024-03-09,90,Luton,0,1,4,True
+Daniel Muñoz,DEF,Crystal Palace,0,0,0.92,1,2.6,2024-03-30,90,Nottingham Forest,0,1,2,False
+Daniel Muñoz,DEF,Crystal Palace,0,0,1.22,1,1.4,2024-04-02,90,Bournemouth,0,1,2,False
+Daniel Muñoz,DEF,Crystal Palace,0,0,1.91,4,1.4,2024-04-06,90,Manchester City,0,1,0,True
+Daniel Muñoz,DEF,Crystal Palace,0,1,2.87,0,3.3,2024-04-14,90,Liverpool,0,1,6,False
+Daniel Muñoz,DEF,Crystal Palace,0,0,1.27,2,6.0,2024-04-21,90,West Ham,0,1,1,True
+Daniel Muñoz,DEF,Crystal Palace,0,1,0.18,0,4.5,2024-04-24,90,Newcastle United,0,1,6,True
+Daniel Muñoz,DEF,Crystal Palace,0,0,1.14,1,2.9,2024-04-27,90,Fulham,0,1,2,False
+Daniel Muñoz,DEF,Crystal Palace,1,1,0.35,0,10.5,2024-05-06,90,Manchester United,0,1,13,True
+Daniel Muñoz,DEF,Crystal Palace,0,0,1.57,1,5.3,2024-05-11,90,Wolverhampton,0,1,1,False
+Daniel Muñoz,DEF,Crystal Palace,1,1,1.08,0,9.6,2024-05-19,90,Aston Villa,0,1,10,True

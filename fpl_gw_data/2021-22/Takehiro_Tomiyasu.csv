@@ -1,36 +1,36 @@
-name,position,team,xP,assists,bonus,clean_sheets,fixture,goals_conceded,goals_scored,ict_index,minutes,opponent_team,own_goals,penalties_missed,red_cards,total_points,was_home,yellow_cards
-Takehiro Tomiyasu,DEF,Arsenal,3.5,0,0,1,93,0,0,2.1,90,Leeds United,0,0,0,6,False,0
-Takehiro Tomiyasu,DEF,Arsenal,4.5,0,0,1,101,0,0,6.4,90,Watford,0,0,0,5,True,1
-Takehiro Tomiyasu,DEF,Arsenal,3.2,0,0,0,114,4,0,2.5,90,Liverpool,0,0,0,0,False,0
-Takehiro Tomiyasu,DEF,Arsenal,6.8,1,3,1,121,0,0,8.6,90,Newcastle United,0,0,0,12,True,0
-Takehiro Tomiyasu,DEF,Arsenal,4.5,0,0,0,134,3,0,3.2,90,Manchester United,0,0,0,1,False,0
-Takehiro Tomiyasu,DEF,Arsenal,4.0,0,0,0,142,2,0,3.7,90,Everton,0,0,0,1,False,0
-Takehiro Tomiyasu,DEF,Arsenal,4.5,0,0,1,151,0,0,7.4,90,Southampton,0,0,0,6,True,0
-Takehiro Tomiyasu,DEF,Arsenal,4.7,0,2,1,161,0,0,4.8,90,West Ham,0,0,0,8,True,0
-Takehiro Tomiyasu,DEF,Arsenal,5.4,0,0,1,173,0,0,0.6,63,Leicester City,0,0,0,6,False,0
-Takehiro Tomiyasu,DEF,Arsenal,3.5,0,0,0,187,0,0,0.0,0,Norwich,0,0,0,0,False,0
-Takehiro Tomiyasu,DEF,Arsenal,0.8,0,0,0,201,2,0,2.0,90,Manchester City,0,0,0,1,True,0
-Takehiro Tomiyasu,DEF,Arsenal,1.0,0,0,0,221,0,0,0.0,0,Burnley,0,0,0,0,True,0
-Takehiro Tomiyasu,DEF,Arsenal,0.2,0,0,0,236,0,0,0.0,0,Wolverhampton,0,0,0,0,False,0
-Takehiro Tomiyasu,DEF,Arsenal,1.0,0,0,0,251,0,0,0.0,0,Brentford,0,0,0,0,True,0
-Takehiro Tomiyasu,DEF,Arsenal,1.0,0,0,0,191,0,0,0.0,0,Wolverhampton,0,0,0,0,True,0
-Takehiro Tomiyasu,DEF,Arsenal,0.5,0,0,0,279,0,0,0.0,0,Watford,0,0,0,0,False,0
-Takehiro Tomiyasu,DEF,Arsenal,0.0,0,0,0,281,0,0,0.0,0,Leeds United,0,0,0,0,True,0
-Takehiro Tomiyasu,DEF,Arsenal,0.0,0,0,0,261,0,0,0.0,0,Liverpool,0,0,0,0,True,0
-Takehiro Tomiyasu,DEF,Arsenal,0.2,0,0,0,291,0,0,0.0,0,Aston Villa,0,0,0,0,False,0
-Takehiro Tomiyasu,DEF,Arsenal,0.4,0,0,0,304,0,0,0.0,0,Crystal Palace,0,0,0,0,False,0
-Takehiro Tomiyasu,DEF,Arsenal,0.0,0,0,0,311,0,0,0.0,0,Brighton,0,0,0,0,True,0
-Takehiro Tomiyasu,DEF,Arsenal,0.1,0,0,0,326,0,0,0.0,0,Southampton,0,0,0,0,False,0
-Takehiro Tomiyasu,DEF,Arsenal,0.1,0,0,0,243,0,0,0.0,0,Chelsea,0,0,0,0,False,0
-Takehiro Tomiyasu,DEF,Arsenal,0.2,0,0,0,331,0,0,0.0,1,Manchester United,0,0,0,1,True,0
-Takehiro Tomiyasu,DEF,Arsenal,1.0,0,0,0,349,1,0,1.4,77,West Ham,0,0,0,2,False,0
-Takehiro Tomiyasu,DEF,Arsenal,2.1,0,0,0,351,1,0,6.7,90,Leicester City,0,0,0,1,True,1
-Takehiro Tomiyasu,DEF,Arsenal,2.1,0,0,0,218,3,0,1.6,90,Tottenham,0,0,0,1,False,0
-Takehiro Tomiyasu,DEF,Arsenal,1.5,0,0,0,365,0,0,1.0,38,Newcastle United,0,0,0,1,False,0
-Takehiro Tomiyasu,DEF,Arsenal,1.0,0,0,0,371,0,0,0.0,0,Everton,0,0,0,0,True,0
-Takehiro Tomiyasu,DEF,Arsenal,2.8,0,0,1,31,0,0,2.7,61,Norwich,0,0,0,6,True,0
-Takehiro Tomiyasu,DEF,Arsenal,7.0,0,0,1,43,0,0,2.0,90,Burnley,0,0,0,6,False,0
-Takehiro Tomiyasu,DEF,Arsenal,5.2,0,0,0,51,1,0,3.2,90,Tottenham,0,0,0,2,True,0
-Takehiro Tomiyasu,DEF,Arsenal,5.5,0,0,1,61,0,0,0.9,90,Brighton,0,0,0,6,False,0
-Takehiro Tomiyasu,DEF,Arsenal,3.5,0,0,0,71,2,0,3.6,90,Crystal Palace,0,0,0,1,True,0
-Takehiro Tomiyasu,DEF,Arsenal,3.3,0,0,0,81,1,0,2.0,90,Aston Villa,0,0,0,2,True,0
+name,position,team,bonus,clean_sheets,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,own_goals,total_points,was_home
+Takehiro Tomiyasu,DEF,Arsenal,0,1,0,2.1,2021-10-30,90,Leeds United,0,6,False
+Takehiro Tomiyasu,DEF,Arsenal,0,1,0,6.4,2021-11-07,90,Watford,0,5,True
+Takehiro Tomiyasu,DEF,Arsenal,0,0,4,2.5,2021-11-20,90,Liverpool,0,0,False
+Takehiro Tomiyasu,DEF,Arsenal,3,1,0,8.6,2021-11-27,90,Newcastle United,0,12,True
+Takehiro Tomiyasu,DEF,Arsenal,0,0,3,3.2,2021-12-02,90,Manchester United,0,1,False
+Takehiro Tomiyasu,DEF,Arsenal,0,0,2,3.7,2021-12-06,90,Everton,0,1,False
+Takehiro Tomiyasu,DEF,Arsenal,0,1,0,7.4,2021-12-11,90,Southampton,0,6,True
+Takehiro Tomiyasu,DEF,Arsenal,2,1,0,4.8,2021-12-15,90,West Ham,0,8,True
+Takehiro Tomiyasu,DEF,Arsenal,0,1,0,0.6,2021-12-18,63,Leicester City,0,6,False
+Takehiro Tomiyasu,DEF,Arsenal,0,0,0,0.0,2021-12-26,0,Norwich,0,0,False
+Takehiro Tomiyasu,DEF,Arsenal,0,0,2,2.0,2022-01-01,90,Manchester City,0,1,True
+Takehiro Tomiyasu,DEF,Arsenal,0,0,0,0.0,2022-01-23,0,Burnley,0,0,True
+Takehiro Tomiyasu,DEF,Arsenal,0,0,0,0.0,2022-02-10,0,Wolverhampton,0,0,False
+Takehiro Tomiyasu,DEF,Arsenal,0,0,0,0.0,2022-02-19,0,Brentford,0,0,True
+Takehiro Tomiyasu,DEF,Arsenal,0,0,0,0.0,2022-02-24,0,Wolverhampton,0,0,True
+Takehiro Tomiyasu,DEF,Arsenal,0,0,0,0.0,2022-03-06,0,Watford,0,0,False
+Takehiro Tomiyasu,DEF,Arsenal,0,0,0,0.0,2022-03-13,0,Leeds United,0,0,True
+Takehiro Tomiyasu,DEF,Arsenal,0,0,0,0.0,2022-03-16,0,Liverpool,0,0,True
+Takehiro Tomiyasu,DEF,Arsenal,0,0,0,0.0,2022-03-19,0,Aston Villa,0,0,False
+Takehiro Tomiyasu,DEF,Arsenal,0,0,0,0.0,2022-04-04,0,Crystal Palace,0,0,False
+Takehiro Tomiyasu,DEF,Arsenal,0,0,0,0.0,2022-04-09,0,Brighton,0,0,True
+Takehiro Tomiyasu,DEF,Arsenal,0,0,0,0.0,2022-04-16,0,Southampton,0,0,False
+Takehiro Tomiyasu,DEF,Arsenal,0,0,0,0.0,2022-04-20,0,Chelsea,0,0,False
+Takehiro Tomiyasu,DEF,Arsenal,0,0,0,0.0,2022-04-23,1,Manchester United,0,1,True
+Takehiro Tomiyasu,DEF,Arsenal,0,0,1,1.4,2022-05-01,77,West Ham,0,2,False
+Takehiro Tomiyasu,DEF,Arsenal,0,0,1,6.7,2022-05-08,90,Leicester City,0,1,True
+Takehiro Tomiyasu,DEF,Arsenal,0,0,3,1.6,2022-05-12,90,Tottenham,0,1,False
+Takehiro Tomiyasu,DEF,Arsenal,0,0,0,1.0,2022-05-16,38,Newcastle United,0,1,False
+Takehiro Tomiyasu,DEF,Arsenal,0,0,0,0.0,2022-05-22,0,Everton,0,0,True
+Takehiro Tomiyasu,DEF,Arsenal,0,1,0,2.7,2021-09-11,61,Norwich,0,6,True
+Takehiro Tomiyasu,DEF,Arsenal,0,1,0,2.0,2021-09-18,90,Burnley,0,6,False
+Takehiro Tomiyasu,DEF,Arsenal,0,0,1,3.2,2021-09-26,90,Tottenham,0,2,True
+Takehiro Tomiyasu,DEF,Arsenal,0,1,0,0.9,2021-10-02,90,Brighton,0,6,False
+Takehiro Tomiyasu,DEF,Arsenal,0,0,2,3.6,2021-10-18,90,Crystal Palace,0,1,True
+Takehiro Tomiyasu,DEF,Arsenal,0,0,1,2.0,2021-10-22,90,Aston Villa,0,2,True

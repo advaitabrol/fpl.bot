@@ -1,39 +1,39 @@
-name,position,team,xP,assists,bonus,clean_sheets,fixture,goals_conceded,goals_scored,ict_index,minutes,opponent_team,penalties_missed,red_cards,total_points,was_home,yellow_cards
-Jakub Moder,MID,Brighton,1.5,1,0,0,2,0,0,5.1,18,Burnley,0,0,4,False,0
-Jakub Moder,MID,Brighton,1.0,0,0,0,94,2,0,0.5,65,Liverpool,0,0,2,False,0
-Jakub Moder,MID,Brighton,2.0,0,0,0,103,0,0,0.0,0,Newcastle United,0,0,0,True,0
-Jakub Moder,MID,Brighton,1.2,0,0,0,111,2,0,1.8,90,Aston Villa,0,0,2,False,0
-Jakub Moder,MID,Brighton,1.8,0,0,1,123,0,0,5.6,81,Leicester City,0,0,3,True,0
-Jakub Moder,MID,Brighton,1.3,0,0,0,136,1,0,6.2,90,West Ham,0,0,2,False,0
-Jakub Moder,MID,Brighton,2.8,1,0,0,146,0,0,4.6,12,Southampton,0,0,4,False,0
-Jakub Moder,MID,Brighton,2.6,0,0,0,163,1,0,3.4,90,Wolverhampton,0,0,2,True,0
-Jakub Moder,MID,Brighton,3.5,1,0,1,182,0,0,6.1,90,Brentford,0,0,6,True,0
-Jakub Moder,MID,Brighton,3.0,0,0,0,12,0,0,0.0,10,Watford,0,0,1,True,0
-Jakub Moder,MID,Brighton,2.2,0,0,0,193,1,0,1.1,87,Chelsea,0,0,2,False,0
-Jakub Moder,MID,Brighton,2.8,0,0,0,205,0,0,0.1,9,Everton,0,0,1,False,0
-Jakub Moder,MID,Brighton,4.2,0,0,0,212,1,0,5.4,90,Crystal Palace,0,0,2,True,0
-Jakub Moder,MID,Brighton,4.2,0,0,0,232,1,0,2.3,90,Chelsea,0,0,2,True,0
-Jakub Moder,MID,Brighton,2.0,0,0,0,227,1,0,3.3,90,Leeds United,0,0,2,False,0
-Jakub Moder,MID,Brighton,4.4,0,0,1,250,0,0,9.4,90,Watford,0,0,3,False,0
-Jakub Moder,MID,Brighton,4.4,0,0,0,174,2,0,6.0,90,Manchester United,0,0,2,False,0
-Jakub Moder,MID,Brighton,2.5,0,0,0,253,2,0,1.6,54,Burnley,0,0,1,True,0
-Jakub Moder,MID,Brighton,2.0,0,0,0,263,1,0,4.4,62,Aston Villa,0,0,2,True,0
-Jakub Moder,MID,Brighton,1.8,0,0,0,276,2,0,3.7,58,Newcastle United,0,0,1,False,0
-Jakub Moder,MID,Brighton,0.5,0,0,0,283,0,0,0.0,0,Liverpool,0,0,0,True,0
-Jakub Moder,MID,Brighton,0.5,0,0,0,153,0,0,0.7,12,Tottenham,0,0,1,True,0
-Jakub Moder,MID,Brighton,2.3,0,0,0,22,2,0,2.9,72,Everton,0,0,2,True,0
-Jakub Moder,MID,Brighton,1.2,0,0,0,301,0,0,0.4,5,Norwich,0,0,1,True,0
-Jakub Moder,MID,Brighton,0.0,0,0,0,311,0,0,0.0,0,Arsenal,0,0,0,False,0
-Jakub Moder,MID,Brighton,0.0,0,0,0,327,0,0,0.0,0,Tottenham,0,0,0,False,0
-Jakub Moder,MID,Brighton,0.0,0,0,0,295,0,0,0.0,0,Manchester City,0,0,0,False,0
-Jakub Moder,MID,Brighton,0.0,0,0,0,333,0,0,0.0,0,Southampton,0,0,0,True,0
-Jakub Moder,MID,Brighton,0.0,0,0,0,350,0,0,0.0,0,Wolverhampton,0,0,0,False,0
-Jakub Moder,MID,Brighton,0.0,0,0,0,353,0,0,0.0,0,Manchester United,0,0,0,True,0
-Jakub Moder,MID,Brighton,0.0,0,0,0,363,0,0,0.0,0,Leicester City,0,0,0,False,0
-Jakub Moder,MID,Brighton,0.0,0,0,0,373,0,0,0.0,0,West Ham,0,0,0,True,0
-Jakub Moder,MID,Brighton,1.8,0,0,0,32,0,0,0.6,53,Brentford,0,0,1,False,0
-Jakub Moder,MID,Brighton,0.7,0,0,0,42,0,0,0.2,11,Leeds United,0,0,1,True,0
-Jakub Moder,MID,Brighton,1.0,0,0,0,54,0,0,0.6,25,Crystal Palace,0,0,1,False,0
-Jakub Moder,MID,Brighton,1.0,0,0,1,61,0,0,3.0,77,Arsenal,0,0,3,True,0
-Jakub Moder,MID,Brighton,2.5,0,0,1,78,0,0,3.7,83,Norwich,0,0,3,False,0
-Jakub Moder,MID,Brighton,1.0,0,0,0,83,4,0,7.6,90,Manchester City,0,0,1,True,1
+name,position,team,bonus,clean_sheets,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,total_points,was_home
+Jakub Moder,MID,Brighton,0,0,0,5.1,2021-08-14,18,Burnley,4,False
+Jakub Moder,MID,Brighton,0,0,2,0.5,2021-10-30,65,Liverpool,2,False
+Jakub Moder,MID,Brighton,0,0,0,0.0,2021-11-06,0,Newcastle United,0,True
+Jakub Moder,MID,Brighton,0,0,2,1.8,2021-11-20,90,Aston Villa,2,False
+Jakub Moder,MID,Brighton,0,1,0,5.6,2021-11-27,81,Leicester City,3,True
+Jakub Moder,MID,Brighton,0,0,1,6.2,2021-12-01,90,West Ham,2,False
+Jakub Moder,MID,Brighton,0,0,0,4.6,2021-12-04,12,Southampton,4,False
+Jakub Moder,MID,Brighton,0,0,1,3.4,2021-12-15,90,Wolverhampton,2,True
+Jakub Moder,MID,Brighton,0,1,0,6.1,2021-12-26,90,Brentford,6,True
+Jakub Moder,MID,Brighton,0,0,0,0.0,2021-08-21,10,Watford,1,True
+Jakub Moder,MID,Brighton,0,0,1,1.1,2021-12-29,87,Chelsea,2,False
+Jakub Moder,MID,Brighton,0,0,0,0.1,2022-01-02,9,Everton,1,False
+Jakub Moder,MID,Brighton,0,0,1,5.4,2022-01-14,90,Crystal Palace,2,True
+Jakub Moder,MID,Brighton,0,0,1,2.3,2022-01-18,90,Chelsea,2,True
+Jakub Moder,MID,Brighton,0,0,1,3.3,2022-01-23,90,Leeds United,2,False
+Jakub Moder,MID,Brighton,0,1,0,9.4,2022-02-12,90,Watford,3,False
+Jakub Moder,MID,Brighton,0,0,2,6.0,2022-02-15,90,Manchester United,2,False
+Jakub Moder,MID,Brighton,0,0,2,1.6,2022-02-19,54,Burnley,1,True
+Jakub Moder,MID,Brighton,0,0,1,4.4,2022-02-26,62,Aston Villa,2,True
+Jakub Moder,MID,Brighton,0,0,2,3.7,2022-03-05,58,Newcastle United,1,False
+Jakub Moder,MID,Brighton,0,0,0,0.0,2022-03-12,0,Liverpool,0,True
+Jakub Moder,MID,Brighton,0,0,0,0.7,2022-03-16,12,Tottenham,1,True
+Jakub Moder,MID,Brighton,0,0,2,2.9,2021-08-28,72,Everton,2,True
+Jakub Moder,MID,Brighton,0,0,0,0.4,2022-04-02,5,Norwich,1,True
+Jakub Moder,MID,Brighton,0,0,0,0.0,2022-04-09,0,Arsenal,0,False
+Jakub Moder,MID,Brighton,0,0,0,0.0,2022-04-16,0,Tottenham,0,False
+Jakub Moder,MID,Brighton,0,0,0,0.0,2022-04-20,0,Manchester City,0,False
+Jakub Moder,MID,Brighton,0,0,0,0.0,2022-04-24,0,Southampton,0,True
+Jakub Moder,MID,Brighton,0,0,0,0.0,2022-04-30,0,Wolverhampton,0,False
+Jakub Moder,MID,Brighton,0,0,0,0.0,2022-05-07,0,Manchester United,0,True
+Jakub Moder,MID,Brighton,0,0,0,0.0,2022-05-15,0,Leicester City,0,False
+Jakub Moder,MID,Brighton,0,0,0,0.0,2022-05-22,0,West Ham,0,True
+Jakub Moder,MID,Brighton,0,0,0,0.6,2021-09-11,53,Brentford,1,False
+Jakub Moder,MID,Brighton,0,0,0,0.2,2021-09-19,11,Leeds United,1,True
+Jakub Moder,MID,Brighton,0,0,0,0.6,2021-09-27,25,Crystal Palace,1,False
+Jakub Moder,MID,Brighton,0,1,0,3.0,2021-10-02,77,Arsenal,3,True
+Jakub Moder,MID,Brighton,0,1,0,3.7,2021-10-16,83,Norwich,3,False
+Jakub Moder,MID,Brighton,0,0,4,7.6,2021-10-23,90,Manchester City,1,True

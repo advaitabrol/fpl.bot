@@ -1,39 +1,39 @@
-name,position,team,xP,assists,bonus,clean_sheets,fixture,goals_conceded,goals_scored,ict_index,minutes,opponent_team,penalties_missed,red_cards,total_points,was_home,yellow_cards
-Ibrahima Diallo,MID,Southampton,1.0,0,0,0,4,1,0,2.0,10,Everton,0,0,1,False,0
-Ibrahima Diallo,MID,Southampton,3.5,0,0,0,99,0,0,0.3,10,Watford,0,0,1,False,0
-Ibrahima Diallo,MID,Southampton,2.5,0,0,0,109,0,0,0.0,14,Aston Villa,0,0,1,True,0
-Ibrahima Diallo,MID,Southampton,2.7,0,0,0,117,2,0,5.2,90,Norwich,0,0,2,False,0
-Ibrahima Diallo,MID,Southampton,0.0,0,0,0,128,0,0,0.0,0,Liverpool,0,0,0,False,0
-Ibrahima Diallo,MID,Southampton,0.8,0,0,0,139,0,0,0.0,0,Leeds United,0,0,0,True,0
-Ibrahima Diallo,MID,Southampton,0.5,0,0,0,146,0,0,0.0,0,Brighton,0,0,0,True,0
-Ibrahima Diallo,MID,Southampton,0.3,0,0,0,151,3,0,1.0,90,Arsenal,0,0,2,False,0
-Ibrahima Diallo,MID,Southampton,0.7,0,0,0,165,0,0,0.0,0,Crystal Palace,0,0,0,False,0
-Ibrahima Diallo,MID,Southampton,0.1,0,0,0,189,0,0,1.2,1,West Ham,0,0,1,False,0
-Ibrahima Diallo,MID,Southampton,0.5,0,0,0,19,0,0,0.2,20,Manchester United,0,0,1,True,0
-Ibrahima Diallo,MID,Southampton,0.3,0,0,0,199,1,0,5.4,90,Tottenham,0,0,2,True,0
-Ibrahima Diallo,MID,Southampton,3.5,2,3,0,176,1,0,9.3,90,Brentford,0,0,11,True,0
-Ibrahima Diallo,MID,Southampton,3.8,0,0,0,220,1,0,1.6,45,Wolverhampton,0,0,1,False,0
-Ibrahima Diallo,MID,Southampton,3.3,0,0,0,229,0,0,1.3,8,Manchester City,0,0,1,True,0
-Ibrahima Diallo,MID,Southampton,0.5,0,0,0,240,0,0,0.0,1,Tottenham,0,0,1,False,0
-Ibrahima Diallo,MID,Southampton,0.5,0,0,0,246,0,0,0.0,1,Manchester United,0,0,1,False,0
-Ibrahima Diallo,MID,Southampton,0.7,0,0,0,258,0,0,0.0,0,Everton,0,0,0,True,0
-Ibrahima Diallo,MID,Southampton,1.0,0,0,0,269,0,0,0.0,0,Norwich,0,0,0,True,0
-Ibrahima Diallo,MID,Southampton,1.0,0,0,0,271,0,0,2.6,14,Aston Villa,0,0,1,False,0
-Ibrahima Diallo,MID,Southampton,1.0,0,0,0,209,0,0,0.0,0,Newcastle United,0,0,0,True,0
-Ibrahima Diallo,MID,Southampton,0.7,0,0,0,289,0,0,0.0,0,Watford,0,0,0,True,0
-Ibrahima Diallo,MID,Southampton,1.5,0,0,0,25,1,0,0.6,2,Newcastle United,0,0,1,False,0
-Ibrahima Diallo,MID,Southampton,0.7,0,0,0,305,1,0,2.8,90,Leicester City,0,0,2,False,0
-Ibrahima Diallo,MID,Southampton,0.5,0,0,0,319,2,0,0.5,45,Chelsea,0,0,1,True,0
-Ibrahima Diallo,MID,Southampton,1.6,0,0,0,326,0,0,0.0,0,Arsenal,0,0,0,True,0
-Ibrahima Diallo,MID,Southampton,1.6,0,0,0,292,0,0,0.0,0,Burnley,0,0,0,False,0
-Ibrahima Diallo,MID,Southampton,0.6,0,0,0,333,0,0,0.0,0,Brighton,0,0,0,False,0
-Ibrahima Diallo,MID,Southampton,0.2,0,0,0,346,0,0,0.0,0,Crystal Palace,0,0,0,True,0
-Ibrahima Diallo,MID,Southampton,0.7,0,0,0,352,2,0,4.0,63,Brentford,0,0,1,False,1
-Ibrahima Diallo,MID,Southampton,-0.4,0,0,0,366,2,0,0.6,70,Liverpool,0,0,2,True,0
-Ibrahima Diallo,MID,Southampton,0.6,0,0,0,377,0,0,0.0,0,Leeds United,0,0,0,False,0
-Ibrahima Diallo,MID,Southampton,0.5,0,0,0,39,0,0,0.7,37,West Ham,0,0,1,True,0
-Ibrahima Diallo,MID,Southampton,-0.2,0,0,0,45,0,0,0.0,0,Manchester City,0,0,0,False,0
-Ibrahima Diallo,MID,Southampton,0.3,0,0,0,59,0,0,0.0,0,Wolverhampton,0,0,0,True,0
-Ibrahima Diallo,MID,Southampton,-0.5,0,0,0,63,2,0,1.5,45,Chelsea,0,0,1,False,0
-Ibrahima Diallo,MID,Southampton,1.3,0,0,1,79,0,0,1.3,90,Leicester City,0,0,3,True,0
-Ibrahima Diallo,MID,Southampton,2.7,1,0,0,89,2,0,4.5,90,Burnley,0,0,5,True,0
+name,position,team,bonus,clean_sheets,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,total_points,was_home
+Ibrahima Diallo,MID,Southampton,0,0,1,2.0,2021-08-14,10,Everton,1,False
+Ibrahima Diallo,MID,Southampton,0,0,0,0.3,2021-10-30,10,Watford,1,False
+Ibrahima Diallo,MID,Southampton,0,0,0,0.0,2021-11-05,14,Aston Villa,1,True
+Ibrahima Diallo,MID,Southampton,0,0,2,5.2,2021-11-20,90,Norwich,2,False
+Ibrahima Diallo,MID,Southampton,0,0,0,0.0,2021-11-27,0,Liverpool,0,False
+Ibrahima Diallo,MID,Southampton,0,0,0,0.0,2021-12-01,0,Leeds United,0,True
+Ibrahima Diallo,MID,Southampton,0,0,0,0.0,2021-12-04,0,Brighton,0,True
+Ibrahima Diallo,MID,Southampton,0,0,3,1.0,2021-12-11,90,Arsenal,2,False
+Ibrahima Diallo,MID,Southampton,0,0,0,0.0,2021-12-15,0,Crystal Palace,0,False
+Ibrahima Diallo,MID,Southampton,0,0,0,1.2,2021-12-26,1,West Ham,1,False
+Ibrahima Diallo,MID,Southampton,0,0,0,0.2,2021-08-22,20,Manchester United,1,True
+Ibrahima Diallo,MID,Southampton,0,0,1,5.4,2021-12-28,90,Tottenham,2,True
+Ibrahima Diallo,MID,Southampton,3,0,1,9.3,2022-01-11,90,Brentford,11,True
+Ibrahima Diallo,MID,Southampton,0,0,1,1.6,2022-01-15,45,Wolverhampton,1,False
+Ibrahima Diallo,MID,Southampton,0,0,0,1.3,2022-01-22,8,Manchester City,1,True
+Ibrahima Diallo,MID,Southampton,0,0,0,0.0,2022-02-09,1,Tottenham,1,False
+Ibrahima Diallo,MID,Southampton,0,0,0,0.0,2022-02-12,1,Manchester United,1,False
+Ibrahima Diallo,MID,Southampton,0,0,0,0.0,2022-02-19,0,Everton,0,True
+Ibrahima Diallo,MID,Southampton,0,0,0,0.0,2022-02-25,0,Norwich,0,True
+Ibrahima Diallo,MID,Southampton,0,0,0,2.6,2022-03-05,14,Aston Villa,1,False
+Ibrahima Diallo,MID,Southampton,0,0,0,0.0,2022-03-10,0,Newcastle United,0,True
+Ibrahima Diallo,MID,Southampton,0,0,0,0.0,2022-03-13,0,Watford,0,True
+Ibrahima Diallo,MID,Southampton,0,0,1,0.6,2021-08-28,2,Newcastle United,1,False
+Ibrahima Diallo,MID,Southampton,0,0,1,2.8,2022-04-02,90,Leicester City,2,False
+Ibrahima Diallo,MID,Southampton,0,0,2,0.5,2022-04-09,45,Chelsea,1,True
+Ibrahima Diallo,MID,Southampton,0,0,0,0.0,2022-04-16,0,Arsenal,0,True
+Ibrahima Diallo,MID,Southampton,0,0,0,0.0,2022-04-21,0,Burnley,0,False
+Ibrahima Diallo,MID,Southampton,0,0,0,0.0,2022-04-24,0,Brighton,0,False
+Ibrahima Diallo,MID,Southampton,0,0,0,0.0,2022-04-30,0,Crystal Palace,0,True
+Ibrahima Diallo,MID,Southampton,0,0,2,4.0,2022-05-07,63,Brentford,1,False
+Ibrahima Diallo,MID,Southampton,0,0,2,0.6,2022-05-17,70,Liverpool,2,True
+Ibrahima Diallo,MID,Southampton,0,0,0,0.0,2022-05-22,0,Leeds United,0,False
+Ibrahima Diallo,MID,Southampton,0,0,0,0.7,2021-09-11,37,West Ham,1,True
+Ibrahima Diallo,MID,Southampton,0,0,0,0.0,2021-09-18,0,Manchester City,0,False
+Ibrahima Diallo,MID,Southampton,0,0,0,0.0,2021-09-26,0,Wolverhampton,0,True
+Ibrahima Diallo,MID,Southampton,0,0,2,1.5,2021-10-02,45,Chelsea,1,False
+Ibrahima Diallo,MID,Southampton,0,1,0,1.3,2021-10-16,90,Leicester City,3,True
+Ibrahima Diallo,MID,Southampton,0,0,2,4.5,2021-10-23,90,Burnley,5,True

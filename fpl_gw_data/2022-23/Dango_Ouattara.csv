@@ -1,20 +1,20 @@
-name,position,team,xP,assists,bonus,clean_sheets,expected_assists,expected_goals,fixture,goals_conceded,goals_scored,ict_index,minutes,opponent_team,penalties_missed,red_cards,starts,total_points,was_home,yellow_cards
-Dango Ouattara,MID,Bournemouth,2.4,1,0,0,0.04052,0.2889,202,1,0,8.9,90,Nottingham Forest,0,0,1,5,True,0
-Dango Ouattara,MID,Bournemouth,3.5,0,0,0,0.0,0.57,213,1,0,4.7,90,Brighton,0,0,1,2,False,0
-Dango Ouattara,MID,Bournemouth,3.7,1,2,0,0.24,0.1,222,1,0,7.6,78,Newcastle United,0,0,1,7,True,0
-Dango Ouattara,MID,Bournemouth,2.8,0,0,0,0.12,0.0,240,0,0,1.5,57,Wolverhampton,0,0,1,1,False,0
-Dango Ouattara,MID,Bournemouth,1.3,0,0,0,0.02,0.03,241,4,0,2.7,90,Manchester City,0,0,1,1,True,1
-Dango Ouattara,MID,Bournemouth,1.8,0,0,0,0.0,0.6,251,2,0,2.6,81,Arsenal,0,0,1,2,False,0
-Dango Ouattara,MID,Bournemouth,1.5,1,0,1,0.04,0.44,261,0,0,6.3,90,Liverpool,0,0,1,6,True,0
-Dango Ouattara,MID,Bournemouth,2.3,0,0,0,0.11,0.22,272,3,0,7.0,90,Aston Villa,0,0,1,2,False,0
-Dango Ouattara,MID,Bournemouth,4.6,0,0,0,0.01,0.07,282,1,0,0.6,45,Fulham,0,0,1,1,True,0
-Dango Ouattara,MID,Bournemouth,4.6,0,0,0,0.11,0.03,62,1,0,7.8,84,Brighton,0,0,1,2,True,0
-Dango Ouattara,MID,Bournemouth,1.0,0,0,0,0.12,0.0,295,0,0,3.1,37,Leeds United,0,0,1,1,False,0
-Dango Ouattara,MID,Bournemouth,2.5,0,2,0,0.01,0.4,308,1,1,6.8,11,Tottenham,0,0,0,8,False,0
-Dango Ouattara,MID,Bournemouth,2.1,0,0,0,0.01,0.09,312,1,0,3.6,29,West Ham,0,0,0,1,True,0
-Dango Ouattara,MID,Bournemouth,2.3,0,0,0,0.0,0.0,330,0,0,0.0,1,Southampton,0,0,0,1,False,0
-Dango Ouattara,MID,Bournemouth,2.1,0,0,0,0.08,0.03,332,1,0,4.6,90,Leicester City,0,0,1,2,True,0
-Dango Ouattara,MID,Bournemouth,2.3,0,0,0,0.57,0.58,341,3,0,8.4,90,Chelsea,0,0,1,2,True,0
-Dango Ouattara,MID,Bournemouth,0.0,0,0,0,0.06,0.01,355,2,0,2.7,72,Crystal Palace,0,0,1,2,False,0
-Dango Ouattara,MID,Bournemouth,1.3,0,0,0,0.13,0.0,361,0,0,2.1,24,Manchester United,0,0,0,1,True,0
-Dango Ouattara,MID,Bournemouth,1.3,0,0,0,0.01,0.06,376,1,0,0.0,90,Everton,0,0,1,2,False,0
+name,position,team,bonus,clean_sheets,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,starts,total_points,was_home
+Dango Ouattara,MID,Bournemouth,0,0,1,8.9,2023-01-21,90,Nottingham Forest,1,5,True
+Dango Ouattara,MID,Bournemouth,0,0,1,4.7,2023-02-04,90,Brighton,1,2,False
+Dango Ouattara,MID,Bournemouth,2,0,1,7.6,2023-02-11,78,Newcastle United,1,7,True
+Dango Ouattara,MID,Bournemouth,0,0,0,1.5,2023-02-18,57,Wolverhampton,1,1,False
+Dango Ouattara,MID,Bournemouth,0,0,4,2.7,2023-02-25,90,Manchester City,1,1,True
+Dango Ouattara,MID,Bournemouth,0,0,2,2.6,2023-03-04,81,Arsenal,1,2,False
+Dango Ouattara,MID,Bournemouth,0,1,0,6.3,2023-03-11,90,Liverpool,1,6,True
+Dango Ouattara,MID,Bournemouth,0,0,3,7.0,2023-03-18,90,Aston Villa,1,2,False
+Dango Ouattara,MID,Bournemouth,0,0,1,0.6,2023-04-01,45,Fulham,1,1,True
+Dango Ouattara,MID,Bournemouth,0,0,1,7.8,2023-04-04,84,Brighton,1,2,True
+Dango Ouattara,MID,Bournemouth,0,0,0,3.1,2023-04-08,37,Leeds United,1,1,False
+Dango Ouattara,MID,Bournemouth,2,0,1,6.8,2023-04-15,11,Tottenham,0,8,False
+Dango Ouattara,MID,Bournemouth,0,0,1,3.6,2023-04-23,29,West Ham,0,1,True
+Dango Ouattara,MID,Bournemouth,0,0,0,0.0,2023-04-27,1,Southampton,0,1,False
+Dango Ouattara,MID,Bournemouth,0,0,1,4.6,2023-04-30,90,Leicester City,1,2,True
+Dango Ouattara,MID,Bournemouth,0,0,3,8.4,2023-05-06,90,Chelsea,1,2,True
+Dango Ouattara,MID,Bournemouth,0,0,2,2.7,2023-05-13,72,Crystal Palace,1,2,False
+Dango Ouattara,MID,Bournemouth,0,0,0,2.1,2023-05-20,24,Manchester United,0,1,True
+Dango Ouattara,MID,Bournemouth,0,0,1,0.0,2023-05-28,90,Everton,1,2,False

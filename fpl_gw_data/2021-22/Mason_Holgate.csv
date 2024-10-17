@@ -1,39 +1,39 @@
-name,position,team,xP,assists,bonus,clean_sheets,fixture,goals_conceded,goals_scored,ict_index,minutes,opponent_team,own_goals,penalties_missed,red_cards,total_points,was_home,yellow_cards
-Mason Holgate,DEF,Everton,1.7,0,0,0,4,1,0,2.0,90,Southampton,0,0,0,2,True,0
-Mason Holgate,DEF,Everton,0.8,0,0,0,100,2,0,2.0,90,Wolverhampton,0,0,0,1,False,0
-Mason Holgate,DEF,Everton,0.3,0,0,0,106,0,0,0.0,8,Tottenham,0,0,1,-2,True,0
-Mason Holgate,DEF,Everton,0.0,0,0,0,115,0,0,0.0,0,Manchester City,0,0,0,0,False,0
-Mason Holgate,DEF,Everton,0.0,0,0,0,122,0,0,0.0,0,Brentford,0,0,0,0,False,0
-Mason Holgate,DEF,Everton,0.0,0,0,0,132,0,0,0.0,0,Liverpool,0,0,0,0,True,0
-Mason Holgate,DEF,Everton,-0.3,0,0,0,142,1,0,1.4,59,Arsenal,0,0,0,1,True,0
-Mason Holgate,DEF,Everton,0.4,0,0,0,156,3,0,2.3,90,Crystal Palace,0,0,0,1,False,0
-Mason Holgate,DEF,Everton,-0.5,0,0,0,168,1,0,0.2,90,Chelsea,0,0,0,1,False,1
-Mason Holgate,DEF,Everton,1.0,0,0,0,14,0,0,0.0,0,Leicester City,0,0,0,0,False,0
-Mason Holgate,DEF,Everton,1.0,0,0,0,205,3,0,1.5,90,Brighton,0,0,0,1,True,0
-Mason Holgate,DEF,Everton,1.0,0,0,0,217,0,0,0.0,0,Norwich,0,0,0,0,False,0
-Mason Holgate,DEF,Everton,1.0,0,0,0,225,1,0,0.8,90,Aston Villa,0,0,0,2,True,0
-Mason Holgate,DEF,Everton,1.5,1,0,0,239,3,0,3.4,90,Newcastle United,1,0,0,1,False,1
-Mason Holgate,DEF,Everton,3.0,0,0,1,244,0,0,1.9,90,Leicester City,0,0,0,6,True,0
-Mason Holgate,DEF,Everton,2.7,0,0,0,258,2,0,2.8,90,Southampton,0,0,0,1,False,0
-Mason Holgate,DEF,Everton,1.5,0,0,0,266,1,0,1.8,90,Manchester City,0,0,0,2,True,0
-Mason Holgate,DEF,Everton,1.7,0,0,0,278,5,0,2.0,90,Tottenham,0,0,0,0,False,0
-Mason Holgate,DEF,Everton,3.5,0,0,0,286,1,0,3.9,90,Wolverhampton,0,0,0,1,True,1
-Mason Holgate,DEF,Everton,3.5,0,0,1,195,0,0,1.8,90,Newcastle United,0,0,0,6,True,0
-Mason Holgate,DEF,Everton,2.7,0,0,1,22,0,0,1.9,90,Brighton,0,0,0,6,False,0
-Mason Holgate,DEF,Everton,7.1,0,2,0,309,2,1,7.2,90,West Ham,0,0,0,8,False,1
-Mason Holgate,DEF,Everton,7.1,0,0,0,183,3,0,1.3,86,Burnley,0,0,0,0,False,1
-Mason Holgate,DEF,Everton,2.0,0,0,0,314,0,0,0.0,0,Manchester United,0,0,0,0,True,0
-Mason Holgate,DEF,Everton,1.5,0,0,0,172,0,0,0.0,0,Leeds United,0,0,0,0,True,0
-Mason Holgate,DEF,Everton,0.3,0,0,0,338,2,0,1.2,90,Liverpool,0,0,0,1,False,0
-Mason Holgate,DEF,Everton,1.3,0,0,1,342,0,0,1.1,90,Chelsea,0,0,0,5,True,1
-Mason Holgate,DEF,Everton,7.1,0,0,0,357,1,1,7.7,90,Leeds United,0,0,0,8,False,0
-Mason Holgate,DEF,Everton,7.1,0,0,1,299,0,0,2.6,90,Watford,0,0,0,5,False,1
-Mason Holgate,DEF,Everton,6.3,0,0,0,362,3,0,1.3,90,Brentford,0,0,0,1,True,0
-Mason Holgate,DEF,Everton,6.3,1,0,0,322,2,0,5.5,90,Crystal Palace,0,0,0,4,True,0
-Mason Holgate,DEF,Everton,2.4,0,0,0,371,5,0,0.0,90,Arsenal,0,0,0,0,False,0
-Mason Holgate,DEF,Everton,2.5,0,0,0,35,0,0,0.0,0,Burnley,0,0,0,0,True,0
-Mason Holgate,DEF,Everton,1.5,0,0,0,41,0,0,0.0,0,Aston Villa,0,0,0,0,False,0
-Mason Holgate,DEF,Everton,1.0,0,0,0,55,0,0,0.0,0,Norwich,0,0,0,0,True,0
-Mason Holgate,DEF,Everton,0.0,0,0,0,67,0,0,0.0,0,Manchester United,0,0,0,0,False,0
-Mason Holgate,DEF,Everton,0.0,0,0,0,74,0,0,0.0,0,West Ham,0,0,0,0,True,0
-Mason Holgate,DEF,Everton,1.0,0,0,0,86,0,0,0.0,0,Watford,0,0,0,0,True,0
+name,position,team,bonus,clean_sheets,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,own_goals,total_points,was_home
+Mason Holgate,DEF,Everton,0,0,1,2.0,2021-08-14,90,Southampton,0,2,True
+Mason Holgate,DEF,Everton,0,0,2,2.0,2021-11-01,90,Wolverhampton,0,1,False
+Mason Holgate,DEF,Everton,0,0,0,0.0,2021-11-07,8,Tottenham,0,-2,True
+Mason Holgate,DEF,Everton,0,0,0,0.0,2021-11-21,0,Manchester City,0,0,False
+Mason Holgate,DEF,Everton,0,0,0,0.0,2021-11-28,0,Brentford,0,0,False
+Mason Holgate,DEF,Everton,0,0,0,0.0,2021-12-01,0,Liverpool,0,0,True
+Mason Holgate,DEF,Everton,0,0,1,1.4,2021-12-06,59,Arsenal,0,1,True
+Mason Holgate,DEF,Everton,0,0,3,2.3,2021-12-12,90,Crystal Palace,0,1,False
+Mason Holgate,DEF,Everton,0,0,1,0.2,2021-12-16,90,Chelsea,0,1,False
+Mason Holgate,DEF,Everton,0,0,0,0.0,2021-08-21,0,Leicester City,0,0,False
+Mason Holgate,DEF,Everton,0,0,3,1.5,2022-01-02,90,Brighton,0,1,True
+Mason Holgate,DEF,Everton,0,0,0,0.0,2022-01-15,0,Norwich,0,0,False
+Mason Holgate,DEF,Everton,0,0,1,0.8,2022-01-22,90,Aston Villa,0,2,True
+Mason Holgate,DEF,Everton,0,0,3,3.4,2022-02-08,90,Newcastle United,1,1,False
+Mason Holgate,DEF,Everton,0,1,0,1.9,2022-02-12,90,Leicester City,0,6,True
+Mason Holgate,DEF,Everton,0,0,2,2.8,2022-02-19,90,Southampton,0,1,False
+Mason Holgate,DEF,Everton,0,0,1,1.8,2022-02-26,90,Manchester City,0,2,True
+Mason Holgate,DEF,Everton,0,0,5,2.0,2022-03-07,90,Tottenham,0,0,False
+Mason Holgate,DEF,Everton,0,0,1,3.9,2022-03-13,90,Wolverhampton,0,1,True
+Mason Holgate,DEF,Everton,0,1,0,1.8,2022-03-17,90,Newcastle United,0,6,True
+Mason Holgate,DEF,Everton,0,1,0,1.9,2021-08-28,90,Brighton,0,6,False
+Mason Holgate,DEF,Everton,2,0,2,7.2,2022-04-03,90,West Ham,0,8,False
+Mason Holgate,DEF,Everton,0,0,3,1.3,2022-04-06,86,Burnley,0,0,False
+Mason Holgate,DEF,Everton,0,0,0,0.0,2022-04-09,0,Manchester United,0,0,True
+Mason Holgate,DEF,Everton,0,0,0,0.0,2022-04-20,0,Leeds United,0,0,True
+Mason Holgate,DEF,Everton,0,0,2,1.2,2022-04-24,90,Liverpool,0,1,False
+Mason Holgate,DEF,Everton,0,1,0,1.1,2022-05-01,90,Chelsea,0,5,True
+Mason Holgate,DEF,Everton,0,0,1,7.7,2022-05-08,90,Leeds United,0,8,False
+Mason Holgate,DEF,Everton,0,1,0,2.6,2022-05-11,90,Watford,0,5,False
+Mason Holgate,DEF,Everton,0,0,3,1.3,2022-05-15,90,Brentford,0,1,True
+Mason Holgate,DEF,Everton,0,0,2,5.5,2022-05-19,90,Crystal Palace,0,4,True
+Mason Holgate,DEF,Everton,0,0,5,0.0,2022-05-22,90,Arsenal,0,0,False
+Mason Holgate,DEF,Everton,0,0,0,0.0,2021-09-13,0,Burnley,0,0,True
+Mason Holgate,DEF,Everton,0,0,0,0.0,2021-09-18,0,Aston Villa,0,0,False
+Mason Holgate,DEF,Everton,0,0,0,0.0,2021-09-25,0,Norwich,0,0,True
+Mason Holgate,DEF,Everton,0,0,0,0.0,2021-10-02,0,Manchester United,0,0,False
+Mason Holgate,DEF,Everton,0,0,0,0.0,2021-10-17,0,West Ham,0,0,True
+Mason Holgate,DEF,Everton,0,0,0,0.0,2021-10-23,0,Watford,0,0,True

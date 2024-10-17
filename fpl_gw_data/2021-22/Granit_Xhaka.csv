@@ -1,39 +1,39 @@
-name,position,team,xP,assists,bonus,clean_sheets,fixture,goals_conceded,goals_scored,ict_index,minutes,opponent_team,penalties_missed,red_cards,total_points,was_home,yellow_cards
-Granit Xhaka,MID,Arsenal,2.4,0,0,0,1,2,0,4.5,90,Brentford,0,0,2,False,0
-Granit Xhaka,MID,Arsenal,0.0,0,0,0,93,0,0,0.0,0,Leeds United,0,0,0,False,0
-Granit Xhaka,MID,Arsenal,0.0,0,0,0,101,0,0,0.0,0,Watford,0,0,0,True,0
-Granit Xhaka,MID,Arsenal,0.0,0,0,0,114,0,0,0.0,0,Liverpool,0,0,0,False,0
-Granit Xhaka,MID,Arsenal,0.0,0,0,0,121,0,0,0.0,0,Newcastle United,0,0,0,True,0
-Granit Xhaka,MID,Arsenal,0.0,0,0,0,134,0,0,0.0,0,Manchester United,0,0,0,False,0
-Granit Xhaka,MID,Arsenal,0.0,0,0,0,142,2,0,1.6,90,Everton,0,0,1,False,1
-Granit Xhaka,MID,Arsenal,1.3,0,0,1,151,0,0,0.8,80,Southampton,0,0,3,True,0
-Granit Xhaka,MID,Arsenal,1.2,0,0,1,161,0,0,6.8,90,West Ham,0,0,3,True,0
-Granit Xhaka,MID,Arsenal,2.1,1,0,0,173,1,0,9.0,90,Leicester City,0,0,4,False,1
-Granit Xhaka,MID,Arsenal,3.2,0,0,1,187,0,0,5.0,90,Norwich,0,0,2,False,1
-Granit Xhaka,MID,Arsenal,2.0,0,0,0,18,2,0,4.8,90,Chelsea,0,0,2,True,0
-Granit Xhaka,MID,Arsenal,2.0,0,0,0,201,2,0,0.8,90,Manchester City,0,0,1,True,1
-Granit Xhaka,MID,Arsenal,0.0,0,0,0,221,0,0,0.0,0,Burnley,0,0,0,True,0
-Granit Xhaka,MID,Arsenal,1.5,0,0,1,236,0,0,1.9,90,Wolverhampton,0,0,2,False,1
-Granit Xhaka,MID,Arsenal,5.0,0,0,0,251,1,0,7.7,90,Brentford,0,0,2,True,0
-Granit Xhaka,MID,Arsenal,5.0,0,0,0,191,1,0,6.7,90,Wolverhampton,0,0,2,True,0
-Granit Xhaka,MID,Arsenal,3.0,0,0,0,279,2,0,3.1,90,Watford,0,0,2,False,0
-Granit Xhaka,MID,Arsenal,4.4,0,0,1,281,0,0,8.0,90,Leeds United,0,0,3,True,0
-Granit Xhaka,MID,Arsenal,4.4,0,0,0,261,2,0,3.8,90,Liverpool,0,0,2,True,0
-Granit Xhaka,MID,Arsenal,0.2,0,0,0,24,5,0,0.0,34,Manchester City,0,1,-2,False,0
-Granit Xhaka,MID,Arsenal,2.7,0,0,1,291,0,0,2.8,90,Aston Villa,0,0,2,False,1
-Granit Xhaka,MID,Arsenal,2.5,0,0,0,304,3,0,2.9,90,Crystal Palace,0,0,1,False,1
-Granit Xhaka,MID,Arsenal,3.5,1,2,0,311,2,0,4.9,90,Brighton,0,0,7,True,0
-Granit Xhaka,MID,Arsenal,6.5,0,0,0,326,1,0,6.4,90,Southampton,0,0,2,False,0
-Granit Xhaka,MID,Arsenal,6.5,0,0,0,243,2,0,3.9,90,Chelsea,0,0,2,False,0
-Granit Xhaka,MID,Arsenal,3.8,0,1,0,331,1,1,7.8,90,Manchester United,0,0,7,True,1
-Granit Xhaka,MID,Arsenal,4.0,0,0,0,349,1,0,6.4,90,West Ham,0,0,2,False,0
-Granit Xhaka,MID,Arsenal,5.9,0,0,0,351,1,0,7.9,90,Leicester City,0,0,2,True,0
-Granit Xhaka,MID,Arsenal,5.9,0,0,0,218,3,0,1.3,90,Tottenham,0,0,1,False,1
-Granit Xhaka,MID,Arsenal,3.0,0,0,0,365,2,0,2.7,90,Newcastle United,0,0,1,False,1
-Granit Xhaka,MID,Arsenal,3.5,0,0,0,371,1,0,0.0,62,Everton,0,0,2,True,0
-Granit Xhaka,MID,Arsenal,0.0,0,0,0,31,0,0,0.0,0,Norwich,0,0,0,True,0
-Granit Xhaka,MID,Arsenal,0.0,0,0,0,43,0,0,0.0,0,Burnley,0,0,0,False,0
-Granit Xhaka,MID,Arsenal,1.2,0,0,0,51,1,0,1.1,81,Tottenham,0,0,2,True,0
-Granit Xhaka,MID,Arsenal,0.0,0,0,0,61,0,0,0.0,0,Brighton,0,0,0,False,0
-Granit Xhaka,MID,Arsenal,0.0,0,0,0,71,0,0,0.0,0,Crystal Palace,0,0,0,True,0
-Granit Xhaka,MID,Arsenal,0.0,0,0,0,81,0,0,0.0,0,Aston Villa,0,0,0,True,0
+name,position,team,bonus,clean_sheets,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,total_points,was_home
+Granit Xhaka,MID,Arsenal,0,0,2,4.5,2021-08-13,90,Brentford,2,False
+Granit Xhaka,MID,Arsenal,0,0,0,0.0,2021-10-30,0,Leeds United,0,False
+Granit Xhaka,MID,Arsenal,0,0,0,0.0,2021-11-07,0,Watford,0,True
+Granit Xhaka,MID,Arsenal,0,0,0,0.0,2021-11-20,0,Liverpool,0,False
+Granit Xhaka,MID,Arsenal,0,0,0,0.0,2021-11-27,0,Newcastle United,0,True
+Granit Xhaka,MID,Arsenal,0,0,0,0.0,2021-12-02,0,Manchester United,0,False
+Granit Xhaka,MID,Arsenal,0,0,2,1.6,2021-12-06,90,Everton,1,False
+Granit Xhaka,MID,Arsenal,0,1,0,0.8,2021-12-11,80,Southampton,3,True
+Granit Xhaka,MID,Arsenal,0,1,0,6.8,2021-12-15,90,West Ham,3,True
+Granit Xhaka,MID,Arsenal,0,0,1,9.0,2021-12-18,90,Leicester City,4,False
+Granit Xhaka,MID,Arsenal,0,1,0,5.0,2021-12-26,90,Norwich,2,False
+Granit Xhaka,MID,Arsenal,0,0,2,4.8,2021-08-22,90,Chelsea,2,True
+Granit Xhaka,MID,Arsenal,0,0,2,0.8,2022-01-01,90,Manchester City,1,True
+Granit Xhaka,MID,Arsenal,0,0,0,0.0,2022-01-23,0,Burnley,0,True
+Granit Xhaka,MID,Arsenal,0,1,0,1.9,2022-02-10,90,Wolverhampton,2,False
+Granit Xhaka,MID,Arsenal,0,0,1,7.7,2022-02-19,90,Brentford,2,True
+Granit Xhaka,MID,Arsenal,0,0,1,6.7,2022-02-24,90,Wolverhampton,2,True
+Granit Xhaka,MID,Arsenal,0,0,2,3.1,2022-03-06,90,Watford,2,False
+Granit Xhaka,MID,Arsenal,0,1,0,8.0,2022-03-13,90,Leeds United,3,True
+Granit Xhaka,MID,Arsenal,0,0,2,3.8,2022-03-16,90,Liverpool,2,True
+Granit Xhaka,MID,Arsenal,0,0,5,0.0,2021-08-28,34,Manchester City,-2,False
+Granit Xhaka,MID,Arsenal,0,1,0,2.8,2022-03-19,90,Aston Villa,2,False
+Granit Xhaka,MID,Arsenal,0,0,3,2.9,2022-04-04,90,Crystal Palace,1,False
+Granit Xhaka,MID,Arsenal,2,0,2,4.9,2022-04-09,90,Brighton,7,True
+Granit Xhaka,MID,Arsenal,0,0,1,6.4,2022-04-16,90,Southampton,2,False
+Granit Xhaka,MID,Arsenal,0,0,2,3.9,2022-04-20,90,Chelsea,2,False
+Granit Xhaka,MID,Arsenal,1,0,1,7.8,2022-04-23,90,Manchester United,7,True
+Granit Xhaka,MID,Arsenal,0,0,1,6.4,2022-05-01,90,West Ham,2,False
+Granit Xhaka,MID,Arsenal,0,0,1,7.9,2022-05-08,90,Leicester City,2,True
+Granit Xhaka,MID,Arsenal,0,0,3,1.3,2022-05-12,90,Tottenham,1,False
+Granit Xhaka,MID,Arsenal,0,0,2,2.7,2022-05-16,90,Newcastle United,1,False
+Granit Xhaka,MID,Arsenal,0,0,1,0.0,2022-05-22,62,Everton,2,True
+Granit Xhaka,MID,Arsenal,0,0,0,0.0,2021-09-11,0,Norwich,0,True
+Granit Xhaka,MID,Arsenal,0,0,0,0.0,2021-09-18,0,Burnley,0,False
+Granit Xhaka,MID,Arsenal,0,0,1,1.1,2021-09-26,81,Tottenham,2,True
+Granit Xhaka,MID,Arsenal,0,0,0,0.0,2021-10-02,0,Brighton,0,False
+Granit Xhaka,MID,Arsenal,0,0,0,0.0,2021-10-18,0,Crystal Palace,0,True
+Granit Xhaka,MID,Arsenal,0,0,0,0.0,2021-10-22,0,Aston Villa,0,True

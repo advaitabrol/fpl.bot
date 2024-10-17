@@ -1,34 +1,34 @@
-name,position,team,xP,assists,bonus,clean_sheets,expected_assists,expected_goals,fixture,goals_conceded,goals_scored,ict_index,minutes,opponent_team,penalties_missed,red_cards,starts,total_points,was_home,yellow_cards
-Samuel Edozie,MID,Southampton,-0.3,0,0,0,0.0,0.0,97,0,0,0.0,0,Manchester City,0,0,0,0,False,0
-Samuel Edozie,MID,Southampton,0.7,0,0,0,0.0,0.0,108,0,0,1.5,16,West Ham,0,0,0,1,True,0
-Samuel Edozie,MID,Southampton,0.0,0,0,0,0.0,0.0,112,0,0,0.0,0,Bournemouth,0,0,0,0,False,0
-Samuel Edozie,MID,Southampton,0.1,0,0,0,0.0,0.0,127,0,0,0.2,10,Arsenal,0,0,0,1,True,0
-Samuel Edozie,MID,Southampton,0.7,0,0,0,0.0,0.0,135,0,0,1.7,16,Crystal Palace,0,0,0,1,False,0
-Samuel Edozie,MID,Southampton,0.8,0,0,0,0.0,0.0,147,1,0,1.4,26,Newcastle United,0,0,0,1,True,0
-Samuel Edozie,MID,Southampton,0.0,0,0,0,0.03876,0.223,154,0,0,2.3,31,Liverpool,0,0,0,1,False,0
-Samuel Edozie,MID,Southampton,2.0,0,0,0,0.08681,0.3362,170,3,0,6.3,83,Brighton,0,0,1,2,True,0
-Samuel Edozie,MID,Southampton,2.0,0,0,0,0.01548,0.0888,173,1,0,2.7,76,Fulham,0,0,1,2,False,0
-Samuel Edozie,MID,Southampton,2.2,0,0,0,2e-05,0.0,190,0,0,0.2,26,Nottingham Forest,0,0,0,1,True,0
-Samuel Edozie,MID,Southampton,1.8,0,0,0,0.08127,0.0989,195,1,0,4.6,60,Everton,0,0,1,2,False,0
-Samuel Edozie,MID,Southampton,2.0,0,0,1,0.00743,0.0,209,0,0,1.6,61,Aston Villa,0,0,1,3,True,0
-Samuel Edozie,MID,Southampton,2.3,0,0,0,0.01,0.1,212,2,0,1.6,64,Brentford,0,0,1,2,False,0
-Samuel Edozie,MID,Southampton,1.5,0,0,0,0.0,0.0,229,1,0,0.0,10,Wolverhampton,0,0,0,1,True,0
-Samuel Edozie,MID,Southampton,0.5,0,0,0,0.0,0.0,234,0,0,0.0,0,Chelsea,0,0,0,0,False,0
-Samuel Edozie,MID,Southampton,0.3,0,0,0,0.0,0.0,245,0,0,0.0,0,Leicester City,0,0,0,0,False,0
-Samuel Edozie,MID,Southampton,-0.3,0,0,0,0.0,0.0,259,0,0,0.0,0,Leeds United,0,0,0,0,True,0
-Samuel Edozie,MID,Southampton,-1.0,0,0,0,0.0,0.0,267,0,0,0.0,0,Manchester United,0,0,0,0,False,0
-Samuel Edozie,MID,Southampton,-1.0,0,0,0,0.0,0.0,69,0,0,0.0,0,Brentford,0,0,0,0,True,0
-Samuel Edozie,MID,Southampton,-0.5,0,0,0,0.0,0.0,279,0,0,0.0,0,Tottenham,0,0,0,0,True,0
-Samuel Edozie,MID,Southampton,-0.5,0,0,0,0.0,0.0,290,0,0,0.0,0,West Ham,0,0,0,0,False,0
-Samuel Edozie,MID,Southampton,-1.5,0,0,0,0.0,0.0,298,0,0,0.0,0,Manchester City,0,0,0,0,True,0
-Samuel Edozie,MID,Southampton,-0.2,0,0,0,0.0,0.0,307,0,0,0.3,10,Crystal Palace,0,0,0,1,True,0
-Samuel Edozie,MID,Southampton,-0.8,0,0,0,0.0,0.0,311,0,0,0.0,0,Arsenal,0,0,0,0,False,0
-Samuel Edozie,MID,Southampton,0.2,0,0,0,0.0,0.0,330,0,0,0.0,0,Bournemouth,0,0,0,0,True,0
-Samuel Edozie,MID,Southampton,-0.8,0,0,0,0.0,0.0,340,0,0,0.0,0,Newcastle United,0,0,0,0,False,0
-Samuel Edozie,MID,Southampton,-0.1,0,0,0,0.04,0.0,347,0,0,4.3,14,Nottingham Forest,0,0,0,1,False,0
-Samuel Edozie,MID,Southampton,0.0,0,0,0,0.0,0.0,360,0,0,0.0,0,Fulham,0,0,0,0,True,0
-Samuel Edozie,MID,Southampton,-0.3,0,0,0,0.0,0.0,362,0,0,0.0,0,Brighton,0,0,0,0,False,0
-Samuel Edozie,MID,Southampton,0.0,0,0,0,0.0,0.0,380,0,0,0.0,0,Liverpool,0,0,0,0,True,0
-Samuel Edozie,MID,Southampton,1.7,0,0,0,0.0,0.0,60,0,0,2.4,17,Wolverhampton,0,0,0,1,False,0
-Samuel Edozie,MID,Southampton,1.0,0,0,0,0.0,0.0,71,0,0,0.1,11,Aston Villa,0,0,0,1,False,0
-Samuel Edozie,MID,Southampton,1.0,0,0,0,0.0,0.0,89,0,0,2.0,23,Everton,0,0,0,1,True,0
+name,position,team,bonus,clean_sheets,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,starts,total_points,was_home
+Samuel Edozie,MID,Southampton,0,0,0,0.0,2022-10-08,0,Manchester City,0,0,False
+Samuel Edozie,MID,Southampton,0,0,0,1.5,2022-10-16,16,West Ham,0,1,True
+Samuel Edozie,MID,Southampton,0,0,0,0.0,2022-10-19,0,Bournemouth,0,0,False
+Samuel Edozie,MID,Southampton,0,0,0,0.2,2022-10-23,10,Arsenal,0,1,True
+Samuel Edozie,MID,Southampton,0,0,0,1.7,2022-10-29,16,Crystal Palace,0,1,False
+Samuel Edozie,MID,Southampton,0,0,1,1.4,2022-11-06,26,Newcastle United,0,1,True
+Samuel Edozie,MID,Southampton,0,0,0,2.3,2022-11-12,31,Liverpool,0,1,False
+Samuel Edozie,MID,Southampton,0,0,3,6.3,2022-12-26,83,Brighton,1,2,True
+Samuel Edozie,MID,Southampton,0,0,1,2.7,2022-12-31,76,Fulham,1,2,False
+Samuel Edozie,MID,Southampton,0,0,0,0.2,2023-01-04,26,Nottingham Forest,0,1,True
+Samuel Edozie,MID,Southampton,0,0,1,4.6,2023-01-14,60,Everton,1,2,False
+Samuel Edozie,MID,Southampton,0,1,0,1.6,2023-01-21,61,Aston Villa,1,3,True
+Samuel Edozie,MID,Southampton,0,0,2,1.6,2023-02-04,64,Brentford,1,2,False
+Samuel Edozie,MID,Southampton,0,0,1,0.0,2023-02-11,10,Wolverhampton,0,1,True
+Samuel Edozie,MID,Southampton,0,0,0,0.0,2023-02-18,0,Chelsea,0,0,False
+Samuel Edozie,MID,Southampton,0,0,0,0.0,2023-02-25,0,Leicester City,0,0,False
+Samuel Edozie,MID,Southampton,0,0,0,0.0,2023-03-04,0,Leeds United,0,0,True
+Samuel Edozie,MID,Southampton,0,0,0,0.0,2023-03-12,0,Manchester United,0,0,False
+Samuel Edozie,MID,Southampton,0,0,0,0.0,2023-03-15,0,Brentford,0,0,True
+Samuel Edozie,MID,Southampton,0,0,0,0.0,2023-03-18,0,Tottenham,0,0,True
+Samuel Edozie,MID,Southampton,0,0,0,0.0,2023-04-02,0,West Ham,0,0,False
+Samuel Edozie,MID,Southampton,0,0,0,0.0,2023-04-08,0,Manchester City,0,0,True
+Samuel Edozie,MID,Southampton,0,0,0,0.3,2023-04-15,10,Crystal Palace,0,1,True
+Samuel Edozie,MID,Southampton,0,0,0,0.0,2023-04-21,0,Arsenal,0,0,False
+Samuel Edozie,MID,Southampton,0,0,0,0.0,2023-04-27,0,Bournemouth,0,0,True
+Samuel Edozie,MID,Southampton,0,0,0,0.0,2023-04-30,0,Newcastle United,0,0,False
+Samuel Edozie,MID,Southampton,0,0,0,4.3,2023-05-08,14,Nottingham Forest,0,1,False
+Samuel Edozie,MID,Southampton,0,0,0,0.0,2023-05-13,0,Fulham,0,0,True
+Samuel Edozie,MID,Southampton,0,0,0,0.0,2023-05-21,0,Brighton,0,0,False
+Samuel Edozie,MID,Southampton,0,0,0,0.0,2023-05-28,0,Liverpool,0,0,True
+Samuel Edozie,MID,Southampton,0,0,0,2.4,2022-09-03,17,Wolverhampton,0,1,False
+Samuel Edozie,MID,Southampton,0,0,0,0.1,2022-09-16,11,Aston Villa,0,1,False
+Samuel Edozie,MID,Southampton,0,0,0,2.0,2022-10-01,23,Everton,0,1,True
