@@ -1,140 +1,156 @@
 import os
 import pandas as pd
-import ast
+import numpy as np
 
-# Define weights for each season
-season_weights = {'2023-24': 3, '2022-23': 2, '2021-22': 1}
+# Function to calculate average difficulty across seasons
+def calculate_average_difficulty(team, opponent, difficulties):
+    home_difficulties = [d['Home'] for d in difficulties if d['Home'] is not None]
+    away_difficulties = [d['Away'] for d in difficulties if d['Away'] is not None]
+    
+    # Calculate averages, if there are values to average
+    home_avg = np.mean(home_difficulties) if home_difficulties else None
+    away_avg = np.mean(away_difficulties) if away_difficulties else None
+    
+    return home_avg, away_avg
 
-# Directories for fixtures and team data
-fixtures_dir = './fixturesForEachTeam/'
-fpl_team_data_dir = './fpl_team_data/'
-output_dir = './team_difficulty_ratings/'
+def calculate_difficulty(team, opponent, location, team_fixtures, team_fpl_data):
+    # Filter fixtures to find matches against the opponent
+    opponent_matches = team_fixtures[(team_fixtures['Opponent'] == opponent) & (team_fixtures['Location'] == location)]
 
-# Ensure the output directory exists
+    if opponent_matches.empty:
+        return None  # If there are no matches against the opponent for that location, return None
+    
+    # Gather difficulties based on normalized stats from FPL data
+    difficulties = []
+
+    for idx, match in opponent_matches.iterrows():
+        # Find the corresponding row in the FPL data using the index
+        try:
+            fpl_row = team_fpl_data.iloc[idx]
+
+            # Calculate weighted differences using the normalized data
+            # (missed - scored) with weight 5
+            missed_scored_diff = (fpl_row['missed_normalized'] - fpl_row['scored_normalized']) * 5
+
+            # (xGA - xG) with weight 3
+            xga_xg_diff = (fpl_row['xGA_normalized'] - fpl_row['xG_normalized']) * 3
+
+            # (ppda_allowed - ppda) with weight 2
+            ppda_diff = (fpl_row['ppda_allowed_normalized'] - fpl_row['ppda_normalized']) * 2
+
+            # (deep - deep_allowed) with weight 2
+            deep_diff = (fpl_row['deep_normalized'] - fpl_row['deep_allowed_normalized']) * 2
+
+            # Sum up the difficulty based on the weighted differences
+            total_difficulty = missed_scored_diff + xga_xg_diff + ppda_diff + deep_diff
+
+            difficulties.append(total_difficulty)
+        except IndexError:
+            # If there’s no matching row in the FPL data, continue to the next match
+            continue
+
+    # If there were no valid matches, return None
+    if not difficulties:
+        return None
+
+    # Return the average difficulty for the opponent
+    return sum(difficulties) / len(difficulties)
+
+
+def normalize_team_name(filename):
+    # Split the filename into parts by underscore
+    parts = filename.split('_')
+    
+    # Join all parts except the last one (which is the season)
+    team_name = '_'.join(parts[:-1])
+    
+    # Replace underscores with spaces to get the proper team name
+    return team_name.replace('_', ' ')
+
+# Main function to calculate difficulties
+def calculate_difficulties_for_all_teams(fpl_team_data_dir, fixtures_dir, output_dir, seasons):
+    teams = set(normalize_team_name(filename) for filename in os.listdir(fixtures_dir) if filename.endswith('.csv'))
+
+    for team in teams:
+        print(f"Processing {team}...")
+
+        difficulties = []  # To store home and away difficulties for all seasons
+        for season in seasons:
+            team_fixture_file = f"{team.replace(' ', '_')}_{season}.csv"
+            fpl_team_data_file = f"{team.replace(' ', '_')}_{season}.csv"
+
+            # Try loading fixture and FPL data for the season
+            try:
+                # Load the fixtures for the team
+                team_fixtures = pd.read_csv(os.path.join(fixtures_dir, team_fixture_file))
+
+                # Load the FPL data for the team
+                team_fpl_data = pd.read_csv(os.path.join(fpl_team_data_dir, fpl_team_data_file))
+
+                # Calculate difficulties for all opponents
+                for opponent in teams:
+                    if team != opponent:  # Don't calculate difficulty for itself
+                        home_difficulty = calculate_difficulty(team, opponent, 'Home', team_fixtures, team_fpl_data)
+                        away_difficulty = calculate_difficulty(team, opponent, 'Away', team_fixtures, team_fpl_data)
+
+                        difficulties.append({
+                            'Opponent': opponent,
+                            'Home Difficulty': home_difficulty,
+                            'Away Difficulty': away_difficulty
+                        })
+            except FileNotFoundError:
+                print(f"File not found for {team} in {season}. Skipping this season.")
+                continue  # Move to the next season
+
+        # Calculate average difficulty across available seasons
+        if difficulties:
+            difficulties_df = pd.DataFrame(difficulties)
+            # Group by opponent and average across seasons
+            average_difficulties = difficulties_df.groupby('Opponent').mean().reset_index()
+
+            # Save difficulty ratings for the team
+            output_file = os.path.join(output_dir, f"{team}_difficulty_ratings.csv")
+            average_difficulties.to_csv(output_file, index=False)
+            print(f"Saved difficulty ratings for {team} to {output_file}")
+
+
+# Function to calculate difficulty using normalized data with specific weights
+def calculate_difficulty_from_normalized_data(fpl_row, weight_dict):
+    # Extract normalized values
+    scored_norm = fpl_row['scored_normalized']
+    missed_norm = fpl_row['missed_normalized']
+    xG_norm = fpl_row['xG_normalized']
+    xGA_norm = fpl_row['xGA_normalized']
+    ppda_norm = fpl_row['ppda_normalized']
+    ppda_allowed_norm = fpl_row['ppda_allowed_normalized']
+    deep_norm = fpl_row['deep_normalized']
+    deep_allowed_norm = fpl_row['deep_allowed_normalized']
+    
+    # Apply weights
+    difficulty = (
+        weight_dict['scored_missed'] * (missed_norm - scored_norm) +
+        weight_dict['xG_xGA'] * (xGA_norm - xG_norm) +
+        weight_dict['ppda_diff'] * (ppda_allowed_norm - ppda_norm) +
+        weight_dict['deep_diff'] * (deep_norm - deep_allowed_norm)
+    )
+    
+    return difficulty
+
+# Set weights for different factors
+weight_dict = {
+    'scored_missed': 5,
+    'xG_xGA': 3,
+    'ppda_diff': 2,
+    'deep_diff': 2
+}
+
+# Example usage
+fpl_team_data_dir = './fpl_team_data'
+fixtures_dir = './fixturesForEachTeam'
+output_dir = './output'
+seasons = ['2021-22', '2022-23', '2023-24']
+
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
-# Function to parse the ppda and ppda_allowed fields (which are saved as dictionary-like strings)
-def parse_ppda(ppda_str):
-    try:
-        ppda_dict = ast.literal_eval(ppda_str)
-        return ppda_dict['att'] + ppda_dict['def']  # Return the sum of att and def values
-    except (ValueError, SyntaxError, KeyError):
-        return None  # If parsing fails, return None
-
-# Normalize team names (handle underscores and capitalization)
-def normalize_team_name(name):
-    return name.replace('_', ' ').strip().lower()
-
-# Normalize the location data to match 'Home' and 'Away'
-def normalize_location(location):
-    return location.strip().capitalize()
-
-# Function to extract the correct team name from the filename
-def extract_team_name(filename):
-    # Split the filename by underscores to get parts
-    parts = filename.split('_')
-    
-    # If there are 2 underscores, the team name consists of two words (e.g., "West_Ham")
-    if len(parts) == 3:  # Example: "West_Ham_2023-24.csv"
-        team_name = ' '.join(parts[:2])  # Join the first two parts as the team name
-    else:
-        team_name = parts[0]  # Use the first part for single-word team names
-    
-    # Special case for Wolverhampton Wanderers (we only want 'Wolverhampton')
-    if team_name == "Wolverhampton Wanderers":
-        team_name = "Wolverhampton"
-    
-    return team_name.strip().lower()  # Normalize and return the name
-
-# Get list of teams based on the file names in the fixtures folder
-teams = list(set(extract_team_name(filename) for filename in os.listdir(fixtures_dir) if filename.endswith('.csv')))
-
-# Function to calculate difficulty based on actual outcomes and stats
-def calculate_difficulty(team, opponent, home_away, fixture_data, team_stats, weight):
-    difficulties = []
-    
-    # Ensure both files contain the same number of games (rows should correspond)
-    if len(fixture_data) == len(team_stats):  
-        for idx, match in fixture_data.iterrows():
-            stat = team_stats.iloc[idx]  # Align stats row with fixture row
-            location = normalize_location(match['Location'])
-            if location == home_away:
-                # Extract relevant stats
-                scored = stat['scored']
-                missed = stat['missed']
-                ppda = parse_ppda(stat['ppda'])  # Parse ppda
-                ppda_allowed = parse_ppda(stat['ppda_allowed'])  # Parse ppda_allowed
-                deep = stat['deep']
-                deep_allowed = stat['deep_allowed']
-
-                # Handle None values in ppda, ppda_allowed
-                if ppda is None or ppda_allowed is None:
-                    print(f"Warning: Missing PPDA data for {team} vs {opponent}, skipping this match.")
-                    continue  # Skip if PPDA data is invalid
-
-                # Combine stats for difficulty
-                difficulty = ((scored - missed) + (ppda - ppda_allowed) + (deep - deep_allowed)) * weight
-                difficulties.append(difficulty)
-                print(f"Calculated difficulty for {team} vs {opponent} ({home_away}): {difficulty}")
-    
-    # Calculate the average difficulty (weighing recent seasons more)
-    return sum(difficulties) / len(difficulties) if difficulties else None
-
-# Iterate over each team to calculate home and away difficulties
-for team in teams:
-    for season, weight in season_weights.items():
-        # Normalize the team name for comparison and file name construction
-        team_file_name = team.replace(' ', '_')
-        
-        # Construct file paths for fixture and fpl team data
-        team_fixtures_file = os.path.join(fixtures_dir, f'{team_file_name}_{season}.csv')
-        team_fpl_data_file = os.path.join(fpl_team_data_dir, f'{team_file_name}_{season}.csv')
-
-        print(f"First few rows of fixture data for {team} in season {season}:")
-        print(team_fixtures.head())  # Print first few rows to inspect for errors
-
-        print(f"First few rows of FPL data for {team} in season {season}:")
-        print(team_fpl_data.head())  # Print first few rows to inspect for errors
-        
-        # Check if the files exist
-        if not os.path.exists(team_fixtures_file):
-            print(f"Fixture file missing for {team} in season {season}")
-        if not os.path.exists(team_fpl_data_file):
-            print(f"FPL data file missing for {team} in season {season}")
-        
-        if os.path.exists(team_fixtures_file) and os.path.exists(team_fpl_data_file):
-            # Load the fixture and fpl team data, skipping the first row (header)
-            team_fixtures = pd.read_csv(team_fixtures_file, skiprows=1)  # Skip header row
-            team_fpl_data = pd.read_csv(team_fpl_data_file, skiprows=1)  # Skip header row
-            
-            # Debugging: Print number of games and check if the lengths match
-            print(f"Processing {team} for season {season}")
-            print(f"Fixture rows: {len(team_fixtures)}, FPL data rows: {len(team_fpl_data)}")
-            
-            # Create a DataFrame to store difficulty ratings
-            difficulties = []
-            
-            for opponent in teams:
-                print(f"Processing match: Team = {team}, Opponent = {opponent}")  # Debugging: Check if team and opponent are matching correctly
-                if team != opponent:  # Skip if the team is the same
-                    # Calculate home difficulty
-                    home_difficulty = calculate_difficulty(team, opponent, 'Home', team_fixtures, team_fpl_data, weight)
-                    # Calculate away difficulty
-                    away_difficulty = calculate_difficulty(team, opponent, 'Away', team_fixtures, team_fpl_data, weight)
-
-                    # Store the result
-                    difficulties.append({
-                        'Team': team,
-                        'Opponent': opponent,
-                        'Home Difficulty': home_difficulty,
-                        'Away Difficulty': away_difficulty
-                    })
-                    # Debugging: Check if the difficulty is being computed correctly
-                    print(f"{team} vs {opponent}: Home: {home_difficulty}, Away: {away_difficulty}")
-
-            # Save the difficulty ratings to a CSV file
-            difficulty_df = pd.DataFrame(difficulties)
-            difficulty_df.to_csv(os.path.join(output_dir, f'{team_file_name}_difficulty_ratings.csv'), index=False)
-
-print("Difficulty ratings generated and saved.")
+calculate_difficulties_for_all_teams(fpl_team_data_dir, fixtures_dir, output_dir, seasons)
