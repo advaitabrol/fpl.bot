@@ -1,7 +1,7 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Harvey Elliott,Liverpool,Norwich,2021-08-14,False,Sub,7,0,0.0,0,0.0,1,0,0,0.3,0,0,0
-Harvey Elliott,Liverpool,Burnley,2021-08-21,True,MC,90,0,0.1664916276931762,0,0.2504730820655823,3,2,3,8.0,0,1,0
-Harvey Elliott,Liverpool,Leeds United,2022-02-10,True,Sub,31,0,0.0,0,0.0673624947667121,1,0,1,2.3,0,0,0
-Harvey Elliott,Liverpool,Chelsea,2021-08-28,True,MC,90,0,0.0916356593370437,0,0.0475510582327842,2,2,1,4.6,0,0,1
-Harvey Elliott,Liverpool,Southampton,2022-05-17,False,MC,64,0,0.1331197470426559,0,0.090797945857048,2,3,3,7.1,0,0,1
-Harvey Elliott,Liverpool,Leicester City,2021-09-12,False,MC,62,0,0.2226935178041458,0,0.0635284483432769,3,3,1,5.6,0,1,0
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
+Harvey Elliott,Liverpool,Norwich,2021-08-14,False,Sub,7,0,0.0,0,0.0,1,0,0,0.3,0,0,0,0.0,0.0,7.0
+Harvey Elliott,Liverpool,Burnley,2021-08-21,True,MC,90,0,0.17,0,0.25,3,2,3,8.0,0,1,0,1.0,0.0,48.5
+Harvey Elliott,Liverpool,Leeds United,2022-02-10,True,Sub,31,0,0.0,0,0.07,1,0,1,2.3,0,0,0,2.0,0.08,42.67
+Harvey Elliott,Liverpool,Chelsea,2021-08-28,True,MC,90,0,0.09,0,0.05,2,2,1,4.6,0,0,1,1.67,0.06,54.5
+Harvey Elliott,Liverpool,Southampton,2022-05-17,False,MC,64,0,0.13,0,0.09,2,3,3,7.1,0,0,1,1.75,0.06,56.4
+Harvey Elliott,Liverpool,Leicester City,2021-09-12,False,MC,62,0,0.22,0,0.06,3,3,1,5.6,0,1,0,1.8,0.08,57.33

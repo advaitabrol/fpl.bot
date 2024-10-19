@@ -1,11 +1,11 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts
-Reece James,Chelsea,Liverpool,2023-08-13,True,DMR,75,0,0.0285643395036458,0,0.5029239058494568,2,1,2,5.0,0,0,1,1.23,True
-Reece James,Chelsea,Brentford,2023-10-28,True,Sub,23,0,0.0487820692360401,0,0.1140144243836402,1,1,1,3.8,0,0,1,1.64,False
-Reece James,Chelsea,Tottenham,2023-11-06,False,DR,76,0,0.03583425283432,0,0.4014103710651397,2,1,2,6.4,0,0,1,0.23,True
-Reece James,Chelsea,Manchester City,2023-11-12,True,DR,63,0,0.1103468984365463,1,0.948011040687561,4,2,2,7.5,0,0,3,2.77,True
-Reece James,Chelsea,Newcastle United,2023-11-25,False,DR,72,0,0.0697181969881057,0,0.0759514421224594,-3,1,1,2.7,0,0,4,2.63,True
-Reece James,Chelsea,Manchester United,2023-12-06,False,Sub,45,0,0.0457499586045742,0,0.1533613055944442,1,1,2,7.4,0,0,1,1.24,False
-Reece James,Chelsea,Everton,2023-12-10,False,DR,26,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.07,True
-Reece James,Chelsea,Nottingham Forest,2024-05-11,False,Sub,11,0,0.0,1,0.4838427901268005,4,0,1,3.9,0,0,0,0.04,False
-Reece James,Chelsea,Brighton,2024-05-15,False,Sub,19,0,0.0,0,0.0,-2,0,0,0.0,0,0,1,1.07,False
-Reece James,Chelsea,Arsenal,2023-10-21,True,Sub,6,0,0.0,0,0.0,1,0,0,0.2,0,0,1,0.39,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
+Reece James,Chelsea,Liverpool,2023-08-13,True,DMR,75,0,0.03,0,0.5,2,1,2,5.0,0,0,1,1.23,True,0.0,0.0,75.0,0.0,1.01,3.05,6.08,0.17,1
+Reece James,Chelsea,Brentford,2023-10-28,True,Sub,23,0,0.05,0,0.11,1,1,1,3.8,0,0,1,1.64,False,2.0,0.03,49.0,0.0,1.01,3.05,6.08,0.17,2
+Reece James,Chelsea,Tottenham,2023-11-06,False,DR,76,0,0.04,0,0.4,2,1,2,6.4,0,0,1,0.23,True,1.5,0.04,58.0,0.0,1.01,3.05,6.08,0.17,4
+Reece James,Chelsea,Manchester City,2023-11-12,True,DR,63,0,0.11,1,0.95,4,2,2,7.5,0,0,3,2.77,True,1.67,0.04,59.25,0.0,1.01,3.05,6.08,0.17,-3
+Reece James,Chelsea,Newcastle United,2023-11-25,False,DR,72,0,0.07,0,0.08,-3,1,1,2.7,0,0,4,2.63,True,2.25,0.31,61.8,0.0,1.01,3.05,6.08,0.17,1
+Reece James,Chelsea,Manchester United,2023-12-06,False,Sub,45,0,0.05,0,0.15,1,1,2,7.4,0,0,1,1.24,False,1.2,0.26,59.0,0.0,1.01,3.05,6.08,0.17,1
+Reece James,Chelsea,Everton,2023-12-10,False,DR,26,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.07,True,1.0,0.26,54.29,0.0,1.01,3.05,6.08,0.17,4
+Reece James,Chelsea,Nottingham Forest,2024-05-11,False,Sub,11,0,0.0,1,0.48,4,0,1,3.9,0,0,0,0.04,False,1.0,0.25,48.88,0.0,1.01,3.05,6.08,0.17,-2
+Reece James,Chelsea,Brighton,2024-05-15,False,Sub,19,0,0.0,0,0.0,-2,0,0,0.0,0,0,1,1.07,False,1.4,0.45,45.56,0.0,1.01,3.05,6.08,0.17,1
+Reece James,Chelsea,Arsenal,2023-10-21,True,Sub,6,0,0.0,0,0.0,1,0,0,0.2,0,0,1,0.39,False,0.2,0.22,41.6,0.0,1.01,3.05,6.08,0.17,

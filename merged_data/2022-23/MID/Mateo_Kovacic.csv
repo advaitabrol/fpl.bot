@@ -1,28 +1,28 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Mateo Kovacic,Chelsea,Wolverhampton,2022-10-08,True,Sub,24,0,0.0,1,0.1387770026922226,4,0,1,3.4,0,0,0,False
-Mateo Kovacic,Chelsea,Aston Villa,2022-10-16,False,MC,64,0,0.0321808010339736,0,0.0,3,1,0,1.1,0,1,0,False
-Mateo Kovacic,Chelsea,Brentford,2022-10-19,False,Sub,75,0,0.101511001586914,0,0.0999417006969451,3,3,4,9.5,0,1,0,False
-Mateo Kovacic,Chelsea,Manchester United,2022-10-22,True,Sub,54,0,0.0,0,0.0163918007165193,1,0,1,2.7,0,0,1,False
-Mateo Kovacic,Chelsea,Brighton,2022-10-29,False,MC,90,0,0.0434826016426086,0,0.0,1,1,0,2.5,0,0,4,False
-Mateo Kovacic,Chelsea,Arsenal,2022-11-06,True,Sub,12,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False
-Mateo Kovacic,Chelsea,Newcastle United,2022-11-12,False,MC,90,0,0.0430512987077236,0,0.0,2,1,0,2.4,0,0,1,True
-Mateo Kovacic,Chelsea,Nottingham Forest,2023-01-01,False,Sub,29,0,0.0,0,0.0,1,0,0,0.4,0,0,1,False
-Mateo Kovacic,Chelsea,Manchester City,2023-01-05,True,DMC,90,0,0.0142905004322528,0,0.0,1,1,0,1.5,0,0,1,True
-Mateo Kovacic,Chelsea,Fulham,2023-01-12,False,MC,78,0,0.0925310030579567,0,0.3313890099525451,2,3,2,3.7,0,0,2,True
-Mateo Kovacic,Chelsea,Crystal Palace,2023-01-15,True,Sub,1,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False
-Mateo Kovacic,Chelsea,Southampton,2023-02-18,True,DMC,90,0,0.0272323992103338,0,0.0507330000400543,1,1,1,3.0,0,0,1,True
-Mateo Kovacic,Chelsea,Leicester City,2023-03-04,True,MC,74,0,0.0,0,0.0,3,0,0,2.3,0,1,0,True
-Mateo Kovacic,Chelsea,Leeds United,2023-03-11,False,MC,90,1,0.1232919991016388,0,0.0804924964904785,9,1,1,7.9,2,0,1,True
-Mateo Kovacic,Chelsea,Everton,2023-03-18,True,MC,80,0,0.0716058015823364,0,0.1378020048141479,2,2,3,5.4,0,0,1,True
-Mateo Kovacic,Chelsea,Aston Villa,2023-04-01,True,MC,79,0,0.0841209962964057,0,0.3605470061302185,1,3,2,4.2,0,0,2,True
-Mateo Kovacic,Chelsea,Liverpool,2023-04-04,True,MC,90,0,0.5393720269203186,0,0.0249617006629705,2,2,1,3.5,0,1,0,True
-Mateo Kovacic,Chelsea,Wolverhampton,2023-04-08,False,MC,90,0,0.0265475008636713,0,0.0885887965559959,1,1,2,4.4,0,0,1,True
-Mateo Kovacic,Chelsea,Brighton,2023-04-15,True,Sub,33,0,0.0843660980463028,0,0.0,1,1,0,1.4,0,0,1,False
-Mateo Kovacic,Chelsea,Brentford,2023-04-26,True,MC,90,0,0.0,0,0.0677269995212555,2,0,1,3.8,0,0,2,True
-Mateo Kovacic,Chelsea,Arsenal,2023-05-02,False,MC,90,0,0.0,1,0.2882706224918365,4,0,2,6.1,0,0,3,True
-Mateo Kovacic,Chelsea,Nottingham Forest,2023-05-13,True,MC,45,0,0.0,0,0.0,1,0,0,0.5,0,0,1,True
-Mateo Kovacic,Chelsea,Newcastle United,2023-05-28,True,Sub,20,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False
-Mateo Kovacic,Chelsea,Leeds United,2022-08-27,True,Sub,15,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False
-Mateo Kovacic,Chelsea,Southampton,2022-08-30,False,Sub,45,0,0.0244648996740579,0,0.0114740999415516,1,1,1,3.7,0,0,0,False
-Mateo Kovacic,Chelsea,West Ham,2022-09-03,True,MC,71,0,0.0182357002049684,0,0.0961306989192962,2,1,1,2.2,0,0,1,False
-Mateo Kovacic,Chelsea,Crystal Palace,2022-10-01,False,DMC,90,0,0.0,0,0.0,1,0,0,1.3,0,0,1,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Mateo Kovacic,Chelsea,Wolverhampton,2022-10-08,True,Sub,24,0,0.0,1,0.14,4,0,1,3.4,0,0,0,False,0.0,0.0,24.0,2,5,1.69,4.13,0.05,3
+Mateo Kovacic,Chelsea,Aston Villa,2022-10-16,False,MC,64,0,0.03,0,0.0,3,1,0,1.1,0,1,0,False,4.0,1.0,44.0,2,5,1.69,4.13,0.05,3
+Mateo Kovacic,Chelsea,Brentford,2022-10-19,False,Sub,75,0,0.1,0,0.1,3,3,4,9.5,0,1,0,False,3.5,0.52,54.33,2,5,1.69,4.13,0.05,1
+Mateo Kovacic,Chelsea,Manchester United,2022-10-22,True,Sub,54,0,0.0,0,0.02,1,0,1,2.7,0,0,1,False,3.33,0.38,54.25,2,5,1.69,4.13,0.05,1
+Mateo Kovacic,Chelsea,Brighton,2022-10-29,False,MC,90,0,0.04,0,0.0,1,1,0,2.5,0,0,4,False,2.75,0.28,61.4,2,5,1.69,4.13,0.05,1
+Mateo Kovacic,Chelsea,Arsenal,2022-11-06,True,Sub,12,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False,2.4,0.24,53.17,2,5,1.69,4.13,0.05,2
+Mateo Kovacic,Chelsea,Newcastle United,2022-11-12,False,MC,90,0,0.04,0,0.0,2,1,0,2.4,0,0,1,True,1.8,0.04,58.43,2,5,1.69,4.13,0.05,1
+Mateo Kovacic,Chelsea,Nottingham Forest,2023-01-01,False,Sub,29,0,0.0,0,0.0,1,0,0,0.4,0,0,1,False,1.6,0.04,54.75,2,5,1.69,4.13,0.05,1
+Mateo Kovacic,Chelsea,Manchester City,2023-01-05,True,DMC,90,0,0.01,0,0.0,1,1,0,1.5,0,0,1,True,1.2,0.02,58.67,2,5,1.69,4.13,0.05,2
+Mateo Kovacic,Chelsea,Fulham,2023-01-12,False,MC,78,0,0.09,0,0.33,2,3,2,3.7,0,0,2,True,1.2,0.02,60.6,2,5,1.69,4.13,0.05,1
+Mateo Kovacic,Chelsea,Crystal Palace,2023-01-15,True,Sub,1,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,1.4,0.03,55.18,2,5,1.69,4.13,0.05,1
+Mateo Kovacic,Chelsea,Southampton,2023-02-18,True,DMC,90,0,0.03,0,0.05,1,1,1,3.0,0,0,1,True,1.4,0.03,58.08,2,5,1.69,4.13,0.05,3
+Mateo Kovacic,Chelsea,Leicester City,2023-03-04,True,MC,74,0,0.0,0,0.0,3,0,0,2.3,0,1,0,True,1.2,0.03,59.31,2,5,1.69,4.13,0.05,9
+Mateo Kovacic,Chelsea,Leeds United,2023-03-11,False,MC,90,1,0.12,0,0.08,9,1,1,7.9,2,0,1,True,1.6,0.03,61.5,2,5,1.69,4.13,0.05,2
+Mateo Kovacic,Chelsea,Everton,2023-03-18,True,MC,80,0,0.07,0,0.14,2,2,3,5.4,0,0,1,True,3.2,0.05,62.73,2,5,1.69,4.13,0.05,1
+Mateo Kovacic,Chelsea,Aston Villa,2023-04-01,True,MC,79,0,0.08,0,0.36,1,3,2,4.2,0,0,2,True,3.2,0.04,63.75,2,5,1.69,4.13,0.05,2
+Mateo Kovacic,Chelsea,Liverpool,2023-04-04,True,MC,90,0,0.54,0,0.02,2,2,1,3.5,0,1,0,True,3.2,0.06,65.29,2,5,1.69,4.13,0.05,1
+Mateo Kovacic,Chelsea,Wolverhampton,2023-04-08,False,MC,90,0,0.03,0,0.09,1,1,2,4.4,0,0,1,True,3.4,0.16,66.67,2,5,1.69,4.13,0.05,1
+Mateo Kovacic,Chelsea,Brighton,2023-04-15,True,Sub,33,0,0.08,0,0.0,1,1,0,1.4,0,0,1,False,3.0,0.17,64.89,2,5,1.69,4.13,0.05,2
+Mateo Kovacic,Chelsea,Brentford,2023-04-26,True,MC,90,0,0.0,0,0.07,2,0,1,3.8,0,0,2,True,1.4,0.16,66.15,2,5,1.69,4.13,0.05,4
+Mateo Kovacic,Chelsea,Arsenal,2023-05-02,False,MC,90,0,0.0,1,0.29,4,0,2,6.1,0,0,3,True,1.4,0.15,67.29,2,5,1.69,4.13,0.05,1
+Mateo Kovacic,Chelsea,Nottingham Forest,2023-05-13,True,MC,45,0,0.0,0,0.0,1,0,0,0.5,0,0,1,True,2.0,0.33,66.27,2,5,1.69,4.13,0.05,1
+Mateo Kovacic,Chelsea,Newcastle United,2023-05-28,True,Sub,20,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,1.8,0.22,64.26,2,5,1.69,4.13,0.05,1
+Mateo Kovacic,Chelsea,Leeds United,2022-08-27,True,Sub,15,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,1.8,0.22,62.21,2,5,1.69,4.13,0.05,1
+Mateo Kovacic,Chelsea,Southampton,2022-08-30,False,Sub,45,0,0.02,0,0.01,1,1,1,3.7,0,0,0,False,1.8,0.2,61.52,2,5,1.69,4.13,0.05,2
+Mateo Kovacic,Chelsea,West Ham,2022-09-03,True,MC,71,0,0.02,0,0.1,2,1,1,2.2,0,0,1,False,1.6,0.2,61.88,2,5,1.69,4.13,0.05,1
+Mateo Kovacic,Chelsea,Crystal Palace,2022-10-01,False,DMC,90,0,0.0,0,0.0,1,0,0,1.3,0,0,1,False,1.2,0.01,62.93,2,5,1.69,4.13,0.05,

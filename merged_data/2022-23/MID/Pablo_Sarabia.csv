@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Pablo Sarabia,Wolves,Manchester City,2023-01-22,False,Sub,45,0,0.1354819983243942,0,0.0,1,3,0,1.2,0,0,2,False
-Pablo Sarabia,Wolves,Liverpool,2023-02-04,True,FW,59,0,0.0975354015827179,0,0.0,1,1,0,0.4,0,0,0,True
-Pablo Sarabia,Wolves,Southampton,2023-02-11,False,AMR,90,0,0.0158270001411438,0,0.0919769033789634,2,1,1,2.8,0,0,1,True
-Pablo Sarabia,Wolves,Bournemouth,2023-02-18,True,AML,90,0,0.2534019947052002,0,0.2715429961681366,1,2,4,11.1,0,0,1,True
-Pablo Sarabia,Wolves,Fulham,2023-02-24,False,MR,75,1,0.1876900047063827,0,0.2442149966955185,10,2,2,10.8,3,0,1,True
-Pablo Sarabia,Wolves,Liverpool,2023-03-01,False,AMR,45,0,0.5649679899215698,0,0.0907256007194519,0,1,1,2.3,0,0,0,True
-Pablo Sarabia,Wolves,Tottenham,2023-03-04,True,AMR,66,0,0.0,0,0.0,3,0,0,0.6,0,1,0,True
-Pablo Sarabia,Wolves,Leicester City,2023-03-18,True,Sub,45,0,0.9730129837989808,0,0.0164590999484062,1,4,1,6.7,0,0,3,False
-Pablo Sarabia,Wolves,Nottingham Forest,2023-04-01,False,Sub,45,0,0.0,0,0.0,0,0,0,0.9,0,0,0,False
-Pablo Sarabia,Wolves,Chelsea,2023-04-08,True,Sub,15,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False
-Pablo Sarabia,Wolves,Brentford,2023-04-15,True,ML,63,0,0.0567979998886585,0,0.0598421990871429,3,1,2,3.4,0,1,0,True
-Pablo Sarabia,Wolves,Leeds United,2023-04-22,False,ML,57,0,0.0678678154945373,0,0.0,1,3,0,0.7,0,0,1,True
-Pablo Sarabia,Wolves,Everton,2023-05-20,True,FW,69,0,0.1837096214294433,0,0.0,3,2,0,1.9,0,1,0,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Pablo Sarabia,Wolves,Manchester City,2023-01-22,False,Sub,45,0,0.14,0,0.0,1,3,0,1.2,0,0,2,False,0.0,0.0,45.0,0,0,0,0,0,1
+Pablo Sarabia,Wolves,Liverpool,2023-02-04,True,FW,59,0,0.1,0,0.0,1,1,0,0.4,0,0,0,True,1.0,0.14,52.0,0,0,0,0,0,2
+Pablo Sarabia,Wolves,Southampton,2023-02-11,False,AMR,90,0,0.02,0,0.09,2,1,1,2.8,0,0,1,True,1.0,0.12,64.67,0,0,0,0,0,1
+Pablo Sarabia,Wolves,Bournemouth,2023-02-18,True,AML,90,0,0.25,0,0.27,1,2,4,11.1,0,0,1,True,1.33,0.08,71.0,0,0,0,0,0,10
+Pablo Sarabia,Wolves,Fulham,2023-02-24,False,MR,75,1,0.19,0,0.24,10,2,2,10.8,3,0,1,True,1.25,0.13,71.8,0,0,0,0,0,0
+Pablo Sarabia,Wolves,Liverpool,2023-03-01,False,AMR,45,0,0.56,0,0.09,0,1,1,2.3,0,0,0,True,3.0,0.14,67.33,0,0,0,0,0,3
+Pablo Sarabia,Wolves,Tottenham,2023-03-04,True,AMR,66,0,0.0,0,0.0,3,0,0,0.6,0,1,0,True,2.8,0.22,67.14,0,0,0,0,0,1
+Pablo Sarabia,Wolves,Leicester City,2023-03-18,True,Sub,45,0,0.97,0,0.02,1,4,1,6.7,0,0,3,False,3.2,0.2,64.38,0,0,0,0,0,0
+Pablo Sarabia,Wolves,Nottingham Forest,2023-04-01,False,Sub,45,0,0.0,0,0.0,0,0,0,0.9,0,0,0,False,3.0,0.4,62.22,0,0,0,0,0,1
+Pablo Sarabia,Wolves,Chelsea,2023-04-08,True,Sub,15,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,2.8,0.35,57.5,0,0,0,0,0,3
+Pablo Sarabia,Wolves,Brentford,2023-04-15,True,ML,63,0,0.06,0,0.06,3,1,2,3.4,0,1,0,True,1.0,0.31,58.0,0,0,0,0,0,1
+Pablo Sarabia,Wolves,Leeds United,2023-04-22,False,ML,57,0,0.07,0,0.0,1,3,0,0.7,0,0,1,True,1.6,0.21,57.92,0,0,0,0,0,3
+Pablo Sarabia,Wolves,Everton,2023-05-20,True,FW,69,0,0.18,0,0.0,3,2,0,1.9,0,1,0,True,1.2,0.22,58.77,0,0,0,0,0,3

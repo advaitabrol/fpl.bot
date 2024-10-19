@@ -1,33 +1,33 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts
-Auston Trusty,Sheffield Utd,Arsenal,2023-10-28,False,DC,90,0,0.0,0,0.0,0,0,0,1.6,0,0,5,2.78,True
-Auston Trusty,Sheffield Utd,Wolverhampton,2023-11-04,True,DC,90,0,0.0,0,0.0,2,0,0,2.3,0,0,1,1.33,True
-Auston Trusty,Sheffield Utd,Brighton,2023-11-12,False,DC,90,0,0.0,0,0.0,2,0,0,1.3,0,0,1,1.54,True
-Auston Trusty,Sheffield Utd,Bournemouth,2023-11-25,True,DC,90,0,0.0,0,0.0,1,0,0,1.7,0,0,3,2.71,True
-Auston Trusty,Sheffield Utd,Burnley,2023-12-02,False,DC,90,0,0.0,0,0.0,0,0,0,3.2,0,0,5,1.81,True
-Auston Trusty,Sheffield Utd,Liverpool,2023-12-06,True,DC,87,0,0.0,0,0.0,2,0,0,1.7,0,0,1,1.31,True
-Auston Trusty,Sheffield Utd,Brentford,2023-12-09,True,DL,90,0,0.0181820094585418,0,0.0,5,1,0,1.8,0,1,0,0.64,True
-Auston Trusty,Sheffield Utd,Chelsea,2023-12-16,False,DC,90,0,0.0,0,0.0,1,0,0,1.8,0,0,2,2.75,True
-Auston Trusty,Sheffield Utd,Aston Villa,2023-12-22,False,DC,90,0,0.0,0,0.0,1,0,0,1.8,0,0,1,0.89,True
-Auston Trusty,Sheffield Utd,Luton,2023-12-26,True,DL,90,0,0.3756408989429474,0,0.0,1,2,0,1.7,0,0,3,0.63,True
-Auston Trusty,Sheffield Utd,Manchester City,2023-12-30,False,DC,90,0,0.0,0,0.0,1,0,0,2.2,0,0,2,2.26,True
-Auston Trusty,Sheffield Utd,West Ham,2024-01-21,True,DL,79,0,0.1205630376935005,0,0.2490190714597702,1,2,1,5.5,0,0,2,1.79,True
-Auston Trusty,Sheffield Utd,Crystal Palace,2024-01-30,False,DL,90,0,0.0,0,0.0380109511315822,0,0,1,3.8,0,0,3,1.13,True
-Auston Trusty,Sheffield Utd,Aston Villa,2024-02-03,True,DC,90,0,0.0,0,0.0636363849043846,0,0,1,2.1,0,0,5,2.27,True
-Auston Trusty,Sheffield Utd,Brighton,2024-02-18,True,Sub,59,0,0.0,0,0.0,0,0,0,1.1,0,0,3,0.97,False
-Auston Trusty,Sheffield Utd,Wolverhampton,2024-02-25,False,DC,90,0,0.0,0,0.0,2,0,0,2.5,0,0,1,1.24,True
-Auston Trusty,Sheffield Utd,Arsenal,2024-03-04,True,DL,90,0,0.0,0,0.0,-1,0,0,2.1,0,0,6,2.25,True
-Auston Trusty,Sheffield Utd,Bournemouth,2024-03-09,False,DC,90,0,0.0358080342411994,0,0.0,1,1,0,4.0,0,0,2,3.34,True
-Auston Trusty,Sheffield Utd,Fulham,2024-03-30,True,Sub,5,0,0.0,0,0.0,0,0,0,0.4,0,0,2,0.35,False
-Auston Trusty,Sheffield Utd,Liverpool,2024-04-04,False,DML,77,0,0.0536410361528396,0,0.0,1,1,0,2.1,0,0,2,1.03,True
-Auston Trusty,Sheffield Utd,Chelsea,2024-04-07,True,DML,86,0,0.0,0,0.0,1,0,0,0.9,0,0,2,0.37,True
-Auston Trusty,Sheffield Utd,Brentford,2024-04-13,False,DC,90,0,0.0,0,0.0925102233886718,1,0,1,3.1,0,0,2,1.02,True
-Auston Trusty,Sheffield Utd,Burnley,2024-04-20,True,DC,90,0,0.0597697310149669,0,0.0,0,1,0,3.5,0,0,4,2.18,True
-Auston Trusty,Sheffield Utd,Manchester United,2024-04-24,False,DC,90,0,0.0,0,0.0,0,0,0,1.1,0,0,4,2.99,True
-Auston Trusty,Sheffield Utd,Newcastle United,2024-04-27,False,DC,90,0,0.0,0,0.5802626609802246,0,0,2,5.3,0,0,5,2.82,True
-Auston Trusty,Sheffield Utd,Nottingham Forest,2024-05-04,True,DC,90,0,0.0,0,0.056112240999937,1,0,1,2.6,0,0,3,1.49,True
-Auston Trusty,Sheffield Utd,Everton,2024-05-11,False,DC,90,0,0.0,0,0.0,2,0,0,2.3,0,0,1,2.16,True
-Auston Trusty,Sheffield Utd,Tottenham,2024-05-19,True,DC,90,0,0.0,0,0.0,1,0,0,2.2,0,0,3,3.28,True
-Auston Trusty,Sheffield Utd,Tottenham,2023-09-16,False,Sub,4,0,0.0,0,0.0,0,0,0,0.5,0,0,2,0.55,False
-Auston Trusty,Sheffield Utd,West Ham,2023-09-30,False,Sub,11,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.47,False
-Auston Trusty,Sheffield Utd,Fulham,2023-10-07,False,DC,90,0,0.0,0,0.0227297097444534,1,0,1,5.1,0,0,3,2.14,True
-Auston Trusty,Sheffield Utd,Manchester United,2023-10-21,True,DC,90,0,0.0,0,0.0,0,0,0,1.9,0,0,2,1.05,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
+Auston Trusty,Sheffield Utd,Arsenal,2023-10-28,False,DC,90,0,0.0,0,0.0,0,0,0,1.6,0,0,5,2.78,True,0.0,0.0,90.0,0.0,0,0,0,0,2
+Auston Trusty,Sheffield Utd,Wolverhampton,2023-11-04,True,DC,90,0,0.0,0,0.0,2,0,0,2.3,0,0,1,1.33,True,0.0,0.0,90.0,0.0,0,0,0,0,2
+Auston Trusty,Sheffield Utd,Brighton,2023-11-12,False,DC,90,0,0.0,0,0.0,2,0,0,1.3,0,0,1,1.54,True,1.0,0.0,90.0,0.0,0,0,0,0,1
+Auston Trusty,Sheffield Utd,Bournemouth,2023-11-25,True,DC,90,0,0.0,0,0.0,1,0,0,1.7,0,0,3,2.71,True,1.33,0.0,90.0,0.0,0,0,0,0,0
+Auston Trusty,Sheffield Utd,Burnley,2023-12-02,False,DC,90,0,0.0,0,0.0,0,0,0,3.2,0,0,5,1.81,True,1.25,0.0,90.0,0.0,0,0,0,0,2
+Auston Trusty,Sheffield Utd,Liverpool,2023-12-06,True,DC,87,0,0.0,0,0.0,2,0,0,1.7,0,0,1,1.31,True,1.0,0.0,89.5,0.0,0,0,0,0,5
+Auston Trusty,Sheffield Utd,Brentford,2023-12-09,True,DL,90,0,0.02,0,0.0,5,1,0,1.8,0,1,0,0.64,True,1.4,0.0,89.57,0.14,0,0,0,0,1
+Auston Trusty,Sheffield Utd,Chelsea,2023-12-16,False,DC,90,0,0.0,0,0.0,1,0,0,1.8,0,0,2,2.75,True,2.0,0.0,89.62,0.12,0,0,0,0,1
+Auston Trusty,Sheffield Utd,Aston Villa,2023-12-22,False,DC,90,0,0.0,0,0.0,1,0,0,1.8,0,0,1,0.89,True,1.8,0.0,89.67,0.11,0,0,0,0,1
+Auston Trusty,Sheffield Utd,Luton,2023-12-26,True,DL,90,0,0.38,0,0.0,1,2,0,1.7,0,0,3,0.63,True,1.8,0.0,89.7,0.1,0,0,0,0,1
+Auston Trusty,Sheffield Utd,Manchester City,2023-12-30,False,DC,90,0,0.0,0,0.0,1,0,0,2.2,0,0,2,2.26,True,2.0,0.08,89.73,0.09,0,0,0,0,1
+Auston Trusty,Sheffield Utd,West Ham,2024-01-21,True,DL,79,0,0.12,0,0.25,1,2,1,5.5,0,0,2,1.79,True,1.8,0.08,88.83,0.08,0,0,0,0,0
+Auston Trusty,Sheffield Utd,Crystal Palace,2024-01-30,False,DL,90,0,0.0,0,0.04,0,0,1,3.8,0,0,3,1.13,True,1.0,0.1,88.92,0.08,0,0,0,0,0
+Auston Trusty,Sheffield Utd,Aston Villa,2024-02-03,True,DC,90,0,0.0,0,0.06,0,0,1,2.1,0,0,5,2.27,True,0.8,0.1,89.0,0.07,0,0,0,0,0
+Auston Trusty,Sheffield Utd,Brighton,2024-02-18,True,Sub,59,0,0.0,0,0.0,0,0,0,1.1,0,0,3,0.97,False,0.6,0.1,87.0,0.07,0,0,0,0,2
+Auston Trusty,Sheffield Utd,Wolverhampton,2024-02-25,False,DC,90,0,0.0,0,0.0,2,0,0,2.5,0,0,1,1.24,True,0.4,0.02,87.19,0.07,0,0,0,0,-1
+Auston Trusty,Sheffield Utd,Arsenal,2024-03-04,True,DL,90,0,0.0,0,0.0,-1,0,0,2.1,0,0,6,2.25,True,0.6,0.02,87.35,0.06,0,0,0,0,1
+Auston Trusty,Sheffield Utd,Bournemouth,2024-03-09,False,DC,90,0,0.04,0,0.0,1,1,0,4.0,0,0,2,3.34,True,0.2,0.0,87.5,0.06,0,0,0,0,0
+Auston Trusty,Sheffield Utd,Fulham,2024-03-30,True,Sub,5,0,0.0,0,0.0,0,0,0,0.4,0,0,2,0.35,False,0.4,0.01,83.16,0.06,0,0,0,0,1
+Auston Trusty,Sheffield Utd,Liverpool,2024-04-04,False,DML,77,0,0.05,0,0.0,1,1,0,2.1,0,0,2,1.03,True,0.4,0.01,82.85,0.06,0,0,0,0,1
+Auston Trusty,Sheffield Utd,Chelsea,2024-04-07,True,DML,86,0,0.0,0,0.0,1,0,0,0.9,0,0,2,0.37,True,0.6,0.02,83.0,0.05,0,0,0,0,1
+Auston Trusty,Sheffield Utd,Brentford,2024-04-13,False,DC,90,0,0.0,0,0.09,1,0,1,3.1,0,0,2,1.02,True,0.4,0.02,83.32,0.05,0,0,0,0,0
+Auston Trusty,Sheffield Utd,Burnley,2024-04-20,True,DC,90,0,0.06,0,0.0,0,1,0,3.5,0,0,4,2.18,True,0.8,0.02,83.61,0.05,0,0,0,0,0
+Auston Trusty,Sheffield Utd,Manchester United,2024-04-24,False,DC,90,0,0.0,0,0.0,0,0,0,1.1,0,0,4,2.99,True,0.6,0.02,83.88,0.05,0,0,0,0,0
+Auston Trusty,Sheffield Utd,Newcastle United,2024-04-27,False,DC,90,0,0.0,0,0.58,0,0,2,5.3,0,0,5,2.82,True,0.6,0.02,84.12,0.04,0,0,0,0,1
+Auston Trusty,Sheffield Utd,Nottingham Forest,2024-05-04,True,DC,90,0,0.0,0,0.06,1,0,1,2.6,0,0,3,1.49,True,0.4,0.01,84.35,0.04,0,0,0,0,2
+Auston Trusty,Sheffield Utd,Everton,2024-05-11,False,DC,90,0,0.0,0,0.0,2,0,0,2.3,0,0,1,2.16,True,0.4,0.01,84.56,0.04,0,0,0,0,1
+Auston Trusty,Sheffield Utd,Tottenham,2024-05-19,True,DC,90,0,0.0,0,0.0,1,0,0,2.2,0,0,3,3.28,True,0.6,0.01,84.75,0.04,0,0,0,0,0
+Auston Trusty,Sheffield Utd,Tottenham,2023-09-16,False,Sub,4,0,0.0,0,0.0,0,0,0,0.5,0,0,2,0.55,False,0.8,0.0,81.97,0.04,0,0,0,0,1
+Auston Trusty,Sheffield Utd,West Ham,2023-09-30,False,Sub,11,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.47,False,0.8,0.0,79.6,0.04,0,0,0,0,1
+Auston Trusty,Sheffield Utd,Fulham,2023-10-07,False,DC,90,0,0.0,0,0.02,1,0,1,5.1,0,0,3,2.14,True,1.0,0.0,79.94,0.04,0,0,0,0,0
+Auston Trusty,Sheffield Utd,Manchester United,2023-10-21,True,DC,90,0,0.0,0,0.0,0,0,0,1.9,0,0,2,1.05,True,1.0,0.0,80.25,0.04,0,0,0,0,

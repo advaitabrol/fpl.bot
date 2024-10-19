@@ -1,25 +1,25 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Ashley Young,Aston Villa,Watford,2021-08-14,False,AML,90,0,0.0164307113736867,0,0.0572794787585735,1,1,2,3.7,0,0,3
-Ashley Young,Aston Villa,West Ham,2021-10-31,True,Sub,75,0,0.0,0,0.0089250309392809,1,0,1,3.3,0,0,3
-Ashley Young,Aston Villa,Brighton,2021-11-20,True,Sub,16,0,0.0,1,0.1015887334942817,4,0,1,3.6,0,0,0
-Ashley Young,Aston Villa,Crystal Palace,2021-11-27,False,FWL,84,0,0.1229866221547126,1,0.0568158589303493,9,3,1,7.1,0,1,0
-Ashley Young,Aston Villa,Manchester City,2021-12-01,True,Sub,59,0,0.0,0,0.0,1,0,0,0.5,0,0,1
-Ashley Young,Aston Villa,Leeds United,2021-12-05,True,DL,90,0,0.0961810648441314,0,0.0,2,2,0,3.6,0,0,1
-Ashley Young,Aston Villa,Liverpool,2021-12-11,False,FWL,68,0,0.012123167514801,0,0.0100573115050792,2,1,1,2.5,0,0,1
-Ashley Young,Aston Villa,Norwich,2021-12-14,False,FWL,59,0,0.1241174414753913,0,0.0,1,1,0,3.9,0,0,0
-Ashley Young,Aston Villa,Newcastle United,2021-08-21,True,DL,90,0,0.0,0,0.0,6,0,0,1.0,0,1,0
-Ashley Young,Aston Villa,Leicester City,2022-02-09,True,Sub,12,0,0.0,0,0.0179301258176565,1,0,1,1.1,0,0,0
-Ashley Young,Aston Villa,Watford,2022-02-19,True,Sub,25,0,0.0,0,0.1191398054361343,1,0,2,4.4,0,0,1
-Ashley Young,Aston Villa,Brighton,2022-02-26,False,Sub,11,0,0.0,0,0.0,1,0,0,0.3,0,0,0
-Ashley Young,Aston Villa,Southampton,2022-03-05,True,DL,90,0,0.0134326871484518,0,0.0,6,1,0,2.1,0,1,0
-Ashley Young,Aston Villa,Leicester City,2022-03-10,False,Sub,3,0,0.0,0,0.0,1,0,0,0.1,0,0,0
-Ashley Young,Aston Villa,West Ham,2022-03-13,False,Sub,80,0,0.0,0,0.0206682458519935,1,0,1,3.2,0,0,2
-Ashley Young,Aston Villa,Brentford,2021-08-28,True,MC,78,0,0.0,0,0.0,2,0,0,0.5,0,0,1
-Ashley Young,Aston Villa,Arsenal,2022-03-19,True,DL,90,0,0.0,0,0.0,2,0,0,1.5,0,0,1
-Ashley Young,Aston Villa,Wolverhampton,2022-04-02,False,Sub,77,0,0.0,0,0.3167601823806762,-1,0,2,3.3,0,0,1
-Ashley Young,Aston Villa,Tottenham,2022-04-09,True,Sub,10,0,0.0,0,0.0,0,0,0,0.0,0,0,0
-Ashley Young,Aston Villa,Leeds United,2022-04-23,False,DL,90,0,0.0184708982706069,0,0.0691475197672844,6,1,1,3.5,0,1,0
-Ashley Young,Aston Villa,Burnley,2022-05-07,False,Sub,16,0,0.0,0,0.0,1,0,0,0.7,0,0,1
-Ashley Young,Aston Villa,Manchester City,2022-05-22,False,Sub,2,0,0.0,0,0.0,1,0,0,0.0,0,0,0
-Ashley Young,Aston Villa,Everton,2021-09-18,True,Sub,8,0,0.0,0,0.0,1,0,0,0.3,0,0,0
-Ashley Young,Aston Villa,Wolverhampton,2021-10-16,True,Sub,11,0,0.0,0,0.0,0,0,0,0.0,0,0,3
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
+Ashley Young,Aston Villa,Watford,2021-08-14,False,AML,90,0,0.02,0,0.06,1,1,2,3.7,0,0,3,0.0,0.0,90.0,0.0
+Ashley Young,Aston Villa,West Ham,2021-10-31,True,Sub,75,0,0.0,0,0.01,1,0,1,3.3,0,0,3,1.0,0.02,82.5,0.0
+Ashley Young,Aston Villa,Brighton,2021-11-20,True,Sub,16,0,0.0,1,0.1,4,0,1,3.6,0,0,0,1.0,0.01,60.33,0.0
+Ashley Young,Aston Villa,Crystal Palace,2021-11-27,False,FWL,84,0,0.12,1,0.06,9,3,1,7.1,0,1,0,2.0,0.34,66.25,0.33
+Ashley Young,Aston Villa,Manchester City,2021-12-01,True,Sub,59,0,0.0,0,0.0,1,0,0,0.5,0,0,1,3.75,0.53,64.8,0.33
+Ashley Young,Aston Villa,Leeds United,2021-12-05,True,DL,90,0,0.1,0,0.0,2,2,0,3.6,0,0,1,3.2,0.43,69.0,0.25
+Ashley Young,Aston Villa,Liverpool,2021-12-11,False,FWL,68,0,0.01,0,0.01,2,1,1,2.5,0,0,1,3.4,0.44,68.86,0.2
+Ashley Young,Aston Villa,Norwich,2021-12-14,False,FWL,59,0,0.12,0,0.0,1,1,0,3.9,0,0,0,3.6,0.45,67.62,0.2
+Ashley Young,Aston Villa,Newcastle United,2021-08-21,True,DL,90,0,0.0,0,0.0,6,0,0,1.0,0,1,0,3.0,0.27,70.11,0.33
+Ashley Young,Aston Villa,Leicester City,2022-02-09,True,Sub,12,0,0.0,0,0.02,1,0,1,1.1,0,0,0,2.4,0.05,64.3,0.33
+Ashley Young,Aston Villa,Watford,2022-02-19,True,Sub,25,0,0.0,0,0.12,1,0,2,4.4,0,0,1,2.4,0.05,60.73,0.33
+Ashley Young,Aston Villa,Brighton,2022-02-26,False,Sub,11,0,0.0,0,0.0,1,0,0,0.3,0,0,0,2.2,0.03,56.58,0.33
+Ashley Young,Aston Villa,Southampton,2022-03-05,True,DL,90,0,0.01,0,0.0,6,1,0,2.1,0,1,0,2.0,0.02,59.15,0.43
+Ashley Young,Aston Villa,Leicester City,2022-03-10,False,Sub,3,0,0.0,0,0.0,1,0,0,0.1,0,0,0,3.0,0.0,55.14,0.43
+Ashley Young,Aston Villa,West Ham,2022-03-13,False,Sub,80,0,0.0,0,0.02,1,0,1,3.2,0,0,2,2.0,0.0,56.8,0.38
+Ashley Young,Aston Villa,Brentford,2021-08-28,True,MC,78,0,0.0,0,0.0,2,0,0,0.5,0,0,1,2.0,0.0,58.12,0.33
+Ashley Young,Aston Villa,Arsenal,2022-03-19,True,DL,90,0,0.0,0,0.0,2,0,0,1.5,0,0,1,2.2,0.0,60.0,0.3
+Ashley Young,Aston Villa,Wolverhampton,2022-04-02,False,Sub,77,0,0.0,0,0.32,-1,0,2,3.3,0,0,1,2.4,0.0,60.94,0.27
+Ashley Young,Aston Villa,Tottenham,2022-04-09,True,Sub,10,0,0.0,0,0.0,0,0,0,0.0,0,0,0,1.0,0.0,58.26,0.27
+Ashley Young,Aston Villa,Leeds United,2022-04-23,False,DL,90,0,0.02,0,0.07,6,1,1,3.5,0,1,0,0.8,0.0,59.85,0.33
+Ashley Young,Aston Villa,Burnley,2022-05-07,False,Sub,16,0,0.0,0,0.0,1,0,0,0.7,0,0,1,1.8,0.0,57.76,0.33
+Ashley Young,Aston Villa,Manchester City,2022-05-22,False,Sub,2,0,0.0,0,0.0,1,0,0,0.0,0,0,0,1.6,0.0,55.23,0.33
+Ashley Young,Aston Villa,Everton,2021-09-18,True,Sub,8,0,0.0,0,0.0,1,0,0,0.3,0,0,0,1.4,0.0,53.17,0.33
+Ashley Young,Aston Villa,Wolverhampton,2021-10-16,True,Sub,11,0,0.0,0,0.0,0,0,0,0.0,0,0,3,1.8,0.0,51.42,0.33

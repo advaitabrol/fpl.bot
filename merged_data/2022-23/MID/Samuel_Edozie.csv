@@ -1,18 +1,18 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Samuel Edozie,Southampton,West Ham,2022-10-16,True,Sub,16,0,0.019760699942708,0,0.0,1,1,0,1.5,0,0,0,False
-Samuel Edozie,Southampton,Arsenal,2022-10-23,True,Sub,10,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False
-Samuel Edozie,Southampton,Crystal Palace,2022-10-29,False,Sub,16,0,0.0,0,0.0315751992166042,1,0,1,1.7,0,0,0,False
-Samuel Edozie,Southampton,Newcastle United,2022-11-06,True,Sub,26,0,0.0,0,0.0,1,0,0,1.4,0,0,1,False
-Samuel Edozie,Southampton,Liverpool,2022-11-12,False,Sub,31,0,0.4189130067825317,0,0.0,1,1,0,2.3,0,0,0,False
-Samuel Edozie,Southampton,Brighton,2022-12-26,True,AML,83,0,0.3890730142593384,0,0.0509846992790699,2,3,1,6.3,0,0,3,True
-Samuel Edozie,Southampton,Fulham,2022-12-31,False,AMC,76,0,0.0711819007992744,0,0.0,2,1,0,2.7,0,0,1,True
-Samuel Edozie,Southampton,Nottingham Forest,2023-01-04,True,Sub,26,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False
-Samuel Edozie,Southampton,Everton,2023-01-14,False,FW,60,0,0.1000749990344047,0,0.1382070034742355,2,1,2,4.6,0,0,1,True
-Samuel Edozie,Southampton,Aston Villa,2023-01-21,True,AMR,61,0,0.0,0,0.0,3,0,0,1.6,0,1,0,True
-Samuel Edozie,Southampton,Brentford,2023-02-04,False,AMR,64,0,0.0860932990908622,0,0.0,2,1,0,1.6,0,0,2,True
-Samuel Edozie,Southampton,Wolverhampton,2023-02-11,True,Sub,10,0,0.0,0,0.0,1,0,0,0.0,0,0,1,False
-Samuel Edozie,Southampton,Crystal Palace,2023-04-15,True,Sub,10,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False
-Samuel Edozie,Southampton,Nottingham Forest,2023-05-08,False,Sub,14,0,0.0,0,0.0318086482584476,1,0,2,4.3,0,0,0,False
-Samuel Edozie,Southampton,Wolverhampton,2022-09-03,False,Sub,17,0,0.0,0,0.0353204011917114,1,0,1,2.4,0,0,0,False
-Samuel Edozie,Southampton,Aston Villa,2022-09-16,False,Sub,11,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False
-Samuel Edozie,Southampton,Everton,2022-10-01,True,Sub,23,0,0.0,0,0.0286587998270988,1,0,1,2.0,0,0,0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Samuel Edozie,Southampton,West Ham,2022-10-16,True,Sub,16,0,0.02,0,0.0,1,1,0,1.5,0,0,0,False,0.0,0.0,16.0,0,0,0,0,0,1
+Samuel Edozie,Southampton,Arsenal,2022-10-23,True,Sub,10,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,1.0,0.02,13.0,0,0,0,0,0,1
+Samuel Edozie,Southampton,Crystal Palace,2022-10-29,False,Sub,16,0,0.0,0,0.03,1,0,1,1.7,0,0,0,False,1.0,0.01,14.0,0,0,0,0,0,1
+Samuel Edozie,Southampton,Newcastle United,2022-11-06,True,Sub,26,0,0.0,0,0.0,1,0,0,1.4,0,0,1,False,1.0,0.01,17.0,0,0,0,0,0,1
+Samuel Edozie,Southampton,Liverpool,2022-11-12,False,Sub,31,0,0.42,0,0.0,1,1,0,2.3,0,0,0,False,1.0,0.0,19.8,0,0,0,0,0,2
+Samuel Edozie,Southampton,Brighton,2022-12-26,True,AML,83,0,0.39,0,0.05,2,3,1,6.3,0,0,3,True,1.0,0.09,30.33,0,0,0,0,0,2
+Samuel Edozie,Southampton,Fulham,2022-12-31,False,AMC,76,0,0.07,0,0.0,2,1,0,2.7,0,0,1,True,1.2,0.16,36.86,0,0,0,0,0,1
+Samuel Edozie,Southampton,Nottingham Forest,2023-01-04,True,Sub,26,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,1.4,0.18,35.5,0,0,0,0,0,2
+Samuel Edozie,Southampton,Everton,2023-01-14,False,FW,60,0,0.1,0,0.14,2,1,2,4.6,0,0,1,True,1.4,0.18,38.22,0,0,0,0,0,3
+Samuel Edozie,Southampton,Aston Villa,2023-01-21,True,AMR,61,0,0.0,0,0.0,3,0,0,1.6,0,1,0,True,1.6,0.2,40.5,0,0,0,0,0,2
+Samuel Edozie,Southampton,Brentford,2023-02-04,False,AMR,64,0,0.09,0,0.0,2,1,0,1.6,0,0,2,True,2.0,0.11,42.64,0,0,0,0,0,1
+Samuel Edozie,Southampton,Wolverhampton,2023-02-11,True,Sub,10,0,0.0,0,0.0,1,0,0,0.0,0,0,1,False,2.0,0.05,39.92,0,0,0,0,0,1
+Samuel Edozie,Southampton,Crystal Palace,2023-04-15,True,Sub,10,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,1.8,0.04,37.62,0,0,0,0,0,1
+Samuel Edozie,Southampton,Nottingham Forest,2023-05-08,False,Sub,14,0,0.0,0,0.03,1,0,2,4.3,0,0,0,False,1.8,0.04,35.93,0,0,0,0,0,1
+Samuel Edozie,Southampton,Wolverhampton,2022-09-03,False,Sub,17,0,0.0,0,0.04,1,0,1,2.4,0,0,0,False,1.6,0.02,34.67,0,0,0,0,0,1
+Samuel Edozie,Southampton,Aston Villa,2022-09-16,False,Sub,11,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False,1.2,0.02,33.19,0,0,0,0,0,1
+Samuel Edozie,Southampton,Everton,2022-10-01,True,Sub,23,0,0.0,0,0.03,1,0,1,2.0,0,0,0,False,1.0,0.0,32.59,0,0,0,0,0,

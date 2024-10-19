@@ -1,29 +1,29 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Christian Eriksen,Man Utd,Brighton,2022-08-07,True,FW,90,0,0.0874368026852607,0,0.1396169960498809,2,3,3,10.5,0,0,2,False
-Christian Eriksen,Man Utd,Everton,2022-10-09,False,DMC,82,0,0.1640550047159195,0,0.0,2,3,0,3.3,0,0,1,False
-Christian Eriksen,Man Utd,Tottenham,2022-10-19,True,Sub,3,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False
-Christian Eriksen,Man Utd,Chelsea,2022-10-22,False,DMC,79,0,0.0150685003027319,0,0.0556429997086524,3,1,2,3.2,0,1,0,False
-Christian Eriksen,Man Utd,West Ham,2022-10-30,True,DMC,78,0,0.0,1,0.6083859801292419,8,0,3,8.1,2,1,0,False
-Christian Eriksen,Man Utd,Aston Villa,2022-11-06,False,DMC,90,0,0.0,0,0.0754135996103286,2,0,1,2.9,0,0,3,False
-Christian Eriksen,Man Utd,Fulham,2022-11-13,False,DMC,90,1,0.9537469744682312,1,0.3787420094013214,13,2,2,0.0,3,0,1,True
-Christian Eriksen,Man Utd,Nottingham Forest,2022-12-27,True,DMC,76,0,0.0560371987521648,1,0.1238500028848648,5,2,2,6.7,0,1,0,True
-Christian Eriksen,Man Utd,Wolverhampton,2022-12-31,False,DMC,60,0,0.0,0,0.0611759983003139,3,0,1,2.7,0,1,0,True
-Christian Eriksen,Man Utd,Bournemouth,2023-01-03,True,DMC,67,0,0.1333779990673065,1,0.4684500098228454,6,1,1,5.3,0,1,0,True
-Christian Eriksen,Man Utd,Brentford,2022-08-13,False,DMC,86,0,0.4590890109539032,0,0.0,2,2,0,3.2,0,0,4,False
-Christian Eriksen,Man Utd,Manchester City,2023-01-14,True,AMC,71,0,0.0,0,0.3769240081310272,1,0,2,2.9,0,0,1,True
-Christian Eriksen,Man Utd,Crystal Palace,2023-01-18,False,DMC,82,0,0.0,1,0.1077380031347274,7,0,1,3.7,1,1,0,True
-Christian Eriksen,Man Utd,Arsenal,2023-01-22,False,DMC,90,0,0.0618449002504348,0,0.0,2,1,0,3.4,0,0,3,True
-Christian Eriksen,Man Utd,Liverpool,2022-08-22,True,DMC,85,0,0.10691499710083,0,0.0,2,2,0,1.7,0,0,1,False
-Christian Eriksen,Man Utd,Everton,2023-04-08,True,Sub,13,0,0.1825679987668991,0,0.0,1,2,0,1.6,0,0,0,False
-Christian Eriksen,Man Utd,Nottingham Forest,2023-04-16,False,DMC,78,0,0.5135239958763123,0,0.1825689971446991,3,3,3,12.3,0,1,0,True
-Christian Eriksen,Man Utd,Tottenham,2023-04-27,False,DMC,60,0,0.0423082299530506,0,0.5743123888969421,2,1,2,0.0,0,0,1,True
-Christian Eriksen,Man Utd,Aston Villa,2023-04-30,True,MC,75,0,0.1200406998395919,0,0.0695978701114654,3,3,1,3.6,0,1,0,True
-Christian Eriksen,Man Utd,West Ham,2023-05-07,False,DMC,73,0,0.1329232007265091,0,0.0,2,2,0,3.7,0,0,1,True
-Christian Eriksen,Man Utd,Wolverhampton,2023-05-13,True,DMC,80,0,0.0587153546512126,0,0.1154582276940345,3,3,1,3.5,0,1,0,True
-Christian Eriksen,Man Utd,Bournemouth,2023-05-20,False,DMC,85,0,0.0550647042691707,0,0.1489643901586532,8,1,2,5.4,2,1,0,True
-Christian Eriksen,Man Utd,Chelsea,2023-05-25,True,DMC,69,0,0.8001889586448669,1,0.1101305931806564,6,1,1,7.2,0,1,0,True
-Christian Eriksen,Man Utd,Fulham,2023-05-28,True,Sub,24,0,0.0,0,0.0589845106005668,1,0,1,0.0,0,0,0,False
-Christian Eriksen,Man Utd,Southampton,2022-08-27,False,DMC,90,0,0.4808819890022278,0,0.1811809986829757,3,1,2,6.0,0,1,0,False
-Christian Eriksen,Man Utd,Leeds United,2022-09-01,False,DMC,90,0,0.0809087008237838,0,0.0,3,2,0,1.7,0,1,0,False
-Christian Eriksen,Man Utd,Arsenal,2022-09-04,True,DMC,90,0,0.3088349997997284,1,0.6731770038604736,4,1,3,7.3,0,0,1,False
-Christian Eriksen,Man Utd,Manchester City,2022-10-02,False,DMC,90,0,0.0537130981683731,1,0.0479400008916854,5,1,2,7.3,0,0,6,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Christian Eriksen,Man Utd,Brighton,2022-08-07,True,FW,90,0,0.09,0,0.14,2,3,3,10.5,0,0,2,False,0.0,0.0,90.0,1,4,1.41,3.73,0.05,2
+Christian Eriksen,Man Utd,Everton,2022-10-09,False,DMC,82,0,0.16,0,0.0,2,3,0,3.3,0,0,1,False,2.0,0.09,86.0,1,4,1.41,3.73,0.05,1
+Christian Eriksen,Man Utd,Tottenham,2022-10-19,True,Sub,3,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,2.0,0.13,58.33,1,4,1.41,3.73,0.05,3
+Christian Eriksen,Man Utd,Chelsea,2022-10-22,False,DMC,79,0,0.02,0,0.06,3,1,2,3.2,0,1,0,False,1.67,0.08,63.5,1,4,1.41,3.73,0.05,8
+Christian Eriksen,Man Utd,West Ham,2022-10-30,True,DMC,78,0,0.0,1,0.61,8,0,3,8.1,2,1,0,False,2.0,0.07,66.4,1,4,1.41,3.73,0.05,2
+Christian Eriksen,Man Utd,Aston Villa,2022-11-06,False,DMC,90,0,0.0,0,0.08,2,0,1,2.9,0,0,3,False,3.2,0.25,70.33,1,4,1.41,3.73,0.05,13
+Christian Eriksen,Man Utd,Fulham,2022-11-13,False,DMC,90,1,0.95,1,0.38,13,2,2,0.0,3,0,1,True,3.2,0.24,73.14,1,4,1.41,3.73,0.05,5
+Christian Eriksen,Man Utd,Nottingham Forest,2022-12-27,True,DMC,76,0,0.06,1,0.12,5,2,2,6.7,0,1,0,True,5.4,0.59,73.5,1,4,1.41,3.73,0.05,3
+Christian Eriksen,Man Utd,Wolverhampton,2022-12-31,False,DMC,60,0,0.0,0,0.06,3,0,1,2.7,0,1,0,True,6.2,0.8,72.0,1,4,1.41,3.73,0.05,6
+Christian Eriksen,Man Utd,Bournemouth,2023-01-03,True,DMC,67,0,0.13,1,0.47,6,1,1,5.3,0,1,0,True,6.2,0.8,71.5,1,4,1.41,3.73,0.05,2
+Christian Eriksen,Man Utd,Brentford,2022-08-13,False,DMC,86,0,0.46,0,0.0,2,2,0,3.2,0,0,4,False,5.8,0.83,72.82,1,4,1.41,3.73,0.05,1
+Christian Eriksen,Man Utd,Manchester City,2023-01-14,True,AMC,71,0,0.0,0,0.38,1,0,2,2.9,0,0,1,True,5.8,0.92,72.67,1,4,1.41,3.73,0.05,7
+Christian Eriksen,Man Utd,Crystal Palace,2023-01-18,False,DMC,82,0,0.0,1,0.11,7,0,1,3.7,1,1,0,True,3.4,0.53,73.38,1,4,1.41,3.73,0.05,2
+Christian Eriksen,Man Utd,Arsenal,2023-01-22,False,DMC,90,0,0.06,0,0.0,2,1,0,3.4,0,0,3,True,3.8,0.52,74.57,1,4,1.41,3.73,0.05,2
+Christian Eriksen,Man Utd,Liverpool,2022-08-22,True,DMC,85,0,0.11,0,0.0,2,2,0,1.7,0,0,1,False,3.6,0.53,75.27,1,4,1.41,3.73,0.05,1
+Christian Eriksen,Man Utd,Everton,2023-04-08,True,Sub,13,0,0.18,0,0.0,1,2,0,1.6,0,0,0,False,2.8,0.33,71.38,1,4,1.41,3.73,0.05,3
+Christian Eriksen,Man Utd,Nottingham Forest,2023-04-16,False,DMC,78,0,0.51,0,0.18,3,3,3,12.3,0,1,0,True,2.6,0.27,71.76,1,4,1.41,3.73,0.05,2
+Christian Eriksen,Man Utd,Tottenham,2023-04-27,False,DMC,60,0,0.04,0,0.57,2,1,2,0.0,0,0,1,True,3.0,0.37,71.11,1,4,1.41,3.73,0.05,3
+Christian Eriksen,Man Utd,Aston Villa,2023-04-30,True,MC,75,0,0.12,0,0.07,3,3,1,3.6,0,1,0,True,2.0,0.18,71.32,1,4,1.41,3.73,0.05,2
+Christian Eriksen,Man Utd,West Ham,2023-05-07,False,DMC,73,0,0.13,0,0.0,2,2,0,3.7,0,0,1,True,2.2,0.19,71.4,1,4,1.41,3.73,0.05,3
+Christian Eriksen,Man Utd,Wolverhampton,2023-05-13,True,DMC,80,0,0.06,0,0.12,3,3,1,3.5,0,1,0,True,2.2,0.2,71.81,1,4,1.41,3.73,0.05,8
+Christian Eriksen,Man Utd,Bournemouth,2023-05-20,False,DMC,85,0,0.06,0,0.15,8,1,2,5.4,2,1,0,True,2.6,0.17,72.41,1,4,1.41,3.73,0.05,6
+Christian Eriksen,Man Utd,Chelsea,2023-05-25,True,DMC,69,0,0.8,1,0.11,6,1,1,7.2,0,1,0,True,3.6,0.08,72.26,1,4,1.41,3.73,0.05,1
+Christian Eriksen,Man Utd,Fulham,2023-05-28,True,Sub,24,0,0.0,0,0.06,1,0,1,0.0,0,0,0,False,4.4,0.43,70.25,1,4,1.41,3.73,0.05,3
+Christian Eriksen,Man Utd,Southampton,2022-08-27,False,DMC,90,0,0.48,0,0.18,3,1,2,6.0,0,1,0,False,4.0,0.41,71.04,1,4,1.41,3.73,0.05,3
+Christian Eriksen,Man Utd,Leeds United,2022-09-01,False,DMC,90,0,0.08,0,0.0,3,2,0,1.7,0,1,0,False,4.2,0.48,71.77,1,4,1.41,3.73,0.05,4
+Christian Eriksen,Man Utd,Arsenal,2022-09-04,True,DMC,90,0,0.31,1,0.67,4,1,3,7.3,0,0,1,False,4.2,0.48,72.44,1,4,1.41,3.73,0.05,5
+Christian Eriksen,Man Utd,Manchester City,2022-10-02,False,DMC,90,0,0.05,1,0.05,5,1,2,7.3,0,0,6,False,3.4,0.73,73.07,1,4,1.41,3.73,0.05,1

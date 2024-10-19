@@ -1,16 +1,16 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts
-Raúl Jiménez,Wolves,Manchester United,2022-12-31,True,Sub,9,0,0.1598709970712661,0,0.0,1,2,0,3.8,0,False
-Raúl Jiménez,Wolves,West Ham,2023-01-14,True,Sub,26,0,0.0,0,0.0,1,0,0,0.4,0,False
-Raúl Jiménez,Wolves,Manchester City,2023-01-22,False,FW,45,0,0.0,0,0.0,1,0,0,0.3,0,True
-Raúl Jiménez,Wolves,Liverpool,2023-02-04,True,Sub,30,0,0.5682139992713928,0,0.0777387991547584,1,3,1,1.9,0,False
-Raúl Jiménez,Wolves,Bournemouth,2023-02-18,True,Sub,13,0,0.0,0,0.0,1,0,0,0.6,0,False
-Raúl Jiménez,Wolves,Fulham,2023-02-24,False,FW,83,0,0.2362139970064163,1,0.0686748027801513,5,1,1,4.0,0,True
-Raúl Jiménez,Wolves,Liverpool,2023-03-01,False,FW,78,0,0.1311160027980804,0,0.5649679899215698,2,2,1,2.9,0,True
-Raúl Jiménez,Wolves,Tottenham,2023-03-04,True,Sub,62,0,0.1541270017623901,0,0.2293429970741272,5,2,2,5.3,0,False
-Raúl Jiménez,Wolves,Newcastle United,2023-03-12,False,FW,90,0,0.0203326996415853,0,0.0,2,1,0,3.2,0,True
-Raúl Jiménez,Wolves,Leicester City,2023-03-18,True,FW,90,0,0.6200780272483826,0,0.1213660016655922,2,2,2,9.4,0,True
-Raúl Jiménez,Wolves,Tottenham,2022-08-20,False,Sub,31,0,0.0,0,0.0,1,0,0,0.7,0,False
-Raúl Jiménez,Wolves,Manchester United,2023-05-13,False,Sub,12,0,0.0,0,0.0,1,0,0,0.3,0,False
-Raúl Jiménez,Wolves,Arsenal,2023-05-28,False,FW,90,0,0.0,0,0.0,2,0,0,0.0,0,True
-Raúl Jiménez,Wolves,Newcastle United,2022-08-28,True,FW,90,0,0.1693630069494247,0,0.0,2,2,0,4.7,0,False
-Raúl Jiménez,Wolves,Bournemouth,2022-08-31,False,FW,90,0,0.6520220041275024,0,0.4429889917373657,2,5,2,8.8,0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Raúl Jiménez,Wolves,Manchester United,2022-12-31,True,Sub,9,0,0.16,0,0.0,1,2,0,3.8,0,False,0.0,0.0,9.0,6,4,7.1,3.41,0.04,1
+Raúl Jiménez,Wolves,West Ham,2023-01-14,True,Sub,26,0,0.0,0,0.0,1,0,0,0.4,0,False,1.0,0.16,17.5,6,4,7.1,3.41,0.04,1
+Raúl Jiménez,Wolves,Manchester City,2023-01-22,False,FW,45,0,0.0,0,0.0,1,0,0,0.3,0,True,1.0,0.08,26.67,6,4,7.1,3.41,0.04,1
+Raúl Jiménez,Wolves,Liverpool,2023-02-04,True,Sub,30,0,0.57,0,0.08,1,3,1,1.9,0,False,1.0,0.05,27.5,6,4,7.1,3.41,0.04,1
+Raúl Jiménez,Wolves,Bournemouth,2023-02-18,True,Sub,13,0,0.0,0,0.0,1,0,0,0.6,0,False,1.0,0.18,24.6,6,4,7.1,3.41,0.04,5
+Raúl Jiménez,Wolves,Fulham,2023-02-24,False,FW,83,0,0.24,1,0.07,5,1,1,4.0,0,True,1.0,0.15,34.33,6,4,7.1,3.41,0.04,2
+Raúl Jiménez,Wolves,Liverpool,2023-03-01,False,FW,78,0,0.13,0,0.56,2,2,1,2.9,0,True,1.8,0.36,40.57,6,4,7.1,3.41,0.04,5
+Raúl Jiménez,Wolves,Tottenham,2023-03-04,True,Sub,62,0,0.15,0,0.23,5,2,2,5.3,0,False,2.0,0.39,43.25,6,4,7.1,3.41,0.04,2
+Raúl Jiménez,Wolves,Newcastle United,2023-03-12,False,FW,90,0,0.02,0,0.0,2,1,0,3.2,0,True,2.8,0.42,48.44,6,4,7.1,3.41,0.04,2
+Raúl Jiménez,Wolves,Leicester City,2023-03-18,True,FW,90,0,0.62,0,0.12,2,2,2,9.4,0,True,3.0,0.31,52.6,6,4,7.1,3.41,0.04,1
+Raúl Jiménez,Wolves,Tottenham,2022-08-20,False,Sub,31,0,0.0,0,0.0,1,0,0,0.7,0,False,3.2,0.43,50.64,6,4,7.1,3.41,0.04,1
+Raúl Jiménez,Wolves,Manchester United,2023-05-13,False,Sub,12,0,0.0,0,0.0,1,0,0,0.3,0,False,2.4,0.19,47.42,6,4,7.1,3.41,0.04,2
+Raúl Jiménez,Wolves,Arsenal,2023-05-28,False,FW,90,0,0.0,0,0.0,2,0,0,0.0,0,True,2.2,0.16,50.69,6,4,7.1,3.41,0.04,2
+Raúl Jiménez,Wolves,Newcastle United,2022-08-28,True,FW,90,0,0.17,0,0.0,2,2,0,4.7,0,False,1.6,0.13,53.5,6,4,7.1,3.41,0.04,2
+Raúl Jiménez,Wolves,Bournemouth,2022-08-31,False,FW,90,0,0.65,0,0.44,2,5,2,8.8,0,False,1.6,0.16,55.93,6,4,7.1,3.41,0.04,1

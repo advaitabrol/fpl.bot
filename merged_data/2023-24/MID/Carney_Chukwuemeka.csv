@@ -1,10 +1,10 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Carney Chukwuemeka,Chelsea,Liverpool,2023-08-13,True,AMC,80,0,0.0,0,0.0,1,0,0,2.2,0,0,1,True
-Carney Chukwuemeka,Chelsea,West Ham,2023-08-20,False,AMC,45,1,0.0689945444464683,0,0.1046014130115509,5,1,2,7.7,0,0,1,True
-Carney Chukwuemeka,Chelsea,Fulham,2024-01-13,True,Sub,1,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False
-Carney Chukwuemeka,Chelsea,Liverpool,2024-01-31,False,Sub,24,0,0.0,1,0.1031715497374534,4,0,1,4.0,0,0,1,False
-Carney Chukwuemeka,Chelsea,Wolverhampton,2024-02-04,True,Sub,18,0,0.0239990223199129,0,0.0,1,1,0,1.4,0,0,1,False
-Carney Chukwuemeka,Chelsea,Newcastle United,2024-03-11,True,Sub,1,0,0.0,0,0.0179019551724195,1,0,1,1.2,0,0,0,False
-Carney Chukwuemeka,Chelsea,Manchester United,2024-04-04,True,Sub,19,0,0.0246186312288045,0,0.0227146334946155,1,1,1,2.2,0,0,0,False
-Carney Chukwuemeka,Chelsea,Sheffield,2024-04-07,False,Sub,16,0,0.0,0,0.0,1,0,0,0.6,0,0,1,False
-Carney Chukwuemeka,Chelsea,Everton,2024-04-15,True,Sub,18,0,0.0,0,0.0,1,0,0,0.4,0,0,0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Carney Chukwuemeka,Chelsea,Liverpool,2023-08-13,True,AMC,80,0,0.0,0,0.0,1,0,0,2.2,0,0,1,True,0.0,0.0,80.0,0,0,0.29,0.51,0.05,5
+Carney Chukwuemeka,Chelsea,West Ham,2023-08-20,False,AMC,45,1,0.07,0,0.1,5,1,2,7.7,0,0,1,True,1.0,0.0,62.5,0,0,0.29,0.51,0.05,1
+Carney Chukwuemeka,Chelsea,Fulham,2024-01-13,True,Sub,1,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,3.0,0.03,42.0,0,0,0.29,0.51,0.05,4
+Carney Chukwuemeka,Chelsea,Liverpool,2024-01-31,False,Sub,24,0,0.0,1,0.1,4,0,1,4.0,0,0,1,False,2.33,0.02,37.5,0,0,0.29,0.51,0.05,1
+Carney Chukwuemeka,Chelsea,Wolverhampton,2024-02-04,True,Sub,18,0,0.02,0,0.0,1,1,0,1.4,0,0,1,False,2.75,0.27,33.6,0,0,0.29,0.51,0.05,1
+Carney Chukwuemeka,Chelsea,Newcastle United,2024-03-11,True,Sub,1,0,0.0,0,0.02,1,0,1,1.2,0,0,0,False,2.4,0.22,28.17,0,0,0.29,0.51,0.05,1
+Carney Chukwuemeka,Chelsea,Manchester United,2024-04-04,True,Sub,19,0,0.02,0,0.02,1,1,1,2.2,0,0,0,False,2.4,0.22,26.86,0,0,0.29,0.51,0.05,1
+Carney Chukwuemeka,Chelsea,Sheffield,2024-04-07,False,Sub,16,0,0.0,0,0.0,1,0,0,0.6,0,0,1,False,1.6,0.21,25.5,0,0,0.29,0.51,0.05,1
+Carney Chukwuemeka,Chelsea,Everton,2024-04-15,True,Sub,18,0,0.0,0,0.0,1,0,0,0.4,0,0,0,False,1.6,0.21,24.67,0,0,0.29,0.51,0.05,

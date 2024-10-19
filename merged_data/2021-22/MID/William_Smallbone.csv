@@ -1,5 +1,5 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-William Smallbone,Southampton,Crystal Palace,2021-12-15,False,MR,69,0,0.0667079612612724,0,0.0509522929787635,2,1,1,2.6,0,0,2
-William Smallbone,Southampton,Watford,2022-03-13,True,FW,45,0,0.0,0,0.0,1,0,0,0.2,0,0,2
-William Smallbone,Southampton,Chelsea,2022-04-09,True,Sub,17,0,0.0,0,0.0,1,0,0,0.3,0,0,0
-William Smallbone,Southampton,Leeds United,2022-05-22,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
+William Smallbone,Southampton,Crystal Palace,2021-12-15,False,MR,69,0,0.07,0,0.05,2,1,1,2.6,0,0,2,0.0,0.0,69.0
+William Smallbone,Southampton,Watford,2022-03-13,True,FW,45,0,0.0,0,0.0,1,0,0,0.2,0,0,2,2.0,0.07,57.0
+William Smallbone,Southampton,Chelsea,2022-04-09,True,Sub,17,0,0.0,0,0.0,1,0,0,0.3,0,0,0,1.5,0.03,43.67
+William Smallbone,Southampton,Leeds United,2022-05-22,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,1,1.33,0.02,33.0

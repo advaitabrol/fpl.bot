@@ -1,13 +1,13 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Carney Chukwuemeka,Aston Villa,Manchester City,2021-12-01,True,Sub,23,0,0.4084951281547546,0,0.0,1,1,0,2.7,0,0,0
-Carney Chukwuemeka,Aston Villa,Leeds United,2021-12-05,True,Sub,12,0,0.0,0,0.055809661746025,1,0,1,1.6,0,0,0
-Carney Chukwuemeka,Aston Villa,Norwich,2021-12-14,False,Sub,7,0,0.0,1,0.9319692254066468,4,0,1,3.5,0,0,0
-Carney Chukwuemeka,Aston Villa,Chelsea,2021-12-26,True,Sub,16,0,0.0680958852171897,0,0.0,1,1,0,1.0,0,0,1
-Carney Chukwuemeka,Aston Villa,Manchester United,2022-01-15,True,Sub,14,0,0.0,0,0.0,1,0,0,0.3,0,0,0
-Carney Chukwuemeka,Aston Villa,Everton,2022-01-22,False,Sub,16,0,0.0,0,0.0,1,0,0,0.3,0,0,0
-Carney Chukwuemeka,Aston Villa,Leicester City,2022-02-09,True,Sub,31,0,0.0368928536772728,0,0.0,1,1,0,1.4,0,0,1
-Carney Chukwuemeka,Aston Villa,Newcastle United,2022-02-13,False,Sub,5,0,0.0,0,0.0,1,0,0,0.1,0,0,0
-Carney Chukwuemeka,Aston Villa,Brentford,2021-08-28,True,MC,62,0,0.0,0,0.0,2,0,0,0.6,0,0,1
-Carney Chukwuemeka,Aston Villa,Burnley,2022-05-07,False,Sub,21,0,0.1134057566523552,0,0.0,1,1,0,2.6,0,0,1
-Carney Chukwuemeka,Aston Villa,Liverpool,2022-05-10,True,Sub,28,0,0.0,0,0.0,1,0,0,0.4,0,0,1
-Carney Chukwuemeka,Aston Villa,Burnley,2022-05-19,True,AMC,56,0,0.0,0,0.0,1,0,0,0.4,0,0,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
+Carney Chukwuemeka,Aston Villa,Manchester City,2021-12-01,True,Sub,23,0,0.41,0,0.0,1,1,0,2.7,0,0,0,0.0,0.0,23.0
+Carney Chukwuemeka,Aston Villa,Leeds United,2021-12-05,True,Sub,12,0,0.0,0,0.06,1,0,1,1.6,0,0,0,1.0,0.41,17.5
+Carney Chukwuemeka,Aston Villa,Norwich,2021-12-14,False,Sub,7,0,0.0,1,0.93,4,0,1,3.5,0,0,0,1.0,0.2,14.0
+Carney Chukwuemeka,Aston Villa,Chelsea,2021-12-26,True,Sub,16,0,0.07,0,0.0,1,1,0,1.0,0,0,1,2.0,0.47,14.5
+Carney Chukwuemeka,Aston Villa,Manchester United,2022-01-15,True,Sub,14,0,0.0,0,0.0,1,0,0,0.3,0,0,0,1.75,0.37,14.4
+Carney Chukwuemeka,Aston Villa,Everton,2022-01-22,False,Sub,16,0,0.0,0,0.0,1,0,0,0.3,0,0,0,1.6,0.3,14.67
+Carney Chukwuemeka,Aston Villa,Leicester City,2022-02-09,True,Sub,31,0,0.04,0,0.0,1,1,0,1.4,0,0,1,1.6,0.21,17.0
+Carney Chukwuemeka,Aston Villa,Newcastle United,2022-02-13,False,Sub,5,0,0.0,0,0.0,1,0,0,0.1,0,0,0,1.6,0.22,15.5
+Carney Chukwuemeka,Aston Villa,Brentford,2021-08-28,True,MC,62,0,0.0,0,0.0,2,0,0,0.6,0,0,1,1.0,0.02,20.67
+Carney Chukwuemeka,Aston Villa,Burnley,2022-05-07,False,Sub,21,0,0.11,0,0.0,1,1,0,2.6,0,0,1,1.2,0.01,20.7
+Carney Chukwuemeka,Aston Villa,Liverpool,2022-05-10,True,Sub,28,0,0.0,0,0.0,1,0,0,0.4,0,0,1,1.2,0.03,21.36
+Carney Chukwuemeka,Aston Villa,Burnley,2022-05-19,True,AMC,56,0,0.0,0,0.0,1,0,0,0.4,0,0,1,1.2,0.03,24.25

@@ -1,0 +1,37 @@
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Dwight McNeil,Everton,Chelsea,2022-08-06,True,ML,60,0,0.0,0,0.03,2,0,1,3.3,0,0,1,False,0.0,0.0,60.0,0,1,2.46,5.01,0.03,1
+Dwight McNeil,Everton,Manchester United,2022-10-09,True,Sub,23,0,0.0,0,0.05,1,0,1,2.1,0,0,0,False,2.0,0.0,41.5,0,1,2.46,5.01,0.03,1
+Dwight McNeil,Everton,Tottenham,2022-10-15,False,DL,90,0,0.0,0,0.08,1,0,1,3.4,0,0,2,False,1.5,0.0,57.67,0,1,2.46,5.01,0.03,1
+Dwight McNeil,Everton,Newcastle United,2022-10-19,False,Sub,11,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,1.33,0.0,46.0,0,1,2.46,5.01,0.03,6
+Dwight McNeil,Everton,Crystal Palace,2022-10-22,True,Sub,17,1,0.51,0,0.0,6,1,0,5.1,0,0,0,False,1.25,0.0,40.2,0,1,2.46,5.01,0.03,1
+Dwight McNeil,Everton,Fulham,2022-10-29,False,Sub,14,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False,2.2,0.1,35.83,0,1,2.46,5.01,0.03,2
+Dwight McNeil,Everton,Leeds United,2022-11-05,True,FWL,70,0,0.0,0,0.05,2,0,1,3.0,0,0,1,False,2.0,0.1,40.71,0,1,2.46,5.01,0.03,2
+Dwight McNeil,Everton,Bournemouth,2022-11-12,False,FWR,74,0,0.04,0,0.02,2,2,1,4.5,0,0,3,True,2.2,0.1,44.88,0,1,2.46,5.01,0.03,4
+Dwight McNeil,Everton,Wolverhampton,2022-12-26,True,FWL,55,0,0.0,1,0.1,4,0,1,3.5,0,0,1,True,2.4,0.11,46.0,0,1,2.46,5.01,0.03,1
+Dwight McNeil,Everton,Brighton,2023-01-03,True,FWR,57,0,0.02,0,0.0,1,1,0,2.8,0,0,4,True,3.0,0.31,47.1,0,1,2.46,5.01,0.03,2
+Dwight McNeil,Everton,Aston Villa,2022-08-13,False,FWR,63,0,0.14,0,0.04,2,2,1,4.6,0,0,1,False,2.0,0.21,48.55,0,1,2.46,5.01,0.03,1
+Dwight McNeil,Everton,West Ham,2023-01-21,False,Sub,45,0,0.0,0,0.01,1,0,1,3.2,0,0,0,False,2.2,0.24,48.25,0,1,2.46,5.01,0.03,7
+Dwight McNeil,Everton,Arsenal,2023-02-04,True,MR,90,0,0.03,1,0.78,7,1,3,8.4,1,1,0,True,2.0,0.24,51.46,0,1,2.46,5.01,0.03,2
+Dwight McNeil,Everton,Liverpool,2023-02-13,False,MR,77,0,0.05,0,0.04,2,1,1,3.7,0,0,2,True,3.0,0.44,53.29,0,1,2.46,5.01,0.03,2
+Dwight McNeil,Everton,Leicester City,2023-02-18,True,ML,90,0,0.04,0,0.61,2,2,3,6.3,0,1,0,True,2.6,0.25,55.73,0,1,2.46,5.01,0.03,2
+Dwight McNeil,Everton,Aston Villa,2023-02-25,True,ML,90,0,0.16,0,0.33,2,2,4,10.7,0,0,2,True,2.8,0.25,57.88,0,1,2.46,5.01,0.03,2
+Dwight McNeil,Everton,Arsenal,2023-03-01,False,ML,90,0,0.04,0,0.68,2,1,1,5.1,0,0,4,True,2.8,0.26,59.76,0,1,2.46,5.01,0.03,4
+Dwight McNeil,Everton,Nottingham Forest,2023-03-05,False,ML,90,0,0.07,0,0.07,4,2,1,4.7,0,0,2,True,3.0,0.26,61.44,0,1,2.46,5.01,0.03,11
+Dwight McNeil,Everton,Brentford,2023-03-11,True,ML,90,1,0.09,0,0.03,11,2,1,9.0,3,1,0,True,2.4,0.07,62.95,0,1,2.46,5.01,0.03,1
+Dwight McNeil,Everton,Chelsea,2023-03-18,False,ML,90,0,0.08,0,0.05,1,3,1,3.3,0,0,2,True,4.2,0.08,64.3,0,1,2.46,5.01,0.03,2
+Dwight McNeil,Everton,Tottenham,2023-04-03,True,ML,90,0,0.0,0,0.08,2,0,2,4.8,0,0,1,True,4.0,0.09,65.52,0,1,2.46,5.01,0.03,1
+Dwight McNeil,Everton,Nottingham Forest,2022-08-20,True,Sub,33,0,0.07,0,0.0,1,1,0,2.4,0,0,1,False,4.0,0.05,64.05,0,1,2.46,5.01,0.03,2
+Dwight McNeil,Everton,Manchester United,2023-04-08,False,ML,90,0,0.03,0,0.08,2,1,3,6.9,0,0,2,True,3.8,0.06,65.17,0,1,2.46,5.01,0.03,10
+Dwight McNeil,Everton,Fulham,2023-04-15,True,ML,90,1,0.11,0,0.85,10,2,3,8.8,3,0,3,True,3.4,0.06,66.21,0,1,2.46,5.01,0.03,3
+Dwight McNeil,Everton,Crystal Palace,2023-04-22,False,AML,90,0,0.16,0,0.02,3,4,1,5.6,0,1,0,True,3.2,0.06,67.16,0,1,2.46,5.01,0.03,8
+Dwight McNeil,Everton,Newcastle United,2023-04-27,True,FWL,90,1,0.08,0,0.0,8,4,0,0.0,1,0,4,True,3.6,0.07,68.04,0,1,2.46,5.01,0.03,2
+Dwight McNeil,Everton,Leeds United,2023-05-01,False,AML,90,0,0.62,0,0.16,2,4,4,9.7,0,0,2,True,4.8,0.09,68.85,0,1,2.46,5.01,0.03,21
+Dwight McNeil,Everton,Brighton,2023-05-08,False,AML,90,2,1.32,1,0.96,21,4,3,21.4,3,0,1,True,5.0,0.2,69.61,0,1,2.46,5.01,0.03,2
+Dwight McNeil,Everton,Manchester City,2023-05-14,True,AML,90,0,0.02,0,0.32,2,1,3,7.9,0,0,3,True,8.8,0.66,70.31,0,1,2.46,5.01,0.03,2
+Dwight McNeil,Everton,Wolverhampton,2023-05-20,False,DL,90,0,0.0,0,0.58,2,0,2,5.1,0,0,1,True,7.2,0.64,70.97,0,1,2.46,5.01,0.03,3
+Dwight McNeil,Everton,Bournemouth,2023-05-28,True,DML,90,0,0.0,0,0.19,3,0,3,0.0,0,1,0,True,7.0,0.61,71.58,0,1,2.46,5.01,0.03,2
+Dwight McNeil,Everton,Brentford,2022-08-27,False,FW,85,0,0.05,0,0.04,2,1,1,3.8,0,0,1,False,6.0,0.59,72.0,0,1,2.46,5.01,0.03,2
+Dwight McNeil,Everton,Leicester City,2022-08-30,False,FWR,90,0,0.02,0,0.0,2,1,0,2.8,0,0,1,False,6.0,0.48,72.55,0,1,2.46,5.01,0.03,1
+Dwight McNeil,Everton,Liverpool,2022-09-03,True,Sub,8,0,0.06,0,0.02,1,1,1,3.4,0,0,0,False,2.2,0.02,70.65,0,1,2.46,5.01,0.03,0
+Dwight McNeil,Everton,West Ham,2022-09-18,True,Sub,15,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,2.0,0.03,69.06,0,1,2.46,5.01,0.03,10
+Dwight McNeil,Everton,Southampton,2022-10-01,False,FWR,73,1,0.04,0,1.17,10,2,2,11.1,3,0,1,False,1.6,0.03,69.17,0,1,2.46,5.01,0.03,3

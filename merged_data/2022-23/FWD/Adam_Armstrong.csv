@@ -1,31 +1,31 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts
-Adam Armstrong,Southampton,Tottenham,2022-08-06,False,FW,45,0,0.0515742003917694,0,0.0,1,1,0,0.0,0,False
-Adam Armstrong,Southampton,Manchester City,2022-10-08,False,AMC,65,0,0.0,0,0.0233459994196891,2,0,1,1.3,0,False
-Adam Armstrong,Southampton,West Ham,2022-10-16,True,FW,73,0,0.0,0,0.1484040021896362,2,0,2,3.6,0,False
-Adam Armstrong,Southampton,Bournemouth,2022-10-19,False,FW,87,0,0.0330561995506286,0,0.0487237013876438,2,1,1,2.6,0,False
-Adam Armstrong,Southampton,Arsenal,2022-10-23,True,FW,72,0,0.0327633991837501,0,0.0,2,1,0,1.6,0,False
-Adam Armstrong,Southampton,Newcastle United,2022-11-06,True,Sub,26,0,0.0185217000544071,0,0.0782245993614196,1,1,2,3.9,0,False
-Adam Armstrong,Southampton,Liverpool,2022-11-12,False,FW,58,0,0.1837639957666397,0,0.0,1,3,0,2.3,0,True
-Adam Armstrong,Southampton,Brighton,2022-12-26,True,Sub,6,0,0.0,0,0.0,1,0,0,0.0,0,False
-Adam Armstrong,Southampton,Fulham,2022-12-31,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,False
-Adam Armstrong,Southampton,Nottingham Forest,2023-01-04,True,Sub,26,0,0.0,0,0.0,1,0,0,0.1,0,False
-Adam Armstrong,Southampton,Leicester City,2022-08-13,True,Sub,29,0,0.0,1,0.702688992023468,4,0,1,3.3,0,False
-Adam Armstrong,Southampton,Everton,2023-01-14,False,Sub,29,0,0.0773307979106903,0,0.0,1,1,0,1.1,0,False
-Adam Armstrong,Southampton,Aston Villa,2023-01-21,True,AML,83,0,0.4466629922389984,0,0.0,2,1,0,2.5,0,True
-Adam Armstrong,Southampton,Brentford,2023-02-04,False,Sub,9,0,0.0086480202153325,0,0.0,1,1,0,1.1,0,False
-Adam Armstrong,Southampton,Chelsea,2023-02-18,False,Sub,31,0,0.1385450065135955,0,0.0,1,1,0,2.5,0,False
-Adam Armstrong,Southampton,Leicester City,2023-02-25,False,Sub,8,0,0.0,0,0.0,1,0,0,0.0,0,False
-Adam Armstrong,Southampton,Leeds United,2023-03-04,True,Sub,27,0,0.0,0,0.0,0,0,0,0.0,0,False
-Adam Armstrong,Southampton,Manchester United,2023-03-12,False,Sub,14,0,0.0,0,0.0,1,0,0,0.3,0,False
-Adam Armstrong,Southampton,Leeds United,2022-08-20,False,AML,69,0,0.0,0,0.0,2,0,0,0.8,0,False
-Adam Armstrong,Southampton,Arsenal,2023-04-21,False,ML,76,0,0.0,0,0.0,1,0,0,0.3,0,True
-Adam Armstrong,Southampton,Bournemouth,2023-04-27,True,ML,75,0,0.169440820813179,0,0.0,2,3,0,0.0,0,True
-Adam Armstrong,Southampton,Newcastle United,2023-04-30,False,Sub,20,0,0.0,0,0.0,1,0,0,0.0,0,False
-Adam Armstrong,Southampton,Nottingham Forest,2023-05-08,False,Sub,14,0,0.0414139591157436,0,0.470894455909729,1,1,1,1.6,0,False
-Adam Armstrong,Southampton,Fulham,2023-05-13,True,Sub,8,0,0.0,0,0.0,1,0,0,0.1,0,False
-Adam Armstrong,Southampton,Liverpool,2023-05-28,True,Sub,27,1,0.3209304213523865,0,0.0,5,1,0,0.0,0,False
-Adam Armstrong,Southampton,Manchester United,2022-08-27,True,AMR,76,0,0.0415770001709461,0,0.2323900014162063,2,1,2,6.0,0,False
-Adam Armstrong,Southampton,Chelsea,2022-08-30,True,AML,85,1,0.4991309940814972,0,0.0,9,2,0,6.8,3,False
-Adam Armstrong,Southampton,Wolverhampton,2022-09-03,False,AML,82,0,0.104324996471405,0,0.0,2,2,0,1.6,0,False
-Adam Armstrong,Southampton,Aston Villa,2022-09-16,False,AML,70,0,0.0,0,0.0,2,0,0,1.2,0,False
-Adam Armstrong,Southampton,Everton,2022-10-01,True,Sub,30,0,0.2698169946670532,0,0.0257447995245456,1,4,1,7.3,0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Adam Armstrong,Southampton,Tottenham,2022-08-06,False,FW,45,0,0.05,0,0.0,1,1,0,0.0,0,False,0.0,0.0,45.0,2,2,4.25,1.62,0.04,2
+Adam Armstrong,Southampton,Manchester City,2022-10-08,False,AMC,65,0,0.0,0,0.02,2,0,1,1.3,0,False,1.0,0.05,55.0,2,2,4.25,1.62,0.04,2
+Adam Armstrong,Southampton,West Ham,2022-10-16,True,FW,73,0,0.0,0,0.15,2,0,2,3.6,0,False,1.5,0.03,61.0,2,2,4.25,1.62,0.04,2
+Adam Armstrong,Southampton,Bournemouth,2022-10-19,False,FW,87,0,0.03,0,0.05,2,1,1,2.6,0,False,1.67,0.02,67.5,2,2,4.25,1.62,0.04,2
+Adam Armstrong,Southampton,Arsenal,2022-10-23,True,FW,72,0,0.03,0,0.0,2,1,0,1.6,0,False,1.75,0.02,68.4,2,2,4.25,1.62,0.04,1
+Adam Armstrong,Southampton,Newcastle United,2022-11-06,True,Sub,26,0,0.02,0,0.08,1,1,2,3.9,0,False,1.8,0.02,61.33,2,2,4.25,1.62,0.04,1
+Adam Armstrong,Southampton,Liverpool,2022-11-12,False,FW,58,0,0.18,0,0.0,1,3,0,2.3,0,True,1.8,0.02,60.86,2,2,4.25,1.62,0.04,1
+Adam Armstrong,Southampton,Brighton,2022-12-26,True,Sub,6,0,0.0,0,0.0,1,0,0,0.0,0,False,1.6,0.05,54.0,2,2,4.25,1.62,0.04,1
+Adam Armstrong,Southampton,Fulham,2022-12-31,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,False,1.4,0.05,48.11,2,2,4.25,1.62,0.04,1
+Adam Armstrong,Southampton,Nottingham Forest,2023-01-04,True,Sub,26,0,0.0,0,0.0,1,0,0,0.1,0,False,1.2,0.05,45.9,2,2,4.25,1.62,0.04,4
+Adam Armstrong,Southampton,Leicester City,2022-08-13,True,Sub,29,0,0.0,1,0.7,4,0,1,3.3,0,False,1.0,0.04,44.36,2,2,4.25,1.62,0.04,1
+Adam Armstrong,Southampton,Everton,2023-01-14,False,Sub,29,0,0.08,0,0.0,1,1,0,1.1,0,False,1.6,0.24,43.08,2,2,4.25,1.62,0.04,2
+Adam Armstrong,Southampton,Aston Villa,2023-01-21,True,AML,83,0,0.45,0,0.0,2,1,0,2.5,0,True,1.6,0.22,46.15,2,2,4.25,1.62,0.04,1
+Adam Armstrong,Southampton,Brentford,2023-02-04,False,Sub,9,0,0.01,0,0.0,1,1,0,1.1,0,False,1.8,0.3,43.5,2,2,4.25,1.62,0.04,1
+Adam Armstrong,Southampton,Chelsea,2023-02-18,False,Sub,31,0,0.14,0,0.0,1,1,0,2.5,0,False,1.8,0.31,42.67,2,2,4.25,1.62,0.04,1
+Adam Armstrong,Southampton,Leicester City,2023-02-25,False,Sub,8,0,0.0,0,0.0,1,0,0,0.0,0,False,1.8,0.33,40.5,2,2,4.25,1.62,0.04,0
+Adam Armstrong,Southampton,Leeds United,2023-03-04,True,Sub,27,0,0.0,0,0.0,0,0,0,0.0,0,False,1.2,0.13,39.71,2,2,4.25,1.62,0.04,1
+Adam Armstrong,Southampton,Manchester United,2023-03-12,False,Sub,14,0,0.0,0,0.0,1,0,0,0.3,0,False,1.0,0.12,38.28,2,2,4.25,1.62,0.04,2
+Adam Armstrong,Southampton,Leeds United,2022-08-20,False,AML,69,0,0.0,0,0.0,2,0,0,0.8,0,False,0.8,0.03,39.89,2,2,4.25,1.62,0.04,1
+Adam Armstrong,Southampton,Arsenal,2023-04-21,False,ML,76,0,0.0,0,0.0,1,0,0,0.3,0,True,1.0,0.03,41.7,2,2,4.25,1.62,0.04,2
+Adam Armstrong,Southampton,Bournemouth,2023-04-27,True,ML,75,0,0.17,0,0.0,2,3,0,0.0,0,True,1.0,0.0,43.29,2,2,4.25,1.62,0.04,1
+Adam Armstrong,Southampton,Newcastle United,2023-04-30,False,Sub,20,0,0.0,0,0.0,1,0,0,0.0,0,False,1.2,0.03,42.23,2,2,4.25,1.62,0.04,1
+Adam Armstrong,Southampton,Nottingham Forest,2023-05-08,False,Sub,14,0,0.04,0,0.47,1,1,1,1.6,0,False,1.4,0.03,41.0,2,2,4.25,1.62,0.04,1
+Adam Armstrong,Southampton,Fulham,2023-05-13,True,Sub,8,0,0.0,0,0.0,1,0,0,0.1,0,False,1.4,0.04,39.62,2,2,4.25,1.62,0.04,5
+Adam Armstrong,Southampton,Liverpool,2023-05-28,True,Sub,27,1,0.32,0,0.0,5,1,0,0.0,0,False,1.2,0.04,39.12,2,2,4.25,1.62,0.04,2
+Adam Armstrong,Southampton,Manchester United,2022-08-27,True,AMR,76,0,0.04,0,0.23,2,1,2,6.0,0,False,2.0,0.11,40.54,2,2,4.25,1.62,0.04,9
+Adam Armstrong,Southampton,Chelsea,2022-08-30,True,AML,85,1,0.5,0,0.0,9,2,0,6.8,3,False,2.0,0.08,42.19,2,2,4.25,1.62,0.04,2
+Adam Armstrong,Southampton,Wolverhampton,2022-09-03,False,AML,82,0,0.1,0,0.0,2,2,0,1.6,0,False,3.6,0.18,43.61,2,2,4.25,1.62,0.04,2
+Adam Armstrong,Southampton,Aston Villa,2022-09-16,False,AML,70,0,0.0,0,0.0,2,0,0,1.2,0,False,3.8,0.19,44.52,2,2,4.25,1.62,0.04,1
+Adam Armstrong,Southampton,Everton,2022-10-01,True,Sub,30,0,0.27,0,0.03,1,4,1,7.3,0,False,4.0,0.19,44.03,2,2,4.25,1.62,0.04,

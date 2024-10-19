@@ -1,23 +1,23 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Orel Mangala,Nott'm Forest,Arsenal,2023-08-12,False,MC,89,0,0.0,0,0.0158710777759552,1,0,1,1.7,0,0,2,True
-Orel Mangala,Nott'm Forest,Liverpool,2023-10-29,False,MC,82,0,0.0,0,0.0,1,0,0,0.2,0,0,3,True
-Orel Mangala,Nott'm Forest,Aston Villa,2023-11-05,True,MC,90,1,0.0231653992086648,0,0.0,8,1,0,5.6,0,1,0,True
-Orel Mangala,Nott'm Forest,West Ham,2023-11-12,False,MC,90,0,0.0,0,0.0,2,0,0,2.0,0,0,3,True
-Orel Mangala,Nott'm Forest,Brighton,2023-11-25,True,DMC,90,0,0.0,0,0.0,2,0,0,1.7,0,0,3,True
-Orel Mangala,Nott'm Forest,Everton,2023-12-02,True,MC,90,0,0.0,0,0.0,2,0,0,3.2,0,0,1,True
-Orel Mangala,Nott'm Forest,Fulham,2023-12-06,False,DMC,90,0,0.0,0,0.0,2,0,0,1.4,0,0,5,True
-Orel Mangala,Nott'm Forest,Wolverhampton,2023-12-09,False,MC,90,0,0.0,0,0.0,2,0,0,0.8,0,0,1,True
-Orel Mangala,Nott'm Forest,Tottenham,2023-12-15,True,MC,82,0,0.0,0,0.0,2,0,0,1.3,0,0,2,True
-Orel Mangala,Nott'm Forest,Bournemouth,2023-12-23,True,DMC,45,0,0.0,0,0.0379972346127033,1,0,1,1.8,0,0,0,True
-Orel Mangala,Nott'm Forest,Sheffield,2023-08-18,True,MC,68,0,0.0,0,0.0,2,0,0,1.0,0,0,1,True
-Orel Mangala,Nott'm Forest,Manchester United,2023-12-30,True,Sub,3,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False
-Orel Mangala,Nott'm Forest,Brentford,2024-01-20,False,DMC,90,0,0.6283881664276123,0,0.0203310642391443,1,3,1,3.7,0,0,3,True
-Orel Mangala,Nott'm Forest,Arsenal,2024-01-30,True,DMC,70,0,0.0,0,0.0,2,0,0,1.3,0,0,1,True
-Orel Mangala,Nott'm Forest,Manchester City,2024-04-28,True,Sub,0,0,0.0,0,0.1700226068496704,0,0,2,0.0,0,0,0,False
-Orel Mangala,Nott'm Forest,Burnley,2024-05-19,False,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False
-Orel Mangala,Nott'm Forest,Chelsea,2023-09-02,False,MC,71,0,0.0174687523394823,0,0.0,3,1,0,0.3,0,1,0,True
-Orel Mangala,Nott'm Forest,Burnley,2023-09-18,True,DMC,70,0,0.068180613219738,0,0.0293233785778284,1,2,1,2.2,0,0,1,True
-Orel Mangala,Nott'm Forest,Manchester City,2023-09-23,False,MC,90,0,0.0477729067206382,0,0.0,1,1,0,1.2,0,0,2,True
-Orel Mangala,Nott'm Forest,Brentford,2023-10-01,True,MC,90,0,0.0,0,0.0,2,0,0,1.4,0,0,1,True
-Orel Mangala,Nott'm Forest,Crystal Palace,2023-10-07,False,MC,82,0,0.1073843836784362,0,0.018126843497157,3,2,1,2.6,0,1,0,True
-Orel Mangala,Nott'm Forest,Luton,2023-10-21,True,MC,90,0,0.0,0,0.1651497185230255,2,0,1,2.6,0,0,2,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Orel Mangala,Nott'm Forest,Arsenal,2023-08-12,False,MC,89,0,0.0,0,0.02,1,0,1,1.7,0,0,2,True,0.0,0.0,89.0,1,1,0.38,0.42,0.03,1
+Orel Mangala,Nott'm Forest,Liverpool,2023-10-29,False,MC,82,0,0.0,0,0.0,1,0,0,0.2,0,0,3,True,1.0,0.0,85.5,1,1,0.38,0.42,0.03,8
+Orel Mangala,Nott'm Forest,Aston Villa,2023-11-05,True,MC,90,1,0.02,0,0.0,8,1,0,5.6,0,1,0,True,1.0,0.0,87.0,1,1,0.38,0.42,0.03,2
+Orel Mangala,Nott'm Forest,West Ham,2023-11-12,False,MC,90,0,0.0,0,0.0,2,0,0,2.0,0,0,3,True,3.33,0.01,87.75,1,1,0.38,0.42,0.03,2
+Orel Mangala,Nott'm Forest,Brighton,2023-11-25,True,DMC,90,0,0.0,0,0.0,2,0,0,1.7,0,0,3,True,3.0,0.01,88.2,1,1,0.38,0.42,0.03,2
+Orel Mangala,Nott'm Forest,Everton,2023-12-02,True,MC,90,0,0.0,0,0.0,2,0,0,3.2,0,0,1,True,2.8,0.0,88.5,1,1,0.38,0.42,0.03,2
+Orel Mangala,Nott'm Forest,Fulham,2023-12-06,False,DMC,90,0,0.0,0,0.0,2,0,0,1.4,0,0,5,True,3.0,0.0,88.71,1,1,0.38,0.42,0.03,2
+Orel Mangala,Nott'm Forest,Wolverhampton,2023-12-09,False,MC,90,0,0.0,0,0.0,2,0,0,0.8,0,0,1,True,3.2,0.0,88.88,1,1,0.38,0.42,0.03,2
+Orel Mangala,Nott'm Forest,Tottenham,2023-12-15,True,MC,82,0,0.0,0,0.0,2,0,0,1.3,0,0,2,True,2.0,0.0,88.11,1,1,0.38,0.42,0.03,1
+Orel Mangala,Nott'm Forest,Bournemouth,2023-12-23,True,DMC,45,0,0.0,0,0.04,1,0,1,1.8,0,0,0,True,2.0,0.0,83.8,1,1,0.38,0.42,0.03,2
+Orel Mangala,Nott'm Forest,Sheffield,2023-08-18,True,MC,68,0,0.0,0,0.0,2,0,0,1.0,0,0,1,True,1.8,0.0,82.36,1,1,0.38,0.42,0.03,0
+Orel Mangala,Nott'm Forest,Manchester United,2023-12-30,True,Sub,3,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,1.8,0.0,75.75,1,1,0.38,0.42,0.03,1
+Orel Mangala,Nott'm Forest,Brentford,2024-01-20,False,DMC,90,0,0.63,0,0.02,1,3,1,3.7,0,0,3,True,1.4,0.0,76.85,1,1,0.38,0.42,0.03,2
+Orel Mangala,Nott'm Forest,Arsenal,2024-01-30,True,DMC,70,0,0.0,0,0.0,2,0,0,1.3,0,0,1,True,1.2,0.13,76.36,1,1,0.38,0.42,0.03,0
+Orel Mangala,Nott'm Forest,Manchester City,2024-04-28,True,Sub,0,0,0.0,0,0.17,0,0,2,0.0,0,0,0,False,1.2,0.13,71.27,1,1,0.38,0.42,0.03,0
+Orel Mangala,Nott'm Forest,Burnley,2024-05-19,False,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,1.0,0.13,66.81,1,1,0.38,0.42,0.03,3
+Orel Mangala,Nott'm Forest,Chelsea,2023-09-02,False,MC,71,0,0.02,0,0.0,3,1,0,0.3,0,1,0,True,0.6,0.13,67.06,1,1,0.38,0.42,0.03,1
+Orel Mangala,Nott'm Forest,Burnley,2023-09-18,True,DMC,70,0,0.07,0,0.03,1,2,1,2.2,0,0,1,True,1.2,0.13,67.22,1,1,0.38,0.42,0.03,1
+Orel Mangala,Nott'm Forest,Manchester City,2023-09-23,False,MC,90,0,0.05,0,0.0,1,1,0,1.2,0,0,2,True,1.2,0.02,68.42,1,1,0.38,0.42,0.03,2
+Orel Mangala,Nott'm Forest,Brentford,2023-10-01,True,MC,90,0,0.0,0,0.0,2,0,0,1.4,0,0,1,True,1.0,0.03,69.5,1,1,0.38,0.42,0.03,3
+Orel Mangala,Nott'm Forest,Crystal Palace,2023-10-07,False,MC,82,0,0.11,0,0.02,3,2,1,2.6,0,1,0,True,1.4,0.03,70.1,1,1,0.38,0.42,0.03,2
+Orel Mangala,Nott'm Forest,Luton,2023-10-21,True,MC,90,0,0.0,0,0.17,2,0,1,2.6,0,0,2,True,2.0,0.05,71.0,1,1,0.38,0.42,0.03,

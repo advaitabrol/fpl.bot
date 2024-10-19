@@ -1,15 +1,15 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Carney Chukwuemeka,Chelsea,Wolverhampton,2022-10-08,True,Sub,4,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False
-Carney Chukwuemeka,Chelsea,Brentford,2022-10-19,False,Sub,28,0,0.0483390018343925,0,0.0146220996975898,1,1,1,4.1,0,0,0,False
-Carney Chukwuemeka,Chelsea,Manchester United,2022-10-22,True,Sub,11,0,0.0,0,0.0,1,0,0,0.2,0,0,1,False
-Carney Chukwuemeka,Chelsea,Nottingham Forest,2023-01-01,False,Sub,3,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False
-Carney Chukwuemeka,Chelsea,Manchester City,2023-01-05,True,Sub,68,0,0.1757590025663375,0,0.0412825010716915,2,2,1,6.3,0,0,1,False
-Carney Chukwuemeka,Chelsea,Fulham,2023-01-12,False,Sub,11,0,0.0,0,0.048286098986864,1,0,1,1.7,0,0,0,False
-Carney Chukwuemeka,Chelsea,Crystal Palace,2023-01-15,True,AMC,62,0,0.0294032990932464,0,0.0,3,1,0,2.1,0,1,0,True
-Carney Chukwuemeka,Chelsea,Liverpool,2023-01-21,False,Sub,8,0,0.0,0,0.0,1,0,0,0.8,0,0,0,False
-Carney Chukwuemeka,Chelsea,Leicester City,2023-03-04,True,Sub,15,0,0.0,0,0.0,1,0,0,1.1,0,0,0,False
-Carney Chukwuemeka,Chelsea,Leeds United,2023-03-11,False,Sub,8,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False
-Carney Chukwuemeka,Chelsea,Everton,2023-03-18,True,Sub,4,0,0.0,0,0.0,1,0,0,0.1,0,0,1,False
-Carney Chukwuemeka,Chelsea,Manchester City,2023-05-21,False,Sub,9,0,0.0,0,0.0404931120574474,1,0,1,1.4,0,0,0,False
-Carney Chukwuemeka,Chelsea,Manchester United,2023-05-25,False,MC,81,0,0.0272831562906503,0,0.0,2,1,0,2.0,0,0,4,True
-Carney Chukwuemeka,Chelsea,Newcastle United,2023-05-28,True,Sub,30,0,0.0,0,0.3732905089855194,1,0,4,0.0,0,0,0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Carney Chukwuemeka,Chelsea,Wolverhampton,2022-10-08,True,Sub,4,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,0.0,0.0,4.0,0,1,0.63,0.99,0.05,1
+Carney Chukwuemeka,Chelsea,Brentford,2022-10-19,False,Sub,28,0,0.05,0,0.01,1,1,1,4.1,0,0,0,False,1.0,0.0,16.0,0,1,0.63,0.99,0.05,1
+Carney Chukwuemeka,Chelsea,Manchester United,2022-10-22,True,Sub,11,0,0.0,0,0.0,1,0,0,0.2,0,0,1,False,1.0,0.02,14.33,0,1,0.63,0.99,0.05,1
+Carney Chukwuemeka,Chelsea,Nottingham Forest,2023-01-01,False,Sub,3,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,1.0,0.02,11.5,0,1,0.63,0.99,0.05,2
+Carney Chukwuemeka,Chelsea,Manchester City,2023-01-05,True,Sub,68,0,0.18,0,0.04,2,2,1,6.3,0,0,1,False,1.0,0.01,22.8,0,1,0.63,0.99,0.05,1
+Carney Chukwuemeka,Chelsea,Fulham,2023-01-12,False,Sub,11,0,0.0,0,0.05,1,0,1,1.7,0,0,0,False,1.2,0.04,20.83,0,1,0.63,0.99,0.05,3
+Carney Chukwuemeka,Chelsea,Crystal Palace,2023-01-15,True,AMC,62,0,0.03,0,0.0,3,1,0,2.1,0,1,0,True,1.2,0.04,26.71,0,1,0.63,0.99,0.05,1
+Carney Chukwuemeka,Chelsea,Liverpool,2023-01-21,False,Sub,8,0,0.0,0,0.0,1,0,0,0.8,0,0,0,False,1.6,0.04,24.38,0,1,0.63,0.99,0.05,1
+Carney Chukwuemeka,Chelsea,Leicester City,2023-03-04,True,Sub,15,0,0.0,0,0.0,1,0,0,1.1,0,0,0,False,1.6,0.04,23.33,0,1,0.63,0.99,0.05,1
+Carney Chukwuemeka,Chelsea,Leeds United,2023-03-11,False,Sub,8,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False,1.6,0.04,21.8,0,1,0.63,0.99,0.05,1
+Carney Chukwuemeka,Chelsea,Everton,2023-03-18,True,Sub,4,0,0.0,0,0.0,1,0,0,0.1,0,0,1,False,1.4,0.01,20.18,0,1,0.63,0.99,0.05,1
+Carney Chukwuemeka,Chelsea,Manchester City,2023-05-21,False,Sub,9,0,0.0,0,0.04,1,0,1,1.4,0,0,0,False,1.4,0.01,19.25,0,1,0.63,0.99,0.05,2
+Carney Chukwuemeka,Chelsea,Manchester United,2023-05-25,False,MC,81,0,0.03,0,0.0,2,1,0,2.0,0,0,4,True,1.0,0.0,24.0,0,1,0.63,0.99,0.05,1
+Carney Chukwuemeka,Chelsea,Newcastle United,2023-05-28,True,Sub,30,0,0.0,0,0.37,1,0,4,0.0,0,0,0,False,1.2,0.01,24.43,0,1,0.63,0.99,0.05,1

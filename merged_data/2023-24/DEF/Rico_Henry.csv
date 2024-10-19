@@ -1,6 +1,6 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts
-Rico Henry,Brentford,Tottenham,2023-08-13,True,DL,90,0,0.0,1,0.579993724822998,4,0,2,7.6,0,0,2,1.26,True
-Rico Henry,Brentford,Fulham,2023-08-19,False,DL,90,0,0.0,0,0.0,5,0,0,1.1,0,1,0,0.46,True
-Rico Henry,Brentford,Crystal Palace,2023-08-26,True,DL,90,0,0.0329424776136875,0,0.0744124501943588,2,1,1,4.7,0,0,1,0.8,True
-Rico Henry,Brentford,Bournemouth,2023-09-02,True,DL,90,0,0.0124276177957654,0,0.1360872834920883,1,1,1,1.9,0,0,2,2.02,True
-Rico Henry,Brentford,Newcastle United,2023-09-16,False,DL,41,0,0.0,0,0.0,1,0,0,0.4,0,0,0,0.58,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
+Rico Henry,Brentford,Tottenham,2023-08-13,True,DL,90,0,0.0,1,0.58,4,0,2,7.6,0,0,2,1.26,True,0.0,0.0,90.0,0.0,1.96,3.06,29.53,0.31,5
+Rico Henry,Brentford,Fulham,2023-08-19,False,DL,90,0,0.0,0,0.0,5,0,0,1.1,0,1,0,0.46,True,4.0,1.0,90.0,0.5,1.96,3.06,29.53,0.31,2
+Rico Henry,Brentford,Crystal Palace,2023-08-26,True,DL,90,0,0.03,0,0.07,2,1,1,4.7,0,0,1,0.8,True,4.5,0.5,90.0,0.33,1.96,3.06,29.53,0.31,1
+Rico Henry,Brentford,Bournemouth,2023-09-02,True,DL,90,0,0.01,0,0.14,1,1,1,1.9,0,0,2,2.02,True,3.67,0.34,90.0,0.25,1.96,3.06,29.53,0.31,1
+Rico Henry,Brentford,Newcastle United,2023-09-16,False,DL,41,0,0.0,0,0.0,1,0,0,0.4,0,0,0,0.58,True,3.0,0.26,80.2,0.25,1.96,3.06,29.53,0.31,

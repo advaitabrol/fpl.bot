@@ -1,17 +1,17 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts
-John Stones,Man City,Manchester United,2023-10-29,False,DC,90,0,0.0,0,0.1369853168725967,6,0,3,5.6,0,1,0,1.03,True
-John Stones,Man City,Bournemouth,2023-11-04,True,DC,70,0,0.0,0,0.0,6,0,0,1.1,0,1,0,0.31,True
-John Stones,Man City,Aston Villa,2023-12-06,False,DMC,90,0,0.0,0,0.0,1,0,0,2.6,0,0,1,2.04,True
-John Stones,Man City,Luton,2023-12-10,False,Sub,21,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.03,False
-John Stones,Man City,Crystal Palace,2023-12-16,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.0,False
-John Stones,Man City,Everton,2023-12-27,False,DC,42,0,0.0,0,0.0,1,0,0,0.4,0,0,1,0.71,True
-John Stones,Man City,Burnley,2024-01-31,True,DC,90,0,0.0,0,0.0,2,0,0,2.7,0,0,1,1.44,True
-John Stones,Man City,Everton,2024-02-10,True,DR,90,0,0.0,0,0.0560485869646072,7,0,1,3.3,1,1,0,0.32,True
-John Stones,Man City,Brentford,2024-02-20,True,DC,90,0,0.0972262695431709,0,0.0,5,2,0,4.0,0,1,0,0.34,True
-John Stones,Man City,Bournemouth,2024-02-24,False,DMC,90,0,0.0,0,0.0,6,0,0,1.5,0,1,0,0.93,True
-John Stones,Man City,Manchester United,2024-03-03,True,DMC,90,0,0.0195555947721004,0,0.0352402031421661,2,1,1,3.4,0,0,1,0.26,True
-John Stones,Man City,Liverpool,2024-03-10,False,DMC,90,1,0.6321804523468018,0,0.0,10,1,0,9.1,2,0,1,2.46,True
-John Stones,Man City,Crystal Palace,2024-04-06,False,DC,90,0,0.0,0,0.0331573784351348,1,0,1,3.2,0,0,2,1.08,True
-John Stones,Man City,Wolverhampton,2024-05-04,True,Sub,21,0,0.0,0,0.0,1,0,0,0.4,0,0,0,0.43,False
-John Stones,Man City,Arsenal,2023-10-08,False,Sub,22,0,0.0,0,0.0,1,0,0,0.1,0,0,1,0.06,False
-John Stones,Man City,Brighton,2023-10-21,True,DMC,74,0,0.0,0,0.0,2,0,0,1.1,0,0,1,0.83,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
+John Stones,Man City,Manchester United,2023-10-29,False,DC,90,0,0.0,0,0.14,6,0,3,5.6,0,1,0,1.03,True,0.0,0.0,90.0,1.0,1.32,1.46,8.79,0.37,6
+John Stones,Man City,Bournemouth,2023-11-04,True,DC,70,0,0.0,0,0.0,6,0,0,1.1,0,1,0,0.31,True,6.0,0.0,80.0,1.0,1.32,1.46,8.79,0.37,1
+John Stones,Man City,Aston Villa,2023-12-06,False,DMC,90,0,0.0,0,0.0,1,0,0,2.6,0,0,1,2.04,True,6.0,0.0,83.33,0.67,1.32,1.46,8.79,0.37,1
+John Stones,Man City,Luton,2023-12-10,False,Sub,21,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.03,False,4.33,0.0,67.75,0.67,1.32,1.46,8.79,0.37,1
+John Stones,Man City,Crystal Palace,2023-12-16,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.0,False,3.5,0.0,54.4,0.67,1.32,1.46,8.79,0.37,1
+John Stones,Man City,Everton,2023-12-27,False,DC,42,0,0.0,0,0.0,1,0,0,0.4,0,0,1,0.71,True,3.0,0.0,52.33,0.67,1.32,1.46,8.79,0.37,2
+John Stones,Man City,Burnley,2024-01-31,True,DC,90,0,0.0,0,0.0,2,0,0,2.7,0,0,1,1.44,True,2.0,0.0,57.71,0.5,1.32,1.46,8.79,0.37,7
+John Stones,Man City,Everton,2024-02-10,True,DR,90,0,0.0,0,0.06,7,0,1,3.3,1,1,0,0.32,True,1.2,0.0,61.75,0.6,1.32,1.46,8.79,0.37,5
+John Stones,Man City,Brentford,2024-02-20,True,DC,90,0,0.1,0,0.0,5,2,0,4.0,0,1,0,0.34,True,2.4,0.0,64.89,0.67,1.32,1.46,8.79,0.37,6
+John Stones,Man City,Bournemouth,2024-02-24,False,DMC,90,0,0.0,0,0.0,6,0,0,1.5,0,1,0,0.93,True,3.2,0.02,67.4,0.71,1.32,1.46,8.79,0.37,2
+John Stones,Man City,Manchester United,2024-03-03,True,DMC,90,0,0.02,0,0.04,2,1,1,3.4,0,0,1,0.26,True,4.2,0.02,69.45,0.62,1.32,1.46,8.79,0.37,10
+John Stones,Man City,Liverpool,2024-03-10,False,DMC,90,1,0.63,0,0.0,10,1,0,9.1,2,0,1,2.46,True,4.4,0.02,71.17,0.56,1.32,1.46,8.79,0.37,1
+John Stones,Man City,Crystal Palace,2024-04-06,False,DC,90,0,0.0,0,0.03,1,0,1,3.2,0,0,2,1.08,True,6.0,0.15,72.62,0.5,1.32,1.46,8.79,0.37,1
+John Stones,Man City,Wolverhampton,2024-05-04,True,Sub,21,0,0.0,0,0.0,1,0,0,0.4,0,0,0,0.43,False,4.8,0.15,68.93,0.5,1.32,1.46,8.79,0.37,1
+John Stones,Man City,Arsenal,2023-10-08,False,Sub,22,0,0.0,0,0.0,1,0,0,0.1,0,0,1,0.06,False,4.0,0.13,65.8,0.5,1.32,1.46,8.79,0.37,2
+John Stones,Man City,Brighton,2023-10-21,True,DMC,74,0,0.0,0,0.0,2,0,0,1.1,0,0,1,0.83,True,3.0,0.13,66.31,0.45,1.32,1.46,8.79,0.37,

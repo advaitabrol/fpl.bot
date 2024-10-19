@@ -1,28 +1,28 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Facundo Buonanotte,Brighton,Fulham,2023-10-29,True,Sub,19,0,0.0465915836393833,0,0.0692171677947044,1,1,1,1.6,0,0,0,False
-Facundo Buonanotte,Brighton,Everton,2023-11-04,False,Sub,11,0,0.0,0,0.0,1,0,0,1.0,0,0,0,False
-Facundo Buonanotte,Brighton,Sheffield,2023-11-12,True,AMR,45,0,0.0877167955040931,1,0.427514910697937,3,1,1,3.3,0,0,0,True
-Facundo Buonanotte,Brighton,Nottingham Forest,2023-11-25,False,Sub,45,0,0.0,0,0.0,0,0,0,0.6,0,0,1,False
-Facundo Buonanotte,Brighton,Chelsea,2023-12-03,False,AMR,56,1,0.0732962638139724,0,0.0235422737896442,7,1,1,6.8,1,0,2,True
-Facundo Buonanotte,Brighton,Brentford,2023-12-06,True,AMC,68,0,0.0235711075365543,0,0.1256315410137176,1,1,1,2.1,0,0,1,True
-Facundo Buonanotte,Brighton,Burnley,2023-12-09,True,Sub,5,0,0.0,0,0.0,1,0,0,0.4,0,0,0,False
-Facundo Buonanotte,Brighton,Arsenal,2023-12-17,False,Sub,30,0,0.0,0,0.0,1,0,0,0.5,0,0,1,False
-Facundo Buonanotte,Brighton,Crystal Palace,2023-12-21,False,Sub,45,0,0.044843390583992,0,0.0286313127726316,1,1,1,2.2,0,0,0,False
-Facundo Buonanotte,Brighton,Tottenham,2023-12-28,True,AMC,58,0,0.1257499307394027,0,0.4079937636852264,0,2,1,3.6,0,0,0,True
-Facundo Buonanotte,Brighton,West Ham,2024-01-02,False,AMC,73,0,0.0318179056048393,0,0.3552942872047424,3,2,4,7.0,0,1,0,True
-Facundo Buonanotte,Brighton,Wolverhampton,2024-01-22,True,FWR,64,0,0.2878486514091491,0,0.0,3,1,0,1.5,0,1,0,True
-Facundo Buonanotte,Brighton,Luton,2024-01-30,False,AMC,45,0,0.0,0,0.0930733159184455,1,0,1,2.3,0,0,3,True
-Facundo Buonanotte,Brighton,Crystal Palace,2024-02-03,True,AMC,79,1,0.519736647605896,0,0.0125978924334049,7,2,1,9.9,0,0,1,True
-Facundo Buonanotte,Brighton,Tottenham,2024-02-10,False,FWR,82,0,0.1077150329947471,0,0.0,1,1,0,1.7,0,0,1,True
-Facundo Buonanotte,Brighton,Sheffield,2024-02-18,False,AMC,65,1,0.5729138851165771,0,0.0,7,1,0,8.5,0,1,0,True
-Facundo Buonanotte,Brighton,Everton,2024-02-24,True,AMR,72,0,0.0,0,0.6718164682388306,3,0,5,8.2,0,1,0,True
-Facundo Buonanotte,Brighton,Fulham,2024-03-02,False,Sub,31,0,0.0807641744613647,0,0.0,1,1,0,0.7,0,0,1,False
-Facundo Buonanotte,Brighton,Liverpool,2024-03-31,False,Sub,20,0,0.0,0,0.0616913512349128,1,0,1,1.8,0,0,0,False
-Facundo Buonanotte,Brighton,Brentford,2024-04-03,False,AMR,73,0,0.0658761039376258,0,0.0,2,2,0,2.2,0,1,0,True
-Facundo Buonanotte,Brighton,Arsenal,2024-04-06,True,Sub,27,0,0.0,0,0.0,1,0,0,1.1,0,0,1,False
-Facundo Buonanotte,Brighton,Burnley,2024-04-13,False,Sub,13,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False
-Facundo Buonanotte,Brighton,Bournemouth,2024-04-28,False,AMR,90,0,0.7882177829742432,0,0.0,2,2,0,5.4,0,0,3,True
-Facundo Buonanotte,Brighton,Aston Villa,2024-05-05,True,AMR,60,0,0.0,0,0.0,3,0,0,0.7,0,1,0,True
-Facundo Buonanotte,Brighton,Newcastle United,2024-05-11,False,AMR,66,0,0.0783606618642807,0,0.0,2,1,0,1.8,0,0,1,True
-Facundo Buonanotte,Brighton,Chelsea,2024-05-15,True,AMR,69,0,0.0,0,0.0272773373872041,2,0,1,1.7,0,0,2,True
-Facundo Buonanotte,Brighton,Bournemouth,2023-09-24,True,AMR,45,0,0.0396567843854427,0,0.0,1,1,0,1.5,0,0,1,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Facundo Buonanotte,Brighton,Fulham,2023-10-29,True,Sub,19,0,0.05,0,0.07,1,1,1,1.6,0,0,0,False,0.0,0.0,19.0,1,1,1.09,0.59,0.05,1
+Facundo Buonanotte,Brighton,Everton,2023-11-04,False,Sub,11,0,0.0,0,0.0,1,0,0,1.0,0,0,0,False,1.0,0.05,15.0,1,1,1.09,0.59,0.05,3
+Facundo Buonanotte,Brighton,Sheffield,2023-11-12,True,AMR,45,0,0.09,1,0.43,3,1,1,3.3,0,0,0,True,1.0,0.02,25.0,1,1,1.09,0.59,0.05,0
+Facundo Buonanotte,Brighton,Nottingham Forest,2023-11-25,False,Sub,45,0,0.0,0,0.0,0,0,0,0.6,0,0,1,False,1.67,0.38,30.0,1,1,1.09,0.59,0.05,7
+Facundo Buonanotte,Brighton,Chelsea,2023-12-03,False,AMR,56,1,0.07,0,0.02,7,1,1,6.8,1,0,2,True,1.25,0.28,35.2,1,1,1.09,0.59,0.05,1
+Facundo Buonanotte,Brighton,Brentford,2023-12-06,True,AMC,68,0,0.02,0,0.13,1,1,1,2.1,0,0,1,True,2.4,0.24,40.67,1,1,1.09,0.59,0.05,1
+Facundo Buonanotte,Brighton,Burnley,2023-12-09,True,Sub,5,0,0.0,0,0.0,1,0,0,0.4,0,0,0,False,2.4,0.24,35.57,1,1,1.09,0.59,0.05,1
+Facundo Buonanotte,Brighton,Arsenal,2023-12-17,False,Sub,30,0,0.0,0,0.0,1,0,0,0.5,0,0,1,False,2.4,0.24,34.88,1,1,1.09,0.59,0.05,1
+Facundo Buonanotte,Brighton,Crystal Palace,2023-12-21,False,Sub,45,0,0.04,0,0.03,1,1,1,2.2,0,0,0,False,2.0,0.02,36.0,1,1,1.09,0.59,0.05,0
+Facundo Buonanotte,Brighton,Tottenham,2023-12-28,True,AMC,58,0,0.13,0,0.41,0,2,1,3.6,0,0,0,True,2.2,0.03,38.2,1,1,1.09,0.59,0.05,3
+Facundo Buonanotte,Brighton,West Ham,2024-01-02,False,AMC,73,0,0.03,0,0.36,3,2,4,7.0,0,1,0,True,0.8,0.04,41.36,1,1,1.09,0.59,0.05,3
+Facundo Buonanotte,Brighton,Wolverhampton,2024-01-22,True,FWR,64,0,0.29,0,0.0,3,1,0,1.5,0,1,0,True,1.2,0.04,43.25,1,1,1.09,0.59,0.05,1
+Facundo Buonanotte,Brighton,Luton,2024-01-30,False,AMC,45,0,0.0,0,0.09,1,0,1,2.3,0,0,3,True,1.6,0.1,43.38,1,1,1.09,0.59,0.05,7
+Facundo Buonanotte,Brighton,Crystal Palace,2024-02-03,True,AMC,79,1,0.52,0,0.01,7,2,1,9.9,0,0,1,True,1.6,0.1,45.93,1,1,1.09,0.59,0.05,1
+Facundo Buonanotte,Brighton,Tottenham,2024-02-10,False,FWR,82,0,0.11,0,0.0,1,1,0,1.7,0,0,1,True,2.8,0.19,48.33,1,1,1.09,0.59,0.05,7
+Facundo Buonanotte,Brighton,Sheffield,2024-02-18,False,AMC,65,1,0.57,0,0.0,7,1,0,8.5,0,1,0,True,3.0,0.19,49.38,1,1,1.09,0.59,0.05,3
+Facundo Buonanotte,Brighton,Everton,2024-02-24,True,AMR,72,0,0.0,0,0.67,3,0,5,8.2,0,1,0,True,3.8,0.3,50.71,1,1,1.09,0.59,0.05,1
+Facundo Buonanotte,Brighton,Fulham,2024-03-02,False,Sub,31,0,0.08,0,0.0,1,1,0,0.7,0,0,1,False,3.8,0.24,49.61,1,1,1.09,0.59,0.05,1
+Facundo Buonanotte,Brighton,Liverpool,2024-03-31,False,Sub,20,0,0.0,0,0.06,1,0,1,1.8,0,0,0,False,3.8,0.26,48.05,1,1,1.09,0.59,0.05,2
+Facundo Buonanotte,Brighton,Brentford,2024-04-03,False,AMR,73,0,0.07,0,0.0,2,2,0,2.2,0,1,0,True,2.6,0.15,49.3,1,1,1.09,0.59,0.05,1
+Facundo Buonanotte,Brighton,Arsenal,2024-04-06,True,Sub,27,0,0.0,0,0.0,1,0,0,1.1,0,0,1,False,2.8,0.14,48.24,1,1,1.09,0.59,0.05,1
+Facundo Buonanotte,Brighton,Burnley,2024-04-13,False,Sub,13,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,1.6,0.03,46.64,1,1,1.09,0.59,0.05,2
+Facundo Buonanotte,Brighton,Bournemouth,2024-04-28,False,AMR,90,0,0.79,0,0.0,2,2,0,5.4,0,0,3,True,1.2,0.03,48.52,1,1,1.09,0.59,0.05,3
+Facundo Buonanotte,Brighton,Aston Villa,2024-05-05,True,AMR,60,0,0.0,0,0.0,3,0,0,0.7,0,1,0,True,1.4,0.17,49.0,1,1,1.09,0.59,0.05,2
+Facundo Buonanotte,Brighton,Newcastle United,2024-05-11,False,AMR,66,0,0.08,0,0.0,2,1,0,1.8,0,0,1,True,1.8,0.17,49.68,1,1,1.09,0.59,0.05,2
+Facundo Buonanotte,Brighton,Chelsea,2024-05-15,True,AMR,69,0,0.0,0,0.03,2,0,1,1.7,0,0,2,True,1.8,0.17,50.42,1,1,1.09,0.59,0.05,1
+Facundo Buonanotte,Brighton,Bournemouth,2023-09-24,True,AMR,45,0,0.04,0,0.0,1,1,0,1.5,0,0,1,True,2.0,0.17,50.22,1,1,1.09,0.59,0.05,

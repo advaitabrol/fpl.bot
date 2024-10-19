@@ -1,27 +1,27 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Adama Traoré,Wolves,Leeds United,2021-08-14,False,FWL,90,0,0.7481988668441772,0,0.081414982676506,2,6,1,12.1,0,0,1
-Adama Traoré,Wolves,Crystal Palace,2021-11-06,False,Sub,22,0,0.0,0,0.0,1,0,0,0.3,0,0,1
-Adama Traoré,Wolves,West Ham,2021-11-20,True,Sub,14,0,0.1249229684472084,0,0.0,1,1,0,1.3,0,0,0
-Adama Traoré,Wolves,Norwich,2021-11-27,False,Sub,22,0,0.0,0,0.0,1,0,0,0.5,0,0,0
-Adama Traoré,Wolves,Burnley,2021-12-01,True,FWR,90,0,0.2414331287145614,0,0.0511314161121845,3,4,2,6.4,0,1,0
-Adama Traoré,Wolves,Liverpool,2021-12-04,True,FWR,87,0,0.0,0,0.0,3,0,0,1.2,0,1,0
-Adama Traoré,Wolves,Manchester City,2021-12-11,False,FW,66,0,0.0,0,0.0,2,0,0,0.7,0,0,1
-Adama Traoré,Wolves,Brighton,2021-12-15,False,Sub,85,0,0.0,0,0.5103616714477539,3,0,3,5.2,0,1,0
-Adama Traoré,Wolves,Chelsea,2021-12-19,True,Sub,11,0,0.0,0,0.0,1,0,0,0.0,0,0,0
-Adama Traoré,Wolves,Tottenham,2021-08-22,True,FWL,90,0,0.6998610496520996,0,0.1591017097234726,2,4,4,15.1,0,0,1
-Adama Traoré,Wolves,Manchester United,2022-01-03,False,Sub,24,0,0.0,0,0.0,1,0,0,0.5,0,0,0
-Adama Traoré,Wolves,Southampton,2022-01-15,True,Sub,12,1,0.5442107319831848,0,0.0,6,2,0,5.3,0,0,1
-Adama Traoré,Wolves,Brentford,2022-01-22,False,Sub,15,0,0.0,0,0.0,1,0,0,0.2,0,0,0
-Adama Traoré,Wolves,Tottenham,2022-02-13,False,FWR,0,0,0.1549127846956253,1,0.547139585018158,0,3,2,0.0,0,0,0
-Adama Traoré,Wolves,Leeds United,2022-02-20,True,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0
-Adama Traoré,Wolves,West Ham,2022-02-27,False,FWR,0,0,0.0,0,0.05967952683568,0,0,1,0.0,0,0,0
-Adama Traoré,Wolves,Manchester United,2021-08-29,True,FWL,86,0,0.0509335398674011,0,0.3675090968608856,2,2,4,9.4,0,0,1
-Adama Traoré,Wolves,Burnley,2022-04-24,False,Sub,0,0,0.1819146126508712,0,0.0,0,2,0,0.0,0,0,0
-Adama Traoré,Wolves,Chelsea,2022-05-07,False,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0
-Adama Traoré,Wolves,Liverpool,2022-05-22,False,FWR,0,0,0.0335699282586574,0,0.0321875996887683,0,1,1,0.0,0,0,0
-Adama Traoré,Wolves,Watford,2021-09-11,False,FWL,80,0,0.0,0,0.0758291557431221,3,0,2,5.2,0,1,0
-Adama Traoré,Wolves,Brentford,2021-09-18,True,FWL,90,0,0.057142399251461,0,0.055262666195631,2,2,1,6.3,0,0,2
-Adama Traoré,Wolves,Southampton,2021-09-26,False,Sub,19,0,0.0,0,0.0,1,0,0,0.0,0,0,0
-Adama Traoré,Wolves,Newcastle United,2021-10-02,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0
-Adama Traoré,Wolves,Aston Villa,2021-10-16,False,AMC,90,0,0.3675370216369629,0,0.0,5,2,0,4.4,0,0,2
-Adama Traoré,Wolves,Leicester City,2021-10-23,False,AMC,75,0,0.0,0,0.0364875495433807,3,0,1,2.5,0,1,0
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
+Adama Traoré,Wolves,Leeds United,2021-08-14,False,FWL,90,0,0.75,0,0.08,2,6,1,12.1,0,0,1,0.0,0.0,90.0
+Adama Traoré,Wolves,Crystal Palace,2021-11-06,False,Sub,22,0,0.0,0,0.0,1,0,0,0.3,0,0,1,2.0,0.75,56.0
+Adama Traoré,Wolves,West Ham,2021-11-20,True,Sub,14,0,0.12,0,0.0,1,1,0,1.3,0,0,0,1.5,0.37,42.0
+Adama Traoré,Wolves,Norwich,2021-11-27,False,Sub,22,0,0.0,0,0.0,1,0,0,0.5,0,0,0,1.33,0.29,37.0
+Adama Traoré,Wolves,Burnley,2021-12-01,True,FWR,90,0,0.24,0,0.05,3,4,2,6.4,0,1,0,1.25,0.22,47.6
+Adama Traoré,Wolves,Liverpool,2021-12-04,True,FWR,87,0,0.0,0,0.0,3,0,0,1.2,0,1,0,1.6,0.22,54.17
+Adama Traoré,Wolves,Manchester City,2021-12-11,False,FW,66,0,0.0,0,0.0,2,0,0,0.7,0,0,1,1.8,0.07,55.86
+Adama Traoré,Wolves,Brighton,2021-12-15,False,Sub,85,0,0.0,0,0.51,3,0,3,5.2,0,1,0,2.0,0.07,59.5
+Adama Traoré,Wolves,Chelsea,2021-12-19,True,Sub,11,0,0.0,0,0.0,1,0,0,0.0,0,0,0,2.4,0.05,54.11
+Adama Traoré,Wolves,Tottenham,2021-08-22,True,FWL,90,0,0.7,0,0.16,2,4,4,15.1,0,0,1,2.4,0.05,57.7
+Adama Traoré,Wolves,Manchester United,2022-01-03,False,Sub,24,0,0.0,0,0.0,1,0,0,0.5,0,0,0,2.2,0.14,54.64
+Adama Traoré,Wolves,Southampton,2022-01-15,True,Sub,12,1,0.54,0,0.0,6,2,0,5.3,0,0,1,1.8,0.14,51.08
+Adama Traoré,Wolves,Brentford,2022-01-22,False,Sub,15,0,0.0,0,0.0,1,0,0,0.2,0,0,0,2.6,0.25,48.31
+Adama Traoré,Wolves,Tottenham,2022-02-13,False,FWR,0,0,0.15,1,0.55,0,3,2,0.0,0,0,0,2.2,0.25,44.86
+Adama Traoré,Wolves,Leeds United,2022-02-20,True,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,2.0,0.48,41.87
+Adama Traoré,Wolves,West Ham,2022-02-27,False,FWR,0,0,0.0,0,0.06,0,0,1,0.0,0,0,0,1.6,0.34,39.25
+Adama Traoré,Wolves,Manchester United,2021-08-29,True,FWL,86,0,0.05,0,0.37,2,2,4,9.4,0,0,1,1.4,0.34,42.0
+Adama Traoré,Wolves,Burnley,2022-04-24,False,Sub,0,0,0.18,0,0.0,0,2,0,0.0,0,0,0,0.6,0.24,39.67
+Adama Traoré,Wolves,Chelsea,2022-05-07,False,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0.4,0.28,37.58
+Adama Traoré,Wolves,Liverpool,2022-05-22,False,FWR,0,0,0.03,0,0.03,0,1,1,0.0,0,0,0,0.4,0.05,35.7
+Adama Traoré,Wolves,Watford,2021-09-11,False,FWL,80,0,0.0,0,0.08,3,0,2,5.2,0,1,0,0.4,0.05,37.81
+Adama Traoré,Wolves,Brentford,2021-09-18,True,FWL,90,0,0.06,0,0.06,2,2,1,6.3,0,0,2,1.0,0.05,40.18
+Adama Traoré,Wolves,Southampton,2021-09-26,False,Sub,19,0,0.0,0,0.0,1,0,0,0.0,0,0,0,1.0,0.05,39.26
+Adama Traoré,Wolves,Newcastle United,2021-10-02,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,1.2,0.02,37.67
+Adama Traoré,Wolves,Aston Villa,2021-10-16,False,AMC,90,0,0.37,0,0.0,5,2,0,4.4,0,0,2,1.4,0.02,39.76
+Adama Traoré,Wolves,Leicester City,2021-10-23,False,AMC,75,0,0.0,0,0.04,3,0,1,2.5,0,1,0,2.4,0.08,41.12

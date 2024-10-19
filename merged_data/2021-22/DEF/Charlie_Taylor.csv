@@ -1,32 +1,32 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Charlie Taylor,Burnley,Brighton,2021-08-14,True,DL,90,0,0.0,0,0.00835782289505,1,0,1,3.2,0,0,2
-Charlie Taylor,Burnley,Brentford,2021-10-30,True,DL,90,0,0.0422570556402206,1,0.522027313709259,6,1,1,5.2,1,0,1
-Charlie Taylor,Burnley,Chelsea,2021-11-06,False,DL,90,0,0.0,0,0.0,2,0,0,4.1,0,0,1
-Charlie Taylor,Burnley,Crystal Palace,2021-11-20,True,DL,90,0,0.0,0,0.0,1,0,0,1.5,0,0,3
-Charlie Taylor,Burnley,Wolverhampton,2021-12-01,False,DL,90,0,0.0095295077189803,0,0.0,9,1,0,2.9,3,1,0
-Charlie Taylor,Burnley,Newcastle United,2021-12-04,False,DL,90,0,0.0,0,0.0,2,0,0,3.1,0,0,1
-Charlie Taylor,Burnley,West Ham,2021-12-12,True,DL,90,0,0.0421874858438968,0,0.1225216388702392,5,1,1,5.7,0,1,0
-Charlie Taylor,Burnley,Liverpool,2021-08-21,False,DL,90,0,0.0,0,0.0,1,0,0,2.9,0,0,2
-Charlie Taylor,Burnley,Manchester United,2021-12-30,False,DL,90,0,0.0,0,0.0,1,0,0,0.9,0,0,3
-Charlie Taylor,Burnley,Leicester City,2022-01-02,False,DL,90,0,0.0,0,0.6860382556915283,1,0,2,5.4,0,0,3
-Charlie Taylor,Burnley,Crystal Palace,2022-02-26,False,Sub,30,0,0.0,0,0.0,1,0,0,0.9,0,0,0
-Charlie Taylor,Burnley,Leeds United,2022-03-01,True,DL,90,0,0.0144534958526492,0,0.0,1,1,0,1.3,0,0,2
-Charlie Taylor,Burnley,Chelsea,2022-03-05,True,DL,90,0,0.0,0,0.0,0,0,0,2.0,0,0,4
-Charlie Taylor,Burnley,Brentford,2022-03-12,False,DL,90,0,0.0253989268094301,0,0.0,1,1,0,1.1,0,0,2
-Charlie Taylor,Burnley,Leicester City,2021-08-29,True,DL,90,0,0.0,0,0.0,2,0,0,3.0,0,0,1
-Charlie Taylor,Burnley,Manchester City,2022-04-02,True,DL,90,0,0.0,0,0.0,1,0,0,0.8,0,0,2
-Charlie Taylor,Burnley,Everton,2022-04-06,True,DL,90,0,0.0601202547550201,1,0.7883803844451904,4,2,1,4.7,0,0,2
-Charlie Taylor,Burnley,Norwich,2022-04-10,False,DL,90,0,0.0,0,0.0687018260359764,0,0,1,3.8,0,0,2
-Charlie Taylor,Burnley,West Ham,2022-04-17,False,DL,90,0,0.0,0,0.0,2,0,0,1.0,0,0,1
-Charlie Taylor,Burnley,Southampton,2022-04-21,True,DL,90,0,0.0,0,0.1346759498119354,6,0,2,4.6,0,1,0
-Charlie Taylor,Burnley,Wolverhampton,2022-04-24,True,DL,90,0,0.0,0,0.0,5,0,0,1.0,0,1,0
-Charlie Taylor,Burnley,Watford,2022-04-30,False,DL,90,0,0.0,1,0.4959814250469208,6,0,1,4.6,1,0,1
-Charlie Taylor,Burnley,Aston Villa,2022-05-07,True,DL,90,0,0.0,0,0.0,1,0,0,0.5,0,0,3
-Charlie Taylor,Burnley,Tottenham,2022-05-15,False,DL,90,0,0.0,0,0.0,2,0,0,3.1,0,0,1
-Charlie Taylor,Burnley,Aston Villa,2022-05-19,False,DL,90,0,0.0,0,0.1264015436172485,2,0,1,5.0,0,0,1
-Charlie Taylor,Burnley,Newcastle United,2022-05-22,True,DL,90,0,0.0,0,0.1611431092023849,1,0,2,0.0,0,0,2
-Charlie Taylor,Burnley,Everton,2021-09-13,False,DL,90,0,0.0,0,0.0683512389659881,1,0,3,5.1,0,0,3
-Charlie Taylor,Burnley,Arsenal,2021-09-18,True,DL,90,0,0.0,0,0.0241779796779155,2,0,1,3.1,0,0,1
-Charlie Taylor,Burnley,Leeds United,2021-09-25,False,DL,90,0,0.0,0,0.0,1,0,0,2.1,0,0,2
-Charlie Taylor,Burnley,Norwich,2021-10-02,True,DL,90,0,0.0,0,0.2129919528961181,9,0,3,6.8,3,1,0
-Charlie Taylor,Burnley,Southampton,2021-10-23,False,DL,90,0,0.0,0,0.0,1,0,0,1.9,0,0,2
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
+Charlie Taylor,Burnley,Brighton,2021-08-14,True,DL,90,0,0.0,0,0.01,1,0,1,3.2,0,0,2,0.0,0.0,90.0,0.0
+Charlie Taylor,Burnley,Brentford,2021-10-30,True,DL,90,0,0.04,1,0.52,6,1,1,5.2,1,0,1,1.0,0.0,90.0,0.0
+Charlie Taylor,Burnley,Chelsea,2021-11-06,False,DL,90,0,0.0,0,0.0,2,0,0,4.1,0,0,1,3.5,0.52,90.0,0.0
+Charlie Taylor,Burnley,Crystal Palace,2021-11-20,True,DL,90,0,0.0,0,0.0,1,0,0,1.5,0,0,3,3.0,0.35,90.0,0.0
+Charlie Taylor,Burnley,Wolverhampton,2021-12-01,False,DL,90,0,0.01,0,0.0,9,1,0,2.9,3,1,0,2.5,0.26,90.0,0.2
+Charlie Taylor,Burnley,Newcastle United,2021-12-04,False,DL,90,0,0.0,0,0.0,2,0,0,3.1,0,0,1,3.8,0.21,90.0,0.17
+Charlie Taylor,Burnley,West Ham,2021-12-12,True,DL,90,0,0.04,0,0.12,5,1,1,5.7,0,1,0,4.0,0.21,90.0,0.29
+Charlie Taylor,Burnley,Liverpool,2021-08-21,False,DL,90,0,0.0,0,0.0,1,0,0,2.9,0,0,2,3.8,0.01,90.0,0.25
+Charlie Taylor,Burnley,Manchester United,2021-12-30,False,DL,90,0,0.0,0,0.0,1,0,0,0.9,0,0,3,3.6,0.01,90.0,0.22
+Charlie Taylor,Burnley,Leicester City,2022-01-02,False,DL,90,0,0.0,0,0.69,1,0,2,5.4,0,0,3,3.6,0.01,90.0,0.2
+Charlie Taylor,Burnley,Crystal Palace,2022-02-26,False,Sub,30,0,0.0,0,0.0,1,0,0,0.9,0,0,0,2.0,0.01,84.55,0.2
+Charlie Taylor,Burnley,Leeds United,2022-03-01,True,DL,90,0,0.01,0,0.0,1,1,0,1.3,0,0,2,1.8,0.01,85.0,0.18
+Charlie Taylor,Burnley,Chelsea,2022-03-05,True,DL,90,0,0.0,0,0.0,0,0,0,2.0,0,0,4,1.0,0.0,85.38,0.17
+Charlie Taylor,Burnley,Brentford,2022-03-12,False,DL,90,0,0.03,0,0.0,1,1,0,1.1,0,0,2,0.8,0.0,85.71,0.15
+Charlie Taylor,Burnley,Leicester City,2021-08-29,True,DL,90,0,0.0,0,0.0,2,0,0,3.0,0,0,1,0.8,0.01,86.0,0.14
+Charlie Taylor,Burnley,Manchester City,2022-04-02,True,DL,90,0,0.0,0,0.0,1,0,0,0.8,0,0,2,1.0,0.01,86.25,0.13
+Charlie Taylor,Burnley,Everton,2022-04-06,True,DL,90,0,0.06,1,0.79,4,2,1,4.7,0,0,2,1.0,0.01,86.47,0.12
+Charlie Taylor,Burnley,Norwich,2022-04-10,False,DL,90,0,0.0,0,0.07,0,0,1,3.8,0,0,2,1.6,0.22,86.67,0.12
+Charlie Taylor,Burnley,West Ham,2022-04-17,False,DL,90,0,0.0,0,0.0,2,0,0,1.0,0,0,1,1.6,0.22,86.84,0.11
+Charlie Taylor,Burnley,Southampton,2022-04-21,True,DL,90,0,0.0,0,0.13,6,0,2,4.6,0,1,0,1.8,0.21,87.0,0.16
+Charlie Taylor,Burnley,Wolverhampton,2022-04-24,True,DL,90,0,0.0,0,0.0,5,0,0,1.0,0,1,0,2.6,0.21,87.14,0.2
+Charlie Taylor,Burnley,Watford,2022-04-30,False,DL,90,0,0.0,1,0.5,6,0,1,4.6,1,0,1,3.4,0.21,87.27,0.19
+Charlie Taylor,Burnley,Aston Villa,2022-05-07,True,DL,90,0,0.0,0,0.0,1,0,0,0.5,0,0,3,3.8,0.2,87.39,0.18
+Charlie Taylor,Burnley,Tottenham,2022-05-15,False,DL,90,0,0.0,0,0.0,2,0,0,3.1,0,0,1,4.0,0.2,87.5,0.17
+Charlie Taylor,Burnley,Aston Villa,2022-05-19,False,DL,90,0,0.0,0,0.13,2,0,1,5.0,0,0,1,4.0,0.2,87.6,0.17
+Charlie Taylor,Burnley,Newcastle United,2022-05-22,True,DL,90,0,0.0,0,0.16,1,0,2,0.0,0,0,2,3.2,0.2,87.69,0.16
+Charlie Taylor,Burnley,Everton,2021-09-13,False,DL,90,0,0.0,0,0.07,1,0,3,5.1,0,0,3,2.4,0.2,87.78,0.15
+Charlie Taylor,Burnley,Arsenal,2021-09-18,True,DL,90,0,0.0,0,0.02,2,0,1,3.1,0,0,1,1.4,0.0,87.86,0.15
+Charlie Taylor,Burnley,Leeds United,2021-09-25,False,DL,90,0,0.0,0,0.0,1,0,0,2.1,0,0,2,1.6,0.0,87.93,0.14
+Charlie Taylor,Burnley,Norwich,2021-10-02,True,DL,90,0,0.0,0,0.21,9,0,3,6.8,3,1,0,1.4,0.0,88.0,0.17
+Charlie Taylor,Burnley,Southampton,2021-10-23,False,DL,90,0,0.0,0,0.0,1,0,0,1.9,0,0,2,2.8,0.0,88.06,0.17

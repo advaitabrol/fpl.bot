@@ -1,16 +1,16 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Jonjoe Kenny,Everton,Chelsea,2021-12-16,False,DR,90,0,0.0192284733057022,0,0.0,2,1,0,1.0,0,0,1
-Jonjoe Kenny,Everton,Brighton,2022-01-02,True,DR,75,0,0.0,1,0.1156523302197456,3,0,2,7.1,0,0,3
-Jonjoe Kenny,Everton,Aston Villa,2022-01-22,True,DR,90,0,0.0,0,0.0468050241470336,2,0,1,1.9,0,0,1
-Jonjoe Kenny,Everton,Leicester City,2022-02-12,True,DL,90,0,0.0294240023940801,0,0.1614831984043121,6,1,2,6.6,0,1,0
-Jonjoe Kenny,Everton,Southampton,2022-02-19,False,DL,90,0,0.0,0,0.0105806924402713,1,0,1,2.2,0,0,2
-Jonjoe Kenny,Everton,Manchester City,2022-02-26,True,DL,90,0,0.0840577334165573,0,0.0,2,1,0,1.5,0,0,1
-Jonjoe Kenny,Everton,Tottenham,2022-03-07,False,DML,90,0,0.0,0,0.0,0,0,0,1.1,0,0,5
-Jonjoe Kenny,Everton,Wolverhampton,2022-03-13,True,DC,77,0,0.0116079617291688,0,0.0,-1,1,0,1.7,0,0,1
-Jonjoe Kenny,Everton,West Ham,2022-04-03,False,DR,90,0,0.0,0,0.1823105961084365,1,0,3,5.3,0,0,2
-Jonjoe Kenny,Everton,Burnley,2022-04-06,False,DR,90,0,0.0183188691735267,0,0.0467178486287593,1,1,1,4.8,0,0,3
-Jonjoe Kenny,Everton,Leeds United,2022-05-08,False,Sub,24,0,0.0,0,0.0,1,0,0,0.4,0,0,0
-Jonjoe Kenny,Everton,Brentford,2022-05-15,True,Sub,18,0,0.0,0,0.0,1,0,0,0.9,0,0,0
-Jonjoe Kenny,Everton,Crystal Palace,2022-05-19,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0
-Jonjoe Kenny,Everton,Arsenal,2022-05-22,False,DL,90,0,0.0,0,0.0123239122331142,0,0,1,0.0,0,0,5
-Jonjoe Kenny,Everton,Aston Villa,2021-09-18,False,Sub,10,0,0.0,0,0.0,1,0,0,0.2,0,0,0
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
+Jonjoe Kenny,Everton,Chelsea,2021-12-16,False,DR,90,0,0.02,0,0.0,2,1,0,1.0,0,0,1,0.0,0.0,90.0,0.0
+Jonjoe Kenny,Everton,Brighton,2022-01-02,True,DR,75,0,0.0,1,0.12,3,0,2,7.1,0,0,3,2.0,0.02,82.5,0.0
+Jonjoe Kenny,Everton,Aston Villa,2022-01-22,True,DR,90,0,0.0,0,0.05,2,0,1,1.9,0,0,1,2.5,0.51,85.0,0.0
+Jonjoe Kenny,Everton,Leicester City,2022-02-12,True,DL,90,0,0.03,0,0.16,6,1,2,6.6,0,1,0,2.33,0.34,86.25,0.25
+Jonjoe Kenny,Everton,Southampton,2022-02-19,False,DL,90,0,0.0,0,0.01,1,0,1,2.2,0,0,2,3.25,0.26,87.0,0.2
+Jonjoe Kenny,Everton,Manchester City,2022-02-26,True,DL,90,0,0.08,0,0.0,2,1,0,1.5,0,0,1,2.8,0.21,87.5,0.17
+Jonjoe Kenny,Everton,Tottenham,2022-03-07,False,DML,90,0,0.0,0,0.0,0,0,0,1.1,0,0,5,2.8,0.22,87.86,0.14
+Jonjoe Kenny,Everton,Wolverhampton,2022-03-13,True,DC,77,0,0.01,0,0.0,-1,1,0,1.7,0,0,1,2.2,0.02,86.5,0.12
+Jonjoe Kenny,Everton,West Ham,2022-04-03,False,DR,90,0,0.0,0,0.18,1,0,3,5.3,0,0,2,1.6,0.03,86.89,0.11
+Jonjoe Kenny,Everton,Burnley,2022-04-06,False,DR,90,0,0.02,0,0.05,1,1,1,4.8,0,0,3,0.6,0.02,87.2,0.1
+Jonjoe Kenny,Everton,Leeds United,2022-05-08,False,Sub,24,0,0.0,0,0.0,1,0,0,0.4,0,0,0,0.6,0.02,81.45,0.1
+Jonjoe Kenny,Everton,Brentford,2022-05-15,True,Sub,18,0,0.0,0,0.0,1,0,0,0.9,0,0,0,0.4,0.01,76.17,0.1
+Jonjoe Kenny,Everton,Crystal Palace,2022-05-19,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.6,0.01,70.38,0.1
+Jonjoe Kenny,Everton,Arsenal,2022-05-22,False,DL,90,0,0.0,0,0.01,0,0,1,0.0,0,0,5,1.0,0.0,71.79,0.09
+Jonjoe Kenny,Everton,Aston Villa,2021-09-18,False,Sub,10,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.8,0.0,67.67,0.09

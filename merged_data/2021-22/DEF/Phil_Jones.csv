@@ -1,5 +1,5 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Phil Jones,Man Utd,Wolverhampton,2022-01-03,True,DC,90,0,0.0,0,0.0,2,0,0,3.5,0,0,1
-Phil Jones,Man Utd,Liverpool,2022-04-19,False,DC,45,0,0.0,0,0.0,0,0,0,0.9,0,0,2
-Phil Jones,Man Utd,Chelsea,2022-04-28,True,Sub,11,0,0.0,0,0.0,1,0,0,0.0,0,0,0
-Phil Jones,Man Utd,Brentford,2022-05-02,True,Sub,15,0,0.0,0,0.0,1,0,0,1.1,0,0,0
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
+Phil Jones,Man Utd,Wolverhampton,2022-01-03,True,DC,90,0,0.0,0,0.0,2,0,0,3.5,0,0,1,0.0,0.0,90.0,0.0
+Phil Jones,Man Utd,Liverpool,2022-04-19,False,DC,45,0,0.0,0,0.0,0,0,0,0.9,0,0,2,2.0,0.0,67.5,0.0
+Phil Jones,Man Utd,Chelsea,2022-04-28,True,Sub,11,0,0.0,0,0.0,1,0,0,0.0,0,0,0,1.0,0.0,48.67,0.0
+Phil Jones,Man Utd,Brentford,2022-05-02,True,Sub,15,0,0.0,0,0.0,1,0,0,1.1,0,0,0,1.0,0.0,40.25,0.0

@@ -1,12 +1,12 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Japhet Tanganga,Spurs,Manchester City,2021-08-15,True,DR,82,0,0.0,0,0.0,6,0,0,2.2,0,1,0
-Japhet Tanganga,Spurs,Leicester City,2021-11-21,True,DC,67,0,0.0,0,0.0,2,0,0,1.4,0,0,1
-Japhet Tanganga,Spurs,Brentford,2021-12-02,True,Sub,7,0,0.0713923946022987,0,0.0,1,1,0,1.8,0,0,0
-Japhet Tanganga,Spurs,Norwich,2021-12-05,True,DMR,61,0,0.0,0,0.0,6,0,0,0.4,0,1,0
-Japhet Tanganga,Spurs,Crystal Palace,2021-12-26,True,DC,90,0,0.0420355200767517,0,0.0,6,2,0,4.9,0,1,0
-Japhet Tanganga,Spurs,Wolverhampton,2021-08-22,False,DR,90,0,0.0,0,0.0,5,0,0,2.2,0,1,0
-Japhet Tanganga,Spurs,Leeds United,2022-01-19,False,DC,90,0,0.1346844732761383,0,0.0,1,2,0,4.1,0,0,2
-Japhet Tanganga,Spurs,Chelsea,2022-01-23,False,DR,56,0,0.0,0,0.0,-1,0,0,0.6,0,0,2
-Japhet Tanganga,Spurs,Watford,2021-08-29,True,DR,90,0,0.1132451891899108,0,0.2455720007419586,6,1,2,8.6,0,1,0
-Japhet Tanganga,Spurs,Crystal Palace,2021-09-11,False,DC,57,0,0.0,0,0.0,-3,0,0,0.4,0,0,3
-Japhet Tanganga,Spurs,Arsenal,2021-09-26,False,DR,45,0,0.0872872173786163,0,0.0,0,1,0,0.9,0,0,3
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
+Japhet Tanganga,Spurs,Manchester City,2021-08-15,True,DR,82,0,0.0,0,0.0,6,0,0,2.2,0,1,0,0.0,0.0,82.0,1.0
+Japhet Tanganga,Spurs,Leicester City,2021-11-21,True,DC,67,0,0.0,0,0.0,2,0,0,1.4,0,0,1,6.0,0.0,74.5,0.5
+Japhet Tanganga,Spurs,Brentford,2021-12-02,True,Sub,7,0,0.07,0,0.0,1,1,0,1.8,0,0,0,4.0,0.0,52.0,0.5
+Japhet Tanganga,Spurs,Norwich,2021-12-05,True,DMR,61,0,0.0,0,0.0,6,0,0,0.4,0,1,0,3.0,0.02,54.25,0.67
+Japhet Tanganga,Spurs,Crystal Palace,2021-12-26,True,DC,90,0,0.04,0,0.0,6,2,0,4.9,0,1,0,3.75,0.02,61.4,0.75
+Japhet Tanganga,Spurs,Wolverhampton,2021-08-22,False,DR,90,0,0.0,0,0.0,5,0,0,2.2,0,1,0,4.2,0.02,66.17,0.8
+Japhet Tanganga,Spurs,Leeds United,2022-01-19,False,DC,90,0,0.13,0,0.0,1,2,0,4.1,0,0,2,4.0,0.02,69.57,0.67
+Japhet Tanganga,Spurs,Chelsea,2022-01-23,False,DR,56,0,0.0,0,0.0,-1,0,0,0.6,0,0,2,3.8,0.05,67.88,0.67
+Japhet Tanganga,Spurs,Watford,2021-08-29,True,DR,90,0,0.11,0,0.25,6,1,2,8.6,0,1,0,3.4,0.04,70.33,0.71
+Japhet Tanganga,Spurs,Crystal Palace,2021-09-11,False,DC,57,0,0.0,0,0.0,-3,0,0,0.4,0,0,3,3.4,0.06,69.0,0.71
+Japhet Tanganga,Spurs,Arsenal,2021-09-26,False,DR,45,0,0.09,0,0.0,0,1,0,0.9,0,0,3,1.6,0.05,66.82,0.71

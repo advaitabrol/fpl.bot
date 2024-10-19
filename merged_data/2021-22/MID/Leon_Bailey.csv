@@ -1,19 +1,19 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Leon Bailey,Aston Villa,Watford,2021-08-14,False,Sub,30,0,0.127525582909584,1,0.033742070198059,4,2,1,5.6,0,0,1
-Leon Bailey,Aston Villa,West Ham,2021-10-31,True,FWL,71,0,0.0540348999202251,0,0.0,2,2,0,6.9,0,0,2
-Leon Bailey,Aston Villa,Southampton,2021-11-05,False,AMR,90,0,0.0639644712209701,0,0.0,2,2,0,2.2,0,0,1
-Leon Bailey,Aston Villa,Brighton,2021-11-20,True,Sub,24,0,0.4360668361186981,0,0.0,1,2,0,4.2,0,0,0
-Leon Bailey,Aston Villa,Crystal Palace,2021-11-27,False,FWR,76,0,0.0533919371664524,0,0.0875777974724769,3,1,2,5.2,0,1,0
-Leon Bailey,Aston Villa,Manchester City,2021-12-01,True,FWR,30,0,0.1498084664344787,0,0.0,1,1,0,2.1,0,0,1
-Leon Bailey,Aston Villa,Newcastle United,2022-02-13,False,Sub,18,0,0.0,0,0.0,0,0,0,0.0,0,0,0
-Leon Bailey,Aston Villa,Watford,2022-02-19,True,Sub,19,0,0.0,0,0.0,1,0,0,1.7,0,0,1
-Leon Bailey,Aston Villa,Southampton,2022-03-05,True,Sub,12,0,0.0755401253700256,0,0.0,1,1,0,0.7,0,0,0
-Leon Bailey,Aston Villa,West Ham,2022-03-13,False,Sub,21,0,0.021054171025753,0,0.407375305891037,1,1,1,3.6,0,0,2
-Leon Bailey,Aston Villa,Arsenal,2022-03-19,True,Sub,21,0,0.0,0,0.0,1,0,0,0.3,0,0,0
-Leon Bailey,Aston Villa,Wolverhampton,2022-04-02,False,FW,90,0,0.0749160572886467,0,0.0,2,2,0,3.0,0,0,2
-Leon Bailey,Aston Villa,Tottenham,2022-04-09,True,Sub,20,0,0.0551198683679103,0,0.0,1,1,0,0.5,0,0,1
-Leon Bailey,Aston Villa,Leeds United,2022-04-23,False,AMC,90,0,0.165900245308876,0,0.0393590182065963,2,2,1,4.4,0,1,0
-Leon Bailey,Aston Villa,Norwich,2022-04-30,True,MR,39,0,0.0354398265480995,0,0.0,1,1,0,1.8,0,0,0
-Leon Bailey,Aston Villa,Chelsea,2021-09-11,False,Sub,34,0,0.0,0,0.0564686730504035,1,0,1,1.8,0,0,1
-Leon Bailey,Aston Villa,Everton,2021-09-18,True,Sub,20,1,0.099727563560009,0,0.0,9,1,0,4.9,1,0,0
-Leon Bailey,Aston Villa,Arsenal,2021-10-22,False,Sub,45,0,0.0800714865326881,1,0.0528576895594596,4,2,1,4.3,0,0,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
+Leon Bailey,Aston Villa,Watford,2021-08-14,False,Sub,30,0,0.13,1,0.03,4,2,1,5.6,0,0,1,0.0,0.0,30.0
+Leon Bailey,Aston Villa,West Ham,2021-10-31,True,FWL,71,0,0.05,0,0.0,2,2,0,6.9,0,0,2,4.0,1.13,50.5
+Leon Bailey,Aston Villa,Southampton,2021-11-05,False,AMR,90,0,0.06,0,0.0,2,2,0,2.2,0,0,1,3.0,0.59,63.67
+Leon Bailey,Aston Villa,Brighton,2021-11-20,True,Sub,24,0,0.44,0,0.0,1,2,0,4.2,0,0,0,2.67,0.42,53.75
+Leon Bailey,Aston Villa,Crystal Palace,2021-11-27,False,FWR,76,0,0.05,0,0.09,3,1,2,5.2,0,1,0,2.25,0.42,58.2
+Leon Bailey,Aston Villa,Manchester City,2021-12-01,True,FWR,30,0,0.15,0,0.0,1,1,0,2.1,0,0,1,2.4,0.35,53.5
+Leon Bailey,Aston Villa,Newcastle United,2022-02-13,False,Sub,18,0,0.0,0,0.0,0,0,0,0.0,0,0,0,1.8,0.15,48.43
+Leon Bailey,Aston Villa,Watford,2022-02-19,True,Sub,19,0,0.0,0,0.0,1,0,0,1.7,0,0,1,1.4,0.14,44.75
+Leon Bailey,Aston Villa,Southampton,2022-03-05,True,Sub,12,0,0.08,0,0.0,1,1,0,0.7,0,0,0,1.2,0.13,41.11
+Leon Bailey,Aston Villa,West Ham,2022-03-13,False,Sub,21,0,0.02,0,0.41,1,1,1,3.6,0,0,2,1.2,0.06,39.1
+Leon Bailey,Aston Villa,Arsenal,2022-03-19,True,Sub,21,0,0.0,0,0.0,1,0,0,0.3,0,0,0,0.8,0.05,37.45
+Leon Bailey,Aston Villa,Wolverhampton,2022-04-02,False,FW,90,0,0.07,0,0.0,2,2,0,3.0,0,0,2,0.8,0.02,41.83
+Leon Bailey,Aston Villa,Tottenham,2022-04-09,True,Sub,20,0,0.06,0,0.0,1,1,0,0.5,0,0,1,1.2,0.03,40.15
+Leon Bailey,Aston Villa,Leeds United,2022-04-23,False,AMC,90,0,0.17,0,0.04,2,2,1,4.4,0,1,0,1.2,0.05,43.71
+Leon Bailey,Aston Villa,Norwich,2022-04-30,True,MR,39,0,0.04,0,0.0,1,1,0,1.8,0,0,0,1.4,0.06,43.4
+Leon Bailey,Aston Villa,Chelsea,2021-09-11,False,Sub,34,0,0.0,0,0.06,1,0,1,1.8,0,0,1,1.4,0.07,42.81
+Leon Bailey,Aston Villa,Everton,2021-09-18,True,Sub,20,1,0.1,0,0.0,9,1,0,4.9,1,0,0,1.4,0.07,41.47
+Leon Bailey,Aston Villa,Arsenal,2021-10-22,False,Sub,45,0,0.08,1,0.05,4,2,1,4.3,0,0,1,2.8,0.07,41.67

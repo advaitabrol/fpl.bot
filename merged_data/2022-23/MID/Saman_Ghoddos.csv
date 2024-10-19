@@ -1,16 +1,16 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Saman Ghoddos,Brentford,Newcastle United,2022-10-08,False,Sub,7,0,0.0,0,0.0,1,0,0,0.1,0,0,1,False
-Saman Ghoddos,Brentford,Brighton,2022-10-14,True,Sub,3,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False
-Saman Ghoddos,Brentford,Chelsea,2022-10-19,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False
-Saman Ghoddos,Brentford,Nottingham Forest,2022-11-05,False,Sub,4,0,0.0,0,0.0,1,0,0,0.0,0,0,1,False
-Saman Ghoddos,Brentford,Tottenham,2022-12-26,True,Sub,23,0,0.0,0,0.0,1,0,0,0.8,0,0,1,False
-Saman Ghoddos,Brentford,West Ham,2022-12-30,False,Sub,23,0,0.0554910004138946,0,0.0934462994337081,1,1,1,4.1,0,0,0,False
-Saman Ghoddos,Brentford,Liverpool,2023-01-02,True,Sub,3,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False
-Saman Ghoddos,Brentford,Everton,2023-03-11,False,Sub,3,0,0.0,0,0.1039170026779174,1,0,1,1.6,0,0,0,False
-Saman Ghoddos,Brentford,Brighton,2023-04-01,False,Sub,5,0,0.0,0,0.0,1,0,0,0.6,0,0,1,False
-Saman Ghoddos,Brentford,Fulham,2022-08-20,False,Sub,7,0,0.0,0,0.0,1,0,0,0.0,0,0,1,False
-Saman Ghoddos,Brentford,Wolverhampton,2023-04-15,False,Sub,16,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False
-Saman Ghoddos,Brentford,Nottingham Forest,2023-04-29,True,Sub,13,0,0.0,0,0.0336702242493629,1,0,1,1.5,0,0,0,False
-Saman Ghoddos,Brentford,West Ham,2023-05-14,True,Sub,4,0,0.0,0,0.03340445458889,1,0,1,1.5,0,0,0,False
-Saman Ghoddos,Brentford,Manchester City,2023-05-28,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False
-Saman Ghoddos,Brentford,Crystal Palace,2022-08-30,False,Sub,11,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Saman Ghoddos,Brentford,Newcastle United,2022-10-08,False,Sub,7,0,0.0,0,0.0,1,0,0,0.1,0,0,1,False,0.0,0.0,7.0,1,1,0.71,1.18,0.06,1
+Saman Ghoddos,Brentford,Brighton,2022-10-14,True,Sub,3,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False,1.0,0.0,5.0,1,1,0.71,1.18,0.06,1
+Saman Ghoddos,Brentford,Chelsea,2022-10-19,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,1.0,0.0,3.67,1,1,0.71,1.18,0.06,1
+Saman Ghoddos,Brentford,Nottingham Forest,2022-11-05,False,Sub,4,0,0.0,0,0.0,1,0,0,0.0,0,0,1,False,1.0,0.0,3.75,1,1,0.71,1.18,0.06,1
+Saman Ghoddos,Brentford,Tottenham,2022-12-26,True,Sub,23,0,0.0,0,0.0,1,0,0,0.8,0,0,1,False,1.0,0.0,7.6,1,1,0.71,1.18,0.06,1
+Saman Ghoddos,Brentford,West Ham,2022-12-30,False,Sub,23,0,0.06,0,0.09,1,1,1,4.1,0,0,0,False,1.0,0.0,10.17,1,1,0.71,1.18,0.06,1
+Saman Ghoddos,Brentford,Liverpool,2023-01-02,True,Sub,3,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,1.0,0.01,9.14,1,1,0.71,1.18,0.06,1
+Saman Ghoddos,Brentford,Everton,2023-03-11,False,Sub,3,0,0.0,0,0.1,1,0,1,1.6,0,0,0,False,1.0,0.01,8.38,1,1,0.71,1.18,0.06,1
+Saman Ghoddos,Brentford,Brighton,2023-04-01,False,Sub,5,0,0.0,0,0.0,1,0,0,0.6,0,0,1,False,1.0,0.01,8.0,1,1,0.71,1.18,0.06,1
+Saman Ghoddos,Brentford,Fulham,2022-08-20,False,Sub,7,0,0.0,0,0.0,1,0,0,0.0,0,0,1,False,1.0,0.01,7.9,1,1,0.71,1.18,0.06,1
+Saman Ghoddos,Brentford,Wolverhampton,2023-04-15,False,Sub,16,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,1.0,0.01,8.64,1,1,0.71,1.18,0.06,1
+Saman Ghoddos,Brentford,Nottingham Forest,2023-04-29,True,Sub,13,0,0.0,0,0.03,1,0,1,1.5,0,0,0,False,1.0,0.0,9.0,1,1,0.71,1.18,0.06,1
+Saman Ghoddos,Brentford,West Ham,2023-05-14,True,Sub,4,0,0.0,0,0.03,1,0,1,1.5,0,0,0,False,1.0,0.0,8.62,1,1,0.71,1.18,0.06,1
+Saman Ghoddos,Brentford,Manchester City,2023-05-28,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,1.0,0.0,8.07,1,1,0.71,1.18,0.06,1
+Saman Ghoddos,Brentford,Crystal Palace,2022-08-30,False,Sub,11,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,1.0,0.0,8.27,1,1,0.71,1.18,0.06,0

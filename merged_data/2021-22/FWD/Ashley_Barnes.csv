@@ -1,24 +1,24 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus
-Ashley Barnes,Burnley,Brighton,2021-08-14,True,Sub,20,0,0.0,0,0.0435863509774208,1,0,1,1.2,0
-Ashley Barnes,Burnley,Liverpool,2021-08-21,False,FW,90,0,0.3167576789855957,0,0.1554417610168457,2,1,3,7.3,0
-Ashley Barnes,Burnley,Manchester United,2022-02-08,True,Sub,2,0,0.0,0,0.0,1,0,0,0.1,0
-Ashley Barnes,Burnley,Liverpool,2022-02-13,True,Sub,15,0,0.0,0,0.0,1,0,0,0.0,0
-Ashley Barnes,Burnley,Brighton,2022-02-19,False,Sub,2,0,0.0,0,0.0,1,0,0,0.0,0
-Ashley Barnes,Burnley,Tottenham,2022-02-23,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0
-Ashley Barnes,Burnley,Crystal Palace,2022-02-26,False,Sub,2,0,0.0,0,0.0,1,0,0,0.1,0
-Ashley Barnes,Burnley,Leeds United,2022-03-01,True,Sub,2,0,0.0,0,0.0,1,0,0,0.3,0
-Ashley Barnes,Burnley,Chelsea,2022-03-05,True,Sub,12,0,0.0,0,0.0,0,0,0,0.4,0
-Ashley Barnes,Burnley,Leicester City,2021-08-29,True,FW,78,0,0.0467747822403907,0,0.1024816781282424,1,1,1,2.0,0
-Ashley Barnes,Burnley,Manchester City,2022-04-02,True,Sub,9,0,0.0,0,0.0,1,0,0,0.0,0
-Ashley Barnes,Burnley,Norwich,2022-04-10,False,Sub,6,0,0.0,0,0.0,1,0,0,0.4,0
-Ashley Barnes,Burnley,Wolverhampton,2022-04-24,True,Sub,26,0,0.0,0,0.0,0,0,0,0.0,0
-Ashley Barnes,Burnley,Watford,2022-04-30,False,Sub,30,0,0.1039930805563926,0,0.0,1,2,0,3.6,0
-Ashley Barnes,Burnley,Aston Villa,2022-05-07,True,FW,71,0,0.081206239759922,0,0.0299148596823215,2,2,1,2.5,0
-Ashley Barnes,Burnley,Tottenham,2022-05-15,False,FW,77,0,0.0318933203816413,0,0.0,2,2,0,0.0,0
-Ashley Barnes,Burnley,Aston Villa,2022-05-19,False,FW,70,1,0.8081324696540833,0,0.0,8,2,0,7.1,2
-Ashley Barnes,Burnley,Newcastle United,2022-05-22,True,FW,90,0,0.0,0,0.5776641368865967,2,0,1,0.0,0
-Ashley Barnes,Burnley,Everton,2021-09-13,False,FW,75,0,0.0,0,0.0852355137467384,2,0,1,1.4,0
-Ashley Barnes,Burnley,Arsenal,2021-09-18,True,FW,56,0,0.0969699695706367,0,0.0,0,2,0,1.3,0
-Ashley Barnes,Burnley,Leeds United,2021-09-25,False,Sub,15,0,0.0354422219097614,0,0.0,1,1,0,2.4,0
-Ashley Barnes,Burnley,Norwich,2021-10-02,True,Sub,10,0,0.0,0,0.0,1,0,0,0.3,0
-Ashley Barnes,Burnley,Manchester City,2021-10-16,False,Sub,34,0,0.1615975797176361,0,0.0,1,3,0,4.1,0
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,form,xG&A_form,minutes_per_game
+Ashley Barnes,Burnley,Brighton,2021-08-14,True,Sub,20,0,0.0,0,0.04,1,0,1,1.2,0,0.0,0.0,20.0
+Ashley Barnes,Burnley,Liverpool,2021-08-21,False,FW,90,0,0.32,0,0.16,2,1,3,7.3,0,1.0,0.0,55.0
+Ashley Barnes,Burnley,Manchester United,2022-02-08,True,Sub,2,0,0.0,0,0.0,1,0,0,0.1,0,1.5,0.16,37.33
+Ashley Barnes,Burnley,Liverpool,2022-02-13,True,Sub,15,0,0.0,0,0.0,1,0,0,0.0,0,1.33,0.11,31.75
+Ashley Barnes,Burnley,Brighton,2022-02-19,False,Sub,2,0,0.0,0,0.0,1,0,0,0.0,0,1.25,0.08,25.8
+Ashley Barnes,Burnley,Tottenham,2022-02-23,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,1.2,0.06,21.67
+Ashley Barnes,Burnley,Crystal Palace,2022-02-26,False,Sub,2,0,0.0,0,0.0,1,0,0,0.1,0,1.2,0.06,18.86
+Ashley Barnes,Burnley,Leeds United,2022-03-01,True,Sub,2,0,0.0,0,0.0,1,0,0,0.3,0,1.0,0.0,16.75
+Ashley Barnes,Burnley,Chelsea,2022-03-05,True,Sub,12,0,0.0,0,0.0,0,0,0,0.4,0,1.0,0.0,16.22
+Ashley Barnes,Burnley,Leicester City,2021-08-29,True,FW,78,0,0.05,0,0.1,1,1,1,2.0,0,0.8,0.0,22.4
+Ashley Barnes,Burnley,Manchester City,2022-04-02,True,Sub,9,0,0.0,0,0.0,1,0,0,0.0,0,0.8,0.01,21.18
+Ashley Barnes,Burnley,Norwich,2022-04-10,False,Sub,6,0,0.0,0,0.0,1,0,0,0.4,0,0.8,0.01,19.92
+Ashley Barnes,Burnley,Wolverhampton,2022-04-24,True,Sub,26,0,0.0,0,0.0,0,0,0,0.0,0,0.8,0.01,20.38
+Ashley Barnes,Burnley,Watford,2022-04-30,False,Sub,30,0,0.1,0,0.0,1,2,0,3.6,0,0.6,0.01,21.07
+Ashley Barnes,Burnley,Aston Villa,2022-05-07,True,FW,71,0,0.08,0,0.03,2,2,1,2.5,0,0.8,0.03,24.4
+Ashley Barnes,Burnley,Tottenham,2022-05-15,False,FW,77,0,0.03,0,0.0,2,2,0,0.0,0,1.0,0.04,27.69
+Ashley Barnes,Burnley,Aston Villa,2022-05-19,False,FW,70,1,0.81,0,0.0,8,2,0,7.1,2,1.2,0.04,30.18
+Ashley Barnes,Burnley,Newcastle United,2022-05-22,True,FW,90,0,0.0,0,0.58,2,0,1,0.0,0,2.6,0.21,33.5
+Ashley Barnes,Burnley,Everton,2021-09-13,False,FW,75,0,0.0,0,0.09,2,0,1,1.4,0,3.0,0.21,35.68
+Ashley Barnes,Burnley,Arsenal,2021-09-18,True,FW,56,0,0.1,0,0.0,0,2,0,1.3,0,3.2,0.18,36.7
+Ashley Barnes,Burnley,Leeds United,2021-09-25,False,Sub,15,0,0.04,0,0.0,1,1,0,2.4,0,2.8,0.19,35.67
+Ashley Barnes,Burnley,Norwich,2021-10-02,True,Sub,10,0,0.0,0,0.0,1,0,0,0.3,0,2.6,0.19,34.5
+Ashley Barnes,Burnley,Manchester City,2021-10-16,False,Sub,34,0,0.16,0,0.0,1,3,0,4.1,0,1.2,0.03,34.48

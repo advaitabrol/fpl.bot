@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Jonathan Rowe,Norwich,Crystal Palace,2021-12-28,False,Sub,22,0,0.0,0,0.081203207373619,1,0,1,1.5,0,0,0
-Jonathan Rowe,Norwich,West Ham,2022-01-12,False,Sub,15,0,0.0,0,0.0,1,0,0,0.3,0,0,1
-Jonathan Rowe,Norwich,Crystal Palace,2022-02-09,True,Sub,6,0,0.0,0,0.0,1,0,0,0.0,0,0,0
-Jonathan Rowe,Norwich,Liverpool,2022-02-19,False,Sub,4,0,0.0,0,0.0,1,0,0,0.0,0,0,0
-Jonathan Rowe,Norwich,Brentford,2022-03-05,True,Sub,16,0,0.0,1,0.1705378592014312,4,0,2,4.7,0,0,0
-Jonathan Rowe,Norwich,Chelsea,2022-03-10,True,Sub,6,0,0.0,0,0.0,1,0,0,0.1,0,0,1
-Jonathan Rowe,Norwich,Leicester City,2022-03-13,False,Sub,28,0,0.1176350489258766,0,0.0,1,2,0,1.9,0,0,1
-Jonathan Rowe,Norwich,Brighton,2022-04-02,False,Sub,29,0,0.0,0,0.0,1,0,0,0.6,0,0,0
-Jonathan Rowe,Norwich,Manchester United,2022-04-16,False,Sub,8,0,0.0,0,0.0,1,0,0,0.2,0,0,0
-Jonathan Rowe,Norwich,Newcastle United,2022-04-23,True,Sub,32,0,0.0809026211500167,0,0.0928038135170936,1,1,1,3.9,0,0,0
-Jonathan Rowe,Norwich,Aston Villa,2022-04-30,False,Sub,12,0,0.0,0,0.0,1,0,0,0.0,0,0,1
-Jonathan Rowe,Norwich,Leeds United,2022-05-11,False,Sub,23,0,0.0,0,0.0,1,0,0,0.2,0,0,1
-Jonathan Rowe,Norwich,Wolverhampton,2022-05-15,False,Sub,7,0,0.0,0,0.0609220042824745,1,0,1,1.8,0,0,0
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
+Jonathan Rowe,Norwich,Crystal Palace,2021-12-28,False,Sub,22,0,0.0,0,0.08,1,0,1,1.5,0,0,0,0.0,0.0,22.0
+Jonathan Rowe,Norwich,West Ham,2022-01-12,False,Sub,15,0,0.0,0,0.0,1,0,0,0.3,0,0,1,1.0,0.0,18.5
+Jonathan Rowe,Norwich,Crystal Palace,2022-02-09,True,Sub,6,0,0.0,0,0.0,1,0,0,0.0,0,0,0,1.0,0.0,14.33
+Jonathan Rowe,Norwich,Liverpool,2022-02-19,False,Sub,4,0,0.0,0,0.0,1,0,0,0.0,0,0,0,1.0,0.0,11.75
+Jonathan Rowe,Norwich,Brentford,2022-03-05,True,Sub,16,0,0.0,1,0.17,4,0,2,4.7,0,0,0,1.0,0.0,12.6
+Jonathan Rowe,Norwich,Chelsea,2022-03-10,True,Sub,6,0,0.0,0,0.0,1,0,0,0.1,0,0,1,1.6,0.2,11.5
+Jonathan Rowe,Norwich,Leicester City,2022-03-13,False,Sub,28,0,0.12,0,0.0,1,2,0,1.9,0,0,1,1.6,0.2,13.86
+Jonathan Rowe,Norwich,Brighton,2022-04-02,False,Sub,29,0,0.0,0,0.0,1,0,0,0.6,0,0,0,1.6,0.22,15.75
+Jonathan Rowe,Norwich,Manchester United,2022-04-16,False,Sub,8,0,0.0,0,0.0,1,0,0,0.2,0,0,0,1.6,0.22,14.89
+Jonathan Rowe,Norwich,Newcastle United,2022-04-23,True,Sub,32,0,0.08,0,0.09,1,1,1,3.9,0,0,0,1.6,0.22,16.6
+Jonathan Rowe,Norwich,Aston Villa,2022-04-30,False,Sub,12,0,0.0,0,0.0,1,0,0,0.0,0,0,1,1.0,0.04,16.18
+Jonathan Rowe,Norwich,Leeds United,2022-05-11,False,Sub,23,0,0.0,0,0.0,1,0,0,0.2,0,0,1,1.0,0.04,16.75
+Jonathan Rowe,Norwich,Wolverhampton,2022-05-15,False,Sub,7,0,0.0,0,0.06,1,0,1,1.8,0,0,0,1.0,0.02,16.0

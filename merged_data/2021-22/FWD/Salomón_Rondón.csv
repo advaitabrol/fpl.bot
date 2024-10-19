@@ -1,21 +1,21 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus
-Salomón Rondón,Everton,Wolverhampton,2021-11-01,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0
-Salomón Rondón,Everton,Manchester City,2021-11-21,False,Sub,27,0,0.0,0,0.0,1,0,0,0.1,0
-Salomón Rondón,Everton,Brentford,2021-11-28,False,FW,90,0,0.5391843318939209,0,0.0222189556807279,1,5,1,10.2,0
-Salomón Rondón,Everton,Liverpool,2021-12-01,True,FW,58,0,0.0,0,0.0,1,0,0,0.9,0
-Salomón Rondón,Everton,Crystal Palace,2021-12-12,False,Sub,32,1,0.6327471733093262,0,0.1727432459592819,7,1,2,9.5,2
-Salomón Rondón,Everton,Brighton,2022-01-02,True,Sub,14,0,0.1098108887672424,0,0.1197583973407745,1,2,1,3.8,0
-Salomón Rondón,Everton,Norwich,2022-01-15,False,FW,53,0,0.0594043396413326,0,0.0,1,1,0,2.5,0
-Salomón Rondón,Everton,Leicester City,2022-02-12,True,Sub,4,0,0.4102528691291809,0,0.0,1,1,0,2.3,0
-Salomón Rondón,Everton,Burnley,2022-04-06,False,Sub,3,0,0.0801206231117248,0,0.0,1,1,0,0.1,0
-Salomón Rondón,Everton,Leeds United,2022-04-20,True,Sub,24,0,0.0948508009314537,1,0.0909803882241249,4,1,1,3.5,0
-Salomón Rondón,Everton,Liverpool,2022-04-24,False,Sub,13,0,0.0530414953827858,0,0.0,1,1,0,2.1,0
-Salomón Rondón,Everton,Chelsea,2022-05-01,True,Sub,10,0,0.0,0,0.0,1,0,0,0.4,0
-Salomón Rondón,Everton,Leeds United,2022-05-08,False,Sub,16,0,0.0,0,0.0,1,0,0,0.5,0
-Salomón Rondón,Everton,Brentford,2022-05-15,True,Sub,3,0,0.0,0,0.0,-2,0,0,0.0,0
-Salomón Rondón,Everton,Burnley,2021-09-13,True,Sub,9,0,0.0,0,0.0,1,0,0,0.1,0
-Salomón Rondón,Everton,Aston Villa,2021-09-18,False,FW,62,0,0.1741688400506973,0,0.0,2,2,0,3.9,0
-Salomón Rondón,Everton,Norwich,2021-09-25,True,FW,90,0,0.0,0,0.0962925180792808,2,0,2,3.4,0
-Salomón Rondón,Everton,Manchester United,2021-10-02,False,FW,90,0,0.2081751674413681,0,0.1104020327329635,2,2,1,3.5,0
-Salomón Rondón,Everton,West Ham,2021-10-17,True,FW,90,0,0.2640523314476013,0,0.0,2,3,0,4.5,0
-Salomón Rondón,Everton,Watford,2021-10-23,True,FW,90,0,0.0146132381632924,0,0.0,1,1,0,2.5,0
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,form,xG&A_form,minutes_per_game
+Salomón Rondón,Everton,Wolverhampton,2021-11-01,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0.0,0.0,1.0
+Salomón Rondón,Everton,Manchester City,2021-11-21,False,Sub,27,0,0.0,0,0.0,1,0,0,0.1,0,1.0,0.0,14.0
+Salomón Rondón,Everton,Brentford,2021-11-28,False,FW,90,0,0.54,0,0.02,1,5,1,10.2,0,1.0,0.0,39.33
+Salomón Rondón,Everton,Liverpool,2021-12-01,True,FW,58,0,0.0,0,0.0,1,0,0,0.9,0,1.0,0.18,44.0
+Salomón Rondón,Everton,Crystal Palace,2021-12-12,False,Sub,32,1,0.63,0,0.17,7,1,2,9.5,2,1.0,0.13,41.6
+Salomón Rondón,Everton,Brighton,2022-01-02,True,Sub,14,0,0.11,0,0.12,1,2,1,3.8,0,2.2,0.23,37.0
+Salomón Rondón,Everton,Norwich,2022-01-15,False,FW,53,0,0.06,0,0.0,1,1,0,2.5,0,2.2,0.26,39.29
+Salomón Rondón,Everton,Leicester City,2022-02-12,True,Sub,4,0,0.41,0,0.0,1,1,0,2.3,0,2.2,0.27,34.88
+Salomón Rondón,Everton,Burnley,2022-04-06,False,Sub,3,0,0.08,0,0.0,1,1,0,0.1,0,2.2,0.24,31.33
+Salomón Rondón,Everton,Leeds United,2022-04-20,True,Sub,24,0,0.09,1,0.09,4,1,1,3.5,0,2.2,0.26,30.6
+Salomón Rondón,Everton,Liverpool,2022-04-24,False,Sub,13,0,0.05,0,0.0,1,1,0,2.1,0,1.6,0.35,29.0
+Salomón Rondón,Everton,Chelsea,2022-05-01,True,Sub,10,0,0.0,0,0.0,1,0,0,0.4,0,1.6,0.34,27.42
+Salomón Rondón,Everton,Leeds United,2022-05-08,False,Sub,16,0,0.0,0,0.0,1,0,0,0.5,0,1.6,0.33,26.54
+Salomón Rondón,Everton,Brentford,2022-05-15,True,Sub,3,0,0.0,0,0.0,-2,0,0,0.0,0,1.6,0.25,24.86
+Salomón Rondón,Everton,Burnley,2021-09-13,True,Sub,9,0,0.0,0,0.0,1,0,0,0.1,0,1.0,0.23,23.8
+Salomón Rondón,Everton,Aston Villa,2021-09-18,False,FW,62,0,0.17,0,0.0,2,2,0,3.9,0,0.4,0.01,26.19
+Salomón Rondón,Everton,Norwich,2021-09-25,True,FW,90,0,0.0,0,0.1,2,0,2,3.4,0,0.6,0.03,29.94
+Salomón Rondón,Everton,Manchester United,2021-10-02,False,FW,90,0,0.21,0,0.11,2,2,1,3.5,0,0.8,0.03,33.28
+Salomón Rondón,Everton,West Ham,2021-10-17,True,FW,90,0,0.26,0,0.0,2,3,0,4.5,0,1.0,0.08,36.26
+Salomón Rondón,Everton,Watford,2021-10-23,True,FW,90,0,0.01,0,0.0,1,1,0,2.5,0,1.8,0.13,38.95

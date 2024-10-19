@@ -1,22 +1,22 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts
-William Osula,Sheffield Utd,Crystal Palace,2023-08-12,True,FW,90,0,0.1479987204074859,0,0.0,1,2,0,0.0,0,True
-William Osula,Sheffield Utd,Brighton,2023-11-12,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,False
-William Osula,Sheffield Utd,Bournemouth,2023-11-25,True,Sub,9,0,0.1361249387264251,0,0.0,1,3,0,3.3,0,False
-William Osula,Sheffield Utd,Burnley,2023-12-02,False,Sub,45,0,0.4916715323925018,0,0.0,0,3,0,4.3,0,False
-William Osula,Sheffield Utd,Liverpool,2023-12-06,True,FW,74,0,0.0,0,0.098784826695919,2,0,1,1.6,0,True
-William Osula,Sheffield Utd,Brentford,2023-12-09,True,FW,52,0,0.0578980036079883,0,0.0,0,1,0,0.3,0,True
-William Osula,Sheffield Utd,Chelsea,2023-12-16,False,Sub,32,0,0.0,0,0.0,1,0,0,0.0,0,False
-William Osula,Sheffield Utd,Luton,2023-12-26,True,Sub,4,0,0.2501959204673767,0,0.0,1,1,0,2.1,0,False
-William Osula,Sheffield Utd,Nottingham Forest,2023-08-18,False,FW,73,0,0.0527561269700527,0,0.0,2,1,0,1.1,0,True
-William Osula,Sheffield Utd,Manchester City,2023-12-30,False,FW,66,0,0.1495201736688614,0,0.0,2,2,0,2.6,0,True
-William Osula,Sheffield Utd,West Ham,2024-01-21,True,FW,45,0,0.3427197933197021,0,0.0,4,3,0,2.7,0,True
-William Osula,Sheffield Utd,Crystal Palace,2024-01-30,False,Sub,26,0,0.2464894354343414,0,0.0,1,3,0,1.5,0,False
-William Osula,Sheffield Utd,Aston Villa,2024-02-03,True,FW,45,0,0.0,0,0.0,1,0,0,0.5,0,True
-William Osula,Sheffield Utd,Brighton,2024-02-18,True,FW,30,0,0.0,0,0.0,1,0,0,0.3,0,True
-William Osula,Sheffield Utd,Wolverhampton,2024-02-25,False,Sub,8,0,0.0,0,0.0,1,0,0,0.2,0,False
-William Osula,Sheffield Utd,Arsenal,2024-03-04,True,Sub,45,0,0.0580153055489063,0,0.0,1,1,0,0.0,0,False
-William Osula,Sheffield Utd,Bournemouth,2024-03-09,False,Sub,10,0,0.0,0,0.0,1,0,0,0.1,0,False
-William Osula,Sheffield Utd,Manchester City,2023-08-27,True,FW,70,0,0.0,0,0.0,1,0,0,0.0,0,True
-William Osula,Sheffield Utd,Liverpool,2024-04-04,False,Sub,27,0,0.0,0,0.0,1,0,0,0.3,0,False
-William Osula,Sheffield Utd,Manchester United,2024-04-24,False,Sub,3,0,0.0,0,0.0,1,0,0,0.0,0,False
-William Osula,Sheffield Utd,Newcastle United,2024-04-27,False,Sub,23,0,0.1388935893774032,0,0.0,1,1,0,2.1,0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+William Osula,Sheffield Utd,Crystal Palace,2023-08-12,True,FW,90,0,0.15,0,0.0,1,2,0,0.0,0,True,0.0,0.0,90.0,0,0,0,0,0,1
+William Osula,Sheffield Utd,Brighton,2023-11-12,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,False,1.0,0.15,45.5,0,0,0,0,0,1
+William Osula,Sheffield Utd,Bournemouth,2023-11-25,True,Sub,9,0,0.14,0,0.0,1,3,0,3.3,0,False,1.0,0.07,33.33,0,0,0,0,0,0
+William Osula,Sheffield Utd,Burnley,2023-12-02,False,Sub,45,0,0.49,0,0.0,0,3,0,4.3,0,False,1.0,0.09,36.25,0,0,0,0,0,2
+William Osula,Sheffield Utd,Liverpool,2023-12-06,True,FW,74,0,0.0,0,0.1,2,0,1,1.6,0,True,0.75,0.19,43.8,0,0,0,0,0,0
+William Osula,Sheffield Utd,Brentford,2023-12-09,True,FW,52,0,0.06,0,0.0,0,1,0,0.3,0,True,1.0,0.16,45.17,0,0,0,0,0,1
+William Osula,Sheffield Utd,Chelsea,2023-12-16,False,Sub,32,0,0.0,0,0.0,1,0,0,0.0,0,False,0.8,0.14,43.29,0,0,0,0,0,1
+William Osula,Sheffield Utd,Luton,2023-12-26,True,Sub,4,0,0.25,0,0.0,1,1,0,2.1,0,False,0.8,0.14,38.38,0,0,0,0,0,2
+William Osula,Sheffield Utd,Nottingham Forest,2023-08-18,False,FW,73,0,0.05,0,0.0,2,1,0,1.1,0,True,0.8,0.16,42.22,0,0,0,0,0,2
+William Osula,Sheffield Utd,Manchester City,2023-12-30,False,FW,66,0,0.15,0,0.0,2,2,0,2.6,0,True,1.2,0.07,44.6,0,0,0,0,0,4
+William Osula,Sheffield Utd,West Ham,2024-01-21,True,FW,45,0,0.34,0,0.0,4,3,0,2.7,0,True,1.2,0.1,44.64,0,0,0,0,0,1
+William Osula,Sheffield Utd,Crystal Palace,2024-01-30,False,Sub,26,0,0.25,0,0.0,1,3,0,1.5,0,False,2.0,0.16,43.08,0,0,0,0,0,1
+William Osula,Sheffield Utd,Aston Villa,2024-02-03,True,FW,45,0,0.0,0,0.0,1,0,0,0.5,0,True,2.0,0.21,43.23,0,0,0,0,0,1
+William Osula,Sheffield Utd,Brighton,2024-02-18,True,FW,30,0,0.0,0,0.0,1,0,0,0.3,0,True,2.0,0.16,42.29,0,0,0,0,0,1
+William Osula,Sheffield Utd,Wolverhampton,2024-02-25,False,Sub,8,0,0.0,0,0.0,1,0,0,0.2,0,False,1.8,0.15,40.0,0,0,0,0,0,1
+William Osula,Sheffield Utd,Arsenal,2024-03-04,True,Sub,45,0,0.06,0,0.0,1,1,0,0.0,0,False,1.6,0.12,40.31,0,0,0,0,0,1
+William Osula,Sheffield Utd,Bournemouth,2024-03-09,False,Sub,10,0,0.0,0,0.0,1,0,0,0.1,0,False,1.0,0.06,38.53,0,0,0,0,0,1
+William Osula,Sheffield Utd,Manchester City,2023-08-27,True,FW,70,0,0.0,0,0.0,1,0,0,0.0,0,True,1.0,0.01,40.28,0,0,0,0,0,1
+William Osula,Sheffield Utd,Liverpool,2024-04-04,False,Sub,27,0,0.0,0,0.0,1,0,0,0.3,0,False,1.0,0.01,39.58,0,0,0,0,0,1
+William Osula,Sheffield Utd,Manchester United,2024-04-24,False,Sub,3,0,0.0,0,0.0,1,0,0,0.0,0,False,1.0,0.01,37.75,0,0,0,0,0,1
+William Osula,Sheffield Utd,Newcastle United,2024-04-27,False,Sub,23,0,0.14,0,0.0,1,1,0,2.1,0,False,1.0,0.01,37.05,0,0,0,0,0,

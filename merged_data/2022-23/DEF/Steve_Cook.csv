@@ -1,13 +1,13 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts
-Steve Cook,Nott'm Forest,Aston Villa,2022-10-10,True,DC,90,0,0.0,0,0.0,1,0,0,1.2,0,0,1,0.0,False
-Steve Cook,Nott'm Forest,Wolverhampton,2022-10-15,False,DC,90,0,0.0,0,0.1360979974269867,2,0,1,2.6,0,0,1,0.0,False
-Steve Cook,Nott'm Forest,Brighton,2022-10-18,False,DC,90,0,0.0,0,0.0,6,0,0,1.4,0,1,0,0.0,False
-Steve Cook,Nott'm Forest,Liverpool,2022-10-22,True,DC,90,0,0.0,0,0.5792449712753296,6,0,1,2.9,0,1,0,0.0,False
-Steve Cook,Nott'm Forest,Arsenal,2022-10-30,False,DC,90,0,0.0705737993121147,0,0.0,0,1,0,2.9,0,0,5,0.0,False
-Steve Cook,Nott'm Forest,Brentford,2022-11-05,True,DC,89,0,0.0387108996510505,0,0.0,1,1,0,1.5,0,0,2,0.0,False
-Steve Cook,Nott'm Forest,West Ham,2022-08-14,True,Sub,11,0,0.0,0,0.0,1,0,0,0.3,0,0,0,0.0,False
-Steve Cook,Nott'm Forest,Everton,2022-08-20,False,DC,90,0,0.0,0,0.0,2,0,0,3.1,0,0,1,0.0,False
-Steve Cook,Nott'm Forest,Tottenham,2022-08-28,True,DC,74,0,0.0,0,0.0808497965335846,1,0,1,2.5,0,0,1,0.0,False
-Steve Cook,Nott'm Forest,Bournemouth,2022-09-03,True,DC,90,0,0.0,0,0.0,1,0,0,2.0,0,0,3,0.0,False
-Steve Cook,Nott'm Forest,Fulham,2022-09-16,True,DC,62,0,0.0,0,0.0,0,0,0,1.4,0,0,3,0.0,False
-Steve Cook,Nott'm Forest,Leeds United,2022-10-03,False,DC,90,0,0.0545638985931873,0,0.0,-1,1,0,2.6,0,0,4,0.0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
+Steve Cook,Nott'm Forest,Aston Villa,2022-10-10,True,DC,90,0,0.0,0,0.0,1,0,0,1.2,0,0,1,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,2
+Steve Cook,Nott'm Forest,Wolverhampton,2022-10-15,False,DC,90,0,0.0,0,0.14,2,0,1,2.6,0,0,1,0.0,False,1.0,0.0,90.0,0.0,0,0,0,0,6
+Steve Cook,Nott'm Forest,Brighton,2022-10-18,False,DC,90,0,0.0,0,0.0,6,0,0,1.4,0,1,0,0.0,False,1.5,0.0,90.0,0.33,0,0,0,0,6
+Steve Cook,Nott'm Forest,Liverpool,2022-10-22,True,DC,90,0,0.0,0,0.58,6,0,1,2.9,0,1,0,0.0,False,3.0,0.0,90.0,0.5,0,0,0,0,0
+Steve Cook,Nott'm Forest,Arsenal,2022-10-30,False,DC,90,0,0.07,0,0.0,0,1,0,2.9,0,0,5,0.0,False,3.75,0.0,90.0,0.4,0,0,0,0,1
+Steve Cook,Nott'm Forest,Brentford,2022-11-05,True,DC,89,0,0.04,0,0.0,1,1,0,1.5,0,0,2,0.0,False,3.0,0.01,89.83,0.33,0,0,0,0,1
+Steve Cook,Nott'm Forest,West Ham,2022-08-14,True,Sub,11,0,0.0,0,0.0,1,0,0,0.3,0,0,0,0.0,False,3.0,0.02,78.57,0.33,0,0,0,0,2
+Steve Cook,Nott'm Forest,Everton,2022-08-20,False,DC,90,0,0.0,0,0.0,2,0,0,3.1,0,0,1,0.0,False,2.8,0.02,80.0,0.29,0,0,0,0,1
+Steve Cook,Nott'm Forest,Tottenham,2022-08-28,True,DC,74,0,0.0,0,0.08,1,0,1,2.5,0,0,1,0.0,False,2.0,0.02,79.33,0.25,0,0,0,0,1
+Steve Cook,Nott'm Forest,Bournemouth,2022-09-03,True,DC,90,0,0.0,0,0.0,1,0,0,2.0,0,0,3,0.0,False,1.0,0.02,80.4,0.22,0,0,0,0,0
+Steve Cook,Nott'm Forest,Fulham,2022-09-16,True,DC,62,0,0.0,0,0.0,0,0,0,1.4,0,0,3,0.0,False,1.2,0.01,78.73,0.2,0,0,0,0,-1
+Steve Cook,Nott'm Forest,Leeds United,2022-10-03,False,DC,90,0,0.05,0,0.0,-1,1,0,2.6,0,0,4,0.0,False,1.0,0.0,79.67,0.18,0,0,0,0,

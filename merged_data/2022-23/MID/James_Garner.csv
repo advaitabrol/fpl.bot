@@ -1,17 +1,17 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-James Garner,Everton,Manchester United,2022-10-09,True,Sub,15,0,0.0383724011480808,0,0.0,1,2,0,2.8,0,0,0,False
-James Garner,Everton,Tottenham,2022-10-15,False,Sub,23,0,0.0,0,0.0,1,0,0,0.5,0,0,1,False
-James Garner,Everton,Newcastle United,2022-10-19,False,Sub,17,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False
-James Garner,Everton,Crystal Palace,2022-10-22,True,Sub,12,0,0.0,0,0.0,0,0,0,0.1,0,0,0,False
-James Garner,Everton,Fulham,2022-10-29,False,Sub,25,0,0.0,0,0.0,1,0,0,0.9,0,0,0,False
-James Garner,Everton,Leeds United,2022-11-05,True,Sub,45,0,0.0,0,0.0,1,0,0,1.2,0,0,1,False
-James Garner,Everton,Tottenham,2023-04-03,True,Sub,6,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False
-James Garner,Everton,Manchester United,2023-04-08,False,Sub,30,0,0.0168792996555566,0,0.0,1,1,0,0.9,0,0,1,False
-James Garner,Everton,Fulham,2023-04-15,True,MC,90,0,0.0765673965215683,1,0.132309004664421,5,3,2,6.1,0,0,3,True
-James Garner,Everton,Crystal Palace,2023-04-22,False,DMC,90,0,0.0,0,0.0,3,0,0,0.8,0,1,0,True
-James Garner,Everton,Newcastle United,2023-04-27,True,Sub,8,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False
-James Garner,Everton,Leeds United,2023-05-01,False,DMC,90,0,0.0,0,0.1431913524866104,2,0,2,5.0,0,0,2,True
-James Garner,Everton,Brighton,2023-05-08,False,DMC,90,0,0.596973180770874,0,0.0,2,1,0,1.7,0,0,1,True
-James Garner,Everton,Manchester City,2023-05-14,True,DMC,75,0,0.0,0,0.1296163648366928,1,0,1,2.6,0,0,3,True
-James Garner,Everton,Wolverhampton,2023-05-20,False,DMC,90,0,0.0629838854074478,0,0.0399649702012538,1,1,2,3.1,0,0,1,True
-James Garner,Everton,Bournemouth,2023-05-28,True,DMR,90,0,0.0365331806242466,0,0.0,3,1,0,0.0,0,1,0,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+James Garner,Everton,Manchester United,2022-10-09,True,Sub,15,0,0.04,0,0.0,1,2,0,2.8,0,0,0,False,0.0,0.0,15.0,0,0,0,0,0,1
+James Garner,Everton,Tottenham,2022-10-15,False,Sub,23,0,0.0,0,0.0,1,0,0,0.5,0,0,1,False,1.0,0.04,19.0,0,0,0,0,0,1
+James Garner,Everton,Newcastle United,2022-10-19,False,Sub,17,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,1.0,0.02,18.33,0,0,0,0,0,0
+James Garner,Everton,Crystal Palace,2022-10-22,True,Sub,12,0,0.0,0,0.0,0,0,0,0.1,0,0,0,False,1.0,0.01,16.75,0,0,0,0,0,1
+James Garner,Everton,Fulham,2022-10-29,False,Sub,25,0,0.0,0,0.0,1,0,0,0.9,0,0,0,False,0.75,0.01,18.4,0,0,0,0,0,1
+James Garner,Everton,Leeds United,2022-11-05,True,Sub,45,0,0.0,0,0.0,1,0,0,1.2,0,0,1,False,0.8,0.01,22.83,0,0,0,0,0,1
+James Garner,Everton,Tottenham,2023-04-03,True,Sub,6,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,0.8,0.0,20.43,0,0,0,0,0,1
+James Garner,Everton,Manchester United,2023-04-08,False,Sub,30,0,0.02,0,0.0,1,1,0,0.9,0,0,1,False,0.8,0.0,21.62,0,0,0,0,0,5
+James Garner,Everton,Fulham,2023-04-15,True,MC,90,0,0.08,1,0.13,5,3,2,6.1,0,0,3,True,0.8,0.0,29.22,0,0,0,0,0,3
+James Garner,Everton,Crystal Palace,2023-04-22,False,DMC,90,0,0.0,0,0.0,3,0,0,0.8,0,1,0,True,1.8,0.22,35.3,0,0,0,0,0,1
+James Garner,Everton,Newcastle United,2023-04-27,True,Sub,8,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,2.2,0.22,32.82,0,0,0,0,0,2
+James Garner,Everton,Leeds United,2023-05-01,False,DMC,90,0,0.0,0,0.14,2,0,2,5.0,0,0,2,True,2.2,0.22,37.58,0,0,0,0,0,2
+James Garner,Everton,Brighton,2023-05-08,False,DMC,90,0,0.6,0,0.0,2,1,0,1.7,0,0,1,True,2.4,0.22,41.62,0,0,0,0,0,1
+James Garner,Everton,Manchester City,2023-05-14,True,DMC,75,0,0.0,0,0.13,1,0,1,2.6,0,0,3,True,2.6,0.33,44.0,0,0,0,0,0,1
+James Garner,Everton,Wolverhampton,2023-05-20,False,DMC,90,0,0.06,0,0.04,1,1,2,3.1,0,0,1,True,1.8,0.12,47.07,0,0,0,0,0,3
+James Garner,Everton,Bournemouth,2023-05-28,True,DMR,90,0,0.04,0,0.0,3,1,0,0.0,0,1,0,True,1.4,0.13,49.75,0,0,0,0,0,2

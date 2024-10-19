@@ -1,19 +1,19 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Matt Ritchie,Newcastle,West Ham,2021-08-15,True,DL,90,0,0.0398333668708801,1,0.2635303437709808,3,1,4,9.7,0,0,4
-Matt Ritchie,Newcastle,Chelsea,2021-10-30,True,DL,90,0,0.0,0,0.0142231686040759,0,0,1,2.9,0,0,3
-Matt Ritchie,Newcastle,Brighton,2021-11-06,False,DL,90,0,0.0165557581931352,0,0.0257330406457185,2,1,1,2.7,0,0,1
-Matt Ritchie,Newcastle,Brentford,2021-11-20,True,DML,90,0,0.0,1,0.2561300694942474,4,0,3,7.5,0,0,3
-Matt Ritchie,Newcastle,Arsenal,2021-11-27,False,DL,66,0,0.0,0,0.0,0,0,0,0.0,0,0,2
-Matt Ritchie,Newcastle,Leeds United,2021-12-12,False,Sub,5,0,0.1023794189095497,0,0.0,1,1,0,3.8,0,0,1
-Matt Ritchie,Newcastle,Liverpool,2021-12-16,False,Sub,75,0,0.0,0,0.0,1,0,0,1.0,0,0,3
-Matt Ritchie,Newcastle,Manchester City,2021-12-19,True,DL,90,0,0.0,0,0.0,0,0,0,1.2,0,0,4
-Matt Ritchie,Newcastle,Aston Villa,2021-08-21,False,DL,90,0,0.0292538795620203,0,0.2131406962871551,1,1,5,9.2,0,0,2
-Matt Ritchie,Newcastle,Southampton,2021-08-28,True,DML,90,0,0.0,0,0.0433736965060234,1,0,2,2.6,0,0,2
-Matt Ritchie,Newcastle,Norwich,2022-04-23,False,Sub,16,0,0.0,0,0.0,1,0,0,0.8,0,0,0
-Matt Ritchie,Newcastle,Burnley,2022-05-22,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0
-Matt Ritchie,Newcastle,Manchester United,2021-09-11,False,DL,90,0,0.0308045409619808,0,0.0811923220753669,0,2,2,4.4,0,0,4
-Matt Ritchie,Newcastle,Leicester City,2021-09-17,True,DL,90,0,0.0454951524734497,0,0.0948637127876281,1,1,2,5.7,0,0,1
-Matt Ritchie,Newcastle,Watford,2021-09-25,False,DL,90,0,0.0902553647756576,0,0.752805233001709,1,2,3,7.2,0,0,1
-Matt Ritchie,Newcastle,Wolverhampton,2021-10-02,False,DL,90,0,0.0,0,0.1616042256355285,1,0,4,7.0,0,0,2
-Matt Ritchie,Newcastle,Tottenham,2021-10-17,True,DL,90,0,0.0,0,0.0221415609121322,1,0,1,3.4,0,0,3
-Matt Ritchie,Newcastle,Crystal Palace,2021-10-23,False,DL,90,0,0.0117081627249717,0,0.0359853357076644,1,1,1,4.8,0,0,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
+Matt Ritchie,Newcastle,West Ham,2021-08-15,True,DL,90,0,0.04,1,0.26,3,1,4,9.7,0,0,4,0.0,0.0,90.0,0.0
+Matt Ritchie,Newcastle,Chelsea,2021-10-30,True,DL,90,0,0.0,0,0.01,0,0,1,2.9,0,0,3,3.0,1.04,90.0,0.0
+Matt Ritchie,Newcastle,Brighton,2021-11-06,False,DL,90,0,0.02,0,0.03,2,1,1,2.7,0,0,1,1.5,0.52,90.0,0.0
+Matt Ritchie,Newcastle,Brentford,2021-11-20,True,DML,90,0,0.0,1,0.26,4,0,3,7.5,0,0,3,1.67,0.35,90.0,0.0
+Matt Ritchie,Newcastle,Arsenal,2021-11-27,False,DL,66,0,0.0,0,0.0,0,0,0,0.0,0,0,2,2.25,0.51,85.2,0.0
+Matt Ritchie,Newcastle,Leeds United,2021-12-12,False,Sub,5,0,0.1,0,0.0,1,1,0,3.8,0,0,1,1.8,0.41,71.83,0.0
+Matt Ritchie,Newcastle,Liverpool,2021-12-16,False,Sub,75,0,0.0,0,0.0,1,0,0,1.0,0,0,3,1.4,0.22,72.29,0.0
+Matt Ritchie,Newcastle,Manchester City,2021-12-19,True,DL,90,0,0.0,0,0.0,0,0,0,1.2,0,0,4,1.6,0.22,74.5,0.0
+Matt Ritchie,Newcastle,Aston Villa,2021-08-21,False,DL,90,0,0.03,0,0.21,1,1,5,9.2,0,0,2,1.2,0.22,76.22,0.0
+Matt Ritchie,Newcastle,Southampton,2021-08-28,True,DML,90,0,0.0,0,0.04,1,0,2,2.6,0,0,2,0.6,0.03,77.6,0.0
+Matt Ritchie,Newcastle,Norwich,2022-04-23,False,Sub,16,0,0.0,0,0.0,1,0,0,0.8,0,0,0,0.8,0.03,72.0,0.0
+Matt Ritchie,Newcastle,Burnley,2022-05-22,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.8,0.01,66.08,0.0
+Matt Ritchie,Newcastle,Manchester United,2021-09-11,False,DL,90,0,0.03,0,0.08,0,2,2,4.4,0,0,4,0.8,0.01,67.92,0.0
+Matt Ritchie,Newcastle,Leicester City,2021-09-17,True,DL,90,0,0.05,0,0.09,1,1,2,5.7,0,0,1,0.8,0.01,69.5,0.0
+Matt Ritchie,Newcastle,Watford,2021-09-25,False,DL,90,0,0.09,0,0.75,1,2,3,7.2,0,0,1,0.8,0.02,70.87,0.0
+Matt Ritchie,Newcastle,Wolverhampton,2021-10-02,False,DL,90,0,0.0,0,0.16,1,0,4,7.0,0,0,2,0.8,0.03,72.06,0.0
+Matt Ritchie,Newcastle,Tottenham,2021-10-17,True,DL,90,0,0.0,0,0.02,1,0,1,3.4,0,0,3,0.8,0.03,73.12,0.0
+Matt Ritchie,Newcastle,Crystal Palace,2021-10-23,False,DL,90,0,0.01,0,0.04,1,1,1,4.8,0,0,1,0.8,0.03,74.06,0.0

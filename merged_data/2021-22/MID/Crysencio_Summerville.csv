@@ -1,7 +1,7 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Crysencio Summerville,Leeds,Arsenal,2021-12-18,True,Sub,50,0,0.2862370908260345,0,0.0137273948639631,1,1,1,2.5,0,0,1
-Crysencio Summerville,Leeds,Watford,2022-04-09,False,Sub,7,0,0.0,0,0.0348268337547779,1,0,1,1.5,0,0,0
-Crysencio Summerville,Leeds,Newcastle United,2021-09-17,False,Sub,23,0,0.0,0,0.0,1,0,0,0.9,0,0,0
-Crysencio Summerville,Leeds,West Ham,2021-09-25,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0
-Crysencio Summerville,Leeds,Southampton,2021-10-16,False,Sub,9,0,0.0,0,0.0,1,0,0,0.1,0,0,0
-Crysencio Summerville,Leeds,Wolverhampton,2021-10-23,True,Sub,36,0,0.0361541323363781,0,0.0,1,1,0,3.6,0,0,0
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
+Crysencio Summerville,Leeds,Arsenal,2021-12-18,True,Sub,50,0,0.29,0,0.01,1,1,1,2.5,0,0,1,0.0,0.0,50.0
+Crysencio Summerville,Leeds,Watford,2022-04-09,False,Sub,7,0,0.0,0,0.03,1,0,1,1.5,0,0,0,1.0,0.29,28.5
+Crysencio Summerville,Leeds,Newcastle United,2021-09-17,False,Sub,23,0,0.0,0,0.0,1,0,0,0.9,0,0,0,1.0,0.14,26.67
+Crysencio Summerville,Leeds,West Ham,2021-09-25,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,1.0,0.1,20.25
+Crysencio Summerville,Leeds,Southampton,2021-10-16,False,Sub,9,0,0.0,0,0.0,1,0,0,0.1,0,0,0,1.0,0.07,18.0
+Crysencio Summerville,Leeds,Wolverhampton,2021-10-23,True,Sub,36,0,0.04,0,0.0,1,1,0,3.6,0,0,0,1.0,0.06,21.0

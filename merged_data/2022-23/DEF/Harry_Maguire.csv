@@ -1,17 +1,17 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts
-Harry Maguire,Man Utd,Brighton,2022-08-07,True,DC,90,0,0.0791661962866783,0,0.0,0,1,0,5.4,0,0,2,0.0,False
-Harry Maguire,Man Utd,West Ham,2022-10-30,True,DC,90,0,0.0,0,0.0,6,0,0,3.9,0,1,0,0.0,False
-Harry Maguire,Man Utd,Nottingham Forest,2022-12-27,True,Sub,13,0,0.0,0,0.0,1,0,0,0.8,0,0,0,0.1293,False
-Harry Maguire,Man Utd,Wolverhampton,2022-12-31,False,Sub,1,0,0.0,0,0.0,1,0,0,0.3,0,0,0,0.137,False
-Harry Maguire,Man Utd,Bournemouth,2023-01-03,True,DC,90,0,0.0,0,0.0,7,0,0,1.9,1,1,0,0.4937,True
-Harry Maguire,Man Utd,Brentford,2022-08-13,False,DC,90,0,0.0,0,0.0183201991021633,-1,0,1,3.7,0,0,4,0.0,False
-Harry Maguire,Man Utd,Manchester City,2023-01-14,True,Sub,1,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.0,False
-Harry Maguire,Man Utd,Crystal Palace,2023-02-04,True,Sub,3,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.2,False
-Harry Maguire,Man Utd,Leicester City,2023-02-12,False,DC,90,0,0.0550504997372627,0,0.3629119992256164,7,1,1,3.6,1,1,0,1.83,True
-Harry Maguire,Man Utd,Southampton,2023-03-12,True,Sub,1,0,0.0,0,0.0,1,0,0,0.3,0,0,0,0.03,False
-Harry Maguire,Man Utd,Everton,2023-04-08,True,DC,90,0,0.0,0,0.0,6,0,0,2.2,0,1,0,1.02,True
-Harry Maguire,Man Utd,Nottingham Forest,2023-04-16,False,DC,90,0,0.0,0,0.0,5,0,0,2.2,0,1,0,0.68,True
-Harry Maguire,Man Utd,Aston Villa,2023-04-30,True,Sub,4,0,0.0,0,0.0,1,0,0,0.1,0,0,0,0.09,False
-Harry Maguire,Man Utd,Wolverhampton,2023-05-13,True,Sub,9,0,0.0,0,0.0,1,0,0,0.4,0,0,0,0.0,False
-Harry Maguire,Man Utd,Fulham,2023-05-28,True,DC,90,0,0.0146141350269317,0,0.0,2,1,0,0.0,0,0,1,1.8,True
-Harry Maguire,Man Utd,Arsenal,2022-09-04,True,Sub,10,0,0.0,0,0.0,0,0,0,0.2,0,0,0,0.0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
+Harry Maguire,Man Utd,Brighton,2022-08-07,True,DC,90,0,0.08,0,0.0,0,1,0,5.4,0,0,2,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,6
+Harry Maguire,Man Utd,West Ham,2022-10-30,True,DC,90,0,0.0,0,0.0,6,0,0,3.9,0,1,0,0.0,False,0.0,0.08,90.0,0.5,0,0,0,0,1
+Harry Maguire,Man Utd,Nottingham Forest,2022-12-27,True,Sub,13,0,0.0,0,0.0,1,0,0,0.8,0,0,0,0.13,False,3.0,0.04,64.33,0.5,0,0,0,0,1
+Harry Maguire,Man Utd,Wolverhampton,2022-12-31,False,Sub,1,0,0.0,0,0.0,1,0,0,0.3,0,0,0,0.14,False,2.33,0.03,48.5,0.5,0,0,0,0,7
+Harry Maguire,Man Utd,Bournemouth,2023-01-03,True,DC,90,0,0.0,0,0.0,7,0,0,1.9,1,1,0,0.49,True,2.0,0.02,56.8,0.67,0,0,0,0,-1
+Harry Maguire,Man Utd,Brentford,2022-08-13,False,DC,90,0,0.0,0,0.02,-1,0,1,3.7,0,0,4,0.0,False,3.0,0.02,62.33,0.5,0,0,0,0,1
+Harry Maguire,Man Utd,Manchester City,2023-01-14,True,Sub,1,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.0,False,2.8,0.0,53.57,0.5,0,0,0,0,1
+Harry Maguire,Man Utd,Crystal Palace,2023-02-04,True,Sub,3,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.2,False,1.8,0.0,47.25,0.5,0,0,0,0,7
+Harry Maguire,Man Utd,Leicester City,2023-02-12,False,DC,90,0,0.06,0,0.36,7,1,1,3.6,1,1,0,1.83,True,1.8,0.0,52.0,0.6,0,0,0,0,1
+Harry Maguire,Man Utd,Southampton,2023-03-12,True,Sub,1,0,0.0,0,0.0,1,0,0,0.3,0,0,0,0.03,False,3.0,0.01,46.9,0.6,0,0,0,0,6
+Harry Maguire,Man Utd,Everton,2023-04-08,True,DC,90,0,0.0,0,0.0,6,0,0,2.2,0,1,0,1.02,True,1.8,0.01,50.82,0.67,0,0,0,0,5
+Harry Maguire,Man Utd,Nottingham Forest,2023-04-16,False,DC,90,0,0.0,0,0.0,5,0,0,2.2,0,1,0,0.68,True,3.2,0.01,54.08,0.71,0,0,0,0,1
+Harry Maguire,Man Utd,Aston Villa,2023-04-30,True,Sub,4,0,0.0,0,0.0,1,0,0,0.1,0,0,0,0.09,False,4.0,0.01,50.23,0.71,0,0,0,0,1
+Harry Maguire,Man Utd,Wolverhampton,2023-05-13,True,Sub,9,0,0.0,0,0.0,1,0,0,0.4,0,0,0,0.0,False,4.0,0.01,47.29,0.71,0,0,0,0,2
+Harry Maguire,Man Utd,Fulham,2023-05-28,True,DC,90,0,0.01,0,0.0,2,1,0,0.0,0,0,1,1.8,True,2.8,0.0,50.13,0.62,0,0,0,0,0
+Harry Maguire,Man Utd,Arsenal,2022-09-04,True,Sub,10,0,0.0,0,0.0,0,0,0,0.2,0,0,0,0.0,False,3.0,0.0,47.62,0.62,0,0,0,0,1

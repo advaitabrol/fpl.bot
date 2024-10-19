@@ -1,27 +1,27 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA
-Martin Dubravka,Newcastle,Arsenal,2021-11-27,False,90,2,4,0,2,0,False,0.0
-Martin Dubravka,Newcastle,Norwich,2021-11-30,True,90,1,5,0,3,0,False,0.0
-Martin Dubravka,Newcastle,Burnley,2021-12-04,True,90,0,1,0,6,0,True,0.0
-Martin Dubravka,Newcastle,Leeds United,2021-12-12,False,90,4,1,0,0,0,False,0.0
-Martin Dubravka,Newcastle,Liverpool,2021-12-16,False,90,3,6,0,3,0,False,0.0
-Martin Dubravka,Newcastle,Manchester City,2021-12-19,True,90,4,3,0,1,0,False,0.0
-Martin Dubravka,Newcastle,Manchester United,2021-12-27,True,90,1,2,0,2,0,False,0.0
-Martin Dubravka,Newcastle,Watford,2022-01-15,True,90,1,4,0,3,0,False,0.0
-Martin Dubravka,Newcastle,Leicester City,2022-01-22,False,90,0,4,0,9,2,True,0.0
-Martin Dubravka,Newcastle,Everton,2022-02-08,True,90,1,2,0,2,0,False,0.0
-Martin Dubravka,Newcastle,Aston Villa,2022-02-13,True,90,0,1,0,9,3,True,0.0
-Martin Dubravka,Newcastle,West Ham,2022-02-19,False,90,1,2,0,2,0,False,0.0
-Martin Dubravka,Newcastle,Brentford,2022-02-26,False,90,0,1,0,5,0,True,0.0
-Martin Dubravka,Newcastle,Brighton,2022-03-05,True,90,1,3,0,3,0,False,0.0
-Martin Dubravka,Newcastle,Southampton,2022-03-10,False,90,1,4,0,3,0,False,0.0
-Martin Dubravka,Newcastle,Chelsea,2022-03-13,False,90,1,2,0,2,0,False,0.0
-Martin Dubravka,Newcastle,Everton,2022-03-17,False,90,1,2,0,2,0,False,0.0
-Martin Dubravka,Newcastle,Tottenham,2022-04-03,False,90,5,1,0,0,0,False,0.0
-Martin Dubravka,Newcastle,Wolverhampton,2022-04-08,True,90,0,2,0,7,1,True,0.0
-Martin Dubravka,Newcastle,Leeds United,2022-04-17,True,90,1,1,0,2,0,False,0.0
-Martin Dubravka,Newcastle,Crystal Palace,2022-04-20,True,90,0,2,0,6,0,True,0.0
-Martin Dubravka,Newcastle,Norwich,2022-04-23,False,90,0,2,0,6,0,True,0.0
-Martin Dubravka,Newcastle,Liverpool,2022-04-30,True,90,1,9,0,7,2,False,0.0
-Martin Dubravka,Newcastle,Manchester City,2022-05-08,False,90,5,4,0,1,0,False,0.0
-Martin Dubravka,Newcastle,Arsenal,2022-05-16,True,90,0,2,0,7,1,True,0.0134569834917783
-Martin Dubravka,Newcastle,Burnley,2022-05-22,False,90,1,3,0,3,0,False,0.0199606567621231
+name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,form,clean_sheet_probability
+Martin Dubravka,Newcastle,Arsenal,2021-11-27,False,90,2,4,0,2,0,False,0.0,0.0,0.0
+Martin Dubravka,Newcastle,Norwich,2021-11-30,True,90,1,5,0,3,0,False,0.0,2.0,0.0
+Martin Dubravka,Newcastle,Burnley,2021-12-04,True,90,0,1,0,6,0,True,0.0,2.5,0.33
+Martin Dubravka,Newcastle,Leeds United,2021-12-12,False,90,4,1,0,0,0,False,0.0,3.67,0.25
+Martin Dubravka,Newcastle,Liverpool,2021-12-16,False,90,3,6,0,3,0,False,0.0,2.75,0.2
+Martin Dubravka,Newcastle,Manchester City,2021-12-19,True,90,4,3,0,1,0,False,0.0,2.8,0.17
+Martin Dubravka,Newcastle,Manchester United,2021-12-27,True,90,1,2,0,2,0,False,0.0,2.6,0.14
+Martin Dubravka,Newcastle,Watford,2022-01-15,True,90,1,4,0,3,0,False,0.0,2.4,0.12
+Martin Dubravka,Newcastle,Leicester City,2022-01-22,False,90,0,4,0,9,2,True,0.0,1.8,0.22
+Martin Dubravka,Newcastle,Everton,2022-02-08,True,90,1,2,0,2,0,False,0.0,3.6,0.2
+Martin Dubravka,Newcastle,Aston Villa,2022-02-13,True,90,0,1,0,9,3,True,0.0,3.4,0.27
+Martin Dubravka,Newcastle,West Ham,2022-02-19,False,90,1,2,0,2,0,False,0.0,5.0,0.25
+Martin Dubravka,Newcastle,Brentford,2022-02-26,False,90,0,1,0,5,0,True,0.0,5.0,0.31
+Martin Dubravka,Newcastle,Brighton,2022-03-05,True,90,1,3,0,3,0,False,0.0,5.4,0.29
+Martin Dubravka,Newcastle,Southampton,2022-03-10,False,90,1,4,0,3,0,False,0.0,4.2,0.27
+Martin Dubravka,Newcastle,Chelsea,2022-03-13,False,90,1,2,0,2,0,False,0.0,4.4,0.25
+Martin Dubravka,Newcastle,Everton,2022-03-17,False,90,1,2,0,2,0,False,0.0,3.0,0.24
+Martin Dubravka,Newcastle,Tottenham,2022-04-03,False,90,5,1,0,0,0,False,0.0,3.0,0.22
+Martin Dubravka,Newcastle,Wolverhampton,2022-04-08,True,90,0,2,0,7,1,True,0.0,2.0,0.26
+Martin Dubravka,Newcastle,Leeds United,2022-04-17,True,90,1,1,0,2,0,False,0.0,2.8,0.25
+Martin Dubravka,Newcastle,Crystal Palace,2022-04-20,True,90,0,2,0,6,0,True,0.0,2.6,0.29
+Martin Dubravka,Newcastle,Norwich,2022-04-23,False,90,0,2,0,6,0,True,0.0,3.4,0.32
+Martin Dubravka,Newcastle,Liverpool,2022-04-30,True,90,1,9,0,7,2,False,0.0,4.2,0.3
+Martin Dubravka,Newcastle,Manchester City,2022-05-08,False,90,5,4,0,1,0,False,0.0,5.6,0.29
+Martin Dubravka,Newcastle,Arsenal,2022-05-16,True,90,0,2,0,7,1,True,0.01,4.4,0.32
+Martin Dubravka,Newcastle,Burnley,2022-05-22,False,90,1,3,0,3,0,False,0.02,5.4,0.31

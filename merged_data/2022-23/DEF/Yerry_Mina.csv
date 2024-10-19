@@ -1,8 +1,8 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts
-Yerry Mina,Everton,Chelsea,2022-08-06,True,DC,69,0,0.0,0,0.0,1,0,0,1.2,0,0,1,0.0,False
-Yerry Mina,Everton,Wolverhampton,2022-12-26,True,DC,75,1,0.0980184972286224,0,0.0,11,1,0,6.0,3,0,1,0.4818,True
-Yerry Mina,Everton,West Ham,2023-01-21,False,DC,90,0,0.1143430024385452,0,0.0,1,2,0,5.4,0,0,2,2.3338,True
-Yerry Mina,Everton,Brighton,2023-05-08,False,DC,90,0,0.0,0,0.0,1,0,0,4.1,0,0,1,3.26,True
-Yerry Mina,Everton,Manchester City,2023-05-14,True,DC,90,0,0.2571295499801636,0,0.0,1,2,0,5.8,0,0,3,0.76,True
-Yerry Mina,Everton,Wolverhampton,2023-05-20,False,DC,90,1,1.1916028261184692,0,0.0843361243605613,10,3,1,10.5,2,0,1,1.55,True
-Yerry Mina,Everton,Bournemouth,2023-05-28,True,DC,90,0,0.0,0,0.0,8,0,0,0.0,2,1,0,0.49,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
+Yerry Mina,Everton,Chelsea,2022-08-06,True,DC,69,0,0.0,0,0.0,1,0,0,1.2,0,0,1,0.0,False,0.0,0.0,69.0,0.0,0,0,0,0,11
+Yerry Mina,Everton,Wolverhampton,2022-12-26,True,DC,75,1,0.1,0,0.0,11,1,0,6.0,3,0,1,0.48,True,1.0,0.0,72.0,0.0,0,0,0,0,1
+Yerry Mina,Everton,West Ham,2023-01-21,False,DC,90,0,0.11,0,0.0,1,2,0,5.4,0,0,2,2.33,True,6.0,0.05,78.0,0.0,0,0,0,0,1
+Yerry Mina,Everton,Brighton,2023-05-08,False,DC,90,0,0.0,0,0.0,1,0,0,4.1,0,0,1,3.26,True,4.33,0.07,81.0,0.0,0,0,0,0,1
+Yerry Mina,Everton,Manchester City,2023-05-14,True,DC,90,0,0.26,0,0.0,1,2,0,5.8,0,0,3,0.76,True,3.5,0.05,82.8,0.0,0,0,0,0,10
+Yerry Mina,Everton,Wolverhampton,2023-05-20,False,DC,90,1,1.19,0,0.08,10,3,1,10.5,2,0,1,1.55,True,3.0,0.09,84.0,0.0,0,0,0,0,8
+Yerry Mina,Everton,Bournemouth,2023-05-28,True,DC,90,0,0.0,0,0.0,8,0,0,0.0,2,1,0,0.49,True,4.8,0.33,84.86,0.14,0,0,0,0,

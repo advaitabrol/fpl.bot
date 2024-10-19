@@ -1,13 +1,13 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts
-Jhon Durán,Aston Villa,Leeds United,2023-02-04,True,Sub,8,0,0.0,0,0.0,1,0,0,0.3,0,False
-Jhon Durán,Aston Villa,Manchester City,2023-02-12,False,Sub,30,0,0.0762147977948188,0,0.0,1,2,0,0.8,0,False
-Jhon Durán,Aston Villa,Arsenal,2023-02-18,True,Sub,12,0,0.0311356000602245,0,0.0,1,1,0,1.9,0,False
-Jhon Durán,Aston Villa,Crystal Palace,2023-03-04,True,Sub,5,0,0.0242286995053291,0,0.0,1,1,0,0.0,0,False
-Jhon Durán,Aston Villa,West Ham,2023-03-12,False,Sub,10,0,0.5995550155639648,0,0.0,1,2,0,2.5,0,False
-Jhon Durán,Aston Villa,Bournemouth,2023-03-18,True,Sub,1,0,0.0201619006693363,0,0.0,1,1,0,0.0,0,False
-Jhon Durán,Aston Villa,Leeds United,2023-04-04,False,Sub,11,0,0.0,0,0.0,1,0,0,0.0,0,False
-Jhon Durán,Aston Villa,Newcastle United,2023-04-15,True,Sub,1,0,0.0,0,0.0,0,0,0,0.0,0,False
-Jhon Durán,Aston Villa,Manchester United,2023-04-30,False,Sub,14,0,0.0,0,0.0,1,0,0,0.1,0,False
-Jhon Durán,Aston Villa,Wolverhampton,2023-05-06,False,Sub,9,0,0.0,0,0.0525350011885166,1,0,1,1.4,0,False
-Jhon Durán,Aston Villa,Tottenham,2023-05-13,True,Sub,22,0,0.0,0,0.0,1,0,0,0.1,0,False
-Jhon Durán,Aston Villa,Liverpool,2023-05-20,False,Sub,3,0,0.0,0,0.0,1,0,0,0.3,0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Jhon Durán,Aston Villa,Leeds United,2023-02-04,True,Sub,8,0,0.0,0,0.0,1,0,0,0.3,0,False,0.0,0.0,8.0,0,0,0,0,0,1
+Jhon Durán,Aston Villa,Manchester City,2023-02-12,False,Sub,30,0,0.08,0,0.0,1,2,0,0.8,0,False,1.0,0.0,19.0,0,0,0,0,0,1
+Jhon Durán,Aston Villa,Arsenal,2023-02-18,True,Sub,12,0,0.03,0,0.0,1,1,0,1.9,0,False,1.0,0.04,16.67,0,0,0,0,0,1
+Jhon Durán,Aston Villa,Crystal Palace,2023-03-04,True,Sub,5,0,0.02,0,0.0,1,1,0,0.0,0,False,1.0,0.04,13.75,0,0,0,0,0,1
+Jhon Durán,Aston Villa,West Ham,2023-03-12,False,Sub,10,0,0.6,0,0.0,1,2,0,2.5,0,False,1.0,0.03,13.0,0,0,0,0,0,1
+Jhon Durán,Aston Villa,Bournemouth,2023-03-18,True,Sub,1,0,0.02,0,0.0,1,1,0,0.0,0,False,1.0,0.15,11.0,0,0,0,0,0,1
+Jhon Durán,Aston Villa,Leeds United,2023-04-04,False,Sub,11,0,0.0,0,0.0,1,0,0,0.0,0,False,1.0,0.15,11.0,0,0,0,0,0,0
+Jhon Durán,Aston Villa,Newcastle United,2023-04-15,True,Sub,1,0,0.0,0,0.0,0,0,0,0.0,0,False,1.0,0.14,9.75,0,0,0,0,0,1
+Jhon Durán,Aston Villa,Manchester United,2023-04-30,False,Sub,14,0,0.0,0,0.0,1,0,0,0.1,0,False,0.8,0.13,10.22,0,0,0,0,0,1
+Jhon Durán,Aston Villa,Wolverhampton,2023-05-06,False,Sub,9,0,0.0,0,0.05,1,0,1,1.4,0,False,0.8,0.12,10.1,0,0,0,0,0,1
+Jhon Durán,Aston Villa,Tottenham,2023-05-13,True,Sub,22,0,0.0,0,0.0,1,0,0,0.1,0,False,0.8,0.0,11.18,0,0,0,0,0,1
+Jhon Durán,Aston Villa,Liverpool,2023-05-20,False,Sub,3,0,0.0,0,0.0,1,0,0,0.3,0,False,0.8,0.0,10.5,0,0,0,0,0,1

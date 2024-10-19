@@ -1,13 +1,13 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Erik Pieters,Burnley,Chelsea,2021-11-06,False,Sub,2,0,0.0,0,0.0,1,0,0,0.0,0,0,0
-Erik Pieters,Burnley,Liverpool,2021-08-21,False,Sub,11,0,0.0,0,0.0,1,0,0,0.2,0,0,0
-Erik Pieters,Burnley,Manchester United,2021-12-30,False,Sub,6,0,0.0,0,0.0,1,0,0,0.5,0,0,0
-Erik Pieters,Burnley,Arsenal,2022-01-23,False,DL,90,0,0.0210772771388292,0,0.0,6,1,0,3.0,0,1,0
-Erik Pieters,Burnley,Watford,2022-02-05,True,DL,90,0,0.081394150853157,0,0.0,6,3,0,4.5,0,1,0
-Erik Pieters,Burnley,Manchester United,2022-02-08,True,DL,90,0,0.03135721758008,0,0.0,1,2,0,4.0,0,0,1
-Erik Pieters,Burnley,Liverpool,2022-02-13,True,DL,90,0,0.0,0,0.0,2,0,0,2.0,0,0,1
-Erik Pieters,Burnley,Brighton,2022-02-19,False,DL,90,0,0.0,0,0.0,7,0,0,1.9,1,1,0
-Erik Pieters,Burnley,Tottenham,2022-02-23,True,DL,90,0,0.0,0,0.0204200576990842,6,0,1,3.6,0,1,0
-Erik Pieters,Burnley,Crystal Palace,2022-02-26,False,DL,59,0,0.016035521402955,0,0.0,1,1,0,1.5,0,0,1
-Erik Pieters,Burnley,Aston Villa,2022-05-07,True,Sub,18,0,0.0,1,0.7414164543151855,4,0,1,3.8,0,0,0
-Erik Pieters,Burnley,Manchester City,2021-10-16,False,DL,90,0,0.0,0,0.0,1,0,0,2.0,0,0,2
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
+Erik Pieters,Burnley,Chelsea,2021-11-06,False,Sub,2,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.0,0.0,2.0,0.0
+Erik Pieters,Burnley,Liverpool,2021-08-21,False,Sub,11,0,0.0,0,0.0,1,0,0,0.2,0,0,0,1.0,0.0,6.5,0.0
+Erik Pieters,Burnley,Manchester United,2021-12-30,False,Sub,6,0,0.0,0,0.0,1,0,0,0.5,0,0,0,1.0,0.0,6.33,0.0
+Erik Pieters,Burnley,Arsenal,2022-01-23,False,DL,90,0,0.02,0,0.0,6,1,0,3.0,0,1,0,1.0,0.0,27.25,1.0
+Erik Pieters,Burnley,Watford,2022-02-05,True,DL,90,0,0.08,0,0.0,6,3,0,4.5,0,1,0,2.25,0.01,39.8,1.0
+Erik Pieters,Burnley,Manchester United,2022-02-08,True,DL,90,0,0.03,0,0.0,1,2,0,4.0,0,0,1,3.0,0.02,48.17,0.67
+Erik Pieters,Burnley,Liverpool,2022-02-13,True,DL,90,0,0.0,0,0.0,2,0,0,2.0,0,0,1,3.0,0.03,54.14,0.5
+Erik Pieters,Burnley,Brighton,2022-02-19,False,DL,90,0,0.0,0,0.0,7,0,0,1.9,1,1,0,3.2,0.03,58.62,0.6
+Erik Pieters,Burnley,Tottenham,2022-02-23,True,DL,90,0,0.0,0,0.02,6,0,1,3.6,0,1,0,4.4,0.03,62.11,0.67
+Erik Pieters,Burnley,Crystal Palace,2022-02-26,False,DL,59,0,0.02,0,0.0,1,1,0,1.5,0,0,1,4.4,0.02,61.8,0.67
+Erik Pieters,Burnley,Aston Villa,2022-05-07,True,Sub,18,0,0.0,1,0.74,4,0,1,3.8,0,0,0,3.4,0.01,57.82,0.67
+Erik Pieters,Burnley,Manchester City,2021-10-16,False,DL,90,0,0.0,0,0.0,1,0,0,2.0,0,0,2,4.0,0.2,60.5,0.57

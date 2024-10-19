@@ -1,18 +1,18 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Albert Sambi Lokonga,Luton,Manchester City,2023-12-10,True,Sub,18,0,0.0,0,0.0,1,0,0,0.6,0,0,0,False
-Albert Sambi Lokonga,Luton,Newcastle United,2023-12-23,True,MC,79,0,0.0,0,0.0,3,0,0,1.0,0,1,0,True
-Albert Sambi Lokonga,Luton,Sheffield,2023-12-26,False,MC,90,0,0.0283522605895996,1,0.0711539909243583,6,1,1,5.8,1,0,2,True
-Albert Sambi Lokonga,Luton,Chelsea,2023-12-30,True,MC,90,0,0.0,0,0.0,2,0,0,0.8,0,0,3,True
-Albert Sambi Lokonga,Luton,Burnley,2024-01-12,False,MC,85,0,0.1274765729904174,0,0.0296379923820495,2,2,1,3.7,0,0,1,True
-Albert Sambi Lokonga,Luton,Brighton,2024-01-30,True,MC,67,0,0.0402794256806373,1,0.9650174975395204,5,1,1,3.9,0,1,0,True
-Albert Sambi Lokonga,Luton,Newcastle United,2024-02-03,False,MC,90,0,0.0,0,0.0158313419669866,1,0,1,4.1,0,0,4,True
-Albert Sambi Lokonga,Luton,Sheffield,2024-02-10,True,MC,90,0,0.0,0,0.0,2,0,0,2.7,0,0,3,True
-Albert Sambi Lokonga,Luton,Manchester United,2024-02-18,True,MC,90,0,0.0152200423181056,0,0.068843200802803,2,1,2,6.5,0,0,2,True
-Albert Sambi Lokonga,Luton,Liverpool,2024-02-21,False,MC,45,0,0.0,0,0.0,1,0,0,0.4,0,0,0,True
-Albert Sambi Lokonga,Luton,Brentford,2024-04-20,True,MC,70,0,0.0,0,0.0,2,0,0,1.0,0,0,4,True
-Albert Sambi Lokonga,Luton,Wolverhampton,2024-04-27,False,MC,90,0,0.0,0,0.0,1,0,0,2.2,0,0,2,True
-Albert Sambi Lokonga,Luton,Everton,2024-05-03,True,MC,90,0,0.0,1,0.249422550201416,6,0,1,5.6,1,0,1,True
-Albert Sambi Lokonga,Luton,West Ham,2024-05-11,False,MC,90,1,0.4793727099895477,0,0.0,9,1,0,7.0,2,0,3,True
-Albert Sambi Lokonga,Luton,Fulham,2024-05-19,True,MC,90,0,0.0,0,0.0181362051516771,1,0,1,1.7,0,0,4,True
-Albert Sambi Lokonga,Luton,Fulham,2023-09-16,False,MC,74,0,0.0,0,0.0692062452435493,2,0,1,1.2,0,0,1,True
-Albert Sambi Lokonga,Luton,Wolverhampton,2023-09-23,True,MC,56,0,0.0624492205679416,0,0.0,1,2,0,1.7,0,0,1,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Albert Sambi Lokonga,Luton,Manchester City,2023-12-10,True,Sub,18,0,0.0,0,0.0,1,0,0,0.6,0,0,0,False,0.0,0.0,18.0,0,0,0.13,0.05,0.03,3
+Albert Sambi Lokonga,Luton,Newcastle United,2023-12-23,True,MC,79,0,0.0,0,0.0,3,0,0,1.0,0,1,0,True,1.0,0.0,48.5,0,0,0.13,0.05,0.03,6
+Albert Sambi Lokonga,Luton,Sheffield,2023-12-26,False,MC,90,0,0.03,1,0.07,6,1,1,5.8,1,0,2,True,2.0,0.0,62.33,0,0,0.13,0.05,0.03,2
+Albert Sambi Lokonga,Luton,Chelsea,2023-12-30,True,MC,90,0,0.0,0,0.0,2,0,0,0.8,0,0,3,True,3.33,0.34,69.25,0,0,0.13,0.05,0.03,2
+Albert Sambi Lokonga,Luton,Burnley,2024-01-12,False,MC,85,0,0.13,0,0.03,2,2,1,3.7,0,0,1,True,3.0,0.26,72.4,0,0,0.13,0.05,0.03,5
+Albert Sambi Lokonga,Luton,Brighton,2024-01-30,True,MC,67,0,0.04,1,0.97,5,1,1,3.9,0,1,0,True,2.8,0.23,71.5,0,0,0.13,0.05,0.03,1
+Albert Sambi Lokonga,Luton,Newcastle United,2024-02-03,False,MC,90,0,0.0,0,0.02,1,0,1,4.1,0,0,4,True,3.6,0.44,74.14,0,0,0.13,0.05,0.03,2
+Albert Sambi Lokonga,Luton,Sheffield,2024-02-10,True,MC,90,0,0.0,0,0.0,2,0,0,2.7,0,0,3,True,3.2,0.44,76.12,0,0,0.13,0.05,0.03,2
+Albert Sambi Lokonga,Luton,Manchester United,2024-02-18,True,MC,90,0,0.02,0,0.07,2,1,2,6.5,0,0,2,True,2.4,0.23,77.67,0,0,0.13,0.05,0.03,1
+Albert Sambi Lokonga,Luton,Liverpool,2024-02-21,False,MC,45,0,0.0,0,0.0,1,0,0,0.4,0,0,0,True,2.4,0.24,74.4,0,0,0.13,0.05,0.03,2
+Albert Sambi Lokonga,Luton,Brentford,2024-04-20,True,MC,70,0,0.0,0,0.0,2,0,0,1.0,0,0,4,True,2.2,0.21,74.0,0,0,0.13,0.05,0.03,1
+Albert Sambi Lokonga,Luton,Wolverhampton,2024-04-27,False,MC,90,0,0.0,0,0.0,1,0,0,2.2,0,0,2,True,1.6,0.0,75.33,0,0,0.13,0.05,0.03,6
+Albert Sambi Lokonga,Luton,Everton,2024-05-03,True,MC,90,0,0.0,1,0.25,6,0,1,5.6,1,0,1,True,1.6,0.0,76.46,0,0,0.13,0.05,0.03,9
+Albert Sambi Lokonga,Luton,West Ham,2024-05-11,False,MC,90,1,0.48,0,0.0,9,1,0,7.0,2,0,3,True,2.4,0.2,77.43,0,0,0.13,0.05,0.03,1
+Albert Sambi Lokonga,Luton,Fulham,2024-05-19,True,MC,90,0,0.0,0,0.02,1,0,1,1.7,0,0,4,True,3.8,0.3,78.27,0,0,0.13,0.05,0.03,2
+Albert Sambi Lokonga,Luton,Fulham,2023-09-16,False,MC,74,0,0.0,0,0.07,2,0,1,1.2,0,0,1,True,3.8,0.3,78.0,0,0,0.13,0.05,0.03,1
+Albert Sambi Lokonga,Luton,Wolverhampton,2023-09-23,True,MC,56,0,0.06,0,0.0,1,2,0,1.7,0,0,1,True,3.8,0.3,76.71,0,0,0.13,0.05,0.03,

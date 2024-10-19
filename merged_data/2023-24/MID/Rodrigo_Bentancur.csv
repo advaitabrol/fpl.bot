@@ -1,24 +1,24 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Rodrigo Bentancur,Spurs,Crystal Palace,2023-10-27,False,Sub,1,0,0.0232692509889602,0,0.0,1,1,0,0.3,0,0,1,False
-Rodrigo Bentancur,Spurs,Chelsea,2023-11-06,True,Sub,29,0,0.5478523373603821,0,0.0,1,1,0,1.1,0,0,3,False
-Rodrigo Bentancur,Spurs,Wolverhampton,2023-11-11,False,Sub,27,0,0.0,0,0.085642509162426,0,0,1,2.1,0,0,2,False
-Rodrigo Bentancur,Spurs,Aston Villa,2023-11-26,True,DMC,31,0,0.0,0,0.0,1,0,0,1.0,0,0,0,True
-Rodrigo Bentancur,Spurs,Bournemouth,2023-12-31,True,MC,57,0,0.0838546082377433,0,0.0,1,1,0,1.5,0,0,0,True
-Rodrigo Bentancur,Spurs,Manchester United,2024-01-14,False,MC,90,1,0.2851778566837311,0,0.0,6,3,0,9.8,0,0,2,True
-Rodrigo Bentancur,Spurs,Brentford,2024-01-31,True,DMC,45,0,0.0,0,0.029800483956933,1,0,1,2.6,0,0,1,True
-Rodrigo Bentancur,Spurs,Everton,2024-02-03,False,DMC,63,0,0.0,0,0.0,2,0,0,0.6,0,0,1,True
-Rodrigo Bentancur,Spurs,Brighton,2024-02-10,True,DMC,61,0,0.0208964571356773,0,0.0,2,1,0,1.9,0,0,1,True
-Rodrigo Bentancur,Spurs,Wolverhampton,2024-02-17,True,Sub,19,0,0.0,0,0.1400716006755828,1,0,2,2.9,0,0,0,False
-Rodrigo Bentancur,Spurs,Crystal Palace,2024-03-02,True,DMC,62,0,0.0189001262187957,0,0.0,1,1,0,1.4,0,0,1,True
-Rodrigo Bentancur,Spurs,Aston Villa,2024-03-10,False,Sub,20,0,0.0,0,0.0475094616413116,1,0,1,1.7,0,0,0,False
-Rodrigo Bentancur,Spurs,Fulham,2024-03-16,False,Sub,24,0,0.021691070869565,0,0.0536054112017154,0,1,1,3.5,0,0,0,False
-Rodrigo Bentancur,Spurs,Luton,2024-03-30,True,Sub,22,0,0.0430605486035347,0,0.0,1,1,0,2.0,0,0,0,False
-Rodrigo Bentancur,Spurs,West Ham,2024-04-02,False,DMC,69,0,0.0483239442110061,0,0.0619119815528392,1,1,1,3.9,0,0,1,True
-Rodrigo Bentancur,Spurs,Nottingham Forest,2024-04-07,True,Sub,45,0,0.0,1,0.0851736292243003,3,0,1,3.7,0,0,0,False
-Rodrigo Bentancur,Spurs,Newcastle United,2024-04-13,False,DMC,56,0,0.0646135956048965,0,0.0,1,1,0,1.7,0,0,3,True
-Rodrigo Bentancur,Spurs,Arsenal,2024-04-28,True,DMC,45,0,0.0,0,0.0,1,0,0,1.6,0,0,3,True
-Rodrigo Bentancur,Spurs,Chelsea,2024-05-02,False,Sub,27,0,0.2182399034500122,0,0.0,1,3,0,2.5,0,0,1,False
-Rodrigo Bentancur,Spurs,Liverpool,2024-05-05,False,MC,60,0,0.0,0,0.0,2,0,0,1.3,0,0,4,True
-Rodrigo Bentancur,Spurs,Burnley,2024-05-11,True,Sub,15,0,0.1114870682358741,0,0.0,1,1,0,0.9,0,0,0,False
-Rodrigo Bentancur,Spurs,Manchester City,2024-05-14,True,MC,54,0,0.0998191460967063,0,0.0,0,1,0,2.3,0,0,1,True
-Rodrigo Bentancur,Spurs,Sheffield,2024-05-19,False,DMC,75,0,0.0354079529643058,0,0.0,3,1,0,1.8,0,1,0,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Rodrigo Bentancur,Spurs,Crystal Palace,2023-10-27,False,Sub,1,0,0.02,0,0.0,1,1,0,0.3,0,0,1,False,0.0,0.0,1.0,5,2,2.43,0.65,0.05,1
+Rodrigo Bentancur,Spurs,Chelsea,2023-11-06,True,Sub,29,0,0.55,0,0.0,1,1,0,1.1,0,0,3,False,1.0,0.02,15.0,5,2,2.43,0.65,0.05,0
+Rodrigo Bentancur,Spurs,Wolverhampton,2023-11-11,False,Sub,27,0,0.0,0,0.09,0,0,1,2.1,0,0,2,False,1.0,0.29,19.0,5,2,2.43,0.65,0.05,1
+Rodrigo Bentancur,Spurs,Aston Villa,2023-11-26,True,DMC,31,0,0.0,0,0.0,1,0,0,1.0,0,0,0,True,0.67,0.19,22.0,5,2,2.43,0.65,0.05,1
+Rodrigo Bentancur,Spurs,Bournemouth,2023-12-31,True,MC,57,0,0.08,0,0.0,1,1,0,1.5,0,0,0,True,0.75,0.14,29.0,5,2,2.43,0.65,0.05,6
+Rodrigo Bentancur,Spurs,Manchester United,2024-01-14,False,MC,90,1,0.29,0,0.0,6,3,0,9.8,0,0,2,True,0.8,0.13,39.17,5,2,2.43,0.65,0.05,1
+Rodrigo Bentancur,Spurs,Brentford,2024-01-31,True,DMC,45,0,0.0,0,0.03,1,0,1,2.6,0,0,1,True,1.8,0.18,40.0,5,2,2.43,0.65,0.05,2
+Rodrigo Bentancur,Spurs,Everton,2024-02-03,False,DMC,63,0,0.0,0,0.0,2,0,0,0.6,0,0,1,True,1.8,0.07,42.88,5,2,2.43,0.65,0.05,2
+Rodrigo Bentancur,Spurs,Brighton,2024-02-10,True,DMC,61,0,0.02,0,0.0,2,1,0,1.9,0,0,1,True,2.2,0.07,44.89,5,2,2.43,0.65,0.05,1
+Rodrigo Bentancur,Spurs,Wolverhampton,2024-02-17,True,Sub,19,0,0.0,0,0.14,1,0,2,2.9,0,0,0,False,2.4,0.08,42.3,5,2,2.43,0.65,0.05,1
+Rodrigo Bentancur,Spurs,Crystal Palace,2024-03-02,True,DMC,62,0,0.02,0,0.0,1,1,0,1.4,0,0,1,True,2.4,0.06,44.09,5,2,2.43,0.65,0.05,1
+Rodrigo Bentancur,Spurs,Aston Villa,2024-03-10,False,Sub,20,0,0.0,0,0.05,1,0,1,1.7,0,0,0,False,1.4,0.01,42.08,5,2,2.43,0.65,0.05,0
+Rodrigo Bentancur,Spurs,Fulham,2024-03-16,False,Sub,24,0,0.02,0,0.05,0,1,1,3.5,0,0,0,False,1.4,0.01,40.69,5,2,2.43,0.65,0.05,1
+Rodrigo Bentancur,Spurs,Luton,2024-03-30,True,Sub,22,0,0.04,0,0.0,1,1,0,2.0,0,0,0,False,1.0,0.01,39.36,5,2,2.43,0.65,0.05,1
+Rodrigo Bentancur,Spurs,West Ham,2024-04-02,False,DMC,69,0,0.05,0,0.06,1,1,1,3.9,0,0,1,True,0.8,0.02,41.33,5,2,2.43,0.65,0.05,3
+Rodrigo Bentancur,Spurs,Nottingham Forest,2024-04-07,True,Sub,45,0,0.0,1,0.09,3,0,1,3.7,0,0,0,False,0.8,0.03,41.56,5,2,2.43,0.65,0.05,1
+Rodrigo Bentancur,Spurs,Newcastle United,2024-04-13,False,DMC,56,0,0.06,0,0.0,1,1,0,1.7,0,0,3,True,1.2,0.22,42.41,5,2,2.43,0.65,0.05,1
+Rodrigo Bentancur,Spurs,Arsenal,2024-04-28,True,DMC,45,0,0.0,0,0.0,1,0,0,1.6,0,0,3,True,1.2,0.24,42.56,5,2,2.43,0.65,0.05,1
+Rodrigo Bentancur,Spurs,Chelsea,2024-05-02,False,Sub,27,0,0.22,0,0.0,1,3,0,2.5,0,0,1,False,1.4,0.23,41.74,5,2,2.43,0.65,0.05,2
+Rodrigo Bentancur,Spurs,Liverpool,2024-05-05,False,MC,60,0,0.0,0,0.0,2,0,0,1.3,0,0,4,True,1.4,0.27,42.65,5,2,2.43,0.65,0.05,1
+Rodrigo Bentancur,Spurs,Burnley,2024-05-11,True,Sub,15,0,0.11,0,0.0,1,1,0,0.9,0,0,0,False,1.6,0.26,41.33,5,2,2.43,0.65,0.05,0
+Rodrigo Bentancur,Spurs,Manchester City,2024-05-14,True,MC,54,0,0.1,0,0.0,0,1,0,2.3,0,0,1,True,1.2,0.08,41.91,5,2,2.43,0.65,0.05,3
+Rodrigo Bentancur,Spurs,Sheffield,2024-05-19,False,DMC,75,0,0.04,0,0.0,3,1,0,1.8,0,1,0,True,1.0,0.09,43.35,5,2,2.43,0.65,0.05,

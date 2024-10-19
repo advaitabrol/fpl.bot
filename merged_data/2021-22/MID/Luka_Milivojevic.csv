@@ -1,16 +1,16 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Luka Milivojevic,Crystal Palace,Burnley,2021-11-20,False,DMC,86,0,0.100531205534935,0,0.0870800092816352,2,2,1,5.2,0,0,3
-Luka Milivojevic,Crystal Palace,Aston Villa,2021-11-27,True,DMC,59,0,0.0,0,0.0,0,0,0,0.3,0,0,1
-Luka Milivojevic,Crystal Palace,Norwich,2021-12-28,True,Sub,17,0,0.0,0,0.1402605324983596,1,0,2,3.3,0,0,0
-Luka Milivojevic,Crystal Palace,West Ham,2022-01-01,True,MC,59,0,0.0687879547476768,0,0.0663527473807334,1,2,2,3.5,0,0,3
-Luka Milivojevic,Crystal Palace,Brighton,2022-01-14,False,Sub,24,0,0.0,0,0.0,1,0,0,0.8,0,0,1
-Luka Milivojevic,Crystal Palace,Burnley,2022-02-26,True,MC,59,0,0.0421550944447517,0,0.0,-1,1,0,1.4,0,0,1
-Luka Milivojevic,Crystal Palace,Wolverhampton,2022-03-05,False,Sub,21,0,0.0,0,0.0,1,0,0,1.1,0,0,0
-Luka Milivojevic,Crystal Palace,Arsenal,2022-04-04,True,Sub,10,0,0.0,0,0.0,1,0,0,0.5,0,0,0
-Luka Milivojevic,Crystal Palace,Aston Villa,2022-05-15,False,MC,77,0,0.0,0,0.1036457642912864,2,0,3,6.0,0,0,1
-Luka Milivojevic,Crystal Palace,Everton,2022-05-19,False,Sub,33,0,0.0,0,0.0,1,0,0,0.5,0,0,2
-Luka Milivojevic,Crystal Palace,Tottenham,2021-09-11,True,Sub,23,0,0.0,0,0.0,1,0,0,0.3,0,0,0
-Luka Milivojevic,Crystal Palace,Brighton,2021-09-27,True,MC,71,0,0.0627988129854202,0,0.0,3,2,0,2.1,0,1,0
-Luka Milivojevic,Crystal Palace,Leeds United,2021-10-03,True,MC,90,0,0.0,0,0.2445514500141143,2,0,2,3.5,0,0,2
-Luka Milivojevic,Crystal Palace,Arsenal,2021-10-18,False,DMC,66,0,0.0,0,0.0,2,0,0,1.6,0,0,1
-Luka Milivojevic,Crystal Palace,Newcastle United,2021-10-23,True,DMC,72,0,0.0150972492992877,0,0.0,2,1,0,2.2,0,0,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
+Luka Milivojevic,Crystal Palace,Burnley,2021-11-20,False,DMC,86,0,0.1,0,0.09,2,2,1,5.2,0,0,3,0.0,0.0,86.0
+Luka Milivojevic,Crystal Palace,Aston Villa,2021-11-27,True,DMC,59,0,0.0,0,0.0,0,0,0,0.3,0,0,1,2.0,0.1,72.5
+Luka Milivojevic,Crystal Palace,Norwich,2021-12-28,True,Sub,17,0,0.0,0,0.14,1,0,2,3.3,0,0,0,1.0,0.05,54.0
+Luka Milivojevic,Crystal Palace,West Ham,2022-01-01,True,MC,59,0,0.07,0,0.07,1,2,2,3.5,0,0,3,1.0,0.03,55.25
+Luka Milivojevic,Crystal Palace,Brighton,2022-01-14,False,Sub,24,0,0.0,0,0.0,1,0,0,0.8,0,0,1,1.0,0.04,49.0
+Luka Milivojevic,Crystal Palace,Burnley,2022-02-26,True,MC,59,0,0.04,0,0.0,-1,1,0,1.4,0,0,1,1.0,0.03,50.67
+Luka Milivojevic,Crystal Palace,Wolverhampton,2022-03-05,False,Sub,21,0,0.0,0,0.0,1,0,0,1.1,0,0,0,0.4,0.02,46.43
+Luka Milivojevic,Crystal Palace,Arsenal,2022-04-04,True,Sub,10,0,0.0,0,0.0,1,0,0,0.5,0,0,0,0.6,0.02,41.88
+Luka Milivojevic,Crystal Palace,Aston Villa,2022-05-15,False,MC,77,0,0.0,0,0.1,2,0,3,6.0,0,0,1,0.6,0.02,45.78
+Luka Milivojevic,Crystal Palace,Everton,2022-05-19,False,Sub,33,0,0.0,0,0.0,1,0,0,0.5,0,0,2,0.8,0.01,44.5
+Luka Milivojevic,Crystal Palace,Tottenham,2021-09-11,True,Sub,23,0,0.0,0,0.0,1,0,0,0.3,0,0,0,0.8,0.01,42.55
+Luka Milivojevic,Crystal Palace,Brighton,2021-09-27,True,MC,71,0,0.06,0,0.0,3,2,0,2.1,0,1,0,1.2,0.0,44.92
+Luka Milivojevic,Crystal Palace,Leeds United,2021-10-03,True,MC,90,0,0.0,0,0.24,2,0,2,3.5,0,0,2,1.6,0.01,48.38
+Luka Milivojevic,Crystal Palace,Arsenal,2021-10-18,False,DMC,66,0,0.0,0,0.0,2,0,0,1.6,0,0,1,1.8,0.01,49.64
+Luka Milivojevic,Crystal Palace,Newcastle United,2021-10-23,True,DMC,72,0,0.02,0,0.0,2,1,0,2.2,0,0,1,1.8,0.01,51.13

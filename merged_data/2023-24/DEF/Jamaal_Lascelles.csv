@@ -1,17 +1,17 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts
-Jamaal Lascelles,Newcastle,Wolverhampton,2023-10-28,False,DC,90,0,0.0,0,0.0,0,0,0,1.9,0,0,2,0.98,True
-Jamaal Lascelles,Newcastle,Arsenal,2023-11-04,True,DC,90,0,0.0638614371418953,0,0.0,9,1,0,3.2,3,1,0,0.56,True
-Jamaal Lascelles,Newcastle,Bournemouth,2023-11-11,False,DC,90,0,0.0,0,0.0,0,0,0,2.4,0,0,2,2.49,True
-Jamaal Lascelles,Newcastle,Chelsea,2023-11-25,True,DC,85,1,0.4155204594135284,0,0.0238684564828872,7,2,1,7.4,0,0,1,0.58,True
-Jamaal Lascelles,Newcastle,Manchester United,2023-12-02,True,DC,90,0,0.5403317809104919,0,0.0,6,1,0,2.1,0,1,0,0.36,True
-Jamaal Lascelles,Newcastle,Everton,2023-12-07,False,DC,89,0,0.0,0,0.0,1,0,0,2.6,0,0,2,2.91,True
-Jamaal Lascelles,Newcastle,Tottenham,2023-12-10,False,DC,90,0,0.0,0,0.0,-1,0,0,2.1,0,0,4,3.88,True
-Jamaal Lascelles,Newcastle,Fulham,2023-12-16,True,DC,90,0,0.0,0,0.0,6,0,0,1.9,0,1,0,0.29,True
-Jamaal Lascelles,Newcastle,Luton,2023-12-23,False,DC,36,0,0.0,0,0.0,1,0,0,1.0,0,0,1,1.33,True
-Jamaal Lascelles,Newcastle,Liverpool,2024-01-01,False,Sub,8,0,0.0,0,0.0,1,0,0,0.8,0,0,1,1.23,False
-Jamaal Lascelles,Newcastle,Arsenal,2024-02-24,False,Sub,17,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.29,False
-Jamaal Lascelles,Newcastle,West Ham,2024-03-30,True,DC,16,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.0,True
-Jamaal Lascelles,Newcastle,Brighton,2023-09-02,False,Sub,16,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.1,False
-Jamaal Lascelles,Newcastle,Burnley,2023-09-30,True,DC,90,0,0.0562143102288246,0,0.0125381089746952,6,2,1,3.0,0,1,0,0.65,True
-Jamaal Lascelles,Newcastle,West Ham,2023-10-08,False,DC,90,0,0.0,0,0.0,1,0,0,1.8,0,0,2,1.22,True
-Jamaal Lascelles,Newcastle,Crystal Palace,2023-10-21,True,DC,90,0,0.0,0,0.0,6,0,0,3.2,0,1,0,1.21,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
+Jamaal Lascelles,Newcastle,Wolverhampton,2023-10-28,False,DC,90,0,0.0,0,0.0,0,0,0,1.9,0,0,2,0.98,True,0.0,0.0,90.0,0.0,0.12,0.0,2.08,0.0,9
+Jamaal Lascelles,Newcastle,Arsenal,2023-11-04,True,DC,90,0,0.06,0,0.0,9,1,0,3.2,3,1,0,0.56,True,0.0,0.0,90.0,0.5,0.12,0.0,2.08,0.0,0
+Jamaal Lascelles,Newcastle,Bournemouth,2023-11-11,False,DC,90,0,0.0,0,0.0,0,0,0,2.4,0,0,2,2.49,True,4.5,0.03,90.0,0.33,0.12,0.0,2.08,0.0,7
+Jamaal Lascelles,Newcastle,Chelsea,2023-11-25,True,DC,85,1,0.42,0,0.02,7,2,1,7.4,0,0,1,0.58,True,3.0,0.02,88.75,0.25,0.12,0.0,2.08,0.0,6
+Jamaal Lascelles,Newcastle,Manchester United,2023-12-02,True,DC,90,0,0.54,0,0.0,6,1,0,2.1,0,1,0,0.36,True,4.0,0.12,89.0,0.4,0.12,0.0,2.08,0.0,1
+Jamaal Lascelles,Newcastle,Everton,2023-12-07,False,DC,89,0,0.0,0,0.0,1,0,0,2.6,0,0,2,2.91,True,4.4,0.2,89.0,0.33,0.12,0.0,2.08,0.0,-1
+Jamaal Lascelles,Newcastle,Tottenham,2023-12-10,False,DC,90,0,0.0,0,0.0,-1,0,0,2.1,0,0,4,3.88,True,4.6,0.2,89.14,0.29,0.12,0.0,2.08,0.0,6
+Jamaal Lascelles,Newcastle,Fulham,2023-12-16,True,DC,90,0,0.0,0,0.0,6,0,0,1.9,0,1,0,0.29,True,2.6,0.19,89.25,0.38,0.12,0.0,2.08,0.0,1
+Jamaal Lascelles,Newcastle,Luton,2023-12-23,False,DC,36,0,0.0,0,0.0,1,0,0,1.0,0,0,1,1.33,True,3.8,0.19,83.33,0.38,0.12,0.0,2.08,0.0,1
+Jamaal Lascelles,Newcastle,Liverpool,2024-01-01,False,Sub,8,0,0.0,0,0.0,1,0,0,0.8,0,0,1,1.23,False,2.6,0.11,75.8,0.38,0.12,0.0,2.08,0.0,1
+Jamaal Lascelles,Newcastle,Arsenal,2024-02-24,False,Sub,17,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.29,False,1.6,0.0,70.45,0.38,0.12,0.0,2.08,0.0,1
+Jamaal Lascelles,Newcastle,West Ham,2024-03-30,True,DC,16,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.0,True,1.6,0.0,65.92,0.38,0.12,0.0,2.08,0.0,1
+Jamaal Lascelles,Newcastle,Brighton,2023-09-02,False,Sub,16,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.1,False,2.0,0.0,62.08,0.38,0.12,0.0,2.08,0.0,6
+Jamaal Lascelles,Newcastle,Burnley,2023-09-30,True,DC,90,0,0.06,0,0.01,6,2,1,3.0,0,1,0,0.65,True,1.0,0.0,64.07,0.44,0.12,0.0,2.08,0.0,1
+Jamaal Lascelles,Newcastle,West Ham,2023-10-08,False,DC,90,0,0.0,0,0.0,1,0,0,1.8,0,0,2,1.22,True,2.0,0.01,65.8,0.4,0.12,0.0,2.08,0.0,6
+Jamaal Lascelles,Newcastle,Crystal Palace,2023-10-21,True,DC,90,0,0.0,0,0.0,6,0,0,3.2,0,1,0,1.21,True,2.0,0.01,67.31,0.45,0.12,0.0,2.08,0.0,

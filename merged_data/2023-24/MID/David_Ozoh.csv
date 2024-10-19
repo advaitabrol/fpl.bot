@@ -1,10 +1,10 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-David Ozoh,Crystal Palace,Liverpool,2023-12-09,True,Sub,1,0,0,0,0,1,0,0,0.0,0,0,0,False
-David Ozoh,Crystal Palace,Manchester City,2023-12-16,False,Sub,56,0,0,0,0,1,0,0,1.0,0,0,1,False
-David Ozoh,Crystal Palace,Brighton,2023-12-21,True,Sub,31,0,0,0,0,0,0,0,0.5,0,0,1,False
-David Ozoh,Crystal Palace,Arsenal,2024-01-20,False,Sub,22,0,0,0,0,1,0,0,0.1,0,0,2,False
-David Ozoh,Crystal Palace,Sheffield,2024-01-30,True,Sub,12,0,0,0,0,1,0,0,0.8,0,0,0,False
-David Ozoh,Crystal Palace,Everton,2024-02-19,False,Sub,2,0,0,0,0,1,0,0,0.0,0,0,0,False
-David Ozoh,Crystal Palace,Burnley,2024-02-24,True,Sub,1,0,0,0,0,1,0,0,0.0,0,0,0,False
-David Ozoh,Crystal Palace,Bournemouth,2024-04-02,False,Sub,20,0,0,0,0,1,0,0,0.3,0,0,1,False
-David Ozoh,Crystal Palace,Newcastle United,2023-10-21,False,Sub,3,0,0,0,0,1,0,0,0.2,0,0,0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+David Ozoh,Crystal Palace,Liverpool,2023-12-09,True,Sub,1,0,0,0,0,1,0,0,0.0,0,0,0,False,0.0,0.0,1.0,0,0,0,0,1.0,1
+David Ozoh,Crystal Palace,Manchester City,2023-12-16,False,Sub,56,0,0,0,0,1,0,0,1.0,0,0,1,False,1.0,0.0,28.5,0,0,0,0,1.0,0
+David Ozoh,Crystal Palace,Brighton,2023-12-21,True,Sub,31,0,0,0,0,0,0,0,0.5,0,0,1,False,1.0,0.0,29.33,0,0,0,0,1.0,1
+David Ozoh,Crystal Palace,Arsenal,2024-01-20,False,Sub,22,0,0,0,0,1,0,0,0.1,0,0,2,False,0.67,0.0,27.5,0,0,0,0,1.0,1
+David Ozoh,Crystal Palace,Sheffield,2024-01-30,True,Sub,12,0,0,0,0,1,0,0,0.8,0,0,0,False,0.75,0.0,24.4,0,0,0,0,1.0,1
+David Ozoh,Crystal Palace,Everton,2024-02-19,False,Sub,2,0,0,0,0,1,0,0,0.0,0,0,0,False,0.8,0.0,20.67,0,0,0,0,1.0,1
+David Ozoh,Crystal Palace,Burnley,2024-02-24,True,Sub,1,0,0,0,0,1,0,0,0.0,0,0,0,False,0.8,0.0,17.86,0,0,0,0,1.0,1
+David Ozoh,Crystal Palace,Bournemouth,2024-04-02,False,Sub,20,0,0,0,0,1,0,0,0.3,0,0,1,False,0.8,0.0,18.12,0,0,0,0,1.0,1
+David Ozoh,Crystal Palace,Newcastle United,2023-10-21,False,Sub,3,0,0,0,0,1,0,0,0.2,0,0,0,False,1.0,0.0,16.44,0,0,0,0,1.0,

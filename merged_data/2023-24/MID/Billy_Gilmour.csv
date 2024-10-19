@@ -1,31 +1,31 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Billy Gilmour,Brighton,Luton,2023-08-12,True,Sub,16,0,0.0272757951170206,0,0.0,1,1,0,1.8,0,0,1,False
-Billy Gilmour,Brighton,Fulham,2023-10-29,True,Sub,19,0,0.072511538863182,0,0.0,1,1,0,1.1,0,0,0,False
-Billy Gilmour,Brighton,Everton,2023-11-04,False,MC,67,0,0.0,0,0.0,1,0,0,1.5,0,0,1,True
-Billy Gilmour,Brighton,Sheffield,2023-11-12,True,DMC,70,0,0.0117265991866588,0,0.0,3,1,0,1.7,0,1,0,True
-Billy Gilmour,Brighton,Nottingham Forest,2023-11-25,False,DMC,76,0,0.1352131217718124,0,0.0,2,3,0,3.2,0,0,2,True
-Billy Gilmour,Brighton,Chelsea,2023-12-03,False,DMC,90,0,0.0113567821681499,0,0.0159252043813467,2,1,1,3.6,0,0,3,True
-Billy Gilmour,Brighton,Brentford,2023-12-06,True,DMC,90,0,0.0244992710649967,0,0.2357317507266998,1,1,3,7.3,0,0,1,True
-Billy Gilmour,Brighton,Burnley,2023-12-09,True,Sub,45,0,0.0377113223075866,0,0.0555960685014724,1,2,1,2.7,0,0,0,False
-Billy Gilmour,Brighton,Arsenal,2023-12-17,False,DMC,90,0,0.0,0,0.0,1,0,0,1.7,0,0,2,True
-Billy Gilmour,Brighton,Crystal Palace,2023-12-21,False,DMC,90,0,0.0366767346858978,0,0.0,2,1,0,4.1,0,0,1,True
-Billy Gilmour,Brighton,Tottenham,2023-12-28,True,DMC,90,0,0.0,0,0.2519705295562744,2,0,1,3.1,0,0,2,True
-Billy Gilmour,Brighton,Wolverhampton,2023-08-19,False,DMC,90,0,0.0,0,0.0,2,0,0,1.9,0,0,1,True
-Billy Gilmour,Brighton,West Ham,2024-01-02,False,MC,90,0,0.0429920405149459,0,0.0130911720916628,3,1,1,3.8,0,1,0,True
-Billy Gilmour,Brighton,Wolverhampton,2024-01-22,True,MC,90,0,0.0194847341626882,0,0.0,3,1,0,3.1,0,1,0,True
-Billy Gilmour,Brighton,Luton,2024-01-30,False,MC,60,0,0.0243843849748373,0,0.0,2,1,0,1.0,0,0,4,True
-Billy Gilmour,Brighton,Crystal Palace,2024-02-03,True,MC,90,0,0.0151248816400766,0,0.0,2,1,0,2.1,0,0,1,True
-Billy Gilmour,Brighton,Tottenham,2024-02-10,False,MC,90,0,0.0,0,0.0,2,0,0,1.7,0,0,1,True
-Billy Gilmour,Brighton,Sheffield,2024-02-18,False,DMC,90,0,0.0417716056108474,0,0.0715438351035118,2,2,1,4.2,0,1,0,True
-Billy Gilmour,Brighton,Everton,2024-02-24,True,DMC,80,0,0.0289065483957529,0,0.0798316895961761,-1,1,1,2.6,0,0,1,True
-Billy Gilmour,Brighton,West Ham,2023-08-26,True,DMC,59,0,0.0961460322141647,0,0.1034312546253204,1,2,2,5.1,0,0,2,True
-Billy Gilmour,Brighton,Bournemouth,2024-04-28,False,DMC,90,0,0.0472390055656433,0,0.0553981587290763,1,1,2,5.7,0,0,3,True
-Billy Gilmour,Brighton,Aston Villa,2024-05-05,True,DMC,87,0,0.0,0,0.0,3,0,0,1.2,0,1,0,True
-Billy Gilmour,Brighton,Newcastle United,2024-05-11,False,DMC,86,0,0.0257577337324619,0,0.0,1,1,0,2.1,0,0,1,True
-Billy Gilmour,Brighton,Chelsea,2024-05-15,True,DMC,69,0,0.0,0,0.0,2,0,0,1.3,0,0,2,True
-Billy Gilmour,Brighton,Manchester United,2024-05-19,True,Sub,9,0,0.0,0,0.0,0,0,0,0.2,0,0,1,False
-Billy Gilmour,Brighton,Newcastle United,2023-09-02,True,DMC,76,0,0.0142261376604437,1,0.1490985304117202,11,1,2,6.1,2,1,0,True
-Billy Gilmour,Brighton,Manchester United,2023-09-16,False,Sub,13,0,0.0,0,0.5051724910736084,1,0,1,1.6,0,0,0,False
-Billy Gilmour,Brighton,Bournemouth,2023-09-24,True,DMC,90,0,0.0068628531880676,0,0.1881921738386154,6,1,4,7.3,2,0,1,True
-Billy Gilmour,Brighton,Aston Villa,2023-09-30,False,DMC,90,0,0.0088171111419796,0,0.3653551340103149,2,1,2,4.5,0,0,6,True
-Billy Gilmour,Brighton,Manchester City,2023-10-21,False,Sub,24,0,0.0,0,0.0,1,0,0,0.4,0,0,0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Billy Gilmour,Brighton,Luton,2023-08-12,True,Sub,16,0,0.03,0,0.0,1,1,0,1.8,0,0,1,False,0.0,0.0,16.0,0,1,0.36,0.36,0.04,1
+Billy Gilmour,Brighton,Fulham,2023-10-29,True,Sub,19,0,0.07,0,0.0,1,1,0,1.1,0,0,0,False,1.0,0.03,17.5,0,1,0.36,0.36,0.04,1
+Billy Gilmour,Brighton,Everton,2023-11-04,False,MC,67,0,0.0,0,0.0,1,0,0,1.5,0,0,1,True,1.0,0.05,34.0,0,1,0.36,0.36,0.04,3
+Billy Gilmour,Brighton,Sheffield,2023-11-12,True,DMC,70,0,0.01,0,0.0,3,1,0,1.7,0,1,0,True,1.0,0.03,43.0,0,1,0.36,0.36,0.04,2
+Billy Gilmour,Brighton,Nottingham Forest,2023-11-25,False,DMC,76,0,0.14,0,0.0,2,3,0,3.2,0,0,2,True,1.5,0.03,49.6,0,1,0.36,0.36,0.04,2
+Billy Gilmour,Brighton,Chelsea,2023-12-03,False,DMC,90,0,0.01,0,0.02,2,1,1,3.6,0,0,3,True,1.6,0.05,56.33,0,1,0.36,0.36,0.04,1
+Billy Gilmour,Brighton,Brentford,2023-12-06,True,DMC,90,0,0.02,0,0.24,1,1,3,7.3,0,0,1,True,1.8,0.05,61.14,0,1,0.36,0.36,0.04,1
+Billy Gilmour,Brighton,Burnley,2023-12-09,True,Sub,45,0,0.04,0,0.06,1,2,1,2.7,0,0,0,False,1.8,0.04,59.12,0,1,0.36,0.36,0.04,1
+Billy Gilmour,Brighton,Arsenal,2023-12-17,False,DMC,90,0,0.0,0,0.0,1,0,0,1.7,0,0,2,True,1.8,0.04,62.56,0,1,0.36,0.36,0.04,2
+Billy Gilmour,Brighton,Crystal Palace,2023-12-21,False,DMC,90,0,0.04,0,0.0,2,1,0,4.1,0,0,1,True,1.4,0.04,65.3,0,1,0.36,0.36,0.04,2
+Billy Gilmour,Brighton,Tottenham,2023-12-28,True,DMC,90,0,0.0,0,0.25,2,0,1,3.1,0,0,2,True,1.4,0.02,67.55,0,1,0.36,0.36,0.04,2
+Billy Gilmour,Brighton,Wolverhampton,2023-08-19,False,DMC,90,0,0.0,0,0.0,2,0,0,1.9,0,0,1,True,1.4,0.02,69.42,0,1,0.36,0.36,0.04,3
+Billy Gilmour,Brighton,West Ham,2024-01-02,False,MC,90,0,0.04,0,0.01,3,1,1,3.8,0,1,0,True,1.6,0.01,71.0,0,1,0.36,0.36,0.04,3
+Billy Gilmour,Brighton,Wolverhampton,2024-01-22,True,MC,90,0,0.02,0,0.0,3,1,0,3.1,0,1,0,True,2.0,0.02,72.36,0,1,0.36,0.36,0.04,2
+Billy Gilmour,Brighton,Luton,2024-01-30,False,MC,60,0,0.02,0,0.0,2,1,0,1.0,0,0,4,True,2.4,0.02,71.53,0,1,0.36,0.36,0.04,2
+Billy Gilmour,Brighton,Crystal Palace,2024-02-03,True,MC,90,0,0.02,0,0.0,2,1,0,2.1,0,0,1,True,2.4,0.02,72.69,0,1,0.36,0.36,0.04,2
+Billy Gilmour,Brighton,Tottenham,2024-02-10,False,MC,90,0,0.0,0,0.0,2,0,0,1.7,0,0,1,True,2.4,0.02,73.71,0,1,0.36,0.36,0.04,2
+Billy Gilmour,Brighton,Sheffield,2024-02-18,False,DMC,90,0,0.04,0,0.07,2,2,1,4.2,0,1,0,True,2.4,0.02,74.61,0,1,0.36,0.36,0.04,-1
+Billy Gilmour,Brighton,Everton,2024-02-24,True,DMC,80,0,0.03,0,0.08,-1,1,1,2.6,0,0,1,True,2.2,0.02,74.89,0,1,0.36,0.36,0.04,1
+Billy Gilmour,Brighton,West Ham,2023-08-26,True,DMC,59,0,0.1,0,0.1,1,2,2,5.1,0,0,2,True,1.4,0.02,74.1,0,1,0.36,0.36,0.04,1
+Billy Gilmour,Brighton,Bournemouth,2024-04-28,False,DMC,90,0,0.05,0,0.06,1,1,2,5.7,0,0,3,True,1.2,0.04,74.86,0,1,0.36,0.36,0.04,3
+Billy Gilmour,Brighton,Aston Villa,2024-05-05,True,DMC,87,0,0.0,0,0.0,3,0,0,1.2,0,1,0,True,1.0,0.04,75.41,0,1,0.36,0.36,0.04,1
+Billy Gilmour,Brighton,Newcastle United,2024-05-11,False,DMC,86,0,0.03,0,0.0,1,1,0,2.1,0,0,1,True,1.2,0.04,75.87,0,1,0.36,0.36,0.04,2
+Billy Gilmour,Brighton,Chelsea,2024-05-15,True,DMC,69,0,0.0,0,0.0,2,0,0,1.3,0,0,2,True,1.0,0.04,75.58,0,1,0.36,0.36,0.04,0
+Billy Gilmour,Brighton,Manchester United,2024-05-19,True,Sub,9,0,0.0,0,0.0,0,0,0,0.2,0,0,1,False,1.6,0.03,72.92,0,1,0.36,0.36,0.04,11
+Billy Gilmour,Brighton,Newcastle United,2023-09-02,True,DMC,76,0,0.01,1,0.15,11,1,2,6.1,2,1,0,True,1.4,0.01,73.04,0,1,0.36,0.36,0.04,1
+Billy Gilmour,Brighton,Manchester United,2023-09-16,False,Sub,13,0,0.0,0,0.51,1,0,1,1.6,0,0,0,False,3.4,0.21,70.81,0,1,0.36,0.36,0.04,6
+Billy Gilmour,Brighton,Bournemouth,2023-09-24,True,DMC,90,0,0.01,0,0.19,6,1,4,7.3,2,0,1,True,3.0,0.21,71.5,0,1,0.36,0.36,0.04,2
+Billy Gilmour,Brighton,Aston Villa,2023-09-30,False,DMC,90,0,0.01,0,0.37,2,1,2,4.5,0,0,6,True,4.0,0.2,72.14,0,1,0.36,0.36,0.04,1
+Billy Gilmour,Brighton,Manchester City,2023-10-21,False,Sub,24,0,0.0,0,0.0,1,0,0,0.4,0,0,0,False,4.0,0.21,70.53,0,1,0.36,0.36,0.04,

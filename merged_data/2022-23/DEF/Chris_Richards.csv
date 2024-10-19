@@ -1,10 +1,10 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts
-Chris Richards,Crystal Palace,Fulham,2022-12-26,True,Sub,30,0,0.0,0,0.0,0,0,0,0.7,0,0,2,1.8058,False
-Chris Richards,Crystal Palace,Liverpool,2022-08-15,False,Sub,11,0,0.0631960034370422,0,0.4522219896316528,1,1,1,2.9,0,0,0,0.0,False
-Chris Richards,Crystal Palace,Manchester United,2023-01-18,True,DC,90,0,0.0132595002651214,0,0.0,2,1,0,2.4,0,0,1,2.1046,True
-Chris Richards,Crystal Palace,Newcastle United,2023-01-21,True,DC,90,0,0.0902915969491005,0,0.0,6,1,0,2.2,0,1,0,1.4079,True
-Chris Richards,Crystal Palace,Manchester United,2023-02-04,False,DC,90,0,0.5255380272865295,0,0.0,1,1,0,2.2,0,0,2,2.04,True
-Chris Richards,Crystal Palace,Brentford,2023-02-18,False,Sub,8,0,0.0,0,0.0,1,0,0,0.4,0,0,1,0.38,False
-Chris Richards,Crystal Palace,Aston Villa,2022-08-20,True,Sub,1,0,0.0,0,0.0,1,0,0,0.1,0,0,0,0.0,False
-Chris Richards,Crystal Palace,Wolverhampton,2023-04-25,False,DR,90,0,0.0,0,0.0,1,0,0,1.9,0,0,2,1.36,True
-Chris Richards,Crystal Palace,Manchester City,2022-08-27,False,Sub,33,0,0.0,0,0.0,0,0,0,0.4,0,0,3,0.0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
+Chris Richards,Crystal Palace,Fulham,2022-12-26,True,Sub,30,0,0.0,0,0.0,0,0,0,0.7,0,0,2,1.81,False,0.0,0.0,30.0,0.0,0,0,0,0,1
+Chris Richards,Crystal Palace,Liverpool,2022-08-15,False,Sub,11,0,0.06,0,0.45,1,1,1,2.9,0,0,0,0.0,False,0.0,0.0,20.5,0.0,0,0,0,0,2
+Chris Richards,Crystal Palace,Manchester United,2023-01-18,True,DC,90,0,0.01,0,0.0,2,1,0,2.4,0,0,1,2.1,True,0.5,0.03,43.67,0.0,0,0,0,0,6
+Chris Richards,Crystal Palace,Newcastle United,2023-01-21,True,DC,90,0,0.09,0,0.0,6,1,0,2.2,0,1,0,1.41,True,1.0,0.03,55.25,0.5,0,0,0,0,1
+Chris Richards,Crystal Palace,Manchester United,2023-02-04,False,DC,90,0,0.53,0,0.0,1,1,0,2.2,0,0,2,2.04,True,2.25,0.04,62.2,0.33,0,0,0,0,1
+Chris Richards,Crystal Palace,Brentford,2023-02-18,False,Sub,8,0,0.0,0,0.0,1,0,0,0.4,0,0,1,0.38,False,2.0,0.14,53.17,0.33,0,0,0,0,1
+Chris Richards,Crystal Palace,Aston Villa,2022-08-20,True,Sub,1,0,0.0,0,0.0,1,0,0,0.1,0,0,0,0.0,False,2.2,0.14,45.71,0.33,0,0,0,0,1
+Chris Richards,Crystal Palace,Wolverhampton,2023-04-25,False,DR,90,0,0.0,0,0.0,1,0,0,1.9,0,0,2,1.36,True,2.2,0.13,51.25,0.25,0,0,0,0,0
+Chris Richards,Crystal Palace,Manchester City,2022-08-27,False,Sub,33,0,0.0,0,0.0,0,0,0,0.4,0,0,3,0.0,False,2.0,0.12,49.22,0.25,0,0,0,0,1

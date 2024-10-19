@@ -1,22 +1,22 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Jacob Murphy,Newcastle,Aston Villa,2023-08-12,True,Sub,4,0,0.0,1,0.5514945983886719,4,0,2,5.0,0,0,0,False
-Jacob Murphy,Newcastle,Arsenal,2023-11-04,True,Sub,16,0,0.063962273299694,0,0.0,1,2,0,0.6,0,0,0,False
-Jacob Murphy,Newcastle,Aston Villa,2024-01-30,False,FWR,90,0,0.6962822079658508,0,0.3206888735294342,5,2,1,4.8,0,0,1,True
-Jacob Murphy,Newcastle,Luton,2024-02-03,True,FWR,90,0,0.5492540001869202,0,0.1539630442857742,1,5,1,5.2,0,0,4,True
-Jacob Murphy,Newcastle,Bournemouth,2024-02-17,True,Sub,23,0,0.0581583008170127,0,0.0544271692633628,1,1,1,2.1,0,0,1,False
-Jacob Murphy,Newcastle,Arsenal,2024-02-24,False,Sub,26,0,0.0,0,0.0,1,0,0,0.7,0,0,2,False
-Jacob Murphy,Newcastle,Wolverhampton,2024-03-02,True,FWR,69,0,0.0571797639131546,0,0.0,3,2,0,1.8,0,1,0,True
-Jacob Murphy,Newcastle,Chelsea,2024-03-11,False,Sub,54,1,0.0616183169186115,0,0.1492557525634765,6,1,3,12.6,0,0,2,False
-Jacob Murphy,Newcastle,West Ham,2024-03-30,True,FWR,90,0,0.0530445277690887,0,0.5106987357139587,2,2,5,10.0,0,0,3,True
-Jacob Murphy,Newcastle,Everton,2024-04-02,True,FWR,90,0,0.4153831899166107,0,0.1021678298711776,2,3,1,6.2,0,0,1,True
-Jacob Murphy,Newcastle,Fulham,2024-04-06,False,FWR,64,0,0.0664888173341751,0,0.0,3,1,0,0.7,0,1,0,True
-Jacob Murphy,Newcastle,Tottenham,2024-04-13,True,DR,77,0,0.0,0,0.035770159214735,3,0,1,2.5,0,1,0,True
-Jacob Murphy,Newcastle,Crystal Palace,2024-04-24,False,DMR,64,0,0.0,0,0.0,2,0,0,0.3,0,0,1,True
-Jacob Murphy,Newcastle,Sheffield,2024-04-27,True,FWR,65,0,0.0256091132760047,1,0.4831195175647735,5,1,4,9.7,0,0,1,True
-Jacob Murphy,Newcastle,Burnley,2024-05-04,False,MR,68,0,0.1300962120294571,2,1.353281021118164,10,2,6,13.2,1,1,0,True
-Jacob Murphy,Newcastle,Brighton,2024-05-11,True,FWR,67,0,0.0274068769067525,0,0.0874242633581161,2,2,2,6.0,0,0,1,True
-Jacob Murphy,Newcastle,Manchester United,2024-05-15,False,FWR,61,0,0.0,1,0.5105834007263184,5,0,2,6.0,0,0,2,True
-Jacob Murphy,Newcastle,Brentford,2024-05-19,False,FWR,67,1,0.6196394562721252,0,0.0,7,4,0,8.7,0,0,1,True
-Jacob Murphy,Newcastle,Burnley,2023-09-30,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False
-Jacob Murphy,Newcastle,West Ham,2023-10-08,False,Sub,8,0,0.0,0,0.0,1,0,0,0.3,0,0,1,False
-Jacob Murphy,Newcastle,Crystal Palace,2023-10-21,True,FWR,90,1,0.0737449526786804,2,0.912914514541626,17,2,2,13.6,3,1,0,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Jacob Murphy,Newcastle,Aston Villa,2023-08-12,True,Sub,4,0,0.0,1,0.55,4,0,2,5.0,0,0,0,False,0.0,0.0,4.0,4,2,3.69,2.67,0.06,1
+Jacob Murphy,Newcastle,Arsenal,2023-11-04,True,Sub,16,0,0.06,0,0.0,1,2,0,0.6,0,0,0,False,4.0,1.0,10.0,4,2,3.69,2.67,0.06,5
+Jacob Murphy,Newcastle,Aston Villa,2024-01-30,False,FWR,90,0,0.7,0,0.32,5,2,1,4.8,0,0,1,True,2.5,0.53,36.67,4,2,3.69,2.67,0.06,1
+Jacob Murphy,Newcastle,Luton,2024-02-03,True,FWR,90,0,0.55,0,0.15,1,5,1,5.2,0,0,4,True,3.33,0.59,50.0,4,2,3.69,2.67,0.06,1
+Jacob Murphy,Newcastle,Bournemouth,2024-02-17,True,Sub,23,0,0.06,0,0.05,1,1,1,2.1,0,0,1,False,2.75,0.58,44.6,4,2,3.69,2.67,0.06,1
+Jacob Murphy,Newcastle,Arsenal,2024-02-24,False,Sub,26,0,0.0,0,0.0,1,0,0,0.7,0,0,2,False,2.4,0.47,41.5,4,2,3.69,2.67,0.06,3
+Jacob Murphy,Newcastle,Wolverhampton,2024-03-02,True,FWR,69,0,0.06,0,0.0,3,2,0,1.8,0,1,0,True,1.8,0.27,45.43,4,2,3.69,2.67,0.06,6
+Jacob Murphy,Newcastle,Chelsea,2024-03-11,False,Sub,54,1,0.06,0,0.15,6,1,3,12.6,0,0,2,False,2.2,0.27,46.5,4,2,3.69,2.67,0.06,2
+Jacob Murphy,Newcastle,West Ham,2024-03-30,True,FWR,90,0,0.05,0,0.51,2,2,5,10.0,0,0,3,True,2.4,0.15,51.33,4,2,3.69,2.67,0.06,2
+Jacob Murphy,Newcastle,Everton,2024-04-02,True,FWR,90,0,0.42,0,0.1,2,3,1,6.2,0,0,1,True,2.6,0.05,55.2,4,2,3.69,2.67,0.06,3
+Jacob Murphy,Newcastle,Fulham,2024-04-06,False,FWR,64,0,0.07,0,0.0,3,1,0,0.7,0,1,0,True,2.8,0.12,56.0,4,2,3.69,2.67,0.06,3
+Jacob Murphy,Newcastle,Tottenham,2024-04-13,True,DR,77,0,0.0,0,0.04,3,0,1,2.5,0,1,0,True,3.2,0.13,57.75,4,2,3.69,2.67,0.06,2
+Jacob Murphy,Newcastle,Crystal Palace,2024-04-24,False,DMR,64,0,0.0,0,0.0,2,0,0,0.3,0,0,1,True,3.2,0.12,58.23,4,2,3.69,2.67,0.06,5
+Jacob Murphy,Newcastle,Sheffield,2024-04-27,True,FWR,65,0,0.03,1,0.48,5,1,4,9.7,0,0,1,True,2.4,0.11,58.71,4,2,3.69,2.67,0.06,10
+Jacob Murphy,Newcastle,Burnley,2024-05-04,False,MR,68,0,0.13,2,1.35,10,2,6,13.2,1,1,0,True,3.0,0.3,59.33,4,2,3.69,2.67,0.06,2
+Jacob Murphy,Newcastle,Brighton,2024-05-11,True,FWR,67,0,0.03,0,0.09,2,2,2,6.0,0,0,1,True,4.6,0.64,59.81,4,2,3.69,2.67,0.06,5
+Jacob Murphy,Newcastle,Manchester United,2024-05-15,False,FWR,61,0,0.0,1,0.51,5,0,2,6.0,0,0,2,True,4.4,0.64,59.88,4,2,3.69,2.67,0.06,7
+Jacob Murphy,Newcastle,Brentford,2024-05-19,False,FWR,67,1,0.62,0,0.0,7,4,0,8.7,0,0,1,True,4.8,0.84,60.28,4,2,3.69,2.67,0.06,1
+Jacob Murphy,Newcastle,Burnley,2023-09-30,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,5.8,0.96,57.16,4,2,3.69,2.67,0.06,1
+Jacob Murphy,Newcastle,West Ham,2023-10-08,False,Sub,8,0,0.0,0,0.0,1,0,0,0.3,0,0,1,False,5.0,0.76,54.7,4,2,3.69,2.67,0.06,17
+Jacob Murphy,Newcastle,Crystal Palace,2023-10-21,True,FWR,90,1,0.07,2,0.91,17,2,2,13.6,3,1,0,True,3.2,0.33,56.38,4,2,3.69,2.67,0.06,

@@ -1,6 +1,6 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts
-Daniel Bentley,Wolves,Arsenal,2023-12-02,False,67,0,2.35,3,0,8,1,True,0,False
-Daniel Bentley,Wolves,Burnley,2023-12-05,True,90,0,0.83,3,0,7,0,True,0,True
-Daniel Bentley,Wolves,West Ham,2023-12-17,False,90,3,1.14,1,0,1,0,False,0,True
-Daniel Bentley,Wolves,Newcastle United,2024-03-02,False,45,1,0.77,1,0,1,0,False,0,False
-Daniel Bentley,Wolves,Crystal Palace,2024-05-11,True,90,3,2.7,0,0,1,0,False,0,True
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
+Daniel Bentley,Wolves,Arsenal,2023-12-02,False,67,0,2.35,3,0,8,1,True,0,False,0.0,1.0,0,4.66,0.0,7
+Daniel Bentley,Wolves,Burnley,2023-12-05,True,90,0,0.83,3,0,7,0,True,0,True,8.0,1.0,0,4.66,0.0,1
+Daniel Bentley,Wolves,West Ham,2023-12-17,False,90,3,1.14,1,0,1,0,False,0,True,7.5,0.67,0,4.66,0.0,1
+Daniel Bentley,Wolves,Newcastle United,2024-03-02,False,45,1,0.77,1,0,1,0,False,0,False,5.33,0.67,0,4.66,0.0,1
+Daniel Bentley,Wolves,Crystal Palace,2024-05-11,True,90,3,2.7,0,0,1,0,False,0,True,4.25,0.5,0,4.66,0.0,

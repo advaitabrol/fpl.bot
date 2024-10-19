@@ -1,17 +1,17 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Christian Kabasele,Watford,Aston Villa,2021-08-14,True,DC,90,0,0.416583389043808,0,0.0,1,1,0,2.4,0,0,2
-Christian Kabasele,Watford,Brighton,2021-08-21,False,DC,90,0,0.0,0,0.0,1,0,0,2.9,0,0,2
-Christian Kabasele,Watford,Norwich,2022-01-21,True,DC,90,0,0.0,0,0.0532903671264648,1,0,1,3.2,0,0,3
-Christian Kabasele,Watford,Aston Villa,2022-02-19,False,Sub,1,0,0.0,0,0.0,1,0,0,0.1,0,0,0
-Christian Kabasele,Watford,Manchester United,2022-02-26,False,Sub,27,0,0.0,0,0.0,1,0,0,0.5,0,0,0
-Christian Kabasele,Watford,Wolverhampton,2022-03-10,False,Sub,60,0,0.0652908384799957,0,0.0,2,2,0,1.3,0,0,1
-Christian Kabasele,Watford,Southampton,2022-03-13,False,DC,90,0,0.0,0,0.0,2,0,0,2.0,0,0,1
-Christian Kabasele,Watford,Liverpool,2022-04-02,False,DC,90,0,0.0,0,0.0,1,0,0,2.8,0,0,2
-Christian Kabasele,Watford,Leicester City,2022-04-09,True,DC,90,0,0.0,0,0.0,1,0,0,1.9,0,0,3
-Christian Kabasele,Watford,Brentford,2022-04-16,True,DC,90,0,0.0,0,0.0,1,0,0,2.7,0,0,2
-Christian Kabasele,Watford,Manchester City,2022-04-23,False,DC,90,0,0.0,0,0.0,0,0,0,1.6,0,0,5
-Christian Kabasele,Watford,Burnley,2022-04-30,True,DC,90,0,0.0,0,0.0,1,0,0,1.0,0,0,2
-Christian Kabasele,Watford,Everton,2022-05-11,True,DC,90,0,0.0793509557843208,0,0.0,6,1,0,2.2,0,1,0
-Christian Kabasele,Watford,Leeds United,2022-05-15,True,DC,90,0,0.7534819841384888,0,0.1234435811638832,0,3,1,3.9,0,0,5
-Christian Kabasele,Watford,Chelsea,2022-05-22,False,DC,90,0,0.0,0,0.0,1,0,0,0.0,0,0,2
-Christian Kabasele,Watford,Leicester City,2021-10-02,False,Sub,22,0,0.0,0,0.0,1,0,0,0.2,0,0,0
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
+Christian Kabasele,Watford,Aston Villa,2021-08-14,True,DC,90,0,0.42,0,0.0,1,1,0,2.4,0,0,2,0.0,0.0,90.0,0.0
+Christian Kabasele,Watford,Brighton,2021-08-21,False,DC,90,0,0.0,0,0.0,1,0,0,2.9,0,0,2,1.0,0.42,90.0,0.0
+Christian Kabasele,Watford,Norwich,2022-01-21,True,DC,90,0,0.0,0,0.05,1,0,1,3.2,0,0,3,1.0,0.21,90.0,0.0
+Christian Kabasele,Watford,Aston Villa,2022-02-19,False,Sub,1,0,0.0,0,0.0,1,0,0,0.1,0,0,0,1.0,0.14,67.75,0.0
+Christian Kabasele,Watford,Manchester United,2022-02-26,False,Sub,27,0,0.0,0,0.0,1,0,0,0.5,0,0,0,1.0,0.1,59.6,0.0
+Christian Kabasele,Watford,Wolverhampton,2022-03-10,False,Sub,60,0,0.07,0,0.0,2,2,0,1.3,0,0,1,1.0,0.08,59.67,0.0
+Christian Kabasele,Watford,Southampton,2022-03-13,False,DC,90,0,0.0,0,0.0,2,0,0,2.0,0,0,1,1.2,0.01,64.0,0.0
+Christian Kabasele,Watford,Liverpool,2022-04-02,False,DC,90,0,0.0,0,0.0,1,0,0,2.8,0,0,2,1.4,0.01,67.25,0.0
+Christian Kabasele,Watford,Leicester City,2022-04-09,True,DC,90,0,0.0,0,0.0,1,0,0,1.9,0,0,3,1.4,0.01,69.78,0.0
+Christian Kabasele,Watford,Brentford,2022-04-16,True,DC,90,0,0.0,0,0.0,1,0,0,2.7,0,0,2,1.4,0.01,71.8,0.0
+Christian Kabasele,Watford,Manchester City,2022-04-23,False,DC,90,0,0.0,0,0.0,0,0,0,1.6,0,0,5,1.4,0.01,73.45,0.0
+Christian Kabasele,Watford,Burnley,2022-04-30,True,DC,90,0,0.0,0,0.0,1,0,0,1.0,0,0,2,1.0,0.0,74.83,0.0
+Christian Kabasele,Watford,Everton,2022-05-11,True,DC,90,0,0.08,0,0.0,6,1,0,2.2,0,1,0,0.8,0.0,76.0,0.1
+Christian Kabasele,Watford,Leeds United,2022-05-15,True,DC,90,0,0.75,0,0.12,0,3,1,3.9,0,0,5,1.8,0.02,77.0,0.09
+Christian Kabasele,Watford,Chelsea,2022-05-22,False,DC,90,0,0.0,0,0.0,1,0,0,0.0,0,0,2,1.6,0.17,77.87,0.08
+Christian Kabasele,Watford,Leicester City,2021-10-02,False,Sub,22,0,0.0,0,0.0,1,0,0,0.2,0,0,0,1.6,0.17,74.38,0.08

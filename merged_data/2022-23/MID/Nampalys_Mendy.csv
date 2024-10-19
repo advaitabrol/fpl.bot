@@ -1,20 +1,20 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Nampalys Mendy,Leicester,Crystal Palace,2022-10-15,True,Sub,25,0,0.0,0,0.0,1,0,0,0.4,0,0,0,False
-Nampalys Mendy,Leicester,Leicester City,2022-10-20,True,Sub,26,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False
-Nampalys Mendy,Leicester,Wolverhampton,2022-10-23,False,Sub,29,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False
-Nampalys Mendy,Leicester,Manchester City,2022-10-29,True,Sub,45,0,0.0,0,0.0,1,0,0,0.6,0,0,1,False
-Nampalys Mendy,Leicester,Everton,2022-11-05,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False
-Nampalys Mendy,Leicester,West Ham,2022-11-12,False,Sub,21,0,0.0604160986840724,0,0.0,1,1,0,0.3,0,0,0,False
-Nampalys Mendy,Leicester,Fulham,2023-01-03,True,Sub,18,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False
-Nampalys Mendy,Leicester,Nottingham Forest,2023-01-14,False,DMC,67,0,0.0,0,0.0,2,0,0,1.1,0,0,1,True
-Nampalys Mendy,Leicester,Brighton,2023-01-21,True,MC,90,0,0.0,0,0.0,2,0,0,0.9,0,0,2,True
-Nampalys Mendy,Leicester,Aston Villa,2023-02-04,False,Sub,23,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False
-Nampalys Mendy,Leicester,Tottenham,2023-02-11,True,DMC,68,1,0.0321316011250019,0,0.0067840199917554,8,1,1,7.6,1,0,1,True
-Nampalys Mendy,Leicester,Manchester United,2023-02-19,False,DMC,58,0,0.0,0,0.020473999902606,0,0,1,1.6,0,0,2,True
-Nampalys Mendy,Leicester,Southampton,2023-03-04,False,DMC,67,0,0.0,0,0.0,2,0,0,0.8,0,0,1,True
-Nampalys Mendy,Leicester,Chelsea,2023-03-11,True,MC,65,0,0.0,0,0.0,2,0,0,1.5,0,0,2,True
-Nampalys Mendy,Leicester,Aston Villa,2023-04-04,True,MC,90,0,0.0,0,0.0,2,0,0,1.8,0,0,2,True
-Nampalys Mendy,Leicester,Manchester City,2023-04-15,False,Sub,28,0,0.0,0,0.0,1,0,0,0.6,0,0,0,False
-Nampalys Mendy,Leicester,Wolverhampton,2023-04-22,True,Sub,5,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False
-Nampalys Mendy,Leicester,Newcastle United,2023-05-22,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False
-Nampalys Mendy,Leicester,West Ham,2023-05-28,True,Sub,19,0,0.0,0,0.0,1,0,0,0.0,0,0,1,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Nampalys Mendy,Leicester,Crystal Palace,2022-10-15,True,Sub,25,0,0.0,0,0.0,1,0,0,0.4,0,0,0,False,0.0,0.0,25.0,0,0,0.02,0.03,0.02,1
+Nampalys Mendy,Leicester,Leicester City,2022-10-20,True,Sub,26,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False,1.0,0.0,25.5,0,0,0.02,0.03,0.02,1
+Nampalys Mendy,Leicester,Wolverhampton,2022-10-23,False,Sub,29,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False,1.0,0.0,26.67,0,0,0.02,0.03,0.02,1
+Nampalys Mendy,Leicester,Manchester City,2022-10-29,True,Sub,45,0,0.0,0,0.0,1,0,0,0.6,0,0,1,False,1.0,0.0,31.25,0,0,0.02,0.03,0.02,1
+Nampalys Mendy,Leicester,Everton,2022-11-05,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,1.0,0.0,25.2,0,0,0.02,0.03,0.02,1
+Nampalys Mendy,Leicester,West Ham,2022-11-12,False,Sub,21,0,0.06,0,0.0,1,1,0,0.3,0,0,0,False,1.0,0.0,24.5,0,0,0.02,0.03,0.02,1
+Nampalys Mendy,Leicester,Fulham,2023-01-03,True,Sub,18,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,1.0,0.01,23.57,0,0,0.02,0.03,0.02,2
+Nampalys Mendy,Leicester,Nottingham Forest,2023-01-14,False,DMC,67,0,0.0,0,0.0,2,0,0,1.1,0,0,1,True,1.0,0.01,29.0,0,0,0.02,0.03,0.02,2
+Nampalys Mendy,Leicester,Brighton,2023-01-21,True,MC,90,0,0.0,0,0.0,2,0,0,0.9,0,0,2,True,1.2,0.01,35.78,0,0,0.02,0.03,0.02,1
+Nampalys Mendy,Leicester,Aston Villa,2023-02-04,False,Sub,23,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,1.4,0.01,34.5,0,0,0.02,0.03,0.02,8
+Nampalys Mendy,Leicester,Tottenham,2023-02-11,True,DMC,68,1,0.03,0,0.01,8,1,1,7.6,1,0,1,True,1.4,0.01,37.55,0,0,0.02,0.03,0.02,0
+Nampalys Mendy,Leicester,Manchester United,2023-02-19,False,DMC,58,0,0.0,0,0.02,0,0,1,1.6,0,0,2,True,2.8,0.01,39.25,0,0,0.02,0.03,0.02,2
+Nampalys Mendy,Leicester,Southampton,2023-03-04,False,DMC,67,0,0.0,0,0.0,2,0,0,0.8,0,0,1,True,2.6,0.01,41.38,0,0,0.02,0.03,0.02,2
+Nampalys Mendy,Leicester,Chelsea,2023-03-11,True,MC,65,0,0.0,0,0.0,2,0,0,1.5,0,0,2,True,2.6,0.01,43.07,0,0,0.02,0.03,0.02,2
+Nampalys Mendy,Leicester,Aston Villa,2023-04-04,True,MC,90,0,0.0,0,0.0,2,0,0,1.8,0,0,2,True,2.6,0.01,46.2,0,0,0.02,0.03,0.02,1
+Nampalys Mendy,Leicester,Manchester City,2023-04-15,False,Sub,28,0,0.0,0,0.0,1,0,0,0.6,0,0,0,False,2.8,0.01,45.06,0,0,0.02,0.03,0.02,1
+Nampalys Mendy,Leicester,Wolverhampton,2023-04-22,True,Sub,5,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,1.4,0.0,42.71,0,0,0.02,0.03,0.02,1
+Nampalys Mendy,Leicester,Newcastle United,2023-05-22,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,1.6,0.0,40.39,0,0,0.02,0.03,0.02,1
+Nampalys Mendy,Leicester,West Ham,2023-05-28,True,Sub,19,0,0.0,0,0.0,1,0,0,0.0,0,0,1,False,1.4,0.0,39.26,0,0,0.02,0.03,0.02,

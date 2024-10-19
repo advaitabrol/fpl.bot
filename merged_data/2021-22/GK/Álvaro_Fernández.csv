@@ -1,13 +1,13 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA
-Álvaro Fernández,Brentford,Burnley,2021-10-30,False,90,3,2,0,1,0,False,0.0
-Álvaro Fernández,Brentford,Norwich,2021-11-06,True,90,2,4,0,2,0,False,0.0
-Álvaro Fernández,Brentford,Newcastle United,2021-11-20,False,90,3,6,0,3,0,False,0.0
-Álvaro Fernández,Brentford,Everton,2021-11-28,True,90,0,5,0,9,2,True,0.0
-Álvaro Fernández,Brentford,Tottenham,2021-12-02,False,90,2,5,0,2,0,False,0.0
-Álvaro Fernández,Brentford,Leicester City,2021-12-05,False,90,2,4,0,2,0,False,0.0
-Álvaro Fernández,Brentford,Watford,2021-12-10,True,90,1,1,0,2,0,False,0.0
-Álvaro Fernández,Brentford,Brighton,2021-12-26,False,90,2,3,0,2,0,False,0.0
-Álvaro Fernández,Brentford,Manchester City,2021-12-29,True,90,1,2,0,2,0,False,0.0
-Álvaro Fernández,Brentford,Aston Villa,2022-01-02,True,90,1,4,0,3,0,False,0.0
-Álvaro Fernández,Brentford,Southampton,2022-01-11,False,90,4,3,0,-1,0,False,0.0
-Álvaro Fernández,Brentford,Liverpool,2022-01-16,False,90,3,10,0,4,0,False,0.0
+name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,form,clean_sheet_probability
+Álvaro Fernández,Brentford,Burnley,2021-10-30,False,90,3,2,0,1,0,False,0.0,0.0,0.0
+Álvaro Fernández,Brentford,Norwich,2021-11-06,True,90,2,4,0,2,0,False,0.0,1.0,0.0
+Álvaro Fernández,Brentford,Newcastle United,2021-11-20,False,90,3,6,0,3,0,False,0.0,1.5,0.0
+Álvaro Fernández,Brentford,Everton,2021-11-28,True,90,0,5,0,9,2,True,0.0,2.0,0.25
+Álvaro Fernández,Brentford,Tottenham,2021-12-02,False,90,2,5,0,2,0,False,0.0,3.75,0.2
+Álvaro Fernández,Brentford,Leicester City,2021-12-05,False,90,2,4,0,2,0,False,0.0,3.4,0.17
+Álvaro Fernández,Brentford,Watford,2021-12-10,True,90,1,1,0,2,0,False,0.0,3.6,0.14
+Álvaro Fernández,Brentford,Brighton,2021-12-26,False,90,2,3,0,2,0,False,0.0,3.6,0.12
+Álvaro Fernández,Brentford,Manchester City,2021-12-29,True,90,1,2,0,2,0,False,0.0,3.4,0.11
+Álvaro Fernández,Brentford,Aston Villa,2022-01-02,True,90,1,4,0,3,0,False,0.0,2.0,0.1
+Álvaro Fernández,Brentford,Southampton,2022-01-11,False,90,4,3,0,-1,0,False,0.0,2.2,0.09
+Álvaro Fernández,Brentford,Liverpool,2022-01-16,False,90,3,10,0,4,0,False,0.0,1.6,0.08

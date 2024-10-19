@@ -1,19 +1,19 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Dejan Kulusevski,Spurs,Southampton,2022-02-09,True,Sub,14,0,0.0,0,0.0275493152439594,1,0,1,1.4,0,0,2
-Dejan Kulusevski,Spurs,Wolverhampton,2022-02-13,True,Sub,62,0,0.1154744178056716,0,0.0315397232770919,2,2,1,4.8,0,1,0
-Dejan Kulusevski,Spurs,Manchester City,2022-02-19,False,AMC,90,1,0.3317452669143677,1,0.5849306583404541,11,1,1,9.5,1,0,2
-Dejan Kulusevski,Spurs,Burnley,2022-02-23,False,AMC,90,0,0.1840632408857345,0,0.1329674422740936,2,3,2,8.2,0,0,1
-Dejan Kulusevski,Spurs,Leicester City,2022-02-26,False,AMC,77,1,0.4123896956443786,0,0.0403705909848213,8,4,1,13.4,0,1,0
-Dejan Kulusevski,Spurs,Everton,2022-03-07,True,AMC,90,0,0.0854883939027786,2,1.2651910781860352,10,2,3,10.6,1,1,0
-Dejan Kulusevski,Spurs,Manchester United,2022-03-12,False,AMC,77,0,0.0,0,0.1838927119970321,5,0,2,4.4,0,0,2
-Dejan Kulusevski,Spurs,Brighton,2022-03-16,False,AMC,90,0,0.4667695164680481,1,0.1224101260304451,6,3,2,9.5,0,1,0
-Dejan Kulusevski,Spurs,West Ham,2022-03-20,True,AMC,90,0,0.2112151086330413,0,0.5229140520095825,2,4,2,7.6,0,0,1
-Dejan Kulusevski,Spurs,Newcastle United,2022-04-03,True,AMC,75,0,0.0,1,0.7662110924720764,6,0,4,10.1,1,0,1
-Dejan Kulusevski,Spurs,Aston Villa,2022-04-09,False,FWR,83,1,0.0791165381669998,1,0.1215879619121551,12,1,1,8.7,1,1,0
-Dejan Kulusevski,Spurs,Brighton,2022-04-16,True,FWR,63,0,0.0,0,0.0,2,0,0,0.1,0,1,0
-Dejan Kulusevski,Spurs,Brentford,2022-04-23,False,FWR,90,0,0.0805836990475654,0,0.0268117506057024,3,2,1,8.3,0,1,0
-Dejan Kulusevski,Spurs,Leeds United,2022-05-01,True,Sub,35,0,0.0,2,0.1596644222736358,8,0,2,6.7,1,0,1
-Dejan Kulusevski,Spurs,Liverpool,2022-05-07,False,FWR,84,0,0.0320987738668918,0,0.0,2,1,0,1.4,0,0,1
-Dejan Kulusevski,Spurs,Arsenal,2022-05-12,True,AMC,71,0,0.0,0,0.0,3,0,0,2.2,0,1,0
-Dejan Kulusevski,Spurs,Burnley,2022-05-15,True,Sub,11,0,0.0,0,0.0,0,0,0,0.0,0,0,0
-Dejan Kulusevski,Spurs,Norwich,2022-05-22,False,AMC,67,2,1.0249873399734497,0,0.1604091078042984,16,3,2,0.0,3,1,0
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
+Dejan Kulusevski,Spurs,Southampton,2022-02-09,True,Sub,14,0,0.0,0,0.03,1,0,1,1.4,0,0,2,0.0,0.0,14.0
+Dejan Kulusevski,Spurs,Wolverhampton,2022-02-13,True,Sub,62,0,0.12,0,0.03,2,2,1,4.8,0,1,0,1.0,0.0,38.0
+Dejan Kulusevski,Spurs,Manchester City,2022-02-19,False,AMC,90,1,0.33,1,0.58,11,1,1,9.5,1,0,2,1.5,0.06,55.33
+Dejan Kulusevski,Spurs,Burnley,2022-02-23,False,AMC,90,0,0.18,0,0.13,2,3,2,8.2,0,0,1,4.67,0.48,64.0
+Dejan Kulusevski,Spurs,Leicester City,2022-02-26,False,AMC,77,1,0.41,0,0.04,8,4,1,13.4,0,1,0,4.0,0.41,66.6
+Dejan Kulusevski,Spurs,Everton,2022-03-07,True,AMC,90,0,0.09,2,1.27,10,2,3,10.6,1,1,0,4.8,0.41,70.5
+Dejan Kulusevski,Spurs,Manchester United,2022-03-12,False,AMC,77,0,0.0,0,0.18,5,0,2,4.4,0,0,2,6.6,0.83,71.43
+Dejan Kulusevski,Spurs,Brighton,2022-03-16,False,AMC,90,0,0.47,1,0.12,6,3,2,9.5,0,1,0,7.2,0.8,73.75
+Dejan Kulusevski,Spurs,West Ham,2022-03-20,True,AMC,90,0,0.21,0,0.52,2,4,2,7.6,0,0,1,6.2,0.83,75.56
+Dejan Kulusevski,Spurs,Newcastle United,2022-04-03,True,AMC,75,0,0.0,1,0.77,6,0,4,10.1,1,0,1,6.2,0.84,75.5
+Dejan Kulusevski,Spurs,Aston Villa,2022-04-09,False,FWR,83,1,0.08,1,0.12,12,1,1,8.7,1,1,0,5.8,0.95,76.18
+Dejan Kulusevski,Spurs,Brighton,2022-04-16,True,FWR,63,0,0.0,0,0.0,2,0,0,0.1,0,1,0,6.2,0.75,75.08
+Dejan Kulusevski,Spurs,Brentford,2022-04-23,False,FWR,90,0,0.08,0,0.03,3,2,1,8.3,0,1,0,5.6,0.75,76.23
+Dejan Kulusevski,Spurs,Leeds United,2022-05-01,True,Sub,35,0,0.0,2,0.16,8,0,2,6.7,1,0,1,5.0,0.47,73.29
+Dejan Kulusevski,Spurs,Liverpool,2022-05-07,False,FWR,84,0,0.03,0,0.0,2,1,0,1.4,0,0,1,6.2,0.83,74.0
+Dejan Kulusevski,Spurs,Arsenal,2022-05-12,True,AMC,71,0,0.0,0,0.0,3,0,0,2.2,0,1,0,5.4,0.64,73.81
+Dejan Kulusevski,Spurs,Burnley,2022-05-15,True,Sub,11,0,0.0,0,0.0,0,0,0,0.0,0,0,0,3.6,0.42,70.12
+Dejan Kulusevski,Spurs,Norwich,2022-05-22,False,AMC,67,2,1.02,0,0.16,16,3,2,0.0,3,1,0,3.2,0.42,69.94

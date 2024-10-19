@@ -1,10 +1,10 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Lewis Hall,Chelsea,Newcastle United,2022-11-12,False,DML,72,0,0.0,0,0.1717900037765503,2,0,2,3.9,0,0,1,True
-Lewis Hall,Chelsea,Manchester City,2023-01-05,True,Sub,22,0,0.0412825010716915,0,0.045636098831892,1,1,1,3.2,0,0,0,False
-Lewis Hall,Chelsea,Fulham,2023-01-12,False,DML,78,0,0.377126008272171,0,0.0,1,2,0,5.3,0,0,2,True
-Lewis Hall,Chelsea,Crystal Palace,2023-01-15,True,DL,77,0,0.2408059984445572,0,0.1110460013151168,3,1,1,3.3,0,1,0,True
-Lewis Hall,Chelsea,Liverpool,2023-01-21,False,MC,54,0,0.0606030002236366,0,0.0,1,1,0,0.8,0,0,0,True
-Lewis Hall,Chelsea,Nottingham Forest,2023-05-13,True,DL,90,0,0.0283168517053127,0,0.3405635058879852,2,1,3,6.6,0,0,2,True
-Lewis Hall,Chelsea,Manchester City,2023-05-21,False,ML,80,0,0.0848028883337974,0,0.3598372638225555,2,2,2,8.5,0,0,1,True
-Lewis Hall,Chelsea,Manchester United,2023-05-25,False,DL,90,0,0.1071045100688934,0,0.8958837389945984,5,2,3,9.1,3,0,4,True
-Lewis Hall,Chelsea,Newcastle United,2023-05-28,True,DL,90,0,0.0220955070108175,0,0.5586237907409668,2,1,3,0.0,0,0,1,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Lewis Hall,Chelsea,Newcastle United,2022-11-12,False,DML,72,0,0.0,0,0.17,2,0,2,3.9,0,0,1,True,0.0,0.0,72.0,0,0,0,0,0,1
+Lewis Hall,Chelsea,Manchester City,2023-01-05,True,Sub,22,0,0.04,0,0.05,1,1,1,3.2,0,0,0,False,2.0,0.0,47.0,0,0,0,0,0,1
+Lewis Hall,Chelsea,Fulham,2023-01-12,False,DML,78,0,0.38,0,0.0,1,2,0,5.3,0,0,2,True,1.5,0.02,57.33,0,0,0,0,0,3
+Lewis Hall,Chelsea,Crystal Palace,2023-01-15,True,DL,77,0,0.24,0,0.11,3,1,1,3.3,0,1,0,True,1.33,0.14,62.25,0,0,0,0,0,1
+Lewis Hall,Chelsea,Liverpool,2023-01-21,False,MC,54,0,0.06,0,0.0,1,1,0,0.8,0,0,0,True,1.75,0.16,60.6,0,0,0,0,0,2
+Lewis Hall,Chelsea,Nottingham Forest,2023-05-13,True,DL,90,0,0.03,0,0.34,2,1,3,6.6,0,0,2,True,1.6,0.14,65.5,0,0,0,0,0,2
+Lewis Hall,Chelsea,Manchester City,2023-05-21,False,ML,80,0,0.08,0,0.36,2,2,2,8.5,0,0,1,True,1.6,0.15,67.57,0,0,0,0,0,5
+Lewis Hall,Chelsea,Manchester United,2023-05-25,False,DL,90,0,0.11,0,0.9,5,2,3,9.1,3,0,4,True,1.8,0.16,70.38,0,0,0,0,0,2
+Lewis Hall,Chelsea,Newcastle United,2023-05-28,True,DL,90,0,0.02,0,0.56,2,1,3,0.0,0,0,1,True,2.6,0.1,72.56,0,0,0,0,0,

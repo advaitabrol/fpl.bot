@@ -1,9 +1,9 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Sandro Tonali,Newcastle,Aston Villa,2023-08-12,True,MC,90,1,0.841463565826416,0,0.0941830053925514,6,2,1,0.0,0,0,1,True
-Sandro Tonali,Newcastle,Manchester City,2023-08-19,False,MC,66,0,0.0,0,0.0,1,0,0,0.4,0,0,1,True
-Sandro Tonali,Newcastle,Liverpool,2023-08-27,True,MC,71,0,0.0166650265455245,0,0.0,3,1,0,1.5,0,1,0,True
-Sandro Tonali,Newcastle,Brighton,2023-09-02,False,MC,57,0,0.0,0,0.1727020293474197,1,0,2,4.5,0,0,1,True
-Sandro Tonali,Newcastle,Sheffield,2023-09-24,False,Sub,20,0,0.0,0,0.1563246399164199,1,0,2,3.9,0,0,0,False
-Sandro Tonali,Newcastle,Burnley,2023-09-30,True,Sub,22,0,0.0,0,0.1113113462924957,1,0,1,1.7,0,0,0,False
-Sandro Tonali,Newcastle,West Ham,2023-10-08,False,MC,90,0,0.0,0,0.0176482368260622,2,0,1,2.0,0,0,2,True
-Sandro Tonali,Newcastle,Crystal Palace,2023-10-21,True,Sub,21,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Sandro Tonali,Newcastle,Aston Villa,2023-08-12,True,MC,90,1,0.84,0,0.09,6,2,1,0.0,0,0,1,True,0.0,0.0,90.0,0,0,0,0,0,1
+Sandro Tonali,Newcastle,Manchester City,2023-08-19,False,MC,66,0,0.0,0,0.0,1,0,0,0.4,0,0,1,True,6.0,0.84,78.0,0,0,0,0,0,3
+Sandro Tonali,Newcastle,Liverpool,2023-08-27,True,MC,71,0,0.02,0,0.0,3,1,0,1.5,0,1,0,True,3.5,0.42,75.67,0,0,0,0,0,1
+Sandro Tonali,Newcastle,Brighton,2023-09-02,False,MC,57,0,0.0,0,0.17,1,0,2,4.5,0,0,1,True,3.33,0.29,71.0,0,0,0,0,0,1
+Sandro Tonali,Newcastle,Sheffield,2023-09-24,False,Sub,20,0,0.0,0,0.16,1,0,2,3.9,0,0,0,False,2.75,0.21,60.8,0,0,0,0,0,1
+Sandro Tonali,Newcastle,Burnley,2023-09-30,True,Sub,22,0,0.0,0,0.11,1,0,1,1.7,0,0,0,False,2.4,0.17,54.33,0,0,0,0,0,2
+Sandro Tonali,Newcastle,West Ham,2023-10-08,False,MC,90,0,0.0,0,0.02,2,0,1,2.0,0,0,2,True,1.4,0.0,59.43,0,0,0,0,0,1
+Sandro Tonali,Newcastle,Crystal Palace,2023-10-21,True,Sub,21,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,1.6,0.0,54.62,0,0,0,0,0,

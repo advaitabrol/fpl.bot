@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts
-Matt Doherty,Spurs,Southampton,2022-08-06,True,Sub,3,0,0.0,0,0.0,1,0,0,0.5,0,0,0,0.0,False
-Matt Doherty,Spurs,Brighton,2022-10-08,False,DMR,90,0,0.063153401017189,0,0.0,6,1,0,2.1,0,1,0,0.0,False
-Matt Doherty,Spurs,Everton,2022-10-15,True,DMR,90,0,0.1094919964671135,0,0.0,6,2,0,4.7,0,1,0,0.0,False
-Matt Doherty,Spurs,Manchester United,2022-10-19,False,DMR,81,0,0.0343553014099597,0,0.0807256028056144,1,1,2,4.6,0,0,2,0.0,False
-Matt Doherty,Spurs,Newcastle United,2022-10-23,True,Sub,9,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.0,False
-Matt Doherty,Spurs,Liverpool,2022-11-06,True,Sub,22,0,0.0,0,0.0,1,0,0,0.7,0,0,0,0.0,False
-Matt Doherty,Spurs,Leicester City,2022-11-12,True,Sub,33,0,0.0,0,0.0,1,0,0,2.0,0,0,1,0.3923,False
-Matt Doherty,Spurs,Brentford,2022-12-26,False,DMR,90,0,0.1433150023221969,0,0.160313993692398,1,1,2,5.5,0,0,2,2.1526,True
-Matt Doherty,Spurs,Aston Villa,2023-01-01,True,DMR,79,0,0.1788049936294555,0,0.0,1,1,0,4.1,0,0,2,0.7698,True
-Matt Doherty,Spurs,Crystal Palace,2023-01-04,False,DMR,77,1,0.3434970080852508,0,0.0470767989754676,14,4,2,13.3,2,1,0,0.62,True
-Matt Doherty,Spurs,Arsenal,2023-01-15,True,DMR,70,0,0.0,0,0.0,1,0,0,2.6,0,0,2,1.5098,True
-Matt Doherty,Spurs,Wolverhampton,2023-03-04,False,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0.0,False
-Matt Doherty,Spurs,Arsenal,2022-10-01,False,Sub,19,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
+Matt Doherty,Spurs,Southampton,2022-08-06,True,Sub,3,0,0.0,0,0.0,1,0,0,0.5,0,0,0,0.0,False,0.0,0.0,3.0,0.0,0,0,0,0,6
+Matt Doherty,Spurs,Brighton,2022-10-08,False,DMR,90,0,0.06,0,0.0,6,1,0,2.1,0,1,0,0.0,False,1.0,0.0,46.5,1.0,0,0,0,0,6
+Matt Doherty,Spurs,Everton,2022-10-15,True,DMR,90,0,0.11,0,0.0,6,2,0,4.7,0,1,0,0.0,False,3.5,0.03,61.0,1.0,0,0,0,0,1
+Matt Doherty,Spurs,Manchester United,2022-10-19,False,DMR,81,0,0.03,0,0.08,1,1,2,4.6,0,0,2,0.0,False,4.33,0.06,66.0,0.67,0,0,0,0,1
+Matt Doherty,Spurs,Newcastle United,2022-10-23,True,Sub,9,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.0,False,3.5,0.05,54.6,0.67,0,0,0,0,1
+Matt Doherty,Spurs,Liverpool,2022-11-06,True,Sub,22,0,0.0,0,0.0,1,0,0,0.7,0,0,0,0.0,False,3.0,0.04,49.17,0.67,0,0,0,0,1
+Matt Doherty,Spurs,Leicester City,2022-11-12,True,Sub,33,0,0.0,0,0.0,1,0,0,2.0,0,0,1,0.39,False,3.0,0.04,46.86,0.67,0,0,0,0,1
+Matt Doherty,Spurs,Brentford,2022-12-26,False,DMR,90,0,0.14,0,0.16,1,1,2,5.5,0,0,2,2.15,True,2.0,0.03,52.25,0.5,0,0,0,0,1
+Matt Doherty,Spurs,Aston Villa,2023-01-01,True,DMR,79,0,0.18,0,0.0,1,1,0,4.1,0,0,2,0.77,True,1.0,0.04,55.22,0.4,0,0,0,0,14
+Matt Doherty,Spurs,Crystal Palace,2023-01-04,False,DMR,77,1,0.34,0,0.05,14,4,2,13.3,2,1,0,0.62,True,1.0,0.06,57.4,0.5,0,0,0,0,1
+Matt Doherty,Spurs,Arsenal,2023-01-15,True,DMR,70,0,0.0,0,0.0,1,0,0,2.6,0,0,2,1.51,True,3.6,0.13,58.55,0.43,0,0,0,0,0
+Matt Doherty,Spurs,Wolverhampton,2023-03-04,False,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0.0,False,3.6,0.13,53.67,0.43,0,0,0,0,1
+Matt Doherty,Spurs,Arsenal,2022-10-01,False,Sub,19,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.0,False,3.4,0.13,51.0,0.43,0,0,0,0,0

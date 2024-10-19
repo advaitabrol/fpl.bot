@@ -1,21 +1,21 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts
-Callum Wilson,Newcastle,Aston Villa,2023-08-12,True,Sub,22,1,1.220109462738037,0,0.0,5,4,0,10.6,0,False
-Callum Wilson,Newcastle,Wolverhampton,2023-10-28,False,FW,90,2,2.03593373298645,0,0.0,13,4,0,13.4,3,True
-Callum Wilson,Newcastle,Arsenal,2023-11-04,True,FW,61,0,0.0,0,0.0,2,0,0,0.6,0,True
-Callum Wilson,Newcastle,Tottenham,2023-12-10,False,Sub,26,0,0.1282568275928497,1,0.3132510185241699,4,1,2,6.5,0,False
-Callum Wilson,Newcastle,Fulham,2023-12-16,True,FW,90,0,0.4473726153373718,0,0.0448995754122734,2,4,1,6.1,0,True
-Callum Wilson,Newcastle,Luton,2023-12-23,False,FW,90,0,0.5728828310966492,0,0.054618377238512,2,3,1,7.9,0,True
-Callum Wilson,Newcastle,Nottingham Forest,2023-12-26,True,Sub,35,0,0.2027209848165512,0,0.0,1,2,0,0.8,0,False
-Callum Wilson,Newcastle,Manchester City,2023-08-19,False,Sub,24,0,0.0,0,0.0159003306180238,1,0,1,1.4,0,False
-Callum Wilson,Newcastle,Luton,2024-02-03,True,Sub,45,0,0.0,0,0.1661024689674377,1,0,2,3.5,0,False
-Callum Wilson,Newcastle,Nottingham Forest,2024-02-10,False,FW,90,0,0.0,0,0.0,1,0,0,0.8,0,True
-Callum Wilson,Newcastle,Liverpool,2023-08-27,True,Sub,18,0,0.1135751381516456,0,0.0,1,2,0,0.3,0,False
-Callum Wilson,Newcastle,Crystal Palace,2024-04-24,False,Sub,25,0,0.0,0,0.0,1,0,0,0.2,0,False
-Callum Wilson,Newcastle,Sheffield,2024-04-27,True,Sub,24,1,0.5721659064292908,0,0.0,5,2,0,7.8,0,False
-Callum Wilson,Newcastle,Burnley,2024-05-04,False,FW,68,1,0.8898428082466125,0,0.3391649723052978,5,2,1,9.7,0,True
-Callum Wilson,Newcastle,Brentford,2024-05-19,False,Sub,9,0,0.0,0,0.0,1,0,0,0.4,0,False
-Callum Wilson,Newcastle,Brighton,2023-09-02,False,Sub,32,1,0.3121339380741119,0,0.0,6,1,0,5.3,1,False
-Callum Wilson,Newcastle,Brentford,2023-09-16,True,FW,90,1,0.9912685751914978,0,0.0,5,3,0,7.5,0,True
-Callum Wilson,Newcastle,Sheffield,2023-09-24,False,FW,69,1,1.5146150588989258,0,0.0,6,5,0,14.7,0,True
-Callum Wilson,Newcastle,West Ham,2023-10-08,False,Sub,4,0,0.0,0,0.0,1,0,0,0.0,0,False
-Callum Wilson,Newcastle,Crystal Palace,2023-10-21,True,FW,69,1,1.123631715774536,0,0.0,6,2,0,5.7,0,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Callum Wilson,Newcastle,Aston Villa,2023-08-12,True,Sub,22,1,1.22,0,0.0,5,4,0,10.6,0,False,0.0,0.0,22.0,18,5,18.87,3.57,0.08,13
+Callum Wilson,Newcastle,Wolverhampton,2023-10-28,False,FW,90,2,2.04,0,0.0,13,4,0,13.4,3,True,5.0,1.22,56.0,18,5,18.87,3.57,0.08,2
+Callum Wilson,Newcastle,Arsenal,2023-11-04,True,FW,61,0,0.0,0,0.0,2,0,0,0.6,0,True,9.0,1.63,57.67,18,5,18.87,3.57,0.08,4
+Callum Wilson,Newcastle,Tottenham,2023-12-10,False,Sub,26,0,0.13,1,0.31,4,1,2,6.5,0,False,6.67,1.09,49.75,18,5,18.87,3.57,0.08,2
+Callum Wilson,Newcastle,Fulham,2023-12-16,True,FW,90,0,0.45,0,0.04,2,4,1,6.1,0,True,6.0,1.1,57.8,18,5,18.87,3.57,0.08,2
+Callum Wilson,Newcastle,Luton,2023-12-23,False,FW,90,0,0.57,0,0.05,2,3,1,7.9,0,True,5.2,0.97,63.17,18,5,18.87,3.57,0.08,1
+Callum Wilson,Newcastle,Nottingham Forest,2023-12-26,True,Sub,35,0,0.2,0,0.0,1,2,0,0.8,0,False,4.6,0.84,59.14,18,5,18.87,3.57,0.08,1
+Callum Wilson,Newcastle,Manchester City,2023-08-19,False,Sub,24,0,0.0,0,0.02,1,0,1,1.4,0,False,2.2,0.47,54.75,18,5,18.87,3.57,0.08,1
+Callum Wilson,Newcastle,Luton,2024-02-03,True,Sub,45,0,0.0,0,0.17,1,0,2,3.5,0,False,2.0,0.47,53.67,18,5,18.87,3.57,0.08,1
+Callum Wilson,Newcastle,Nottingham Forest,2024-02-10,False,FW,90,0,0.0,0,0.0,1,0,0,0.8,0,True,1.4,0.24,57.3,18,5,18.87,3.57,0.08,1
+Callum Wilson,Newcastle,Liverpool,2023-08-27,True,Sub,18,0,0.11,0,0.0,1,2,0,0.3,0,False,1.2,0.16,53.73,18,5,18.87,3.57,0.08,1
+Callum Wilson,Newcastle,Crystal Palace,2024-04-24,False,Sub,25,0,0.0,0,0.0,1,0,0,0.2,0,False,1.0,0.06,51.33,18,5,18.87,3.57,0.08,5
+Callum Wilson,Newcastle,Sheffield,2024-04-27,True,Sub,24,1,0.57,0,0.0,5,2,0,7.8,0,False,1.0,0.02,49.23,18,5,18.87,3.57,0.08,5
+Callum Wilson,Newcastle,Burnley,2024-05-04,False,FW,68,1,0.89,0,0.34,5,2,1,9.7,0,True,1.8,0.14,50.57,18,5,18.87,3.57,0.08,1
+Callum Wilson,Newcastle,Brentford,2024-05-19,False,Sub,9,0,0.0,0,0.0,1,0,0,0.4,0,False,2.6,0.32,47.8,18,5,18.87,3.57,0.08,6
+Callum Wilson,Newcastle,Brighton,2023-09-02,False,Sub,32,1,0.31,0,0.0,6,1,0,5.3,1,False,2.6,0.32,46.81,18,5,18.87,3.57,0.08,5
+Callum Wilson,Newcastle,Brentford,2023-09-16,True,FW,90,1,0.99,0,0.0,5,3,0,7.5,0,True,3.6,0.35,49.35,18,5,18.87,3.57,0.08,6
+Callum Wilson,Newcastle,Sheffield,2023-09-24,False,FW,69,1,1.51,0,0.0,6,5,0,14.7,0,True,4.4,0.55,50.44,18,5,18.87,3.57,0.08,1
+Callum Wilson,Newcastle,West Ham,2023-10-08,False,Sub,4,0,0.0,0,0.0,1,0,0,0.0,0,False,4.6,0.74,48.0,18,5,18.87,3.57,0.08,6
+Callum Wilson,Newcastle,Crystal Palace,2023-10-21,True,FW,69,1,1.12,0,0.0,6,2,0,5.7,0,True,3.8,0.56,49.05,18,5,18.87,3.57,0.08,

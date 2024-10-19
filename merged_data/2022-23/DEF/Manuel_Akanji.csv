@@ -1,30 +1,30 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts
-Manuel Akanji,Man City,Southampton,2022-10-08,True,DR,90,0,0.049481701105833,0,0.0,7,2,0,4.4,1,1,0,0.0,False
-Manuel Akanji,Man City,Liverpool,2022-10-16,False,DC,90,0,0.0,0,0.0,1,0,0,0.6,0,0,1,0.0,False
-Manuel Akanji,Man City,Brighton,2022-10-22,True,DR,90,0,0.0,0,0.0,2,0,0,1.8,0,0,1,0.0,False
-Manuel Akanji,Man City,Leeds United,2022-10-29,False,DC,71,0,0.1225840002298355,0,0.0,6,2,0,3.3,0,1,0,0.0,False
-Manuel Akanji,Man City,Fulham,2022-11-05,True,DC,90,0,0.4060359895229339,0,0.0,2,3,0,4.4,0,0,1,0.0,False
-Manuel Akanji,Man City,Brentford,2022-11-12,True,DC,90,0,0.0216394998133182,1,0.0825686007738113,5,1,3,7.0,1,0,2,1.2862,True
-Manuel Akanji,Man City,Leicester City,2022-12-28,False,DC,90,0,0.0,0,0.0,2,0,0,1.8,0,0,1,0.5856,True
-Manuel Akanji,Man City,Everton,2022-12-31,True,DC,90,0,0.0,0,0.0,2,0,0,1.7,0,0,1,0.0857,True
-Manuel Akanji,Man City,Chelsea,2023-01-05,False,Sub,45,0,0.0,0,0.0,1,0,0,1.0,0,0,0,0.1729,False
-Manuel Akanji,Man City,Manchester United,2023-01-14,False,DC,90,0,0.0,0,0.0,1,0,0,2.7,0,0,2,1.7499,True
-Manuel Akanji,Man City,Tottenham,2023-01-19,True,DC,90,0,0.0,0,0.0,1,0,0,1.3,0,0,2,0.8393,True
-Manuel Akanji,Man City,Wolverhampton,2023-01-22,True,DC,90,0,0.0,0,0.0,6,0,0,2.4,0,1,0,0.829,True
-Manuel Akanji,Man City,Tottenham,2023-02-05,False,DC,90,0,0.1406790018081665,0,0.0407739989459514,2,2,1,8.6,0,0,1,1.48,True
-Manuel Akanji,Man City,Aston Villa,2023-02-12,True,Sub,45,0,0.0,0,0.0,1,0,0,0.5,0,0,1,0.16,False
-Manuel Akanji,Man City,Arsenal,2023-02-15,False,Sub,29,0,0.1240260004997253,0,0.0,1,1,0,0.9,0,0,0,0.29,False
-Manuel Akanji,Man City,Bournemouth,2023-02-25,False,DC,90,0,0.0,0,0.0,1,0,0,2.1,0,0,1,1.35,True
-Manuel Akanji,Man City,Newcastle United,2023-03-04,True,DC,90,0,0.0,0,0.0,6,0,0,0.9,0,1,0,0.43,True
-Manuel Akanji,Man City,Crystal Palace,2023-03-11,False,DC,90,0,0.0157651994377374,0,0.0466892011463642,9,1,1,4.0,3,1,0,0.17,True
-Manuel Akanji,Man City,Liverpool,2023-04-01,True,DC,90,0,0.0,0,0.0,2,0,0,1.9,0,0,1,0.33,True
-Manuel Akanji,Man City,Southampton,2023-04-08,False,DC,90,0,0.0,0,0.0,2,0,0,0.8,0,0,1,0.35,True
-Manuel Akanji,Man City,Leeds United,2023-04-15,True,Sub,45,0,0.0,0,0.0,1,0,0,1.4,0,0,1,1.99,False
-Manuel Akanji,Man City,Arsenal,2023-04-26,True,DL,90,0,0.0,0,0.0,2,0,0,1.8,0,0,1,0.48,True
-Manuel Akanji,Man City,Fulham,2023-04-30,False,DC,90,0,0.0,0,0.1108123734593391,2,0,2,4.8,0,0,1,0.17,True
-Manuel Akanji,Man City,West Ham,2023-05-03,True,Sub,13,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.14,False
-Manuel Akanji,Man City,Leicester City,2023-05-06,True,DC,90,0,0.1497863978147506,0,0.0,2,2,0,2.4,0,0,1,0.23,True
-Manuel Akanji,Man City,Everton,2023-05-14,False,DL,90,0,0.0,0,0.0,6,0,0,2.3,0,1,0,1.78,True
-Manuel Akanji,Man City,Chelsea,2023-05-21,True,DC,56,0,0.0,0,0.0,1,0,0,1.1,0,0,0,0.96,True
-Manuel Akanji,Man City,Wolverhampton,2022-09-17,False,DC,90,0,0.0,0,0.0,6,0,0,1.9,0,1,0,0.0,False
-Manuel Akanji,Man City,Manchester United,2022-10-02,True,DC,90,0,0.0393683016300201,0,0.0,1,1,0,3.4,0,0,3,0.0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
+Manuel Akanji,Man City,Southampton,2022-10-08,True,DR,90,0,0.05,0,0.0,7,2,0,4.4,1,1,0,0.0,False,0.0,0.0,90.0,1.0,0,0,0,0,1
+Manuel Akanji,Man City,Liverpool,2022-10-16,False,DC,90,0,0.0,0,0.0,1,0,0,0.6,0,0,1,0.0,False,7.0,0.05,90.0,0.5,0,0,0,0,2
+Manuel Akanji,Man City,Brighton,2022-10-22,True,DR,90,0,0.0,0,0.0,2,0,0,1.8,0,0,1,0.0,False,4.0,0.02,90.0,0.33,0,0,0,0,6
+Manuel Akanji,Man City,Leeds United,2022-10-29,False,DC,71,0,0.12,0,0.0,6,2,0,3.3,0,1,0,0.0,False,3.33,0.02,85.25,0.5,0,0,0,0,2
+Manuel Akanji,Man City,Fulham,2022-11-05,True,DC,90,0,0.41,0,0.0,2,3,0,4.4,0,0,1,0.0,False,4.0,0.04,86.2,0.4,0,0,0,0,5
+Manuel Akanji,Man City,Brentford,2022-11-12,True,DC,90,0,0.02,1,0.08,5,1,3,7.0,1,0,2,1.29,True,3.6,0.12,86.83,0.33,0,0,0,0,2
+Manuel Akanji,Man City,Leicester City,2022-12-28,False,DC,90,0,0.0,0,0.0,2,0,0,1.8,0,0,1,0.59,True,3.2,0.31,87.29,0.29,0,0,0,0,2
+Manuel Akanji,Man City,Everton,2022-12-31,True,DC,90,0,0.0,0,0.0,2,0,0,1.7,0,0,1,0.09,True,3.4,0.31,87.62,0.25,0,0,0,0,1
+Manuel Akanji,Man City,Chelsea,2023-01-05,False,Sub,45,0,0.0,0,0.0,1,0,0,1.0,0,0,0,0.17,False,3.4,0.31,82.89,0.25,0,0,0,0,1
+Manuel Akanji,Man City,Manchester United,2023-01-14,False,DC,90,0,0.0,0,0.0,1,0,0,2.7,0,0,2,1.75,True,2.4,0.29,83.6,0.22,0,0,0,0,1
+Manuel Akanji,Man City,Tottenham,2023-01-19,True,DC,90,0,0.0,0,0.0,1,0,0,1.3,0,0,2,0.84,True,2.2,0.2,84.18,0.2,0,0,0,0,6
+Manuel Akanji,Man City,Wolverhampton,2023-01-22,True,DC,90,0,0.0,0,0.0,6,0,0,2.4,0,1,0,0.83,True,1.4,0.0,84.67,0.27,0,0,0,0,2
+Manuel Akanji,Man City,Tottenham,2023-02-05,False,DC,90,0,0.14,0,0.04,2,2,1,8.6,0,0,1,1.48,True,2.2,0.0,85.08,0.25,0,0,0,0,1
+Manuel Akanji,Man City,Aston Villa,2023-02-12,True,Sub,45,0,0.0,0,0.0,1,0,0,0.5,0,0,1,0.16,False,2.2,0.03,82.21,0.25,0,0,0,0,1
+Manuel Akanji,Man City,Arsenal,2023-02-15,False,Sub,29,0,0.12,0,0.0,1,1,0,0.9,0,0,0,0.29,False,2.2,0.03,78.67,0.25,0,0,0,0,1
+Manuel Akanji,Man City,Bournemouth,2023-02-25,False,DC,90,0,0.0,0,0.0,1,0,0,2.1,0,0,1,1.35,True,2.2,0.05,79.38,0.23,0,0,0,0,6
+Manuel Akanji,Man City,Newcastle United,2023-03-04,True,DC,90,0,0.0,0,0.0,6,0,0,0.9,0,1,0,0.43,True,2.2,0.05,80.0,0.29,0,0,0,0,9
+Manuel Akanji,Man City,Crystal Palace,2023-03-11,False,DC,90,0,0.02,0,0.05,9,1,1,4.0,3,1,0,0.17,True,2.2,0.05,80.56,0.33,0,0,0,0,2
+Manuel Akanji,Man City,Liverpool,2023-04-01,True,DC,90,0,0.0,0,0.0,2,0,0,1.9,0,0,1,0.33,True,3.6,0.03,81.05,0.31,0,0,0,0,2
+Manuel Akanji,Man City,Southampton,2023-04-08,False,DC,90,0,0.0,0,0.0,2,0,0,0.8,0,0,1,0.35,True,3.8,0.03,81.5,0.29,0,0,0,0,1
+Manuel Akanji,Man City,Leeds United,2023-04-15,True,Sub,45,0,0.0,0,0.0,1,0,0,1.4,0,0,1,1.99,False,4.0,0.0,79.76,0.29,0,0,0,0,2
+Manuel Akanji,Man City,Arsenal,2023-04-26,True,DL,90,0,0.0,0,0.0,2,0,0,1.8,0,0,1,0.48,True,4.0,0.0,80.23,0.28,0,0,0,0,2
+Manuel Akanji,Man City,Fulham,2023-04-30,False,DC,90,0,0.0,0,0.11,2,0,2,4.8,0,0,1,0.17,True,3.2,0.0,80.65,0.26,0,0,0,0,1
+Manuel Akanji,Man City,West Ham,2023-05-03,True,Sub,13,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.14,False,1.8,0.0,77.83,0.26,0,0,0,0,2
+Manuel Akanji,Man City,Leicester City,2023-05-06,True,DC,90,0,0.15,0,0.0,2,2,0,2.4,0,0,1,0.23,True,1.6,0.0,78.32,0.25,0,0,0,0,6
+Manuel Akanji,Man City,Everton,2023-05-14,False,DL,90,0,0.0,0,0.0,6,0,0,2.3,0,1,0,1.78,True,1.6,0.03,78.77,0.29,0,0,0,0,1
+Manuel Akanji,Man City,Chelsea,2023-05-21,True,DC,56,0,0.0,0,0.0,1,0,0,1.1,0,0,0,0.96,True,2.6,0.03,77.93,0.29,0,0,0,0,6
+Manuel Akanji,Man City,Wolverhampton,2022-09-17,False,DC,90,0,0.0,0,0.0,6,0,0,1.9,0,1,0,0.0,False,2.4,0.03,78.36,0.32,0,0,0,0,1
+Manuel Akanji,Man City,Manchester United,2022-10-02,True,DC,90,0,0.04,0,0.0,1,1,0,3.4,0,0,3,0.0,False,3.2,0.03,78.76,0.3,0,0,0,0,6

@@ -1,29 +1,29 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Yves Bissouma,Spurs,Brentford,2023-08-13,False,DMC,90,0,0.0335683375597,0,0.03221071138978,2,3,1,6.3,0,0,2,True
-Yves Bissouma,Spurs,Crystal Palace,2023-10-27,False,DMC,63,0,0.0401918143033981,0,0.0,3,1,0,1.9,0,1,0,True
-Yves Bissouma,Spurs,Chelsea,2023-11-06,True,DMC,90,0,0.0691006109118461,0,0.0,2,1,0,2.7,0,0,4,True
-Yves Bissouma,Spurs,Wolverhampton,2023-11-11,False,MC,75,0,0.0,0,0.0,2,0,0,1.8,0,1,0,True
-Yves Bissouma,Spurs,Manchester City,2023-12-03,False,DMC,86,0,0.0,0,0.0,2,0,0,0.5,0,0,3,True
-Yves Bissouma,Spurs,West Ham,2023-12-07,True,DMC,83,0,0.1242028772830963,0,0.0546254031360149,2,2,1,5.1,0,0,2,True
-Yves Bissouma,Spurs,Newcastle United,2023-12-10,True,DMC,85,0,0.0271148532629013,0,0.0,3,1,0,4.4,0,1,0,True
-Yves Bissouma,Spurs,Nottingham Forest,2023-12-15,False,DMC,69,0,0.0,0,0.0,0,0,0,0.8,0,1,0,True
-Yves Bissouma,Spurs,Manchester United,2023-08-19,True,DMC,90,0,0.111033596098423,0,0.0,3,2,0,3.0,0,1,0,True
-Yves Bissouma,Spurs,Brighton,2024-02-10,True,Sub,27,0,0.0,0,0.0,1,0,0,0.7,0,0,0,False
-Yves Bissouma,Spurs,Wolverhampton,2024-02-17,True,DMC,70,0,0.0,0,0.0173172280192375,2,0,1,4.3,0,0,2,True
-Yves Bissouma,Spurs,Crystal Palace,2024-03-02,True,DMC,89,0,0.0,0,0.0,2,0,0,3.0,0,0,1,True
-Yves Bissouma,Spurs,Aston Villa,2024-03-10,False,DMC,90,0,0.0,0,0.0,3,0,0,3.1,0,1,0,True
-Yves Bissouma,Spurs,Fulham,2024-03-16,False,DMC,65,0,0.0,0,0.0,1,0,0,1.1,0,0,3,True
-Yves Bissouma,Spurs,Bournemouth,2023-08-26,False,DMC,73,0,0.0626637935638427,0,0.1078451424837112,2,1,1,6.2,0,1,0,True
-Yves Bissouma,Spurs,Luton,2024-03-30,True,DMC,84,0,0.0,0,0.029922155663371,2,0,1,2.9,0,0,1,True
-Yves Bissouma,Spurs,West Ham,2024-04-02,False,DMC,81,0,0.0366865284740924,0,0.0483239442110061,2,1,1,3.0,0,0,1,True
-Yves Bissouma,Spurs,Nottingham Forest,2024-04-07,True,DMC,45,0,0.1215695217251777,0,0.0,1,4,0,1.6,0,0,1,True
-Yves Bissouma,Spurs,Newcastle United,2024-04-13,False,DMC,56,0,0.0,0,0.0,0,0,0,1.0,0,0,3,True
-Yves Bissouma,Spurs,Arsenal,2024-04-28,True,Sub,26,0,0.0,0,0.0,1,0,0,1.1,0,0,0,False
-Yves Bissouma,Spurs,Chelsea,2024-05-02,False,DMC,62,0,0.0,0,0.0222541503608226,2,0,1,2.7,0,0,1,True
-Yves Bissouma,Spurs,Liverpool,2024-05-05,False,MC,90,0,0.0211886297911405,0,0.0,1,1,0,2.8,0,0,4,True
-Yves Bissouma,Spurs,Burnley,2024-05-11,True,MC,74,0,0.0,0,0.0,2,0,0,1.6,0,0,1,True
-Yves Bissouma,Spurs,Burnley,2023-09-02,False,DMC,90,0,0.0487683154642581,0,0.0,2,2,0,4.2,0,0,2,True
-Yves Bissouma,Spurs,Sheffield,2023-09-16,True,DMC,90,0,0.3694024682044983,0,0.0924071222543716,1,2,3,10.8,0,0,1,True
-Yves Bissouma,Spurs,Arsenal,2023-09-24,False,DMC,90,0,0.0385142341256141,0,0.0,1,1,0,2.0,0,0,2,True
-Yves Bissouma,Spurs,Liverpool,2023-09-30,True,DMC,89,0,0.0623680464923381,0,0.0,1,2,0,3.1,0,0,1,True
-Yves Bissouma,Spurs,Luton,2023-10-07,False,DMC,48,0,0.0,0,0.0,-2,0,0,0.6,0,0,0,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Yves Bissouma,Spurs,Brentford,2023-08-13,False,DMC,90,0,0.03,0,0.03,2,3,1,6.3,0,0,2,True,0.0,0.0,90.0,0,0,0.13,0.44,0.03,3
+Yves Bissouma,Spurs,Crystal Palace,2023-10-27,False,DMC,63,0,0.04,0,0.0,3,1,0,1.9,0,1,0,True,2.0,0.03,76.5,0,0,0.13,0.44,0.03,2
+Yves Bissouma,Spurs,Chelsea,2023-11-06,True,DMC,90,0,0.07,0,0.0,2,1,0,2.7,0,0,4,True,2.5,0.04,81.0,0,0,0.13,0.44,0.03,2
+Yves Bissouma,Spurs,Wolverhampton,2023-11-11,False,MC,75,0,0.0,0,0.0,2,0,0,1.8,0,1,0,True,2.33,0.05,79.5,0,0,0.13,0.44,0.03,2
+Yves Bissouma,Spurs,Manchester City,2023-12-03,False,DMC,86,0,0.0,0,0.0,2,0,0,0.5,0,0,3,True,2.25,0.04,80.8,0,0,0.13,0.44,0.03,2
+Yves Bissouma,Spurs,West Ham,2023-12-07,True,DMC,83,0,0.12,0,0.05,2,2,1,5.1,0,0,2,True,2.2,0.03,81.17,0,0,0.13,0.44,0.03,3
+Yves Bissouma,Spurs,Newcastle United,2023-12-10,True,DMC,85,0,0.03,0,0.0,3,1,0,4.4,0,1,0,True,2.2,0.05,81.71,0,0,0.13,0.44,0.03,0
+Yves Bissouma,Spurs,Nottingham Forest,2023-12-15,False,DMC,69,0,0.0,0,0.0,0,0,0,0.8,0,1,0,True,2.2,0.04,80.12,0,0,0.13,0.44,0.03,3
+Yves Bissouma,Spurs,Manchester United,2023-08-19,True,DMC,90,0,0.11,0,0.0,3,2,0,3.0,0,1,0,True,1.8,0.03,81.22,0,0,0.13,0.44,0.03,1
+Yves Bissouma,Spurs,Brighton,2024-02-10,True,Sub,27,0,0.0,0,0.0,1,0,0,0.7,0,0,0,False,2.0,0.05,75.8,0,0,0.13,0.44,0.03,2
+Yves Bissouma,Spurs,Wolverhampton,2024-02-17,True,DMC,70,0,0.0,0,0.02,2,0,1,4.3,0,0,2,True,1.8,0.05,75.27,0,0,0.13,0.44,0.03,2
+Yves Bissouma,Spurs,Crystal Palace,2024-03-02,True,DMC,89,0,0.0,0,0.0,2,0,0,3.0,0,0,1,True,1.8,0.03,76.42,0,0,0.13,0.44,0.03,3
+Yves Bissouma,Spurs,Aston Villa,2024-03-10,False,DMC,90,0,0.0,0,0.0,3,0,0,3.1,0,1,0,True,1.6,0.02,77.46,0,0,0.13,0.44,0.03,1
+Yves Bissouma,Spurs,Fulham,2024-03-16,False,DMC,65,0,0.0,0,0.0,1,0,0,1.1,0,0,3,True,2.2,0.02,76.57,0,0,0.13,0.44,0.03,2
+Yves Bissouma,Spurs,Bournemouth,2023-08-26,False,DMC,73,0,0.06,0,0.11,2,1,1,6.2,0,1,0,True,1.8,0.0,76.33,0,0,0.13,0.44,0.03,2
+Yves Bissouma,Spurs,Luton,2024-03-30,True,DMC,84,0,0.0,0,0.03,2,0,1,2.9,0,0,1,True,2.0,0.01,76.81,0,0,0.13,0.44,0.03,2
+Yves Bissouma,Spurs,West Ham,2024-04-02,False,DMC,81,0,0.04,0,0.05,2,1,1,3.0,0,0,1,True,2.0,0.01,77.06,0,0,0.13,0.44,0.03,1
+Yves Bissouma,Spurs,Nottingham Forest,2024-04-07,True,DMC,45,0,0.12,0,0.0,1,4,0,1.6,0,0,1,True,2.0,0.02,75.28,0,0,0.13,0.44,0.03,0
+Yves Bissouma,Spurs,Newcastle United,2024-04-13,False,DMC,56,0,0.0,0,0.0,0,0,0,1.0,0,0,3,True,1.6,0.04,74.26,0,0,0.13,0.44,0.03,1
+Yves Bissouma,Spurs,Arsenal,2024-04-28,True,Sub,26,0,0.0,0,0.0,1,0,0,1.1,0,0,0,False,1.4,0.04,71.85,0,0,0.13,0.44,0.03,2
+Yves Bissouma,Spurs,Chelsea,2024-05-02,False,DMC,62,0,0.0,0,0.02,2,0,1,2.7,0,0,1,True,1.2,0.03,71.38,0,0,0.13,0.44,0.03,1
+Yves Bissouma,Spurs,Liverpool,2024-05-05,False,MC,90,0,0.02,0,0.0,1,1,0,2.8,0,0,4,True,1.2,0.03,72.23,0,0,0.13,0.44,0.03,2
+Yves Bissouma,Spurs,Burnley,2024-05-11,True,MC,74,0,0.0,0,0.0,2,0,0,1.6,0,0,1,True,1.0,0.03,72.3,0,0,0.13,0.44,0.03,2
+Yves Bissouma,Spurs,Burnley,2023-09-02,False,DMC,90,0,0.05,0,0.0,2,2,0,4.2,0,0,2,True,1.2,0.0,73.04,0,0,0.13,0.44,0.03,1
+Yves Bissouma,Spurs,Sheffield,2023-09-16,True,DMC,90,0,0.37,0,0.09,1,2,3,10.8,0,0,1,True,1.6,0.01,73.72,0,0,0.13,0.44,0.03,1
+Yves Bissouma,Spurs,Arsenal,2023-09-24,False,DMC,90,0,0.04,0,0.0,1,1,0,2.0,0,0,2,True,1.6,0.09,74.35,0,0,0.13,0.44,0.03,1
+Yves Bissouma,Spurs,Liverpool,2023-09-30,True,DMC,89,0,0.06,0,0.0,1,2,0,3.1,0,0,1,True,1.4,0.1,74.89,0,0,0.13,0.44,0.03,-2
+Yves Bissouma,Spurs,Luton,2023-10-07,False,DMC,48,0,0.0,0,0.0,-2,0,0,0.6,0,0,0,True,1.4,0.1,73.93,0,0,0.13,0.44,0.03,

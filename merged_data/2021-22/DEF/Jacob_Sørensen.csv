@@ -1,11 +1,11 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Jacob Sørensen,Norwich,Tottenham,2021-12-05,False,Sub,9,0,0.0,0,0,1,0,0,0.8,0,0,0
-Jacob Sørensen,Norwich,Manchester United,2021-12-11,True,Sub,69,0,0.1274291723966598,0,0,2,1,0,5.3,0,0,1
-Jacob Sørensen,Norwich,Aston Villa,2021-12-14,True,MC,90,0,0.0371359512209892,0,0,1,2,0,6.7,0,0,2
-Jacob Sørensen,Norwich,Crystal Palace,2021-12-28,False,DC,90,0,0.0,0,0,1,0,0,0.9,0,0,3
-Jacob Sørensen,Norwich,Everton,2022-01-15,True,DMC,90,0,0.0168930776417255,0,0,2,1,0,2.4,0,0,1
-Jacob Sørensen,Norwich,Watford,2022-01-21,False,MC,20,0,0.0,0,0,1,0,0,0.3,0,0,0
-Jacob Sørensen,Norwich,West Ham,2022-05-08,True,DMC,90,0,0.010136330500245,0,0,0,1,0,2.9,0,0,4
-Jacob Sørensen,Norwich,Leeds United,2022-05-11,False,Sub,32,0,0.0,0,0,0,0,0,0.1,0,0,2
-Jacob Sørensen,Norwich,Wolverhampton,2022-05-15,False,Sub,20,0,0.0,0,0,1,0,0,1.0,0,0,0
-Jacob Sørensen,Norwich,Tottenham,2022-05-22,True,DC,90,0,0.0,0,0,0,0,0,0.0,0,0,5
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
+Jacob Sørensen,Norwich,Tottenham,2021-12-05,False,Sub,9,0,0.0,0,0,1,0,0,0.8,0,0,0,0.0,0.0,9.0,0.0
+Jacob Sørensen,Norwich,Manchester United,2021-12-11,True,Sub,69,0,0.13,0,0,2,1,0,5.3,0,0,1,1.0,0.0,39.0,0.0
+Jacob Sørensen,Norwich,Aston Villa,2021-12-14,True,MC,90,0,0.04,0,0,1,2,0,6.7,0,0,2,1.5,0.06,56.0,0.0
+Jacob Sørensen,Norwich,Crystal Palace,2021-12-28,False,DC,90,0,0.0,0,0,1,0,0,0.9,0,0,3,1.33,0.05,64.5,0.0
+Jacob Sørensen,Norwich,Everton,2022-01-15,True,DMC,90,0,0.02,0,0,2,1,0,2.4,0,0,1,1.25,0.04,69.6,0.0
+Jacob Sørensen,Norwich,Watford,2022-01-21,False,MC,20,0,0.0,0,0,1,0,0,0.3,0,0,0,1.4,0.04,61.33,0.0
+Jacob Sørensen,Norwich,West Ham,2022-05-08,True,DMC,90,0,0.01,0,0,0,1,0,2.9,0,0,4,1.4,0.04,65.43,0.0
+Jacob Sørensen,Norwich,Leeds United,2022-05-11,False,Sub,32,0,0.0,0,0,0,0,0,0.1,0,0,2,1.0,0.01,61.25,0.0
+Jacob Sørensen,Norwich,Wolverhampton,2022-05-15,False,Sub,20,0,0.0,0,0,1,0,0,1.0,0,0,0,0.8,0.01,56.67,0.0
+Jacob Sørensen,Norwich,Tottenham,2022-05-22,True,DC,90,0,0.0,0,0,0,0,0,0.0,0,0,5,0.8,0.01,60.0,0.0

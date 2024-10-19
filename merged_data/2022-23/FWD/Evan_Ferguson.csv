@@ -1,20 +1,20 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts
-Evan Ferguson,Brighton,Southampton,2022-12-26,False,Sub,7,0,0.0,0,0.0,1,0,0,0.0,0,False
-Evan Ferguson,Brighton,Arsenal,2022-12-31,True,Sub,30,1,0.5190309882164001,0,0.0,5,2,0,6.5,0,False
-Evan Ferguson,Brighton,Everton,2023-01-03,False,FW,70,1,0.785906970500946,1,0.1132719963788986,11,4,1,7.5,3,True
-Evan Ferguson,Brighton,Liverpool,2023-01-14,True,FW,65,0,0.0983256995677948,1,0.1977529972791671,5,1,2,7.5,0,True
-Evan Ferguson,Brighton,Leeds United,2023-01-21,False,Sub,24,1,0.0611915998160839,0,0.0,6,1,0,5.4,1,False
-Evan Ferguson,Brighton,Crystal Palace,2023-02-11,False,Sub,33,0,0.0,0,0.0,1,0,0,0.2,0,False
-Evan Ferguson,Brighton,Fulham,2023-02-18,True,FW,72,0,0.5724959969520569,0,0.0,2,4,0,5.5,0,True
-Evan Ferguson,Brighton,West Ham,2023-03-04,True,FW,82,0,0.268682986497879,0,0.0,2,4,0,4.6,0,True
-Evan Ferguson,Brighton,Leicester City,2023-03-11,False,FW,67,0,0.1388520002365112,0,0.0173154007643461,2,1,1,2.6,0,True
-Evan Ferguson,Brighton,Crystal Palace,2023-03-15,True,Sub,11,0,0.0,0,0.0,1,0,0,0.6,0,False
-Evan Ferguson,Brighton,Bournemouth,2023-04-04,False,FW,72,1,1.0248700380325315,0,0.0,7,3,0,6.0,1,True
-Evan Ferguson,Brighton,Tottenham,2023-04-08,False,Sub,24,0,0.0473975017666816,0,0.0,1,1,0,0.7,0,False
-Evan Ferguson,Brighton,Chelsea,2023-04-15,False,FW,38,0,0.2898910045623779,0,0.0457897000014781,1,2,1,4.5,0,True
-Evan Ferguson,Brighton,Everton,2023-05-08,True,Sub,45,0,0.537999153137207,0,0.1421324163675308,1,3,3,8.5,0,False
-Evan Ferguson,Brighton,Arsenal,2023-05-14,False,FW,76,0,0.0379970371723175,0,0.0,2,1,0,0.3,0,True
-Evan Ferguson,Brighton,Newcastle United,2023-05-18,False,Sub,34,0,0.0,0,0.0843485593795776,1,0,1,1.5,0,False
-Evan Ferguson,Brighton,Southampton,2023-05-21,True,FW,64,2,0.856859028339386,0,0.0,13,5,0,11.5,3,True
-Evan Ferguson,Brighton,Manchester City,2023-05-24,True,Sub,38,0,0.0894691050052642,0,0.0,1,2,0,3.1,0,False
-Evan Ferguson,Brighton,Aston Villa,2023-05-28,False,FW,90,0,0.3383581936359405,0,0.0864103138446807,2,2,2,0.0,0,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Evan Ferguson,Brighton,Southampton,2022-12-26,False,Sub,7,0,0.0,0,0.0,1,0,0,0.0,0,False,0.0,0.0,7.0,0,0,0,0,0.05,5
+Evan Ferguson,Brighton,Arsenal,2022-12-31,True,Sub,30,1,0.52,0,0.0,5,2,0,6.5,0,False,1.0,0.0,18.5,0,0,0,0,0.05,11
+Evan Ferguson,Brighton,Everton,2023-01-03,False,FW,70,1,0.79,1,0.11,11,4,1,7.5,3,True,3.0,0.26,35.67,0,0,0,0,0.05,5
+Evan Ferguson,Brighton,Liverpool,2023-01-14,True,FW,65,0,0.1,1,0.2,5,1,2,7.5,0,True,5.67,0.77,43.0,0,0,0,0,0.05,6
+Evan Ferguson,Brighton,Leeds United,2023-01-21,False,Sub,24,1,0.06,0,0.0,6,1,0,5.4,1,False,5.5,0.85,39.2,0,0,0,0,0.05,1
+Evan Ferguson,Brighton,Crystal Palace,2023-02-11,False,Sub,33,0,0.0,0,0.0,1,0,0,0.2,0,False,5.6,0.69,38.17,0,0,0,0,0.05,2
+Evan Ferguson,Brighton,Fulham,2023-02-18,True,FW,72,0,0.57,0,0.0,2,4,0,5.5,0,True,5.6,0.69,43.0,0,0,0,0,0.05,2
+Evan Ferguson,Brighton,West Ham,2023-03-04,True,FW,82,0,0.27,0,0.0,2,4,0,4.6,0,True,5.0,0.7,47.88,0,0,0,0,0.05,2
+Evan Ferguson,Brighton,Leicester City,2023-03-11,False,FW,67,0,0.14,0,0.02,2,1,1,2.6,0,True,3.2,0.4,50.0,0,0,0,0,0.05,1
+Evan Ferguson,Brighton,Crystal Palace,2023-03-15,True,Sub,11,0,0.0,0,0.0,1,0,0,0.6,0,False,2.6,0.21,46.1,0,0,0,0,0.05,7
+Evan Ferguson,Brighton,Bournemouth,2023-04-04,False,FW,72,1,1.02,0,0.0,7,3,0,6.0,1,True,1.6,0.2,48.45,0,0,0,0,0.05,1
+Evan Ferguson,Brighton,Tottenham,2023-04-08,False,Sub,24,0,0.05,0,0.0,1,1,0,0.7,0,False,2.8,0.4,46.42,0,0,0,0,0.05,1
+Evan Ferguson,Brighton,Chelsea,2023-04-15,False,FW,38,0,0.29,0,0.05,1,2,1,4.5,0,True,2.6,0.3,45.77,0,0,0,0,0.05,1
+Evan Ferguson,Brighton,Everton,2023-05-08,True,Sub,45,0,0.54,0,0.14,1,3,3,8.5,0,False,2.4,0.3,45.71,0,0,0,0,0.05,2
+Evan Ferguson,Brighton,Arsenal,2023-05-14,False,FW,76,0,0.04,0,0.0,2,1,0,0.3,0,True,2.2,0.38,47.73,0,0,0,0,0.05,1
+Evan Ferguson,Brighton,Newcastle United,2023-05-18,False,Sub,34,0,0.0,0,0.08,1,0,1,1.5,0,False,2.4,0.39,46.88,0,0,0,0,0.05,13
+Evan Ferguson,Brighton,Southampton,2023-05-21,True,FW,64,2,0.86,0,0.0,13,5,0,11.5,3,True,1.2,0.18,47.88,0,0,0,0,0.05,1
+Evan Ferguson,Brighton,Manchester City,2023-05-24,True,Sub,38,0,0.09,0,0.0,1,2,0,3.1,0,False,3.6,0.34,47.33,0,0,0,0,0.05,2
+Evan Ferguson,Brighton,Aston Villa,2023-05-28,False,FW,90,0,0.34,0,0.09,2,2,2,0.0,0,True,3.6,0.3,49.58,0,0,0,0,0.05,5

@@ -1,29 +1,29 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Lewis Cook,Bournemouth,Aston Villa,2022-08-06,True,Sub,18,0,0.0,0,0.0,1,0,0,0.8,0,0,0,False
-Lewis Cook,Bournemouth,Leeds United,2022-10-08,True,MC,90,0,0.0202341005206108,0,0.1156440004706382,2,1,2,4.5,0,0,1,False
-Lewis Cook,Bournemouth,Fulham,2022-10-15,False,MC,90,0,0.0,0,0.3701620101928711,2,0,3,6.2,0,0,2,False
-Lewis Cook,Bournemouth,Southampton,2022-10-19,True,MC,90,0,0.0773686990141868,0,0.3133330047130584,2,1,5,9.0,0,0,1,False
-Lewis Cook,Bournemouth,West Ham,2022-10-24,False,DMC,90,0,0.0,0,0.0,2,0,0,2.0,0,0,2,False
-Lewis Cook,Bournemouth,Tottenham,2022-10-29,True,MC,90,0,0.0,0,0.0663482993841171,1,0,2,5.0,0,0,3,False
-Lewis Cook,Bournemouth,Leicester City,2022-11-05,False,MC,90,0,0.0,0,0.0,2,0,0,2.9,0,0,4,False
-Lewis Cook,Bournemouth,Everton,2022-11-12,True,MC,90,0,0.0,1,0.7541990280151367,5,0,4,8.2,0,1,0,True
-Lewis Cook,Bournemouth,Chelsea,2022-12-27,False,MC,90,0,0.0163936000317335,0,0.0,2,1,0,2.9,0,0,2,True
-Lewis Cook,Bournemouth,Crystal Palace,2022-12-31,True,MC,79,0,0.0203224997967481,0,0.0,2,1,0,1.1,0,0,2,True
-Lewis Cook,Bournemouth,Manchester United,2023-01-03,False,MC,90,0,0.0,0,0.1293199956417083,2,0,2,6.3,0,0,3,True
-Lewis Cook,Bournemouth,Manchester City,2022-08-13,False,MC,63,0,0.0,0,0.0,2,0,0,0.4,0,0,3,False
-Lewis Cook,Bournemouth,Brentford,2023-01-14,False,MC,34,0,0.0,0,0.0,1,0,0,0.8,0,0,0,True
-Lewis Cook,Bournemouth,Arsenal,2023-03-04,False,Sub,20,0,0.0,0,0.0,1,0,0,0.5,0,0,1,False
-Lewis Cook,Bournemouth,Liverpool,2023-03-11,True,Sub,9,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False
-Lewis Cook,Bournemouth,Brighton,2023-04-04,True,Sub,5,0,0.0,0,0.0,0,0,0,0.0,0,0,1,False
-Lewis Cook,Bournemouth,Arsenal,2022-08-20,True,Sub,45,0,0.0,0,0.0,1,0,0,1.2,0,0,1,False
-Lewis Cook,Bournemouth,Leeds United,2023-04-08,False,Sub,31,0,0.0,0,0.0245519001036882,1,0,1,3.0,0,0,0,False
-Lewis Cook,Bournemouth,West Ham,2023-04-23,True,Sub,15,0,0.0,0,0.0,1,0,0,0.4,0,0,0,False
-Lewis Cook,Bournemouth,Leicester City,2023-04-30,True,Sub,17,0,0.0,0,0.4396394193172455,1,0,1,1.9,0,0,0,False
-Lewis Cook,Bournemouth,Chelsea,2023-05-06,True,Sub,31,0,0.0,0,0.0,1,0,0,1.1,0,0,2,False
-Lewis Cook,Bournemouth,Crystal Palace,2023-05-13,False,Sub,9,0,0.0351685620844364,0,0.0,1,1,0,0.0,0,0,0,False
-Lewis Cook,Bournemouth,Manchester United,2023-05-20,True,DMC,90,0,0.0,0,0.0,1,0,0,1.1,0,0,1,True
-Lewis Cook,Bournemouth,Liverpool,2022-08-27,False,DMC,76,0,0.0,0,0.0,2,0,0,0.7,0,0,7,False
-Lewis Cook,Bournemouth,Wolverhampton,2022-08-31,True,MC,90,0,0.0,0,0.0,3,0,0,0.9,0,1,0,False
-Lewis Cook,Bournemouth,Nottingham Forest,2022-09-03,False,DMC,90,0,0.0141495000571012,1,0.0591715984046459,6,1,2,6.9,1,0,2,False
-Lewis Cook,Bournemouth,Newcastle United,2022-09-17,False,DMC,90,0,0.0,0,0.0276579000055789,2,0,1,2.5,0,0,1,False
-Lewis Cook,Bournemouth,Brentford,2022-10-01,True,MC,90,0,0.0,0,0.0,3,0,0,0.7,0,1,0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Lewis Cook,Bournemouth,Aston Villa,2022-08-06,True,Sub,18,0,0.0,0,0.0,1,0,0,0.8,0,0,0,False,0.0,0.0,18.0,0,0,0,0,0,2
+Lewis Cook,Bournemouth,Leeds United,2022-10-08,True,MC,90,0,0.02,0,0.12,2,1,2,4.5,0,0,1,False,1.0,0.0,54.0,0,0,0,0,0,2
+Lewis Cook,Bournemouth,Fulham,2022-10-15,False,MC,90,0,0.0,0,0.37,2,0,3,6.2,0,0,2,False,1.5,0.01,66.0,0,0,0,0,0,2
+Lewis Cook,Bournemouth,Southampton,2022-10-19,True,MC,90,0,0.08,0,0.31,2,1,5,9.0,0,0,1,False,1.67,0.01,72.0,0,0,0,0,0,2
+Lewis Cook,Bournemouth,West Ham,2022-10-24,False,DMC,90,0,0.0,0,0.0,2,0,0,2.0,0,0,2,False,1.75,0.02,75.6,0,0,0,0,0,1
+Lewis Cook,Bournemouth,Tottenham,2022-10-29,True,MC,90,0,0.0,0,0.07,1,0,2,5.0,0,0,3,False,1.8,0.02,78.0,0,0,0,0,0,2
+Lewis Cook,Bournemouth,Leicester City,2022-11-05,False,MC,90,0,0.0,0,0.0,2,0,0,2.9,0,0,4,False,1.8,0.02,79.71,0,0,0,0,0,5
+Lewis Cook,Bournemouth,Everton,2022-11-12,True,MC,90,0,0.0,1,0.75,5,0,4,8.2,0,1,0,True,1.8,0.02,81.0,0,0,0,0,0,2
+Lewis Cook,Bournemouth,Chelsea,2022-12-27,False,MC,90,0,0.02,0,0.0,2,1,0,2.9,0,0,2,True,2.4,0.22,82.0,0,0,0,0,0,2
+Lewis Cook,Bournemouth,Crystal Palace,2022-12-31,True,MC,79,0,0.02,0,0.0,2,1,0,1.1,0,0,2,True,2.4,0.2,81.7,0,0,0,0,0,2
+Lewis Cook,Bournemouth,Manchester United,2023-01-03,False,MC,90,0,0.0,0,0.13,2,0,2,6.3,0,0,3,True,2.4,0.21,82.45,0,0,0,0,0,2
+Lewis Cook,Bournemouth,Manchester City,2022-08-13,False,MC,63,0,0.0,0,0.0,2,0,0,0.4,0,0,3,False,2.6,0.21,80.83,0,0,0,0,0,1
+Lewis Cook,Bournemouth,Brentford,2023-01-14,False,MC,34,0,0.0,0,0.0,1,0,0,0.8,0,0,0,True,2.6,0.21,77.23,0,0,0,0,0,1
+Lewis Cook,Bournemouth,Arsenal,2023-03-04,False,Sub,20,0,0.0,0,0.0,1,0,0,0.5,0,0,1,False,1.8,0.01,73.14,0,0,0,0,0,1
+Lewis Cook,Bournemouth,Liverpool,2023-03-11,True,Sub,9,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,1.6,0.0,68.87,0,0,0,0,0,0
+Lewis Cook,Bournemouth,Brighton,2023-04-04,True,Sub,5,0,0.0,0,0.0,0,0,0,0.0,0,0,1,False,1.4,0.0,64.88,0,0,0,0,0,1
+Lewis Cook,Bournemouth,Arsenal,2022-08-20,True,Sub,45,0,0.0,0,0.0,1,0,0,1.2,0,0,1,False,1.0,0.0,63.71,0,0,0,0,0,1
+Lewis Cook,Bournemouth,Leeds United,2023-04-08,False,Sub,31,0,0.0,0,0.02,1,0,1,3.0,0,0,0,False,0.8,0.0,61.89,0,0,0,0,0,1
+Lewis Cook,Bournemouth,West Ham,2023-04-23,True,Sub,15,0,0.0,0,0.0,1,0,0,0.4,0,0,0,False,0.8,0.0,59.42,0,0,0,0,0,1
+Lewis Cook,Bournemouth,Leicester City,2023-04-30,True,Sub,17,0,0.0,0,0.44,1,0,1,1.9,0,0,0,False,0.8,0.0,57.3,0,0,0,0,0,1
+Lewis Cook,Bournemouth,Chelsea,2023-05-06,True,Sub,31,0,0.0,0,0.0,1,0,0,1.1,0,0,2,False,0.8,0.0,56.05,0,0,0,0,0,1
+Lewis Cook,Bournemouth,Crystal Palace,2023-05-13,False,Sub,9,0,0.04,0,0.0,1,1,0,0.0,0,0,0,False,1.0,0.0,53.91,0,0,0,0,0,1
+Lewis Cook,Bournemouth,Manchester United,2023-05-20,True,DMC,90,0,0.0,0,0.0,1,0,0,1.1,0,0,1,True,1.0,0.01,55.48,0,0,0,0,0,2
+Lewis Cook,Bournemouth,Liverpool,2022-08-27,False,DMC,76,0,0.0,0,0.0,2,0,0,0.7,0,0,7,False,1.0,0.01,56.33,0,0,0,0,0,3
+Lewis Cook,Bournemouth,Wolverhampton,2022-08-31,True,MC,90,0,0.0,0,0.0,3,0,0,0.9,0,1,0,False,1.2,0.01,57.68,0,0,0,0,0,6
+Lewis Cook,Bournemouth,Nottingham Forest,2022-09-03,False,DMC,90,0,0.01,1,0.06,6,1,2,6.9,1,0,2,False,1.6,0.01,58.92,0,0,0,0,0,2
+Lewis Cook,Bournemouth,Newcastle United,2022-09-17,False,DMC,90,0,0.0,0,0.03,2,0,1,2.5,0,0,1,False,2.6,0.21,60.07,0,0,0,0,0,3
+Lewis Cook,Bournemouth,Brentford,2022-10-01,True,MC,90,0,0.0,0,0.0,3,0,0,0.7,0,1,0,False,2.8,0.2,61.14,0,0,0,0,0,2

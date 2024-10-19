@@ -1,13 +1,13 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts
-Victor Kristiansen,Leicester,Aston Villa,2023-02-04,False,DL,80,0,0.0,0,0.0,1,0,0,2.6,0,0,2,1.45,True
-Victor Kristiansen,Leicester,Tottenham,2023-02-11,True,DL,90,0,0.0854467004537582,0,0.1563140004873275,2,1,2,5.2,0,0,1,1.28,True
-Victor Kristiansen,Leicester,Manchester United,2023-02-19,False,DL,90,0,0.0,0,0.1114839985966682,1,0,2,4.9,0,0,3,4.23,True
-Victor Kristiansen,Leicester,Arsenal,2023-02-25,True,DL,90,0,0.0,0,0.0,2,0,0,1.6,0,0,1,0.64,True
-Victor Kristiansen,Leicester,Crystal Palace,2023-04-01,False,DL,59,0,0.0,0,0.0,0,0,0,0.8,0,0,1,1.14,True
-Victor Kristiansen,Leicester,Aston Villa,2023-04-04,True,DL,90,0,0.0,0,0.0,1,0,0,1.9,0,0,2,1.03,True
-Victor Kristiansen,Leicester,Bournemouth,2023-04-08,True,DL,90,0,0.0327572003006935,0,0.2824670076370239,2,2,1,4.6,0,0,1,2.22,True
-Victor Kristiansen,Leicester,Manchester City,2023-04-15,False,DML,45,0,0.0,0,0.0,0,0,0,1.0,0,0,3,1.91,True
-Victor Kristiansen,Leicester,Wolverhampton,2023-04-22,True,DL,90,0,0.0,1,0.0881978273391723,5,0,1,5.2,0,0,1,0.9,True
-Victor Kristiansen,Leicester,Leicester City,2023-04-25,False,DL,90,0,0.0,0,0.0,2,0,0,0.6,0,0,1,1.7,True
-Victor Kristiansen,Leicester,Everton,2023-05-01,True,Sub,2,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0.0,False
-Victor Kristiansen,Leicester,Fulham,2023-05-08,False,DL,75,0,0.0,0,0.0281639769673347,0,0,1,2.4,0,0,5,1.38,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
+Victor Kristiansen,Leicester,Aston Villa,2023-02-04,False,DL,80,0,0.0,0,0.0,1,0,0,2.6,0,0,2,1.45,True,0.0,0.0,80.0,0.0,0,0,0,0,2
+Victor Kristiansen,Leicester,Tottenham,2023-02-11,True,DL,90,0,0.09,0,0.16,2,1,2,5.2,0,0,1,1.28,True,1.0,0.0,85.0,0.0,0,0,0,0,1
+Victor Kristiansen,Leicester,Manchester United,2023-02-19,False,DL,90,0,0.0,0,0.11,1,0,2,4.9,0,0,3,4.23,True,1.5,0.04,86.67,0.0,0,0,0,0,2
+Victor Kristiansen,Leicester,Arsenal,2023-02-25,True,DL,90,0,0.0,0,0.0,2,0,0,1.6,0,0,1,0.64,True,1.33,0.03,87.5,0.0,0,0,0,0,0
+Victor Kristiansen,Leicester,Crystal Palace,2023-04-01,False,DL,59,0,0.0,0,0.0,0,0,0,0.8,0,0,1,1.14,True,1.5,0.02,81.8,0.0,0,0,0,0,1
+Victor Kristiansen,Leicester,Aston Villa,2023-04-04,True,DL,90,0,0.0,0,0.0,1,0,0,1.9,0,0,2,1.03,True,1.2,0.02,83.17,0.0,0,0,0,0,2
+Victor Kristiansen,Leicester,Bournemouth,2023-04-08,True,DL,90,0,0.03,0,0.28,2,2,1,4.6,0,0,1,2.22,True,1.2,0.02,84.14,0.0,0,0,0,0,0
+Victor Kristiansen,Leicester,Manchester City,2023-04-15,False,DML,45,0,0.0,0,0.0,0,0,0,1.0,0,0,3,1.91,True,1.2,0.01,79.25,0.0,0,0,0,0,5
+Victor Kristiansen,Leicester,Wolverhampton,2023-04-22,True,DL,90,0,0.0,1,0.09,5,0,1,5.2,0,0,1,0.9,True,1.0,0.01,80.44,0.0,0,0,0,0,2
+Victor Kristiansen,Leicester,Leicester City,2023-04-25,False,DL,90,0,0.0,0,0.0,2,0,0,0.6,0,0,1,1.7,True,1.6,0.21,81.4,0.0,0,0,0,0,0
+Victor Kristiansen,Leicester,Everton,2023-05-01,True,Sub,2,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0.0,False,2.0,0.21,74.18,0.0,0,0,0,0,0
+Victor Kristiansen,Leicester,Fulham,2023-05-08,False,DL,75,0,0.0,0,0.03,0,0,1,2.4,0,0,5,1.38,True,1.8,0.21,74.25,0.0,0,0,0,0,

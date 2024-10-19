@@ -1,12 +1,12 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Ozan Kabak,Norwich,Leicester City,2021-10-31,True,DC,90,0,0.0,0,0.0,1,0,0,1.6,0,0,2
-Ozan Kabak,Norwich,Manchester United,2021-12-11,True,DC,90,0,0.3694439530372619,0,0.0,2,2,0,7.5,0,0,1
-Ozan Kabak,Norwich,Aston Villa,2021-12-14,True,DC,45,0,0.0,0,0.0,1,0,0,1.8,0,0,1
-Ozan Kabak,Norwich,Arsenal,2021-12-26,True,DC,90,0,0.0,0,0.0,0,0,0,1.2,0,0,5
-Ozan Kabak,Norwich,Chelsea,2022-03-10,True,DC,90,0,0.0,0,0.0183630157262086,1,0,1,2.8,0,0,3
-Ozan Kabak,Norwich,Leicester City,2022-03-13,False,DC,90,0,0.0,0,0.0,1,0,0,1.0,0,0,2
-Ozan Kabak,Norwich,Watford,2021-09-18,True,DC,90,0,0.0,0,0.0,1,0,0,1.8,0,0,3
-Ozan Kabak,Norwich,Everton,2021-09-25,False,DC,68,0,0.0,0,0.011970798484981,1,0,1,2.4,0,0,1
-Ozan Kabak,Norwich,Burnley,2021-10-02,False,DC,90,0,0.1438962817192077,0,0.0,6,1,0,1.9,0,1,0
-Ozan Kabak,Norwich,Brighton,2021-10-16,True,DC,90,0,0.0455244779586792,0,0.0,5,1,0,1.9,0,1,0
-Ozan Kabak,Norwich,Chelsea,2021-10-23,False,DC,90,0,0.0218839365988969,0,0.0,-1,1,0,1.7,0,0,7
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
+Ozan Kabak,Norwich,Leicester City,2021-10-31,True,DC,90,0,0.0,0,0.0,1,0,0,1.6,0,0,2,0.0,0.0,90.0,0.0
+Ozan Kabak,Norwich,Manchester United,2021-12-11,True,DC,90,0,0.37,0,0.0,2,2,0,7.5,0,0,1,1.0,0.0,90.0,0.0
+Ozan Kabak,Norwich,Aston Villa,2021-12-14,True,DC,45,0,0.0,0,0.0,1,0,0,1.8,0,0,1,1.5,0.18,75.0,0.0
+Ozan Kabak,Norwich,Arsenal,2021-12-26,True,DC,90,0,0.0,0,0.0,0,0,0,1.2,0,0,5,1.33,0.12,78.75,0.0
+Ozan Kabak,Norwich,Chelsea,2022-03-10,True,DC,90,0,0.0,0,0.02,1,0,1,2.8,0,0,3,1.0,0.09,81.0,0.0
+Ozan Kabak,Norwich,Leicester City,2022-03-13,False,DC,90,0,0.0,0,0.0,1,0,0,1.0,0,0,2,1.0,0.07,82.5,0.0
+Ozan Kabak,Norwich,Watford,2021-09-18,True,DC,90,0,0.0,0,0.0,1,0,0,1.8,0,0,3,1.0,0.07,83.57,0.0
+Ozan Kabak,Norwich,Everton,2021-09-25,False,DC,68,0,0.0,0,0.01,1,0,1,2.4,0,0,1,0.8,0.0,81.62,0.0
+Ozan Kabak,Norwich,Burnley,2021-10-02,False,DC,90,0,0.14,0,0.0,6,1,0,1.9,0,1,0,0.8,0.0,82.56,0.12
+Ozan Kabak,Norwich,Brighton,2021-10-16,True,DC,90,0,0.05,0,0.0,5,1,0,1.9,0,1,0,2.0,0.03,83.3,0.22
+Ozan Kabak,Norwich,Chelsea,2021-10-23,False,DC,90,0,0.02,0,0.0,-1,1,0,1.7,0,0,7,2.8,0.04,83.91,0.2

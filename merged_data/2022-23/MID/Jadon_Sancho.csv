@@ -1,27 +1,27 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Jadon Sancho,Man Utd,Brighton,2022-08-07,True,FWR,89,0,0.0,0,0.1633339971303939,2,0,2,4.3,0,0,2,False
-Jadon Sancho,Man Utd,Newcastle United,2022-10-16,True,AML,90,0,0.036753099411726,0,0.103471003472805,3,1,2,5.3,0,1,0,False
-Jadon Sancho,Man Utd,Tottenham,2022-10-19,True,AML,86,0,0.0768127962946891,1,0.1836449950933456,6,1,5,11.6,0,1,0,False
-Jadon Sancho,Man Utd,Chelsea,2022-10-22,False,AML,51,0,0.0210647005587816,0,0.0,1,1,0,2.2,0,0,0,False
-Jadon Sancho,Man Utd,Brentford,2022-08-13,False,AMR,59,0,0.0,0,0.0480199009180069,1,0,2,4.1,0,0,4,False
-Jadon Sancho,Man Utd,Leicester City,2023-02-08,True,Sub,31,1,0.0511057004332542,0,0.2046490013599395,6,1,3,10.1,0,0,0,False
-Jadon Sancho,Man Utd,Leicester City,2023-02-12,False,AMR,60,0,0.0,0,0.064858503639698,3,0,1,1.9,0,1,0,True
-Jadon Sancho,Man Utd,Leeds United,2023-02-19,True,Sub,45,1,1.0162400007247925,0,0.4623430073261261,6,3,3,10.8,0,0,0,False
-Jadon Sancho,Man Utd,Southampton,2023-03-12,True,MC,72,0,0.0,0,0.0,3,0,0,2.5,0,1,0,True
-Jadon Sancho,Man Utd,Newcastle United,2023-04-02,False,Sub,28,0,0.0,0,0.0,1,0,0,0.6,0,0,2,False
-Jadon Sancho,Man Utd,Brentford,2023-04-05,True,AML,70,0,0.0390575006604194,0,0.0481473989784717,3,1,1,3.8,0,1,0,True
-Jadon Sancho,Man Utd,Liverpool,2022-08-22,True,AMR,70,1,0.2857719957828522,0,0.1550399959087371,10,1,1,7.7,2,1,0,False
-Jadon Sancho,Man Utd,Everton,2023-04-08,True,AML,76,0,0.0,1,0.5659509897232056,6,0,5,10.2,0,1,0,True
-Jadon Sancho,Man Utd,Nottingham Forest,2023-04-16,False,AML,90,0,0.5163310170173645,0,0.0281562991440296,3,2,1,3.6,0,1,0,True
-Jadon Sancho,Man Utd,Tottenham,2023-04-27,False,AML,60,1,0.2510637044906616,0,0.0,7,3,0,0.0,0,0,1,True
-Jadon Sancho,Man Utd,Aston Villa,2023-04-30,True,ML,75,0,0.0,0,0.1856250166893005,3,0,2,4.6,0,1,0,True
-Jadon Sancho,Man Utd,Brighton,2023-05-04,False,Sub,14,0,0.0,0,0.0,1,0,0,0.1,0,0,1,False
-Jadon Sancho,Man Utd,West Ham,2023-05-07,False,Sub,16,0,0.0,0,0.0380431711673736,1,0,1,1.4,0,0,0,False
-Jadon Sancho,Man Utd,Wolverhampton,2023-05-13,True,AML,81,0,0.1158600598573684,0,0.1395350247621536,3,1,3,8.2,0,1,0,True
-Jadon Sancho,Man Utd,Bournemouth,2023-05-20,False,AML,71,0,0.0,0,0.1306369751691818,3,0,2,5.2,0,1,0,True
-Jadon Sancho,Man Utd,Chelsea,2023-05-25,True,AML,90,0,0.1427370607852935,1,1.6893911361694336,7,1,5,10.3,2,0,1,True
-Jadon Sancho,Man Utd,Fulham,2023-05-28,True,AMR,90,1,0.4575313925743103,0,0.51531583070755,9,2,2,0.0,2,0,1,True
-Jadon Sancho,Man Utd,Southampton,2022-08-27,False,AML,67,0,0.0,0,0.0,3,0,0,1.6,0,1,0,False
-Jadon Sancho,Man Utd,Leeds United,2022-09-01,False,AML,67,1,0.7237370014190674,0,0.0,10,2,0,8.0,2,1,0,False
-Jadon Sancho,Man Utd,Arsenal,2022-09-04,True,AML,66,0,0.0550289005041122,0,0.0,2,1,0,2.2,0,0,1,False
-Jadon Sancho,Man Utd,Manchester City,2022-10-02,False,AML,69,0,0.0,0,0.0638732984662056,2,0,2,3.4,0,0,5,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Jadon Sancho,Man Utd,Brighton,2022-08-07,True,FWR,89,0,0.0,0,0.16,2,0,2,4.3,0,0,2,False,0.0,0.0,89.0,3,3,4.25,4.07,0.05,3
+Jadon Sancho,Man Utd,Newcastle United,2022-10-16,True,AML,90,0,0.04,0,0.1,3,1,2,5.3,0,1,0,False,2.0,0.0,89.5,3,3,4.25,4.07,0.05,6
+Jadon Sancho,Man Utd,Tottenham,2022-10-19,True,AML,86,0,0.08,1,0.18,6,1,5,11.6,0,1,0,False,2.5,0.02,88.33,3,3,4.25,4.07,0.05,1
+Jadon Sancho,Man Utd,Chelsea,2022-10-22,False,AML,51,0,0.02,0,0.0,1,1,0,2.2,0,0,0,False,3.67,0.37,79.0,3,3,4.25,4.07,0.05,1
+Jadon Sancho,Man Utd,Brentford,2022-08-13,False,AMR,59,0,0.0,0,0.05,1,0,2,4.1,0,0,4,False,3.0,0.28,75.0,3,3,4.25,4.07,0.05,6
+Jadon Sancho,Man Utd,Leicester City,2023-02-08,True,Sub,31,1,0.05,0,0.2,6,1,3,10.1,0,0,0,False,2.6,0.23,67.67,3,3,4.25,4.07,0.05,3
+Jadon Sancho,Man Utd,Leicester City,2023-02-12,False,AMR,60,0,0.0,0,0.06,3,0,1,1.9,0,1,0,True,3.4,0.24,66.57,3,3,4.25,4.07,0.05,6
+Jadon Sancho,Man Utd,Leeds United,2023-02-19,True,Sub,45,1,1.02,0,0.46,6,3,3,10.8,0,0,0,False,3.4,0.23,63.88,3,3,4.25,4.07,0.05,3
+Jadon Sancho,Man Utd,Southampton,2023-03-12,True,MC,72,0,0.0,0,0.0,3,0,0,2.5,0,1,0,True,3.4,0.22,64.78,3,3,4.25,4.07,0.05,1
+Jadon Sancho,Man Utd,Newcastle United,2023-04-02,False,Sub,28,0,0.0,0,0.0,1,0,0,0.6,0,0,2,False,3.8,0.21,61.1,3,3,4.25,4.07,0.05,3
+Jadon Sancho,Man Utd,Brentford,2023-04-05,True,AML,70,0,0.04,0,0.05,3,1,1,3.8,0,1,0,True,3.8,0.21,61.91,3,3,4.25,4.07,0.05,10
+Jadon Sancho,Man Utd,Liverpool,2022-08-22,True,AMR,70,1,0.29,0,0.16,10,1,1,7.7,2,1,0,False,3.2,0.21,62.58,3,3,4.25,4.07,0.05,6
+Jadon Sancho,Man Utd,Everton,2023-04-08,True,AML,76,0,0.0,1,0.57,6,0,5,10.2,0,1,0,True,4.6,0.27,63.62,3,3,4.25,4.07,0.05,3
+Jadon Sancho,Man Utd,Nottingham Forest,2023-04-16,False,AML,90,0,0.52,0,0.03,3,2,1,3.6,0,1,0,True,4.6,0.26,65.5,3,3,4.25,4.07,0.05,7
+Jadon Sancho,Man Utd,Tottenham,2023-04-27,False,AML,60,1,0.25,0,0.0,7,3,0,0.0,0,0,1,True,4.6,0.37,65.13,3,3,4.25,4.07,0.05,3
+Jadon Sancho,Man Utd,Aston Villa,2023-04-30,True,ML,75,0,0.0,0,0.19,3,0,2,4.6,0,1,0,True,5.8,0.42,65.75,3,3,4.25,4.07,0.05,1
+Jadon Sancho,Man Utd,Brighton,2023-05-04,False,Sub,14,0,0.0,0,0.0,1,0,0,0.1,0,0,1,False,5.8,0.41,62.71,3,3,4.25,4.07,0.05,1
+Jadon Sancho,Man Utd,West Ham,2023-05-07,False,Sub,16,0,0.0,0,0.04,1,0,1,1.4,0,0,0,False,4.0,0.35,60.11,3,3,4.25,4.07,0.05,3
+Jadon Sancho,Man Utd,Wolverhampton,2023-05-13,True,AML,81,0,0.12,0,0.14,3,1,3,8.2,0,1,0,True,3.0,0.15,61.21,3,3,4.25,4.07,0.05,3
+Jadon Sancho,Man Utd,Bournemouth,2023-05-20,False,AML,71,0,0.0,0,0.13,3,0,2,5.2,0,1,0,True,3.0,0.07,61.7,3,3,4.25,4.07,0.05,7
+Jadon Sancho,Man Utd,Chelsea,2023-05-25,True,AML,90,0,0.14,1,1.69,7,1,5,10.3,2,0,1,True,2.2,0.02,63.05,3,3,4.25,4.07,0.05,9
+Jadon Sancho,Man Utd,Fulham,2023-05-28,True,AMR,90,1,0.46,0,0.52,9,2,2,0.0,2,0,1,True,3.0,0.25,64.27,3,3,4.25,4.07,0.05,3
+Jadon Sancho,Man Utd,Southampton,2022-08-27,False,AML,67,0,0.0,0,0.0,3,0,0,1.6,0,1,0,False,4.6,0.34,64.39,3,3,4.25,4.07,0.05,10
+Jadon Sancho,Man Utd,Leeds United,2022-09-01,False,AML,67,1,0.72,0,0.0,10,2,0,8.0,2,1,0,False,5.0,0.34,64.5,3,3,4.25,4.07,0.05,2
+Jadon Sancho,Man Utd,Arsenal,2022-09-04,True,AML,66,0,0.06,0,0.0,2,1,0,2.2,0,0,1,False,6.4,0.46,64.56,3,3,4.25,4.07,0.05,2
+Jadon Sancho,Man Utd,Manchester City,2022-10-02,False,AML,69,0,0.0,0,0.06,2,0,2,3.4,0,0,5,False,6.2,0.48,64.73,3,3,4.25,4.07,0.05,1

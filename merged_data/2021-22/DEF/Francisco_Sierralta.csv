@@ -1,6 +1,6 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Francisco Sierralta,Watford,West Ham,2021-12-28,True,DC,90,0,0.0323923006653785,0,0.0,0,1,0,4.5,0,0,4
-Francisco Sierralta,Watford,Tottenham,2022-01-01,True,DC,90,0,0.0,0,0.0,2,0,0,2.6,0,0,1
-Francisco Sierralta,Watford,Tottenham,2021-08-29,False,DC,90,0,0.0,0,0.0,2,0,0,1.6,0,0,1
-Francisco Sierralta,Watford,Wolverhampton,2021-09-11,True,DC,90,0,0.0,0,0.0,-1,0,0,1.8,0,0,2
-Francisco Sierralta,Watford,Leicester City,2021-10-02,False,DC,67,0,0.0,0,0.0,2,0,0,1.0,0,0,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
+Francisco Sierralta,Watford,West Ham,2021-12-28,True,DC,90,0,0.03,0,0.0,0,1,0,4.5,0,0,4,0.0,0.0,90.0,0.0
+Francisco Sierralta,Watford,Tottenham,2022-01-01,True,DC,90,0,0.0,0,0.0,2,0,0,2.6,0,0,1,0.0,0.03,90.0,0.0
+Francisco Sierralta,Watford,Tottenham,2021-08-29,False,DC,90,0,0.0,0,0.0,2,0,0,1.6,0,0,1,1.0,0.02,90.0,0.0
+Francisco Sierralta,Watford,Wolverhampton,2021-09-11,True,DC,90,0,0.0,0,0.0,-1,0,0,1.8,0,0,2,1.33,0.01,90.0,0.0
+Francisco Sierralta,Watford,Leicester City,2021-10-02,False,DC,67,0,0.0,0,0.0,2,0,0,1.0,0,0,1,0.75,0.01,85.4,0.0

@@ -1,28 +1,28 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Ryan Fraser,Newcastle,West Ham,2021-08-15,True,Sub,20,0,0.0174389686435461,0,0.0,1,1,0,0.5,0,0,0
-Ryan Fraser,Newcastle,Chelsea,2021-10-30,True,MC,65,0,0.0,0,0.0,2,0,0,0.3,0,0,1
-Ryan Fraser,Newcastle,Brentford,2021-11-20,True,Sub,19,0,0.0,1,0.3249637186527252,4,0,2,6.5,0,0,0
-Ryan Fraser,Newcastle,Arsenal,2021-11-27,False,MR,90,0,0.0,0,0.0173148848116397,2,0,1,3.2,0,0,2
-Ryan Fraser,Newcastle,Norwich,2021-11-30,True,MR,10,0,0.021136125549674,0,0.0,1,1,0,1.0,0,0,0
-Ryan Fraser,Newcastle,Leeds United,2021-12-12,False,Sub,28,0,0.0,0,0.0,1,0,0,1.4,0,0,2
-Ryan Fraser,Newcastle,Liverpool,2021-12-16,False,ML,86,0,0.0,0,0.0,1,0,0,0.7,0,0,2
-Ryan Fraser,Newcastle,Manchester City,2021-12-19,True,ML,90,0,0.0,0,0.1315540969371795,2,0,3,5.0,0,0,4
-Ryan Fraser,Newcastle,Manchester United,2021-12-27,True,MR,74,0,0.0940162986516952,0,0.0,2,1,0,3.0,0,0,1
-Ryan Fraser,Newcastle,Aston Villa,2021-08-21,False,Sub,1,0,0.0913029685616493,0,0.0,1,1,0,0.2,0,0,0
-Ryan Fraser,Newcastle,Watford,2022-01-15,True,FWR,73,0,0.01756052672863,0,0.5020576119422913,2,1,3,6.1,0,1,0
-Ryan Fraser,Newcastle,Leicester City,2022-01-22,False,FWR,90,0,0.1162789091467857,0,0.0,3,2,0,3.3,0,1,0
-Ryan Fraser,Newcastle,Everton,2022-02-08,True,FWR,82,1,0.8150957226753235,0,0.0,13,4,0,12.2,3,0,1
-Ryan Fraser,Newcastle,Aston Villa,2022-02-13,True,FWR,90,0,0.0,0,0.0757664665579795,3,0,2,4.7,0,1,0
-Ryan Fraser,Newcastle,West Ham,2022-02-19,False,FWR,78,0,0.0933820530772209,0,0.0,1,1,0,2.3,0,0,1
-Ryan Fraser,Newcastle,Brentford,2022-02-26,False,FWL,89,0,0.1400954127311706,1,0.6829631328582764,8,3,7,18.7,2,1,0
-Ryan Fraser,Newcastle,Brighton,2022-03-05,True,FWL,78,1,0.7410071492195129,1,0.0516736321151256,13,2,1,10.3,3,0,1
-Ryan Fraser,Newcastle,Southampton,2022-03-10,False,FWL,84,0,0.0273603852838277,0,0.0191403552889823,2,1,1,3.2,0,0,1
-Ryan Fraser,Newcastle,Chelsea,2022-03-13,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0
-Ryan Fraser,Newcastle,Everton,2022-03-17,False,FWL,84,0,0.0883010849356651,0,0.1520567685365677,3,2,2,5.3,0,1,0
-Ryan Fraser,Newcastle,Southampton,2021-08-28,True,Sub,6,0,0.0879445225000381,0,0.0,4,1,0,1.8,0,0,1
-Ryan Fraser,Newcastle,Tottenham,2022-04-03,False,FWR,90,0,0.0,0,0.0608655884861946,2,0,1,2.8,0,0,5
-Ryan Fraser,Newcastle,Wolverhampton,2022-04-08,True,FWR,12,0,0.0,0,0.0,1,0,0,0.0,0,0,0
-Ryan Fraser,Newcastle,Arsenal,2022-05-16,True,Sub,13,0,0.3985204696655273,0,0.091489665210247,1,1,1,3.4,0,0,0
-Ryan Fraser,Newcastle,Leicester City,2021-09-17,True,Sub,28,0,0.0375666432082653,0,0.0,1,1,0,0.3,0,0,0
-Ryan Fraser,Newcastle,Tottenham,2021-10-17,True,Sub,13,0,0.0797129794955253,0,0.0,1,1,0,1.0,0,0,0
-Ryan Fraser,Newcastle,Crystal Palace,2021-10-23,False,MC,65,0,0.0,0,0.0448937006294727,2,0,1,2.0,0,0,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
+Ryan Fraser,Newcastle,West Ham,2021-08-15,True,Sub,20,0,0.02,0,0.0,1,1,0,0.5,0,0,0,0.0,0.0,20.0
+Ryan Fraser,Newcastle,Chelsea,2021-10-30,True,MC,65,0,0.0,0,0.0,2,0,0,0.3,0,0,1,1.0,0.02,42.5
+Ryan Fraser,Newcastle,Brentford,2021-11-20,True,Sub,19,0,0.0,1,0.32,4,0,2,6.5,0,0,0,1.5,0.01,34.67
+Ryan Fraser,Newcastle,Arsenal,2021-11-27,False,MR,90,0,0.0,0,0.02,2,0,1,3.2,0,0,2,2.33,0.34,48.5
+Ryan Fraser,Newcastle,Norwich,2021-11-30,True,MR,10,0,0.02,0,0.0,1,1,0,1.0,0,0,0,2.25,0.25,40.8
+Ryan Fraser,Newcastle,Leeds United,2021-12-12,False,Sub,28,0,0.0,0,0.0,1,0,0,1.4,0,0,2,2.0,0.21,38.67
+Ryan Fraser,Newcastle,Liverpool,2021-12-16,False,ML,86,0,0.0,0,0.0,1,0,0,0.7,0,0,2,2.0,0.2,45.43
+Ryan Fraser,Newcastle,Manchester City,2021-12-19,True,ML,90,0,0.0,0,0.13,2,0,3,5.0,0,0,4,1.8,0.2,51.0
+Ryan Fraser,Newcastle,Manchester United,2021-12-27,True,MR,74,0,0.09,0,0.0,2,1,0,3.0,0,0,1,1.4,0.0,53.56
+Ryan Fraser,Newcastle,Aston Villa,2021-08-21,False,Sub,1,0,0.09,0,0.0,1,1,0,0.2,0,0,0,1.4,0.02,48.3
+Ryan Fraser,Newcastle,Watford,2022-01-15,True,FWR,73,0,0.02,0,0.5,2,1,3,6.1,0,1,0,1.4,0.04,50.55
+Ryan Fraser,Newcastle,Leicester City,2022-01-22,False,FWR,90,0,0.12,0,0.0,3,2,0,3.3,0,1,0,1.6,0.04,53.83
+Ryan Fraser,Newcastle,Everton,2022-02-08,True,FWR,82,1,0.82,0,0.0,13,4,0,12.2,3,0,1,2.0,0.06,56.0
+Ryan Fraser,Newcastle,Aston Villa,2022-02-13,True,FWR,90,0,0.0,0,0.08,3,0,2,4.7,0,1,0,4.2,0.23,58.43
+Ryan Fraser,Newcastle,West Ham,2022-02-19,False,FWR,78,0,0.09,0,0.0,1,1,0,2.3,0,0,1,4.4,0.21,59.73
+Ryan Fraser,Newcastle,Brentford,2022-02-26,False,FWL,89,0,0.14,1,0.68,8,3,7,18.7,2,1,0,4.4,0.21,61.56
+Ryan Fraser,Newcastle,Brighton,2022-03-05,True,FWL,78,1,0.74,1,0.05,13,2,1,10.3,3,0,1,5.6,0.43,62.53
+Ryan Fraser,Newcastle,Southampton,2022-03-10,False,FWL,84,0,0.03,0,0.02,2,1,1,3.2,0,0,1,7.6,0.76,63.72
+Ryan Fraser,Newcastle,Chelsea,2022-03-13,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,5.4,0.6,60.42
+Ryan Fraser,Newcastle,Everton,2022-03-17,False,FWL,84,0,0.09,0,0.15,3,2,2,5.3,0,1,0,5.0,0.6,61.6
+Ryan Fraser,Newcastle,Southampton,2021-08-28,True,Sub,6,0,0.09,0,0.0,4,1,0,1.8,0,0,1,5.4,0.6,58.95
+Ryan Fraser,Newcastle,Tottenham,2022-04-03,False,FWR,90,0,0.0,0,0.06,2,0,1,2.8,0,0,5,4.6,0.39,60.36
+Ryan Fraser,Newcastle,Wolverhampton,2022-04-08,True,FWR,12,0,0.0,0,0.0,1,0,0,0.0,0,0,0,2.4,0.04,58.26
+Ryan Fraser,Newcastle,Arsenal,2022-05-16,True,Sub,13,0,0.4,0,0.09,1,1,1,3.4,0,0,0,2.2,0.04,56.38
+Ryan Fraser,Newcastle,Leicester City,2021-09-17,True,Sub,28,0,0.04,0,0.0,1,1,0,0.3,0,0,0,2.2,0.11,55.24
+Ryan Fraser,Newcastle,Tottenham,2021-10-17,True,Sub,13,0,0.08,0,0.0,1,1,0,1.0,0,0,0,1.8,0.1,53.62
+Ryan Fraser,Newcastle,Crystal Palace,2021-10-23,False,MC,65,0,0.0,0,0.04,2,0,1,2.0,0,0,1,1.2,0.1,54.04

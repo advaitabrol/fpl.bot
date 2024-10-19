@@ -1,7 +1,7 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Marc Albrighton,Leicester,Wolverhampton,2022-10-23,False,Sub,11,0,0.0379947014153003,0,0.0,1,1,0,0.5,0,0,0,False
-Marc Albrighton,Leicester,Everton,2022-11-05,False,Sub,12,0,0.0,0,0.0,1,0,0,1.0,0,0,0,False
-Marc Albrighton,Leicester,Fulham,2023-01-03,True,Sub,82,0,0.0,0,0.1309179961681366,2,0,3,5.5,0,0,1,False
-Marc Albrighton,Leicester,Nottingham Forest,2023-01-14,False,AMR,67,0,0.0,0,0.3849959969520569,2,0,2,5.1,0,0,1,True
-Marc Albrighton,Leicester,Brighton,2023-01-21,True,Sub,55,1,0.404009997844696,0,0.0552754998207092,6,1,1,9.0,0,0,1,False
-Marc Albrighton,Leicester,Nottingham Forest,2022-10-03,True,Sub,5,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Marc Albrighton,Leicester,Wolverhampton,2022-10-23,False,Sub,11,0,0.04,0,0.0,1,1,0,0.5,0,0,0,False,0.0,0.0,11.0,1,2,0.49,1.7,0.04,1
+Marc Albrighton,Leicester,Everton,2022-11-05,False,Sub,12,0,0.0,0,0.0,1,0,0,1.0,0,0,0,False,1.0,0.04,11.5,1,2,0.49,1.7,0.04,2
+Marc Albrighton,Leicester,Fulham,2023-01-03,True,Sub,82,0,0.0,0,0.13,2,0,3,5.5,0,0,1,False,1.0,0.02,35.0,1,2,0.49,1.7,0.04,2
+Marc Albrighton,Leicester,Nottingham Forest,2023-01-14,False,AMR,67,0,0.0,0,0.38,2,0,2,5.1,0,0,1,True,1.33,0.01,43.0,1,2,0.49,1.7,0.04,6
+Marc Albrighton,Leicester,Brighton,2023-01-21,True,Sub,55,1,0.4,0,0.06,6,1,1,9.0,0,0,1,False,1.5,0.01,45.4,1,2,0.49,1.7,0.04,1
+Marc Albrighton,Leicester,Nottingham Forest,2022-10-03,True,Sub,5,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,2.4,0.09,38.67,1,2,0.49,1.7,0.04,

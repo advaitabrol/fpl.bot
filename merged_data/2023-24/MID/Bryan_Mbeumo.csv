@@ -1,26 +1,26 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Bryan Mbeumo,Brentford,Tottenham,2023-08-13,True,FW,90,1,1.2986794710159302,0,0.0,7,3,0,8.3,0,0,2,True
-Bryan Mbeumo,Brentford,Chelsea,2023-10-28,False,FW,90,1,0.9319261908531188,1,0.6137951612472534,13,4,1,12.4,2,1,0,True
-Bryan Mbeumo,Brentford,West Ham,2023-11-04,True,FWR,90,0,0.1746221482753753,0,0.0,5,4,0,3.7,0,0,2,True
-Bryan Mbeumo,Brentford,Liverpool,2023-11-12,False,FW,90,0,0.3218676149845123,0,0.1111489534378051,2,3,3,8.9,0,0,3,True
-Bryan Mbeumo,Brentford,Arsenal,2023-11-25,True,FW,90,0,0.4870436489582062,0,0.1545123010873794,2,2,2,3.9,0,0,1,True
-Bryan Mbeumo,Brentford,Luton,2023-12-02,True,FWR,77,0,0.2252767980098724,1,0.0593236312270164,5,4,1,5.7,0,0,1,True
-Bryan Mbeumo,Brentford,Brighton,2023-12-06,False,FW,39,1,0.7611688375473022,0,0.0,6,1,0,5.1,0,0,1,True
-Bryan Mbeumo,Brentford,Fulham,2023-08-19,False,FWR,90,2,1.6695406436920166,0,0.094969168305397,16,3,1,16.3,3,1,0,True
-Bryan Mbeumo,Brentford,Burnley,2024-03-16,False,Sub,11,0,0.0,0,0.0779038444161415,1,0,1,1.9,0,0,0,False
-Bryan Mbeumo,Brentford,Crystal Palace,2023-08-26,True,FWR,90,0,0.08360356092453,0,0.1694152206182479,2,1,2,6.3,0,0,1,True
-Bryan Mbeumo,Brentford,Manchester United,2024-03-30,True,Sub,19,0,0.0781921222805976,0,0.0650056004524231,1,1,2,3.7,0,0,1,False
-Bryan Mbeumo,Brentford,Brighton,2024-04-03,True,Sub,17,0,0.0532324649393558,0,0.0,1,1,0,0.4,0,0,0,False
-Bryan Mbeumo,Brentford,Aston Villa,2024-04-06,False,FW,85,1,0.1753579974174499,0,0.0,7,2,0,6.2,0,0,3,True
-Bryan Mbeumo,Brentford,Sheffield,2024-04-13,True,FWR,89,0,0.0,0,0.3377544283866882,3,0,1,3.5,0,1,0,True
-Bryan Mbeumo,Brentford,Luton,2024-04-20,False,FWR,90,0,0.2175497561693191,2,0.8862072229385376,9,3,3,12.4,1,0,1,True
-Bryan Mbeumo,Brentford,Everton,2024-04-27,False,FWR,90,0,0.0618209913372993,0,0.0,1,1,0,1.9,0,0,1,True
-Bryan Mbeumo,Brentford,Fulham,2024-05-04,True,FWR,90,0,0.1025624722242355,0,0.0,3,1,0,3.3,0,1,0,True
-Bryan Mbeumo,Brentford,Bournemouth,2024-05-11,False,FWR,90,1,0.895039975643158,1,0.4272565841674804,12,3,2,11.7,2,0,1,True
-Bryan Mbeumo,Brentford,Newcastle United,2024-05-19,True,FWR,90,0,0.0,0,0.451247364282608,2,0,1,3.0,0,0,4,True
-Bryan Mbeumo,Brentford,Bournemouth,2023-09-02,True,FWR,90,1,0.7468672394752502,0,0.2078011333942413,8,2,2,12.2,1,0,2,True
-Bryan Mbeumo,Brentford,Newcastle United,2023-09-16,False,FW,90,0,0.0952572226524353,0,0.0,2,1,0,2.2,0,0,1,True
-Bryan Mbeumo,Brentford,Everton,2023-09-23,True,FWR,90,0,0.1366855800151825,0,0.032106876373291,1,3,1,5.4,0,0,3,True
-Bryan Mbeumo,Brentford,Nottingham Forest,2023-10-01,False,FWR,90,0,0.2317412197589874,0,0.2204751074314117,2,2,4,9.3,0,0,1,True
-Bryan Mbeumo,Brentford,Manchester United,2023-10-07,False,FW,90,0,0.1002819612622261,0,0.2481376826763153,2,2,2,4.6,0,0,2,True
-Bryan Mbeumo,Brentford,Burnley,2023-10-21,True,FWR,90,1,0.3100529909133911,1,0.9831165075302124,14,6,3,17.8,3,1,0,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Bryan Mbeumo,Brentford,Tottenham,2023-08-13,True,FW,90,1,1.3,0,0.0,7,3,0,8.3,0,0,2,True,0.0,0.0,90.0,0,0,0,0,0,13
+Bryan Mbeumo,Brentford,Chelsea,2023-10-28,False,FW,90,1,0.93,1,0.61,13,4,1,12.4,2,1,0,True,7.0,1.3,90.0,0,0,0,0,0,5
+Bryan Mbeumo,Brentford,West Ham,2023-11-04,True,FWR,90,0,0.17,0,0.0,5,4,0,3.7,0,0,2,True,10.0,1.62,90.0,0,0,0,0,0,2
+Bryan Mbeumo,Brentford,Liverpool,2023-11-12,False,FW,90,0,0.32,0,0.11,2,3,3,8.9,0,0,3,True,8.33,1.14,90.0,0,0,0,0,0,2
+Bryan Mbeumo,Brentford,Arsenal,2023-11-25,True,FW,90,0,0.49,0,0.15,2,2,2,3.9,0,0,1,True,6.75,0.93,90.0,0,0,0,0,0,5
+Bryan Mbeumo,Brentford,Luton,2023-12-02,True,FWR,77,0,0.23,1,0.06,5,4,1,5.7,0,0,1,True,5.8,0.84,87.83,0,0,0,0,0,6
+Bryan Mbeumo,Brentford,Brighton,2023-12-06,False,FW,39,1,0.76,0,0.0,6,1,0,5.1,0,0,1,True,5.4,0.83,80.86,0,0,0,0,0,16
+Bryan Mbeumo,Brentford,Fulham,2023-08-19,False,FWR,90,2,1.67,0,0.09,16,3,1,16.3,3,1,0,True,4.0,0.59,82.0,0,0,0,0,0,1
+Bryan Mbeumo,Brentford,Burnley,2024-03-16,False,Sub,11,0,0.0,0,0.08,1,0,1,1.9,0,0,0,False,6.2,0.89,74.11,0,0,0,0,0,2
+Bryan Mbeumo,Brentford,Crystal Palace,2023-08-26,True,FWR,90,0,0.08,0,0.17,2,1,2,6.3,0,0,1,True,6.0,0.83,75.7,0,0,0,0,0,1
+Bryan Mbeumo,Brentford,Manchester United,2024-03-30,True,Sub,19,0,0.08,0,0.07,1,1,2,3.7,0,0,1,False,6.0,0.75,70.55,0,0,0,0,0,1
+Bryan Mbeumo,Brentford,Brighton,2024-04-03,True,Sub,17,0,0.05,0,0.0,1,1,0,0.4,0,0,0,False,5.2,0.52,66.08,0,0,0,0,0,7
+Bryan Mbeumo,Brentford,Aston Villa,2024-04-06,False,FW,85,1,0.18,0,0.0,7,2,0,6.2,0,0,3,True,4.2,0.38,67.54,0,0,0,0,0,3
+Bryan Mbeumo,Brentford,Sheffield,2024-04-13,True,FWR,89,0,0.0,0,0.34,3,0,1,3.5,0,1,0,True,2.4,0.08,69.07,0,0,0,0,0,9
+Bryan Mbeumo,Brentford,Luton,2024-04-20,False,FWR,90,0,0.22,2,0.89,9,3,3,12.4,1,0,1,True,2.8,0.08,70.47,0,0,0,0,0,1
+Bryan Mbeumo,Brentford,Everton,2024-04-27,False,FWR,90,0,0.06,0,0.0,1,1,0,1.9,0,0,1,True,4.2,0.5,71.69,0,0,0,0,0,3
+Bryan Mbeumo,Brentford,Fulham,2024-05-04,True,FWR,90,0,0.1,0,0.0,3,1,0,3.3,0,1,0,True,4.2,0.5,72.76,0,0,0,0,0,12
+Bryan Mbeumo,Brentford,Bournemouth,2024-05-11,False,FWR,90,1,0.9,1,0.43,12,3,2,11.7,2,0,1,True,4.6,0.51,73.72,0,0,0,0,0,2
+Bryan Mbeumo,Brentford,Newcastle United,2024-05-19,True,FWR,90,0,0.0,0,0.45,2,0,1,3.0,0,0,4,True,5.6,0.86,74.58,0,0,0,0,0,8
+Bryan Mbeumo,Brentford,Bournemouth,2023-09-02,True,FWR,90,1,0.75,0,0.21,8,2,2,12.2,1,0,2,True,5.4,0.86,75.35,0,0,0,0,0,2
+Bryan Mbeumo,Brentford,Newcastle United,2023-09-16,False,FW,90,0,0.1,0,0.0,2,1,0,2.2,0,0,1,True,5.2,0.56,76.05,0,0,0,0,0,1
+Bryan Mbeumo,Brentford,Everton,2023-09-23,True,FWR,90,0,0.14,0,0.03,1,3,1,5.4,0,0,3,True,5.4,0.57,76.68,0,0,0,0,0,2
+Bryan Mbeumo,Brentford,Nottingham Forest,2023-10-01,False,FWR,90,0,0.23,0,0.22,2,2,4,9.3,0,0,1,True,5.0,0.57,77.26,0,0,0,0,0,2
+Bryan Mbeumo,Brentford,Manchester United,2023-10-07,False,FW,90,0,0.1,0,0.25,2,2,2,4.6,0,0,2,True,3.0,0.24,77.79,0,0,0,0,0,14
+Bryan Mbeumo,Brentford,Burnley,2023-10-21,True,FWR,90,1,0.31,1,0.98,14,6,3,17.8,3,1,0,True,3.0,0.26,78.28,0,0,0,0,0,

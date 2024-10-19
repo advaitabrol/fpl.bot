@@ -1,16 +1,16 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts
-Pedro Porro,Spurs,Leeds United,2023-02-11,False,DMR,75,0,0.0,0,0.0,1,0,0,1.3,0,0,3,1.41,True
-Pedro Porro,Spurs,Chelsea,2023-02-26,True,Sub,1,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.08,False
-Pedro Porro,Spurs,Wolverhampton,2023-03-04,False,DMR,81,0,0.1689999997615814,0,0.0643894970417022,6,4,2,4.9,0,1,0,0.25,True
-Pedro Porro,Spurs,Nottingham Forest,2023-03-11,True,DMR,90,0,0.0,1,0.1974689960479736,5,0,3,6.9,0,0,1,1.57,True
-Pedro Porro,Spurs,Southampton,2023-03-18,False,DMR,85,1,0.4882859885692596,0,0.2241279929876327,7,3,3,12.6,0,0,2,1.55,True
-Pedro Porro,Spurs,Everton,2023-04-03,False,DMR,90,0,0.0561610013246536,0,0.0724513977766037,2,2,1,4.0,0,0,1,0.88,True
-Pedro Porro,Spurs,Brighton,2023-04-08,True,DMR,90,0,0.1171640008687973,0,0.0,2,2,0,2.4,0,0,1,1.43,True
-Pedro Porro,Spurs,Bournemouth,2023-04-15,True,DMR,90,0,0.0158989001065492,0,0.3786779940128326,1,1,3,7.6,0,0,3,0.94,True
-Pedro Porro,Spurs,Newcastle United,2023-04-23,False,DR,90,0,0.0633811429142952,0,0.1212529763579368,-1,2,2,4.5,0,0,6,3.64,True
-Pedro Porro,Spurs,Manchester United,2023-04-27,True,DMR,76,1,0.118216224014759,0,0.0143623333424329,7,3,1,0.0,0,0,2,1.94,True
-Pedro Porro,Spurs,Liverpool,2023-04-30,False,DMR,89,0,0.0136088114231824,0,0.0822871699929237,1,2,1,6.1,0,0,3,2.0,True
-Pedro Porro,Spurs,Crystal Palace,2023-05-06,True,MR,90,0,0.0772271156311035,1,0.6533569693565369,12,2,4,11.4,3,1,0,0.37,True
-Pedro Porro,Spurs,Aston Villa,2023-05-13,False,DMR,80,0,0.0,0,0.0722333937883377,1,0,1,3.4,0,0,2,1.18,True
-Pedro Porro,Spurs,Brentford,2023-05-20,True,Sub,15,0,0.0714237615466117,0,0.0976306945085525,1,2,2,5.2,0,0,1,0.68,False
-Pedro Porro,Spurs,Leicester City,2023-05-28,False,MR,90,1,0.2069618552923202,1,0.5539970397949219,13,2,2,0.0,2,0,1,1.5,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
+Pedro Porro,Spurs,Leeds United,2023-02-11,False,DMR,75,0,0.0,0,0.0,1,0,0,1.3,0,0,3,1.41,True,0.0,0.0,75.0,0.0,0,0,0,0,1
+Pedro Porro,Spurs,Chelsea,2023-02-26,True,Sub,1,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.08,False,1.0,0.0,38.0,0.0,0,0,0,0,6
+Pedro Porro,Spurs,Wolverhampton,2023-03-04,False,DMR,81,0,0.17,0,0.06,6,4,2,4.9,0,1,0,0.25,True,1.0,0.0,52.33,0.5,0,0,0,0,5
+Pedro Porro,Spurs,Nottingham Forest,2023-03-11,True,DMR,90,0,0.0,1,0.2,5,0,3,6.9,0,0,1,1.57,True,2.67,0.06,61.75,0.33,0,0,0,0,7
+Pedro Porro,Spurs,Southampton,2023-03-18,False,DMR,85,1,0.49,0,0.22,7,3,3,12.6,0,0,2,1.55,True,3.25,0.29,66.4,0.25,0,0,0,0,2
+Pedro Porro,Spurs,Everton,2023-04-03,False,DMR,90,0,0.06,0,0.07,2,2,1,4.0,0,0,1,0.88,True,4.0,0.33,70.33,0.2,0,0,0,0,2
+Pedro Porro,Spurs,Brighton,2023-04-08,True,DMR,90,0,0.12,0,0.0,2,2,0,2.4,0,0,1,1.43,True,4.2,0.34,73.14,0.17,0,0,0,0,1
+Pedro Porro,Spurs,Bournemouth,2023-04-15,True,DMR,90,0,0.02,0,0.38,1,1,3,7.6,0,0,3,0.94,True,4.4,0.37,75.25,0.14,0,0,0,0,-1
+Pedro Porro,Spurs,Newcastle United,2023-04-23,False,DR,90,0,0.06,0,0.12,-1,2,2,4.5,0,0,6,3.64,True,3.4,0.34,76.89,0.12,0,0,0,0,7
+Pedro Porro,Spurs,Manchester United,2023-04-27,True,DMR,76,1,0.12,0,0.01,7,3,1,0.0,0,0,2,1.94,True,2.2,0.15,76.8,0.11,0,0,0,0,1
+Pedro Porro,Spurs,Liverpool,2023-04-30,False,DMR,89,0,0.01,0,0.08,1,2,1,6.1,0,0,3,2.0,True,2.2,0.07,77.91,0.1,0,0,0,0,12
+Pedro Porro,Spurs,Crystal Palace,2023-05-06,True,MR,90,0,0.08,1,0.65,12,2,4,11.4,3,1,0,0.37,True,2.0,0.07,78.92,0.18,0,0,0,0,1
+Pedro Porro,Spurs,Aston Villa,2023-05-13,False,DMR,80,0,0.0,0,0.07,1,0,1,3.4,0,0,2,1.18,True,4.0,0.26,79.0,0.17,0,0,0,0,1
+Pedro Porro,Spurs,Brentford,2023-05-20,True,Sub,15,0,0.07,0,0.1,1,2,2,5.2,0,0,1,0.68,False,4.0,0.25,74.43,0.17,0,0,0,0,13
+Pedro Porro,Spurs,Leicester City,2023-05-28,False,MR,90,1,0.21,1,0.55,13,2,2,0.0,2,0,1,1.5,True,4.4,0.26,75.47,0.15,0,0,0,0,2

@@ -1,16 +1,16 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Bryan Gil Salvatierra,Spurs,Crystal Palace,2021-12-26,True,Sub,14,0,0.0,0,0.0456045717000961,1,0,1,2.1,0,0,0
-Bryan Gil Salvatierra,Spurs,Southampton,2021-12-28,False,Sub,13,0,0.1006708443164825,0,0.058819729834795,1,1,1,4.6,0,0,0
-Bryan Gil Salvatierra,Spurs,Watford,2022-01-01,False,Sub,1,0,0.0,0,0.0,1,0,0,0.1,0,0,0
-Bryan Gil Salvatierra,Spurs,Chelsea,2022-01-23,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0
-Bryan Gil Salvatierra,Spurs,Wolverhampton,2022-02-13,True,Sub,0,0,0.0,0,0.1352724730968475,0,0,1,0.0,0,0,0
-Bryan Gil Salvatierra,Spurs,Leicester City,2022-02-26,False,AMC,0,0,0.2053686678409576,0,0.212777704000473,0,1,2,0.0,0,0,0
-Bryan Gil Salvatierra,Spurs,Manchester United,2022-03-12,False,AMC,0,0,0.0633635371923446,0,0.0,0,1,0,0.0,0,0,0
-Bryan Gil Salvatierra,Spurs,Watford,2021-08-29,True,Sub,2,0,0.0,0,0.0,1,0,0,0.0,0,0,0
-Bryan Gil Salvatierra,Spurs,Newcastle United,2022-04-03,True,AMC,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0
-Bryan Gil Salvatierra,Spurs,Brighton,2022-04-16,True,ML,0,0,0.055922694504261,0,0.0124464491382241,0,1,1,0.0,0,0,0
-Bryan Gil Salvatierra,Spurs,Burnley,2022-05-15,True,Sub,0,0,0.6443065404891968,0,0.0,0,2,0,0.0,0,0,0
-Bryan Gil Salvatierra,Spurs,Chelsea,2021-09-19,True,Sub,28,0,0.0,0,0.0,1,0,0,0.2,0,0,1
-Bryan Gil Salvatierra,Spurs,Arsenal,2021-09-26,False,Sub,20,0,0.0,0,0.0,1,0,0,0.6,0,0,0
-Bryan Gil Salvatierra,Spurs,Aston Villa,2021-10-03,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0
-Bryan Gil Salvatierra,Spurs,West Ham,2021-10-24,False,Sub,6,0,0.0,0,0.0,1,0,0,0.9,0,0,0
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
+Bryan Gil Salvatierra,Spurs,Crystal Palace,2021-12-26,True,Sub,14,0,0.0,0,0.05,1,0,1,2.1,0,0,0,0.0,0.0,14.0
+Bryan Gil Salvatierra,Spurs,Southampton,2021-12-28,False,Sub,13,0,0.1,0,0.06,1,1,1,4.6,0,0,0,1.0,0.0,13.5
+Bryan Gil Salvatierra,Spurs,Watford,2022-01-01,False,Sub,1,0,0.0,0,0.0,1,0,0,0.1,0,0,0,1.0,0.05,9.33
+Bryan Gil Salvatierra,Spurs,Chelsea,2022-01-23,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,1.0,0.03,7.25
+Bryan Gil Salvatierra,Spurs,Wolverhampton,2022-02-13,True,Sub,0,0,0.0,0,0.14,0,0,1,0.0,0,0,0,1.0,0.03,5.8
+Bryan Gil Salvatierra,Spurs,Leicester City,2022-02-26,False,AMC,0,0,0.21,0,0.21,0,1,2,0.0,0,0,0,0.8,0.02,4.83
+Bryan Gil Salvatierra,Spurs,Manchester United,2022-03-12,False,AMC,0,0,0.06,0,0.0,0,1,0,0.0,0,0,0,0.6,0.06,4.14
+Bryan Gil Salvatierra,Spurs,Watford,2021-08-29,True,Sub,2,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.4,0.05,3.88
+Bryan Gil Salvatierra,Spurs,Newcastle United,2022-04-03,True,AMC,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0.4,0.05,3.44
+Bryan Gil Salvatierra,Spurs,Brighton,2022-04-16,True,ML,0,0,0.06,0,0.01,0,1,1,0.0,0,0,0,0.2,0.05,3.1
+Bryan Gil Salvatierra,Spurs,Burnley,2022-05-15,True,Sub,0,0,0.64,0,0.0,0,2,0,0.0,0,0,0,0.2,0.06,2.82
+Bryan Gil Salvatierra,Spurs,Chelsea,2021-09-19,True,Sub,28,0,0.0,0,0.0,1,0,0,0.2,0,0,1,0.2,0.15,4.92
+Bryan Gil Salvatierra,Spurs,Arsenal,2021-09-26,False,Sub,20,0,0.0,0,0.0,1,0,0,0.6,0,0,0,0.4,0.14,6.08
+Bryan Gil Salvatierra,Spurs,Aston Villa,2021-10-03,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.4,0.14,5.71
+Bryan Gil Salvatierra,Spurs,West Ham,2021-10-24,False,Sub,6,0,0.0,0,0.0,1,0,0,0.9,0,0,0,0.6,0.14,5.73

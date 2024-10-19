@@ -1,15 +1,15 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Ben Brereton,Sheffield Utd,West Ham,2024-01-21,True,ML,66,1,1.044528603553772,0,0.0125125870108604,7,4,1,10.3,0,0,1,True
-Ben Brereton,Sheffield Utd,Crystal Palace,2024-01-30,False,ML,45,1,0.0294718965888023,0,0.0,7,1,0,4.2,1,0,2,True
-Ben Brereton,Sheffield Utd,Aston Villa,2024-02-03,True,ML,64,0,0.0636363849043846,0,0.0,2,1,0,2.5,0,0,5,True
-Ben Brereton,Sheffield Utd,Bournemouth,2024-03-09,False,FW,79,0,0.0673947930335998,0,0.0,1,1,0,3.4,0,0,1,True
-Ben Brereton,Sheffield Utd,Fulham,2024-03-30,True,FW,90,2,1.0308454036712646,1,0.5840293169021606,18,2,1,17.0,3,0,3,True
-Ben Brereton,Sheffield Utd,Liverpool,2024-04-04,False,FW,62,0,0.0,0,0.0349105522036552,2,0,1,1.6,0,0,1,True
-Ben Brereton,Sheffield Utd,Chelsea,2024-04-07,True,FW,90,0,0.1996980756521225,0,0.5000068545341492,1,2,1,3.0,0,0,2,True
-Ben Brereton,Sheffield Utd,Brentford,2024-04-13,False,FW,90,0,0.4746608138084411,0,0.0632737576961517,1,2,1,4.3,0,0,2,True
-Ben Brereton,Sheffield Utd,Burnley,2024-04-20,True,AML,90,0,0.5776146054267883,0,0.0327251777052879,2,4,1,9.3,0,0,4,True
-Ben Brereton,Sheffield Utd,Manchester United,2024-04-24,False,FW,90,1,0.6510962247848511,0,0.0,7,4,0,9.0,0,0,4,True
-Ben Brereton,Sheffield Utd,Newcastle United,2024-04-27,False,FW,90,0,0.3712608814239502,0,0.0,2,5,0,7.1,0,0,5,True
-Ben Brereton,Sheffield Utd,Nottingham Forest,2024-05-04,True,FW,90,1,1.0122170448303225,0,0.3639289140701294,8,4,1,10.2,1,0,3,True
-Ben Brereton,Sheffield Utd,Everton,2024-05-11,False,FW,90,0,0.1475835144519806,0,0.0512614659965038,2,3,1,2.9,0,0,1,True
-Ben Brereton,Sheffield Utd,Tottenham,2024-05-19,True,FW,69,0,0.3905320465564728,0,0.0,2,2,0,0.5,0,0,3,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Ben Brereton,Sheffield Utd,West Ham,2024-01-21,True,ML,66,1,1.04,0,0.01,7,4,1,10.3,0,0,1,True,0.0,0.0,66.0,0,0,0,0,0,7
+Ben Brereton,Sheffield Utd,Crystal Palace,2024-01-30,False,ML,45,1,0.03,0,0.0,7,1,0,4.2,1,0,2,True,7.0,1.04,55.5,0,0,0,0,0,2
+Ben Brereton,Sheffield Utd,Aston Villa,2024-02-03,True,ML,64,0,0.06,0,0.0,2,1,0,2.5,0,0,5,True,7.0,0.54,58.33,0,0,0,0,0,1
+Ben Brereton,Sheffield Utd,Bournemouth,2024-03-09,False,FW,79,0,0.07,0,0.0,1,1,0,3.4,0,0,1,True,5.33,0.38,63.5,0,0,0,0,0,18
+Ben Brereton,Sheffield Utd,Fulham,2024-03-30,True,FW,90,2,1.03,1,0.58,18,2,1,17.0,3,0,3,True,4.25,0.3,68.8,0,0,0,0,0,2
+Ben Brereton,Sheffield Utd,Liverpool,2024-04-04,False,FW,62,0,0.0,0,0.03,2,0,1,1.6,0,0,1,True,7.0,0.65,67.67,0,0,0,0,0,1
+Ben Brereton,Sheffield Utd,Chelsea,2024-04-07,True,FW,90,0,0.2,0,0.5,1,2,1,3.0,0,0,2,True,6.0,0.44,70.86,0,0,0,0,0,1
+Ben Brereton,Sheffield Utd,Brentford,2024-04-13,False,FW,90,0,0.47,0,0.06,1,2,1,4.3,0,0,2,True,4.8,0.47,73.25,0,0,0,0,0,2
+Ben Brereton,Sheffield Utd,Burnley,2024-04-20,True,AML,90,0,0.58,0,0.03,2,4,1,9.3,0,0,4,True,4.6,0.55,75.11,0,0,0,0,0,7
+Ben Brereton,Sheffield Utd,Manchester United,2024-04-24,False,FW,90,1,0.65,0,0.0,7,4,0,9.0,0,0,4,True,4.8,0.66,76.6,0,0,0,0,0,2
+Ben Brereton,Sheffield Utd,Newcastle United,2024-04-27,False,FW,90,0,0.37,0,0.0,2,5,0,7.1,0,0,5,True,2.6,0.38,77.82,0,0,0,0,0,8
+Ben Brereton,Sheffield Utd,Nottingham Forest,2024-05-04,True,FW,90,1,1.01,0,0.36,8,4,1,10.2,1,0,3,True,2.6,0.45,78.83,0,0,0,0,0,2
+Ben Brereton,Sheffield Utd,Everton,2024-05-11,False,FW,90,0,0.15,0,0.05,2,3,1,2.9,0,0,1,True,4.0,0.62,79.69,0,0,0,0,0,2
+Ben Brereton,Sheffield Utd,Tottenham,2024-05-19,True,FW,69,0,0.39,0,0.0,2,2,0,0.5,0,0,3,True,4.2,0.55,78.93,0,0,0,0,0,

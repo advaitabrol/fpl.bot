@@ -1,22 +1,22 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Connor Roberts,Burnley,Newcastle United,2021-12-04,False,Sub,15,0,0.0,0,0.0,1,0,0,0.9,0,0,0
-Connor Roberts,Burnley,Arsenal,2022-01-23,False,DR,90,0,0.0,0,0.0,6,0,0,1.7,0,1,0
-Connor Roberts,Burnley,Watford,2022-02-05,True,DR,90,0,0.0,0,0.0298780016601085,6,0,1,2.8,0,1,0
-Connor Roberts,Burnley,Manchester United,2022-02-08,True,DR,90,0,0.0182361993938684,0,0.0,2,1,0,1.4,0,0,1
-Connor Roberts,Burnley,Liverpool,2022-02-13,True,DR,90,0,0.0,0,0.0643517449498176,2,0,1,3.3,0,0,1
-Connor Roberts,Burnley,Brighton,2022-02-19,False,DR,90,0,0.0127797136083245,1,0.1010385602712631,9,1,1,3.2,1,1,0
-Connor Roberts,Burnley,Tottenham,2022-02-23,True,DR,90,0,0.0,0,0.0429783947765827,8,0,2,4.2,2,1,0
-Connor Roberts,Burnley,Crystal Palace,2022-02-26,False,DR,90,0,0.0,0,0.0778577104210853,2,0,1,2.8,0,0,1
-Connor Roberts,Burnley,Leeds United,2022-03-01,True,DR,90,0,0.0282861869782209,0,0.0,1,1,0,4.1,0,0,2
-Connor Roberts,Burnley,Chelsea,2022-03-05,True,DR,90,0,0.0,0,0.0,0,0,0,1.5,0,0,4
-Connor Roberts,Burnley,Brentford,2022-03-12,False,DR,90,0,0.0,0,0.0,1,0,0,1.6,0,0,2
-Connor Roberts,Burnley,Manchester City,2022-04-02,True,DR,90,0,0.0,0,0.0,1,0,0,1.5,0,0,2
-Connor Roberts,Burnley,Everton,2022-04-06,True,DR,71,0,0.0,0,0.0,1,0,0,0.7,0,0,2
-Connor Roberts,Burnley,West Ham,2022-04-17,False,Sub,28,0,0.0,0,0.0,1,0,0,1.2,0,0,1
-Connor Roberts,Burnley,Southampton,2022-04-21,True,DR,90,1,0.0208123959600925,0,0.1619157940149307,15,1,2,9.3,3,1,0
-Connor Roberts,Burnley,Wolverhampton,2022-04-24,True,DR,90,0,0.0,0,0.0609555914998054,6,0,1,3.1,0,1,0
-Connor Roberts,Burnley,Watford,2022-04-30,False,DR,90,0,0.0,0,0.0611224137246608,2,0,2,4.9,0,0,1
-Connor Roberts,Burnley,Aston Villa,2022-05-07,True,DR,90,0,0.0160395596176385,0,0.0274891443550586,1,1,1,3.7,0,0,3
-Connor Roberts,Burnley,Tottenham,2022-05-15,False,DR,90,0,0.0,0,0.0,1,0,0,1.2,0,0,1
-Connor Roberts,Burnley,Aston Villa,2022-05-19,False,DR,90,0,0.1264015436172485,0,0.5317316055297852,2,1,1,6.2,0,0,1
-Connor Roberts,Burnley,Newcastle United,2022-05-22,True,DR,45,0,0.0,0,0.0,1,0,0,0.0,0,0,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
+Connor Roberts,Burnley,Newcastle United,2021-12-04,False,Sub,15,0,0.0,0,0.0,1,0,0,0.9,0,0,0,0.0,0.0,15.0,0.0
+Connor Roberts,Burnley,Arsenal,2022-01-23,False,DR,90,0,0.0,0,0.0,6,0,0,1.7,0,1,0,1.0,0.0,52.5,1.0
+Connor Roberts,Burnley,Watford,2022-02-05,True,DR,90,0,0.0,0,0.03,6,0,1,2.8,0,1,0,3.5,0.0,65.0,1.0
+Connor Roberts,Burnley,Manchester United,2022-02-08,True,DR,90,0,0.02,0,0.0,2,1,0,1.4,0,0,1,4.33,0.0,71.25,0.67
+Connor Roberts,Burnley,Liverpool,2022-02-13,True,DR,90,0,0.0,0,0.06,2,0,1,3.3,0,0,1,3.75,0.0,75.0,0.5
+Connor Roberts,Burnley,Brighton,2022-02-19,False,DR,90,0,0.01,1,0.1,9,1,1,3.2,1,1,0,3.4,0.0,77.5,0.6
+Connor Roberts,Burnley,Tottenham,2022-02-23,True,DR,90,0,0.0,0,0.04,8,0,2,4.2,2,1,0,5.0,0.21,79.29,0.67
+Connor Roberts,Burnley,Crystal Palace,2022-02-26,False,DR,90,0,0.0,0,0.08,2,0,1,2.8,0,0,1,5.4,0.21,80.62,0.57
+Connor Roberts,Burnley,Leeds United,2022-03-01,True,DR,90,0,0.03,0,0.0,1,1,0,4.1,0,0,2,4.6,0.21,81.67,0.5
+Connor Roberts,Burnley,Chelsea,2022-03-05,True,DR,90,0,0.0,0,0.0,0,0,0,1.5,0,0,4,4.4,0.21,82.5,0.44
+Connor Roberts,Burnley,Brentford,2022-03-12,False,DR,90,0,0.0,0,0.0,1,0,0,1.6,0,0,2,4.0,0.21,83.18,0.4
+Connor Roberts,Burnley,Manchester City,2022-04-02,True,DR,90,0,0.0,0,0.0,1,0,0,1.5,0,0,2,2.4,0.01,83.75,0.36
+Connor Roberts,Burnley,Everton,2022-04-06,True,DR,71,0,0.0,0,0.0,1,0,0,0.7,0,0,2,1.0,0.01,82.77,0.33
+Connor Roberts,Burnley,West Ham,2022-04-17,False,Sub,28,0,0.0,0,0.0,1,0,0,1.2,0,0,1,0.8,0.01,78.86,0.33
+Connor Roberts,Burnley,Southampton,2022-04-21,True,DR,90,1,0.02,0,0.16,15,1,2,9.3,3,1,0,0.8,0.0,79.6,0.38
+Connor Roberts,Burnley,Wolverhampton,2022-04-24,True,DR,90,0,0.0,0,0.06,6,0,1,3.1,0,1,0,3.8,0.0,80.25,0.43
+Connor Roberts,Burnley,Watford,2022-04-30,False,DR,90,0,0.0,0,0.06,2,0,2,4.9,0,0,1,4.8,0.0,80.82,0.4
+Connor Roberts,Burnley,Aston Villa,2022-05-07,True,DR,90,0,0.02,0,0.03,1,1,1,3.7,0,0,3,5.0,0.0,81.33,0.38
+Connor Roberts,Burnley,Tottenham,2022-05-15,False,DR,90,0,0.0,0,0.0,1,0,0,1.2,0,0,1,5.0,0.01,81.79,0.35
+Connor Roberts,Burnley,Aston Villa,2022-05-19,False,DR,90,0,0.13,0,0.53,2,1,1,6.2,0,0,1,5.0,0.01,82.2,0.33
+Connor Roberts,Burnley,Newcastle United,2022-05-22,True,DR,45,0,0.0,0,0.0,1,0,0,0.0,0,0,1,2.4,0.03,80.43,0.33

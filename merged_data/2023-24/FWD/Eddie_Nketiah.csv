@@ -1,28 +1,28 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts
-Eddie Nketiah,Arsenal,Nottingham Forest,2023-08-12,True,FW,72,1,0.2290120124816894,0,0.0,8,3,0,7.2,2,True
-Eddie Nketiah,Arsenal,Sheffield,2023-10-28,True,FW,90,3,1.2388038635253906,0,0.0,17,4,0,17.8,3,True
-Eddie Nketiah,Arsenal,Newcastle United,2023-11-04,False,FW,78,0,0.1149507164955139,0,0.018458355218172,2,1,1,2.8,0,True
-Eddie Nketiah,Arsenal,Burnley,2023-11-11,True,Sub,9,0,0.0,0,0.0,1,0,0,0.0,0,False
-Eddie Nketiah,Arsenal,Brentford,2023-11-25,False,Sub,24,0,0.0448134131729602,0,0.0,1,1,0,2.5,0,False
-Eddie Nketiah,Arsenal,Wolverhampton,2023-12-02,True,Sub,23,0,0.4051884710788727,0,0.0,1,1,0,0.3,0,False
-Eddie Nketiah,Arsenal,Aston Villa,2023-12-09,False,Sub,8,0,0.018346581608057,0,0.0,1,1,0,0.2,0,False
-Eddie Nketiah,Arsenal,Brighton,2023-12-17,True,Sub,9,0,0.0,1,0.2955372631549835,4,0,1,2.7,0,False
-Eddie Nketiah,Arsenal,Liverpool,2023-12-23,False,Sub,12,0,0.0,0,0.0,0,0,0,0.3,0,False
-Eddie Nketiah,Arsenal,West Ham,2023-12-28,True,Sub,26,0,0.1585788875818252,0,0.0,1,2,0,3.4,0,False
-Eddie Nketiah,Arsenal,Crystal Palace,2023-08-21,False,FW,78,0,0.8955589532852173,0,0.1601127833127975,5,3,2,4.9,0,True
-Eddie Nketiah,Arsenal,Fulham,2023-12-31,False,FW,90,0,0.1754606515169143,0,0.0,2,2,0,2.6,0,True
-Eddie Nketiah,Arsenal,Crystal Palace,2024-01-20,True,Sub,9,0,0.0,1,0.4796605110168457,4,0,1,3.7,0,False
-Eddie Nketiah,Arsenal,Nottingham Forest,2024-01-30,False,Sub,12,0,0.059751208871603,0,0.0,1,1,0,0.5,0,False
-Eddie Nketiah,Arsenal,West Ham,2024-02-11,False,Sub,23,0,0.0971694067120552,0,0.0,1,1,0,2.0,0,False
-Eddie Nketiah,Arsenal,Burnley,2024-02-17,False,Sub,21,0,0.182716354727745,0,0.0,1,2,0,1.4,0,False
-Eddie Nketiah,Arsenal,Newcastle United,2024-02-24,True,Sub,14,0,0.0,0,0.0928297564387321,1,0,1,1.6,0,False
-Eddie Nketiah,Arsenal,Fulham,2023-08-26,True,Sub,45,1,0.53692227602005,0,0.0,5,4,0,6.9,0,False
-Eddie Nketiah,Arsenal,Luton,2024-04-03,True,Sub,24,0,0.0426841117441654,0,0.0,1,1,0,1.6,0,False
-Eddie Nketiah,Arsenal,Brighton,2024-04-06,False,Sub,1,0,0.05802683532238,0,0.0,1,1,0,0.4,0,False
-Eddie Nketiah,Arsenal,Aston Villa,2024-04-14,True,Sub,3,0,0.0,0,0.0,1,0,0,0.6,0,False
-Eddie Nketiah,Arsenal,Manchester United,2023-09-03,True,FW,75,0,0.0791404992341995,0,0.1630454212427139,2,1,3,5.6,0,True
-Eddie Nketiah,Arsenal,Everton,2023-09-17,False,FW,65,0,0.0668965876102447,0,0.0,2,1,0,0.4,0,True
-Eddie Nketiah,Arsenal,Tottenham,2023-09-24,True,FW,90,0,0.3132059574127197,0,0.0,1,1,0,2.6,0,True
-Eddie Nketiah,Arsenal,Bournemouth,2023-09-30,False,FW,68,0,0.1506291329860687,0,0.0,5,2,0,2.1,0,True
-Eddie Nketiah,Arsenal,Manchester City,2023-10-08,True,FW,74,0,0.1100107282400131,0,0.0,2,3,0,1.6,0,True
-Eddie Nketiah,Arsenal,Chelsea,2023-10-21,False,Sub,22,0,0.0795421302318573,0,0.0,0,2,0,1.5,0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Eddie Nketiah,Arsenal,Nottingham Forest,2023-08-12,True,FW,72,1,0.23,0,0.0,8,3,0,7.2,2,True,0.0,0.0,72.0,4,1,9.23,1.49,0.06,17
+Eddie Nketiah,Arsenal,Sheffield,2023-10-28,True,FW,90,3,1.24,0,0.0,17,4,0,17.8,3,True,8.0,0.23,81.0,4,1,9.23,1.49,0.06,2
+Eddie Nketiah,Arsenal,Newcastle United,2023-11-04,False,FW,78,0,0.11,0,0.02,2,1,1,2.8,0,True,12.5,0.73,80.0,4,1,9.23,1.49,0.06,1
+Eddie Nketiah,Arsenal,Burnley,2023-11-11,True,Sub,9,0,0.0,0,0.0,1,0,0,0.0,0,False,9.0,0.53,62.25,4,1,9.23,1.49,0.06,1
+Eddie Nketiah,Arsenal,Brentford,2023-11-25,False,Sub,24,0,0.04,0,0.0,1,1,0,2.5,0,False,7.0,0.4,54.6,4,1,9.23,1.49,0.06,1
+Eddie Nketiah,Arsenal,Wolverhampton,2023-12-02,True,Sub,23,0,0.41,0,0.0,1,1,0,0.3,0,False,5.8,0.33,49.33,4,1,9.23,1.49,0.06,1
+Eddie Nketiah,Arsenal,Aston Villa,2023-12-09,False,Sub,8,0,0.02,0,0.0,1,1,0,0.2,0,False,4.4,0.36,43.43,4,1,9.23,1.49,0.06,4
+Eddie Nketiah,Arsenal,Brighton,2023-12-17,True,Sub,9,0,0.0,1,0.3,4,0,1,2.7,0,False,1.2,0.12,39.12,4,1,9.23,1.49,0.06,0
+Eddie Nketiah,Arsenal,Liverpool,2023-12-23,False,Sub,12,0,0.0,0,0.0,0,0,0,0.3,0,False,1.6,0.29,36.11,4,1,9.23,1.49,0.06,1
+Eddie Nketiah,Arsenal,West Ham,2023-12-28,True,Sub,26,0,0.16,0,0.0,1,2,0,3.4,0,False,1.4,0.29,35.1,4,1,9.23,1.49,0.06,5
+Eddie Nketiah,Arsenal,Crystal Palace,2023-08-21,False,FW,78,0,0.9,0,0.16,5,3,2,4.9,0,True,1.4,0.32,39.0,4,1,9.23,1.49,0.06,2
+Eddie Nketiah,Arsenal,Fulham,2023-12-31,False,FW,90,0,0.18,0,0.0,2,2,0,2.6,0,True,2.2,0.41,43.25,4,1,9.23,1.49,0.06,4
+Eddie Nketiah,Arsenal,Crystal Palace,2024-01-20,True,Sub,9,0,0.0,1,0.48,4,0,1,3.7,0,False,2.4,0.45,40.62,4,1,9.23,1.49,0.06,1
+Eddie Nketiah,Arsenal,Nottingham Forest,2024-01-30,False,Sub,12,0,0.06,0,0.0,1,1,0,0.5,0,False,2.4,0.45,38.57,4,1,9.23,1.49,0.06,1
+Eddie Nketiah,Arsenal,West Ham,2024-02-11,False,Sub,23,0,0.1,0,0.0,1,1,0,2.0,0,False,2.6,0.46,37.53,4,1,9.23,1.49,0.06,1
+Eddie Nketiah,Arsenal,Burnley,2024-02-17,False,Sub,21,0,0.18,0,0.0,1,2,0,1.4,0,False,2.6,0.45,36.5,4,1,9.23,1.49,0.06,1
+Eddie Nketiah,Arsenal,Newcastle United,2024-02-24,True,Sub,14,0,0.0,0,0.09,1,0,1,1.6,0,False,1.8,0.3,35.18,4,1,9.23,1.49,0.06,5
+Eddie Nketiah,Arsenal,Fulham,2023-08-26,True,Sub,45,1,0.54,0,0.0,5,4,0,6.9,0,False,1.6,0.27,35.72,4,1,9.23,1.49,0.06,1
+Eddie Nketiah,Arsenal,Luton,2024-04-03,True,Sub,24,0,0.04,0,0.0,1,1,0,1.6,0,False,1.8,0.18,35.11,4,1,9.23,1.49,0.06,1
+Eddie Nketiah,Arsenal,Brighton,2024-04-06,False,Sub,1,0,0.06,0,0.0,1,1,0,0.4,0,False,1.8,0.17,33.4,4,1,9.23,1.49,0.06,1
+Eddie Nketiah,Arsenal,Aston Villa,2024-04-14,True,Sub,3,0,0.0,0,0.0,1,0,0,0.6,0,False,1.8,0.16,31.95,4,1,9.23,1.49,0.06,2
+Eddie Nketiah,Arsenal,Manchester United,2023-09-03,True,FW,75,0,0.08,0,0.16,2,1,3,5.6,0,True,1.8,0.13,33.91,4,1,9.23,1.49,0.06,2
+Eddie Nketiah,Arsenal,Everton,2023-09-17,False,FW,65,0,0.07,0,0.0,2,1,0,0.4,0,True,2.0,0.14,35.26,4,1,9.23,1.49,0.06,1
+Eddie Nketiah,Arsenal,Tottenham,2023-09-24,True,FW,90,0,0.31,0,0.0,1,1,0,2.6,0,True,1.4,0.05,37.54,4,1,9.23,1.49,0.06,5
+Eddie Nketiah,Arsenal,Bournemouth,2023-09-30,False,FW,68,0,0.15,0,0.0,5,2,0,2.1,0,True,1.4,0.1,38.76,4,1,9.23,1.49,0.06,2
+Eddie Nketiah,Arsenal,Manchester City,2023-10-08,True,FW,74,0,0.11,0,0.0,2,3,0,1.6,0,True,2.2,0.12,40.12,4,1,9.23,1.49,0.06,0
+Eddie Nketiah,Arsenal,Chelsea,2023-10-21,False,Sub,22,0,0.08,0,0.0,0,2,0,1.5,0,False,2.4,0.14,39.44,4,1,9.23,1.49,0.06,

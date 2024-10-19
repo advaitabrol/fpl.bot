@@ -1,24 +1,24 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts
-John Stones,Man City,Leeds United,2022-10-29,False,DR,90,0,0.0,0,0.0,7,0,0,2.6,1,1,0,0.0,False
-John Stones,Man City,Fulham,2022-11-05,True,DR,90,0,0.0,0,0.0459613986313343,2,0,1,2.9,0,0,1,0.0,False
-John Stones,Man City,Brentford,2022-11-12,True,DR,90,0,0.1865469962358474,0,0.0380307994782924,1,3,2,8.5,0,0,2,1.2862,True
-John Stones,Man City,Leicester City,2022-12-28,False,DC,90,0,0.0694397017359733,0,0.0,2,1,0,1.6,0,0,1,0.5856,True
-John Stones,Man City,Everton,2022-12-31,True,DC,90,0,0.3165050148963928,0,0.0,2,1,0,2.0,0,0,1,0.0857,True
-John Stones,Man City,Chelsea,2023-01-05,False,DC,90,0,0.0,0,0.0,9,0,0,3.4,3,1,0,0.4098,True
-John Stones,Man City,Bournemouth,2022-08-13,True,Sub,26,0,0.0,0,0.0,1,0,0,0.3,0,0,0,0.0,False
-John Stones,Man City,Tottenham,2023-01-19,True,DC,90,0,0.0,0,0.0,1,0,0,1.5,0,0,2,0.8393,True
-John Stones,Man City,Wolverhampton,2023-01-22,True,DC,90,0,0.0,0,0.0,8,0,0,1.9,2,1,0,0.829,True
-John Stones,Man City,Crystal Palace,2023-03-11,False,DR,88,0,0.0,0,0.0157651994377374,9,0,1,4.6,3,1,0,0.17,True
-John Stones,Man City,Liverpool,2023-04-01,True,DMC,90,0,0.0,0,0.0,2,0,0,1.7,0,0,1,0.33,True
-John Stones,Man City,Newcastle United,2022-08-21,False,DC,90,0,0.0,0,0.0,0,0,0,0.8,0,0,3,0.0,False
-John Stones,Man City,Southampton,2023-04-08,False,DMC,55,0,0.0,0,0.0,0,0,0,0.7,0,0,0,0.21,True
-John Stones,Man City,Leeds United,2023-04-15,True,DC,45,1,0.0199554003775119,0,0.0,8,1,0,4.8,1,0,0,0.22,True
-John Stones,Man City,Arsenal,2023-04-26,True,DC,90,1,0.2658468186855316,0,0.0,9,1,0,6.0,1,0,1,0.48,True
-John Stones,Man City,Fulham,2023-04-30,False,DMC,90,0,0.0,0,0.0,2,0,0,2.4,0,0,1,0.17,True
-John Stones,Man City,West Ham,2023-05-03,True,DMC,90,0,0.3615551292896271,0,0.0544431395828723,6,2,1,4.0,0,1,0,0.36,True
-John Stones,Man City,Chelsea,2023-05-21,True,Sub,33,0,0.0,0,0.0268212053924798,1,0,1,2.5,0,0,0,0.27,False
-John Stones,Man City,Brighton,2023-05-24,False,DC,83,0,0.0,0,0.0,2,0,0,2.1,0,0,1,2.53,True
-John Stones,Man City,Crystal Palace,2022-08-27,True,DC,90,0,0.082406997680664,1,0.5720340013504028,3,1,1,5.0,1,0,2,0.0,False
-John Stones,Man City,Nottingham Forest,2022-08-31,True,DC,74,0,0.0,1,0.6953009963035583,10,0,1,4.6,1,1,0,0.0,False
-John Stones,Man City,Aston Villa,2022-09-03,False,DC,90,0,0.0,0,0.0,2,0,0,2.1,0,0,1,0.0,False
-John Stones,Man City,Wolverhampton,2022-09-17,False,DR,90,0,0.0139338998124003,0,0.0,6,1,0,3.6,0,1,0,0.0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
+John Stones,Man City,Leeds United,2022-10-29,False,DR,90,0,0.0,0,0.0,7,0,0,2.6,1,1,0,0.0,False,0.0,0.0,90.0,1.0,0,0,0,0,2
+John Stones,Man City,Fulham,2022-11-05,True,DR,90,0,0.0,0,0.05,2,0,1,2.9,0,0,1,0.0,False,7.0,0.0,90.0,0.5,0,0,0,0,1
+John Stones,Man City,Brentford,2022-11-12,True,DR,90,0,0.19,0,0.04,1,3,2,8.5,0,0,2,1.29,True,4.5,0.0,90.0,0.33,0,0,0,0,2
+John Stones,Man City,Leicester City,2022-12-28,False,DC,90,0,0.07,0,0.0,2,1,0,1.6,0,0,1,0.59,True,3.33,0.06,90.0,0.25,0,0,0,0,2
+John Stones,Man City,Everton,2022-12-31,True,DC,90,0,0.32,0,0.0,2,1,0,2.0,0,0,1,0.09,True,3.0,0.06,90.0,0.2,0,0,0,0,9
+John Stones,Man City,Chelsea,2023-01-05,False,DC,90,0,0.0,0,0.0,9,0,0,3.4,3,1,0,0.41,True,2.8,0.11,90.0,0.33,0,0,0,0,1
+John Stones,Man City,Bournemouth,2022-08-13,True,Sub,26,0,0.0,0,0.0,1,0,0,0.3,0,0,0,0.0,False,3.2,0.11,80.86,0.33,0,0,0,0,1
+John Stones,Man City,Tottenham,2023-01-19,True,DC,90,0,0.0,0,0.0,1,0,0,1.5,0,0,2,0.84,True,3.0,0.11,82.0,0.29,0,0,0,0,8
+John Stones,Man City,Wolverhampton,2023-01-22,True,DC,90,0,0.0,0,0.0,8,0,0,1.9,2,1,0,0.83,True,3.0,0.08,82.89,0.38,0,0,0,0,9
+John Stones,Man City,Crystal Palace,2023-03-11,False,DR,88,0,0.0,0,0.02,9,0,1,4.6,3,1,0,0.17,True,4.2,0.06,83.4,0.44,0,0,0,0,2
+John Stones,Man City,Liverpool,2023-04-01,True,DMC,90,0,0.0,0,0.0,2,0,0,1.7,0,0,1,0.33,True,5.6,0.0,84.0,0.4,0,0,0,0,0
+John Stones,Man City,Newcastle United,2022-08-21,False,DC,90,0,0.0,0,0.0,0,0,0,0.8,0,0,3,0.0,False,4.2,0.0,84.5,0.36,0,0,0,0,0
+John Stones,Man City,Southampton,2023-04-08,False,DMC,55,0,0.0,0,0.0,0,0,0,0.7,0,0,0,0.21,True,4.0,0.0,82.23,0.36,0,0,0,0,8
+John Stones,Man City,Leeds United,2023-04-15,True,DC,45,1,0.02,0,0.0,8,1,0,4.8,1,0,0,0.22,True,3.8,0.0,79.57,0.36,0,0,0,0,9
+John Stones,Man City,Arsenal,2023-04-26,True,DC,90,1,0.27,0,0.0,9,1,0,6.0,1,0,1,0.48,True,3.8,0.0,80.27,0.33,0,0,0,0,2
+John Stones,Man City,Fulham,2023-04-30,False,DMC,90,0,0.0,0,0.0,2,0,0,2.4,0,0,1,0.17,True,3.8,0.06,80.88,0.31,0,0,0,0,6
+John Stones,Man City,West Ham,2023-05-03,True,DMC,90,0,0.36,0,0.05,6,2,1,4.0,0,1,0,0.36,True,3.8,0.06,81.41,0.36,0,0,0,0,1
+John Stones,Man City,Chelsea,2023-05-21,True,Sub,33,0,0.0,0,0.03,1,0,1,2.5,0,0,0,0.27,False,5.0,0.13,78.72,0.36,0,0,0,0,2
+John Stones,Man City,Brighton,2023-05-24,False,DC,83,0,0.0,0,0.0,2,0,0,2.1,0,0,1,2.53,True,5.2,0.13,78.95,0.33,0,0,0,0,3
+John Stones,Man City,Crystal Palace,2022-08-27,True,DC,90,0,0.08,1,0.57,3,1,1,5.0,1,0,2,0.0,False,4.0,0.13,79.5,0.31,0,0,0,0,10
+John Stones,Man City,Nottingham Forest,2022-08-31,True,DC,74,0,0.0,1,0.7,10,0,1,4.6,1,1,0,0.0,False,2.8,0.29,79.24,0.35,0,0,0,0,2
+John Stones,Man City,Aston Villa,2022-09-03,False,DC,90,0,0.0,0,0.0,2,0,0,2.1,0,0,1,0.0,False,4.4,0.49,79.73,0.33,0,0,0,0,6
+John Stones,Man City,Wolverhampton,2022-09-17,False,DR,90,0,0.01,0,0.0,6,1,0,3.6,0,1,0,0.0,False,3.6,0.42,80.17,0.37,0,0,0,0,6

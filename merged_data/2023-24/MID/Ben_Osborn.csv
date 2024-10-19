@@ -1,25 +1,25 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Ben Osborn,Sheffield Utd,Crystal Palace,2023-08-12,True,MC,86,0,0.1125490367412567,0,0.0,2,1,0,0.0,0,0,1,True
-Ben Osborn,Sheffield Utd,Arsenal,2023-10-28,False,Sub,31,0,0.0,0,0.0,0,0,0,0.0,0,0,2,False
-Ben Osborn,Sheffield Utd,Wolverhampton,2023-11-04,True,Sub,1,0,0.0,0,0.0730082392692565,1,0,1,1.4,0,0,0,False
-Ben Osborn,Sheffield Utd,Brighton,2023-11-12,False,Sub,38,0,0.0,0,0.0,1,0,0,0.5,0,0,0,False
-Ben Osborn,Sheffield Utd,Bournemouth,2023-11-25,True,Sub,24,0,0.0,0,0.0266622193157672,1,0,1,2.1,0,0,0,False
-Ben Osborn,Sheffield Utd,Nottingham Forest,2023-08-18,False,DMR,90,0,0.0,0,0.0,1,0,0,1.8,0,0,2,True
-Ben Osborn,Sheffield Utd,Manchester City,2023-12-30,False,Sub,10,0,0.0,0,0.0,1,0,0,0.5,0,0,0,False
-Ben Osborn,Sheffield Utd,Aston Villa,2024-02-03,True,Sub,40,0,0.0,0,0.06014971062541,1,0,1,2.0,0,0,0,False
-Ben Osborn,Sheffield Utd,Luton,2024-02-10,False,ML,90,0,0.0,1,0.0755217000842094,5,0,1,3.7,0,0,1,True
-Ben Osborn,Sheffield Utd,Brighton,2024-02-18,True,MC,78,0,0.0237361639738082,0,0.0,2,1,0,0.8,0,0,4,True
-Ben Osborn,Sheffield Utd,Wolverhampton,2024-02-25,False,Sub,18,0,0.0,0,0.0791919454932212,1,0,1,1.9,0,0,0,False
-Ben Osborn,Sheffield Utd,Arsenal,2024-03-04,True,Sub,73,0,0.0,0,0.0,2,0,0,0.7,0,0,3,False
-Ben Osborn,Sheffield Utd,Bournemouth,2024-03-09,False,DML,90,0,0.0,0,0.0358080342411994,2,0,1,3.0,0,0,2,True
-Ben Osborn,Sheffield Utd,Manchester City,2023-08-27,True,DML,16,0,0.0,0,0.0,1,0,0,0.1,0,0,0,True
-Ben Osborn,Sheffield Utd,Fulham,2024-03-30,True,DML,90,0,0.0,0,0.0,2,0,0,1.8,0,0,3,True
-Ben Osborn,Sheffield Utd,Liverpool,2024-04-04,False,Sub,28,0,0.0,0,0.0,1,0,0,0.4,0,0,2,False
-Ben Osborn,Sheffield Utd,Chelsea,2024-04-07,True,MC,90,0,0.0332088060677051,0,0.0,2,1,0,1.3,0,0,2,True
-Ben Osborn,Sheffield Utd,Brentford,2024-04-13,False,MC,90,0,0.0095853442326188,0,0.051481083035469,2,1,1,4.1,0,0,2,True
-Ben Osborn,Sheffield Utd,Burnley,2024-04-20,True,DL,90,0,0.0,0,0.0170553717762231,1,0,1,2.7,0,0,4,True
-Ben Osborn,Sheffield Utd,Manchester United,2024-04-24,False,DML,90,0,0.0,1,0.511154055595398,5,0,1,4.0,0,0,4,True
-Ben Osborn,Sheffield Utd,Newcastle United,2024-04-27,False,DML,90,0,0.0,0,0.0356332547962665,0,0,1,2.9,0,0,5,True
-Ben Osborn,Sheffield Utd,Nottingham Forest,2024-05-04,True,DML,90,0,0.0,0,0.029813902452588,2,0,1,2.5,0,0,3,True
-Ben Osborn,Sheffield Utd,Tottenham,2024-05-19,True,MC,4,0,0.0,0,0.0654603689908981,1,0,1,1.2,0,0,0,True
-Ben Osborn,Sheffield Utd,Manchester United,2023-10-21,True,Sub,12,0,0.0,0,0.014941468834877,1,0,1,1.9,0,0,0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Ben Osborn,Sheffield Utd,Crystal Palace,2023-08-12,True,MC,86,0,0.11,0,0.0,2,1,0,0.0,0,0,1,True,0.0,0.0,86.0,0,0,0,0,0,0
+Ben Osborn,Sheffield Utd,Arsenal,2023-10-28,False,Sub,31,0,0.0,0,0.0,0,0,0,0.0,0,0,2,False,2.0,0.11,58.5,0,0,0,0,0,1
+Ben Osborn,Sheffield Utd,Wolverhampton,2023-11-04,True,Sub,1,0,0.0,0,0.07,1,0,1,1.4,0,0,0,False,1.0,0.06,39.33,0,0,0,0,0,1
+Ben Osborn,Sheffield Utd,Brighton,2023-11-12,False,Sub,38,0,0.0,0,0.0,1,0,0,0.5,0,0,0,False,1.0,0.04,39.0,0,0,0,0,0,1
+Ben Osborn,Sheffield Utd,Bournemouth,2023-11-25,True,Sub,24,0,0.0,0,0.03,1,0,1,2.1,0,0,0,False,1.0,0.03,36.0,0,0,0,0,0,1
+Ben Osborn,Sheffield Utd,Nottingham Forest,2023-08-18,False,DMR,90,0,0.0,0,0.0,1,0,0,1.8,0,0,2,True,1.0,0.02,45.0,0,0,0,0,0,1
+Ben Osborn,Sheffield Utd,Manchester City,2023-12-30,False,Sub,10,0,0.0,0,0.0,1,0,0,0.5,0,0,0,False,0.8,0.0,40.0,0,0,0,0,0,1
+Ben Osborn,Sheffield Utd,Aston Villa,2024-02-03,True,Sub,40,0,0.0,0,0.06,1,0,1,2.0,0,0,0,False,1.0,0.0,40.0,0,0,0,0,0,5
+Ben Osborn,Sheffield Utd,Luton,2024-02-10,False,ML,90,0,0.0,1,0.08,5,0,1,3.7,0,0,1,True,1.0,0.0,45.56,0,0,0,0,0,2
+Ben Osborn,Sheffield Utd,Brighton,2024-02-18,True,MC,78,0,0.02,0,0.0,2,1,0,0.8,0,0,4,True,1.8,0.2,48.8,0,0,0,0,0,1
+Ben Osborn,Sheffield Utd,Wolverhampton,2024-02-25,False,Sub,18,0,0.0,0,0.08,1,0,1,1.9,0,0,0,False,2.0,0.2,46.0,0,0,0,0,0,2
+Ben Osborn,Sheffield Utd,Arsenal,2024-03-04,True,Sub,73,0,0.0,0,0.0,2,0,0,0.7,0,0,3,False,2.0,0.2,48.25,0,0,0,0,0,2
+Ben Osborn,Sheffield Utd,Bournemouth,2024-03-09,False,DML,90,0,0.0,0,0.04,2,0,1,3.0,0,0,2,True,2.2,0.2,51.46,0,0,0,0,0,1
+Ben Osborn,Sheffield Utd,Manchester City,2023-08-27,True,DML,16,0,0.0,0,0.0,1,0,0,0.1,0,0,0,True,2.4,0.2,48.93,0,0,0,0,0,2
+Ben Osborn,Sheffield Utd,Fulham,2024-03-30,True,DML,90,0,0.0,0,0.0,2,0,0,1.8,0,0,3,True,1.6,0.0,51.67,0,0,0,0,0,1
+Ben Osborn,Sheffield Utd,Liverpool,2024-04-04,False,Sub,28,0,0.0,0,0.0,1,0,0,0.4,0,0,2,False,1.6,0.0,50.19,0,0,0,0,0,2
+Ben Osborn,Sheffield Utd,Chelsea,2024-04-07,True,MC,90,0,0.03,0,0.0,2,1,0,1.3,0,0,2,True,1.6,0.0,52.53,0,0,0,0,0,2
+Ben Osborn,Sheffield Utd,Brentford,2024-04-13,False,MC,90,0,0.01,0,0.05,2,1,1,4.1,0,0,2,True,1.6,0.01,54.61,0,0,0,0,0,1
+Ben Osborn,Sheffield Utd,Burnley,2024-04-20,True,DL,90,0,0.0,0,0.02,1,0,1,2.7,0,0,4,True,1.6,0.01,56.47,0,0,0,0,0,5
+Ben Osborn,Sheffield Utd,Manchester United,2024-04-24,False,DML,90,0,0.0,1,0.51,5,0,1,4.0,0,0,4,True,1.6,0.01,58.15,0,0,0,0,0,0
+Ben Osborn,Sheffield Utd,Newcastle United,2024-04-27,False,DML,90,0,0.0,0,0.04,0,0,1,2.9,0,0,5,True,2.2,0.21,59.67,0,0,0,0,0,2
+Ben Osborn,Sheffield Utd,Nottingham Forest,2024-05-04,True,DML,90,0,0.0,0,0.03,2,0,1,2.5,0,0,3,True,2.0,0.21,61.05,0,0,0,0,0,1
+Ben Osborn,Sheffield Utd,Tottenham,2024-05-19,True,MC,4,0,0.0,0,0.07,1,0,1,1.2,0,0,0,True,2.0,0.2,58.57,0,0,0,0,0,1
+Ben Osborn,Sheffield Utd,Manchester United,2023-10-21,True,Sub,12,0,0.0,0,0.01,1,0,1,1.9,0,0,0,False,1.8,0.2,56.62,0,0,0,0,0,

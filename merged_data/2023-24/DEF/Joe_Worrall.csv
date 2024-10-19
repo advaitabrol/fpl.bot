@@ -1,8 +1,8 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts
-Joe Worrall,Nott'm Forest,Arsenal,2023-08-12,False,DC,89,0,0.0,0,0.0,1,0,0,1.8,0,0,2,0.75,True
-Joe Worrall,Nott'm Forest,Newcastle United,2023-12-26,False,Sub,1,0,0.0,0,0.0,1,0,0,0.8,0,0,0,0.13,False
-Joe Worrall,Nott'm Forest,Sheffield,2023-08-18,True,DC,90,0,0.0814925581216812,0,0.1285788267850875,2,2,2,4.8,0,0,1,0.51,True
-Joe Worrall,Nott'm Forest,Manchester United,2023-08-26,False,DC,66,0,0.0,0,0.0,-2,0,0,0.0,0,0,3,3.83,True
-Joe Worrall,Nott'm Forest,Chelsea,2023-09-02,False,DC,90,0,0.0,0,0.0,9,0,0,2.9,3,1,0,2.13,True
-Joe Worrall,Nott'm Forest,Burnley,2023-09-18,True,DC,90,0,0.0,0,0.0,2,0,0,1.7,0,0,1,0.56,True
-Joe Worrall,Nott'm Forest,Luton,2023-10-21,True,Sub,12,0,0.0,0,0.0,0,0,0,1.0,0,0,2,1.1,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
+Joe Worrall,Nott'm Forest,Arsenal,2023-08-12,False,DC,89,0,0.0,0,0.0,1,0,0,1.8,0,0,2,0.75,True,0.0,0.0,89.0,0.0,0.92,0.56,30.88,0.22,1
+Joe Worrall,Nott'm Forest,Newcastle United,2023-12-26,False,Sub,1,0,0.0,0,0.0,1,0,0,0.8,0,0,0,0.13,False,1.0,0.0,45.0,0.0,0.92,0.56,30.88,0.22,2
+Joe Worrall,Nott'm Forest,Sheffield,2023-08-18,True,DC,90,0,0.08,0,0.13,2,2,2,4.8,0,0,1,0.51,True,1.0,0.0,60.0,0.0,0.92,0.56,30.88,0.22,-2
+Joe Worrall,Nott'm Forest,Manchester United,2023-08-26,False,DC,66,0,0.0,0,0.0,-2,0,0,0.0,0,0,3,3.83,True,1.33,0.03,61.5,0.0,0.92,0.56,30.88,0.22,9
+Joe Worrall,Nott'm Forest,Chelsea,2023-09-02,False,DC,90,0,0.0,0,0.0,9,0,0,2.9,3,1,0,2.13,True,0.5,0.02,67.2,0.25,0.92,0.56,30.88,0.22,2
+Joe Worrall,Nott'm Forest,Burnley,2023-09-18,True,DC,90,0,0.0,0,0.0,2,0,0,1.7,0,0,1,0.56,True,2.2,0.02,71.0,0.2,0.92,0.56,30.88,0.22,0
+Joe Worrall,Nott'm Forest,Luton,2023-10-21,True,Sub,12,0,0.0,0,0.0,0,0,0,1.0,0,0,2,1.1,False,2.4,0.02,62.57,0.2,0.92,0.56,30.88,0.22,

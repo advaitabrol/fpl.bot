@@ -1,25 +1,25 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts
-Raúl Jiménez,Fulham,Everton,2023-08-12,False,FW,57,0,0.0899509713053703,0,0.0,1,1,0,0.6,0,True
-Raúl Jiménez,Fulham,Brighton,2023-10-29,False,FW,57,0,0.0,0,0.0,1,0,0,0.4,0,True
-Raúl Jiménez,Fulham,Manchester United,2023-11-04,True,Sub,1,0,0.0,0,0.0,0,0,0,0.1,0,False
-Raúl Jiménez,Fulham,Aston Villa,2023-11-12,False,FW,73,1,0.4987989664077759,0,0.0179931763559579,8,3,1,9.3,2,True
-Raúl Jiménez,Fulham,Wolverhampton,2023-11-27,True,FW,75,0,0.1134249940514564,0,0.0,2,1,0,1.5,0,True
-Raúl Jiménez,Fulham,Liverpool,2023-12-03,False,FW,90,0,0.0423841178417205,0,0.0,2,1,0,1.7,0,True
-Raúl Jiménez,Fulham,Nottingham Forest,2023-12-06,True,FW,78,2,1.63876211643219,0,0.0,13,6,0,14.9,3,True
-Raúl Jiménez,Fulham,West Ham,2023-12-10,True,FW,71,1,0.1268635392189026,0,0.4247972071170807,9,1,2,9.2,3,True
-Raúl Jiménez,Fulham,Newcastle United,2023-12-16,False,FW,21,0,0.0366738848388195,0,0.0,-2,1,0,0.6,0,True
-Raúl Jiménez,Fulham,Brentford,2023-08-19,True,FW,85,0,0.079862393438816,0,0.0,2,2,0,3.3,0,True
-Raúl Jiménez,Fulham,Arsenal,2023-12-31,True,FW,90,1,0.6191079020500183,0,0.0774576738476753,7,5,1,9.8,2,True
-Raúl Jiménez,Fulham,Chelsea,2024-01-13,False,FW,90,0,0.2008131891489029,0,0.0,2,4,0,4.8,0,True
-Raúl Jiménez,Fulham,Everton,2024-01-30,True,FW,45,0,0.6447634696960449,0,0.0,1,2,0,1.2,0,True
-Raúl Jiménez,Fulham,Tottenham,2024-03-16,True,Sub,26,0,0.0,0,0.1471025794744491,1,0,1,1.7,0,False
-Raúl Jiménez,Fulham,Arsenal,2023-08-26,False,FW,90,0,0.2213761806488037,0,0.0,1,2,0,2.8,0,True
-Raúl Jiménez,Fulham,Sheffield,2024-03-30,False,Sub,5,0,0.0,0,0.0,1,0,0,0.3,0,False
-Raúl Jiménez,Fulham,Newcastle United,2024-04-06,True,Sub,4,0,0.0251869093626737,0,0.0,1,1,0,1.3,0,False
-Raúl Jiménez,Fulham,Brentford,2024-05-04,False,Sub,26,0,0.5409829616546631,0,0.0,1,1,0,0.9,0,False
-Raúl Jiménez,Fulham,Luton,2024-05-19,False,FW,90,2,0.4407968521118164,0,0.1366644948720932,13,3,1,14.4,3,True
-Raúl Jiménez,Fulham,Manchester City,2023-09-02,False,FW,80,0,0.1342293322086334,0,0.7928147315979004,2,2,3,7.2,0,True
-Raúl Jiménez,Fulham,Luton,2023-09-16,True,FW,61,0,0.0927940011024475,0,0.0,2,1,0,0.8,0,True
-Raúl Jiménez,Fulham,Crystal Palace,2023-09-23,False,FW,78,0,0.1115295514464378,0,0.0306652504950761,2,2,1,3.9,0,True
-Raúl Jiménez,Fulham,Chelsea,2023-10-02,True,FW,52,0,0.0192558579146862,0,0.0,1,1,0,1.1,0,True
-Raúl Jiménez,Fulham,Tottenham,2023-10-23,False,Sub,45,0,0.3125161528587341,0,0.0648794695734977,1,1,1,3.3,0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Raúl Jiménez,Fulham,Everton,2023-08-12,False,FW,57,0,0.09,0,0.0,1,1,0,0.6,0,True,0.0,0.0,57.0,0,1,2.71,1.5,0.03,1
+Raúl Jiménez,Fulham,Brighton,2023-10-29,False,FW,57,0,0.0,0,0.0,1,0,0,0.4,0,True,1.0,0.09,57.0,0,1,2.71,1.5,0.03,0
+Raúl Jiménez,Fulham,Manchester United,2023-11-04,True,Sub,1,0,0.0,0,0.0,0,0,0,0.1,0,False,1.0,0.04,38.33,0,1,2.71,1.5,0.03,8
+Raúl Jiménez,Fulham,Aston Villa,2023-11-12,False,FW,73,1,0.5,0,0.02,8,3,1,9.3,2,True,0.67,0.03,47.0,0,1,2.71,1.5,0.03,2
+Raúl Jiménez,Fulham,Wolverhampton,2023-11-27,True,FW,75,0,0.11,0,0.0,2,1,0,1.5,0,True,2.5,0.15,52.6,0,1,2.71,1.5,0.03,2
+Raúl Jiménez,Fulham,Liverpool,2023-12-03,False,FW,90,0,0.04,0,0.0,2,1,0,1.7,0,True,2.4,0.14,58.83,0,1,2.71,1.5,0.03,13
+Raúl Jiménez,Fulham,Nottingham Forest,2023-12-06,True,FW,78,2,1.64,0,0.0,13,6,0,14.9,3,True,2.6,0.13,61.57,0,1,2.71,1.5,0.03,9
+Raúl Jiménez,Fulham,West Ham,2023-12-10,True,FW,71,1,0.13,0,0.42,9,1,2,9.2,3,True,5.0,0.46,62.75,0,1,2.71,1.5,0.03,-2
+Raúl Jiménez,Fulham,Newcastle United,2023-12-16,False,FW,21,0,0.04,0,0.0,-2,1,0,0.6,0,True,6.8,0.48,58.11,0,1,2.71,1.5,0.03,2
+Raúl Jiménez,Fulham,Brentford,2023-08-19,True,FW,85,0,0.08,0,0.0,2,2,0,3.3,0,True,4.8,0.39,60.8,0,1,2.71,1.5,0.03,7
+Raúl Jiménez,Fulham,Arsenal,2023-12-31,True,FW,90,1,0.62,0,0.08,7,5,1,9.8,2,True,4.8,0.38,63.45,0,1,2.71,1.5,0.03,2
+Raúl Jiménez,Fulham,Chelsea,2024-01-13,False,FW,90,0,0.2,0,0.0,2,4,0,4.8,0,True,5.8,0.5,65.67,0,1,2.71,1.5,0.03,1
+Raúl Jiménez,Fulham,Everton,2024-01-30,True,FW,45,0,0.64,0,0.0,1,2,0,1.2,0,True,3.6,0.21,64.08,0,1,2.71,1.5,0.03,1
+Raúl Jiménez,Fulham,Tottenham,2024-03-16,True,Sub,26,0,0.0,0,0.15,1,0,1,1.7,0,False,2.0,0.32,61.36,0,1,2.71,1.5,0.03,1
+Raúl Jiménez,Fulham,Arsenal,2023-08-26,False,FW,90,0,0.22,0,0.0,1,2,0,2.8,0,True,2.6,0.31,63.27,0,1,2.71,1.5,0.03,1
+Raúl Jiménez,Fulham,Sheffield,2024-03-30,False,Sub,5,0,0.0,0,0.0,1,0,0,0.3,0,False,2.4,0.34,59.62,0,1,2.71,1.5,0.03,1
+Raúl Jiménez,Fulham,Newcastle United,2024-04-06,True,Sub,4,0,0.03,0,0.0,1,1,0,1.3,0,False,1.2,0.21,56.35,0,1,2.71,1.5,0.03,1
+Raúl Jiménez,Fulham,Brentford,2024-05-04,False,Sub,26,0,0.54,0,0.0,1,1,0,0.9,0,False,1.0,0.18,54.67,0,1,2.71,1.5,0.03,13
+Raúl Jiménez,Fulham,Luton,2024-05-19,False,FW,90,2,0.44,0,0.14,13,3,1,14.4,3,True,1.0,0.16,56.53,0,1,2.71,1.5,0.03,2
+Raúl Jiménez,Fulham,Manchester City,2023-09-02,False,FW,80,0,0.13,0,0.79,2,2,3,7.2,0,True,3.4,0.25,57.7,0,1,2.71,1.5,0.03,2
+Raúl Jiménez,Fulham,Luton,2023-09-16,True,FW,61,0,0.09,0,0.0,2,1,0,0.8,0,True,3.6,0.23,57.86,0,1,2.71,1.5,0.03,2
+Raúl Jiménez,Fulham,Crystal Palace,2023-09-23,False,FW,78,0,0.11,0,0.03,2,2,1,3.9,0,True,3.8,0.25,58.77,0,1,2.71,1.5,0.03,1
+Raúl Jiménez,Fulham,Chelsea,2023-10-02,True,FW,52,0,0.02,0,0.0,1,1,0,1.1,0,True,4.0,0.26,58.48,0,1,2.71,1.5,0.03,1
+Raúl Jiménez,Fulham,Tottenham,2023-10-23,False,Sub,45,0,0.31,0,0.06,1,1,1,3.3,0,False,4.0,0.16,57.92,0,1,2.71,1.5,0.03,

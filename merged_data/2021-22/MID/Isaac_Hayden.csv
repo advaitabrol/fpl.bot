@@ -1,15 +1,15 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Isaac Hayden,Newcastle,West Ham,2021-08-15,True,MC,90,0,0.0207067839801311,0,0.0,2,1,0,2.0,0,0,4
-Isaac Hayden,Newcastle,Chelsea,2021-10-30,True,MC,66,0,0.0,0,0.0,1,0,0,1.7,0,0,1
-Isaac Hayden,Newcastle,Brighton,2021-11-06,False,MC,90,1,0.1316858381032943,0,0.0,10,2,0,8.6,3,0,1
-Isaac Hayden,Newcastle,Arsenal,2021-11-27,False,Sub,2,0,0.0,0,0.0,1,0,0,0.0,0,0,0
-Isaac Hayden,Newcastle,Norwich,2021-11-30,True,Sub,17,0,0.0628404095768928,0,0.0,1,1,0,0.1,0,0,1
-Isaac Hayden,Newcastle,Liverpool,2021-12-16,False,MC,90,0,0.0,0,0.0,1,0,0,2.2,0,0,3
-Isaac Hayden,Newcastle,Manchester City,2021-12-19,True,MC,60,0,0.0741934478282928,0,0.0,1,1,0,1.1,0,0,2
-Isaac Hayden,Newcastle,Aston Villa,2021-08-21,False,MC,45,0,0.0,0,0.0,0,0,0,0.7,0,0,1
-Isaac Hayden,Newcastle,Manchester United,2021-09-11,False,DC,90,0,0.0,0,0.0,2,0,0,0.8,0,0,4
-Isaac Hayden,Newcastle,Leicester City,2021-09-17,True,DC,90,0,0.0,0,0.014035040512681,2,0,1,2.5,0,0,1
-Isaac Hayden,Newcastle,Watford,2021-09-25,False,DMC,90,0,0.0,0,0.0453430376946926,2,0,1,2.8,0,0,1
-Isaac Hayden,Newcastle,Wolverhampton,2021-10-02,False,MC,90,0,0.0,0,0.0,2,0,0,2.0,0,0,2
-Isaac Hayden,Newcastle,Tottenham,2021-10-17,True,DMC,90,0,0.0,0,0.0,1,0,0,2.0,0,0,3
-Isaac Hayden,Newcastle,Crystal Palace,2021-10-23,False,MC,90,0,0.0,0,0.0,2,0,0,1.8,0,0,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
+Isaac Hayden,Newcastle,West Ham,2021-08-15,True,MC,90,0,0.02,0,0.0,2,1,0,2.0,0,0,4,0.0,0.0,90.0
+Isaac Hayden,Newcastle,Chelsea,2021-10-30,True,MC,66,0,0.0,0,0.0,1,0,0,1.7,0,0,1,2.0,0.02,78.0
+Isaac Hayden,Newcastle,Brighton,2021-11-06,False,MC,90,1,0.13,0,0.0,10,2,0,8.6,3,0,1,1.5,0.01,82.0
+Isaac Hayden,Newcastle,Arsenal,2021-11-27,False,Sub,2,0,0.0,0,0.0,1,0,0,0.0,0,0,0,4.33,0.05,62.0
+Isaac Hayden,Newcastle,Norwich,2021-11-30,True,Sub,17,0,0.06,0,0.0,1,1,0,0.1,0,0,1,3.5,0.04,53.0
+Isaac Hayden,Newcastle,Liverpool,2021-12-16,False,MC,90,0,0.0,0,0.0,1,0,0,2.2,0,0,3,3.0,0.04,59.17
+Isaac Hayden,Newcastle,Manchester City,2021-12-19,True,MC,60,0,0.07,0,0.0,1,1,0,1.1,0,0,2,2.8,0.04,59.29
+Isaac Hayden,Newcastle,Aston Villa,2021-08-21,False,MC,45,0,0.0,0,0.0,0,0,0,0.7,0,0,1,2.8,0.05,57.5
+Isaac Hayden,Newcastle,Manchester United,2021-09-11,False,DC,90,0,0.0,0,0.0,2,0,0,0.8,0,0,4,0.8,0.03,61.11
+Isaac Hayden,Newcastle,Leicester City,2021-09-17,True,DC,90,0,0.0,0,0.01,2,0,1,2.5,0,0,1,1.0,0.03,64.0
+Isaac Hayden,Newcastle,Watford,2021-09-25,False,DMC,90,0,0.0,0,0.05,2,0,1,2.8,0,0,1,1.2,0.01,66.36
+Isaac Hayden,Newcastle,Wolverhampton,2021-10-02,False,MC,90,0,0.0,0,0.0,2,0,0,2.0,0,0,2,1.4,0.01,68.33
+Isaac Hayden,Newcastle,Tottenham,2021-10-17,True,DMC,90,0,0.0,0,0.0,1,0,0,2.0,0,0,3,1.6,0.0,70.0
+Isaac Hayden,Newcastle,Crystal Palace,2021-10-23,False,MC,90,0,0.0,0,0.0,2,0,0,1.8,0,0,1,1.8,0.0,71.43

@@ -1,17 +1,17 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts
-Enes Ünal,Bournemouth,Fulham,2024-02-10,False,Sub,21,0,0.7204475998878479,0,0.0,1,3,0,1.8,0,False
-Enes Ünal,Bournemouth,Newcastle United,2024-02-17,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,False
-Enes Ünal,Bournemouth,Manchester City,2024-02-24,True,Sub,2,0,0.057604219764471,0,0.0,1,1,0,0.3,0,False
-Enes Ünal,Bournemouth,Burnley,2024-03-03,False,Sub,1,0,0.0,0,0.0,1,0,0,0.1,0,False
-Enes Ünal,Bournemouth,Sheffield,2024-03-09,True,Sub,28,1,0.5406279563903809,0,0.0,5,3,0,9.8,0,False
-Enes Ünal,Bournemouth,Luton,2024-03-13,True,Sub,45,0,0.6821708083152771,1,0.307759553194046,7,4,1,6.6,0,False
-Enes Ünal,Bournemouth,Everton,2024-03-30,True,Sub,5,0,0.0,0,0.0,1,0,0,0.1,0,False
-Enes Ünal,Bournemouth,Crystal Palace,2024-04-02,True,Sub,1,0,0.0,0,0.0380256362259388,1,0,1,1.4,0,False
-Enes Ünal,Bournemouth,Luton,2024-04-06,False,Sub,21,0,0.0,0,0.0,1,0,0,1.4,0,False
-Enes Ünal,Bournemouth,Manchester United,2024-04-13,True,Sub,14,0,0.1215325742959976,0,0.0,1,1,0,0.3,0,False
-Enes Ünal,Bournemouth,Aston Villa,2024-04-21,False,Sub,8,0,0.5538105368614197,0,0.0,1,2,0,4.4,0,False
-Enes Ünal,Bournemouth,Wolverhampton,2024-04-24,False,Sub,3,0,0.0,0,0.0,0,0,0,1.4,0,False
-Enes Ünal,Bournemouth,Brighton,2024-04-28,True,FW,66,1,0.6825171709060669,1,0.7159591913223267,12,4,1,10.3,3,True
-Enes Ünal,Bournemouth,Arsenal,2024-05-04,False,Sub,10,0,0.0,0,0.0,1,0,0,0.0,0,False
-Enes Ünal,Bournemouth,Brentford,2024-05-11,True,Sub,23,0,0.0532876439392566,0,0.0,1,1,0,0.1,0,False
-Enes Ünal,Bournemouth,Chelsea,2024-05-19,False,FW,68,0,0.6055256724357605,0,0.1473208963871002,5,4,2,5.7,0,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Enes Ünal,Bournemouth,Fulham,2024-02-10,False,Sub,21,0,0.72,0,0.0,1,3,0,1.8,0,False,0.0,0.0,21.0,0,0,0,0,0,1
+Enes Ünal,Bournemouth,Newcastle United,2024-02-17,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,False,1.0,0.72,11.0,0,0,0,0,0,1
+Enes Ünal,Bournemouth,Manchester City,2024-02-24,True,Sub,2,0,0.06,0,0.0,1,1,0,0.3,0,False,1.0,0.36,8.0,0,0,0,0,0,1
+Enes Ünal,Bournemouth,Burnley,2024-03-03,False,Sub,1,0,0.0,0,0.0,1,0,0,0.1,0,False,1.0,0.26,6.25,0,0,0,0,0,5
+Enes Ünal,Bournemouth,Sheffield,2024-03-09,True,Sub,28,1,0.54,0,0.0,5,3,0,9.8,0,False,1.0,0.19,10.6,0,0,0,0,0,7
+Enes Ünal,Bournemouth,Luton,2024-03-13,True,Sub,45,0,0.68,1,0.31,7,4,1,6.6,0,False,1.8,0.26,16.33,0,0,0,0,0,1
+Enes Ünal,Bournemouth,Everton,2024-03-30,True,Sub,5,0,0.0,0,0.0,1,0,0,0.1,0,False,3.0,0.46,14.71,0,0,0,0,0,1
+Enes Ünal,Bournemouth,Crystal Palace,2024-04-02,True,Sub,1,0,0.0,0,0.04,1,0,1,1.4,0,False,3.0,0.46,13.0,0,0,0,0,0,1
+Enes Ünal,Bournemouth,Luton,2024-04-06,False,Sub,21,0,0.0,0,0.0,1,0,0,1.4,0,False,3.0,0.44,13.89,0,0,0,0,0,1
+Enes Ünal,Bournemouth,Manchester United,2024-04-13,True,Sub,14,0,0.12,0,0.0,1,1,0,0.3,0,False,3.0,0.44,13.9,0,0,0,0,0,1
+Enes Ünal,Bournemouth,Aston Villa,2024-04-21,False,Sub,8,0,0.55,0,0.0,1,2,0,4.4,0,False,2.2,0.36,13.36,0,0,0,0,0,0
+Enes Ünal,Bournemouth,Wolverhampton,2024-04-24,False,Sub,3,0,0.0,0,0.0,0,0,0,1.4,0,False,1.0,0.14,12.5,0,0,0,0,0,12
+Enes Ünal,Bournemouth,Brighton,2024-04-28,True,FW,66,1,0.68,1,0.72,12,4,1,10.3,3,True,0.8,0.14,16.62,0,0,0,0,0,1
+Enes Ünal,Bournemouth,Arsenal,2024-05-04,False,Sub,10,0,0.0,0,0.0,1,0,0,0.0,0,False,3.0,0.47,16.14,0,0,0,0,0,1
+Enes Ünal,Bournemouth,Brentford,2024-05-11,True,Sub,23,0,0.05,0,0.0,1,1,0,0.1,0,False,3.0,0.47,16.6,0,0,0,0,0,5
+Enes Ünal,Bournemouth,Chelsea,2024-05-19,False,FW,68,0,0.61,0,0.15,5,4,2,5.7,0,True,3.0,0.46,19.81,0,0,0,0,0,

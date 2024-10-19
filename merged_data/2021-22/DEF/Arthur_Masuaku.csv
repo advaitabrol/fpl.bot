@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Arthur Masuaku,West Ham,Liverpool,2021-11-07,True,Sub,4,0,0.0,0,0.0,1,0,0,0.0,0,0,0
-Arthur Masuaku,West Ham,Manchester City,2021-11-28,False,AML,73,0,0.0,0,0.0,2,0,0,1.0,0,0,1
-Arthur Masuaku,West Ham,Brighton,2021-12-01,True,Sub,13,0,0.0,0,0.0,1,0,0,0.8,0,0,1
-Arthur Masuaku,West Ham,Chelsea,2021-12-04,True,Sub,45,1,0.0099696200340986,0,0.0,7,1,0,6.1,0,0,0
-Arthur Masuaku,West Ham,Burnley,2021-12-12,False,DL,90,0,0.0188446305692195,0,0.0,9,1,0,2.8,3,1,0
-Arthur Masuaku,West Ham,Arsenal,2021-12-15,False,DL,90,0,0.0,0,0.0181907657533884,1,0,1,4.1,0,0,2
-Arthur Masuaku,West Ham,Southampton,2021-12-26,True,DL,90,0,0.0140564609318971,0,0.0,1,1,0,3.0,0,0,3
-Arthur Masuaku,West Ham,Watford,2021-12-28,False,Sub,8,0,0.0,0,0.0,1,0,0,0.6,0,0,0
-Arthur Masuaku,West Ham,Crystal Palace,2022-01-01,False,Sub,45,0,0.0,0,0.0,-1,0,0,1.7,0,0,2
-Arthur Masuaku,West Ham,Norwich,2022-01-12,True,Sub,12,0,0.0,1,0.7402430772781372,4,0,1,3.5,0,0,0
-Arthur Masuaku,West Ham,Leicester City,2022-01-16,True,Sub,29,0,0.0,0,0.0,1,0,0,0.7,0,0,0
-Arthur Masuaku,West Ham,Tottenham,2022-03-20,False,DML,56,0,0.0,0,0.0,0,0,0,1.2,0,0,2
-Arthur Masuaku,West Ham,Chelsea,2022-04-24,False,DML,90,0,0.0240855626761913,0,0.0,2,1,0,2.0,0,0,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
+Arthur Masuaku,West Ham,Liverpool,2021-11-07,True,Sub,4,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.0,0.0,4.0,0.0
+Arthur Masuaku,West Ham,Manchester City,2021-11-28,False,AML,73,0,0.0,0,0.0,2,0,0,1.0,0,0,1,1.0,0.0,38.5,0.0
+Arthur Masuaku,West Ham,Brighton,2021-12-01,True,Sub,13,0,0.0,0,0.0,1,0,0,0.8,0,0,1,1.5,0.0,30.0,0.0
+Arthur Masuaku,West Ham,Chelsea,2021-12-04,True,Sub,45,1,0.01,0,0.0,7,1,0,6.1,0,0,0,1.33,0.0,33.75,0.0
+Arthur Masuaku,West Ham,Burnley,2021-12-12,False,DL,90,0,0.02,0,0.0,9,1,0,2.8,3,1,0,2.75,0.0,45.0,0.5
+Arthur Masuaku,West Ham,Arsenal,2021-12-15,False,DL,90,0,0.0,0,0.02,1,0,1,4.1,0,0,2,4.0,0.01,52.5,0.33
+Arthur Masuaku,West Ham,Southampton,2021-12-26,True,DL,90,0,0.01,0,0.0,1,1,0,3.0,0,0,3,4.0,0.01,57.86,0.25
+Arthur Masuaku,West Ham,Watford,2021-12-28,False,Sub,8,0,0.0,0,0.0,1,0,0,0.6,0,0,0,3.8,0.01,51.62,0.25
+Arthur Masuaku,West Ham,Crystal Palace,2022-01-01,False,Sub,45,0,0.0,0,0.0,-1,0,0,1.7,0,0,2,3.8,0.01,50.89,0.25
+Arthur Masuaku,West Ham,Norwich,2022-01-12,True,Sub,12,0,0.0,1,0.74,4,0,1,3.5,0,0,0,2.2,0.01,47.0,0.25
+Arthur Masuaku,West Ham,Leicester City,2022-01-16,True,Sub,29,0,0.0,0,0.0,1,0,0,0.7,0,0,0,1.2,0.2,45.36,0.25
+Arthur Masuaku,West Ham,Tottenham,2022-03-20,False,DML,56,0,0.0,0,0.0,0,0,0,1.2,0,0,2,1.2,0.2,46.25,0.25
+Arthur Masuaku,West Ham,Chelsea,2022-04-24,False,DML,90,0,0.02,0,0.0,2,1,0,2.0,0,0,1,1.0,0.2,49.62,0.2

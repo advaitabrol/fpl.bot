@@ -1,25 +1,25 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts
-Serge Aurier,Nott'm Forest,Aston Villa,2022-10-10,True,DR,57,0,0.0,0,0.0185336004942655,0,0,1,3.1,0,0,1,0.0,False
-Serge Aurier,Nott'm Forest,Brighton,2022-10-18,False,DR,68,0,0.0,0,0.0,6,0,0,0.8,0,1,0,0.0,False
-Serge Aurier,Nott'm Forest,Liverpool,2022-10-22,True,DR,90,0,0.0,0,0.0,7,0,0,2.4,1,1,0,0.0,False
-Serge Aurier,Nott'm Forest,Arsenal,2022-10-30,False,DR,90,0,0.0,0,0.0,0,0,0,3.3,0,0,5,0.0,False
-Serge Aurier,Nott'm Forest,Brentford,2022-11-05,True,DR,90,0,0.0,0,0.0263449996709823,1,0,1,4.0,0,0,2,0.0,False
-Serge Aurier,Nott'm Forest,Crystal Palace,2022-11-12,True,DR,90,0,0.0,0,0.0306710992008447,7,0,1,3.3,1,1,0,1.2153,True
-Serge Aurier,Nott'm Forest,Manchester United,2022-12-27,False,DR,73,0,0.0,0,0.0,1,0,0,1.4,0,0,2,1.8805,True
-Serge Aurier,Nott'm Forest,Chelsea,2023-01-01,True,DR,90,1,0.1732120066881179,0,0.0,10,2,0,8.3,2,0,1,0.9406,True
-Serge Aurier,Nott'm Forest,Southampton,2023-01-04,False,DR,90,0,0.043911799788475,0,0.0,8,2,0,2.3,2,1,0,0.3937,True
-Serge Aurier,Nott'm Forest,Leeds United,2023-01-14,True,DR,90,0,0.0,0,0.4429419934749603,8,0,2,6.3,2,1,0,1.0175,True
-Serge Aurier,Nott'm Forest,Bournemouth,2023-01-21,False,DR,74,0,0.1315940022468567,0,0.1633179932832718,2,1,2,5.0,0,0,1,1.1593,True
-Serge Aurier,Nott'm Forest,Leicester City,2023-02-05,True,Sub,45,0,0.0,0,0.0,1,0,0,1.0,0,0,0,0.21,False
-Serge Aurier,Nott'm Forest,Fulham,2023-02-11,False,DR,90,0,0.1972119957208633,0,0.0272461008280515,0,1,1,6.8,0,0,2,1.62,True
-Serge Aurier,Nott'm Forest,Manchester City,2023-02-18,True,DR,78,0,0.0,0,0.0,2,0,0,1.3,0,0,1,2.26,True
-Serge Aurier,Nott'm Forest,Everton,2023-03-05,True,DR,90,0,0.014381599612534,0,0.0,1,1,0,2.3,0,0,2,1.7,True
-Serge Aurier,Nott'm Forest,Tottenham,2023-03-11,False,DR,90,0,0.0936383977532386,0,0.0480183996260166,1,1,1,4.3,0,0,3,2.05,True
-Serge Aurier,Nott'm Forest,Newcastle United,2023-03-17,True,DR,90,0,0.0,0,0.0,1,0,0,3.4,0,0,2,2.42,True
-Serge Aurier,Nott'm Forest,Brighton,2023-04-26,True,DC,90,0,0.0,0,0.0,2,0,0,1.3,0,0,1,2.37,True
-Serge Aurier,Nott'm Forest,Brentford,2023-04-29,False,DMR,90,0,0.0,0,0.0,1,0,0,1.8,0,0,2,1.63,True
-Serge Aurier,Nott'm Forest,Southampton,2023-05-08,True,DR,63,0,0.0,0,0.0,1,0,0,1.9,0,0,2,1.33,True
-Serge Aurier,Nott'm Forest,Chelsea,2023-05-13,False,DMR,90,0,0.0,0,0.0,1,0,0,2.1,0,0,2,1.14,True
-Serge Aurier,Nott'm Forest,Arsenal,2023-05-20,True,DMR,90,0,0.0,0,0.0,6,0,0,1.8,0,1,0,0.64,True
-Serge Aurier,Nott'm Forest,Crystal Palace,2023-05-28,False,DMR,90,0,0.0151938945055007,0,0.0,2,1,0,0.0,0,0,1,1.6,True
-Serge Aurier,Nott'm Forest,Leeds United,2022-10-03,False,Sub,45,0,0.0,0,0.0454056002199649,1,0,1,2.7,0,0,1,0.0,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
+Serge Aurier,Nott'm Forest,Aston Villa,2022-10-10,True,DR,57,0,0.0,0,0.02,0,0,1,3.1,0,0,1,0.0,False,0.0,0.0,57.0,0.0,0,0,0,0,6
+Serge Aurier,Nott'm Forest,Brighton,2022-10-18,False,DR,68,0,0.0,0,0.0,6,0,0,0.8,0,1,0,0.0,False,0.0,0.0,62.5,1.0,0,0,0,0,7
+Serge Aurier,Nott'm Forest,Liverpool,2022-10-22,True,DR,90,0,0.0,0,0.0,7,0,0,2.4,1,1,0,0.0,False,3.0,0.0,71.67,1.0,0,0,0,0,0
+Serge Aurier,Nott'm Forest,Arsenal,2022-10-30,False,DR,90,0,0.0,0,0.0,0,0,0,3.3,0,0,5,0.0,False,4.33,0.0,76.25,0.67,0,0,0,0,1
+Serge Aurier,Nott'm Forest,Brentford,2022-11-05,True,DR,90,0,0.0,0,0.03,1,0,1,4.0,0,0,2,0.0,False,3.25,0.0,79.0,0.5,0,0,0,0,7
+Serge Aurier,Nott'm Forest,Crystal Palace,2022-11-12,True,DR,90,0,0.0,0,0.03,7,0,1,3.3,1,1,0,1.22,True,2.8,0.0,80.83,0.6,0,0,0,0,1
+Serge Aurier,Nott'm Forest,Manchester United,2022-12-27,False,DR,73,0,0.0,0,0.0,1,0,0,1.4,0,0,2,1.88,True,4.2,0.0,79.71,0.5,0,0,0,0,10
+Serge Aurier,Nott'm Forest,Chelsea,2023-01-01,True,DR,90,1,0.17,0,0.0,10,2,0,8.3,2,0,1,0.94,True,3.2,0.0,81.0,0.43,0,0,0,0,8
+Serge Aurier,Nott'm Forest,Southampton,2023-01-04,False,DR,90,0,0.04,0,0.0,8,2,0,2.3,2,1,0,0.39,True,3.8,0.03,82.0,0.5,0,0,0,0,8
+Serge Aurier,Nott'm Forest,Leeds United,2023-01-14,True,DR,90,0,0.0,0,0.44,8,0,2,6.3,2,1,0,1.02,True,5.4,0.04,82.8,0.56,0,0,0,0,2
+Serge Aurier,Nott'm Forest,Bournemouth,2023-01-21,False,DR,74,0,0.13,0,0.16,2,1,2,5.0,0,0,1,1.16,True,6.8,0.04,82.0,0.5,0,0,0,0,1
+Serge Aurier,Nott'm Forest,Leicester City,2023-02-05,True,Sub,45,0,0.0,0,0.0,1,0,0,1.0,0,0,0,0.21,False,5.8,0.07,78.92,0.5,0,0,0,0,0
+Serge Aurier,Nott'm Forest,Fulham,2023-02-11,False,DR,90,0,0.2,0,0.03,0,1,1,6.8,0,0,2,1.62,True,5.8,0.07,79.77,0.45,0,0,0,0,2
+Serge Aurier,Nott'm Forest,Manchester City,2023-02-18,True,DR,78,0,0.0,0,0.0,2,0,0,1.3,0,0,1,2.26,True,3.8,0.07,79.64,0.42,0,0,0,0,1
+Serge Aurier,Nott'm Forest,Everton,2023-03-05,True,DR,90,0,0.01,0,0.0,1,1,0,2.3,0,0,2,1.7,True,2.6,0.07,80.33,0.38,0,0,0,0,1
+Serge Aurier,Nott'm Forest,Tottenham,2023-03-11,False,DR,90,0,0.09,0,0.05,1,1,1,4.3,0,0,3,2.05,True,1.2,0.07,80.94,0.36,0,0,0,0,1
+Serge Aurier,Nott'm Forest,Newcastle United,2023-03-17,True,DR,90,0,0.0,0,0.0,1,0,0,3.4,0,0,2,2.42,True,1.0,0.06,81.47,0.33,0,0,0,0,2
+Serge Aurier,Nott'm Forest,Brighton,2023-04-26,True,DC,90,0,0.0,0,0.0,2,0,0,1.3,0,0,1,2.37,True,1.0,0.06,81.94,0.31,0,0,0,0,1
+Serge Aurier,Nott'm Forest,Brentford,2023-04-29,False,DMR,90,0,0.0,0,0.0,1,0,0,1.8,0,0,2,1.63,True,1.4,0.02,82.37,0.29,0,0,0,0,1
+Serge Aurier,Nott'm Forest,Southampton,2023-05-08,True,DR,63,0,0.0,0,0.0,1,0,0,1.9,0,0,2,1.33,True,1.2,0.02,81.4,0.28,0,0,0,0,1
+Serge Aurier,Nott'm Forest,Chelsea,2023-05-13,False,DMR,90,0,0.0,0,0.0,1,0,0,2.1,0,0,2,1.14,True,1.2,0.02,81.81,0.26,0,0,0,0,6
+Serge Aurier,Nott'm Forest,Arsenal,2023-05-20,True,DMR,90,0,0.0,0,0.0,6,0,0,1.8,0,1,0,0.64,True,1.2,0.0,82.18,0.3,0,0,0,0,2
+Serge Aurier,Nott'm Forest,Crystal Palace,2023-05-28,False,DMR,90,0,0.02,0,0.0,2,1,0,0.0,0,0,1,1.6,True,2.2,0.0,82.52,0.29,0,0,0,0,1
+Serge Aurier,Nott'm Forest,Leeds United,2022-10-03,False,Sub,45,0,0.0,0,0.05,1,0,1,2.7,0,0,1,0.0,False,2.2,0.0,80.96,0.29,0,0,0,0,1

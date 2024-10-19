@@ -1,16 +1,16 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Ryan Sessegnon,Spurs,Leicester City,2021-11-21,True,Sub,11,0,0.0,0,0.0214007664471864,1,0,1,1.2,0,0,0
-Ryan Sessegnon,Spurs,Norwich,2021-12-05,True,Sub,68,0,0.0,0,0.0,6,0,0,1.1,0,1,0
-Ryan Sessegnon,Spurs,Liverpool,2021-12-19,True,DL,85,0,0.0,0,0.0,1,0,0,2.8,0,0,2
-Ryan Sessegnon,Spurs,Chelsea,2022-01-23,False,ML,55,0,0.0571547821164131,0,0.0,0,1,0,0.8,0,0,2
-Ryan Sessegnon,Spurs,Wolverhampton,2022-02-13,True,DML,27,0,0.0,0,0.0,0,0,0,0.0,0,0,2
-Ryan Sessegnon,Spurs,Manchester City,2022-02-19,False,DML,90,0,0.0,0,0.0,1,0,0,1.1,0,0,2
-Ryan Sessegnon,Spurs,Burnley,2022-02-23,False,DML,78,0,0.0,0,0.0132786678150296,2,0,1,3.6,0,0,1
-Ryan Sessegnon,Spurs,Leicester City,2022-02-26,False,DML,77,0,0.1157389283180236,1,0.5082383751869202,8,2,2,6.8,0,1,0
-Ryan Sessegnon,Spurs,Everton,2022-03-07,True,DML,45,0,0.0,0,0.0,4,0,0,0.6,0,0,0
-Ryan Sessegnon,Spurs,Brentford,2022-04-23,False,DML,73,0,0.0,0,0.0,6,0,0,2.0,0,1,0
-Ryan Sessegnon,Spurs,Leeds United,2022-05-01,True,DML,90,0,0.0,0,0.1335544139146804,2,0,1,3.3,0,0,1
-Ryan Sessegnon,Spurs,Liverpool,2022-05-07,False,DML,77,0,0.0,1,0.5734350085258484,5,0,1,5.5,1,0,1
-Ryan Sessegnon,Spurs,Arsenal,2022-05-12,True,DML,90,0,0.106218546628952,0,0.9789729714393616,6,1,2,6.0,0,1,0
-Ryan Sessegnon,Spurs,Burnley,2022-05-15,True,DML,90,0,0.1053226068615913,0,0.97038996219635,8,2,4,11.8,2,1,0
-Ryan Sessegnon,Spurs,Norwich,2022-05-22,False,DML,90,0,0.0,0,0.0763673111796379,6,0,2,0.0,0,1,0
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
+Ryan Sessegnon,Spurs,Leicester City,2021-11-21,True,Sub,11,0,0.0,0,0.02,1,0,1,1.2,0,0,0,0.0,0.0,11.0,0.0
+Ryan Sessegnon,Spurs,Norwich,2021-12-05,True,Sub,68,0,0.0,0,0.0,6,0,0,1.1,0,1,0,1.0,0.0,39.5,1.0
+Ryan Sessegnon,Spurs,Liverpool,2021-12-19,True,DL,85,0,0.0,0,0.0,1,0,0,2.8,0,0,2,3.5,0.0,54.67,0.5
+Ryan Sessegnon,Spurs,Chelsea,2022-01-23,False,ML,55,0,0.06,0,0.0,0,1,0,0.8,0,0,2,2.67,0.0,54.75,0.5
+Ryan Sessegnon,Spurs,Wolverhampton,2022-02-13,True,DML,27,0,0.0,0,0.0,0,0,0,0.0,0,0,2,2.0,0.01,49.2,0.5
+Ryan Sessegnon,Spurs,Manchester City,2022-02-19,False,DML,90,0,0.0,0,0.0,1,0,0,1.1,0,0,2,1.6,0.01,56.0,0.33
+Ryan Sessegnon,Spurs,Burnley,2022-02-23,False,DML,78,0,0.0,0,0.01,2,0,1,3.6,0,0,1,1.6,0.01,59.14,0.25
+Ryan Sessegnon,Spurs,Leicester City,2022-02-26,False,DML,77,0,0.12,1,0.51,8,2,2,6.8,0,1,0,0.8,0.01,61.38,0.4
+Ryan Sessegnon,Spurs,Everton,2022-03-07,True,DML,45,0,0.0,0,0.0,4,0,0,0.6,0,0,0,2.2,0.23,59.56,0.4
+Ryan Sessegnon,Spurs,Brentford,2022-04-23,False,DML,73,0,0.0,0,0.0,6,0,0,2.0,0,1,0,3.0,0.22,60.9,0.5
+Ryan Sessegnon,Spurs,Leeds United,2022-05-01,True,DML,90,0,0.0,0,0.13,2,0,1,3.3,0,0,1,4.2,0.22,63.55,0.43
+Ryan Sessegnon,Spurs,Liverpool,2022-05-07,False,DML,77,0,0.0,1,0.57,5,0,1,5.5,1,0,1,4.4,0.22,64.67,0.38
+Ryan Sessegnon,Spurs,Arsenal,2022-05-12,True,DML,90,0,0.11,0,0.98,6,1,2,6.0,0,1,0,5.0,0.42,66.62,0.44
+Ryan Sessegnon,Spurs,Burnley,2022-05-15,True,DML,90,0,0.11,0,0.97,8,2,4,11.8,2,1,0,4.6,0.22,68.29,0.5
+Ryan Sessegnon,Spurs,Norwich,2022-05-22,False,DML,90,0,0.0,0,0.08,6,0,2,0.0,0,1,0,5.4,0.24,69.73,0.55

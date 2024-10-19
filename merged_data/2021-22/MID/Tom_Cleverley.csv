@@ -1,29 +1,29 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Tom Cleverley,Watford,Aston Villa,2021-08-14,True,MC,78,0,0.0,1,0.0448563769459724,5,0,1,3.7,0,0,1
-Tom Cleverley,Watford,Southampton,2021-10-30,True,Sub,45,0,0.0,0,0.0152837196364998,1,0,1,2.1,0,0,0
-Tom Cleverley,Watford,Manchester United,2021-11-20,True,MC,90,0,0.0,0,0.0,2,0,0,0.9,0,0,1
-Tom Cleverley,Watford,Leeds United,2021-11-28,False,MC,45,0,0.0,0,0.2103669643402099,1,0,4,7.4,0,0,3
-Tom Cleverley,Watford,Chelsea,2021-12-01,True,MC,84,0,0.1543406099081039,0,0.0599769987165927,1,2,1,6.6,0,0,2
-Tom Cleverley,Watford,Manchester City,2021-12-04,True,MC,45,0,0.0,0,0.0398089848458766,1,0,1,1.6,0,0,2
-Tom Cleverley,Watford,Brentford,2021-12-10,False,AMC,57,0,0.0,1,0.1147996634244918,4,0,2,5.1,0,0,0
-Tom Cleverley,Watford,Brighton,2021-08-21,False,MC,90,0,0.1556374430656433,0,0.0,2,2,0,5.6,0,0,2
-Tom Cleverley,Watford,Tottenham,2022-01-01,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,1
-Tom Cleverley,Watford,Newcastle United,2022-01-15,False,Sub,13,0,0.0,0,0.0,1,0,0,0.0,0,0,0
-Tom Cleverley,Watford,Norwich,2022-01-21,True,MC,58,0,0.0161339733749628,0,0.062664657831192,1,1,2,4.8,0,0,1
-Tom Cleverley,Watford,Burnley,2022-02-05,False,Sub,20,0,0.0530207827687263,0,0.0,0,1,0,1.3,0,0,0
-Tom Cleverley,Watford,West Ham,2022-02-08,False,ML,76,0,0.1470837295055389,0,0.0,2,2,0,2.0,0,0,1
-Tom Cleverley,Watford,Brighton,2022-02-12,True,ML,69,0,0.0,0,0.0,2,0,0,1.0,0,0,1
-Tom Cleverley,Watford,Aston Villa,2022-02-19,False,ML,90,0,0.0906999334692955,0,0.0170128140598535,3,2,1,5.4,0,1,0
-Tom Cleverley,Watford,Crystal Palace,2022-02-23,True,MC,72,0,0.0,0,0.0378534570336341,2,0,1,2.1,0,0,2
-Tom Cleverley,Watford,Manchester United,2022-02-26,False,MC,79,0,0.0,0,0.0799572393298149,3,0,1,2.7,0,1,0
-Tom Cleverley,Watford,Arsenal,2022-03-06,True,MC,88,0,0.0672082379460334,0,0.0,2,1,0,2.7,0,0,3
-Tom Cleverley,Watford,Wolverhampton,2022-03-10,False,MC,72,0,0.0,0,0.0,2,0,0,0.7,0,0,3
-Tom Cleverley,Watford,Tottenham,2021-08-29,False,Sub,19,0,0.0,0,0.0,1,0,0,0.5,0,0,0
-Tom Cleverley,Watford,Liverpool,2022-04-02,False,Sub,12,0,0.0,0,0.0,1,0,0,0.4,0,0,1
-Tom Cleverley,Watford,Brentford,2022-04-16,True,Sub,6,0,0.0,0,0.0,1,0,0,0.3,0,0,1
-Tom Cleverley,Watford,Manchester City,2022-04-23,False,MC,90,0,0.0,0,0.0,2,0,0,0.1,0,0,5
-Tom Cleverley,Watford,Crystal Palace,2022-05-07,False,MC,51,0,0.0,0,0.0,1,0,0,0.3,0,0,1
-Tom Cleverley,Watford,Chelsea,2022-05-22,False,MC,90,0,0.025187648832798,0,0.1476090848445892,2,1,1,0.0,0,0,2
-Tom Cleverley,Watford,Norwich,2021-09-18,False,AMC,81,0,0.0,0,0.5970224738121033,2,0,3,6.8,0,0,1
-Tom Cleverley,Watford,Newcastle United,2021-09-25,True,AMC,45,0,0.0,0,0.0,1,0,0,0.0,0,0,1
-Tom Cleverley,Watford,Liverpool,2021-10-16,True,Sub,45,0,0.0,0,0.0,1,0,0,0.5,0,0,3
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
+Tom Cleverley,Watford,Aston Villa,2021-08-14,True,MC,78,0,0.0,1,0.04,5,0,1,3.7,0,0,1,0.0,0.0,78.0
+Tom Cleverley,Watford,Southampton,2021-10-30,True,Sub,45,0,0.0,0,0.02,1,0,1,2.1,0,0,0,5.0,1.0,61.5
+Tom Cleverley,Watford,Manchester United,2021-11-20,True,MC,90,0,0.0,0,0.0,2,0,0,0.9,0,0,1,3.0,0.5,71.0
+Tom Cleverley,Watford,Leeds United,2021-11-28,False,MC,45,0,0.0,0,0.21,1,0,4,7.4,0,0,3,2.67,0.33,64.5
+Tom Cleverley,Watford,Chelsea,2021-12-01,True,MC,84,0,0.15,0,0.06,1,2,1,6.6,0,0,2,2.25,0.25,68.4
+Tom Cleverley,Watford,Manchester City,2021-12-04,True,MC,45,0,0.0,0,0.04,1,0,1,1.6,0,0,2,2.0,0.23,64.5
+Tom Cleverley,Watford,Brentford,2021-12-10,False,AMC,57,0,0.0,1,0.11,4,0,2,5.1,0,0,0,1.2,0.03,63.43
+Tom Cleverley,Watford,Brighton,2021-08-21,False,MC,90,0,0.16,0,0.0,2,2,0,5.6,0,0,2,1.8,0.23,66.75
+Tom Cleverley,Watford,Tottenham,2022-01-01,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,1,1.8,0.26,59.44
+Tom Cleverley,Watford,Newcastle United,2022-01-15,False,Sub,13,0,0.0,0,0.0,1,0,0,0.0,0,0,0,1.8,0.26,54.8
+Tom Cleverley,Watford,Norwich,2022-01-21,True,MC,58,0,0.02,0,0.06,1,1,2,4.8,0,0,1,1.8,0.23,55.09
+Tom Cleverley,Watford,Burnley,2022-02-05,False,Sub,20,0,0.05,0,0.0,0,1,0,1.3,0,0,0,1.8,0.23,52.17
+Tom Cleverley,Watford,West Ham,2022-02-08,False,ML,76,0,0.15,0,0.0,2,2,0,2.0,0,0,1,1.0,0.04,54.0
+Tom Cleverley,Watford,Brighton,2022-02-12,True,ML,69,0,0.0,0,0.0,2,0,0,1.0,0,0,1,1.0,0.04,55.07
+Tom Cleverley,Watford,Aston Villa,2022-02-19,False,ML,90,0,0.09,0,0.02,3,2,1,5.4,0,1,0,1.2,0.04,57.4
+Tom Cleverley,Watford,Crystal Palace,2022-02-23,True,MC,72,0,0.0,0,0.04,2,0,1,2.1,0,0,2,1.6,0.06,58.31
+Tom Cleverley,Watford,Manchester United,2022-02-26,False,MC,79,0,0.0,0,0.08,3,0,1,2.7,0,1,0,1.8,0.06,59.53
+Tom Cleverley,Watford,Arsenal,2022-03-06,True,MC,88,0,0.07,0,0.0,2,1,0,2.7,0,0,3,2.4,0.05,61.11
+Tom Cleverley,Watford,Wolverhampton,2022-03-10,False,MC,72,0,0.0,0,0.0,2,0,0,0.7,0,0,3,2.4,0.03,61.68
+Tom Cleverley,Watford,Tottenham,2021-08-29,False,Sub,19,0,0.0,0,0.0,1,0,0,0.5,0,0,0,2.4,0.03,59.55
+Tom Cleverley,Watford,Liverpool,2022-04-02,False,Sub,12,0,0.0,0,0.0,1,0,0,0.4,0,0,1,2.0,0.01,57.29
+Tom Cleverley,Watford,Brentford,2022-04-16,True,Sub,6,0,0.0,0,0.0,1,0,0,0.3,0,0,1,1.8,0.01,54.95
+Tom Cleverley,Watford,Manchester City,2022-04-23,False,MC,90,0,0.0,0,0.0,2,0,0,0.1,0,0,5,1.4,0.01,56.48
+Tom Cleverley,Watford,Crystal Palace,2022-05-07,False,MC,51,0,0.0,0,0.0,1,0,0,0.3,0,0,1,1.4,0.0,56.25
+Tom Cleverley,Watford,Chelsea,2022-05-22,False,MC,90,0,0.03,0,0.15,2,1,1,0.0,0,0,2,1.2,0.0,57.6
+Tom Cleverley,Watford,Norwich,2021-09-18,False,AMC,81,0,0.0,0,0.6,2,0,3,6.8,0,0,1,1.4,0.01,58.5
+Tom Cleverley,Watford,Newcastle United,2021-09-25,True,AMC,45,0,0.0,0,0.0,1,0,0,0.0,0,0,1,1.6,0.01,58.0
+Tom Cleverley,Watford,Liverpool,2021-10-16,True,Sub,45,0,0.0,0,0.0,1,0,0,0.5,0,0,3,1.6,0.01,57.54

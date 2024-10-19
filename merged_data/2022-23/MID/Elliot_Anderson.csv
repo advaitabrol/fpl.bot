@@ -1,23 +1,23 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Elliot Anderson,Newcastle,Brentford,2022-10-08,True,Sub,6,0,0.0,0,0.0,1,0,0,0.5,0,0,0,False
-Elliot Anderson,Newcastle,Everton,2022-10-19,True,Sub,18,0,0.1128590032458305,0,0.1485310047864914,1,1,1,4.1,0,0,0,False
-Elliot Anderson,Newcastle,Southampton,2022-11-06,False,Sub,9,0,0.0,0,0.0,1,0,0,0.0,0,0,1,False
-Elliot Anderson,Newcastle,Leeds United,2022-12-26,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False
-Elliot Anderson,Newcastle,West Ham,2023-02-04,True,Sub,9,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False
-Elliot Anderson,Newcastle,Bournemouth,2023-02-11,False,Sub,6,0,0.0,0,0.0,1,0,0,1.0,0,0,0,False
-Elliot Anderson,Newcastle,Liverpool,2023-02-18,True,MC,23,0,0.0,0,0.0,1,0,0,0.0,0,0,2,True
-Elliot Anderson,Newcastle,Nottingham Forest,2023-03-17,False,Sub,45,0,0.1115859970450401,0,0.1158429980278015,1,2,1,5.1,0,0,0,False
-Elliot Anderson,Newcastle,Manchester United,2023-04-02,True,Sub,6,0,0.0,0,0.0995296984910965,1,0,1,2.6,0,0,0,False
-Elliot Anderson,Newcastle,Brentford,2023-04-08,False,Sub,3,0,0.1421470046043396,0,0.0,1,1,0,2.5,0,0,0,False
-Elliot Anderson,Newcastle,Aston Villa,2023-04-15,False,Sub,10,0,0.0,0,0.0,1,0,0,0.0,0,0,1,False
-Elliot Anderson,Newcastle,Everton,2023-04-27,False,Sub,3,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False
-Elliot Anderson,Newcastle,Southampton,2023-04-30,True,Sub,1,0,0.1410151273012161,0,0.0,1,1,0,0.9,0,0,0,False
-Elliot Anderson,Newcastle,Arsenal,2023-05-07,True,Sub,9,0,0.0,0,0.0227677822113037,1,0,1,2.2,0,0,0,False
-Elliot Anderson,Newcastle,Leicester City,2023-05-13,False,Sub,3,0,0.0,0,0.0212473031133413,1,0,1,1.5,0,0,0,False
-Elliot Anderson,Newcastle,Brighton,2023-05-18,True,Sub,29,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False
-Elliot Anderson,Newcastle,Leeds United,2023-05-22,True,MC,76,0,0.0486873313784599,0,0.032833345234394,3,2,1,4.0,0,1,0,True
-Elliot Anderson,Newcastle,Chelsea,2023-05-28,False,MC,75,0,0.021440964192152,1,0.5789020657539368,7,1,1,0.0,2,0,1,True
-Elliot Anderson,Newcastle,Wolverhampton,2022-08-28,False,Sub,6,0,0.4313830137252807,0,0.0,1,2,0,3.4,0,0,0,False
-Elliot Anderson,Newcastle,Liverpool,2022-08-31,False,Sub,6,0,0.0,0,0.0,1,0,0,0.6,0,0,1,False
-Elliot Anderson,Newcastle,Crystal Palace,2022-09-03,True,Sub,20,0,0.0,0,0.5059739947319031,1,0,1,2.8,0,0,0,False
-Elliot Anderson,Newcastle,Fulham,2022-10-01,False,Sub,31,0,0.120117999613285,0,0.0348662994801998,1,1,1,4.9,0,0,1,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Elliot Anderson,Newcastle,Brentford,2022-10-08,True,Sub,6,0,0.0,0,0.0,1,0,0,0.5,0,0,0,False,0.0,0.0,6.0,0,0,0,0,0,1
+Elliot Anderson,Newcastle,Everton,2022-10-19,True,Sub,18,0,0.11,0,0.15,1,1,1,4.1,0,0,0,False,1.0,0.0,12.0,0,0,0,0,0,1
+Elliot Anderson,Newcastle,Southampton,2022-11-06,False,Sub,9,0,0.0,0,0.0,1,0,0,0.0,0,0,1,False,1.0,0.06,11.0,0,0,0,0,0,1
+Elliot Anderson,Newcastle,Leeds United,2022-12-26,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,1.0,0.04,8.5,0,0,0,0,0,1
+Elliot Anderson,Newcastle,West Ham,2023-02-04,True,Sub,9,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,1.0,0.03,8.6,0,0,0,0,0,1
+Elliot Anderson,Newcastle,Bournemouth,2023-02-11,False,Sub,6,0,0.0,0,0.0,1,0,0,1.0,0,0,0,False,1.0,0.02,8.17,0,0,0,0,0,1
+Elliot Anderson,Newcastle,Liverpool,2023-02-18,True,MC,23,0,0.0,0,0.0,1,0,0,0.0,0,0,2,True,1.0,0.02,10.29,0,0,0,0,0,1
+Elliot Anderson,Newcastle,Nottingham Forest,2023-03-17,False,Sub,45,0,0.11,0,0.12,1,2,1,5.1,0,0,0,False,1.0,0.0,14.62,0,0,0,0,0,1
+Elliot Anderson,Newcastle,Manchester United,2023-04-02,True,Sub,6,0,0.0,0,0.1,1,0,1,2.6,0,0,0,False,1.0,0.02,13.67,0,0,0,0,0,1
+Elliot Anderson,Newcastle,Brentford,2023-04-08,False,Sub,3,0,0.14,0,0.0,1,1,0,2.5,0,0,0,False,1.0,0.02,12.6,0,0,0,0,0,1
+Elliot Anderson,Newcastle,Aston Villa,2023-04-15,False,Sub,10,0,0.0,0,0.0,1,0,0,0.0,0,0,1,False,1.0,0.05,12.36,0,0,0,0,0,1
+Elliot Anderson,Newcastle,Everton,2023-04-27,False,Sub,3,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,1.0,0.05,11.58,0,0,0,0,0,1
+Elliot Anderson,Newcastle,Southampton,2023-04-30,True,Sub,1,0,0.14,0,0.0,1,1,0,0.9,0,0,0,False,1.0,0.05,10.77,0,0,0,0,0,1
+Elliot Anderson,Newcastle,Arsenal,2023-05-07,True,Sub,9,0,0.0,0,0.02,1,0,1,2.2,0,0,0,False,1.0,0.06,10.64,0,0,0,0,0,1
+Elliot Anderson,Newcastle,Leicester City,2023-05-13,False,Sub,3,0,0.0,0,0.02,1,0,1,1.5,0,0,0,False,1.0,0.06,10.13,0,0,0,0,0,1
+Elliot Anderson,Newcastle,Brighton,2023-05-18,True,Sub,29,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False,1.0,0.03,11.31,0,0,0,0,0,3
+Elliot Anderson,Newcastle,Leeds United,2023-05-22,True,MC,76,0,0.05,0,0.03,3,2,1,4.0,0,1,0,True,1.0,0.03,15.12,0,0,0,0,0,7
+Elliot Anderson,Newcastle,Chelsea,2023-05-28,False,MC,75,0,0.02,1,0.58,7,1,1,0.0,2,0,1,True,1.4,0.04,18.44,0,0,0,0,0,1
+Elliot Anderson,Newcastle,Wolverhampton,2022-08-28,False,Sub,6,0,0.43,0,0.0,1,2,0,3.4,0,0,0,False,2.6,0.21,17.79,0,0,0,0,0,1
+Elliot Anderson,Newcastle,Liverpool,2022-08-31,False,Sub,6,0,0.0,0,0.0,1,0,0,0.6,0,0,1,False,2.6,0.3,17.2,0,0,0,0,0,1
+Elliot Anderson,Newcastle,Crystal Palace,2022-09-03,True,Sub,20,0,0.0,0,0.51,1,0,1,2.8,0,0,0,False,2.6,0.3,17.33,0,0,0,0,0,1
+Elliot Anderson,Newcastle,Fulham,2022-10-01,False,Sub,31,0,0.12,0,0.03,1,1,1,4.9,0,0,1,False,2.6,0.3,17.95,0,0,0,0,0,1

@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts
-Trevoh Chalobah,Chelsea,Manchester City,2024-02-17,False,Sub,19,0,0.0,0,0.0,1,0,0,0.8,0,0,1,0.78,False
-Trevoh Chalobah,Chelsea,Brentford,2024-03-02,False,DC,90,0,0.0,0,0.0248725898563861,1,0,1,2.3,0,0,2,1.83,True
-Trevoh Chalobah,Chelsea,Newcastle United,2024-03-11,True,DC,90,0,0.0,0,0.0,1,0,0,1.9,0,0,2,0.8,True
-Trevoh Chalobah,Chelsea,Manchester United,2024-04-04,True,Sub,15,0,0.0,0,0.0,1,0,0,0.4,0,0,0,0.0,False
-Trevoh Chalobah,Chelsea,Sheffield,2024-04-07,False,DC,90,0,0.0,0,0.0,0,0,0,2.2,0,0,2,1.36,True
-Trevoh Chalobah,Chelsea,Everton,2024-04-15,True,DC,90,0,0.0,0,0.0,6,0,0,2.9,0,1,0,1.41,True
-Trevoh Chalobah,Chelsea,Arsenal,2024-04-23,False,Sub,23,0,0.0,0,0.0,1,0,0,0.4,0,0,1,0.67,False
-Trevoh Chalobah,Chelsea,Aston Villa,2024-04-27,False,DR,90,0,0.0,0,0.0500683784484863,2,0,1,4.1,1,0,2,0.87,True
-Trevoh Chalobah,Chelsea,Tottenham,2024-05-02,True,DC,90,1,0.2420245707035064,0,0.0,15,1,0,6.2,3,1,0,1.54,True
-Trevoh Chalobah,Chelsea,West Ham,2024-05-05,True,DR,82,0,0.1170907095074653,0,0.0,6,1,0,4.2,0,1,0,0.99,True
-Trevoh Chalobah,Chelsea,Nottingham Forest,2024-05-11,False,DR,90,0,0.0,0,0.0,1,0,0,2.2,0,0,2,1.62,True
-Trevoh Chalobah,Chelsea,Brighton,2024-05-15,False,DC,90,0,0.0,0,0.0,2,0,0,3.9,0,0,1,1.24,True
-Trevoh Chalobah,Chelsea,Bournemouth,2024-05-19,True,DR,90,0,0.0,0,0.0,2,0,0,1.9,0,0,1,2.15,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
+Trevoh Chalobah,Chelsea,Manchester City,2024-02-17,False,Sub,19,0,0.0,0,0.0,1,0,0,0.8,0,0,1,0.78,False,0.0,0.0,19.0,0.0,0.79,0.2,18.79,0.29,1
+Trevoh Chalobah,Chelsea,Brentford,2024-03-02,False,DC,90,0,0.0,0,0.02,1,0,1,2.3,0,0,2,1.83,True,1.0,0.0,54.5,0.0,0.79,0.2,18.79,0.29,1
+Trevoh Chalobah,Chelsea,Newcastle United,2024-03-11,True,DC,90,0,0.0,0,0.0,1,0,0,1.9,0,0,2,0.8,True,1.0,0.0,66.33,0.0,0.79,0.2,18.79,0.29,1
+Trevoh Chalobah,Chelsea,Manchester United,2024-04-04,True,Sub,15,0,0.0,0,0.0,1,0,0,0.4,0,0,0,0.0,False,1.0,0.0,53.5,0.0,0.79,0.2,18.79,0.29,0
+Trevoh Chalobah,Chelsea,Sheffield,2024-04-07,False,DC,90,0,0.0,0,0.0,0,0,0,2.2,0,0,2,1.36,True,1.0,0.0,60.8,0.0,0.79,0.2,18.79,0.29,6
+Trevoh Chalobah,Chelsea,Everton,2024-04-15,True,DC,90,0,0.0,0,0.0,6,0,0,2.9,0,1,0,1.41,True,0.8,0.0,65.67,0.25,0.79,0.2,18.79,0.29,1
+Trevoh Chalobah,Chelsea,Arsenal,2024-04-23,False,Sub,23,0,0.0,0,0.0,1,0,0,0.4,0,0,1,0.67,False,1.8,0.0,59.57,0.25,0.79,0.2,18.79,0.29,2
+Trevoh Chalobah,Chelsea,Aston Villa,2024-04-27,False,DR,90,0,0.0,0,0.05,2,0,1,4.1,1,0,2,0.87,True,1.8,0.0,63.38,0.2,0.79,0.2,18.79,0.29,15
+Trevoh Chalobah,Chelsea,Tottenham,2024-05-02,True,DC,90,1,0.24,0,0.0,15,1,0,6.2,3,1,0,1.54,True,2.0,0.0,66.33,0.33,0.79,0.2,18.79,0.29,6
+Trevoh Chalobah,Chelsea,West Ham,2024-05-05,True,DR,82,0,0.12,0,0.0,6,1,0,4.2,0,1,0,0.99,True,4.8,0.05,67.9,0.43,0.79,0.2,18.79,0.29,1
+Trevoh Chalobah,Chelsea,Nottingham Forest,2024-05-11,False,DR,90,0,0.0,0,0.0,1,0,0,2.2,0,0,2,1.62,True,6.0,0.07,69.91,0.38,0.79,0.2,18.79,0.29,2
+Trevoh Chalobah,Chelsea,Brighton,2024-05-15,False,DC,90,0,0.0,0,0.0,2,0,0,3.9,0,0,1,1.24,True,5.0,0.07,71.58,0.33,0.79,0.2,18.79,0.29,2
+Trevoh Chalobah,Chelsea,Bournemouth,2024-05-19,True,DR,90,0,0.0,0,0.0,2,0,0,1.9,0,0,1,2.15,True,5.2,0.07,73.0,0.3,0.79,0.2,18.79,0.29,

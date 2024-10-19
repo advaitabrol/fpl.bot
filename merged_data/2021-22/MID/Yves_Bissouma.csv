@@ -1,27 +1,27 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
-Yves Bissouma,Brighton,Burnley,2021-08-14,False,MC,90,0,0.0,0,0.0,2,0,0,1.3,0,0,1
-Yves Bissouma,Brighton,Liverpool,2021-10-30,False,DMC,59,0,0.0192043744027614,0,0.0,1,1,0,2.5,0,0,2
-Yves Bissouma,Brighton,Newcastle United,2021-11-06,True,DMC,90,0,0.0284783653914928,0,0.0,1,1,0,3.1,0,0,1
-Yves Bissouma,Brighton,Aston Villa,2021-11-20,False,MC,90,0,0.0,0,0.0,3,0,0,2.8,1,0,2
-Yves Bissouma,Brighton,Leicester City,2021-11-27,True,MC,90,0,0.1002568900585174,0,0.0,2,2,0,1.9,0,1,0
-Yves Bissouma,Brighton,West Ham,2021-12-01,False,DMC,90,0,0.0,0,0.1297248601913452,2,0,1,3.7,0,0,1
-Yves Bissouma,Brighton,Southampton,2021-12-04,False,MC,90,0,0.0459264740347862,0,0.0,1,2,0,1.3,0,0,1
-Yves Bissouma,Brighton,Wolverhampton,2021-12-15,True,MC,83,0,0.0,0,0.0,1,0,0,1.3,0,0,1
-Yves Bissouma,Brighton,Watford,2021-08-21,True,MC,90,0,0.0351078696548938,1,0.3277704119682312,8,1,1,5.5,2,1,0
-Yves Bissouma,Brighton,Chelsea,2021-12-29,False,MC,90,0,0.0355106517672538,0,0.0269694980233907,1,2,2,7.4,0,0,1
-Yves Bissouma,Brighton,Everton,2022-01-02,False,MC,90,0,0.1179762333631515,0,0.0,2,2,0,5.7,0,0,2
-Yves Bissouma,Brighton,Watford,2022-02-12,False,Sub,26,0,0.0,0,0.0,1,0,0,0.8,0,0,0
-Yves Bissouma,Brighton,Manchester United,2022-02-15,False,DMC,90,0,0.3283497095108032,0,0.0,2,2,0,4.0,0,0,2
-Yves Bissouma,Brighton,Burnley,2022-02-19,True,MC,90,0,0.0,0,0.0216189455240964,2,0,1,2.3,0,0,3
-Yves Bissouma,Brighton,Aston Villa,2022-02-26,True,MC,90,0,0.0474699325859546,0,0.0227988511323928,1,2,1,2.2,0,0,2
-Yves Bissouma,Brighton,Liverpool,2022-03-12,True,DMC,65,0,0.0,0,0.0,1,0,0,0.2,0,0,2
-Yves Bissouma,Brighton,Tottenham,2022-03-16,True,DMC,61,0,0.0210516825318336,0,0.0,2,1,0,0.9,0,0,2
-Yves Bissouma,Brighton,Everton,2021-08-28,True,MC,90,0,0.0073145325295627,0,0.0,1,1,0,2.7,0,0,2
-Yves Bissouma,Brighton,Arsenal,2022-04-09,False,MC,73,0,0.0152438590303063,0,0.0,2,1,0,1.3,0,1,0
-Yves Bissouma,Brighton,Tottenham,2022-04-16,False,MC,90,0,0.0,0,0.0,2,0,0,2.2,0,1,0
-Yves Bissouma,Brighton,Wolverhampton,2022-04-30,False,MC,90,1,0.0371391810476779,0,0.0,11,1,0,5.7,3,1,0
-Yves Bissouma,Brighton,Manchester United,2022-05-07,True,MC,90,0,0.0,0,0.0,3,0,0,0.9,0,1,0
-Yves Bissouma,Brighton,Leicester City,2022-05-15,False,MC,90,0,0.0264337174594402,1,0.3159453570842743,8,1,2,7.4,3,0,1
-Yves Bissouma,Brighton,West Ham,2022-05-22,True,MC,45,0,0.0,0,0.0,1,0,0,0.0,0,0,1
-Yves Bissouma,Brighton,Brentford,2021-09-11,False,MC,90,0,0.0,0,0.0,3,0,0,1.9,0,1,0
-Yves Bissouma,Brighton,Leeds United,2021-09-19,True,MC,78,0,0.1846602708101272,0,0.0,2,1,0,2.8,0,0,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
+Yves Bissouma,Brighton,Burnley,2021-08-14,False,MC,90,0,0.0,0,0.0,2,0,0,1.3,0,0,1,0.0,0.0,90.0
+Yves Bissouma,Brighton,Liverpool,2021-10-30,False,DMC,59,0,0.02,0,0.0,1,1,0,2.5,0,0,2,2.0,0.0,74.5
+Yves Bissouma,Brighton,Newcastle United,2021-11-06,True,DMC,90,0,0.03,0,0.0,1,1,0,3.1,0,0,1,1.5,0.01,79.67
+Yves Bissouma,Brighton,Aston Villa,2021-11-20,False,MC,90,0,0.0,0,0.0,3,0,0,2.8,1,0,2,1.33,0.02,82.25
+Yves Bissouma,Brighton,Leicester City,2021-11-27,True,MC,90,0,0.1,0,0.0,2,2,0,1.9,0,1,0,1.75,0.01,83.8
+Yves Bissouma,Brighton,West Ham,2021-12-01,False,DMC,90,0,0.0,0,0.13,2,0,1,3.7,0,0,1,1.8,0.03,84.83
+Yves Bissouma,Brighton,Southampton,2021-12-04,False,MC,90,0,0.05,0,0.0,1,2,0,1.3,0,0,1,1.8,0.03,85.57
+Yves Bissouma,Brighton,Wolverhampton,2021-12-15,True,MC,83,0,0.0,0,0.0,1,0,0,1.3,0,0,1,1.8,0.03,85.25
+Yves Bissouma,Brighton,Watford,2021-08-21,True,MC,90,0,0.04,1,0.33,8,1,1,5.5,2,1,0,1.8,0.03,85.78
+Yves Bissouma,Brighton,Chelsea,2021-12-29,False,MC,90,0,0.04,0,0.03,1,2,2,7.4,0,0,1,2.8,0.24,86.2
+Yves Bissouma,Brighton,Everton,2022-01-02,False,MC,90,0,0.12,0,0.0,2,2,0,5.7,0,0,2,2.6,0.22,86.55
+Yves Bissouma,Brighton,Watford,2022-02-12,False,Sub,26,0,0.0,0,0.0,1,0,0,0.8,0,0,0,2.6,0.25,81.5
+Yves Bissouma,Brighton,Manchester United,2022-02-15,False,DMC,90,0,0.33,0,0.0,2,2,0,4.0,0,0,2,2.6,0.24,82.15
+Yves Bissouma,Brighton,Burnley,2022-02-19,True,MC,90,0,0.0,0,0.02,2,0,1,2.3,0,0,3,2.8,0.3,82.71
+Yves Bissouma,Brighton,Aston Villa,2022-02-26,True,MC,90,0,0.05,0,0.02,1,2,1,2.2,0,0,2,1.6,0.1,83.2
+Yves Bissouma,Brighton,Liverpool,2022-03-12,True,DMC,65,0,0.0,0,0.0,1,0,0,0.2,0,0,2,1.6,0.1,82.06
+Yves Bissouma,Brighton,Tottenham,2022-03-16,True,DMC,61,0,0.02,0,0.0,2,1,0,0.9,0,0,2,1.4,0.08,80.82
+Yves Bissouma,Brighton,Everton,2021-08-28,True,MC,90,0,0.01,0,0.0,1,1,0,2.7,0,0,2,1.6,0.08,81.33
+Yves Bissouma,Brighton,Arsenal,2022-04-09,False,MC,73,0,0.02,0,0.0,2,1,0,1.3,0,1,0,1.4,0.02,80.89
+Yves Bissouma,Brighton,Tottenham,2022-04-16,False,MC,90,0,0.0,0,0.0,2,0,0,2.2,0,1,0,1.4,0.02,81.35
+Yves Bissouma,Brighton,Wolverhampton,2022-04-30,False,MC,90,1,0.04,0,0.0,11,1,0,5.7,3,1,0,1.6,0.01,81.76
+Yves Bissouma,Brighton,Manchester United,2022-05-07,True,MC,90,0,0.0,0,0.0,3,0,0,0.9,0,1,0,3.6,0.02,82.14
+Yves Bissouma,Brighton,Leicester City,2022-05-15,False,MC,90,0,0.03,1,0.32,8,1,2,7.4,3,0,1,3.8,0.01,82.48
+Yves Bissouma,Brighton,West Ham,2022-05-22,True,MC,45,0,0.0,0,0.0,1,0,0,0.0,0,0,1,5.2,0.22,80.92
+Yves Bissouma,Brighton,Brentford,2021-09-11,False,MC,90,0,0.0,0,0.0,3,0,0,1.9,0,1,0,5.0,0.21,81.28
+Yves Bissouma,Brighton,Leeds United,2021-09-19,True,MC,78,0,0.18,0,0.0,2,1,0,2.8,0,0,1,5.2,0.21,81.15

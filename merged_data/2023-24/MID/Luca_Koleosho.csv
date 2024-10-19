@@ -1,16 +1,16 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Luca Koleosho,Burnley,Manchester City,2023-08-11,True,MR,60,0,0.0580548197031021,0,0.158873975276947,2,1,2,0.0,0,0,2,True
-Luca Koleosho,Burnley,Bournemouth,2023-10-28,False,FWR,80,0,0.0,0,0.0,2,0,0,1.0,0,0,2,True
-Luca Koleosho,Burnley,Crystal Palace,2023-11-04,True,ML,77,0,0.3634539544582367,0,0.1145275756716728,2,4,1,5.0,0,0,1,True
-Luca Koleosho,Burnley,Arsenal,2023-11-11,False,ML,79,0,0.0147207602858543,0,0.0,2,1,0,0.5,0,0,3,True
-Luca Koleosho,Burnley,West Ham,2023-11-25,True,ML,80,0,0.0887795984745025,0,0.0,6,1,0,2.9,0,1,0,True
-Luca Koleosho,Burnley,Sheffield,2023-12-02,True,ML,75,1,0.848626434803009,0,0.0971701815724372,8,3,1,7.8,0,1,0,True
-Luca Koleosho,Burnley,Wolverhampton,2023-12-05,False,ML,35,0,0.0492162071168422,0,0.0,1,1,0,1.0,0,0,0,True
-Luca Koleosho,Burnley,Aston Villa,2023-08-27,True,ML,67,0,0.0355827473104,0,0.0328499749302864,2,2,1,2.5,0,0,3,True
-Luca Koleosho,Burnley,Tottenham,2023-09-02,True,ML,67,0,0.1348335742950439,1,0.4949325919151306,5,2,1,4.6,0,0,5,True
-Luca Koleosho,Burnley,Nottingham Forest,2023-09-18,False,AML,75,0,0.0,0,0.0639266595244407,2,0,2,3.9,0,0,1,True
-Luca Koleosho,Burnley,Manchester United,2023-09-23,True,FWL,72,0,0.0713804587721824,0,0.0,2,2,0,1.2,0,0,1,True
-Luca Koleosho,Burnley,Newcastle United,2023-09-30,False,AMR,57,0,0.0,0,0.387917697429657,1,0,1,2.1,0,0,1,True
-Luca Koleosho,Burnley,Luton,2023-10-03,False,FWR,74,0,0.1087519899010658,0,0.0678797364234924,3,3,1,4.9,0,1,0,True
-Luca Koleosho,Burnley,Chelsea,2023-10-07,True,Sub,29,0,0.0225856062024831,0,0.038570612668991,1,1,1,2.9,0,0,2,False
-Luca Koleosho,Burnley,Brentford,2023-10-21,False,Sub,45,0,0.5283868908882141,0,0.0,1,2,0,1.4,0,0,2,False
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Luca Koleosho,Burnley,Manchester City,2023-08-11,True,MR,60,0,0.06,0,0.16,2,1,2,0.0,0,0,2,True,0.0,0.0,60.0,0,0,0,0,0,2
+Luca Koleosho,Burnley,Bournemouth,2023-10-28,False,FWR,80,0,0.0,0,0.0,2,0,0,1.0,0,0,2,True,2.0,0.06,70.0,0,0,0,0,0,2
+Luca Koleosho,Burnley,Crystal Palace,2023-11-04,True,ML,77,0,0.36,0,0.11,2,4,1,5.0,0,0,1,True,2.0,0.03,72.33,0,0,0,0,0,2
+Luca Koleosho,Burnley,Arsenal,2023-11-11,False,ML,79,0,0.01,0,0.0,2,1,0,0.5,0,0,3,True,2.0,0.14,74.0,0,0,0,0,0,6
+Luca Koleosho,Burnley,West Ham,2023-11-25,True,ML,80,0,0.09,0,0.0,6,1,0,2.9,0,1,0,True,2.0,0.11,75.2,0,0,0,0,0,8
+Luca Koleosho,Burnley,Sheffield,2023-12-02,True,ML,75,1,0.85,0,0.1,8,3,1,7.8,0,1,0,True,2.8,0.11,75.17,0,0,0,0,0,1
+Luca Koleosho,Burnley,Wolverhampton,2023-12-05,False,ML,35,0,0.05,0,0.0,1,1,0,1.0,0,0,0,True,4.0,0.26,69.43,0,0,0,0,0,2
+Luca Koleosho,Burnley,Aston Villa,2023-08-27,True,ML,67,0,0.04,0,0.03,2,2,1,2.5,0,0,3,True,3.8,0.27,69.12,0,0,0,0,0,5
+Luca Koleosho,Burnley,Tottenham,2023-09-02,True,ML,67,0,0.13,1,0.49,5,2,1,4.6,0,0,5,True,3.8,0.21,68.89,0,0,0,0,0,2
+Luca Koleosho,Burnley,Nottingham Forest,2023-09-18,False,AML,75,0,0.0,0,0.06,2,0,2,3.9,0,0,1,True,4.4,0.43,69.5,0,0,0,0,0,2
+Luca Koleosho,Burnley,Manchester United,2023-09-23,True,FWL,72,0,0.07,0,0.0,2,2,0,1.2,0,0,1,True,3.6,0.41,69.73,0,0,0,0,0,1
+Luca Koleosho,Burnley,Newcastle United,2023-09-30,False,AMR,57,0,0.0,0,0.39,1,0,1,2.1,0,0,1,True,2.4,0.26,68.67,0,0,0,0,0,3
+Luca Koleosho,Burnley,Luton,2023-10-03,False,FWR,74,0,0.11,0,0.07,3,3,1,4.9,0,1,0,True,2.4,0.25,69.08,0,0,0,0,0,1
+Luca Koleosho,Burnley,Chelsea,2023-10-07,True,Sub,29,0,0.02,0,0.04,1,1,1,2.9,0,0,2,False,2.6,0.26,66.21,0,0,0,0,0,1
+Luca Koleosho,Burnley,Brentford,2023-10-21,False,Sub,45,0,0.53,0,0.0,1,2,0,1.4,0,0,2,False,1.8,0.04,64.8,0,0,0,0,0,

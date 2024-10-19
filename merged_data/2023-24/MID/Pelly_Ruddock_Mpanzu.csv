@@ -1,28 +1,28 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts
-Pelly Ruddock Mpanzu,Luton,Brighton,2023-08-12,False,MC,87,0,0.9032046794891356,0,0.0,2,2,0,0.0,0,0,3,True
-Pelly Ruddock Mpanzu,Luton,Aston Villa,2023-10-29,False,Sub,14,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False
-Pelly Ruddock Mpanzu,Luton,Manchester United,2023-11-11,False,Sub,4,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False
-Pelly Ruddock Mpanzu,Luton,Crystal Palace,2023-11-25,True,MC,60,0,0.0,0,0.0,3,0,0,0.7,0,1,0,True
-Pelly Ruddock Mpanzu,Luton,Brentford,2023-12-02,False,MC,59,0,0.0,0,0.0,1,0,0,1.3,0,0,2,True
-Pelly Ruddock Mpanzu,Luton,Arsenal,2023-12-05,True,MC,87,0,0.014213053509593,0,0.0,2,1,0,0.9,0,0,3,True
-Pelly Ruddock Mpanzu,Luton,Newcastle United,2023-12-23,True,Sub,10,0,0.0,0,0.0,1,0,0,1.0,0,0,0,False
-Pelly Ruddock Mpanzu,Luton,Sheffield,2023-12-26,False,Sub,6,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False
-Pelly Ruddock Mpanzu,Luton,Brighton,2024-01-30,True,Sub,22,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False
-Pelly Ruddock Mpanzu,Luton,Newcastle United,2024-02-03,False,Sub,22,0,0.0762176066637039,0,0.0,1,1,0,2.3,0,0,1,False
-Pelly Ruddock Mpanzu,Luton,Liverpool,2024-02-21,False,Sub,45,0,0.0,0,0.0240010116249322,1,0,1,1.3,0,0,4,False
-Pelly Ruddock Mpanzu,Luton,Aston Villa,2024-03-02,True,Sub,6,0,0.0,0,0.0,1,0,0,0.1,0,0,1,False
-Pelly Ruddock Mpanzu,Luton,Bournemouth,2024-03-13,False,Sub,22,0,0.0,0,0.0,1,0,0,0.1,0,0,1,False
-Pelly Ruddock Mpanzu,Luton,Nottingham Forest,2024-03-16,True,MC,59,0,0.0,0,0.0151188923045992,1,0,1,3.7,0,0,1,True
-Pelly Ruddock Mpanzu,Luton,Chelsea,2023-08-25,False,Sub,13,0,0.0517932847142219,0,0.0,1,1,0,0.4,0,0,0,False
-Pelly Ruddock Mpanzu,Luton,Tottenham,2024-03-30,False,MC,90,0,0.0,0,0.0,1,0,0,0.2,0,0,2,True
-Pelly Ruddock Mpanzu,Luton,Arsenal,2024-04-03,False,MC,53,0,0.0,0,0.0,1,0,0,1.2,0,0,2,True
-Pelly Ruddock Mpanzu,Luton,Manchester City,2024-04-13,False,Sub,13,0,0.0627923011779785,0,0.0,1,1,0,0.7,0,0,2,False
-Pelly Ruddock Mpanzu,Luton,Brentford,2024-04-20,True,Sub,9,0,0.0,0,0.0,1,0,0,0.0,0,0,1,False
-Pelly Ruddock Mpanzu,Luton,Fulham,2024-05-19,True,Sub,20,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False
-Pelly Ruddock Mpanzu,Luton,West Ham,2023-09-01,True,Sub,19,0,0.0,0,0.0,1,0,0,0.8,0,0,1,False
-Pelly Ruddock Mpanzu,Luton,Fulham,2023-09-16,False,Sub,15,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False
-Pelly Ruddock Mpanzu,Luton,Wolverhampton,2023-09-23,True,Sub,33,0,0.0948953926563263,0,0.1181363314390182,1,2,1,2.5,0,0,0,False
-Pelly Ruddock Mpanzu,Luton,Everton,2023-09-30,False,MC,90,0,0.0,0,0.0,2,0,0,1.0,0,0,1,True
-Pelly Ruddock Mpanzu,Luton,Burnley,2023-10-03,True,MC,90,0,0.0439801923930645,0,0.0697392299771308,2,2,1,3.0,0,0,2,True
-Pelly Ruddock Mpanzu,Luton,Tottenham,2023-10-07,True,MC,66,0,0.0,0,0.3044523298740387,2,0,2,4.3,0,0,1,True
-Pelly Ruddock Mpanzu,Luton,Nottingham Forest,2023-10-21,False,MC,71,0,0.0135555500164628,0,0.0,2,1,0,0.6,0,0,1,True
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Pelly Ruddock Mpanzu,Luton,Brighton,2023-08-12,False,MC,87,0,0.9,0,0.0,2,2,0,0.0,0,0,3,True,0.0,0.0,87.0,0,0,0,0,0,1
+Pelly Ruddock Mpanzu,Luton,Aston Villa,2023-10-29,False,Sub,14,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False,2.0,0.9,50.5,0,0,0,0,0,1
+Pelly Ruddock Mpanzu,Luton,Manchester United,2023-11-11,False,Sub,4,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,1.5,0.45,35.0,0,0,0,0,0,3
+Pelly Ruddock Mpanzu,Luton,Crystal Palace,2023-11-25,True,MC,60,0,0.0,0,0.0,3,0,0,0.7,0,1,0,True,1.33,0.3,41.25,0,0,0,0,0,1
+Pelly Ruddock Mpanzu,Luton,Brentford,2023-12-02,False,MC,59,0,0.0,0,0.0,1,0,0,1.3,0,0,2,True,1.75,0.23,44.8,0,0,0,0,0,2
+Pelly Ruddock Mpanzu,Luton,Arsenal,2023-12-05,True,MC,87,0,0.01,0,0.0,2,1,0,0.9,0,0,3,True,1.6,0.18,51.83,0,0,0,0,0,1
+Pelly Ruddock Mpanzu,Luton,Newcastle United,2023-12-23,True,Sub,10,0,0.0,0,0.0,1,0,0,1.0,0,0,0,False,1.6,0.0,45.86,0,0,0,0,0,1
+Pelly Ruddock Mpanzu,Luton,Sheffield,2023-12-26,False,Sub,6,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,1.6,0.0,40.88,0,0,0,0,0,1
+Pelly Ruddock Mpanzu,Luton,Brighton,2024-01-30,True,Sub,22,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False,1.6,0.0,38.78,0,0,0,0,0,1
+Pelly Ruddock Mpanzu,Luton,Newcastle United,2024-02-03,False,Sub,22,0,0.08,0,0.0,1,1,0,2.3,0,0,1,False,1.2,0.0,37.1,0,0,0,0,0,1
+Pelly Ruddock Mpanzu,Luton,Liverpool,2024-02-21,False,Sub,45,0,0.0,0,0.02,1,0,1,1.3,0,0,4,False,1.2,0.02,37.82,0,0,0,0,0,1
+Pelly Ruddock Mpanzu,Luton,Aston Villa,2024-03-02,True,Sub,6,0,0.0,0,0.0,1,0,0,0.1,0,0,1,False,1.0,0.02,35.17,0,0,0,0,0,1
+Pelly Ruddock Mpanzu,Luton,Bournemouth,2024-03-13,False,Sub,22,0,0.0,0,0.0,1,0,0,0.1,0,0,1,False,1.0,0.02,34.15,0,0,0,0,0,1
+Pelly Ruddock Mpanzu,Luton,Nottingham Forest,2024-03-16,True,MC,59,0,0.0,0,0.02,1,0,1,3.7,0,0,1,True,1.0,0.02,35.93,0,0,0,0,0,1
+Pelly Ruddock Mpanzu,Luton,Chelsea,2023-08-25,False,Sub,13,0,0.05,0,0.0,1,1,0,0.4,0,0,0,False,1.0,0.02,34.4,0,0,0,0,0,1
+Pelly Ruddock Mpanzu,Luton,Tottenham,2024-03-30,False,MC,90,0,0.0,0,0.0,1,0,0,0.2,0,0,2,True,1.0,0.01,37.88,0,0,0,0,0,1
+Pelly Ruddock Mpanzu,Luton,Arsenal,2024-04-03,False,MC,53,0,0.0,0,0.0,1,0,0,1.2,0,0,2,True,1.0,0.01,38.76,0,0,0,0,0,1
+Pelly Ruddock Mpanzu,Luton,Manchester City,2024-04-13,False,Sub,13,0,0.06,0,0.0,1,1,0,0.7,0,0,2,False,1.0,0.01,37.33,0,0,0,0,0,1
+Pelly Ruddock Mpanzu,Luton,Brentford,2024-04-20,True,Sub,9,0,0.0,0,0.0,1,0,0,0.0,0,0,1,False,1.0,0.02,35.84,0,0,0,0,0,1
+Pelly Ruddock Mpanzu,Luton,Fulham,2024-05-19,True,Sub,20,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,1.0,0.02,35.05,0,0,0,0,0,1
+Pelly Ruddock Mpanzu,Luton,West Ham,2023-09-01,True,Sub,19,0,0.0,0,0.0,1,0,0,0.8,0,0,1,False,1.0,0.01,34.29,0,0,0,0,0,1
+Pelly Ruddock Mpanzu,Luton,Fulham,2023-09-16,False,Sub,15,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,1.0,0.01,33.41,0,0,0,0,0,1
+Pelly Ruddock Mpanzu,Luton,Wolverhampton,2023-09-23,True,Sub,33,0,0.09,0,0.12,1,2,1,2.5,0,0,0,False,1.0,0.01,33.39,0,0,0,0,0,2
+Pelly Ruddock Mpanzu,Luton,Everton,2023-09-30,False,MC,90,0,0.0,0,0.0,2,0,0,1.0,0,0,1,True,1.0,0.02,35.75,0,0,0,0,0,2
+Pelly Ruddock Mpanzu,Luton,Burnley,2023-10-03,True,MC,90,0,0.04,0,0.07,2,2,1,3.0,0,0,2,True,1.2,0.02,37.92,0,0,0,0,0,2
+Pelly Ruddock Mpanzu,Luton,Tottenham,2023-10-07,True,MC,66,0,0.0,0,0.3,2,0,2,4.3,0,0,1,True,1.4,0.03,39.0,0,0,0,0,0,2
+Pelly Ruddock Mpanzu,Luton,Nottingham Forest,2023-10-21,False,MC,71,0,0.01,0,0.0,2,1,0,0.6,0,0,1,True,1.6,0.03,40.19,0,0,0,0,0,
