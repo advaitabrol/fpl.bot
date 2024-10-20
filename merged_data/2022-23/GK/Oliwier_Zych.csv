@@ -1,18 +1,18 @@
-name,team,opponent_team,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty,saves_per_game,last_season_total_saves
-Oliwier Zych,Aston Villa,Manchester City,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0,0,0,0.0,Aston Villa,True,Arsenal,0.99,0.0,0
-Oliwier Zych,Aston Villa,Arsenal,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0,0,0,0.0,Aston Villa,False,Everton,-1.12,0.0,0
-Oliwier Zych,Aston Villa,Everton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0,0,0,0.0,Aston Villa,True,Crystal Palace,-0.78,0.0,0
-Oliwier Zych,Aston Villa,Crystal Palace,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0,0,0,0.0,Aston Villa,False,West Ham,1.42,0.0,0
-Oliwier Zych,Aston Villa,West Ham,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0,0,0,0.0,Aston Villa,True,Bournemouth,-2.54,0.0,0
-Oliwier Zych,Aston Villa,Bournemouth,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0,0,0,0.0,Aston Villa,False,Chelsea,-0.25,0.0,0
-Oliwier Zych,Aston Villa,Chelsea,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0,0,0,0.0,Aston Villa,False,Leeds United,-1.09,0.0,0
-Oliwier Zych,Aston Villa,Leeds United,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0,0,0,0.0,Aston Villa,True,Nottingham Forest,-1.71,0.0,0
-Oliwier Zych,Aston Villa,Nottingham Forest,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0,0,0,0.0,Aston Villa,True,Newcastle United,-1.18,0.0,0
-Oliwier Zych,Aston Villa,Newcastle United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0,0,0,0.0,Aston Villa,False,Brentford,-0.06,0.0,0
-Oliwier Zych,Aston Villa,Brentford,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0,0,0,0.0,Aston Villa,True,Fulham,-2.12,0.0,0
-Oliwier Zych,Aston Villa,Fulham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0,0,0,0.0,Aston Villa,False,Manchester United,0.18,0.0,0
-Oliwier Zych,Aston Villa,Manchester United,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0,0,0,0.0,Aston Villa,False,Wolverhampton,1.16,0.0,0
-Oliwier Zych,Aston Villa,Wolverhampton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0,0,0,0.0,Aston Villa,True,Tottenham,2.74,0.0,0
-Oliwier Zych,Aston Villa,Tottenham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0,0,0,0.0,Aston Villa,False,Liverpool,0.36,0.0,0
-Oliwier Zych,Aston Villa,Liverpool,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0,0,0,0.0,Aston Villa,True,Brighton,-3.23,0.0,0
-Oliwier Zych,Aston Villa,Brighton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0,0,0,,Man City,False,Burnley,-3.25,0.0,0
+name,team,opponent_team,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,starts,form,clean_sheet_probability,saves_per_game,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,last_season_total_saves,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Oliwier Zych,Aston Villa,Manchester City,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Arsenal,0.71
+Oliwier Zych,Aston Villa,Arsenal,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Everton,-0.42
+Oliwier Zych,Aston Villa,Everton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Crystal Palace,-0.13
+Oliwier Zych,Aston Villa,Crystal Palace,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,West Ham,1.86
+Oliwier Zych,Aston Villa,West Ham,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Bournemouth,
+Oliwier Zych,Aston Villa,Bournemouth,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Chelsea,4.06
+Oliwier Zych,Aston Villa,Chelsea,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Leeds United,-2.15
+Oliwier Zych,Aston Villa,Leeds United,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Nottingham Forest,
+Oliwier Zych,Aston Villa,Nottingham Forest,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Newcastle United,-3.47
+Oliwier Zych,Aston Villa,Newcastle United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Brentford,0.38
+Oliwier Zych,Aston Villa,Brentford,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Fulham,
+Oliwier Zych,Aston Villa,Fulham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Manchester United,-1.29
+Oliwier Zych,Aston Villa,Manchester United,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Wolverhampton,1.31
+Oliwier Zych,Aston Villa,Wolverhampton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Tottenham,5.76
+Oliwier Zych,Aston Villa,Tottenham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Liverpool,0.83
+Oliwier Zych,Aston Villa,Liverpool,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Brighton,-3.72
+Oliwier Zych,Aston Villa,Brighton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,,Man City,False,Burnley,-1.6

@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Jean-Philippe Mateta,Crystal Palace,Arsenal,2022-08-05,True,Sub,32,0.0,0.06,0.0,0.09,1,1.0,1.0,2.0,0,False,0.0,0.0,32.0,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,True,Leicester City,-0.81
-Jean-Philippe Mateta,Crystal Palace,Leicester City,2022-10-09,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,1.0,0.06,18.0,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Leeds United,0.66
-Jean-Philippe Mateta,Crystal Palace,Leeds United,2022-10-15,False,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,False,1.0,0.03,16.33,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,True,Wolverhampton,-1.42
-Jean-Philippe Mateta,Crystal Palace,Wolverhampton,2022-10-18,True,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,1.0,0.02,14.5,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,False,Everton,2.96
-Jean-Philippe Mateta,Crystal Palace,Everton,2022-10-22,False,Sub,28,0.0,0.07,0.0,0.0,0,1.0,0.0,0.4,0,False,1.0,0.02,17.2,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,True,Southampton,0.19
-Jean-Philippe Mateta,Crystal Palace,Southampton,,True,,0,,,,,0,,,0.0,0,False,0.8,0.03,14.33,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,False,West Ham,0.38
-Jean-Philippe Mateta,Crystal Palace,West Ham,,False,,0,,,,,0,,,0.0,0,False,0.6,0.01,12.29,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Nottingham Forest,1.76
-Jean-Philippe Mateta,Crystal Palace,Nottingham Forest,2022-11-12,False,Sub,31,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,False,0.4,0.01,14.62,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,True,Fulham,2.42
-Jean-Philippe Mateta,Crystal Palace,Fulham,,True,,0,,,,,0,,,0.0,0,False,0.4,0.01,13.0,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Bournemouth,0.25
-Jean-Philippe Mateta,Crystal Palace,Bournemouth,2022-12-31,False,Sub,16,0.0,0.08,0.0,0.15,1,1.0,1.0,1.8,0,False,0.2,0.01,13.3,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,True,Tottenham,0.68
-Jean-Philippe Mateta,Crystal Palace,Tottenham,2023-01-04,True,Sub,29,0.0,0.05,0.0,0.0,1,1.0,0.0,0.6,0,False,0.4,0.02,14.73,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,False,Liverpool,1.18
-Jean-Philippe Mateta,Crystal Palace,Liverpool,,False,,0,,,,,0,,,0.0,0,False,0.6,0.03,13.5,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Chelsea,2.48
-Jean-Philippe Mateta,Crystal Palace,Chelsea,2023-01-15,False,Sub,21,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,False,0.6,0.03,14.08,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,True,Manchester United,-1.44
-Jean-Philippe Mateta,Crystal Palace,Manchester United,2023-01-18,True,FW,55,0.0,0.03,0.0,0.0,1,1.0,0.0,2.5,0,True,0.6,0.03,17.0,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,True,Newcastle United,0.03
-Jean-Philippe Mateta,Crystal Palace,Newcastle United,2023-01-21,True,Sub,25,0.0,0.08,0.0,0.0,1,1.0,0.0,2.4,0,False,0.8,0.03,17.53,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Manchester United,0.01
-Jean-Philippe Mateta,Crystal Palace,Manchester United,2023-02-04,False,Sub,7,0.0,0.05,0.0,0.0,1,1.0,0.0,0.7,0,False,0.8,0.03,16.88,5.0,1.0,5.85,0.72,0.05,2,Crystal Palace,True,Brighton,-0.29
-Jean-Philippe Mateta,Crystal Palace,Brighton,2023-02-11,True,FW,70,0.0,0.17,0.0,0.0,2,2.0,0.0,1.5,0,True,0.8,0.03,20.0,5.0,1.0,5.85,0.72,0.05,2,Crystal Palace,False,Brentford,0.24
-Jean-Philippe Mateta,Crystal Palace,Brentford,2023-02-18,False,FW,79,0.0,0.18,0.0,0.0,2,2.0,0.0,1.6,0,True,1.2,0.07,23.28,5.0,1.0,5.85,0.72,0.05,2,Crystal Palace,True,Liverpool,0.92
-Jean-Philippe Mateta,Crystal Palace,Liverpool,2023-02-25,True,FW,70,0.0,0.75,0.0,0.0,2,3.0,0.0,0.6,0,True,1.4,0.1,25.74,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Aston Villa,1.69
-Jean-Philippe Mateta,Crystal Palace,Aston Villa,2023-03-04,False,Sub,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,False,1.6,0.25,25.6,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,True,Manchester City,1.02
-Jean-Philippe Mateta,Crystal Palace,Manchester City,,True,,0,,,,,0,,,0.0,0,False,1.6,0.23,24.38,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Brighton,2.17
-Jean-Philippe Mateta,Crystal Palace,Brighton,2023-03-15,False,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,False,1.4,0.22,23.77,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,False,Arsenal,3.89
-Jean-Philippe Mateta,Crystal Palace,Arsenal,,False,,0,,,,,0,,,0.0,0,False,1.2,0.19,22.74,5.0,1.0,5.85,0.72,0.05,7,Crystal Palace,True,Leeds United,1.4
-Jean-Philippe Mateta,Crystal Palace,Leeds United,2023-04-01,True,Sub,4,1.0,0.54,0.0,0.0,7,2.0,0.0,6.0,3,False,0.8,0.15,21.96,5.0,1.0,5.85,0.72,0.05,5,Crystal Palace,True,Aston Villa,-0.88
-Jean-Philippe Mateta,Crystal Palace,Aston Villa,2022-08-20,True,Sub,20,1.0,0.5,0.0,0.0,5,2.0,0.0,4.8,0,False,1.8,0.11,21.88,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Leicester City,-1.38
-Jean-Philippe Mateta,Crystal Palace,Leicester City,2023-04-09,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,2.6,0.21,21.42,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Southampton,-0.93
-Jean-Philippe Mateta,Crystal Palace,Southampton,2023-04-15,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,2.8,0.21,20.67,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,True,Everton,0.47
-Jean-Philippe Mateta,Crystal Palace,Everton,2023-04-22,True,Sub,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,2.8,0.21,20.61,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Wolverhampton,-0.93
-Jean-Philippe Mateta,Crystal Palace,Wolverhampton,2023-04-25,False,Sub,1,0.0,0.1,0.0,0.0,1,1.0,0.0,0.2,0,False,3.0,0.21,19.93,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,True,West Ham,0.94
-Jean-Philippe Mateta,Crystal Palace,West Ham,,True,,0,,,,,0,,,0.0,0,False,1.8,0.12,19.27,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,False,Tottenham,3.43
-Jean-Philippe Mateta,Crystal Palace,Tottenham,,False,,0,,,,,0,,,0.0,0,False,0.8,0.02,18.65,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,True,Bournemouth,0.86
-Jean-Philippe Mateta,Crystal Palace,Bournemouth,,True,,0,,,,,0,,,0.0,0,False,0.6,0.02,18.06,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Fulham,1.13
-Jean-Philippe Mateta,Crystal Palace,Fulham,2023-05-20,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,False,0.4,0.02,17.82,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,True,Nottingham Forest,1.11
-Jean-Philippe Mateta,Crystal Palace,Nottingham Forest,2023-05-28,True,Sub,23,0.0,0.16,0.0,0.0,1,2.0,0.0,0.0,0,False,0.4,0.02,17.97,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,False,Manchester City,-0.8
-Jean-Philippe Mateta,Crystal Palace,Manchester City,2022-08-27,False,Sub,16,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,False,0.4,0.03,17.91,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,True,Brentford,0.35
-Jean-Philippe Mateta,Crystal Palace,Brentford,2022-08-30,True,FW,53,0.0,0.13,0.0,0.1,1,2.0,2.0,5.3,0,False,0.4,0.03,18.89,5.0,1.0,5.85,0.72,0.05,2,Crystal Palace,False,Newcastle United,3.58
-Jean-Philippe Mateta,Crystal Palace,Newcastle United,2022-09-03,False,FW,62,0.0,0.28,0.0,0.07,2,4.0,1.0,7.9,0,False,0.6,0.06,20.05,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,True,Chelsea,1.46
-Jean-Philippe Mateta,Crystal Palace,Chelsea,2022-10-01,True,Sub,6,0.0,0.06,0.0,0.0,1,1.0,0.0,0.5,0,False,1.0,0.12,19.68,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,False,Sheffield,-0.5
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Jean-Philippe Mateta,Crystal Palace,Arsenal,2022-08-05,True,Sub,32,0.0,0.06,0.0,0.09,1,1.0,1.0,2.0,0,False,0.0,0.0,32.0,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,True,Leicester City,-0.38
+Jean-Philippe Mateta,Crystal Palace,Leicester City,2022-10-09,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,1.0,0.06,18.0,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Leeds United,2.13
+Jean-Philippe Mateta,Crystal Palace,Leeds United,2022-10-15,False,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,False,1.0,0.03,16.33,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,True,Wolverhampton,-2.67
+Jean-Philippe Mateta,Crystal Palace,Wolverhampton,2022-10-18,True,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,1.0,0.02,14.5,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,False,Everton,2.41
+Jean-Philippe Mateta,Crystal Palace,Everton,2022-10-22,False,Sub,28,0.0,0.07,0.0,0.0,0,1.0,0.0,0.4,0,False,1.0,0.02,17.2,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,True,Southampton,0.54
+Jean-Philippe Mateta,Crystal Palace,Southampton,,True,,0,,,,,0,,,0.0,0,False,0.8,0.03,14.33,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,False,West Ham,0.59
+Jean-Philippe Mateta,Crystal Palace,West Ham,,False,,0,,,,,0,,,0.0,0,False,0.6,0.01,12.29,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Nottingham Forest,
+Jean-Philippe Mateta,Crystal Palace,Nottingham Forest,2022-11-12,False,Sub,31,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,False,0.4,0.01,14.62,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,True,Fulham,
+Jean-Philippe Mateta,Crystal Palace,Fulham,,True,,0,,,,,0,,,0.0,0,False,0.4,0.01,13.0,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Bournemouth,
+Jean-Philippe Mateta,Crystal Palace,Bournemouth,2022-12-31,False,Sub,16,0.0,0.08,0.0,0.15,1,1.0,1.0,1.8,0,False,0.2,0.01,13.3,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,True,Tottenham,-5.01
+Jean-Philippe Mateta,Crystal Palace,Tottenham,2023-01-04,True,Sub,29,0.0,0.05,0.0,0.0,1,1.0,0.0,0.6,0,False,0.4,0.02,14.73,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,False,Liverpool,7.24
+Jean-Philippe Mateta,Crystal Palace,Liverpool,,False,,0,,,,,0,,,0.0,0,False,0.6,0.03,13.5,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Chelsea,2.77
+Jean-Philippe Mateta,Crystal Palace,Chelsea,2023-01-15,False,Sub,21,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,False,0.6,0.03,14.08,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,True,Manchester United,-0.9
+Jean-Philippe Mateta,Crystal Palace,Manchester United,2023-01-18,True,FW,55,0.0,0.03,0.0,0.0,1,1.0,0.0,2.5,0,True,0.6,0.03,17.0,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,True,Newcastle United,1.62
+Jean-Philippe Mateta,Crystal Palace,Newcastle United,2023-01-21,True,Sub,25,0.0,0.08,0.0,0.0,1,1.0,0.0,2.4,0,False,0.8,0.03,17.53,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Manchester United,0.74
+Jean-Philippe Mateta,Crystal Palace,Manchester United,2023-02-04,False,Sub,7,0.0,0.05,0.0,0.0,1,1.0,0.0,0.7,0,False,0.8,0.03,16.88,5.0,1.0,5.85,0.72,0.05,2,Crystal Palace,True,Brighton,-0.1
+Jean-Philippe Mateta,Crystal Palace,Brighton,2023-02-11,True,FW,70,0.0,0.17,0.0,0.0,2,2.0,0.0,1.5,0,True,0.8,0.03,20.0,5.0,1.0,5.85,0.72,0.05,2,Crystal Palace,False,Brentford,1.96
+Jean-Philippe Mateta,Crystal Palace,Brentford,2023-02-18,False,FW,79,0.0,0.18,0.0,0.0,2,2.0,0.0,1.6,0,True,1.2,0.07,23.28,5.0,1.0,5.85,0.72,0.05,2,Crystal Palace,True,Liverpool,3.6
+Jean-Philippe Mateta,Crystal Palace,Liverpool,2023-02-25,True,FW,70,0.0,0.75,0.0,0.0,2,3.0,0.0,0.6,0,True,1.4,0.1,25.74,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Aston Villa,0.99
+Jean-Philippe Mateta,Crystal Palace,Aston Villa,2023-03-04,False,Sub,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,False,1.6,0.25,25.6,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,True,Manchester City,-0.0
+Jean-Philippe Mateta,Crystal Palace,Manchester City,,True,,0,,,,,0,,,0.0,0,False,1.6,0.23,24.38,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Brighton,
+Jean-Philippe Mateta,Crystal Palace,Brighton,2023-03-15,False,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,False,1.4,0.22,23.77,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,False,Arsenal,1.99
+Jean-Philippe Mateta,Crystal Palace,Arsenal,,False,,0,,,,,0,,,0.0,0,False,1.2,0.19,22.74,5.0,1.0,5.85,0.72,0.05,7,Crystal Palace,True,Leeds United,3.21
+Jean-Philippe Mateta,Crystal Palace,Leeds United,2023-04-01,True,Sub,4,1.0,0.54,0.0,0.0,7,2.0,0.0,6.0,3,False,0.8,0.15,21.96,5.0,1.0,5.85,0.72,0.05,5,Crystal Palace,True,Aston Villa,0.32
+Jean-Philippe Mateta,Crystal Palace,Aston Villa,2022-08-20,True,Sub,20,1.0,0.5,0.0,0.0,5,2.0,0.0,4.8,0,False,1.8,0.11,21.88,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Leicester City,2.85
+Jean-Philippe Mateta,Crystal Palace,Leicester City,2023-04-09,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,2.6,0.21,21.42,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Southampton,
+Jean-Philippe Mateta,Crystal Palace,Southampton,2023-04-15,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,2.8,0.21,20.67,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,True,Everton,-1.9
+Jean-Philippe Mateta,Crystal Palace,Everton,2023-04-22,True,Sub,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,2.8,0.21,20.61,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Wolverhampton,
+Jean-Philippe Mateta,Crystal Palace,Wolverhampton,2023-04-25,False,Sub,1,0.0,0.1,0.0,0.0,1,1.0,0.0,0.2,0,False,3.0,0.21,19.93,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,True,West Ham,
+Jean-Philippe Mateta,Crystal Palace,West Ham,,True,,0,,,,,0,,,0.0,0,False,1.8,0.12,19.27,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,False,Tottenham,6.04
+Jean-Philippe Mateta,Crystal Palace,Tottenham,,False,,0,,,,,0,,,0.0,0,False,0.8,0.02,18.65,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,True,Bournemouth,
+Jean-Philippe Mateta,Crystal Palace,Bournemouth,,True,,0,,,,,0,,,0.0,0,False,0.6,0.02,18.06,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,False,Fulham,
+Jean-Philippe Mateta,Crystal Palace,Fulham,2023-05-20,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,False,0.4,0.02,17.82,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,True,Nottingham Forest,
+Jean-Philippe Mateta,Crystal Palace,Nottingham Forest,2023-05-28,True,Sub,23,0.0,0.16,0.0,0.0,1,2.0,0.0,0.0,0,False,0.4,0.02,17.97,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,False,Manchester City,-0.86
+Jean-Philippe Mateta,Crystal Palace,Manchester City,2022-08-27,False,Sub,16,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,False,0.4,0.03,17.91,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,True,Brentford,0.87
+Jean-Philippe Mateta,Crystal Palace,Brentford,2022-08-30,True,FW,53,0.0,0.13,0.0,0.1,1,2.0,2.0,5.3,0,False,0.4,0.03,18.89,5.0,1.0,5.85,0.72,0.05,2,Crystal Palace,False,Newcastle United,1.9
+Jean-Philippe Mateta,Crystal Palace,Newcastle United,2022-09-03,False,FW,62,0.0,0.28,0.0,0.07,2,4.0,1.0,7.9,0,False,0.6,0.06,20.05,5.0,1.0,5.85,0.72,0.05,1,Crystal Palace,True,Chelsea,1.2
+Jean-Philippe Mateta,Crystal Palace,Chelsea,2022-10-01,True,Sub,6,0.0,0.06,0.0,0.0,1,1.0,0.0,0.5,0,False,1.0,0.12,19.68,5.0,1.0,5.85,0.72,0.05,0,Crystal Palace,False,Sheffield,

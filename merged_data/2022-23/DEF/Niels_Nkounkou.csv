@@ -1,39 +1,39 @@
-name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Niels Nkounkou,Everton,Chelsea,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Manchester United,0.93
-Niels Nkounkou,Everton,Manchester United,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Tottenham,2.99
-Niels Nkounkou,Everton,Tottenham,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Newcastle United,1.81
-Niels Nkounkou,Everton,Newcastle United,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Crystal Palace,-1.89
-Niels Nkounkou,Everton,Crystal Palace,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Fulham,-0.21
-Niels Nkounkou,Everton,Fulham,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Leeds United,0.49
-Niels Nkounkou,Everton,Leeds United,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Bournemouth,4.39
-Niels Nkounkou,Everton,Bournemouth,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Wolverhampton,1.62
-Niels Nkounkou,Everton,Wolverhampton,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Manchester City,0.69
-Niels Nkounkou,Everton,Manchester City,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Brighton,0.33
-Niels Nkounkou,Everton,Brighton,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Aston Villa,3.22
-Niels Nkounkou,Everton,Aston Villa,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Southampton,-2.71
-Niels Nkounkou,Everton,Southampton,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,West Ham,2.5
-Niels Nkounkou,Everton,West Ham,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Arsenal,-2.09
-Niels Nkounkou,Everton,Arsenal,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Liverpool,1.94
-Niels Nkounkou,Everton,Liverpool,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Leicester City,-3.7
-Niels Nkounkou,Everton,Leicester City,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Aston Villa,1.41
-Niels Nkounkou,Everton,Aston Villa,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Arsenal,2.52
-Niels Nkounkou,Everton,Arsenal,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Nottingham Forest,0.07
-Niels Nkounkou,Everton,Nottingham Forest,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Brentford,-2.0
-Niels Nkounkou,Everton,Brentford,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Chelsea,1.97
-Niels Nkounkou,Everton,Chelsea,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Tottenham,-0.33
-Niels Nkounkou,Everton,Tottenham,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Nottingham Forest,-0.72
-Niels Nkounkou,Everton,Nottingham Forest,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Manchester United,1.96
-Niels Nkounkou,Everton,Manchester United,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Fulham,2.03
-Niels Nkounkou,Everton,Fulham,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Crystal Palace,-0.42
-Niels Nkounkou,Everton,Crystal Palace,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Newcastle United,-0.27
-Niels Nkounkou,Everton,Newcastle United,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Leeds United,-1.47
-Niels Nkounkou,Everton,Leeds United,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Brighton,-3.42
-Niels Nkounkou,Everton,Brighton,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Manchester City,1.75
-Niels Nkounkou,Everton,Manchester City,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Wolverhampton,1.67
-Niels Nkounkou,Everton,Wolverhampton,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Bournemouth,-4.02
-Niels Nkounkou,Everton,Bournemouth,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Brentford,0.08
+name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Niels Nkounkou,Everton,Chelsea,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Manchester United,-3.63
+Niels Nkounkou,Everton,Manchester United,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Tottenham,5.72
+Niels Nkounkou,Everton,Tottenham,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Newcastle United,2.79
+Niels Nkounkou,Everton,Newcastle United,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Crystal Palace,-2.12
+Niels Nkounkou,Everton,Crystal Palace,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Fulham,
+Niels Nkounkou,Everton,Fulham,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Leeds United,-2.66
+Niels Nkounkou,Everton,Leeds United,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Bournemouth,
+Niels Nkounkou,Everton,Bournemouth,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Wolverhampton,1.74
+Niels Nkounkou,Everton,Wolverhampton,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Manchester City,1.57
+Niels Nkounkou,Everton,Manchester City,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Brighton,-1.26
+Niels Nkounkou,Everton,Brighton,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Aston Villa,2.84
+Niels Nkounkou,Everton,Aston Villa,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Southampton,-6.12
+Niels Nkounkou,Everton,Southampton,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,West Ham,2.96
+Niels Nkounkou,Everton,West Ham,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Arsenal,-2.74
+Niels Nkounkou,Everton,Arsenal,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Liverpool,0.23
+Niels Nkounkou,Everton,Liverpool,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Leicester City,-6.39
+Niels Nkounkou,Everton,Leicester City,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Aston Villa,0.09
+Niels Nkounkou,Everton,Aston Villa,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Arsenal,3.18
+Niels Nkounkou,Everton,Arsenal,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Nottingham Forest,
+Niels Nkounkou,Everton,Nottingham Forest,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Brentford,-2.68
+Niels Nkounkou,Everton,Brentford,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Chelsea,-1.5
+Niels Nkounkou,Everton,Chelsea,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Tottenham,1.66
+Niels Nkounkou,Everton,Tottenham,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Nottingham Forest,1.11
+Niels Nkounkou,Everton,Nottingham Forest,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Manchester United,-2.79
+Niels Nkounkou,Everton,Manchester United,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Fulham,
+Niels Nkounkou,Everton,Fulham,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Crystal Palace,1.58
+Niels Nkounkou,Everton,Crystal Palace,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Newcastle United,
+Niels Nkounkou,Everton,Newcastle United,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Leeds United,
+Niels Nkounkou,Everton,Leeds United,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Brighton,-5.19
+Niels Nkounkou,Everton,Brighton,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Manchester City,
+Niels Nkounkou,Everton,Manchester City,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Wolverhampton,0.33
+Niels Nkounkou,Everton,Wolverhampton,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Bournemouth,
+Niels Nkounkou,Everton,Bournemouth,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Brentford,1.71
 Niels Nkounkou,Everton,Brentford,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Leicester City,-1.63
-Niels Nkounkou,Everton,Leicester City,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Liverpool,-1.2
-Niels Nkounkou,Everton,Liverpool,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,West Ham,1.45
-Niels Nkounkou,Everton,West Ham,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Southampton,1.08
-Niels Nkounkou,Everton,Southampton,False,0,0,0.0,0,0,0,0.0,False,,Nott'm Forest,False,Arsenal,1.87
+Niels Nkounkou,Everton,Leicester City,False,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,Liverpool,0.76
+Niels Nkounkou,Everton,Liverpool,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,True,West Ham,0.7
+Niels Nkounkou,Everton,West Ham,True,0,0,0.0,0,0,0,0.0,False,0.0,Everton,False,Southampton,-1.98
+Niels Nkounkou,Everton,Southampton,False,0,0,0.0,0,0,0,0.0,False,,Nott'm Forest,False,Arsenal,4.71

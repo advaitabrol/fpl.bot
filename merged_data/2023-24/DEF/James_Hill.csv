@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-James Hill,Bournemouth,West Ham,2023-08-12,True,Sub,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.19,False,0.0,0.0,15.0,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Burnley,-0.93
-James Hill,Bournemouth,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,7.5,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Manchester City,2.96
-James Hill,Bournemouth,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.5,0.0,5.0,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Newcastle United,-1.78
-James Hill,Bournemouth,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.33,0.0,3.75,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Sheffield,-5.08
-James Hill,Bournemouth,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.25,0.0,3.0,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Aston Villa,-2.21
-James Hill,Bournemouth,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,2.5,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Crystal Palace,0.17
-James Hill,Bournemouth,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.14,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Manchester United,-1.42
-James Hill,Bournemouth,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.88,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Nottingham Forest,-0.87
-James Hill,Bournemouth,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.67,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Fulham,-3.96
-James Hill,Bournemouth,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.5,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Liverpool,4.89
-James Hill,Bournemouth,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.36,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Tottenham,0.69
-James Hill,Bournemouth,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.25,0.0,0.1,0.56,0.0,0,1.0,Bournemouth,True,Liverpool,0.55
-James Hill,Bournemouth,Liverpool,2024-01-21,True,DL,54,0.0,0.0,0.0,0.0,1,0.0,0.0,2.3,0,0,1,0.96,True,0.0,0.0,5.31,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,West Ham,1.5
-James Hill,Bournemouth,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.93,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Nottingham Forest,-0.18
-James Hill,Bournemouth,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.6,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Fulham,0.65
-James Hill,Bournemouth,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.31,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Newcastle United,-1.24
-James Hill,Bournemouth,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.06,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Manchester City,1.44
-James Hill,Bournemouth,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,3.83,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Burnley,-3.18
-James Hill,Bournemouth,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.63,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Sheffield,0.28
-James Hill,Bournemouth,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.45,0.0,0.1,0.56,0.0,0,1.0,Bournemouth,True,Luton,-1.83
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+James Hill,Bournemouth,West Ham,2023-08-12,True,Sub,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.19,False,0.0,0.0,15.0,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Burnley,
+James Hill,Bournemouth,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,7.5,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Manchester City,1.61
+James Hill,Bournemouth,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.5,0.0,5.0,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Newcastle United,-1.09
+James Hill,Bournemouth,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.33,0.0,3.75,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Sheffield,
+James Hill,Bournemouth,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.25,0.0,3.0,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Aston Villa,-2.77
+James Hill,Bournemouth,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,2.5,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Crystal Palace,3.33
+James Hill,Bournemouth,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.14,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Manchester United,2.68
+James Hill,Bournemouth,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.88,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Nottingham Forest,-0.1
+James Hill,Bournemouth,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.67,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Fulham,-2.88
+James Hill,Bournemouth,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.5,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Liverpool,7.33
+James Hill,Bournemouth,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.36,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Tottenham,-1.42
+James Hill,Bournemouth,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.25,0.0,0.1,0.56,0.0,0,1.0,Bournemouth,True,Liverpool,-2.32
+James Hill,Bournemouth,Liverpool,2024-01-21,True,DL,54,0.0,0.0,0.0,0.0,1,0.0,0.0,2.3,0,0,1,0.96,True,0.0,0.0,5.31,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,West Ham,2.67
+James Hill,Bournemouth,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.93,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Nottingham Forest,0.51
+James Hill,Bournemouth,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.6,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Fulham,-1.43
+James Hill,Bournemouth,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.31,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Newcastle United,-1.45
+James Hill,Bournemouth,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.06,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Manchester City,1.02
+James Hill,Bournemouth,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,3.83,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Burnley,
+James Hill,Bournemouth,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.63,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Sheffield,
+James Hill,Bournemouth,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.45,0.0,0.1,0.56,0.0,0,1.0,Bournemouth,True,Luton,
 James Hill,Bournemouth,Luton,2024-03-13,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,3.33,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Tottenham,1.6
-James Hill,Bournemouth,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,3.18,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Everton,-3.5
-James Hill,Bournemouth,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,3.04,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Crystal Palace,0.58
-James Hill,Bournemouth,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,2.92,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Luton,1.09
-James Hill,Bournemouth,Luton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,2.8,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Manchester United,0.69
-James Hill,Bournemouth,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,2.69,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Aston Villa,2.29
-James Hill,Bournemouth,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.59,0.0,0.1,0.56,0.0,0,1.0,Bournemouth,False,Wolverhampton,-2.03
-James Hill,Bournemouth,Wolverhampton,2024-04-24,False,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,0,0.19,False,0.0,0.0,2.61,0.0,0.1,0.56,0.0,0,1.0,Bournemouth,True,Brighton,-1.19
-James Hill,Bournemouth,Brighton,2024-04-28,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.2,0.0,2.55,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Arsenal,0.25
-James Hill,Bournemouth,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,2.47,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Brentford,0.86
-James Hill,Bournemouth,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,2.39,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Chelsea,1.75
+James Hill,Bournemouth,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,3.18,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Everton,-5.04
+James Hill,Bournemouth,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,3.04,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Crystal Palace,3.26
+James Hill,Bournemouth,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,2.92,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Luton,
+James Hill,Bournemouth,Luton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,2.8,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Manchester United,
+James Hill,Bournemouth,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,2.69,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Aston Villa,
+James Hill,Bournemouth,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.59,0.0,0.1,0.56,0.0,0,1.0,Bournemouth,False,Wolverhampton,
+James Hill,Bournemouth,Wolverhampton,2024-04-24,False,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,0,0.19,False,0.0,0.0,2.61,0.0,0.1,0.56,0.0,0,1.0,Bournemouth,True,Brighton,
+James Hill,Bournemouth,Brighton,2024-04-28,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.2,0.0,2.55,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Arsenal,
+James Hill,Bournemouth,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,2.47,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Brentford,0.49
+James Hill,Bournemouth,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,2.39,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Chelsea,2.82
 James Hill,Bournemouth,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,2.31,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Brentford,0.82
-James Hill,Bournemouth,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,2.24,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Chelsea,-0.01
-James Hill,Bournemouth,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,2.18,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Brighton,0.77
+James Hill,Bournemouth,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,2.24,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Chelsea,-1.09
+James Hill,Bournemouth,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,2.18,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Brighton,1.13
 James Hill,Bournemouth,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.11,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Arsenal,4.06
-James Hill,Bournemouth,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.06,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Everton,3.85
+James Hill,Bournemouth,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.06,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,False,Everton,4.91
 James Hill,Bournemouth,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.0,0.0,0.1,0.56,0.0,0,0.0,Bournemouth,True,Wolverhampton,0.64
 James Hill,Bournemouth,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.95,0.0,0.1,0.56,0.0,0,,,,,

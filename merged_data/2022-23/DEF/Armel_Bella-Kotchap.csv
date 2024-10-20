@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Armel Bella-Kotchap,Southampton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Southampton,False,Manchester City,3.44
-Armel Bella-Kotchap,Southampton,Manchester City,2022-10-08,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.3,0,0,4,0.0,False,0.0,0.0,45.0,0.0,0,0,0,0,1.0,Southampton,True,West Ham,-0.03
-Armel Bella-Kotchap,Southampton,West Ham,2022-10-16,True,DC,41,0.0,0.02,0.0,0.0,1,1.0,0.0,2.2,0,0,0,0.0,False,0.0,0.0,43.67,0.0,0,0,0,0,0.0,Southampton,False,Bournemouth,-0.76
-Armel Bella-Kotchap,Southampton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.33,0.01,32.75,0.0,0,0,0,0,0.0,Southampton,True,Arsenal,-1.15
-Armel Bella-Kotchap,Southampton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.25,0.01,26.2,0.0,0,0,0,0,0.0,Southampton,False,Crystal Palace,1.04
-Armel Bella-Kotchap,Southampton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,21.83,0.0,0,0,0,0,1.0,Southampton,True,Newcastle United,3.01
-Armel Bella-Kotchap,Southampton,Newcastle United,2022-11-06,True,DC,71,0.0,0.0,0.0,0.05,1,0.0,1.0,3.7,0,0,3,0.0,False,0.2,0.0,28.86,0.0,0,0,0,0,1.0,Southampton,False,Liverpool,4.09
-Armel Bella-Kotchap,Southampton,Liverpool,2022-11-12,False,DR,72,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,3,1.7,True,0.4,0.0,34.25,0.0,0,0,0,0,0.0,Southampton,True,Brighton,0.98
-Armel Bella-Kotchap,Southampton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,30.44,0.0,0,0,0,0,1.0,Southampton,False,Fulham,1.81
-Armel Bella-Kotchap,Southampton,Fulham,2022-12-31,False,DC,90,0.0,0.0,0.0,0.06,1,0.0,1.0,2.5,0,0,2,1.53,True,0.4,0.0,36.4,0.0,0,0,0,0,1.0,Southampton,True,Nottingham Forest,3.03
-Armel Bella-Kotchap,Southampton,Nottingham Forest,2023-01-04,True,DC,33,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,1.2,True,0.6,0.0,36.09,0.0,0,0,0,0,1.0,Southampton,True,Leicester City,-1.16
-Armel Bella-Kotchap,Southampton,Leicester City,2022-08-13,True,DC,90,0.0,0.05,0.0,0.0,1,1.0,0.0,0.9,0,0,2,0.0,False,0.8,0.0,40.58,0.0,0,0,0,0,0.0,Southampton,False,Everton,2.07
-Armel Bella-Kotchap,Southampton,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.01,37.46,0.0,0,0,0,0,0.0,Southampton,True,Aston Villa,0.29
-Armel Bella-Kotchap,Southampton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.01,34.79,0.0,0,0,0,0,0.0,Southampton,False,Brentford,4.79
-Armel Bella-Kotchap,Southampton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.01,32.47,0.0,0,0,0,0,0.0,Southampton,True,Wolverhampton,2.57
-Armel Bella-Kotchap,Southampton,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,30.44,0.0,0,0,0,0,5.0,Southampton,False,Chelsea,0.51
-Armel Bella-Kotchap,Southampton,Chelsea,2023-02-18,False,DC,90,0.0,0.0,0.0,0.0,5,0.0,0.0,1.7,0,1,0,1.55,True,0.2,0.01,33.94,0.17,0,0,0,0,1.0,Southampton,False,Leicester City,-0.79
-Armel Bella-Kotchap,Southampton,Leicester City,2023-02-25,False,DC,90,0.0,0.1,0.0,0.0,1,1.0,0.0,2.9,0,0,1,0.86,True,1.0,0.0,37.06,0.14,0,0,0,0,8.0,Southampton,True,Leeds United,-1.21
-Armel Bella-Kotchap,Southampton,Leeds United,2023-03-04,True,DC,90,0.0,0.0,0.0,0.0,8,0.0,0.0,1.8,2,1,0,1.9,True,1.2,0.02,39.84,0.25,0,0,0,0,9.0,Southampton,False,Manchester United,0.89
-Armel Bella-Kotchap,Southampton,Manchester United,2023-03-12,False,DC,90,0.0,0.0,0.0,0.51,9,0.0,2.0,5.0,3,1,0,0.84,True,2.8,0.02,42.35,0.33,0,0,0,0,1.0,Southampton,True,Brentford,0.03
-Armel Bella-Kotchap,Southampton,Brentford,2023-03-15,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.5,0,0,2,2.01,True,4.6,0.02,44.62,0.3,0,0,0,0,1.0,Southampton,True,Tottenham,0.56
-Armel Bella-Kotchap,Southampton,Tottenham,2023-03-18,True,DC,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.39,True,4.8,0.02,42.91,0.3,0,0,0,0,0.0,Southampton,False,West Ham,0.0
-Armel Bella-Kotchap,Southampton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,4.0,0.02,41.04,0.3,0,0,0,0,5.0,Southampton,False,Leeds United,0.71
-Armel Bella-Kotchap,Southampton,Leeds United,2022-08-20,False,DC,90,0.0,0.23,1.0,0.27,5,1.0,1.0,5.0,0,0,1,0.0,False,3.8,0.0,43.08,0.27,0,0,0,0,0.0,Southampton,True,Manchester City,0.1
-Armel Bella-Kotchap,Southampton,Manchester City,2023-04-08,True,DC,90,0.0,0.11,0.0,0.0,0,1.0,0.0,1.0,0,0,4,2.64,True,3.2,0.25,44.96,0.25,0,0,0,0,0.0,Southampton,True,Crystal Palace,2.32
-Armel Bella-Kotchap,Southampton,Crystal Palace,2023-04-15,True,DC,90,0.0,0.01,0.0,0.0,0,1.0,0.0,3.0,0,0,2,0.81,True,1.4,0.27,46.69,0.23,0,0,0,0,4.0,Southampton,False,Arsenal,0.71
-Armel Bella-Kotchap,Southampton,Arsenal,2023-04-21,False,DC,90,0.0,0.06,1.0,0.56,4,1.0,1.0,6.2,0,0,3,2.81,True,1.2,0.27,48.3,0.21,0,0,0,0,0.0,Southampton,True,Bournemouth,2.76
-Armel Bella-Kotchap,Southampton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.48,46.57,0.21,0,0,0,0,1.0,Southampton,False,Newcastle United,1.29
-Armel Bella-Kotchap,Southampton,Newcastle United,2023-04-30,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.8,0,0,3,4.47,True,1.8,0.48,48.07,0.2,0,0,0,0,0.0,Southampton,False,Nottingham Forest,1.95
-Armel Bella-Kotchap,Southampton,Nottingham Forest,2023-05-08,False,DC,37,0.0,0.0,0.0,0.0,0,0.0,0.0,0.8,0,0,2,0.49,True,1.0,0.24,47.7,0.2,0,0,0,0,0.0,Southampton,True,Fulham,2.66
-Armel Bella-Kotchap,Southampton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.21,46.16,0.2,0,0,0,0,0.0,Southampton,False,Brighton,1.32
-Armel Bella-Kotchap,Southampton,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.21,44.72,0.2,0,0,0,0,0.0,Southampton,True,Liverpool,-0.47
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Armel Bella-Kotchap,Southampton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Southampton,False,Manchester City,0.3
+Armel Bella-Kotchap,Southampton,Manchester City,2022-10-08,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.3,0,0,4,0.0,False,0.0,0.0,45.0,0.0,0,0,0,0,1.0,Southampton,True,West Ham,-1.04
+Armel Bella-Kotchap,Southampton,West Ham,2022-10-16,True,DC,41,0.0,0.02,0.0,0.0,1,1.0,0.0,2.2,0,0,0,0.0,False,0.0,0.0,43.67,0.0,0,0,0,0,0.0,Southampton,False,Bournemouth,
+Armel Bella-Kotchap,Southampton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.33,0.01,32.75,0.0,0,0,0,0,0.0,Southampton,True,Arsenal,-3.58
+Armel Bella-Kotchap,Southampton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.25,0.01,26.2,0.0,0,0,0,0,0.0,Southampton,False,Crystal Palace,-0.36
+Armel Bella-Kotchap,Southampton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,21.83,0.0,0,0,0,0,1.0,Southampton,True,Newcastle United,0.8
+Armel Bella-Kotchap,Southampton,Newcastle United,2022-11-06,True,DC,71,0.0,0.0,0.0,0.05,1,0.0,1.0,3.7,0,0,3,0.0,False,0.2,0.0,28.86,0.0,0,0,0,0,1.0,Southampton,False,Liverpool,2.85
+Armel Bella-Kotchap,Southampton,Liverpool,2022-11-12,False,DR,72,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,3,1.7,True,0.4,0.0,34.25,0.0,0,0,0,0,0.0,Southampton,True,Brighton,-0.05
+Armel Bella-Kotchap,Southampton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,30.44,0.0,0,0,0,0,1.0,Southampton,False,Fulham,
+Armel Bella-Kotchap,Southampton,Fulham,2022-12-31,False,DC,90,0.0,0.0,0.0,0.06,1,0.0,1.0,2.5,0,0,2,1.53,True,0.4,0.0,36.4,0.0,0,0,0,0,1.0,Southampton,True,Nottingham Forest,
+Armel Bella-Kotchap,Southampton,Nottingham Forest,2023-01-04,True,DC,33,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,1.2,True,0.6,0.0,36.09,0.0,0,0,0,0,1.0,Southampton,True,Leicester City,-2.36
+Armel Bella-Kotchap,Southampton,Leicester City,2022-08-13,True,DC,90,0.0,0.05,0.0,0.0,1,1.0,0.0,0.9,0,0,2,0.0,False,0.8,0.0,40.58,0.0,0,0,0,0,0.0,Southampton,False,Everton,3.31
+Armel Bella-Kotchap,Southampton,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.01,37.46,0.0,0,0,0,0,0.0,Southampton,True,Aston Villa,-1.21
+Armel Bella-Kotchap,Southampton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.01,34.79,0.0,0,0,0,0,0.0,Southampton,False,Brentford,3.85
+Armel Bella-Kotchap,Southampton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.01,32.47,0.0,0,0,0,0,0.0,Southampton,True,Wolverhampton,3.38
+Armel Bella-Kotchap,Southampton,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,30.44,0.0,0,0,0,0,5.0,Southampton,False,Chelsea,1.8
+Armel Bella-Kotchap,Southampton,Chelsea,2023-02-18,False,DC,90,0.0,0.0,0.0,0.0,5,0.0,0.0,1.7,0,1,0,1.55,True,0.2,0.01,33.94,0.17,0,0,0,0,1.0,Southampton,False,Leicester City,-2.53
+Armel Bella-Kotchap,Southampton,Leicester City,2023-02-25,False,DC,90,0.0,0.1,0.0,0.0,1,1.0,0.0,2.9,0,0,1,0.86,True,1.0,0.0,37.06,0.14,0,0,0,0,8.0,Southampton,True,Leeds United,-0.35
+Armel Bella-Kotchap,Southampton,Leeds United,2023-03-04,True,DC,90,0.0,0.0,0.0,0.0,8,0.0,0.0,1.8,2,1,0,1.9,True,1.2,0.02,39.84,0.25,0,0,0,0,9.0,Southampton,False,Manchester United,1.62
+Armel Bella-Kotchap,Southampton,Manchester United,2023-03-12,False,DC,90,0.0,0.0,0.0,0.51,9,0.0,2.0,5.0,3,1,0,0.84,True,2.8,0.02,42.35,0.33,0,0,0,0,1.0,Southampton,True,Brentford,-5.16
+Armel Bella-Kotchap,Southampton,Brentford,2023-03-15,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.5,0,0,2,2.01,True,4.6,0.02,44.62,0.3,0,0,0,0,1.0,Southampton,True,Tottenham,0.15
+Armel Bella-Kotchap,Southampton,Tottenham,2023-03-18,True,DC,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.39,True,4.8,0.02,42.91,0.3,0,0,0,0,0.0,Southampton,False,West Ham,-2.95
+Armel Bella-Kotchap,Southampton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,4.0,0.02,41.04,0.3,0,0,0,0,5.0,Southampton,False,Leeds United,-2.19
+Armel Bella-Kotchap,Southampton,Leeds United,2022-08-20,False,DC,90,0.0,0.23,1.0,0.27,5,1.0,1.0,5.0,0,0,1,0.0,False,3.8,0.0,43.08,0.27,0,0,0,0,0.0,Southampton,True,Manchester City,
+Armel Bella-Kotchap,Southampton,Manchester City,2023-04-08,True,DC,90,0.0,0.11,0.0,0.0,0,1.0,0.0,1.0,0,0,4,2.64,True,3.2,0.25,44.96,0.25,0,0,0,0,0.0,Southampton,True,Crystal Palace,
+Armel Bella-Kotchap,Southampton,Crystal Palace,2023-04-15,True,DC,90,0.0,0.01,0.0,0.0,0,1.0,0.0,3.0,0,0,2,0.81,True,1.4,0.27,46.69,0.23,0,0,0,0,4.0,Southampton,False,Arsenal,2.91
+Armel Bella-Kotchap,Southampton,Arsenal,2023-04-21,False,DC,90,0.0,0.06,1.0,0.56,4,1.0,1.0,6.2,0,0,3,2.81,True,1.2,0.27,48.3,0.21,0,0,0,0,0.0,Southampton,True,Bournemouth,
+Armel Bella-Kotchap,Southampton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.48,46.57,0.21,0,0,0,0,1.0,Southampton,False,Newcastle United,-1.73
+Armel Bella-Kotchap,Southampton,Newcastle United,2023-04-30,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.8,0,0,3,4.47,True,1.8,0.48,48.07,0.2,0,0,0,0,0.0,Southampton,False,Nottingham Forest,
+Armel Bella-Kotchap,Southampton,Nottingham Forest,2023-05-08,False,DC,37,0.0,0.0,0.0,0.0,0,0.0,0.0,0.8,0,0,2,0.49,True,1.0,0.24,47.7,0.2,0,0,0,0,0.0,Southampton,True,Fulham,
+Armel Bella-Kotchap,Southampton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.21,46.16,0.2,0,0,0,0,0.0,Southampton,False,Brighton,
+Armel Bella-Kotchap,Southampton,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.21,44.72,0.2,0,0,0,0,0.0,Southampton,True,Liverpool,
 Armel Bella-Kotchap,Southampton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,43.36,0.2,0,0,0,0,2.0,Southampton,True,Manchester United,1.12
-Armel Bella-Kotchap,Southampton,Manchester United,2022-08-27,True,DC,90,0.0,0.56,0.0,0.0,2,4.0,0.0,4.5,0,0,1,0.0,False,0.2,0.0,44.74,0.19,0,0,0,0,2.0,Southampton,True,Chelsea,1.45
-Armel Bella-Kotchap,Southampton,Chelsea,2022-08-30,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,0,1,0.0,False,0.4,0.11,46.03,0.18,0,0,0,0,1.0,Southampton,False,Wolverhampton,2.86
-Armel Bella-Kotchap,Southampton,Wolverhampton,2022-09-03,False,DC,90,0.0,0.04,0.0,0.0,1,1.0,0.0,1.6,0,0,1,0.0,False,0.8,0.11,47.25,0.17,0,0,0,0,2.0,Southampton,False,Aston Villa,3.18
-Armel Bella-Kotchap,Southampton,Aston Villa,2022-09-16,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.9,0,0,1,0.0,False,1.0,0.12,48.41,0.16,0,0,0,0,1.0,Southampton,True,Everton,0.11
-Armel Bella-Kotchap,Southampton,Everton,2022-10-01,True,DC,90,0.0,0.08,0.0,0.0,1,2.0,0.0,2.3,0,0,2,0.0,False,1.4,0.12,49.5,0.15,0,0,0,0,,Man City,False,Burnley,-3.25
+Armel Bella-Kotchap,Southampton,Manchester United,2022-08-27,True,DC,90,0.0,0.56,0.0,0.0,2,4.0,0.0,4.5,0,0,1,0.0,False,0.2,0.0,44.74,0.19,0,0,0,0,2.0,Southampton,True,Chelsea,-1.74
+Armel Bella-Kotchap,Southampton,Chelsea,2022-08-30,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,0,1,0.0,False,0.4,0.11,46.03,0.18,0,0,0,0,1.0,Southampton,False,Wolverhampton,2.96
+Armel Bella-Kotchap,Southampton,Wolverhampton,2022-09-03,False,DC,90,0.0,0.04,0.0,0.0,1,1.0,0.0,1.6,0,0,1,0.0,False,0.8,0.11,47.25,0.17,0,0,0,0,2.0,Southampton,False,Aston Villa,2.17
+Armel Bella-Kotchap,Southampton,Aston Villa,2022-09-16,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.9,0,0,1,0.0,False,1.0,0.12,48.41,0.16,0,0,0,0,1.0,Southampton,True,Everton,3.9
+Armel Bella-Kotchap,Southampton,Everton,2022-10-01,True,DC,90,0.0,0.08,0.0,0.0,1,2.0,0.0,2.3,0,0,2,0.0,False,1.4,0.12,49.5,0.15,0,0,0,0,,Man City,False,Burnley,

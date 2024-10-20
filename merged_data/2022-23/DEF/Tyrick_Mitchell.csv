@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Tyrick Mitchell,Crystal Palace,Arsenal,2022-08-05,True,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,2,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,1,Crystal Palace,True,Leicester City,-0.81
-Tyrick Mitchell,Crystal Palace,Leicester City,2022-10-09,True,Sub,25,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,1.0,0.0,57.5,0.0,0,0,0,0,1,Crystal Palace,False,Leeds United,0.66
-Tyrick Mitchell,Crystal Palace,Leeds United,2022-10-15,False,DL,55,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.0,False,1.0,0.0,56.67,0.0,0,0,0,0,2,Crystal Palace,True,Wolverhampton,-1.42
-Tyrick Mitchell,Crystal Palace,Wolverhampton,2022-10-18,True,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,0.0,False,1.0,0.0,65.0,0.0,0,0,0,0,1,Crystal Palace,False,Everton,2.96
-Tyrick Mitchell,Crystal Palace,Everton,2022-10-22,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.6,0,0,3,0.0,False,1.25,0.0,70.0,0.0,0,0,0,0,11,Crystal Palace,True,Southampton,0.19
-Tyrick Mitchell,Crystal Palace,Southampton,2022-10-29,True,DL,90,0.0,0.0,1.0,0.55,11,0.0,1.0,4.3,3,1,0,0.0,False,1.2,0.0,73.33,0.25,0,0,0,0,2,Crystal Palace,False,West Ham,0.38
-Tyrick Mitchell,Crystal Palace,West Ham,2022-11-06,False,DL,90,0.0,0.13,0.0,0.0,2,2.0,0.0,6.0,0,0,1,0.0,False,3.2,0.2,75.71,0.2,0,0,0,0,0,Crystal Palace,False,Nottingham Forest,1.76
-Tyrick Mitchell,Crystal Palace,Nottingham Forest,2022-11-12,False,DL,59,0.0,0.0,0.0,0.07,0,0.0,1.0,2.3,0,0,1,0.59,True,3.4,0.23,73.62,0.2,0,0,0,0,-3,Crystal Palace,True,Fulham,2.42
-Tyrick Mitchell,Crystal Palace,Fulham,2022-12-26,True,DL,33,0.0,0.0,0.0,0.0,-3,0.0,0.0,0.0,0,0,3,4.51,True,3.2,0.23,69.11,0.2,0,0,0,0,0,Crystal Palace,False,Bournemouth,0.25
-Tyrick Mitchell,Crystal Palace,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.23,62.2,0.2,0,0,0,0,0,Crystal Palace,True,Tottenham,0.68
-Tyrick Mitchell,Crystal Palace,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.23,56.55,0.2,0,0,0,0,2,Crystal Palace,False,Liverpool,1.18
-Tyrick Mitchell,Crystal Palace,Liverpool,2022-08-15,False,DL,78,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,0.0,False,-0.2,0.03,58.33,0.17,0,0,0,0,2,Crystal Palace,False,Chelsea,2.48
-Tyrick Mitchell,Crystal Palace,Chelsea,2023-01-15,False,DL,90,0.0,0.53,0.0,0.0,2,1.0,0.0,5.8,0,0,1,1.64,True,-0.2,0.0,60.77,0.14,0,0,0,0,2,Crystal Palace,True,Manchester United,-1.44
-Tyrick Mitchell,Crystal Palace,Manchester United,2023-01-18,True,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.1,0,0,1,2.1,True,0.2,0.11,62.86,0.12,0,0,0,0,7,Crystal Palace,True,Newcastle United,0.03
-Tyrick Mitchell,Crystal Palace,Newcastle United,2023-01-21,True,DL,90,0.0,0.0,0.0,0.0,7,0.0,0.0,2.6,1,1,0,1.41,True,1.2,0.11,64.67,0.22,0,0,0,0,0,Crystal Palace,False,Manchester United,0.01
-Tyrick Mitchell,Crystal Palace,Manchester United,2023-02-04,False,DL,90,0.0,0.0,0.0,0.11,0,0.0,2.0,4.7,0,0,2,2.04,True,2.6,0.11,66.25,0.2,0,0,0,0,1,Crystal Palace,True,Brighton,-0.29
-Tyrick Mitchell,Crystal Palace,Brighton,2023-02-11,True,DL,90,0.0,0.0,0.0,0.05,1,0.0,1.0,2.8,0,0,1,2.36,True,2.6,0.11,67.65,0.18,0,0,0,0,6,Crystal Palace,False,Brentford,0.24
-Tyrick Mitchell,Crystal Palace,Brentford,2023-02-18,False,DL,81,0.0,0.0,0.0,0.0,6,0.0,0.0,1.0,0,1,0,0.45,True,2.4,0.11,68.39,0.25,0,0,0,0,6,Crystal Palace,True,Liverpool,0.92
-Tyrick Mitchell,Crystal Palace,Liverpool,2023-02-25,True,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.5,0,1,0,0.9,True,3.2,0.0,69.53,0.31,0,0,0,0,2,Crystal Palace,False,Aston Villa,1.69
-Tyrick Mitchell,Crystal Palace,Aston Villa,2023-03-04,False,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.0,0,0,1,1.2,True,4.0,0.0,70.55,0.29,0,0,0,0,2,Crystal Palace,True,Manchester City,1.02
-Tyrick Mitchell,Crystal Palace,Manchester City,2023-03-11,True,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.7,0,0,1,2.14,True,3.0,0.0,71.48,0.27,0,0,0,0,2,Crystal Palace,False,Brighton,2.17
-Tyrick Mitchell,Crystal Palace,Brighton,2023-03-15,False,DL,90,0.0,0.0,0.0,0.11,2,0.0,1.0,2.3,0,0,1,0.6,True,3.4,0.0,72.32,0.25,0,0,0,0,0,Crystal Palace,False,Arsenal,3.89
-Tyrick Mitchell,Crystal Palace,Arsenal,2023-03-19,False,DL,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.5,0,0,4,1.47,True,3.6,0.0,73.09,0.24,0,0,0,0,2,Crystal Palace,True,Leeds United,1.4
-Tyrick Mitchell,Crystal Palace,Leeds United,2023-04-01,True,DL,90,0.0,0.15,0.0,0.07,2,1.0,2.0,5.5,0,0,1,0.22,True,2.4,0.0,73.79,0.22,0,0,0,0,6,Crystal Palace,True,Aston Villa,-0.88
-Tyrick Mitchell,Crystal Palace,Aston Villa,2022-08-20,True,DL,90,0.0,0.0,1.0,0.46,6,0.0,3.0,7.1,1,0,1,0.0,False,1.6,0.03,74.44,0.21,0,0,0,0,2,Crystal Palace,False,Leicester City,-1.38
-Tyrick Mitchell,Crystal Palace,Leicester City,2023-04-09,False,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,1,0.89,True,2.4,0.23,75.04,0.2,0,0,0,0,6,Crystal Palace,False,Southampton,-0.93
-Tyrick Mitchell,Crystal Palace,Southampton,2023-04-15,False,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.2,0,1,0,0.78,True,2.4,0.23,75.59,0.24,0,0,0,0,5,Crystal Palace,True,Everton,0.47
-Tyrick Mitchell,Crystal Palace,Everton,2023-04-22,True,DL,90,0.0,0.09,0.0,0.04,5,2.0,1.0,3.9,0,1,0,0.42,True,3.2,0.23,76.11,0.27,0,0,0,0,1,Crystal Palace,False,Wolverhampton,-0.93
-Tyrick Mitchell,Crystal Palace,Wolverhampton,2023-04-25,False,DL,90,0.0,0.0,0.0,0.01,1,0.0,1.0,3.4,0,0,2,1.36,True,4.2,0.25,76.59,0.26,0,0,0,0,1,Crystal Palace,True,West Ham,0.94
-Tyrick Mitchell,Crystal Palace,West Ham,2023-04-29,True,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.8,0,0,3,1.86,True,4.0,0.22,77.03,0.25,0,0,0,0,2,Crystal Palace,False,Tottenham,3.43
-Tyrick Mitchell,Crystal Palace,Tottenham,2023-05-06,False,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.4,0,0,1,0.88,True,3.0,0.02,77.45,0.24,0,0,0,0,8,Crystal Palace,True,Bournemouth,0.86
-Tyrick Mitchell,Crystal Palace,Bournemouth,2023-05-13,True,DL,90,0.0,0.0,0.0,0.0,8,0.0,0.0,3.2,2,1,0,0.33,True,3.0,0.02,77.84,0.27,0,0,0,0,1,Crystal Palace,False,Fulham,1.13
-Tyrick Mitchell,Crystal Palace,Fulham,2023-05-20,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,2,1.83,True,3.4,0.02,78.21,0.26,0,0,0,0,2,Crystal Palace,True,Nottingham Forest,1.11
-Tyrick Mitchell,Crystal Palace,Nottingham Forest,2023-05-28,True,DL,90,0.0,0.0,0.0,0.08,2,0.0,2.0,0.0,0,0,1,0.46,True,2.6,0.0,78.56,0.25,0,0,0,0,1,Crystal Palace,False,Manchester City,-0.8
-Tyrick Mitchell,Crystal Palace,Manchester City,2022-08-27,False,DL,56,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,0.0,False,2.8,0.0,77.91,0.25,0,0,0,0,1,Crystal Palace,True,Brentford,0.35
-Tyrick Mitchell,Crystal Palace,Brentford,2022-08-30,True,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,0.0,False,2.8,0.0,76.03,0.25,0,0,0,0,6,Crystal Palace,False,Newcastle United,3.58
-Tyrick Mitchell,Crystal Palace,Newcastle United,2022-09-03,False,DL,62,0.0,0.0,0.0,0.0,6,0.0,0.0,1.0,0,1,0,0.0,False,2.6,0.0,75.65,0.28,0,0,0,0,1,Crystal Palace,True,Chelsea,1.46
-Tyrick Mitchell,Crystal Palace,Chelsea,2022-10-01,True,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,2,0.0,False,2.2,0.0,76.03,0.27,0,0,0,0,8,Crystal Palace,False,Sheffield,-0.5
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Tyrick Mitchell,Crystal Palace,Arsenal,2022-08-05,True,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,2,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,1,Crystal Palace,True,Leicester City,-0.38
+Tyrick Mitchell,Crystal Palace,Leicester City,2022-10-09,True,Sub,25,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,1.0,0.0,57.5,0.0,0,0,0,0,1,Crystal Palace,False,Leeds United,2.13
+Tyrick Mitchell,Crystal Palace,Leeds United,2022-10-15,False,DL,55,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.0,False,1.0,0.0,56.67,0.0,0,0,0,0,2,Crystal Palace,True,Wolverhampton,-2.67
+Tyrick Mitchell,Crystal Palace,Wolverhampton,2022-10-18,True,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,0.0,False,1.0,0.0,65.0,0.0,0,0,0,0,1,Crystal Palace,False,Everton,2.41
+Tyrick Mitchell,Crystal Palace,Everton,2022-10-22,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.6,0,0,3,0.0,False,1.25,0.0,70.0,0.0,0,0,0,0,11,Crystal Palace,True,Southampton,0.54
+Tyrick Mitchell,Crystal Palace,Southampton,2022-10-29,True,DL,90,0.0,0.0,1.0,0.55,11,0.0,1.0,4.3,3,1,0,0.0,False,1.2,0.0,73.33,0.25,0,0,0,0,2,Crystal Palace,False,West Ham,0.59
+Tyrick Mitchell,Crystal Palace,West Ham,2022-11-06,False,DL,90,0.0,0.13,0.0,0.0,2,2.0,0.0,6.0,0,0,1,0.0,False,3.2,0.2,75.71,0.2,0,0,0,0,0,Crystal Palace,False,Nottingham Forest,
+Tyrick Mitchell,Crystal Palace,Nottingham Forest,2022-11-12,False,DL,59,0.0,0.0,0.0,0.07,0,0.0,1.0,2.3,0,0,1,0.59,True,3.4,0.23,73.62,0.2,0,0,0,0,-3,Crystal Palace,True,Fulham,
+Tyrick Mitchell,Crystal Palace,Fulham,2022-12-26,True,DL,33,0.0,0.0,0.0,0.0,-3,0.0,0.0,0.0,0,0,3,4.51,True,3.2,0.23,69.11,0.2,0,0,0,0,0,Crystal Palace,False,Bournemouth,
+Tyrick Mitchell,Crystal Palace,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.23,62.2,0.2,0,0,0,0,0,Crystal Palace,True,Tottenham,-5.01
+Tyrick Mitchell,Crystal Palace,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.23,56.55,0.2,0,0,0,0,2,Crystal Palace,False,Liverpool,7.24
+Tyrick Mitchell,Crystal Palace,Liverpool,2022-08-15,False,DL,78,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,0.0,False,-0.2,0.03,58.33,0.17,0,0,0,0,2,Crystal Palace,False,Chelsea,2.77
+Tyrick Mitchell,Crystal Palace,Chelsea,2023-01-15,False,DL,90,0.0,0.53,0.0,0.0,2,1.0,0.0,5.8,0,0,1,1.64,True,-0.2,0.0,60.77,0.14,0,0,0,0,2,Crystal Palace,True,Manchester United,-0.9
+Tyrick Mitchell,Crystal Palace,Manchester United,2023-01-18,True,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.1,0,0,1,2.1,True,0.2,0.11,62.86,0.12,0,0,0,0,7,Crystal Palace,True,Newcastle United,1.62
+Tyrick Mitchell,Crystal Palace,Newcastle United,2023-01-21,True,DL,90,0.0,0.0,0.0,0.0,7,0.0,0.0,2.6,1,1,0,1.41,True,1.2,0.11,64.67,0.22,0,0,0,0,0,Crystal Palace,False,Manchester United,0.74
+Tyrick Mitchell,Crystal Palace,Manchester United,2023-02-04,False,DL,90,0.0,0.0,0.0,0.11,0,0.0,2.0,4.7,0,0,2,2.04,True,2.6,0.11,66.25,0.2,0,0,0,0,1,Crystal Palace,True,Brighton,-0.1
+Tyrick Mitchell,Crystal Palace,Brighton,2023-02-11,True,DL,90,0.0,0.0,0.0,0.05,1,0.0,1.0,2.8,0,0,1,2.36,True,2.6,0.11,67.65,0.18,0,0,0,0,6,Crystal Palace,False,Brentford,1.96
+Tyrick Mitchell,Crystal Palace,Brentford,2023-02-18,False,DL,81,0.0,0.0,0.0,0.0,6,0.0,0.0,1.0,0,1,0,0.45,True,2.4,0.11,68.39,0.25,0,0,0,0,6,Crystal Palace,True,Liverpool,3.6
+Tyrick Mitchell,Crystal Palace,Liverpool,2023-02-25,True,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.5,0,1,0,0.9,True,3.2,0.0,69.53,0.31,0,0,0,0,2,Crystal Palace,False,Aston Villa,0.99
+Tyrick Mitchell,Crystal Palace,Aston Villa,2023-03-04,False,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.0,0,0,1,1.2,True,4.0,0.0,70.55,0.29,0,0,0,0,2,Crystal Palace,True,Manchester City,-0.0
+Tyrick Mitchell,Crystal Palace,Manchester City,2023-03-11,True,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.7,0,0,1,2.14,True,3.0,0.0,71.48,0.27,0,0,0,0,2,Crystal Palace,False,Brighton,
+Tyrick Mitchell,Crystal Palace,Brighton,2023-03-15,False,DL,90,0.0,0.0,0.0,0.11,2,0.0,1.0,2.3,0,0,1,0.6,True,3.4,0.0,72.32,0.25,0,0,0,0,0,Crystal Palace,False,Arsenal,1.99
+Tyrick Mitchell,Crystal Palace,Arsenal,2023-03-19,False,DL,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.5,0,0,4,1.47,True,3.6,0.0,73.09,0.24,0,0,0,0,2,Crystal Palace,True,Leeds United,3.21
+Tyrick Mitchell,Crystal Palace,Leeds United,2023-04-01,True,DL,90,0.0,0.15,0.0,0.07,2,1.0,2.0,5.5,0,0,1,0.22,True,2.4,0.0,73.79,0.22,0,0,0,0,6,Crystal Palace,True,Aston Villa,0.32
+Tyrick Mitchell,Crystal Palace,Aston Villa,2022-08-20,True,DL,90,0.0,0.0,1.0,0.46,6,0.0,3.0,7.1,1,0,1,0.0,False,1.6,0.03,74.44,0.21,0,0,0,0,2,Crystal Palace,False,Leicester City,2.85
+Tyrick Mitchell,Crystal Palace,Leicester City,2023-04-09,False,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,1,0.89,True,2.4,0.23,75.04,0.2,0,0,0,0,6,Crystal Palace,False,Southampton,
+Tyrick Mitchell,Crystal Palace,Southampton,2023-04-15,False,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.2,0,1,0,0.78,True,2.4,0.23,75.59,0.24,0,0,0,0,5,Crystal Palace,True,Everton,-1.9
+Tyrick Mitchell,Crystal Palace,Everton,2023-04-22,True,DL,90,0.0,0.09,0.0,0.04,5,2.0,1.0,3.9,0,1,0,0.42,True,3.2,0.23,76.11,0.27,0,0,0,0,1,Crystal Palace,False,Wolverhampton,
+Tyrick Mitchell,Crystal Palace,Wolverhampton,2023-04-25,False,DL,90,0.0,0.0,0.0,0.01,1,0.0,1.0,3.4,0,0,2,1.36,True,4.2,0.25,76.59,0.26,0,0,0,0,1,Crystal Palace,True,West Ham,
+Tyrick Mitchell,Crystal Palace,West Ham,2023-04-29,True,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.8,0,0,3,1.86,True,4.0,0.22,77.03,0.25,0,0,0,0,2,Crystal Palace,False,Tottenham,6.04
+Tyrick Mitchell,Crystal Palace,Tottenham,2023-05-06,False,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.4,0,0,1,0.88,True,3.0,0.02,77.45,0.24,0,0,0,0,8,Crystal Palace,True,Bournemouth,
+Tyrick Mitchell,Crystal Palace,Bournemouth,2023-05-13,True,DL,90,0.0,0.0,0.0,0.0,8,0.0,0.0,3.2,2,1,0,0.33,True,3.0,0.02,77.84,0.27,0,0,0,0,1,Crystal Palace,False,Fulham,
+Tyrick Mitchell,Crystal Palace,Fulham,2023-05-20,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,2,1.83,True,3.4,0.02,78.21,0.26,0,0,0,0,2,Crystal Palace,True,Nottingham Forest,
+Tyrick Mitchell,Crystal Palace,Nottingham Forest,2023-05-28,True,DL,90,0.0,0.0,0.0,0.08,2,0.0,2.0,0.0,0,0,1,0.46,True,2.6,0.0,78.56,0.25,0,0,0,0,1,Crystal Palace,False,Manchester City,-0.86
+Tyrick Mitchell,Crystal Palace,Manchester City,2022-08-27,False,DL,56,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,0.0,False,2.8,0.0,77.91,0.25,0,0,0,0,1,Crystal Palace,True,Brentford,0.87
+Tyrick Mitchell,Crystal Palace,Brentford,2022-08-30,True,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,0.0,False,2.8,0.0,76.03,0.25,0,0,0,0,6,Crystal Palace,False,Newcastle United,1.9
+Tyrick Mitchell,Crystal Palace,Newcastle United,2022-09-03,False,DL,62,0.0,0.0,0.0,0.0,6,0.0,0.0,1.0,0,1,0,0.0,False,2.6,0.0,75.65,0.28,0,0,0,0,1,Crystal Palace,True,Chelsea,1.2
+Tyrick Mitchell,Crystal Palace,Chelsea,2022-10-01,True,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,2,0.0,False,2.2,0.0,76.03,0.27,0,0,0,0,8,Crystal Palace,False,Sheffield,

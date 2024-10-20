@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Leandro Trossard,Arsenal,Nottingham Forest,2023-08-12,True,Sub,17,0.0,0.0,0.0,0.05,1,0.0,1.0,1.6,0,0,1,False,0.0,0.0,17.0,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,True,Sheffield,-5.73
-Leandro Trossard,Arsenal,Sheffield,2023-10-28,True,Sub,24,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,False,1.0,0.0,20.5,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,False,Newcastle United,0.23
-Leandro Trossard,Arsenal,Newcastle United,2023-11-04,False,Sub,11,0.0,0.05,0.0,0.0,1,2.0,0.0,1.5,0,0,0,False,1.0,0.0,17.33,8.0,12.0,7.06,6.35,0.07,13.0,Arsenal,True,Burnley,-0.62
-Leandro Trossard,Arsenal,Burnley,2023-11-11,True,FW,80,1.0,1.09,1.0,0.84,13,3.0,2.0,16.3,3,0,1,True,1.0,0.02,33.0,8.0,12.0,7.06,6.35,0.07,3.0,Arsenal,False,Brentford,-0.6
-Leandro Trossard,Arsenal,Brentford,2023-11-25,False,MC,90,0.0,0.42,0.0,0.02,3,2.0,1.0,2.6,0,1,0,True,4.0,0.54,44.4,8.0,12.0,7.06,6.35,0.07,2.0,Arsenal,True,Wolverhampton,-2.6
-Leandro Trossard,Arsenal,Wolverhampton,2023-12-02,True,MC,90,0.0,1.26,0.0,0.05,2,5.0,1.0,8.9,0,0,1,True,3.8,0.51,52.0,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,False,Luton,1.98
-Leandro Trossard,Arsenal,Luton,2023-12-05,False,Sub,26,0.0,0.18,0.0,0.0,1,4.0,0.0,2.8,0,0,0,False,4.0,0.76,48.29,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,False,Aston Villa,-0.83
-Leandro Trossard,Arsenal,Aston Villa,2023-12-09,False,Sub,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,False,4.0,0.8,44.75,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,True,Brighton,0.58
-Leandro Trossard,Arsenal,Brighton,2023-12-17,True,Sub,8,0.0,0.0,0.0,0.11,1,0.0,1.0,1.5,0,0,0,False,4.0,0.79,40.67,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,False,Liverpool,0.87
-Leandro Trossard,Arsenal,Liverpool,2023-12-23,False,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,0,False,1.6,0.37,38.8,8.0,12.0,7.06,6.35,0.07,2.0,Arsenal,True,West Ham,0.89
-Leandro Trossard,Arsenal,West Ham,2023-12-28,True,MC,78,0.0,0.64,0.0,0.02,2,5.0,1.0,5.8,0,0,2,True,1.2,0.29,42.36,8.0,12.0,7.06,6.35,0.07,0.0,Arsenal,False,Crystal Palace,-0.5
-Leandro Trossard,Arsenal,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.17,38.83,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,False,Fulham,-0.97
-Leandro Trossard,Arsenal,Fulham,2023-12-31,False,Sub,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,1.0,0.13,37.62,8.0,12.0,7.06,6.35,0.07,8.0,Arsenal,True,Crystal Palace,-2.84
-Leandro Trossard,Arsenal,Crystal Palace,2024-01-20,True,FWL,68,1.0,1.1,0.0,0.0,8,5.0,0.0,7.4,0,1,0,True,1.0,0.13,39.79,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,False,Nottingham Forest,2.82
-Leandro Trossard,Arsenal,Nottingham Forest,2024-01-30,False,Sub,12,0.0,0.05,0.0,0.0,1,1.0,0.0,0.2,0,0,1,False,2.4,0.35,37.93,8.0,12.0,7.06,6.35,0.07,8.0,Arsenal,True,Liverpool,-1.54
-Leandro Trossard,Arsenal,Liverpool,2024-02-04,True,Sub,16,1.0,0.07,0.0,0.0,8,1.0,0.0,5.3,2,0,0,False,2.4,0.36,36.56,8.0,12.0,7.06,6.35,0.07,8.0,Arsenal,False,West Ham,-2.34
-Leandro Trossard,Arsenal,West Ham,2024-02-11,False,FW,66,1.0,0.62,0.0,0.0,8,5.0,0.0,10.4,0,1,0,True,3.6,0.24,38.29,8.0,12.0,7.06,6.35,0.07,11.0,Arsenal,False,Burnley,-2.99
-Leandro Trossard,Arsenal,Burnley,2024-02-17,False,FW,68,1.0,0.34,0.0,0.0,11,3.0,0.0,7.8,0,1,0,True,5.2,0.37,39.94,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,True,Newcastle United,-1.68
-Leandro Trossard,Arsenal,Newcastle United,2024-02-24,True,Sub,26,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,1,False,7.2,0.43,39.21,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,False,Sheffield,-4.68
-Leandro Trossard,Arsenal,Sheffield,2024-03-04,False,Sub,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,5.8,0.22,38.05,8.0,12.0,7.06,6.35,0.07,2.0,Arsenal,True,Brentford,-0.02
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Leandro Trossard,Arsenal,Nottingham Forest,2023-08-12,True,Sub,17,0.0,0.0,0.0,0.05,1,0.0,1.0,1.6,0,0,1,False,0.0,0.0,17.0,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,True,Sheffield,
+Leandro Trossard,Arsenal,Sheffield,2023-10-28,True,Sub,24,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,False,1.0,0.0,20.5,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,False,Newcastle United,-0.61
+Leandro Trossard,Arsenal,Newcastle United,2023-11-04,False,Sub,11,0.0,0.05,0.0,0.0,1,2.0,0.0,1.5,0,0,0,False,1.0,0.0,17.33,8.0,12.0,7.06,6.35,0.07,13.0,Arsenal,True,Burnley,0.55
+Leandro Trossard,Arsenal,Burnley,2023-11-11,True,FW,80,1.0,1.09,1.0,0.84,13,3.0,2.0,16.3,3,0,1,True,1.0,0.02,33.0,8.0,12.0,7.06,6.35,0.07,3.0,Arsenal,False,Brentford,-0.38
+Leandro Trossard,Arsenal,Brentford,2023-11-25,False,MC,90,0.0,0.42,0.0,0.02,3,2.0,1.0,2.6,0,1,0,True,4.0,0.54,44.4,8.0,12.0,7.06,6.35,0.07,2.0,Arsenal,True,Wolverhampton,-3.77
+Leandro Trossard,Arsenal,Wolverhampton,2023-12-02,True,MC,90,0.0,1.26,0.0,0.05,2,5.0,1.0,8.9,0,0,1,True,3.8,0.51,52.0,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,False,Luton,
+Leandro Trossard,Arsenal,Luton,2023-12-05,False,Sub,26,0.0,0.18,0.0,0.0,1,4.0,0.0,2.8,0,0,0,False,4.0,0.76,48.29,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,False,Aston Villa,-1.92
+Leandro Trossard,Arsenal,Aston Villa,2023-12-09,False,Sub,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,False,4.0,0.8,44.75,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,True,Brighton,2.17
+Leandro Trossard,Arsenal,Brighton,2023-12-17,True,Sub,8,0.0,0.0,0.0,0.11,1,0.0,1.0,1.5,0,0,0,False,4.0,0.79,40.67,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,False,Liverpool,1.55
+Leandro Trossard,Arsenal,Liverpool,2023-12-23,False,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,0,False,1.6,0.37,38.8,8.0,12.0,7.06,6.35,0.07,2.0,Arsenal,True,West Ham,-1.81
+Leandro Trossard,Arsenal,West Ham,2023-12-28,True,MC,78,0.0,0.64,0.0,0.02,2,5.0,1.0,5.8,0,0,2,True,1.2,0.29,42.36,8.0,12.0,7.06,6.35,0.07,0.0,Arsenal,False,Crystal Palace,0.57
+Leandro Trossard,Arsenal,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.17,38.83,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,False,Fulham,-4.27
+Leandro Trossard,Arsenal,Fulham,2023-12-31,False,Sub,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,1.0,0.13,37.62,8.0,12.0,7.06,6.35,0.07,8.0,Arsenal,True,Crystal Palace,-1.66
+Leandro Trossard,Arsenal,Crystal Palace,2024-01-20,True,FWL,68,1.0,1.1,0.0,0.0,8,5.0,0.0,7.4,0,1,0,True,1.0,0.13,39.79,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,False,Nottingham Forest,3.11
+Leandro Trossard,Arsenal,Nottingham Forest,2024-01-30,False,Sub,12,0.0,0.05,0.0,0.0,1,1.0,0.0,0.2,0,0,1,False,2.4,0.35,37.93,8.0,12.0,7.06,6.35,0.07,8.0,Arsenal,True,Liverpool,-0.82
+Leandro Trossard,Arsenal,Liverpool,2024-02-04,True,Sub,16,1.0,0.07,0.0,0.0,8,1.0,0.0,5.3,2,0,0,False,2.4,0.36,36.56,8.0,12.0,7.06,6.35,0.07,8.0,Arsenal,False,West Ham,-0.66
+Leandro Trossard,Arsenal,West Ham,2024-02-11,False,FW,66,1.0,0.62,0.0,0.0,8,5.0,0.0,10.4,0,1,0,True,3.6,0.24,38.29,8.0,12.0,7.06,6.35,0.07,11.0,Arsenal,False,Burnley,-1.51
+Leandro Trossard,Arsenal,Burnley,2024-02-17,False,FW,68,1.0,0.34,0.0,0.0,11,3.0,0.0,7.8,0,1,0,True,5.2,0.37,39.94,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,True,Newcastle United,-1.37
+Leandro Trossard,Arsenal,Newcastle United,2024-02-24,True,Sub,26,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,1,False,7.2,0.43,39.21,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,False,Sheffield,
+Leandro Trossard,Arsenal,Sheffield,2024-03-04,False,Sub,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,5.8,0.22,38.05,8.0,12.0,7.06,6.35,0.07,2.0,Arsenal,True,Brentford,-0.34
 Leandro Trossard,Arsenal,Brentford,2024-03-09,True,FWL,78,0.0,0.13,0.0,0.2,2,2.0,3.0,8.2,0,0,1,True,5.8,0.21,39.95,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,True,Fulham,0.88
-Leandro Trossard,Arsenal,Fulham,2023-08-26,True,FW,45,0.0,0.0,0.0,0.71,1,0.0,3.0,6.3,0,0,1,True,4.6,0.22,40.18,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,False,Manchester City,2.4
-Leandro Trossard,Arsenal,Manchester City,2024-03-31,False,Sub,18,0.0,0.11,0.0,0.0,1,1.0,0.0,2.4,0,0,0,False,3.2,0.09,39.22,8.0,12.0,7.06,6.35,0.07,3.0,Arsenal,True,Luton,-1.54
-Leandro Trossard,Arsenal,Luton,2024-04-03,True,FWL,90,0.0,0.11,0.0,0.03,3,2.0,1.0,4.7,0,1,0,True,1.2,0.05,41.33,8.0,12.0,7.06,6.35,0.07,6.0,Arsenal,False,Brighton,-4.25
-Leandro Trossard,Arsenal,Brighton,2024-04-06,False,Sub,26,1.0,0.36,0.0,0.12,6,2.0,1.0,7.4,0,0,0,False,1.6,0.07,40.72,8.0,12.0,7.06,6.35,0.07,3.0,Arsenal,True,Aston Villa,-0.49
-Leandro Trossard,Arsenal,Aston Villa,2024-04-14,True,FWL,66,0.0,0.65,0.0,0.16,3,2.0,2.0,8.2,0,1,0,True,2.6,0.14,41.69,8.0,12.0,7.06,6.35,0.07,7.0,Arsenal,False,Wolverhampton,-2.55
-Leandro Trossard,Arsenal,Wolverhampton,2024-04-20,False,FWL,71,1.0,0.07,0.0,0.05,7,1.0,1.0,8.3,0,1,0,True,2.8,0.25,42.78,8.0,12.0,7.06,6.35,0.07,7.0,Arsenal,True,Chelsea,-2.12
-Leandro Trossard,Arsenal,Chelsea,2024-04-23,True,FWL,71,1.0,0.43,0.0,0.09,7,5.0,1.0,9.4,0,1,0,True,4.0,0.26,43.79,8.0,12.0,7.06,6.35,0.07,3.0,Arsenal,False,Tottenham,0.46
-Leandro Trossard,Arsenal,Tottenham,2024-04-28,False,FWL,62,0.0,0.1,0.0,0.0,3,1.0,0.0,1.7,0,1,0,True,5.2,0.32,44.41,8.0,12.0,7.06,6.35,0.07,8.0,Arsenal,True,Bournemouth,-1.36
-Leandro Trossard,Arsenal,Bournemouth,2024-05-04,True,FWL,80,1.0,0.4,0.0,0.0,8,4.0,0.0,7.0,0,1,0,True,5.2,0.32,45.6,8.0,12.0,7.06,6.35,0.07,11.0,Arsenal,False,Manchester United,1.17
-Leandro Trossard,Arsenal,Manchester United,2024-05-12,False,FWL,65,1.0,0.94,0.0,0.16,11,1.0,1.0,9.2,3,1,0,True,5.6,0.33,46.23,8.0,12.0,7.06,6.35,0.07,2.0,Arsenal,True,Everton,-2.68
-Leandro Trossard,Arsenal,Everton,2024-05-19,True,FWL,77,0.0,0.02,0.0,0.43,2,1.0,1.0,3.3,0,0,1,True,7.2,0.39,47.19,8.0,12.0,7.06,6.35,0.07,0.0,Arsenal,True,Manchester United,-2.18
-Leandro Trossard,Arsenal,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,6.2,0.38,45.76,8.0,12.0,7.06,6.35,0.07,11.0,Arsenal,False,Everton,1.49
+Leandro Trossard,Arsenal,Fulham,2023-08-26,True,FW,45,0.0,0.0,0.0,0.71,1,0.0,3.0,6.3,0,0,1,True,4.6,0.22,40.18,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,False,Manchester City,4.53
+Leandro Trossard,Arsenal,Manchester City,2024-03-31,False,Sub,18,0.0,0.11,0.0,0.0,1,1.0,0.0,2.4,0,0,0,False,3.2,0.09,39.22,8.0,12.0,7.06,6.35,0.07,3.0,Arsenal,True,Luton,
+Leandro Trossard,Arsenal,Luton,2024-04-03,True,FWL,90,0.0,0.11,0.0,0.03,3,2.0,1.0,4.7,0,1,0,True,1.2,0.05,41.33,8.0,12.0,7.06,6.35,0.07,6.0,Arsenal,False,Brighton,-3.3
+Leandro Trossard,Arsenal,Brighton,2024-04-06,False,Sub,26,1.0,0.36,0.0,0.12,6,2.0,1.0,7.4,0,0,0,False,1.6,0.07,40.72,8.0,12.0,7.06,6.35,0.07,3.0,Arsenal,True,Aston Villa,-2.64
+Leandro Trossard,Arsenal,Aston Villa,2024-04-14,True,FWL,66,0.0,0.65,0.0,0.16,3,2.0,2.0,8.2,0,1,0,True,2.6,0.14,41.69,8.0,12.0,7.06,6.35,0.07,7.0,Arsenal,False,Wolverhampton,-4.1
+Leandro Trossard,Arsenal,Wolverhampton,2024-04-20,False,FWL,71,1.0,0.07,0.0,0.05,7,1.0,1.0,8.3,0,1,0,True,2.8,0.25,42.78,8.0,12.0,7.06,6.35,0.07,7.0,Arsenal,True,Chelsea,2.07
+Leandro Trossard,Arsenal,Chelsea,2024-04-23,True,FWL,71,1.0,0.43,0.0,0.09,7,5.0,1.0,9.4,0,1,0,True,4.0,0.26,43.79,8.0,12.0,7.06,6.35,0.07,3.0,Arsenal,False,Tottenham,-3.15
+Leandro Trossard,Arsenal,Tottenham,2024-04-28,False,FWL,62,0.0,0.1,0.0,0.0,3,1.0,0.0,1.7,0,1,0,True,5.2,0.32,44.41,8.0,12.0,7.06,6.35,0.07,8.0,Arsenal,True,Bournemouth,
+Leandro Trossard,Arsenal,Bournemouth,2024-05-04,True,FWL,80,1.0,0.4,0.0,0.0,8,4.0,0.0,7.0,0,1,0,True,5.2,0.32,45.6,8.0,12.0,7.06,6.35,0.07,11.0,Arsenal,False,Manchester United,2.33
+Leandro Trossard,Arsenal,Manchester United,2024-05-12,False,FWL,65,1.0,0.94,0.0,0.16,11,1.0,1.0,9.2,3,1,0,True,5.6,0.33,46.23,8.0,12.0,7.06,6.35,0.07,2.0,Arsenal,True,Everton,
+Leandro Trossard,Arsenal,Everton,2024-05-19,True,FWL,77,0.0,0.02,0.0,0.43,2,1.0,1.0,3.3,0,0,1,True,7.2,0.39,47.19,8.0,12.0,7.06,6.35,0.07,0.0,Arsenal,True,Manchester United,-2.27
+Leandro Trossard,Arsenal,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,6.2,0.38,45.76,8.0,12.0,7.06,6.35,0.07,11.0,Arsenal,False,Everton,0.57
 Leandro Trossard,Arsenal,Everton,2023-09-17,False,Sub,66,1.0,0.05,0.0,0.16,11,1.0,2.0,9.2,3,1,0,False,4.8,0.29,46.35,8.0,12.0,7.06,6.35,0.07,0.0,Arsenal,True,Tottenham,-1.3
 Leandro Trossard,Arsenal,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,6.4,0.28,45.03,8.0,12.0,7.06,6.35,0.07,0.0,Arsenal,False,Bournemouth,-5.08
-Leandro Trossard,Arsenal,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,4.8,0.2,43.78,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,True,Manchester City,0.69
-Leandro Trossard,Arsenal,Manchester City,2023-10-08,True,FWL,45,0.0,0.0,0.0,0.04,1,0.0,1.0,1.3,0,0,0,True,2.6,0.01,43.81,8.0,12.0,7.06,6.35,0.07,6.0,Arsenal,False,Chelsea,-1.61
+Leandro Trossard,Arsenal,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,4.8,0.2,43.78,8.0,12.0,7.06,6.35,0.07,1.0,Arsenal,True,Manchester City,-1.15
+Leandro Trossard,Arsenal,Manchester City,2023-10-08,True,FWL,45,0.0,0.0,0.0,0.04,1,0.0,1.0,1.3,0,0,0,True,2.6,0.01,43.81,8.0,12.0,7.06,6.35,0.07,6.0,Arsenal,False,Chelsea,-0.46
 Leandro Trossard,Arsenal,Chelsea,2023-10-21,False,Sub,12,1.0,0.39,0.0,0.0,6,1.0,0.0,6.6,0,0,0,False,2.4,0.01,42.97,8.0,12.0,7.06,6.35,0.07,,,,,

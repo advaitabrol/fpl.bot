@@ -1,4 +1,4 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
 Boubakary Soumaré,Leicester,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,1.0,0.32,0.29,0.03,1.0,Leicester,False,Bournemouth,
 Boubakary Soumaré,Leicester,Bournemouth,2022-10-08,False,DMC,78,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,2,False,0.0,0.0,39.0,0.0,1.0,0.32,0.29,0.03,3.0,Leicester,True,Crystal Palace,-0.43
 Boubakary Soumaré,Leicester,Crystal Palace,2022-10-15,True,DMC,64,0.0,0.02,0.0,0.04,3,1.0,1.0,2.9,0,1,0,False,0.5,0.0,47.33,0.0,1.0,0.32,0.29,0.03,2.0,Leicester,True,Leicester City,2.25
@@ -19,9 +19,9 @@ Boubakary Soumaré,Leicester,Manchester United,2023-02-19,False,Sub,31,0.0,0.0,0
 Boubakary Soumaré,Leicester,Arsenal,2023-02-25,True,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.2,0.0,34.17,0.0,1.0,0.32,0.29,0.03,0.0,Leicester,False,Southampton,-3.27
 Boubakary Soumaré,Leicester,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,32.37,0.0,1.0,0.32,0.29,0.03,1.0,Leicester,True,Chelsea,-2.98
 Boubakary Soumaré,Leicester,Chelsea,2023-03-11,True,Sub,24,0.0,0.0,0.0,0.04,1,0.0,2.0,2.9,0,0,1,False,0.4,0.0,31.95,0.0,1.0,0.32,0.29,0.03,0.0,Leicester,False,Brentford,-4.9
-Boubakary Soumaré,Leicester,Brentford,2023-03-18,False,Sub,15,0.0,0.0,0.0,0.02,0,0.0,1.0,1.6,0,0,0,False,0.6,0.0,31.14,0.0,1.0,0.32,0.29,0.03,0.0,Leicester,False,Crystal Palace,2.07
-Boubakary Soumaré,Leicester,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,29.73,0.0,1.0,0.32,0.29,0.03,0.0,Leicester,True,Aston Villa,-0.34
-Boubakary Soumaré,Leicester,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,28.43,0.0,1.0,0.32,0.29,0.03,0.0,Leicester,True,Southampton,1.76
+Boubakary Soumaré,Leicester,Brentford,2023-03-18,False,Sub,15,0.0,0.0,0.0,0.02,0,0.0,1.0,1.6,0,0,0,False,0.6,0.0,31.14,0.0,1.0,0.32,0.29,0.03,0.0,Leicester,False,Crystal Palace,
+Boubakary Soumaré,Leicester,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,29.73,0.0,1.0,0.32,0.29,0.03,0.0,Leicester,True,Aston Villa,
+Boubakary Soumaré,Leicester,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,28.43,0.0,1.0,0.32,0.29,0.03,0.0,Leicester,True,Southampton,
 Boubakary Soumaré,Leicester,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,27.25,0.0,1.0,0.32,0.29,0.03,2.0,Leicester,True,Bournemouth,
 Boubakary Soumaré,Leicester,Bournemouth,2023-04-08,True,DMC,90,0.0,0.0,0.0,0.03,2,0.0,1.0,2.8,0,0,1,True,0.2,0.0,29.76,0.0,1.0,0.32,0.29,0.03,0.0,Leicester,False,Manchester City,1.46
 Boubakary Soumaré,Leicester,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,28.62,0.0,1.0,0.32,0.29,0.03,1.0,Leicester,True,Wolverhampton,-1.75
@@ -32,8 +32,8 @@ Boubakary Soumaré,Leicester,Fulham,2023-05-08,False,DMC,75,0.0,0.0,0.0,0.02,1,0
 Boubakary Soumaré,Leicester,Liverpool,2023-05-15,True,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,0,3,True,0.8,0.0,38.03,0.0,1.0,0.32,0.29,0.03,3.0,Leicester,False,Newcastle United,1.84
 Boubakary Soumaré,Leicester,Newcastle United,2023-05-22,False,MC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.3,0,1,0,True,1.2,0.0,39.66,0.0,1.0,0.32,0.29,0.03,2.0,Leicester,True,West Ham,-0.48
 Boubakary Soumaré,Leicester,West Ham,2023-05-28,True,DMC,90,0.0,0.0,0.0,0.04,2,0.0,2.0,0.0,0,0,1,True,1.6,0.0,41.18,0.0,1.0,0.32,0.29,0.03,1.0,Leicester,False,Chelsea,-5.34
-Boubakary Soumaré,Leicester,Chelsea,2022-08-27,False,DMC,54,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,1,False,1.8,0.0,41.56,0.0,1.0,0.32,0.29,0.03,2.0,Leicester,True,Manchester United,-2.56
+Boubakary Soumaré,Leicester,Chelsea,2022-08-27,False,DMC,54,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,1,False,1.8,0.0,41.56,0.0,1.0,0.32,0.29,0.03,2.0,Leicester,True,Manchester United,
 Boubakary Soumaré,Leicester,Manchester United,2022-09-01,True,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.7,0,0,1,False,1.8,0.0,42.94,0.0,1.0,0.32,0.29,0.03,2.0,Leicester,False,Brighton,-2.14
 Boubakary Soumaré,Leicester,Brighton,2022-09-04,False,MC,71,0.0,0.0,0.0,0.0,2,0.0,0.0,1.2,0,0,4,False,2.0,0.0,43.72,0.0,1.0,0.32,0.29,0.03,1.0,Leicester,False,Tottenham,3.38
 Boubakary Soumaré,Leicester,Tottenham,2022-09-17,False,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,False,2.0,0.0,42.68,0.0,1.0,0.32,0.29,0.03,0.0,Leicester,True,Nottingham Forest,
-Boubakary Soumaré,Leicester,Nottingham Forest,2022-10-03,True,Sub,45,0.0,0.0,0.0,0.0,0,0.0,0.0,1.1,0,0,0,False,1.6,0.0,42.74,0.0,1.0,0.32,0.29,0.03,,Wolves,False,Manchester United,0.79
+Boubakary Soumaré,Leicester,Nottingham Forest,2022-10-03,True,Sub,45,0.0,0.0,0.0,0.0,0,0.0,0.0,1.1,0,0,0,False,1.6,0.0,42.74,0.0,1.0,0.32,0.29,0.03,,Wolves,False,Manchester United,-0.63

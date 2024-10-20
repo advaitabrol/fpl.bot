@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Nathan Collins,Brentford,Tottenham,2023-08-13,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.6,0,0,2,1.26,True,0.0,0.0,90.0,0.0,0.12,0.07,18.64,0.22,6.0,Brentford,False,Chelsea,-4.41
-Nathan Collins,Brentford,Chelsea,2023-10-28,False,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,3.0,0,1,0,2.03,True,1.0,0.0,90.0,0.5,0.12,0.07,18.64,0.22,10.0,Brentford,True,West Ham,-1.97
-Nathan Collins,Brentford,West Ham,2023-11-04,True,DC,90,1.0,0.41,0.0,0.0,10,1.0,0.0,11.0,3,0,2,2.09,True,3.5,0.0,90.0,0.33,0.12,0.07,18.64,0.22,1.0,Brentford,False,Liverpool,3.48
-Nathan Collins,Brentford,Liverpool,2023-11-12,False,DC,90,0.0,0.05,0.0,0.08,1,1.0,1.0,4.6,0,0,3,1.53,True,5.67,0.14,90.0,0.25,0.12,0.07,18.64,0.22,0.0,Brentford,True,Arsenal,0.17
-Nathan Collins,Brentford,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,4.5,0.12,72.0,0.25,0.12,0.07,18.64,0.22,0.0,Brentford,True,Luton,-2.71
-Nathan Collins,Brentford,Luton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.6,0.09,60.0,0.25,0.12,0.07,18.64,0.22,0.0,Brentford,False,Brighton,1.2
-Nathan Collins,Brentford,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.4,0.09,51.43,0.25,0.12,0.07,18.64,0.22,0.0,Brentford,False,Sheffield,1.89
-Nathan Collins,Brentford,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.09,45.0,0.25,0.12,0.07,18.64,0.22,0.0,Brentford,True,Aston Villa,0.51
-Nathan Collins,Brentford,Aston Villa,2023-12-17,True,Sub,14,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,0,2,0.55,False,0.2,0.01,41.56,0.25,0.12,0.07,18.64,0.22,0.0,Brentford,True,Wolverhampton,2.5
-Nathan Collins,Brentford,Wolverhampton,2023-12-27,True,DC,90,0.0,0.61,0.0,0.0,0,1.0,0.0,2.7,0,0,4,2.1,True,0.0,0.0,46.4,0.2,0.12,0.07,18.64,0.22,6.0,Brentford,False,Fulham,-1.2
-Nathan Collins,Brentford,Fulham,2023-08-19,False,DC,90,0.0,0.05,0.0,0.0,6,1.0,0.0,2.8,0,1,0,0.46,True,0.0,0.12,50.36,0.33,0.12,0.07,18.64,0.22,1.0,Brentford,False,Crystal Palace,1.07
-Nathan Collins,Brentford,Crystal Palace,2023-12-30,False,DC,90,0.0,0.02,0.0,0.0,1,1.0,0.0,2.9,0,0,3,1.08,True,1.2,0.13,53.67,0.29,0.12,0.07,18.64,0.22,1.0,Brentford,True,Nottingham Forest,-0.34
-Nathan Collins,Brentford,Nottingham Forest,2024-01-20,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,2,1.09,True,1.4,0.14,56.46,0.25,0.12,0.07,18.64,0.22,1.0,Brentford,False,Tottenham,2.11
-Nathan Collins,Brentford,Tottenham,2024-01-31,False,DC,77,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,3,2.83,True,1.6,0.14,57.93,0.22,0.12,0.07,18.64,0.22,1.0,Brentford,True,Manchester City,1.02
-Nathan Collins,Brentford,Manchester City,2024-02-05,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.2,0,0,3,2.15,True,1.8,0.14,60.07,0.2,0.12,0.07,18.64,0.22,8.0,Brentford,False,Wolverhampton,-1.6
-Nathan Collins,Brentford,Wolverhampton,2024-02-10,False,DC,90,0.0,0.0,0.0,0.47,8,0.0,3.0,6.2,2,1,0,1.13,True,2.0,0.01,61.94,0.27,0.12,0.07,18.64,0.22,0.0,Brentford,True,Liverpool,-0.79
-Nathan Collins,Brentford,Liverpool,2024-02-17,True,DC,90,0.0,0.03,0.0,0.0,0,1.0,0.0,1.5,0,0,4,2.82,True,2.4,0.0,63.59,0.25,0.12,0.07,18.64,0.22,0.0,Brentford,False,Manchester City,-0.6
-Nathan Collins,Brentford,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.01,60.06,0.25,0.12,0.07,18.64,0.22,0.0,Brentford,False,West Ham,-0.27
-Nathan Collins,Brentford,West Ham,2024-02-26,False,Sub,29,0.0,0.0,0.0,0.05,0,0.0,1.0,2.4,0,0,2,0.38,False,2.0,0.01,58.42,0.25,0.12,0.07,18.64,0.22,1.0,Brentford,True,Chelsea,-0.25
-Nathan Collins,Brentford,Chelsea,2024-03-02,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.5,0,0,2,1.81,True,1.8,0.01,60.0,0.23,0.12,0.07,18.64,0.22,0.0,Brentford,False,Arsenal,0.3
-Nathan Collins,Brentford,Arsenal,2024-03-09,False,DC,90,0.0,0.36,0.0,0.0,0,1.0,0.0,3.2,0,0,2,1.32,True,1.8,0.01,61.43,0.21,0.12,0.07,18.64,0.22,1.0,Brentford,False,Burnley,3.71
-Nathan Collins,Brentford,Burnley,2024-03-16,False,DC,90,0.0,0.02,0.0,0.0,1,1.0,0.0,3.9,0,0,2,2.66,True,0.2,0.08,62.73,0.2,0.12,0.07,18.64,0.22,2.0,Brentford,True,Crystal Palace,1.05
-Nathan Collins,Brentford,Crystal Palace,2023-08-26,True,DC,90,0.0,0.03,0.0,0.0,2,1.0,0.0,1.8,0,0,1,0.8,True,0.4,0.08,63.91,0.19,0.12,0.07,18.64,0.22,2.0,Brentford,True,Manchester United,-1.13
-Nathan Collins,Brentford,Manchester United,2024-03-30,True,DC,90,0.0,0.0,0.0,0.24,2,0.0,2.0,4.3,0,0,1,0.5,True,0.8,0.08,65.0,0.18,0.12,0.07,18.64,0.22,8.0,Brentford,True,Brighton,-0.72
-Nathan Collins,Brentford,Brighton,2024-04-03,True,DC,90,0.0,0.0,0.0,0.0,8,0.0,0.0,2.5,2,1,0,1.11,True,1.2,0.08,66.0,0.22,0.12,0.07,18.64,0.22,1.0,Brentford,False,Aston Villa,2.08
-Nathan Collins,Brentford,Aston Villa,2024-04-06,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,3,1.52,True,2.6,0.08,66.92,0.21,0.12,0.07,18.64,0.22,6.0,Brentford,True,Sheffield,-1.99
-Nathan Collins,Brentford,Sheffield,2024-04-13,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.0,0,1,0,0.84,True,2.8,0.01,67.78,0.25,0.12,0.07,18.64,0.22,2.0,Brentford,False,Luton,-5.68
-Nathan Collins,Brentford,Luton,2024-04-20,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,1,0.59,True,3.8,0.01,68.57,0.24,0.12,0.07,18.64,0.22,2.0,Brentford,False,Everton,2.1
-Nathan Collins,Brentford,Everton,2024-04-27,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,4.1,0,0,1,0.77,True,3.8,0.0,69.31,0.23,0.12,0.07,18.64,0.22,7.0,Brentford,True,Fulham,0.44
-Nathan Collins,Brentford,Fulham,2024-05-04,True,DC,90,0.0,0.0,0.0,0.2,7,0.0,1.0,4.4,1,1,0,1.19,True,3.8,0.0,70.0,0.26,0.12,0.07,18.64,0.22,2.0,Brentford,False,Bournemouth,0.55
-Nathan Collins,Brentford,Bournemouth,2024-05-11,False,DC,90,0.0,0.0,0.0,0.12,2,0.0,1.0,3.3,0,0,1,0.69,True,3.6,0.0,70.65,0.25,0.12,0.07,18.64,0.22,0.0,Brentford,True,Newcastle United,2.43
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Nathan Collins,Brentford,Tottenham,2023-08-13,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.6,0,0,2,1.26,True,0.0,0.0,90.0,0.0,0.12,0.07,18.64,0.22,6.0,Brentford,False,Chelsea,-4.09
+Nathan Collins,Brentford,Chelsea,2023-10-28,False,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,3.0,0,1,0,2.03,True,1.0,0.0,90.0,0.5,0.12,0.07,18.64,0.22,10.0,Brentford,True,West Ham,-2.81
+Nathan Collins,Brentford,West Ham,2023-11-04,True,DC,90,1.0,0.41,0.0,0.0,10,1.0,0.0,11.0,3,0,2,2.09,True,3.5,0.0,90.0,0.33,0.12,0.07,18.64,0.22,1.0,Brentford,False,Liverpool,3.61
+Nathan Collins,Brentford,Liverpool,2023-11-12,False,DC,90,0.0,0.05,0.0,0.08,1,1.0,1.0,4.6,0,0,3,1.53,True,5.67,0.14,90.0,0.25,0.12,0.07,18.64,0.22,0.0,Brentford,True,Arsenal,-0.45
+Nathan Collins,Brentford,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,4.5,0.12,72.0,0.25,0.12,0.07,18.64,0.22,0.0,Brentford,True,Luton,
+Nathan Collins,Brentford,Luton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.6,0.09,60.0,0.25,0.12,0.07,18.64,0.22,0.0,Brentford,False,Brighton,1.94
+Nathan Collins,Brentford,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.4,0.09,51.43,0.25,0.12,0.07,18.64,0.22,0.0,Brentford,False,Sheffield,
+Nathan Collins,Brentford,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.09,45.0,0.25,0.12,0.07,18.64,0.22,0.0,Brentford,True,Aston Villa,0.1
+Nathan Collins,Brentford,Aston Villa,2023-12-17,True,Sub,14,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,0,2,0.55,False,0.2,0.01,41.56,0.25,0.12,0.07,18.64,0.22,0.0,Brentford,True,Wolverhampton,1.61
+Nathan Collins,Brentford,Wolverhampton,2023-12-27,True,DC,90,0.0,0.61,0.0,0.0,0,1.0,0.0,2.7,0,0,4,2.1,True,0.0,0.0,46.4,0.2,0.12,0.07,18.64,0.22,6.0,Brentford,False,Fulham,3.1
+Nathan Collins,Brentford,Fulham,2023-08-19,False,DC,90,0.0,0.05,0.0,0.0,6,1.0,0.0,2.8,0,1,0,0.46,True,0.0,0.12,50.36,0.33,0.12,0.07,18.64,0.22,1.0,Brentford,False,Crystal Palace,0.48
+Nathan Collins,Brentford,Crystal Palace,2023-12-30,False,DC,90,0.0,0.02,0.0,0.0,1,1.0,0.0,2.9,0,0,3,1.08,True,1.2,0.13,53.67,0.29,0.12,0.07,18.64,0.22,1.0,Brentford,True,Nottingham Forest,0.65
+Nathan Collins,Brentford,Nottingham Forest,2024-01-20,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,2,1.09,True,1.4,0.14,56.46,0.25,0.12,0.07,18.64,0.22,1.0,Brentford,False,Tottenham,1.78
+Nathan Collins,Brentford,Tottenham,2024-01-31,False,DC,77,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,3,2.83,True,1.6,0.14,57.93,0.22,0.12,0.07,18.64,0.22,1.0,Brentford,True,Manchester City,0.86
+Nathan Collins,Brentford,Manchester City,2024-02-05,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.2,0,0,3,2.15,True,1.8,0.14,60.07,0.2,0.12,0.07,18.64,0.22,8.0,Brentford,False,Wolverhampton,-0.44
+Nathan Collins,Brentford,Wolverhampton,2024-02-10,False,DC,90,0.0,0.0,0.0,0.47,8,0.0,3.0,6.2,2,1,0,1.13,True,2.0,0.01,61.94,0.27,0.12,0.07,18.64,0.22,0.0,Brentford,True,Liverpool,-3.47
+Nathan Collins,Brentford,Liverpool,2024-02-17,True,DC,90,0.0,0.03,0.0,0.0,0,1.0,0.0,1.5,0,0,4,2.82,True,2.4,0.0,63.59,0.25,0.12,0.07,18.64,0.22,0.0,Brentford,False,Manchester City,-1.15
+Nathan Collins,Brentford,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.01,60.06,0.25,0.12,0.07,18.64,0.22,0.0,Brentford,False,West Ham,-2.81
+Nathan Collins,Brentford,West Ham,2024-02-26,False,Sub,29,0.0,0.0,0.0,0.05,0,0.0,1.0,2.4,0,0,2,0.38,False,2.0,0.01,58.42,0.25,0.12,0.07,18.64,0.22,1.0,Brentford,True,Chelsea,0.13
+Nathan Collins,Brentford,Chelsea,2024-03-02,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.5,0,0,2,1.81,True,1.8,0.01,60.0,0.23,0.12,0.07,18.64,0.22,0.0,Brentford,False,Arsenal,0.51
+Nathan Collins,Brentford,Arsenal,2024-03-09,False,DC,90,0.0,0.36,0.0,0.0,0,1.0,0.0,3.2,0,0,2,1.32,True,1.8,0.01,61.43,0.21,0.12,0.07,18.64,0.22,1.0,Brentford,False,Burnley,4.94
+Nathan Collins,Brentford,Burnley,2024-03-16,False,DC,90,0.0,0.02,0.0,0.0,1,1.0,0.0,3.9,0,0,2,2.66,True,0.2,0.08,62.73,0.2,0.12,0.07,18.64,0.22,2.0,Brentford,True,Crystal Palace,0.84
+Nathan Collins,Brentford,Crystal Palace,2023-08-26,True,DC,90,0.0,0.03,0.0,0.0,2,1.0,0.0,1.8,0,0,1,0.8,True,0.4,0.08,63.91,0.19,0.12,0.07,18.64,0.22,2.0,Brentford,True,Manchester United,-5.51
+Nathan Collins,Brentford,Manchester United,2024-03-30,True,DC,90,0.0,0.0,0.0,0.24,2,0.0,2.0,4.3,0,0,1,0.5,True,0.8,0.08,65.0,0.18,0.12,0.07,18.64,0.22,8.0,Brentford,True,Brighton,-1.03
+Nathan Collins,Brentford,Brighton,2024-04-03,True,DC,90,0.0,0.0,0.0,0.0,8,0.0,0.0,2.5,2,1,0,1.11,True,1.2,0.08,66.0,0.22,0.12,0.07,18.64,0.22,1.0,Brentford,False,Aston Villa,3.41
+Nathan Collins,Brentford,Aston Villa,2024-04-06,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,3,1.52,True,2.6,0.08,66.92,0.21,0.12,0.07,18.64,0.22,6.0,Brentford,True,Sheffield,
+Nathan Collins,Brentford,Sheffield,2024-04-13,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.0,0,1,0,0.84,True,2.8,0.01,67.78,0.25,0.12,0.07,18.64,0.22,2.0,Brentford,False,Luton,
+Nathan Collins,Brentford,Luton,2024-04-20,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,1,0.59,True,3.8,0.01,68.57,0.24,0.12,0.07,18.64,0.22,2.0,Brentford,False,Everton,
+Nathan Collins,Brentford,Everton,2024-04-27,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,4.1,0,0,1,0.77,True,3.8,0.0,69.31,0.23,0.12,0.07,18.64,0.22,7.0,Brentford,True,Fulham,
+Nathan Collins,Brentford,Fulham,2024-05-04,True,DC,90,0.0,0.0,0.0,0.2,7,0.0,1.0,4.4,1,1,0,1.19,True,3.8,0.0,70.0,0.26,0.12,0.07,18.64,0.22,2.0,Brentford,False,Bournemouth,2.35
+Nathan Collins,Brentford,Bournemouth,2024-05-11,False,DC,90,0.0,0.0,0.0,0.12,2,0.0,1.0,3.3,0,0,1,0.69,True,3.6,0.0,70.65,0.25,0.12,0.07,18.64,0.22,0.0,Brentford,True,Newcastle United,
 Nathan Collins,Brentford,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.8,0.0,68.44,0.25,0.12,0.07,18.64,0.22,4.0,Brentford,True,Bournemouth,-0.5
 Nathan Collins,Brentford,Bournemouth,2023-09-02,True,Sub,9,0.0,0.0,1.0,0.3,4,0.0,1.0,3.6,0,0,0,0.0,False,2.6,0.0,66.64,0.25,0.12,0.07,18.64,0.22,1.0,Brentford,False,Newcastle United,2.44
 Nathan Collins,Brentford,Newcastle United,2023-09-16,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.1,0,0,1,1.43,True,3.0,0.2,67.32,0.24,0.12,0.07,18.64,0.22,1.0,Brentford,True,Everton,0.56
 Nathan Collins,Brentford,Everton,2023-09-23,True,DC,90,0.0,0.0,0.0,0.61,1,0.0,1.0,3.7,0,0,3,1.84,True,2.8,0.2,67.97,0.23,0.12,0.07,18.64,0.22,2.0,Brentford,False,Nottingham Forest,1.35
-Nathan Collins,Brentford,Nottingham Forest,2023-10-01,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,0.47,True,1.6,0.2,68.58,0.22,0.12,0.07,18.64,0.22,0.0,Brentford,False,Manchester United,1.62
-Nathan Collins,Brentford,Manchester United,2023-10-07,False,DC,90,0.0,0.38,0.0,0.0,0,1.0,0.0,2.6,0,0,2,1.43,True,1.6,0.2,69.16,0.21,0.12,0.07,18.64,0.22,6.0,Brentford,True,Burnley,-3.55
+Nathan Collins,Brentford,Nottingham Forest,2023-10-01,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,0.47,True,1.6,0.2,68.58,0.22,0.12,0.07,18.64,0.22,0.0,Brentford,False,Manchester United,0.17
+Nathan Collins,Brentford,Manchester United,2023-10-07,False,DC,90,0.0,0.38,0.0,0.0,0,1.0,0.0,2.6,0,0,2,1.43,True,1.6,0.2,69.16,0.21,0.12,0.07,18.64,0.22,6.0,Brentford,True,Burnley,-3.68
 Nathan Collins,Brentford,Burnley,2023-10-21,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.4,0,1,0,1.14,True,1.6,0.28,69.71,0.24,0.12,0.07,18.64,0.22,,,,,

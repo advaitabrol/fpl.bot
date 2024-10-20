@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Mathias Jensen,Brentford,Leeds United,2022-08-07,False,MC,58,0.0,0.0,0.0,0.05,1,0.0,1.0,1.8,0,0,2,False,0.0,0.0,58.0,0.0,1.0,2.71,3.16,0.03,2,Brentford,False,Newcastle United,2.44
-Mathias Jensen,Brentford,Newcastle United,2022-10-08,False,MC,90,0.0,0.0,0.0,0.16,2,0.0,2.0,4.5,0,0,5,False,1.0,0.0,74.0,0.0,1.0,2.71,3.16,0.03,2,Brentford,True,Brighton,-0.72
-Mathias Jensen,Brentford,Brighton,2022-10-14,True,MC,79,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,1,0,False,1.5,0.0,75.67,0.0,1.0,2.71,3.16,0.03,3,Brentford,True,Chelsea,-0.25
-Mathias Jensen,Brentford,Chelsea,2022-10-19,True,MC,72,0.0,0.0,0.0,0.01,3,0.0,1.0,3.4,0,1,0,False,1.67,0.0,74.75,0.0,1.0,2.71,3.16,0.03,2,Brentford,False,Aston Villa,2.08
-Mathias Jensen,Brentford,Aston Villa,2022-10-23,False,MC,77,0.0,0.02,0.0,0.21,2,1.0,4.0,8.0,0,0,4,False,2.0,0.0,75.2,0.0,1.0,2.71,3.16,0.03,1,Brentford,True,Wolverhampton,2.5
-Mathias Jensen,Brentford,Wolverhampton,2022-10-29,True,MC,36,0.0,0.0,0.0,0.02,1,0.0,1.0,1.6,0,0,0,False,2.0,0.0,68.67,0.0,1.0,2.71,3.16,0.03,5,Brentford,False,Nottingham Forest,1.35
-Mathias Jensen,Brentford,Nottingham Forest,2022-11-05,False,MC,85,0.0,0.0,1.0,0.29,5,0.0,1.0,4.7,0,0,1,False,2.0,0.0,71.0,0.0,1.0,2.71,3.16,0.03,1,Brentford,False,Manchester City,-0.6
-Mathias Jensen,Brentford,Manchester City,2022-11-12,False,MC,90,0.0,0.01,0.0,0.0,1,1.0,0.0,1.6,0,0,1,True,2.6,0.2,73.38,0.0,1.0,2.71,3.16,0.03,4,Brentford,True,Tottenham,-0.38
-Mathias Jensen,Brentford,Tottenham,2022-12-26,True,MC,66,0.0,0.12,0.0,0.0,4,1.0,0.0,1.0,0,0,1,True,2.4,0.21,72.56,0.0,1.0,2.71,3.16,0.03,1,Brentford,False,West Ham,-0.27
-Mathias Jensen,Brentford,West Ham,2022-12-30,False,MC,58,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,0,True,2.6,0.23,71.1,0.0,1.0,2.71,3.16,0.03,5,Brentford,True,Liverpool,-0.79
-Mathias Jensen,Brentford,Liverpool,2023-01-02,True,MC,73,0.0,0.07,1.0,0.06,5,1.0,1.0,5.9,0,0,1,True,2.4,0.23,71.27,0.0,1.0,2.71,3.16,0.03,14,Brentford,True,Manchester United,-1.13
-Mathias Jensen,Brentford,Manchester United,2022-08-13,True,MC,73,1.0,0.25,1.0,0.02,14,2.0,1.0,9.7,3,1,0,False,3.2,0.44,71.42,0.0,1.0,2.71,3.16,0.03,10,Brentford,True,Bournemouth,-0.5
-Mathias Jensen,Brentford,Bournemouth,2023-01-14,True,MC,90,1.0,0.06,0.0,0.0,10,1.0,0.0,6.6,2,1,0,True,5.0,0.49,72.85,0.0,1.0,2.71,3.16,0.03,3,Brentford,False,Leicester City,-0.02
-Mathias Jensen,Brentford,Leicester City,2023-01-22,False,MC,90,0.0,0.04,0.0,0.0,3,2.0,0.0,2.0,0,1,0,True,6.8,0.5,74.07,0.0,1.0,2.71,3.16,0.03,8,Brentford,True,Southampton,-4.06
-Mathias Jensen,Brentford,Southampton,2023-02-04,True,MC,81,1.0,0.52,0.0,0.0,8,1.0,0.0,6.3,0,1,0,True,6.6,0.48,74.53,0.0,1.0,2.71,3.16,0.03,2,Brentford,False,Arsenal,0.3
-Mathias Jensen,Brentford,Arsenal,2023-02-11,False,MC,90,0.0,0.03,0.0,0.16,2,1.0,2.0,4.6,0,0,1,True,8.0,0.59,75.5,0.0,1.0,2.71,3.16,0.03,2,Brentford,True,Crystal Palace,1.05
-Mathias Jensen,Brentford,Crystal Palace,2023-02-18,True,MC,90,0.0,0.0,0.0,0.24,2,0.0,4.0,9.1,0,0,1,True,7.4,0.38,76.35,0.0,1.0,2.71,3.16,0.03,10,Brentford,True,Fulham,0.44
-Mathias Jensen,Brentford,Fulham,2023-03-06,True,MC,90,1.0,0.45,0.0,0.0,10,2.0,0.0,8.1,3,0,2,True,5.0,0.13,77.11,0.0,1.0,2.71,3.16,0.03,2,Brentford,False,Everton,2.1
-Mathias Jensen,Brentford,Everton,2023-03-11,False,MC,61,0.0,0.0,0.0,0.0,2,0.0,0.0,1.2,0,0,1,True,5.0,0.21,76.26,0.0,1.0,2.71,3.16,0.03,3,Brentford,False,Southampton,0.93
-Mathias Jensen,Brentford,Southampton,2023-03-15,False,MC,78,0.0,0.0,0.0,0.02,3,0.0,1.0,1.8,0,1,0,True,4.8,0.2,76.35,0.0,1.0,2.71,3.16,0.03,10,Brentford,True,Leeds United,2.23
-Mathias Jensen,Brentford,Leeds United,2023-03-18,True,MC,74,1.0,0.04,0.0,0.09,10,1.0,2.0,10.5,3,0,1,True,3.8,0.1,76.24,0.0,1.0,2.71,3.16,0.03,5,Brentford,False,Brighton,1.2
-Mathias Jensen,Brentford,Brighton,2023-04-01,False,MC,84,0.0,0.13,1.0,0.05,5,1.0,1.0,6.7,0,0,2,True,5.4,0.1,76.59,0.0,1.0,2.71,3.16,0.03,2,Brentford,False,Manchester United,1.62
-Mathias Jensen,Brentford,Manchester United,2023-04-05,False,MC,61,0.0,0.0,0.0,0.07,2,0.0,1.0,2.9,0,0,1,True,6.0,0.32,75.91,0.0,1.0,2.71,3.16,0.03,4,Brentford,False,Fulham,-1.2
-Mathias Jensen,Brentford,Fulham,2022-08-20,False,MC,59,0.0,0.0,1.0,0.31,4,0.0,2.0,5.0,0,0,2,False,4.4,0.23,75.21,0.0,1.0,2.71,3.16,0.03,2,Brentford,True,Newcastle United,2.43
-Mathias Jensen,Brentford,Newcastle United,2023-04-08,True,MC,90,0.0,0.02,0.0,0.32,2,1.0,5.0,10.8,0,0,2,True,4.8,0.43,75.8,0.0,1.0,2.71,3.16,0.03,1,Brentford,False,Wolverhampton,-1.6
-Mathias Jensen,Brentford,Wolverhampton,2023-04-15,False,MC,60,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,1,True,4.6,0.44,75.19,0.0,1.0,2.71,3.16,0.03,2,Brentford,True,Aston Villa,0.51
-Mathias Jensen,Brentford,Aston Villa,2023-04-22,True,MC,90,0.0,0.09,0.0,0.04,2,2.0,1.0,3.8,0,0,1,True,2.8,0.43,75.74,0.0,1.0,2.71,3.16,0.03,2,Brentford,False,Chelsea,-4.41
-Mathias Jensen,Brentford,Chelsea,2023-04-26,False,MC,61,0.0,0.0,0.0,0.25,2,0.0,2.0,3.2,0,1,0,True,2.2,0.22,75.21,0.0,1.0,2.71,3.16,0.03,2,Brentford,True,Nottingham Forest,-0.34
-Mathias Jensen,Brentford,Nottingham Forest,2023-04-29,True,MC,70,0.0,0.0,0.0,0.13,2,0.0,1.0,3.5,0,0,1,True,2.2,0.22,75.03,0.0,1.0,2.71,3.16,0.03,2,Brentford,False,Liverpool,3.48
-Mathias Jensen,Brentford,Liverpool,2023-05-06,False,MC,81,0.0,0.0,0.0,0.05,2,0.0,2.0,3.9,0,0,1,True,1.8,0.02,75.23,0.0,1.0,2.71,3.16,0.03,6,Brentford,True,West Ham,-1.97
-Mathias Jensen,Brentford,West Ham,2023-05-14,True,MC,69,0.0,0.0,1.0,0.46,6,0.0,3.0,6.0,0,1,0,True,1.8,0.02,75.03,0.0,1.0,2.71,3.16,0.03,2,Brentford,False,Tottenham,2.11
-Mathias Jensen,Brentford,Tottenham,2023-05-20,False,MC,71,0.0,0.04,0.0,0.0,2,2.0,0.0,0.5,0,0,1,True,2.8,0.22,74.91,0.0,1.0,2.71,3.16,0.03,0,Brentford,True,Manchester City,1.02
-Mathias Jensen,Brentford,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,2.8,0.21,72.64,0.0,1.0,2.71,3.16,0.03,2,Brentford,True,Everton,0.56
-Mathias Jensen,Brentford,Everton,2022-08-27,True,MC,90,0.0,0.03,0.0,0.13,2,2.0,3.0,7.0,0,0,1,False,2.4,0.21,73.15,0.0,1.0,2.71,3.16,0.03,2,Brentford,False,Crystal Palace,1.07
-Mathias Jensen,Brentford,Crystal Palace,2022-08-30,False,MC,78,0.0,0.0,0.0,0.35,2,0.0,2.0,4.1,0,0,1,False,2.4,0.21,73.29,0.0,1.0,2.71,3.16,0.03,2,Brentford,True,Leicester City,-0.73
-Mathias Jensen,Brentford,Leicester City,2022-09-03,True,MC,82,0.0,0.02,0.0,0.04,2,1.0,1.0,2.6,0,0,2,False,2.4,0.21,73.53,0.0,1.0,2.71,3.16,0.03,2,Brentford,True,Arsenal,0.17
-Mathias Jensen,Brentford,Arsenal,2022-09-18,True,MC,68,0.0,0.0,0.0,0.0,2,0.0,1.0,3.2,0,0,3,False,1.6,0.02,73.38,0.0,1.0,2.71,3.16,0.03,3,Brentford,False,Bournemouth,0.55
-Mathias Jensen,Brentford,Bournemouth,2022-10-01,False,MC,90,0.0,0.0,0.0,0.03,3,0.0,2.0,5.5,0,1,0,False,1.6,0.01,73.82,0.0,1.0,2.71,3.16,0.03,4,Brentford,True,Tottenham,-0.38
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Mathias Jensen,Brentford,Leeds United,2022-08-07,False,MC,58,0.0,0.0,0.0,0.05,1,0.0,1.0,1.8,0,0,2,False,0.0,0.0,58.0,0.0,1.0,2.71,3.16,0.03,2,Brentford,False,Newcastle United,0.38
+Mathias Jensen,Brentford,Newcastle United,2022-10-08,False,MC,90,0.0,0.0,0.0,0.16,2,0.0,2.0,4.5,0,0,5,False,1.0,0.0,74.0,0.0,1.0,2.71,3.16,0.03,2,Brentford,True,Brighton,0.05
+Mathias Jensen,Brentford,Brighton,2022-10-14,True,MC,79,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,1,0,False,1.5,0.0,75.67,0.0,1.0,2.71,3.16,0.03,3,Brentford,True,Chelsea,1.02
+Mathias Jensen,Brentford,Chelsea,2022-10-19,True,MC,72,0.0,0.0,0.0,0.01,3,0.0,1.0,3.4,0,1,0,False,1.67,0.0,74.75,0.0,1.0,2.71,3.16,0.03,2,Brentford,False,Aston Villa,0.66
+Mathias Jensen,Brentford,Aston Villa,2022-10-23,False,MC,77,0.0,0.02,0.0,0.21,2,1.0,4.0,8.0,0,0,4,False,2.0,0.0,75.2,0.0,1.0,2.71,3.16,0.03,1,Brentford,True,Wolverhampton,1.93
+Mathias Jensen,Brentford,Wolverhampton,2022-10-29,True,MC,36,0.0,0.0,0.0,0.02,1,0.0,1.0,1.6,0,0,0,False,2.0,0.0,68.67,0.0,1.0,2.71,3.16,0.03,5,Brentford,False,Nottingham Forest,
+Mathias Jensen,Brentford,Nottingham Forest,2022-11-05,False,MC,85,0.0,0.0,1.0,0.29,5,0.0,1.0,4.7,0,0,1,False,2.0,0.0,71.0,0.0,1.0,2.71,3.16,0.03,1,Brentford,False,Manchester City,1.7
+Mathias Jensen,Brentford,Manchester City,2022-11-12,False,MC,90,0.0,0.01,0.0,0.0,1,1.0,0.0,1.6,0,0,1,True,2.6,0.2,73.38,0.0,1.0,2.71,3.16,0.03,4,Brentford,True,Tottenham,-0.82
+Mathias Jensen,Brentford,Tottenham,2022-12-26,True,MC,66,0.0,0.12,0.0,0.0,4,1.0,0.0,1.0,0,0,1,True,2.4,0.21,72.56,0.0,1.0,2.71,3.16,0.03,1,Brentford,False,West Ham,-2.82
+Mathias Jensen,Brentford,West Ham,2022-12-30,False,MC,58,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,0,True,2.6,0.23,71.1,0.0,1.0,2.71,3.16,0.03,5,Brentford,True,Liverpool,-3.03
+Mathias Jensen,Brentford,Liverpool,2023-01-02,True,MC,73,0.0,0.07,1.0,0.06,5,1.0,1.0,5.9,0,0,1,True,2.4,0.23,71.27,0.0,1.0,2.71,3.16,0.03,14,Brentford,True,Manchester United,2.88
+Mathias Jensen,Brentford,Manchester United,2022-08-13,True,MC,73,1.0,0.25,1.0,0.02,14,2.0,1.0,9.7,3,1,0,False,3.2,0.44,71.42,0.0,1.0,2.71,3.16,0.03,10,Brentford,True,Bournemouth,
+Mathias Jensen,Brentford,Bournemouth,2023-01-14,True,MC,90,1.0,0.06,0.0,0.0,10,1.0,0.0,6.6,2,1,0,True,5.0,0.49,72.85,0.0,1.0,2.71,3.16,0.03,3,Brentford,False,Leicester City,-0.7
+Mathias Jensen,Brentford,Leicester City,2023-01-22,False,MC,90,0.0,0.04,0.0,0.0,3,2.0,0.0,2.0,0,1,0,True,6.8,0.5,74.07,0.0,1.0,2.71,3.16,0.03,8,Brentford,True,Southampton,-5.29
+Mathias Jensen,Brentford,Southampton,2023-02-04,True,MC,81,1.0,0.52,0.0,0.0,8,1.0,0.0,6.3,0,1,0,True,6.6,0.48,74.53,0.0,1.0,2.71,3.16,0.03,2,Brentford,False,Arsenal,1.21
+Mathias Jensen,Brentford,Arsenal,2023-02-11,False,MC,90,0.0,0.03,0.0,0.16,2,1.0,2.0,4.6,0,0,1,True,8.0,0.59,75.5,0.0,1.0,2.71,3.16,0.03,2,Brentford,True,Crystal Palace,-1.39
+Mathias Jensen,Brentford,Crystal Palace,2023-02-18,True,MC,90,0.0,0.0,0.0,0.24,2,0.0,4.0,9.1,0,0,1,True,7.4,0.38,76.35,0.0,1.0,2.71,3.16,0.03,10,Brentford,True,Fulham,
+Mathias Jensen,Brentford,Fulham,2023-03-06,True,MC,90,1.0,0.45,0.0,0.0,10,2.0,0.0,8.1,3,0,2,True,5.0,0.13,77.11,0.0,1.0,2.71,3.16,0.03,2,Brentford,False,Everton,1.61
+Mathias Jensen,Brentford,Everton,2023-03-11,False,MC,61,0.0,0.0,0.0,0.0,2,0.0,0.0,1.2,0,0,1,True,5.0,0.21,76.26,0.0,1.0,2.71,3.16,0.03,3,Brentford,False,Southampton,4.95
+Mathias Jensen,Brentford,Southampton,2023-03-15,False,MC,78,0.0,0.0,0.0,0.02,3,0.0,1.0,1.8,0,1,0,True,4.8,0.2,76.35,0.0,1.0,2.71,3.16,0.03,10,Brentford,True,Leeds United,2.58
+Mathias Jensen,Brentford,Leeds United,2023-03-18,True,MC,74,1.0,0.04,0.0,0.09,10,1.0,2.0,10.5,3,0,1,True,3.8,0.1,76.24,0.0,1.0,2.71,3.16,0.03,5,Brentford,False,Brighton,2.12
+Mathias Jensen,Brentford,Brighton,2023-04-01,False,MC,84,0.0,0.13,1.0,0.05,5,1.0,1.0,6.7,0,0,2,True,5.4,0.1,76.59,0.0,1.0,2.71,3.16,0.03,2,Brentford,False,Manchester United,
+Mathias Jensen,Brentford,Manchester United,2023-04-05,False,MC,61,0.0,0.0,0.0,0.07,2,0.0,1.0,2.9,0,0,1,True,6.0,0.32,75.91,0.0,1.0,2.71,3.16,0.03,4,Brentford,False,Fulham,3.1
+Mathias Jensen,Brentford,Fulham,2022-08-20,False,MC,59,0.0,0.0,1.0,0.31,4,0.0,2.0,5.0,0,0,2,False,4.4,0.23,75.21,0.0,1.0,2.71,3.16,0.03,2,Brentford,True,Newcastle United,
+Mathias Jensen,Brentford,Newcastle United,2023-04-08,True,MC,90,0.0,0.02,0.0,0.32,2,1.0,5.0,10.8,0,0,2,True,4.8,0.43,75.8,0.0,1.0,2.71,3.16,0.03,1,Brentford,False,Wolverhampton,-3.56
+Mathias Jensen,Brentford,Wolverhampton,2023-04-15,False,MC,60,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,1,True,4.6,0.44,75.19,0.0,1.0,2.71,3.16,0.03,2,Brentford,True,Aston Villa,-0.66
+Mathias Jensen,Brentford,Aston Villa,2023-04-22,True,MC,90,0.0,0.09,0.0,0.04,2,2.0,1.0,3.8,0,0,1,True,2.8,0.43,75.74,0.0,1.0,2.71,3.16,0.03,2,Brentford,False,Chelsea,
+Mathias Jensen,Brentford,Chelsea,2023-04-26,False,MC,61,0.0,0.0,0.0,0.25,2,0.0,2.0,3.2,0,1,0,True,2.2,0.22,75.21,0.0,1.0,2.71,3.16,0.03,2,Brentford,True,Nottingham Forest,
+Mathias Jensen,Brentford,Nottingham Forest,2023-04-29,True,MC,70,0.0,0.0,0.0,0.13,2,0.0,1.0,3.5,0,0,1,True,2.2,0.22,75.03,0.0,1.0,2.71,3.16,0.03,2,Brentford,False,Liverpool,
+Mathias Jensen,Brentford,Liverpool,2023-05-06,False,MC,81,0.0,0.0,0.0,0.05,2,0.0,2.0,3.9,0,0,1,True,1.8,0.02,75.23,0.0,1.0,2.71,3.16,0.03,6,Brentford,True,West Ham,
+Mathias Jensen,Brentford,West Ham,2023-05-14,True,MC,69,0.0,0.0,1.0,0.46,6,0.0,3.0,6.0,0,1,0,True,1.8,0.02,75.03,0.0,1.0,2.71,3.16,0.03,2,Brentford,False,Tottenham,4.55
+Mathias Jensen,Brentford,Tottenham,2023-05-20,False,MC,71,0.0,0.04,0.0,0.0,2,2.0,0.0,0.5,0,0,1,True,2.8,0.22,74.91,0.0,1.0,2.71,3.16,0.03,0,Brentford,True,Manchester City,0.85
+Mathias Jensen,Brentford,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,2.8,0.21,72.64,0.0,1.0,2.71,3.16,0.03,2,Brentford,True,Everton,-0.64
+Mathias Jensen,Brentford,Everton,2022-08-27,True,MC,90,0.0,0.03,0.0,0.13,2,2.0,3.0,7.0,0,0,1,False,2.4,0.21,73.15,0.0,1.0,2.71,3.16,0.03,2,Brentford,False,Crystal Palace,0.48
+Mathias Jensen,Brentford,Crystal Palace,2022-08-30,False,MC,78,0.0,0.0,0.0,0.35,2,0.0,2.0,4.1,0,0,1,False,2.4,0.21,73.29,0.0,1.0,2.71,3.16,0.03,2,Brentford,True,Leicester City,-3.59
+Mathias Jensen,Brentford,Leicester City,2022-09-03,True,MC,82,0.0,0.02,0.0,0.04,2,1.0,1.0,2.6,0,0,2,False,2.4,0.21,73.53,0.0,1.0,2.71,3.16,0.03,2,Brentford,True,Arsenal,-0.45
+Mathias Jensen,Brentford,Arsenal,2022-09-18,True,MC,68,0.0,0.0,0.0,0.0,2,0.0,1.0,3.2,0,0,3,False,1.6,0.02,73.38,0.0,1.0,2.71,3.16,0.03,3,Brentford,False,Bournemouth,2.35
+Mathias Jensen,Brentford,Bournemouth,2022-10-01,False,MC,90,0.0,0.0,0.0,0.03,3,0.0,2.0,5.5,0,1,0,False,1.6,0.01,73.82,0.0,1.0,2.71,3.16,0.03,4,Brentford,True,Tottenham,-0.15

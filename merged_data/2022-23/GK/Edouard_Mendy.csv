@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty,saves_per_game,last_season_total_saves
-Edouard Mendy,Chelsea,Everton,2022-08-06,False,90,0,0.0,3,0,7,0,True,0.0,False,0.0,1.0,0,0,0,0.0,Chelsea,True,Wolverhampton,0.07,3.0,0
-Edouard Mendy,Chelsea,Wolverhampton,,True,0,0,0.0,0,0,0,0,False,,False,7.0,1.0,0,0,0,0.0,Chelsea,False,Aston Villa,-1.37,1.5,0
-Edouard Mendy,Chelsea,Aston Villa,,False,0,0,0.0,0,0,0,0,False,,False,3.5,1.0,0,0,0,0.0,Chelsea,False,Brentford,0.61,1.0,0
-Edouard Mendy,Chelsea,Brentford,,False,0,0,0.0,0,0,0,0,False,,False,2.33,1.0,0,0,0,0.0,Chelsea,True,Manchester United,-1.31,0.75,0
-Edouard Mendy,Chelsea,Manchester United,,True,0,0,0.0,0,0,0,0,False,,False,1.75,1.0,0,0,0,2.0,Chelsea,False,Brighton,1.01,0.6,0
-Edouard Mendy,Chelsea,Brighton,2022-10-29,False,45,1,0.0,4,0,2,0,False,0.0,False,1.4,1.0,0,0,0,2.0,Chelsea,True,Arsenal,2.1,1.17,0
-Edouard Mendy,Chelsea,Arsenal,2022-11-06,True,90,1,0.0,1,0,2,0,False,0.0,False,0.4,0.5,0,0,0,2.0,Chelsea,False,Newcastle United,0.94,1.14,0
-Edouard Mendy,Chelsea,Newcastle United,2022-11-12,False,90,1,1.03,2,0,2,0,False,0.0,True,0.8,0.33,0,0,0,0.0,Chelsea,True,Bournemouth,-3.02,1.25,0
-Edouard Mendy,Chelsea,Bournemouth,,True,0,0,0.0,0,0,0,0,False,,False,1.2,0.33,0,0,0,0.0,Chelsea,False,Nottingham Forest,-0.41,1.11,0
-Edouard Mendy,Chelsea,Nottingham Forest,,False,0,0,0.0,0,0,0,0,False,,False,1.2,0.33,0,0,0,0.0,Chelsea,True,Manchester City,0.19,1.0,0
-Edouard Mendy,Chelsea,Manchester City,,True,0,0,0.0,0,0,0,0,False,,False,1.2,0.33,0,0,0,0.0,Chelsea,False,Fulham,-2.13,0.91,0
-Edouard Mendy,Chelsea,Fulham,,False,0,0,0.0,0,0,0,0,False,,False,0.8,0.33,0,0,0,1.0,Chelsea,True,Tottenham,-2.11,0.83,0
-Edouard Mendy,Chelsea,Tottenham,2022-08-14,True,90,2,0.0,3,0,1,0,False,0.0,False,0.4,0.25,0,0,0,0.0,Chelsea,True,Crystal Palace,-1.51,1.0,0
-Edouard Mendy,Chelsea,Crystal Palace,,True,0,0,0.0,0,0,0,0,False,,False,0.2,0.25,0,0,0,0.0,Chelsea,False,Liverpool,0.96,0.93,0
-Edouard Mendy,Chelsea,Liverpool,,False,0,0,0.0,0,0,0,0,False,,False,0.2,0.25,0,0,0,0.0,Chelsea,True,Fulham,-1.08,0.87,0
-Edouard Mendy,Chelsea,Fulham,,True,0,0,0.0,0,0,0,0,False,,False,0.2,0.25,0,0,0,0.0,Chelsea,False,West Ham,2.89,0.81,0
-Edouard Mendy,Chelsea,West Ham,,False,0,0,0.0,0,0,0,0,False,,False,0.2,0.25,0,0,0,0.0,Chelsea,True,Southampton,-0.42,0.76,0
-Edouard Mendy,Chelsea,Southampton,,True,0,0,0.0,0,0,0,0,False,,False,0.2,0.25,0,0,0,0.0,Chelsea,False,Tottenham,-1.07,0.72,0
-Edouard Mendy,Chelsea,Tottenham,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,0,0,0,0.0,Chelsea,True,Leicester City,-0.96,0.68,0
-Edouard Mendy,Chelsea,Leicester City,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,0,0,0,0.0,Chelsea,False,Leeds United,-3.94,0.65,0
-Edouard Mendy,Chelsea,Leeds United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,0,0,0,0.0,Chelsea,True,Everton,-2.38,0.62,0
-Edouard Mendy,Chelsea,Everton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,0,0,0,0.0,Chelsea,True,Aston Villa,0.42,0.59,0
-Edouard Mendy,Chelsea,Aston Villa,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,0,0,0,0.0,Chelsea,True,Liverpool,-0.16,0.57,0
-Edouard Mendy,Chelsea,Liverpool,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,0,0,0,2.0,Chelsea,False,Leicester City,1.68,0.54,0
-Edouard Mendy,Chelsea,Leicester City,2022-08-21,False,90,3,0.0,3,0,2,0,False,0.0,False,0.0,0.2,0,0,0,0.0,Chelsea,False,Wolverhampton,1.62,0.64,0
-Edouard Mendy,Chelsea,Wolverhampton,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.2,0,0,0,0.0,Chelsea,True,Brighton,-0.67,0.62,0
-Edouard Mendy,Chelsea,Brighton,,True,0,0,0.0,0,0,0,0,False,,False,0.4,0.2,0,0,0,0.0,Chelsea,True,Brentford,4.42,0.59,0
-Edouard Mendy,Chelsea,Brentford,,True,0,0,0.0,0,0,0,0,False,,False,0.4,0.2,0,0,0,0.0,Chelsea,False,Arsenal,1.29,0.57,0
-Edouard Mendy,Chelsea,Arsenal,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.2,0,0,0,0.0,Chelsea,False,Bournemouth,-1.53,0.55,0
-Edouard Mendy,Chelsea,Bournemouth,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.2,0,0,0,1.0,Chelsea,True,Nottingham Forest,1.3,0.53,0
-Edouard Mendy,Chelsea,Nottingham Forest,2023-05-13,True,90,2,1.63,0,0,1,0,False,0.0,True,0.0,0.17,0,0,0,0.0,Chelsea,False,Manchester City,-0.89,0.52,0
-Edouard Mendy,Chelsea,Manchester City,,False,0,0,0.0,0,0,0,0,False,,False,0.2,0.17,0,0,0,0.0,Chelsea,False,Manchester United,1.87,0.5,0
-Edouard Mendy,Chelsea,Manchester United,,False,0,0,0.0,0,0,0,0,False,,False,0.2,0.17,0,0,0,0.0,Chelsea,True,Newcastle United,-0.99,0.48,0
-Edouard Mendy,Chelsea,Newcastle United,,True,0,0,0.0,0,0,0,0,False,,False,0.2,0.17,0,0,0,3.0,Chelsea,True,Leeds United,-1.36,0.47,0
-Edouard Mendy,Chelsea,Leeds United,2022-08-27,True,90,1,0.0,4,0,3,0,False,0.0,False,0.2,0.14,0,0,0,2.0,Chelsea,False,Southampton,-2.24,0.57,0
-Edouard Mendy,Chelsea,Southampton,2022-08-30,False,90,2,0.0,3,0,2,0,False,0.0,False,0.8,0.12,0,0,0,2.0,Chelsea,True,West Ham,-2.56,0.64,0
-Edouard Mendy,Chelsea,West Ham,2022-09-03,True,90,1,0.0,2,0,2,0,False,0.0,False,1.0,0.11,0,0,0,0.0,Chelsea,False,Crystal Palace,-1.06,0.68,0
-Edouard Mendy,Chelsea,Crystal Palace,,False,0,0,0.0,0,0,0,0,False,,False,1.4,0.11,0,0,0,,Aston Villa,False,Newcastle United,4.98,0.66,0
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,saves_per_game,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,last_season_total_saves,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Edouard Mendy,Chelsea,Everton,2022-08-06,False,90,0,0.0,3,0,7,0,True,0.0,False,0.0,1.0,3.0,0,0,0,0,0.0,Chelsea,True,Wolverhampton,2.42
+Edouard Mendy,Chelsea,Wolverhampton,,True,0,0,0.0,0,0,0,0,False,,False,7.0,1.0,1.5,0,0,0,0,0.0,Chelsea,False,Aston Villa,-1.51
+Edouard Mendy,Chelsea,Aston Villa,,False,0,0,0.0,0,0,0,0,False,,False,3.5,1.0,1.0,0,0,0,0,0.0,Chelsea,False,Brentford,-0.66
+Edouard Mendy,Chelsea,Brentford,,False,0,0,0.0,0,0,0,0,False,,False,2.33,1.0,0.75,0,0,0,0,0.0,Chelsea,True,Manchester United,-0.06
+Edouard Mendy,Chelsea,Manchester United,,True,0,0,0.0,0,0,0,0,False,,False,1.75,1.0,0.6,0,0,0,0,2.0,Chelsea,False,Brighton,0.05
+Edouard Mendy,Chelsea,Brighton,2022-10-29,False,45,1,0.0,4,0,2,0,False,0.0,False,1.4,1.0,1.17,0,0,0,0,2.0,Chelsea,True,Arsenal,5.81
+Edouard Mendy,Chelsea,Arsenal,2022-11-06,True,90,1,0.0,1,0,2,0,False,0.0,False,0.4,0.5,1.14,0,0,0,0,2.0,Chelsea,False,Newcastle United,-1.55
+Edouard Mendy,Chelsea,Newcastle United,2022-11-12,False,90,1,1.03,2,0,2,0,False,0.0,True,0.8,0.33,1.25,0,0,0,0,0.0,Chelsea,True,Bournemouth,
+Edouard Mendy,Chelsea,Bournemouth,,True,0,0,0.0,0,0,0,0,False,,False,1.2,0.33,1.11,0,0,0,0,0.0,Chelsea,False,Nottingham Forest,
+Edouard Mendy,Chelsea,Nottingham Forest,,False,0,0,0.0,0,0,0,0,False,,False,1.2,0.33,1.0,0,0,0,0,0.0,Chelsea,True,Manchester City,1.05
+Edouard Mendy,Chelsea,Manchester City,,True,0,0,0.0,0,0,0,0,False,,False,1.2,0.33,0.91,0,0,0,0,0.0,Chelsea,False,Fulham,
+Edouard Mendy,Chelsea,Fulham,,False,0,0,0.0,0,0,0,0,False,,False,0.8,0.33,0.83,0,0,0,0,1.0,Chelsea,True,Tottenham,-1.77
+Edouard Mendy,Chelsea,Tottenham,2022-08-14,True,90,2,0.0,3,0,1,0,False,0.0,False,0.4,0.25,1.0,0,0,0,0,0.0,Chelsea,True,Crystal Palace,0.31
+Edouard Mendy,Chelsea,Crystal Palace,,True,0,0,0.0,0,0,0,0,False,,False,0.2,0.25,0.93,0,0,0,0,0.0,Chelsea,False,Liverpool,0.32
+Edouard Mendy,Chelsea,Liverpool,,False,0,0,0.0,0,0,0,0,False,,False,0.2,0.25,0.87,0,0,0,0,0.0,Chelsea,True,Fulham,
+Edouard Mendy,Chelsea,Fulham,,True,0,0,0.0,0,0,0,0,False,,False,0.2,0.25,0.81,0,0,0,0,0.0,Chelsea,False,West Ham,4.47
+Edouard Mendy,Chelsea,West Ham,,False,0,0,0.0,0,0,0,0,False,,False,0.2,0.25,0.76,0,0,0,0,0.0,Chelsea,True,Southampton,-1.13
+Edouard Mendy,Chelsea,Southampton,,True,0,0,0.0,0,0,0,0,False,,False,0.2,0.25,0.72,0,0,0,0,0.0,Chelsea,False,Tottenham,-1.69
+Edouard Mendy,Chelsea,Tottenham,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,0.68,0,0,0,0,0.0,Chelsea,True,Leicester City,1.12
+Edouard Mendy,Chelsea,Leicester City,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,0.65,0,0,0,0,0.0,Chelsea,False,Leeds United,-3.0
+Edouard Mendy,Chelsea,Leeds United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,0.62,0,0,0,0,0.0,Chelsea,True,Everton,1.01
+Edouard Mendy,Chelsea,Everton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,0.59,0,0,0,0,0.0,Chelsea,True,Aston Villa,-2.49
+Edouard Mendy,Chelsea,Aston Villa,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,0.57,0,0,0,0,0.0,Chelsea,True,Liverpool,
+Edouard Mendy,Chelsea,Liverpool,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,0.54,0,0,0,0,2.0,Chelsea,False,Leicester City,5.06
+Edouard Mendy,Chelsea,Leicester City,2022-08-21,False,90,3,0.0,3,0,2,0,False,0.0,False,0.0,0.2,0.64,0,0,0,0,0.0,Chelsea,False,Wolverhampton,0.77
+Edouard Mendy,Chelsea,Wolverhampton,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.2,0.62,0,0,0,0,0.0,Chelsea,True,Brighton,
+Edouard Mendy,Chelsea,Brighton,,True,0,0,0.0,0,0,0,0,False,,False,0.4,0.2,0.59,0,0,0,0,0.0,Chelsea,True,Brentford,
+Edouard Mendy,Chelsea,Brentford,,True,0,0,0.0,0,0,0,0,False,,False,0.4,0.2,0.57,0,0,0,0,0.0,Chelsea,False,Arsenal,-1.77
+Edouard Mendy,Chelsea,Arsenal,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.2,0.55,0,0,0,0,0.0,Chelsea,False,Bournemouth,
+Edouard Mendy,Chelsea,Bournemouth,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.2,0.53,0,0,0,0,1.0,Chelsea,True,Nottingham Forest,
+Edouard Mendy,Chelsea,Nottingham Forest,2023-05-13,True,90,2,1.63,0,0,1,0,False,0.0,True,0.0,0.17,0.52,0,0,0,0,0.0,Chelsea,False,Manchester City,
+Edouard Mendy,Chelsea,Manchester City,,False,0,0,0.0,0,0,0,0,False,,False,0.2,0.17,0.5,0,0,0,0,0.0,Chelsea,False,Manchester United,
+Edouard Mendy,Chelsea,Manchester United,,False,0,0,0.0,0,0,0,0,False,,False,0.2,0.17,0.48,0,0,0,0,0.0,Chelsea,True,Newcastle United,
+Edouard Mendy,Chelsea,Newcastle United,,True,0,0,0.0,0,0,0,0,False,,False,0.2,0.17,0.47,0,0,0,0,3.0,Chelsea,True,Leeds United,-3.8
+Edouard Mendy,Chelsea,Leeds United,2022-08-27,True,90,1,0.0,4,0,3,0,False,0.0,False,0.2,0.14,0.57,0,0,0,0,2.0,Chelsea,False,Southampton,0.63
+Edouard Mendy,Chelsea,Southampton,2022-08-30,False,90,2,0.0,3,0,2,0,False,0.0,False,0.8,0.12,0.64,0,0,0,0,2.0,Chelsea,True,West Ham,-1.25
+Edouard Mendy,Chelsea,West Ham,2022-09-03,True,90,1,0.0,2,0,2,0,False,0.0,False,1.0,0.11,0.68,0,0,0,0,0.0,Chelsea,False,Crystal Palace,-1.84
+Edouard Mendy,Chelsea,Crystal Palace,,False,0,0,0.0,0,0,0,0,False,,False,1.4,0.11,0.66,0,0,0,0,,Aston Villa,False,Newcastle United,6.5

@@ -1,19 +1,19 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Matías Viña,Bournemouth,Brighton,2023-02-04,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,0.36,False,0.0,0.0,9.0,0.0,0,0,0,0,0.0,Bournemouth,True,Newcastle United,-1.78
-Matías Viña,Bournemouth,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,4.5,0.0,0,0,0,0,1.0,Bournemouth,False,Wolverhampton,-2.03
-Matías Viña,Bournemouth,Wolverhampton,2023-02-18,False,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.02,False,0.5,0.0,4.67,0.0,0,0,0,0,0.0,Bournemouth,True,Manchester City,1.44
-Matías Viña,Bournemouth,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.67,0.0,3.5,0.0,0,0,0,0,0.0,Bournemouth,False,Arsenal,0.25
-Matías Viña,Bournemouth,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.5,0.0,2.8,0.0,0,0,0,0,1.0,Bournemouth,True,Liverpool,0.55
-Matías Viña,Bournemouth,Liverpool,2023-03-11,True,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.08,False,0.4,0.0,2.67,0.0,0,0,0,0,1.0,Bournemouth,False,Aston Villa,2.29
-Matías Viña,Bournemouth,Aston Villa,2023-03-18,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.02,False,0.4,0.0,2.43,0.0,0,0,0,0,0.0,Bournemouth,True,Fulham,-3.96
-Matías Viña,Bournemouth,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,2.12,0.0,0,0,0,0,0.0,Bournemouth,True,Brighton,-1.19
-Matías Viña,Bournemouth,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,1.89,0.0,0,0,0,0,0.0,Bournemouth,False,Leeds United,-0.64
-Matías Viña,Bournemouth,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,1.7,0.0,0,0,0,0,7.0,Bournemouth,False,Tottenham,0.69
-Matías Viña,Bournemouth,Tottenham,2023-04-15,False,DML,48,1.0,0.35,0.0,0.07,7,1.0,1.0,7.7,0,0,1,0.95,True,0.4,0.0,5.91,0.0,0,0,0,0,1.0,Bournemouth,True,West Ham,2.84
-Matías Viña,Bournemouth,West Ham,2023-04-23,True,Sub,29,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,1,1.1,False,1.6,0.07,7.83,0.0,0,0,0,0,5.0,Bournemouth,False,Southampton,-0.86
-Matías Viña,Bournemouth,Southampton,2023-04-27,False,DML,90,0.0,0.05,0.0,0.09,5,2.0,1.0,0.0,0,1,0,0.51,True,1.6,0.07,14.15,1.0,0,0,0,0,2.0,Bournemouth,True,Leicester City,-4.92
-Matías Viña,Bournemouth,Leicester City,2023-04-30,True,DL,61,0.0,0.09,0.0,0.0,2,2.0,0.0,1.6,0,0,1,1.23,True,2.6,0.08,17.5,0.5,0,0,0,0,7.0,Bournemouth,True,Chelsea,-0.01
-Matías Viña,Bournemouth,Chelsea,2023-05-06,True,DL,90,1.0,0.22,0.0,0.0,7,3.0,0.0,10.3,0,0,3,1.39,True,3.0,0.1,22.33,0.33,0,0,0,0,0.0,Bournemouth,False,Crystal Palace,0.17
-Matías Viña,Bournemouth,Crystal Palace,2023-05-13,False,DL,59,0.0,0.0,0.0,0.0,0,0.0,0.0,1.3,0,0,2,1.43,True,4.4,0.14,24.62,0.33,0,0,0,0,1.0,Bournemouth,True,Manchester United,0.69
-Matías Viña,Bournemouth,Manchester United,2023-05-20,True,Sub,24,0.0,0.0,0.0,0.0,1,0.0,0.0,2.1,0,0,0,0.24,False,3.0,0.07,24.59,0.33,0,0,0,0,1.0,Bournemouth,False,Everton,3.85
-Matías Viña,Bournemouth,Everton,2023-05-28,False,Sub,34,0.0,0.04,0.0,0.0,1,1.0,0.0,0.0,0,0,1,0.28,False,3.0,0.07,25.11,0.33,0,0,0,0,,Liverpool,False,Chelsea,0.3
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Matías Viña,Bournemouth,Brighton,2023-02-04,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,0.36,False,0.0,0.0,9.0,0.0,0,0,0,0,0.0,Bournemouth,True,Newcastle United,
+Matías Viña,Bournemouth,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,4.5,0.0,0,0,0,0,1.0,Bournemouth,False,Wolverhampton,
+Matías Viña,Bournemouth,Wolverhampton,2023-02-18,False,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.02,False,0.5,0.0,4.67,0.0,0,0,0,0,0.0,Bournemouth,True,Manchester City,
+Matías Viña,Bournemouth,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.67,0.0,3.5,0.0,0,0,0,0,0.0,Bournemouth,False,Arsenal,
+Matías Viña,Bournemouth,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.5,0.0,2.8,0.0,0,0,0,0,1.0,Bournemouth,True,Liverpool,
+Matías Viña,Bournemouth,Liverpool,2023-03-11,True,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.08,False,0.4,0.0,2.67,0.0,0,0,0,0,1.0,Bournemouth,False,Aston Villa,
+Matías Viña,Bournemouth,Aston Villa,2023-03-18,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.02,False,0.4,0.0,2.43,0.0,0,0,0,0,0.0,Bournemouth,True,Fulham,
+Matías Viña,Bournemouth,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,2.12,0.0,0,0,0,0,0.0,Bournemouth,True,Brighton,
+Matías Viña,Bournemouth,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,1.89,0.0,0,0,0,0,0.0,Bournemouth,False,Leeds United,
+Matías Viña,Bournemouth,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,1.7,0.0,0,0,0,0,7.0,Bournemouth,False,Tottenham,
+Matías Viña,Bournemouth,Tottenham,2023-04-15,False,DML,48,1.0,0.35,0.0,0.07,7,1.0,1.0,7.7,0,0,1,0.95,True,0.4,0.0,5.91,0.0,0,0,0,0,1.0,Bournemouth,True,West Ham,
+Matías Viña,Bournemouth,West Ham,2023-04-23,True,Sub,29,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,1,1.1,False,1.6,0.07,7.83,0.0,0,0,0,0,5.0,Bournemouth,False,Southampton,
+Matías Viña,Bournemouth,Southampton,2023-04-27,False,DML,90,0.0,0.05,0.0,0.09,5,2.0,1.0,0.0,0,1,0,0.51,True,1.6,0.07,14.15,1.0,0,0,0,0,2.0,Bournemouth,True,Leicester City,
+Matías Viña,Bournemouth,Leicester City,2023-04-30,True,DL,61,0.0,0.09,0.0,0.0,2,2.0,0.0,1.6,0,0,1,1.23,True,2.6,0.08,17.5,0.5,0,0,0,0,7.0,Bournemouth,True,Chelsea,
+Matías Viña,Bournemouth,Chelsea,2023-05-06,True,DL,90,1.0,0.22,0.0,0.0,7,3.0,0.0,10.3,0,0,3,1.39,True,3.0,0.1,22.33,0.33,0,0,0,0,0.0,Bournemouth,False,Crystal Palace,
+Matías Viña,Bournemouth,Crystal Palace,2023-05-13,False,DL,59,0.0,0.0,0.0,0.0,0,0.0,0.0,1.3,0,0,2,1.43,True,4.4,0.14,24.62,0.33,0,0,0,0,1.0,Bournemouth,True,Manchester United,
+Matías Viña,Bournemouth,Manchester United,2023-05-20,True,Sub,24,0.0,0.0,0.0,0.0,1,0.0,0.0,2.1,0,0,0,0.24,False,3.0,0.07,24.59,0.33,0,0,0,0,1.0,Bournemouth,False,Everton,
+Matías Viña,Bournemouth,Everton,2023-05-28,False,Sub,34,0.0,0.04,0.0,0.0,1,1.0,0.0,0.0,0,0,1,0.28,False,3.0,0.07,25.11,0.33,0,0,0,0,,Liverpool,False,Chelsea,-0.15

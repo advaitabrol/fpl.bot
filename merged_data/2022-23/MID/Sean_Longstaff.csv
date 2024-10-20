@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Sean Longstaff,Newcastle,Nottingham Forest,2022-08-06,True,Sub,10,0.0,0.0,0.0,0.4,1,0.0,1.0,1.7,0,0,0,False,0.0,0.0,10.0,1.0,1.0,0.77,0.46,0.03,2,Newcastle,True,Brentford,-2.07
-Sean Longstaff,Newcastle,Brentford,2022-10-08,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,False,1.0,0.0,50.0,1.0,1.0,0.77,0.46,0.03,3,Newcastle,False,Manchester United,0.69
-Sean Longstaff,Newcastle,Manchester United,2022-10-16,False,MC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.7,0,1,0,False,1.5,0.0,63.33,1.0,1.0,0.77,0.46,0.03,3,Newcastle,True,Everton,-2.28
-Sean Longstaff,Newcastle,Everton,2022-10-19,True,MC,90,0.0,0.0,0.0,0.13,3,0.0,2.0,3.6,0,1,0,False,2.0,0.0,70.0,1.0,1.0,0.77,0.46,0.03,5,Newcastle,False,Tottenham,3.36
-Sean Longstaff,Newcastle,Tottenham,2022-10-23,False,MC,90,0.0,0.0,1.0,0.27,5,0.0,2.0,5.8,0,0,1,False,2.25,0.0,74.0,1.0,1.0,0.77,0.46,0.03,3,Newcastle,True,Aston Villa,-3.48
-Sean Longstaff,Newcastle,Aston Villa,2022-10-29,True,MC,90,0.0,0.09,0.0,0.49,3,3.0,1.0,4.9,0,1,0,False,2.8,0.2,76.67,1.0,1.0,0.77,0.46,0.03,2,Newcastle,False,Southampton,-1.99
-Sean Longstaff,Newcastle,Southampton,2022-11-06,False,MC,90,0.0,0.44,0.0,0.0,2,1.0,0.0,1.6,0,0,1,False,3.2,0.22,78.57,1.0,1.0,0.77,0.46,0.03,2,Newcastle,True,Chelsea,-0.41
-Sean Longstaff,Newcastle,Chelsea,2022-11-12,True,MC,90,0.0,0.96,0.0,0.03,2,2.0,1.0,6.4,0,1,0,True,3.2,0.31,80.0,1.0,1.0,0.77,0.46,0.03,3,Newcastle,False,Leeds United,0.85
-Sean Longstaff,Newcastle,Leeds United,2022-12-26,False,MC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.1,0,1,0,True,3.0,0.5,81.11,1.0,1.0,0.77,0.46,0.03,3,Newcastle,True,Leicester City,-1.07
-Sean Longstaff,Newcastle,Leicester City,2022-12-31,True,MC,90,0.0,0.36,0.0,0.0,3,2.0,0.0,2.6,0,1,0,True,3.0,0.5,82.0,1.0,1.0,0.77,0.46,0.03,3,Newcastle,False,Arsenal,1.52
-Sean Longstaff,Newcastle,Arsenal,2023-01-03,False,MC,90,0.0,0.04,0.0,0.0,3,1.0,0.0,2.0,0,1,0,True,2.6,0.37,82.73,1.0,1.0,0.77,0.46,0.03,1,Newcastle,False,Brighton,0.38
-Sean Longstaff,Newcastle,Brighton,2022-08-13,False,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,2.6,0.36,77.0,1.0,1.0,0.77,0.46,0.03,3,Newcastle,True,Fulham,-0.43
-Sean Longstaff,Newcastle,Fulham,2023-01-15,True,MC,90,0.0,0.15,0.0,0.31,3,2.0,4.0,8.0,0,1,0,True,2.4,0.27,78.0,1.0,1.0,0.77,0.46,0.03,3,Newcastle,False,Crystal Palace,0.54
-Sean Longstaff,Newcastle,Crystal Palace,2023-01-21,False,MC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,3.5,0,1,0,True,2.6,0.11,78.86,1.0,1.0,0.77,0.46,0.03,6,Newcastle,True,West Ham,0.92
-Sean Longstaff,Newcastle,West Ham,2023-02-04,True,MC,90,0.0,0.0,1.0,0.31,6,0.0,1.0,5.0,1,0,1,True,2.6,0.11,79.6,1.0,1.0,0.77,0.46,0.03,5,Newcastle,False,Bournemouth,1.83
-Sean Longstaff,Newcastle,Bournemouth,2023-02-11,False,MC,90,0.0,0.81,0.0,0.0,5,3.0,0.0,8.0,0,0,1,True,3.2,0.24,80.25,1.0,1.0,0.77,0.46,0.03,2,Newcastle,True,Liverpool,1.54
-Sean Longstaff,Newcastle,Liverpool,2023-02-18,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,2,True,3.6,0.39,80.82,1.0,1.0,0.77,0.46,0.03,2,Newcastle,False,Manchester City,2.91
-Sean Longstaff,Newcastle,Manchester City,2023-03-04,False,MC,62,0.0,0.1,0.0,0.0,2,1.0,0.0,1.6,0,0,1,True,3.8,0.39,79.78,1.0,1.0,0.77,0.46,0.03,2,Newcastle,True,Wolverhampton,-2.13
-Sean Longstaff,Newcastle,Wolverhampton,2023-03-12,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,0,1,True,3.6,0.38,80.32,1.0,1.0,0.77,0.46,0.03,2,Newcastle,False,Nottingham Forest,0.98
-Sean Longstaff,Newcastle,Nottingham Forest,2023-03-17,False,MC,90,0.0,0.08,0.0,0.08,2,2.0,1.0,3.3,0,0,1,True,3.4,0.38,80.8,1.0,1.0,0.77,0.46,0.03,3,Newcastle,True,Manchester United,-1.44
-Sean Longstaff,Newcastle,Manchester United,2023-04-02,True,MC,90,0.0,0.14,0.0,0.0,3,2.0,0.0,2.1,0,1,0,True,2.6,0.2,81.24,1.0,1.0,0.77,0.46,0.03,2,Newcastle,False,West Ham,0.28
-Sean Longstaff,Newcastle,West Ham,2023-04-05,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,True,2.2,0.07,81.64,1.0,1.0,0.77,0.46,0.03,1,Newcastle,True,Manchester City,3.23
-Sean Longstaff,Newcastle,Manchester City,2022-08-21,True,Sub,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,2.2,0.07,78.96,1.0,1.0,0.77,0.46,0.03,1,Newcastle,False,Brentford,-1.1
-Sean Longstaff,Newcastle,Brentford,2023-04-08,False,MC,45,0.0,0.13,0.0,0.0,1,2.0,0.0,1.5,0,0,1,True,2.0,0.05,77.54,1.0,1.0,0.77,0.46,0.03,1,Newcastle,False,Aston Villa,2.1
-Sean Longstaff,Newcastle,Aston Villa,2023-04-15,False,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1,False,1.8,0.07,75.32,1.0,1.0,0.77,0.46,0.03,5,Newcastle,True,Tottenham,-3.04
-Sean Longstaff,Newcastle,Tottenham,2023-04-23,True,MC,90,0.0,0.26,1.0,0.49,5,3.0,2.0,6.6,0,0,1,True,1.6,0.05,75.88,1.0,1.0,0.77,0.46,0.03,3,Newcastle,False,Everton,1.08
-Sean Longstaff,Newcastle,Everton,2023-04-27,False,MC,73,0.0,0.0,0.0,0.12,3,0.0,1.0,0.0,0,1,0,True,2.0,0.28,75.78,1.0,1.0,0.77,0.46,0.03,0,Newcastle,True,Southampton,-0.72
-Sean Longstaff,Newcastle,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,2.2,0.28,73.07,1.0,1.0,0.77,0.46,0.03,0,Newcastle,True,Arsenal,-0.34
-Sean Longstaff,Newcastle,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.28,70.55,1.0,1.0,0.77,0.46,0.03,0,Newcastle,False,Leicester City,0.06
-Sean Longstaff,Newcastle,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.25,68.2,1.0,1.0,0.77,0.46,0.03,0,Newcastle,True,Brighton,-2.35
-Sean Longstaff,Newcastle,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.25,66.0,1.0,1.0,0.77,0.46,0.03,3,Newcastle,True,Leeds United,-1.95
-Sean Longstaff,Newcastle,Leeds United,2023-05-22,True,MC,90,0.0,0.2,0.0,0.02,3,3.0,1.0,5.1,0,1,0,True,0.6,0.0,66.75,1.0,1.0,0.77,0.46,0.03,0,Newcastle,False,Chelsea,0.97
-Sean Longstaff,Newcastle,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.04,64.73,1.0,1.0,0.77,0.46,0.03,2,Newcastle,False,Wolverhampton,0.77
-Sean Longstaff,Newcastle,Wolverhampton,2022-08-28,False,MC,90,0.0,0.11,0.0,0.0,2,2.0,0.0,3.9,0,0,1,False,0.6,0.04,65.47,1.0,1.0,0.77,0.46,0.03,6,Newcastle,False,Liverpool,2.07
-Sean Longstaff,Newcastle,Liverpool,2022-08-31,False,MC,90,0.0,0.0,1.0,0.37,6,0.0,1.0,4.7,1,0,2,False,1.0,0.06,66.17,1.0,1.0,0.77,0.46,0.03,2,Newcastle,True,Crystal Palace,-2.12
-Sean Longstaff,Newcastle,Crystal Palace,2022-09-03,True,MC,90,0.0,0.1,0.0,0.31,2,2.0,2.0,8.1,0,1,0,False,2.2,0.26,66.83,1.0,1.0,0.77,0.46,0.03,1,Newcastle,True,Bournemouth,2.0
-Sean Longstaff,Newcastle,Bournemouth,2022-09-17,True,Sub,18,0.0,0.0,0.0,0.01,1,0.0,1.0,2.3,0,0,0,False,2.6,0.28,65.51,1.0,1.0,0.77,0.46,0.03,7,Newcastle,False,Fulham,-1.79
-Sean Longstaff,Newcastle,Fulham,2022-10-01,False,MC,90,1.0,0.57,0.0,0.12,7,2.0,2.0,11.5,0,0,1,False,2.2,0.24,66.16,1.0,1.0,0.77,0.46,0.03,1,Newcastle,True,Aston Villa,-3.48
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Sean Longstaff,Newcastle,Nottingham Forest,2022-08-06,True,Sub,10,0.0,0.0,0.0,0.4,1,0.0,1.0,1.7,0,0,0,False,0.0,0.0,10.0,1.0,1.0,0.77,0.46,0.03,2,Newcastle,True,Brentford,-2.4
+Sean Longstaff,Newcastle,Brentford,2022-10-08,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,False,1.0,0.0,50.0,1.0,1.0,0.77,0.46,0.03,3,Newcastle,False,Manchester United,1.2
+Sean Longstaff,Newcastle,Manchester United,2022-10-16,False,MC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.7,0,1,0,False,1.5,0.0,63.33,1.0,1.0,0.77,0.46,0.03,3,Newcastle,True,Everton,-5.87
+Sean Longstaff,Newcastle,Everton,2022-10-19,True,MC,90,0.0,0.0,0.0,0.13,3,0.0,2.0,3.6,0,1,0,False,2.0,0.0,70.0,1.0,1.0,0.77,0.46,0.03,5,Newcastle,False,Tottenham,4.75
+Sean Longstaff,Newcastle,Tottenham,2022-10-23,False,MC,90,0.0,0.0,1.0,0.27,5,0.0,2.0,5.8,0,0,1,False,2.25,0.0,74.0,1.0,1.0,0.77,0.46,0.03,3,Newcastle,True,Aston Villa,-2.14
+Sean Longstaff,Newcastle,Aston Villa,2022-10-29,True,MC,90,0.0,0.09,0.0,0.49,3,3.0,1.0,4.9,0,1,0,False,2.8,0.2,76.67,1.0,1.0,0.77,0.46,0.03,2,Newcastle,False,Southampton,-1.93
+Sean Longstaff,Newcastle,Southampton,2022-11-06,False,MC,90,0.0,0.44,0.0,0.0,2,1.0,0.0,1.6,0,0,1,False,3.2,0.22,78.57,1.0,1.0,0.77,0.46,0.03,2,Newcastle,True,Chelsea,1.87
+Sean Longstaff,Newcastle,Chelsea,2022-11-12,True,MC,90,0.0,0.96,0.0,0.03,2,2.0,1.0,6.4,0,1,0,True,3.2,0.31,80.0,1.0,1.0,0.77,0.46,0.03,3,Newcastle,False,Leeds United,6.23
+Sean Longstaff,Newcastle,Leeds United,2022-12-26,False,MC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.1,0,1,0,True,3.0,0.5,81.11,1.0,1.0,0.77,0.46,0.03,3,Newcastle,True,Leicester City,-1.01
+Sean Longstaff,Newcastle,Leicester City,2022-12-31,True,MC,90,0.0,0.36,0.0,0.0,3,2.0,0.0,2.6,0,1,0,True,3.0,0.5,82.0,1.0,1.0,0.77,0.46,0.03,3,Newcastle,False,Arsenal,2.9
+Sean Longstaff,Newcastle,Arsenal,2023-01-03,False,MC,90,0.0,0.04,0.0,0.0,3,1.0,0.0,2.0,0,1,0,True,2.6,0.37,82.73,1.0,1.0,0.77,0.46,0.03,1,Newcastle,False,Brighton,-0.9
+Sean Longstaff,Newcastle,Brighton,2022-08-13,False,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,2.6,0.36,77.0,1.0,1.0,0.77,0.46,0.03,3,Newcastle,True,Fulham,
+Sean Longstaff,Newcastle,Fulham,2023-01-15,True,MC,90,0.0,0.15,0.0,0.31,3,2.0,4.0,8.0,0,1,0,True,2.4,0.27,78.0,1.0,1.0,0.77,0.46,0.03,3,Newcastle,False,Crystal Palace,-1.13
+Sean Longstaff,Newcastle,Crystal Palace,2023-01-21,False,MC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,3.5,0,1,0,True,2.6,0.11,78.86,1.0,1.0,0.77,0.46,0.03,6,Newcastle,True,West Ham,0.49
+Sean Longstaff,Newcastle,West Ham,2023-02-04,True,MC,90,0.0,0.0,1.0,0.31,6,0.0,1.0,5.0,1,0,1,True,2.6,0.11,79.6,1.0,1.0,0.77,0.46,0.03,5,Newcastle,False,Bournemouth,
+Sean Longstaff,Newcastle,Bournemouth,2023-02-11,False,MC,90,0.0,0.81,0.0,0.0,5,3.0,0.0,8.0,0,0,1,True,3.2,0.24,80.25,1.0,1.0,0.77,0.46,0.03,2,Newcastle,True,Liverpool,1.47
+Sean Longstaff,Newcastle,Liverpool,2023-02-18,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,2,True,3.6,0.39,80.82,1.0,1.0,0.77,0.46,0.03,2,Newcastle,False,Manchester City,4.63
+Sean Longstaff,Newcastle,Manchester City,2023-03-04,False,MC,62,0.0,0.1,0.0,0.0,2,1.0,0.0,1.6,0,0,1,True,3.8,0.39,79.78,1.0,1.0,0.77,0.46,0.03,2,Newcastle,True,Wolverhampton,-2.98
+Sean Longstaff,Newcastle,Wolverhampton,2023-03-12,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,0,1,True,3.6,0.38,80.32,1.0,1.0,0.77,0.46,0.03,2,Newcastle,False,Nottingham Forest,
+Sean Longstaff,Newcastle,Nottingham Forest,2023-03-17,False,MC,90,0.0,0.08,0.0,0.08,2,2.0,1.0,3.3,0,0,1,True,3.4,0.38,80.8,1.0,1.0,0.77,0.46,0.03,3,Newcastle,True,Manchester United,-0.55
+Sean Longstaff,Newcastle,Manchester United,2023-04-02,True,MC,90,0.0,0.14,0.0,0.0,3,2.0,0.0,2.1,0,1,0,True,2.6,0.2,81.24,1.0,1.0,0.77,0.46,0.03,2,Newcastle,False,West Ham,
+Sean Longstaff,Newcastle,West Ham,2023-04-05,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,True,2.2,0.07,81.64,1.0,1.0,0.77,0.46,0.03,1,Newcastle,True,Manchester City,4.58
+Sean Longstaff,Newcastle,Manchester City,2022-08-21,True,Sub,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,2.2,0.07,78.96,1.0,1.0,0.77,0.46,0.03,1,Newcastle,False,Brentford,
+Sean Longstaff,Newcastle,Brentford,2023-04-08,False,MC,45,0.0,0.13,0.0,0.0,1,2.0,0.0,1.5,0,0,1,True,2.0,0.05,77.54,1.0,1.0,0.77,0.46,0.03,1,Newcastle,False,Aston Villa,3.3
+Sean Longstaff,Newcastle,Aston Villa,2023-04-15,False,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1,False,1.8,0.07,75.32,1.0,1.0,0.77,0.46,0.03,5,Newcastle,True,Tottenham,-0.29
+Sean Longstaff,Newcastle,Tottenham,2023-04-23,True,MC,90,0.0,0.26,1.0,0.49,5,3.0,2.0,6.6,0,0,1,True,1.6,0.05,75.88,1.0,1.0,0.77,0.46,0.03,3,Newcastle,False,Everton,
+Sean Longstaff,Newcastle,Everton,2023-04-27,False,MC,73,0.0,0.0,0.0,0.12,3,0.0,1.0,0.0,0,1,0,True,2.0,0.28,75.78,1.0,1.0,0.77,0.46,0.03,0,Newcastle,True,Southampton,0.18
+Sean Longstaff,Newcastle,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,2.2,0.28,73.07,1.0,1.0,0.77,0.46,0.03,0,Newcastle,True,Arsenal,
+Sean Longstaff,Newcastle,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.28,70.55,1.0,1.0,0.77,0.46,0.03,0,Newcastle,False,Leicester City,
+Sean Longstaff,Newcastle,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.25,68.2,1.0,1.0,0.77,0.46,0.03,0,Newcastle,True,Brighton,
+Sean Longstaff,Newcastle,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.25,66.0,1.0,1.0,0.77,0.46,0.03,3,Newcastle,True,Leeds United,
+Sean Longstaff,Newcastle,Leeds United,2023-05-22,True,MC,90,0.0,0.2,0.0,0.02,3,3.0,1.0,5.1,0,1,0,True,0.6,0.0,66.75,1.0,1.0,0.77,0.46,0.03,0,Newcastle,False,Chelsea,
+Sean Longstaff,Newcastle,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.04,64.73,1.0,1.0,0.77,0.46,0.03,2,Newcastle,False,Wolverhampton,1.1
+Sean Longstaff,Newcastle,Wolverhampton,2022-08-28,False,MC,90,0.0,0.11,0.0,0.0,2,2.0,0.0,3.9,0,0,1,False,0.6,0.04,65.47,1.0,1.0,0.77,0.46,0.03,6,Newcastle,False,Liverpool,0.9
+Sean Longstaff,Newcastle,Liverpool,2022-08-31,False,MC,90,0.0,0.0,1.0,0.37,6,0.0,1.0,4.7,1,0,2,False,1.0,0.06,66.17,1.0,1.0,0.77,0.46,0.03,2,Newcastle,True,Crystal Palace,-0.56
+Sean Longstaff,Newcastle,Crystal Palace,2022-09-03,True,MC,90,0.0,0.1,0.0,0.31,2,2.0,2.0,8.1,0,1,0,False,2.2,0.26,66.83,1.0,1.0,0.77,0.46,0.03,1,Newcastle,True,Bournemouth,2.6
+Sean Longstaff,Newcastle,Bournemouth,2022-09-17,True,Sub,18,0.0,0.0,0.0,0.01,1,0.0,1.0,2.3,0,0,0,False,2.6,0.28,65.51,1.0,1.0,0.77,0.46,0.03,7,Newcastle,False,Fulham,-1.62
+Sean Longstaff,Newcastle,Fulham,2022-10-01,False,MC,90,1.0,0.57,0.0,0.12,7,2.0,2.0,11.5,0,0,1,False,2.2,0.24,66.16,1.0,1.0,0.77,0.46,0.03,1,Newcastle,True,Aston Villa,-4.4

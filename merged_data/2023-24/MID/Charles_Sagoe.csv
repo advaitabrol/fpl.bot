@@ -1,28 +1,28 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Charles Sagoe,Arsenal,Burnley,2023-11-11,True,DL,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Brentford,-0.6
-Charles Sagoe,Arsenal,Brentford,2023-11-25,False,DL,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Wolverhampton,-2.6
-Charles Sagoe,Arsenal,Wolverhampton,2023-12-02,True,DL,0,0.0,0.0,1.0,0.4,0,0.0,1.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Luton,1.98
-Charles Sagoe,Arsenal,Luton,2023-12-05,False,DL,0,0.0,0.02,0.0,0.05,0,1.0,1.0,0.0,0,0,0,False,0.0,0.33,0.0,0,0,0,0,0,0.0,Arsenal,False,Aston Villa,-0.83
-Charles Sagoe,Arsenal,Aston Villa,2023-12-09,False,DL,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.25,0.0,0,0,0,0,0,0.0,Arsenal,True,Brighton,0.58
-Charles Sagoe,Arsenal,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.2,0.0,0,0,0,0,0,0.0,Arsenal,False,Liverpool,0.87
-Charles Sagoe,Arsenal,Liverpool,2023-12-23,False,DL,0,0.0,0.0,0.0,0.04,0,0.0,1.0,0.0,0,0,0,False,0.0,0.2,0.0,0,0,0,0,0,0.0,Arsenal,True,West Ham,0.89
-Charles Sagoe,Arsenal,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.2,0.0,0,0,0,0,0,0.0,Arsenal,False,Fulham,-0.97
-Charles Sagoe,Arsenal,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Crystal Palace,-2.84
-Charles Sagoe,Arsenal,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Nottingham Forest,2.82
-Charles Sagoe,Arsenal,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Liverpool,-1.54
-Charles Sagoe,Arsenal,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,West Ham,-2.34
-Charles Sagoe,Arsenal,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Burnley,-2.99
-Charles Sagoe,Arsenal,Burnley,2024-02-17,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Newcastle United,-1.68
-Charles Sagoe,Arsenal,Newcastle United,2024-02-24,True,DL,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Sheffield,-4.68
-Charles Sagoe,Arsenal,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Brentford,-0.02
-Charles Sagoe,Arsenal,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Manchester City,2.4
-Charles Sagoe,Arsenal,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Luton,-1.54
-Charles Sagoe,Arsenal,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Brighton,-4.25
-Charles Sagoe,Arsenal,Brighton,2024-04-06,False,DL,0,0.0,0.05,0.0,0.0,0,1.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Aston Villa,-0.49
-Charles Sagoe,Arsenal,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Arsenal,False,Wolverhampton,-2.55
-Charles Sagoe,Arsenal,Wolverhampton,2024-04-20,False,DL,0,0.0,0.0,0.0,0.17,0,0.0,2.0,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Arsenal,True,Chelsea,-2.12
-Charles Sagoe,Arsenal,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Arsenal,False,Tottenham,0.46
-Charles Sagoe,Arsenal,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Arsenal,True,Bournemouth,-1.36
-Charles Sagoe,Arsenal,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Arsenal,False,Manchester United,1.17
-Charles Sagoe,Arsenal,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Everton,-2.68
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Charles Sagoe,Arsenal,Burnley,2023-11-11,True,DL,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Brentford,-0.38
+Charles Sagoe,Arsenal,Brentford,2023-11-25,False,DL,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Wolverhampton,-3.77
+Charles Sagoe,Arsenal,Wolverhampton,2023-12-02,True,DL,0,0.0,0.0,1.0,0.4,0,0.0,1.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Luton,
+Charles Sagoe,Arsenal,Luton,2023-12-05,False,DL,0,0.0,0.02,0.0,0.05,0,1.0,1.0,0.0,0,0,0,False,0.0,0.33,0.0,0,0,0,0,0,0.0,Arsenal,False,Aston Villa,-1.92
+Charles Sagoe,Arsenal,Aston Villa,2023-12-09,False,DL,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.25,0.0,0,0,0,0,0,0.0,Arsenal,True,Brighton,2.17
+Charles Sagoe,Arsenal,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.2,0.0,0,0,0,0,0,0.0,Arsenal,False,Liverpool,1.55
+Charles Sagoe,Arsenal,Liverpool,2023-12-23,False,DL,0,0.0,0.0,0.0,0.04,0,0.0,1.0,0.0,0,0,0,False,0.0,0.2,0.0,0,0,0,0,0,0.0,Arsenal,True,West Ham,-1.81
+Charles Sagoe,Arsenal,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.2,0.0,0,0,0,0,0,0.0,Arsenal,False,Fulham,-4.27
+Charles Sagoe,Arsenal,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Crystal Palace,-1.66
+Charles Sagoe,Arsenal,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Nottingham Forest,3.11
+Charles Sagoe,Arsenal,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Liverpool,-0.82
+Charles Sagoe,Arsenal,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,West Ham,-0.66
+Charles Sagoe,Arsenal,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Burnley,-1.51
+Charles Sagoe,Arsenal,Burnley,2024-02-17,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Newcastle United,-1.37
+Charles Sagoe,Arsenal,Newcastle United,2024-02-24,True,DL,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Sheffield,
+Charles Sagoe,Arsenal,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Brentford,-0.34
+Charles Sagoe,Arsenal,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Manchester City,3.79
+Charles Sagoe,Arsenal,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Luton,
+Charles Sagoe,Arsenal,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Brighton,-3.3
+Charles Sagoe,Arsenal,Brighton,2024-04-06,False,DL,0,0.0,0.05,0.0,0.0,0,1.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Aston Villa,-2.64
+Charles Sagoe,Arsenal,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Arsenal,False,Wolverhampton,-4.1
+Charles Sagoe,Arsenal,Wolverhampton,2024-04-20,False,DL,0,0.0,0.0,0.0,0.17,0,0.0,2.0,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Arsenal,True,Chelsea,2.07
+Charles Sagoe,Arsenal,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Arsenal,False,Tottenham,-3.15
+Charles Sagoe,Arsenal,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Arsenal,True,Bournemouth,
+Charles Sagoe,Arsenal,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Arsenal,False,Manchester United,2.33
+Charles Sagoe,Arsenal,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Everton,
 Charles Sagoe,Arsenal,Everton,2024-05-19,True,DL,0,0.0,0.0,0.0,0.03,0,0.0,1.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,,,,,

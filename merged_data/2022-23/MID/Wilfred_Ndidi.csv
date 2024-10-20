@@ -1,4 +1,4 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
 Wilfred Ndidi,Leicester,Brentford,2022-08-07,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,2,False,0.0,0.0,90.0,0.0,0.0,0.58,0.08,0.03,0.0,Leicester,False,Bournemouth,
 Wilfred Ndidi,Leicester,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.0,45.0,0.0,0.0,0.58,0.08,0.03,0.0,Leicester,True,Crystal Palace,-0.43
 Wilfred Ndidi,Leicester,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,30.0,0.0,0.0,0.58,0.08,0.03,0.0,Leicester,True,Leicester City,2.25
@@ -19,9 +19,9 @@ Wilfred Ndidi,Leicester,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,
 Wilfred Ndidi,Leicester,Arsenal,2023-02-25,True,MC,76,0.0,0.0,0.0,0.02,2,0.0,1.0,3.2,0,0,1,True,0.6,0.0,31.61,0.0,0.0,0.58,0.08,0.03,1.0,Leicester,False,Southampton,-3.27
 Wilfred Ndidi,Leicester,Southampton,2023-03-04,False,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,0,False,0.6,0.0,31.11,0.0,0.0,0.58,0.08,0.03,0.0,Leicester,True,Chelsea,-2.98
 Wilfred Ndidi,Leicester,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.0,29.55,0.0,0.0,0.58,0.08,0.03,2.0,Leicester,False,Brentford,-4.9
-Wilfred Ndidi,Leicester,Brentford,2023-03-18,False,DMC,74,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,True,0.8,0.0,31.67,0.0,0.0,0.58,0.08,0.03,1.0,Leicester,False,Crystal Palace,2.07
-Wilfred Ndidi,Leicester,Crystal Palace,2023-04-01,False,DMC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.6,0,0,2,True,1.0,0.0,34.32,0.0,0.0,0.58,0.08,0.03,2.0,Leicester,True,Aston Villa,-0.34
-Wilfred Ndidi,Leicester,Aston Villa,2023-04-04,True,MC,90,0.0,0.03,0.0,0.0,2,1.0,0.0,0.7,0,0,2,True,1.2,0.0,36.74,0.0,0.0,0.58,0.08,0.03,2.0,Leicester,True,Southampton,1.76
+Wilfred Ndidi,Leicester,Brentford,2023-03-18,False,DMC,74,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,True,0.8,0.0,31.67,0.0,0.0,0.58,0.08,0.03,1.0,Leicester,False,Crystal Palace,
+Wilfred Ndidi,Leicester,Crystal Palace,2023-04-01,False,DMC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.6,0,0,2,True,1.0,0.0,34.32,0.0,0.0,0.58,0.08,0.03,2.0,Leicester,True,Aston Villa,
+Wilfred Ndidi,Leicester,Aston Villa,2023-04-04,True,MC,90,0.0,0.03,0.0,0.0,2,1.0,0.0,0.7,0,0,2,True,1.2,0.0,36.74,0.0,0.0,0.58,0.08,0.03,2.0,Leicester,True,Southampton,
 Wilfred Ndidi,Leicester,Southampton,2022-08-20,True,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.4,0,0,2,False,1.2,0.01,38.96,0.0,0.0,0.58,0.08,0.03,2.0,Leicester,True,Bournemouth,
 Wilfred Ndidi,Leicester,Bournemouth,2023-04-08,True,DMC,80,0.0,0.0,0.0,0.02,2,0.0,1.0,1.6,0,0,1,True,1.4,0.01,40.6,0.0,0.0,0.58,0.08,0.03,2.0,Leicester,False,Manchester City,1.46
 Wilfred Ndidi,Leicester,Manchester City,2023-04-15,False,MC,86,0.0,0.0,0.0,0.0,2,0.0,0.0,0.2,0,0,3,True,1.8,0.01,42.35,0.0,0.0,0.58,0.08,0.03,1.0,Leicester,True,Wolverhampton,-1.75
@@ -32,8 +32,8 @@ Wilfred Ndidi,Leicester,Fulham,2023-05-08,False,Sub,30,0.0,0.0,0.0,0.0,1,0.0,0.0
 Wilfred Ndidi,Leicester,Liverpool,2023-05-15,True,DMC,60,0.0,0.0,0.0,0.0,2,0.0,0.0,2.5,0,0,2,True,1.2,0.0,41.1,0.0,0.0,0.58,0.08,0.03,3.0,Leicester,False,Newcastle United,1.84
 Wilfred Ndidi,Leicester,Newcastle United,2023-05-22,False,MC,88,0.0,0.0,0.0,0.0,3,0.0,0.0,2.3,0,1,0,True,1.2,0.0,42.56,0.0,0.0,0.58,0.08,0.03,0.0,Leicester,True,West Ham,-0.48
 Wilfred Ndidi,Leicester,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.0,41.27,0.0,0.0,0.58,0.08,0.03,1.0,Leicester,False,Chelsea,-5.34
-Wilfred Ndidi,Leicester,Chelsea,2022-08-27,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,1.6,0.0,40.09,0.0,0.0,0.58,0.08,0.03,2.0,Leicester,True,Manchester United,-2.56
+Wilfred Ndidi,Leicester,Chelsea,2022-08-27,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,1.6,0.0,40.09,0.0,0.0,0.58,0.08,0.03,2.0,Leicester,True,Manchester United,
 Wilfred Ndidi,Leicester,Manchester United,2022-09-01,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.4,0,0,1,False,1.4,0.0,41.51,0.0,0.0,0.58,0.08,0.03,2.0,Leicester,False,Brighton,-2.14
 Wilfred Ndidi,Leicester,Brighton,2022-09-04,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.6,0,0,5,False,1.6,0.0,42.86,0.0,0.0,0.58,0.08,0.03,1.0,Leicester,False,Tottenham,3.38
 Wilfred Ndidi,Leicester,Tottenham,2022-09-17,False,DMC,84,0.0,0.04,0.0,0.0,1,2.0,0.0,0.3,0,0,5,False,1.6,0.0,43.97,0.0,0.0,0.58,0.08,0.03,1.0,Leicester,True,Nottingham Forest,
-Wilfred Ndidi,Leicester,Nottingham Forest,2022-10-03,True,DMC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,False,1.2,0.01,44.0,0.0,0.0,0.58,0.08,0.03,,Wolves,False,Manchester United,0.79
+Wilfred Ndidi,Leicester,Nottingham Forest,2022-10-03,True,DMC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,False,1.2,0.01,44.0,0.0,0.0,0.58,0.08,0.03,,Wolves,False,Manchester United,-0.63

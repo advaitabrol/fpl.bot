@@ -1,34 +1,34 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Tom Lockyer,Luton,Brighton,2023-08-12,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,4,4.1,True,0.0,0.0,90.0,0.0,0,0,0,0,-1.0,Luton,False,Aston Villa,2.92
-Tom Lockyer,Luton,Aston Villa,2023-10-29,False,DC,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,1.1,0,0,3,2.39,True,0.0,0.0,90.0,0.0,0,0,0,0,2.0,Luton,True,Liverpool,-1.04
-Tom Lockyer,Luton,Liverpool,2023-11-05,True,DC,90,0.0,0.0,0.0,0.05,2,0.0,1.0,4.7,0,0,1,3.04,True,-0.5,0.0,90.0,0.0,0,0,0,0,1.0,Luton,False,Manchester United,2.04
-Tom Lockyer,Luton,Manchester United,2023-11-11,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.4,0,0,1,2.12,True,0.33,0.0,90.0,0.0,0,0,0,0,1.0,Luton,True,Crystal Palace,-1.47
-Tom Lockyer,Luton,Crystal Palace,2023-11-25,True,DC,90,0.0,0.16,0.0,0.0,1,2.0,0.0,3.7,0,0,1,1.68,True,0.5,0.0,90.0,0.0,0,0,0,0,1.0,Luton,False,Brentford,2.56
-Tom Lockyer,Luton,Brentford,2023-12-02,False,DC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,0,0.75,True,0.6,0.03,82.5,0.0,0,0,0,0,0.0,Luton,True,Arsenal,0.1
-Tom Lockyer,Luton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.03,70.71,0.0,0,0,0,0,1.0,Luton,True,Manchester City,1.95
-Tom Lockyer,Luton,Manchester City,2023-12-10,True,DC,89,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,2,1.6,True,1.0,0.03,73.0,0.0,0,0,0,0,0.0,Luton,True,Newcastle United,-2.86
-Tom Lockyer,Luton,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.03,64.89,0.0,0,0,0,0,0.0,Luton,False,Sheffield,0.36
-Tom Lockyer,Luton,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.03,58.4,0.0,0,0,0,0,0.0,Luton,True,Chelsea,-0.03
-Tom Lockyer,Luton,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,53.09,0.0,0,0,0,0,0.0,Luton,False,Burnley,2.22
-Tom Lockyer,Luton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,48.67,0.0,0,0,0,0,0.0,Luton,True,Brighton,-7.25
-Tom Lockyer,Luton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,44.92,0.0,0,0,0,0,0.0,Luton,False,Newcastle United,-1.12
-Tom Lockyer,Luton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,41.71,0.0,0,0,0,0,0.0,Luton,True,Sheffield,3.77
-Tom Lockyer,Luton,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,38.93,0.0,0,0,0,0,0.0,Luton,True,Manchester United,2.85
-Tom Lockyer,Luton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,36.5,0.0,0,0,0,0,0.0,Luton,False,Liverpool,3.7
-Tom Lockyer,Luton,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,34.35,0.0,0,0,0,0,0.0,Luton,True,Aston Villa,0.15
-Tom Lockyer,Luton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,32.44,0.0,0,0,0,0,0.0,Luton,False,Crystal Palace,0.7
-Tom Lockyer,Luton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,30.74,0.0,0,0,0,0,0.0,Luton,False,Bournemouth,-0.31
-Tom Lockyer,Luton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,29.2,0.0,0,0,0,0,0.0,Luton,True,Nottingham Forest,1.07
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Tom Lockyer,Luton,Brighton,2023-08-12,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,4,4.1,True,0.0,0.0,90.0,0.0,0,0,0,0,-1.0,Luton,False,Aston Villa,
+Tom Lockyer,Luton,Aston Villa,2023-10-29,False,DC,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,1.1,0,0,3,2.39,True,0.0,0.0,90.0,0.0,0,0,0,0,2.0,Luton,True,Liverpool,
+Tom Lockyer,Luton,Liverpool,2023-11-05,True,DC,90,0.0,0.0,0.0,0.05,2,0.0,1.0,4.7,0,0,1,3.04,True,-0.5,0.0,90.0,0.0,0,0,0,0,1.0,Luton,False,Manchester United,
+Tom Lockyer,Luton,Manchester United,2023-11-11,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.4,0,0,1,2.12,True,0.33,0.0,90.0,0.0,0,0,0,0,1.0,Luton,True,Crystal Palace,
+Tom Lockyer,Luton,Crystal Palace,2023-11-25,True,DC,90,0.0,0.16,0.0,0.0,1,2.0,0.0,3.7,0,0,1,1.68,True,0.5,0.0,90.0,0.0,0,0,0,0,1.0,Luton,False,Brentford,
+Tom Lockyer,Luton,Brentford,2023-12-02,False,DC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,0,0.75,True,0.6,0.03,82.5,0.0,0,0,0,0,0.0,Luton,True,Arsenal,
+Tom Lockyer,Luton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.03,70.71,0.0,0,0,0,0,1.0,Luton,True,Manchester City,
+Tom Lockyer,Luton,Manchester City,2023-12-10,True,DC,89,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,2,1.6,True,1.0,0.03,73.0,0.0,0,0,0,0,0.0,Luton,True,Newcastle United,
+Tom Lockyer,Luton,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.03,64.89,0.0,0,0,0,0,0.0,Luton,False,Sheffield,
+Tom Lockyer,Luton,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.03,58.4,0.0,0,0,0,0,0.0,Luton,True,Chelsea,
+Tom Lockyer,Luton,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,53.09,0.0,0,0,0,0,0.0,Luton,False,Burnley,
+Tom Lockyer,Luton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,48.67,0.0,0,0,0,0,0.0,Luton,True,Brighton,
+Tom Lockyer,Luton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,44.92,0.0,0,0,0,0,0.0,Luton,False,Newcastle United,
+Tom Lockyer,Luton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,41.71,0.0,0,0,0,0,0.0,Luton,True,Sheffield,
+Tom Lockyer,Luton,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,38.93,0.0,0,0,0,0,0.0,Luton,True,Manchester United,
+Tom Lockyer,Luton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,36.5,0.0,0,0,0,0,0.0,Luton,False,Liverpool,
+Tom Lockyer,Luton,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,34.35,0.0,0,0,0,0,0.0,Luton,True,Aston Villa,
+Tom Lockyer,Luton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,32.44,0.0,0,0,0,0,0.0,Luton,False,Crystal Palace,
+Tom Lockyer,Luton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,30.74,0.0,0,0,0,0,0.0,Luton,False,Bournemouth,
+Tom Lockyer,Luton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,29.2,0.0,0,0,0,0,0.0,Luton,True,Nottingham Forest,
 Tom Lockyer,Luton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,27.81,0.0,0,0,0,0,0.0,Luton,False,Chelsea,4.03
-Tom Lockyer,Luton,Chelsea,2023-08-25,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.7,0,0,3,2.09,True,0.0,0.0,30.64,0.0,0,0,0,0,0.0,Luton,False,Tottenham,0.62
-Tom Lockyer,Luton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,29.3,0.0,0,0,0,0,0.0,Luton,False,Arsenal,1.76
-Tom Lockyer,Luton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,28.08,0.0,0,0,0,0,0.0,Luton,True,Bournemouth,-1.8
-Tom Lockyer,Luton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,26.96,0.0,0,0,0,0,0.0,Luton,False,Manchester City,3.1
-Tom Lockyer,Luton,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,25.92,0.0,0,0,0,0,0.0,Luton,True,Brentford,5.98
-Tom Lockyer,Luton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,24.96,0.0,0,0,0,0,0.0,Luton,False,Wolverhampton,2.22
-Tom Lockyer,Luton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,24.07,0.0,0,0,0,0,0.0,Luton,True,Everton,-0.18
-Tom Lockyer,Luton,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,23.24,0.0,0,0,0,0,0.0,Luton,False,West Ham,4.32
-Tom Lockyer,Luton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,22.47,0.0,0,0,0,0,0.0,Luton,True,Fulham,0.81
+Tom Lockyer,Luton,Chelsea,2023-08-25,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.7,0,0,3,2.09,True,0.0,0.0,30.64,0.0,0,0,0,0,0.0,Luton,False,Tottenham,
+Tom Lockyer,Luton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,29.3,0.0,0,0,0,0,0.0,Luton,False,Arsenal,
+Tom Lockyer,Luton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,28.08,0.0,0,0,0,0,0.0,Luton,True,Bournemouth,
+Tom Lockyer,Luton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,26.96,0.0,0,0,0,0,0.0,Luton,False,Manchester City,
+Tom Lockyer,Luton,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,25.92,0.0,0,0,0,0,0.0,Luton,True,Brentford,
+Tom Lockyer,Luton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,24.96,0.0,0,0,0,0,0.0,Luton,False,Wolverhampton,
+Tom Lockyer,Luton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,24.07,0.0,0,0,0,0,0.0,Luton,True,Everton,
+Tom Lockyer,Luton,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,23.24,0.0,0,0,0,0,0.0,Luton,False,West Ham,
+Tom Lockyer,Luton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,22.47,0.0,0,0,0,0,0.0,Luton,True,Fulham,
 Tom Lockyer,Luton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,21.74,0.0,0,0,0,0,0.0,Luton,True,West Ham,-0.3
 Tom Lockyer,Luton,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,21.06,0.0,0,0,0,0,2.0,Luton,False,Fulham,-0.95
 Tom Lockyer,Luton,Fulham,2023-09-16,False,DC,90,0.0,0.36,0.0,0.0,2,1.0,0.0,1.4,0,0,1,0.98,True,0.0,0.0,23.15,0.0,0,0,0,0,3.0,Luton,True,Wolverhampton,1.05

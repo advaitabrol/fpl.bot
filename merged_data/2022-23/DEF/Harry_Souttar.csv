@@ -1,4 +1,4 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
 Harry Souttar,Leicester,Aston Villa,2023-02-04,False,DC,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,1.7,0,0,2,1.68,True,0.0,0.0,90.0,0.0,0,0,0,0,4.0,Leicester,True,Tottenham,3.95
 Harry Souttar,Leicester,Tottenham,2023-02-11,True,DC,90,0.0,0.0,1.0,0.08,4,0.0,1.0,4.6,0,0,1,1.28,True,-1.0,0.0,90.0,0.0,0,0,0,0,1.0,Leicester,False,Manchester United,0.11
 Harry Souttar,Leicester,Manchester United,2023-02-19,False,DC,90,0.0,0.11,0.0,0.02,1,2.0,1.0,5.4,0,0,3,4.23,True,1.5,0.5,90.0,0.0,0,0,0,0,2.0,Leicester,True,Arsenal,-1.32
@@ -16,4 +16,4 @@ Harry Souttar,Leicester,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.06,64
 Harry Souttar,Leicester,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.01,60.0,0.0,0,0,0,0,1.0,Leicester,True,Liverpool,-0.21
 Harry Souttar,Leicester,Liverpool,2023-05-15,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.2,0.01,56.31,0.0,0,0,0,0,6.0,Leicester,False,Newcastle United,1.84
 Harry Souttar,Leicester,Newcastle United,2023-05-22,False,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.3,0,1,0,2.05,True,0.2,0.0,58.29,0.09,0,0,0,0,0.0,Leicester,True,West Ham,-0.48
-Harry Souttar,Leicester,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,55.06,0.09,0,0,0,0,,Brentford,True,Tottenham,-0.38
+Harry Souttar,Leicester,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,55.06,0.09,0,0,0,0,,Brentford,True,Tottenham,-0.82

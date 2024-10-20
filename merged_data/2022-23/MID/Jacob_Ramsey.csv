@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Jacob Ramsey,Aston Villa,Bournemouth,2022-08-06,False,MC,45,0.0,0.06,0.0,0.14,0,2.0,2.0,4.0,0,0,1,False,0.0,0.0,45.0,6.0,1.0,3.82,2.01,0.04,1,Aston Villa,False,Nottingham Forest,3.75
-Jacob Ramsey,Aston Villa,Nottingham Forest,2022-10-10,False,MC,80,0.0,0.0,0.0,0.05,1,0.0,1.0,3.5,0,0,1,False,0.0,0.06,62.5,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,True,Chelsea,1.5
-Jacob Ramsey,Aston Villa,Chelsea,2022-10-16,True,MC,77,0.0,0.06,0.0,0.0,2,1.0,0.0,3.2,0,0,2,False,0.5,0.03,67.33,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,False,Fulham,1.52
-Jacob Ramsey,Aston Villa,Fulham,2022-10-20,False,MC,80,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,2,False,1.0,0.04,70.5,6.0,1.0,3.82,2.01,0.04,1,Aston Villa,True,Brentford,-1.66
-Jacob Ramsey,Aston Villa,Brentford,2022-10-23,True,Sub,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,1.25,0.03,60.2,6.0,1.0,3.82,2.01,0.04,1,Aston Villa,False,Newcastle United,4.98
-Jacob Ramsey,Aston Villa,Newcastle United,2022-10-29,False,Sub,29,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,False,1.2,0.02,55.0,6.0,1.0,3.82,2.01,0.04,14,Aston Villa,True,Manchester United,-0.48
-Jacob Ramsey,Aston Villa,Manchester United,2022-11-06,True,AMC,90,1.0,0.11,1.0,0.28,14,1.0,1.0,9.0,3,0,1,False,1.4,0.01,60.0,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,False,Brighton,-1.16
-Jacob Ramsey,Aston Villa,Brighton,2022-11-13,False,ML,68,0.0,0.06,0.0,0.0,2,1.0,0.0,0.0,0,0,1,True,4.0,0.23,61.0,6.0,1.0,3.82,2.01,0.04,0,Aston Villa,True,Liverpool,0.66
-Jacob Ramsey,Aston Villa,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,4.0,0.23,54.22,6.0,1.0,3.82,2.01,0.04,0,Aston Villa,False,Tottenham,-1.04
-Jacob Ramsey,Aston Villa,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,3.6,0.23,48.8,6.0,1.0,3.82,2.01,0.04,0,Aston Villa,True,Wolverhampton,0.03
-Jacob Ramsey,Aston Villa,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,3.4,0.23,44.36,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,True,Everton,-2.45
-Jacob Ramsey,Aston Villa,Everton,2022-08-13,True,MC,90,0.0,0.0,0.0,0.08,2,0.0,1.0,3.8,0,0,1,False,3.2,0.23,48.17,6.0,1.0,3.82,2.01,0.04,3,Aston Villa,True,Leicester City,-0.22
-Jacob Ramsey,Aston Villa,Leicester City,2023-01-13,True,ML,80,0.0,0.0,0.0,0.2,3,0.0,2.0,3.2,0,1,0,True,0.8,0.01,50.62,6.0,1.0,3.82,2.01,0.04,3,Aston Villa,False,Southampton,0.63
-Jacob Ramsey,Aston Villa,Southampton,2023-01-21,False,MR,90,0.0,0.21,0.0,0.16,3,2.0,2.0,9.1,0,1,0,True,1.0,0.0,53.43,6.0,1.0,3.82,2.01,0.04,1,Aston Villa,True,Leeds United,0.83
-Jacob Ramsey,Aston Villa,Leeds United,2023-02-04,True,MR,45,0.0,0.0,0.0,0.05,1,0.0,1.0,1.8,0,0,3,True,1.6,0.04,52.87,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,False,Manchester City,2.54
-Jacob Ramsey,Aston Villa,Manchester City,2023-02-12,False,MR,75,0.0,0.0,0.0,0.0,2,0.0,0.0,0.2,0,0,3,True,1.8,0.04,54.25,6.0,1.0,3.82,2.01,0.04,1,Aston Villa,True,Arsenal,0.99
-Jacob Ramsey,Aston Villa,Arsenal,2023-02-18,True,Sub,28,0.0,0.0,0.0,0.03,1,0.0,1.0,1.9,0,0,2,False,2.2,0.04,52.71,6.0,1.0,3.82,2.01,0.04,3,Aston Villa,False,Everton,-1.12
-Jacob Ramsey,Aston Villa,Everton,2023-02-25,False,ML,90,0.0,0.04,0.0,0.0,3,1.0,0.0,1.6,0,1,0,True,2.0,0.04,54.78,6.0,1.0,3.82,2.01,0.04,3,Aston Villa,True,Crystal Palace,-0.78
-Jacob Ramsey,Aston Villa,Crystal Palace,2023-03-04,True,AML,68,0.0,0.0,0.0,0.0,3,0.0,0.0,2.5,0,1,0,True,2.0,0.05,55.47,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,False,West Ham,1.42
-Jacob Ramsey,Aston Villa,West Ham,2023-03-12,False,AML,90,0.0,0.0,0.0,0.68,2,0.0,3.0,6.6,0,0,1,True,2.0,0.01,57.2,6.0,1.0,3.82,2.01,0.04,9,Aston Villa,True,Bournemouth,-2.54
-Jacob Ramsey,Aston Villa,Bournemouth,2023-03-18,True,AML,90,1.0,0.58,0.0,0.15,9,3.0,2.0,10.1,1,1,0,True,2.2,0.01,58.76,6.0,1.0,3.82,2.01,0.04,6,Aston Villa,False,Chelsea,-0.25
-Jacob Ramsey,Aston Villa,Chelsea,2023-04-01,False,ML,90,0.0,0.0,1.0,0.03,6,0.0,1.0,5.9,0,1,0,True,3.6,0.12,60.18,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,False,Leeds United,-1.09
-Jacob Ramsey,Aston Villa,Leeds United,2023-04-04,False,MR,78,0.0,0.17,0.0,0.06,2,2.0,1.0,1.9,0,0,1,True,4.6,0.32,60.96,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,False,Crystal Palace,2.46
-Jacob Ramsey,Aston Villa,Crystal Palace,2022-08-20,False,MC,90,0.0,0.0,0.0,0.05,2,0.0,1.0,2.0,0,0,3,False,4.4,0.35,62.17,6.0,1.0,3.82,2.01,0.04,6,Aston Villa,True,Nottingham Forest,-1.71
-Jacob Ramsey,Aston Villa,Nottingham Forest,2023-04-08,True,MR,90,0.0,0.0,1.0,0.55,6,0.0,2.0,5.9,0,1,0,True,4.2,0.35,63.28,6.0,1.0,3.82,2.01,0.04,13,Aston Villa,True,Newcastle United,-1.18
-Jacob Ramsey,Aston Villa,Newcastle United,2023-04-15,True,AML,84,1.0,0.38,1.0,0.9,13,4.0,4.0,13.4,2,1,0,True,5.0,0.55,64.08,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,False,Brentford,-0.06
-Jacob Ramsey,Aston Villa,Brentford,2023-04-22,False,AML,90,0.0,0.49,0.0,0.1,2,3.0,2.0,3.9,0,0,1,True,5.8,0.71,65.04,6.0,1.0,3.82,2.01,0.04,3,Aston Villa,True,Fulham,-2.12
-Jacob Ramsey,Aston Villa,Fulham,2023-04-25,True,AML,76,0.0,0.03,0.0,0.13,3,1.0,3.0,5.1,0,1,0,True,5.0,0.61,65.43,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,False,Manchester United,0.18
-Jacob Ramsey,Aston Villa,Manchester United,2023-04-30,False,AML,90,0.0,0.04,0.0,0.0,2,1.0,0.0,1.4,0,0,1,True,5.2,0.58,66.28,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,False,Wolverhampton,1.16
-Jacob Ramsey,Aston Villa,Wolverhampton,2023-05-06,False,ML,90,0.0,0.05,0.0,0.37,2,1.0,2.0,5.0,0,0,1,True,5.2,0.59,67.07,6.0,1.0,3.82,2.01,0.04,8,Aston Villa,True,Tottenham,2.74
-Jacob Ramsey,Aston Villa,Tottenham,2023-05-13,True,ML,90,1.0,0.46,0.0,0.09,8,1.0,1.0,7.9,1,0,1,True,4.4,0.4,67.81,6.0,1.0,3.82,2.01,0.04,8,Aston Villa,False,Liverpool,0.36
-Jacob Ramsey,Aston Villa,Liverpool,2023-05-20,False,AML,90,1.0,0.59,0.0,0.0,8,2.0,0.0,10.0,1,0,1,True,3.4,0.22,68.5,6.0,1.0,3.82,2.01,0.04,9,Aston Villa,True,Brighton,-3.23
-Jacob Ramsey,Aston Villa,Brighton,2023-05-28,True,AML,90,0.0,1.03,2.0,1.12,9,2.0,3.0,0.0,2,0,1,True,4.6,0.24,69.15,6.0,1.0,3.82,2.01,0.04,1,Aston Villa,True,West Ham,1.12
-Jacob Ramsey,Aston Villa,West Ham,2022-08-28,True,Sub,24,0.0,0.02,0.0,0.07,1,1.0,1.0,2.7,0,0,1,False,5.8,0.84,67.82,6.0,1.0,3.82,2.01,0.04,1,Aston Villa,False,Arsenal,0.89
-Jacob Ramsey,Aston Villa,Arsenal,2022-08-31,False,MC,90,0.0,0.0,0.0,0.23,1,0.0,2.0,4.4,0,0,2,False,5.6,0.83,68.46,6.0,1.0,3.82,2.01,0.04,5,Aston Villa,True,Manchester City,-0.81
-Jacob Ramsey,Aston Villa,Manchester City,2022-09-03,True,AMC,90,0.0,0.0,1.0,0.09,5,0.0,1.0,4.8,0,0,1,False,5.4,0.82,69.06,6.0,1.0,3.82,2.01,0.04,10,Aston Villa,True,Southampton,-4.0
-Jacob Ramsey,Aston Villa,Southampton,2022-09-16,True,MC,66,1.0,0.8,0.0,0.0,10,2.0,0.0,10.0,3,1,0,False,4.8,0.93,68.97,6.0,1.0,3.82,2.01,0.04,3,Aston Villa,False,Leicester City,-2.22
-Jacob Ramsey,Aston Villa,Leicester City,2022-10-02,False,MC,82,0.0,0.04,0.0,0.12,3,2.0,2.0,4.6,0,1,0,False,5.2,0.97,69.32,6.0,1.0,3.82,2.01,0.04,0,Aston Villa,False,Newcastle United,4.98
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Jacob Ramsey,Aston Villa,Bournemouth,2022-08-06,False,MC,45,0.0,0.06,0.0,0.14,0,2.0,2.0,4.0,0,0,1,False,0.0,0.0,45.0,6.0,1.0,3.82,2.01,0.04,1,Aston Villa,False,Nottingham Forest,
+Jacob Ramsey,Aston Villa,Nottingham Forest,2022-10-10,False,MC,80,0.0,0.0,0.0,0.05,1,0.0,1.0,3.5,0,0,1,False,0.0,0.06,62.5,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,True,Chelsea,2.75
+Jacob Ramsey,Aston Villa,Chelsea,2022-10-16,True,MC,77,0.0,0.06,0.0,0.0,2,1.0,0.0,3.2,0,0,2,False,0.5,0.03,67.33,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,False,Fulham,
+Jacob Ramsey,Aston Villa,Fulham,2022-10-20,False,MC,80,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,2,False,1.0,0.04,70.5,6.0,1.0,3.82,2.01,0.04,1,Aston Villa,True,Brentford,-0.37
+Jacob Ramsey,Aston Villa,Brentford,2022-10-23,True,Sub,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,1.25,0.03,60.2,6.0,1.0,3.82,2.01,0.04,1,Aston Villa,False,Newcastle United,1.88
+Jacob Ramsey,Aston Villa,Newcastle United,2022-10-29,False,Sub,29,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,False,1.2,0.02,55.0,6.0,1.0,3.82,2.01,0.04,14,Aston Villa,True,Manchester United,0.0
+Jacob Ramsey,Aston Villa,Manchester United,2022-11-06,True,AMC,90,1.0,0.11,1.0,0.28,14,1.0,1.0,9.0,3,0,1,False,1.4,0.01,60.0,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,False,Brighton,-4.31
+Jacob Ramsey,Aston Villa,Brighton,2022-11-13,False,ML,68,0.0,0.06,0.0,0.0,2,1.0,0.0,0.0,0,0,1,True,4.0,0.23,61.0,6.0,1.0,3.82,2.01,0.04,0,Aston Villa,True,Liverpool,-0.88
+Jacob Ramsey,Aston Villa,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,4.0,0.23,54.22,6.0,1.0,3.82,2.01,0.04,0,Aston Villa,False,Tottenham,2.01
+Jacob Ramsey,Aston Villa,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,3.6,0.23,48.8,6.0,1.0,3.82,2.01,0.04,0,Aston Villa,True,Wolverhampton,1.52
+Jacob Ramsey,Aston Villa,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,3.4,0.23,44.36,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,True,Everton,-3.07
+Jacob Ramsey,Aston Villa,Everton,2022-08-13,True,MC,90,0.0,0.0,0.0,0.08,2,0.0,1.0,3.8,0,0,1,False,3.2,0.23,48.17,6.0,1.0,3.82,2.01,0.04,3,Aston Villa,True,Leicester City,-0.17
+Jacob Ramsey,Aston Villa,Leicester City,2023-01-13,True,ML,80,0.0,0.0,0.0,0.2,3,0.0,2.0,3.2,0,1,0,True,0.8,0.01,50.62,6.0,1.0,3.82,2.01,0.04,3,Aston Villa,False,Southampton,1.75
+Jacob Ramsey,Aston Villa,Southampton,2023-01-21,False,MR,90,0.0,0.21,0.0,0.16,3,2.0,2.0,9.1,0,1,0,True,1.0,0.0,53.43,6.0,1.0,3.82,2.01,0.04,1,Aston Villa,True,Leeds United,-3.62
+Jacob Ramsey,Aston Villa,Leeds United,2023-02-04,True,MR,45,0.0,0.0,0.0,0.05,1,0.0,1.0,1.8,0,0,3,True,1.6,0.04,52.87,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,False,Manchester City,0.58
+Jacob Ramsey,Aston Villa,Manchester City,2023-02-12,False,MR,75,0.0,0.0,0.0,0.0,2,0.0,0.0,0.2,0,0,3,True,1.8,0.04,54.25,6.0,1.0,3.82,2.01,0.04,1,Aston Villa,True,Arsenal,0.71
+Jacob Ramsey,Aston Villa,Arsenal,2023-02-18,True,Sub,28,0.0,0.0,0.0,0.03,1,0.0,1.0,1.9,0,0,2,False,2.2,0.04,52.71,6.0,1.0,3.82,2.01,0.04,3,Aston Villa,False,Everton,-0.42
+Jacob Ramsey,Aston Villa,Everton,2023-02-25,False,ML,90,0.0,0.04,0.0,0.0,3,1.0,0.0,1.6,0,1,0,True,2.0,0.04,54.78,6.0,1.0,3.82,2.01,0.04,3,Aston Villa,True,Crystal Palace,-0.13
+Jacob Ramsey,Aston Villa,Crystal Palace,2023-03-04,True,AML,68,0.0,0.0,0.0,0.0,3,0.0,0.0,2.5,0,1,0,True,2.0,0.05,55.47,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,False,West Ham,1.86
+Jacob Ramsey,Aston Villa,West Ham,2023-03-12,False,AML,90,0.0,0.0,0.0,0.68,2,0.0,3.0,6.6,0,0,1,True,2.0,0.01,57.2,6.0,1.0,3.82,2.01,0.04,9,Aston Villa,True,Bournemouth,
+Jacob Ramsey,Aston Villa,Bournemouth,2023-03-18,True,AML,90,1.0,0.58,0.0,0.15,9,3.0,2.0,10.1,1,1,0,True,2.2,0.01,58.76,6.0,1.0,3.82,2.01,0.04,6,Aston Villa,False,Chelsea,4.06
+Jacob Ramsey,Aston Villa,Chelsea,2023-04-01,False,ML,90,0.0,0.0,1.0,0.03,6,0.0,1.0,5.9,0,1,0,True,3.6,0.12,60.18,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,False,Leeds United,
+Jacob Ramsey,Aston Villa,Leeds United,2023-04-04,False,MR,78,0.0,0.17,0.0,0.06,2,2.0,1.0,1.9,0,0,1,True,4.6,0.32,60.96,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,False,Crystal Palace,1.07
+Jacob Ramsey,Aston Villa,Crystal Palace,2022-08-20,False,MC,90,0.0,0.0,0.0,0.05,2,0.0,1.0,2.0,0,0,3,False,4.4,0.35,62.17,6.0,1.0,3.82,2.01,0.04,6,Aston Villa,True,Nottingham Forest,
+Jacob Ramsey,Aston Villa,Nottingham Forest,2023-04-08,True,MR,90,0.0,0.0,1.0,0.55,6,0.0,2.0,5.9,0,1,0,True,4.2,0.35,63.28,6.0,1.0,3.82,2.01,0.04,13,Aston Villa,True,Newcastle United,-3.47
+Jacob Ramsey,Aston Villa,Newcastle United,2023-04-15,True,AML,84,1.0,0.38,1.0,0.9,13,4.0,4.0,13.4,2,1,0,True,5.0,0.55,64.08,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,False,Brentford,0.38
+Jacob Ramsey,Aston Villa,Brentford,2023-04-22,False,AML,90,0.0,0.49,0.0,0.1,2,3.0,2.0,3.9,0,0,1,True,5.8,0.71,65.04,6.0,1.0,3.82,2.01,0.04,3,Aston Villa,True,Fulham,
+Jacob Ramsey,Aston Villa,Fulham,2023-04-25,True,AML,76,0.0,0.03,0.0,0.13,3,1.0,3.0,5.1,0,1,0,True,5.0,0.61,65.43,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,False,Manchester United,-1.29
+Jacob Ramsey,Aston Villa,Manchester United,2023-04-30,False,AML,90,0.0,0.04,0.0,0.0,2,1.0,0.0,1.4,0,0,1,True,5.2,0.58,66.28,6.0,1.0,3.82,2.01,0.04,2,Aston Villa,False,Wolverhampton,
+Jacob Ramsey,Aston Villa,Wolverhampton,2023-05-06,False,ML,90,0.0,0.05,0.0,0.37,2,1.0,2.0,5.0,0,0,1,True,5.2,0.59,67.07,6.0,1.0,3.82,2.01,0.04,8,Aston Villa,True,Tottenham,
+Jacob Ramsey,Aston Villa,Tottenham,2023-05-13,True,ML,90,1.0,0.46,0.0,0.09,8,1.0,1.0,7.9,1,0,1,True,4.4,0.4,67.81,6.0,1.0,3.82,2.01,0.04,8,Aston Villa,False,Liverpool,0.83
+Jacob Ramsey,Aston Villa,Liverpool,2023-05-20,False,AML,90,1.0,0.59,0.0,0.0,8,2.0,0.0,10.0,1,0,1,True,3.4,0.22,68.5,6.0,1.0,3.82,2.01,0.04,9,Aston Villa,True,Brighton,-3.72
+Jacob Ramsey,Aston Villa,Brighton,2023-05-28,True,AML,90,0.0,1.03,2.0,1.12,9,2.0,3.0,0.0,2,0,1,True,4.6,0.24,69.15,6.0,1.0,3.82,2.01,0.04,1,Aston Villa,True,West Ham,3.13
+Jacob Ramsey,Aston Villa,West Ham,2022-08-28,True,Sub,24,0.0,0.02,0.0,0.07,1,1.0,1.0,2.7,0,0,1,False,5.8,0.84,67.82,6.0,1.0,3.82,2.01,0.04,1,Aston Villa,False,Arsenal,2.49
+Jacob Ramsey,Aston Villa,Arsenal,2022-08-31,False,MC,90,0.0,0.0,0.0,0.23,1,0.0,2.0,4.4,0,0,2,False,5.6,0.83,68.46,6.0,1.0,3.82,2.01,0.04,5,Aston Villa,True,Manchester City,-0.28
+Jacob Ramsey,Aston Villa,Manchester City,2022-09-03,True,AMC,90,0.0,0.0,1.0,0.09,5,0.0,1.0,4.8,0,0,1,False,5.4,0.82,69.06,6.0,1.0,3.82,2.01,0.04,10,Aston Villa,True,Southampton,-1.35
+Jacob Ramsey,Aston Villa,Southampton,2022-09-16,True,MC,66,1.0,0.8,0.0,0.0,10,2.0,0.0,10.0,3,1,0,False,4.8,0.93,68.97,6.0,1.0,3.82,2.01,0.04,3,Aston Villa,False,Leicester City,0.16
+Jacob Ramsey,Aston Villa,Leicester City,2022-10-02,False,MC,82,0.0,0.04,0.0,0.12,3,2.0,2.0,4.6,0,1,0,False,5.2,0.97,69.32,6.0,1.0,3.82,2.01,0.04,0,Aston Villa,False,Newcastle United,6.5

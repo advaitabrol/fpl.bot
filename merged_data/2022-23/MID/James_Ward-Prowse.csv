@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-James Ward-Prowse,Southampton,Tottenham,2022-08-06,False,MC,90,1,0.06,0,0.13,9,2,3,12.9,2,0,4,False,0.0,0.0,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,False,Manchester City,3.44
-James Ward-Prowse,Southampton,Manchester City,2022-10-08,False,DMC,90,0,0.0,0,0.02,2,0,1,2.5,0,0,4,False,9.0,0.06,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,West Ham,-0.03
-James Ward-Prowse,Southampton,West Ham,2022-10-16,True,MC,90,0,0.0,0,0.01,2,0,1,2.3,0,0,1,False,5.5,0.03,90.0,10.0,5.0,5.08,6.39,0.05,3,Southampton,False,Bournemouth,-0.76
-James Ward-Prowse,Southampton,Bournemouth,2022-10-19,False,MC,90,0,0.05,0,0.0,3,1,0,3.5,0,1,0,False,4.33,0.02,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Arsenal,-1.15
-James Ward-Prowse,Southampton,Arsenal,2022-10-23,True,MC,90,0,0.0,0,0.03,2,0,1,2.4,0,0,1,False,4.0,0.03,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,False,Crystal Palace,1.04
-James Ward-Prowse,Southampton,Crystal Palace,2022-10-29,False,MC,90,0,0.02,0,0.3,2,1,4,6.7,0,0,1,False,3.6,0.02,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Newcastle United,3.01
-James Ward-Prowse,Southampton,Newcastle United,2022-11-06,True,DMC,90,0,0.04,0,0.21,2,1,3,7.8,0,0,4,False,2.2,0.01,90.0,10.0,5.0,5.08,6.39,0.05,5,Southampton,False,Liverpool,4.09
-James Ward-Prowse,Southampton,Liverpool,2022-11-12,False,DMC,90,0,0.0,1,0.34,5,0,1,5.6,0,0,3,True,2.2,0.02,90.0,10.0,5.0,5.08,6.39,0.05,5,Southampton,True,Brighton,0.98
-James Ward-Prowse,Southampton,Brighton,2022-12-26,True,DMC,90,1,1.2,0,0.13,5,3,2,11.5,0,0,3,True,2.8,0.22,90.0,10.0,5.0,5.08,6.39,0.05,7,Southampton,False,Fulham,1.81
-James Ward-Prowse,Southampton,Fulham,2022-12-31,False,MC,90,1,0.05,0,0.12,7,1,1,6.3,2,0,2,True,3.2,0.45,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Nottingham Forest,3.03
-James Ward-Prowse,Southampton,Nottingham Forest,2023-01-04,True,MC,90,0,0.08,0,0.18,2,1,3,7.3,0,0,1,True,4.2,0.46,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Leicester City,-1.16
-James Ward-Prowse,Southampton,Leicester City,2022-08-13,True,MC,90,0,0.03,0,0.0,2,1,0,1.4,0,0,2,False,4.2,0.47,90.0,10.0,5.0,5.08,6.39,0.05,15,Southampton,False,Everton,2.07
-James Ward-Prowse,Southampton,Everton,2023-01-14,False,AMC,90,2,0.63,0,0.18,15,5,3,17.7,3,0,1,True,4.2,0.47,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Aston Villa,0.29
-James Ward-Prowse,Southampton,Aston Villa,2023-01-21,True,AMC,90,0,0.0,0,0.53,2,0,3,5.9,0,0,1,True,6.2,0.4,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,False,Brentford,4.79
-James Ward-Prowse,Southampton,Brentford,2023-02-04,False,AMC,90,0,0.05,0,0.02,2,2,1,2.8,0,0,3,True,5.6,0.16,90.0,10.0,5.0,5.08,6.39,0.05,1,Southampton,True,Wolverhampton,2.57
-James Ward-Prowse,Southampton,Wolverhampton,2023-02-11,True,MC,90,0,0.02,0,0.2,1,1,4,7.3,0,0,2,True,4.6,0.16,90.0,10.0,5.0,5.08,6.39,0.05,10,Southampton,False,Chelsea,0.51
-James Ward-Prowse,Southampton,Chelsea,2023-02-18,False,MC,90,1,0.06,0,0.08,10,1,2,9.0,3,1,0,True,4.4,0.15,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,False,Leicester City,-0.79
-James Ward-Prowse,Southampton,Leicester City,2023-02-25,False,MC,90,0,0.02,0,0.15,2,1,2,5.3,0,0,1,True,6.0,0.15,90.0,10.0,5.0,5.08,6.39,0.05,0,Southampton,True,Leeds United,-1.21
-James Ward-Prowse,Southampton,Leeds United,2023-03-04,True,DMC,90,0,0.81,0,0.1,0,3,2,7.6,0,1,0,True,3.4,0.03,90.0,10.0,5.0,5.08,6.39,0.05,3,Southampton,False,Manchester United,0.89
-James Ward-Prowse,Southampton,Manchester United,2023-03-12,False,DMC,90,0,0.12,0,0.09,3,2,4,8.1,0,1,0,True,3.0,0.19,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Brentford,0.03
-James Ward-Prowse,Southampton,Brentford,2023-03-15,True,DMC,90,0,0.06,0,0.0,2,2,0,2.0,0,0,2,True,3.2,0.21,90.0,10.0,5.0,5.08,6.39,0.05,10,Southampton,True,Tottenham,0.56
-James Ward-Prowse,Southampton,Tottenham,2023-03-18,True,MC,90,1,0.89,0,0.23,10,5,5,16.5,3,0,3,True,3.4,0.21,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,False,West Ham,0.0
-James Ward-Prowse,Southampton,West Ham,2023-04-02,False,MC,90,0,0.0,0,0.02,2,0,1,3.9,0,0,1,True,3.4,0.38,90.0,10.0,5.0,5.08,6.39,0.05,7,Southampton,False,Leeds United,0.71
-James Ward-Prowse,Southampton,Leeds United,2022-08-20,False,DMC,90,0,0.0,1,0.74,7,0,4,9.2,2,0,1,False,3.4,0.38,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Manchester City,0.1
-James Ward-Prowse,Southampton,Manchester City,2023-04-08,True,MC,90,0,0.0,0,0.11,2,0,1,3.4,0,0,4,True,4.8,0.41,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Crystal Palace,2.32
-James Ward-Prowse,Southampton,Crystal Palace,2023-04-15,True,MC,90,0,0.0,0,0.0,2,0,0,1.9,0,0,2,True,4.6,0.39,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,False,Arsenal,0.71
-James Ward-Prowse,Southampton,Arsenal,2023-04-21,False,MC,90,0,0.0,0,0.06,2,0,1,4.4,0,0,3,True,4.6,0.38,90.0,10.0,5.0,5.08,6.39,0.05,1,Southampton,True,Bournemouth,2.76
-James Ward-Prowse,Southampton,Bournemouth,2023-04-27,True,MC,45,0,0.0,0,0.02,1,0,1,0.0,0,0,0,True,3.0,0.2,88.39,10.0,5.0,5.08,6.39,0.05,2,Southampton,False,Newcastle United,1.29
-James Ward-Prowse,Southampton,Newcastle United,2023-04-30,False,MC,90,0,0.0,0,0.0,2,0,0,1.0,0,0,3,True,2.8,0.2,88.45,10.0,5.0,5.08,6.39,0.05,13,Southampton,False,Nottingham Forest,1.95
-James Ward-Prowse,Southampton,Nottingham Forest,2023-05-08,False,DMC,90,1,0.77,1,0.94,13,2,6,19.5,3,0,4,True,1.8,0.0,88.5,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Fulham,2.66
-James Ward-Prowse,Southampton,Fulham,2023-05-13,True,DMC,90,0,0.0,0,0.0,2,0,0,3.1,0,0,2,True,4.0,0.35,88.55,10.0,5.0,5.08,6.39,0.05,4,Southampton,False,Brighton,1.32
-James Ward-Prowse,Southampton,Brighton,2023-05-21,False,MC,90,0,0.04,1,0.16,4,1,2,6.1,0,0,3,True,4.0,0.35,88.59,10.0,5.0,5.08,6.39,0.05,7,Southampton,True,Liverpool,-0.47
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+James Ward-Prowse,Southampton,Tottenham,2022-08-06,False,MC,90,1,0.06,0,0.13,9,2,3,12.9,2,0,4,False,0.0,0.0,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,False,Manchester City,0.3
+James Ward-Prowse,Southampton,Manchester City,2022-10-08,False,DMC,90,0,0.0,0,0.02,2,0,1,2.5,0,0,4,False,9.0,0.06,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,West Ham,-1.04
+James Ward-Prowse,Southampton,West Ham,2022-10-16,True,MC,90,0,0.0,0,0.01,2,0,1,2.3,0,0,1,False,5.5,0.03,90.0,10.0,5.0,5.08,6.39,0.05,3,Southampton,False,Bournemouth,
+James Ward-Prowse,Southampton,Bournemouth,2022-10-19,False,MC,90,0,0.05,0,0.0,3,1,0,3.5,0,1,0,False,4.33,0.02,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Arsenal,-3.58
+James Ward-Prowse,Southampton,Arsenal,2022-10-23,True,MC,90,0,0.0,0,0.03,2,0,1,2.4,0,0,1,False,4.0,0.03,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,False,Crystal Palace,-0.36
+James Ward-Prowse,Southampton,Crystal Palace,2022-10-29,False,MC,90,0,0.02,0,0.3,2,1,4,6.7,0,0,1,False,3.6,0.02,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Newcastle United,0.8
+James Ward-Prowse,Southampton,Newcastle United,2022-11-06,True,DMC,90,0,0.04,0,0.21,2,1,3,7.8,0,0,4,False,2.2,0.01,90.0,10.0,5.0,5.08,6.39,0.05,5,Southampton,False,Liverpool,2.85
+James Ward-Prowse,Southampton,Liverpool,2022-11-12,False,DMC,90,0,0.0,1,0.34,5,0,1,5.6,0,0,3,True,2.2,0.02,90.0,10.0,5.0,5.08,6.39,0.05,5,Southampton,True,Brighton,-0.05
+James Ward-Prowse,Southampton,Brighton,2022-12-26,True,DMC,90,1,1.2,0,0.13,5,3,2,11.5,0,0,3,True,2.8,0.22,90.0,10.0,5.0,5.08,6.39,0.05,7,Southampton,False,Fulham,
+James Ward-Prowse,Southampton,Fulham,2022-12-31,False,MC,90,1,0.05,0,0.12,7,1,1,6.3,2,0,2,True,3.2,0.45,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Nottingham Forest,
+James Ward-Prowse,Southampton,Nottingham Forest,2023-01-04,True,MC,90,0,0.08,0,0.18,2,1,3,7.3,0,0,1,True,4.2,0.46,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Leicester City,-2.36
+James Ward-Prowse,Southampton,Leicester City,2022-08-13,True,MC,90,0,0.03,0,0.0,2,1,0,1.4,0,0,2,False,4.2,0.47,90.0,10.0,5.0,5.08,6.39,0.05,15,Southampton,False,Everton,3.31
+James Ward-Prowse,Southampton,Everton,2023-01-14,False,AMC,90,2,0.63,0,0.18,15,5,3,17.7,3,0,1,True,4.2,0.47,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Aston Villa,-1.21
+James Ward-Prowse,Southampton,Aston Villa,2023-01-21,True,AMC,90,0,0.0,0,0.53,2,0,3,5.9,0,0,1,True,6.2,0.4,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,False,Brentford,3.85
+James Ward-Prowse,Southampton,Brentford,2023-02-04,False,AMC,90,0,0.05,0,0.02,2,2,1,2.8,0,0,3,True,5.6,0.16,90.0,10.0,5.0,5.08,6.39,0.05,1,Southampton,True,Wolverhampton,3.38
+James Ward-Prowse,Southampton,Wolverhampton,2023-02-11,True,MC,90,0,0.02,0,0.2,1,1,4,7.3,0,0,2,True,4.6,0.16,90.0,10.0,5.0,5.08,6.39,0.05,10,Southampton,False,Chelsea,1.8
+James Ward-Prowse,Southampton,Chelsea,2023-02-18,False,MC,90,1,0.06,0,0.08,10,1,2,9.0,3,1,0,True,4.4,0.15,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,False,Leicester City,-2.53
+James Ward-Prowse,Southampton,Leicester City,2023-02-25,False,MC,90,0,0.02,0,0.15,2,1,2,5.3,0,0,1,True,6.0,0.15,90.0,10.0,5.0,5.08,6.39,0.05,0,Southampton,True,Leeds United,-0.35
+James Ward-Prowse,Southampton,Leeds United,2023-03-04,True,DMC,90,0,0.81,0,0.1,0,3,2,7.6,0,1,0,True,3.4,0.03,90.0,10.0,5.0,5.08,6.39,0.05,3,Southampton,False,Manchester United,1.62
+James Ward-Prowse,Southampton,Manchester United,2023-03-12,False,DMC,90,0,0.12,0,0.09,3,2,4,8.1,0,1,0,True,3.0,0.19,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Brentford,-5.16
+James Ward-Prowse,Southampton,Brentford,2023-03-15,True,DMC,90,0,0.06,0,0.0,2,2,0,2.0,0,0,2,True,3.2,0.21,90.0,10.0,5.0,5.08,6.39,0.05,10,Southampton,True,Tottenham,0.15
+James Ward-Prowse,Southampton,Tottenham,2023-03-18,True,MC,90,1,0.89,0,0.23,10,5,5,16.5,3,0,3,True,3.4,0.21,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,False,West Ham,-2.95
+James Ward-Prowse,Southampton,West Ham,2023-04-02,False,MC,90,0,0.0,0,0.02,2,0,1,3.9,0,0,1,True,3.4,0.38,90.0,10.0,5.0,5.08,6.39,0.05,7,Southampton,False,Leeds United,-2.19
+James Ward-Prowse,Southampton,Leeds United,2022-08-20,False,DMC,90,0,0.0,1,0.74,7,0,4,9.2,2,0,1,False,3.4,0.38,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Manchester City,
+James Ward-Prowse,Southampton,Manchester City,2023-04-08,True,MC,90,0,0.0,0,0.11,2,0,1,3.4,0,0,4,True,4.8,0.41,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Crystal Palace,
+James Ward-Prowse,Southampton,Crystal Palace,2023-04-15,True,MC,90,0,0.0,0,0.0,2,0,0,1.9,0,0,2,True,4.6,0.39,90.0,10.0,5.0,5.08,6.39,0.05,2,Southampton,False,Arsenal,2.91
+James Ward-Prowse,Southampton,Arsenal,2023-04-21,False,MC,90,0,0.0,0,0.06,2,0,1,4.4,0,0,3,True,4.6,0.38,90.0,10.0,5.0,5.08,6.39,0.05,1,Southampton,True,Bournemouth,
+James Ward-Prowse,Southampton,Bournemouth,2023-04-27,True,MC,45,0,0.0,0,0.02,1,0,1,0.0,0,0,0,True,3.0,0.2,88.39,10.0,5.0,5.08,6.39,0.05,2,Southampton,False,Newcastle United,-1.73
+James Ward-Prowse,Southampton,Newcastle United,2023-04-30,False,MC,90,0,0.0,0,0.0,2,0,0,1.0,0,0,3,True,2.8,0.2,88.45,10.0,5.0,5.08,6.39,0.05,13,Southampton,False,Nottingham Forest,
+James Ward-Prowse,Southampton,Nottingham Forest,2023-05-08,False,DMC,90,1,0.77,1,0.94,13,2,6,19.5,3,0,4,True,1.8,0.0,88.5,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Fulham,
+James Ward-Prowse,Southampton,Fulham,2023-05-13,True,DMC,90,0,0.0,0,0.0,2,0,0,3.1,0,0,2,True,4.0,0.35,88.55,10.0,5.0,5.08,6.39,0.05,4,Southampton,False,Brighton,
+James Ward-Prowse,Southampton,Brighton,2023-05-21,False,MC,90,0,0.04,1,0.16,4,1,2,6.1,0,0,3,True,4.0,0.35,88.59,10.0,5.0,5.08,6.39,0.05,7,Southampton,True,Liverpool,
 James Ward-Prowse,Southampton,Liverpool,2023-05-28,True,DMC,86,1,0.13,0,0.0,7,2,0,0.0,0,0,4,True,4.4,0.56,88.52,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Manchester United,1.12
-James Ward-Prowse,Southampton,Manchester United,2022-08-27,True,DMC,90,0,0.0,0,0.16,2,0,4,9.4,0,0,1,False,5.6,0.59,88.56,10.0,5.0,5.08,6.39,0.05,1,Southampton,True,Chelsea,1.45
-James Ward-Prowse,Southampton,Chelsea,2022-08-30,True,AMC,90,0,0.0,0,0.27,1,0,1,1.6,0,0,1,False,5.6,0.59,88.6,10.0,5.0,5.08,6.39,0.05,2,Southampton,False,Wolverhampton,2.86
-James Ward-Prowse,Southampton,Wolverhampton,2022-09-03,False,DMC,90,0,0.13,0,0.05,2,2,2,6.9,0,0,1,False,3.2,0.23,88.64,10.0,5.0,5.08,6.39,0.05,1,Southampton,False,Aston Villa,3.18
-James Ward-Prowse,Southampton,Aston Villa,2022-09-16,False,DMC,90,0,0.06,0,0.02,1,2,1,4.7,0,0,1,False,3.2,0.26,88.68,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Everton,0.11
-James Ward-Prowse,Southampton,Everton,2022-10-01,True,MC,90,0,0.1,0,0.48,2,2,2,7.1,0,0,2,False,2.6,0.07,88.71,10.0,5.0,5.08,6.39,0.05,2,West Ham,True,Everton,-1.58
+James Ward-Prowse,Southampton,Manchester United,2022-08-27,True,DMC,90,0,0.0,0,0.16,2,0,4,9.4,0,0,1,False,5.6,0.59,88.56,10.0,5.0,5.08,6.39,0.05,1,Southampton,True,Chelsea,-1.74
+James Ward-Prowse,Southampton,Chelsea,2022-08-30,True,AMC,90,0,0.0,0,0.27,1,0,1,1.6,0,0,1,False,5.6,0.59,88.6,10.0,5.0,5.08,6.39,0.05,2,Southampton,False,Wolverhampton,2.96
+James Ward-Prowse,Southampton,Wolverhampton,2022-09-03,False,DMC,90,0,0.13,0,0.05,2,2,2,6.9,0,0,1,False,3.2,0.23,88.64,10.0,5.0,5.08,6.39,0.05,1,Southampton,False,Aston Villa,2.17
+James Ward-Prowse,Southampton,Aston Villa,2022-09-16,False,DMC,90,0,0.06,0,0.02,1,2,1,4.7,0,0,1,False,3.2,0.26,88.68,10.0,5.0,5.08,6.39,0.05,2,Southampton,True,Everton,3.9
+James Ward-Prowse,Southampton,Everton,2022-10-01,True,MC,90,0,0.1,0,0.48,2,2,2,7.1,0,0,2,False,2.6,0.07,88.71,10.0,5.0,5.08,6.39,0.05,2,West Ham,True,Everton,

@@ -1,4 +1,4 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
 Jonny Evans,Leicester,Brentford,2022-08-07,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,2,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,1,Leicester,False,Bournemouth,
 Jonny Evans,Leicester,Bournemouth,2022-10-08,False,DC,90,0.0,0.08,0.0,0.0,1,1.0,0.0,6.3,0,0,2,0.0,False,1.0,0.0,90.0,0.0,0,0,0,0,0,Leicester,True,Crystal Palace,-0.43
 Jonny Evans,Leicester,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.04,60.0,0.0,0,0,0,0,0,Leicester,True,Leicester City,2.25
@@ -19,9 +19,9 @@ Jonny Evans,Leicester,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.
 Jonny Evans,Leicester,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,15.0,0.0,0,0,0,0,0,Leicester,False,Southampton,-3.27
 Jonny Evans,Leicester,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,14.21,0.0,0,0,0,0,1,Leicester,True,Chelsea,-2.98
 Jonny Evans,Leicester,Chelsea,2023-03-11,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,False,0.0,0.0,13.55,0.0,0,0,0,0,0,Leicester,False,Brentford,-4.9
-Jonny Evans,Leicester,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,12.9,0.0,0,0,0,0,0,Leicester,False,Crystal Palace,2.07
-Jonny Evans,Leicester,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,12.32,0.0,0,0,0,0,0,Leicester,True,Aston Villa,-0.34
-Jonny Evans,Leicester,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,11.78,0.0,0,0,0,0,1,Leicester,True,Southampton,1.76
+Jonny Evans,Leicester,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,12.9,0.0,0,0,0,0,0,Leicester,False,Crystal Palace,
+Jonny Evans,Leicester,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,12.32,0.0,0,0,0,0,0,Leicester,True,Aston Villa,
+Jonny Evans,Leicester,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,11.78,0.0,0,0,0,0,1,Leicester,True,Southampton,
 Jonny Evans,Leicester,Southampton,2022-08-20,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,2,0.0,False,0.2,0.0,15.04,0.0,0,0,0,0,0,Leicester,True,Bournemouth,
 Jonny Evans,Leicester,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,14.44,0.0,0,0,0,0,0,Leicester,False,Manchester City,1.46
 Jonny Evans,Leicester,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,13.88,0.0,0,0,0,0,0,Leicester,True,Wolverhampton,-1.75
@@ -32,8 +32,8 @@ Jonny Evans,Leicester,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,12.03
 Jonny Evans,Leicester,Liverpool,2023-05-15,True,DC,88,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,3,2.04,True,0.0,0.0,14.48,0.0,0,0,0,0,6,Leicester,False,Newcastle United,1.84
 Jonny Evans,Leicester,Newcastle United,2023-05-22,False,DC,62,0.0,0.0,0.0,0.0,6,0.0,0.0,3.0,0,1,0,1.21,True,0.2,0.0,15.97,0.17,0,0,0,0,1,Leicester,True,West Ham,-0.48
 Jonny Evans,Leicester,West Ham,2023-05-28,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,1.34,True,1.4,0.0,18.21,0.14,0,0,0,0,1,Leicester,False,Chelsea,-5.34
-Jonny Evans,Leicester,Chelsea,2022-08-27,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,2,0.0,False,1.6,0.0,20.32,0.12,0,0,0,0,2,Leicester,True,Manchester United,-2.56
+Jonny Evans,Leicester,Chelsea,2022-08-27,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,2,0.0,False,1.6,0.0,20.32,0.12,0,0,0,0,2,Leicester,True,Manchester United,
 Jonny Evans,Leicester,Manchester United,2022-09-01,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.7,0,0,1,0.0,False,1.8,0.0,22.31,0.11,0,0,0,0,0,Leicester,False,Brighton,-2.14
 Jonny Evans,Leicester,Brighton,2022-09-04,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.2,0,0,5,0.0,False,2.2,0.0,24.19,0.1,0,0,0,0,-1,Leicester,False,Tottenham,3.38
 Jonny Evans,Leicester,Tottenham,2022-09-17,False,DC,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,2.7,0,0,6,0.0,False,2.0,0.0,25.97,0.09,0,0,0,0,6,Leicester,True,Nottingham Forest,
-Jonny Evans,Leicester,Nottingham Forest,2022-10-03,True,DC,90,0.0,0.0,0.0,0.09,6,0.0,1.0,2.9,0,1,0,0.0,False,0.6,0.0,27.66,0.17,0,0,0,0,1,Man Utd,True,Manchester City,0.86
+Jonny Evans,Leicester,Nottingham Forest,2022-10-03,True,DC,90,0.0,0.0,0.0,0.09,6,0.0,1.0,2.9,0,1,0,0.0,False,0.6,0.0,27.66,0.17,0,0,0,0,1,Man Utd,True,Manchester City,-1.29

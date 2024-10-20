@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Nathan Patterson,Everton,Fulham,2023-08-12,True,DR,90,0.0,0.44,0.0,0.0,2,3.0,0.0,2.0,0,0,1,1.5,True,0.0,0.0,90.0,0.0,0.83,0.72,12.85,0.15,6.0,Everton,False,West Ham,2.5
-Nathan Patterson,Everton,West Ham,2023-10-29,False,DR,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.6,0,1,0,0.66,True,2.0,0.44,90.0,0.5,0.83,0.72,12.85,0.15,1.0,Everton,True,Brighton,0.33
-Nathan Patterson,Everton,Brighton,2023-11-04,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,4.0,0.22,60.33,0.5,0.83,0.72,12.85,0.15,1.0,Everton,False,Crystal Palace,-0.42
-Nathan Patterson,Everton,Crystal Palace,2023-11-11,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.21,False,3.0,0.15,45.5,0.5,0.83,0.72,12.85,0.15,1.0,Everton,True,Manchester United,0.93
-Nathan Patterson,Everton,Manchester United,2023-11-26,True,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1,0.97,False,2.5,0.11,39.8,0.5,0.83,0.72,12.85,0.15,0.0,Everton,False,Nottingham Forest,0.07
-Nathan Patterson,Everton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.09,33.17,0.5,0.83,0.72,12.85,0.15,4.0,Everton,True,Newcastle United,-0.27
-Nathan Patterson,Everton,Newcastle United,2023-12-07,True,Sub,23,0.0,0.0,1.0,0.3,4,0.0,1.0,3.1,0,0,0,0.7,False,1.8,0.0,31.71,0.5,0.83,0.72,12.85,0.15,1.0,Everton,True,Chelsea,-1.86
-Nathan Patterson,Everton,Chelsea,2023-12-10,True,Sub,49,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,0,0.74,False,1.4,0.2,33.88,0.5,0.83,0.72,12.85,0.15,7.0,Everton,False,Burnley,-3.12
-Nathan Patterson,Everton,Burnley,2023-12-16,False,DR,90,0.0,0.0,0.0,0.39,7,0.0,1.0,3.3,1,1,0,0.77,True,1.4,0.2,40.11,0.67,0.83,0.72,12.85,0.15,0.0,Everton,False,Tottenham,2.99
-Nathan Patterson,Everton,Tottenham,2023-12-23,False,DR,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.5,0,0,2,1.34,True,2.6,0.2,45.1,0.5,0.83,0.72,12.85,0.15,0.0,Everton,True,Manchester City,1.75
-Nathan Patterson,Everton,Manchester City,2023-12-27,True,DR,90,0.0,0.0,0.0,0.04,0,0.0,1.0,2.8,0,0,3,2.6,True,2.4,0.2,49.18,0.4,0.83,0.72,12.85,0.15,-1.0,Everton,False,Aston Villa,3.22
-Nathan Patterson,Everton,Aston Villa,2023-08-20,False,DR,90,0.0,0.02,0.0,0.08,-1,1.0,1.0,3.3,0,0,4,3.11,True,2.4,0.2,52.58,0.33,0.83,0.72,12.85,0.15,0.0,Everton,False,Wolverhampton,1.67
-Nathan Patterson,Everton,Wolverhampton,2023-12-30,False,DR,62,0.0,0.0,0.0,0.0,0,0.0,0.0,0.4,0,0,3,1.84,True,1.4,0.0,53.31,0.29,0.83,0.72,12.85,0.15,0.0,Everton,True,Aston Villa,1.41
-Nathan Patterson,Everton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,49.5,0.29,0.83,0.72,12.85,0.15,1.0,Everton,False,Fulham,-0.21
-Nathan Patterson,Everton,Fulham,2024-01-30,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,0.22,False,-0.2,0.0,46.8,0.29,0.83,0.72,12.85,0.15,0.0,Everton,True,Tottenham,-0.33
-Nathan Patterson,Everton,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,43.88,0.29,0.83,0.72,12.85,0.15,0.0,Everton,False,Manchester City,0.69
-Nathan Patterson,Everton,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,41.29,0.29,0.83,0.72,12.85,0.15,0.0,Everton,True,Crystal Palace,-1.89
-Nathan Patterson,Everton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,39.0,0.29,0.83,0.72,12.85,0.15,0.0,Everton,False,Brighton,-3.42
-Nathan Patterson,Everton,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,36.95,0.29,0.83,0.72,12.85,0.15,0.0,Everton,True,West Ham,1.45
-Nathan Patterson,Everton,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,35.1,0.29,0.83,0.72,12.85,0.15,0.0,Everton,False,Manchester United,1.96
-Nathan Patterson,Everton,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,33.43,0.29,0.83,0.72,12.85,0.15,2.0,Everton,True,Wolverhampton,1.62
-Nathan Patterson,Everton,Wolverhampton,2023-08-26,True,DR,90,0.0,0.0,0.0,0.08,2,0.0,1.0,3.7,0,0,1,1.16,True,0.0,0.0,36.0,0.25,0.83,0.72,12.85,0.15,0.0,Everton,False,Bournemouth,4.39
-Nathan Patterson,Everton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,34.43,0.25,0.83,0.72,12.85,0.15,0.0,Everton,False,Newcastle United,1.81
-Nathan Patterson,Everton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,33.0,0.25,0.83,0.72,12.85,0.15,0.0,Everton,True,Burnley,-2.21
-Nathan Patterson,Everton,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,31.68,0.25,0.83,0.72,12.85,0.15,0.0,Everton,False,Chelsea,1.97
-Nathan Patterson,Everton,Chelsea,2024-04-15,False,Sub,46,0.0,0.0,0.0,0.0,0,0.0,0.0,1.4,0,0,2,1.6,False,0.4,0.0,32.23,0.25,0.83,0.72,12.85,0.15,0.0,Everton,True,Nottingham Forest,-0.72
-Nathan Patterson,Everton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,31.04,0.25,0.83,0.72,12.85,0.15,0.0,Everton,True,Liverpool,-1.2
-Nathan Patterson,Everton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,29.93,0.25,0.83,0.72,12.85,0.15,0.0,Everton,True,Brentford,-2.0
-Nathan Patterson,Everton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,28.9,0.25,0.83,0.72,12.85,0.15,0.0,Everton,False,Luton,0.12
-Nathan Patterson,Everton,Luton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,27.93,0.25,0.83,0.72,12.85,0.15,0.0,Everton,True,Sheffield,-0.93
-Nathan Patterson,Everton,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,27.03,0.25,0.83,0.72,12.85,0.15,0.0,Everton,False,Arsenal,2.52
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Nathan Patterson,Everton,Fulham,2023-08-12,True,DR,90,0.0,0.44,0.0,0.0,2,3.0,0.0,2.0,0,0,1,1.5,True,0.0,0.0,90.0,0.0,0.83,0.72,12.85,0.15,6.0,Everton,False,West Ham,4.39
+Nathan Patterson,Everton,West Ham,2023-10-29,False,DR,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.6,0,1,0,0.66,True,2.0,0.44,90.0,0.5,0.83,0.72,12.85,0.15,1.0,Everton,True,Brighton,2.15
+Nathan Patterson,Everton,Brighton,2023-11-04,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,4.0,0.22,60.33,0.5,0.83,0.72,12.85,0.15,1.0,Everton,False,Crystal Palace,0.85
+Nathan Patterson,Everton,Crystal Palace,2023-11-11,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.21,False,3.0,0.15,45.5,0.5,0.83,0.72,12.85,0.15,1.0,Everton,True,Manchester United,-0.7
+Nathan Patterson,Everton,Manchester United,2023-11-26,True,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1,0.97,False,2.5,0.11,39.8,0.5,0.83,0.72,12.85,0.15,0.0,Everton,False,Nottingham Forest,1.05
+Nathan Patterson,Everton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.09,33.17,0.5,0.83,0.72,12.85,0.15,4.0,Everton,True,Newcastle United,1.57
+Nathan Patterson,Everton,Newcastle United,2023-12-07,True,Sub,23,0.0,0.0,1.0,0.3,4,0.0,1.0,3.1,0,0,0,0.7,False,1.8,0.0,31.71,0.5,0.83,0.72,12.85,0.15,1.0,Everton,True,Chelsea,-0.66
+Nathan Patterson,Everton,Chelsea,2023-12-10,True,Sub,49,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,0,0.74,False,1.4,0.2,33.88,0.5,0.83,0.72,12.85,0.15,7.0,Everton,False,Burnley,-1.91
+Nathan Patterson,Everton,Burnley,2023-12-16,False,DR,90,0.0,0.0,0.0,0.39,7,0.0,1.0,3.3,1,1,0,0.77,True,1.4,0.2,40.11,0.67,0.83,0.72,12.85,0.15,0.0,Everton,False,Tottenham,4.06
+Nathan Patterson,Everton,Tottenham,2023-12-23,False,DR,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.5,0,0,2,1.34,True,2.6,0.2,45.1,0.5,0.83,0.72,12.85,0.15,0.0,Everton,True,Manchester City,1.82
+Nathan Patterson,Everton,Manchester City,2023-12-27,True,DR,90,0.0,0.0,0.0,0.04,0,0.0,1.0,2.8,0,0,3,2.6,True,2.4,0.2,49.18,0.4,0.83,0.72,12.85,0.15,-1.0,Everton,False,Aston Villa,1.9
+Nathan Patterson,Everton,Aston Villa,2023-08-20,False,DR,90,0.0,0.02,0.0,0.08,-1,1.0,1.0,3.3,0,0,4,3.11,True,2.4,0.2,52.58,0.33,0.83,0.72,12.85,0.15,0.0,Everton,False,Wolverhampton,0.11
+Nathan Patterson,Everton,Wolverhampton,2023-12-30,False,DR,62,0.0,0.0,0.0,0.0,0,0.0,0.0,0.4,0,0,3,1.84,True,1.4,0.0,53.31,0.29,0.83,0.72,12.85,0.15,0.0,Everton,True,Aston Villa,2.11
+Nathan Patterson,Everton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,49.5,0.29,0.83,0.72,12.85,0.15,1.0,Everton,False,Fulham,-1.22
+Nathan Patterson,Everton,Fulham,2024-01-30,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,0.22,False,-0.2,0.0,46.8,0.29,0.83,0.72,12.85,0.15,0.0,Everton,True,Tottenham,1.13
+Nathan Patterson,Everton,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,43.88,0.29,0.83,0.72,12.85,0.15,0.0,Everton,False,Manchester City,0.21
+Nathan Patterson,Everton,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,41.29,0.29,0.83,0.72,12.85,0.15,0.0,Everton,True,Crystal Palace,-2.96
+Nathan Patterson,Everton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,39.0,0.29,0.83,0.72,12.85,0.15,0.0,Everton,False,Brighton,-5.19
+Nathan Patterson,Everton,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,36.95,0.29,0.83,0.72,12.85,0.15,0.0,Everton,True,West Ham,0.7
+Nathan Patterson,Everton,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,35.1,0.29,0.83,0.72,12.85,0.15,0.0,Everton,False,Manchester United,0.43
+Nathan Patterson,Everton,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,33.43,0.29,0.83,0.72,12.85,0.15,2.0,Everton,True,Wolverhampton,1.55
+Nathan Patterson,Everton,Wolverhampton,2023-08-26,True,DR,90,0.0,0.0,0.0,0.08,2,0.0,1.0,3.7,0,0,1,1.16,True,0.0,0.0,36.0,0.25,0.83,0.72,12.85,0.15,0.0,Everton,False,Bournemouth,6.99
+Nathan Patterson,Everton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,34.43,0.25,0.83,0.72,12.85,0.15,0.0,Everton,False,Newcastle United,2.12
+Nathan Patterson,Everton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,33.0,0.25,0.83,0.72,12.85,0.15,0.0,Everton,True,Burnley,-3.47
+Nathan Patterson,Everton,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,31.68,0.25,0.83,0.72,12.85,0.15,0.0,Everton,False,Chelsea,-1.5
+Nathan Patterson,Everton,Chelsea,2024-04-15,False,Sub,46,0.0,0.0,0.0,0.0,0,0.0,0.0,1.4,0,0,2,1.6,False,0.4,0.0,32.23,0.25,0.83,0.72,12.85,0.15,0.0,Everton,True,Nottingham Forest,1.11
+Nathan Patterson,Everton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,31.04,0.25,0.83,0.72,12.85,0.15,0.0,Everton,True,Liverpool,0.76
+Nathan Patterson,Everton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,29.93,0.25,0.83,0.72,12.85,0.15,0.0,Everton,True,Brentford,
+Nathan Patterson,Everton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,28.9,0.25,0.83,0.72,12.85,0.15,0.0,Everton,False,Luton,
+Nathan Patterson,Everton,Luton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,27.93,0.25,0.83,0.72,12.85,0.15,0.0,Everton,True,Sheffield,
+Nathan Patterson,Everton,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,27.03,0.25,0.83,0.72,12.85,0.15,0.0,Everton,False,Arsenal,
 Nathan Patterson,Everton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,26.19,0.25,0.83,0.72,12.85,0.15,6.0,Everton,False,Sheffield,-1.68
-Nathan Patterson,Everton,Sheffield,2023-09-02,False,DR,90,0.0,0.0,1.0,0.65,6,0.0,2.0,6.6,2,0,2,1.24,True,0.0,0.0,28.12,0.22,0.83,0.72,12.85,0.15,1.0,Everton,True,Arsenal,-2.09
+Nathan Patterson,Everton,Sheffield,2023-09-02,False,DR,90,0.0,0.0,1.0,0.65,6,0.0,2.0,6.6,2,0,2,1.24,True,0.0,0.0,28.12,0.22,0.83,0.72,12.85,0.15,1.0,Everton,True,Arsenal,-1.26
 Nathan Patterson,Everton,Arsenal,2023-09-17,True,Sub,3,0.0,0.0,0.0,0.07,1,0.0,1.0,1.6,0,0,0,0.0,False,1.2,0.2,27.38,0.22,0.83,0.72,12.85,0.15,0.0,Everton,False,Brentford,0.08
 Nathan Patterson,Everton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.2,26.6,0.22,0.83,0.72,12.85,0.15,1.0,Everton,True,Luton,0.86
-Nathan Patterson,Everton,Luton,2023-09-30,True,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,0.0,False,1.4,0.2,26.19,0.22,0.83,0.72,12.85,0.15,1.0,Everton,True,Bournemouth,-4.02
-Nathan Patterson,Everton,Bournemouth,2023-10-07,True,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.23,False,1.6,0.2,25.81,0.22,0.83,0.72,12.85,0.15,0.0,Everton,False,Liverpool,1.94
+Nathan Patterson,Everton,Luton,2023-09-30,True,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,0.0,False,1.4,0.2,26.19,0.22,0.83,0.72,12.85,0.15,1.0,Everton,True,Bournemouth,-6.26
+Nathan Patterson,Everton,Bournemouth,2023-10-07,True,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.23,False,1.6,0.2,25.81,0.22,0.83,0.72,12.85,0.15,0.0,Everton,False,Liverpool,2.03
 Nathan Patterson,Everton,Liverpool,2023-10-21,False,Sub,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.4,0,0,2,1.71,False,1.8,0.2,26.32,0.22,0.83,0.72,12.85,0.15,,,,,

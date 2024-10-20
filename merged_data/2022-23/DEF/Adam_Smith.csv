@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Adam Smith,Bournemouth,Aston Villa,2022-08-06,True,DR,90,0.0,0.26,0.0,0.0,5,1.0,0.0,1.2,0,1,0,0.0,False,0.0,0.0,90.0,1.0,0,0,0,0,2,Bournemouth,True,Leeds United,-2.17
-Adam Smith,Bournemouth,Leeds United,2022-10-08,True,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.3,0,0,1,0.0,False,5.0,0.26,90.0,0.5,0,0,0,0,1,Bournemouth,False,Fulham,0.65
-Adam Smith,Bournemouth,Fulham,2022-10-15,False,DL,90,0.0,0.6,0.0,0.0,1,1.0,0.0,6.1,0,0,2,0.0,False,3.5,0.13,90.0,0.33,0,0,0,0,2,Bournemouth,True,Southampton,2.91
-Adam Smith,Bournemouth,Southampton,2022-10-19,True,DC,90,0.0,0.0,0.0,0.03,2,0.0,1.0,4.0,0,0,1,0.0,False,2.67,0.29,90.0,0.25,0,0,0,0,1,Bournemouth,False,West Ham,1.5
-Adam Smith,Bournemouth,West Ham,2022-10-24,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,2,0.0,False,2.5,0.22,90.0,0.2,0,0,0,0,5,Bournemouth,True,Tottenham,1.6
-Adam Smith,Bournemouth,Tottenham,2022-10-29,True,DC,90,0.0,0.0,1.0,0.44,5,0.0,1.0,4.4,1,0,3,0.0,False,2.2,0.17,90.0,0.17,0,0,0,0,0,Bournemouth,False,Leicester City,-1.39
-Adam Smith,Bournemouth,Leicester City,2022-11-05,False,DL,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.7,0,0,4,0.0,False,2.2,0.32,90.0,0.14,0,0,0,0,8,Bournemouth,True,Everton,-3.5
-Adam Smith,Bournemouth,Everton,2022-11-12,True,DR,90,0.0,0.0,0.0,0.05,8,0.0,1.0,3.6,2,1,0,0.82,True,1.8,0.32,90.0,0.25,0,0,0,0,1,Bournemouth,False,Chelsea,1.75
-Adam Smith,Bournemouth,Chelsea,2022-12-27,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,2,1.74,True,3.2,0.2,90.0,0.22,0,0,0,0,1,Bournemouth,True,Crystal Palace,0.58
-Adam Smith,Bournemouth,Crystal Palace,2022-12-31,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,2,1.49,True,3.0,0.2,90.0,0.2,0,0,0,0,0,Bournemouth,False,Manchester United,-1.42
-Adam Smith,Bournemouth,Manchester United,2023-01-03,False,DR,62,0.0,0.0,0.0,0.31,0,0.0,1.0,2.8,0,0,2,1.24,True,3.0,0.2,87.45,0.18,0,0,0,0,-1,Bournemouth,False,Manchester City,2.96
-Adam Smith,Bournemouth,Manchester City,2022-08-13,False,DMR,90,0.0,0.06,0.0,0.0,-1,1.0,0.0,4.1,0,0,4,0.0,False,2.0,0.0,87.67,0.17,0,0,0,0,0,Bournemouth,False,Brentford,0.82
-Adam Smith,Bournemouth,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.01,80.92,0.17,0,0,0,0,2,Bournemouth,True,Nottingham Forest,-0.18
-Adam Smith,Bournemouth,Nottingham Forest,2023-01-21,True,DR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,0,1,1.77,True,0.2,0.01,81.57,0.15,0,0,0,0,1,Bournemouth,False,Brighton,0.77
-Adam Smith,Bournemouth,Brighton,2023-02-04,False,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,2.61,True,0.4,0.01,82.13,0.14,0,0,0,0,1,Bournemouth,True,Newcastle United,-1.78
-Adam Smith,Bournemouth,Newcastle United,2023-02-11,True,DR,78,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,1.16,True,0.4,0.01,81.88,0.13,0,0,0,0,5,Bournemouth,False,Wolverhampton,-2.03
-Adam Smith,Bournemouth,Wolverhampton,2023-02-18,False,DR,90,0.0,0.0,0.0,0.0,5,0.0,0.0,1.2,0,1,0,1.16,True,0.6,0.01,82.35,0.19,0,0,0,0,-1,Bournemouth,True,Manchester City,1.44
-Adam Smith,Bournemouth,Manchester City,2023-02-25,True,DR,58,0.0,0.03,0.0,0.0,-1,1.0,0.0,1.4,0,0,4,1.89,True,1.8,0.0,81.0,0.19,0,0,0,0,1,Bournemouth,False,Arsenal,0.25
-Adam Smith,Bournemouth,Arsenal,2023-03-04,False,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,3,2.6,True,1.6,0.01,81.47,0.18,0,0,0,0,6,Bournemouth,True,Liverpool,0.55
-Adam Smith,Bournemouth,Liverpool,2023-03-11,True,DR,79,0.0,0.0,0.0,0.0,6,0.0,0.0,1.2,0,1,0,1.67,True,1.4,0.01,81.35,0.22,0,0,0,0,2,Bournemouth,False,Aston Villa,2.29
-Adam Smith,Bournemouth,Aston Villa,2023-03-18,False,DR,78,0.0,0.0,0.0,0.06,2,0.0,2.0,3.5,0,0,1,1.63,True,2.4,0.01,81.19,0.21,0,0,0,0,2,Bournemouth,True,Fulham,-3.96
-Adam Smith,Bournemouth,Fulham,2023-04-01,True,DR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.7,0,0,1,0.84,True,2.6,0.01,81.59,0.2,0,0,0,0,1,Bournemouth,True,Brighton,-1.19
-Adam Smith,Bournemouth,Brighton,2023-04-04,True,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,2,2.76,True,2.0,0.01,81.96,0.19,0,0,0,0,0,Bournemouth,True,Arsenal,4.06
-Adam Smith,Bournemouth,Arsenal,2022-08-20,True,MR,90,0.0,0.0,0.0,0.05,0,0.0,2.0,5.0,0,0,3,0.0,False,2.4,0.0,82.29,0.18,0,0,0,0,5,Bournemouth,False,Leeds United,-0.64
-Adam Smith,Bournemouth,Leeds United,2023-04-08,False,DR,90,0.0,0.02,0.0,0.0,5,1.0,0.0,2.0,0,1,0,0.68,True,2.2,0.0,82.6,0.22,0,0,0,0,1,Bournemouth,False,Tottenham,0.69
-Adam Smith,Bournemouth,Tottenham,2023-04-15,False,Sub,41,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,1,1.1,False,2.0,0.0,81.0,0.22,0,0,0,0,1,Bournemouth,True,West Ham,2.84
-Adam Smith,Bournemouth,West Ham,2023-04-23,True,DMR,60,0.0,0.0,0.0,0.09,1,0.0,2.0,4.3,0,0,3,1.23,True,1.8,0.0,80.22,0.22,0,0,0,0,1,Bournemouth,False,Southampton,-0.86
-Adam Smith,Bournemouth,Southampton,2023-04-27,False,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.15,False,1.6,0.0,77.79,0.22,0,0,0,0,1,Bournemouth,True,Leicester City,-4.92
-Adam Smith,Bournemouth,Leicester City,2023-04-30,True,DR,90,0.0,0.0,0.0,0.07,1,0.0,1.0,3.0,0,0,1,1.67,True,1.6,0.0,78.21,0.21,0,0,0,0,1,Bournemouth,True,Chelsea,-0.01
-Adam Smith,Bournemouth,Chelsea,2023-05-06,True,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,3,1.39,True,1.8,0.0,78.6,0.2,0,0,0,0,1,Bournemouth,False,Crystal Palace,0.17
-Adam Smith,Bournemouth,Crystal Palace,2023-05-13,False,Sub,30,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.11,False,1.0,0.0,77.03,0.2,0,0,0,0,2,Bournemouth,True,Manchester United,0.69
-Adam Smith,Bournemouth,Manchester United,2023-05-20,True,DR,65,0.0,0.0,0.0,0.18,2,0.0,3.0,6.3,0,0,1,1.25,True,1.0,0.0,76.66,0.19,0,0,0,0,1,Bournemouth,False,Everton,3.85
-Adam Smith,Bournemouth,Everton,2023-05-28,False,DR,82,0.0,0.0,0.0,0.07,1,0.0,1.0,0.0,0,0,1,0.82,True,1.2,0.0,76.82,0.19,0,0,0,0,-2,Bournemouth,False,Liverpool,4.89
-Adam Smith,Bournemouth,Liverpool,2022-08-27,False,DR,45,0.0,0.0,0.0,0.0,-2,0.0,0.0,0.6,0,0,5,0.0,False,1.2,0.0,75.88,0.19,0,0,0,0,6,Bournemouth,True,Wolverhampton,0.64
-Adam Smith,Bournemouth,Wolverhampton,2022-08-31,True,DR,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.5,0,1,0,0.0,False,0.6,0.0,76.29,0.21,0,0,0,0,1,Bournemouth,False,Nottingham Forest,-0.87
-Adam Smith,Bournemouth,Nottingham Forest,2022-09-03,False,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,2,0.0,False,1.6,0.0,76.67,0.21,0,0,0,0,2,Bournemouth,False,Newcastle United,-1.24
-Adam Smith,Bournemouth,Newcastle United,2022-09-17,False,DR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.0,0,0,1,0.0,False,1.6,0.0,77.03,0.2,0,0,0,0,8,Bournemouth,True,Brentford,0.86
-Adam Smith,Bournemouth,Brentford,2022-10-01,True,DR,90,0.0,0.0,0.0,0.06,8,0.0,1.0,3.1,2,1,0,0.0,False,1.6,0.0,77.37,0.23,0,0,0,0,0,Bournemouth,True,West Ham,2.84
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Adam Smith,Bournemouth,Aston Villa,2022-08-06,True,DR,90,0.0,0.26,0.0,0.0,5,1.0,0.0,1.2,0,1,0,0.0,False,0.0,0.0,90.0,1.0,0,0,0,0,2,Bournemouth,True,Leeds United,
+Adam Smith,Bournemouth,Leeds United,2022-10-08,True,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.3,0,0,1,0.0,False,5.0,0.26,90.0,0.5,0,0,0,0,1,Bournemouth,False,Fulham,
+Adam Smith,Bournemouth,Fulham,2022-10-15,False,DL,90,0.0,0.6,0.0,0.0,1,1.0,0.0,6.1,0,0,2,0.0,False,3.5,0.13,90.0,0.33,0,0,0,0,2,Bournemouth,True,Southampton,
+Adam Smith,Bournemouth,Southampton,2022-10-19,True,DC,90,0.0,0.0,0.0,0.03,2,0.0,1.0,4.0,0,0,1,0.0,False,2.67,0.29,90.0,0.25,0,0,0,0,1,Bournemouth,False,West Ham,
+Adam Smith,Bournemouth,West Ham,2022-10-24,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,2,0.0,False,2.5,0.22,90.0,0.2,0,0,0,0,5,Bournemouth,True,Tottenham,
+Adam Smith,Bournemouth,Tottenham,2022-10-29,True,DC,90,0.0,0.0,1.0,0.44,5,0.0,1.0,4.4,1,0,3,0.0,False,2.2,0.17,90.0,0.17,0,0,0,0,0,Bournemouth,False,Leicester City,
+Adam Smith,Bournemouth,Leicester City,2022-11-05,False,DL,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.7,0,0,4,0.0,False,2.2,0.32,90.0,0.14,0,0,0,0,8,Bournemouth,True,Everton,
+Adam Smith,Bournemouth,Everton,2022-11-12,True,DR,90,0.0,0.0,0.0,0.05,8,0.0,1.0,3.6,2,1,0,0.82,True,1.8,0.32,90.0,0.25,0,0,0,0,1,Bournemouth,False,Chelsea,
+Adam Smith,Bournemouth,Chelsea,2022-12-27,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,2,1.74,True,3.2,0.2,90.0,0.22,0,0,0,0,1,Bournemouth,True,Crystal Palace,
+Adam Smith,Bournemouth,Crystal Palace,2022-12-31,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,2,1.49,True,3.0,0.2,90.0,0.2,0,0,0,0,0,Bournemouth,False,Manchester United,
+Adam Smith,Bournemouth,Manchester United,2023-01-03,False,DR,62,0.0,0.0,0.0,0.31,0,0.0,1.0,2.8,0,0,2,1.24,True,3.0,0.2,87.45,0.18,0,0,0,0,-1,Bournemouth,False,Manchester City,
+Adam Smith,Bournemouth,Manchester City,2022-08-13,False,DMR,90,0.0,0.06,0.0,0.0,-1,1.0,0.0,4.1,0,0,4,0.0,False,2.0,0.0,87.67,0.17,0,0,0,0,0,Bournemouth,False,Brentford,
+Adam Smith,Bournemouth,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.01,80.92,0.17,0,0,0,0,2,Bournemouth,True,Nottingham Forest,
+Adam Smith,Bournemouth,Nottingham Forest,2023-01-21,True,DR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,0,1,1.77,True,0.2,0.01,81.57,0.15,0,0,0,0,1,Bournemouth,False,Brighton,
+Adam Smith,Bournemouth,Brighton,2023-02-04,False,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,2.61,True,0.4,0.01,82.13,0.14,0,0,0,0,1,Bournemouth,True,Newcastle United,
+Adam Smith,Bournemouth,Newcastle United,2023-02-11,True,DR,78,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,1.16,True,0.4,0.01,81.88,0.13,0,0,0,0,5,Bournemouth,False,Wolverhampton,
+Adam Smith,Bournemouth,Wolverhampton,2023-02-18,False,DR,90,0.0,0.0,0.0,0.0,5,0.0,0.0,1.2,0,1,0,1.16,True,0.6,0.01,82.35,0.19,0,0,0,0,-1,Bournemouth,True,Manchester City,
+Adam Smith,Bournemouth,Manchester City,2023-02-25,True,DR,58,0.0,0.03,0.0,0.0,-1,1.0,0.0,1.4,0,0,4,1.89,True,1.8,0.0,81.0,0.19,0,0,0,0,1,Bournemouth,False,Arsenal,
+Adam Smith,Bournemouth,Arsenal,2023-03-04,False,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,3,2.6,True,1.6,0.01,81.47,0.18,0,0,0,0,6,Bournemouth,True,Liverpool,
+Adam Smith,Bournemouth,Liverpool,2023-03-11,True,DR,79,0.0,0.0,0.0,0.0,6,0.0,0.0,1.2,0,1,0,1.67,True,1.4,0.01,81.35,0.22,0,0,0,0,2,Bournemouth,False,Aston Villa,
+Adam Smith,Bournemouth,Aston Villa,2023-03-18,False,DR,78,0.0,0.0,0.0,0.06,2,0.0,2.0,3.5,0,0,1,1.63,True,2.4,0.01,81.19,0.21,0,0,0,0,2,Bournemouth,True,Fulham,
+Adam Smith,Bournemouth,Fulham,2023-04-01,True,DR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.7,0,0,1,0.84,True,2.6,0.01,81.59,0.2,0,0,0,0,1,Bournemouth,True,Brighton,
+Adam Smith,Bournemouth,Brighton,2023-04-04,True,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,2,2.76,True,2.0,0.01,81.96,0.19,0,0,0,0,0,Bournemouth,True,Arsenal,2.53
+Adam Smith,Bournemouth,Arsenal,2022-08-20,True,MR,90,0.0,0.0,0.0,0.05,0,0.0,2.0,5.0,0,0,3,0.0,False,2.4,0.0,82.29,0.18,0,0,0,0,5,Bournemouth,False,Leeds United,
+Adam Smith,Bournemouth,Leeds United,2023-04-08,False,DR,90,0.0,0.02,0.0,0.0,5,1.0,0.0,2.0,0,1,0,0.68,True,2.2,0.0,82.6,0.22,0,0,0,0,1,Bournemouth,False,Tottenham,
+Adam Smith,Bournemouth,Tottenham,2023-04-15,False,Sub,41,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,1,1.1,False,2.0,0.0,81.0,0.22,0,0,0,0,1,Bournemouth,True,West Ham,
+Adam Smith,Bournemouth,West Ham,2023-04-23,True,DMR,60,0.0,0.0,0.0,0.09,1,0.0,2.0,4.3,0,0,3,1.23,True,1.8,0.0,80.22,0.22,0,0,0,0,1,Bournemouth,False,Southampton,
+Adam Smith,Bournemouth,Southampton,2023-04-27,False,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.15,False,1.6,0.0,77.79,0.22,0,0,0,0,1,Bournemouth,True,Leicester City,
+Adam Smith,Bournemouth,Leicester City,2023-04-30,True,DR,90,0.0,0.0,0.0,0.07,1,0.0,1.0,3.0,0,0,1,1.67,True,1.6,0.0,78.21,0.21,0,0,0,0,1,Bournemouth,True,Chelsea,
+Adam Smith,Bournemouth,Chelsea,2023-05-06,True,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,3,1.39,True,1.8,0.0,78.6,0.2,0,0,0,0,1,Bournemouth,False,Crystal Palace,
+Adam Smith,Bournemouth,Crystal Palace,2023-05-13,False,Sub,30,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.11,False,1.0,0.0,77.03,0.2,0,0,0,0,2,Bournemouth,True,Manchester United,
+Adam Smith,Bournemouth,Manchester United,2023-05-20,True,DR,65,0.0,0.0,0.0,0.18,2,0.0,3.0,6.3,0,0,1,1.25,True,1.0,0.0,76.66,0.19,0,0,0,0,1,Bournemouth,False,Everton,
+Adam Smith,Bournemouth,Everton,2023-05-28,False,DR,82,0.0,0.0,0.0,0.07,1,0.0,1.0,0.0,0,0,1,0.82,True,1.2,0.0,76.82,0.19,0,0,0,0,-2,Bournemouth,False,Liverpool,7.33
+Adam Smith,Bournemouth,Liverpool,2022-08-27,False,DR,45,0.0,0.0,0.0,0.0,-2,0.0,0.0,0.6,0,0,5,0.0,False,1.2,0.0,75.88,0.19,0,0,0,0,6,Bournemouth,True,Wolverhampton,1.01
+Adam Smith,Bournemouth,Wolverhampton,2022-08-31,True,DR,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.5,0,1,0,0.0,False,0.6,0.0,76.29,0.21,0,0,0,0,1,Bournemouth,False,Nottingham Forest,-0.1
+Adam Smith,Bournemouth,Nottingham Forest,2022-09-03,False,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,2,0.0,False,1.6,0.0,76.67,0.21,0,0,0,0,2,Bournemouth,False,Newcastle United,-1.45
+Adam Smith,Bournemouth,Newcastle United,2022-09-17,False,DR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.0,0,0,1,0.0,False,1.6,0.0,77.03,0.2,0,0,0,0,8,Bournemouth,True,Brentford,0.49
+Adam Smith,Bournemouth,Brentford,2022-10-01,True,DR,90,0.0,0.0,0.0,0.06,8,0.0,1.0,3.1,2,1,0,0.0,False,1.6,0.0,77.37,0.23,0,0,0,0,0,Bournemouth,True,West Ham,

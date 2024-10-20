@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Kevin Mbabu,Fulham,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Fulham,False,West Ham,1.35
-Kevin Mbabu,Fulham,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Fulham,True,Bournemouth,-0.74
-Kevin Mbabu,Fulham,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Fulham,True,Aston Villa,-0.63
-Kevin Mbabu,Fulham,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Fulham,False,Leicester City,-2.72
-Kevin Mbabu,Fulham,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Fulham,True,Everton,0.79
-Kevin Mbabu,Fulham,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1,Fulham,False,Manchester City,1.5
-Kevin Mbabu,Fulham,Manchester City,2022-11-05,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,0.0,False,0.0,0.0,1.43,0.0,0,0,0,0,0,Fulham,True,Manchester United,1.36
-Kevin Mbabu,Fulham,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,1.25,0.0,0,0,0,0,0,Fulham,False,Crystal Palace,-1.05
-Kevin Mbabu,Fulham,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,1.11,0.0,0,0,0,0,0,Fulham,True,Southampton,-0.67
-Kevin Mbabu,Fulham,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,1.0,0.0,0,0,0,0,0,Fulham,False,Leeds United,-2.01
-Kevin Mbabu,Fulham,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.91,0.0,0,0,0,0,0,Fulham,True,Chelsea,1.22
-Kevin Mbabu,Fulham,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.83,0.0,0,0,0,0,1,Fulham,False,Wolverhampton,0.28
-Kevin Mbabu,Fulham,Wolverhampton,2022-08-13,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.85,0.0,0,0,0,0,0,Fulham,False,Newcastle United,1.64
-Kevin Mbabu,Fulham,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.79,0.0,0,0,0,0,0,Fulham,True,Tottenham,-0.89
-Kevin Mbabu,Fulham,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.73,0.0,0,0,0,0,0,Fulham,False,Chelsea,0.71
-Kevin Mbabu,Fulham,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.69,0.0,0,0,0,0,0,Fulham,True,Nottingham Forest,-3.99
-Kevin Mbabu,Fulham,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.65,0.0,0,0,0,0,0,Fulham,False,Brighton,-0.55
-Kevin Mbabu,Fulham,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.61,0.0,0,0,0,0,0,Fulham,True,Wolverhampton,0.52
-Kevin Mbabu,Fulham,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.58,0.0,0,0,0,0,0,Fulham,False,Brentford,0.07
-Kevin Mbabu,Fulham,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.55,0.0,0,0,0,0,0,Fulham,True,Arsenal,0.97
-Kevin Mbabu,Fulham,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.52,0.0,0,0,0,0,0,Fulham,False,Bournemouth,3.99
-Kevin Mbabu,Fulham,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.5,0.0,0,0,0,0,3,Fulham,True,Brentford,1.56
-Kevin Mbabu,Fulham,Brentford,2022-08-20,True,Sub,13,0.0,0.0,1.0,0.56,3,0.0,2.0,5.7,0,0,0,0.0,False,0.0,0.0,1.04,0.0,0,0,0,0,0,Fulham,True,West Ham,-0.79
-Kevin Mbabu,Fulham,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.2,1.0,0.0,0,0,0,0,0,Fulham,False,Everton,-0.93
-Kevin Mbabu,Fulham,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.2,0.96,0.0,0,0,0,0,0,Fulham,True,Leicester City,-2.18
-Kevin Mbabu,Fulham,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.2,0.92,0.0,0,0,0,0,0,Fulham,False,Aston Villa,2.57
-Kevin Mbabu,Fulham,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.2,0.89,0.0,0,0,0,0,0,Fulham,True,Manchester City,2.68
-Kevin Mbabu,Fulham,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.2,0.86,0.0,0,0,0,0,0,Fulham,False,Liverpool,0.28
-Kevin Mbabu,Fulham,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.83,0.0,0,0,0,0,0,Fulham,True,Leeds United,0.24
-Kevin Mbabu,Fulham,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.8,0.0,0,0,0,0,0,Fulham,False,Southampton,-1.16
-Kevin Mbabu,Fulham,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.77,0.0,0,0,0,0,0,Fulham,True,Crystal Palace,0.27
-Kevin Mbabu,Fulham,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.75,0.0,0,0,0,0,0,Fulham,False,Manchester United,0.13
-Kevin Mbabu,Fulham,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.73,0.0,0,0,0,0,1,Fulham,False,Arsenal,-0.68
-Kevin Mbabu,Fulham,Arsenal,2022-08-27,False,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,0.0,False,0.0,0.0,1.03,0.0,0,0,0,0,0,Fulham,True,Brighton,-2.78
-Kevin Mbabu,Fulham,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,1.0,0.0,0,0,0,0,1,Fulham,False,Tottenham,1.6
-Kevin Mbabu,Fulham,Tottenham,2022-09-03,False,Sub,61,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,2,0.0,False,0.2,0.0,2.67,0.0,0,0,0,0,0,Fulham,False,Nottingham Forest,1.93
-Kevin Mbabu,Fulham,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,2.59,0.0,0,0,0,0,0,Fulham,True,Newcastle United,3.13
-Kevin Mbabu,Fulham,Newcastle United,2022-10-01,True,DR,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.3,0,0,3,0.0,False,0.4,0.0,3.71,0.0,0,0,0,0,0,Fulham,False,Everton,-0.93
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Kevin Mbabu,Fulham,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Fulham,False,West Ham,
+Kevin Mbabu,Fulham,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Fulham,True,Bournemouth,
+Kevin Mbabu,Fulham,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Fulham,True,Aston Villa,
+Kevin Mbabu,Fulham,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Fulham,False,Leicester City,
+Kevin Mbabu,Fulham,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Fulham,True,Everton,
+Kevin Mbabu,Fulham,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1,Fulham,False,Manchester City,
+Kevin Mbabu,Fulham,Manchester City,2022-11-05,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,0.0,False,0.0,0.0,1.43,0.0,0,0,0,0,0,Fulham,True,Manchester United,
+Kevin Mbabu,Fulham,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,1.25,0.0,0,0,0,0,0,Fulham,False,Crystal Palace,
+Kevin Mbabu,Fulham,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,1.11,0.0,0,0,0,0,0,Fulham,True,Southampton,
+Kevin Mbabu,Fulham,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,1.0,0.0,0,0,0,0,0,Fulham,False,Leeds United,
+Kevin Mbabu,Fulham,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.91,0.0,0,0,0,0,0,Fulham,True,Chelsea,
+Kevin Mbabu,Fulham,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.83,0.0,0,0,0,0,1,Fulham,False,Wolverhampton,
+Kevin Mbabu,Fulham,Wolverhampton,2022-08-13,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.85,0.0,0,0,0,0,0,Fulham,False,Newcastle United,
+Kevin Mbabu,Fulham,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.79,0.0,0,0,0,0,0,Fulham,True,Tottenham,
+Kevin Mbabu,Fulham,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.73,0.0,0,0,0,0,0,Fulham,False,Chelsea,
+Kevin Mbabu,Fulham,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.69,0.0,0,0,0,0,0,Fulham,True,Nottingham Forest,
+Kevin Mbabu,Fulham,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.65,0.0,0,0,0,0,0,Fulham,False,Brighton,
+Kevin Mbabu,Fulham,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.61,0.0,0,0,0,0,0,Fulham,True,Wolverhampton,
+Kevin Mbabu,Fulham,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.58,0.0,0,0,0,0,0,Fulham,False,Brentford,
+Kevin Mbabu,Fulham,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.55,0.0,0,0,0,0,0,Fulham,True,Arsenal,
+Kevin Mbabu,Fulham,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.52,0.0,0,0,0,0,0,Fulham,False,Bournemouth,
+Kevin Mbabu,Fulham,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.5,0.0,0,0,0,0,3,Fulham,True,Brentford,-2.09
+Kevin Mbabu,Fulham,Brentford,2022-08-20,True,Sub,13,0.0,0.0,1.0,0.56,3,0.0,2.0,5.7,0,0,0,0.0,False,0.0,0.0,1.04,0.0,0,0,0,0,0,Fulham,True,West Ham,
+Kevin Mbabu,Fulham,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.2,1.0,0.0,0,0,0,0,0,Fulham,False,Everton,
+Kevin Mbabu,Fulham,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.2,0.96,0.0,0,0,0,0,0,Fulham,True,Leicester City,
+Kevin Mbabu,Fulham,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.2,0.92,0.0,0,0,0,0,0,Fulham,False,Aston Villa,
+Kevin Mbabu,Fulham,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.2,0.89,0.0,0,0,0,0,0,Fulham,True,Manchester City,
+Kevin Mbabu,Fulham,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.2,0.86,0.0,0,0,0,0,0,Fulham,False,Liverpool,
+Kevin Mbabu,Fulham,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.83,0.0,0,0,0,0,0,Fulham,True,Leeds United,
+Kevin Mbabu,Fulham,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.8,0.0,0,0,0,0,0,Fulham,False,Southampton,
+Kevin Mbabu,Fulham,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.77,0.0,0,0,0,0,0,Fulham,True,Crystal Palace,
+Kevin Mbabu,Fulham,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.75,0.0,0,0,0,0,0,Fulham,False,Manchester United,
+Kevin Mbabu,Fulham,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.73,0.0,0,0,0,0,1,Fulham,False,Arsenal,0.0
+Kevin Mbabu,Fulham,Arsenal,2022-08-27,False,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,0.0,False,0.0,0.0,1.03,0.0,0,0,0,0,0,Fulham,True,Brighton,-0.52
+Kevin Mbabu,Fulham,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,1.0,0.0,0,0,0,0,1,Fulham,False,Tottenham,1.23
+Kevin Mbabu,Fulham,Tottenham,2022-09-03,False,Sub,61,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,2,0.0,False,0.2,0.0,2.67,0.0,0,0,0,0,0,Fulham,False,Nottingham Forest,-0.51
+Kevin Mbabu,Fulham,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,2.59,0.0,0,0,0,0,0,Fulham,True,Newcastle United,3.93
+Kevin Mbabu,Fulham,Newcastle United,2022-10-01,True,DR,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.3,0,0,3,0.0,False,0.4,0.0,3.71,0.0,0,0,0,0,0,Fulham,False,Everton,

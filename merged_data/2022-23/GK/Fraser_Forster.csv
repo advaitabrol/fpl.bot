@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty,saves_per_game,last_season_total_saves
-Fraser Forster,Spurs,Southampton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Spurs,False,Brighton,0.26,0.0,0
-Fraser Forster,Spurs,Brighton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Spurs,True,Everton,-2.75,0.0,0
-Fraser Forster,Spurs,Everton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Spurs,False,Manchester United,2.48,0.0,0
-Fraser Forster,Spurs,Manchester United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Spurs,True,Newcastle United,-2.91,0.0,0
-Fraser Forster,Spurs,Newcastle United,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Spurs,False,Bournemouth,-2.08,0.0,0
-Fraser Forster,Spurs,Bournemouth,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Spurs,True,Liverpool,-0.19,0.0,0
-Fraser Forster,Spurs,Liverpool,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Spurs,True,Leicester City,-1.16,0.0,0
-Fraser Forster,Spurs,Leicester City,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,2,Spurs,False,Brentford,1.03,0.0,0
-Fraser Forster,Spurs,Brentford,2022-12-26,False,90,2,2.15,3,0,2,0,False,0.0,True,0.0,0.0,0,0,0,0,Spurs,True,Aston Villa,1.75,0.33,0
-Fraser Forster,Spurs,Aston Villa,,True,0,0,0.0,0,0,0,0,False,,False,0.4,0.0,0,0,0,0,Spurs,False,Crystal Palace,0.96,0.3,0
-Fraser Forster,Spurs,Crystal Palace,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.0,0,0,0,0,Spurs,False,Chelsea,1.82,0.27,0
-Fraser Forster,Spurs,Chelsea,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.0,0,0,0,0,Spurs,True,Arsenal,-0.34,0.25,0
-Fraser Forster,Spurs,Arsenal,,True,0,0,0.0,0,0,0,0,False,,False,0.4,0.0,0,0,0,0,Spurs,False,Manchester City,-0.2,0.23,0
-Fraser Forster,Spurs,Manchester City,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.0,0,0,0,0,Spurs,False,Fulham,1.2,0.21,0
-Fraser Forster,Spurs,Fulham,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Spurs,True,Manchester City,-0.27,0.2,0
-Fraser Forster,Spurs,Manchester City,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Spurs,False,Leeds United,1.25,0.19,0
-Fraser Forster,Spurs,Leeds United,2023-02-11,False,90,4,1.54,2,0,0,0,False,0.0,True,0.0,0.0,0,0,0,6,Spurs,True,West Ham,0.26,0.29,0
-Fraser Forster,Spurs,West Ham,2023-02-19,True,90,0,0.48,1,0,6,0,True,0.0,True,0.0,0.33,0,0,0,6,Spurs,True,Chelsea,2.8,0.33,0
-Fraser Forster,Spurs,Chelsea,2023-02-26,True,90,0,0.41,2,0,6,0,True,0.0,True,1.2,0.5,0,0,0,3,Spurs,False,Wolverhampton,0.79,0.42,0
-Fraser Forster,Spurs,Wolverhampton,2023-03-04,False,90,1,0.44,4,0,3,0,False,0.0,True,2.4,0.4,0,0,0,9,Spurs,True,Nottingham Forest,-0.6,0.6,0
-Fraser Forster,Spurs,Nottingham Forest,2023-03-11,True,90,1,1.57,4,1,9,1,False,0.0,True,3.0,0.33,0,0,0,2,Spurs,False,Southampton,-0.37,0.76,0
-Fraser Forster,Spurs,Southampton,2023-03-18,False,90,3,2.4,4,0,2,0,False,0.0,True,4.8,0.29,0,0,0,0,Spurs,False,Everton,0.55,0.91,0
-Fraser Forster,Spurs,Everton,,False,0,0,0.0,0,0,0,0,False,,False,5.2,0.29,0,0,0,0,Spurs,True,Wolverhampton,2.72,0.87,0
-Fraser Forster,Spurs,Wolverhampton,,True,0,0,0.0,0,0,0,0,False,,False,4.0,0.29,0,0,0,0,Spurs,True,Brighton,-0.2,0.83,0
-Fraser Forster,Spurs,Brighton,,True,0,0,0.0,0,0,0,0,False,,False,2.8,0.29,0,0,0,0,Spurs,True,Bournemouth,-1.78,0.8,0
-Fraser Forster,Spurs,Bournemouth,,True,0,0,0.0,0,0,0,0,False,,False,2.2,0.29,0,0,0,1,Spurs,False,Newcastle United,4.3,0.77,0
-Fraser Forster,Spurs,Newcastle United,2023-04-23,False,45,1,1.42,1,0,1,0,False,0.0,False,0.4,0.29,0,0,0,2,Spurs,True,Manchester United,-0.02,0.78,0
-Fraser Forster,Spurs,Manchester United,2023-04-27,True,90,2,2.13,5,0,2,0,False,0.0,True,0.2,0.25,0,0,0,0,Spurs,False,Liverpool,0.68,0.93,0
-Fraser Forster,Spurs,Liverpool,2023-04-30,False,90,4,2.33,0,0,0,0,False,0.0,True,0.6,0.22,0,0,0,5,Spurs,True,Crystal Palace,-2.03,0.9,0
-Fraser Forster,Spurs,Crystal Palace,2023-05-06,True,90,0,0.37,2,0,5,0,True,0.0,True,0.6,0.3,0,0,0,1,Spurs,False,Aston Villa,-2.16,0.93,0
-Fraser Forster,Spurs,Aston Villa,2023-05-13,False,90,2,1.18,2,0,1,0,False,0.0,True,1.6,0.27,0,0,0,1,Spurs,True,Brentford,-1.31,0.97,0
-Fraser Forster,Spurs,Brentford,2023-05-20,True,90,3,1.29,1,0,1,0,False,0.0,True,1.8,0.25,0,0,0,2,Spurs,False,Leicester City,-4.57,0.97,0
-Fraser Forster,Spurs,Leicester City,2023-05-28,False,90,1,1.5,1,0,2,0,False,0.0,True,1.8,0.23,0,0,0,0,Spurs,False,Nottingham Forest,-3.55,0.97,0
-Fraser Forster,Spurs,Nottingham Forest,,False,0,0,0.0,0,0,0,0,False,,False,1.8,0.23,0,0,0,0,Spurs,False,West Ham,2.47,0.94,0
-Fraser Forster,Spurs,West Ham,,False,0,0,0.0,0,0,0,0,False,,False,1.8,0.23,0,0,0,0,Spurs,True,Fulham,-2.03,0.91,0
-Fraser Forster,Spurs,Fulham,,True,0,0,0.0,0,0,0,0,False,,False,0.8,0.23,0,0,0,0,Spurs,True,Leeds United,-3.41,0.89,0
-Fraser Forster,Spurs,Leeds United,,True,0,0,0.0,0,0,0,0,False,,False,0.6,0.23,0,0,0,0,Spurs,False,Arsenal,1.92,0.86,0
-Fraser Forster,Spurs,Arsenal,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.23,0,0,0,0,Spurs,False,Brentford,1.03,0.84,0
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,saves_per_game,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,last_season_total_saves,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Fraser Forster,Spurs,Southampton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0,Spurs,False,Brighton,-2.68
+Fraser Forster,Spurs,Brighton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0,Spurs,True,Everton,-5.21
+Fraser Forster,Spurs,Everton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0,Spurs,False,Manchester United,4.8
+Fraser Forster,Spurs,Manchester United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0,Spurs,True,Newcastle United,-3.79
+Fraser Forster,Spurs,Newcastle United,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0,Spurs,False,Bournemouth,
+Fraser Forster,Spurs,Bournemouth,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0,Spurs,True,Liverpool,0.32
+Fraser Forster,Spurs,Liverpool,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0,Spurs,True,Leicester City,-0.2
+Fraser Forster,Spurs,Leicester City,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,2,Spurs,False,Brentford,1.4
+Fraser Forster,Spurs,Brentford,2022-12-26,False,90,2,2.15,3,0,2,0,False,0.0,True,0.0,0.0,0.33,0,0,0,0,0,Spurs,True,Aston Villa,-0.44
+Fraser Forster,Spurs,Aston Villa,,True,0,0,0.0,0,0,0,0,False,,False,0.4,0.0,0.3,0,0,0,0,0,Spurs,False,Crystal Palace,7.24
+Fraser Forster,Spurs,Crystal Palace,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.0,0.27,0,0,0,0,0,Spurs,False,Chelsea,3.74
+Fraser Forster,Spurs,Chelsea,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.0,0.25,0,0,0,0,0,Spurs,True,Arsenal,-2.81
+Fraser Forster,Spurs,Arsenal,,True,0,0,0.0,0,0,0,0,False,,False,0.4,0.0,0.23,0,0,0,0,0,Spurs,False,Manchester City,-2.29
+Fraser Forster,Spurs,Manchester City,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.0,0.21,0,0,0,0,0,Spurs,False,Fulham,
+Fraser Forster,Spurs,Fulham,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.2,0,0,0,0,0,Spurs,True,Manchester City,-0.19
+Fraser Forster,Spurs,Manchester City,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.19,0,0,0,0,0,Spurs,False,Leeds United,1.08
+Fraser Forster,Spurs,Leeds United,2023-02-11,False,90,4,1.54,2,0,0,0,False,0.0,True,0.0,0.0,0.29,0,0,0,0,6,Spurs,True,West Ham,-1.58
+Fraser Forster,Spurs,West Ham,2023-02-19,True,90,0,0.48,1,0,6,0,True,0.0,True,0.0,0.33,0.33,0,0,0,0,6,Spurs,True,Chelsea,5.76
+Fraser Forster,Spurs,Chelsea,2023-02-26,True,90,0,0.41,2,0,6,0,True,0.0,True,1.2,0.5,0.42,0,0,0,0,3,Spurs,False,Wolverhampton,-1.1
+Fraser Forster,Spurs,Wolverhampton,2023-03-04,False,90,1,0.44,4,0,3,0,False,0.0,True,2.4,0.4,0.6,0,0,0,0,9,Spurs,True,Nottingham Forest,
+Fraser Forster,Spurs,Nottingham Forest,2023-03-11,True,90,1,1.57,4,1,9,1,False,0.0,True,3.0,0.33,0.76,0,0,0,0,2,Spurs,False,Southampton,-0.01
+Fraser Forster,Spurs,Southampton,2023-03-18,False,90,3,2.4,4,0,2,0,False,0.0,True,4.8,0.29,0.91,0,0,0,0,0,Spurs,False,Everton,-0.37
+Fraser Forster,Spurs,Everton,,False,0,0,0.0,0,0,0,0,False,,False,5.2,0.29,0.87,0,0,0,0,0,Spurs,True,Wolverhampton,-0.85
+Fraser Forster,Spurs,Wolverhampton,,True,0,0,0.0,0,0,0,0,False,,False,4.0,0.29,0.83,0,0,0,0,0,Spurs,True,Brighton,
+Fraser Forster,Spurs,Brighton,,True,0,0,0.0,0,0,0,0,False,,False,2.8,0.29,0.8,0,0,0,0,0,Spurs,True,Bournemouth,
+Fraser Forster,Spurs,Bournemouth,,True,0,0,0.0,0,0,0,0,False,,False,2.2,0.29,0.77,0,0,0,0,1,Spurs,False,Newcastle United,0.79
+Fraser Forster,Spurs,Newcastle United,2023-04-23,False,45,1,1.42,1,0,1,0,False,0.0,False,0.4,0.29,0.78,0,0,0,0,2,Spurs,True,Manchester United,5.3
+Fraser Forster,Spurs,Manchester United,2023-04-27,True,90,2,2.13,5,0,2,0,False,0.0,True,0.2,0.25,0.93,0,0,0,0,0,Spurs,False,Liverpool,
+Fraser Forster,Spurs,Liverpool,2023-04-30,False,90,4,2.33,0,0,0,0,False,0.0,True,0.6,0.22,0.9,0,0,0,0,5,Spurs,True,Crystal Palace,-3.09
+Fraser Forster,Spurs,Crystal Palace,2023-05-06,True,90,0,0.37,2,0,5,0,True,0.0,True,0.6,0.3,0.93,0,0,0,0,1,Spurs,False,Aston Villa,
+Fraser Forster,Spurs,Aston Villa,2023-05-13,False,90,2,1.18,2,0,1,0,False,0.0,True,1.6,0.27,0.97,0,0,0,0,1,Spurs,True,Brentford,-3.15
+Fraser Forster,Spurs,Brentford,2023-05-20,True,90,3,1.29,1,0,1,0,False,0.0,True,1.8,0.25,0.97,0,0,0,0,2,Spurs,False,Leicester City,
+Fraser Forster,Spurs,Leicester City,2023-05-28,False,90,1,1.5,1,0,2,0,False,0.0,True,1.8,0.23,0.97,0,0,0,0,0,Spurs,False,Nottingham Forest,-5.2
+Fraser Forster,Spurs,Nottingham Forest,,False,0,0,0.0,0,0,0,0,False,,False,1.8,0.23,0.94,0,0,0,0,0,Spurs,False,West Ham,2.68
+Fraser Forster,Spurs,West Ham,,False,0,0,0.0,0,0,0,0,False,,False,1.8,0.23,0.91,0,0,0,0,0,Spurs,True,Fulham,-1.52
+Fraser Forster,Spurs,Fulham,,True,0,0,0.0,0,0,0,0,False,,False,0.8,0.23,0.89,0,0,0,0,0,Spurs,True,Leeds United,-5.34
+Fraser Forster,Spurs,Leeds United,,True,0,0,0.0,0,0,0,0,False,,False,0.6,0.23,0.86,0,0,0,0,0,Spurs,False,Arsenal,2.45
+Fraser Forster,Spurs,Arsenal,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.23,0.84,0,0,0,0,0,Spurs,False,Brentford,0.99

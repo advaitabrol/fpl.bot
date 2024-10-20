@@ -1,28 +1,28 @@
-name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Lewis Payne,Southampton,Arsenal,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,Crystal Palace,1.04
-Lewis Payne,Southampton,Crystal Palace,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Newcastle United,3.01
-Lewis Payne,Southampton,Newcastle United,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,Liverpool,4.09
-Lewis Payne,Southampton,Liverpool,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Brighton,0.98
-Lewis Payne,Southampton,Brighton,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,Fulham,1.81
-Lewis Payne,Southampton,Fulham,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Nottingham Forest,3.03
-Lewis Payne,Southampton,Nottingham Forest,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,Everton,2.07
-Lewis Payne,Southampton,Everton,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Aston Villa,0.29
-Lewis Payne,Southampton,Aston Villa,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,Brentford,4.79
-Lewis Payne,Southampton,Brentford,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Wolverhampton,2.57
-Lewis Payne,Southampton,Wolverhampton,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,Chelsea,0.51
-Lewis Payne,Southampton,Chelsea,False,0,0,0.0,0,0,0,False,0.0,Southampton,False,Leicester City,-0.79
-Lewis Payne,Southampton,Leicester City,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Leeds United,-1.21
-Lewis Payne,Southampton,Leeds United,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,Manchester United,0.89
-Lewis Payne,Southampton,Manchester United,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Brentford,0.03
-Lewis Payne,Southampton,Brentford,True,0,0,0.0,0,0,0,False,0.0,Southampton,True,Tottenham,0.56
-Lewis Payne,Southampton,Tottenham,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,West Ham,0.0
-Lewis Payne,Southampton,West Ham,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Manchester City,0.1
-Lewis Payne,Southampton,Manchester City,True,0,0,0.0,0,0,0,False,0.0,Southampton,True,Crystal Palace,2.32
-Lewis Payne,Southampton,Crystal Palace,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,Arsenal,0.71
-Lewis Payne,Southampton,Arsenal,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Bournemouth,2.76
-Lewis Payne,Southampton,Bournemouth,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,Newcastle United,1.29
-Lewis Payne,Southampton,Newcastle United,False,0,0,0.0,0,0,0,False,0.0,Southampton,False,Nottingham Forest,1.95
-Lewis Payne,Southampton,Nottingham Forest,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Fulham,2.66
-Lewis Payne,Southampton,Fulham,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,Brighton,1.32
-Lewis Payne,Southampton,Brighton,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Liverpool,-0.47
-Lewis Payne,Southampton,Liverpool,True,0,0,0.0,0,0,0,False,,Wolves,False,Manchester United,0.79
+name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Lewis Payne,Southampton,Arsenal,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,Crystal Palace,-0.36
+Lewis Payne,Southampton,Crystal Palace,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Newcastle United,0.8
+Lewis Payne,Southampton,Newcastle United,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,Liverpool,2.85
+Lewis Payne,Southampton,Liverpool,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Brighton,-0.05
+Lewis Payne,Southampton,Brighton,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,Fulham,
+Lewis Payne,Southampton,Fulham,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Nottingham Forest,
+Lewis Payne,Southampton,Nottingham Forest,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,Everton,3.31
+Lewis Payne,Southampton,Everton,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Aston Villa,-1.21
+Lewis Payne,Southampton,Aston Villa,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,Brentford,3.85
+Lewis Payne,Southampton,Brentford,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Wolverhampton,3.38
+Lewis Payne,Southampton,Wolverhampton,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,Chelsea,1.8
+Lewis Payne,Southampton,Chelsea,False,0,0,0.0,0,0,0,False,0.0,Southampton,False,Leicester City,-2.53
+Lewis Payne,Southampton,Leicester City,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Leeds United,-0.35
+Lewis Payne,Southampton,Leeds United,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,Manchester United,1.62
+Lewis Payne,Southampton,Manchester United,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Brentford,-5.16
+Lewis Payne,Southampton,Brentford,True,0,0,0.0,0,0,0,False,0.0,Southampton,True,Tottenham,0.15
+Lewis Payne,Southampton,Tottenham,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,West Ham,-2.95
+Lewis Payne,Southampton,West Ham,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Manchester City,-3.41
+Lewis Payne,Southampton,Manchester City,True,0,0,0.0,0,0,0,False,0.0,Southampton,True,Crystal Palace,0.7
+Lewis Payne,Southampton,Crystal Palace,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,Arsenal,2.91
+Lewis Payne,Southampton,Arsenal,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Bournemouth,
+Lewis Payne,Southampton,Bournemouth,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,Newcastle United,-1.73
+Lewis Payne,Southampton,Newcastle United,False,0,0,0.0,0,0,0,False,0.0,Southampton,False,Nottingham Forest,
+Lewis Payne,Southampton,Nottingham Forest,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Fulham,
+Lewis Payne,Southampton,Fulham,True,0,0,0.0,0,0,0,False,0.0,Southampton,False,Brighton,
+Lewis Payne,Southampton,Brighton,False,0,0,0.0,0,0,0,False,0.0,Southampton,True,Liverpool,
+Lewis Payne,Southampton,Liverpool,True,0,0,0.0,0,0,0,False,,Wolves,False,Manchester United,-0.63

@@ -1,39 +1,39 @@
-name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Paul Dummett,Newcastle,Nottingham Forest,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Brentford,-2.07
-Paul Dummett,Newcastle,Brentford,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Manchester United,0.69
-Paul Dummett,Newcastle,Manchester United,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Everton,-2.28
-Paul Dummett,Newcastle,Everton,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Tottenham,3.36
-Paul Dummett,Newcastle,Tottenham,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Aston Villa,-3.48
-Paul Dummett,Newcastle,Aston Villa,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Southampton,-1.99
-Paul Dummett,Newcastle,Southampton,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Chelsea,-0.41
-Paul Dummett,Newcastle,Chelsea,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Leeds United,0.85
-Paul Dummett,Newcastle,Leeds United,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Leicester City,-1.07
-Paul Dummett,Newcastle,Leicester City,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Arsenal,1.52
-Paul Dummett,Newcastle,Arsenal,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Brighton,0.38
-Paul Dummett,Newcastle,Brighton,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Fulham,-0.43
-Paul Dummett,Newcastle,Fulham,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Crystal Palace,0.54
-Paul Dummett,Newcastle,Crystal Palace,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,West Ham,0.92
-Paul Dummett,Newcastle,West Ham,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Bournemouth,1.83
-Paul Dummett,Newcastle,Bournemouth,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Liverpool,1.54
-Paul Dummett,Newcastle,Liverpool,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Manchester City,2.91
-Paul Dummett,Newcastle,Manchester City,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Wolverhampton,-2.13
-Paul Dummett,Newcastle,Wolverhampton,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Nottingham Forest,0.98
-Paul Dummett,Newcastle,Nottingham Forest,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Manchester United,-1.44
-Paul Dummett,Newcastle,Manchester United,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,West Ham,0.28
-Paul Dummett,Newcastle,West Ham,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Manchester City,3.23
-Paul Dummett,Newcastle,Manchester City,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Brentford,-1.1
-Paul Dummett,Newcastle,Brentford,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Aston Villa,2.1
-Paul Dummett,Newcastle,Aston Villa,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Tottenham,-3.04
-Paul Dummett,Newcastle,Tottenham,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Everton,1.08
-Paul Dummett,Newcastle,Everton,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Southampton,-0.72
-Paul Dummett,Newcastle,Southampton,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Arsenal,-0.34
-Paul Dummett,Newcastle,Arsenal,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Leicester City,0.06
-Paul Dummett,Newcastle,Leicester City,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Brighton,-2.35
-Paul Dummett,Newcastle,Brighton,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Leeds United,-1.95
-Paul Dummett,Newcastle,Leeds United,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Chelsea,0.97
-Paul Dummett,Newcastle,Chelsea,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Wolverhampton,0.77
-Paul Dummett,Newcastle,Wolverhampton,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Liverpool,2.07
-Paul Dummett,Newcastle,Liverpool,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Crystal Palace,-2.12
-Paul Dummett,Newcastle,Crystal Palace,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Bournemouth,2.0
-Paul Dummett,Newcastle,Bournemouth,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Fulham,-1.79
-Paul Dummett,Newcastle,Fulham,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Aston Villa,-3.48
+name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Paul Dummett,Newcastle,Nottingham Forest,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Brentford,-2.4
+Paul Dummett,Newcastle,Brentford,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Manchester United,1.2
+Paul Dummett,Newcastle,Manchester United,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Everton,-5.87
+Paul Dummett,Newcastle,Everton,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Tottenham,4.75
+Paul Dummett,Newcastle,Tottenham,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Aston Villa,-2.14
+Paul Dummett,Newcastle,Aston Villa,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Southampton,-1.93
+Paul Dummett,Newcastle,Southampton,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Chelsea,1.87
+Paul Dummett,Newcastle,Chelsea,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Leeds United,6.23
+Paul Dummett,Newcastle,Leeds United,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Leicester City,-1.01
+Paul Dummett,Newcastle,Leicester City,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Arsenal,2.9
+Paul Dummett,Newcastle,Arsenal,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Brighton,-0.9
+Paul Dummett,Newcastle,Brighton,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Fulham,
+Paul Dummett,Newcastle,Fulham,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Crystal Palace,-1.13
+Paul Dummett,Newcastle,Crystal Palace,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,West Ham,0.49
+Paul Dummett,Newcastle,West Ham,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Bournemouth,
+Paul Dummett,Newcastle,Bournemouth,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Liverpool,1.47
+Paul Dummett,Newcastle,Liverpool,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Manchester City,4.63
+Paul Dummett,Newcastle,Manchester City,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Wolverhampton,-2.98
+Paul Dummett,Newcastle,Wolverhampton,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Nottingham Forest,
+Paul Dummett,Newcastle,Nottingham Forest,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Manchester United,-0.55
+Paul Dummett,Newcastle,Manchester United,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,West Ham,
+Paul Dummett,Newcastle,West Ham,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Manchester City,4.58
+Paul Dummett,Newcastle,Manchester City,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Brentford,
+Paul Dummett,Newcastle,Brentford,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Aston Villa,3.3
+Paul Dummett,Newcastle,Aston Villa,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Tottenham,-0.29
+Paul Dummett,Newcastle,Tottenham,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Everton,
+Paul Dummett,Newcastle,Everton,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Southampton,0.18
+Paul Dummett,Newcastle,Southampton,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Arsenal,
+Paul Dummett,Newcastle,Arsenal,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Leicester City,
+Paul Dummett,Newcastle,Leicester City,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Brighton,
+Paul Dummett,Newcastle,Brighton,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Leeds United,
+Paul Dummett,Newcastle,Leeds United,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Chelsea,
+Paul Dummett,Newcastle,Chelsea,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Wolverhampton,1.1
+Paul Dummett,Newcastle,Wolverhampton,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Liverpool,0.9
+Paul Dummett,Newcastle,Liverpool,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Crystal Palace,-0.56
+Paul Dummett,Newcastle,Crystal Palace,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Bournemouth,2.6
+Paul Dummett,Newcastle,Bournemouth,True,0,0,0.0,0,0,0,0.0,False,0,Newcastle,False,Fulham,-1.62
+Paul Dummett,Newcastle,Fulham,False,0,0,0.0,0,0,0,0.0,False,0,Newcastle,True,Aston Villa,-4.4

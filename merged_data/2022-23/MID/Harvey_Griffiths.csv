@@ -1,26 +1,26 @@
-name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Harvey Griffiths,Wolves,Brighton,True,0,0,0.0,0,0,0,False,0.0,Wolves,True,Arsenal,2.09
-Harvey Griffiths,Wolves,Arsenal,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Everton,-1.6
-Harvey Griffiths,Wolves,Everton,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Manchester United,0.06
-Harvey Griffiths,Wolves,Manchester United,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Aston Villa,-0.08
-Harvey Griffiths,Wolves,Aston Villa,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,West Ham,-1.01
-Harvey Griffiths,Wolves,West Ham,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Manchester City,3.31
-Harvey Griffiths,Wolves,Manchester City,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Liverpool,-2.02
-Harvey Griffiths,Wolves,Liverpool,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Southampton,-2.53
-Harvey Griffiths,Wolves,Southampton,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Bournemouth,2.85
-Harvey Griffiths,Wolves,Bournemouth,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Fulham,-1.47
-Harvey Griffiths,Wolves,Fulham,False,0,0,0.0,0,0,0,False,0.0,Wolves,False,Liverpool,1.68
-Harvey Griffiths,Wolves,Liverpool,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Tottenham,-0.94
-Harvey Griffiths,Wolves,Tottenham,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Newcastle United,2.58
-Harvey Griffiths,Wolves,Newcastle United,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Leicester City,1.65
-Harvey Griffiths,Wolves,Leicester City,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Nottingham Forest,0.01
-Harvey Griffiths,Wolves,Nottingham Forest,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Chelsea,-2.49
-Harvey Griffiths,Wolves,Chelsea,True,0,0,0.0,0,0,0,False,0.0,Wolves,True,Brentford,1.37
-Harvey Griffiths,Wolves,Brentford,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Leeds United,1.57
-Harvey Griffiths,Wolves,Leeds United,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Crystal Palace,0.91
-Harvey Griffiths,Wolves,Crystal Palace,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Brighton,0.59
-Harvey Griffiths,Wolves,Brighton,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Aston Villa,-1.57
-Harvey Griffiths,Wolves,Aston Villa,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Manchester United,0.79
-Harvey Griffiths,Wolves,Manchester United,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Everton,-2.28
-Harvey Griffiths,Wolves,Everton,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Arsenal,1.72
-Harvey Griffiths,Wolves,Arsenal,False,0,0,0.0,0,0,0,False,,Wolves,False,Manchester United,0.79
+name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Harvey Griffiths,Wolves,Brighton,True,0,0,0.0,0,0,0,False,0.0,Wolves,True,Arsenal,1.59
+Harvey Griffiths,Wolves,Arsenal,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Everton,-1.05
+Harvey Griffiths,Wolves,Everton,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Manchester United,-0.79
+Harvey Griffiths,Wolves,Manchester United,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Aston Villa,-2.09
+Harvey Griffiths,Wolves,Aston Villa,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,West Ham,-2.69
+Harvey Griffiths,Wolves,West Ham,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Manchester City,-0.09
+Harvey Griffiths,Wolves,Manchester City,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Liverpool,0.37
+Harvey Griffiths,Wolves,Liverpool,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Southampton,-2.8
+Harvey Griffiths,Wolves,Southampton,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Bournemouth,
+Harvey Griffiths,Wolves,Bournemouth,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Fulham,
+Harvey Griffiths,Wolves,Fulham,False,0,0,0.0,0,0,0,False,0.0,Wolves,False,Liverpool,0.91
+Harvey Griffiths,Wolves,Liverpool,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Tottenham,2.05
+Harvey Griffiths,Wolves,Tottenham,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Newcastle United,3.01
+Harvey Griffiths,Wolves,Newcastle United,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Leicester City,2.07
+Harvey Griffiths,Wolves,Leicester City,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Nottingham Forest,
+Harvey Griffiths,Wolves,Nottingham Forest,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Chelsea,-1.03
+Harvey Griffiths,Wolves,Chelsea,True,0,0,0.0,0,0,0,False,0.0,Wolves,True,Brentford,3.23
+Harvey Griffiths,Wolves,Brentford,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Leeds United,0.21
+Harvey Griffiths,Wolves,Leeds United,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Crystal Palace,4.57
+Harvey Griffiths,Wolves,Crystal Palace,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Brighton,-1.83
+Harvey Griffiths,Wolves,Brighton,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Aston Villa,
+Harvey Griffiths,Wolves,Aston Villa,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Manchester United,-0.63
+Harvey Griffiths,Wolves,Manchester United,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Everton,-1.31
+Harvey Griffiths,Wolves,Everton,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Arsenal,
+Harvey Griffiths,Wolves,Arsenal,False,0,0,0.0,0,0,0,False,,Wolves,False,Manchester United,-0.63

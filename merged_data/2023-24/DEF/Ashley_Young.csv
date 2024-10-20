@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Ashley Young,Everton,Fulham,2023-08-12,True,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,1,1.5,True,0.0,0.0,90.0,0.0,0.39,0.76,21.44,0.41,0.0,Everton,False,West Ham,2.5
-Ashley Young,Everton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.0,45.0,0.0,0.39,0.76,21.44,0.41,0.0,Everton,True,Brighton,0.33
-Ashley Young,Everton,Brighton,2023-11-04,True,DR,89,0.0,0.0,0.0,0.0,0,0.0,0.0,0.8,0,0,1,0.53,True,1.0,0.0,59.67,0.0,0.39,0.76,21.44,0.41,1.0,Everton,False,Crystal Palace,-0.42
-Ashley Young,Everton,Crystal Palace,2023-11-11,False,DR,89,0.0,0.0,0.0,0.03,1,0.0,1.0,3.1,0,0,2,2.04,True,0.67,0.0,67.0,0.0,0.39,0.76,21.44,0.41,0.0,Everton,True,Manchester United,0.93
-Ashley Young,Everton,Manchester United,2023-11-26,True,DR,72,0.0,0.0,0.0,0.45,0,0.0,2.0,3.2,0,0,2,1.22,True,0.75,0.0,68.0,0.0,0.39,0.76,21.44,0.41,6.0,Everton,False,Nottingham Forest,0.07
-Ashley Young,Everton,Nottingham Forest,2023-12-02,False,DR,90,0.0,0.06,0.0,0.0,6,1.0,0.0,2.0,0,1,0,0.71,True,0.6,0.0,71.67,0.2,0.39,0.76,21.44,0.41,8.0,Everton,True,Newcastle United,-0.27
-Ashley Young,Everton,Newcastle United,2023-12-07,True,MR,90,0.0,0.11,0.0,0.2,8,2.0,2.0,6.8,2,1,0,1.58,True,1.4,0.01,74.29,0.33,0.39,0.76,21.44,0.41,1.0,Everton,True,Chelsea,-1.86
-Ashley Young,Everton,Chelsea,2023-12-10,True,DR,40,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.18,True,3.0,0.03,70.0,0.33,0.39,0.76,21.44,0.41,0.0,Everton,False,Burnley,-3.12
-Ashley Young,Everton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.2,0.03,62.22,0.33,0.39,0.76,21.44,0.41,0.0,Everton,False,Tottenham,2.99
-Ashley Young,Everton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.03,56.0,0.33,0.39,0.76,21.44,0.41,0.0,Everton,True,Manchester City,1.75
-Ashley Young,Everton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.03,50.91,0.33,0.39,0.76,21.44,0.41,0.0,Everton,False,Aston Villa,3.22
-Ashley Young,Everton,Aston Villa,2023-08-20,False,DL,90,0.0,0.0,0.0,0.27,0,0.0,2.0,3.4,0,0,4,3.11,True,1.8,0.02,54.17,0.29,0.39,0.76,21.44,0.41,0.0,Everton,False,Wolverhampton,1.67
-Ashley Young,Everton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,50.0,0.29,0.39,0.76,21.44,0.41,0.0,Everton,True,Aston Villa,1.41
-Ashley Young,Everton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,46.43,0.29,0.39,0.76,21.44,0.41,6.0,Everton,False,Fulham,-0.21
-Ashley Young,Everton,Fulham,2024-01-30,False,MR,80,0.0,0.05,0.0,0.07,6,1.0,2.0,4.6,0,1,0,1.48,True,0.0,0.0,48.67,0.38,0.39,0.76,21.44,0.41,1.0,Everton,True,Tottenham,-0.33
-Ashley Young,Everton,Tottenham,2024-02-03,True,MR,79,0.0,0.0,0.0,0.11,1,0.0,2.0,4.5,0,0,2,0.98,True,1.2,0.01,50.56,0.33,0.39,0.76,21.44,0.41,2.0,Everton,False,Manchester City,0.69
-Ashley Young,Everton,Manchester City,2024-02-10,False,AMR,77,0.0,0.0,0.0,0.0,2,0.0,0.0,0.7,0,0,1,0.84,True,1.4,0.01,52.12,0.3,0.39,0.76,21.44,0.41,6.0,Everton,True,Crystal Palace,-1.89
-Ashley Young,Everton,Crystal Palace,2024-02-19,True,MR,65,0.0,0.06,0.0,0.0,6,1.0,0.0,1.5,0,1,0,0.53,True,1.8,0.01,52.83,0.36,0.39,0.76,21.44,0.41,1.0,Everton,False,Brighton,-3.42
-Ashley Young,Everton,Brighton,2024-02-24,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,0.2,False,3.0,0.02,50.11,0.36,0.39,0.76,21.44,0.41,0.0,Everton,True,West Ham,1.45
-Ashley Young,Everton,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.2,0.02,47.6,0.36,0.39,0.76,21.44,0.41,1.0,Everton,False,Manchester United,1.96
-Ashley Young,Everton,Manchester United,2024-03-09,False,Sub,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.08,False,2.0,0.01,46.05,0.36,0.39,0.76,21.44,0.41,2.0,Everton,True,Wolverhampton,1.62
-Ashley Young,Everton,Wolverhampton,2023-08-26,True,DL,90,0.0,0.0,0.0,0.43,2,0.0,3.0,6.8,0,0,1,1.16,True,2.0,0.01,48.05,0.33,0.39,0.76,21.44,0.41,1.0,Everton,False,Bournemouth,4.39
-Ashley Young,Everton,Bournemouth,2024-03-30,False,Sub,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,1,0.0,False,2.0,0.01,46.74,0.33,0.39,0.76,21.44,0.41,5.0,Everton,False,Newcastle United,1.81
-Ashley Young,Everton,Newcastle United,2024-04-02,False,MR,90,0.0,0.07,0.0,0.0,5,2.0,0.0,4.2,0,0,1,2.54,True,1.0,0.0,48.54,0.31,0.39,0.76,21.44,0.41,6.0,Everton,True,Burnley,-2.21
-Ashley Young,Everton,Burnley,2024-04-06,True,MR,82,0.0,0.07,0.0,0.22,6,1.0,3.0,6.0,0,1,0,0.46,True,1.8,0.01,49.88,0.36,0.39,0.76,21.44,0.41,-2.0,Everton,False,Chelsea,1.97
-Ashley Young,Everton,Chelsea,2024-04-15,False,MR,90,0.0,0.0,0.0,0.05,-2,0.0,1.0,1.4,0,0,6,2.96,True,3.0,0.03,51.42,0.33,0.39,0.76,21.44,0.41,6.0,Everton,True,Nottingham Forest,-0.72
-Ashley Young,Everton,Nottingham Forest,2024-04-21,True,DR,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.5,0,1,0,0.85,True,2.4,0.03,52.85,0.38,0.39,0.76,21.44,0.41,1.0,Everton,True,Liverpool,-1.2
-Ashley Young,Everton,Liverpool,2024-04-24,True,Sub,45,0.0,0.02,0.0,0.0,1,1.0,0.0,0.8,0,0,0,0.77,False,3.2,0.03,52.57,0.38,0.39,0.76,21.44,0.41,7.0,Everton,True,Brentford,-2.0
-Ashley Young,Everton,Brentford,2024-04-27,True,DL,90,0.0,0.0,0.0,0.0,7,0.0,0.0,1.7,1,1,0,0.84,True,3.2,0.03,53.86,0.41,0.39,0.76,21.44,0.41,2.0,Everton,False,Luton,0.12
-Ashley Young,Everton,Luton,2024-05-03,False,DL,66,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,0.58,True,3.6,0.02,54.27,0.39,0.39,0.76,21.44,0.41,6.0,Everton,True,Sheffield,-0.93
-Ashley Young,Everton,Sheffield,2024-05-11,True,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.2,0,1,0,0.64,True,2.8,0.0,55.42,0.42,0.39,0.76,21.44,0.41,1.0,Everton,False,Arsenal,2.52
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Ashley Young,Everton,Fulham,2023-08-12,True,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,1,1.5,True,0.0,0.0,90.0,0.0,0.39,0.76,21.44,0.41,0.0,Everton,False,West Ham,4.39
+Ashley Young,Everton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.0,45.0,0.0,0.39,0.76,21.44,0.41,0.0,Everton,True,Brighton,2.15
+Ashley Young,Everton,Brighton,2023-11-04,True,DR,89,0.0,0.0,0.0,0.0,0,0.0,0.0,0.8,0,0,1,0.53,True,1.0,0.0,59.67,0.0,0.39,0.76,21.44,0.41,1.0,Everton,False,Crystal Palace,0.85
+Ashley Young,Everton,Crystal Palace,2023-11-11,False,DR,89,0.0,0.0,0.0,0.03,1,0.0,1.0,3.1,0,0,2,2.04,True,0.67,0.0,67.0,0.0,0.39,0.76,21.44,0.41,0.0,Everton,True,Manchester United,-0.7
+Ashley Young,Everton,Manchester United,2023-11-26,True,DR,72,0.0,0.0,0.0,0.45,0,0.0,2.0,3.2,0,0,2,1.22,True,0.75,0.0,68.0,0.0,0.39,0.76,21.44,0.41,6.0,Everton,False,Nottingham Forest,1.05
+Ashley Young,Everton,Nottingham Forest,2023-12-02,False,DR,90,0.0,0.06,0.0,0.0,6,1.0,0.0,2.0,0,1,0,0.71,True,0.6,0.0,71.67,0.2,0.39,0.76,21.44,0.41,8.0,Everton,True,Newcastle United,1.57
+Ashley Young,Everton,Newcastle United,2023-12-07,True,MR,90,0.0,0.11,0.0,0.2,8,2.0,2.0,6.8,2,1,0,1.58,True,1.4,0.01,74.29,0.33,0.39,0.76,21.44,0.41,1.0,Everton,True,Chelsea,-0.66
+Ashley Young,Everton,Chelsea,2023-12-10,True,DR,40,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.18,True,3.0,0.03,70.0,0.33,0.39,0.76,21.44,0.41,0.0,Everton,False,Burnley,-1.91
+Ashley Young,Everton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.2,0.03,62.22,0.33,0.39,0.76,21.44,0.41,0.0,Everton,False,Tottenham,4.06
+Ashley Young,Everton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.03,56.0,0.33,0.39,0.76,21.44,0.41,0.0,Everton,True,Manchester City,1.82
+Ashley Young,Everton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.03,50.91,0.33,0.39,0.76,21.44,0.41,0.0,Everton,False,Aston Villa,1.9
+Ashley Young,Everton,Aston Villa,2023-08-20,False,DL,90,0.0,0.0,0.0,0.27,0,0.0,2.0,3.4,0,0,4,3.11,True,1.8,0.02,54.17,0.29,0.39,0.76,21.44,0.41,0.0,Everton,False,Wolverhampton,0.11
+Ashley Young,Everton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,50.0,0.29,0.39,0.76,21.44,0.41,0.0,Everton,True,Aston Villa,2.11
+Ashley Young,Everton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,46.43,0.29,0.39,0.76,21.44,0.41,6.0,Everton,False,Fulham,-1.22
+Ashley Young,Everton,Fulham,2024-01-30,False,MR,80,0.0,0.05,0.0,0.07,6,1.0,2.0,4.6,0,1,0,1.48,True,0.0,0.0,48.67,0.38,0.39,0.76,21.44,0.41,1.0,Everton,True,Tottenham,1.13
+Ashley Young,Everton,Tottenham,2024-02-03,True,MR,79,0.0,0.0,0.0,0.11,1,0.0,2.0,4.5,0,0,2,0.98,True,1.2,0.01,50.56,0.33,0.39,0.76,21.44,0.41,2.0,Everton,False,Manchester City,0.21
+Ashley Young,Everton,Manchester City,2024-02-10,False,AMR,77,0.0,0.0,0.0,0.0,2,0.0,0.0,0.7,0,0,1,0.84,True,1.4,0.01,52.12,0.3,0.39,0.76,21.44,0.41,6.0,Everton,True,Crystal Palace,-2.96
+Ashley Young,Everton,Crystal Palace,2024-02-19,True,MR,65,0.0,0.06,0.0,0.0,6,1.0,0.0,1.5,0,1,0,0.53,True,1.8,0.01,52.83,0.36,0.39,0.76,21.44,0.41,1.0,Everton,False,Brighton,-5.19
+Ashley Young,Everton,Brighton,2024-02-24,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,0.2,False,3.0,0.02,50.11,0.36,0.39,0.76,21.44,0.41,0.0,Everton,True,West Ham,0.7
+Ashley Young,Everton,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.2,0.02,47.6,0.36,0.39,0.76,21.44,0.41,1.0,Everton,False,Manchester United,0.43
+Ashley Young,Everton,Manchester United,2024-03-09,False,Sub,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.08,False,2.0,0.01,46.05,0.36,0.39,0.76,21.44,0.41,2.0,Everton,True,Wolverhampton,1.55
+Ashley Young,Everton,Wolverhampton,2023-08-26,True,DL,90,0.0,0.0,0.0,0.43,2,0.0,3.0,6.8,0,0,1,1.16,True,2.0,0.01,48.05,0.33,0.39,0.76,21.44,0.41,1.0,Everton,False,Bournemouth,6.99
+Ashley Young,Everton,Bournemouth,2024-03-30,False,Sub,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,1,0.0,False,2.0,0.01,46.74,0.33,0.39,0.76,21.44,0.41,5.0,Everton,False,Newcastle United,2.12
+Ashley Young,Everton,Newcastle United,2024-04-02,False,MR,90,0.0,0.07,0.0,0.0,5,2.0,0.0,4.2,0,0,1,2.54,True,1.0,0.0,48.54,0.31,0.39,0.76,21.44,0.41,6.0,Everton,True,Burnley,-3.47
+Ashley Young,Everton,Burnley,2024-04-06,True,MR,82,0.0,0.07,0.0,0.22,6,1.0,3.0,6.0,0,1,0,0.46,True,1.8,0.01,49.88,0.36,0.39,0.76,21.44,0.41,-2.0,Everton,False,Chelsea,-1.5
+Ashley Young,Everton,Chelsea,2024-04-15,False,MR,90,0.0,0.0,0.0,0.05,-2,0.0,1.0,1.4,0,0,6,2.96,True,3.0,0.03,51.42,0.33,0.39,0.76,21.44,0.41,6.0,Everton,True,Nottingham Forest,1.11
+Ashley Young,Everton,Nottingham Forest,2024-04-21,True,DR,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.5,0,1,0,0.85,True,2.4,0.03,52.85,0.38,0.39,0.76,21.44,0.41,1.0,Everton,True,Liverpool,0.76
+Ashley Young,Everton,Liverpool,2024-04-24,True,Sub,45,0.0,0.02,0.0,0.0,1,1.0,0.0,0.8,0,0,0,0.77,False,3.2,0.03,52.57,0.38,0.39,0.76,21.44,0.41,7.0,Everton,True,Brentford,
+Ashley Young,Everton,Brentford,2024-04-27,True,DL,90,0.0,0.0,0.0,0.0,7,0.0,0.0,1.7,1,1,0,0.84,True,3.2,0.03,53.86,0.41,0.39,0.76,21.44,0.41,2.0,Everton,False,Luton,
+Ashley Young,Everton,Luton,2024-05-03,False,DL,66,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,0.58,True,3.6,0.02,54.27,0.39,0.39,0.76,21.44,0.41,6.0,Everton,True,Sheffield,
+Ashley Young,Everton,Sheffield,2024-05-11,True,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.2,0,1,0,0.64,True,2.8,0.0,55.42,0.42,0.39,0.76,21.44,0.41,1.0,Everton,False,Arsenal,
 Ashley Young,Everton,Arsenal,2024-05-19,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,2,2.89,True,4.4,0.0,56.5,0.4,0.39,0.76,21.44,0.41,1.0,Everton,False,Sheffield,-1.68
-Ashley Young,Everton,Sheffield,2023-09-02,False,DL,90,0.0,0.06,0.0,0.64,1,1.0,2.0,6.8,0,0,2,1.24,True,3.4,0.0,57.52,0.38,0.39,0.76,21.44,0.41,1.0,Everton,True,Arsenal,-2.09
+Ashley Young,Everton,Sheffield,2023-09-02,False,DL,90,0.0,0.06,0.0,0.64,1,1.0,2.0,6.8,0,0,2,1.24,True,3.4,0.0,57.52,0.38,0.39,0.76,21.44,0.41,1.0,Everton,True,Arsenal,-1.26
 Ashley Young,Everton,Arsenal,2023-09-17,True,DR,86,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1,1.02,True,3.4,0.01,58.35,0.36,0.39,0.76,21.44,0.41,1.0,Everton,False,Brentford,0.08
 Ashley Young,Everton,Brentford,2023-09-23,False,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,1,1.04,True,2.2,0.01,59.26,0.35,0.39,0.76,21.44,0.41,1.0,Everton,True,Luton,0.86
-Ashley Young,Everton,Luton,2023-09-30,True,DR,77,0.0,0.01,0.0,0.01,1,1.0,1.0,2.5,0,0,2,0.89,True,2.0,0.01,59.75,0.33,0.39,0.76,21.44,0.41,5.0,Everton,True,Bournemouth,-4.02
-Ashley Young,Everton,Bournemouth,2023-10-07,True,DR,90,0.0,0.05,0.0,0.0,5,2.0,0.0,1.5,0,1,0,0.72,True,1.0,0.01,60.57,0.36,0.39,0.76,21.44,0.41,-3.0,Everton,False,Liverpool,1.94
+Ashley Young,Everton,Luton,2023-09-30,True,DR,77,0.0,0.01,0.0,0.01,1,1.0,1.0,2.5,0,0,2,0.89,True,2.0,0.01,59.75,0.33,0.39,0.76,21.44,0.41,5.0,Everton,True,Bournemouth,-6.26
+Ashley Young,Everton,Bournemouth,2023-10-07,True,DR,90,0.0,0.05,0.0,0.0,5,2.0,0.0,1.5,0,1,0,0.72,True,1.0,0.01,60.57,0.36,0.39,0.76,21.44,0.41,-3.0,Everton,False,Liverpool,2.03
 Ashley Young,Everton,Liverpool,2023-10-21,False,DR,36,0.0,0.0,0.0,0.0,-3,0.0,0.0,0.7,0,0,2,4.15,True,1.8,0.02,59.92,0.36,0.39,0.76,21.44,0.41,,,,,

@@ -1,27 +1,27 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Michael Ndiweni,Newcastle,Chelsea,2023-11-25,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,0.0,0.0,1.0,0,0,0,0,0,0.0,Newcastle,True,Manchester United,-1.44
-Michael Ndiweni,Newcastle,Manchester United,,True,,0,,,,,0,,,0.0,0,False,1.0,0.0,0.5,0,0,0,0,0,0.0,Newcastle,False,Everton,1.08
-Michael Ndiweni,Newcastle,Everton,,False,,0,,,,,0,,,0.0,0,False,0.5,0.0,0.33,0,0,0,0,0,0.0,Newcastle,False,Tottenham,3.36
-Michael Ndiweni,Newcastle,Tottenham,,False,,0,,,,,0,,,0.0,0,False,0.33,0.0,0.25,0,0,0,0,0,0.0,Newcastle,True,Fulham,-0.43
-Michael Ndiweni,Newcastle,Fulham,,True,,0,,,,,0,,,0.0,0,False,0.25,0.0,0.2,0,0,0,0,0,0.0,Newcastle,False,Luton,3.07
-Michael Ndiweni,Newcastle,Luton,,False,,0,,,,,0,,,0.0,0,False,0.2,0.0,0.17,0,0,0,0,0,0.0,Newcastle,True,Nottingham Forest,2.13
-Michael Ndiweni,Newcastle,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.14,0,0,0,0,0,0.0,Newcastle,False,Liverpool,2.07
-Michael Ndiweni,Newcastle,Liverpool,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.12,0,0,0,0,0,0.0,Newcastle,True,Manchester City,3.23
-Michael Ndiweni,Newcastle,Manchester City,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.11,0,0,0,0,0,0.0,Newcastle,False,Aston Villa,2.1
-Michael Ndiweni,Newcastle,Aston Villa,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.1,0,0,0,0,0,0.0,Newcastle,True,Luton,2.48
-Michael Ndiweni,Newcastle,Luton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.09,0,0,0,0,0,0.0,Newcastle,False,Nottingham Forest,0.98
-Michael Ndiweni,Newcastle,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.08,0,0,0,0,0,0.0,Newcastle,True,Bournemouth,2.0
-Michael Ndiweni,Newcastle,Bournemouth,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.08,0,0,0,0,0,0.0,Newcastle,False,Arsenal,1.52
-Michael Ndiweni,Newcastle,Arsenal,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.07,0,0,0,0,0,0.0,Newcastle,True,Wolverhampton,-2.13
-Michael Ndiweni,Newcastle,Wolverhampton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.07,0,0,0,0,0,0.0,Newcastle,False,Chelsea,0.97
-Michael Ndiweni,Newcastle,Chelsea,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.06,0,0,0,0,0,0.0,Newcastle,True,West Ham,0.92
-Michael Ndiweni,Newcastle,West Ham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.06,0,0,0,0,0,0.0,Newcastle,True,Everton,-2.28
-Michael Ndiweni,Newcastle,Everton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.06,0,0,0,0,0,0.0,Newcastle,False,Fulham,-1.79
-Michael Ndiweni,Newcastle,Fulham,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.05,0,0,0,0,0,0.0,Newcastle,True,Tottenham,-3.04
-Michael Ndiweni,Newcastle,Tottenham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.05,0,0,0,0,0,0.0,Newcastle,False,Crystal Palace,0.54
-Michael Ndiweni,Newcastle,Crystal Palace,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.05,0,0,0,0,0,0.0,Newcastle,True,Sheffield,-0.96
-Michael Ndiweni,Newcastle,Sheffield,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.05,0,0,0,0,0,0.0,Newcastle,False,Burnley,-1.63
-Michael Ndiweni,Newcastle,Burnley,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.04,0,0,0,0,0,0.0,Newcastle,True,Brighton,-2.35
-Michael Ndiweni,Newcastle,Brighton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.04,0,0,0,0,0,0.0,Newcastle,False,Manchester United,0.69
-Michael Ndiweni,Newcastle,Manchester United,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.04,0,0,0,0,0,0.0,Newcastle,False,Brentford,-1.1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Michael Ndiweni,Newcastle,Chelsea,2023-11-25,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,0.0,0.0,1.0,0,0,0,0,0,0.0,Newcastle,True,Manchester United,-2.03
+Michael Ndiweni,Newcastle,Manchester United,,True,,0,,,,,0,,,0.0,0,False,1.0,0.0,0.5,0,0,0,0,0,0.0,Newcastle,False,Everton,0.0
+Michael Ndiweni,Newcastle,Everton,,False,,0,,,,,0,,,0.0,0,False,0.5,0.0,0.33,0,0,0,0,0,0.0,Newcastle,False,Tottenham,2.46
+Michael Ndiweni,Newcastle,Tottenham,,False,,0,,,,,0,,,0.0,0,False,0.33,0.0,0.25,0,0,0,0,0,0.0,Newcastle,True,Fulham,-0.08
+Michael Ndiweni,Newcastle,Fulham,,True,,0,,,,,0,,,0.0,0,False,0.25,0.0,0.2,0,0,0,0,0,0.0,Newcastle,False,Luton,
+Michael Ndiweni,Newcastle,Luton,,False,,0,,,,,0,,,0.0,0,False,0.2,0.0,0.17,0,0,0,0,0,0.0,Newcastle,True,Nottingham Forest,-0.46
+Michael Ndiweni,Newcastle,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.14,0,0,0,0,0,0.0,Newcastle,False,Liverpool,0.9
+Michael Ndiweni,Newcastle,Liverpool,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.12,0,0,0,0,0,0.0,Newcastle,True,Manchester City,4.58
+Michael Ndiweni,Newcastle,Manchester City,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.11,0,0,0,0,0,0.0,Newcastle,False,Aston Villa,4.29
+Michael Ndiweni,Newcastle,Aston Villa,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.1,0,0,0,0,0,0.0,Newcastle,True,Luton,
+Michael Ndiweni,Newcastle,Luton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.09,0,0,0,0,0,0.0,Newcastle,False,Nottingham Forest,-0.04
+Michael Ndiweni,Newcastle,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.08,0,0,0,0,0,0.0,Newcastle,True,Bournemouth,2.6
+Michael Ndiweni,Newcastle,Bournemouth,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.08,0,0,0,0,0,0.0,Newcastle,False,Arsenal,0.96
+Michael Ndiweni,Newcastle,Arsenal,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.07,0,0,0,0,0,0.0,Newcastle,True,Wolverhampton,-1.62
+Michael Ndiweni,Newcastle,Wolverhampton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.07,0,0,0,0,0,0.0,Newcastle,False,Chelsea,-0.14
+Michael Ndiweni,Newcastle,Chelsea,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.06,0,0,0,0,0,0.0,Newcastle,True,West Ham,0.81
+Michael Ndiweni,Newcastle,West Ham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.06,0,0,0,0,0,0.0,Newcastle,True,Everton,-3.67
+Michael Ndiweni,Newcastle,Everton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.06,0,0,0,0,0,0.0,Newcastle,False,Fulham,-1.62
+Michael Ndiweni,Newcastle,Fulham,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.05,0,0,0,0,0,0.0,Newcastle,True,Tottenham,-2.38
+Michael Ndiweni,Newcastle,Tottenham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.05,0,0,0,0,0,0.0,Newcastle,False,Crystal Palace,-0.57
+Michael Ndiweni,Newcastle,Crystal Palace,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.05,0,0,0,0,0,0.0,Newcastle,True,Sheffield,
+Michael Ndiweni,Newcastle,Sheffield,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.05,0,0,0,0,0,0.0,Newcastle,False,Burnley,
+Michael Ndiweni,Newcastle,Burnley,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.04,0,0,0,0,0,0.0,Newcastle,True,Brighton,
+Michael Ndiweni,Newcastle,Brighton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.04,0,0,0,0,0,0.0,Newcastle,False,Manchester United,0.66
+Michael Ndiweni,Newcastle,Manchester United,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.04,0,0,0,0,0,0.0,Newcastle,False,Brentford,
 Michael Ndiweni,Newcastle,Brentford,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.04,0,0,0,0,0,,,,,

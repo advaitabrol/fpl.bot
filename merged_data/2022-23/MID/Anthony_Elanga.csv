@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Anthony Elanga,Man Utd,Brighton,2022-08-07,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,1.0,2.0,2.0,2.97,1.92,0.05,0,Man Utd,False,Everton,-1.18
-Anthony Elanga,Man Utd,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,0.5,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Newcastle United,-0.79
-Anthony Elanga,Man Utd,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.5,0.0,0.33,2.0,2.0,2.97,1.92,0.05,1,Man Utd,True,Tottenham,-2.02
-Anthony Elanga,Man Utd,Tottenham,2022-10-19,True,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.33,0.0,1.0,2.0,2.0,2.97,1.92,0.05,1,Man Utd,False,Chelsea,0.93
-Anthony Elanga,Man Utd,Chelsea,2022-10-22,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1,False,0.5,0.0,2.6,2.0,2.0,2.97,1.92,0.05,3,Man Utd,True,West Ham,-1.52
-Anthony Elanga,Man Utd,West Ham,2022-10-30,True,AMR,60,0.0,0.14,0.0,0.0,3,2.0,0.0,0.6,0,1,0,False,0.6,0.0,12.17,2.0,2.0,2.97,1.92,0.05,1,Man Utd,False,Aston Villa,-0.18
-Anthony Elanga,Man Utd,Aston Villa,2022-11-06,False,Sub,25,0.0,0.02,0.0,0.0,1,1.0,0.0,2.5,0,0,0,False,1.0,0.03,14.0,2.0,2.0,2.97,1.92,0.05,1,Man Utd,False,Fulham,-1.5
-Anthony Elanga,Man Utd,Fulham,2022-11-13,False,AMR,54,0.0,0.06,0.0,0.0,1,1.0,0.0,0.0,0,0,0,True,1.2,0.03,19.0,2.0,2.0,2.97,1.92,0.05,1,Man Utd,True,Nottingham Forest,-0.7
-Anthony Elanga,Man Utd,Nottingham Forest,2022-12-27,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,False,1.4,0.04,17.33,2.0,2.0,2.97,1.92,0.05,1,Man Utd,False,Wolverhampton,-0.7
-Anthony Elanga,Man Utd,Wolverhampton,2022-12-31,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,1.4,0.04,15.7,2.0,2.0,2.97,1.92,0.05,1,Man Utd,True,Bournemouth,1.4
-Anthony Elanga,Man Utd,Bournemouth,2023-01-03,True,Sub,21,0.0,0.09,0.0,0.0,1,1.0,0.0,1.8,0,0,0,False,1.4,0.04,16.18,2.0,2.0,2.97,1.92,0.05,1,Man Utd,False,Brentford,1.16
-Anthony Elanga,Man Utd,Brentford,2022-08-13,False,Sub,30,0.0,0.0,0.0,0.02,1,0.0,1.0,2.1,0,0,0,False,1.0,0.03,17.33,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Manchester City,0.86
-Anthony Elanga,Man Utd,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.03,16.0,2.0,2.0,2.97,1.92,0.05,0,Man Utd,False,Crystal Palace,2.45
-Anthony Elanga,Man Utd,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.02,14.86,2.0,2.0,2.97,1.92,0.05,0,Man Utd,False,Arsenal,1.27
-Anthony Elanga,Man Utd,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.02,13.87,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Crystal Palace,1.05
-Anthony Elanga,Man Utd,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.02,13.0,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Leicester City,-2.87
-Anthony Elanga,Man Utd,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,12.24,2.0,2.0,2.97,1.92,0.05,1,Man Utd,False,Leicester City,-2.1
-Anthony Elanga,Man Utd,Leicester City,2023-02-12,False,Sub,1,0.0,0.02,0.0,0.06,1,1.0,1.0,1.4,0,0,0,False,0.0,0.0,11.61,2.0,2.0,2.97,1.92,0.05,1,Man Utd,True,Leeds United,-2.34
-Anthony Elanga,Man Utd,Leeds United,2023-02-19,True,Sub,21,0.0,0.07,0.0,0.0,1,1.0,0.0,2.5,0,0,0,False,0.2,0.0,12.11,2.0,2.0,2.97,1.92,0.05,1,Man Utd,False,Liverpool,2.76
-Anthony Elanga,Man Utd,Liverpool,2023-03-05,False,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,False,0.4,0.02,11.75,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Southampton,-0.88
-Anthony Elanga,Man Utd,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.02,11.19,2.0,2.0,2.97,1.92,0.05,0,Man Utd,False,Newcastle United,1.36
-Anthony Elanga,Man Utd,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.02,10.68,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Brentford,-1.08
-Anthony Elanga,Man Utd,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.02,10.22,2.0,2.0,2.97,1.92,0.05,4,Man Utd,True,Liverpool,0.35
-Anthony Elanga,Man Utd,Liverpool,2022-08-22,True,AML,45,0.0,0.29,1.0,0.29,4,1.0,1.0,3.4,0,0,0,False,0.4,0.01,11.67,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Everton,-1.71
-Anthony Elanga,Man Utd,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.26,11.2,2.0,2.0,2.97,1.92,0.05,0,Man Utd,False,Nottingham Forest,-0.09
-Anthony Elanga,Man Utd,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.26,10.77,2.0,2.0,2.97,1.92,0.05,0,Man Utd,False,Tottenham,0.11
-Anthony Elanga,Man Utd,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.26,10.37,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Aston Villa,-0.23
-Anthony Elanga,Man Utd,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.26,10.0,2.0,2.0,2.97,1.92,0.05,0,Man Utd,False,Brighton,0.65
-Anthony Elanga,Man Utd,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.26,9.66,2.0,2.0,2.97,1.92,0.05,0,Man Utd,False,West Ham,2.3
-Anthony Elanga,Man Utd,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,9.33,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Wolverhampton,-0.93
-Anthony Elanga,Man Utd,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,9.03,2.0,2.0,2.97,1.92,0.05,0,Man Utd,False,Bournemouth,-0.31
-Anthony Elanga,Man Utd,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.75,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Chelsea,-2.79
-Anthony Elanga,Man Utd,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.48,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Fulham,0.26
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Anthony Elanga,Man Utd,Brighton,2022-08-07,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,1.0,2.0,2.0,2.97,1.92,0.05,0,Man Utd,False,Everton,2.77
+Anthony Elanga,Man Utd,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,0.5,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Newcastle United,-2.6
+Anthony Elanga,Man Utd,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.5,0.0,0.33,2.0,2.0,2.97,1.92,0.05,1,Man Utd,True,Tottenham,-2.03
+Anthony Elanga,Man Utd,Tottenham,2022-10-19,True,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.33,0.0,1.0,2.0,2.0,2.97,1.92,0.05,1,Man Utd,False,Chelsea,0.54
+Anthony Elanga,Man Utd,Chelsea,2022-10-22,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1,False,0.5,0.0,2.6,2.0,2.0,2.97,1.92,0.05,3,Man Utd,True,West Ham,-1.53
+Anthony Elanga,Man Utd,West Ham,2022-10-30,True,AMR,60,0.0,0.14,0.0,0.0,3,2.0,0.0,0.6,0,1,0,False,0.6,0.0,12.17,2.0,2.0,2.97,1.92,0.05,1,Man Utd,False,Aston Villa,-0.56
+Anthony Elanga,Man Utd,Aston Villa,2022-11-06,False,Sub,25,0.0,0.02,0.0,0.0,1,1.0,0.0,2.5,0,0,0,False,1.0,0.03,14.0,2.0,2.0,2.97,1.92,0.05,1,Man Utd,False,Fulham,
+Anthony Elanga,Man Utd,Fulham,2022-11-13,False,AMR,54,0.0,0.06,0.0,0.0,1,1.0,0.0,0.0,0,0,0,True,1.2,0.03,19.0,2.0,2.0,2.97,1.92,0.05,1,Man Utd,True,Nottingham Forest,
+Anthony Elanga,Man Utd,Nottingham Forest,2022-12-27,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,False,1.4,0.04,17.33,2.0,2.0,2.97,1.92,0.05,1,Man Utd,False,Wolverhampton,0.62
+Anthony Elanga,Man Utd,Wolverhampton,2022-12-31,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,1.4,0.04,15.7,2.0,2.0,2.97,1.92,0.05,1,Man Utd,True,Bournemouth,
+Anthony Elanga,Man Utd,Bournemouth,2023-01-03,True,Sub,21,0.0,0.09,0.0,0.0,1,1.0,0.0,1.8,0,0,0,False,1.4,0.04,16.18,2.0,2.0,2.97,1.92,0.05,1,Man Utd,False,Brentford,-2.69
+Anthony Elanga,Man Utd,Brentford,2022-08-13,False,Sub,30,0.0,0.0,0.0,0.02,1,0.0,1.0,2.1,0,0,0,False,1.0,0.03,17.33,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Manchester City,1.57
+Anthony Elanga,Man Utd,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.03,16.0,2.0,2.0,2.97,1.92,0.05,0,Man Utd,False,Crystal Palace,1.16
+Anthony Elanga,Man Utd,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.02,14.86,2.0,2.0,2.97,1.92,0.05,0,Man Utd,False,Arsenal,1.57
+Anthony Elanga,Man Utd,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.02,13.87,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Crystal Palace,0.08
+Anthony Elanga,Man Utd,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.02,13.0,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Leicester City,-4.86
+Anthony Elanga,Man Utd,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,12.24,2.0,2.0,2.97,1.92,0.05,1,Man Utd,False,Leicester City,-2.84
+Anthony Elanga,Man Utd,Leicester City,2023-02-12,False,Sub,1,0.0,0.02,0.0,0.06,1,1.0,1.0,1.4,0,0,0,False,0.0,0.0,11.61,2.0,2.0,2.97,1.92,0.05,1,Man Utd,True,Leeds United,0.29
+Anthony Elanga,Man Utd,Leeds United,2023-02-19,True,Sub,21,0.0,0.07,0.0,0.0,1,1.0,0.0,2.5,0,0,0,False,0.2,0.0,12.11,2.0,2.0,2.97,1.92,0.05,1,Man Utd,False,Liverpool,3.89
+Anthony Elanga,Man Utd,Liverpool,2023-03-05,False,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,False,0.4,0.02,11.75,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Southampton,-2.47
+Anthony Elanga,Man Utd,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.02,11.19,2.0,2.0,2.97,1.92,0.05,0,Man Utd,False,Newcastle United,-0.43
+Anthony Elanga,Man Utd,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.02,10.68,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Brentford,
+Anthony Elanga,Man Utd,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.02,10.22,2.0,2.0,2.97,1.92,0.05,4,Man Utd,True,Liverpool,0.14
+Anthony Elanga,Man Utd,Liverpool,2022-08-22,True,AML,45,0.0,0.29,1.0,0.29,4,1.0,1.0,3.4,0,0,0,False,0.4,0.01,11.67,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Everton,1.78
+Anthony Elanga,Man Utd,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.26,11.2,2.0,2.0,2.97,1.92,0.05,0,Man Utd,False,Nottingham Forest,
+Anthony Elanga,Man Utd,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.26,10.77,2.0,2.0,2.97,1.92,0.05,0,Man Utd,False,Tottenham,-2.94
+Anthony Elanga,Man Utd,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.26,10.37,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Aston Villa,0.32
+Anthony Elanga,Man Utd,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.26,10.0,2.0,2.0,2.97,1.92,0.05,0,Man Utd,False,Brighton,
+Anthony Elanga,Man Utd,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.26,9.66,2.0,2.0,2.97,1.92,0.05,0,Man Utd,False,West Ham,-1.27
+Anthony Elanga,Man Utd,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,9.33,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Wolverhampton,0.61
+Anthony Elanga,Man Utd,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,9.03,2.0,2.0,2.97,1.92,0.05,0,Man Utd,False,Bournemouth,
+Anthony Elanga,Man Utd,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.75,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Chelsea,
+Anthony Elanga,Man Utd,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.48,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Fulham,
 Anthony Elanga,Man Utd,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.24,2.0,2.0,2.97,1.92,0.05,3,Man Utd,False,Southampton,-0.99
 Anthony Elanga,Man Utd,Southampton,2022-08-27,False,AMR,79,0.0,0.48,0.0,0.78,3,1.0,3.0,8.5,0,1,0,False,0.0,0.0,10.26,2.0,2.0,2.97,1.92,0.05,1,Man Utd,False,Leeds United,0.57
-Anthony Elanga,Man Utd,Leeds United,2022-09-01,False,AMR,58,0.0,0.04,0.0,0.0,1,1.0,0.0,0.9,0,0,0,False,0.6,0.1,11.58,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Arsenal,-2.12
-Anthony Elanga,Man Utd,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.1,11.27,2.0,2.0,2.97,1.92,0.05,0,Man Utd,False,Manchester City,1.48
-Anthony Elanga,Man Utd,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.1,10.97,2.0,2.0,2.97,1.92,0.05,4,Nott'm Forest,False,Arsenal,1.87
+Anthony Elanga,Man Utd,Leeds United,2022-09-01,False,AMR,58,0.0,0.04,0.0,0.0,1,1.0,0.0,0.9,0,0,0,False,0.6,0.1,11.58,2.0,2.0,2.97,1.92,0.05,0,Man Utd,True,Arsenal,-3.39
+Anthony Elanga,Man Utd,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.1,11.27,2.0,2.0,2.97,1.92,0.05,0,Man Utd,False,Manchester City,-0.11
+Anthony Elanga,Man Utd,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.1,10.97,2.0,2.0,2.97,1.92,0.05,4,Nott'm Forest,False,Arsenal,4.71

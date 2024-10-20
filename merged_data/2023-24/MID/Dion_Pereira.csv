@@ -1,34 +1,34 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Dion Pereira,Luton,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Aston Villa,2.92
-Dion Pereira,Luton,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Liverpool,-1.04
-Dion Pereira,Luton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Manchester United,2.04
-Dion Pereira,Luton,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Crystal Palace,-1.47
-Dion Pereira,Luton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Brentford,2.56
-Dion Pereira,Luton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Arsenal,0.1
-Dion Pereira,Luton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Manchester City,1.95
-Dion Pereira,Luton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Newcastle United,-2.86
-Dion Pereira,Luton,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Sheffield,0.36
-Dion Pereira,Luton,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Chelsea,-0.03
-Dion Pereira,Luton,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Burnley,2.22
-Dion Pereira,Luton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Brighton,-7.25
-Dion Pereira,Luton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Newcastle United,-1.12
-Dion Pereira,Luton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Sheffield,3.77
-Dion Pereira,Luton,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Manchester United,2.85
-Dion Pereira,Luton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Liverpool,3.7
-Dion Pereira,Luton,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Aston Villa,0.15
-Dion Pereira,Luton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Crystal Palace,0.7
-Dion Pereira,Luton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Bournemouth,-0.31
-Dion Pereira,Luton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Nottingham Forest,1.07
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Dion Pereira,Luton,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Aston Villa,
+Dion Pereira,Luton,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Liverpool,
+Dion Pereira,Luton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Manchester United,
+Dion Pereira,Luton,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Crystal Palace,
+Dion Pereira,Luton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Brentford,
+Dion Pereira,Luton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Arsenal,
+Dion Pereira,Luton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Manchester City,
+Dion Pereira,Luton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Newcastle United,
+Dion Pereira,Luton,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Sheffield,
+Dion Pereira,Luton,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Chelsea,
+Dion Pereira,Luton,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Burnley,
+Dion Pereira,Luton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Brighton,
+Dion Pereira,Luton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Newcastle United,
+Dion Pereira,Luton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Sheffield,
+Dion Pereira,Luton,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Manchester United,
+Dion Pereira,Luton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Liverpool,
+Dion Pereira,Luton,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Aston Villa,
+Dion Pereira,Luton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Crystal Palace,
+Dion Pereira,Luton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Bournemouth,
+Dion Pereira,Luton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Nottingham Forest,
 Dion Pereira,Luton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Chelsea,4.03
-Dion Pereira,Luton,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Tottenham,0.62
-Dion Pereira,Luton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Arsenal,1.76
-Dion Pereira,Luton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Bournemouth,-1.8
-Dion Pereira,Luton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Manchester City,3.1
-Dion Pereira,Luton,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Brentford,5.98
-Dion Pereira,Luton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Wolverhampton,2.22
-Dion Pereira,Luton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Everton,-0.18
-Dion Pereira,Luton,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,West Ham,4.32
-Dion Pereira,Luton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Fulham,0.81
+Dion Pereira,Luton,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Tottenham,
+Dion Pereira,Luton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Arsenal,
+Dion Pereira,Luton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Bournemouth,
+Dion Pereira,Luton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Manchester City,
+Dion Pereira,Luton,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Brentford,
+Dion Pereira,Luton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Wolverhampton,
+Dion Pereira,Luton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Everton,
+Dion Pereira,Luton,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,West Ham,
+Dion Pereira,Luton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Fulham,
 Dion Pereira,Luton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,West Ham,-0.3
 Dion Pereira,Luton,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Fulham,-0.95
 Dion Pereira,Luton,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Wolverhampton,1.05

@@ -1,39 +1,39 @@
-name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Jamie Shackleton,Leeds,Wolverhampton,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Crystal Palace,1.29
-Jamie Shackleton,Leeds,Crystal Palace,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Arsenal,-0.89
+name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Jamie Shackleton,Leeds,Wolverhampton,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Crystal Palace,-1.48
+Jamie Shackleton,Leeds,Crystal Palace,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Arsenal,-2.44
 Jamie Shackleton,Leeds,Arsenal,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Leeds United,
-Jamie Shackleton,Leeds,Leeds United,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Fulham,-1.49
-Jamie Shackleton,Leeds,Fulham,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Liverpool,0.8
-Jamie Shackleton,Leeds,Liverpool,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Bournemouth,5.53
-Jamie Shackleton,Leeds,Bournemouth,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Tottenham,0.38
-Jamie Shackleton,Leeds,Tottenham,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Manchester City,0.4
-Jamie Shackleton,Leeds,Manchester City,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Newcastle United,-1.48
-Jamie Shackleton,Leeds,Newcastle United,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,West Ham,0.44
-Jamie Shackleton,Leeds,West Ham,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Southampton,-0.58
-Jamie Shackleton,Leeds,Southampton,False,0,0,0.0,0,0,0,False,0.0,Leeds,False,Aston Villa,-1.34
-Jamie Shackleton,Leeds,Aston Villa,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Brentford,-0.85
-Jamie Shackleton,Leeds,Brentford,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Nottingham Forest,0.54
-Jamie Shackleton,Leeds,Nottingham Forest,False,0,0,0.0,0,0,0,False,0.0,Leeds,False,Manchester United,2.19
-Jamie Shackleton,Leeds,Manchester United,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Manchester United,1.7
-Jamie Shackleton,Leeds,Manchester United,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Everton,0.7
-Jamie Shackleton,Leeds,Everton,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Southampton,-5.18
-Jamie Shackleton,Leeds,Southampton,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Chelsea,0.29
-Jamie Shackleton,Leeds,Chelsea,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Brighton,-1.07
-Jamie Shackleton,Leeds,Brighton,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Wolverhampton,-0.27
-Jamie Shackleton,Leeds,Wolverhampton,False,0,0,0.0,0,0,0,False,0.0,Leeds,False,Arsenal,2.26
+Jamie Shackleton,Leeds,Leeds United,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Fulham,
+Jamie Shackleton,Leeds,Fulham,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Liverpool,1.31
+Jamie Shackleton,Leeds,Liverpool,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Bournemouth,
+Jamie Shackleton,Leeds,Bournemouth,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Tottenham,0.01
+Jamie Shackleton,Leeds,Tottenham,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Manchester City,2.49
+Jamie Shackleton,Leeds,Manchester City,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Newcastle United,-5.11
+Jamie Shackleton,Leeds,Newcastle United,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,West Ham,-2.86
+Jamie Shackleton,Leeds,West Ham,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Southampton,-2.03
+Jamie Shackleton,Leeds,Southampton,False,0,0,0.0,0,0,0,False,0.0,Leeds,False,Aston Villa,-1.61
+Jamie Shackleton,Leeds,Aston Villa,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Brentford,-0.12
+Jamie Shackleton,Leeds,Brentford,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Nottingham Forest,
+Jamie Shackleton,Leeds,Nottingham Forest,False,0,0,0.0,0,0,0,False,0.0,Leeds,False,Manchester United,2.58
+Jamie Shackleton,Leeds,Manchester United,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Manchester United,1.66
+Jamie Shackleton,Leeds,Manchester United,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Everton,1.15
+Jamie Shackleton,Leeds,Everton,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Southampton,-3.43
+Jamie Shackleton,Leeds,Southampton,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Chelsea,-1.33
+Jamie Shackleton,Leeds,Chelsea,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Brighton,-4.64
+Jamie Shackleton,Leeds,Brighton,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Wolverhampton,-3.79
+Jamie Shackleton,Leeds,Wolverhampton,False,0,0,0.0,0,0,0,False,0.0,Leeds,False,Arsenal,0.14
 Jamie Shackleton,Leeds,Arsenal,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Nottingham Forest,1.75
-Jamie Shackleton,Leeds,Nottingham Forest,True,0,0,0.0,0,0,0,False,0.0,Leeds,True,Chelsea,-0.25
-Jamie Shackleton,Leeds,Chelsea,True,0,0,0.0,0,0,0,False,0.0,Leeds,True,Crystal Palace,-1.42
-Jamie Shackleton,Leeds,Crystal Palace,True,0,0,0.0,0,0,0,False,0.0,Leeds,True,Liverpool,-0.81
-Jamie Shackleton,Leeds,Liverpool,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Fulham,-0.19
+Jamie Shackleton,Leeds,Nottingham Forest,True,0,0,0.0,0,0,0,False,0.0,Leeds,True,Chelsea,-0.38
+Jamie Shackleton,Leeds,Chelsea,True,0,0,0.0,0,0,0,False,0.0,Leeds,True,Crystal Palace,1.78
+Jamie Shackleton,Leeds,Crystal Palace,True,0,0,0.0,0,0,0,False,0.0,Leeds,True,Liverpool,0.62
+Jamie Shackleton,Leeds,Liverpool,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Fulham,
 Jamie Shackleton,Leeds,Fulham,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Leeds United,
 Jamie Shackleton,Leeds,Leeds United,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Bournemouth,0.09
-Jamie Shackleton,Leeds,Bournemouth,False,0,0,0.0,0,0,0,False,0.0,Leeds,False,Manchester City,2.79
+Jamie Shackleton,Leeds,Bournemouth,False,0,0,0.0,0,0,0,False,0.0,Leeds,False,Manchester City,4.57
 Jamie Shackleton,Leeds,Manchester City,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Newcastle United,-0.68
 Jamie Shackleton,Leeds,Newcastle United,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,West Ham,0.82
-Jamie Shackleton,Leeds,West Ham,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Tottenham,-2.16
+Jamie Shackleton,Leeds,West Ham,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Tottenham,-4.61
 Jamie Shackleton,Leeds,Tottenham,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Brighton,1.41
-Jamie Shackleton,Leeds,Brighton,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Everton,3.32
-Jamie Shackleton,Leeds,Everton,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Brentford,-2.77
-Jamie Shackleton,Leeds,Brentford,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Aston Villa,-3.37
-Jamie Shackleton,Leeds,Aston Villa,True,0,0,0.0,0,0,0,False,,Wolves,False,Manchester United,0.79
+Jamie Shackleton,Leeds,Brighton,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Everton,
+Jamie Shackleton,Leeds,Everton,True,0,0,0.0,0,0,0,False,0.0,Leeds,False,Brentford,-0.35
+Jamie Shackleton,Leeds,Brentford,False,0,0,0.0,0,0,0,False,0.0,Leeds,True,Aston Villa,
+Jamie Shackleton,Leeds,Aston Villa,True,0,0,0.0,0,0,0,False,,Wolves,False,Manchester United,-0.63

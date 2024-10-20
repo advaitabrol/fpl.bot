@@ -1,32 +1,32 @@
-name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Ed Turns,Brighton,Tottenham,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Brentford,0.34
-Ed Turns,Brighton,Brentford,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Nottingham Forest,-0.8
-Ed Turns,Brighton,Nottingham Forest,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Manchester City,1.12
-Ed Turns,Brighton,Manchester City,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Chelsea,-2.26
-Ed Turns,Brighton,Chelsea,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Wolverhampton,-2.88
-Ed Turns,Brighton,Wolverhampton,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Aston Villa,0.69
-Ed Turns,Brighton,Aston Villa,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Southampton,-0.82
-Ed Turns,Brighton,Southampton,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Arsenal,2.84
-Ed Turns,Brighton,Arsenal,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Everton,-1.62
-Ed Turns,Brighton,Everton,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Liverpool,-1.1
-Ed Turns,Brighton,Liverpool,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Leeds United,0.58
-Ed Turns,Brighton,Leeds United,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Bournemouth,-1.36
-Ed Turns,Brighton,Bournemouth,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Crystal Palace,0.44
-Ed Turns,Brighton,Crystal Palace,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Fulham,-0.16
-Ed Turns,Brighton,Fulham,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,West Ham,-1.35
-Ed Turns,Brighton,West Ham,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Leicester City,-1.23
-Ed Turns,Brighton,Leicester City,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Crystal Palace,-1.88
-Ed Turns,Brighton,Crystal Palace,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Brentford,-1.45
-Ed Turns,Brighton,Brentford,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Bournemouth,0.25
-Ed Turns,Brighton,Bournemouth,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Tottenham,-0.37
-Ed Turns,Brighton,Tottenham,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Chelsea,-0.59
-Ed Turns,Brighton,Chelsea,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Nottingham Forest,0.99
-Ed Turns,Brighton,Nottingham Forest,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Wolverhampton,-1.51
-Ed Turns,Brighton,Wolverhampton,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Manchester United,-2.4
-Ed Turns,Brighton,Manchester United,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Everton,2.52
-Ed Turns,Brighton,Everton,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Arsenal,-1.78
-Ed Turns,Brighton,Arsenal,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Newcastle United,1.9
-Ed Turns,Brighton,Newcastle United,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Southampton,-1.51
-Ed Turns,Brighton,Southampton,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Manchester City,2.39
-Ed Turns,Brighton,Manchester City,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Aston Villa,2.71
-Ed Turns,Brighton,Aston Villa,False,0,0,0.0,0,0,0,0.0,False,,Nott'm Forest,False,Arsenal,1.87
+name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Ed Turns,Brighton,Tottenham,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Brentford,-0.81
+Ed Turns,Brighton,Brentford,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Nottingham Forest,
+Ed Turns,Brighton,Nottingham Forest,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Manchester City,2.32
+Ed Turns,Brighton,Manchester City,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Chelsea,-1.01
+Ed Turns,Brighton,Chelsea,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Wolverhampton,-6.54
+Ed Turns,Brighton,Wolverhampton,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Aston Villa,3.43
+Ed Turns,Brighton,Aston Villa,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Southampton,-0.93
+Ed Turns,Brighton,Southampton,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Arsenal,0.47
+Ed Turns,Brighton,Arsenal,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Everton,-1.22
+Ed Turns,Brighton,Everton,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Liverpool,1.77
+Ed Turns,Brighton,Liverpool,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Leeds United,-0.21
+Ed Turns,Brighton,Leeds United,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Bournemouth,
+Ed Turns,Brighton,Bournemouth,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Crystal Palace,0.6
+Ed Turns,Brighton,Crystal Palace,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Fulham,
+Ed Turns,Brighton,Fulham,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,West Ham,-2.91
+Ed Turns,Brighton,West Ham,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Leicester City,-1.63
+Ed Turns,Brighton,Leicester City,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Crystal Palace,-0.07
+Ed Turns,Brighton,Crystal Palace,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Brentford,-3.01
+Ed Turns,Brighton,Brentford,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Bournemouth,
+Ed Turns,Brighton,Bournemouth,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Tottenham,-2.26
+Ed Turns,Brighton,Tottenham,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Chelsea,-1.14
+Ed Turns,Brighton,Chelsea,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Nottingham Forest,
+Ed Turns,Brighton,Nottingham Forest,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Wolverhampton,1.32
+Ed Turns,Brighton,Wolverhampton,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Manchester United,
+Ed Turns,Brighton,Manchester United,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Everton,3.86
+Ed Turns,Brighton,Everton,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Arsenal,
+Ed Turns,Brighton,Arsenal,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Newcastle United,
+Ed Turns,Brighton,Newcastle United,False,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Southampton,
+Ed Turns,Brighton,Southampton,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,True,Manchester City,5.78
+Ed Turns,Brighton,Manchester City,True,0,0,0.0,0,0,0,0.0,False,0.0,Brighton,False,Aston Villa,2.85
+Ed Turns,Brighton,Aston Villa,False,0,0,0.0,0,0,0,0.0,False,,Nott'm Forest,False,Arsenal,4.71

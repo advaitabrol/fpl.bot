@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-João Palhinha Gonçalves,Fulham,Liverpool,2022-08-06,True,DMC,90,0.0,0.13,0.0,0.0,2,2.0,0.0,5.4,0,0,2,False,0.0,0.0,90.0,0,0,0,0,0,2,Fulham,False,West Ham,1.35
-João Palhinha Gonçalves,Fulham,West Ham,2022-10-09,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,3,False,2.0,0.13,90.0,0,0,0,0,0,2,Fulham,True,Bournemouth,-0.74
-João Palhinha Gonçalves,Fulham,Bournemouth,2022-10-15,True,DMC,90,0.0,0.04,0.0,0.0,2,2.0,0.0,2.6,0,0,2,False,2.0,0.06,90.0,0,0,0,0,0,3,Fulham,True,Aston Villa,-0.63
-João Palhinha Gonçalves,Fulham,Aston Villa,2022-10-20,True,DMC,90,0.0,0.12,0.0,0.0,3,2.0,0.0,2.4,0,1,0,False,2.0,0.05,90.0,0,0,0,0,0,2,Fulham,False,Leicester City,-2.72
-João Palhinha Gonçalves,Fulham,Leicester City,2022-10-23,False,DMC,90,0.0,0.12,0.0,0.0,2,1.0,0.0,2.8,0,0,2,False,2.25,0.07,90.0,0,0,0,0,0,3,Fulham,True,Everton,0.79
-João Palhinha Gonçalves,Fulham,Everton,2022-10-29,True,DMC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,2.0,0,1,0,False,2.2,0.08,90.0,0,0,0,0,0,2,Fulham,False,Manchester City,1.5
-João Palhinha Gonçalves,Fulham,Manchester City,2022-11-05,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,0,2,False,2.4,0.05,90.0,0,0,0,0,0,2,Fulham,True,Manchester United,1.36
-João Palhinha Gonçalves,Fulham,Manchester United,2022-11-13,True,DMC,90,0.0,0.16,0.0,0.0,2,2.0,0.0,0.0,0,0,2,True,2.4,0.05,90.0,0,0,0,0,0,3,Fulham,False,Crystal Palace,-1.05
-João Palhinha Gonçalves,Fulham,Crystal Palace,2022-12-26,False,DMC,74,0.0,0.11,0.0,0.0,3,3.0,0.0,3.2,0,1,0,True,2.4,0.08,88.22,0,0,0,0,0,10,Fulham,True,Southampton,-0.67
-João Palhinha Gonçalves,Fulham,Southampton,2022-12-31,True,DMC,90,1.0,0.41,0.0,0.0,10,2.0,0.0,10.4,3,0,1,True,2.4,0.08,88.4,0,0,0,0,0,2,Fulham,False,Leeds United,-2.01
-João Palhinha Gonçalves,Fulham,Leeds United,2023-01-03,False,DMC,90,0.0,0.04,0.0,0.0,2,1.0,0.0,1.6,0,1,0,True,4.0,0.14,88.55,0,0,0,0,0,2,Fulham,True,Chelsea,1.22
-João Palhinha Gonçalves,Fulham,Chelsea,2023-01-12,True,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,True,3.8,0.14,88.67,0,0,0,0,0,2,Fulham,False,Wolverhampton,0.28
-João Palhinha Gonçalves,Fulham,Wolverhampton,2022-08-13,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.7,0,1,0,False,3.8,0.14,88.77,0,0,0,0,0,2,Fulham,False,Newcastle United,1.64
-João Palhinha Gonçalves,Fulham,Newcastle United,2023-01-15,False,DMC,90,0.0,0.04,0.0,0.09,2,1.0,1.0,4.2,0,0,1,True,3.8,0.11,88.86,0,0,0,0,0,1,Fulham,True,Tottenham,-0.89
-João Palhinha Gonçalves,Fulham,Tottenham,2023-01-23,True,DMC,90,0.0,0.67,0.0,0.0,1,2.0,0.0,2.9,0,0,1,True,3.6,0.1,88.93,0,0,0,0,0,2,Fulham,False,Chelsea,0.71
-João Palhinha Gonçalves,Fulham,Chelsea,2023-02-03,False,DMC,90,0.0,0.15,0.0,0.08,2,3.0,2.0,4.5,0,1,0,True,1.8,0.15,89.0,0,0,0,0,0,3,Fulham,True,Nottingham Forest,-3.99
-João Palhinha Gonçalves,Fulham,Nottingham Forest,2023-02-11,True,DMC,90,0.0,0.09,0.0,0.0,3,1.0,0.0,1.5,0,1,0,True,1.8,0.17,89.06,0,0,0,0,0,2,Fulham,False,Brighton,-0.55
-João Palhinha Gonçalves,Fulham,Brighton,2023-02-18,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.8,0,1,0,True,2.0,0.19,89.11,0,0,0,0,0,1,Fulham,True,Wolverhampton,0.52
-João Palhinha Gonçalves,Fulham,Wolverhampton,2023-02-24,True,DMC,90,0.0,0.03,0.0,0.0,1,2.0,0.0,2.5,0,0,1,True,2.0,0.19,89.16,0,0,0,0,0,0,Fulham,False,Brentford,0.07
-João Palhinha Gonçalves,Fulham,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.19,84.7,0,0,0,0,0,0,Fulham,True,Arsenal,0.97
-João Palhinha Gonçalves,Fulham,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.06,80.67,0,0,0,0,0,2,Fulham,False,Bournemouth,3.99
-João Palhinha Gonçalves,Fulham,Bournemouth,2023-04-01,False,DMC,87,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,0,2,True,1.2,0.02,80.95,0,0,0,0,0,6,Fulham,True,Brentford,1.56
-João Palhinha Gonçalves,Fulham,Brentford,2022-08-20,True,DMC,90,1.0,0.03,0.0,0.0,6,1.0,0.0,6.4,0,0,2,False,1.0,0.01,81.35,0,0,0,0,0,2,Fulham,True,West Ham,-0.79
-João Palhinha Gonçalves,Fulham,West Ham,2023-04-08,True,DMC,90,0.0,0.06,0.0,0.04,2,2.0,2.0,4.6,0,0,1,True,1.8,0.01,81.71,0,0,0,0,0,2,Fulham,False,Everton,-0.93
-João Palhinha Gonçalves,Fulham,Everton,2023-04-15,False,DMC,90,0.0,0.07,0.0,0.0,2,2.0,0.0,1.4,0,0,1,True,2.0,0.02,82.04,0,0,0,0,0,-1,Fulham,True,Leicester City,-2.18
-João Palhinha Gonçalves,Fulham,Leicester City,2023-04-22,True,DMC,90,0.0,0.02,0.0,0.02,-1,1.0,1.0,2.7,0,0,1,True,2.4,0.03,82.35,0,0,0,0,0,1,Fulham,False,Aston Villa,2.57
-João Palhinha Gonçalves,Fulham,Aston Villa,2023-04-25,False,DMC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,1,True,2.2,0.04,82.63,0,0,0,0,0,2,Fulham,True,Manchester City,2.68
-João Palhinha Gonçalves,Fulham,Manchester City,2023-04-30,True,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,2,True,2.0,0.04,82.89,0,0,0,0,0,2,Fulham,False,Liverpool,0.28
-João Palhinha Gonçalves,Fulham,Liverpool,2023-05-03,False,DMC,90,0.0,0.08,0.0,0.0,2,2.0,0.0,6.0,0,0,1,True,1.2,0.03,83.14,0,0,0,0,0,2,Fulham,True,Leeds United,0.24
-João Palhinha Gonçalves,Fulham,Leeds United,2023-05-08,True,DMC,90,0.0,0.11,0.0,0.05,2,1.0,1.0,4.1,0,0,3,True,1.2,0.03,83.37,0,0,0,0,0,3,Fulham,False,Southampton,-1.16
-João Palhinha Gonçalves,Fulham,Southampton,2023-05-13,False,DMC,76,0.0,0.08,0.0,0.0,3,1.0,0.0,1.6,0,1,0,True,1.2,0.04,83.13,0,0,0,0,0,1,Fulham,True,Crystal Palace,0.27
-João Palhinha Gonçalves,Fulham,Crystal Palace,2023-05-20,True,DMC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,2,True,2.0,0.05,83.34,0,0,0,0,0,1,Fulham,False,Manchester United,0.13
-João Palhinha Gonçalves,Fulham,Manchester United,2023-05-28,False,DMC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,2,True,2.0,0.05,83.55,0,0,0,0,0,1,Fulham,False,Arsenal,-0.68
-João Palhinha Gonçalves,Fulham,Arsenal,2022-08-27,False,DMC,87,0.0,0.07,0.0,0.0,1,1.0,0.0,1.6,0,0,2,False,1.8,0.05,83.65,0,0,0,0,0,2,Fulham,True,Brighton,-2.78
-João Palhinha Gonçalves,Fulham,Brighton,2022-08-30,True,DMC,90,0.0,0.05,0.0,0.0,2,2.0,0.0,5.6,0,0,1,False,1.6,0.05,83.83,0,0,0,0,0,1,Fulham,False,Tottenham,1.6
-João Palhinha Gonçalves,Fulham,Tottenham,2022-09-03,False,DMC,84,0.0,0.0,0.0,0.0,1,0.0,0.0,2.1,0,0,2,False,1.6,0.04,83.83,0,0,0,0,0,8,Fulham,False,Nottingham Forest,1.93
-João Palhinha Gonçalves,Fulham,Nottingham Forest,2022-09-16,False,DMC,90,1.0,0.03,0.0,0.0,8,1.0,0.0,7.1,2,0,2,False,1.2,0.02,84.0,0,0,0,0,0,0,Fulham,True,Newcastle United,3.13
-João Palhinha Gonçalves,Fulham,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,2.6,0.03,81.79,0,0,0,0,0,0,Fulham,False,Everton,-0.93
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+João Palhinha Gonçalves,Fulham,Liverpool,2022-08-06,True,DMC,90,0.0,0.13,0.0,0.0,2,2.0,0.0,5.4,0,0,2,False,0.0,0.0,90.0,0,0,0,0,0,2,Fulham,False,West Ham,
+João Palhinha Gonçalves,Fulham,West Ham,2022-10-09,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,3,False,2.0,0.13,90.0,0,0,0,0,0,2,Fulham,True,Bournemouth,
+João Palhinha Gonçalves,Fulham,Bournemouth,2022-10-15,True,DMC,90,0.0,0.04,0.0,0.0,2,2.0,0.0,2.6,0,0,2,False,2.0,0.06,90.0,0,0,0,0,0,3,Fulham,True,Aston Villa,
+João Palhinha Gonçalves,Fulham,Aston Villa,2022-10-20,True,DMC,90,0.0,0.12,0.0,0.0,3,2.0,0.0,2.4,0,1,0,False,2.0,0.05,90.0,0,0,0,0,0,2,Fulham,False,Leicester City,
+João Palhinha Gonçalves,Fulham,Leicester City,2022-10-23,False,DMC,90,0.0,0.12,0.0,0.0,2,1.0,0.0,2.8,0,0,2,False,2.25,0.07,90.0,0,0,0,0,0,3,Fulham,True,Everton,
+João Palhinha Gonçalves,Fulham,Everton,2022-10-29,True,DMC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,2.0,0,1,0,False,2.2,0.08,90.0,0,0,0,0,0,2,Fulham,False,Manchester City,
+João Palhinha Gonçalves,Fulham,Manchester City,2022-11-05,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,0,2,False,2.4,0.05,90.0,0,0,0,0,0,2,Fulham,True,Manchester United,
+João Palhinha Gonçalves,Fulham,Manchester United,2022-11-13,True,DMC,90,0.0,0.16,0.0,0.0,2,2.0,0.0,0.0,0,0,2,True,2.4,0.05,90.0,0,0,0,0,0,3,Fulham,False,Crystal Palace,
+João Palhinha Gonçalves,Fulham,Crystal Palace,2022-12-26,False,DMC,74,0.0,0.11,0.0,0.0,3,3.0,0.0,3.2,0,1,0,True,2.4,0.08,88.22,0,0,0,0,0,10,Fulham,True,Southampton,
+João Palhinha Gonçalves,Fulham,Southampton,2022-12-31,True,DMC,90,1.0,0.41,0.0,0.0,10,2.0,0.0,10.4,3,0,1,True,2.4,0.08,88.4,0,0,0,0,0,2,Fulham,False,Leeds United,
+João Palhinha Gonçalves,Fulham,Leeds United,2023-01-03,False,DMC,90,0.0,0.04,0.0,0.0,2,1.0,0.0,1.6,0,1,0,True,4.0,0.14,88.55,0,0,0,0,0,2,Fulham,True,Chelsea,
+João Palhinha Gonçalves,Fulham,Chelsea,2023-01-12,True,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,True,3.8,0.14,88.67,0,0,0,0,0,2,Fulham,False,Wolverhampton,
+João Palhinha Gonçalves,Fulham,Wolverhampton,2022-08-13,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.7,0,1,0,False,3.8,0.14,88.77,0,0,0,0,0,2,Fulham,False,Newcastle United,
+João Palhinha Gonçalves,Fulham,Newcastle United,2023-01-15,False,DMC,90,0.0,0.04,0.0,0.09,2,1.0,1.0,4.2,0,0,1,True,3.8,0.11,88.86,0,0,0,0,0,1,Fulham,True,Tottenham,
+João Palhinha Gonçalves,Fulham,Tottenham,2023-01-23,True,DMC,90,0.0,0.67,0.0,0.0,1,2.0,0.0,2.9,0,0,1,True,3.6,0.1,88.93,0,0,0,0,0,2,Fulham,False,Chelsea,
+João Palhinha Gonçalves,Fulham,Chelsea,2023-02-03,False,DMC,90,0.0,0.15,0.0,0.08,2,3.0,2.0,4.5,0,1,0,True,1.8,0.15,89.0,0,0,0,0,0,3,Fulham,True,Nottingham Forest,
+João Palhinha Gonçalves,Fulham,Nottingham Forest,2023-02-11,True,DMC,90,0.0,0.09,0.0,0.0,3,1.0,0.0,1.5,0,1,0,True,1.8,0.17,89.06,0,0,0,0,0,2,Fulham,False,Brighton,
+João Palhinha Gonçalves,Fulham,Brighton,2023-02-18,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.8,0,1,0,True,2.0,0.19,89.11,0,0,0,0,0,1,Fulham,True,Wolverhampton,
+João Palhinha Gonçalves,Fulham,Wolverhampton,2023-02-24,True,DMC,90,0.0,0.03,0.0,0.0,1,2.0,0.0,2.5,0,0,1,True,2.0,0.19,89.16,0,0,0,0,0,0,Fulham,False,Brentford,
+João Palhinha Gonçalves,Fulham,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.19,84.7,0,0,0,0,0,0,Fulham,True,Arsenal,
+João Palhinha Gonçalves,Fulham,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.06,80.67,0,0,0,0,0,2,Fulham,False,Bournemouth,
+João Palhinha Gonçalves,Fulham,Bournemouth,2023-04-01,False,DMC,87,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,0,2,True,1.2,0.02,80.95,0,0,0,0,0,6,Fulham,True,Brentford,-2.09
+João Palhinha Gonçalves,Fulham,Brentford,2022-08-20,True,DMC,90,1.0,0.03,0.0,0.0,6,1.0,0.0,6.4,0,0,2,False,1.0,0.01,81.35,0,0,0,0,0,2,Fulham,True,West Ham,
+João Palhinha Gonçalves,Fulham,West Ham,2023-04-08,True,DMC,90,0.0,0.06,0.0,0.04,2,2.0,2.0,4.6,0,0,1,True,1.8,0.01,81.71,0,0,0,0,0,2,Fulham,False,Everton,
+João Palhinha Gonçalves,Fulham,Everton,2023-04-15,False,DMC,90,0.0,0.07,0.0,0.0,2,2.0,0.0,1.4,0,0,1,True,2.0,0.02,82.04,0,0,0,0,0,-1,Fulham,True,Leicester City,
+João Palhinha Gonçalves,Fulham,Leicester City,2023-04-22,True,DMC,90,0.0,0.02,0.0,0.02,-1,1.0,1.0,2.7,0,0,1,True,2.4,0.03,82.35,0,0,0,0,0,1,Fulham,False,Aston Villa,
+João Palhinha Gonçalves,Fulham,Aston Villa,2023-04-25,False,DMC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,1,True,2.2,0.04,82.63,0,0,0,0,0,2,Fulham,True,Manchester City,
+João Palhinha Gonçalves,Fulham,Manchester City,2023-04-30,True,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,2,True,2.0,0.04,82.89,0,0,0,0,0,2,Fulham,False,Liverpool,
+João Palhinha Gonçalves,Fulham,Liverpool,2023-05-03,False,DMC,90,0.0,0.08,0.0,0.0,2,2.0,0.0,6.0,0,0,1,True,1.2,0.03,83.14,0,0,0,0,0,2,Fulham,True,Leeds United,
+João Palhinha Gonçalves,Fulham,Leeds United,2023-05-08,True,DMC,90,0.0,0.11,0.0,0.05,2,1.0,1.0,4.1,0,0,3,True,1.2,0.03,83.37,0,0,0,0,0,3,Fulham,False,Southampton,
+João Palhinha Gonçalves,Fulham,Southampton,2023-05-13,False,DMC,76,0.0,0.08,0.0,0.0,3,1.0,0.0,1.6,0,1,0,True,1.2,0.04,83.13,0,0,0,0,0,1,Fulham,True,Crystal Palace,
+João Palhinha Gonçalves,Fulham,Crystal Palace,2023-05-20,True,DMC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,2,True,2.0,0.05,83.34,0,0,0,0,0,1,Fulham,False,Manchester United,
+João Palhinha Gonçalves,Fulham,Manchester United,2023-05-28,False,DMC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,2,True,2.0,0.05,83.55,0,0,0,0,0,1,Fulham,False,Arsenal,0.0
+João Palhinha Gonçalves,Fulham,Arsenal,2022-08-27,False,DMC,87,0.0,0.07,0.0,0.0,1,1.0,0.0,1.6,0,0,2,False,1.8,0.05,83.65,0,0,0,0,0,2,Fulham,True,Brighton,-0.52
+João Palhinha Gonçalves,Fulham,Brighton,2022-08-30,True,DMC,90,0.0,0.05,0.0,0.0,2,2.0,0.0,5.6,0,0,1,False,1.6,0.05,83.83,0,0,0,0,0,1,Fulham,False,Tottenham,1.23
+João Palhinha Gonçalves,Fulham,Tottenham,2022-09-03,False,DMC,84,0.0,0.0,0.0,0.0,1,0.0,0.0,2.1,0,0,2,False,1.6,0.04,83.83,0,0,0,0,0,8,Fulham,False,Nottingham Forest,-0.51
+João Palhinha Gonçalves,Fulham,Nottingham Forest,2022-09-16,False,DMC,90,1.0,0.03,0.0,0.0,8,1.0,0.0,7.1,2,0,2,False,1.2,0.02,84.0,0,0,0,0,0,0,Fulham,True,Newcastle United,3.93
+João Palhinha Gonçalves,Fulham,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,2.6,0.03,81.79,0,0,0,0,0,0,Fulham,False,Everton,

@@ -1,4 +1,4 @@
-name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
 Hamza Choudhury,Leicester,Brentford,True,0,0,0.0,0,0,0,False,0.0,Leicester,False,Bournemouth,
 Hamza Choudhury,Leicester,Bournemouth,False,0,0,0.0,0,0,0,False,0.0,Leicester,True,Crystal Palace,-0.43
 Hamza Choudhury,Leicester,Crystal Palace,True,0,0,0.0,0,0,0,False,0.0,Leicester,True,Leicester City,2.25
@@ -19,9 +19,9 @@ Hamza Choudhury,Leicester,Manchester United,False,0,0,0.0,0,0,0,False,0.0,Leices
 Hamza Choudhury,Leicester,Arsenal,True,0,0,0.0,0,0,0,False,0.0,Leicester,False,Southampton,-3.27
 Hamza Choudhury,Leicester,Southampton,False,0,0,0.0,0,0,0,False,0.0,Leicester,True,Chelsea,-2.98
 Hamza Choudhury,Leicester,Chelsea,True,0,0,0.0,0,0,0,False,0.0,Leicester,False,Brentford,-4.9
-Hamza Choudhury,Leicester,Brentford,False,0,0,0.0,0,0,0,False,0.0,Leicester,False,Crystal Palace,2.07
-Hamza Choudhury,Leicester,Crystal Palace,False,0,0,0.0,0,0,0,False,0.0,Leicester,True,Aston Villa,-0.34
-Hamza Choudhury,Leicester,Aston Villa,True,0,0,0.0,0,0,0,False,0.0,Leicester,True,Southampton,1.76
+Hamza Choudhury,Leicester,Brentford,False,0,0,0.0,0,0,0,False,0.0,Leicester,False,Crystal Palace,
+Hamza Choudhury,Leicester,Crystal Palace,False,0,0,0.0,0,0,0,False,0.0,Leicester,True,Aston Villa,
+Hamza Choudhury,Leicester,Aston Villa,True,0,0,0.0,0,0,0,False,0.0,Leicester,True,Southampton,
 Hamza Choudhury,Leicester,Southampton,True,0,0,0.0,0,0,0,False,0.0,Leicester,True,Bournemouth,
 Hamza Choudhury,Leicester,Bournemouth,True,0,0,0.0,0,0,0,False,0.0,Leicester,False,Manchester City,1.46
 Hamza Choudhury,Leicester,Manchester City,False,0,0,0.0,0,0,0,False,0.0,Leicester,True,Wolverhampton,-1.75
@@ -32,8 +32,8 @@ Hamza Choudhury,Leicester,Fulham,False,0,0,0.0,0,0,0,False,0.0,Leicester,True,Li
 Hamza Choudhury,Leicester,Liverpool,True,0,0,0.0,0,0,0,False,0.0,Leicester,False,Newcastle United,1.84
 Hamza Choudhury,Leicester,Newcastle United,False,0,0,0.0,0,0,0,False,0.0,Leicester,True,West Ham,-0.48
 Hamza Choudhury,Leicester,West Ham,True,0,0,0.0,0,0,0,False,0.0,Leicester,False,Chelsea,-5.34
-Hamza Choudhury,Leicester,Chelsea,False,0,0,0.0,0,0,0,False,0.0,Leicester,True,Manchester United,-2.56
+Hamza Choudhury,Leicester,Chelsea,False,0,0,0.0,0,0,0,False,0.0,Leicester,True,Manchester United,
 Hamza Choudhury,Leicester,Manchester United,True,0,0,0.0,0,0,0,False,0.0,Leicester,False,Brighton,-2.14
 Hamza Choudhury,Leicester,Brighton,False,0,0,0.0,0,0,0,False,0.0,Leicester,False,Tottenham,3.38
 Hamza Choudhury,Leicester,Tottenham,False,0,0,0.0,0,0,0,False,0.0,Leicester,True,Nottingham Forest,
-Hamza Choudhury,Leicester,Nottingham Forest,True,0,0,0.0,0,0,0,False,,Wolves,False,Manchester United,0.79
+Hamza Choudhury,Leicester,Nottingham Forest,True,0,0,0.0,0,0,0,False,,Wolves,False,Manchester United,-0.63

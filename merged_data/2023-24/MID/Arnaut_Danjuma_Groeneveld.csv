@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Arnaut Danjuma Groeneveld,Everton,Fulham,2023-08-12,True,Sub,18,0.0,0.0,0.0,0.09,1,0.0,1.0,1.8,0,0,1,False,0.0,0.0,18.0,0,0,0,0,0,0.0,Everton,False,West Ham,2.5
-Arnaut Danjuma Groeneveld,Everton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,9.0,0,0,0,0,0,0.0,Everton,True,Brighton,0.33
-Arnaut Danjuma Groeneveld,Everton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.5,0.0,6.0,0,0,0,0,0,0.0,Everton,False,Crystal Palace,-0.42
-Arnaut Danjuma Groeneveld,Everton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.33,0.0,4.5,0,0,0,0,0,1.0,Everton,True,Manchester United,0.93
-Arnaut Danjuma Groeneveld,Everton,Manchester United,2023-11-26,True,Sub,17,0.0,0.0,0.0,0.09,1,0.0,2.0,2.8,0,0,1,False,0.25,0.0,7.0,0,0,0,0,0,0.0,Everton,False,Nottingham Forest,0.07
-Arnaut Danjuma Groeneveld,Everton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,5.83,0,0,0,0,0,0.0,Everton,True,Newcastle United,-0.27
-Arnaut Danjuma Groeneveld,Everton,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,5.0,0,0,0,0,0,0.0,Everton,True,Chelsea,-1.86
-Arnaut Danjuma Groeneveld,Everton,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,4.38,0,0,0,0,0,0.0,Everton,False,Burnley,-3.12
-Arnaut Danjuma Groeneveld,Everton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,3.89,0,0,0,0,0,1.0,Everton,False,Tottenham,2.99
-Arnaut Danjuma Groeneveld,Everton,Tottenham,2023-12-23,False,Sub,24,0.0,0.57,0.0,0.0,1,4.0,0.0,7.1,0,0,0,False,0.2,0.0,5.9,0,0,0,0,0,1.0,Everton,True,Manchester City,1.75
-Arnaut Danjuma Groeneveld,Everton,Manchester City,2023-12-27,True,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,False,0.2,0.11,6.27,0,0,0,0,0,1.0,Everton,False,Aston Villa,3.22
-Arnaut Danjuma Groeneveld,Everton,Aston Villa,2023-08-20,False,Sub,52,0.0,0.19,0.0,0.0,1,4.0,0.0,4.2,0,0,2,False,0.4,0.11,10.08,0,0,0,0,0,1.0,Everton,False,Wolverhampton,1.67
-Arnaut Danjuma Groeneveld,Everton,Wolverhampton,2023-12-30,False,Sub,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.6,0.15,10.54,0,0,0,0,0,3.0,Everton,True,Aston Villa,1.41
-Arnaut Danjuma Groeneveld,Everton,Aston Villa,2024-01-14,True,AML,62,0.0,0.18,0.0,0.53,3,3.0,1.0,2.7,0,1,0,True,0.8,0.15,14.21,0,0,0,0,0,3.0,Everton,False,Fulham,-0.21
-Arnaut Danjuma Groeneveld,Everton,Fulham,2024-01-30,False,ML,89,0.0,0.31,0.0,0.0,3,2.0,0.0,2.2,0,1,0,True,1.4,0.19,19.2,0,0,0,0,0,0.0,Everton,True,Tottenham,-0.33
-Arnaut Danjuma Groeneveld,Everton,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.14,18.0,0,0,0,0,0,0.0,Everton,False,Manchester City,0.69
-Arnaut Danjuma Groeneveld,Everton,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.14,16.94,0,0,0,0,0,0.0,Everton,True,Crystal Palace,-1.89
-Arnaut Danjuma Groeneveld,Everton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.1,16.0,0,0,0,0,0,0.0,Everton,False,Brighton,-3.42
-Arnaut Danjuma Groeneveld,Everton,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.1,15.16,0,0,0,0,0,0.0,Everton,True,West Ham,1.45
-Arnaut Danjuma Groeneveld,Everton,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.06,14.4,0,0,0,0,0,0.0,Everton,False,Manchester United,1.96
-Arnaut Danjuma Groeneveld,Everton,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,13.71,0,0,0,0,0,2.0,Everton,True,Wolverhampton,1.62
-Arnaut Danjuma Groeneveld,Everton,Wolverhampton,2023-08-26,True,FW,90,0.0,0.78,0.0,0.0,2,5.0,0.0,5.4,0,0,1,True,0.0,0.0,17.18,0,0,0,0,0,0.0,Everton,False,Bournemouth,4.39
-Arnaut Danjuma Groeneveld,Everton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.16,16.43,0,0,0,0,0,0.0,Everton,False,Newcastle United,1.81
-Arnaut Danjuma Groeneveld,Everton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.16,15.75,0,0,0,0,0,0.0,Everton,True,Burnley,-2.21
-Arnaut Danjuma Groeneveld,Everton,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.16,15.12,0,0,0,0,0,0.0,Everton,False,Chelsea,1.97
-Arnaut Danjuma Groeneveld,Everton,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.16,14.54,0,0,0,0,0,0.0,Everton,True,Nottingham Forest,-0.72
-Arnaut Danjuma Groeneveld,Everton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.16,14.0,0,0,0,0,0,0.0,Everton,True,Liverpool,-1.2
-Arnaut Danjuma Groeneveld,Everton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,13.5,0,0,0,0,0,0.0,Everton,True,Brentford,-2.0
-Arnaut Danjuma Groeneveld,Everton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,13.03,0,0,0,0,0,0.0,Everton,False,Luton,0.12
-Arnaut Danjuma Groeneveld,Everton,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,12.6,0,0,0,0,0,0.0,Everton,True,Sheffield,-0.93
-Arnaut Danjuma Groeneveld,Everton,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,12.19,0,0,0,0,0,0.0,Everton,False,Arsenal,2.52
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Arnaut Danjuma Groeneveld,Everton,Fulham,2023-08-12,True,Sub,18,0.0,0.0,0.0,0.09,1,0.0,1.0,1.8,0,0,1,False,0.0,0.0,18.0,0,0,0,0,0,0.0,Everton,False,West Ham,4.39
+Arnaut Danjuma Groeneveld,Everton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,9.0,0,0,0,0,0,0.0,Everton,True,Brighton,2.15
+Arnaut Danjuma Groeneveld,Everton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.5,0.0,6.0,0,0,0,0,0,0.0,Everton,False,Crystal Palace,0.85
+Arnaut Danjuma Groeneveld,Everton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.33,0.0,4.5,0,0,0,0,0,1.0,Everton,True,Manchester United,-0.7
+Arnaut Danjuma Groeneveld,Everton,Manchester United,2023-11-26,True,Sub,17,0.0,0.0,0.0,0.09,1,0.0,2.0,2.8,0,0,1,False,0.25,0.0,7.0,0,0,0,0,0,0.0,Everton,False,Nottingham Forest,1.05
+Arnaut Danjuma Groeneveld,Everton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,5.83,0,0,0,0,0,0.0,Everton,True,Newcastle United,1.57
+Arnaut Danjuma Groeneveld,Everton,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,5.0,0,0,0,0,0,0.0,Everton,True,Chelsea,-0.66
+Arnaut Danjuma Groeneveld,Everton,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,4.38,0,0,0,0,0,0.0,Everton,False,Burnley,-1.91
+Arnaut Danjuma Groeneveld,Everton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,3.89,0,0,0,0,0,1.0,Everton,False,Tottenham,4.06
+Arnaut Danjuma Groeneveld,Everton,Tottenham,2023-12-23,False,Sub,24,0.0,0.57,0.0,0.0,1,4.0,0.0,7.1,0,0,0,False,0.2,0.0,5.9,0,0,0,0,0,1.0,Everton,True,Manchester City,1.82
+Arnaut Danjuma Groeneveld,Everton,Manchester City,2023-12-27,True,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,False,0.2,0.11,6.27,0,0,0,0,0,1.0,Everton,False,Aston Villa,1.9
+Arnaut Danjuma Groeneveld,Everton,Aston Villa,2023-08-20,False,Sub,52,0.0,0.19,0.0,0.0,1,4.0,0.0,4.2,0,0,2,False,0.4,0.11,10.08,0,0,0,0,0,1.0,Everton,False,Wolverhampton,0.11
+Arnaut Danjuma Groeneveld,Everton,Wolverhampton,2023-12-30,False,Sub,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.6,0.15,10.54,0,0,0,0,0,3.0,Everton,True,Aston Villa,2.11
+Arnaut Danjuma Groeneveld,Everton,Aston Villa,2024-01-14,True,AML,62,0.0,0.18,0.0,0.53,3,3.0,1.0,2.7,0,1,0,True,0.8,0.15,14.21,0,0,0,0,0,3.0,Everton,False,Fulham,-1.22
+Arnaut Danjuma Groeneveld,Everton,Fulham,2024-01-30,False,ML,89,0.0,0.31,0.0,0.0,3,2.0,0.0,2.2,0,1,0,True,1.4,0.19,19.2,0,0,0,0,0,0.0,Everton,True,Tottenham,1.13
+Arnaut Danjuma Groeneveld,Everton,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.14,18.0,0,0,0,0,0,0.0,Everton,False,Manchester City,0.21
+Arnaut Danjuma Groeneveld,Everton,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.14,16.94,0,0,0,0,0,0.0,Everton,True,Crystal Palace,-2.96
+Arnaut Danjuma Groeneveld,Everton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.1,16.0,0,0,0,0,0,0.0,Everton,False,Brighton,-5.19
+Arnaut Danjuma Groeneveld,Everton,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.1,15.16,0,0,0,0,0,0.0,Everton,True,West Ham,0.7
+Arnaut Danjuma Groeneveld,Everton,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.06,14.4,0,0,0,0,0,0.0,Everton,False,Manchester United,0.43
+Arnaut Danjuma Groeneveld,Everton,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,13.71,0,0,0,0,0,2.0,Everton,True,Wolverhampton,1.55
+Arnaut Danjuma Groeneveld,Everton,Wolverhampton,2023-08-26,True,FW,90,0.0,0.78,0.0,0.0,2,5.0,0.0,5.4,0,0,1,True,0.0,0.0,17.18,0,0,0,0,0,0.0,Everton,False,Bournemouth,6.99
+Arnaut Danjuma Groeneveld,Everton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.16,16.43,0,0,0,0,0,0.0,Everton,False,Newcastle United,2.12
+Arnaut Danjuma Groeneveld,Everton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.16,15.75,0,0,0,0,0,0.0,Everton,True,Burnley,-3.47
+Arnaut Danjuma Groeneveld,Everton,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.16,15.12,0,0,0,0,0,0.0,Everton,False,Chelsea,-1.5
+Arnaut Danjuma Groeneveld,Everton,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.16,14.54,0,0,0,0,0,0.0,Everton,True,Nottingham Forest,1.11
+Arnaut Danjuma Groeneveld,Everton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.16,14.0,0,0,0,0,0,0.0,Everton,True,Liverpool,0.76
+Arnaut Danjuma Groeneveld,Everton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,13.5,0,0,0,0,0,0.0,Everton,True,Brentford,
+Arnaut Danjuma Groeneveld,Everton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,13.03,0,0,0,0,0,0.0,Everton,False,Luton,
+Arnaut Danjuma Groeneveld,Everton,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,12.6,0,0,0,0,0,0.0,Everton,True,Sheffield,
+Arnaut Danjuma Groeneveld,Everton,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,12.19,0,0,0,0,0,0.0,Everton,False,Arsenal,
 Arnaut Danjuma Groeneveld,Everton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,11.81,0,0,0,0,0,7.0,Everton,False,Sheffield,-1.68
-Arnaut Danjuma Groeneveld,Everton,Sheffield,2023-09-02,False,ML,90,1.0,1.32,0.0,0.1,7,5.0,1.0,13.4,0,0,2,True,0.0,0.0,14.18,0,0,0,0,0,2.0,Everton,True,Arsenal,-2.09
+Arnaut Danjuma Groeneveld,Everton,Sheffield,2023-09-02,False,ML,90,1.0,1.32,0.0,0.1,7,5.0,1.0,13.4,0,0,2,True,0.0,0.0,14.18,0,0,0,0,0,2.0,Everton,True,Arsenal,-1.26
 Arnaut Danjuma Groeneveld,Everton,Arsenal,2023-09-17,True,MR,90,0.0,0.06,0.0,0.04,2,2.0,1.0,1.7,0,0,1,True,1.4,0.26,16.41,0,0,0,0,0,1.0,Everton,False,Brentford,0.08
 Arnaut Danjuma Groeneveld,Everton,Brentford,2023-09-23,False,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,1.8,0.28,16.31,0,0,0,0,0,1.0,Everton,True,Luton,0.86
-Arnaut Danjuma Groeneveld,Everton,Luton,2023-09-30,True,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,2.0,0.28,16.03,0,0,0,0,0,0.0,Everton,True,Bournemouth,-4.02
-Arnaut Danjuma Groeneveld,Everton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,2.2,0.28,15.59,0,0,0,0,0,1.0,Everton,False,Liverpool,1.94
+Arnaut Danjuma Groeneveld,Everton,Luton,2023-09-30,True,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,2.0,0.28,16.03,0,0,0,0,0,0.0,Everton,True,Bournemouth,-6.26
+Arnaut Danjuma Groeneveld,Everton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,2.2,0.28,15.59,0,0,0,0,0,1.0,Everton,False,Liverpool,2.03
 Arnaut Danjuma Groeneveld,Everton,Liverpool,2023-10-21,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,False,2.2,0.28,15.45,0,0,0,0,0,,,,,

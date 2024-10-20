@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Nathan Ferguson,Crystal Palace,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Leicester City,-0.81
-Nathan Ferguson,Crystal Palace,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Leeds United,0.66
-Nathan Ferguson,Crystal Palace,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Wolverhampton,-1.42
-Nathan Ferguson,Crystal Palace,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Everton,2.96
-Nathan Ferguson,Crystal Palace,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Southampton,0.19
-Nathan Ferguson,Crystal Palace,Southampton,2022-10-29,True,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,West Ham,0.38
-Nathan Ferguson,Crystal Palace,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Nottingham Forest,1.76
-Nathan Ferguson,Crystal Palace,Nottingham Forest,2022-11-12,False,DR,0,0.0,0.33,0.0,0.02,0,3.0,1.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Fulham,2.42
-Nathan Ferguson,Crystal Palace,Fulham,2022-12-26,True,DR,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.07,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Bournemouth,0.25
-Nathan Ferguson,Crystal Palace,Bournemouth,2022-12-31,False,DR,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.07,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Tottenham,0.68
-Nathan Ferguson,Crystal Palace,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.07,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Liverpool,1.18
-Nathan Ferguson,Crystal Palace,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.07,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Chelsea,2.48
-Nathan Ferguson,Crystal Palace,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.07,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Manchester United,-1.44
-Nathan Ferguson,Crystal Palace,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Newcastle United,0.03
-Nathan Ferguson,Crystal Palace,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Manchester United,0.01
-Nathan Ferguson,Crystal Palace,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Brighton,-0.29
-Nathan Ferguson,Crystal Palace,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Brentford,0.24
-Nathan Ferguson,Crystal Palace,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Liverpool,0.92
-Nathan Ferguson,Crystal Palace,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Aston Villa,1.69
-Nathan Ferguson,Crystal Palace,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Manchester City,1.02
-Nathan Ferguson,Crystal Palace,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Brighton,2.17
-Nathan Ferguson,Crystal Palace,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Arsenal,3.89
-Nathan Ferguson,Crystal Palace,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Leeds United,1.4
-Nathan Ferguson,Crystal Palace,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Aston Villa,-0.88
-Nathan Ferguson,Crystal Palace,Aston Villa,2022-08-20,True,DMR,0,0.0,0.0,0.0,0.1,0,0.0,1.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Leicester City,-1.38
-Nathan Ferguson,Crystal Palace,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Southampton,-0.93
-Nathan Ferguson,Crystal Palace,Southampton,2023-04-15,False,Sub,0,0.0,0.0,0.0,0.06,0,0.0,1.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Everton,0.47
-Nathan Ferguson,Crystal Palace,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Wolverhampton,-0.93
-Nathan Ferguson,Crystal Palace,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,West Ham,0.94
-Nathan Ferguson,Crystal Palace,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Tottenham,3.43
-Nathan Ferguson,Crystal Palace,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Bournemouth,0.86
-Nathan Ferguson,Crystal Palace,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Fulham,1.13
-Nathan Ferguson,Crystal Palace,Fulham,2023-05-20,False,DR,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Nottingham Forest,1.11
-Nathan Ferguson,Crystal Palace,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Manchester City,-0.8
-Nathan Ferguson,Crystal Palace,Manchester City,2022-08-27,False,DMR,0,0.0,0.04,0.0,0.45,0,1.0,1.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Brentford,0.35
-Nathan Ferguson,Crystal Palace,Brentford,2022-08-30,True,DR,0,0.0,0.32,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Newcastle United,3.58
-Nathan Ferguson,Crystal Palace,Newcastle United,2022-09-03,False,DR,0,0.0,0.07,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,False,0.0,0.07,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Chelsea,1.46
-Nathan Ferguson,Crystal Palace,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.09,0.0,0.0,0,0,0,0,,Nott'm Forest,False,Arsenal,1.87
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Nathan Ferguson,Crystal Palace,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Leicester City,-0.38
+Nathan Ferguson,Crystal Palace,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Leeds United,2.13
+Nathan Ferguson,Crystal Palace,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Wolverhampton,-2.67
+Nathan Ferguson,Crystal Palace,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Everton,2.41
+Nathan Ferguson,Crystal Palace,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Southampton,0.54
+Nathan Ferguson,Crystal Palace,Southampton,2022-10-29,True,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,West Ham,0.59
+Nathan Ferguson,Crystal Palace,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Nottingham Forest,
+Nathan Ferguson,Crystal Palace,Nottingham Forest,2022-11-12,False,DR,0,0.0,0.33,0.0,0.02,0,3.0,1.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Fulham,
+Nathan Ferguson,Crystal Palace,Fulham,2022-12-26,True,DR,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.07,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Bournemouth,
+Nathan Ferguson,Crystal Palace,Bournemouth,2022-12-31,False,DR,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.07,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Tottenham,-5.01
+Nathan Ferguson,Crystal Palace,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.07,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Liverpool,7.24
+Nathan Ferguson,Crystal Palace,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.07,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Chelsea,2.77
+Nathan Ferguson,Crystal Palace,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.07,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Manchester United,-0.9
+Nathan Ferguson,Crystal Palace,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Newcastle United,1.62
+Nathan Ferguson,Crystal Palace,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Manchester United,0.74
+Nathan Ferguson,Crystal Palace,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Brighton,-0.1
+Nathan Ferguson,Crystal Palace,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Brentford,1.96
+Nathan Ferguson,Crystal Palace,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Liverpool,3.6
+Nathan Ferguson,Crystal Palace,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Aston Villa,0.99
+Nathan Ferguson,Crystal Palace,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Manchester City,-0.0
+Nathan Ferguson,Crystal Palace,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Brighton,
+Nathan Ferguson,Crystal Palace,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Arsenal,1.99
+Nathan Ferguson,Crystal Palace,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Leeds United,3.21
+Nathan Ferguson,Crystal Palace,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Aston Villa,0.32
+Nathan Ferguson,Crystal Palace,Aston Villa,2022-08-20,True,DMR,0,0.0,0.0,0.0,0.1,0,0.0,1.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Leicester City,2.85
+Nathan Ferguson,Crystal Palace,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Southampton,
+Nathan Ferguson,Crystal Palace,Southampton,2023-04-15,False,Sub,0,0.0,0.0,0.0,0.06,0,0.0,1.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Everton,-1.9
+Nathan Ferguson,Crystal Palace,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Wolverhampton,
+Nathan Ferguson,Crystal Palace,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,West Ham,
+Nathan Ferguson,Crystal Palace,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Tottenham,6.04
+Nathan Ferguson,Crystal Palace,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Bournemouth,
+Nathan Ferguson,Crystal Palace,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Fulham,
+Nathan Ferguson,Crystal Palace,Fulham,2023-05-20,False,DR,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Nottingham Forest,
+Nathan Ferguson,Crystal Palace,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Manchester City,-0.86
+Nathan Ferguson,Crystal Palace,Manchester City,2022-08-27,False,DMR,0,0.0,0.04,0.0,0.45,0,1.0,1.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Brentford,0.87
+Nathan Ferguson,Crystal Palace,Brentford,2022-08-30,True,DR,0,0.0,0.32,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Newcastle United,1.9
+Nathan Ferguson,Crystal Palace,Newcastle United,2022-09-03,False,DR,0,0.0,0.07,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,False,0.0,0.07,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Chelsea,1.2
+Nathan Ferguson,Crystal Palace,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.09,0.0,0.0,0,0,0,0,,Nott'm Forest,False,Arsenal,4.71

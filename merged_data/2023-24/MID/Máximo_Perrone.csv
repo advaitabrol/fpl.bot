@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Máximo Perrone,Man City,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Manchester United,-1.52
-Máximo Perrone,Man City,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Bournemouth,-4.45
-Máximo Perrone,Man City,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Chelsea,-0.75
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Máximo Perrone,Man City,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Manchester United,0.81
+Máximo Perrone,Man City,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Bournemouth,-2.34
+Máximo Perrone,Man City,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Chelsea,-2.15
 Máximo Perrone,Man City,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Liverpool,-1.11
-Máximo Perrone,Man City,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Tottenham,1.5
-Máximo Perrone,Man City,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Aston Villa,0.61
-Máximo Perrone,Man City,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Luton,-2.0
-Máximo Perrone,Man City,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Crystal Palace,1.84
-Máximo Perrone,Man City,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Everton,-2.05
-Máximo Perrone,Man City,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Newcastle United,-3.3
-Máximo Perrone,Man City,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Sheffield,-0.83
-Máximo Perrone,Man City,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Newcastle United,-1.93
-Máximo Perrone,Man City,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Burnley,-2.04
-Máximo Perrone,Man City,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Brentford,-1.08
-Máximo Perrone,Man City,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Everton,-1.11
-Máximo Perrone,Man City,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Chelsea,-0.63
-Máximo Perrone,Man City,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Brentford,0.69
-Máximo Perrone,Man City,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Bournemouth,-2.29
-Máximo Perrone,Man City,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Manchester United,-1.86
-Máximo Perrone,Man City,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Liverpool,0.57
+Máximo Perrone,Man City,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Tottenham,2.78
+Máximo Perrone,Man City,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Aston Villa,0.45
+Máximo Perrone,Man City,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Luton,
+Máximo Perrone,Man City,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Crystal Palace,2.59
+Máximo Perrone,Man City,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Everton,-1.97
+Máximo Perrone,Man City,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Newcastle United,-3.63
+Máximo Perrone,Man City,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Sheffield,
+Máximo Perrone,Man City,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Newcastle United,-2.55
+Máximo Perrone,Man City,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Burnley,-1.82
+Máximo Perrone,Man City,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Brentford,-0.65
+Máximo Perrone,Man City,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Everton,-0.65
+Máximo Perrone,Man City,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Chelsea,-0.88
+Máximo Perrone,Man City,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Brentford,1.93
+Máximo Perrone,Man City,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Bournemouth,-1.59
+Máximo Perrone,Man City,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Manchester United,-1.84
+Máximo Perrone,Man City,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Liverpool,1.42
 Máximo Perrone,Man City,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Sheffield,-1.37
-Máximo Perrone,Man City,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Arsenal,-3.0
-Máximo Perrone,Man City,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Aston Villa,-1.8
-Máximo Perrone,Man City,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Crystal Palace,-1.0
-Máximo Perrone,Man City,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Luton,-3.41
-Máximo Perrone,Man City,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Brighton,-3.49
-Máximo Perrone,Man City,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Nottingham Forest,0.39
-Máximo Perrone,Man City,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Wolverhampton,-3.86
-Máximo Perrone,Man City,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Fulham,-3.19
-Máximo Perrone,Man City,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Tottenham,0.04
-Máximo Perrone,Man City,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,West Ham,-1.87
+Máximo Perrone,Man City,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Arsenal,-4.53
+Máximo Perrone,Man City,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Aston Villa,
+Máximo Perrone,Man City,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Crystal Palace,
+Máximo Perrone,Man City,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Luton,
+Máximo Perrone,Man City,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Brighton,-5.24
+Máximo Perrone,Man City,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Nottingham Forest,
+Máximo Perrone,Man City,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Wolverhampton,-0.23
+Máximo Perrone,Man City,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Fulham,
+Máximo Perrone,Man City,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Tottenham,0.63
+Máximo Perrone,Man City,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,West Ham,-2.19
 Máximo Perrone,Man City,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Fulham,-1.5
-Máximo Perrone,Man City,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,West Ham,-1.27
+Máximo Perrone,Man City,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,West Ham,-3.36
 Máximo Perrone,Man City,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Nottingham Forest,-4.8
-Máximo Perrone,Man City,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Wolverhampton,-1.76
-Máximo Perrone,Man City,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Arsenal,-1.52
-Máximo Perrone,Man City,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Brighton,-2.1
+Máximo Perrone,Man City,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Wolverhampton,-0.51
+Máximo Perrone,Man City,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,False,Arsenal,-1.42
+Máximo Perrone,Man City,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,Man City,True,Brighton,-1.58
 Máximo Perrone,Man City,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,,,,,

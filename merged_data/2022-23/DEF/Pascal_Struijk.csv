@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Pascal Struijk,Leeds,Wolverhampton,2022-08-06,True,DL,90,0.0,0.09,0.0,0.0,2,1.0,0.0,2.6,0,0,1,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,6.0,Leeds,False,Crystal Palace,1.29
-Pascal Struijk,Leeds,Crystal Palace,2022-10-09,False,DL,90,1.0,0.33,0.0,0.09,6,1.0,2.0,9.6,0,0,2,0.0,False,2.0,0.09,90.0,0.0,0,0,0,0,2.0,Leeds,True,Arsenal,-0.89
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Pascal Struijk,Leeds,Wolverhampton,2022-08-06,True,DL,90,0.0,0.09,0.0,0.0,2,1.0,0.0,2.6,0,0,1,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,6.0,Leeds,False,Crystal Palace,-1.48
+Pascal Struijk,Leeds,Crystal Palace,2022-10-09,False,DL,90,1.0,0.33,0.0,0.09,6,1.0,2.0,9.6,0,0,2,0.0,False,2.0,0.09,90.0,0.0,0,0,0,0,2.0,Leeds,True,Arsenal,-2.44
 Pascal Struijk,Leeds,Arsenal,2022-10-16,True,DL,90,0.0,0.11,0.0,0.0,2,1.0,0.0,4.9,0,0,1,0.0,False,4.0,0.21,90.0,0.0,0,0,0,0,0.0,Leeds,False,Leeds United,
-Pascal Struijk,Leeds,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.33,0.18,67.5,0.0,0,0,0,0,1.0,Leeds,True,Fulham,-1.49
-Pascal Struijk,Leeds,Fulham,2022-10-23,True,DL,84,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,3,0.0,False,2.5,0.13,70.8,0.0,0,0,0,0,2.0,Leeds,False,Liverpool,0.8
-Pascal Struijk,Leeds,Liverpool,2022-10-29,False,DL,90,0.0,0.04,0.0,0.06,2,1.0,1.0,5.0,0,0,1,0.0,False,2.2,0.11,74.0,0.0,0,0,0,0,4.0,Leeds,True,Bournemouth,5.53
-Pascal Struijk,Leeds,Bournemouth,2022-11-05,True,DL,90,0.0,0.06,0.0,0.04,4,2.0,1.0,7.7,0,0,3,0.0,False,2.2,0.1,76.29,0.0,0,0,0,0,0.0,Leeds,False,Tottenham,0.38
-Pascal Struijk,Leeds,Tottenham,2022-11-12,False,DL,90,0.0,0.02,0.0,0.09,0,1.0,2.0,6.3,0,0,4,1.86,True,1.8,0.04,78.0,0.0,0,0,0,0,7.0,Leeds,True,Manchester City,0.4
-Pascal Struijk,Leeds,Manchester City,2022-12-28,True,DL,90,1.0,0.11,0.0,0.0,7,1.0,0.0,7.1,0,0,3,4.2,True,1.4,0.02,79.33,0.0,0,0,0,0,5.0,Leeds,False,Newcastle United,-1.48
-Pascal Struijk,Leeds,Newcastle United,2022-12-31,False,DL,90,0.0,0.0,0.0,0.0,5,0.0,0.0,2.7,0,1,0,2.01,True,2.8,0.04,80.4,0.11,0,0,0,0,1.0,Leeds,True,West Ham,0.44
-Pascal Struijk,Leeds,West Ham,2023-01-04,True,DL,90,0.0,0.08,0.0,0.0,1,1.0,0.0,1.7,0,0,2,1.42,True,3.6,0.04,81.27,0.1,0,0,0,0,6.0,Leeds,False,Southampton,-0.58
-Pascal Struijk,Leeds,Southampton,2022-08-13,False,DL,90,0.0,0.04,1.0,0.8,6,1.0,1.0,7.4,2,0,2,0.0,False,3.4,0.05,82.0,0.09,0,0,0,0,1.0,Leeds,False,Aston Villa,-1.34
-Pascal Struijk,Leeds,Aston Villa,2023-01-13,False,DL,65,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,2,0.69,True,3.8,0.25,80.69,0.08,0,0,0,0,6.0,Leeds,True,Brentford,-0.85
-Pascal Struijk,Leeds,Brentford,2023-01-22,True,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.2,0,1,0,0.29,True,4.0,0.25,81.36,0.15,0,0,0,0,1.0,Leeds,False,Nottingham Forest,0.54
-Pascal Struijk,Leeds,Nottingham Forest,2023-02-05,False,DL,66,0.0,0.0,0.0,0.0,1,0.0,0.0,2.4,0,0,1,0.23,True,3.8,0.23,80.33,0.14,0,0,0,0,1.0,Leeds,False,Manchester United,2.19
-Pascal Struijk,Leeds,Manchester United,2023-02-08,False,DL,22,0.0,0.21,0.0,0.0,1,1.0,0.0,4.7,0,0,0,0.32,True,3.0,0.23,76.69,0.14,0,0,0,0,0.0,Leeds,True,Manchester United,1.7
-Pascal Struijk,Leeds,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.25,72.18,0.14,0,0,0,0,0.0,Leeds,False,Everton,0.7
-Pascal Struijk,Leeds,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.04,68.17,0.14,0,0,0,0,0.0,Leeds,True,Southampton,-5.18
-Pascal Struijk,Leeds,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.04,64.58,0.14,0,0,0,0,0.0,Leeds,False,Chelsea,0.29
-Pascal Struijk,Leeds,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.04,61.35,0.14,0,0,0,0,0.0,Leeds,True,Brighton,-1.07
-Pascal Struijk,Leeds,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.04,58.43,0.14,0,0,0,0,1.0,Leeds,False,Wolverhampton,-0.27
-Pascal Struijk,Leeds,Wolverhampton,2023-03-18,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.21,False,0.0,0.0,56.18,0.14,0,0,0,0,0.0,Leeds,False,Arsenal,2.26
+Pascal Struijk,Leeds,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.33,0.18,67.5,0.0,0,0,0,0,1.0,Leeds,True,Fulham,
+Pascal Struijk,Leeds,Fulham,2022-10-23,True,DL,84,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,3,0.0,False,2.5,0.13,70.8,0.0,0,0,0,0,2.0,Leeds,False,Liverpool,1.31
+Pascal Struijk,Leeds,Liverpool,2022-10-29,False,DL,90,0.0,0.04,0.0,0.06,2,1.0,1.0,5.0,0,0,1,0.0,False,2.2,0.11,74.0,0.0,0,0,0,0,4.0,Leeds,True,Bournemouth,
+Pascal Struijk,Leeds,Bournemouth,2022-11-05,True,DL,90,0.0,0.06,0.0,0.04,4,2.0,1.0,7.7,0,0,3,0.0,False,2.2,0.1,76.29,0.0,0,0,0,0,0.0,Leeds,False,Tottenham,0.01
+Pascal Struijk,Leeds,Tottenham,2022-11-12,False,DL,90,0.0,0.02,0.0,0.09,0,1.0,2.0,6.3,0,0,4,1.86,True,1.8,0.04,78.0,0.0,0,0,0,0,7.0,Leeds,True,Manchester City,2.49
+Pascal Struijk,Leeds,Manchester City,2022-12-28,True,DL,90,1.0,0.11,0.0,0.0,7,1.0,0.0,7.1,0,0,3,4.2,True,1.4,0.02,79.33,0.0,0,0,0,0,5.0,Leeds,False,Newcastle United,-5.11
+Pascal Struijk,Leeds,Newcastle United,2022-12-31,False,DL,90,0.0,0.0,0.0,0.0,5,0.0,0.0,2.7,0,1,0,2.01,True,2.8,0.04,80.4,0.11,0,0,0,0,1.0,Leeds,True,West Ham,-2.86
+Pascal Struijk,Leeds,West Ham,2023-01-04,True,DL,90,0.0,0.08,0.0,0.0,1,1.0,0.0,1.7,0,0,2,1.42,True,3.6,0.04,81.27,0.1,0,0,0,0,6.0,Leeds,False,Southampton,-2.03
+Pascal Struijk,Leeds,Southampton,2022-08-13,False,DL,90,0.0,0.04,1.0,0.8,6,1.0,1.0,7.4,2,0,2,0.0,False,3.4,0.05,82.0,0.09,0,0,0,0,1.0,Leeds,False,Aston Villa,-1.61
+Pascal Struijk,Leeds,Aston Villa,2023-01-13,False,DL,65,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,2,0.69,True,3.8,0.25,80.69,0.08,0,0,0,0,6.0,Leeds,True,Brentford,-0.12
+Pascal Struijk,Leeds,Brentford,2023-01-22,True,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.2,0,1,0,0.29,True,4.0,0.25,81.36,0.15,0,0,0,0,1.0,Leeds,False,Nottingham Forest,
+Pascal Struijk,Leeds,Nottingham Forest,2023-02-05,False,DL,66,0.0,0.0,0.0,0.0,1,0.0,0.0,2.4,0,0,1,0.23,True,3.8,0.23,80.33,0.14,0,0,0,0,1.0,Leeds,False,Manchester United,2.58
+Pascal Struijk,Leeds,Manchester United,2023-02-08,False,DL,22,0.0,0.21,0.0,0.0,1,1.0,0.0,4.7,0,0,0,0.32,True,3.0,0.23,76.69,0.14,0,0,0,0,0.0,Leeds,True,Manchester United,1.66
+Pascal Struijk,Leeds,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.25,72.18,0.14,0,0,0,0,0.0,Leeds,False,Everton,1.15
+Pascal Struijk,Leeds,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.04,68.17,0.14,0,0,0,0,0.0,Leeds,True,Southampton,-3.43
+Pascal Struijk,Leeds,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.04,64.58,0.14,0,0,0,0,0.0,Leeds,False,Chelsea,-1.33
+Pascal Struijk,Leeds,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.04,61.35,0.14,0,0,0,0,0.0,Leeds,True,Brighton,-4.64
+Pascal Struijk,Leeds,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.04,58.43,0.14,0,0,0,0,1.0,Leeds,False,Wolverhampton,-3.79
+Pascal Struijk,Leeds,Wolverhampton,2023-03-18,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.21,False,0.0,0.0,56.18,0.14,0,0,0,0,0.0,Leeds,False,Arsenal,0.14
 Pascal Struijk,Leeds,Arsenal,2023-04-01,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.9,0,0,4,3.41,True,0.2,0.0,57.65,0.13,0,0,0,0,2.0,Leeds,True,Nottingham Forest,1.75
-Pascal Struijk,Leeds,Nottingham Forest,2023-04-04,True,DC,90,0.0,0.0,0.0,0.03,2,0.0,1.0,5.2,0,0,1,0.79,True,0.2,0.0,59.0,0.12,0,0,0,0,6.0,Leeds,True,Chelsea,-0.25
-Pascal Struijk,Leeds,Chelsea,2022-08-21,True,DL,90,0.0,0.0,0.0,0.02,6,0.0,1.0,3.2,0,1,0,0.0,False,0.6,0.0,60.24,0.18,0,0,0,0,0.0,Leeds,True,Crystal Palace,-1.42
-Pascal Struijk,Leeds,Crystal Palace,2023-04-09,True,DC,90,0.0,0.04,0.0,0.0,0,1.0,0.0,3.2,0,0,5,3.03,True,1.8,0.0,61.38,0.17,0,0,0,0,-1.0,Leeds,True,Liverpool,-0.81
-Pascal Struijk,Leeds,Liverpool,2023-04-17,True,DC,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,1.5,0,0,6,2.47,True,1.8,0.01,62.44,0.16,0,0,0,0,0.0,Leeds,False,Fulham,-0.19
+Pascal Struijk,Leeds,Nottingham Forest,2023-04-04,True,DC,90,0.0,0.0,0.0,0.03,2,0.0,1.0,5.2,0,0,1,0.79,True,0.2,0.0,59.0,0.12,0,0,0,0,6.0,Leeds,True,Chelsea,-0.38
+Pascal Struijk,Leeds,Chelsea,2022-08-21,True,DL,90,0.0,0.0,0.0,0.02,6,0.0,1.0,3.2,0,1,0,0.0,False,0.6,0.0,60.24,0.18,0,0,0,0,0.0,Leeds,True,Crystal Palace,1.78
+Pascal Struijk,Leeds,Crystal Palace,2023-04-09,True,DC,90,0.0,0.04,0.0,0.0,0,1.0,0.0,3.2,0,0,5,3.03,True,1.8,0.0,61.38,0.17,0,0,0,0,-1.0,Leeds,True,Liverpool,0.62
+Pascal Struijk,Leeds,Liverpool,2023-04-17,True,DC,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,1.5,0,0,6,2.47,True,1.8,0.01,62.44,0.16,0,0,0,0,0.0,Leeds,False,Fulham,
 Pascal Struijk,Leeds,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.01,60.21,0.16,0,0,0,0,0.0,Leeds,True,Leeds United,
 Pascal Struijk,Leeds,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.01,58.14,0.16,0,0,0,0,0.0,Leeds,False,Bournemouth,0.09
-Pascal Struijk,Leeds,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.01,56.2,0.16,0,0,0,0,1.0,Leeds,False,Manchester City,2.79
+Pascal Struijk,Leeds,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.01,56.2,0.16,0,0,0,0,1.0,Leeds,False,Manchester City,4.57
 Pascal Struijk,Leeds,Manchester City,2023-05-06,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.83,False,-0.2,0.01,54.71,0.16,0,0,0,0,1.0,Leeds,True,Newcastle United,-0.68
 Pascal Struijk,Leeds,Newcastle United,2023-05-13,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.13,False,0.0,0.0,53.03,0.16,0,0,0,0,1.0,Leeds,False,West Ham,0.82
-Pascal Struijk,Leeds,West Ham,2023-05-21,False,DL,83,0.0,0.0,0.0,0.03,1,0.0,1.0,3.6,0,0,2,1.52,True,0.4,0.0,53.94,0.15,0,0,0,0,-1.0,Leeds,True,Tottenham,-2.16
+Pascal Struijk,Leeds,West Ham,2023-05-21,False,DL,83,0.0,0.0,0.0,0.03,1,0.0,1.0,3.6,0,0,2,1.52,True,0.4,0.0,53.94,0.15,0,0,0,0,-1.0,Leeds,True,Tottenham,-4.61
 Pascal Struijk,Leeds,Tottenham,2023-05-28,True,DL,58,0.0,0.08,0.0,0.0,-1,2.0,0.0,0.0,0,0,2,0.81,True,0.6,0.0,54.06,0.15,0,0,0,0,1.0,Leeds,False,Brighton,1.41
-Pascal Struijk,Leeds,Brighton,2022-08-27,False,DL,90,0.0,0.05,0.0,0.04,1,1.0,1.0,4.2,0,0,1,0.0,False,0.4,0.02,55.09,0.14,0,0,0,0,4.0,Leeds,True,Everton,3.32
-Pascal Struijk,Leeds,Everton,2022-08-30,True,DL,90,0.0,0.0,0.0,0.1,4,0.0,1.0,4.8,2,0,1,0.0,False,0.6,0.03,56.06,0.14,0,0,0,0,0.0,Leeds,False,Brentford,-2.77
-Pascal Struijk,Leeds,Brentford,2022-09-03,False,DL,90,0.0,0.07,0.0,0.86,0,1.0,1.0,5.6,0,0,5,0.0,False,1.2,0.03,56.97,0.13,0,0,0,0,6.0,Leeds,True,Aston Villa,-3.37
-Pascal Struijk,Leeds,Aston Villa,2022-10-02,True,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,0.9,0,1,0,0.0,False,1.0,0.04,57.84,0.17,0,0,0,0,,Nott'm Forest,False,Arsenal,1.87
+Pascal Struijk,Leeds,Brighton,2022-08-27,False,DL,90,0.0,0.05,0.0,0.04,1,1.0,1.0,4.2,0,0,1,0.0,False,0.4,0.02,55.09,0.14,0,0,0,0,4.0,Leeds,True,Everton,
+Pascal Struijk,Leeds,Everton,2022-08-30,True,DL,90,0.0,0.0,0.0,0.1,4,0.0,1.0,4.8,2,0,1,0.0,False,0.6,0.03,56.06,0.14,0,0,0,0,0.0,Leeds,False,Brentford,-0.35
+Pascal Struijk,Leeds,Brentford,2022-09-03,False,DL,90,0.0,0.07,0.0,0.86,0,1.0,1.0,5.6,0,0,5,0.0,False,1.2,0.03,56.97,0.13,0,0,0,0,6.0,Leeds,True,Aston Villa,
+Pascal Struijk,Leeds,Aston Villa,2022-10-02,True,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,0.9,0,1,0,0.0,False,1.0,0.04,57.84,0.17,0,0,0,0,,Nott'm Forest,False,Arsenal,4.71

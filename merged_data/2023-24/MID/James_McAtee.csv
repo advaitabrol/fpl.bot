@@ -1,4 +1,4 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
 James McAtee,Man City,Burnley,2023-08-11,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0,2.0,Sheffield Utd,False,Arsenal,
 James McAtee,Sheffield Utd,Arsenal,2023-10-28,False,MR,70,0.0,0.01,0.0,0.01,2,1.0,1.0,1.5,0,0,3,True,1.0,0.0,35.5,0.0,0.0,0.0,0.0,0,4.0,Sheffield Utd,True,Wolverhampton,
 James McAtee,Sheffield Utd,Wolverhampton,2023-11-04,True,Sub,45,0.0,0.14,1.0,0.05,4,2.0,2.0,5.8,0,0,1,False,1.5,0.01,38.67,0.0,0.0,0.0,0.0,0,2.0,Sheffield Utd,False,Brighton,
@@ -9,7 +9,7 @@ James McAtee,Sheffield Utd,Liverpool,2023-12-06,True,AMC,90,0.0,0.6,0.0,0.11,2,2
 James McAtee,Sheffield Utd,Brentford,2023-12-09,True,MR,80,1.0,0.03,0.0,0.0,8,1.0,0.0,6.4,0,1,0,True,2.2,0.37,61.88,0.0,0.0,0.0,0.0,0,1.0,Sheffield Utd,False,Chelsea,
 James McAtee,Sheffield Utd,Chelsea,2023-12-16,False,MR,90,0.0,0.0,0.0,0.1,1,0.0,1.0,2.9,0,0,2,True,3.0,0.14,65.0,0.0,0.0,0.0,0.0,0,1.0,Sheffield Utd,False,Aston Villa,
 James McAtee,Sheffield Utd,Aston Villa,2023-12-22,False,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,1,False,2.8,0.13,59.9,0.0,0.0,0.0,0.0,0,5.0,Sheffield Utd,True,Luton,
-James McAtee,Sheffield Utd,Luton,2023-12-26,True,MR,90,0.0,0.05,1.0,0.57,5,1.0,2.0,6.1,0,0,3,True,2.6,0.13,62.64,0.0,0.0,0.0,0.0,0,0.0,Man City,True,Newcastle United,-3.3
+James McAtee,Sheffield Utd,Luton,2023-12-26,True,MR,90,0.0,0.05,1.0,0.57,5,1.0,2.0,6.1,0,0,3,True,2.6,0.13,62.64,0.0,0.0,0.0,0.0,0,0.0,Man City,True,Newcastle United,-3.63
 James McAtee,Man City,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,3.4,0.33,57.42,0.0,0.0,0.0,0.0,0,0.0,Sheffield Utd,False,Manchester City,
 James McAtee,Sheffield Utd,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,3.0,0.21,53.0,0.0,0.0,0.0,0.0,0,2.0,Sheffield Utd,True,West Ham,
 James McAtee,Sheffield Utd,West Ham,2024-01-21,True,MR,90,0.0,0.13,0.0,0.52,2,3.0,3.0,6.2,0,0,2,True,1.4,0.21,55.64,0.0,0.0,0.0,0.0,0,7.0,Sheffield Utd,False,Crystal Palace,

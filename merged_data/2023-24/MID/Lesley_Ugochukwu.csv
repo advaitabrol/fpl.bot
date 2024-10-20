@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Lesley Ugochukwu,Chelsea,Liverpool,2023-08-13,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,1.0,0,0,0,0,0,1.0,Chelsea,True,Brentford,4.42
-Lesley Ugochukwu,Chelsea,Brentford,2023-10-28,True,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1,False,1.0,0.0,5.0,0,0,0,0,0,0.0,Chelsea,False,Tottenham,-1.07
-Lesley Ugochukwu,Chelsea,Tottenham,2023-11-06,False,Sub,1,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,0,0,False,1.0,0.0,3.67,0,0,0,0,0,1.0,Chelsea,True,Manchester City,0.19
-Lesley Ugochukwu,Chelsea,Manchester City,2023-11-12,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.67,0.0,3.0,0,0,0,0,0,1.0,Chelsea,False,Newcastle United,0.94
-Lesley Ugochukwu,Chelsea,Newcastle United,2023-11-25,False,DMC,68,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,3,True,0.75,0.0,16.0,0,0,0,0,0,0.0,Chelsea,True,Brighton,-0.67
-Lesley Ugochukwu,Chelsea,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.0,13.33,0,0,0,0,0,0.0,Chelsea,False,Manchester United,1.87
-Lesley Ugochukwu,Chelsea,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,11.43,0,0,0,0,0,0.0,Chelsea,False,Everton,0.79
-Lesley Ugochukwu,Chelsea,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,10.0,0,0,0,0,0,0.0,Chelsea,True,Sheffield,-2.07
-Lesley Ugochukwu,Chelsea,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,8.89,0,0,0,0,0,1.0,Chelsea,False,Wolverhampton,1.62
-Lesley Ugochukwu,Chelsea,Wolverhampton,2023-12-24,False,DMC,58,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,1,True,0.2,0.0,13.8,0,0,0,0,0,0.0,Chelsea,True,Crystal Palace,-1.51
-Lesley Ugochukwu,Chelsea,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,12.55,0,0,0,0,0,0.0,Chelsea,False,West Ham,2.89
-Lesley Ugochukwu,Chelsea,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,11.5,0,0,0,0,0,0.0,Chelsea,False,Luton,-0.0
-Lesley Ugochukwu,Chelsea,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,10.62,0,0,0,0,0,0.0,Chelsea,True,Fulham,-1.08
-Lesley Ugochukwu,Chelsea,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,9.86,0,0,0,0,0,0.0,Chelsea,False,Liverpool,0.96
-Lesley Ugochukwu,Chelsea,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,9.2,0,0,0,0,0,0.0,Chelsea,True,Wolverhampton,0.07
-Lesley Ugochukwu,Chelsea,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.62,0,0,0,0,0,0.0,Chelsea,False,Crystal Palace,-1.06
-Lesley Ugochukwu,Chelsea,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.12,0,0,0,0,0,0.0,Chelsea,False,Manchester City,-0.89
-Lesley Ugochukwu,Chelsea,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.67,0,0,0,0,0,0.0,Chelsea,False,Brentford,0.61
-Lesley Ugochukwu,Chelsea,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.26,0,0,0,0,0,0.0,Chelsea,True,Newcastle United,-0.99
-Lesley Ugochukwu,Chelsea,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.9,0,0,0,0,0,1.0,Chelsea,True,Luton,-3.04
-Lesley Ugochukwu,Chelsea,Luton,2023-08-25,True,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.0,0.0,6.9,0,0,0,0,0,0.0,Chelsea,True,Burnley,0.34
-Lesley Ugochukwu,Chelsea,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.59,0,0,0,0,0,0.0,Chelsea,True,Manchester United,-1.31
-Lesley Ugochukwu,Chelsea,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.3,0,0,0,0,0,0.0,Chelsea,False,Sheffield,1.84
-Lesley Ugochukwu,Chelsea,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.04,0,0,0,0,0,0.0,Chelsea,True,Everton,-2.38
-Lesley Ugochukwu,Chelsea,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,5.8,0,0,0,0,0,0.0,Chelsea,False,Arsenal,1.29
-Lesley Ugochukwu,Chelsea,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,5.58,0,0,0,0,0,0.0,Chelsea,False,Aston Villa,-1.37
-Lesley Ugochukwu,Chelsea,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.37,0,0,0,0,0,0.0,Chelsea,True,Tottenham,-2.11
-Lesley Ugochukwu,Chelsea,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.18,0,0,0,0,0,0.0,Chelsea,True,West Ham,-2.56
-Lesley Ugochukwu,Chelsea,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.0,0,0,0,0,0,0.0,Chelsea,False,Nottingham Forest,-0.41
-Lesley Ugochukwu,Chelsea,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.83,0,0,0,0,0,1.0,Chelsea,False,Brighton,1.01
-Lesley Ugochukwu,Chelsea,Brighton,2024-05-15,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,0.0,0.0,4.71,0,0,0,0,0,1.0,Chelsea,True,Bournemouth,-3.02
-Lesley Ugochukwu,Chelsea,Bournemouth,2024-05-19,True,Sub,26,0.0,0.0,0.0,0.14,1,0.0,2.0,3.4,0,0,0,False,0.2,0.0,5.38,0,0,0,0,0,0.0,Chelsea,True,Nottingham Forest,1.3
-Lesley Ugochukwu,Chelsea,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,5.21,0,0,0,0,0,3.0,Chelsea,False,Bournemouth,-1.53
-Lesley Ugochukwu,Chelsea,Bournemouth,2023-09-17,False,DMC,90,0.0,0.0,0.0,0.05,3,0.0,1.0,2.2,0,1,0,True,0.4,0.0,7.71,0,0,0,0,0,1.0,Chelsea,True,Aston Villa,0.42
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Lesley Ugochukwu,Chelsea,Liverpool,2023-08-13,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,1.0,0,0,0,0,0,1.0,Chelsea,True,Brentford,4.46
+Lesley Ugochukwu,Chelsea,Brentford,2023-10-28,True,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1,False,1.0,0.0,5.0,0,0,0,0,0,0.0,Chelsea,False,Tottenham,0.52
+Lesley Ugochukwu,Chelsea,Tottenham,2023-11-06,False,Sub,1,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,0,0,False,1.0,0.0,3.67,0,0,0,0,0,1.0,Chelsea,True,Manchester City,0.82
+Lesley Ugochukwu,Chelsea,Manchester City,2023-11-12,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.67,0.0,3.0,0,0,0,0,0,1.0,Chelsea,False,Newcastle United,-0.48
+Lesley Ugochukwu,Chelsea,Newcastle United,2023-11-25,False,DMC,68,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,3,True,0.75,0.0,16.0,0,0,0,0,0,0.0,Chelsea,True,Brighton,0.38
+Lesley Ugochukwu,Chelsea,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.0,13.33,0,0,0,0,0,0.0,Chelsea,False,Manchester United,1.57
+Lesley Ugochukwu,Chelsea,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,11.43,0,0,0,0,0,0.0,Chelsea,False,Everton,-0.36
+Lesley Ugochukwu,Chelsea,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,10.0,0,0,0,0,0,0.0,Chelsea,True,Sheffield,
+Lesley Ugochukwu,Chelsea,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,8.89,0,0,0,0,0,1.0,Chelsea,False,Wolverhampton,1.13
+Lesley Ugochukwu,Chelsea,Wolverhampton,2023-12-24,False,DMC,58,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,1,True,0.2,0.0,13.8,0,0,0,0,0,0.0,Chelsea,True,Crystal Palace,-1.42
+Lesley Ugochukwu,Chelsea,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,12.55,0,0,0,0,0,0.0,Chelsea,False,West Ham,2.39
+Lesley Ugochukwu,Chelsea,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,11.5,0,0,0,0,0,0.0,Chelsea,False,Luton,
+Lesley Ugochukwu,Chelsea,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,10.62,0,0,0,0,0,0.0,Chelsea,True,Fulham,-0.78
+Lesley Ugochukwu,Chelsea,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,9.86,0,0,0,0,0,0.0,Chelsea,False,Liverpool,-0.82
+Lesley Ugochukwu,Chelsea,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,9.2,0,0,0,0,0,0.0,Chelsea,True,Wolverhampton,-1.65
+Lesley Ugochukwu,Chelsea,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.62,0,0,0,0,0,0.0,Chelsea,False,Crystal Palace,-1.09
+Lesley Ugochukwu,Chelsea,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.12,0,0,0,0,0,0.0,Chelsea,False,Manchester City,-0.67
+Lesley Ugochukwu,Chelsea,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.67,0,0,0,0,0,0.0,Chelsea,False,Brentford,0.19
+Lesley Ugochukwu,Chelsea,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.26,0,0,0,0,0,0.0,Chelsea,True,Newcastle United,-0.46
+Lesley Ugochukwu,Chelsea,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.9,0,0,0,0,0,1.0,Chelsea,True,Luton,
+Lesley Ugochukwu,Chelsea,Luton,2023-08-25,True,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.0,0.0,6.9,0,0,0,0,0,0.0,Chelsea,True,Burnley,-0.18
+Lesley Ugochukwu,Chelsea,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.59,0,0,0,0,0,0.0,Chelsea,True,Manchester United,-1.38
+Lesley Ugochukwu,Chelsea,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.3,0,0,0,0,0,0.0,Chelsea,False,Sheffield,
+Lesley Ugochukwu,Chelsea,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.04,0,0,0,0,0,0.0,Chelsea,True,Everton,1.01
+Lesley Ugochukwu,Chelsea,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,5.8,0,0,0,0,0,0.0,Chelsea,False,Arsenal,-1.77
+Lesley Ugochukwu,Chelsea,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,5.58,0,0,0,0,0,0.0,Chelsea,False,Aston Villa,-2.75
+Lesley Ugochukwu,Chelsea,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.37,0,0,0,0,0,0.0,Chelsea,True,Tottenham,-1.01
+Lesley Ugochukwu,Chelsea,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.18,0,0,0,0,0,0.0,Chelsea,True,West Ham,-1.25
+Lesley Ugochukwu,Chelsea,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.0,0,0,0,0,0,0.0,Chelsea,False,Nottingham Forest,-1.51
+Lesley Ugochukwu,Chelsea,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.83,0,0,0,0,0,1.0,Chelsea,False,Brighton,4.26
+Lesley Ugochukwu,Chelsea,Brighton,2024-05-15,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,0.0,0.0,4.71,0,0,0,0,0,1.0,Chelsea,True,Bournemouth,-5.36
+Lesley Ugochukwu,Chelsea,Bournemouth,2024-05-19,True,Sub,26,0.0,0.0,0.0,0.14,1,0.0,2.0,3.4,0,0,0,False,0.2,0.0,5.38,0,0,0,0,0,0.0,Chelsea,True,Nottingham Forest,2.21
+Lesley Ugochukwu,Chelsea,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,5.21,0,0,0,0,0,3.0,Chelsea,False,Bournemouth,1.27
+Lesley Ugochukwu,Chelsea,Bournemouth,2023-09-17,False,DMC,90,0.0,0.0,0.0,0.05,3,0.0,1.0,2.2,0,1,0,True,0.4,0.0,7.71,0,0,0,0,0,1.0,Chelsea,True,Aston Villa,-0.41
 Lesley Ugochukwu,Chelsea,Aston Villa,2023-09-24,True,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,1,False,1.0,0.0,8.11,0,0,0,0,0,1.0,Chelsea,False,Fulham,-2.13
-Lesley Ugochukwu,Chelsea,Fulham,2023-10-02,False,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,1.2,0.0,8.22,0,0,0,0,0,0.0,Chelsea,False,Burnley,-2.71
-Lesley Ugochukwu,Chelsea,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.0,8.0,0,0,0,0,0,0.0,Chelsea,True,Arsenal,2.1
+Lesley Ugochukwu,Chelsea,Fulham,2023-10-02,False,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,1.2,0.0,8.22,0,0,0,0,0,0.0,Chelsea,False,Burnley,-1.83
+Lesley Ugochukwu,Chelsea,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.0,8.0,0,0,0,0,0,0.0,Chelsea,True,Arsenal,0.24
 Lesley Ugochukwu,Chelsea,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,7.79,0,0,0,0,0,,,,,

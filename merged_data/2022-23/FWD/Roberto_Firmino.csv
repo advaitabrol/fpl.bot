@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Roberto Firmino,Liverpool,Fulham,2022-08-06,False,FW,50,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,False,0.0,0.0,50.0,5.0,4.0,5.24,2.2,0.06,6.0,Liverpool,False,Arsenal,2.26
-Roberto Firmino,Liverpool,Arsenal,2022-10-09,False,Sub,48,1.0,0.11,0.0,0.0,6,1.0,0.0,6.1,1,False,1.0,0.0,49.0,5.0,4.0,5.24,2.2,0.06,2.0,Liverpool,True,Manchester City,-0.87
-Roberto Firmino,Liverpool,Manchester City,2022-10-16,True,FW,71,0.0,0.0,0.0,0.56,2,0.0,2.0,4.7,0,False,3.5,0.05,56.33,5.0,4.0,5.24,2.2,0.06,2.0,Liverpool,True,West Ham,-0.03
-Roberto Firmino,Liverpool,West Ham,2022-10-19,True,FW,80,0.0,0.84,0.0,0.07,2,5.0,2.0,11.9,0,False,3.0,0.04,62.25,5.0,4.0,5.24,2.2,0.06,2.0,Liverpool,False,Nottingham Forest,1.75
-Roberto Firmino,Liverpool,Nottingham Forest,2022-10-22,False,FW,75,0.0,0.49,0.0,0.0,2,2.0,0.0,1.6,0,False,2.75,0.24,64.8,5.0,4.0,5.24,2.2,0.06,2.0,Liverpool,True,Leicester City,-2.17
-Roberto Firmino,Liverpool,Leicester City,2022-10-29,True,AMC,90,0.0,0.43,0.0,0.15,2,3.0,4.0,13.9,0,False,2.6,0.29,69.0,5.0,4.0,5.24,2.2,0.06,2.0,Liverpool,False,Tottenham,1.56
-Roberto Firmino,Liverpool,Tottenham,2022-11-06,False,AMC,73,0.0,0.03,0.0,0.0,2,1.0,0.0,3.8,0,False,2.8,0.37,69.57,5.0,4.0,5.24,2.2,0.06,6.0,Liverpool,True,Southampton,-2.6
-Roberto Firmino,Liverpool,Southampton,2022-11-12,True,FW,74,1.0,0.5,0.0,0.0,6,3.0,0.0,8.2,0,True,2.0,0.36,70.12,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,False,Aston Villa,1.03
-Roberto Firmino,Liverpool,Aston Villa,,False,,0,,,,,0,,,0.0,0,False,2.8,0.46,62.33,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,True,Leeds United,-1.23
-Roberto Firmino,Liverpool,Leeds United,,True,,0,,,,,0,,,0.0,0,False,2.4,0.29,56.1,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,False,Brentford,2.56
-Roberto Firmino,Liverpool,Brentford,,False,,0,,,,,0,,,0.0,0,False,2.0,0.19,51.0,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,True,Crystal Palace,1.28
-Roberto Firmino,Liverpool,Crystal Palace,,True,,0,,,,,0,,,0.0,0,False,1.6,0.11,46.75,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,False,Brighton,1.25
-Roberto Firmino,Liverpool,Brighton,,False,,0,,,,,0,,,0.0,0,False,1.2,0.1,43.15,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,True,Chelsea,-1.38
-Roberto Firmino,Liverpool,Chelsea,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,40.07,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,False,Wolverhampton,1.32
-Roberto Firmino,Liverpool,Wolverhampton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,37.4,5.0,4.0,5.24,2.2,0.06,1.0,Liverpool,True,Everton,-1.61
-Roberto Firmino,Liverpool,Everton,2023-02-13,True,Sub,10,0.0,0.0,0.0,0.21,1,0.0,1.0,1.3,0,False,0.0,0.0,35.69,5.0,4.0,5.24,2.2,0.06,1.0,Liverpool,False,Newcastle United,-0.43
-Roberto Firmino,Liverpool,Newcastle United,2023-02-18,False,Sub,31,0.0,0.0,0.0,0.09,1,0.0,1.0,2.3,0,False,0.2,0.0,35.41,5.0,4.0,5.24,2.2,0.06,1.0,Liverpool,False,Crystal Palace,0.35
-Roberto Firmino,Liverpool,Crystal Palace,2023-02-25,False,Sub,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,0.4,0.0,34.5,5.0,4.0,5.24,2.2,0.06,1.0,Liverpool,True,Wolverhampton,-1.46
-Roberto Firmino,Liverpool,Wolverhampton,2023-03-01,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,0.6,0.0,32.74,5.0,4.0,5.24,2.2,0.06,8.0,Liverpool,True,Manchester United,-2.66
-Roberto Firmino,Liverpool,Manchester United,2023-03-05,True,Sub,11,1.0,0.14,1.0,0.45,8,1.0,1.0,9.6,0,False,0.8,0.0,31.65,5.0,4.0,5.24,2.2,0.06,1.0,Liverpool,False,Bournemouth,-0.9
-Roberto Firmino,Liverpool,Bournemouth,2023-03-11,False,Sub,24,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,False,2.4,0.23,31.29,5.0,4.0,5.24,2.2,0.06,1.0,Liverpool,False,Manchester City,1.11
-Roberto Firmino,Liverpool,Manchester City,2023-04-01,False,Sub,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,2.4,0.23,30.77,5.0,4.0,5.24,2.2,0.06,2.0,Liverpool,False,Chelsea,0.3
-Roberto Firmino,Liverpool,Chelsea,2023-04-04,False,FW,64,0.0,0.02,0.0,0.0,2,1.0,0.0,1.5,0,True,2.4,0.23,32.22,5.0,4.0,5.24,2.2,0.06,2.0,Liverpool,False,Manchester United,0.18
-Roberto Firmino,Liverpool,Manchester United,2022-08-22,False,FW,90,0.0,0.02,0.0,0.07,2,1.0,1.0,5.7,0,False,2.6,0.23,34.62,5.0,4.0,5.24,2.2,0.06,6.0,Liverpool,True,Arsenal,-0.54
-Roberto Firmino,Liverpool,Arsenal,2023-04-09,True,Sub,12,1.0,0.44,0.0,0.0,6,1.0,0.0,7.0,1,False,2.8,0.24,33.72,5.0,4.0,5.24,2.2,0.06,1.0,Liverpool,False,Leicester City,-2.79
-Roberto Firmino,Liverpool,Leicester City,2023-04-17,False,Sub,8,0.0,0.14,0.0,0.0,1,1.0,0.0,3.9,0,False,2.4,0.09,32.73,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,True,Nottingham Forest,-1.23
-Roberto Firmino,Liverpool,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,False,2.4,0.12,31.52,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,False,West Ham,2.89
-Roberto Firmino,Liverpool,West Ham,,False,,0,,,,,0,,,0.0,0,False,2.2,0.12,30.39,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,True,Tottenham,0.66
-Roberto Firmino,Liverpool,Tottenham,,True,,0,,,,,0,,,0.0,0,False,1.8,0.12,29.34,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,True,Fulham,0.57
-Roberto Firmino,Liverpool,Fulham,,True,,0,,,,,0,,,0.0,0,False,1.4,0.12,28.37,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,True,Brentford,-2.96
-Roberto Firmino,Liverpool,Brentford,,True,,0,,,,,0,,,0.0,0,False,0.2,0.03,27.45,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,False,Leeds United,0.15
-Roberto Firmino,Liverpool,Leeds United,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,26.59,5.0,4.0,5.24,2.2,0.06,7.0,Liverpool,True,Aston Villa,-0.35
-Roberto Firmino,Liverpool,Aston Villa,2023-05-20,True,Sub,18,1.0,0.57,0.0,0.0,7,1.0,0.0,7.1,2,False,0.0,0.0,26.33,5.0,4.0,5.24,2.2,0.06,5.0,Liverpool,False,Southampton,2.18
-Roberto Firmino,Liverpool,Southampton,2023-05-28,False,FW,56,1.0,0.46,0.0,0.14,5,1.0,1.0,0.0,0,True,1.4,0.11,27.21,5.0,4.0,5.24,2.2,0.06,22.0,Liverpool,True,Bournemouth,-4.12
-Roberto Firmino,Liverpool,Bournemouth,2022-08-27,True,FW,68,2.0,2.19,3.0,0.58,22,5.0,4.0,30.4,3,False,2.4,0.21,28.37,5.0,4.0,5.24,2.2,0.06,9.0,Liverpool,True,Newcastle United,-0.89
-Roberto Firmino,Liverpool,Newcastle United,2022-08-31,True,FW,90,1.0,0.2,0.0,0.67,9,5.0,2.0,15.1,3,False,6.8,1.24,30.08,5.0,4.0,5.24,2.2,0.06,1.0,Liverpool,False,Everton,1.81
-Roberto Firmino,Liverpool,Everton,2022-09-03,False,Sub,45,0.0,0.2,0.0,0.05,1,3.0,1.0,8.1,0,False,8.6,1.28,30.49,5.0,4.0,5.24,2.2,0.06,12.0,Liverpool,True,Brighton,1.7
-Roberto Firmino,Liverpool,Brighton,2022-10-01,True,FW,74,2.0,1.35,0.0,0.03,12,4.0,1.0,17.3,2,False,8.8,1.32,31.63,5.0,4.0,5.24,2.2,0.06,,Chelsea,True,Liverpool,-0.16
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Roberto Firmino,Liverpool,Fulham,2022-08-06,False,FW,50,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,False,0.0,0.0,50.0,5.0,4.0,5.24,2.2,0.06,6.0,Liverpool,False,Arsenal,-2.38
+Roberto Firmino,Liverpool,Arsenal,2022-10-09,False,Sub,48,1.0,0.11,0.0,0.0,6,1.0,0.0,6.1,1,False,1.0,0.0,49.0,5.0,4.0,5.24,2.2,0.06,2.0,Liverpool,True,Manchester City,0.85
+Roberto Firmino,Liverpool,Manchester City,2022-10-16,True,FW,71,0.0,0.0,0.0,0.56,2,0.0,2.0,4.7,0,False,3.5,0.05,56.33,5.0,4.0,5.24,2.2,0.06,2.0,Liverpool,True,West Ham,0.04
+Roberto Firmino,Liverpool,West Ham,2022-10-19,True,FW,80,0.0,0.84,0.0,0.07,2,5.0,2.0,11.9,0,False,3.0,0.04,62.25,5.0,4.0,5.24,2.2,0.06,2.0,Liverpool,False,Nottingham Forest,
+Roberto Firmino,Liverpool,Nottingham Forest,2022-10-22,False,FW,75,0.0,0.49,0.0,0.0,2,2.0,0.0,1.6,0,False,2.75,0.24,64.8,5.0,4.0,5.24,2.2,0.06,2.0,Liverpool,True,Leicester City,-7.96
+Roberto Firmino,Liverpool,Leicester City,2022-10-29,True,AMC,90,0.0,0.43,0.0,0.15,2,3.0,4.0,13.9,0,False,2.6,0.29,69.0,5.0,4.0,5.24,2.2,0.06,2.0,Liverpool,False,Tottenham,3.08
+Roberto Firmino,Liverpool,Tottenham,2022-11-06,False,AMC,73,0.0,0.03,0.0,0.0,2,1.0,0.0,3.8,0,False,2.8,0.37,69.57,5.0,4.0,5.24,2.2,0.06,6.0,Liverpool,True,Southampton,-3.78
+Roberto Firmino,Liverpool,Southampton,2022-11-12,True,FW,74,1.0,0.5,0.0,0.0,6,3.0,0.0,8.2,0,True,2.0,0.36,70.12,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,False,Aston Villa,1.3
+Roberto Firmino,Liverpool,Aston Villa,,False,,0,,,,,0,,,0.0,0,False,2.8,0.46,62.33,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,True,Leeds United,-2.07
+Roberto Firmino,Liverpool,Leeds United,,True,,0,,,,,0,,,0.0,0,False,2.4,0.29,56.1,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,False,Brentford,4.84
+Roberto Firmino,Liverpool,Brentford,,False,,0,,,,,0,,,0.0,0,False,2.0,0.19,51.0,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,True,Crystal Palace,-3.98
+Roberto Firmino,Liverpool,Crystal Palace,,True,,0,,,,,0,,,0.0,0,False,1.6,0.11,46.75,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,False,Brighton,-2.51
+Roberto Firmino,Liverpool,Brighton,,False,,0,,,,,0,,,0.0,0,False,1.2,0.1,43.15,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,True,Chelsea,0.29
+Roberto Firmino,Liverpool,Chelsea,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,40.07,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,False,Wolverhampton,-0.13
+Roberto Firmino,Liverpool,Wolverhampton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,37.4,5.0,4.0,5.24,2.2,0.06,1.0,Liverpool,True,Everton,-0.32
+Roberto Firmino,Liverpool,Everton,2023-02-13,True,Sub,10,0.0,0.0,0.0,0.21,1,0.0,1.0,1.3,0,False,0.0,0.0,35.69,5.0,4.0,5.24,2.2,0.06,1.0,Liverpool,False,Newcastle United,-1.4
+Roberto Firmino,Liverpool,Newcastle United,2023-02-18,False,Sub,31,0.0,0.0,0.0,0.09,1,0.0,1.0,2.3,0,False,0.2,0.0,35.41,5.0,4.0,5.24,2.2,0.06,1.0,Liverpool,False,Crystal Palace,-1.03
+Roberto Firmino,Liverpool,Crystal Palace,2023-02-25,False,Sub,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,0.4,0.0,34.5,5.0,4.0,5.24,2.2,0.06,1.0,Liverpool,True,Wolverhampton,0.05
+Roberto Firmino,Liverpool,Wolverhampton,2023-03-01,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,0.6,0.0,32.74,5.0,4.0,5.24,2.2,0.06,8.0,Liverpool,True,Manchester United,-4.04
+Roberto Firmino,Liverpool,Manchester United,2023-03-05,True,Sub,11,1.0,0.14,1.0,0.45,8,1.0,1.0,9.6,0,False,0.8,0.0,31.65,5.0,4.0,5.24,2.2,0.06,1.0,Liverpool,False,Bournemouth,
+Roberto Firmino,Liverpool,Bournemouth,2023-03-11,False,Sub,24,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,False,2.4,0.23,31.29,5.0,4.0,5.24,2.2,0.06,1.0,Liverpool,False,Manchester City,
+Roberto Firmino,Liverpool,Manchester City,2023-04-01,False,Sub,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,2.4,0.23,30.77,5.0,4.0,5.24,2.2,0.06,2.0,Liverpool,False,Chelsea,
+Roberto Firmino,Liverpool,Chelsea,2023-04-04,False,FW,64,0.0,0.02,0.0,0.0,2,1.0,0.0,1.5,0,True,2.4,0.23,32.22,5.0,4.0,5.24,2.2,0.06,2.0,Liverpool,False,Manchester United,-0.0
+Roberto Firmino,Liverpool,Manchester United,2022-08-22,False,FW,90,0.0,0.02,0.0,0.07,2,1.0,1.0,5.7,0,False,2.6,0.23,34.62,5.0,4.0,5.24,2.2,0.06,6.0,Liverpool,True,Arsenal,-3.99
+Roberto Firmino,Liverpool,Arsenal,2023-04-09,True,Sub,12,1.0,0.44,0.0,0.0,6,1.0,0.0,7.0,1,False,2.8,0.24,33.72,5.0,4.0,5.24,2.2,0.06,1.0,Liverpool,False,Leicester City,-5.24
+Roberto Firmino,Liverpool,Leicester City,2023-04-17,False,Sub,8,0.0,0.14,0.0,0.0,1,1.0,0.0,3.9,0,False,2.4,0.09,32.73,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,True,Nottingham Forest,
+Roberto Firmino,Liverpool,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,False,2.4,0.12,31.52,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,False,West Ham,4.92
+Roberto Firmino,Liverpool,West Ham,,False,,0,,,,,0,,,0.0,0,False,2.2,0.12,30.39,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,True,Tottenham,
+Roberto Firmino,Liverpool,Tottenham,,True,,0,,,,,0,,,0.0,0,False,1.8,0.12,29.34,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,True,Fulham,
+Roberto Firmino,Liverpool,Fulham,,True,,0,,,,,0,,,0.0,0,False,1.4,0.12,28.37,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,True,Brentford,
+Roberto Firmino,Liverpool,Brentford,,True,,0,,,,,0,,,0.0,0,False,0.2,0.03,27.45,5.0,4.0,5.24,2.2,0.06,0.0,Liverpool,False,Leeds United,1.77
+Roberto Firmino,Liverpool,Leeds United,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,26.59,5.0,4.0,5.24,2.2,0.06,7.0,Liverpool,True,Aston Villa,-1.22
+Roberto Firmino,Liverpool,Aston Villa,2023-05-20,True,Sub,18,1.0,0.57,0.0,0.0,7,1.0,0.0,7.1,2,False,0.0,0.0,26.33,5.0,4.0,5.24,2.2,0.06,5.0,Liverpool,False,Southampton,
+Roberto Firmino,Liverpool,Southampton,2023-05-28,False,FW,56,1.0,0.46,0.0,0.14,5,1.0,1.0,0.0,0,True,1.4,0.11,27.21,5.0,4.0,5.24,2.2,0.06,22.0,Liverpool,True,Bournemouth,-5.88
+Roberto Firmino,Liverpool,Bournemouth,2022-08-27,True,FW,68,2.0,2.19,3.0,0.58,22,5.0,4.0,30.4,3,False,2.4,0.21,28.37,5.0,4.0,5.24,2.2,0.06,9.0,Liverpool,True,Newcastle United,0.08
+Roberto Firmino,Liverpool,Newcastle United,2022-08-31,True,FW,90,1.0,0.2,0.0,0.67,9,5.0,2.0,15.1,3,False,6.8,1.24,30.08,5.0,4.0,5.24,2.2,0.06,1.0,Liverpool,False,Everton,-0.44
+Roberto Firmino,Liverpool,Everton,2022-09-03,False,Sub,45,0.0,0.2,0.0,0.05,1,3.0,1.0,8.1,0,False,8.6,1.28,30.49,5.0,4.0,5.24,2.2,0.06,12.0,Liverpool,True,Brighton,2.85
+Roberto Firmino,Liverpool,Brighton,2022-10-01,True,FW,74,2.0,1.35,0.0,0.03,12,4.0,1.0,17.3,2,False,8.8,1.32,31.63,5.0,4.0,5.24,2.2,0.06,,Chelsea,True,Liverpool,

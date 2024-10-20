@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Danny Welbeck,Brighton,Manchester United,2022-08-07,False,FW,90,0.0,0.34,1.0,0.62,7,5.0,3.0,11.2,2,False,0.0,0.0,90.0,6.0,1.0,8.27,0.89,0.06,2,Brighton,True,Tottenham,-0.36
-Danny Welbeck,Brighton,Tottenham,2022-10-08,True,FW,90,0.0,0.14,0.0,0.05,2,3.0,1.0,5.2,0,False,7.0,1.34,90.0,6.0,1.0,8.27,0.89,0.06,2,Brighton,False,Brentford,0.34
-Danny Welbeck,Brighton,Brentford,2022-10-14,False,FW,90,0.0,0.3,0.0,0.0,2,3.0,0.0,5.1,0,False,4.5,0.74,90.0,6.0,1.0,8.27,0.89,0.06,2,Brighton,True,Nottingham Forest,-0.8
-Danny Welbeck,Brighton,Nottingham Forest,2022-10-18,True,FW,90,0.0,0.99,0.0,0.44,2,4.0,2.0,9.2,0,False,3.67,0.59,90.0,6.0,1.0,8.27,0.89,0.06,2,Brighton,False,Manchester City,1.12
-Danny Welbeck,Brighton,Manchester City,2022-10-22,False,FW,78,0.0,0.05,0.0,0.0,2,2.0,0.0,1.2,0,False,3.25,0.69,87.6,6.0,1.0,8.27,0.89,0.06,0,Brighton,True,Chelsea,-2.26
-Danny Welbeck,Brighton,Chelsea,,True,,0,,,,,0,,,0.0,0,False,3.0,0.57,73.0,6.0,1.0,8.27,0.89,0.06,1,Brighton,False,Wolverhampton,-2.88
-Danny Welbeck,Brighton,Wolverhampton,2022-11-05,False,Sub,25,0.0,0.03,0.0,0.0,1,1.0,0.0,1.5,0,False,1.6,0.3,66.14,6.0,1.0,8.27,0.89,0.06,1,Brighton,True,Aston Villa,0.69
-Danny Welbeck,Brighton,Aston Villa,2022-11-13,True,FW,58,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,True,1.4,0.27,65.12,6.0,1.0,8.27,0.89,0.06,0,Brighton,False,Southampton,-0.82
-Danny Welbeck,Brighton,Southampton,,False,,0,,,,,0,,,0.0,0,False,1.2,0.21,57.89,6.0,1.0,8.27,0.89,0.06,0,Brighton,True,Arsenal,2.84
-Danny Welbeck,Brighton,Arsenal,,True,,0,,,,,0,,,0.0,0,False,0.8,0.02,52.1,6.0,1.0,8.27,0.89,0.06,0,Brighton,False,Everton,-1.62
-Danny Welbeck,Brighton,Everton,,False,,0,,,,,0,,,0.0,0,False,0.4,0.01,47.36,6.0,1.0,8.27,0.89,0.06,2,Brighton,True,Newcastle United,-0.89
-Danny Welbeck,Brighton,Newcastle United,2022-08-13,True,FW,90,0.0,0.14,0.0,0.02,2,1.0,1.0,3.9,0,False,0.4,0.01,50.92,6.0,1.0,8.27,0.89,0.06,5,Brighton,True,Liverpool,-1.1
-Danny Welbeck,Brighton,Liverpool,2023-01-14,True,Sub,24,1.0,0.7,0.0,0.0,5,2.0,0.0,7.8,0,False,0.6,0.03,48.85,6.0,1.0,8.27,0.89,0.06,2,Brighton,False,Leeds United,0.58
-Danny Welbeck,Brighton,Leeds United,2023-01-21,False,FW,65,0.0,0.55,0.0,0.59,2,1.0,2.0,3.7,0,True,1.4,0.17,50.0,6.0,1.0,8.27,0.89,0.06,1,Brighton,True,Bournemouth,-1.36
-Danny Welbeck,Brighton,Bournemouth,2023-02-04,True,FW,56,0.0,0.96,0.0,0.05,1,3.0,1.0,4.5,0,True,1.8,0.28,50.4,6.0,1.0,8.27,0.89,0.06,0,Brighton,False,Crystal Palace,0.44
-Danny Welbeck,Brighton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,False,2.0,0.47,47.25,6.0,1.0,8.27,0.89,0.06,0,Brighton,True,Fulham,-0.16
-Danny Welbeck,Brighton,Fulham,,True,,0,,,,,0,,,0.0,0,False,2.0,0.47,44.47,6.0,1.0,8.27,0.89,0.06,5,Brighton,True,West Ham,-1.35
-Danny Welbeck,Brighton,West Ham,2023-03-04,True,Sub,14,1.0,0.1,0.0,0.0,5,2.0,0.0,4.0,0,False,1.6,0.44,42.78,6.0,1.0,8.27,0.89,0.06,1,Brighton,False,Leicester City,-1.23
-Danny Welbeck,Brighton,Leicester City,2023-03-11,False,Sub,22,0.0,0.31,0.0,0.0,1,1.0,0.0,1.1,0,False,1.6,0.32,41.68,6.0,1.0,8.27,0.89,0.06,2,Brighton,True,Crystal Palace,-1.88
-Danny Welbeck,Brighton,Crystal Palace,2023-03-15,True,FW,78,0.0,0.03,0.0,0.0,2,1.0,0.0,1.7,0,True,1.4,0.27,43.5,6.0,1.0,8.27,0.89,0.06,6,Brighton,True,Brentford,-1.45
-Danny Welbeck,Brighton,Brentford,2023-04-01,True,FW,82,1.0,0.74,0.0,0.06,6,3.0,1.0,10.0,0,True,1.6,0.09,45.33,6.0,1.0,8.27,0.89,0.06,1,Brighton,False,Bournemouth,0.25
-Danny Welbeck,Brighton,Bournemouth,2023-04-04,False,Sub,17,0.0,0.1,0.0,0.0,1,1.0,0.0,3.0,0,False,2.8,0.23,44.05,6.0,1.0,8.27,0.89,0.06,5,Brighton,False,West Ham,-0.99
-Danny Welbeck,Brighton,West Ham,2022-08-21,False,FW,90,0.0,0.0,0.0,0.05,5,0.0,1.0,2.8,0,False,3.0,0.25,46.04,6.0,1.0,8.27,0.89,0.06,2,Brighton,False,Tottenham,-0.37
-Danny Welbeck,Brighton,Tottenham,2023-04-08,False,FW,65,0.0,0.13,0.0,0.04,2,2.0,1.0,4.6,0,True,3.0,0.23,46.83,6.0,1.0,8.27,0.89,0.06,5,Brighton,False,Chelsea,-0.59
-Danny Welbeck,Brighton,Chelsea,2023-04-15,False,Sub,51,1.0,0.65,0.0,0.09,5,6.0,2.0,11.3,0,False,3.2,0.2,47.0,6.0,1.0,8.27,0.89,0.06,1,Brighton,False,Nottingham Forest,0.99
-Danny Welbeck,Brighton,Nottingham Forest,2023-04-26,False,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,False,3.8,0.33,45.85,6.0,1.0,8.27,0.89,0.06,15,Brighton,True,Wolverhampton,-1.51
-Danny Welbeck,Brighton,Wolverhampton,2023-04-29,True,FW,55,2.0,0.89,1.0,0.63,15,5.0,2.0,19.5,3,True,2.8,0.18,46.19,6.0,1.0,8.27,0.89,0.06,2,Brighton,True,Manchester United,-2.4
-Danny Welbeck,Brighton,Manchester United,2023-05-04,True,FW,74,0.0,0.08,0.0,0.15,2,1.0,2.0,3.8,0,True,5.6,0.54,47.18,6.0,1.0,8.27,0.89,0.06,1,Brighton,True,Everton,2.52
-Danny Welbeck,Brighton,Everton,2023-05-08,True,FW,45,0.0,0.28,0.0,0.0,1,1.0,0.0,0.6,0,True,5.0,0.55,47.1,6.0,1.0,8.27,0.89,0.06,1,Brighton,False,Arsenal,-1.78
-Danny Welbeck,Brighton,Arsenal,2023-05-14,False,Sub,30,0.0,0.03,0.0,0.05,1,1.0,2.0,2.5,0,False,4.8,0.58,46.53,6.0,1.0,8.27,0.89,0.06,1,Brighton,False,Newcastle United,1.9
-Danny Welbeck,Brighton,Newcastle United,2023-05-18,False,FW,55,0.0,0.02,0.0,0.0,1,1.0,0.0,1.3,0,True,4.0,0.46,46.81,6.0,1.0,8.27,0.89,0.06,1,Brighton,True,Southampton,-1.51
-Danny Welbeck,Brighton,Southampton,2023-05-21,True,Sub,25,0.0,0.16,0.0,0.09,1,2.0,1.0,3.1,0,False,4.0,0.46,46.12,6.0,1.0,8.27,0.89,0.06,2,Brighton,True,Manchester City,2.39
-Danny Welbeck,Brighton,Manchester City,2023-05-24,True,FW,74,0.0,0.21,0.0,0.84,2,3.0,3.0,5.7,0,True,1.2,0.12,46.97,6.0,1.0,8.27,0.89,0.06,0,Brighton,False,Aston Villa,2.71
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Danny Welbeck,Brighton,Manchester United,2022-08-07,False,FW,90,0.0,0.34,1.0,0.62,7,5.0,3.0,11.2,2,False,0.0,0.0,90.0,6.0,1.0,8.27,0.89,0.06,2,Brighton,True,Tottenham,3.4
+Danny Welbeck,Brighton,Tottenham,2022-10-08,True,FW,90,0.0,0.14,0.0,0.05,2,3.0,1.0,5.2,0,False,7.0,1.34,90.0,6.0,1.0,8.27,0.89,0.06,2,Brighton,False,Brentford,-0.81
+Danny Welbeck,Brighton,Brentford,2022-10-14,False,FW,90,0.0,0.3,0.0,0.0,2,3.0,0.0,5.1,0,False,4.5,0.74,90.0,6.0,1.0,8.27,0.89,0.06,2,Brighton,True,Nottingham Forest,
+Danny Welbeck,Brighton,Nottingham Forest,2022-10-18,True,FW,90,0.0,0.99,0.0,0.44,2,4.0,2.0,9.2,0,False,3.67,0.59,90.0,6.0,1.0,8.27,0.89,0.06,2,Brighton,False,Manchester City,2.32
+Danny Welbeck,Brighton,Manchester City,2022-10-22,False,FW,78,0.0,0.05,0.0,0.0,2,2.0,0.0,1.2,0,False,3.25,0.69,87.6,6.0,1.0,8.27,0.89,0.06,0,Brighton,True,Chelsea,-1.01
+Danny Welbeck,Brighton,Chelsea,,True,,0,,,,,0,,,0.0,0,False,3.0,0.57,73.0,6.0,1.0,8.27,0.89,0.06,1,Brighton,False,Wolverhampton,-6.54
+Danny Welbeck,Brighton,Wolverhampton,2022-11-05,False,Sub,25,0.0,0.03,0.0,0.0,1,1.0,0.0,1.5,0,False,1.6,0.3,66.14,6.0,1.0,8.27,0.89,0.06,1,Brighton,True,Aston Villa,3.43
+Danny Welbeck,Brighton,Aston Villa,2022-11-13,True,FW,58,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,True,1.4,0.27,65.12,6.0,1.0,8.27,0.89,0.06,0,Brighton,False,Southampton,-0.93
+Danny Welbeck,Brighton,Southampton,,False,,0,,,,,0,,,0.0,0,False,1.2,0.21,57.89,6.0,1.0,8.27,0.89,0.06,0,Brighton,True,Arsenal,0.47
+Danny Welbeck,Brighton,Arsenal,,True,,0,,,,,0,,,0.0,0,False,0.8,0.02,52.1,6.0,1.0,8.27,0.89,0.06,0,Brighton,False,Everton,-1.22
+Danny Welbeck,Brighton,Everton,,False,,0,,,,,0,,,0.0,0,False,0.4,0.01,47.36,6.0,1.0,8.27,0.89,0.06,2,Brighton,True,Newcastle United,-0.13
+Danny Welbeck,Brighton,Newcastle United,2022-08-13,True,FW,90,0.0,0.14,0.0,0.02,2,1.0,1.0,3.9,0,False,0.4,0.01,50.92,6.0,1.0,8.27,0.89,0.06,5,Brighton,True,Liverpool,1.77
+Danny Welbeck,Brighton,Liverpool,2023-01-14,True,Sub,24,1.0,0.7,0.0,0.0,5,2.0,0.0,7.8,0,False,0.6,0.03,48.85,6.0,1.0,8.27,0.89,0.06,2,Brighton,False,Leeds United,-0.21
+Danny Welbeck,Brighton,Leeds United,2023-01-21,False,FW,65,0.0,0.55,0.0,0.59,2,1.0,2.0,3.7,0,True,1.4,0.17,50.0,6.0,1.0,8.27,0.89,0.06,1,Brighton,True,Bournemouth,
+Danny Welbeck,Brighton,Bournemouth,2023-02-04,True,FW,56,0.0,0.96,0.0,0.05,1,3.0,1.0,4.5,0,True,1.8,0.28,50.4,6.0,1.0,8.27,0.89,0.06,0,Brighton,False,Crystal Palace,0.6
+Danny Welbeck,Brighton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,False,2.0,0.47,47.25,6.0,1.0,8.27,0.89,0.06,0,Brighton,True,Fulham,
+Danny Welbeck,Brighton,Fulham,,True,,0,,,,,0,,,0.0,0,False,2.0,0.47,44.47,6.0,1.0,8.27,0.89,0.06,5,Brighton,True,West Ham,-2.91
+Danny Welbeck,Brighton,West Ham,2023-03-04,True,Sub,14,1.0,0.1,0.0,0.0,5,2.0,0.0,4.0,0,False,1.6,0.44,42.78,6.0,1.0,8.27,0.89,0.06,1,Brighton,False,Leicester City,-1.63
+Danny Welbeck,Brighton,Leicester City,2023-03-11,False,Sub,22,0.0,0.31,0.0,0.0,1,1.0,0.0,1.1,0,False,1.6,0.32,41.68,6.0,1.0,8.27,0.89,0.06,2,Brighton,True,Crystal Palace,-0.07
+Danny Welbeck,Brighton,Crystal Palace,2023-03-15,True,FW,78,0.0,0.03,0.0,0.0,2,1.0,0.0,1.7,0,True,1.4,0.27,43.5,6.0,1.0,8.27,0.89,0.06,6,Brighton,True,Brentford,-3.01
+Danny Welbeck,Brighton,Brentford,2023-04-01,True,FW,82,1.0,0.74,0.0,0.06,6,3.0,1.0,10.0,0,True,1.6,0.09,45.33,6.0,1.0,8.27,0.89,0.06,1,Brighton,False,Bournemouth,
+Danny Welbeck,Brighton,Bournemouth,2023-04-04,False,Sub,17,0.0,0.1,0.0,0.0,1,1.0,0.0,3.0,0,False,2.8,0.23,44.05,6.0,1.0,8.27,0.89,0.06,5,Brighton,False,West Ham,-1.66
+Danny Welbeck,Brighton,West Ham,2022-08-21,False,FW,90,0.0,0.0,0.0,0.05,5,0.0,1.0,2.8,0,False,3.0,0.25,46.04,6.0,1.0,8.27,0.89,0.06,2,Brighton,False,Tottenham,
+Danny Welbeck,Brighton,Tottenham,2023-04-08,False,FW,65,0.0,0.13,0.0,0.04,2,2.0,1.0,4.6,0,True,3.0,0.23,46.83,6.0,1.0,8.27,0.89,0.06,5,Brighton,False,Chelsea,-1.14
+Danny Welbeck,Brighton,Chelsea,2023-04-15,False,Sub,51,1.0,0.65,0.0,0.09,5,6.0,2.0,11.3,0,False,3.2,0.2,47.0,6.0,1.0,8.27,0.89,0.06,1,Brighton,False,Nottingham Forest,
+Danny Welbeck,Brighton,Nottingham Forest,2023-04-26,False,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,False,3.8,0.33,45.85,6.0,1.0,8.27,0.89,0.06,15,Brighton,True,Wolverhampton,1.32
+Danny Welbeck,Brighton,Wolverhampton,2023-04-29,True,FW,55,2.0,0.89,1.0,0.63,15,5.0,2.0,19.5,3,True,2.8,0.18,46.19,6.0,1.0,8.27,0.89,0.06,2,Brighton,True,Manchester United,
+Danny Welbeck,Brighton,Manchester United,2023-05-04,True,FW,74,0.0,0.08,0.0,0.15,2,1.0,2.0,3.8,0,True,5.6,0.54,47.18,6.0,1.0,8.27,0.89,0.06,1,Brighton,True,Everton,3.86
+Danny Welbeck,Brighton,Everton,2023-05-08,True,FW,45,0.0,0.28,0.0,0.0,1,1.0,0.0,0.6,0,True,5.0,0.55,47.1,6.0,1.0,8.27,0.89,0.06,1,Brighton,False,Arsenal,
+Danny Welbeck,Brighton,Arsenal,2023-05-14,False,Sub,30,0.0,0.03,0.0,0.05,1,1.0,2.0,2.5,0,False,4.8,0.58,46.53,6.0,1.0,8.27,0.89,0.06,1,Brighton,False,Newcastle United,
+Danny Welbeck,Brighton,Newcastle United,2023-05-18,False,FW,55,0.0,0.02,0.0,0.0,1,1.0,0.0,1.3,0,True,4.0,0.46,46.81,6.0,1.0,8.27,0.89,0.06,1,Brighton,True,Southampton,
+Danny Welbeck,Brighton,Southampton,2023-05-21,True,Sub,25,0.0,0.16,0.0,0.09,1,2.0,1.0,3.1,0,False,4.0,0.46,46.12,6.0,1.0,8.27,0.89,0.06,2,Brighton,True,Manchester City,5.78
+Danny Welbeck,Brighton,Manchester City,2023-05-24,True,FW,74,0.0,0.21,0.0,0.84,2,3.0,3.0,5.7,0,True,1.2,0.12,46.97,6.0,1.0,8.27,0.89,0.06,0,Brighton,False,Aston Villa,2.85
 Danny Welbeck,Brighton,Aston Villa,,False,,0,,,,,0,,,0.0,0,False,1.2,0.14,45.59,6.0,1.0,8.27,0.89,0.06,2,Brighton,True,Leicester City,-1.84
-Danny Welbeck,Brighton,Leicester City,2022-08-27,True,FW,87,0.0,0.0,0.0,0.21,2,0.0,2.0,3.5,0,False,1.0,0.08,46.77,6.0,1.0,8.27,0.89,0.06,1,Brighton,False,Fulham,1.99
+Danny Welbeck,Brighton,Leicester City,2022-08-27,True,FW,87,0.0,0.0,0.0,0.21,2,0.0,2.0,3.5,0,False,1.0,0.08,46.77,6.0,1.0,8.27,0.89,0.06,1,Brighton,False,Fulham,0.07
 Danny Welbeck,Brighton,Fulham,2022-08-30,False,Sub,27,0.0,0.49,0.0,0.33,1,1.0,1.0,4.8,0,False,1.2,0.08,46.22,6.0,1.0,8.27,0.89,0.06,5,Brighton,True,Leeds United,-2.88
-Danny Welbeck,Brighton,Leeds United,2022-09-04,True,FW,90,0.0,0.29,0.0,0.0,5,4.0,0.0,8.3,0,False,1.2,0.17,47.41,6.0,1.0,8.27,0.89,0.06,5,Brighton,False,Liverpool,-1.55
-Danny Welbeck,Brighton,Liverpool,2022-10-01,False,FW,90,0.0,0.82,1.0,0.79,5,2.0,2.0,9.4,0,False,2.0,0.2,48.53,6.0,1.0,8.27,0.89,0.06,2,Brighton,True,Luton,-3.81
+Danny Welbeck,Brighton,Leeds United,2022-09-04,True,FW,90,0.0,0.29,0.0,0.0,5,4.0,0.0,8.3,0,False,1.2,0.17,47.41,6.0,1.0,8.27,0.89,0.06,5,Brighton,False,Liverpool,-2.6
+Danny Welbeck,Brighton,Liverpool,2022-10-01,False,FW,90,0.0,0.82,1.0,0.79,5,2.0,2.0,9.4,0,False,2.0,0.2,48.53,6.0,1.0,8.27,0.89,0.06,2,Brighton,True,Luton,

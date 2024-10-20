@@ -1,4 +1,4 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
 Marc Albrighton,Leicester,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,False,Bournemouth,
 Marc Albrighton,Leicester,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,True,Crystal Palace,-0.43
 Marc Albrighton,Leicester,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,True,Leicester City,2.25
@@ -19,9 +19,9 @@ Marc Albrighton,Leicester,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,1.
 Marc Albrighton,Leicester,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.08,12.61,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,False,Southampton,-3.27
 Marc Albrighton,Leicester,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.08,11.95,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,True,Chelsea,-2.98
 Marc Albrighton,Leicester,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,11.35,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,False,Brentford,-4.9
-Marc Albrighton,Leicester,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,10.81,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,False,Crystal Palace,2.07
-Marc Albrighton,Leicester,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,10.32,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,True,Aston Villa,-0.34
-Marc Albrighton,Leicester,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,9.87,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,True,Southampton,1.76
+Marc Albrighton,Leicester,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,10.81,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,False,Crystal Palace,
+Marc Albrighton,Leicester,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,10.32,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,True,Aston Villa,
+Marc Albrighton,Leicester,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,9.87,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,True,Southampton,
 Marc Albrighton,Leicester,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,9.46,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,True,Bournemouth,
 Marc Albrighton,Leicester,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,9.08,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,False,Manchester City,1.46
 Marc Albrighton,Leicester,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.73,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,True,Wolverhampton,-1.75
@@ -32,8 +32,8 @@ Marc Albrighton,Leicester,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.57,
 Marc Albrighton,Leicester,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.32,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,False,Newcastle United,1.84
 Marc Albrighton,Leicester,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.09,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,True,West Ham,-0.48
 Marc Albrighton,Leicester,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.88,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,False,Chelsea,-5.34
-Marc Albrighton,Leicester,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.68,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,True,Manchester United,-2.56
+Marc Albrighton,Leicester,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.68,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,True,Manchester United,
 Marc Albrighton,Leicester,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.49,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,False,Brighton,-2.14
 Marc Albrighton,Leicester,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.31,1.0,2.0,0.49,1.7,0.04,0.0,Leicester,False,Tottenham,3.38
 Marc Albrighton,Leicester,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.14,1.0,2.0,0.49,1.7,0.04,1.0,Leicester,True,Nottingham Forest,
-Marc Albrighton,Leicester,Nottingham Forest,2022-10-03,True,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.0,0.0,6.11,1.0,2.0,0.49,1.7,0.04,,Wolves,False,Manchester United,0.79
+Marc Albrighton,Leicester,Nottingham Forest,2022-10-03,True,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.0,0.0,6.11,1.0,2.0,0.49,1.7,0.04,,Wolves,False,Manchester United,-0.63

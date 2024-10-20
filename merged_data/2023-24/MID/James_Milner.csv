@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-James Milner,Brighton,Luton,2023-08-12,True,DR,78,0.0,0.0,0.0,0.0,3,0.0,0.0,1.1,0,1,0,True,0.0,0.0,78.0,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Fulham,-0.16
-James Milner,Brighton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,3.0,0.0,39.0,0.0,1.0,0.38,1.63,0.05,2.0,Brighton,False,Everton,-1.62
-James Milner,Brighton,Everton,2023-11-04,False,MC,78,0.0,0.0,0.0,0.09,2,0.0,2.0,4.4,0,0,1,True,1.5,0.0,52.0,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Sheffield,-1.39
-James Milner,Brighton,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,1.67,0.0,39.0,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Nottingham Forest,0.99
-James Milner,Brighton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,1.25,0.0,31.2,0.0,1.0,0.38,1.63,0.05,3.0,Brighton,False,Chelsea,-0.59
-James Milner,Brighton,Chelsea,2023-12-03,False,Sub,33,0.0,0.01,1.0,0.25,3,1.0,3.0,7.4,0,0,1,False,1.0,0.0,31.5,0.0,1.0,0.38,1.63,0.05,1.0,Brighton,True,Brentford,-1.45
-James Milner,Brighton,Brentford,2023-12-06,True,Sub,21,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,0,False,1.0,0.2,30.0,0.0,1.0,0.38,1.63,0.05,1.0,Brighton,True,Burnley,2.43
-James Milner,Brighton,Burnley,2023-12-09,True,DL,58,0.0,0.05,0.0,0.16,1,1.0,3.0,7.5,0,0,1,True,1.2,0.2,33.5,0.0,1.0,0.38,1.63,0.05,1.0,Brighton,False,Arsenal,-1.78
-James Milner,Brighton,Arsenal,2023-12-17,False,DL,59,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,1,True,1.0,0.21,36.33,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Crystal Palace,0.44
-James Milner,Brighton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.21,32.7,0.0,1.0,0.38,1.63,0.05,6.0,Brighton,True,Tottenham,-0.36
-James Milner,Brighton,Tottenham,2023-12-28,True,MC,68,0.0,0.1,1.0,0.1,6,1.0,2.0,5.2,0,1,0,True,1.2,0.21,35.91,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Wolverhampton,-2.88
-James Milner,Brighton,Wolverhampton,2023-08-19,False,DR,56,0.0,0.0,0.0,0.31,0,0.0,1.0,2.4,0,0,0,True,1.8,0.23,37.58,0.0,1.0,0.38,1.63,0.05,3.0,Brighton,False,West Ham,-0.99
-James Milner,Brighton,West Ham,2024-01-02,False,MC,90,0.0,0.06,0.0,0.54,3,1.0,4.0,9.2,0,1,0,True,1.6,0.23,41.62,0.0,1.0,0.38,1.63,0.05,3.0,Brighton,True,Wolverhampton,-1.51
-James Milner,Brighton,Wolverhampton,2024-01-22,True,MC,72,0.0,0.0,0.0,0.0,3,0.0,0.0,2.3,0,1,0,True,2.0,0.23,43.79,0.0,1.0,0.38,1.63,0.05,1.0,Brighton,False,Luton,5.03
-James Milner,Brighton,Luton,2024-01-30,False,DMR,19,0.0,0.07,0.0,0.03,1,1.0,1.0,1.9,0,0,2,True,2.4,0.23,42.13,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Crystal Palace,-1.88
-James Milner,Brighton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,2.6,0.25,39.5,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Tottenham,-0.37
-James Milner,Brighton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.03,37.18,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Sheffield,-3.96
-James Milner,Brighton,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.03,35.11,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Everton,2.52
-James Milner,Brighton,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.01,33.26,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Fulham,1.99
-James Milner,Brighton,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.01,31.6,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Nottingham Forest,-0.8
-James Milner,Brighton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,30.1,0.0,1.0,0.38,1.63,0.05,2.0,Brighton,True,West Ham,-1.35
-James Milner,Brighton,West Ham,2023-08-26,True,DR,71,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,3,True,0.0,0.0,31.95,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Liverpool,-1.55
-James Milner,Brighton,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,30.57,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Brentford,0.34
-James Milner,Brighton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,29.29,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Arsenal,2.84
-James Milner,Brighton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,28.12,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Burnley,-0.32
-James Milner,Brighton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,27.04,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Manchester City,2.39
-James Milner,Brighton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,26.04,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Bournemouth,0.25
-James Milner,Brighton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,25.11,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Aston Villa,0.69
-James Milner,Brighton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,24.24,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Newcastle United,1.9
-James Milner,Brighton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,23.43,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Chelsea,-2.26
-James Milner,Brighton,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,22.68,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Manchester United,-2.4
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+James Milner,Brighton,Luton,2023-08-12,True,DR,78,0.0,0.0,0.0,0.0,3,0.0,0.0,1.1,0,1,0,True,0.0,0.0,78.0,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Fulham,0.36
+James Milner,Brighton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,3.0,0.0,39.0,0.0,1.0,0.38,1.63,0.05,2.0,Brighton,False,Everton,-2.97
+James Milner,Brighton,Everton,2023-11-04,False,MC,78,0.0,0.0,0.0,0.09,2,0.0,2.0,4.4,0,0,1,True,1.5,0.0,52.0,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Sheffield,
+James Milner,Brighton,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,1.67,0.0,39.0,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Nottingham Forest,3.35
+James Milner,Brighton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,1.25,0.0,31.2,0.0,1.0,0.38,1.63,0.05,3.0,Brighton,False,Chelsea,-1.77
+James Milner,Brighton,Chelsea,2023-12-03,False,Sub,33,0.0,0.01,1.0,0.25,3,1.0,3.0,7.4,0,0,1,False,1.0,0.0,31.5,0.0,1.0,0.38,1.63,0.05,1.0,Brighton,True,Brentford,-2.16
+James Milner,Brighton,Brentford,2023-12-06,True,Sub,21,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,0,False,1.0,0.2,30.0,0.0,1.0,0.38,1.63,0.05,1.0,Brighton,True,Burnley,4.68
+James Milner,Brighton,Burnley,2023-12-09,True,DL,58,0.0,0.05,0.0,0.16,1,1.0,3.0,7.5,0,0,1,True,1.2,0.2,33.5,0.0,1.0,0.38,1.63,0.05,1.0,Brighton,False,Arsenal,-3.23
+James Milner,Brighton,Arsenal,2023-12-17,False,DL,59,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,1,True,1.0,0.21,36.33,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Crystal Palace,0.25
+James Milner,Brighton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.21,32.7,0.0,1.0,0.38,1.63,0.05,6.0,Brighton,True,Tottenham,2.15
+James Milner,Brighton,Tottenham,2023-12-28,True,MC,68,0.0,0.1,1.0,0.1,6,1.0,2.0,5.2,0,1,0,True,1.2,0.21,35.91,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Wolverhampton,-2.92
+James Milner,Brighton,Wolverhampton,2023-08-19,False,DR,56,0.0,0.0,0.0,0.31,0,0.0,1.0,2.4,0,0,0,True,1.8,0.23,37.58,0.0,1.0,0.38,1.63,0.05,3.0,Brighton,False,West Ham,-1.66
+James Milner,Brighton,West Ham,2024-01-02,False,MC,90,0.0,0.06,0.0,0.54,3,1.0,4.0,9.2,0,1,0,True,1.6,0.23,41.62,0.0,1.0,0.38,1.63,0.05,3.0,Brighton,True,Wolverhampton,-2.74
+James Milner,Brighton,Wolverhampton,2024-01-22,True,MC,72,0.0,0.0,0.0,0.0,3,0.0,0.0,2.3,0,1,0,True,2.0,0.23,43.79,0.0,1.0,0.38,1.63,0.05,1.0,Brighton,False,Luton,
+James Milner,Brighton,Luton,2024-01-30,False,DMR,19,0.0,0.07,0.0,0.03,1,1.0,1.0,1.9,0,0,2,True,2.4,0.23,42.13,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Crystal Palace,-0.55
+James Milner,Brighton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,2.6,0.25,39.5,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Tottenham,-0.85
+James Milner,Brighton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.03,37.18,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Sheffield,
+James Milner,Brighton,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.03,35.11,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Everton,4.16
+James Milner,Brighton,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.01,33.26,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Fulham,0.07
+James Milner,Brighton,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.01,31.6,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Nottingham Forest,-0.0
+James Milner,Brighton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,30.1,0.0,1.0,0.38,1.63,0.05,2.0,Brighton,True,West Ham,4.62
+James Milner,Brighton,West Ham,2023-08-26,True,DR,71,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,3,True,0.0,0.0,31.95,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Liverpool,-2.6
+James Milner,Brighton,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,30.57,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Brentford,0.72
+James Milner,Brighton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,29.29,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Arsenal,2.09
+James Milner,Brighton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,28.12,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Burnley,-0.71
+James Milner,Brighton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,27.04,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Manchester City,5.78
+James Milner,Brighton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,26.04,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Bournemouth,
+James Milner,Brighton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,25.11,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Aston Villa,1.69
+James Milner,Brighton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,24.24,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Newcastle United,
+James Milner,Brighton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,23.43,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Chelsea,-6.21
+James Milner,Brighton,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,22.68,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Manchester United,
 James Milner,Brighton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,21.97,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Newcastle United,-0.89
-James Milner,Brighton,Newcastle United,2023-09-02,True,Sub,9,0.0,0.0,0.0,0.0,0,0.0,0.0,0.3,0,0,1,False,0.0,0.0,21.58,0.0,1.0,0.38,1.63,0.05,1.0,Brighton,False,Manchester United,-0.89
-James Milner,Brighton,Manchester United,2023-09-16,False,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,0.0,0.0,21.32,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Bournemouth,-1.36
-James Milner,Brighton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,20.71,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Aston Villa,2.71
-James Milner,Brighton,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,20.14,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Liverpool,-1.1
-James Milner,Brighton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,19.59,0.0,1.0,0.38,1.63,0.05,1.0,Brighton,False,Manchester City,1.12
+James Milner,Brighton,Newcastle United,2023-09-02,True,Sub,9,0.0,0.0,0.0,0.0,0,0.0,0.0,0.3,0,0,1,False,0.0,0.0,21.58,0.0,1.0,0.38,1.63,0.05,1.0,Brighton,False,Manchester United,-2.71
+James Milner,Brighton,Manchester United,2023-09-16,False,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,0.0,0.0,21.32,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Bournemouth,-2.12
+James Milner,Brighton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,20.71,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,False,Aston Villa,3.52
+James Milner,Brighton,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,20.14,0.0,1.0,0.38,1.63,0.05,0.0,Brighton,True,Liverpool,-2.54
+James Milner,Brighton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,19.59,0.0,1.0,0.38,1.63,0.05,1.0,Brighton,False,Manchester City,0.52
 James Milner,Brighton,Manchester City,2023-10-21,False,DR,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,2,True,0.2,0.0,20.26,0.0,1.0,0.38,1.63,0.05,,,,,

@@ -1,4 +1,4 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
 Cameron Archer,Aston Villa,Newcastle United,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,1.0,Sheffield Utd,False,Arsenal,
 Cameron Archer,Sheffield Utd,Arsenal,2023-10-28,False,Sub,31,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,False,0.0,0.0,15.5,0.0,0.0,0.0,0.0,0.14,9.0,Sheffield Utd,True,Wolverhampton,
 Cameron Archer,Sheffield Utd,Wolverhampton,2023-11-04,True,FW,90,1.0,0.06,0.0,0.07,9,2.0,1.0,7.1,3,True,0.5,0.0,40.33,0.0,0.0,0.0,0.0,0.14,2.0,Sheffield Utd,False,Brighton,
@@ -9,7 +9,7 @@ Cameron Archer,Sheffield Utd,Liverpool,2023-12-06,True,AMC,90,0.0,0.24,0.0,0.0,2
 Cameron Archer,Sheffield Utd,Brentford,2023-12-09,True,ML,90,0.0,0.12,0.0,0.52,2,2.0,4.0,7.9,0,True,3.2,0.08,65.75,0.0,0.0,0.0,0.0,0.14,2.0,Sheffield Utd,False,Chelsea,
 Cameron Archer,Sheffield Utd,Chelsea,2023-12-16,False,ML,90,0.0,0.29,0.0,0.0,2,3.0,0.0,2.8,0,True,1.8,0.09,68.44,0.0,0.0,0.0,0.0,0.14,8.0,Sheffield Utd,False,Aston Villa,
 Cameron Archer,Sheffield Utd,Aston Villa,2023-12-22,False,FW,89,1.0,0.6,0.0,0.0,8,2.0,0.0,5.6,2,True,1.8,0.15,70.5,0.0,0.0,0.0,0.0,0.14,5.0,Sheffield Utd,True,Luton,
-Cameron Archer,Sheffield Utd,Luton,2023-12-26,True,FW,85,0.0,1.14,0.0,0.42,5,3.0,2.0,6.7,0,True,3.0,0.27,71.82,0.0,0.0,0.0,0.0,0.14,0.0,Aston Villa,True,Everton,-2.45
+Cameron Archer,Sheffield Utd,Luton,2023-12-26,True,FW,85,0.0,1.14,0.0,0.42,5,3.0,2.0,6.7,0,True,3.0,0.27,71.82,0.0,0.0,0.0,0.0,0.14,0.0,Aston Villa,True,Everton,-1.63
 Cameron Archer,Aston Villa,Everton,2023-08-20,True,Sub,5,0.0,0.0,0.0,0.0,0,0.0,0.0,0.3,0,False,3.8,0.48,66.25,0.0,0.0,0.0,0.0,0.14,1.0,Sheffield Utd,False,Manchester City,
 Cameron Archer,Sheffield Utd,Manchester City,2023-12-30,False,Sub,23,0.0,0.0,0.0,0.09,1,0.0,1.0,1.3,0,False,3.4,0.43,62.92,0.0,0.0,0.0,0.0,0.14,1.0,Sheffield Utd,True,West Ham,
 Cameron Archer,Sheffield Utd,West Ham,2024-01-21,True,Sub,23,0.0,0.02,0.0,0.0,1,1.0,0.0,1.4,0,False,3.2,0.41,60.07,0.0,0.0,0.0,0.0,0.14,1.0,Sheffield Utd,False,Crystal Palace,
@@ -19,7 +19,7 @@ Cameron Archer,Sheffield Utd,Luton,2024-02-10,False,FW,80,1.0,1.03,0.0,0.0,7,2.0
 Cameron Archer,Sheffield Utd,Brighton,,True,,0,,,,,0,,,0.0,0,False,2.2,0.22,52.72,0.0,0.0,0.0,0.0,0.14,0.0,Sheffield Utd,False,Wolverhampton,
 Cameron Archer,Sheffield Utd,Wolverhampton,,False,,0,,,,,0,,,0.0,0,False,2.0,0.22,49.95,0.0,0.0,0.0,0.0,0.14,0.0,Sheffield Utd,True,Arsenal,
 Cameron Archer,Sheffield Utd,Arsenal,,True,,0,,,,,0,,,0.0,0,False,1.8,0.22,47.45,0.0,0.0,0.0,0.0,0.14,0.0,Sheffield Utd,False,Bournemouth,
-Cameron Archer,Sheffield Utd,Bournemouth,,False,,0,,,,,0,,,0.0,0,False,1.6,0.22,45.19,0.0,0.0,0.0,0.0,0.14,0.0,Aston Villa,False,Burnley,-3.63
+Cameron Archer,Sheffield Utd,Bournemouth,,False,,0,,,,,0,,,0.0,0,False,1.6,0.22,45.19,0.0,0.0,0.0,0.0,0.14,0.0,Aston Villa,False,Burnley,-3.79
 Cameron Archer,Aston Villa,Burnley,,False,,0,,,,,0,,,0.0,0,False,1.4,0.21,43.14,0.0,0.0,0.0,0.0,0.14,0.0,Sheffield Utd,True,Fulham,
 Cameron Archer,Sheffield Utd,Fulham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,41.26,0.0,0.0,0.0,0.0,0.14,0.0,Sheffield Utd,False,Liverpool,
 Cameron Archer,Sheffield Utd,Liverpool,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,39.54,0.0,0.0,0.0,0.0,0.14,4.0,Sheffield Utd,True,Chelsea,

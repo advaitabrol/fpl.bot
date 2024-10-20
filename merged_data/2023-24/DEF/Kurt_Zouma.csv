@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Kurt Zouma,West Ham,Bournemouth,2023-08-12,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,1.37,True,0.0,0.0,90.0,0.0,2.13,0.06,14.41,0.33,2.0,West Ham,True,Everton,-1.58
-Kurt Zouma,West Ham,Everton,2023-10-29,True,DC,90,0.0,0.01,0.0,0.0,2,1.0,0.0,3.4,0,0,1,0.82,True,2.0,0.0,90.0,0.0,2.13,0.06,14.41,0.33,0.0,West Ham,False,Brentford,3.32
-Kurt Zouma,West Ham,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.01,60.0,0.0,2.13,0.06,14.41,0.33,1.0,West Ham,True,Nottingham Forest,-3.27
-Kurt Zouma,West Ham,Nottingham Forest,2023-11-12,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,2,1.68,True,1.33,0.0,67.5,0.0,2.13,0.06,14.41,0.33,2.0,West Ham,False,Burnley,-0.34
-Kurt Zouma,West Ham,Burnley,2023-11-25,False,DC,90,0.0,0.39,0.0,0.0,2,2.0,0.0,3.2,0,0,1,1.27,True,1.25,0.0,72.0,0.0,2.13,0.06,14.41,0.33,0.0,West Ham,True,Crystal Palace,1.39
-Kurt Zouma,West Ham,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.08,60.0,0.0,2.13,0.06,14.41,0.33,2.0,West Ham,False,Tottenham,1.24
-Kurt Zouma,West Ham,Tottenham,2023-12-07,False,DC,90,0.0,0.11,0.0,0.0,2,1.0,0.0,1.4,0,0,1,1.74,True,1.0,0.08,64.29,0.0,2.13,0.06,14.41,0.33,0.0,West Ham,False,Fulham,1.3
-Kurt Zouma,West Ham,Fulham,2023-12-10,False,DC,63,0.0,0.0,0.0,0.0,0,0.0,0.0,0.6,0,0,4,1.54,True,1.0,0.1,64.12,0.0,2.13,0.06,14.41,0.33,5.0,West Ham,True,Wolverhampton,-2.4
-Kurt Zouma,West Ham,Wolverhampton,2023-12-17,True,DC,90,0.0,0.08,0.0,0.0,5,1.0,0.0,2.8,0,1,0,0.65,True,1.0,0.1,67.0,0.14,2.13,0.06,14.41,0.33,6.0,West Ham,True,Manchester United,-1.91
-Kurt Zouma,West Ham,Manchester United,2023-12-23,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.4,0,1,0,0.91,True,1.8,0.12,69.3,0.25,2.13,0.06,14.41,0.33,0.0,West Ham,False,Arsenal,-0.04
-Kurt Zouma,West Ham,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.6,0.04,63.0,0.25,2.13,0.06,14.41,0.33,2.0,West Ham,True,Chelsea,-2.62
-Kurt Zouma,West Ham,Chelsea,2023-08-20,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.8,0,0,1,2.45,True,2.6,0.04,65.25,0.22,2.13,0.06,14.41,0.33,0.0,West Ham,True,Brighton,0.78
-Kurt Zouma,West Ham,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.6,0.02,60.23,0.22,2.13,0.06,14.41,0.33,1.0,West Ham,False,Sheffield,-0.61
-Kurt Zouma,West Ham,Sheffield,2024-01-21,False,DC,90,0.0,0.03,0.0,0.0,1,1.0,0.0,5.2,0,0,2,2.23,True,2.6,0.02,62.36,0.2,2.13,0.06,14.41,0.33,2.0,West Ham,True,Bournemouth,-1.59
-Kurt Zouma,West Ham,Bournemouth,2024-02-01,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.2,0,0,1,1.17,True,1.8,0.01,64.2,0.18,2.13,0.06,14.41,0.33,1.0,West Ham,False,Manchester United,1.98
-Kurt Zouma,West Ham,Manchester United,2024-02-04,False,DC,90,0.0,0.12,0.0,0.03,1,1.0,1.0,2.9,0,0,3,0.8,True,1.0,0.01,65.81,0.17,2.13,0.06,14.41,0.33,-1.0,West Ham,True,Arsenal,2.39
-Kurt Zouma,West Ham,Arsenal,2024-02-11,True,DC,45,0.0,0.0,0.0,0.0,-1,0.0,0.0,0.3,0,0,4,2.78,True,1.2,0.03,64.59,0.17,2.13,0.06,14.41,0.33,1.0,West Ham,False,Nottingham Forest,2.77
-Kurt Zouma,West Ham,Nottingham Forest,2024-02-17,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,1,2.43,True,0.6,0.03,66.0,0.15,2.13,0.06,14.41,0.33,1.0,West Ham,True,Brentford,1.03
-Kurt Zouma,West Ham,Brentford,2024-02-26,True,DC,90,0.0,0.02,0.0,0.0,1,1.0,0.0,3.6,0,0,2,1.12,True,0.8,0.03,67.26,0.14,2.13,0.06,14.41,0.33,8.0,West Ham,False,Everton,-0.77
-Kurt Zouma,West Ham,Everton,2024-03-02,False,DC,90,1.0,0.53,0.0,0.0,8,2.0,0.0,8.8,0,0,1,2.73,True,0.8,0.03,68.4,0.13,2.13,0.06,14.41,0.33,0.0,West Ham,True,Burnley,-0.01
-Kurt Zouma,West Ham,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.13,65.14,0.13,2.13,0.06,14.41,0.33,2.0,West Ham,True,Aston Villa,-0.86
-Kurt Zouma,West Ham,Aston Villa,2024-03-17,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,0,1,0.63,True,1.8,0.11,66.27,0.12,2.13,0.06,14.41,0.33,2.0,West Ham,False,Brighton,0.97
-Kurt Zouma,West Ham,Brighton,2023-08-26,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.2,0,0,1,1.52,True,2.4,0.11,67.3,0.12,2.13,0.06,14.41,0.33,0.0,West Ham,False,Newcastle United,-0.16
-Kurt Zouma,West Ham,Newcastle United,2024-03-30,False,DC,90,0.0,0.0,0.0,0.07,0,0.0,1.0,3.2,0,0,4,4.07,True,2.6,0.11,68.25,0.11,2.13,0.06,14.41,0.33,10.0,West Ham,True,Tottenham,-2.05
-Kurt Zouma,West Ham,Tottenham,2024-04-02,True,DC,90,1.0,0.5,0.0,0.0,10,1.0,0.0,8.0,2,0,1,0.96,True,2.4,0.11,69.12,0.11,2.13,0.06,14.41,0.33,2.0,West Ham,False,Wolverhampton,1.36
-Kurt Zouma,West Ham,Wolverhampton,2024-04-06,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.1,0,0,1,1.5,True,2.8,0.1,69.92,0.1,2.13,0.06,14.41,0.33,1.0,West Ham,True,Fulham,-1.16
-Kurt Zouma,West Ham,Fulham,2024-04-14,True,Sub,30,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,1.49,False,3.2,0.1,68.44,0.1,2.13,0.06,14.41,0.33,0.0,West Ham,False,Crystal Palace,0.59
-Kurt Zouma,West Ham,Crystal Palace,2024-04-21,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.0,0,0,5,2.47,True,3.0,0.1,69.21,0.1,2.13,0.06,14.41,0.33,1.0,West Ham,True,Liverpool,-1.57
-Kurt Zouma,West Ham,Liverpool,2024-04-27,True,DC,90,0.0,0.02,0.0,0.04,1,1.0,1.0,3.8,0,0,2,1.75,True,2.6,0.1,69.93,0.09,2.13,0.06,14.41,0.33,0.0,West Ham,False,Chelsea,2.45
-Kurt Zouma,West Ham,Chelsea,2024-05-05,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.7,0,0,5,4.13,True,2.8,0.1,70.6,0.09,2.13,0.06,14.41,0.33,2.0,West Ham,True,Luton,-4.51
-Kurt Zouma,West Ham,Luton,2024-05-11,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.7,0,0,1,0.42,True,0.8,0.0,71.23,0.08,2.13,0.06,14.41,0.33,1.0,West Ham,False,Manchester City,1.66
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Kurt Zouma,West Ham,Bournemouth,2023-08-12,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,1.37,True,0.0,0.0,90.0,0.0,2.13,0.06,14.41,0.33,2.0,West Ham,True,Everton,-3.49
+Kurt Zouma,West Ham,Everton,2023-10-29,True,DC,90,0.0,0.01,0.0,0.0,2,1.0,0.0,3.4,0,0,1,0.82,True,2.0,0.0,90.0,0.0,2.13,0.06,14.41,0.33,0.0,West Ham,False,Brentford,4.68
+Kurt Zouma,West Ham,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.01,60.0,0.0,2.13,0.06,14.41,0.33,1.0,West Ham,True,Nottingham Forest,-5.45
+Kurt Zouma,West Ham,Nottingham Forest,2023-11-12,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,2,1.68,True,1.33,0.0,67.5,0.0,2.13,0.06,14.41,0.33,2.0,West Ham,False,Burnley,0.79
+Kurt Zouma,West Ham,Burnley,2023-11-25,False,DC,90,0.0,0.39,0.0,0.0,2,2.0,0.0,3.2,0,0,1,1.27,True,1.25,0.0,72.0,0.0,2.13,0.06,14.41,0.33,0.0,West Ham,True,Crystal Palace,1.83
+Kurt Zouma,West Ham,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.08,60.0,0.0,2.13,0.06,14.41,0.33,2.0,West Ham,False,Tottenham,3.93
+Kurt Zouma,West Ham,Tottenham,2023-12-07,False,DC,90,0.0,0.11,0.0,0.0,2,1.0,0.0,1.4,0,0,1,1.74,True,1.0,0.08,64.29,0.0,2.13,0.06,14.41,0.33,0.0,West Ham,False,Fulham,-3.42
+Kurt Zouma,West Ham,Fulham,2023-12-10,False,DC,63,0.0,0.0,0.0,0.0,0,0.0,0.0,0.6,0,0,4,1.54,True,1.0,0.1,64.12,0.0,2.13,0.06,14.41,0.33,5.0,West Ham,True,Wolverhampton,-1.49
+Kurt Zouma,West Ham,Wolverhampton,2023-12-17,True,DC,90,0.0,0.08,0.0,0.0,5,1.0,0.0,2.8,0,1,0,0.65,True,1.0,0.1,67.0,0.14,2.13,0.06,14.41,0.33,6.0,West Ham,True,Manchester United,-1.13
+Kurt Zouma,West Ham,Manchester United,2023-12-23,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.4,0,1,0,0.91,True,1.8,0.12,69.3,0.25,2.13,0.06,14.41,0.33,0.0,West Ham,False,Arsenal,2.21
+Kurt Zouma,West Ham,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.6,0.04,63.0,0.25,2.13,0.06,14.41,0.33,2.0,West Ham,True,Chelsea,-1.89
+Kurt Zouma,West Ham,Chelsea,2023-08-20,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.8,0,0,1,2.45,True,2.6,0.04,65.25,0.22,2.13,0.06,14.41,0.33,0.0,West Ham,True,Brighton,1.39
+Kurt Zouma,West Ham,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.6,0.02,60.23,0.22,2.13,0.06,14.41,0.33,1.0,West Ham,False,Sheffield,
+Kurt Zouma,West Ham,Sheffield,2024-01-21,False,DC,90,0.0,0.03,0.0,0.0,1,1.0,0.0,5.2,0,0,2,2.23,True,2.6,0.02,62.36,0.2,2.13,0.06,14.41,0.33,2.0,West Ham,True,Bournemouth,-2.69
+Kurt Zouma,West Ham,Bournemouth,2024-02-01,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.2,0,0,1,1.17,True,1.8,0.01,64.2,0.18,2.13,0.06,14.41,0.33,1.0,West Ham,False,Manchester United,2.04
+Kurt Zouma,West Ham,Manchester United,2024-02-04,False,DC,90,0.0,0.12,0.0,0.03,1,1.0,1.0,2.9,0,0,3,0.8,True,1.0,0.01,65.81,0.17,2.13,0.06,14.41,0.33,-1.0,West Ham,True,Arsenal,0.59
+Kurt Zouma,West Ham,Arsenal,2024-02-11,True,DC,45,0.0,0.0,0.0,0.0,-1,0.0,0.0,0.3,0,0,4,2.78,True,1.2,0.03,64.59,0.17,2.13,0.06,14.41,0.33,1.0,West Ham,False,Nottingham Forest,1.5
+Kurt Zouma,West Ham,Nottingham Forest,2024-02-17,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,1,2.43,True,0.6,0.03,66.0,0.15,2.13,0.06,14.41,0.33,1.0,West Ham,True,Brentford,3.72
+Kurt Zouma,West Ham,Brentford,2024-02-26,True,DC,90,0.0,0.02,0.0,0.0,1,1.0,0.0,3.6,0,0,2,1.12,True,0.8,0.03,67.26,0.14,2.13,0.06,14.41,0.33,8.0,West Ham,False,Everton,-0.01
+Kurt Zouma,West Ham,Everton,2024-03-02,False,DC,90,1.0,0.53,0.0,0.0,8,2.0,0.0,8.8,0,0,1,2.73,True,0.8,0.03,68.4,0.13,2.13,0.06,14.41,0.33,0.0,West Ham,True,Burnley,1.4
+Kurt Zouma,West Ham,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.13,65.14,0.13,2.13,0.06,14.41,0.33,2.0,West Ham,True,Aston Villa,
+Kurt Zouma,West Ham,Aston Villa,2024-03-17,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,0,1,0.63,True,1.8,0.11,66.27,0.12,2.13,0.06,14.41,0.33,2.0,West Ham,False,Brighton,-6.17
+Kurt Zouma,West Ham,Brighton,2023-08-26,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.2,0,0,1,1.52,True,2.4,0.11,67.3,0.12,2.13,0.06,14.41,0.33,0.0,West Ham,False,Newcastle United,-0.75
+Kurt Zouma,West Ham,Newcastle United,2024-03-30,False,DC,90,0.0,0.0,0.0,0.07,0,0.0,1.0,3.2,0,0,4,4.07,True,2.6,0.11,68.25,0.11,2.13,0.06,14.41,0.33,10.0,West Ham,True,Tottenham,-2.08
+Kurt Zouma,West Ham,Tottenham,2024-04-02,True,DC,90,1.0,0.5,0.0,0.0,10,1.0,0.0,8.0,2,0,1,0.96,True,2.4,0.11,69.12,0.11,2.13,0.06,14.41,0.33,2.0,West Ham,False,Wolverhampton,2.78
+Kurt Zouma,West Ham,Wolverhampton,2024-04-06,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.1,0,0,1,1.5,True,2.8,0.1,69.92,0.1,2.13,0.06,14.41,0.33,1.0,West Ham,True,Fulham,-5.99
+Kurt Zouma,West Ham,Fulham,2024-04-14,True,Sub,30,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,1.49,False,3.2,0.1,68.44,0.1,2.13,0.06,14.41,0.33,0.0,West Ham,False,Crystal Palace,
+Kurt Zouma,West Ham,Crystal Palace,2024-04-21,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.0,0,0,5,2.47,True,3.0,0.1,69.21,0.1,2.13,0.06,14.41,0.33,1.0,West Ham,True,Liverpool,-1.96
+Kurt Zouma,West Ham,Liverpool,2024-04-27,True,DC,90,0.0,0.02,0.0,0.04,1,1.0,1.0,3.8,0,0,2,1.75,True,2.6,0.1,69.93,0.09,2.13,0.06,14.41,0.33,0.0,West Ham,False,Chelsea,-1.22
+Kurt Zouma,West Ham,Chelsea,2024-05-05,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.7,0,0,5,4.13,True,2.8,0.1,70.6,0.09,2.13,0.06,14.41,0.33,2.0,West Ham,True,Luton,
+Kurt Zouma,West Ham,Luton,2024-05-11,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.7,0,0,1,0.42,True,0.8,0.0,71.23,0.08,2.13,0.06,14.41,0.33,1.0,West Ham,False,Manchester City,3.95
 Kurt Zouma,West Ham,Manchester City,2024-05-19,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,3,2.01,True,0.8,0.0,71.81,0.08,2.13,0.06,14.41,0.33,11.0,West Ham,False,Luton,0.92
-Kurt Zouma,West Ham,Luton,2023-09-01,False,DC,90,1.0,0.37,0.0,0.0,11,1.0,0.0,8.7,3,0,1,1.43,True,0.8,0.0,72.36,0.08,2.13,0.06,14.41,0.33,1.0,West Ham,True,Manchester City,1.25
-Kurt Zouma,West Ham,Manchester City,2023-09-16,True,DC,90,0.0,0.04,0.0,0.0,1,1.0,0.0,4.4,0,0,3,3.63,True,3.0,0.08,72.88,0.07,2.13,0.06,14.41,0.33,0.0,West Ham,False,Liverpool,0.54
+Kurt Zouma,West Ham,Luton,2023-09-01,False,DC,90,1.0,0.37,0.0,0.0,11,1.0,0.0,8.7,3,0,1,1.43,True,0.8,0.0,72.36,0.08,2.13,0.06,14.41,0.33,1.0,West Ham,True,Manchester City,2.35
+Kurt Zouma,West Ham,Manchester City,2023-09-16,True,DC,90,0.0,0.04,0.0,0.0,1,1.0,0.0,4.4,0,0,3,3.63,True,3.0,0.08,72.88,0.07,2.13,0.06,14.41,0.33,0.0,West Ham,False,Liverpool,0.49
 Kurt Zouma,West Ham,Liverpool,2023-09-24,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.7,0,0,3,3.06,True,3.0,0.08,73.37,0.07,2.13,0.06,14.41,0.33,7.0,West Ham,True,Sheffield,-1.28
-Kurt Zouma,West Ham,Sheffield,2023-09-30,True,DC,90,0.0,0.0,0.0,0.04,7,0.0,1.0,3.5,1,1,0,1.07,True,3.0,0.08,73.83,0.1,2.13,0.06,14.41,0.33,1.0,West Ham,True,Newcastle United,1.05
+Kurt Zouma,West Ham,Sheffield,2023-09-30,True,DC,90,0.0,0.0,0.0,0.04,7,0.0,1.0,3.5,1,1,0,1.07,True,3.0,0.08,73.83,0.1,2.13,0.06,14.41,0.33,1.0,West Ham,True,Newcastle United,-0.75
 Kurt Zouma,West Ham,Newcastle United,2023-10-08,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,2,1.95,True,4.0,0.08,74.27,0.1,2.13,0.06,14.41,0.33,0.0,West Ham,False,Aston Villa,-0.5
 Kurt Zouma,West Ham,Aston Villa,2023-10-22,False,DC,90,0.0,0.12,0.0,0.0,0,2.0,0.0,2.8,0,0,4,2.02,True,4.0,0.08,74.68,0.1,2.13,0.06,14.41,0.33,,,,,

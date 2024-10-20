@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Tom Cairney,Fulham,Liverpool,2022-08-06,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,0.0,0.0,1.0,0,0,0,0,0,1,Fulham,False,West Ham,1.35
-Tom Cairney,Fulham,West Ham,2022-10-09,False,Sub,19,0.0,0.06,0.0,0.0,1,1.0,0.0,2.5,0,0,1,False,1.0,0.0,10.0,0,0,0,0,0,1,Fulham,True,Bournemouth,-0.74
-Tom Cairney,Fulham,Bournemouth,2022-10-15,True,Sub,45,0.0,0.02,0.0,0.07,1,1.0,1.0,4.2,0,0,0,False,1.0,0.03,21.67,0,0,0,0,0,1,Fulham,True,Aston Villa,-0.63
-Tom Cairney,Fulham,Aston Villa,2022-10-20,True,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,1.0,0.03,20.5,0,0,0,0,0,1,Fulham,False,Leicester City,-2.72
-Tom Cairney,Fulham,Leicester City,2022-10-23,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,1.0,0.02,16.6,0,0,0,0,0,1,Fulham,True,Everton,0.79
-Tom Cairney,Fulham,Everton,2022-10-29,True,Sub,14,0.0,0.09,0.0,0.07,1,1.0,1.0,3.8,0,0,0,False,1.0,0.02,16.17,0,0,0,0,0,1,Fulham,False,Manchester City,1.5
-Tom Cairney,Fulham,Manchester City,2022-11-05,False,Sub,14,0.0,0.0,0.0,0.02,1,0.0,1.0,1.9,0,0,1,False,1.0,0.04,15.86,0,0,0,0,0,5,Fulham,True,Manchester United,1.36
-Tom Cairney,Fulham,Manchester United,2022-11-13,True,DMC,90,0.0,0.05,0.0,0.36,5,2.0,2.0,0.0,0,0,1,True,1.0,0.02,25.12,0,0,0,0,0,1,Fulham,False,Crystal Palace,-1.05
-Tom Cairney,Fulham,Crystal Palace,2022-12-26,False,Sub,15,0.0,0.17,0.0,0.0,1,2.0,0.0,5.0,0,0,0,False,1.8,0.03,24.0,0,0,0,0,0,1,Fulham,True,Southampton,-0.67
-Tom Cairney,Fulham,Southampton,2022-12-31,True,Sub,28,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,0,False,1.8,0.06,24.4,0,0,0,0,0,0,Fulham,False,Leeds United,-2.01
-Tom Cairney,Fulham,Leeds United,2023-01-03,False,Sub,31,0.0,0.0,0.0,0.55,0,0.0,1.0,1.9,0,0,0,False,1.8,0.06,25.0,0,0,0,0,0,1,Fulham,True,Chelsea,1.22
-Tom Cairney,Fulham,Chelsea,2023-01-12,True,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,False,1.6,0.04,24.75,0,0,0,0,0,1,Fulham,False,Wolverhampton,0.28
-Tom Cairney,Fulham,Wolverhampton,2022-08-13,False,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,1.6,0.04,23.15,0,0,0,0,0,1,Fulham,False,Newcastle United,1.64
-Tom Cairney,Fulham,Newcastle United,2023-01-15,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.8,0.03,21.57,0,0,0,0,0,1,Fulham,True,Tottenham,-0.89
-Tom Cairney,Fulham,Tottenham,2023-01-23,True,Sub,25,0.0,0.0,0.0,0.12,1,0.0,2.0,3.8,0,0,0,False,0.8,0.0,21.8,0,0,0,0,0,1,Fulham,False,Chelsea,0.71
-Tom Cairney,Fulham,Chelsea,2023-02-03,False,Sub,1,0.0,0.03,0.0,0.0,1,1.0,0.0,0.4,0,0,0,False,0.8,0.0,20.5,0,0,0,0,0,0,Fulham,True,Nottingham Forest,-3.99
-Tom Cairney,Fulham,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.01,19.29,0,0,0,0,0,0,Fulham,False,Brighton,-0.55
-Tom Cairney,Fulham,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.01,18.22,0,0,0,0,0,0,Fulham,True,Wolverhampton,0.52
-Tom Cairney,Fulham,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,17.26,0,0,0,0,0,0,Fulham,False,Brentford,0.07
-Tom Cairney,Fulham,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.01,16.4,0,0,0,0,0,0,Fulham,True,Arsenal,0.97
-Tom Cairney,Fulham,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.01,15.62,0,0,0,0,0,0,Fulham,False,Bournemouth,3.99
-Tom Cairney,Fulham,Bournemouth,2023-04-01,False,Sub,21,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,1,False,0.0,0.0,15.86,0,0,0,0,0,1,Fulham,True,Brentford,1.56
-Tom Cairney,Fulham,Brentford,2022-08-20,True,Sub,13,0.0,0.0,0.0,0.29,1,0.0,1.0,1.4,0,0,0,False,0.0,0.0,15.74,0,0,0,0,0,1,Fulham,True,West Ham,-0.79
-Tom Cairney,Fulham,West Ham,2023-04-08,True,Sub,45,0.0,0.03,0.0,0.0,1,1.0,0.0,1.5,0,0,0,False,0.2,0.0,16.96,0,0,0,0,0,1,Fulham,False,Everton,-0.93
-Tom Cairney,Fulham,Everton,2023-04-15,False,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,0.4,0.01,16.72,0,0,0,0,0,1,Fulham,True,Leicester City,-2.18
-Tom Cairney,Fulham,Leicester City,2023-04-22,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.6,0.01,16.23,0,0,0,0,0,1,Fulham,False,Aston Villa,2.57
-Tom Cairney,Fulham,Aston Villa,2023-04-25,False,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,0,False,0.8,0.01,16.44,0,0,0,0,0,1,Fulham,True,Manchester City,2.68
-Tom Cairney,Fulham,Manchester City,2023-04-30,True,Sub,32,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,0,False,1.0,0.01,17.0,0,0,0,0,0,2,Fulham,False,Liverpool,0.28
-Tom Cairney,Fulham,Liverpool,2023-05-03,False,AMC,71,0.0,0.0,0.0,0.0,2,0.0,0.0,0.3,0,0,1,True,1.0,0.01,18.86,0,0,0,0,0,14,Fulham,True,Leeds United,0.24
-Tom Cairney,Fulham,Leeds United,2023-05-08,True,AMC,81,2.0,0.57,0.0,0.0,14,3.0,0.0,11.8,2,0,2,True,1.2,0.0,20.93,0,0,0,0,0,3,Fulham,False,Southampton,-1.16
-Tom Cairney,Fulham,Southampton,2023-05-13,False,AMC,68,0.0,0.08,0.0,0.0,3,2.0,0.0,1.8,0,1,0,True,3.8,0.11,22.45,0,0,0,0,0,2,Fulham,True,Crystal Palace,0.27
-Tom Cairney,Fulham,Crystal Palace,2023-05-20,True,AMC,79,0.0,0.12,0.0,0.13,2,2.0,2.0,4.7,0,0,1,True,4.2,0.13,24.22,0,0,0,0,0,2,Fulham,False,Manchester United,0.13
-Tom Cairney,Fulham,Manchester United,2023-05-28,False,AMC,79,0.0,0.16,0.0,0.0,2,2.0,0.0,0.0,0,0,2,True,4.4,0.15,25.88,0,0,0,0,0,1,Fulham,False,Arsenal,-0.68
-Tom Cairney,Fulham,Arsenal,2022-08-27,False,Sub,21,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,False,4.6,0.18,25.74,0,0,0,0,0,1,Fulham,True,Brighton,-2.78
-Tom Cairney,Fulham,Brighton,2022-08-30,True,Sub,12,0.0,0.08,0.0,0.0,1,1.0,0.0,0.6,0,0,0,False,4.4,0.18,25.34,0,0,0,0,0,1,Fulham,False,Tottenham,1.6
-Tom Cairney,Fulham,Tottenham,2022-09-03,False,Sub,29,0.0,0.06,0.0,0.02,1,1.0,1.0,3.5,0,0,1,False,1.8,0.09,25.44,0,0,0,0,0,1,Fulham,False,Nottingham Forest,1.93
-Tom Cairney,Fulham,Nottingham Forest,2022-09-16,False,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,1.4,0.08,24.95,0,0,0,0,0,1,Fulham,True,Newcastle United,3.13
-Tom Cairney,Fulham,Newcastle United,2022-10-01,True,Sub,45,0.0,0.04,0.0,0.0,1,1.0,0.0,1.0,0,0,1,False,1.2,0.06,25.47,0,0,0,0,0,1,Fulham,False,Everton,-0.93
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Tom Cairney,Fulham,Liverpool,2022-08-06,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,0.0,0.0,1.0,0,0,0,0,0,1,Fulham,False,West Ham,
+Tom Cairney,Fulham,West Ham,2022-10-09,False,Sub,19,0.0,0.06,0.0,0.0,1,1.0,0.0,2.5,0,0,1,False,1.0,0.0,10.0,0,0,0,0,0,1,Fulham,True,Bournemouth,
+Tom Cairney,Fulham,Bournemouth,2022-10-15,True,Sub,45,0.0,0.02,0.0,0.07,1,1.0,1.0,4.2,0,0,0,False,1.0,0.03,21.67,0,0,0,0,0,1,Fulham,True,Aston Villa,
+Tom Cairney,Fulham,Aston Villa,2022-10-20,True,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,1.0,0.03,20.5,0,0,0,0,0,1,Fulham,False,Leicester City,
+Tom Cairney,Fulham,Leicester City,2022-10-23,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,1.0,0.02,16.6,0,0,0,0,0,1,Fulham,True,Everton,
+Tom Cairney,Fulham,Everton,2022-10-29,True,Sub,14,0.0,0.09,0.0,0.07,1,1.0,1.0,3.8,0,0,0,False,1.0,0.02,16.17,0,0,0,0,0,1,Fulham,False,Manchester City,
+Tom Cairney,Fulham,Manchester City,2022-11-05,False,Sub,14,0.0,0.0,0.0,0.02,1,0.0,1.0,1.9,0,0,1,False,1.0,0.04,15.86,0,0,0,0,0,5,Fulham,True,Manchester United,
+Tom Cairney,Fulham,Manchester United,2022-11-13,True,DMC,90,0.0,0.05,0.0,0.36,5,2.0,2.0,0.0,0,0,1,True,1.0,0.02,25.12,0,0,0,0,0,1,Fulham,False,Crystal Palace,
+Tom Cairney,Fulham,Crystal Palace,2022-12-26,False,Sub,15,0.0,0.17,0.0,0.0,1,2.0,0.0,5.0,0,0,0,False,1.8,0.03,24.0,0,0,0,0,0,1,Fulham,True,Southampton,
+Tom Cairney,Fulham,Southampton,2022-12-31,True,Sub,28,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,0,False,1.8,0.06,24.4,0,0,0,0,0,0,Fulham,False,Leeds United,
+Tom Cairney,Fulham,Leeds United,2023-01-03,False,Sub,31,0.0,0.0,0.0,0.55,0,0.0,1.0,1.9,0,0,0,False,1.8,0.06,25.0,0,0,0,0,0,1,Fulham,True,Chelsea,
+Tom Cairney,Fulham,Chelsea,2023-01-12,True,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,False,1.6,0.04,24.75,0,0,0,0,0,1,Fulham,False,Wolverhampton,
+Tom Cairney,Fulham,Wolverhampton,2022-08-13,False,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,1.6,0.04,23.15,0,0,0,0,0,1,Fulham,False,Newcastle United,
+Tom Cairney,Fulham,Newcastle United,2023-01-15,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.8,0.03,21.57,0,0,0,0,0,1,Fulham,True,Tottenham,
+Tom Cairney,Fulham,Tottenham,2023-01-23,True,Sub,25,0.0,0.0,0.0,0.12,1,0.0,2.0,3.8,0,0,0,False,0.8,0.0,21.8,0,0,0,0,0,1,Fulham,False,Chelsea,
+Tom Cairney,Fulham,Chelsea,2023-02-03,False,Sub,1,0.0,0.03,0.0,0.0,1,1.0,0.0,0.4,0,0,0,False,0.8,0.0,20.5,0,0,0,0,0,0,Fulham,True,Nottingham Forest,
+Tom Cairney,Fulham,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.01,19.29,0,0,0,0,0,0,Fulham,False,Brighton,
+Tom Cairney,Fulham,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.01,18.22,0,0,0,0,0,0,Fulham,True,Wolverhampton,
+Tom Cairney,Fulham,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,17.26,0,0,0,0,0,0,Fulham,False,Brentford,
+Tom Cairney,Fulham,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.01,16.4,0,0,0,0,0,0,Fulham,True,Arsenal,
+Tom Cairney,Fulham,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.01,15.62,0,0,0,0,0,0,Fulham,False,Bournemouth,
+Tom Cairney,Fulham,Bournemouth,2023-04-01,False,Sub,21,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,1,False,0.0,0.0,15.86,0,0,0,0,0,1,Fulham,True,Brentford,-2.09
+Tom Cairney,Fulham,Brentford,2022-08-20,True,Sub,13,0.0,0.0,0.0,0.29,1,0.0,1.0,1.4,0,0,0,False,0.0,0.0,15.74,0,0,0,0,0,1,Fulham,True,West Ham,
+Tom Cairney,Fulham,West Ham,2023-04-08,True,Sub,45,0.0,0.03,0.0,0.0,1,1.0,0.0,1.5,0,0,0,False,0.2,0.0,16.96,0,0,0,0,0,1,Fulham,False,Everton,
+Tom Cairney,Fulham,Everton,2023-04-15,False,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,0.4,0.01,16.72,0,0,0,0,0,1,Fulham,True,Leicester City,
+Tom Cairney,Fulham,Leicester City,2023-04-22,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.6,0.01,16.23,0,0,0,0,0,1,Fulham,False,Aston Villa,
+Tom Cairney,Fulham,Aston Villa,2023-04-25,False,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,0,False,0.8,0.01,16.44,0,0,0,0,0,1,Fulham,True,Manchester City,
+Tom Cairney,Fulham,Manchester City,2023-04-30,True,Sub,32,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,0,False,1.0,0.01,17.0,0,0,0,0,0,2,Fulham,False,Liverpool,
+Tom Cairney,Fulham,Liverpool,2023-05-03,False,AMC,71,0.0,0.0,0.0,0.0,2,0.0,0.0,0.3,0,0,1,True,1.0,0.01,18.86,0,0,0,0,0,14,Fulham,True,Leeds United,
+Tom Cairney,Fulham,Leeds United,2023-05-08,True,AMC,81,2.0,0.57,0.0,0.0,14,3.0,0.0,11.8,2,0,2,True,1.2,0.0,20.93,0,0,0,0,0,3,Fulham,False,Southampton,
+Tom Cairney,Fulham,Southampton,2023-05-13,False,AMC,68,0.0,0.08,0.0,0.0,3,2.0,0.0,1.8,0,1,0,True,3.8,0.11,22.45,0,0,0,0,0,2,Fulham,True,Crystal Palace,
+Tom Cairney,Fulham,Crystal Palace,2023-05-20,True,AMC,79,0.0,0.12,0.0,0.13,2,2.0,2.0,4.7,0,0,1,True,4.2,0.13,24.22,0,0,0,0,0,2,Fulham,False,Manchester United,
+Tom Cairney,Fulham,Manchester United,2023-05-28,False,AMC,79,0.0,0.16,0.0,0.0,2,2.0,0.0,0.0,0,0,2,True,4.4,0.15,25.88,0,0,0,0,0,1,Fulham,False,Arsenal,0.0
+Tom Cairney,Fulham,Arsenal,2022-08-27,False,Sub,21,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,False,4.6,0.18,25.74,0,0,0,0,0,1,Fulham,True,Brighton,-0.52
+Tom Cairney,Fulham,Brighton,2022-08-30,True,Sub,12,0.0,0.08,0.0,0.0,1,1.0,0.0,0.6,0,0,0,False,4.4,0.18,25.34,0,0,0,0,0,1,Fulham,False,Tottenham,1.23
+Tom Cairney,Fulham,Tottenham,2022-09-03,False,Sub,29,0.0,0.06,0.0,0.02,1,1.0,1.0,3.5,0,0,1,False,1.8,0.09,25.44,0,0,0,0,0,1,Fulham,False,Nottingham Forest,-0.51
+Tom Cairney,Fulham,Nottingham Forest,2022-09-16,False,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,1.4,0.08,24.95,0,0,0,0,0,1,Fulham,True,Newcastle United,3.93
+Tom Cairney,Fulham,Newcastle United,2022-10-01,True,Sub,45,0.0,0.04,0.0,0.0,1,1.0,0.0,1.0,0,0,1,False,1.2,0.06,25.47,0,0,0,0,0,1,Fulham,False,Everton,

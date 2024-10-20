@@ -1,22 +1,22 @@
-name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Matheus Santos Carneiro Da Cunha,Wolves,Aston Villa,False,24,1,1.8,0,False,2.0,Wolves,True,West Ham,-1.01
-Matheus Santos Carneiro Da Cunha,Wolves,West Ham,True,63,2,1.3,0,True,1.0,Wolves,False,Manchester City,3.31
-Matheus Santos Carneiro Da Cunha,Wolves,Manchester City,False,45,1,2.7,0,False,1.0,Wolves,True,Liverpool,-2.02
-Matheus Santos Carneiro Da Cunha,Wolves,Liverpool,True,59,1,2.6,0,True,1.0,Wolves,False,Southampton,-2.53
-Matheus Santos Carneiro Da Cunha,Wolves,Southampton,False,58,1,0.1,0,True,2.0,Wolves,True,Bournemouth,2.85
-Matheus Santos Carneiro Da Cunha,Wolves,Bournemouth,True,69,2,6.0,0,True,1.0,Wolves,False,Fulham,-1.47
-Matheus Santos Carneiro Da Cunha,Wolves,Fulham,False,59,1,1.8,0,True,0.0,Wolves,False,Liverpool,1.68
-Matheus Santos Carneiro Da Cunha,Wolves,Liverpool,False,0,0,0.0,0,False,1.0,Wolves,True,Tottenham,-0.94
-Matheus Santos Carneiro Da Cunha,Wolves,Tottenham,True,23,1,0.3,0,False,0.0,Wolves,False,Newcastle United,2.58
-Matheus Santos Carneiro Da Cunha,Wolves,Newcastle United,False,0,0,0.0,0,False,8.0,Wolves,True,Leicester City,1.65
-Matheus Santos Carneiro Da Cunha,Wolves,Leicester City,True,33,8,6.8,3,False,2.0,Wolves,False,Nottingham Forest,0.01
-Matheus Santos Carneiro Da Cunha,Wolves,Nottingham Forest,False,80,2,1.4,0,True,2.0,Wolves,True,Chelsea,-2.49
-Matheus Santos Carneiro Da Cunha,Wolves,Chelsea,True,74,2,3.3,0,True,2.0,Wolves,True,Brentford,1.37
-Matheus Santos Carneiro Da Cunha,Wolves,Brentford,True,88,2,4.2,0,True,8.0,Wolves,False,Leeds United,1.57
-Matheus Santos Carneiro Da Cunha,Wolves,Leeds United,False,90,8,7.8,3,True,2.0,Wolves,True,Crystal Palace,0.91
-Matheus Santos Carneiro Da Cunha,Wolves,Crystal Palace,True,67,2,0.3,0,True,0.0,Wolves,False,Brighton,0.59
-Matheus Santos Carneiro Da Cunha,Wolves,Brighton,False,0,0,0.0,0,False,2.0,Wolves,True,Aston Villa,-1.57
-Matheus Santos Carneiro Da Cunha,Wolves,Aston Villa,True,67,2,2.2,0,True,2.0,Wolves,False,Manchester United,0.79
-Matheus Santos Carneiro Da Cunha,Wolves,Manchester United,False,60,2,1.1,0,True,1.0,Wolves,True,Everton,-2.28
-Matheus Santos Carneiro Da Cunha,Wolves,Everton,True,2,1,1.4,0,False,0.0,Wolves,False,Arsenal,1.72
+name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Matheus Santos Carneiro Da Cunha,Wolves,Aston Villa,False,24,1,1.8,0,False,2.0,Wolves,True,West Ham,-2.69
+Matheus Santos Carneiro Da Cunha,Wolves,West Ham,True,63,2,1.3,0,True,1.0,Wolves,False,Manchester City,-0.09
+Matheus Santos Carneiro Da Cunha,Wolves,Manchester City,False,45,1,2.7,0,False,1.0,Wolves,True,Liverpool,0.37
+Matheus Santos Carneiro Da Cunha,Wolves,Liverpool,True,59,1,2.6,0,True,1.0,Wolves,False,Southampton,-2.8
+Matheus Santos Carneiro Da Cunha,Wolves,Southampton,False,58,1,0.1,0,True,2.0,Wolves,True,Bournemouth,
+Matheus Santos Carneiro Da Cunha,Wolves,Bournemouth,True,69,2,6.0,0,True,1.0,Wolves,False,Fulham,
+Matheus Santos Carneiro Da Cunha,Wolves,Fulham,False,59,1,1.8,0,True,0.0,Wolves,False,Liverpool,0.91
+Matheus Santos Carneiro Da Cunha,Wolves,Liverpool,False,0,0,0.0,0,False,1.0,Wolves,True,Tottenham,2.05
+Matheus Santos Carneiro Da Cunha,Wolves,Tottenham,True,23,1,0.3,0,False,0.0,Wolves,False,Newcastle United,3.01
+Matheus Santos Carneiro Da Cunha,Wolves,Newcastle United,False,0,0,0.0,0,False,8.0,Wolves,True,Leicester City,2.07
+Matheus Santos Carneiro Da Cunha,Wolves,Leicester City,True,33,8,6.8,3,False,2.0,Wolves,False,Nottingham Forest,
+Matheus Santos Carneiro Da Cunha,Wolves,Nottingham Forest,False,80,2,1.4,0,True,2.0,Wolves,True,Chelsea,-1.03
+Matheus Santos Carneiro Da Cunha,Wolves,Chelsea,True,74,2,3.3,0,True,2.0,Wolves,True,Brentford,3.23
+Matheus Santos Carneiro Da Cunha,Wolves,Brentford,True,88,2,4.2,0,True,8.0,Wolves,False,Leeds United,0.21
+Matheus Santos Carneiro Da Cunha,Wolves,Leeds United,False,90,8,7.8,3,True,2.0,Wolves,True,Crystal Palace,4.57
+Matheus Santos Carneiro Da Cunha,Wolves,Crystal Palace,True,67,2,0.3,0,True,0.0,Wolves,False,Brighton,-1.83
+Matheus Santos Carneiro Da Cunha,Wolves,Brighton,False,0,0,0.0,0,False,2.0,Wolves,True,Aston Villa,-1.69
+Matheus Santos Carneiro Da Cunha,Wolves,Aston Villa,True,67,2,2.2,0,True,2.0,Wolves,False,Manchester United,-0.63
+Matheus Santos Carneiro Da Cunha,Wolves,Manchester United,False,60,2,1.1,0,True,1.0,Wolves,True,Everton,-1.31
+Matheus Santos Carneiro Da Cunha,Wolves,Everton,True,2,1,1.4,0,False,0.0,Wolves,False,Arsenal,-0.05
 Matheus Santos Carneiro Da Cunha,Wolves,Arsenal,False,0,0,0.0,0,False,,Sheffield Utd,True,Brighton,

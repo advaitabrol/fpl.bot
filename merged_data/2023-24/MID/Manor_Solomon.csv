@@ -1,36 +1,36 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Manor Solomon,Spurs,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Crystal Palace,0.96
-Manor Solomon,Spurs,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Chelsea,2.8
-Manor Solomon,Spurs,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Wolverhampton,0.79
-Manor Solomon,Spurs,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Aston Villa,1.75
-Manor Solomon,Spurs,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Manchester City,-0.2
-Manor Solomon,Spurs,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,West Ham,0.26
-Manor Solomon,Spurs,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Newcastle United,-2.91
-Manor Solomon,Spurs,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Nottingham Forest,-3.55
-Manor Solomon,Spurs,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Everton,-2.75
-Manor Solomon,Spurs,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Brighton,0.26
-Manor Solomon,Spurs,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,1.0,Spurs,True,Manchester United,-0.02
-Manor Solomon,Spurs,Manchester United,2023-08-19,True,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,0.0,0.0,0.17,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Bournemouth,-1.78
-Manor Solomon,Spurs,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.15,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Manchester United,2.48
-Manor Solomon,Spurs,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.14,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Brentford,-1.31
-Manor Solomon,Spurs,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.13,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Everton,0.55
-Manor Solomon,Spurs,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.12,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Brighton,-0.2
-Manor Solomon,Spurs,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.12,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Wolverhampton,2.72
-Manor Solomon,Spurs,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.11,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Crystal Palace,-2.03
-Manor Solomon,Spurs,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.11,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Aston Villa,-2.16
-Manor Solomon,Spurs,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.1,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Fulham,1.2
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Manor Solomon,Spurs,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Crystal Palace,1.4
+Manor Solomon,Spurs,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Chelsea,1.57
+Manor Solomon,Spurs,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Wolverhampton,0.08
+Manor Solomon,Spurs,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Aston Villa,1.17
+Manor Solomon,Spurs,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Manchester City,-0.49
+Manor Solomon,Spurs,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,West Ham,-1.74
+Manor Solomon,Spurs,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Newcastle United,-1.88
+Manor Solomon,Spurs,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Nottingham Forest,-5.2
+Manor Solomon,Spurs,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Everton,-3.67
+Manor Solomon,Spurs,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Brighton,-2.31
+Manor Solomon,Spurs,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,0.0,1.04,0.33,0.08,1.0,Spurs,True,Manchester United,1.18
+Manor Solomon,Spurs,Manchester United,2023-08-19,True,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,0.0,0.0,0.17,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Bournemouth,-0.25
+Manor Solomon,Spurs,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.15,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Manchester United,3.47
+Manor Solomon,Spurs,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.14,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Brentford,-1.06
+Manor Solomon,Spurs,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.13,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Everton,-0.31
+Manor Solomon,Spurs,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.12,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Brighton,0.56
+Manor Solomon,Spurs,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.12,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Wolverhampton,2.48
+Manor Solomon,Spurs,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.11,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Crystal Palace,-2.5
+Manor Solomon,Spurs,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.11,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Aston Villa,-1.56
+Manor Solomon,Spurs,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.1,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Fulham,-1.25
 Manor Solomon,Spurs,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.1,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Bournemouth,-2.08
-Manor Solomon,Spurs,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.09,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Luton,-0.34
-Manor Solomon,Spurs,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.09,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,West Ham,2.47
-Manor Solomon,Spurs,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.08,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Nottingham Forest,-0.6
-Manor Solomon,Spurs,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.08,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Newcastle United,4.3
-Manor Solomon,Spurs,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.08,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Arsenal,-0.34
-Manor Solomon,Spurs,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.07,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Chelsea,1.82
-Manor Solomon,Spurs,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.07,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Liverpool,0.68
-Manor Solomon,Spurs,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.07,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Burnley,-1.38
-Manor Solomon,Spurs,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.07,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Manchester City,-0.27
-Manor Solomon,Spurs,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.06,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Sheffield,-2.16
-Manor Solomon,Spurs,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.06,4.0,0.0,1.04,0.33,0.08,10.0,Spurs,False,Burnley,0.34
+Manor Solomon,Spurs,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.09,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Luton,
+Manor Solomon,Spurs,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.09,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,West Ham,2.68
+Manor Solomon,Spurs,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.08,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Nottingham Forest,
+Manor Solomon,Spurs,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.08,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Newcastle United,0.79
+Manor Solomon,Spurs,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.08,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Arsenal,0.83
+Manor Solomon,Spurs,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.07,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Chelsea,-2.17
+Manor Solomon,Spurs,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.07,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Liverpool,
+Manor Solomon,Spurs,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.07,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Burnley,
+Manor Solomon,Spurs,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.07,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,True,Manchester City,-0.19
+Manor Solomon,Spurs,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.06,4.0,0.0,1.04,0.33,0.08,0.0,Spurs,False,Sheffield,
+Manor Solomon,Spurs,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.06,4.0,0.0,1.04,0.33,0.08,10.0,Spurs,False,Burnley,-3.2
 Manor Solomon,Spurs,Burnley,2023-09-02,False,AML,67,0.0,0.12,2.0,0.68,10,2.0,5.0,12.7,2,0,1,True,0.0,0.0,2.09,4.0,0.0,1.04,0.33,0.08,1.0,Spurs,True,Sheffield,-0.02
 Manor Solomon,Spurs,Sheffield,2023-09-16,True,AML,79,0.0,0.24,0.0,0.2,1,4.0,4.0,8.3,0,0,1,True,2.0,0.42,4.35,4.0,0.0,1.04,0.33,0.08,1.0,Spurs,False,Arsenal,1.92
 Manor Solomon,Spurs,Arsenal,2023-09-24,False,Sub,27,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,2.2,0.47,5.0,4.0,0.0,1.04,0.33,0.08,1.0,Spurs,True,Liverpool,-0.19

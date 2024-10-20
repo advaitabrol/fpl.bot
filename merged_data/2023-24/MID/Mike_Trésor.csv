@@ -1,36 +1,36 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Mike Trésor,Burnley,Bournemouth,2023-10-28,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,9.0,0,0,0,0,0,1.0,Burnley,True,Crystal Palace,1.35
-Mike Trésor,Burnley,Crystal Palace,2023-11-04,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,False,1.0,0.0,6.5,0,0,0,0,0,0.0,Burnley,False,Arsenal,0.24
-Mike Trésor,Burnley,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,4.33,0,0,0,0,0,0.0,Burnley,True,West Ham,-0.08
-Mike Trésor,Burnley,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.67,0.0,3.25,0,0,0,0,0,1.0,Burnley,True,Sheffield,-6.23
-Mike Trésor,Burnley,Sheffield,2023-12-02,True,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,False,0.5,0.0,5.4,0,0,0,0,0,1.0,Burnley,False,Wolverhampton,0.3
-Mike Trésor,Burnley,Wolverhampton,2023-12-05,False,Sub,20,0.0,0.06,0.0,0.0,1,1.0,0.0,1.1,0,0,0,False,0.6,0.0,7.83,0,0,0,0,0,1.0,Burnley,False,Brighton,-4.46
-Mike Trésor,Burnley,Brighton,2023-12-09,False,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,0.6,0.01,8.43,0,0,0,0,0,1.0,Burnley,True,Everton,1.09
-Mike Trésor,Burnley,Everton,2023-12-16,True,Sub,3,0.0,0.01,0.0,0.0,1,1.0,0.0,0.1,0,0,0,False,0.6,0.01,7.75,0,0,0,0,0,1.0,Burnley,False,Fulham,-2.75
-Mike Trésor,Burnley,Fulham,2023-12-23,False,Sub,43,0.0,0.0,0.0,0.16,1,0.0,2.0,3.5,0,0,0,False,0.8,0.01,11.67,0,0,0,0,0,2.0,Burnley,True,Liverpool,0.6
-Mike Trésor,Burnley,Liverpool,2023-12-26,True,ML,60,0.0,0.0,0.0,0.01,2,0.0,1.0,2.5,0,0,1,True,1.0,0.01,16.5,0,0,0,0,0,1.0,Burnley,False,Aston Villa,-1.62
-Mike Trésor,Burnley,Aston Villa,2023-12-30,False,Sub,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,False,1.2,0.01,16.45,0,0,0,0,0,1.0,Burnley,True,Luton,-2.04
-Mike Trésor,Burnley,Luton,2024-01-12,True,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,False,1.2,0.0,15.67,0,0,0,0,0,0.0,Burnley,False,Manchester City,0.91
-Mike Trésor,Burnley,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.0,14.46,0,0,0,0,0,0.0,Burnley,True,Fulham,-1.12
-Mike Trésor,Burnley,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,13.43,0,0,0,0,0,0.0,Burnley,False,Liverpool,2.65
-Mike Trésor,Burnley,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.0,12.53,0,0,0,0,0,0.0,Burnley,True,Arsenal,3.02
-Mike Trésor,Burnley,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,11.75,0,0,0,0,0,0.0,Burnley,False,Crystal Palace,2.27
-Mike Trésor,Burnley,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,11.06,0,0,0,0,0,0.0,Burnley,True,Bournemouth,2.12
-Mike Trésor,Burnley,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,10.44,0,0,0,0,0,0.0,Burnley,False,West Ham,0.48
-Mike Trésor,Burnley,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,9.89,0,0,0,0,0,0.0,Burnley,True,Brentford,-4.37
-Mike Trésor,Burnley,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,9.4,0,0,0,0,0,0.0,Burnley,False,Chelsea,-0.08
-Mike Trésor,Burnley,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.95,0,0,0,0,0,0.0,Burnley,True,Wolverhampton,-1.75
-Mike Trésor,Burnley,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.55,0,0,0,0,0,0.0,Burnley,False,Everton,1.47
-Mike Trésor,Burnley,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.17,0,0,0,0,0,1.0,Burnley,True,Brighton,-1.01
-Mike Trésor,Burnley,Brighton,2024-04-13,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,0.0,0.0,8.0,0,0,0,0,0,0.0,Burnley,False,Sheffield,-4.75
-Mike Trésor,Burnley,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,7.68,0,0,0,0,0,0.0,Burnley,False,Manchester United,2.09
-Mike Trésor,Burnley,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,7.38,0,0,0,0,0,0.0,Burnley,True,Newcastle United,1.92
-Mike Trésor,Burnley,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,7.11,0,0,0,0,0,1.0,Burnley,False,Tottenham,1.68
-Mike Trésor,Burnley,Tottenham,2024-05-11,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,False,0.2,0.0,7.18,0,0,0,0,0,0.0,Burnley,True,Nottingham Forest,2.96
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Mike Trésor,Burnley,Bournemouth,2023-10-28,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,9.0,0,0,0,0,0,1.0,Burnley,True,Crystal Palace,0.07
+Mike Trésor,Burnley,Crystal Palace,2023-11-04,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,False,1.0,0.0,6.5,0,0,0,0,0,0.0,Burnley,False,Arsenal,-1.08
+Mike Trésor,Burnley,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,4.33,0,0,0,0,0,0.0,Burnley,True,West Ham,-0.48
+Mike Trésor,Burnley,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.67,0.0,3.25,0,0,0,0,0,1.0,Burnley,True,Sheffield,
+Mike Trésor,Burnley,Sheffield,2023-12-02,True,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,False,0.5,0.0,5.4,0,0,0,0,0,1.0,Burnley,False,Wolverhampton,0.24
+Mike Trésor,Burnley,Wolverhampton,2023-12-05,False,Sub,20,0.0,0.06,0.0,0.0,1,1.0,0.0,1.1,0,0,0,False,0.6,0.0,7.83,0,0,0,0,0,1.0,Burnley,False,Brighton,-6.77
+Mike Trésor,Burnley,Brighton,2023-12-09,False,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,0.6,0.01,8.43,0,0,0,0,0,1.0,Burnley,True,Everton,-1.19
+Mike Trésor,Burnley,Everton,2023-12-16,True,Sub,3,0.0,0.01,0.0,0.0,1,1.0,0.0,0.1,0,0,0,False,0.6,0.01,7.75,0,0,0,0,0,1.0,Burnley,False,Fulham,
+Mike Trésor,Burnley,Fulham,2023-12-23,False,Sub,43,0.0,0.0,0.0,0.16,1,0.0,2.0,3.5,0,0,0,False,0.8,0.01,11.67,0,0,0,0,0,2.0,Burnley,True,Liverpool,1.07
+Mike Trésor,Burnley,Liverpool,2023-12-26,True,ML,60,0.0,0.0,0.0,0.01,2,0.0,1.0,2.5,0,0,1,True,1.0,0.01,16.5,0,0,0,0,0,1.0,Burnley,False,Aston Villa,-2.94
+Mike Trésor,Burnley,Aston Villa,2023-12-30,False,Sub,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,False,1.2,0.01,16.45,0,0,0,0,0,1.0,Burnley,True,Luton,
+Mike Trésor,Burnley,Luton,2024-01-12,True,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,False,1.2,0.0,15.67,0,0,0,0,0,0.0,Burnley,False,Manchester City,1.29
+Mike Trésor,Burnley,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.0,14.46,0,0,0,0,0,0.0,Burnley,True,Fulham,
+Mike Trésor,Burnley,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,13.43,0,0,0,0,0,0.0,Burnley,False,Liverpool,3.66
+Mike Trésor,Burnley,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.0,12.53,0,0,0,0,0,0.0,Burnley,True,Arsenal,2.1
+Mike Trésor,Burnley,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,11.75,0,0,0,0,0,0.0,Burnley,False,Crystal Palace,1.42
+Mike Trésor,Burnley,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,11.06,0,0,0,0,0,0.0,Burnley,True,Bournemouth,
+Mike Trésor,Burnley,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,10.44,0,0,0,0,0,0.0,Burnley,False,West Ham,-0.06
+Mike Trésor,Burnley,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,9.89,0,0,0,0,0,0.0,Burnley,True,Brentford,-6.41
+Mike Trésor,Burnley,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,9.4,0,0,0,0,0,0.0,Burnley,False,Chelsea,1.09
+Mike Trésor,Burnley,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.95,0,0,0,0,0,0.0,Burnley,True,Wolverhampton,
+Mike Trésor,Burnley,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.55,0,0,0,0,0,0.0,Burnley,False,Everton,2.03
+Mike Trésor,Burnley,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.17,0,0,0,0,0,1.0,Burnley,True,Brighton,-0.51
+Mike Trésor,Burnley,Brighton,2024-04-13,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,0.0,0.0,8.0,0,0,0,0,0,0.0,Burnley,False,Sheffield,
+Mike Trésor,Burnley,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,7.68,0,0,0,0,0,0.0,Burnley,False,Manchester United,4.49
+Mike Trésor,Burnley,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,7.38,0,0,0,0,0,0.0,Burnley,True,Newcastle United,
+Mike Trésor,Burnley,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,7.11,0,0,0,0,0,1.0,Burnley,False,Tottenham,
+Mike Trésor,Burnley,Tottenham,2024-05-11,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,False,0.2,0.0,7.18,0,0,0,0,0,0.0,Burnley,True,Nottingham Forest,
 Mike Trésor,Burnley,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,6.93,0,0,0,0,0,1.0,Burnley,False,Nottingham Forest,-1.33
-Mike Trésor,Burnley,Nottingham Forest,2023-09-18,False,Sub,14,0.0,0.05,0.0,0.37,1,1.0,1.0,1.9,0,0,0,False,0.2,0.0,7.17,0,0,0,0,0,2.0,Burnley,True,Manchester United,-0.19
+Mike Trésor,Burnley,Nottingham Forest,2023-09-18,False,Sub,14,0.0,0.05,0.0,0.37,1,1.0,1.0,1.9,0,0,0,False,0.2,0.0,7.17,0,0,0,0,0,2.0,Burnley,True,Manchester United,0.22
 Mike Trésor,Burnley,Manchester United,2023-09-23,True,Sub,70,0.0,0.0,0.0,0.04,2,0.0,1.0,2.5,0,0,1,False,0.4,0.01,9.19,0,0,0,0,0,0.0,Burnley,False,Newcastle United,3.29
 Mike Trésor,Burnley,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.01,8.91,0,0,0,0,0,0.0,Burnley,False,Luton,-0.73
-Mike Trésor,Burnley,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.01,8.64,0,0,0,0,0,2.0,Burnley,True,Chelsea,3.83
-Mike Trésor,Burnley,Chelsea,2023-10-07,True,FWR,60,0.0,0.48,0.0,0.0,2,1.0,0.0,1.1,0,0,2,True,0.6,0.01,10.15,0,0,0,0,0,2.0,Burnley,False,Brentford,3.5
+Mike Trésor,Burnley,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.01,8.64,0,0,0,0,0,2.0,Burnley,True,Chelsea,1.56
+Mike Trésor,Burnley,Chelsea,2023-10-07,True,FWR,60,0.0,0.48,0.0,0.0,2,1.0,0.0,1.1,0,0,2,True,0.6,0.01,10.15,0,0,0,0,0,2.0,Burnley,False,Brentford,2.95
 Mike Trésor,Burnley,Brentford,2023-10-21,False,AMR,65,0.0,0.07,0.0,0.07,2,1.0,2.0,3.3,0,0,2,True,1.0,0.11,11.71,0,0,0,0,0,,,,,

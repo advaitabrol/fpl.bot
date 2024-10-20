@@ -1,4 +1,4 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
 Timothy Castagne,Leicester,Brentford,2022-08-07,True,DMR,90,1.0,0.06,0.0,0.0,8,1.0,0.0,9.9,1,0,2,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,7,Leicester,False,Bournemouth,
 Timothy Castagne,Leicester,Bournemouth,2022-10-08,False,DR,66,0.0,0.0,0.0,0.64,7,0.0,1.0,3.1,1,1,0,0.0,False,8.0,0.06,78.0,0.5,0,0,0,0,6,Leicester,True,Crystal Palace,-0.43
 Timothy Castagne,Leicester,Crystal Palace,2022-10-15,True,DR,90,0.0,0.1,0.0,0.0,6,2.0,0.0,4.9,0,1,0,0.0,False,7.5,0.03,82.0,0.67,0,0,0,0,6,Leicester,True,Leicester City,2.25
@@ -19,9 +19,9 @@ Timothy Castagne,Leicester,Manchester United,2023-02-19,False,DR,90,0.0,0.0,0.0,
 Timothy Castagne,Leicester,Arsenal,2023-02-25,True,DR,84,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,0,1,0.64,True,1.6,0.0,88.33,0.33,0,0,0,0,2,Leicester,False,Southampton,-3.27
 Timothy Castagne,Leicester,Southampton,2023-03-04,False,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,0,1,1.38,True,1.8,0.0,88.42,0.32,0,0,0,0,1,Leicester,True,Chelsea,-2.98
 Timothy Castagne,Leicester,Chelsea,2023-03-11,True,DML,90,0.0,0.04,0.0,0.37,1,1.0,1.0,3.9,0,0,3,1.53,True,2.0,0.0,88.5,0.3,0,0,0,0,2,Leicester,False,Brentford,-4.9
-Timothy Castagne,Leicester,Brentford,2023-03-18,False,DL,90,0.0,0.09,0.0,0.0,2,1.0,0.0,3.4,0,0,1,0.64,True,2.2,0.01,88.57,0.29,0,0,0,0,6,Leicester,False,Crystal Palace,2.07
-Timothy Castagne,Leicester,Crystal Palace,2023-04-01,False,DR,90,0.0,0.1,1.0,0.05,6,1.0,1.0,5.7,2,0,2,2.29,True,1.6,0.03,88.64,0.27,0,0,0,0,0,Leicester,True,Aston Villa,-0.34
-Timothy Castagne,Leicester,Aston Villa,2023-04-04,True,DR,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,0,0,2,1.03,True,2.6,0.24,88.7,0.26,0,0,0,0,1,Leicester,True,Southampton,1.76
+Timothy Castagne,Leicester,Brentford,2023-03-18,False,DL,90,0.0,0.09,0.0,0.0,2,1.0,0.0,3.4,0,0,1,0.64,True,2.2,0.01,88.57,0.29,0,0,0,0,6,Leicester,False,Crystal Palace,
+Timothy Castagne,Leicester,Crystal Palace,2023-04-01,False,DR,90,0.0,0.1,1.0,0.05,6,1.0,1.0,5.7,2,0,2,2.29,True,1.6,0.03,88.64,0.27,0,0,0,0,0,Leicester,True,Aston Villa,
+Timothy Castagne,Leicester,Aston Villa,2023-04-04,True,DR,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,0,0,2,1.03,True,2.6,0.24,88.7,0.26,0,0,0,0,1,Leicester,True,Southampton,
 Timothy Castagne,Leicester,Southampton,2022-08-20,True,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.0,0,0,2,0.0,False,2.2,0.24,88.75,0.25,0,0,0,0,2,Leicester,True,Bournemouth,
 Timothy Castagne,Leicester,Bournemouth,2023-04-08,True,DR,90,0.0,0.02,0.0,0.06,2,1.0,2.0,4.5,0,0,1,2.22,True,2.0,0.24,88.8,0.24,0,0,0,0,1,Leicester,False,Manchester City,1.46
 Timothy Castagne,Leicester,Manchester City,2023-04-15,False,DMR,90,0.0,0.0,0.0,0.37,1,0.0,2.0,3.7,0,0,3,2.06,True,2.2,0.24,88.85,0.23,0,0,0,0,10,Leicester,True,Wolverhampton,-1.75
@@ -32,8 +32,8 @@ Timothy Castagne,Leicester,Fulham,2023-05-08,False,DR,90,0.0,0.05,0.0,0.0,0,1.0,
 Timothy Castagne,Leicester,Liverpool,2023-05-15,True,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,3,2.04,True,2.8,0.03,89.03,0.19,0,0,0,0,6,Leicester,False,Newcastle United,1.84
 Timothy Castagne,Leicester,Newcastle United,2023-05-22,False,DR,90,0.0,0.08,0.0,0.0,6,1.0,0.0,4.0,0,1,0,2.05,True,2.8,0.03,89.06,0.22,0,0,0,0,2,Leicester,True,West Ham,-0.48
 Timothy Castagne,Leicester,West Ham,2023-05-28,True,DR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0,0,1,1.19,True,2.0,0.03,89.09,0.21,0,0,0,0,1,Leicester,False,Chelsea,-5.34
-Timothy Castagne,Leicester,Chelsea,2022-08-27,False,DR,90,0.0,0.49,0.0,0.02,1,2.0,1.0,6.4,0,0,2,0.0,False,2.0,0.03,89.12,0.21,0,0,0,0,0,Leicester,True,Manchester United,-2.56
+Timothy Castagne,Leicester,Chelsea,2022-08-27,False,DR,90,0.0,0.49,0.0,0.02,1,2.0,1.0,6.4,0,0,2,0.0,False,2.0,0.03,89.12,0.21,0,0,0,0,0,Leicester,True,Manchester United,
 Timothy Castagne,Leicester,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.13,86.57,0.21,0,0,0,0,0,Leicester,False,Brighton,-2.14
 Timothy Castagne,Leicester,Brighton,2022-09-04,False,Sub,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.8,0,0,3,0.0,False,2.0,0.12,85.42,0.21,0,0,0,0,2,Leicester,False,Tottenham,3.38
 Timothy Castagne,Leicester,Tottenham,2022-09-17,False,DR,90,0.0,0.0,1.0,0.06,2,0.0,1.0,4.5,0,0,6,0.0,False,1.8,0.12,85.54,0.2,0,0,0,0,8,Leicester,True,Nottingham Forest,
-Timothy Castagne,Leicester,Nottingham Forest,2022-10-03,True,DR,90,0.0,0.0,0.0,0.11,8,0.0,1.0,3.6,2,1,0,0.0,False,1.0,0.3,85.66,0.22,0,0,0,0,2,Fulham,False,Brighton,-0.55
+Timothy Castagne,Leicester,Nottingham Forest,2022-10-03,True,DR,90,0.0,0.0,0.0,0.11,8,0.0,1.0,3.6,2,1,0,0.0,False,1.0,0.3,85.66,0.22,0,0,0,0,2,Fulham,False,Brighton,

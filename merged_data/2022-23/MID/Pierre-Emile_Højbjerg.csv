@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Pierre-Emile Højbjerg,Spurs,Southampton,2022-08-06,True,MC,90,0.0,0.0,0.0,0.17,2,0.0,2.0,4.7,0,0,1,False,0.0,0.0,90.0,2.0,2.0,2.64,2.54,0.03,3,Spurs,False,Brighton,0.26
-Pierre-Emile Højbjerg,Spurs,Brighton,2022-10-08,False,MC,90,0.0,0.0,0.0,0.05,3,0.0,1.0,4.1,0,1,0,False,2.0,0.0,90.0,2.0,2.0,2.64,2.54,0.03,9,Spurs,True,Everton,-2.75
-Pierre-Emile Højbjerg,Spurs,Everton,2022-10-15,True,MC,90,1.0,0.13,0.0,0.0,9,2.0,0.0,5.7,1,1,0,False,2.5,0.0,90.0,2.0,2.0,2.64,2.54,0.03,2,Spurs,False,Manchester United,2.48
-Pierre-Emile Højbjerg,Spurs,Manchester United,2022-10-19,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.2,0,0,2,False,4.67,0.04,90.0,2.0,2.0,2.64,2.54,0.03,0,Spurs,True,Newcastle United,-2.91
-Pierre-Emile Højbjerg,Spurs,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,4.0,0.03,72.0,2.0,2.0,2.64,2.54,0.03,5,Spurs,False,Bournemouth,-2.08
-Pierre-Emile Højbjerg,Spurs,Bournemouth,2022-10-29,False,MC,90,0.0,0.14,1.0,0.1,5,4.0,2.0,7.9,0,0,2,False,3.2,0.03,75.0,2.0,2.0,2.64,2.54,0.03,2,Spurs,True,Liverpool,-0.19
-Pierre-Emile Højbjerg,Spurs,Liverpool,2022-11-06,True,MC,90,0.0,0.07,0.0,0.0,2,1.0,0.0,3.6,0,0,2,False,3.8,0.25,77.14,2.0,2.0,2.64,2.54,0.03,2,Spurs,True,Leicester City,-1.16
-Pierre-Emile Højbjerg,Spurs,Leicester City,2022-11-12,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.1,0,0,3,True,3.6,0.27,78.75,2.0,2.0,2.64,2.54,0.03,10,Spurs,False,Brentford,1.03
-Pierre-Emile Højbjerg,Spurs,Brentford,2022-12-26,False,MC,90,1.0,0.14,0.0,0.08,10,3.0,3.0,13.2,3,0,2,True,2.2,0.24,80.0,2.0,2.0,2.64,2.54,0.03,2,Spurs,True,Aston Villa,1.75
-Pierre-Emile Højbjerg,Spurs,Aston Villa,2023-01-01,True,MC,87,0.0,0.0,0.0,0.02,2,0.0,1.0,3.6,0,0,2,True,3.8,0.27,80.7,2.0,2.0,2.64,2.54,0.03,3,Spurs,False,Crystal Palace,0.96
-Pierre-Emile Højbjerg,Spurs,Crystal Palace,2023-01-04,False,MC,90,0.0,0.05,0.0,0.0,3,1.0,0.0,2.9,0,1,0,True,4.2,0.27,81.55,2.0,2.0,2.64,2.54,0.03,10,Spurs,False,Chelsea,1.82
-Pierre-Emile Højbjerg,Spurs,Chelsea,2022-08-14,False,MC,90,1.0,0.03,0.0,0.31,10,1.0,1.0,9.0,3,0,2,False,3.8,0.05,82.25,2.0,2.0,2.64,2.54,0.03,2,Spurs,True,Arsenal,-0.34
-Pierre-Emile Højbjerg,Spurs,Arsenal,2023-01-15,True,MC,90,0.0,0.08,0.0,0.36,2,2.0,2.0,6.6,0,0,2,True,5.4,0.04,82.85,2.0,2.0,2.64,2.54,0.03,1,Spurs,False,Manchester City,-0.2
-Pierre-Emile Højbjerg,Spurs,Manchester City,2023-01-19,False,MC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,4,True,5.4,0.06,83.36,2.0,2.0,2.64,2.54,0.03,3,Spurs,False,Fulham,1.2
-Pierre-Emile Højbjerg,Spurs,Fulham,2023-01-23,False,MC,90,0.0,0.03,0.0,0.11,3,1.0,1.0,3.8,0,1,0,True,3.6,0.03,83.8,2.0,2.0,2.64,2.54,0.03,7,Spurs,True,Manchester City,-0.27
-Pierre-Emile Højbjerg,Spurs,Manchester City,2023-02-05,True,MC,90,0.0,0.02,1.0,0.4,7,1.0,1.0,5.0,1,1,0,True,3.8,0.04,84.19,2.0,2.0,2.64,2.54,0.03,2,Spurs,False,Leeds United,1.25
-Pierre-Emile Højbjerg,Spurs,Leeds United,2023-02-11,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.8,0,0,4,True,4.6,0.23,84.53,2.0,2.0,2.64,2.54,0.03,3,Spurs,True,West Ham,0.26
-Pierre-Emile Højbjerg,Spurs,West Ham,2023-02-19,True,MC,90,0.0,0.04,0.0,0.0,3,2.0,0.0,3.4,0,1,0,True,3.0,0.23,84.83,2.0,2.0,2.64,2.54,0.03,3,Spurs,True,Chelsea,2.8
-Pierre-Emile Højbjerg,Spurs,Chelsea,2023-02-26,True,MC,90,0.0,0.06,0.0,0.0,3,1.0,0.0,2.4,0,1,0,True,3.2,0.22,85.11,2.0,2.0,2.64,2.54,0.03,2,Spurs,False,Wolverhampton,0.79
-Pierre-Emile Højbjerg,Spurs,Wolverhampton,2023-03-04,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.3,0,0,1,True,3.6,0.23,85.35,2.0,2.0,2.64,2.54,0.03,1,Spurs,True,Nottingham Forest,-0.6
-Pierre-Emile Højbjerg,Spurs,Nottingham Forest,2023-03-11,True,MC,90,0.0,0.0,0.0,0.04,1,0.0,1.0,4.1,0,0,1,True,3.4,0.22,85.57,2.0,2.0,2.64,2.54,0.03,2,Spurs,False,Southampton,-0.37
-Pierre-Emile Højbjerg,Spurs,Southampton,2023-03-18,False,MC,90,0.0,0.0,0.0,0.06,2,0.0,1.0,2.9,0,0,3,True,2.2,0.02,85.77,2.0,2.0,2.64,2.54,0.03,2,Spurs,False,Everton,0.55
-Pierre-Emile Højbjerg,Spurs,Everton,2023-04-03,False,MC,90,0.0,0.0,0.0,0.06,2,0.0,1.0,3.1,0,0,1,True,2.2,0.02,85.96,2.0,2.0,2.64,2.54,0.03,2,Spurs,True,Wolverhampton,2.72
-Pierre-Emile Højbjerg,Spurs,Wolverhampton,2022-08-20,True,MC,90,0.0,0.03,0.0,0.0,2,1.0,0.0,3.6,0,1,0,False,2.0,0.01,86.12,2.0,2.0,2.64,2.54,0.03,4,Spurs,True,Brighton,-0.2
-Pierre-Emile Højbjerg,Spurs,Brighton,2023-04-08,True,MC,90,0.0,0.12,1.0,0.08,4,1.0,1.0,4.8,0,0,1,True,1.8,0.01,86.28,2.0,2.0,2.64,2.54,0.03,2,Spurs,True,Bournemouth,-1.78
-Pierre-Emile Højbjerg,Spurs,Bournemouth,2023-04-15,True,MC,90,0.0,0.02,0.0,0.12,2,1.0,3.0,6.2,0,0,3,True,2.2,0.23,86.42,2.0,2.0,2.64,2.54,0.03,5,Spurs,False,Newcastle United,4.3
-Pierre-Emile Højbjerg,Spurs,Newcastle United,2023-04-23,False,MC,90,0.0,0.0,1.0,0.27,5,0.0,1.0,5.1,0,0,6,True,2.4,0.23,86.56,2.0,2.0,2.64,2.54,0.03,1,Spurs,True,Manchester United,-0.02
-Pierre-Emile Højbjerg,Spurs,Manchester United,2023-04-27,True,MC,90,0.0,0.05,0.0,0.06,1,3.0,1.0,0.0,0,0,2,True,3.0,0.43,86.68,2.0,2.0,2.64,2.54,0.03,2,Spurs,False,Liverpool,0.68
-Pierre-Emile Højbjerg,Spurs,Liverpool,2023-04-30,False,MC,90,0.0,0.08,0.0,0.0,2,1.0,0.0,1.8,0,0,4,True,2.8,0.44,86.79,2.0,2.0,2.64,2.54,0.03,3,Spurs,True,Crystal Palace,-2.03
-Pierre-Emile Højbjerg,Spurs,Crystal Palace,2023-05-06,True,MC,90,0.0,0.12,0.0,0.0,3,1.0,0.0,1.9,0,1,0,True,2.8,0.45,86.9,2.0,2.0,2.64,2.54,0.03,2,Spurs,False,Aston Villa,-2.16
-Pierre-Emile Højbjerg,Spurs,Aston Villa,2023-05-13,False,MC,90,0.0,0.0,0.0,0.29,2,0.0,1.0,3.2,0,0,2,True,2.6,0.25,87.0,2.0,2.0,2.64,2.54,0.03,0,Spurs,True,Brentford,-1.31
-Pierre-Emile Højbjerg,Spurs,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,2.6,0.25,84.28,2.0,2.0,2.64,2.54,0.03,0,Spurs,False,Leicester City,-4.57
-Pierre-Emile Højbjerg,Spurs,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.05,81.73,2.0,2.0,2.64,2.54,0.03,3,Spurs,False,Nottingham Forest,-3.55
-Pierre-Emile Højbjerg,Spurs,Nottingham Forest,2022-08-28,False,MC,90,0.0,0.09,0.0,0.21,3,1.0,3.0,6.8,0,1,0,False,1.4,0.04,81.97,2.0,2.0,2.64,2.54,0.03,2,Spurs,False,West Ham,2.47
-Pierre-Emile Højbjerg,Spurs,West Ham,2022-08-31,False,MC,90,0.0,0.02,0.0,0.01,2,1.0,1.0,3.7,0,0,1,False,1.6,0.04,82.2,2.0,2.0,2.64,2.54,0.03,9,Spurs,True,Fulham,-2.03
-Pierre-Emile Højbjerg,Spurs,Fulham,2022-09-03,True,MC,90,1.0,0.13,0.0,0.0,9,1.0,0.0,6.6,2,0,1,False,1.4,0.02,82.42,2.0,2.0,2.64,2.54,0.03,5,Spurs,True,Leeds United,-3.41
-Pierre-Emile Højbjerg,Spurs,Leeds United,2022-09-17,True,MC,90,0.0,0.03,1.0,0.4,5,1.0,2.0,5.9,0,0,2,False,2.8,0.05,82.62,2.0,2.0,2.64,2.54,0.03,2,Spurs,False,Arsenal,1.92
-Pierre-Emile Højbjerg,Spurs,Arsenal,2022-10-01,False,MC,74,0.0,0.06,0.0,0.0,2,2.0,0.0,2.1,0,0,3,False,3.8,0.25,82.39,2.0,2.0,2.64,2.54,0.03,0,Spurs,False,Brentford,1.03
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Pierre-Emile Højbjerg,Spurs,Southampton,2022-08-06,True,MC,90,0.0,0.0,0.0,0.17,2,0.0,2.0,4.7,0,0,1,False,0.0,0.0,90.0,2.0,2.0,2.64,2.54,0.03,3,Spurs,False,Brighton,-2.68
+Pierre-Emile Højbjerg,Spurs,Brighton,2022-10-08,False,MC,90,0.0,0.0,0.0,0.05,3,0.0,1.0,4.1,0,1,0,False,2.0,0.0,90.0,2.0,2.0,2.64,2.54,0.03,9,Spurs,True,Everton,-5.21
+Pierre-Emile Højbjerg,Spurs,Everton,2022-10-15,True,MC,90,1.0,0.13,0.0,0.0,9,2.0,0.0,5.7,1,1,0,False,2.5,0.0,90.0,2.0,2.0,2.64,2.54,0.03,2,Spurs,False,Manchester United,4.8
+Pierre-Emile Højbjerg,Spurs,Manchester United,2022-10-19,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.2,0,0,2,False,4.67,0.04,90.0,2.0,2.0,2.64,2.54,0.03,0,Spurs,True,Newcastle United,-3.79
+Pierre-Emile Højbjerg,Spurs,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,4.0,0.03,72.0,2.0,2.0,2.64,2.54,0.03,5,Spurs,False,Bournemouth,
+Pierre-Emile Højbjerg,Spurs,Bournemouth,2022-10-29,False,MC,90,0.0,0.14,1.0,0.1,5,4.0,2.0,7.9,0,0,2,False,3.2,0.03,75.0,2.0,2.0,2.64,2.54,0.03,2,Spurs,True,Liverpool,0.32
+Pierre-Emile Højbjerg,Spurs,Liverpool,2022-11-06,True,MC,90,0.0,0.07,0.0,0.0,2,1.0,0.0,3.6,0,0,2,False,3.8,0.25,77.14,2.0,2.0,2.64,2.54,0.03,2,Spurs,True,Leicester City,-0.2
+Pierre-Emile Højbjerg,Spurs,Leicester City,2022-11-12,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.1,0,0,3,True,3.6,0.27,78.75,2.0,2.0,2.64,2.54,0.03,10,Spurs,False,Brentford,1.4
+Pierre-Emile Højbjerg,Spurs,Brentford,2022-12-26,False,MC,90,1.0,0.14,0.0,0.08,10,3.0,3.0,13.2,3,0,2,True,2.2,0.24,80.0,2.0,2.0,2.64,2.54,0.03,2,Spurs,True,Aston Villa,-0.44
+Pierre-Emile Højbjerg,Spurs,Aston Villa,2023-01-01,True,MC,87,0.0,0.0,0.0,0.02,2,0.0,1.0,3.6,0,0,2,True,3.8,0.27,80.7,2.0,2.0,2.64,2.54,0.03,3,Spurs,False,Crystal Palace,7.24
+Pierre-Emile Højbjerg,Spurs,Crystal Palace,2023-01-04,False,MC,90,0.0,0.05,0.0,0.0,3,1.0,0.0,2.9,0,1,0,True,4.2,0.27,81.55,2.0,2.0,2.64,2.54,0.03,10,Spurs,False,Chelsea,3.74
+Pierre-Emile Højbjerg,Spurs,Chelsea,2022-08-14,False,MC,90,1.0,0.03,0.0,0.31,10,1.0,1.0,9.0,3,0,2,False,3.8,0.05,82.25,2.0,2.0,2.64,2.54,0.03,2,Spurs,True,Arsenal,-2.81
+Pierre-Emile Højbjerg,Spurs,Arsenal,2023-01-15,True,MC,90,0.0,0.08,0.0,0.36,2,2.0,2.0,6.6,0,0,2,True,5.4,0.04,82.85,2.0,2.0,2.64,2.54,0.03,1,Spurs,False,Manchester City,-2.29
+Pierre-Emile Højbjerg,Spurs,Manchester City,2023-01-19,False,MC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,4,True,5.4,0.06,83.36,2.0,2.0,2.64,2.54,0.03,3,Spurs,False,Fulham,
+Pierre-Emile Højbjerg,Spurs,Fulham,2023-01-23,False,MC,90,0.0,0.03,0.0,0.11,3,1.0,1.0,3.8,0,1,0,True,3.6,0.03,83.8,2.0,2.0,2.64,2.54,0.03,7,Spurs,True,Manchester City,-0.19
+Pierre-Emile Højbjerg,Spurs,Manchester City,2023-02-05,True,MC,90,0.0,0.02,1.0,0.4,7,1.0,1.0,5.0,1,1,0,True,3.8,0.04,84.19,2.0,2.0,2.64,2.54,0.03,2,Spurs,False,Leeds United,1.08
+Pierre-Emile Højbjerg,Spurs,Leeds United,2023-02-11,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.8,0,0,4,True,4.6,0.23,84.53,2.0,2.0,2.64,2.54,0.03,3,Spurs,True,West Ham,-1.58
+Pierre-Emile Højbjerg,Spurs,West Ham,2023-02-19,True,MC,90,0.0,0.04,0.0,0.0,3,2.0,0.0,3.4,0,1,0,True,3.0,0.23,84.83,2.0,2.0,2.64,2.54,0.03,3,Spurs,True,Chelsea,5.76
+Pierre-Emile Højbjerg,Spurs,Chelsea,2023-02-26,True,MC,90,0.0,0.06,0.0,0.0,3,1.0,0.0,2.4,0,1,0,True,3.2,0.22,85.11,2.0,2.0,2.64,2.54,0.03,2,Spurs,False,Wolverhampton,-1.1
+Pierre-Emile Højbjerg,Spurs,Wolverhampton,2023-03-04,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.3,0,0,1,True,3.6,0.23,85.35,2.0,2.0,2.64,2.54,0.03,1,Spurs,True,Nottingham Forest,
+Pierre-Emile Højbjerg,Spurs,Nottingham Forest,2023-03-11,True,MC,90,0.0,0.0,0.0,0.04,1,0.0,1.0,4.1,0,0,1,True,3.4,0.22,85.57,2.0,2.0,2.64,2.54,0.03,2,Spurs,False,Southampton,-0.01
+Pierre-Emile Højbjerg,Spurs,Southampton,2023-03-18,False,MC,90,0.0,0.0,0.0,0.06,2,0.0,1.0,2.9,0,0,3,True,2.2,0.02,85.77,2.0,2.0,2.64,2.54,0.03,2,Spurs,False,Everton,-0.37
+Pierre-Emile Højbjerg,Spurs,Everton,2023-04-03,False,MC,90,0.0,0.0,0.0,0.06,2,0.0,1.0,3.1,0,0,1,True,2.2,0.02,85.96,2.0,2.0,2.64,2.54,0.03,2,Spurs,True,Wolverhampton,-0.85
+Pierre-Emile Højbjerg,Spurs,Wolverhampton,2022-08-20,True,MC,90,0.0,0.03,0.0,0.0,2,1.0,0.0,3.6,0,1,0,False,2.0,0.01,86.12,2.0,2.0,2.64,2.54,0.03,4,Spurs,True,Brighton,
+Pierre-Emile Højbjerg,Spurs,Brighton,2023-04-08,True,MC,90,0.0,0.12,1.0,0.08,4,1.0,1.0,4.8,0,0,1,True,1.8,0.01,86.28,2.0,2.0,2.64,2.54,0.03,2,Spurs,True,Bournemouth,
+Pierre-Emile Højbjerg,Spurs,Bournemouth,2023-04-15,True,MC,90,0.0,0.02,0.0,0.12,2,1.0,3.0,6.2,0,0,3,True,2.2,0.23,86.42,2.0,2.0,2.64,2.54,0.03,5,Spurs,False,Newcastle United,0.79
+Pierre-Emile Højbjerg,Spurs,Newcastle United,2023-04-23,False,MC,90,0.0,0.0,1.0,0.27,5,0.0,1.0,5.1,0,0,6,True,2.4,0.23,86.56,2.0,2.0,2.64,2.54,0.03,1,Spurs,True,Manchester United,5.3
+Pierre-Emile Højbjerg,Spurs,Manchester United,2023-04-27,True,MC,90,0.0,0.05,0.0,0.06,1,3.0,1.0,0.0,0,0,2,True,3.0,0.43,86.68,2.0,2.0,2.64,2.54,0.03,2,Spurs,False,Liverpool,
+Pierre-Emile Højbjerg,Spurs,Liverpool,2023-04-30,False,MC,90,0.0,0.08,0.0,0.0,2,1.0,0.0,1.8,0,0,4,True,2.8,0.44,86.79,2.0,2.0,2.64,2.54,0.03,3,Spurs,True,Crystal Palace,-3.09
+Pierre-Emile Højbjerg,Spurs,Crystal Palace,2023-05-06,True,MC,90,0.0,0.12,0.0,0.0,3,1.0,0.0,1.9,0,1,0,True,2.8,0.45,86.9,2.0,2.0,2.64,2.54,0.03,2,Spurs,False,Aston Villa,
+Pierre-Emile Højbjerg,Spurs,Aston Villa,2023-05-13,False,MC,90,0.0,0.0,0.0,0.29,2,0.0,1.0,3.2,0,0,2,True,2.6,0.25,87.0,2.0,2.0,2.64,2.54,0.03,0,Spurs,True,Brentford,-3.15
+Pierre-Emile Højbjerg,Spurs,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,2.6,0.25,84.28,2.0,2.0,2.64,2.54,0.03,0,Spurs,False,Leicester City,
+Pierre-Emile Højbjerg,Spurs,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.05,81.73,2.0,2.0,2.64,2.54,0.03,3,Spurs,False,Nottingham Forest,-5.2
+Pierre-Emile Højbjerg,Spurs,Nottingham Forest,2022-08-28,False,MC,90,0.0,0.09,0.0,0.21,3,1.0,3.0,6.8,0,1,0,False,1.4,0.04,81.97,2.0,2.0,2.64,2.54,0.03,2,Spurs,False,West Ham,2.68
+Pierre-Emile Højbjerg,Spurs,West Ham,2022-08-31,False,MC,90,0.0,0.02,0.0,0.01,2,1.0,1.0,3.7,0,0,1,False,1.6,0.04,82.2,2.0,2.0,2.64,2.54,0.03,9,Spurs,True,Fulham,-1.52
+Pierre-Emile Højbjerg,Spurs,Fulham,2022-09-03,True,MC,90,1.0,0.13,0.0,0.0,9,1.0,0.0,6.6,2,0,1,False,1.4,0.02,82.42,2.0,2.0,2.64,2.54,0.03,5,Spurs,True,Leeds United,-5.34
+Pierre-Emile Højbjerg,Spurs,Leeds United,2022-09-17,True,MC,90,0.0,0.03,1.0,0.4,5,1.0,2.0,5.9,0,0,2,False,2.8,0.05,82.62,2.0,2.0,2.64,2.54,0.03,2,Spurs,False,Arsenal,2.45
+Pierre-Emile Højbjerg,Spurs,Arsenal,2022-10-01,False,MC,74,0.0,0.06,0.0,0.0,2,2.0,0.0,2.1,0,0,3,False,3.8,0.25,82.39,2.0,2.0,2.64,2.54,0.03,0,Spurs,False,Brentford,0.99

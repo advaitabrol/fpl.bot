@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Serge Aurier,Nott'm Forest,Arsenal,2023-08-12,False,DMR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,2,0.83,True,0.0,0.0,90.0,0.0,0.66,0.81,25.58,0.29,1.0,Nott'm Forest,False,Liverpool,2.76
-Serge Aurier,Nott'm Forest,Liverpool,2023-10-29,False,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.6,0,0,3,2.95,True,1.0,0.0,90.0,0.0,0.66,0.81,25.58,0.29,1.0,Nott'm Forest,True,Aston Villa,-2.76
-Serge Aurier,Nott'm Forest,Aston Villa,2023-11-05,True,Sub,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.13,False,1.0,0.0,66.33,0.0,0.66,0.81,25.58,0.29,1.0,Nott'm Forest,False,West Ham,3.49
-Serge Aurier,Nott'm Forest,West Ham,2023-11-12,False,Sub,14,0.0,0.06,0.0,0.0,1,1.0,0.0,1.5,0,0,1,0.4,False,1.0,0.0,53.25,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Brighton,-1.91
-Serge Aurier,Nott'm Forest,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.02,42.6,0.0,0.66,0.81,25.58,0.29,2.0,Nott'm Forest,True,Everton,1.16
-Serge Aurier,Nott'm Forest,Everton,2023-12-02,True,DR,90,0.0,0.01,0.0,0.0,2,1.0,0.0,4.1,0,0,1,0.7,True,0.8,0.01,50.5,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Fulham,5.33
-Serge Aurier,Nott'm Forest,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.01,43.29,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Wolverhampton,0.48
-Serge Aurier,Nott'm Forest,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.01,37.88,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Tottenham,4.06
-Serge Aurier,Nott'm Forest,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.01,33.67,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Bournemouth,0.52
-Serge Aurier,Nott'm Forest,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,30.3,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Newcastle United,-1.87
-Serge Aurier,Nott'm Forest,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,27.55,0.0,0.66,0.81,25.58,0.29,10.0,Nott'm Forest,True,Sheffield,-1.91
-Serge Aurier,Nott'm Forest,Sheffield,2023-08-18,True,DMR,90,0.0,0.02,2.0,0.57,10,1.0,2.0,9.5,3,0,1,0.51,True,0.0,0.0,32.75,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Manchester United,0.67
-Serge Aurier,Nott'm Forest,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.4,30.23,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Brentford,1.33
-Serge Aurier,Nott'm Forest,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.4,28.07,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Arsenal,-1.92
-Serge Aurier,Nott'm Forest,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.4,26.2,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Bournemouth,0.9
-Serge Aurier,Nott'm Forest,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.4,24.56,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Newcastle United,0.52
-Serge Aurier,Nott'm Forest,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.4,23.12,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,West Ham,-2.72
-Serge Aurier,Nott'm Forest,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,21.83,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Aston Villa,2.52
-Serge Aurier,Nott'm Forest,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,20.68,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Liverpool,-1.05
-Serge Aurier,Nott'm Forest,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,19.65,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Brighton,1.21
-Serge Aurier,Nott'm Forest,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,18.71,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Luton,-1.05
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Serge Aurier,Nott'm Forest,Arsenal,2023-08-12,False,DMR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,2,0.83,True,0.0,0.0,90.0,0.0,0.66,0.81,25.58,0.29,1.0,Nott'm Forest,False,Liverpool,1.21
+Serge Aurier,Nott'm Forest,Liverpool,2023-10-29,False,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.6,0,0,3,2.95,True,1.0,0.0,90.0,0.0,0.66,0.81,25.58,0.29,1.0,Nott'm Forest,True,Aston Villa,-1.24
+Serge Aurier,Nott'm Forest,Aston Villa,2023-11-05,True,Sub,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.13,False,1.0,0.0,66.33,0.0,0.66,0.81,25.58,0.29,1.0,Nott'm Forest,False,West Ham,5.53
+Serge Aurier,Nott'm Forest,West Ham,2023-11-12,False,Sub,14,0.0,0.06,0.0,0.0,1,1.0,0.0,1.5,0,0,1,0.4,False,1.0,0.0,53.25,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Brighton,-4.68
+Serge Aurier,Nott'm Forest,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.02,42.6,0.0,0.66,0.81,25.58,0.29,2.0,Nott'm Forest,True,Everton,0.17
+Serge Aurier,Nott'm Forest,Everton,2023-12-02,True,DR,90,0.0,0.01,0.0,0.0,2,1.0,0.0,4.1,0,0,1,0.7,True,0.8,0.01,50.5,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Fulham,3.69
+Serge Aurier,Nott'm Forest,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.01,43.29,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Wolverhampton,1.27
+Serge Aurier,Nott'm Forest,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.01,37.88,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Tottenham,5.64
+Serge Aurier,Nott'm Forest,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.01,33.67,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Bournemouth,0.55
+Serge Aurier,Nott'm Forest,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,30.3,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Newcastle United,1.35
+Serge Aurier,Nott'm Forest,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,27.55,0.0,0.66,0.81,25.58,0.29,10.0,Nott'm Forest,True,Sheffield,
+Serge Aurier,Nott'm Forest,Sheffield,2023-08-18,True,DMR,90,0.0,0.02,2.0,0.57,10,1.0,2.0,9.5,3,0,1,0.51,True,0.0,0.0,32.75,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Manchester United,2.69
+Serge Aurier,Nott'm Forest,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.4,30.23,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Brentford,1.0
+Serge Aurier,Nott'm Forest,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.4,28.07,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Arsenal,-2.77
+Serge Aurier,Nott'm Forest,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.4,26.2,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Bournemouth,1.05
+Serge Aurier,Nott'm Forest,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.4,24.56,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Newcastle United,1.26
+Serge Aurier,Nott'm Forest,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.4,23.12,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,West Ham,-1.34
+Serge Aurier,Nott'm Forest,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,21.83,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Aston Villa,2.3
+Serge Aurier,Nott'm Forest,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,20.68,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Liverpool,-3.15
+Serge Aurier,Nott'm Forest,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,19.65,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Brighton,0.45
+Serge Aurier,Nott'm Forest,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,18.71,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Luton,
 Serge Aurier,Nott'm Forest,Luton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,17.86,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Manchester United,1.16
-Serge Aurier,Nott'm Forest,Manchester United,2023-08-26,False,DMR,90,0.0,0.0,0.0,0.0,0,0.0,0.0,3.1,0,0,3,2.91,True,0.0,0.0,21.0,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Crystal Palace,-0.57
-Serge Aurier,Nott'm Forest,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,20.12,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Fulham,-2.25
-Serge Aurier,Nott'm Forest,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,19.32,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Tottenham,0.66
-Serge Aurier,Nott'm Forest,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,18.58,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Wolverhampton,-0.63
-Serge Aurier,Nott'm Forest,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,17.89,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Everton,2.01
-Serge Aurier,Nott'm Forest,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,17.25,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Manchester City,-0.22
-Serge Aurier,Nott'm Forest,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,16.66,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Sheffield,-2.75
-Serge Aurier,Nott'm Forest,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,16.1,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Chelsea,0.18
-Serge Aurier,Nott'm Forest,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,15.58,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Burnley,-4.0
-Serge Aurier,Nott'm Forest,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,15.09,0.0,0.66,0.81,25.58,0.29,6.0,Nott'm Forest,False,Chelsea,-2.46
+Serge Aurier,Nott'm Forest,Manchester United,2023-08-26,False,DMR,90,0.0,0.0,0.0,0.0,0,0.0,0.0,3.1,0,0,3,2.91,True,0.0,0.0,21.0,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Crystal Palace,-1.59
+Serge Aurier,Nott'm Forest,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,20.12,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Fulham,0.28
+Serge Aurier,Nott'm Forest,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,19.32,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Tottenham,
+Serge Aurier,Nott'm Forest,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,18.58,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Wolverhampton,
+Serge Aurier,Nott'm Forest,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,17.89,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Everton,0.64
+Serge Aurier,Nott'm Forest,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,17.25,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Manchester City,
+Serge Aurier,Nott'm Forest,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,16.66,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Sheffield,
+Serge Aurier,Nott'm Forest,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,16.1,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Chelsea,0.67
+Serge Aurier,Nott'm Forest,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,15.58,0.0,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Burnley,
+Serge Aurier,Nott'm Forest,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,15.09,0.0,0.66,0.81,25.58,0.29,6.0,Nott'm Forest,False,Chelsea,-1.91
 Serge Aurier,Nott'm Forest,Chelsea,2023-09-02,False,DMR,71,0.0,0.0,0.0,0.0,6,0.0,0.0,1.0,0,1,0,1.54,True,0.0,0.0,16.79,0.17,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,True,Burnley,1.01
 Serge Aurier,Nott'm Forest,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,16.29,0.17,0.66,0.81,25.58,0.29,0.0,Nott'm Forest,False,Manchester City,4.87
 Serge Aurier,Nott'm Forest,Manchester City,2023-09-23,False,DC,55,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,0,0,2,0.78,True,1.2,0.0,17.4,0.17,0.66,0.81,25.58,0.29,2.0,Nott'm Forest,True,Brentford,0.39
-Serge Aurier,Nott'm Forest,Brentford,2023-10-01,True,DR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,1,1.7,True,1.2,0.0,19.42,0.14,0.66,0.81,25.58,0.29,1.0,Nott'm Forest,False,Crystal Palace,0.85
+Serge Aurier,Nott'm Forest,Brentford,2023-10-01,True,DR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,1,1.7,True,1.2,0.0,19.42,0.14,0.66,0.81,25.58,0.29,1.0,Nott'm Forest,False,Crystal Palace,2.44
 Serge Aurier,Nott'm Forest,Crystal Palace,2023-10-07,False,DR,45,0.0,0.03,0.0,0.0,1,2.0,0.0,2.1,0,0,0,0.37,True,1.6,0.0,20.11,0.14,0.66,0.81,25.58,0.29,2.0,Nott'm Forest,True,Luton,-1.73
 Serge Aurier,Nott'm Forest,Luton,2023-10-21,True,DR,87,0.0,0.08,0.0,0.03,2,1.0,1.0,3.2,0,0,1,1.12,True,1.8,0.01,21.87,0.12,0.66,0.81,25.58,0.29,,,,,

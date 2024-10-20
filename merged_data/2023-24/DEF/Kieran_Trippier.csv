@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Kieran Trippier,Newcastle,Aston Villa,2023-08-12,True,DR,90,0.0,0.0,0.0,0.42,2,0.0,4.0,7.5,0,0,1,1.9,True,0.0,0.0,90.0,0.0,0.89,13.47,25.09,0.42,0.0,Newcastle,False,Wolverhampton,0.77
-Kieran Trippier,Newcastle,Wolverhampton,2023-10-28,False,DR,90,0.0,0.0,0.0,0.28,0,0.0,2.0,5.6,0,0,2,0.98,True,2.0,0.0,90.0,0.0,0.89,13.47,25.09,0.42,9.0,Newcastle,True,Arsenal,-0.34
-Kieran Trippier,Newcastle,Arsenal,2023-11-04,True,DR,90,0.0,0.0,0.0,0.06,9,0.0,1.0,3.9,3,1,0,0.56,True,1.0,0.0,90.0,0.33,0.89,13.47,25.09,0.42,1.0,Newcastle,False,Bournemouth,1.83
-Kieran Trippier,Newcastle,Bournemouth,2023-11-11,False,DR,90,0.0,0.0,0.0,0.02,1,0.0,1.0,2.9,0,0,2,2.49,True,3.67,0.0,90.0,0.25,0.89,13.47,25.09,0.42,1.0,Newcastle,True,Chelsea,-0.41
-Kieran Trippier,Newcastle,Chelsea,2023-11-25,True,DR,90,0.0,0.06,0.0,0.46,1,1.0,2.0,6.7,0,0,1,0.58,True,3.0,0.0,90.0,0.2,0.89,13.47,25.09,0.42,12.0,Newcastle,True,Manchester United,-1.44
-Kieran Trippier,Newcastle,Manchester United,2023-12-02,True,DR,90,0.0,0.07,1.0,1.08,12,2.0,6.0,12.4,3,1,0,0.36,True,2.6,0.01,90.0,0.33,0.89,13.47,25.09,0.42,1.0,Newcastle,False,Everton,1.08
-Kieran Trippier,Newcastle,Everton,2023-12-07,False,DR,90,0.0,0.06,0.0,0.14,1,1.0,2.0,6.2,0,0,3,3.23,True,4.6,0.23,90.0,0.29,0.89,13.47,25.09,0.42,-1.0,Newcastle,False,Tottenham,3.36
-Kieran Trippier,Newcastle,Tottenham,2023-12-10,False,DR,85,0.0,0.0,0.0,0.18,-1,0.0,2.0,5.6,0,0,4,3.26,True,4.8,0.24,89.38,0.25,0.89,13.47,25.09,0.42,0.0,Newcastle,True,Fulham,-0.43
-Kieran Trippier,Newcastle,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.8,0.24,79.44,0.25,0.89,13.47,25.09,0.42,2.0,Newcastle,False,Luton,3.07
-Kieran Trippier,Newcastle,Luton,2023-12-23,False,DR,90,0.0,0.0,0.0,0.3,2,0.0,5.0,14.0,0,0,1,1.88,True,2.6,0.24,80.5,0.22,0.89,13.47,25.09,0.42,1.0,Newcastle,True,Nottingham Forest,2.13
-Kieran Trippier,Newcastle,Nottingham Forest,2023-12-26,True,DR,90,0.0,0.0,0.0,0.2,1,0.0,2.0,6.5,0,0,3,3.46,True,2.8,0.23,81.36,0.2,0.89,13.47,25.09,0.42,2.0,Newcastle,False,Manchester City,2.91
-Kieran Trippier,Newcastle,Manchester City,2023-08-19,False,DR,90,0.0,0.0,0.0,0.03,2,0.0,1.0,4.9,0,0,1,1.09,True,0.6,0.01,82.08,0.18,0.89,13.47,25.09,0.42,0.0,Newcastle,False,Liverpool,2.07
-Kieran Trippier,Newcastle,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.0,75.77,0.18,0.89,13.47,25.09,0.42,1.0,Newcastle,True,Manchester City,3.23
-Kieran Trippier,Newcastle,Manchester City,2024-01-13,True,DR,90,0.0,0.0,0.0,0.14,1,0.0,2.0,5.7,0,0,3,2.84,True,1.0,0.0,76.79,0.17,0.89,13.47,25.09,0.42,7.0,Newcastle,False,Aston Villa,2.1
-Kieran Trippier,Newcastle,Aston Villa,2024-01-30,False,DR,90,0.0,0.0,1.0,0.57,7,0.0,4.0,9.9,2,0,1,1.44,True,1.2,0.0,77.67,0.15,0.89,13.47,25.09,0.42,9.0,Newcastle,True,Luton,2.48
-Kieran Trippier,Newcastle,Luton,2024-02-03,True,DR,90,1.0,0.34,1.0,0.32,9,1.0,2.0,10.8,0,0,4,2.27,True,2.2,0.2,78.44,0.14,0.89,13.47,25.09,0.42,4.0,Newcastle,False,Nottingham Forest,0.98
-Kieran Trippier,Newcastle,Nottingham Forest,2024-02-10,False,DR,90,0.0,0.0,1.0,0.29,4,0.0,1.0,5.9,0,0,2,1.5,True,3.8,0.47,79.12,0.13,0.89,13.47,25.09,0.42,1.0,Newcastle,True,Bournemouth,2.0
-Kieran Trippier,Newcastle,Bournemouth,2024-02-17,True,DR,90,0.0,0.0,0.0,0.19,1,0.0,2.0,5.7,0,0,2,2.59,True,4.2,0.67,79.72,0.12,0.89,13.47,25.09,0.42,0.0,Newcastle,False,Arsenal,1.52
-Kieran Trippier,Newcastle,Arsenal,2024-02-24,False,DR,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.8,0,0,4,2.4,True,4.4,0.67,80.26,0.12,0.89,13.47,25.09,0.42,1.0,Newcastle,True,Wolverhampton,-2.13
-Kieran Trippier,Newcastle,Wolverhampton,2024-03-02,True,DR,51,0.0,0.06,0.0,0.0,1,1.0,0.0,1.0,0,0,0,0.27,True,4.2,0.67,78.8,0.12,0.89,13.47,25.09,0.42,0.0,Newcastle,False,Chelsea,0.97
-Kieran Trippier,Newcastle,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.48,75.05,0.12,0.89,13.47,25.09,0.42,0.0,Newcastle,True,Liverpool,1.54
-Kieran Trippier,Newcastle,Liverpool,2023-08-27,True,DR,90,0.0,0.0,0.0,0.28,0,0.0,5.0,8.8,0,0,2,0.95,True,1.2,0.21,75.73,0.11,0.89,13.47,25.09,0.42,0.0,Newcastle,True,West Ham,0.92
-Kieran Trippier,Newcastle,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,72.43,0.11,0.89,13.47,25.09,0.42,0.0,Newcastle,True,Everton,-2.28
-Kieran Trippier,Newcastle,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.01,69.42,0.11,0.89,13.47,25.09,0.42,0.0,Newcastle,False,Fulham,-1.79
-Kieran Trippier,Newcastle,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.01,66.64,0.11,0.89,13.47,25.09,0.42,0.0,Newcastle,True,Tottenham,-3.04
-Kieran Trippier,Newcastle,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,64.08,0.11,0.89,13.47,25.09,0.42,0.0,Newcastle,False,Crystal Palace,0.54
-Kieran Trippier,Newcastle,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,61.7,0.11,0.89,13.47,25.09,0.42,0.0,Newcastle,True,Sheffield,-0.96
-Kieran Trippier,Newcastle,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,59.5,0.11,0.89,13.47,25.09,0.42,0.0,Newcastle,False,Burnley,-1.63
-Kieran Trippier,Newcastle,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,57.45,0.11,0.89,13.47,25.09,0.42,1.0,Newcastle,True,Brighton,-2.35
-Kieran Trippier,Newcastle,Brighton,2024-05-11,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,False,0.0,0.0,55.57,0.11,0.89,13.47,25.09,0.42,1.0,Newcastle,False,Manchester United,0.69
-Kieran Trippier,Newcastle,Manchester United,2024-05-15,False,DR,62,0.0,0.0,0.0,0.11,1,0.0,2.0,4.7,0,0,2,1.17,True,0.2,0.0,55.77,0.11,0.89,13.47,25.09,0.42,1.0,Newcastle,False,Brentford,-1.1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Kieran Trippier,Newcastle,Aston Villa,2023-08-12,True,DR,90,0.0,0.0,0.0,0.42,2,0.0,4.0,7.5,0,0,1,1.9,True,0.0,0.0,90.0,0.0,0.89,13.47,25.09,0.42,0.0,Newcastle,False,Wolverhampton,1.1
+Kieran Trippier,Newcastle,Wolverhampton,2023-10-28,False,DR,90,0.0,0.0,0.0,0.28,0,0.0,2.0,5.6,0,0,2,0.98,True,2.0,0.0,90.0,0.0,0.89,13.47,25.09,0.42,9.0,Newcastle,True,Arsenal,0.14
+Kieran Trippier,Newcastle,Arsenal,2023-11-04,True,DR,90,0.0,0.0,0.0,0.06,9,0.0,1.0,3.9,3,1,0,0.56,True,1.0,0.0,90.0,0.33,0.89,13.47,25.09,0.42,1.0,Newcastle,False,Bournemouth,1.71
+Kieran Trippier,Newcastle,Bournemouth,2023-11-11,False,DR,90,0.0,0.0,0.0,0.02,1,0.0,1.0,2.9,0,0,2,2.49,True,3.67,0.0,90.0,0.25,0.89,13.47,25.09,0.42,1.0,Newcastle,True,Chelsea,0.4
+Kieran Trippier,Newcastle,Chelsea,2023-11-25,True,DR,90,0.0,0.06,0.0,0.46,1,1.0,2.0,6.7,0,0,1,0.58,True,3.0,0.0,90.0,0.2,0.89,13.47,25.09,0.42,12.0,Newcastle,True,Manchester United,-2.03
+Kieran Trippier,Newcastle,Manchester United,2023-12-02,True,DR,90,0.0,0.07,1.0,1.08,12,2.0,6.0,12.4,3,1,0,0.36,True,2.6,0.01,90.0,0.33,0.89,13.47,25.09,0.42,1.0,Newcastle,False,Everton,0.0
+Kieran Trippier,Newcastle,Everton,2023-12-07,False,DR,90,0.0,0.06,0.0,0.14,1,1.0,2.0,6.2,0,0,3,3.23,True,4.6,0.23,90.0,0.29,0.89,13.47,25.09,0.42,-1.0,Newcastle,False,Tottenham,2.46
+Kieran Trippier,Newcastle,Tottenham,2023-12-10,False,DR,85,0.0,0.0,0.0,0.18,-1,0.0,2.0,5.6,0,0,4,3.26,True,4.8,0.24,89.38,0.25,0.89,13.47,25.09,0.42,0.0,Newcastle,True,Fulham,-0.08
+Kieran Trippier,Newcastle,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.8,0.24,79.44,0.25,0.89,13.47,25.09,0.42,2.0,Newcastle,False,Luton,
+Kieran Trippier,Newcastle,Luton,2023-12-23,False,DR,90,0.0,0.0,0.0,0.3,2,0.0,5.0,14.0,0,0,1,1.88,True,2.6,0.24,80.5,0.22,0.89,13.47,25.09,0.42,1.0,Newcastle,True,Nottingham Forest,-0.46
+Kieran Trippier,Newcastle,Nottingham Forest,2023-12-26,True,DR,90,0.0,0.0,0.0,0.2,1,0.0,2.0,6.5,0,0,3,3.46,True,2.8,0.23,81.36,0.2,0.89,13.47,25.09,0.42,2.0,Newcastle,False,Manchester City,3.85
+Kieran Trippier,Newcastle,Manchester City,2023-08-19,False,DR,90,0.0,0.0,0.0,0.03,2,0.0,1.0,4.9,0,0,1,1.09,True,0.6,0.01,82.08,0.18,0.89,13.47,25.09,0.42,0.0,Newcastle,False,Liverpool,0.9
+Kieran Trippier,Newcastle,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.0,75.77,0.18,0.89,13.47,25.09,0.42,1.0,Newcastle,True,Manchester City,4.58
+Kieran Trippier,Newcastle,Manchester City,2024-01-13,True,DR,90,0.0,0.0,0.0,0.14,1,0.0,2.0,5.7,0,0,3,2.84,True,1.0,0.0,76.79,0.17,0.89,13.47,25.09,0.42,7.0,Newcastle,False,Aston Villa,4.29
+Kieran Trippier,Newcastle,Aston Villa,2024-01-30,False,DR,90,0.0,0.0,1.0,0.57,7,0.0,4.0,9.9,2,0,1,1.44,True,1.2,0.0,77.67,0.15,0.89,13.47,25.09,0.42,9.0,Newcastle,True,Luton,
+Kieran Trippier,Newcastle,Luton,2024-02-03,True,DR,90,1.0,0.34,1.0,0.32,9,1.0,2.0,10.8,0,0,4,2.27,True,2.2,0.2,78.44,0.14,0.89,13.47,25.09,0.42,4.0,Newcastle,False,Nottingham Forest,-0.04
+Kieran Trippier,Newcastle,Nottingham Forest,2024-02-10,False,DR,90,0.0,0.0,1.0,0.29,4,0.0,1.0,5.9,0,0,2,1.5,True,3.8,0.47,79.12,0.13,0.89,13.47,25.09,0.42,1.0,Newcastle,True,Bournemouth,2.6
+Kieran Trippier,Newcastle,Bournemouth,2024-02-17,True,DR,90,0.0,0.0,0.0,0.19,1,0.0,2.0,5.7,0,0,2,2.59,True,4.2,0.67,79.72,0.12,0.89,13.47,25.09,0.42,0.0,Newcastle,False,Arsenal,0.96
+Kieran Trippier,Newcastle,Arsenal,2024-02-24,False,DR,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.8,0,0,4,2.4,True,4.4,0.67,80.26,0.12,0.89,13.47,25.09,0.42,1.0,Newcastle,True,Wolverhampton,-1.62
+Kieran Trippier,Newcastle,Wolverhampton,2024-03-02,True,DR,51,0.0,0.06,0.0,0.0,1,1.0,0.0,1.0,0,0,0,0.27,True,4.2,0.67,78.8,0.12,0.89,13.47,25.09,0.42,0.0,Newcastle,False,Chelsea,-0.14
+Kieran Trippier,Newcastle,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.48,75.05,0.12,0.89,13.47,25.09,0.42,0.0,Newcastle,True,Liverpool,1.61
+Kieran Trippier,Newcastle,Liverpool,2023-08-27,True,DR,90,0.0,0.0,0.0,0.28,0,0.0,5.0,8.8,0,0,2,0.95,True,1.2,0.21,75.73,0.11,0.89,13.47,25.09,0.42,0.0,Newcastle,True,West Ham,0.49
+Kieran Trippier,Newcastle,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,72.43,0.11,0.89,13.47,25.09,0.42,0.0,Newcastle,True,Everton,-1.47
+Kieran Trippier,Newcastle,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.01,69.42,0.11,0.89,13.47,25.09,0.42,0.0,Newcastle,False,Fulham,-1.62
+Kieran Trippier,Newcastle,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.01,66.64,0.11,0.89,13.47,25.09,0.42,0.0,Newcastle,True,Tottenham,-0.29
+Kieran Trippier,Newcastle,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,64.08,0.11,0.89,13.47,25.09,0.42,0.0,Newcastle,False,Crystal Palace,-1.13
+Kieran Trippier,Newcastle,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,61.7,0.11,0.89,13.47,25.09,0.42,0.0,Newcastle,True,Sheffield,
+Kieran Trippier,Newcastle,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,59.5,0.11,0.89,13.47,25.09,0.42,0.0,Newcastle,False,Burnley,
+Kieran Trippier,Newcastle,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,57.45,0.11,0.89,13.47,25.09,0.42,1.0,Newcastle,True,Brighton,
+Kieran Trippier,Newcastle,Brighton,2024-05-11,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,False,0.0,0.0,55.57,0.11,0.89,13.47,25.09,0.42,1.0,Newcastle,False,Manchester United,0.66
+Kieran Trippier,Newcastle,Manchester United,2024-05-15,False,DR,62,0.0,0.0,0.0,0.11,1,0.0,2.0,4.7,0,0,2,1.17,True,0.2,0.0,55.77,0.11,0.89,13.47,25.09,0.42,1.0,Newcastle,False,Brentford,
 Kieran Trippier,Newcastle,Brentford,2024-05-19,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.09,False,0.4,0.0,54.31,0.11,0.89,13.47,25.09,0.42,1.0,Newcastle,False,Brighton,0.38
 Kieran Trippier,Newcastle,Brighton,2023-09-02,False,DR,90,0.0,0.0,0.0,0.01,1,0.0,1.0,4.0,0,0,3,1.42,True,0.6,0.0,55.39,0.1,0.89,13.47,25.09,0.42,8.0,Newcastle,True,Brentford,-2.07
 Kieran Trippier,Newcastle,Brentford,2023-09-16,True,DR,90,0.0,0.01,0.0,0.2,8,1.0,2.0,6.2,2,1,0,0.54,True,0.8,0.0,56.41,0.14,0.89,13.47,25.09,0.42,18.0,Newcastle,False,Sheffield,-6.83
 Kieran Trippier,Newcastle,Sheffield,2023-09-24,False,DR,69,0.0,0.0,3.0,1.26,18,0.0,5.0,13.7,3,1,0,0.73,True,2.4,0.0,56.77,0.18,0.89,13.47,25.09,0.42,12.0,Newcastle,True,Burnley,-2.77
-Kieran Trippier,Newcastle,Burnley,2023-09-30,True,DR,90,0.0,0.05,1.0,0.54,12,1.0,5.0,11.3,3,1,0,0.65,True,5.8,0.6,57.69,0.22,0.89,13.47,25.09,0.42,6.0,Newcastle,False,West Ham,0.28
-Kieran Trippier,Newcastle,West Ham,2023-10-08,False,DR,90,0.0,0.0,1.0,0.75,6,0.0,5.0,11.3,2,0,2,1.22,True,8.0,0.81,58.57,0.21,0.89,13.47,25.09,0.42,10.0,Newcastle,True,Crystal Palace,-2.12
+Kieran Trippier,Newcastle,Burnley,2023-09-30,True,DR,90,0.0,0.05,1.0,0.54,12,1.0,5.0,11.3,3,1,0,0.65,True,5.8,0.6,57.69,0.22,0.89,13.47,25.09,0.42,6.0,Newcastle,False,West Ham,2.29
+Kieran Trippier,Newcastle,West Ham,2023-10-08,False,DR,90,0.0,0.0,1.0,0.75,6,0.0,5.0,11.3,2,0,2,1.22,True,8.0,0.81,58.57,0.21,0.89,13.47,25.09,0.42,10.0,Newcastle,True,Crystal Palace,-2.15
 Kieran Trippier,Newcastle,Crystal Palace,2023-10-21,True,DR,68,0.0,0.0,1.0,0.76,10,0.0,2.0,6.9,2,1,0,0.39,True,9.0,1.01,58.82,0.24,0.89,13.47,25.09,0.42,,,,,

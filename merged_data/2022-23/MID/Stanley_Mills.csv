@@ -1,39 +1,39 @@
-name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Stanley Mills,Everton,Chelsea,True,0,0,0.0,0,0,0,False,0.0,Everton,True,Manchester United,0.93
-Stanley Mills,Everton,Manchester United,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Tottenham,2.99
-Stanley Mills,Everton,Tottenham,False,0,0,0.0,0,0,0,False,0.0,Everton,False,Newcastle United,1.81
-Stanley Mills,Everton,Newcastle United,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Crystal Palace,-1.89
-Stanley Mills,Everton,Crystal Palace,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Fulham,-0.21
-Stanley Mills,Everton,Fulham,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Leeds United,0.49
-Stanley Mills,Everton,Leeds United,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Bournemouth,4.39
-Stanley Mills,Everton,Bournemouth,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Wolverhampton,1.62
-Stanley Mills,Everton,Wolverhampton,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Manchester City,0.69
-Stanley Mills,Everton,Manchester City,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Brighton,0.33
-Stanley Mills,Everton,Brighton,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Aston Villa,3.22
-Stanley Mills,Everton,Aston Villa,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Southampton,-2.71
-Stanley Mills,Everton,Southampton,True,0,0,0.0,0,0,0,False,0.0,Everton,False,West Ham,2.5
-Stanley Mills,Everton,West Ham,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Arsenal,-2.09
-Stanley Mills,Everton,Arsenal,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Liverpool,1.94
-Stanley Mills,Everton,Liverpool,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Leicester City,-3.7
-Stanley Mills,Everton,Leicester City,True,0,0,0.0,0,0,0,False,0.0,Everton,True,Aston Villa,1.41
-Stanley Mills,Everton,Aston Villa,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Arsenal,2.52
-Stanley Mills,Everton,Arsenal,False,0,0,0.0,0,0,0,False,0.0,Everton,False,Nottingham Forest,0.07
-Stanley Mills,Everton,Nottingham Forest,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Brentford,-2.0
-Stanley Mills,Everton,Brentford,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Chelsea,1.97
-Stanley Mills,Everton,Chelsea,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Tottenham,-0.33
-Stanley Mills,Everton,Tottenham,True,0,0,0.0,0,0,0,False,0.0,Everton,True,Nottingham Forest,-0.72
-Stanley Mills,Everton,Nottingham Forest,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Manchester United,1.96
-Stanley Mills,Everton,Manchester United,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Fulham,2.03
-Stanley Mills,Everton,Fulham,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Crystal Palace,-0.42
-Stanley Mills,Everton,Crystal Palace,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Newcastle United,-0.27
-Stanley Mills,Everton,Newcastle United,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Leeds United,-1.47
-Stanley Mills,Everton,Leeds United,False,0,0,0.0,0,0,0,False,0.0,Everton,False,Brighton,-3.42
-Stanley Mills,Everton,Brighton,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Manchester City,1.75
-Stanley Mills,Everton,Manchester City,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Wolverhampton,1.67
-Stanley Mills,Everton,Wolverhampton,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Bournemouth,-4.02
-Stanley Mills,Everton,Bournemouth,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Brentford,0.08
+name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Stanley Mills,Everton,Chelsea,True,0,0,0.0,0,0,0,False,0.0,Everton,True,Manchester United,-3.63
+Stanley Mills,Everton,Manchester United,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Tottenham,5.72
+Stanley Mills,Everton,Tottenham,False,0,0,0.0,0,0,0,False,0.0,Everton,False,Newcastle United,2.79
+Stanley Mills,Everton,Newcastle United,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Crystal Palace,-2.12
+Stanley Mills,Everton,Crystal Palace,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Fulham,
+Stanley Mills,Everton,Fulham,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Leeds United,-2.66
+Stanley Mills,Everton,Leeds United,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Bournemouth,
+Stanley Mills,Everton,Bournemouth,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Wolverhampton,1.74
+Stanley Mills,Everton,Wolverhampton,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Manchester City,1.57
+Stanley Mills,Everton,Manchester City,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Brighton,-1.26
+Stanley Mills,Everton,Brighton,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Aston Villa,2.84
+Stanley Mills,Everton,Aston Villa,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Southampton,-6.12
+Stanley Mills,Everton,Southampton,True,0,0,0.0,0,0,0,False,0.0,Everton,False,West Ham,2.96
+Stanley Mills,Everton,West Ham,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Arsenal,-2.74
+Stanley Mills,Everton,Arsenal,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Liverpool,0.23
+Stanley Mills,Everton,Liverpool,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Leicester City,-6.39
+Stanley Mills,Everton,Leicester City,True,0,0,0.0,0,0,0,False,0.0,Everton,True,Aston Villa,0.09
+Stanley Mills,Everton,Aston Villa,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Arsenal,3.18
+Stanley Mills,Everton,Arsenal,False,0,0,0.0,0,0,0,False,0.0,Everton,False,Nottingham Forest,
+Stanley Mills,Everton,Nottingham Forest,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Brentford,-2.68
+Stanley Mills,Everton,Brentford,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Chelsea,-1.5
+Stanley Mills,Everton,Chelsea,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Tottenham,1.66
+Stanley Mills,Everton,Tottenham,True,0,0,0.0,0,0,0,False,0.0,Everton,True,Nottingham Forest,1.11
+Stanley Mills,Everton,Nottingham Forest,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Manchester United,-2.79
+Stanley Mills,Everton,Manchester United,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Fulham,
+Stanley Mills,Everton,Fulham,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Crystal Palace,1.58
+Stanley Mills,Everton,Crystal Palace,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Newcastle United,
+Stanley Mills,Everton,Newcastle United,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Leeds United,
+Stanley Mills,Everton,Leeds United,False,0,0,0.0,0,0,0,False,0.0,Everton,False,Brighton,-5.19
+Stanley Mills,Everton,Brighton,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Manchester City,
+Stanley Mills,Everton,Manchester City,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Wolverhampton,0.33
+Stanley Mills,Everton,Wolverhampton,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Bournemouth,
+Stanley Mills,Everton,Bournemouth,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Brentford,1.71
 Stanley Mills,Everton,Brentford,False,0,0,0.0,0,0,0,False,0.0,Everton,False,Leicester City,-1.63
-Stanley Mills,Everton,Leicester City,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Liverpool,-1.2
-Stanley Mills,Everton,Liverpool,True,0,0,0.0,0,0,0,False,0.0,Everton,True,West Ham,1.45
-Stanley Mills,Everton,West Ham,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Southampton,1.08
-Stanley Mills,Everton,Southampton,False,0,0,0.0,0,0,0,False,,Wolves,False,Manchester United,0.79
+Stanley Mills,Everton,Leicester City,False,0,0,0.0,0,0,0,False,0.0,Everton,True,Liverpool,0.76
+Stanley Mills,Everton,Liverpool,True,0,0,0.0,0,0,0,False,0.0,Everton,True,West Ham,0.7
+Stanley Mills,Everton,West Ham,True,0,0,0.0,0,0,0,False,0.0,Everton,False,Southampton,-1.98
+Stanley Mills,Everton,Southampton,False,0,0,0.0,0,0,0,False,,Wolves,False,Manchester United,-0.63

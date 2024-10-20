@@ -1,21 +1,21 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Kevin Schade,Brentford,Bournemouth,2023-01-14,True,Sub,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.0,0.0,8.0,0,0,0,0,0,0,Brentford,False,Leicester City,-0.02
-Kevin Schade,Brentford,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,4.0,0,0,0,0,0,1,Brentford,True,Southampton,-4.06
-Kevin Schade,Brentford,Southampton,2023-02-04,True,Sub,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,False,0.5,0.0,8.0,0,0,0,0,0,0,Brentford,False,Arsenal,0.3
-Kevin Schade,Brentford,Arsenal,2023-02-11,False,Sub,1,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.67,0.0,6.25,0,0,0,0,0,1,Brentford,True,Crystal Palace,1.05
-Kevin Schade,Brentford,Crystal Palace,2023-02-18,True,Sub,27,0.0,0.13,0.0,0.0,1,2.0,0.0,1.8,0,0,1,False,0.5,0.0,10.4,0,0,0,0,0,4,Brentford,True,Fulham,0.44
-Kevin Schade,Brentford,Fulham,2023-03-06,True,Sub,13,0.0,0.0,1.0,0.4,4,0.0,1.0,3.7,0,0,1,False,0.6,0.03,10.83,0,0,0,0,0,1,Brentford,False,Everton,2.1
-Kevin Schade,Brentford,Everton,2023-03-11,False,Sub,28,0.0,0.19,0.0,0.0,1,2.0,0.0,1.9,0,0,0,False,1.2,0.23,13.29,0,0,0,0,0,3,Brentford,False,Southampton,0.93
-Kevin Schade,Brentford,Southampton,2023-03-15,False,FWL,64,0.0,0.02,0.0,0.34,3,1.0,2.0,4.2,0,1,0,True,1.4,0.26,19.62,0,0,0,0,0,1,Brentford,True,Leeds United,2.23
-Kevin Schade,Brentford,Leeds United,2023-03-18,True,Sub,29,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,1.8,0.27,20.67,0,0,0,0,0,0,Brentford,False,Brighton,1.2
-Kevin Schade,Brentford,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.27,18.6,0,0,0,0,0,1,Brentford,False,Manchester United,1.62
-Kevin Schade,Brentford,Manchester United,2023-04-05,False,Sub,28,0.0,0.49,0.0,0.02,1,1.0,1.0,4.4,0,0,0,False,1.8,0.24,19.45,0,0,0,0,0,2,Brentford,True,Newcastle United,2.43
-Kevin Schade,Brentford,Newcastle United,2023-04-08,True,FW,90,0.0,0.0,0.0,0.02,2,0.0,1.0,2.9,0,0,2,True,1.2,0.14,25.33,0,0,0,0,0,2,Brentford,False,Wolverhampton,-1.6
-Kevin Schade,Brentford,Wolverhampton,2023-04-15,False,FWL,60,0.0,0.0,0.0,0.0,2,0.0,0.0,0.4,0,0,1,True,1.4,0.1,28.0,0,0,0,0,0,2,Brentford,True,Aston Villa,0.51
-Kevin Schade,Brentford,Aston Villa,2023-04-22,True,FWL,76,0.0,0.46,0.0,0.09,2,3.0,1.0,4.5,0,1,0,True,1.2,0.1,31.43,0,0,0,0,0,1,Brentford,False,Chelsea,-4.41
-Kevin Schade,Brentford,Chelsea,2023-04-26,False,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,1.4,0.19,29.8,0,0,0,0,0,2,Brentford,True,Nottingham Forest,-0.34
-Kevin Schade,Brentford,Nottingham Forest,2023-04-29,True,FWL,76,0.0,0.03,0.0,0.0,2,1.0,0.0,2.9,0,0,1,True,1.6,0.19,32.69,0,0,0,0,0,1,Brentford,False,Liverpool,3.48
-Kevin Schade,Brentford,Liverpool,2023-05-06,False,Sub,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,1.8,0.1,31.82,0,0,0,0,0,3,Brentford,True,West Ham,-1.97
-Kevin Schade,Brentford,West Ham,2023-05-14,True,FWL,85,0.0,0.06,0.0,0.68,3,2.0,2.0,8.8,0,1,0,True,1.6,0.1,34.78,0,0,0,0,0,2,Brentford,False,Tottenham,2.11
-Kevin Schade,Brentford,Tottenham,2023-05-20,False,FWL,77,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,True,1.8,0.11,37.0,0,0,0,0,0,1,Brentford,True,Manchester City,1.02
-Kevin Schade,Brentford,Manchester City,2023-05-28,True,Sub,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,1.8,0.02,36.15,0,0,0,0,0,1,Brentford,True,Tottenham,-0.38
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Kevin Schade,Brentford,Bournemouth,2023-01-14,True,Sub,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.0,0.0,8.0,0,0,0,0,0,0,Brentford,False,Leicester City,-0.7
+Kevin Schade,Brentford,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,4.0,0,0,0,0,0,1,Brentford,True,Southampton,-5.29
+Kevin Schade,Brentford,Southampton,2023-02-04,True,Sub,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,False,0.5,0.0,8.0,0,0,0,0,0,0,Brentford,False,Arsenal,1.21
+Kevin Schade,Brentford,Arsenal,2023-02-11,False,Sub,1,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.67,0.0,6.25,0,0,0,0,0,1,Brentford,True,Crystal Palace,-1.39
+Kevin Schade,Brentford,Crystal Palace,2023-02-18,True,Sub,27,0.0,0.13,0.0,0.0,1,2.0,0.0,1.8,0,0,1,False,0.5,0.0,10.4,0,0,0,0,0,4,Brentford,True,Fulham,
+Kevin Schade,Brentford,Fulham,2023-03-06,True,Sub,13,0.0,0.0,1.0,0.4,4,0.0,1.0,3.7,0,0,1,False,0.6,0.03,10.83,0,0,0,0,0,1,Brentford,False,Everton,1.61
+Kevin Schade,Brentford,Everton,2023-03-11,False,Sub,28,0.0,0.19,0.0,0.0,1,2.0,0.0,1.9,0,0,0,False,1.2,0.23,13.29,0,0,0,0,0,3,Brentford,False,Southampton,4.95
+Kevin Schade,Brentford,Southampton,2023-03-15,False,FWL,64,0.0,0.02,0.0,0.34,3,1.0,2.0,4.2,0,1,0,True,1.4,0.26,19.62,0,0,0,0,0,1,Brentford,True,Leeds United,2.58
+Kevin Schade,Brentford,Leeds United,2023-03-18,True,Sub,29,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,1.8,0.27,20.67,0,0,0,0,0,0,Brentford,False,Brighton,2.12
+Kevin Schade,Brentford,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.27,18.6,0,0,0,0,0,1,Brentford,False,Manchester United,4.13
+Kevin Schade,Brentford,Manchester United,2023-04-05,False,Sub,28,0.0,0.49,0.0,0.02,1,1.0,1.0,4.4,0,0,0,False,1.8,0.24,19.45,0,0,0,0,0,2,Brentford,True,Newcastle United,3.04
+Kevin Schade,Brentford,Newcastle United,2023-04-08,True,FW,90,0.0,0.0,0.0,0.02,2,0.0,1.0,2.9,0,0,2,True,1.2,0.14,25.33,0,0,0,0,0,2,Brentford,False,Wolverhampton,-3.56
+Kevin Schade,Brentford,Wolverhampton,2023-04-15,False,FWL,60,0.0,0.0,0.0,0.0,2,0.0,0.0,0.4,0,0,1,True,1.4,0.1,28.0,0,0,0,0,0,2,Brentford,True,Aston Villa,-0.66
+Kevin Schade,Brentford,Aston Villa,2023-04-22,True,FWL,76,0.0,0.46,0.0,0.09,2,3.0,1.0,4.5,0,1,0,True,1.2,0.1,31.43,0,0,0,0,0,1,Brentford,False,Chelsea,-6.19
+Kevin Schade,Brentford,Chelsea,2023-04-26,False,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,1.4,0.19,29.8,0,0,0,0,0,2,Brentford,True,Nottingham Forest,
+Kevin Schade,Brentford,Nottingham Forest,2023-04-29,True,FWL,76,0.0,0.03,0.0,0.0,2,1.0,0.0,2.9,0,0,1,True,1.6,0.19,32.69,0,0,0,0,0,1,Brentford,False,Liverpool,5.06
+Kevin Schade,Brentford,Liverpool,2023-05-06,False,Sub,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,1.8,0.1,31.82,0,0,0,0,0,3,Brentford,True,West Ham,-2.74
+Kevin Schade,Brentford,West Ham,2023-05-14,True,FWL,85,0.0,0.06,0.0,0.68,3,2.0,2.0,8.8,0,1,0,True,1.6,0.1,34.78,0,0,0,0,0,2,Brentford,False,Tottenham,4.55
+Kevin Schade,Brentford,Tottenham,2023-05-20,False,FWL,77,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,True,1.8,0.11,37.0,0,0,0,0,0,1,Brentford,True,Manchester City,0.85
+Kevin Schade,Brentford,Manchester City,2023-05-28,True,Sub,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,1.8,0.02,36.15,0,0,0,0,0,1,Brentford,True,Tottenham,-0.82

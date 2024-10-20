@@ -1,19 +1,19 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Naouirou Ahamada,Crystal Palace,Manchester United,2023-02-04,False,Sub,8,0.0,0.03,0.0,0.05,1,1.0,1.0,0.5,0,0,0,False,0.0,0.0,8.0,0,0,0,0,0,1,Crystal Palace,True,Brighton,-0.29
-Naouirou Ahamada,Crystal Palace,Brighton,2023-02-11,True,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,1.0,0.03,7.0,0,0,0,0,0,1,Crystal Palace,False,Brentford,0.24
-Naouirou Ahamada,Crystal Palace,Brentford,2023-02-18,False,Sub,10,0.0,0.08,0.0,0.0,1,1.0,0.0,0.3,0,0,1,False,1.0,0.02,8.0,0,0,0,0,0,0,Crystal Palace,True,Liverpool,0.92
-Naouirou Ahamada,Crystal Palace,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.04,6.0,0,0,0,0,0,0,Crystal Palace,False,Aston Villa,1.69
-Naouirou Ahamada,Crystal Palace,Aston Villa,2023-03-04,False,Sub,15,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.75,0.03,7.8,0,0,0,0,0,1,Crystal Palace,True,Manchester City,1.02
-Naouirou Ahamada,Crystal Palace,Manchester City,2023-03-11,True,Sub,29,0.0,0.0,0.0,0.04,1,0.0,1.0,1.6,0,0,1,False,0.6,0.02,11.33,0,0,0,0,0,1,Crystal Palace,False,Brighton,2.17
-Naouirou Ahamada,Crystal Palace,Brighton,2023-03-15,False,Sub,10,0.0,0.07,0.0,0.0,1,1.0,0.0,0.4,0,0,0,False,0.6,0.02,11.14,0,0,0,0,0,1,Crystal Palace,False,Arsenal,3.89
-Naouirou Ahamada,Crystal Palace,Arsenal,2023-03-19,False,Sub,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.6,0.03,10.75,0,0,0,0,0,0,Crystal Palace,True,Leeds United,1.4
-Naouirou Ahamada,Crystal Palace,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,9.56,0,0,0,0,0,0,Crystal Palace,False,Leicester City,-1.38
-Naouirou Ahamada,Crystal Palace,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,8.6,0,0,0,0,0,0,Crystal Palace,False,Southampton,-0.93
-Naouirou Ahamada,Crystal Palace,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,7.82,0,0,0,0,0,0,Crystal Palace,True,Everton,0.47
-Naouirou Ahamada,Crystal Palace,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.01,7.17,0,0,0,0,0,0,Crystal Palace,False,Wolverhampton,-0.93
-Naouirou Ahamada,Crystal Palace,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.62,0,0,0,0,0,0,Crystal Palace,True,West Ham,0.94
-Naouirou Ahamada,Crystal Palace,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.14,0,0,0,0,0,0,Crystal Palace,False,Tottenham,3.43
-Naouirou Ahamada,Crystal Palace,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.73,0,0,0,0,0,0,Crystal Palace,True,Bournemouth,0.86
-Naouirou Ahamada,Crystal Palace,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.38,0,0,0,0,0,0,Crystal Palace,False,Fulham,1.13
-Naouirou Ahamada,Crystal Palace,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.06,0,0,0,0,0,1,Crystal Palace,True,Nottingham Forest,1.11
-Naouirou Ahamada,Crystal Palace,Nottingham Forest,2023-05-28,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,4.83,0,0,0,0,0,0,Crystal Palace,False,Sheffield,-0.5
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Naouirou Ahamada,Crystal Palace,Manchester United,2023-02-04,False,Sub,8,0.0,0.03,0.0,0.05,1,1.0,1.0,0.5,0,0,0,False,0.0,0.0,8.0,0,0,0,0,0,1,Crystal Palace,True,Brighton,-0.1
+Naouirou Ahamada,Crystal Palace,Brighton,2023-02-11,True,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,1.0,0.03,7.0,0,0,0,0,0,1,Crystal Palace,False,Brentford,1.96
+Naouirou Ahamada,Crystal Palace,Brentford,2023-02-18,False,Sub,10,0.0,0.08,0.0,0.0,1,1.0,0.0,0.3,0,0,1,False,1.0,0.02,8.0,0,0,0,0,0,0,Crystal Palace,True,Liverpool,3.6
+Naouirou Ahamada,Crystal Palace,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.04,6.0,0,0,0,0,0,0,Crystal Palace,False,Aston Villa,0.99
+Naouirou Ahamada,Crystal Palace,Aston Villa,2023-03-04,False,Sub,15,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.75,0.03,7.8,0,0,0,0,0,1,Crystal Palace,True,Manchester City,-0.0
+Naouirou Ahamada,Crystal Palace,Manchester City,2023-03-11,True,Sub,29,0.0,0.0,0.0,0.04,1,0.0,1.0,1.6,0,0,1,False,0.6,0.02,11.33,0,0,0,0,0,1,Crystal Palace,False,Brighton,0.95
+Naouirou Ahamada,Crystal Palace,Brighton,2023-03-15,False,Sub,10,0.0,0.07,0.0,0.0,1,1.0,0.0,0.4,0,0,0,False,0.6,0.02,11.14,0,0,0,0,0,1,Crystal Palace,False,Arsenal,1.99
+Naouirou Ahamada,Crystal Palace,Arsenal,2023-03-19,False,Sub,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.6,0.03,10.75,0,0,0,0,0,0,Crystal Palace,True,Leeds United,3.21
+Naouirou Ahamada,Crystal Palace,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,9.56,0,0,0,0,0,0,Crystal Palace,False,Leicester City,2.85
+Naouirou Ahamada,Crystal Palace,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,8.6,0,0,0,0,0,0,Crystal Palace,False,Southampton,-0.34
+Naouirou Ahamada,Crystal Palace,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,7.82,0,0,0,0,0,0,Crystal Palace,True,Everton,-1.9
+Naouirou Ahamada,Crystal Palace,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.01,7.17,0,0,0,0,0,0,Crystal Palace,False,Wolverhampton,-4.3
+Naouirou Ahamada,Crystal Palace,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.62,0,0,0,0,0,0,Crystal Palace,True,West Ham,3.67
+Naouirou Ahamada,Crystal Palace,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.14,0,0,0,0,0,0,Crystal Palace,False,Tottenham,6.04
+Naouirou Ahamada,Crystal Palace,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.73,0,0,0,0,0,0,Crystal Palace,True,Bournemouth,
+Naouirou Ahamada,Crystal Palace,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.38,0,0,0,0,0,0,Crystal Palace,False,Fulham,
+Naouirou Ahamada,Crystal Palace,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.06,0,0,0,0,0,1,Crystal Palace,True,Nottingham Forest,
+Naouirou Ahamada,Crystal Palace,Nottingham Forest,2023-05-28,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,4.83,0,0,0,0,0,0,Crystal Palace,False,Sheffield,

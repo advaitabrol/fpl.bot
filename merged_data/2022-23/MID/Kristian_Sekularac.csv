@@ -1,25 +1,25 @@
-name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Kristian Sekularac,Fulham,Manchester United,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Crystal Palace,-1.05
-Kristian Sekularac,Fulham,Crystal Palace,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,Southampton,-0.67
-Kristian Sekularac,Fulham,Southampton,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Leeds United,-2.01
-Kristian Sekularac,Fulham,Leeds United,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,Chelsea,1.22
-Kristian Sekularac,Fulham,Chelsea,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Newcastle United,1.64
-Kristian Sekularac,Fulham,Newcastle United,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,Tottenham,-0.89
-Kristian Sekularac,Fulham,Tottenham,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Chelsea,0.71
-Kristian Sekularac,Fulham,Chelsea,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,Nottingham Forest,-3.99
-Kristian Sekularac,Fulham,Nottingham Forest,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Brighton,-0.55
-Kristian Sekularac,Fulham,Brighton,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,Wolverhampton,0.52
-Kristian Sekularac,Fulham,Wolverhampton,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Brentford,0.07
-Kristian Sekularac,Fulham,Brentford,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,Arsenal,0.97
-Kristian Sekularac,Fulham,Arsenal,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Bournemouth,3.99
-Kristian Sekularac,Fulham,Bournemouth,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,West Ham,-0.79
-Kristian Sekularac,Fulham,West Ham,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Everton,-0.93
-Kristian Sekularac,Fulham,Everton,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,Leicester City,-2.18
-Kristian Sekularac,Fulham,Leicester City,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Aston Villa,2.57
-Kristian Sekularac,Fulham,Aston Villa,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,Manchester City,2.68
-Kristian Sekularac,Fulham,Manchester City,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Liverpool,0.28
-Kristian Sekularac,Fulham,Liverpool,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,Leeds United,0.24
-Kristian Sekularac,Fulham,Leeds United,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Southampton,-1.16
-Kristian Sekularac,Fulham,Southampton,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,Crystal Palace,0.27
-Kristian Sekularac,Fulham,Crystal Palace,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Manchester United,0.13
-Kristian Sekularac,Fulham,Manchester United,False,0,0,0.0,0,0,0,False,,Nott'm Forest,False,Arsenal,1.87
+name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Kristian Sekularac,Fulham,Manchester United,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Crystal Palace,
+Kristian Sekularac,Fulham,Crystal Palace,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,Southampton,
+Kristian Sekularac,Fulham,Southampton,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Leeds United,
+Kristian Sekularac,Fulham,Leeds United,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,Chelsea,
+Kristian Sekularac,Fulham,Chelsea,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Newcastle United,
+Kristian Sekularac,Fulham,Newcastle United,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,Tottenham,
+Kristian Sekularac,Fulham,Tottenham,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Chelsea,
+Kristian Sekularac,Fulham,Chelsea,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,Nottingham Forest,
+Kristian Sekularac,Fulham,Nottingham Forest,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Brighton,
+Kristian Sekularac,Fulham,Brighton,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,Wolverhampton,
+Kristian Sekularac,Fulham,Wolverhampton,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Brentford,
+Kristian Sekularac,Fulham,Brentford,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,Arsenal,
+Kristian Sekularac,Fulham,Arsenal,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Bournemouth,
+Kristian Sekularac,Fulham,Bournemouth,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,West Ham,
+Kristian Sekularac,Fulham,West Ham,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Everton,
+Kristian Sekularac,Fulham,Everton,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,Leicester City,
+Kristian Sekularac,Fulham,Leicester City,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Aston Villa,
+Kristian Sekularac,Fulham,Aston Villa,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,Manchester City,
+Kristian Sekularac,Fulham,Manchester City,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Liverpool,
+Kristian Sekularac,Fulham,Liverpool,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,Leeds United,
+Kristian Sekularac,Fulham,Leeds United,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Southampton,
+Kristian Sekularac,Fulham,Southampton,False,0,0,0.0,0,0,0,False,0.0,Fulham,True,Crystal Palace,
+Kristian Sekularac,Fulham,Crystal Palace,True,0,0,0.0,0,0,0,False,0.0,Fulham,False,Manchester United,
+Kristian Sekularac,Fulham,Manchester United,False,0,0,0.0,0,0,0,False,,Nott'm Forest,False,Arsenal,4.71

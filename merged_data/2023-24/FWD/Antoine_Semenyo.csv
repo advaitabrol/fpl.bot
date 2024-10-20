@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Antoine Semenyo,Bournemouth,West Ham,2023-08-12,True,Sub,15,0.0,0.04,0.0,0.0,4,2.0,0.0,0.5,0,False,0.0,0.0,15.0,1.0,0.0,0.37,0.08,0.07,9.0,Bournemouth,True,Burnley,-0.93
-Antoine Semenyo,Bournemouth,Burnley,2023-10-28,True,AMR,68,1.0,0.1,0.0,0.48,9,2.0,2.0,9.9,3,True,4.0,0.04,41.5,1.0,0.0,0.37,0.08,0.07,1.0,Bournemouth,False,Manchester City,2.96
-Antoine Semenyo,Bournemouth,Manchester City,2023-11-04,False,Sub,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,6.5,0.07,34.0,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,True,Newcastle United,-1.78
-Antoine Semenyo,Bournemouth,Newcastle United,2023-11-11,True,AMR,80,0.0,0.24,0.0,0.08,2,4.0,1.0,4.4,0,True,4.67,0.05,45.5,1.0,0.0,0.37,0.08,0.07,5.0,Bournemouth,False,Sheffield,-5.08
-Antoine Semenyo,Bournemouth,Sheffield,2023-11-25,False,AMR,65,0.0,0.16,1.0,0.39,5,3.0,1.0,4.8,0,True,4.0,0.09,49.4,1.0,0.0,0.37,0.08,0.07,5.0,Bournemouth,True,Aston Villa,-2.21
-Antoine Semenyo,Bournemouth,Aston Villa,2023-12-03,True,AML,70,1.0,0.43,0.0,0.03,5,3.0,1.0,11.2,0,True,4.2,0.31,52.83,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,False,Crystal Palace,0.17
-Antoine Semenyo,Bournemouth,Crystal Palace,2023-12-06,False,AMR,61,0.0,0.13,0.0,0.12,2,1.0,1.0,4.5,0,True,4.4,0.38,54.0,1.0,0.0,0.37,0.08,0.07,1.0,Bournemouth,False,Manchester United,-1.42
-Antoine Semenyo,Bournemouth,Manchester United,2023-12-09,False,AMR,57,0.0,0.0,0.0,0.15,1,0.0,2.0,2.7,0,True,3.0,0.39,54.38,1.0,0.0,0.37,0.08,0.07,1.0,Bournemouth,False,Nottingham Forest,-0.87
-Antoine Semenyo,Bournemouth,Nottingham Forest,2023-12-23,False,AMR,69,0.0,0.58,0.0,0.03,1,4.0,1.0,6.7,0,True,3.0,0.39,56.0,1.0,0.0,0.37,0.08,0.07,5.0,Bournemouth,True,Fulham,-3.96
-Antoine Semenyo,Bournemouth,Fulham,2023-12-26,True,AMR,71,0.0,0.02,0.0,0.28,5,1.0,1.0,2.1,0,True,2.8,0.46,57.5,1.0,0.0,0.37,0.08,0.07,6.0,Bournemouth,False,Liverpool,4.89
-Antoine Semenyo,Bournemouth,Liverpool,2023-08-19,False,AMR,75,1.0,0.14,0.0,0.3,6,3.0,1.0,8.4,1,True,2.8,0.23,59.09,1.0,0.0,0.37,0.08,0.07,1.0,Bournemouth,False,Tottenham,0.69
-Antoine Semenyo,Bournemouth,Tottenham,2023-12-31,False,Sub,29,0.0,0.11,0.0,0.0,1,3.0,0.0,3.2,0,False,3.0,0.17,56.58,1.0,0.0,0.37,0.08,0.07,0.0,Bournemouth,True,Liverpool,0.55
-Antoine Semenyo,Bournemouth,Liverpool,,True,,0,,,,,0,,,0.0,0,False,2.8,0.17,52.23,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,False,West Ham,1.5
-Antoine Semenyo,Bournemouth,West Ham,2024-02-01,False,AMR,67,0.0,0.56,0.0,0.07,2,3.0,1.0,6.1,0,True,2.6,0.17,53.29,1.0,0.0,0.37,0.08,0.07,1.0,Bournemouth,True,Nottingham Forest,-0.18
-Antoine Semenyo,Bournemouth,Nottingham Forest,2024-02-04,True,AMR,45,0.0,0.02,0.0,0.05,1,1.0,1.0,1.7,0,True,2.8,0.17,52.73,1.0,0.0,0.37,0.08,0.07,1.0,Bournemouth,False,Fulham,0.65
-Antoine Semenyo,Bournemouth,Fulham,2024-02-10,False,Sub,27,0.0,0.06,0.0,0.09,1,1.0,1.0,3.1,0,False,2.0,0.17,51.12,1.0,0.0,0.37,0.08,0.07,8.0,Bournemouth,False,Newcastle United,-1.24
-Antoine Semenyo,Bournemouth,Newcastle United,2024-02-17,False,AMR,77,1.0,0.08,0.0,0.0,8,1.0,0.0,5.5,2,True,1.0,0.15,52.65,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,True,Manchester City,1.44
-Antoine Semenyo,Bournemouth,Manchester City,2024-02-24,True,AMR,90,0.0,0.0,0.0,0.09,2,0.0,2.0,4.6,0,True,2.4,0.14,54.72,1.0,0.0,0.37,0.08,0.07,7.0,Bournemouth,False,Burnley,-3.18
-Antoine Semenyo,Bournemouth,Burnley,2024-03-03,False,AMR,90,1.0,0.32,0.0,0.41,7,3.0,1.0,7.8,2,True,2.8,0.14,56.58,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,True,Sheffield,0.28
-Antoine Semenyo,Bournemouth,Sheffield,2024-03-09,True,AMR,90,0.0,0.55,0.0,0.0,2,6.0,0.0,6.4,0,True,3.8,0.09,58.25,1.0,0.0,0.37,0.08,0.07,13.0,Bournemouth,True,Luton,-1.83
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Antoine Semenyo,Bournemouth,West Ham,2023-08-12,True,Sub,15,0.0,0.04,0.0,0.0,4,2.0,0.0,0.5,0,False,0.0,0.0,15.0,1.0,0.0,0.37,0.08,0.07,9.0,Bournemouth,True,Burnley,
+Antoine Semenyo,Bournemouth,Burnley,2023-10-28,True,AMR,68,1.0,0.1,0.0,0.48,9,2.0,2.0,9.9,3,True,4.0,0.04,41.5,1.0,0.0,0.37,0.08,0.07,1.0,Bournemouth,False,Manchester City,1.61
+Antoine Semenyo,Bournemouth,Manchester City,2023-11-04,False,Sub,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,6.5,0.07,34.0,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,True,Newcastle United,-1.09
+Antoine Semenyo,Bournemouth,Newcastle United,2023-11-11,True,AMR,80,0.0,0.24,0.0,0.08,2,4.0,1.0,4.4,0,True,4.67,0.05,45.5,1.0,0.0,0.37,0.08,0.07,5.0,Bournemouth,False,Sheffield,
+Antoine Semenyo,Bournemouth,Sheffield,2023-11-25,False,AMR,65,0.0,0.16,1.0,0.39,5,3.0,1.0,4.8,0,True,4.0,0.09,49.4,1.0,0.0,0.37,0.08,0.07,5.0,Bournemouth,True,Aston Villa,-2.77
+Antoine Semenyo,Bournemouth,Aston Villa,2023-12-03,True,AML,70,1.0,0.43,0.0,0.03,5,3.0,1.0,11.2,0,True,4.2,0.31,52.83,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,False,Crystal Palace,3.33
+Antoine Semenyo,Bournemouth,Crystal Palace,2023-12-06,False,AMR,61,0.0,0.13,0.0,0.12,2,1.0,1.0,4.5,0,True,4.4,0.38,54.0,1.0,0.0,0.37,0.08,0.07,1.0,Bournemouth,False,Manchester United,2.68
+Antoine Semenyo,Bournemouth,Manchester United,2023-12-09,False,AMR,57,0.0,0.0,0.0,0.15,1,0.0,2.0,2.7,0,True,3.0,0.39,54.38,1.0,0.0,0.37,0.08,0.07,1.0,Bournemouth,False,Nottingham Forest,-0.1
+Antoine Semenyo,Bournemouth,Nottingham Forest,2023-12-23,False,AMR,69,0.0,0.58,0.0,0.03,1,4.0,1.0,6.7,0,True,3.0,0.39,56.0,1.0,0.0,0.37,0.08,0.07,5.0,Bournemouth,True,Fulham,-2.88
+Antoine Semenyo,Bournemouth,Fulham,2023-12-26,True,AMR,71,0.0,0.02,0.0,0.28,5,1.0,1.0,2.1,0,True,2.8,0.46,57.5,1.0,0.0,0.37,0.08,0.07,6.0,Bournemouth,False,Liverpool,7.33
+Antoine Semenyo,Bournemouth,Liverpool,2023-08-19,False,AMR,75,1.0,0.14,0.0,0.3,6,3.0,1.0,8.4,1,True,2.8,0.23,59.09,1.0,0.0,0.37,0.08,0.07,1.0,Bournemouth,False,Tottenham,-1.42
+Antoine Semenyo,Bournemouth,Tottenham,2023-12-31,False,Sub,29,0.0,0.11,0.0,0.0,1,3.0,0.0,3.2,0,False,3.0,0.17,56.58,1.0,0.0,0.37,0.08,0.07,0.0,Bournemouth,True,Liverpool,-2.32
+Antoine Semenyo,Bournemouth,Liverpool,,True,,0,,,,,0,,,0.0,0,False,2.8,0.17,52.23,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,False,West Ham,2.67
+Antoine Semenyo,Bournemouth,West Ham,2024-02-01,False,AMR,67,0.0,0.56,0.0,0.07,2,3.0,1.0,6.1,0,True,2.6,0.17,53.29,1.0,0.0,0.37,0.08,0.07,1.0,Bournemouth,True,Nottingham Forest,0.51
+Antoine Semenyo,Bournemouth,Nottingham Forest,2024-02-04,True,AMR,45,0.0,0.02,0.0,0.05,1,1.0,1.0,1.7,0,True,2.8,0.17,52.73,1.0,0.0,0.37,0.08,0.07,1.0,Bournemouth,False,Fulham,-1.43
+Antoine Semenyo,Bournemouth,Fulham,2024-02-10,False,Sub,27,0.0,0.06,0.0,0.09,1,1.0,1.0,3.1,0,False,2.0,0.17,51.12,1.0,0.0,0.37,0.08,0.07,8.0,Bournemouth,False,Newcastle United,-1.45
+Antoine Semenyo,Bournemouth,Newcastle United,2024-02-17,False,AMR,77,1.0,0.08,0.0,0.0,8,1.0,0.0,5.5,2,True,1.0,0.15,52.65,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,True,Manchester City,1.02
+Antoine Semenyo,Bournemouth,Manchester City,2024-02-24,True,AMR,90,0.0,0.0,0.0,0.09,2,0.0,2.0,4.6,0,True,2.4,0.14,54.72,1.0,0.0,0.37,0.08,0.07,7.0,Bournemouth,False,Burnley,
+Antoine Semenyo,Bournemouth,Burnley,2024-03-03,False,AMR,90,1.0,0.32,0.0,0.41,7,3.0,1.0,7.8,2,True,2.8,0.14,56.58,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,True,Sheffield,
+Antoine Semenyo,Bournemouth,Sheffield,2024-03-09,True,AMR,90,0.0,0.55,0.0,0.0,2,6.0,0.0,6.4,0,True,3.8,0.09,58.25,1.0,0.0,0.37,0.08,0.07,13.0,Bournemouth,True,Luton,
 Antoine Semenyo,Bournemouth,Luton,2024-03-13,True,AMR,90,2.0,0.56,0.0,0.12,13,5.0,3.0,17.8,3,True,4.0,0.2,59.76,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,True,Tottenham,1.6
-Antoine Semenyo,Bournemouth,Tottenham,2023-08-26,True,AMR,72,0.0,0.1,0.0,0.0,2,2.0,0.0,1.1,0,True,6.4,0.3,60.32,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,True,Everton,-3.5
-Antoine Semenyo,Bournemouth,Everton,2024-03-30,True,AMR,90,0.0,0.22,0.0,0.03,2,3.0,1.0,5.1,0,True,5.2,0.31,61.61,1.0,0.0,0.37,0.08,0.07,3.0,Bournemouth,True,Crystal Palace,0.58
-Antoine Semenyo,Bournemouth,Crystal Palace,2024-04-02,True,Sub,45,0.0,0.36,1.0,0.4,3,1.0,2.0,7.3,0,False,5.2,0.35,60.92,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,False,Luton,1.09
-Antoine Semenyo,Bournemouth,Luton,2024-04-06,False,AML,68,0.0,0.0,0.0,0.07,2,0.0,1.0,1.6,0,True,4.4,0.56,61.2,1.0,0.0,0.37,0.08,0.07,0.0,Bournemouth,True,Manchester United,0.69
-Antoine Semenyo,Bournemouth,Manchester United,,True,,0,,,,,0,,,0.0,0,False,4.4,0.45,58.85,1.0,0.0,0.37,0.08,0.07,1.0,Bournemouth,False,Aston Villa,2.29
-Antoine Semenyo,Bournemouth,Aston Villa,2024-04-21,False,Sub,27,0.0,0.12,0.0,0.0,1,2.0,0.0,1.8,0,False,1.8,0.34,57.67,1.0,0.0,0.37,0.08,0.07,9.0,Bournemouth,False,Wolverhampton,-2.03
-Antoine Semenyo,Bournemouth,Wolverhampton,2024-04-24,False,AMR,90,1.0,0.71,0.0,0.0,9,3.0,0.0,10.9,3,True,1.6,0.34,58.82,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,True,Brighton,-1.19
-Antoine Semenyo,Bournemouth,Brighton,2024-04-28,True,MR,90,0.0,0.07,0.0,0.28,2,1.0,2.0,5.5,0,True,3.0,0.44,59.9,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,False,Arsenal,0.25
-Antoine Semenyo,Bournemouth,Arsenal,2024-05-04,False,AMR,90,0.0,0.03,0.0,0.0,2,1.0,0.0,1.1,0,True,2.8,0.18,60.9,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,True,Brentford,0.86
-Antoine Semenyo,Bournemouth,Brentford,2024-05-11,True,AMR,90,0.0,0.17,0.0,0.13,2,3.0,1.0,5.1,0,True,2.8,0.19,61.84,1.0,0.0,0.37,0.08,0.07,1.0,Bournemouth,False,Chelsea,1.75
+Antoine Semenyo,Bournemouth,Tottenham,2023-08-26,True,AMR,72,0.0,0.1,0.0,0.0,2,2.0,0.0,1.1,0,True,6.4,0.3,60.32,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,True,Everton,-5.04
+Antoine Semenyo,Bournemouth,Everton,2024-03-30,True,AMR,90,0.0,0.22,0.0,0.03,2,3.0,1.0,5.1,0,True,5.2,0.31,61.61,1.0,0.0,0.37,0.08,0.07,3.0,Bournemouth,True,Crystal Palace,3.26
+Antoine Semenyo,Bournemouth,Crystal Palace,2024-04-02,True,Sub,45,0.0,0.36,1.0,0.4,3,1.0,2.0,7.3,0,False,5.2,0.35,60.92,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,False,Luton,
+Antoine Semenyo,Bournemouth,Luton,2024-04-06,False,AML,68,0.0,0.0,0.0,0.07,2,0.0,1.0,1.6,0,True,4.4,0.56,61.2,1.0,0.0,0.37,0.08,0.07,0.0,Bournemouth,True,Manchester United,
+Antoine Semenyo,Bournemouth,Manchester United,,True,,0,,,,,0,,,0.0,0,False,4.4,0.45,58.85,1.0,0.0,0.37,0.08,0.07,1.0,Bournemouth,False,Aston Villa,
+Antoine Semenyo,Bournemouth,Aston Villa,2024-04-21,False,Sub,27,0.0,0.12,0.0,0.0,1,2.0,0.0,1.8,0,False,1.8,0.34,57.67,1.0,0.0,0.37,0.08,0.07,9.0,Bournemouth,False,Wolverhampton,
+Antoine Semenyo,Bournemouth,Wolverhampton,2024-04-24,False,AMR,90,1.0,0.71,0.0,0.0,9,3.0,0.0,10.9,3,True,1.6,0.34,58.82,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,True,Brighton,
+Antoine Semenyo,Bournemouth,Brighton,2024-04-28,True,MR,90,0.0,0.07,0.0,0.28,2,1.0,2.0,5.5,0,True,3.0,0.44,59.9,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,False,Arsenal,
+Antoine Semenyo,Bournemouth,Arsenal,2024-05-04,False,AMR,90,0.0,0.03,0.0,0.0,2,1.0,0.0,1.1,0,True,2.8,0.18,60.9,1.0,0.0,0.37,0.08,0.07,2.0,Bournemouth,True,Brentford,0.49
+Antoine Semenyo,Bournemouth,Brentford,2024-05-11,True,AMR,90,0.0,0.17,0.0,0.13,2,3.0,1.0,5.1,0,True,2.8,0.19,61.84,1.0,0.0,0.37,0.08,0.07,1.0,Bournemouth,False,Chelsea,2.82
 Antoine Semenyo,Bournemouth,Chelsea,2024-05-19,False,AMR,90,0.0,0.13,0.0,0.21,1,3.0,2.0,8.2,0,True,3.2,0.22,62.72,1.0,0.0,0.37,0.08,0.07,1.0,Bournemouth,False,Brentford,0.82
-Antoine Semenyo,Bournemouth,Brentford,2023-09-02,False,AMR,59,0.0,0.32,0.0,0.0,1,2.0,0.0,2.7,0,True,3.2,0.22,62.61,1.0,0.0,0.37,0.08,0.07,0.0,Bournemouth,True,Chelsea,-0.01
-Antoine Semenyo,Bournemouth,Chelsea,,True,,0,,,,,0,,,0.0,0,False,1.6,0.14,60.76,1.0,0.0,0.37,0.08,0.07,1.0,Bournemouth,False,Brighton,0.77
+Antoine Semenyo,Bournemouth,Brentford,2023-09-02,False,AMR,59,0.0,0.32,0.0,0.0,1,2.0,0.0,2.7,0,True,3.2,0.22,62.61,1.0,0.0,0.37,0.08,0.07,0.0,Bournemouth,True,Chelsea,-1.09
+Antoine Semenyo,Bournemouth,Chelsea,,True,,0,,,,,0,,,0.0,0,False,1.6,0.14,60.76,1.0,0.0,0.37,0.08,0.07,1.0,Bournemouth,False,Brighton,1.13
 Antoine Semenyo,Bournemouth,Brighton,2023-09-24,False,Sub,26,0.0,0.1,0.0,0.0,1,3.0,0.0,4.8,0,False,1.2,0.13,59.77,1.0,0.0,0.37,0.08,0.07,1.0,Bournemouth,True,Arsenal,4.06
-Antoine Semenyo,Bournemouth,Arsenal,2023-09-30,True,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,1.0,0.14,58.31,1.0,0.0,0.37,0.08,0.07,0.0,Bournemouth,False,Everton,3.85
+Antoine Semenyo,Bournemouth,Arsenal,2023-09-30,True,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,1.0,0.14,58.31,1.0,0.0,0.37,0.08,0.07,0.0,Bournemouth,False,Everton,4.91
 Antoine Semenyo,Bournemouth,Everton,,False,,0,,,,,0,,,0.0,0,False,0.8,0.11,56.73,1.0,0.0,0.37,0.08,0.07,0.0,Bournemouth,True,Wolverhampton,0.64
 Antoine Semenyo,Bournemouth,Wolverhampton,,True,,0,,,,,0,,,0.0,0,False,0.6,0.08,55.24,1.0,0.0,0.37,0.08,0.07,,,,,

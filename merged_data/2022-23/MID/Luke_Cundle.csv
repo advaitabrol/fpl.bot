@@ -1,39 +1,39 @@
-name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
-Luke Cundle,Wolves,Leicester City,False,0,0,0.0,0,0,0,False,0.0,Wolves,False,Chelsea,-1.76
-Luke Cundle,Wolves,Chelsea,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Nottingham Forest,-0.48
-Luke Cundle,Wolves,Nottingham Forest,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Crystal Palace,1.56
-Luke Cundle,Wolves,Crystal Palace,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Leeds United,1.22
-Luke Cundle,Wolves,Leeds United,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Brentford,-2.66
-Luke Cundle,Wolves,Brentford,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Brighton,0.86
-Luke Cundle,Wolves,Brighton,True,0,0,0.0,0,0,0,False,0.0,Wolves,True,Arsenal,2.09
-Luke Cundle,Wolves,Arsenal,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Everton,-1.6
-Luke Cundle,Wolves,Everton,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Manchester United,0.06
-Luke Cundle,Wolves,Manchester United,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Aston Villa,-0.08
-Luke Cundle,Wolves,Aston Villa,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Fulham,-0.51
-Luke Cundle,Wolves,Fulham,True,0,0,0.0,0,0,0,False,0.0,Wolves,True,West Ham,-1.01
-Luke Cundle,Wolves,West Ham,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Manchester City,3.31
-Luke Cundle,Wolves,Manchester City,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Liverpool,-2.02
-Luke Cundle,Wolves,Liverpool,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Southampton,-2.53
-Luke Cundle,Wolves,Southampton,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Bournemouth,2.85
-Luke Cundle,Wolves,Bournemouth,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Fulham,-1.47
-Luke Cundle,Wolves,Fulham,False,0,0,0.0,0,0,0,False,0.0,Wolves,False,Liverpool,1.68
-Luke Cundle,Wolves,Liverpool,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Tottenham,-0.94
-Luke Cundle,Wolves,Tottenham,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Newcastle United,2.58
-Luke Cundle,Wolves,Newcastle United,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Leicester City,1.65
-Luke Cundle,Wolves,Leicester City,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Nottingham Forest,0.01
-Luke Cundle,Wolves,Nottingham Forest,False,0,0,0.0,0,0,0,False,0.0,Wolves,False,Tottenham,-2.61
-Luke Cundle,Wolves,Tottenham,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Chelsea,-2.49
-Luke Cundle,Wolves,Chelsea,True,0,0,0.0,0,0,0,False,0.0,Wolves,True,Brentford,1.37
-Luke Cundle,Wolves,Brentford,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Leeds United,1.57
-Luke Cundle,Wolves,Leeds United,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Crystal Palace,0.91
-Luke Cundle,Wolves,Crystal Palace,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Brighton,0.59
-Luke Cundle,Wolves,Brighton,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Aston Villa,-1.57
-Luke Cundle,Wolves,Aston Villa,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Manchester United,0.79
-Luke Cundle,Wolves,Manchester United,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Everton,-2.28
-Luke Cundle,Wolves,Everton,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Arsenal,1.72
-Luke Cundle,Wolves,Arsenal,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Newcastle United,-0.98
-Luke Cundle,Wolves,Newcastle United,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Bournemouth,0.02
-Luke Cundle,Wolves,Bournemouth,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Southampton,-3.31
-Luke Cundle,Wolves,Southampton,True,0,0,0.0,0,0,0,False,0.0,Wolves,True,Manchester City,1.61
-Luke Cundle,Wolves,Manchester City,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,West Ham,3.01
-Luke Cundle,Wolves,West Ham,False,0,0,0.0,0,0,0,False,,Wolves,False,Manchester United,0.79
+name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
+Luke Cundle,Wolves,Leicester City,False,0,0,0.0,0,0,0,False,0.0,Wolves,False,Chelsea,-1.63
+Luke Cundle,Wolves,Chelsea,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Nottingham Forest,
+Luke Cundle,Wolves,Nottingham Forest,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Crystal Palace,3.09
+Luke Cundle,Wolves,Crystal Palace,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Leeds United,-1.61
+Luke Cundle,Wolves,Leeds United,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Brentford,-1.55
+Luke Cundle,Wolves,Brentford,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Brighton,5.19
+Luke Cundle,Wolves,Brighton,True,0,0,0.0,0,0,0,False,0.0,Wolves,True,Arsenal,1.59
+Luke Cundle,Wolves,Arsenal,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Everton,-1.05
+Luke Cundle,Wolves,Everton,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Manchester United,-0.79
+Luke Cundle,Wolves,Manchester United,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Aston Villa,-2.09
+Luke Cundle,Wolves,Aston Villa,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Fulham,
+Luke Cundle,Wolves,Fulham,True,0,0,0.0,0,0,0,False,0.0,Wolves,True,West Ham,-2.69
+Luke Cundle,Wolves,West Ham,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Manchester City,-0.09
+Luke Cundle,Wolves,Manchester City,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Liverpool,0.37
+Luke Cundle,Wolves,Liverpool,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Southampton,-2.8
+Luke Cundle,Wolves,Southampton,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Bournemouth,
+Luke Cundle,Wolves,Bournemouth,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Fulham,
+Luke Cundle,Wolves,Fulham,False,0,0,0.0,0,0,0,False,0.0,Wolves,False,Liverpool,0.91
+Luke Cundle,Wolves,Liverpool,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Tottenham,2.05
+Luke Cundle,Wolves,Tottenham,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Newcastle United,3.01
+Luke Cundle,Wolves,Newcastle United,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Leicester City,
+Luke Cundle,Wolves,Leicester City,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Nottingham Forest,
+Luke Cundle,Wolves,Nottingham Forest,False,0,0,0.0,0,0,0,False,0.0,Wolves,False,Tottenham,1.18
+Luke Cundle,Wolves,Tottenham,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Chelsea,-1.03
+Luke Cundle,Wolves,Chelsea,True,0,0,0.0,0,0,0,False,0.0,Wolves,True,Brentford,3.23
+Luke Cundle,Wolves,Brentford,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Leeds United,0.21
+Luke Cundle,Wolves,Leeds United,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Crystal Palace,
+Luke Cundle,Wolves,Crystal Palace,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Brighton,-1.83
+Luke Cundle,Wolves,Brighton,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Aston Villa,
+Luke Cundle,Wolves,Aston Villa,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Manchester United,-0.63
+Luke Cundle,Wolves,Manchester United,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Everton,-1.31
+Luke Cundle,Wolves,Everton,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Arsenal,
+Luke Cundle,Wolves,Arsenal,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Newcastle United,-1.69
+Luke Cundle,Wolves,Newcastle United,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Bournemouth,1.23
+Luke Cundle,Wolves,Bournemouth,False,0,0,0.0,0,0,0,False,0.0,Wolves,True,Southampton,-2.12
+Luke Cundle,Wolves,Southampton,True,0,0,0.0,0,0,0,False,0.0,Wolves,True,Manchester City,3.44
+Luke Cundle,Wolves,Manchester City,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,West Ham,4.15
+Luke Cundle,Wolves,West Ham,False,0,0,0.0,0,0,0,False,,Wolves,False,Manchester United,-0.63
