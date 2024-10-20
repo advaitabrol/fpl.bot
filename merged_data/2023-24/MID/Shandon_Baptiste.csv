@@ -1,11 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Shandon Baptiste,Brentford,Tottenham,2023-08-13,True,Sub,18,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,0.0,0.0,18.0,0,1,0.18,1.09,0.05,1
-Shandon Baptiste,Brentford,Arsenal,2023-11-25,True,Sub,18,0,0.0,0,0.0,1,0,0,0.3,0,0,1,False,1.0,0.0,18.0,0,1,0.18,1.09,0.05,6
-Shandon Baptiste,Brentford,Luton,2023-12-02,True,Sub,20,1,0.75,0,0.14,6,1,1,9.0,0,0,1,False,1.0,0.0,18.67,0,1,0.18,1.09,0.05,2
-Shandon Baptiste,Brentford,Brighton,2023-12-06,False,ML,68,0,0.0,0,0.0,2,0,0,1.1,0,0,2,True,2.67,0.25,31.0,0,1,0.18,1.09,0.05,2
-Shandon Baptiste,Brentford,Sheffield,2023-12-09,False,MC,64,0,0.0,0,0.04,2,0,1,2.0,0,0,1,True,2.5,0.19,37.6,0,1,0.18,1.09,0.05,1
-Shandon Baptiste,Brentford,Nottingham Forest,2024-01-20,True,Sub,16,0,0.0,0,0.0,1,0,0,0.5,0,0,0,False,2.4,0.15,34.0,0,1,0.18,1.09,0.05,1
-Shandon Baptiste,Brentford,Tottenham,2024-01-31,False,Sub,2,0,0.11,0,0.0,1,1,0,2.3,0,0,0,False,2.4,0.15,29.43,0,1,0.18,1.09,0.05,1
-Shandon Baptiste,Brentford,Manchester City,2024-02-05,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,2.4,0.17,25.88,0,1,0.18,1.09,0.05,1
-Shandon Baptiste,Brentford,Wolverhampton,2024-02-10,False,Sub,5,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,1.4,0.02,23.56,0,1,0.18,1.09,0.05,3
-Shandon Baptiste,Brentford,Burnley,2024-03-16,False,Sub,10,0,0.0,1,0.24,3,0,2,5.2,0,0,0,False,1.2,0.02,22.2,0,1,0.18,1.09,0.05,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Shandon Baptiste,Brentford,Tottenham,2023-08-13,True,Sub,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,0.0,0.0,18.0,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,False,Chelsea,-4.41
+Shandon Baptiste,Brentford,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,9.0,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,True,West Ham,-1.97
+Shandon Baptiste,Brentford,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.5,0.0,6.0,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,False,Liverpool,3.48
+Shandon Baptiste,Brentford,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.33,0.0,4.5,0.0,1.0,0.18,1.09,0.05,1.0,Brentford,True,Arsenal,0.17
+Shandon Baptiste,Brentford,Arsenal,2023-11-25,True,Sub,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,False,0.25,0.0,7.2,0.0,1.0,0.18,1.09,0.05,6.0,Brentford,True,Luton,-2.71
+Shandon Baptiste,Brentford,Luton,2023-12-02,True,Sub,20,1.0,0.75,0.0,0.14,6,1.0,1.0,9.0,0,0,1,False,0.4,0.0,9.33,0.0,1.0,0.18,1.09,0.05,2.0,Brentford,False,Brighton,1.2
+Shandon Baptiste,Brentford,Brighton,2023-12-06,False,ML,68,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,0,2,True,1.4,0.15,17.71,0.0,1.0,0.18,1.09,0.05,2.0,Brentford,False,Sheffield,1.89
+Shandon Baptiste,Brentford,Sheffield,2023-12-09,False,MC,64,0.0,0.0,0.0,0.04,2,0.0,1.0,2.0,0,0,1,True,1.8,0.15,23.5,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,True,Aston Villa,0.51
+Shandon Baptiste,Brentford,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,2.2,0.15,20.89,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,True,Wolverhampton,2.5
+Shandon Baptiste,Brentford,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,2.2,0.15,18.8,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,False,Fulham,-1.2
+Shandon Baptiste,Brentford,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.15,17.09,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,False,Crystal Palace,1.07
+Shandon Baptiste,Brentford,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.0,15.67,0.0,1.0,0.18,1.09,0.05,1.0,Brentford,True,Nottingham Forest,-0.34
+Shandon Baptiste,Brentford,Nottingham Forest,2024-01-20,True,Sub,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,0.4,0.0,15.69,0.0,1.0,0.18,1.09,0.05,1.0,Brentford,False,Tottenham,2.11
+Shandon Baptiste,Brentford,Tottenham,2024-01-31,False,Sub,2,0.0,0.11,0.0,0.0,1,1.0,0.0,2.3,0,0,0,False,0.2,0.0,14.71,0.0,1.0,0.18,1.09,0.05,1.0,Brentford,True,Manchester City,1.02
+Shandon Baptiste,Brentford,Manchester City,2024-02-05,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.4,0.02,13.8,0.0,1.0,0.18,1.09,0.05,1.0,Brentford,False,Wolverhampton,-1.6
+Shandon Baptiste,Brentford,Wolverhampton,2024-02-10,False,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.6,0.02,13.25,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,True,Liverpool,-0.79
+Shandon Baptiste,Brentford,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.02,12.47,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,False,Manchester City,-0.6
+Shandon Baptiste,Brentford,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.02,11.78,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,False,West Ham,-0.27
+Shandon Baptiste,Brentford,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.02,11.16,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,True,Chelsea,-0.25
+Shandon Baptiste,Brentford,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,10.6,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,False,Arsenal,0.3
+Shandon Baptiste,Brentford,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,10.1,0.0,1.0,0.18,1.09,0.05,3.0,Brentford,False,Burnley,3.71
+Shandon Baptiste,Brentford,Burnley,2024-03-16,False,Sub,10,0.0,0.0,1.0,0.24,3,0.0,2.0,5.2,0,0,0,False,0.0,0.0,10.09,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,True,Crystal Palace,1.05
+Shandon Baptiste,Brentford,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.2,9.65,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,True,Manchester United,-1.13
+Shandon Baptiste,Brentford,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.2,9.25,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,True,Brighton,-0.72
+Shandon Baptiste,Brentford,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.2,8.88,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,False,Aston Villa,2.08
+Shandon Baptiste,Brentford,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.2,8.54,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,True,Sheffield,-1.99
+Shandon Baptiste,Brentford,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.2,8.22,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,False,Luton,-5.68
+Shandon Baptiste,Brentford,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.93,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,False,Everton,2.1
+Shandon Baptiste,Brentford,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.66,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,True,Fulham,0.44
+Shandon Baptiste,Brentford,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.4,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,False,Bournemouth,0.55
+Shandon Baptiste,Brentford,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.16,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,True,Newcastle United,2.43
+Shandon Baptiste,Brentford,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.94,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,True,Bournemouth,-0.5
+Shandon Baptiste,Brentford,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.73,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,False,Newcastle United,2.44
+Shandon Baptiste,Brentford,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.53,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,True,Everton,0.56
+Shandon Baptiste,Brentford,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.34,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,False,Nottingham Forest,1.35
+Shandon Baptiste,Brentford,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.17,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,False,Manchester United,1.62
+Shandon Baptiste,Brentford,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.0,0.0,1.0,0.18,1.09,0.05,0.0,Brentford,True,Burnley,-3.55
+Shandon Baptiste,Brentford,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.84,0.0,1.0,0.18,1.09,0.05,,,,,

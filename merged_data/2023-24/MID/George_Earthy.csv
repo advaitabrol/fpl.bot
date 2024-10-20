@@ -1,4 +1,14 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-George Earthy,West Ham,Fulham,2024-04-14,True,Sub,9,0,0.0,0,0,1,0,0,0.1,0,0,0,False,0.0,0.0,9.0,0,0,0,0,0,6
-George Earthy,West Ham,Luton,2024-05-11,True,Sub,15,1,0.63,0,0,6,1,0,6.7,0,0,0,False,1.0,0.0,12.0,0,0,0,0,0,1
-George Earthy,West Ham,Manchester City,2024-05-19,False,Sub,9,0,0.0,0,0,1,0,0,0.1,0,0,0,False,3.5,0.31,11.0,0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+George Earthy,West Ham,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,West Ham,False,Everton,-0.77
+George Earthy,West Ham,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,West Ham,True,Burnley,-0.01
+George Earthy,West Ham,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,West Ham,True,Aston Villa,-0.86
+George Earthy,West Ham,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,West Ham,False,Newcastle United,-0.16
+George Earthy,West Ham,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,West Ham,True,Tottenham,-2.05
+George Earthy,West Ham,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,West Ham,False,Wolverhampton,1.36
+George Earthy,West Ham,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,1.0,West Ham,True,Fulham,-1.16
+George Earthy,West Ham,Fulham,2024-04-14,True,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.0,0.0,1.12,0,0,0,0,0,0.0,West Ham,False,Crystal Palace,0.59
+George Earthy,West Ham,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.0,0,0,0,0,0,0.0,West Ham,True,Liverpool,-1.57
+George Earthy,West Ham,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.9,0,0,0,0,0,0.0,West Ham,False,Chelsea,2.45
+George Earthy,West Ham,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.82,0,0,0,0,0,6.0,West Ham,True,Luton,-4.51
+George Earthy,West Ham,Luton,2024-05-11,True,Sub,15,1.0,0.63,0.0,0.0,6,1.0,0.0,6.7,0,0,0,False,0.2,0.0,2.0,0,0,0,0,0,1.0,West Ham,False,Manchester City,1.66
+George Earthy,West Ham,Manchester City,2024-05-19,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,1.4,0.13,2.54,0,0,0,0,0,,,,,

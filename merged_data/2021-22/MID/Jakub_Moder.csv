@@ -1,29 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
-Jakub Moder,Brighton,Burnley,2021-08-14,False,Sub,18,0,0.29,1,0.64,4,1,1,5.1,0,0,0,0.0,0.0,18.0
-Jakub Moder,Brighton,Liverpool,2021-10-30,False,AML,65,0,0.0,0,0.0,2,0,0,0.5,0,0,2,4.0,1.29,41.5
-Jakub Moder,Brighton,Aston Villa,2021-11-20,False,MC,90,0,0.0,0,0.0,2,0,0,1.8,0,0,2,3.0,0.64,57.67
-Jakub Moder,Brighton,Leicester City,2021-11-27,True,MC,81,0,0.33,0,0.08,3,4,2,5.6,0,1,0,2.67,0.43,63.5
-Jakub Moder,Brighton,West Ham,2021-12-01,False,DMC,90,0,0.51,0,0.11,2,1,1,6.2,0,0,1,2.75,0.4,68.8
-Jakub Moder,Brighton,Southampton,2021-12-04,False,Sub,12,0,0.11,1,0.58,4,2,1,4.6,0,0,0,2.6,0.43,59.33
-Jakub Moder,Brighton,Wolverhampton,2021-12-15,True,MC,90,0,0.0,0,0.11,2,0,1,3.4,0,0,1,2.6,0.39,63.71
-Jakub Moder,Brighton,Brentford,2021-12-26,True,AMC,90,0,0.05,1,0.11,6,1,2,6.1,0,1,0,2.6,0.39,67.0
-Jakub Moder,Brighton,Watford,2021-08-21,True,Sub,10,0,0.0,0,0.0,1,0,0,0.0,0,0,0,3.4,0.6,60.67
-Jakub Moder,Brighton,Chelsea,2021-12-29,False,AMC,87,0,0.1,0,0.0,2,1,0,1.1,0,0,1,3.0,0.53,63.3
-Jakub Moder,Brighton,Everton,2022-01-02,False,Sub,9,0,0.0,0,0.0,1,0,0,0.1,0,0,0,3.0,0.45,58.36
-Jakub Moder,Brighton,Crystal Palace,2022-01-14,True,AMC,90,0,0.53,0,0.0,2,2,0,5.4,0,0,1,2.4,0.23,61.0
-Jakub Moder,Brighton,Chelsea,2022-01-18,True,FW,90,0,0.09,0,0.0,2,1,0,2.3,0,0,1,2.4,0.34,63.23
-Jakub Moder,Brighton,Leeds United,2022-01-23,False,AMC,90,0,0.02,0,0.0,2,1,0,3.3,0,0,1,1.6,0.14,65.14
-Jakub Moder,Brighton,Watford,2022-02-12,False,MC,90,0,0.31,0,0.29,3,3,1,9.4,0,1,0,1.8,0.15,66.8
-Jakub Moder,Brighton,Manchester United,2022-02-15,False,AMC,90,0,0.38,0,0.31,2,3,1,6.0,0,0,2,2.0,0.19,68.25
-Jakub Moder,Brighton,Burnley,2022-02-19,True,MR,54,0,0.0,0,0.0,1,0,0,1.6,0,0,2,2.2,0.27,67.41
-Jakub Moder,Brighton,Aston Villa,2022-02-26,True,MC,62,0,0.05,0,0.02,2,1,1,4.4,0,0,1,2.0,0.16,67.11
-Jakub Moder,Brighton,Newcastle United,2022-03-05,False,MC,58,0,0.0,0,0.14,1,0,1,3.7,0,0,2,2.0,0.15,66.63
-Jakub Moder,Brighton,Tottenham,2022-03-16,True,Sub,12,0,0.0,0,0.0,1,0,0,0.7,0,0,0,1.8,0.15,63.9
-Jakub Moder,Brighton,Everton,2021-08-28,True,DML,72,0,0.03,0,0.0,2,1,0,2.9,0,0,2,1.4,0.09,64.29
-Jakub Moder,Brighton,Norwich,2022-04-02,True,Sub,5,0,0.0,0,0.0,1,0,0,0.4,0,0,0,1.4,0.02,61.59
-Jakub Moder,Brighton,Brentford,2021-09-11,False,Sub,53,0,0.0,0,0.0,1,0,0,0.6,0,0,0,1.4,0.02,61.22
-Jakub Moder,Brighton,Leeds United,2021-09-19,True,Sub,11,0,0.0,0,0.0,1,0,0,0.2,0,0,0,1.2,0.01,59.12
-Jakub Moder,Brighton,Crystal Palace,2021-09-27,False,Sub,25,0,0.0,0,0.0,1,0,0,0.6,0,0,0,1.2,0.01,57.76
-Jakub Moder,Brighton,Arsenal,2021-10-02,True,MC,77,0,0.1,0,0.06,3,2,1,3.0,0,1,0,1.2,0.01,58.5
-Jakub Moder,Brighton,Norwich,2021-10-16,False,MC,83,0,0.12,0,0.0,3,2,0,3.7,0,1,0,1.4,0.02,59.41
-Jakub Moder,Brighton,Manchester City,2021-10-23,True,MC,90,0,0.09,0,0.11,1,2,3,7.6,0,0,4,1.8,0.04,60.5
+Jakub Moder,Brighton,Burnley,2021-08-14,False,Sub,18,0.0,0.29,1.0,0.64,4,1.0,1.0,5.1,0,0,0,0.0,0.0,18.0
+Jakub Moder,Brighton,Liverpool,2021-10-30,False,AML,65,0.0,0.0,0.0,0.0,2,0.0,0.0,0.5,0,0,2,4.0,1.29,41.5
+Jakub Moder,Brighton,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,3.0,0.64,27.67
+Jakub Moder,Brighton,Aston Villa,2021-11-20,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,2,2.0,0.43,43.25
+Jakub Moder,Brighton,Leicester City,2021-11-27,True,MC,81,0.0,0.33,0.0,0.08,3,4.0,2.0,5.6,0,1,0,2.0,0.32,50.8
+Jakub Moder,Brighton,West Ham,2021-12-01,False,DMC,90,0.0,0.51,0.0,0.11,2,1.0,1.0,6.2,0,0,1,2.2,0.32,57.33
+Jakub Moder,Brighton,Southampton,2021-12-04,False,Sub,12,0.0,0.11,1.0,0.58,4,2.0,1.0,4.6,0,0,0,1.8,0.17,50.86
+Jakub Moder,Brighton,Wolverhampton,2021-12-15,True,MC,90,0.0,0.0,0.0,0.11,2,0.0,1.0,3.4,0,0,1,2.2,0.39,55.75
+Jakub Moder,Brighton,Brentford,2021-12-26,True,AMC,90,0.0,0.05,1.0,0.11,6,1.0,2.0,6.1,0,1,0,2.6,0.39,59.56
+Jakub Moder,Brighton,Watford,2021-08-21,True,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,3.4,0.6,54.6
+Jakub Moder,Brighton,Chelsea,2021-12-29,False,AMC,87,0.0,0.1,0.0,0.0,2,1.0,0.0,1.1,0,0,1,3.0,0.53,57.55
+Jakub Moder,Brighton,Everton,2022-01-02,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,3.0,0.45,53.5
+Jakub Moder,Brighton,Crystal Palace,2022-01-14,True,AMC,90,0.0,0.53,0.0,0.0,2,2.0,0.0,5.4,0,0,1,2.4,0.23,56.31
+Jakub Moder,Brighton,Chelsea,2022-01-18,True,FW,90,0.0,0.09,0.0,0.0,2,1.0,0.0,2.3,0,0,1,2.4,0.34,58.71
+Jakub Moder,Brighton,Leeds United,2022-01-23,False,AMC,90,0.0,0.02,0.0,0.0,2,1.0,0.0,3.3,0,0,1,1.6,0.14,60.8
+Jakub Moder,Brighton,Watford,2022-02-12,False,MC,90,0.0,0.31,0.0,0.29,3,3.0,1.0,9.4,0,1,0,1.8,0.15,62.62
+Jakub Moder,Brighton,Manchester United,2022-02-15,False,AMC,90,0.0,0.38,0.0,0.31,2,3.0,1.0,6.0,0,0,2,2.0,0.19,64.24
+Jakub Moder,Brighton,Burnley,2022-02-19,True,MR,54,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,2,2.2,0.27,63.67
+Jakub Moder,Brighton,Aston Villa,2022-02-26,True,MC,62,0.0,0.05,0.0,0.02,2,1.0,1.0,4.4,0,0,1,2.0,0.16,63.58
+Jakub Moder,Brighton,Newcastle United,2022-03-05,False,MC,58,0.0,0.0,0.0,0.14,1,0.0,1.0,3.7,0,0,2,2.0,0.15,63.3
+Jakub Moder,Brighton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,1.8,0.15,60.29
+Jakub Moder,Brighton,Tottenham,2022-03-16,True,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,1.2,0.09,58.09
+Jakub Moder,Brighton,Everton,2021-08-28,True,DML,72,0.0,0.03,0.0,0.0,2,1.0,0.0,2.9,0,0,2,1.0,0.01,58.7
+Jakub Moder,Brighton,Norwich,2022-04-02,True,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,1.2,0.02,56.46
+Jakub Moder,Brighton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,1.0,0.01,54.2
+Jakub Moder,Brighton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.8,0.01,52.12
+Jakub Moder,Brighton,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.8,0.01,50.19
+Jakub Moder,Brighton,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.6,0.01,48.39
+Jakub Moder,Brighton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,46.72
+Jakub Moder,Brighton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,45.17
+Jakub Moder,Brighton,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,43.71
+Jakub Moder,Brighton,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,42.34
+Jakub Moder,Brighton,Brentford,2021-09-11,False,Sub,53,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.0,0.0,42.67
+Jakub Moder,Brighton,Leeds United,2021-09-19,True,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.2,0.0,41.74
+Jakub Moder,Brighton,Crystal Palace,2021-09-27,False,Sub,25,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.4,0.0,41.26
+Jakub Moder,Brighton,Arsenal,2021-10-02,True,MC,77,0.0,0.1,0.0,0.06,3,2.0,1.0,3.0,0,1,0,0.6,0.0,42.25
+Jakub Moder,Brighton,Norwich,2021-10-16,False,MC,83,0.0,0.12,0.0,0.0,3,2.0,0.0,3.7,0,1,0,1.2,0.02,43.35
+Jakub Moder,Brighton,Manchester City,2021-10-23,True,MC,90,0.0,0.09,0.0,0.11,1,2.0,3.0,7.6,0,0,4,1.8,0.04,44.58

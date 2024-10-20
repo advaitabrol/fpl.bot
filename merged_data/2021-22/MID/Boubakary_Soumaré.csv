@@ -1,20 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
-Boubakary Soumaré,Leicester,Wolverhampton,2021-08-14,True,Sub,28,0,0.0,0,0.0,1,0,0,0.4,0,0,0,0.0,0.0,28.0
-Boubakary Soumaré,Leicester,Arsenal,2021-10-30,True,MC,90,0,0.0,0,0.0,2,0,0,1.0,0,0,2,1.0,0.0,59.0
-Boubakary Soumaré,Leicester,Leicester City,2021-11-07,False,MC,90,0,0.02,1,0.08,6,1,2,5.6,1,0,1,1.5,0.0,69.33
-Boubakary Soumaré,Leicester,Chelsea,2021-11-20,True,MC,74,0,0.0,0,0.0,2,0,0,0.8,0,0,3,3.0,0.34,70.5
-Boubakary Soumaré,Leicester,Watford,2021-11-28,True,DMC,90,0,0.0,0,0.05,2,0,1,3.2,0,0,2,2.75,0.26,74.4
-Boubakary Soumaré,Leicester,Southampton,2021-12-01,False,DMC,45,0,0.0,0,0.0,1,0,0,0.8,0,0,2,2.6,0.2,69.5
-Boubakary Soumaré,Leicester,Newcastle United,2021-12-12,True,Sub,84,0,0.0,0,0.0,3,0,0,0.8,0,1,0,2.6,0.2,71.57
-Boubakary Soumaré,Leicester,West Ham,2021-08-23,False,Sub,9,0,0.0,0,0.0,1,0,0,0.1,0,0,1,2.8,0.2,63.75
-Boubakary Soumaré,Leicester,Liverpool,2021-12-28,True,MC,90,0,0.02,0,0.0,3,1,0,1.0,0,1,0,1.8,0.0,66.67
-Boubakary Soumaré,Leicester,Tottenham,2022-01-19,True,Sub,2,0,0.0,0,0.0,1,0,0,0.0,0,0,2,2.0,0.0,60.2
-Boubakary Soumaré,Leicester,Brighton,2022-01-23,True,Sub,12,0,0.0,0,0.0,1,0,0,0.3,0,0,1,1.8,0.0,55.82
-Boubakary Soumaré,Leicester,Liverpool,2022-02-10,False,DMC,59,0,0.1,0,0.0,1,1,0,1.2,0,0,1,1.8,0.0,56.08
-Boubakary Soumaré,Leicester,Brentford,2022-03-20,True,Sub,11,0,0.0,0,0.0,1,0,0,0.4,0,0,1,1.4,0.02,52.62
-Boubakary Soumaré,Leicester,Tottenham,2022-05-01,False,MC,66,0,0.0,0,0.07,2,0,1,2.3,0,0,2,1.4,0.02,53.57
-Boubakary Soumaré,Leicester,Brighton,2021-09-19,False,MC,74,0,0.03,0,0.0,2,1,0,1.7,0,0,2,1.2,0.02,54.93
-Boubakary Soumaré,Leicester,Burnley,2021-09-25,True,MC,61,0,0.11,0,0.09,2,1,2,4.4,0,0,2,1.4,0.03,55.31
-Boubakary Soumaré,Leicester,Crystal Palace,2021-10-03,False,Sub,30,0,0.0,0,0.0,1,0,0,0.6,0,0,2,1.6,0.05,53.82
-Boubakary Soumaré,Leicester,Manchester United,2021-10-16,True,MC,90,0,0.0,0,0.0,2,0,0,0.9,0,0,2,1.6,0.03,55.83
-Boubakary Soumaré,Leicester,Brentford,2021-10-24,False,MC,90,0,0.04,0,0.0,2,1,0,2.6,0,0,1,1.8,0.03,57.63
+Boubakary Soumaré,Leicester,Wolverhampton,2021-08-14,True,Sub,28,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.0,0.0,28.0
+Boubakary Soumaré,Leicester,Arsenal,2021-10-30,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.0,0,0,2,1.0,0.0,59.0
+Boubakary Soumaré,Leicester,Leicester City,2021-11-07,False,MC,90,0.0,0.02,1.0,0.08,6,1.0,2.0,5.6,1,0,1,1.5,0.0,69.33
+Boubakary Soumaré,Leicester,Chelsea,2021-11-20,True,MC,74,0.0,0.0,0.0,0.0,2,0.0,0.0,0.8,0,0,3,3.0,0.34,70.5
+Boubakary Soumaré,Leicester,Watford,2021-11-28,True,DMC,90,0.0,0.0,0.0,0.05,2,0.0,1.0,3.2,0,0,2,2.75,0.26,74.4
+Boubakary Soumaré,Leicester,Southampton,2021-12-01,False,DMC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,2,2.6,0.2,69.5
+Boubakary Soumaré,Leicester,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,2.6,0.2,59.57
+Boubakary Soumaré,Leicester,Newcastle United,2021-12-12,True,Sub,84,0.0,0.0,0.0,0.0,3,0.0,0.0,0.8,0,1,0,2.2,0.2,62.62
+Boubakary Soumaré,Leicester,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,1.6,0.0,55.67
+Boubakary Soumaré,Leicester,West Ham,2021-08-23,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,1.2,0.0,51.0
+Boubakary Soumaré,Leicester,Liverpool,2021-12-28,True,MC,90,0.0,0.02,0.0,0.0,3,1.0,0.0,1.0,0,1,0,1.0,0.0,54.55
+Boubakary Soumaré,Leicester,Tottenham,2022-01-19,True,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,2,1.4,0.0,50.17
+Boubakary Soumaré,Leicester,Brighton,2022-01-23,True,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,1.6,0.0,47.23
+Boubakary Soumaré,Leicester,Liverpool,2022-02-10,False,DMC,59,0.0,0.1,0.0,0.0,1,1.0,0.0,1.2,0,0,1,1.2,0.0,48.07
+Boubakary Soumaré,Leicester,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,1.4,0.02,44.87
+Boubakary Soumaré,Leicester,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,1.2,0.02,42.06
+Boubakary Soumaré,Leicester,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.6,0.02,39.59
+Boubakary Soumaré,Leicester,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.02,37.39
+Boubakary Soumaré,Leicester,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.02,35.42
+Boubakary Soumaré,Leicester,Norwich,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,33.65
+Boubakary Soumaré,Leicester,Brentford,2022-03-20,True,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1,0.0,0.0,32.57
+Boubakary Soumaré,Leicester,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,31.09
+Boubakary Soumaré,Leicester,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,29.74
+Boubakary Soumaré,Leicester,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,28.5
+Boubakary Soumaré,Leicester,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,27.36
+Boubakary Soumaré,Leicester,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,26.31
+Boubakary Soumaré,Leicester,Tottenham,2022-05-01,False,MC,66,0.0,0.0,0.0,0.07,2,0.0,1.0,2.3,0,0,2,0.0,0.0,27.78
+Boubakary Soumaré,Leicester,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,26.79
+Boubakary Soumaré,Leicester,Norwich,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,25.86
+Boubakary Soumaré,Leicester,Watford,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,25.0
+Boubakary Soumaré,Leicester,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,24.19
+Boubakary Soumaré,Leicester,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,23.44
+Boubakary Soumaré,Leicester,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,22.73
+Boubakary Soumaré,Leicester,Brighton,2021-09-19,False,MC,74,0.0,0.03,0.0,0.0,2,1.0,0.0,1.7,0,0,2,0.0,0.0,24.24
+Boubakary Soumaré,Leicester,Burnley,2021-09-25,True,MC,61,0.0,0.11,0.0,0.09,2,1.0,2.0,4.4,0,0,2,0.4,0.01,25.29
+Boubakary Soumaré,Leicester,Crystal Palace,2021-10-03,False,Sub,30,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,2,0.8,0.03,25.42
+Boubakary Soumaré,Leicester,Manchester United,2021-10-16,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,0,2,1.0,0.03,27.16
+Boubakary Soumaré,Leicester,Brentford,2021-10-24,False,MC,90,0.0,0.04,0.0,0.0,2,1.0,0.0,2.6,0,0,1,1.4,0.03,28.82

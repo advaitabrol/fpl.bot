@@ -1,6 +1,28 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Benicio Baker-Boaitey,Brighton,Chelsea,2023-12-03,False,Sub,6,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False,0.0,0.0,6.0,0,0,0,0,0,1
-Benicio Baker-Boaitey,Brighton,Brentford,2023-12-06,True,Sub,6,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,1.0,0.0,6.0,0,0,0,0,0,1
-Benicio Baker-Boaitey,Brighton,Wolverhampton,2024-01-22,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,1.0,0.0,4.33,0,0,0,0,0,1
-Benicio Baker-Boaitey,Brighton,Tottenham,2024-02-10,False,Sub,1,0,0.0,0,0.0,1,0,0,0.1,0,0,1,False,1.0,0.0,3.5,0,0,0,0,0,0
-Benicio Baker-Boaitey,Brighton,Newcastle United,2024-05-11,False,Sub,23,0,0.02,0,0.1,0,1,1,1.4,0,0,0,False,1.0,0.0,7.4,0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Benicio Baker-Boaitey,Brighton,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Brighton,False,Nottingham Forest,0.99
+Benicio Baker-Boaitey,Brighton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,1.0,Brighton,False,Chelsea,-0.59
+Benicio Baker-Boaitey,Brighton,Chelsea,2023-12-03,False,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.0,0.0,2.0,0,0,0,0,0,1.0,Brighton,True,Brentford,-1.45
+Benicio Baker-Boaitey,Brighton,Brentford,2023-12-06,True,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.33,0.0,3.0,0,0,0,0,0,0.0,Brighton,True,Burnley,2.43
+Benicio Baker-Boaitey,Brighton,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.5,0.0,2.4,0,0,0,0,0,0.0,Brighton,False,Arsenal,-1.78
+Benicio Baker-Boaitey,Brighton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,2.0,0,0,0,0,0,0.0,Brighton,False,Crystal Palace,0.44
+Benicio Baker-Boaitey,Brighton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,1.71,0,0,0,0,0,0.0,Brighton,True,Tottenham,-0.36
+Benicio Baker-Boaitey,Brighton,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,1.5,0,0,0,0,0,0.0,Brighton,False,West Ham,-0.99
+Benicio Baker-Boaitey,Brighton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.33,0,0,0,0,0,1.0,Brighton,True,Wolverhampton,-1.51
+Benicio Baker-Boaitey,Brighton,Wolverhampton,2024-01-22,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,1.3,0,0,0,0,0,0.0,Brighton,False,Luton,5.03
+Benicio Baker-Boaitey,Brighton,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.18,0,0,0,0,0,0.0,Brighton,True,Crystal Palace,-1.88
+Benicio Baker-Boaitey,Brighton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.08,0,0,0,0,0,1.0,Brighton,False,Tottenham,-0.37
+Benicio Baker-Boaitey,Brighton,Tottenham,2024-02-10,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,False,0.2,0.0,1.08,0,0,0,0,0,0.0,Brighton,False,Sheffield,-3.96
+Benicio Baker-Boaitey,Brighton,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,1.0,0,0,0,0,0,0.0,Brighton,True,Everton,2.52
+Benicio Baker-Boaitey,Brighton,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,0.93,0,0,0,0,0,0.0,Brighton,False,Fulham,1.99
+Benicio Baker-Boaitey,Brighton,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.88,0,0,0,0,0,0.0,Brighton,True,Nottingham Forest,-0.8
+Benicio Baker-Boaitey,Brighton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.82,0,0,0,0,0,0.0,Brighton,False,Liverpool,-1.55
+Benicio Baker-Boaitey,Brighton,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.78,0,0,0,0,0,0.0,Brighton,False,Brentford,0.34
+Benicio Baker-Boaitey,Brighton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.74,0,0,0,0,0,0.0,Brighton,True,Arsenal,2.84
+Benicio Baker-Boaitey,Brighton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.7,0,0,0,0,0,0.0,Brighton,False,Burnley,-0.32
+Benicio Baker-Boaitey,Brighton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.67,0,0,0,0,0,0.0,Brighton,True,Manchester City,2.39
+Benicio Baker-Boaitey,Brighton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.64,0,0,0,0,0,0.0,Brighton,False,Bournemouth,0.25
+Benicio Baker-Boaitey,Brighton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.61,0,0,0,0,0,0.0,Brighton,True,Aston Villa,0.69
+Benicio Baker-Boaitey,Brighton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.58,0,0,0,0,0,0.0,Brighton,False,Newcastle United,1.9
+Benicio Baker-Boaitey,Brighton,Newcastle United,2024-05-11,False,Sub,23,0.0,0.02,0.0,0.1,0,1.0,1.0,1.4,0,0,0,False,0.0,0.0,1.48,0,0,0,0,0,0.0,Brighton,True,Chelsea,-2.26
+Benicio Baker-Boaitey,Brighton,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.42,0,0,0,0,0,0.0,Brighton,True,Manchester United,-2.4
+Benicio Baker-Boaitey,Brighton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.37,0,0,0,0,0,,,,,

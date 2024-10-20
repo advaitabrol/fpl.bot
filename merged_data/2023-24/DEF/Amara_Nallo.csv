@@ -1,4 +1,12 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Amara Nallo,Liverpool,Everton,2024-04-24,False,Sub,0,0,0.0,0,0.03,0,0,1,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0
-Amara Nallo,Liverpool,West Ham,2024-04-27,False,Sub,0,0,0.27,0,0.1,0,3,2,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0
-Amara Nallo,Liverpool,Wolverhampton,2024-05-19,True,AMC,0,0,0.02,0,0.18,0,1,2,0.0,0,0,0,0.0,False,0.0,0.13,0.0,0.0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Amara Nallo,Liverpool,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Brighton,1.7
+Amara Nallo,Liverpool,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Sheffield,-0.41
+Amara Nallo,Liverpool,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Manchester United,0.18
+Amara Nallo,Liverpool,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Crystal Palace,1.28
+Amara Nallo,Liverpool,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Fulham,0.4
+Amara Nallo,Liverpool,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Everton,1.81
+Amara Nallo,Liverpool,Everton,2024-04-24,False,Sub,0,0.0,0.0,0.0,0.03,0,0.0,1.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,West Ham,2.89
+Amara Nallo,Liverpool,West Ham,2024-04-27,False,Sub,0,0.0,0.27,0.0,0.1,0,3.0,2.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Tottenham,0.66
+Amara Nallo,Liverpool,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.05,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Aston Villa,1.03
+Amara Nallo,Liverpool,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.05,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Wolverhampton,-1.46
+Amara Nallo,Liverpool,Wolverhampton,2024-05-19,True,AMC,0,0.0,0.02,0.0,0.18,0,1.0,2.0,0.0,0,0,0,0.0,False,0.0,0.05,0.0,0.0,0,0,0,0,,,,,

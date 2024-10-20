@@ -1,13 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Mark Travers,Bournemouth,Aston Villa,2022-08-06,True,90,0,0.0,2,0,6,0,True,0,False,0.0,1.0,0,0,0,1
-Mark Travers,Bournemouth,West Ham,2022-10-24,False,45,1,0.0,1,0,1,0,False,0,False,6.0,1.0,0,0,0,2
-Mark Travers,Bournemouth,Tottenham,2022-10-29,True,90,3,0.0,4,0,2,0,False,0,False,3.5,0.5,0,0,0,0
-Mark Travers,Bournemouth,Leicester City,2022-11-05,False,90,4,0.0,0,0,0,0,False,0,False,3.0,0.33,0,0,0,8
-Mark Travers,Bournemouth,Everton,2022-11-12,True,90,0,0.82,3,0,8,1,True,0,True,2.25,0.5,0,0,0,2
-Mark Travers,Bournemouth,Chelsea,2022-12-27,False,90,2,1.74,3,0,2,0,False,0,True,3.4,0.4,0,0,0,2
-Mark Travers,Bournemouth,Crystal Palace,2022-12-31,True,90,2,1.49,4,0,2,0,False,0,True,2.6,0.33,0,0,0,2
-Mark Travers,Bournemouth,Manchester United,2023-01-03,False,90,3,2.21,3,0,2,0,False,0,True,2.8,0.29,0,0,0,1
-Mark Travers,Bournemouth,Manchester City,2022-08-13,False,90,4,0.0,4,0,1,0,False,0,False,2.8,0.25,0,0,0,2
-Mark Travers,Bournemouth,Arsenal,2022-08-20,True,90,3,0.0,3,0,2,0,False,0,False,3.0,0.22,0,0,0,3
-Mark Travers,Bournemouth,Everton,2023-05-28,False,90,1,1.0,5,0,3,0,False,0,True,1.8,0.2,0,0,0,-1
-Mark Travers,Bournemouth,Liverpool,2022-08-27,False,90,9,0.0,4,0,-1,0,False,0,False,2.0,0.18,0,0,0,9
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty,saves_per_game,last_season_total_saves
+Mark Travers,Bournemouth,Aston Villa,2022-08-06,True,90,0,0.0,2,0,6,0,True,0.0,False,0.0,1.0,0,0,0,0,Bournemouth,True,Leeds United,-2.17,2.0,0
+Mark Travers,Bournemouth,Leeds United,,True,0,0,0.0,0,0,0,0,False,,False,6.0,1.0,0,0,0,0,Bournemouth,False,Fulham,0.65,1.0,0
+Mark Travers,Bournemouth,Fulham,,False,0,0,0.0,0,0,0,0,False,,False,3.0,1.0,0,0,0,0,Bournemouth,True,Southampton,2.91,0.67,0
+Mark Travers,Bournemouth,Southampton,,True,0,0,0.0,0,0,0,0,False,,False,2.0,1.0,0,0,0,1,Bournemouth,False,West Ham,1.5,0.5,0
+Mark Travers,Bournemouth,West Ham,2022-10-24,False,45,1,0.0,1,0,1,0,False,0.0,False,1.5,1.0,0,0,0,2,Bournemouth,True,Tottenham,1.6,0.6,0
+Mark Travers,Bournemouth,Tottenham,2022-10-29,True,90,3,0.0,4,0,2,0,False,0.0,False,1.4,0.5,0,0,0,0,Bournemouth,False,Leicester City,-1.39,1.17,0
+Mark Travers,Bournemouth,Leicester City,2022-11-05,False,90,4,0.0,0,0,0,0,False,0.0,False,0.6,0.33,0,0,0,8,Bournemouth,True,Everton,-3.5,1.0,0
+Mark Travers,Bournemouth,Everton,2022-11-12,True,90,0,0.82,3,0,8,1,True,0.0,True,0.6,0.5,0,0,0,2,Bournemouth,False,Chelsea,1.75,1.25,0
+Mark Travers,Bournemouth,Chelsea,2022-12-27,False,90,2,1.74,3,0,2,0,False,0.0,True,2.2,0.4,0,0,0,2,Bournemouth,True,Crystal Palace,0.58,1.44,0
+Mark Travers,Bournemouth,Crystal Palace,2022-12-31,True,90,2,1.49,4,0,2,0,False,0.0,True,2.6,0.33,0,0,0,2,Bournemouth,False,Manchester United,-1.42,1.7,0
+Mark Travers,Bournemouth,Manchester United,2023-01-03,False,90,3,2.21,3,0,2,0,False,0.0,True,2.8,0.29,0,0,0,1,Bournemouth,False,Manchester City,2.96,1.82,0
+Mark Travers,Bournemouth,Manchester City,2022-08-13,False,90,4,0.0,4,0,1,0,False,0.0,False,2.8,0.25,0,0,0,0,Bournemouth,False,Brentford,0.82,2.0,0
+Mark Travers,Bournemouth,Brentford,,False,0,0,0.0,0,0,0,0,False,,False,3.0,0.25,0,0,0,0,Bournemouth,True,Nottingham Forest,-0.18,1.85,0
+Mark Travers,Bournemouth,Nottingham Forest,,True,0,0,0.0,0,0,0,0,False,,False,1.4,0.25,0,0,0,0,Bournemouth,False,Brighton,0.77,1.71,0
+Mark Travers,Bournemouth,Brighton,,False,0,0,0.0,0,0,0,0,False,,False,1.0,0.25,0,0,0,0,Bournemouth,True,Newcastle United,-1.78,1.6,0
+Mark Travers,Bournemouth,Newcastle United,,True,0,0,0.0,0,0,0,0,False,,False,0.6,0.25,0,0,0,0,Bournemouth,False,Wolverhampton,-2.03,1.5,0
+Mark Travers,Bournemouth,Wolverhampton,,False,0,0,0.0,0,0,0,0,False,,False,0.2,0.25,0,0,0,0,Bournemouth,True,Manchester City,1.44,1.41,0
+Mark Travers,Bournemouth,Manchester City,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,0,0,0,0,Bournemouth,False,Arsenal,0.25,1.33,0
+Mark Travers,Bournemouth,Arsenal,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,0,0,0,0,Bournemouth,True,Liverpool,0.55,1.26,0
+Mark Travers,Bournemouth,Liverpool,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,0,0,0,0,Bournemouth,False,Aston Villa,2.29,1.2,0
+Mark Travers,Bournemouth,Aston Villa,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,0,0,0,0,Bournemouth,True,Fulham,-3.96,1.14,0
+Mark Travers,Bournemouth,Fulham,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,0,0,0,0,Bournemouth,True,Brighton,-1.19,1.09,0
+Mark Travers,Bournemouth,Brighton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,0,0,0,2,Bournemouth,True,Arsenal,4.06,1.04,0
+Mark Travers,Bournemouth,Arsenal,2022-08-20,True,90,3,0.0,3,0,2,0,False,0.0,False,0.0,0.22,0,0,0,0,Bournemouth,False,Leeds United,-0.64,1.12,0
+Mark Travers,Bournemouth,Leeds United,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.22,0,0,0,0,Bournemouth,False,Tottenham,0.69,1.08,0
+Mark Travers,Bournemouth,Tottenham,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.22,0,0,0,0,Bournemouth,True,West Ham,2.84,1.04,0
+Mark Travers,Bournemouth,West Ham,,True,0,0,0.0,0,0,0,0,False,,False,0.4,0.22,0,0,0,0,Bournemouth,False,Southampton,-0.86,1.0,0
+Mark Travers,Bournemouth,Southampton,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.22,0,0,0,0,Bournemouth,True,Leicester City,-4.92,0.96,0
+Mark Travers,Bournemouth,Leicester City,,True,0,0,0.0,0,0,0,0,False,,False,0.4,0.22,0,0,0,0,Bournemouth,True,Chelsea,-0.01,0.93,0
+Mark Travers,Bournemouth,Chelsea,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.22,0,0,0,0,Bournemouth,False,Crystal Palace,0.17,0.9,0
+Mark Travers,Bournemouth,Crystal Palace,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.22,0,0,0,0,Bournemouth,True,Manchester United,0.69,0.87,0
+Mark Travers,Bournemouth,Manchester United,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.22,0,0,0,3,Bournemouth,False,Everton,3.85,0.84,0
+Mark Travers,Bournemouth,Everton,2023-05-28,False,90,1,1.0,5,0,3,0,False,0.0,True,0.0,0.2,0,0,0,-1,Bournemouth,False,Liverpool,4.89,0.97,0
+Mark Travers,Bournemouth,Liverpool,2022-08-27,False,90,9,0.0,4,0,-1,0,False,0.0,False,0.6,0.18,0,0,0,0,Bournemouth,True,Wolverhampton,0.64,1.06,0
+Mark Travers,Bournemouth,Wolverhampton,,True,0,0,0.0,0,0,0,0,False,,False,0.4,0.18,0,0,0,0,Bournemouth,False,Nottingham Forest,-0.87,1.03,0
+Mark Travers,Bournemouth,Nottingham Forest,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.18,0,0,0,0,Bournemouth,False,Newcastle United,-1.24,1.0,0
+Mark Travers,Bournemouth,Newcastle United,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.18,0,0,0,0,Bournemouth,True,Brentford,0.86,0.97,0
+Mark Travers,Bournemouth,Brentford,,True,0,0,0.0,0,0,0,0,False,,False,0.4,0.18,0,0,0,0,Bournemouth,True,West Ham,2.84,0.95,0

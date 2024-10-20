@@ -1,14 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Trevoh Chalobah,Chelsea,Manchester City,2024-02-17,False,Sub,19,0,0.0,0,0.0,1,0,0,0.8,0,0,1,0.78,False,0.0,0.0,19.0,0.0,0.79,0.2,18.79,0.29,1
-Trevoh Chalobah,Chelsea,Brentford,2024-03-02,False,DC,90,0,0.0,0,0.02,1,0,1,2.3,0,0,2,1.83,True,1.0,0.0,54.5,0.0,0.79,0.2,18.79,0.29,1
-Trevoh Chalobah,Chelsea,Newcastle United,2024-03-11,True,DC,90,0,0.0,0,0.0,1,0,0,1.9,0,0,2,0.8,True,1.0,0.0,66.33,0.0,0.79,0.2,18.79,0.29,1
-Trevoh Chalobah,Chelsea,Manchester United,2024-04-04,True,Sub,15,0,0.0,0,0.0,1,0,0,0.4,0,0,0,0.0,False,1.0,0.0,53.5,0.0,0.79,0.2,18.79,0.29,0
-Trevoh Chalobah,Chelsea,Sheffield,2024-04-07,False,DC,90,0,0.0,0,0.0,0,0,0,2.2,0,0,2,1.36,True,1.0,0.0,60.8,0.0,0.79,0.2,18.79,0.29,6
-Trevoh Chalobah,Chelsea,Everton,2024-04-15,True,DC,90,0,0.0,0,0.0,6,0,0,2.9,0,1,0,1.41,True,0.8,0.0,65.67,0.25,0.79,0.2,18.79,0.29,1
-Trevoh Chalobah,Chelsea,Arsenal,2024-04-23,False,Sub,23,0,0.0,0,0.0,1,0,0,0.4,0,0,1,0.67,False,1.8,0.0,59.57,0.25,0.79,0.2,18.79,0.29,2
-Trevoh Chalobah,Chelsea,Aston Villa,2024-04-27,False,DR,90,0,0.0,0,0.05,2,0,1,4.1,1,0,2,0.87,True,1.8,0.0,63.38,0.2,0.79,0.2,18.79,0.29,15
-Trevoh Chalobah,Chelsea,Tottenham,2024-05-02,True,DC,90,1,0.24,0,0.0,15,1,0,6.2,3,1,0,1.54,True,2.0,0.0,66.33,0.33,0.79,0.2,18.79,0.29,6
-Trevoh Chalobah,Chelsea,West Ham,2024-05-05,True,DR,82,0,0.12,0,0.0,6,1,0,4.2,0,1,0,0.99,True,4.8,0.05,67.9,0.43,0.79,0.2,18.79,0.29,1
-Trevoh Chalobah,Chelsea,Nottingham Forest,2024-05-11,False,DR,90,0,0.0,0,0.0,1,0,0,2.2,0,0,2,1.62,True,6.0,0.07,69.91,0.38,0.79,0.2,18.79,0.29,2
-Trevoh Chalobah,Chelsea,Brighton,2024-05-15,False,DC,90,0,0.0,0,0.0,2,0,0,3.9,0,0,1,1.24,True,5.0,0.07,71.58,0.33,0.79,0.2,18.79,0.29,2
-Trevoh Chalobah,Chelsea,Bournemouth,2024-05-19,True,DR,90,0,0.0,0,0.0,2,0,0,1.9,0,0,1,2.15,True,5.2,0.07,73.0,0.3,0.79,0.2,18.79,0.29,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Trevoh Chalobah,Chelsea,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.79,0.2,18.79,0.29,0.0,Chelsea,True,Brentford,4.42
+Trevoh Chalobah,Chelsea,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.79,0.2,18.79,0.29,0.0,Chelsea,False,Tottenham,-1.07
+Trevoh Chalobah,Chelsea,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.79,0.2,18.79,0.29,0.0,Chelsea,True,Manchester City,0.19
+Trevoh Chalobah,Chelsea,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.79,0.2,18.79,0.29,0.0,Chelsea,False,Newcastle United,0.94
+Trevoh Chalobah,Chelsea,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.79,0.2,18.79,0.29,0.0,Chelsea,True,Brighton,-0.67
+Trevoh Chalobah,Chelsea,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.79,0.2,18.79,0.29,0.0,Chelsea,False,Manchester United,1.87
+Trevoh Chalobah,Chelsea,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.79,0.2,18.79,0.29,0.0,Chelsea,False,Everton,0.79
+Trevoh Chalobah,Chelsea,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.79,0.2,18.79,0.29,0.0,Chelsea,True,Sheffield,-2.07
+Trevoh Chalobah,Chelsea,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.79,0.2,18.79,0.29,0.0,Chelsea,False,Wolverhampton,1.62
+Trevoh Chalobah,Chelsea,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.79,0.2,18.79,0.29,0.0,Chelsea,True,Crystal Palace,-1.51
+Trevoh Chalobah,Chelsea,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.79,0.2,18.79,0.29,0.0,Chelsea,False,West Ham,2.89
+Trevoh Chalobah,Chelsea,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.79,0.2,18.79,0.29,0.0,Chelsea,False,Luton,-0.0
+Trevoh Chalobah,Chelsea,Luton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.79,0.2,18.79,0.29,0.0,Chelsea,True,Fulham,-1.08
+Trevoh Chalobah,Chelsea,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.79,0.2,18.79,0.29,0.0,Chelsea,False,Liverpool,0.96
+Trevoh Chalobah,Chelsea,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.79,0.2,18.79,0.29,0.0,Chelsea,True,Wolverhampton,0.07
+Trevoh Chalobah,Chelsea,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.79,0.2,18.79,0.29,0.0,Chelsea,False,Crystal Palace,-1.06
+Trevoh Chalobah,Chelsea,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.79,0.2,18.79,0.29,1.0,Chelsea,False,Manchester City,-0.89
+Trevoh Chalobah,Chelsea,Manchester City,2024-02-17,False,Sub,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,1,0.78,False,0.0,0.0,1.06,0.0,0.79,0.2,18.79,0.29,1.0,Chelsea,False,Brentford,0.61
+Trevoh Chalobah,Chelsea,Brentford,2024-03-02,False,DC,90,0.0,0.0,0.0,0.02,1,0.0,1.0,2.3,0,0,2,1.83,True,0.2,0.0,5.74,0.0,0.79,0.2,18.79,0.29,1.0,Chelsea,True,Newcastle United,-0.99
+Trevoh Chalobah,Chelsea,Newcastle United,2024-03-11,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,2,0.8,True,0.4,0.0,9.95,0.0,0.79,0.2,18.79,0.29,0.0,Chelsea,True,Luton,-3.04
+Trevoh Chalobah,Chelsea,Luton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,9.48,0.0,0.79,0.2,18.79,0.29,0.0,Chelsea,True,Burnley,0.34
+Trevoh Chalobah,Chelsea,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,9.05,0.0,0.79,0.2,18.79,0.29,1.0,Chelsea,True,Manchester United,-1.31
+Trevoh Chalobah,Chelsea,Manchester United,2024-04-04,True,Sub,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.0,False,0.6,0.0,9.3,0.0,0.79,0.2,18.79,0.29,0.0,Chelsea,False,Sheffield,1.84
+Trevoh Chalobah,Chelsea,Sheffield,2024-04-07,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.2,0,0,2,1.36,True,0.6,0.0,12.67,0.0,0.79,0.2,18.79,0.29,6.0,Chelsea,True,Everton,-2.38
+Trevoh Chalobah,Chelsea,Everton,2024-04-15,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.9,0,1,0,1.41,True,0.4,0.0,15.76,0.25,0.79,0.2,18.79,0.29,1.0,Chelsea,False,Arsenal,1.29
+Trevoh Chalobah,Chelsea,Arsenal,2024-04-23,False,Sub,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1,0.67,False,1.4,0.0,16.04,0.25,0.79,0.2,18.79,0.29,2.0,Chelsea,False,Aston Villa,-1.37
+Trevoh Chalobah,Chelsea,Aston Villa,2024-04-27,False,DR,90,0.0,0.0,0.0,0.05,2,0.0,1.0,4.1,1,0,2,0.87,True,1.6,0.0,18.78,0.2,0.79,0.2,18.79,0.29,15.0,Chelsea,True,Tottenham,-2.11
+Trevoh Chalobah,Chelsea,Tottenham,2024-05-02,True,DC,90,1.0,0.24,0.0,0.0,15,1.0,0.0,6.2,3,1,0,1.54,True,2.0,0.0,21.32,0.33,0.79,0.2,18.79,0.29,6.0,Chelsea,True,West Ham,-2.56
+Trevoh Chalobah,Chelsea,West Ham,2024-05-05,True,DR,82,0.0,0.12,0.0,0.0,6,1.0,0.0,4.2,0,1,0,0.99,True,4.8,0.05,23.41,0.43,0.79,0.2,18.79,0.29,1.0,Chelsea,False,Nottingham Forest,-0.41
+Trevoh Chalobah,Chelsea,Nottingham Forest,2024-05-11,False,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,2,1.62,True,6.0,0.07,25.63,0.38,0.79,0.2,18.79,0.29,2.0,Chelsea,False,Brighton,1.01
+Trevoh Chalobah,Chelsea,Brighton,2024-05-15,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.9,0,0,1,1.24,True,5.0,0.07,27.71,0.33,0.79,0.2,18.79,0.29,2.0,Chelsea,True,Bournemouth,-3.02
+Trevoh Chalobah,Chelsea,Bournemouth,2024-05-19,True,DR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,2.15,True,5.2,0.07,29.66,0.3,0.79,0.2,18.79,0.29,0.0,Chelsea,True,Nottingham Forest,1.3
+Trevoh Chalobah,Chelsea,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,5.2,0.07,28.76,0.3,0.79,0.2,18.79,0.29,0.0,Chelsea,False,Bournemouth,-1.53
+Trevoh Chalobah,Chelsea,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.02,27.91,0.3,0.79,0.2,18.79,0.29,0.0,Chelsea,True,Aston Villa,0.42
+Trevoh Chalobah,Chelsea,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,27.11,0.3,0.79,0.2,18.79,0.29,0.0,Chelsea,False,Fulham,-2.13
+Trevoh Chalobah,Chelsea,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.0,26.36,0.3,0.79,0.2,18.79,0.29,0.0,Chelsea,False,Burnley,-2.71
+Trevoh Chalobah,Chelsea,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,25.65,0.3,0.79,0.2,18.79,0.29,0.0,Chelsea,True,Arsenal,2.1
+Trevoh Chalobah,Chelsea,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,24.97,0.3,0.79,0.2,18.79,0.29,,,,,

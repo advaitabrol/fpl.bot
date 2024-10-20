@@ -1,22 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Joe Ayodele-Aribo,Southampton,Tottenham,2022-08-06,False,FW,90,0,0.05,0,0.0,2,1,0,3.8,0,0,4,False,0.0,0.0,90.0,0,0,0,0,0,2
-Joe Ayodele-Aribo,Southampton,Manchester City,2022-10-08,False,AML,78,0,0.0,0,0.0,2,0,0,1.1,0,0,4,False,2.0,0.05,84.0,0,0,0,0,0,2
-Joe Ayodele-Aribo,Southampton,West Ham,2022-10-16,True,MR,73,0,0.0,0,0.02,2,0,1,3.2,0,0,1,False,2.0,0.02,80.33,0,0,0,0,0,3
-Joe Ayodele-Aribo,Southampton,Bournemouth,2022-10-19,False,ML,63,0,0.65,0,0.11,3,1,2,7.5,0,1,0,False,2.0,0.02,76.0,0,0,0,0,0,2
-Joe Ayodele-Aribo,Southampton,Arsenal,2022-10-23,True,FW,72,0,0.07,0,0.0,2,2,0,6.3,0,0,1,False,2.25,0.17,75.2,0,0,0,0,0,2
-Joe Ayodele-Aribo,Southampton,Crystal Palace,2022-10-29,False,FW,90,0,0.03,0,0.43,2,1,2,6.7,0,0,1,False,2.2,0.15,77.67,0,0,0,0,0,1
-Joe Ayodele-Aribo,Southampton,Newcastle United,2022-11-06,True,Sub,26,0,0.0,0,0.0,1,0,0,0.1,0,0,1,False,2.2,0.15,70.29,0,0,0,0,0,1
-Joe Ayodele-Aribo,Southampton,Liverpool,2022-11-12,False,Sub,8,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,2.0,0.15,62.5,0,0,0,0,0,0
-Joe Ayodele-Aribo,Southampton,Brighton,2022-12-26,True,Sub,45,0,0.0,0,0.0,0,0,0,0.5,0,0,1,False,1.8,0.15,60.56,0,0,0,0,0,2
-Joe Ayodele-Aribo,Southampton,Fulham,2022-12-31,False,AMC,66,0,0.0,0,0.0,2,0,0,0.8,0,0,1,True,1.2,0.02,61.1,0,0,0,0,0,1
-Joe Ayodele-Aribo,Southampton,Nottingham Forest,2023-01-04,True,Sub,26,0,0.03,0,0.0,1,1,0,2.1,0,0,0,False,1.2,0.01,57.91,0,0,0,0,0,7
-Joe Ayodele-Aribo,Southampton,Leicester City,2022-08-13,True,Sub,29,1,0.78,0,0.0,7,3,0,9.5,1,0,0,False,1.0,0.01,55.5,0,0,0,0,0,1
-Joe Ayodele-Aribo,Southampton,Wolverhampton,2023-02-11,True,Sub,11,0,0.0,0,0.0,1,0,0,0.1,0,0,1,False,2.2,0.16,52.08,0,0,0,0,0,1
-Joe Ayodele-Aribo,Southampton,Leeds United,2022-08-20,False,AMR,87,0,0.0,0,0.0,1,0,0,1.8,0,0,1,False,2.2,0.16,54.57,0,0,0,0,0,2
-Joe Ayodele-Aribo,Southampton,Crystal Palace,2023-04-15,True,FW,61,0,0.06,0,0.0,2,1,0,0.6,0,0,1,True,2.4,0.16,55.0,0,0,0,0,0,2
-Joe Ayodele-Aribo,Southampton,Brighton,2023-05-21,False,FW,69,0,0.0,0,0.0,2,0,0,0.7,0,0,3,True,2.4,0.17,55.88,0,0,0,0,0,2
-Joe Ayodele-Aribo,Southampton,Manchester United,2022-08-27,True,AMC,88,0,0.12,0,0.04,2,1,1,6.7,0,0,1,False,2.6,0.17,57.76,0,0,0,0,0,1
-Joe Ayodele-Aribo,Southampton,Chelsea,2022-08-30,True,Sub,30,0,0.0,0,0.0,1,0,0,0.4,0,0,0,False,1.6,0.04,56.22,0,0,0,0,0,2
-Joe Ayodele-Aribo,Southampton,Wolverhampton,2022-09-03,False,AMC,72,0,0.15,0,0.04,2,1,1,7.4,0,0,1,False,1.6,0.04,57.05,0,0,0,0,0,1
-Joe Ayodele-Aribo,Southampton,Aston Villa,2022-09-16,False,Sub,45,0,0.0,0,0.03,1,0,1,2.2,0,0,0,False,1.8,0.07,56.45,0,0,0,0,0,9
-Joe Ayodele-Aribo,Southampton,Everton,2022-10-01,True,ML,90,1,0.12,0,0.32,9,2,1,9.8,2,0,2,False,1.6,0.05,58.05,0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Joe Ayodele-Aribo,Southampton,Tottenham,2022-08-06,False,FW,90,0.0,0.05,0.0,0.0,2,1.0,0.0,3.8,0,0,4,False,0.0,0.0,90.0,0,0,0,0,0,2.0,Southampton,False,Manchester City,3.44
+Joe Ayodele-Aribo,Southampton,Manchester City,2022-10-08,False,AML,78,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,0,4,False,2.0,0.05,84.0,0,0,0,0,0,2.0,Southampton,True,West Ham,-0.03
+Joe Ayodele-Aribo,Southampton,West Ham,2022-10-16,True,MR,73,0.0,0.0,0.0,0.02,2,0.0,1.0,3.2,0,0,1,False,2.0,0.02,80.33,0,0,0,0,0,3.0,Southampton,False,Bournemouth,-0.76
+Joe Ayodele-Aribo,Southampton,Bournemouth,2022-10-19,False,ML,63,0.0,0.65,0.0,0.11,3,1.0,2.0,7.5,0,1,0,False,2.0,0.02,76.0,0,0,0,0,0,2.0,Southampton,True,Arsenal,-1.15
+Joe Ayodele-Aribo,Southampton,Arsenal,2022-10-23,True,FW,72,0.0,0.07,0.0,0.0,2,2.0,0.0,6.3,0,0,1,False,2.25,0.17,75.2,0,0,0,0,0,2.0,Southampton,False,Crystal Palace,1.04
+Joe Ayodele-Aribo,Southampton,Crystal Palace,2022-10-29,False,FW,90,0.0,0.03,0.0,0.43,2,1.0,2.0,6.7,0,0,1,False,2.2,0.15,77.67,0,0,0,0,0,1.0,Southampton,True,Newcastle United,3.01
+Joe Ayodele-Aribo,Southampton,Newcastle United,2022-11-06,True,Sub,26,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,False,2.2,0.15,70.29,0,0,0,0,0,1.0,Southampton,False,Liverpool,4.09
+Joe Ayodele-Aribo,Southampton,Liverpool,2022-11-12,False,Sub,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,2.0,0.15,62.5,0,0,0,0,0,0.0,Southampton,True,Brighton,0.98
+Joe Ayodele-Aribo,Southampton,Brighton,2022-12-26,True,Sub,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.5,0,0,1,False,1.8,0.15,60.56,0,0,0,0,0,2.0,Southampton,False,Fulham,1.81
+Joe Ayodele-Aribo,Southampton,Fulham,2022-12-31,False,AMC,66,0.0,0.0,0.0,0.0,2,0.0,0.0,0.8,0,0,1,True,1.2,0.02,61.1,0,0,0,0,0,1.0,Southampton,True,Nottingham Forest,3.03
+Joe Ayodele-Aribo,Southampton,Nottingham Forest,2023-01-04,True,Sub,26,0.0,0.03,0.0,0.0,1,1.0,0.0,2.1,0,0,0,False,1.2,0.01,57.91,0,0,0,0,0,7.0,Southampton,True,Leicester City,-1.16
+Joe Ayodele-Aribo,Southampton,Leicester City,2022-08-13,True,Sub,29,1.0,0.78,0.0,0.0,7,3.0,0.0,9.5,1,0,0,False,1.0,0.01,55.5,0,0,0,0,0,0.0,Southampton,False,Everton,2.07
+Joe Ayodele-Aribo,Southampton,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,2.2,0.16,51.23,0,0,0,0,0,0.0,Southampton,True,Aston Villa,0.29
+Joe Ayodele-Aribo,Southampton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.16,47.57,0,0,0,0,0,0.0,Southampton,False,Brentford,4.79
+Joe Ayodele-Aribo,Southampton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.16,44.4,0,0,0,0,0,1.0,Southampton,True,Wolverhampton,2.57
+Joe Ayodele-Aribo,Southampton,Wolverhampton,2023-02-11,True,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,False,1.6,0.16,42.31,0,0,0,0,0,0.0,Southampton,False,Chelsea,0.51
+Joe Ayodele-Aribo,Southampton,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.16,39.82,0,0,0,0,0,0.0,Southampton,False,Leicester City,-0.79
+Joe Ayodele-Aribo,Southampton,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,37.61,0,0,0,0,0,0.0,Southampton,True,Leeds United,-1.21
+Joe Ayodele-Aribo,Southampton,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,35.63,0,0,0,0,0,0.0,Southampton,False,Manchester United,0.89
+Joe Ayodele-Aribo,Southampton,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,33.85,0,0,0,0,0,0.0,Southampton,True,Brentford,0.03
+Joe Ayodele-Aribo,Southampton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,32.24,0,0,0,0,0,0.0,Southampton,True,Tottenham,0.56
+Joe Ayodele-Aribo,Southampton,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,30.77,0,0,0,0,0,0.0,Southampton,False,West Ham,0.0
+Joe Ayodele-Aribo,Southampton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,29.43,0,0,0,0,0,1.0,Southampton,False,Leeds United,0.71
+Joe Ayodele-Aribo,Southampton,Leeds United,2022-08-20,False,AMR,87,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,1,False,0.0,0.0,31.83,0,0,0,0,0,0.0,Southampton,True,Manchester City,0.1
+Joe Ayodele-Aribo,Southampton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,30.56,0,0,0,0,0,2.0,Southampton,True,Crystal Palace,2.32
+Joe Ayodele-Aribo,Southampton,Crystal Palace,2023-04-15,True,FW,61,0.0,0.06,0.0,0.0,2,1.0,0.0,0.6,0,0,1,True,0.2,0.0,31.73,0,0,0,0,0,0.0,Southampton,False,Arsenal,0.71
+Joe Ayodele-Aribo,Southampton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,30.56,0,0,0,0,0,0.0,Southampton,True,Bournemouth,2.76
+Joe Ayodele-Aribo,Southampton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,29.46,0,0,0,0,0,0.0,Southampton,False,Newcastle United,1.29
+Joe Ayodele-Aribo,Southampton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,28.45,0,0,0,0,0,0.0,Southampton,False,Nottingham Forest,1.95
+Joe Ayodele-Aribo,Southampton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.01,27.5,0,0,0,0,0,0.0,Southampton,True,Fulham,2.66
+Joe Ayodele-Aribo,Southampton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.01,26.61,0,0,0,0,0,2.0,Southampton,False,Brighton,1.32
+Joe Ayodele-Aribo,Southampton,Brighton,2023-05-21,False,FW,69,0.0,0.0,0.0,0.0,2,0.0,0.0,0.7,0,0,3,True,0.0,0.0,27.94,0,0,0,0,0,0.0,Southampton,True,Liverpool,-0.47
+Joe Ayodele-Aribo,Southampton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,27.09,0,0,0,0,0,2.0,Southampton,True,Manchester United,1.12
+Joe Ayodele-Aribo,Southampton,Manchester United,2022-08-27,True,AMC,88,0.0,0.12,0.0,0.04,2,1.0,1.0,6.7,0,0,1,False,0.4,0.0,28.88,0,0,0,0,0,1.0,Southampton,True,Chelsea,1.45
+Joe Ayodele-Aribo,Southampton,Chelsea,2022-08-30,True,Sub,30,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,0.8,0.02,28.91,0,0,0,0,0,2.0,Southampton,False,Wolverhampton,2.86
+Joe Ayodele-Aribo,Southampton,Wolverhampton,2022-09-03,False,AMC,72,0.0,0.15,0.0,0.04,2,1.0,1.0,7.4,0,0,1,False,1.0,0.02,30.11,0,0,0,0,0,1.0,Southampton,False,Aston Villa,3.18
+Joe Ayodele-Aribo,Southampton,Aston Villa,2022-09-16,False,Sub,45,0.0,0.0,0.0,0.03,1,0.0,1.0,2.2,0,0,0,False,1.4,0.05,30.51,0,0,0,0,0,9.0,Southampton,True,Everton,0.11
+Joe Ayodele-Aribo,Southampton,Everton,2022-10-01,True,ML,90,1.0,0.12,0.0,0.32,9,2.0,1.0,9.8,2,0,2,False,1.2,0.05,32.08,0,0,0,0,0,,Nott'm Forest,False,Arsenal,1.87

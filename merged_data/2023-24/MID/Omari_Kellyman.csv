@@ -1,3 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Omari Kellyman,Aston Villa,Manchester City,2024-04-03,False,Sub,13,0,0.05,0,0,1,1,0,0.3,0,0,0,False,0.0,0.0,13.0,0,0,0,0,0,1
-Omari Kellyman,Aston Villa,Crystal Palace,2024-05-19,False,Sub,22,0,0.0,0,0,1,0,0,0.2,0,0,1,False,1.0,0.05,17.5,0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Omari Kellyman,Aston Villa,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,True,Luton,-1.34
+Omari Kellyman,Aston Villa,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,False,Nottingham Forest,3.75
+Omari Kellyman,Aston Villa,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,True,Fulham,-2.12
+Omari Kellyman,Aston Villa,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,False,Tottenham,-1.04
+Omari Kellyman,Aston Villa,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,False,Bournemouth,2.75
+Omari Kellyman,Aston Villa,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,True,Manchester City,-0.81
+Omari Kellyman,Aston Villa,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,True,Arsenal,0.99
+Omari Kellyman,Aston Villa,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,False,Brentford,-0.06
+Omari Kellyman,Aston Villa,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,True,Sheffield,1.17
+Omari Kellyman,Aston Villa,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,False,Manchester United,0.18
+Omari Kellyman,Aston Villa,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,True,Everton,-2.45
+Omari Kellyman,Aston Villa,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,True,Burnley,1.43
+Omari Kellyman,Aston Villa,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,False,Everton,-1.12
+Omari Kellyman,Aston Villa,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,True,Newcastle United,-1.18
+Omari Kellyman,Aston Villa,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,False,Sheffield,-4.41
+Omari Kellyman,Aston Villa,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,True,Manchester United,-0.48
+Omari Kellyman,Aston Villa,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,False,Fulham,1.52
+Omari Kellyman,Aston Villa,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,True,Nottingham Forest,-1.71
+Omari Kellyman,Aston Villa,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,False,Luton,0.31
+Omari Kellyman,Aston Villa,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,True,Tottenham,2.74
+Omari Kellyman,Aston Villa,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,False,West Ham,1.42
+Omari Kellyman,Aston Villa,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,False,Burnley,-3.63
+Omari Kellyman,Aston Villa,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Aston Villa,True,Wolverhampton,0.03
+Omari Kellyman,Aston Villa,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,1.0,Aston Villa,False,Manchester City,2.54
+Omari Kellyman,Aston Villa,Manchester City,2024-04-03,False,Sub,13,0.0,0.05,0.0,0.0,1,1.0,0.0,0.3,0,0,0,False,0.0,0.0,0.52,0,0,0,0,0,0.0,Aston Villa,True,Brentford,-1.66
+Omari Kellyman,Aston Villa,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.01,0.5,0,0,0,0,0,0.0,Aston Villa,False,Arsenal,0.89
+Omari Kellyman,Aston Villa,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.01,0.48,0,0,0,0,0,0.0,Aston Villa,True,Bournemouth,-2.54
+Omari Kellyman,Aston Villa,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.01,0.46,0,0,0,0,0,0.0,Aston Villa,True,Chelsea,1.5
+Omari Kellyman,Aston Villa,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.01,0.45,0,0,0,0,0,0.0,Aston Villa,False,Brighton,-1.16
+Omari Kellyman,Aston Villa,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.01,0.43,0,0,0,0,0,0.0,Aston Villa,True,Liverpool,0.66
+Omari Kellyman,Aston Villa,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.42,0,0,0,0,0,1.0,Aston Villa,False,Crystal Palace,2.46
+Omari Kellyman,Aston Villa,Crystal Palace,2024-05-19,False,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,False,0.0,0.0,1.09,0,0,0,0,0,0.0,Aston Villa,False,Liverpool,0.36
+Omari Kellyman,Aston Villa,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.06,0,0,0,0,0,0.0,Aston Villa,True,Crystal Palace,-0.78
+Omari Kellyman,Aston Villa,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.03,0,0,0,0,0,0.0,Aston Villa,False,Chelsea,-0.25
+Omari Kellyman,Aston Villa,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.0,0,0,0,0,0,0.0,Aston Villa,True,Brighton,-3.23
+Omari Kellyman,Aston Villa,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.97,0,0,0,0,0,0.0,Aston Villa,False,Wolverhampton,1.16
+Omari Kellyman,Aston Villa,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.95,0,0,0,0,0,0.0,Aston Villa,True,West Ham,1.12
+Omari Kellyman,Aston Villa,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.92,0,0,0,0,0,,,,,

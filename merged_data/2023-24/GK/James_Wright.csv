@@ -1,13 +1,19 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-James Wright,Aston Villa,Manchester United,2024-02-11,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0.0,0,0
-James Wright,Aston Villa,Fulham,2024-02-17,False,0,0,0.0,0,0,0,0,False,0.03,False,0.0,0.0,0,0.0,0,0
-James Wright,Aston Villa,Luton,2024-03-02,False,0,0,0.0,0,0,0,0,False,0.56,False,0.0,0.0,0,0.0,0,0
-James Wright,Aston Villa,Tottenham,2024-03-10,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0.0,0,0
-James Wright,Aston Villa,West Ham,2024-03-17,False,0,0,0.0,0,0,0,0,False,0.1,False,0.0,0.0,0,0.0,0,0
-James Wright,Aston Villa,Wolverhampton,2024-03-30,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0.0,0,0
-James Wright,Aston Villa,Brentford,2024-04-06,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0.0,0,0
-James Wright,Aston Villa,Arsenal,2024-04-14,False,0,0,0.0,0,0,0,0,False,0.42,False,0.0,0.0,0,0.0,0,0
-James Wright,Aston Villa,Bournemouth,2024-04-21,True,0,0,0.0,0,0,0,0,False,0.65,False,0.0,0.0,0,0.0,0,0
-James Wright,Aston Villa,Chelsea,2024-04-27,True,0,0,0.0,0,0,0,0,False,0.07,False,0.0,0.0,0,0.0,0,0
-James Wright,Aston Villa,Brighton,2024-05-05,False,0,0,0.0,0,0,0,0,False,0.09,False,0.0,0.0,0,0.0,0,0
-James Wright,Aston Villa,Crystal Palace,2024-05-19,False,0,0,0.0,0,0,0,0,False,0.09,False,0.0,0.0,0,0.0,0,
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty,saves_per_game,last_season_total_saves
+James Wright,Aston Villa,Everton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Aston Villa,True,Newcastle United,-1.18,0.0,0
+James Wright,Aston Villa,Newcastle United,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Aston Villa,False,Sheffield,-4.41,0.0,0
+James Wright,Aston Villa,Sheffield,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Aston Villa,True,Manchester United,-0.48,0.0,0
+James Wright,Aston Villa,Manchester United,2024-02-11,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0.0,0,0.0,Aston Villa,False,Fulham,1.52,0.0,0
+James Wright,Aston Villa,Fulham,2024-02-17,False,0,0,0.0,0,0,0,0,False,0.03,False,0.0,0.0,0,0.0,0,0.0,Aston Villa,True,Nottingham Forest,-1.71,0.0,0
+James Wright,Aston Villa,Nottingham Forest,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Aston Villa,False,Luton,0.31,0.0,0
+James Wright,Aston Villa,Luton,2024-03-02,False,0,0,0.0,0,0,0,0,False,0.56,False,0.0,0.0,0,0.0,0,0.0,Aston Villa,True,Tottenham,2.74,0.0,0
+James Wright,Aston Villa,Tottenham,2024-03-10,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0.0,0,0.0,Aston Villa,False,West Ham,1.42,0.0,0
+James Wright,Aston Villa,West Ham,2024-03-17,False,0,0,0.0,0,0,0,0,False,0.1,False,0.0,0.0,0,0.0,0,0.0,Aston Villa,True,Wolverhampton,0.03,0.0,0
+James Wright,Aston Villa,Wolverhampton,2024-03-30,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0.0,0,0.0,Aston Villa,False,Manchester City,2.54,0.0,0
+James Wright,Aston Villa,Manchester City,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Aston Villa,True,Brentford,-1.66,0.0,0
+James Wright,Aston Villa,Brentford,2024-04-06,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0.0,0,0.0,Aston Villa,False,Arsenal,0.89,0.0,0
+James Wright,Aston Villa,Arsenal,2024-04-14,False,0,0,0.0,0,0,0,0,False,0.42,False,0.0,0.0,0,0.0,0,0.0,Aston Villa,True,Bournemouth,-2.54,0.0,0
+James Wright,Aston Villa,Bournemouth,2024-04-21,True,0,0,0.0,0,0,0,0,False,0.65,False,0.0,0.0,0,0.0,0,0.0,Aston Villa,True,Chelsea,1.5,0.0,0
+James Wright,Aston Villa,Chelsea,2024-04-27,True,0,0,0.0,0,0,0,0,False,0.07,False,0.0,0.0,0,0.0,0,0.0,Aston Villa,False,Brighton,-1.16,0.0,0
+James Wright,Aston Villa,Brighton,2024-05-05,False,0,0,0.0,0,0,0,0,False,0.09,False,0.0,0.0,0,0.0,0,0.0,Aston Villa,True,Liverpool,0.66,0.0,0
+James Wright,Aston Villa,Liverpool,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Aston Villa,False,Crystal Palace,2.46,0.0,0
+James Wright,Aston Villa,Crystal Palace,2024-05-19,False,0,0,0.0,0,0,0,0,False,0.09,False,0.0,0.0,0,0.0,0,,,,,,0.0,0

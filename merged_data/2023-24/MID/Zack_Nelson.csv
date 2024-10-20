@@ -1,3 +1,29 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Zack Nelson,Luton,Crystal Palace,2024-03-09,False,Sub,2,0,0,0,0,1,0,0,0.0,0,0,0,False,0.0,0.0,2.0,0,0,0,0,0,1
-Zack Nelson,Luton,Manchester City,2024-04-13,False,Sub,2,0,0,0,0,1,0,0,0.2,0,0,1,False,1.0,0.0,2.0,0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Zack Nelson,Luton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Manchester United,2.04
+Zack Nelson,Luton,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Crystal Palace,-1.47
+Zack Nelson,Luton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Brentford,2.56
+Zack Nelson,Luton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Arsenal,0.1
+Zack Nelson,Luton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Manchester City,1.95
+Zack Nelson,Luton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Newcastle United,-2.86
+Zack Nelson,Luton,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Sheffield,0.36
+Zack Nelson,Luton,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Chelsea,-0.03
+Zack Nelson,Luton,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Burnley,2.22
+Zack Nelson,Luton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Brighton,-7.25
+Zack Nelson,Luton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Newcastle United,-1.12
+Zack Nelson,Luton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Sheffield,3.77
+Zack Nelson,Luton,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Manchester United,2.85
+Zack Nelson,Luton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,False,Liverpool,3.7
+Zack Nelson,Luton,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Luton,True,Aston Villa,0.15
+Zack Nelson,Luton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,1.0,Luton,False,Crystal Palace,0.7
+Zack Nelson,Luton,Crystal Palace,2024-03-09,False,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.12,0,0,0,0,0,0.0,Luton,False,Bournemouth,-0.31
+Zack Nelson,Luton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.11,0,0,0,0,0,0.0,Luton,True,Nottingham Forest,1.07
+Zack Nelson,Luton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.11,0,0,0,0,0,0.0,Luton,False,Tottenham,0.62
+Zack Nelson,Luton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.1,0,0,0,0,0,0.0,Luton,False,Arsenal,1.76
+Zack Nelson,Luton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.1,0,0,0,0,0,0.0,Luton,True,Bournemouth,-1.8
+Zack Nelson,Luton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.09,0,0,0,0,0,1.0,Luton,False,Manchester City,3.1
+Zack Nelson,Luton,Manchester City,2024-04-13,False,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,False,0.0,0.0,0.17,0,0,0,0,0,0.0,Luton,True,Brentford,5.98
+Zack Nelson,Luton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.17,0,0,0,0,0,0.0,Luton,False,Wolverhampton,2.22
+Zack Nelson,Luton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.16,0,0,0,0,0,0.0,Luton,True,Everton,-0.18
+Zack Nelson,Luton,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.15,0,0,0,0,0,0.0,Luton,False,West Ham,4.32
+Zack Nelson,Luton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.15,0,0,0,0,0,0.0,Luton,True,Fulham,0.81
+Zack Nelson,Luton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.14,0,0,0,0,0,,,,,

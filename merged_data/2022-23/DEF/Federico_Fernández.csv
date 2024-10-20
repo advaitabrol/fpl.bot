@@ -1,8 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Federico Fernández,Newcastle,Bournemouth,2023-02-11,False,DMC,0,0,0.06,1,0.38,0,2,1,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0
-Federico Fernández,Newcastle,Liverpool,2023-02-18,True,DMC,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0.0,False,0.0,1.06,0.0,0.0,0,0,0,0,0
-Federico Fernández,Newcastle,Manchester City,2023-03-04,False,MC,0,0,0.11,0,0.0,0,3,0,0.0,0,0,0,0.0,False,0.0,0.53,0.0,0.0,0,0,0,0,0
-Federico Fernández,Newcastle,Brentford,2023-04-08,False,MC,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0.0,False,0.0,0.39,0.0,0.0,0,0,0,0,0
-Federico Fernández,Newcastle,Aston Villa,2023-04-15,False,DMC,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0.0,False,0.0,0.29,0.0,0.0,0,0,0,0,0
-Federico Fernández,Newcastle,Leicester City,2023-05-13,False,MC,0,0,0.05,0,0.22,0,1,2,0.0,0,0,0,0.0,False,0.0,0.23,0.0,0.0,0,0,0,0,0
-Federico Fernández,Newcastle,Chelsea,2023-05-28,False,DMC,0,0,0.04,0,0.17,0,3,2,0.0,0,0,0,0.0,False,0.0,0.03,0.0,0.0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Federico Fernández,Newcastle,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Brentford,-2.07
+Federico Fernández,Newcastle,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Manchester United,0.69
+Federico Fernández,Newcastle,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Everton,-2.28
+Federico Fernández,Newcastle,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Tottenham,3.36
+Federico Fernández,Newcastle,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Aston Villa,-3.48
+Federico Fernández,Newcastle,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Southampton,-1.99
+Federico Fernández,Newcastle,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Chelsea,-0.41
+Federico Fernández,Newcastle,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Leeds United,0.85
+Federico Fernández,Newcastle,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Leicester City,-1.07
+Federico Fernández,Newcastle,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Arsenal,1.52
+Federico Fernández,Newcastle,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Brighton,0.38
+Federico Fernández,Newcastle,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Fulham,-0.43
+Federico Fernández,Newcastle,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Crystal Palace,0.54
+Federico Fernández,Newcastle,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,West Ham,0.92
+Federico Fernández,Newcastle,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Bournemouth,1.83
+Federico Fernández,Newcastle,Bournemouth,2023-02-11,False,DMC,0,0.0,0.06,1.0,0.38,0,2.0,1.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Liverpool,1.54
+Federico Fernández,Newcastle,Liverpool,2023-02-18,True,DMC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.21,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Manchester City,2.91
+Federico Fernández,Newcastle,Manchester City,2023-03-04,False,MC,0,0.0,0.11,0.0,0.0,0,3.0,0.0,0.0,0,0,0,0.0,False,0.0,0.21,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Wolverhampton,-2.13
+Federico Fernández,Newcastle,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.23,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Nottingham Forest,0.98
+Federico Fernández,Newcastle,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.23,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Manchester United,-1.44
+Federico Fernández,Newcastle,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.23,0.0,0.0,0,0,0,0,0.0,Newcastle,False,West Ham,0.28
+Federico Fernández,Newcastle,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.02,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Manchester City,3.23
+Federico Fernández,Newcastle,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.02,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Brentford,-1.1
+Federico Fernández,Newcastle,Brentford,2023-04-08,False,MC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Aston Villa,2.1
+Federico Fernández,Newcastle,Aston Villa,2023-04-15,False,DMC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Tottenham,-3.04
+Federico Fernández,Newcastle,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Everton,1.08
+Federico Fernández,Newcastle,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Southampton,-0.72
+Federico Fernández,Newcastle,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Arsenal,-0.34
+Federico Fernández,Newcastle,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Leicester City,0.06
+Federico Fernández,Newcastle,Leicester City,2023-05-13,False,MC,0,0.0,0.05,0.0,0.22,0,1.0,2.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Brighton,-2.35
+Federico Fernández,Newcastle,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Leeds United,-1.95
+Federico Fernández,Newcastle,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Chelsea,0.97
+Federico Fernández,Newcastle,Chelsea,2023-05-28,False,DMC,0,0.0,0.04,0.0,0.17,0,3.0,2.0,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Wolverhampton,0.77
+Federico Fernández,Newcastle,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.02,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Liverpool,2.07
+Federico Fernández,Newcastle,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.02,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Crystal Palace,-2.12
+Federico Fernández,Newcastle,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Bournemouth,2.0
+Federico Fernández,Newcastle,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Fulham,-1.79
+Federico Fernández,Newcastle,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,,Man City,False,Burnley,-3.25

@@ -1,32 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Neco Williams,Nott'm Forest,Newcastle United,2022-08-06,False,DR,90,0,0.02,0,0.07,0,1,1,4.0,0,0,2,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,1
-Neco Williams,Nott'm Forest,Aston Villa,2022-10-10,True,Sub,32,0,0.0,0,0.0,1,0,0,0.6,0,0,0,0.0,False,0.0,0.02,61.0,0.0,0,0,0,0,2
-Neco Williams,Nott'm Forest,Wolverhampton,2022-10-15,False,DR,90,0,0.07,0,0.01,2,1,1,2.8,0,0,1,0.0,False,0.5,0.01,70.67,0.0,0,0,0,0,6
-Neco Williams,Nott'm Forest,Brighton,2022-10-18,False,DL,90,0,0.0,0,0.0,6,0,0,1.6,0,1,0,0.0,False,1.0,0.03,75.5,0.33,0,0,0,0,6
-Neco Williams,Nott'm Forest,Liverpool,2022-10-22,True,DL,72,0,0.02,0,0.0,6,1,0,1.2,0,1,0,0.0,False,2.25,0.02,74.8,0.5,0,0,0,0,1
-Neco Williams,Nott'm Forest,Arsenal,2022-10-30,False,Sub,26,0,0.02,0,0.0,1,1,0,1.9,0,0,1,0.0,False,3.0,0.02,66.67,0.5,0,0,0,0,1
-Neco Williams,Nott'm Forest,Brentford,2022-11-05,True,DL,90,0,0.01,0,0.35,1,1,1,4.5,0,0,2,0.0,False,3.2,0.02,70.0,0.4,0,0,0,0,1
-Neco Williams,Nott'm Forest,Crystal Palace,2022-11-12,True,Sub,4,0,0.0,0,0.0,1,0,0,0.1,0,0,0,0.25,False,3.2,0.02,61.75,0.4,0,0,0,0,1
-Neco Williams,Nott'm Forest,Manchester United,2022-12-27,False,Sub,16,0,0.0,0,0.05,1,0,1,2.6,0,0,1,0.59,False,3.0,0.01,56.67,0.4,0,0,0,0,1
-Neco Williams,Nott'm Forest,Chelsea,2023-01-01,True,Sub,2,0,0.0,0,0.0,1,0,0,0.1,0,0,0,0.0,False,2.0,0.01,51.2,0.4,0,0,0,0,1
-Neco Williams,Nott'm Forest,Southampton,2023-01-04,False,Sub,6,0,0.0,0,0.0,1,0,0,0.1,0,0,0,0.13,False,1.0,0.01,47.09,0.4,0,0,0,0,7
-Neco Williams,Nott'm Forest,West Ham,2022-08-14,True,MR,90,0,0.68,0,0.49,7,4,2,13.9,1,1,0,0.0,False,1.0,0.0,50.67,0.5,0,0,0,0,1
-Neco Williams,Nott'm Forest,Leeds United,2023-01-14,True,Sub,4,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.0,False,2.2,0.14,47.08,0.5,0,0,0,0,1
-Neco Williams,Nott'm Forest,Bournemouth,2023-01-21,False,Sub,15,0,0.0,0,0.0,1,0,0,0.1,0,0,0,0.2,False,2.2,0.14,44.79,0.5,0,0,0,0,5
-Neco Williams,Nott'm Forest,Leicester City,2023-02-05,True,DR,89,0,0.07,0,0.0,5,1,0,1.5,0,1,0,0.77,True,2.2,0.14,47.73,0.57,0,0,0,0,1
-Neco Williams,Nott'm Forest,Manchester City,2023-02-18,True,Sub,32,0,0.0,0,0.0,1,0,0,0.7,0,0,0,1.31,False,3.0,0.15,46.75,0.57,0,0,0,0,0
-Neco Williams,Nott'm Forest,West Ham,2023-02-25,False,DR,90,0,0.02,0,0.0,0,1,0,2.5,0,0,4,2.73,True,3.0,0.15,49.29,0.5,0,0,0,0,1
-Neco Williams,Nott'm Forest,Tottenham,2023-03-11,False,Sub,17,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.34,False,1.6,0.02,47.5,0.5,0,0,0,0,1
-Neco Williams,Nott'm Forest,Newcastle United,2023-03-17,True,Sub,11,0,0.0,0,0.0,1,0,0,0.0,0,0,1,1.2,False,1.6,0.02,45.58,0.5,0,0,0,0,2
-Neco Williams,Nott'm Forest,Wolverhampton,2023-04-01,True,DR,90,0,0.0,0,0.0,2,0,0,1.8,0,0,1,0.47,True,1.6,0.02,47.8,0.44,0,0,0,0,0
-Neco Williams,Nott'm Forest,Leicester City,2023-04-04,False,DR,90,0,0.04,0,0.0,0,1,0,2.6,0,0,2,1.94,True,1.0,0.0,49.81,0.4,0,0,0,0,1
-Neco Williams,Nott'm Forest,Everton,2022-08-20,False,MR,90,0,0.13,0,0.08,1,3,2,7.3,0,0,1,0.0,False,0.8,0.01,51.64,0.36,0,0,0,0,1
-Neco Williams,Nott'm Forest,Aston Villa,2023-04-08,False,DMR,90,0,0.0,0,0.01,1,0,1,2.3,0,0,2,1.37,True,1.0,0.03,53.3,0.33,0,0,0,0,0
-Neco Williams,Nott'm Forest,Manchester United,2023-04-16,True,MR,90,0,0.0,0,0.06,0,0,2,4.3,0,0,2,3.49,True,1.0,0.03,54.83,0.31,0,0,0,0,6
-Neco Williams,Nott'm Forest,Liverpool,2023-04-22,False,DMR,90,1,0.03,0,0.0,6,1,0,5.4,0,0,3,2.87,True,0.8,0.03,56.24,0.29,0,0,0,0,2
-Neco Williams,Nott'm Forest,Brighton,2023-04-26,True,DMR,64,0,0.08,0,0.0,2,2,0,3.9,0,0,1,1.71,True,1.6,0.04,56.54,0.27,0,0,0,0,1
-Neco Williams,Nott'm Forest,Tottenham,2022-08-28,True,DMR,90,0,0.16,0,0.02,1,3,1,5.1,0,0,2,0.0,False,2.0,0.05,57.78,0.25,0,0,0,0,-1
-Neco Williams,Nott'm Forest,Manchester City,2022-08-31,False,DR,90,0,0.0,0,0.32,-1,0,3,6.9,0,0,6,0.0,False,2.0,0.05,58.93,0.24,0,0,0,0,4
-Neco Williams,Nott'm Forest,Bournemouth,2022-09-03,True,DMR,90,0,0.07,0,0.0,4,2,0,4.6,0,0,3,0.0,False,1.6,0.05,60.0,0.22,0,0,0,0,1
-Neco Williams,Nott'm Forest,Fulham,2022-09-16,True,MR,87,0,0.04,0,0.0,1,2,0,0.1,0,0,3,0.0,False,2.4,0.07,60.9,0.21,0,0,0,0,-1
-Neco Williams,Nott'm Forest,Leeds United,2022-10-03,False,DR,45,0,0.0,0,0.0,-1,0,0,1.3,0,0,3,0.0,False,1.4,0.07,60.39,0.21,0,0,0,0,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Neco Williams,Nott'm Forest,Newcastle United,2022-08-06,False,DR,90,0.0,0.02,0.0,0.07,0,1.0,1.0,4.0,0,0,2,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,1,Nott'm Forest,True,Aston Villa,-2.76
+Neco Williams,Nott'm Forest,Aston Villa,2022-10-10,True,Sub,32,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.0,False,0.0,0.02,61.0,0.0,0,0,0,0,2,Nott'm Forest,False,Wolverhampton,0.48
+Neco Williams,Nott'm Forest,Wolverhampton,2022-10-15,False,DR,90,0.0,0.07,0.0,0.01,2,1.0,1.0,2.8,0,0,1,0.0,False,0.5,0.01,70.67,0.0,0,0,0,0,6,Nott'm Forest,False,Brighton,1.21
+Neco Williams,Nott'm Forest,Brighton,2022-10-18,False,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.6,0,1,0,0.0,False,1.0,0.03,75.5,0.33,0,0,0,0,6,Nott'm Forest,True,Liverpool,-1.05
+Neco Williams,Nott'm Forest,Liverpool,2022-10-22,True,DL,72,0.0,0.02,0.0,0.0,6,1.0,0.0,1.2,0,1,0,0.0,False,2.25,0.02,74.8,0.5,0,0,0,0,1,Nott'm Forest,False,Arsenal,1.87
+Neco Williams,Nott'm Forest,Arsenal,2022-10-30,False,Sub,26,0.0,0.02,0.0,0.0,1,1.0,0.0,1.9,0,0,1,0.0,False,3.0,0.02,66.67,0.5,0,0,0,0,1,Nott'm Forest,True,Brentford,0.39
+Neco Williams,Nott'm Forest,Brentford,2022-11-05,True,DL,90,0.0,0.01,0.0,0.35,1,1.0,1.0,4.5,0,0,2,0.0,False,3.2,0.02,70.0,0.4,0,0,0,0,1,Nott'm Forest,True,Crystal Palace,-0.57
+Neco Williams,Nott'm Forest,Crystal Palace,2022-11-12,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.25,False,3.2,0.02,61.75,0.4,0,0,0,0,1,Nott'm Forest,False,Manchester United,1.16
+Neco Williams,Nott'm Forest,Manchester United,2022-12-27,False,Sub,16,0.0,0.0,0.0,0.05,1,0.0,1.0,2.6,0,0,1,0.59,False,3.0,0.01,56.67,0.4,0,0,0,0,1,Nott'm Forest,True,Chelsea,0.18
+Neco Williams,Nott'm Forest,Chelsea,2023-01-01,True,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,False,2.0,0.01,51.2,0.4,0,0,0,0,1,Nott'm Forest,False,Southampton,-1.72
+Neco Williams,Nott'm Forest,Southampton,2023-01-04,False,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.13,False,1.0,0.01,47.09,0.4,0,0,0,0,7,Nott'm Forest,True,West Ham,-2.72
+Neco Williams,Nott'm Forest,West Ham,2022-08-14,True,MR,90,0.0,0.68,0.0,0.49,7,4.0,2.0,13.9,1,1,0,0.0,False,1.0,0.0,50.67,0.5,0,0,0,0,1,Nott'm Forest,True,Leeds United,-2.6
+Neco Williams,Nott'm Forest,Leeds United,2023-01-14,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,2.2,0.14,47.08,0.5,0,0,0,0,1,Nott'm Forest,False,Bournemouth,0.9
+Neco Williams,Nott'm Forest,Bournemouth,2023-01-21,False,Sub,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.2,False,2.2,0.14,44.79,0.5,0,0,0,0,5,Nott'm Forest,True,Leicester City,-1.35
+Neco Williams,Nott'm Forest,Leicester City,2023-02-05,True,DR,89,0.0,0.07,0.0,0.0,5,1.0,0.0,1.5,0,1,0,0.77,True,2.2,0.14,47.73,0.57,0,0,0,0,0,Nott'm Forest,False,Fulham,5.33
+Neco Williams,Nott'm Forest,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.15,44.75,0.57,0,0,0,0,1,Nott'm Forest,True,Manchester City,-0.22
+Neco Williams,Nott'm Forest,Manchester City,2023-02-18,True,Sub,32,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,1.31,False,2.8,0.15,44.0,0.57,0,0,0,0,0,Nott'm Forest,False,West Ham,3.49
+Neco Williams,Nott'm Forest,West Ham,2023-02-25,False,DR,90,0.0,0.02,0.0,0.0,0,1.0,0.0,2.5,0,0,4,2.73,True,1.6,0.01,46.56,0.5,0,0,0,0,0,Nott'm Forest,True,Everton,1.16
+Neco Williams,Nott'm Forest,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.02,44.11,0.5,0,0,0,0,1,Nott'm Forest,False,Tottenham,0.66
+Neco Williams,Nott'm Forest,Tottenham,2023-03-11,False,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.34,False,1.2,0.02,42.75,0.5,0,0,0,0,1,Nott'm Forest,True,Newcastle United,0.52
+Neco Williams,Nott'm Forest,Newcastle United,2023-03-17,True,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,1.2,False,0.4,0.0,41.24,0.5,0,0,0,0,2,Nott'm Forest,True,Wolverhampton,-0.63
+Neco Williams,Nott'm Forest,Wolverhampton,2023-04-01,True,DR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,0.47,True,0.6,0.0,43.45,0.44,0,0,0,0,0,Nott'm Forest,False,Leicester City,1.63
+Neco Williams,Nott'm Forest,Leicester City,2023-04-04,False,DR,90,0.0,0.04,0.0,0.0,0,1.0,0.0,2.6,0,0,2,1.94,True,0.8,0.0,45.48,0.4,0,0,0,0,1,Nott'm Forest,False,Everton,2.01
+Neco Williams,Nott'm Forest,Everton,2022-08-20,False,MR,90,0.0,0.13,0.0,0.08,1,3.0,2.0,7.3,0,0,1,0.0,False,0.8,0.01,47.33,0.36,0,0,0,0,1,Nott'm Forest,False,Aston Villa,2.52
+Neco Williams,Nott'm Forest,Aston Villa,2023-04-08,False,DMR,90,0.0,0.0,0.0,0.01,1,0.0,1.0,2.3,0,0,2,1.37,True,1.0,0.03,49.04,0.33,0,0,0,0,0,Nott'm Forest,True,Manchester United,0.67
+Neco Williams,Nott'm Forest,Manchester United,2023-04-16,True,MR,90,0.0,0.0,0.0,0.06,0,0.0,2.0,4.3,0,0,2,3.49,True,1.0,0.03,50.62,0.31,0,0,0,0,6,Nott'm Forest,False,Liverpool,2.76
+Neco Williams,Nott'm Forest,Liverpool,2023-04-22,False,DMR,90,1.0,0.03,0.0,0.0,6,1.0,0.0,5.4,0,0,3,2.87,True,0.8,0.03,52.07,0.29,0,0,0,0,2,Nott'm Forest,True,Brighton,-1.91
+Neco Williams,Nott'm Forest,Brighton,2023-04-26,True,DMR,64,0.0,0.08,0.0,0.0,2,2.0,0.0,3.9,0,0,1,1.71,True,1.6,0.04,52.5,0.27,0,0,0,0,0,Nott'm Forest,False,Brentford,1.33
+Neco Williams,Nott'm Forest,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.05,50.69,0.27,0,0,0,0,0,Nott'm Forest,True,Southampton,-0.97
+Neco Williams,Nott'm Forest,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.02,49.0,0.27,0,0,0,0,0,Nott'm Forest,False,Chelsea,-2.46
+Neco Williams,Nott'm Forest,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.02,47.42,0.27,0,0,0,0,0,Nott'm Forest,True,Arsenal,-1.92
+Neco Williams,Nott'm Forest,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.02,45.94,0.27,0,0,0,0,0,Nott'm Forest,False,Crystal Palace,0.85
+Neco Williams,Nott'm Forest,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.02,44.55,0.27,0,0,0,0,1,Nott'm Forest,True,Tottenham,4.06
+Neco Williams,Nott'm Forest,Tottenham,2022-08-28,True,DMR,90,0.0,0.16,0.0,0.02,1,3.0,1.0,5.1,0,0,2,0.0,False,0.0,0.0,45.88,0.25,0,0,0,0,-1,Nott'm Forest,False,Manchester City,4.87
+Neco Williams,Nott'm Forest,Manchester City,2022-08-31,False,DR,90,0.0,0.0,0.0,0.32,-1,0.0,3.0,6.9,0,0,6,0.0,False,0.2,0.03,47.14,0.24,0,0,0,0,4,Nott'm Forest,True,Bournemouth,0.52
+Neco Williams,Nott'm Forest,Bournemouth,2022-09-03,True,DMR,90,0.0,0.07,0.0,0.0,4,2.0,0.0,4.6,0,0,3,0.0,False,0.0,0.03,48.33,0.22,0,0,0,0,1,Nott'm Forest,True,Fulham,-2.25
+Neco Williams,Nott'm Forest,Fulham,2022-09-16,True,MR,87,0.0,0.04,0.0,0.0,1,2.0,0.0,0.1,0,0,3,0.0,False,0.8,0.05,49.38,0.21,0,0,0,0,-1,Nott'm Forest,False,Leeds United,3.17
+Neco Williams,Nott'm Forest,Leeds United,2022-10-03,False,DR,45,0.0,0.0,0.0,0.0,-1,0.0,0.0,1.3,0,0,3,0.0,False,1.0,0.05,49.26,0.21,0,0,0,0,1,Nott'm Forest,False,Arsenal,1.87

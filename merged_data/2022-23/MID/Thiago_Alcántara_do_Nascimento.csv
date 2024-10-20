@@ -1,19 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Thiago Alcántara do Nascimento,Liverpool,Fulham,2022-08-06,False,MC,50,0,0.0,0,0.06,1,0,1,2.3,0,0,1,False,0.0,0.0,50.0,1,4,1.63,2.59,0.05,2
-Thiago Alcántara do Nascimento,Liverpool,Arsenal,2022-10-09,False,DMC,90,0,0.0,0,0.0,2,0,0,0.5,0,0,3,False,1.0,0.0,70.0,1,4,1.63,2.59,0.05,2
-Thiago Alcántara do Nascimento,Liverpool,Manchester City,2022-10-16,True,DMC,90,0,0.0,0,0.0,2,0,0,1.9,0,1,0,False,1.5,0.0,76.67,1,4,1.63,2.59,0.05,1
-Thiago Alcántara do Nascimento,Liverpool,West Ham,2022-10-19,True,MC,57,0,0.01,0,0.06,1,1,2,4.9,0,0,0,False,1.67,0.0,71.75,1,4,1.63,2.59,0.05,2
-Thiago Alcántara do Nascimento,Liverpool,Leicester City,2022-10-29,True,MC,90,0,0.0,0,0.1,2,0,2,5.7,0,0,2,False,1.5,0.0,75.4,1,4,1.63,2.59,0.05,2
-Thiago Alcántara do Nascimento,Liverpool,Tottenham,2022-11-06,False,MC,90,0,0.06,0,0.16,2,3,2,6.7,0,0,1,False,1.6,0.0,77.83,1,4,1.63,2.59,0.05,2
-Thiago Alcántara do Nascimento,Liverpool,Southampton,2022-11-12,True,MC,90,0,0.0,0,0.0,2,0,0,1.9,0,0,1,True,1.8,0.02,79.57,1,4,1.63,2.59,0.05,2
-Thiago Alcántara do Nascimento,Liverpool,Aston Villa,2022-12-26,False,MC,66,0,0.01,0,0.54,2,1,1,3.1,0,0,1,True,1.8,0.02,77.88,1,4,1.63,2.59,0.05,2
-Thiago Alcántara do Nascimento,Liverpool,Leeds United,2022-12-30,True,MC,90,0,0.1,0,0.09,2,1,2,8.2,0,0,1,True,1.8,0.02,79.22,1,4,1.63,2.59,0.05,1
-Thiago Alcántara do Nascimento,Liverpool,Brentford,2023-01-02,False,MC,90,0,0.08,0,0.02,1,2,1,4.5,0,0,3,True,2.0,0.04,80.3,1,4,1.63,2.59,0.05,2
-Thiago Alcántara do Nascimento,Liverpool,Brighton,2023-01-14,False,MC,90,0,0.0,0,0.0,2,0,0,1.7,0,0,3,True,1.8,0.05,81.18,1,4,1.63,2.59,0.05,3
-Thiago Alcántara do Nascimento,Liverpool,Chelsea,2023-01-21,True,MC,90,0,0.05,0,0.1,3,1,1,4.8,0,1,0,True,1.8,0.04,81.92,1,4,1.63,2.59,0.05,2
-Thiago Alcántara do Nascimento,Liverpool,Wolverhampton,2023-02-04,False,MC,85,0,0.0,0,0.12,2,0,3,5.6,0,0,3,True,2.0,0.05,82.15,1,4,1.63,2.59,0.05,1
-Thiago Alcántara do Nascimento,Liverpool,Arsenal,2023-04-09,True,Sub,30,0,0.0,0,0.0,1,0,0,1.5,0,0,0,False,2.0,0.05,78.43,1,4,1.63,2.59,0.05,1
-Thiago Alcántara do Nascimento,Liverpool,Leicester City,2023-04-17,False,Sub,5,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,1.8,0.03,73.53,1,4,1.63,2.59,0.05,1
-Thiago Alcántara do Nascimento,Liverpool,Nottingham Forest,2023-04-22,True,Sub,30,0,0.0,0,0.0,1,0,0,0.6,0,0,1,False,1.8,0.01,70.81,1,4,1.63,2.59,0.05,1
-Thiago Alcántara do Nascimento,Liverpool,West Ham,2023-04-26,False,Sub,31,0,0.07,0,0.0,1,1,0,1.1,0,0,0,False,1.6,0.01,68.47,1,4,1.63,2.59,0.05,2
-Thiago Alcántara do Nascimento,Liverpool,Brighton,2022-10-01,True,MC,88,0,0.0,0,0.15,2,0,2,4.5,0,0,3,False,1.2,0.01,69.56,1,4,1.63,2.59,0.05,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Thiago Alcántara do Nascimento,Liverpool,Fulham,2022-08-06,False,MC,50,0.0,0.0,0.0,0.06,1,0.0,1.0,2.3,0,0,1,False,0.0,0.0,50.0,1.0,4.0,1.63,2.59,0.05,2,Liverpool,False,Arsenal,2.26
+Thiago Alcántara do Nascimento,Liverpool,Arsenal,2022-10-09,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.5,0,0,3,False,1.0,0.0,70.0,1.0,4.0,1.63,2.59,0.05,2,Liverpool,True,Manchester City,-0.87
+Thiago Alcántara do Nascimento,Liverpool,Manchester City,2022-10-16,True,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,1,0,False,1.5,0.0,76.67,1.0,4.0,1.63,2.59,0.05,1,Liverpool,True,West Ham,-0.03
+Thiago Alcántara do Nascimento,Liverpool,West Ham,2022-10-19,True,MC,57,0.0,0.01,0.0,0.06,1,1.0,2.0,4.9,0,0,0,False,1.67,0.0,71.75,1.0,4.0,1.63,2.59,0.05,0,Liverpool,False,Nottingham Forest,1.75
+Thiago Alcántara do Nascimento,Liverpool,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,1.5,0.0,57.4,1.0,4.0,1.63,2.59,0.05,2,Liverpool,True,Leicester City,-2.17
+Thiago Alcántara do Nascimento,Liverpool,Leicester City,2022-10-29,True,MC,90,0.0,0.0,0.0,0.1,2,0.0,2.0,5.7,0,0,2,False,1.2,0.0,62.83,1.0,4.0,1.63,2.59,0.05,2,Liverpool,False,Tottenham,1.56
+Thiago Alcántara do Nascimento,Liverpool,Tottenham,2022-11-06,False,MC,90,0.0,0.06,0.0,0.16,2,3.0,2.0,6.7,0,0,1,False,1.4,0.0,66.71,1.0,4.0,1.63,2.59,0.05,2,Liverpool,True,Southampton,-2.6
+Thiago Alcántara do Nascimento,Liverpool,Southampton,2022-11-12,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,True,1.4,0.02,69.62,1.0,4.0,1.63,2.59,0.05,2,Liverpool,False,Aston Villa,1.03
+Thiago Alcántara do Nascimento,Liverpool,Aston Villa,2022-12-26,False,MC,66,0.0,0.01,0.0,0.54,2,1.0,1.0,3.1,0,0,1,True,1.4,0.02,69.22,1.0,4.0,1.63,2.59,0.05,2,Liverpool,True,Leeds United,-1.23
+Thiago Alcántara do Nascimento,Liverpool,Leeds United,2022-12-30,True,MC,90,0.0,0.1,0.0,0.09,2,1.0,2.0,8.2,0,0,1,True,1.6,0.02,71.3,1.0,4.0,1.63,2.59,0.05,1,Liverpool,False,Brentford,2.56
+Thiago Alcántara do Nascimento,Liverpool,Brentford,2023-01-02,False,MC,90,0.0,0.08,0.0,0.02,1,2.0,1.0,4.5,0,0,3,True,2.0,0.04,73.0,1.0,4.0,1.63,2.59,0.05,0,Liverpool,True,Crystal Palace,1.28
+Thiago Alcántara do Nascimento,Liverpool,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.05,66.92,1.0,4.0,1.63,2.59,0.05,2,Liverpool,False,Brighton,1.25
+Thiago Alcántara do Nascimento,Liverpool,Brighton,2023-01-14,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.7,0,0,3,True,1.4,0.04,68.69,1.0,4.0,1.63,2.59,0.05,3,Liverpool,True,Chelsea,-1.38
+Thiago Alcántara do Nascimento,Liverpool,Chelsea,2023-01-21,True,MC,90,0.0,0.05,0.0,0.1,3,1.0,1.0,4.8,0,1,0,True,1.4,0.04,70.21,1.0,4.0,1.63,2.59,0.05,2,Liverpool,False,Wolverhampton,1.32
+Thiago Alcántara do Nascimento,Liverpool,Wolverhampton,2023-02-04,False,MC,85,0.0,0.0,0.0,0.12,2,0.0,3.0,5.6,0,0,3,True,1.6,0.05,71.2,1.0,4.0,1.63,2.59,0.05,0,Liverpool,True,Everton,-1.61
+Thiago Alcántara do Nascimento,Liverpool,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.03,66.75,1.0,4.0,1.63,2.59,0.05,0,Liverpool,False,Newcastle United,-0.43
+Thiago Alcántara do Nascimento,Liverpool,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.01,62.82,1.0,4.0,1.63,2.59,0.05,0,Liverpool,False,Crystal Palace,0.35
+Thiago Alcántara do Nascimento,Liverpool,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.01,59.33,1.0,4.0,1.63,2.59,0.05,0,Liverpool,True,Wolverhampton,-1.46
+Thiago Alcántara do Nascimento,Liverpool,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.01,56.21,1.0,4.0,1.63,2.59,0.05,0,Liverpool,True,Manchester United,-2.66
+Thiago Alcántara do Nascimento,Liverpool,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,53.4,1.0,4.0,1.63,2.59,0.05,0,Liverpool,False,Bournemouth,-0.9
+Thiago Alcántara do Nascimento,Liverpool,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,50.86,1.0,4.0,1.63,2.59,0.05,0,Liverpool,False,Manchester City,1.11
+Thiago Alcántara do Nascimento,Liverpool,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,48.55,1.0,4.0,1.63,2.59,0.05,0,Liverpool,False,Chelsea,0.3
+Thiago Alcántara do Nascimento,Liverpool,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,46.43,1.0,4.0,1.63,2.59,0.05,0,Liverpool,False,Manchester United,0.18
+Thiago Alcántara do Nascimento,Liverpool,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,44.5,1.0,4.0,1.63,2.59,0.05,1,Liverpool,True,Arsenal,-0.54
+Thiago Alcántara do Nascimento,Liverpool,Arsenal,2023-04-09,True,Sub,30,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,0,False,0.0,0.0,43.92,1.0,4.0,1.63,2.59,0.05,1,Liverpool,False,Leicester City,-2.79
+Thiago Alcántara do Nascimento,Liverpool,Leicester City,2023-04-17,False,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.2,0.0,42.42,1.0,4.0,1.63,2.59,0.05,1,Liverpool,True,Nottingham Forest,-1.23
+Thiago Alcántara do Nascimento,Liverpool,Nottingham Forest,2023-04-22,True,Sub,30,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,False,0.4,0.0,41.96,1.0,4.0,1.63,2.59,0.05,1,Liverpool,False,West Ham,2.89
+Thiago Alcántara do Nascimento,Liverpool,West Ham,2023-04-26,False,Sub,31,0.0,0.07,0.0,0.0,1,1.0,0.0,1.1,0,0,0,False,0.6,0.0,41.57,1.0,4.0,1.63,2.59,0.05,0,Liverpool,True,Tottenham,0.66
+Thiago Alcántara do Nascimento,Liverpool,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.01,40.14,1.0,4.0,1.63,2.59,0.05,0,Liverpool,True,Fulham,0.57
+Thiago Alcántara do Nascimento,Liverpool,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.01,38.8,1.0,4.0,1.63,2.59,0.05,0,Liverpool,True,Brentford,-2.96
+Thiago Alcántara do Nascimento,Liverpool,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,37.55,1.0,4.0,1.63,2.59,0.05,0,Liverpool,False,Leeds United,0.15
+Thiago Alcántara do Nascimento,Liverpool,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.01,36.38,1.0,4.0,1.63,2.59,0.05,0,Liverpool,True,Aston Villa,-0.35
+Thiago Alcántara do Nascimento,Liverpool,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.01,35.27,1.0,4.0,1.63,2.59,0.05,0,Liverpool,False,Southampton,2.18
+Thiago Alcántara do Nascimento,Liverpool,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,34.24,1.0,4.0,1.63,2.59,0.05,0,Liverpool,True,Bournemouth,-4.12
+Thiago Alcántara do Nascimento,Liverpool,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,33.26,1.0,4.0,1.63,2.59,0.05,0,Liverpool,True,Newcastle United,-0.89
+Thiago Alcántara do Nascimento,Liverpool,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,32.33,1.0,4.0,1.63,2.59,0.05,0,Liverpool,False,Everton,1.81
+Thiago Alcántara do Nascimento,Liverpool,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,31.46,1.0,4.0,1.63,2.59,0.05,2,Liverpool,True,Brighton,1.7
+Thiago Alcántara do Nascimento,Liverpool,Brighton,2022-10-01,True,MC,88,0.0,0.0,0.0,0.15,2,0.0,2.0,4.5,0,0,3,False,0.0,0.0,32.95,1.0,4.0,1.63,2.59,0.05,0,Liverpool,False,Chelsea,0.3

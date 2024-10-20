@@ -1,5 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Keinan Davis,Aston Villa,Tottenham,2023-11-26,False,DC,0,0,0.09,0,0.0,0,1,0,0.0,0,False,0.0,0.0,0.0,1,0,0.58,0.45,0,0
-Keinan Davis,Aston Villa,Bournemouth,2023-12-03,False,DC,0,0,0.0,0,0.0,0,0,0,0.0,0,False,0.0,0.09,0.0,1,0,0.58,0.45,0,0
-Keinan Davis,Aston Villa,Fulham,2024-02-17,False,DL,0,0,0.53,0,0.25,0,3,3,0.0,0,False,0.0,0.05,0.0,1,0,0.58,0.45,0,0
-Keinan Davis,Aston Villa,Brighton,2023-09-30,True,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,False,0.0,0.21,0.0,1,0,0.58,0.45,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Keinan Davis,Aston Villa,Newcastle United,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,True,Luton,-1.34
+Keinan Davis,Aston Villa,Luton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,False,Nottingham Forest,3.75
+Keinan Davis,Aston Villa,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,True,Fulham,-2.12
+Keinan Davis,Aston Villa,Fulham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,False,Tottenham,-1.04
+Keinan Davis,Aston Villa,Tottenham,2023-11-26,False,DC,0,0.0,0.09,0.0,0.0,0,1.0,0.0,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,False,Bournemouth,2.75
+Keinan Davis,Aston Villa,Bournemouth,2023-12-03,False,DC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,False,0.0,0.02,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,True,Manchester City,-0.81
+Keinan Davis,Aston Villa,Manchester City,,True,,0,,,,,0,,,0.0,0,False,0.0,0.02,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,True,Arsenal,0.99
+Keinan Davis,Aston Villa,Arsenal,,True,,0,,,,,0,,,0.0,0,False,0.0,0.02,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,False,Brentford,-0.06
+Keinan Davis,Aston Villa,Brentford,,False,,0,,,,,0,,,0.0,0,False,0.0,0.02,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,True,Sheffield,1.17
+Keinan Davis,Aston Villa,Sheffield,,True,,0,,,,,0,,,0.0,0,False,0.0,0.02,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,False,Manchester United,0.18
+Keinan Davis,Aston Villa,Manchester United,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,True,Everton,-2.45
+Keinan Davis,Aston Villa,Everton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,True,Burnley,1.43
+Keinan Davis,Aston Villa,Burnley,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,False,Everton,-1.12
+Keinan Davis,Aston Villa,Everton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,True,Newcastle United,-1.18
+Keinan Davis,Aston Villa,Newcastle United,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,False,Sheffield,-4.41
+Keinan Davis,Aston Villa,Sheffield,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,True,Manchester United,-0.48
+Keinan Davis,Aston Villa,Manchester United,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,False,Fulham,1.52
+Keinan Davis,Aston Villa,Fulham,2024-02-17,False,DL,0,0.0,0.53,0.0,0.25,0,3.0,3.0,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,True,Nottingham Forest,-1.71
+Keinan Davis,Aston Villa,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,False,0.0,0.11,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,False,Luton,0.31
+Keinan Davis,Aston Villa,Luton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.11,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,True,Tottenham,2.74
+Keinan Davis,Aston Villa,Tottenham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.11,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,False,West Ham,1.42
+Keinan Davis,Aston Villa,West Ham,,False,,0,,,,,0,,,0.0,0,False,0.0,0.11,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,False,Burnley,-3.63
+Keinan Davis,Aston Villa,Burnley,,False,,0,,,,,0,,,0.0,0,False,0.0,0.11,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,True,Wolverhampton,0.03
+Keinan Davis,Aston Villa,Wolverhampton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,False,Manchester City,2.54
+Keinan Davis,Aston Villa,Manchester City,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,True,Brentford,-1.66
+Keinan Davis,Aston Villa,Brentford,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,False,Arsenal,0.89
+Keinan Davis,Aston Villa,Arsenal,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,True,Bournemouth,-2.54
+Keinan Davis,Aston Villa,Bournemouth,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,True,Chelsea,1.5
+Keinan Davis,Aston Villa,Chelsea,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,False,Brighton,-1.16
+Keinan Davis,Aston Villa,Brighton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,True,Liverpool,0.66
+Keinan Davis,Aston Villa,Liverpool,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,False,Crystal Palace,2.46
+Keinan Davis,Aston Villa,Crystal Palace,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,False,Liverpool,0.36
+Keinan Davis,Aston Villa,Liverpool,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,True,Crystal Palace,-0.78
+Keinan Davis,Aston Villa,Crystal Palace,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,False,Chelsea,-0.25
+Keinan Davis,Aston Villa,Chelsea,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,True,Brighton,-3.23
+Keinan Davis,Aston Villa,Brighton,2023-09-30,True,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,False,Wolverhampton,1.16
+Keinan Davis,Aston Villa,Wolverhampton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,0.0,Aston Villa,True,West Ham,1.12
+Keinan Davis,Aston Villa,West Ham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,1.0,0.0,0.58,0.45,0,,,,,

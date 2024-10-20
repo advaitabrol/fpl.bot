@@ -1,5 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Javier Manquillo Gaitán,Newcastle,Southampton,2022-11-06,False,Sub,10,0,0.0,0,0.0,1,0,0,0.3,0,0,1,0.0,False,0.0,0.0,10.0,0.0,0,0,0,0,1
-Javier Manquillo Gaitán,Newcastle,West Ham,2023-04-05,False,Sub,3,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.0,False,1.0,0.0,6.5,0.0,0,0,0,0,1
-Javier Manquillo Gaitán,Newcastle,Tottenham,2023-04-23,True,Sub,20,0,0.0,0,0.0,1,0,0,1.5,0,0,0,0.34,False,1.0,0.0,11.0,0.0,0,0,0,0,1
-Javier Manquillo Gaitán,Newcastle,Brighton,2023-05-18,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.09,False,1.0,0.0,8.5,0.0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Javier Manquillo Gaitán,Newcastle,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,True,Brentford,-2.07
+Javier Manquillo Gaitán,Newcastle,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,False,Manchester United,0.69
+Javier Manquillo Gaitán,Newcastle,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,True,Everton,-2.28
+Javier Manquillo Gaitán,Newcastle,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,False,Tottenham,3.36
+Javier Manquillo Gaitán,Newcastle,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,True,Aston Villa,-3.48
+Javier Manquillo Gaitán,Newcastle,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1,Newcastle,False,Southampton,-1.99
+Javier Manquillo Gaitán,Newcastle,Southampton,2022-11-06,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,0.0,False,0.0,0.0,1.43,0.0,0,0,0,0,0,Newcastle,True,Chelsea,-0.41
+Javier Manquillo Gaitán,Newcastle,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,1.25,0.0,0,0,0,0,0,Newcastle,False,Leeds United,0.85
+Javier Manquillo Gaitán,Newcastle,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,1.11,0.0,0,0,0,0,0,Newcastle,True,Leicester City,-1.07
+Javier Manquillo Gaitán,Newcastle,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,1.0,0.0,0,0,0,0,0,Newcastle,False,Arsenal,1.52
+Javier Manquillo Gaitán,Newcastle,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.91,0.0,0,0,0,0,0,Newcastle,False,Brighton,0.38
+Javier Manquillo Gaitán,Newcastle,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.83,0.0,0,0,0,0,0,Newcastle,True,Fulham,-0.43
+Javier Manquillo Gaitán,Newcastle,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.77,0.0,0,0,0,0,0,Newcastle,False,Crystal Palace,0.54
+Javier Manquillo Gaitán,Newcastle,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.71,0.0,0,0,0,0,0,Newcastle,True,West Ham,0.92
+Javier Manquillo Gaitán,Newcastle,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.67,0.0,0,0,0,0,0,Newcastle,False,Bournemouth,1.83
+Javier Manquillo Gaitán,Newcastle,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.62,0.0,0,0,0,0,0,Newcastle,True,Liverpool,1.54
+Javier Manquillo Gaitán,Newcastle,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.59,0.0,0,0,0,0,0,Newcastle,False,Manchester City,2.91
+Javier Manquillo Gaitán,Newcastle,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.56,0.0,0,0,0,0,0,Newcastle,True,Wolverhampton,-2.13
+Javier Manquillo Gaitán,Newcastle,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.53,0.0,0,0,0,0,0,Newcastle,False,Nottingham Forest,0.98
+Javier Manquillo Gaitán,Newcastle,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.5,0.0,0,0,0,0,0,Newcastle,True,Manchester United,-1.44
+Javier Manquillo Gaitán,Newcastle,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.48,0.0,0,0,0,0,1,Newcastle,False,West Ham,0.28
+Javier Manquillo Gaitán,Newcastle,West Ham,2023-04-05,False,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,0.0,0.0,0.59,0.0,0,0,0,0,0,Newcastle,True,Manchester City,3.23
+Javier Manquillo Gaitán,Newcastle,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.57,0.0,0,0,0,0,0,Newcastle,False,Brentford,-1.1
+Javier Manquillo Gaitán,Newcastle,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.54,0.0,0,0,0,0,0,Newcastle,False,Aston Villa,2.1
+Javier Manquillo Gaitán,Newcastle,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.52,0.0,0,0,0,0,1,Newcastle,True,Tottenham,-3.04
+Javier Manquillo Gaitán,Newcastle,Tottenham,2023-04-23,True,Sub,20,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,0,0.34,False,0.2,0.0,1.27,0.0,0,0,0,0,0,Newcastle,False,Everton,1.08
+Javier Manquillo Gaitán,Newcastle,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,1.22,0.0,0,0,0,0,0,Newcastle,True,Southampton,-0.72
+Javier Manquillo Gaitán,Newcastle,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,1.18,0.0,0,0,0,0,0,Newcastle,True,Arsenal,-0.34
+Javier Manquillo Gaitán,Newcastle,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,1.14,0.0,0,0,0,0,0,Newcastle,False,Leicester City,0.06
+Javier Manquillo Gaitán,Newcastle,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,1.1,0.0,0,0,0,0,1,Newcastle,True,Brighton,-2.35
+Javier Manquillo Gaitán,Newcastle,Brighton,2023-05-18,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.09,False,0.2,0.0,1.1,0.0,0,0,0,0,0,Newcastle,True,Leeds United,-1.95
+Javier Manquillo Gaitán,Newcastle,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,1.06,0.0,0,0,0,0,0,Newcastle,False,Chelsea,0.97
+Javier Manquillo Gaitán,Newcastle,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,1.03,0.0,0,0,0,0,0,Newcastle,False,Wolverhampton,0.77
+Javier Manquillo Gaitán,Newcastle,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,1.0,0.0,0,0,0,0,0,Newcastle,False,Liverpool,2.07
+Javier Manquillo Gaitán,Newcastle,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.97,0.0,0,0,0,0,0,Newcastle,True,Crystal Palace,-2.12
+Javier Manquillo Gaitán,Newcastle,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.94,0.0,0,0,0,0,0,Newcastle,True,Bournemouth,2.0
+Javier Manquillo Gaitán,Newcastle,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.92,0.0,0,0,0,0,0,Newcastle,False,Fulham,-1.79
+Javier Manquillo Gaitán,Newcastle,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.89,0.0,0,0,0,0,0,Newcastle,True,Aston Villa,-3.48

@@ -1,13 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,form,clean_sheet_probability
-Daniel Bachmann,Watford,Aston Villa,2021-08-14,True,90,2,0,0,1,0,False,0,0.0,0.0
-Daniel Bachmann,Watford,Leeds United,2021-11-28,False,90,4,4,0,1,0,False,0,1.0,0.0
-Daniel Bachmann,Watford,Chelsea,2021-12-01,True,90,2,2,0,1,0,False,0,1.0,0.0
-Daniel Bachmann,Watford,Manchester City,2021-12-04,True,90,3,9,0,4,0,False,0,1.0,0.0
-Daniel Bachmann,Watford,Brentford,2021-12-10,False,90,2,3,0,2,0,False,0,1.75,0.0
-Daniel Bachmann,Watford,Brighton,2021-08-21,False,90,2,1,0,1,0,False,0,1.8,0.0
-Daniel Bachmann,Watford,West Ham,2021-12-28,True,90,4,2,0,0,0,False,0,1.8,0.0
-Daniel Bachmann,Watford,Tottenham,2022-01-01,True,90,1,9,0,5,0,False,0,1.6,0.0
-Daniel Bachmann,Watford,Norwich,2022-01-21,True,90,3,0,0,1,0,False,0,2.4,0.0
-Daniel Bachmann,Watford,Tottenham,2021-08-29,False,90,1,7,0,4,0,False,0,1.8,0.0
-Daniel Bachmann,Watford,Chelsea,2022-05-22,False,90,2,6,0,3,0,False,0,2.2,0.0
-Daniel Bachmann,Watford,Wolverhampton,2021-09-11,True,90,2,4,0,2,0,False,0,2.6,0.0
+name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,form,clean_sheet_probability,saves_per_game
+Daniel Bachmann,Watford,Aston Villa,2021-08-14,True,90,2,0,0,1,0,False,0.0,0.0,0.0,0.0
+Daniel Bachmann,Watford,Southampton,,True,0,0,0,0,0,0,False,,1.0,0.0,0.0
+Daniel Bachmann,Watford,Arsenal,,False,0,0,0,0,0,0,False,,0.5,0.0,0.0
+Daniel Bachmann,Watford,Manchester United,,True,0,0,0,0,0,0,False,,0.33,0.0,0.0
+Daniel Bachmann,Watford,Leeds United,2021-11-28,False,90,4,4,0,1,0,False,0.0,0.25,0.0,0.8
+Daniel Bachmann,Watford,Chelsea,2021-12-01,True,90,2,2,0,1,0,False,0.0,0.4,0.0,1.0
+Daniel Bachmann,Watford,Manchester City,2021-12-04,True,90,3,9,0,4,0,False,0.0,0.4,0.0,2.14
+Daniel Bachmann,Watford,Brentford,2021-12-10,False,90,2,3,0,2,0,False,0.0,1.2,0.0,2.25
+Daniel Bachmann,Watford,Brighton,2021-08-21,False,90,2,1,0,1,0,False,0.0,1.6,0.0,2.11
+Daniel Bachmann,Watford,West Ham,2021-12-28,True,90,4,2,0,0,0,False,0.0,1.8,0.0,2.1
+Daniel Bachmann,Watford,Tottenham,2022-01-01,True,90,1,9,0,5,0,False,0.0,1.6,0.0,2.73
+Daniel Bachmann,Watford,Newcastle United,,False,0,0,0,0,0,0,False,,2.4,0.0,2.5
+Daniel Bachmann,Watford,Norwich,2022-01-21,True,90,3,0,0,1,0,False,0.0,1.6,0.0,2.31
+Daniel Bachmann,Watford,Burnley,,False,0,0,0,0,0,0,False,,1.4,0.0,2.14
+Daniel Bachmann,Watford,West Ham,,False,0,0,0,0,0,0,False,,1.2,0.0,2.0
+Daniel Bachmann,Watford,Brighton,,True,0,0,0,0,0,0,False,,1.2,0.0,1.88
+Daniel Bachmann,Watford,Aston Villa,,False,0,0,0,0,0,0,False,,0.2,0.0,1.76
+Daniel Bachmann,Watford,Crystal Palace,,True,0,0,0,0,0,0,False,,0.2,0.0,1.67
+Daniel Bachmann,Watford,Manchester United,,False,0,0,0,0,0,0,False,,0.0,0.0,1.58
+Daniel Bachmann,Watford,Arsenal,,True,0,0,0,0,0,0,False,,0.0,0.0,1.5
+Daniel Bachmann,Watford,Wolverhampton,,False,0,0,0,0,0,0,False,,0.0,0.0,1.43
+Daniel Bachmann,Watford,Southampton,,False,0,0,0,0,0,0,False,,0.0,0.0,1.36
+Daniel Bachmann,Watford,Tottenham,2021-08-29,False,90,1,7,0,4,0,False,0.0,0.0,0.0,1.61
+Daniel Bachmann,Watford,Liverpool,,False,0,0,0,0,0,0,False,,0.8,0.0,1.54
+Daniel Bachmann,Watford,Leicester City,,True,0,0,0,0,0,0,False,,0.8,0.0,1.48
+Daniel Bachmann,Watford,Brentford,,True,0,0,0,0,0,0,False,,0.8,0.0,1.42
+Daniel Bachmann,Watford,Manchester City,,False,0,0,0,0,0,0,False,,0.8,0.0,1.37
+Daniel Bachmann,Watford,Burnley,,True,0,0,0,0,0,0,False,,0.8,0.0,1.32
+Daniel Bachmann,Watford,Crystal Palace,,False,0,0,0,0,0,0,False,,0.0,0.0,1.28
+Daniel Bachmann,Watford,Everton,,True,0,0,0,0,0,0,False,,0.0,0.0,1.23
+Daniel Bachmann,Watford,Leeds United,,True,0,0,0,0,0,0,False,,0.0,0.0,1.19
+Daniel Bachmann,Watford,Chelsea,2022-05-22,False,90,2,6,0,3,0,False,0.0,0.0,0.0,1.34
+Daniel Bachmann,Watford,Wolverhampton,2021-09-11,True,90,2,4,0,2,0,False,0.0,0.6,0.0,1.42
+Daniel Bachmann,Watford,Norwich,,False,0,0,0,0,0,0,False,,1.0,0.0,1.38
+Daniel Bachmann,Watford,Newcastle United,,True,0,0,0,0,0,0,False,,1.0,0.0,1.34
+Daniel Bachmann,Watford,Leicester City,,False,0,0,0,0,0,0,False,,1.0,0.0,1.31
+Daniel Bachmann,Watford,Liverpool,,True,0,0,0,0,0,0,False,,1.0,0.0,1.27
+Daniel Bachmann,Watford,Everton,,False,0,0,0,0,0,0,False,,0.4,0.0,1.24

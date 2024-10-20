@@ -1,7 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-James Tomkins,Crystal Palace,Fulham,2022-12-26,True,DC,56,0,0.0,0,0.0,-3,0,0,0.3,0,0,3,4.41,True,0.0,0.0,56.0,0.0,0,0,0,0,1
-James Tomkins,Crystal Palace,Chelsea,2023-01-15,False,Sub,52,0,0.04,0,0.0,1,1,0,1.2,0,0,1,1.35,False,-3.0,0.0,54.0,0.0,0,0,0,0,9
-James Tomkins,Crystal Palace,Brighton,2023-02-11,True,DC,90,1,0.61,0,0.0,9,1,0,8.2,1,0,1,2.36,True,-1.0,0.02,66.0,0.0,0,0,0,0,-1
-James Tomkins,Crystal Palace,Arsenal,2023-03-19,False,DC,90,0,0.08,0,0.0,-1,1,0,4.2,0,0,4,1.47,True,2.33,0.22,72.0,0.0,0,0,0,0,1
-James Tomkins,Crystal Palace,Southampton,2023-04-15,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.0,False,1.5,0.18,57.8,0.0,0,0,0,0,1
-James Tomkins,Crystal Palace,Chelsea,2022-10-01,True,Sub,46,0,0.0,0,0.0,1,0,0,0.7,0,0,1,0.0,False,1.4,0.15,55.83,0.0,0,0,0,0,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+James Tomkins,Crystal Palace,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Crystal Palace,True,Leicester City,-0.81
+James Tomkins,Crystal Palace,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Crystal Palace,False,Leeds United,0.66
+James Tomkins,Crystal Palace,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Crystal Palace,True,Wolverhampton,-1.42
+James Tomkins,Crystal Palace,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Crystal Palace,False,Everton,2.96
+James Tomkins,Crystal Palace,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Crystal Palace,True,Southampton,0.19
+James Tomkins,Crystal Palace,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Crystal Palace,False,West Ham,0.38
+James Tomkins,Crystal Palace,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Crystal Palace,False,Nottingham Forest,1.76
+James Tomkins,Crystal Palace,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,-3,Crystal Palace,True,Fulham,2.42
+James Tomkins,Crystal Palace,Fulham,2022-12-26,True,DC,56,0.0,0.0,0.0,0.0,-3,0.0,0.0,0.3,0,0,3,4.41,True,0.0,0.0,6.22,0.0,0,0,0,0,0,Crystal Palace,False,Bournemouth,0.25
+James Tomkins,Crystal Palace,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,-0.6,0.0,5.6,0.0,0,0,0,0,0,Crystal Palace,True,Tottenham,0.68
+James Tomkins,Crystal Palace,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,-0.6,0.0,5.09,0.0,0,0,0,0,0,Crystal Palace,False,Liverpool,1.18
+James Tomkins,Crystal Palace,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,-0.6,0.0,4.67,0.0,0,0,0,0,1,Crystal Palace,False,Chelsea,2.48
+James Tomkins,Crystal Palace,Chelsea,2023-01-15,False,Sub,52,0.0,0.04,0.0,0.0,1,1.0,0.0,1.2,0,0,1,1.35,False,-0.6,0.0,8.31,0.0,0,0,0,0,0,Crystal Palace,True,Manchester United,-1.44
+James Tomkins,Crystal Palace,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,-0.4,0.01,7.71,0.0,0,0,0,0,0,Crystal Palace,True,Newcastle United,0.03
+James Tomkins,Crystal Palace,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.01,7.2,0.0,0,0,0,0,0,Crystal Palace,False,Manchester United,0.01
+James Tomkins,Crystal Palace,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.01,6.75,0.0,0,0,0,0,9,Crystal Palace,True,Brighton,-0.29
+James Tomkins,Crystal Palace,Brighton,2023-02-11,True,DC,90,1.0,0.61,0.0,0.0,9,1.0,0.0,8.2,1,0,1,2.36,True,0.2,0.01,11.65,0.0,0,0,0,0,0,Crystal Palace,False,Brentford,0.24
+James Tomkins,Crystal Palace,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.13,11.0,0.0,0,0,0,0,0,Crystal Palace,True,Liverpool,0.92
+James Tomkins,Crystal Palace,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.12,10.42,0.0,0,0,0,0,0,Crystal Palace,False,Aston Villa,1.69
+James Tomkins,Crystal Palace,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.12,9.9,0.0,0,0,0,0,0,Crystal Palace,True,Manchester City,1.02
+James Tomkins,Crystal Palace,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.12,9.43,0.0,0,0,0,0,0,Crystal Palace,False,Brighton,2.17
+James Tomkins,Crystal Palace,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.12,9.0,0.0,0,0,0,0,-1,Crystal Palace,False,Arsenal,3.89
+James Tomkins,Crystal Palace,Arsenal,2023-03-19,False,DC,90,0.0,0.08,0.0,0.0,-1,1.0,0.0,4.2,0,0,4,1.47,True,0.0,0.0,12.52,0.0,0,0,0,0,0,Crystal Palace,True,Leeds United,1.4
+James Tomkins,Crystal Palace,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,-0.2,0.02,12.0,0.0,0,0,0,0,0,Crystal Palace,True,Aston Villa,-0.88
+James Tomkins,Crystal Palace,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,-0.2,0.02,11.52,0.0,0,0,0,0,0,Crystal Palace,False,Leicester City,-1.38
+James Tomkins,Crystal Palace,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,-0.2,0.02,11.08,0.0,0,0,0,0,1,Crystal Palace,False,Southampton,-0.93
+James Tomkins,Crystal Palace,Southampton,2023-04-15,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,-0.2,0.02,10.7,0.0,0,0,0,0,0,Crystal Palace,True,Everton,0.47
+James Tomkins,Crystal Palace,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.02,10.32,0.0,0,0,0,0,0,Crystal Palace,False,Wolverhampton,-0.93
+James Tomkins,Crystal Palace,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,9.97,0.0,0,0,0,0,0,Crystal Palace,True,West Ham,0.94
+James Tomkins,Crystal Palace,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,9.63,0.0,0,0,0,0,0,Crystal Palace,False,Tottenham,3.43
+James Tomkins,Crystal Palace,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,9.32,0.0,0,0,0,0,0,Crystal Palace,True,Bournemouth,0.86
+James Tomkins,Crystal Palace,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,9.03,0.0,0,0,0,0,0,Crystal Palace,False,Fulham,1.13
+James Tomkins,Crystal Palace,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,8.76,0.0,0,0,0,0,0,Crystal Palace,True,Nottingham Forest,1.11
+James Tomkins,Crystal Palace,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,8.5,0.0,0,0,0,0,0,Crystal Palace,False,Manchester City,-0.8
+James Tomkins,Crystal Palace,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,8.26,0.0,0,0,0,0,0,Crystal Palace,True,Brentford,0.35
+James Tomkins,Crystal Palace,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,8.03,0.0,0,0,0,0,0,Crystal Palace,False,Newcastle United,3.58
+James Tomkins,Crystal Palace,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,7.81,0.0,0,0,0,0,1,Crystal Palace,True,Chelsea,1.46
+James Tomkins,Crystal Palace,Chelsea,2022-10-01,True,Sub,46,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,1,0.0,False,0.0,0.0,8.82,0.0,0,0,0,0,1,Crystal Palace,False,Sheffield,-0.5

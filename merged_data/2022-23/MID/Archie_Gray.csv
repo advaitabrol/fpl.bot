@@ -1,16 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Archie Gray,Leeds,Wolverhampton,2022-08-06,True,MR,0,0,0.1,0,0.01,0,1,1,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0.99,1.16,0,0
-Archie Gray,Leeds,Crystal Palace,2022-10-09,False,FWL,0,0,0.04,0,0.07,0,1,2,0.0,0,0,0,False,0.0,0.1,0.0,0,0,0.99,1.16,0,0
-Archie Gray,Leeds,Liverpool,2022-10-29,False,AML,0,0,0.09,0,0.85,0,2,3,0.0,0,0,0,False,0.0,0.07,0.0,0,0,0.99,1.16,0,0
-Archie Gray,Leeds,Bournemouth,2022-11-05,True,FWR,0,0,0.03,0,0.04,0,1,2,0.0,0,0,0,False,0.0,0.07,0.0,0,0,0.99,1.16,0,0
-Archie Gray,Leeds,Tottenham,2022-11-12,False,FWL,0,0,0.12,0,0.02,0,3,1,0.0,0,0,0,False,0.0,0.06,0.0,0,0,0.99,1.16,0,0
-Archie Gray,Leeds,Newcastle United,2022-12-31,False,ML,0,1,0.06,0,0.0,0,1,0,0.0,0,0,0,False,0.0,0.07,0.0,0,0,0.99,1.16,0,0
-Archie Gray,Leeds,Southampton,2022-08-13,False,FWL,0,0,0.09,0,0.05,0,2,1,0.0,0,0,0,False,0.0,0.07,0.0,0,0,0.99,1.16,0,0
-Archie Gray,Leeds,Southampton,2023-02-25,True,Sub,0,0,0.1,0,0.0,0,2,0,0.0,0,0,0,False,0.0,0.08,0.0,0,0,0.99,1.16,0,0
-Archie Gray,Leeds,Brighton,2023-03-11,True,FW,0,0,0.23,0,0.26,0,3,2,0.0,0,0,0,False,0.0,0.08,0.0,0,0,0.99,1.16,0,0
-Archie Gray,Leeds,Wolverhampton,2023-03-18,False,FW,0,0,0.04,0,0.59,0,1,3,0.0,0,0,0,False,0.0,0.12,0.0,0,0,0.99,1.16,0,0
-Archie Gray,Leeds,Fulham,2023-04-22,False,AMR,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.1,0.0,0,0,0.99,1.16,0,0
-Archie Gray,Leeds,Tottenham,2023-05-28,True,FW,0,0,0.74,0,0.0,0,4,0,0.0,0,0,0,False,0.0,0.09,0.0,0,0,0.99,1.16,0,0
-Archie Gray,Leeds,Brighton,2022-08-27,False,FWL,0,0,0.21,0,0.04,0,2,1,0.0,0,0,0,False,0.0,0.22,0.0,0,0,0.99,1.16,0,0
-Archie Gray,Leeds,Everton,2022-08-30,True,FW,0,0,0.05,0,0.0,0,1,0,0.0,0,0,0,False,0.0,0.24,0.0,0,0,0.99,1.16,0,0
-Archie Gray,Leeds,Brentford,2022-09-03,False,FWR,0,0,0.1,0,0.67,0,2,2,0.0,0,0,0,False,0.0,0.21,0.0,0,0,0.99,1.16,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Archie Gray,Leeds,Wolverhampton,2022-08-06,True,MR,0,0.0,0.1,0.0,0.01,0,1.0,1.0,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,False,Crystal Palace,1.29
+Archie Gray,Leeds,Crystal Palace,2022-10-09,False,FWL,0,0.0,0.04,0.0,0.07,0,1.0,2.0,0.0,0,0,0,False,0.0,0.1,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,True,Arsenal,-0.89
+Archie Gray,Leeds,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.07,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,False,Leeds United,
+Archie Gray,Leeds,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.05,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,True,Fulham,-1.49
+Archie Gray,Leeds,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.03,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,False,Liverpool,0.8
+Archie Gray,Leeds,Liverpool,2022-10-29,False,AML,0,0.0,0.09,0.0,0.85,0,2.0,3.0,0.0,0,0,0,False,0.0,0.03,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,True,Bournemouth,5.53
+Archie Gray,Leeds,Bournemouth,2022-11-05,True,FWR,0,0.0,0.03,0.0,0.04,0,1.0,2.0,0.0,0,0,0,False,0.0,0.03,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,False,Tottenham,0.38
+Archie Gray,Leeds,Tottenham,2022-11-12,False,FWL,0,0.0,0.12,0.0,0.02,0,3.0,1.0,0.0,0,0,0,False,0.0,0.02,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,True,Manchester City,0.4
+Archie Gray,Leeds,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.05,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,False,Newcastle United,-1.48
+Archie Gray,Leeds,Newcastle United,2022-12-31,False,ML,0,1.0,0.06,0.0,0.0,0,1.0,0.0,0.0,0,0,0,False,0.0,0.05,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,True,West Ham,0.44
+Archie Gray,Leeds,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.06,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,False,Southampton,-0.58
+Archie Gray,Leeds,Southampton,2022-08-13,False,FWL,0,0.0,0.09,0.0,0.05,0,2.0,1.0,0.0,0,0,0,False,0.0,0.04,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,False,Aston Villa,-1.34
+Archie Gray,Leeds,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.05,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,True,Brentford,-0.85
+Archie Gray,Leeds,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.03,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,False,Nottingham Forest,0.54
+Archie Gray,Leeds,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.03,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,False,Manchester United,2.19
+Archie Gray,Leeds,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.02,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,True,Manchester United,1.7
+Archie Gray,Leeds,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.02,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,False,Everton,0.7
+Archie Gray,Leeds,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,True,Southampton,-5.18
+Archie Gray,Leeds,Southampton,2023-02-25,True,Sub,0,0.0,0.1,0.0,0.0,0,2.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,False,Chelsea,0.29
+Archie Gray,Leeds,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.02,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,True,Brighton,-1.07
+Archie Gray,Leeds,Brighton,2023-03-11,True,FW,0,0.0,0.23,0.0,0.26,0,3.0,2.0,0.0,0,0,0,False,0.0,0.02,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,False,Wolverhampton,-0.27
+Archie Gray,Leeds,Wolverhampton,2023-03-18,False,FW,0,0.0,0.04,0.0,0.59,0,1.0,3.0,0.0,0,0,0,False,0.0,0.07,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,False,Arsenal,2.26
+Archie Gray,Leeds,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.07,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,True,Nottingham Forest,1.75
+Archie Gray,Leeds,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.07,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,True,Chelsea,-0.25
+Archie Gray,Leeds,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.05,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,True,Crystal Palace,-1.42
+Archie Gray,Leeds,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.05,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,True,Liverpool,-0.81
+Archie Gray,Leeds,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,False,Fulham,-0.19
+Archie Gray,Leeds,Fulham,2023-04-22,False,AMR,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,True,Leeds United,
+Archie Gray,Leeds,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,False,Bournemouth,0.09
+Archie Gray,Leeds,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,False,Manchester City,2.79
+Archie Gray,Leeds,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,True,Newcastle United,-0.68
+Archie Gray,Leeds,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,False,West Ham,0.82
+Archie Gray,Leeds,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,True,Tottenham,-2.16
+Archie Gray,Leeds,Tottenham,2023-05-28,True,FW,0,0.0,0.74,0.0,0.0,0,4.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,False,Brighton,1.41
+Archie Gray,Leeds,Brighton,2022-08-27,False,FWL,0,0.0,0.21,0.0,0.04,0,2.0,1.0,0.0,0,0,0,False,0.0,0.15,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,True,Everton,3.32
+Archie Gray,Leeds,Everton,2022-08-30,True,FW,0,0.0,0.05,0.0,0.0,0,1.0,0.0,0.0,0,0,0,False,0.0,0.19,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,False,Brentford,-2.77
+Archie Gray,Leeds,Brentford,2022-09-03,False,FWR,0,0.0,0.1,0.0,0.67,0,2.0,2.0,0.0,0,0,0,False,0.0,0.2,0.0,0.0,0.0,0.99,1.16,0,0.0,Leeds,True,Aston Villa,-3.37
+Archie Gray,Leeds,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.22,0.0,0.0,0.0,0.99,1.16,0,,Wolves,False,Manchester United,0.79

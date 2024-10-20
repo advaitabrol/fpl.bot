@@ -1,36 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,form,clean_sheet_probability
-Jordan Pickford,Everton,Southampton,2021-08-14,True,90,1,2,0,2,0,False,0.0,0.0,0.0
-Jordan Pickford,Everton,Wolverhampton,2021-11-01,False,90,2,2,0,1,0,False,0.0,2.0,0.0
-Jordan Pickford,Everton,Tottenham,2021-11-07,True,90,0,0,0,6,0,True,0.0,1.5,0.33
-Jordan Pickford,Everton,Manchester City,2021-11-21,False,90,3,4,0,2,0,False,0.0,3.0,0.25
-Jordan Pickford,Everton,Brentford,2021-11-28,False,90,1,3,0,3,0,False,0.0,2.75,0.2
-Jordan Pickford,Everton,Liverpool,2021-12-01,True,90,4,3,0,1,0,False,0.0,2.8,0.17
-Jordan Pickford,Everton,Arsenal,2021-12-06,True,90,1,2,0,2,0,False,0.0,2.6,0.14
-Jordan Pickford,Everton,Crystal Palace,2021-12-12,False,90,3,3,0,2,0,False,0.0,2.8,0.12
-Jordan Pickford,Everton,Chelsea,2021-12-16,False,90,1,9,0,8,3,False,0.0,2.0,0.11
-Jordan Pickford,Everton,Leicester City,2021-08-21,False,90,2,2,0,1,0,False,0.0,3.2,0.1
-Jordan Pickford,Everton,Brighton,2022-01-02,True,90,3,2,0,1,0,False,0.0,2.8,0.09
-Jordan Pickford,Everton,Norwich,2022-01-15,False,90,2,2,0,1,0,False,0.0,2.8,0.08
-Jordan Pickford,Everton,Aston Villa,2022-01-22,True,90,1,2,0,2,0,False,0.04,2.6,0.08
-Jordan Pickford,Everton,Newcastle United,2022-02-08,False,90,3,7,0,4,1,False,0.0,2.6,0.07
-Jordan Pickford,Everton,Leicester City,2022-02-12,True,90,0,0,0,6,0,True,0.0,1.8,0.13
-Jordan Pickford,Everton,Southampton,2022-02-19,False,90,2,9,0,4,0,False,0.02,2.8,0.12
-Jordan Pickford,Everton,Manchester City,2022-02-26,True,90,1,7,0,4,0,False,0.0,3.4,0.12
-Jordan Pickford,Everton,Tottenham,2022-03-07,False,90,5,3,0,1,0,False,0.0,4.0,0.11
-Jordan Pickford,Everton,Wolverhampton,2022-03-13,True,90,1,2,0,2,0,False,0.0,3.8,0.11
-Jordan Pickford,Everton,Brighton,2021-08-28,False,90,0,3,0,6,0,True,0.02,3.4,0.15
-Jordan Pickford,Everton,West Ham,2022-04-03,False,90,2,4,0,2,0,False,0.0,3.4,0.14
-Jordan Pickford,Everton,Burnley,2022-04-06,False,90,3,1,0,1,0,False,0.0,3.0,0.14
-Jordan Pickford,Everton,Manchester United,2022-04-09,True,90,0,4,0,9,3,True,0.04,2.4,0.17
-Jordan Pickford,Everton,Leeds United,2022-04-20,True,90,1,2,0,2,0,False,0.0,4.0,0.17
-Jordan Pickford,Everton,Liverpool,2022-04-24,False,90,2,2,0,1,0,False,0.0,4.0,0.16
-Jordan Pickford,Everton,Chelsea,2022-05-01,True,90,0,5,0,10,3,True,0.0,3.0,0.19
-Jordan Pickford,Everton,Leeds United,2022-05-08,False,90,1,7,0,6,2,False,0.0,4.6,0.19
-Jordan Pickford,Everton,Watford,2022-05-11,False,90,0,0,0,6,0,True,0.0,5.6,0.21
-Jordan Pickford,Everton,Brentford,2022-05-15,True,90,3,4,0,2,0,False,0.02,5.0,0.21
-Jordan Pickford,Everton,Crystal Palace,2022-05-19,True,90,2,3,0,2,0,False,0.0,5.0,0.2
-Jordan Pickford,Everton,Burnley,2021-09-13,True,90,1,5,0,3,0,False,0.0,5.2,0.19
-Jordan Pickford,Everton,Norwich,2021-09-25,True,90,0,2,0,6,0,True,0.0,3.8,0.22
-Jordan Pickford,Everton,Manchester United,2021-10-02,False,90,1,5,0,3,0,False,0.0,3.8,0.21
-Jordan Pickford,Everton,West Ham,2021-10-17,True,90,1,3,0,3,0,False,0.0,3.2,0.21
-Jordan Pickford,Everton,Watford,2021-10-23,True,90,5,3,0,1,0,False,0.0,3.4,0.2
+name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,form,clean_sheet_probability,saves_per_game
+Jordan Pickford,Everton,Southampton,2021-08-14,True,90,1,2,0,2,0,False,0.0,0.0,0.0,2.0
+Jordan Pickford,Everton,Wolverhampton,2021-11-01,False,90,2,2,0,1,0,False,0.0,2.0,0.0,2.0
+Jordan Pickford,Everton,Tottenham,2021-11-07,True,90,0,0,0,6,0,True,0.0,1.5,0.33,1.33
+Jordan Pickford,Everton,Manchester City,2021-11-21,False,90,3,4,0,2,0,False,0.0,3.0,0.25,2.0
+Jordan Pickford,Everton,Brentford,2021-11-28,False,90,1,3,0,3,0,False,0.0,2.75,0.2,2.2
+Jordan Pickford,Everton,Liverpool,2021-12-01,True,90,4,3,0,1,0,False,0.0,2.8,0.17,2.33
+Jordan Pickford,Everton,Arsenal,2021-12-06,True,90,1,2,0,2,0,False,0.0,2.6,0.14,2.29
+Jordan Pickford,Everton,Crystal Palace,2021-12-12,False,90,3,3,0,2,0,False,0.0,2.8,0.12,2.38
+Jordan Pickford,Everton,Chelsea,2021-12-16,False,90,1,9,0,8,3,False,0.0,2.0,0.11,3.11
+Jordan Pickford,Everton,Leicester City,2021-08-21,False,90,2,2,0,1,0,False,0.0,3.2,0.1,3.0
+Jordan Pickford,Everton,Brighton,2022-01-02,True,90,3,2,0,1,0,False,0.0,2.8,0.09,2.91
+Jordan Pickford,Everton,Norwich,2022-01-15,False,90,2,2,0,1,0,False,0.0,2.8,0.08,2.83
+Jordan Pickford,Everton,Aston Villa,2022-01-22,True,90,1,2,0,2,0,False,0.04,2.6,0.08,2.77
+Jordan Pickford,Everton,Newcastle United,2022-02-08,False,90,3,7,0,4,1,False,0.0,2.6,0.07,3.07
+Jordan Pickford,Everton,Leicester City,2022-02-12,True,90,0,0,0,6,0,True,0.0,1.8,0.13,2.87
+Jordan Pickford,Everton,Southampton,2022-02-19,False,90,2,9,0,4,0,False,0.02,2.8,0.12,3.25
+Jordan Pickford,Everton,Manchester City,2022-02-26,True,90,1,7,0,4,0,False,0.0,3.4,0.12,3.47
+Jordan Pickford,Everton,Tottenham,2022-03-07,False,90,5,3,0,1,0,False,0.0,4.0,0.11,3.44
+Jordan Pickford,Everton,Wolverhampton,2022-03-13,True,90,1,2,0,2,0,False,0.0,3.8,0.11,3.37
+Jordan Pickford,Everton,Newcastle United,,True,0,0,0,0,0,0,False,,3.4,0.11,3.2
+Jordan Pickford,Everton,Brighton,2021-08-28,False,90,0,3,0,6,0,True,0.02,2.2,0.15,3.19
+Jordan Pickford,Everton,West Ham,2022-04-03,False,90,2,4,0,2,0,False,0.0,2.6,0.14,3.23
+Jordan Pickford,Everton,Burnley,2022-04-06,False,90,3,1,0,1,0,False,0.0,2.2,0.14,3.13
+Jordan Pickford,Everton,Manchester United,2022-04-09,True,90,0,4,0,9,3,True,0.04,2.2,0.17,3.17
+Jordan Pickford,Everton,Leeds United,2022-04-20,True,90,1,2,0,2,0,False,0.0,3.6,0.17,3.12
+Jordan Pickford,Everton,Liverpool,2022-04-24,False,90,2,2,0,1,0,False,0.0,4.0,0.16,3.08
+Jordan Pickford,Everton,Chelsea,2022-05-01,True,90,0,5,0,10,3,True,0.0,3.0,0.19,3.15
+Jordan Pickford,Everton,Leeds United,2022-05-08,False,90,1,7,0,6,2,False,0.0,4.6,0.19,3.29
+Jordan Pickford,Everton,Watford,2022-05-11,False,90,0,0,0,6,0,True,0.0,5.6,0.21,3.17
+Jordan Pickford,Everton,Brentford,2022-05-15,True,90,3,4,0,2,0,False,0.02,5.0,0.21,3.2
+Jordan Pickford,Everton,Crystal Palace,2022-05-19,True,90,2,3,0,2,0,False,0.0,5.0,0.2,3.19
+Jordan Pickford,Everton,Arsenal,,False,0,0,0,0,0,0,False,,5.2,0.2,3.09
+Jordan Pickford,Everton,Burnley,2021-09-13,True,90,1,5,0,3,0,False,0.0,3.2,0.19,3.15
+Jordan Pickford,Everton,Aston Villa,,False,0,0,0,0,0,0,False,,2.6,0.19,3.06
+Jordan Pickford,Everton,Norwich,2021-09-25,True,90,0,2,0,6,0,True,0.0,1.4,0.22,3.03
+Jordan Pickford,Everton,Manchester United,2021-10-02,False,90,1,5,0,3,0,False,0.0,2.2,0.21,3.08
+Jordan Pickford,Everton,West Ham,2021-10-17,True,90,1,3,0,3,0,False,0.0,2.4,0.21,3.08
+Jordan Pickford,Everton,Watford,2021-10-23,True,90,5,3,0,1,0,False,0.0,3.0,0.2,3.08

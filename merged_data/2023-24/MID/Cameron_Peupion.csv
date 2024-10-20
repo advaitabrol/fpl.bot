@@ -1,1 +1,19 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Cameron Peupion,Brighton,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.2,0.0,Brighton,False,Luton,5.03
+Cameron Peupion,Brighton,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.2,0.0,Brighton,True,Crystal Palace,-1.88
+Cameron Peupion,Brighton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.2,0.0,Brighton,False,Tottenham,-0.37
+Cameron Peupion,Brighton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.2,0.0,Brighton,False,Sheffield,-3.96
+Cameron Peupion,Brighton,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.2,0.0,Brighton,True,Everton,2.52
+Cameron Peupion,Brighton,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.2,0.0,Brighton,False,Fulham,1.99
+Cameron Peupion,Brighton,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.2,0.0,Brighton,True,Nottingham Forest,-0.8
+Cameron Peupion,Brighton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.2,0.0,Brighton,False,Liverpool,-1.55
+Cameron Peupion,Brighton,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.2,0.0,Brighton,False,Brentford,0.34
+Cameron Peupion,Brighton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.2,0.0,Brighton,True,Arsenal,2.84
+Cameron Peupion,Brighton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.2,0.0,Brighton,False,Burnley,-0.32
+Cameron Peupion,Brighton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.2,0.0,Brighton,True,Manchester City,2.39
+Cameron Peupion,Brighton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.2,0.0,Brighton,False,Bournemouth,0.25
+Cameron Peupion,Brighton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.2,0.0,Brighton,True,Aston Villa,0.69
+Cameron Peupion,Brighton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.2,0.0,Brighton,False,Newcastle United,1.9
+Cameron Peupion,Brighton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.2,0.0,Brighton,True,Chelsea,-2.26
+Cameron Peupion,Brighton,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.2,0.0,Brighton,True,Manchester United,-2.4
+Cameron Peupion,Brighton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.05,0.0,0.2,,,,,

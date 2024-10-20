@@ -1,23 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,form,xG&A_form,minutes_per_game
-Robert Street,Crystal Palace,Chelsea,2021-08-14,False,GK,0,0,0,0,0.29,0,0,1,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,Manchester City,2021-10-30,False,GK,0,0,0,0,0.0,0,0,0,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,Wolverhampton,2021-11-06,True,GK,0,0,0,0,0.05,0,0,1,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,Aston Villa,2021-11-27,True,GK,0,0,0,0,0.0,0,0,0,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,Southampton,2021-12-15,True,GK,0,0,0,0,0.0,0,0,0,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,Tottenham,2021-12-26,False,GK,0,0,0,0,0.0,0,0,0,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,Brentford,2021-08-21,True,GK,0,0,0,0,0.0,0,0,0,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,Brighton,2022-01-14,False,GK,0,0,0,0,0.0,0,0,0,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,Liverpool,2022-01-23,True,GK,0,0,0,0,0.0,0,0,0,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,Brentford,2022-02-12,False,GK,0,0,0,0,0.0,0,0,0,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,Chelsea,2022-02-19,True,GK,0,0,0,0,0.0,0,0,0,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,Burnley,2022-02-26,True,GK,0,0,0,0,0.0,0,0,0,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,Wolverhampton,2022-03-05,False,GK,0,0,0,0,0.0,0,0,0,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,West Ham,2021-08-28,False,GK,0,0,0,0,0.0,0,0,0,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,Newcastle United,2022-04-20,False,GK,0,0,0,0,0.0,0,0,0,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,Southampton,2022-04-30,False,GK,0,0,0,0,0.0,0,0,0,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,Watford,2022-05-07,True,GK,0,0,0,0,0.0,0,0,0,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,Aston Villa,2022-05-15,False,GK,0,0,0,0,0.0,0,0,0,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,Manchester United,2022-05-22,True,GK,0,0,0,0,0.0,0,0,0,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,Tottenham,2021-09-11,True,GK,0,0,0,0,0.0,0,0,0,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,Brighton,2021-09-27,True,GK,0,0,0,0,0.3,0,0,1,0.0,0,0.0,0.0,0.0
-Robert Street,Crystal Palace,Newcastle United,2021-10-23,True,GK,0,0,0,0,0.0,0,0,0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Chelsea,2021-08-14,False,GK,0,0.0,0.0,0.0,0.29,0,0.0,1.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Manchester City,2021-10-30,False,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Wolverhampton,2021-11-06,True,GK,0,0.0,0.0,0.0,0.05,0,0.0,1.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Burnley,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Aston Villa,2021-11-27,True,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Leicester City,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Manchester United,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Everton,,True,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Southampton,2021-12-15,True,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Tottenham,2021-12-26,False,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Brentford,2021-08-21,True,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Norwich,,True,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,West Ham,,True,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Brighton,2022-01-14,False,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Liverpool,2022-01-23,True,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Norwich,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Brentford,2022-02-12,False,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Chelsea,2022-02-19,True,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Watford,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Burnley,2022-02-26,True,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Wolverhampton,2022-03-05,False,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Manchester City,,True,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,West Ham,2021-08-28,False,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Arsenal,,True,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Leeds United,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Newcastle United,2022-04-20,False,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Leicester City,,True,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Southampton,2022-04-30,False,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Watford,2022-05-07,True,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Aston Villa,2022-05-15,False,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Everton,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Manchester United,2022-05-22,True,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Tottenham,2021-09-11,True,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Liverpool,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Brighton,2021-09-27,True,GK,0,0.0,0.0,0.0,0.3,0,0.0,1.0,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Leeds United,,True,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Arsenal,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Robert Street,Crystal Palace,Newcastle United,2021-10-23,True,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0.0

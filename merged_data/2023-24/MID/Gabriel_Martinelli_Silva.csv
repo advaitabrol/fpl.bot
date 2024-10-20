@@ -1,36 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Gabriel Martinelli Silva,Arsenal,Nottingham Forest,2023-08-12,True,FWL,85,0,0.0,1,0.12,5,0,3,7.6,0,0,1,True,0.0,0.0,85.0,15,5,10.55,9.35,0.07,3
-Gabriel Martinelli Silva,Arsenal,Sheffield,2023-10-28,True,FWL,65,0,0.08,0,0.23,3,1,3,9.3,0,1,0,True,5.0,1.0,75.0,15,5,10.55,9.35,0.07,2
-Gabriel Martinelli Silva,Arsenal,Newcastle United,2023-11-04,False,FWL,90,0,0.16,0,0.24,2,3,5,12.0,0,0,1,True,4.0,0.54,80.0,15,5,10.55,9.35,0.07,2
-Gabriel Martinelli Silva,Arsenal,Burnley,2023-11-11,True,FWL,88,0,0.12,0,0.17,2,1,2,9.9,0,0,1,True,3.33,0.41,82.0,15,5,10.55,9.35,0.07,2
-Gabriel Martinelli Silva,Arsenal,Brentford,2023-11-25,False,FWL,78,0,0.06,0,0.07,2,1,1,3.3,0,1,0,True,3.0,0.34,81.2,15,5,10.55,9.35,0.07,3
-Gabriel Martinelli Silva,Arsenal,Wolverhampton,2023-12-02,True,FWL,77,0,0.17,0,0.03,3,2,1,3.2,0,1,0,True,2.8,0.28,80.5,15,5,10.55,9.35,0.07,7
-Gabriel Martinelli Silva,Arsenal,Luton,2023-12-05,False,FWL,63,1,0.51,0,0.0,7,2,0,8.3,0,0,3,True,2.4,0.12,78.0,15,5,10.55,9.35,0.07,2
-Gabriel Martinelli Silva,Arsenal,Aston Villa,2023-12-09,False,FWL,69,0,0.22,0,0.28,2,1,1,4.0,0,0,1,True,3.2,0.2,76.88,15,5,10.55,9.35,0.07,3
-Gabriel Martinelli Silva,Arsenal,Brighton,2023-12-17,True,FWL,81,0,0.54,0,0.51,3,4,5,12.4,0,1,0,True,3.2,0.22,77.33,15,5,10.55,9.35,0.07,2
-Gabriel Martinelli Silva,Arsenal,Liverpool,2023-12-23,False,FWL,67,0,0.08,0,0.07,2,1,1,2.4,0,0,1,True,3.4,0.3,76.3,15,5,10.55,9.35,0.07,2
-Gabriel Martinelli Silva,Arsenal,West Ham,2023-12-28,True,FWL,63,0,0.07,0,0.04,2,1,1,4.4,0,0,2,True,3.4,0.31,75.09,15,5,10.55,9.35,0.07,3
-Gabriel Martinelli Silva,Arsenal,Crystal Palace,2023-08-21,False,FWL,69,0,0.13,0,0.0,3,2,0,2.4,0,1,0,True,3.2,0.29,74.58,15,5,10.55,9.35,0.07,5
-Gabriel Martinelli Silva,Arsenal,Fulham,2023-12-31,False,FWL,66,0,0.27,0,0.02,5,4,1,5.2,0,0,2,True,2.4,0.21,73.92,15,5,10.55,9.35,0.07,14
-Gabriel Martinelli Silva,Arsenal,Crystal Palace,2024-01-20,True,Sub,21,2,0.97,0,0.0,14,2,0,12.1,3,0,0,False,3.0,0.22,70.14,15,5,10.55,9.35,0.07,3
-Gabriel Martinelli Silva,Arsenal,Nottingham Forest,2024-01-30,False,FWL,77,0,0.02,0,0.0,3,1,0,3.3,0,1,0,True,5.2,0.3,70.6,15,5,10.55,9.35,0.07,10
-Gabriel Martinelli Silva,Arsenal,Liverpool,2024-02-04,True,FWL,73,1,0.47,0,0.56,10,2,1,8.4,3,0,1,True,5.4,0.29,70.75,15,5,10.55,9.35,0.07,3
-Gabriel Martinelli Silva,Arsenal,West Ham,2024-02-11,False,FWL,76,0,0.19,0,0.32,3,2,3,5.6,0,1,0,True,7.0,0.37,71.06,15,5,10.55,9.35,0.07,3
-Gabriel Martinelli Silva,Arsenal,Burnley,2024-02-17,False,FWL,90,0,0.03,0,0.25,3,1,2,5.4,0,1,0,True,7.0,0.38,72.11,15,5,10.55,9.35,0.07,6
-Gabriel Martinelli Silva,Arsenal,Newcastle United,2024-02-24,True,FWL,63,0,0.57,1,1.11,6,4,2,6.8,0,1,0,True,6.6,0.34,71.63,15,5,10.55,9.35,0.07,11
-Gabriel Martinelli Silva,Arsenal,Sheffield,2024-03-04,False,FWL,63,1,0.45,1,0.22,11,4,2,12.4,0,1,0,True,5.0,0.46,71.2,15,5,10.55,9.35,0.07,2
-Gabriel Martinelli Silva,Arsenal,Fulham,2023-08-26,True,FWL,90,0,0.39,0,0.0,2,4,0,9.6,0,0,2,True,6.6,0.74,72.1,15,5,10.55,9.35,0.07,1
-Gabriel Martinelli Silva,Arsenal,Manchester City,2024-03-31,False,Sub,12,0,0.06,0,0.0,1,1,0,0.3,0,0,0,False,5.0,0.73,69.36,15,5,10.55,9.35,0.07,1
-Gabriel Martinelli Silva,Arsenal,Luton,2024-04-03,True,Sub,15,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,4.6,0.7,67.0,15,5,10.55,9.35,0.07,1
-Gabriel Martinelli Silva,Arsenal,Brighton,2024-04-06,False,Sub,26,0,0.0,0,0.06,1,0,1,2.4,0,0,0,False,4.2,0.7,65.29,15,5,10.55,9.35,0.07,1
-Gabriel Martinelli Silva,Arsenal,Aston Villa,2024-04-14,True,Sub,23,0,0.0,0,0.01,1,0,1,1.6,0,0,2,False,3.2,0.38,63.6,15,5,10.55,9.35,0.07,1
-Gabriel Martinelli Silva,Arsenal,Wolverhampton,2024-04-20,False,Sub,18,0,0.53,0,0.0,1,2,0,4.4,0,0,0,False,1.2,0.09,61.85,15,5,10.55,9.35,0.07,1
-Gabriel Martinelli Silva,Arsenal,Chelsea,2024-04-23,True,Sub,18,0,0.39,0,0.0,1,2,0,2.4,0,0,0,False,1.0,0.12,60.22,15,5,10.55,9.35,0.07,1
-Gabriel Martinelli Silva,Arsenal,Tottenham,2024-04-28,False,Sub,27,0,0.04,0,0.0,1,1,0,1.5,0,0,2,False,1.0,0.18,59.04,15,5,10.55,9.35,0.07,1
-Gabriel Martinelli Silva,Arsenal,Bournemouth,2024-05-04,True,Sub,9,0,0.0,0,0.0,1,0,0,0.4,0,0,0,False,1.0,0.19,57.31,15,5,10.55,9.35,0.07,1
-Gabriel Martinelli Silva,Arsenal,Manchester United,2024-05-12,False,Sub,24,0,0.12,0,0.02,1,1,1,3.9,0,0,0,False,1.0,0.19,56.2,15,5,10.55,9.35,0.07,2
-Gabriel Martinelli Silva,Arsenal,Everton,2024-05-19,True,FWR,90,0,0.16,0,0.68,2,2,5,15.0,0,0,1,True,1.0,0.22,57.29,15,5,10.55,9.35,0.07,5
-Gabriel Martinelli Silva,Arsenal,Manchester United,2023-09-03,True,FWL,89,0,0.15,1,0.09,5,3,1,7.6,0,0,1,True,1.2,0.14,58.28,15,5,10.55,9.35,0.07,1
-Gabriel Martinelli Silva,Arsenal,Everton,2023-09-17,False,FWL,23,0,0.0,0,0.0,1,0,0,0.4,0,0,0,True,2.0,0.29,57.21,15,5,10.55,9.35,0.07,6
-Gabriel Martinelli Silva,Arsenal,Manchester City,2023-10-08,True,Sub,45,1,0.08,0,0.01,6,2,1,7.7,0,0,0,False,2.0,0.29,56.85,15,5,10.55,9.35,0.07,2
-Gabriel Martinelli Silva,Arsenal,Chelsea,2023-10-21,False,FWL,77,0,0.08,0,0.22,2,1,2,5.2,0,0,2,True,3.0,0.3,57.43,15,5,10.55,9.35,0.07,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Gabriel Martinelli Silva,Arsenal,Nottingham Forest,2023-08-12,True,FWL,85,0.0,0.0,1.0,0.12,5,0.0,3.0,7.6,0,0,1,True,0.0,0.0,85.0,15.0,5.0,10.55,9.35,0.07,3.0,Arsenal,True,Sheffield,-5.73
+Gabriel Martinelli Silva,Arsenal,Sheffield,2023-10-28,True,FWL,65,0.0,0.08,0.0,0.23,3,1.0,3.0,9.3,0,1,0,True,5.0,1.0,75.0,15.0,5.0,10.55,9.35,0.07,2.0,Arsenal,False,Newcastle United,0.23
+Gabriel Martinelli Silva,Arsenal,Newcastle United,2023-11-04,False,FWL,90,0.0,0.16,0.0,0.24,2,3.0,5.0,12.0,0,0,1,True,4.0,0.54,80.0,15.0,5.0,10.55,9.35,0.07,2.0,Arsenal,True,Burnley,-0.62
+Gabriel Martinelli Silva,Arsenal,Burnley,2023-11-11,True,FWL,88,0.0,0.12,0.0,0.17,2,1.0,2.0,9.9,0,0,1,True,3.33,0.41,82.0,15.0,5.0,10.55,9.35,0.07,2.0,Arsenal,False,Brentford,-0.6
+Gabriel Martinelli Silva,Arsenal,Brentford,2023-11-25,False,FWL,78,0.0,0.06,0.0,0.07,2,1.0,1.0,3.3,0,1,0,True,3.0,0.34,81.2,15.0,5.0,10.55,9.35,0.07,3.0,Arsenal,True,Wolverhampton,-2.6
+Gabriel Martinelli Silva,Arsenal,Wolverhampton,2023-12-02,True,FWL,77,0.0,0.17,0.0,0.03,3,2.0,1.0,3.2,0,1,0,True,2.8,0.28,80.5,15.0,5.0,10.55,9.35,0.07,7.0,Arsenal,False,Luton,1.98
+Gabriel Martinelli Silva,Arsenal,Luton,2023-12-05,False,FWL,63,1.0,0.51,0.0,0.0,7,2.0,0.0,8.3,0,0,3,True,2.4,0.12,78.0,15.0,5.0,10.55,9.35,0.07,2.0,Arsenal,False,Aston Villa,-0.83
+Gabriel Martinelli Silva,Arsenal,Aston Villa,2023-12-09,False,FWL,69,0.0,0.22,0.0,0.28,2,1.0,1.0,4.0,0,0,1,True,3.2,0.2,76.88,15.0,5.0,10.55,9.35,0.07,3.0,Arsenal,True,Brighton,0.58
+Gabriel Martinelli Silva,Arsenal,Brighton,2023-12-17,True,FWL,81,0.0,0.54,0.0,0.51,3,4.0,5.0,12.4,0,1,0,True,3.2,0.22,77.33,15.0,5.0,10.55,9.35,0.07,2.0,Arsenal,False,Liverpool,0.87
+Gabriel Martinelli Silva,Arsenal,Liverpool,2023-12-23,False,FWL,67,0.0,0.08,0.0,0.07,2,1.0,1.0,2.4,0,0,1,True,3.4,0.3,76.3,15.0,5.0,10.55,9.35,0.07,2.0,Arsenal,True,West Ham,0.89
+Gabriel Martinelli Silva,Arsenal,West Ham,2023-12-28,True,FWL,63,0.0,0.07,0.0,0.04,2,1.0,1.0,4.4,0,0,2,True,3.4,0.31,75.09,15.0,5.0,10.55,9.35,0.07,3.0,Arsenal,False,Crystal Palace,-0.5
+Gabriel Martinelli Silva,Arsenal,Crystal Palace,2023-08-21,False,FWL,69,0.0,0.13,0.0,0.0,3,2.0,0.0,2.4,0,1,0,True,3.2,0.29,74.58,15.0,5.0,10.55,9.35,0.07,5.0,Arsenal,False,Fulham,-0.97
+Gabriel Martinelli Silva,Arsenal,Fulham,2023-12-31,False,FWL,66,0.0,0.27,0.0,0.02,5,4.0,1.0,5.2,0,0,2,True,2.4,0.21,73.92,15.0,5.0,10.55,9.35,0.07,14.0,Arsenal,True,Crystal Palace,-2.84
+Gabriel Martinelli Silva,Arsenal,Crystal Palace,2024-01-20,True,Sub,21,2.0,0.97,0.0,0.0,14,2.0,0.0,12.1,3,0,0,False,3.0,0.22,70.14,15.0,5.0,10.55,9.35,0.07,3.0,Arsenal,False,Nottingham Forest,2.82
+Gabriel Martinelli Silva,Arsenal,Nottingham Forest,2024-01-30,False,FWL,77,0.0,0.02,0.0,0.0,3,1.0,0.0,3.3,0,1,0,True,5.2,0.3,70.6,15.0,5.0,10.55,9.35,0.07,10.0,Arsenal,True,Liverpool,-1.54
+Gabriel Martinelli Silva,Arsenal,Liverpool,2024-02-04,True,FWL,73,1.0,0.47,0.0,0.56,10,2.0,1.0,8.4,3,0,1,True,5.4,0.29,70.75,15.0,5.0,10.55,9.35,0.07,3.0,Arsenal,False,West Ham,-2.34
+Gabriel Martinelli Silva,Arsenal,West Ham,2024-02-11,False,FWL,76,0.0,0.19,0.0,0.32,3,2.0,3.0,5.6,0,1,0,True,7.0,0.37,71.06,15.0,5.0,10.55,9.35,0.07,3.0,Arsenal,False,Burnley,-2.99
+Gabriel Martinelli Silva,Arsenal,Burnley,2024-02-17,False,FWL,90,0.0,0.03,0.0,0.25,3,1.0,2.0,5.4,0,1,0,True,7.0,0.38,72.11,15.0,5.0,10.55,9.35,0.07,6.0,Arsenal,True,Newcastle United,-1.68
+Gabriel Martinelli Silva,Arsenal,Newcastle United,2024-02-24,True,FWL,63,0.0,0.57,1.0,1.11,6,4.0,2.0,6.8,0,1,0,True,6.6,0.34,71.63,15.0,5.0,10.55,9.35,0.07,11.0,Arsenal,False,Sheffield,-4.68
+Gabriel Martinelli Silva,Arsenal,Sheffield,2024-03-04,False,FWL,63,1.0,0.45,1.0,0.22,11,4.0,2.0,12.4,0,1,0,True,5.0,0.46,71.2,15.0,5.0,10.55,9.35,0.07,0.0,Arsenal,True,Brentford,-0.02
+Gabriel Martinelli Silva,Arsenal,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,6.6,0.74,67.81,15.0,5.0,10.55,9.35,0.07,2.0,Arsenal,True,Fulham,0.88
+Gabriel Martinelli Silva,Arsenal,Fulham,2023-08-26,True,FWL,90,0.0,0.39,0.0,0.0,2,4.0,0.0,9.6,0,0,2,True,4.6,0.65,68.82,15.0,5.0,10.55,9.35,0.07,1.0,Arsenal,False,Manchester City,2.4
+Gabriel Martinelli Silva,Arsenal,Manchester City,2024-03-31,False,Sub,12,0.0,0.06,0.0,0.0,1,1.0,0.0,0.3,0,0,0,False,4.4,0.69,66.35,15.0,5.0,10.55,9.35,0.07,1.0,Arsenal,True,Luton,-1.54
+Gabriel Martinelli Silva,Arsenal,Luton,2024-04-03,True,Sub,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,4.0,0.7,64.21,15.0,5.0,10.55,9.35,0.07,1.0,Arsenal,False,Brighton,-4.25
+Gabriel Martinelli Silva,Arsenal,Brighton,2024-04-06,False,Sub,26,0.0,0.0,0.0,0.06,1,0.0,1.0,2.4,0,0,0,False,3.0,0.38,62.68,15.0,5.0,10.55,9.35,0.07,1.0,Arsenal,True,Aston Villa,-0.49
+Gabriel Martinelli Silva,Arsenal,Aston Villa,2024-04-14,True,Sub,23,0.0,0.0,0.0,0.01,1,0.0,1.0,1.6,0,0,2,False,1.0,0.09,61.15,15.0,5.0,10.55,9.35,0.07,1.0,Arsenal,False,Wolverhampton,-2.55
+Gabriel Martinelli Silva,Arsenal,Wolverhampton,2024-04-20,False,Sub,18,0.0,0.53,0.0,0.0,1,2.0,0.0,4.4,0,0,0,False,1.2,0.09,59.56,15.0,5.0,10.55,9.35,0.07,1.0,Arsenal,True,Chelsea,-2.12
+Gabriel Martinelli Silva,Arsenal,Chelsea,2024-04-23,True,Sub,18,0.0,0.39,0.0,0.0,1,2.0,0.0,2.4,0,0,0,False,1.0,0.12,58.07,15.0,5.0,10.55,9.35,0.07,1.0,Arsenal,False,Tottenham,0.46
+Gabriel Martinelli Silva,Arsenal,Tottenham,2024-04-28,False,Sub,27,0.0,0.04,0.0,0.0,1,1.0,0.0,1.5,0,0,2,False,1.0,0.18,57.0,15.0,5.0,10.55,9.35,0.07,1.0,Arsenal,True,Bournemouth,-1.36
+Gabriel Martinelli Silva,Arsenal,Bournemouth,2024-05-04,True,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,1.0,0.19,55.4,15.0,5.0,10.55,9.35,0.07,1.0,Arsenal,False,Manchester United,1.17
+Gabriel Martinelli Silva,Arsenal,Manchester United,2024-05-12,False,Sub,24,0.0,0.12,0.0,0.02,1,1.0,1.0,3.9,0,0,0,False,1.0,0.19,54.39,15.0,5.0,10.55,9.35,0.07,2.0,Arsenal,True,Everton,-2.68
+Gabriel Martinelli Silva,Arsenal,Everton,2024-05-19,True,FWR,90,0.0,0.16,0.0,0.68,2,2.0,5.0,15.0,0,0,1,True,1.0,0.22,55.5,15.0,5.0,10.55,9.35,0.07,5.0,Arsenal,True,Manchester United,-2.18
+Gabriel Martinelli Silva,Arsenal,Manchester United,2023-09-03,True,FWL,89,0.0,0.15,1.0,0.09,5,3.0,1.0,7.6,0,0,1,True,1.2,0.14,56.52,15.0,5.0,10.55,9.35,0.07,1.0,Arsenal,False,Everton,1.49
+Gabriel Martinelli Silva,Arsenal,Everton,2023-09-17,False,FWL,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,True,2.0,0.29,55.53,15.0,5.0,10.55,9.35,0.07,0.0,Arsenal,True,Tottenham,-1.3
+Gabriel Martinelli Silva,Arsenal,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.29,53.94,15.0,5.0,10.55,9.35,0.07,0.0,Arsenal,False,Bournemouth,-5.08
+Gabriel Martinelli Silva,Arsenal,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.29,52.44,15.0,5.0,10.55,9.35,0.07,6.0,Arsenal,True,Manchester City,0.69
+Gabriel Martinelli Silva,Arsenal,Manchester City,2023-10-08,True,Sub,45,1.0,0.08,0.0,0.01,6,2.0,1.0,7.7,0,0,0,False,1.6,0.26,52.24,15.0,5.0,10.55,9.35,0.07,2.0,Arsenal,False,Chelsea,-1.61
+Gabriel Martinelli Silva,Arsenal,Chelsea,2023-10-21,False,FWL,77,0.0,0.08,0.0,0.22,2,1.0,2.0,5.2,0,0,2,True,2.4,0.25,52.89,15.0,5.0,10.55,9.35,0.07,,,,,

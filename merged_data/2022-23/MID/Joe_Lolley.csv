@@ -1,3 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Joe Lolley,Nott'm Forest,Chelsea,2023-05-13,False,GK,0,0,0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0
-Joe Lolley,Nott'm Forest,Crystal Palace,2023-05-28,False,GK,0,0,0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Joe Lolley,Nott'm Forest,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Aston Villa,-2.76
+Joe Lolley,Nott'm Forest,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Wolverhampton,0.48
+Joe Lolley,Nott'm Forest,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Brighton,1.21
+Joe Lolley,Nott'm Forest,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Liverpool,-1.05
+Joe Lolley,Nott'm Forest,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Arsenal,1.87
+Joe Lolley,Nott'm Forest,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Brentford,0.39
+Joe Lolley,Nott'm Forest,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Crystal Palace,-0.57
+Joe Lolley,Nott'm Forest,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Manchester United,1.16
+Joe Lolley,Nott'm Forest,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Chelsea,0.18
+Joe Lolley,Nott'm Forest,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Southampton,-1.72
+Joe Lolley,Nott'm Forest,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,West Ham,-2.72
+Joe Lolley,Nott'm Forest,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Leeds United,-2.6
+Joe Lolley,Nott'm Forest,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Bournemouth,0.9
+Joe Lolley,Nott'm Forest,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Leicester City,-1.35
+Joe Lolley,Nott'm Forest,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Fulham,5.33
+Joe Lolley,Nott'm Forest,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Manchester City,-0.22
+Joe Lolley,Nott'm Forest,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,West Ham,3.49
+Joe Lolley,Nott'm Forest,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Everton,1.16
+Joe Lolley,Nott'm Forest,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Tottenham,0.66
+Joe Lolley,Nott'm Forest,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Newcastle United,0.52
+Joe Lolley,Nott'm Forest,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Wolverhampton,-0.63
+Joe Lolley,Nott'm Forest,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Leicester City,1.63
+Joe Lolley,Nott'm Forest,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Everton,2.01
+Joe Lolley,Nott'm Forest,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Aston Villa,2.52
+Joe Lolley,Nott'm Forest,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Manchester United,0.67
+Joe Lolley,Nott'm Forest,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Liverpool,2.76
+Joe Lolley,Nott'm Forest,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Brighton,-1.91
+Joe Lolley,Nott'm Forest,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Brentford,1.33
+Joe Lolley,Nott'm Forest,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Southampton,-0.97
+Joe Lolley,Nott'm Forest,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Chelsea,-2.46
+Joe Lolley,Nott'm Forest,Chelsea,2023-05-13,False,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Arsenal,-1.92
+Joe Lolley,Nott'm Forest,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Crystal Palace,0.85
+Joe Lolley,Nott'm Forest,Crystal Palace,2023-05-28,False,GK,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Tottenham,4.06
+Joe Lolley,Nott'm Forest,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Manchester City,4.87
+Joe Lolley,Nott'm Forest,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Bournemouth,0.52
+Joe Lolley,Nott'm Forest,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Fulham,-2.25
+Joe Lolley,Nott'm Forest,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Leeds United,3.17
+Joe Lolley,Nott'm Forest,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,,Wolves,False,Manchester United,0.79

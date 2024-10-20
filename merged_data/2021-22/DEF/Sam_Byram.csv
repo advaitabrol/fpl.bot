@@ -1,16 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
-Sam Byram,Norwich,Aston Villa,2021-12-14,True,Sub,45,0,0.0,0,0.0,0,0,0,0.6,0,0,1,0.0,0.0,45.0,0.0
-Sam Byram,Norwich,Crystal Palace,2021-12-28,False,DR,90,0,0.05,0,0.06,0,1,1,6.9,0,0,3,0.0,0.0,67.5,0.0
-Sam Byram,Norwich,Everton,2022-01-15,True,Sub,13,0,0.0,0,0.0,1,0,0,0.3,0,0,0,0.0,0.02,49.33,0.0
-Sam Byram,Norwich,Watford,2022-01-21,False,Sub,3,0,0.0,0,0.0,1,0,0,0.4,0,0,0,0.33,0.02,37.75,0.0
-Sam Byram,Norwich,Manchester City,2022-02-12,True,Sub,27,0,0.0,0,0.0,0,0,0,0.6,0,0,2,0.5,0.01,35.6,0.0
-Sam Byram,Norwich,Brentford,2022-03-05,True,DR,90,0,0.05,0,0.06,1,2,1,7.9,0,0,3,0.4,0.01,44.67,0.0
-Sam Byram,Norwich,Brighton,2022-04-02,False,DR,90,0,0.0,0,0.0,6,0,0,2.0,0,1,0,0.6,0.02,51.14,0.33
-Sam Byram,Norwich,Burnley,2022-04-10,True,DR,90,0,0.09,0,0.0,6,1,0,2.8,0,1,0,1.8,0.01,56.0,0.5
-Sam Byram,Norwich,Manchester United,2022-04-16,False,DR,90,0,0.14,0,0.06,1,2,1,5.8,0,0,3,2.8,0.03,59.78,0.4
-Sam Byram,Norwich,Newcastle United,2022-04-23,True,DR,90,0,0.0,0,0.0,1,0,0,1.7,0,0,3,2.8,0.06,62.8,0.33
-Sam Byram,Norwich,Aston Villa,2022-04-30,False,DC,90,0,0.0,0,0.0,1,0,0,2.5,0,0,2,3.0,0.06,65.27,0.29
-Sam Byram,Norwich,West Ham,2022-05-08,True,DC,90,0,0.0,0,0.07,0,0,1,4.1,0,0,4,3.0,0.05,67.33,0.25
-Sam Byram,Norwich,Leeds United,2022-05-11,False,DC,90,0,0.04,0,0.0,1,1,0,2.0,0,0,3,1.8,0.05,69.08,0.22
-Sam Byram,Norwich,Wolverhampton,2022-05-15,False,DC,90,0,0.0,0,0.0,2,0,0,1.7,0,0,1,0.8,0.04,70.57,0.2
-Sam Byram,Norwich,Tottenham,2022-05-22,True,DC,35,0,0.0,0,0.0,-1,0,0,0.0,0,0,2,1.0,0.01,68.2,0.2
+Sam Byram,Norwich,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Sam Byram,Norwich,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Sam Byram,Norwich,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Sam Byram,Norwich,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Sam Byram,Norwich,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Sam Byram,Norwich,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Sam Byram,Norwich,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Sam Byram,Norwich,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Sam Byram,Norwich,Aston Villa,2021-12-14,True,Sub,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.6,0,0,1,0.0,0.0,5.0,0.0
+Sam Byram,Norwich,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,4.5,0.0
+Sam Byram,Norwich,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,4.09,0.0
+Sam Byram,Norwich,Crystal Palace,2021-12-28,False,DR,90,0.0,0.05,0.0,0.06,0,1.0,1.0,6.9,0,0,3,0.0,0.0,11.25,0.0
+Sam Byram,Norwich,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.01,10.38,0.0
+Sam Byram,Norwich,Everton,2022-01-15,True,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,0.01,10.57,0.0
+Sam Byram,Norwich,Watford,2022-01-21,False,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.2,0.01,10.07,0.0
+Sam Byram,Norwich,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.01,9.44,0.0
+Sam Byram,Norwich,Manchester City,2022-02-12,True,Sub,27,0.0,0.0,0.0,0.0,0,0.0,0.0,0.6,0,0,2,0.4,0.01,10.47,0.0
+Sam Byram,Norwich,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,9.89,0.0
+Sam Byram,Norwich,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,9.37,0.0
+Sam Byram,Norwich,Brentford,2022-03-05,True,DR,90,0.0,0.05,0.0,0.06,1,2.0,1.0,7.9,0,0,3,0.2,0.0,13.4,0.0
+Sam Byram,Norwich,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.01,12.76,0.0
+Sam Byram,Norwich,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.01,12.18,0.0
+Sam Byram,Norwich,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.01,11.65,0.0
+Sam Byram,Norwich,Brighton,2022-04-02,False,DR,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.0,0,1,0,0.2,0.01,14.92,0.33
+Sam Byram,Norwich,Burnley,2022-04-10,True,DR,90,0.0,0.09,0.0,0.0,6,1.0,0.0,2.8,0,1,0,1.4,0.01,17.92,0.5
+Sam Byram,Norwich,Manchester United,2022-04-16,False,DR,90,0.0,0.14,0.0,0.06,1,2.0,1.0,5.8,0,0,3,2.4,0.02,20.69,0.4
+Sam Byram,Norwich,Newcastle United,2022-04-23,True,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,3,2.6,0.05,23.26,0.33
+Sam Byram,Norwich,Aston Villa,2022-04-30,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.5,0,0,2,2.8,0.05,25.64,0.29
+Sam Byram,Norwich,West Ham,2022-05-08,True,DC,90,0.0,0.0,0.0,0.07,0,0.0,1.0,4.1,0,0,4,3.0,0.05,27.86,0.25
+Sam Byram,Norwich,Leeds United,2022-05-11,False,DC,90,0.0,0.04,0.0,0.0,1,1.0,0.0,2.0,0,0,3,1.8,0.05,29.93,0.22
+Sam Byram,Norwich,Wolverhampton,2022-05-15,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.7,0,0,1,0.8,0.04,31.87,0.2
+Sam Byram,Norwich,Tottenham,2022-05-22,True,DC,35,0.0,0.0,0.0,0.0,-1,0.0,0.0,0.0,0,0,2,1.0,0.01,31.97,0.2
+Sam Byram,Norwich,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.6,0.01,31.0,0.2
+Sam Byram,Norwich,Watford,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.01,30.09,0.2
+Sam Byram,Norwich,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.01,29.23,0.2
+Sam Byram,Norwich,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,28.42,0.2
+Sam Byram,Norwich,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,-0.2,0.0,27.65,0.2
+Sam Byram,Norwich,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,26.92,0.2

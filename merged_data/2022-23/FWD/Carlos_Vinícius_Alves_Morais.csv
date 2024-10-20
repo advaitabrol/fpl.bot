@@ -1,29 +1,34 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Carlos Vinícius Alves Morais,Fulham,West Ham,2022-10-09,False,FW,90,0,0.12,0,0.06,1,2,1,3.9,0,False,0.0,0.0,90.0,0,0,0,0,0,1
-Carlos Vinícius Alves Morais,Fulham,Bournemouth,2022-10-15,True,Sub,3,0,0.0,0,0.0,1,0,0,0.2,0,False,1.0,0.12,46.5,0,0,0,0,0,1
-Carlos Vinícius Alves Morais,Fulham,Aston Villa,2022-10-20,True,Sub,5,0,0.0,0,0.0,1,0,0,0.0,0,False,1.0,0.06,32.67,0,0,0,0,0,1
-Carlos Vinícius Alves Morais,Fulham,Leicester City,2022-10-23,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,False,1.0,0.04,24.75,0,0,0,0,0,2
-Carlos Vinícius Alves Morais,Fulham,Manchester City,2022-11-05,False,FW,75,0,0.0,0,0.0,2,0,0,0.6,0,False,1.0,0.03,34.8,0,0,0,0,0,2
-Carlos Vinícius Alves Morais,Fulham,Manchester United,2022-11-13,True,FW,90,0,0.18,0,0.05,2,3,1,0.0,0,True,1.2,0.02,44.0,0,0,0,0,0,1
-Carlos Vinícius Alves Morais,Fulham,Crystal Palace,2022-12-26,False,Sub,5,0,0.0,0,0.0,1,0,0,0.2,0,False,1.4,0.04,38.43,0,0,0,0,0,9
-Carlos Vinícius Alves Morais,Fulham,Chelsea,2023-01-12,True,FW,90,1,0.49,0,0.07,9,3,1,10.9,3,True,1.4,0.04,44.88,0,0,0,0,0,1
-Carlos Vinícius Alves Morais,Fulham,Newcastle United,2023-01-15,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,False,3.0,0.13,40.0,0,0,0,0,0,1
-Carlos Vinícius Alves Morais,Fulham,Tottenham,2023-01-23,True,Sub,3,0,0.0,0,0.0,1,0,0,0.4,0,False,3.0,0.13,36.3,0,0,0,0,0,1
-Carlos Vinícius Alves Morais,Fulham,Chelsea,2023-02-03,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,False,2.8,0.13,33.09,0,0,0,0,0,1
-Carlos Vinícius Alves Morais,Fulham,Nottingham Forest,2023-02-11,True,Sub,6,0,0.0,0,0.0,1,0,0,0.1,0,False,2.6,0.1,30.83,0,0,0,0,0,3
-Carlos Vinícius Alves Morais,Fulham,Brighton,2023-02-18,False,Sub,28,0,0.0,1,0.05,3,0,1,2.8,0,False,2.6,0.1,30.62,0,0,0,0,0,2
-Carlos Vinícius Alves Morais,Fulham,Wolverhampton,2023-02-24,True,FW,90,0,0.72,0,0.0,2,2,0,5.3,0,True,1.4,0.2,34.86,0,0,0,0,0,7
-Carlos Vinícius Alves Morais,Fulham,Brentford,2023-03-06,False,Sub,7,1,0.41,0,0.0,7,1,0,5.1,2,False,1.6,0.34,33.0,0,0,0,0,0,2
-Carlos Vinícius Alves Morais,Fulham,Bournemouth,2023-04-01,False,FW,90,0,0.11,0,0.0,2,2,0,1.3,0,True,2.8,0.43,36.56,0,0,0,0,0,1
-Carlos Vinícius Alves Morais,Fulham,West Ham,2023-04-08,True,FW,90,0,0.03,0,0.0,1,1,1,2.9,0,True,3.0,0.45,39.71,0,0,0,0,0,1
-Carlos Vinícius Alves Morais,Fulham,Everton,2023-04-15,False,Sub,1,0,0.0,0,0.0,1,0,0,0.7,0,False,3.0,0.45,37.56,0,0,0,0,0,1
-Carlos Vinícius Alves Morais,Fulham,Leicester City,2023-04-22,True,Sub,8,0,0.0,0,0.0,1,0,0,0.0,0,False,2.6,0.25,36.0,0,0,0,0,0,1
-Carlos Vinícius Alves Morais,Fulham,Aston Villa,2023-04-25,False,Sub,23,0,0.0,0,0.0,1,0,0,0.0,0,False,2.4,0.11,35.35,0,0,0,0,0,8
-Carlos Vinícius Alves Morais,Fulham,Manchester City,2023-04-30,True,FW,90,1,0.36,0,0.0,8,1,0,6.8,2,True,1.2,0.03,37.95,0,0,0,0,0,2
-Carlos Vinícius Alves Morais,Fulham,Liverpool,2023-05-03,False,FW,78,0,0.41,0,0.0,2,2,0,5.1,0,True,2.4,0.08,39.77,0,0,0,0,0,9
-Carlos Vinícius Alves Morais,Fulham,Leeds United,2023-05-08,True,FW,90,1,0.2,1,0.1,9,2,1,7.3,0,True,2.6,0.16,41.96,0,0,0,0,0,9
-Carlos Vinícius Alves Morais,Fulham,Southampton,2023-05-13,False,FW,64,1,0.55,0,0.08,9,2,1,7.6,3,True,4.2,0.39,42.88,0,0,0,0,0,1
-Carlos Vinícius Alves Morais,Fulham,Manchester United,2023-05-28,False,Sub,10,0,0.0,0,0.0,1,0,0,0.0,0,False,5.8,0.5,41.56,0,0,0,0,0,1
-Carlos Vinícius Alves Morais,Fulham,Tottenham,2022-09-03,False,Sub,5,0,0.0,0,0.0,1,0,0,0.0,0,False,5.8,0.5,40.15,0,0,0,0,0,1
-Carlos Vinícius Alves Morais,Fulham,Nottingham Forest,2022-09-16,False,Sub,1,0,0.0,0,0.0,1,0,0,0.1,0,False,4.4,0.43,38.7,0,0,0,0,0,1
-Carlos Vinícius Alves Morais,Fulham,Newcastle United,2022-10-01,True,Sub,53,0,0.0,0,0.12,1,0,1,1.9,0,False,4.2,0.35,39.21,0,0,0,0,0,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Carlos Vinícius Alves Morais,Fulham,West Ham,2022-10-09,False,FW,90,0.0,0.12,0.0,0.06,1,2.0,1.0,3.9,0,False,0.0,0.0,90.0,0,0,0,0,0,1,Fulham,True,Bournemouth,-0.74
+Carlos Vinícius Alves Morais,Fulham,Bournemouth,2022-10-15,True,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,1.0,0.12,46.5,0,0,0,0,0,1,Fulham,True,Aston Villa,-0.63
+Carlos Vinícius Alves Morais,Fulham,Aston Villa,2022-10-20,True,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,1.0,0.06,32.67,0,0,0,0,0,1,Fulham,False,Leicester City,-2.72
+Carlos Vinícius Alves Morais,Fulham,Leicester City,2022-10-23,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,1.0,0.04,24.75,0,0,0,0,0,0,Fulham,True,Everton,0.79
+Carlos Vinícius Alves Morais,Fulham,Everton,,True,,0,,,,,0,,,0.0,0,False,1.0,0.03,19.8,0,0,0,0,0,2,Fulham,False,Manchester City,1.5
+Carlos Vinícius Alves Morais,Fulham,Manchester City,2022-11-05,False,FW,75,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,False,0.8,0.02,29.0,0,0,0,0,0,2,Fulham,True,Manchester United,1.36
+Carlos Vinícius Alves Morais,Fulham,Manchester United,2022-11-13,True,FW,90,0.0,0.18,0.0,0.05,2,3.0,1.0,0.0,0,True,1.0,0.0,37.71,0,0,0,0,0,1,Fulham,False,Crystal Palace,-1.05
+Carlos Vinícius Alves Morais,Fulham,Crystal Palace,2022-12-26,False,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,1.2,0.04,33.62,0,0,0,0,0,0,Fulham,True,Southampton,-0.67
+Carlos Vinícius Alves Morais,Fulham,Southampton,,True,,0,,,,,0,,,0.0,0,False,1.2,0.04,29.89,0,0,0,0,0,0,Fulham,False,Leeds United,-2.01
+Carlos Vinícius Alves Morais,Fulham,Leeds United,,False,,0,,,,,0,,,0.0,0,False,1.0,0.04,26.9,0,0,0,0,0,9,Fulham,True,Chelsea,1.22
+Carlos Vinícius Alves Morais,Fulham,Chelsea,2023-01-12,True,FW,90,1.0,0.49,0.0,0.07,9,3.0,1.0,10.9,3,True,1.0,0.04,32.64,0,0,0,0,0,1,Fulham,False,Newcastle United,1.64
+Carlos Vinícius Alves Morais,Fulham,Newcastle United,2023-01-15,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,2.4,0.13,30.0,0,0,0,0,0,1,Fulham,True,Tottenham,-0.89
+Carlos Vinícius Alves Morais,Fulham,Tottenham,2023-01-23,True,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,False,2.2,0.1,27.92,0,0,0,0,0,1,Fulham,False,Chelsea,0.71
+Carlos Vinícius Alves Morais,Fulham,Chelsea,2023-02-03,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,2.2,0.1,26.0,0,0,0,0,0,1,Fulham,True,Nottingham Forest,-3.99
+Carlos Vinícius Alves Morais,Fulham,Nottingham Forest,2023-02-11,True,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,False,2.4,0.1,24.67,0,0,0,0,0,3,Fulham,False,Brighton,-0.55
+Carlos Vinícius Alves Morais,Fulham,Brighton,2023-02-18,False,Sub,28,0.0,0.0,1.0,0.05,3,0.0,1.0,2.8,0,False,2.6,0.1,24.88,0,0,0,0,0,2,Fulham,True,Wolverhampton,0.52
+Carlos Vinícius Alves Morais,Fulham,Wolverhampton,2023-02-24,True,FW,90,0.0,0.72,0.0,0.0,2,2.0,0.0,5.3,0,True,1.4,0.2,28.71,0,0,0,0,0,7,Fulham,False,Brentford,0.07
+Carlos Vinícius Alves Morais,Fulham,Brentford,2023-03-06,False,Sub,7,1.0,0.41,0.0,0.0,7,1.0,0.0,5.1,2,False,1.6,0.34,27.5,0,0,0,0,0,0,Fulham,True,Arsenal,0.97
+Carlos Vinícius Alves Morais,Fulham,Arsenal,,True,,0,,,,,0,,,0.0,0,False,2.8,0.43,26.05,0,0,0,0,0,2,Fulham,False,Bournemouth,3.99
+Carlos Vinícius Alves Morais,Fulham,Bournemouth,2023-04-01,False,FW,90,0.0,0.11,0.0,0.0,2,2.0,0.0,1.3,0,True,2.6,0.43,29.25,0,0,0,0,0,1,Fulham,True,West Ham,-0.79
+Carlos Vinícius Alves Morais,Fulham,West Ham,2023-04-08,True,FW,90,0.0,0.03,0.0,0.0,1,1.0,1.0,2.9,0,True,2.8,0.45,32.14,0,0,0,0,0,1,Fulham,False,Everton,-0.93
+Carlos Vinícius Alves Morais,Fulham,Everton,2023-04-15,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,False,2.4,0.25,30.73,0,0,0,0,0,1,Fulham,True,Leicester City,-2.18
+Carlos Vinícius Alves Morais,Fulham,Leicester City,2023-04-22,True,Sub,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,2.2,0.11,29.74,0,0,0,0,0,1,Fulham,False,Aston Villa,2.57
+Carlos Vinícius Alves Morais,Fulham,Aston Villa,2023-04-25,False,Sub,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,1.0,0.03,29.46,0,0,0,0,0,8,Fulham,True,Manchester City,2.68
+Carlos Vinícius Alves Morais,Fulham,Manchester City,2023-04-30,True,FW,90,1.0,0.36,0.0,0.0,8,1.0,0.0,6.8,2,True,1.2,0.03,31.88,0,0,0,0,0,2,Fulham,False,Liverpool,0.28
+Carlos Vinícius Alves Morais,Fulham,Liverpool,2023-05-03,False,FW,78,0.0,0.41,0.0,0.0,2,2.0,0.0,5.1,0,True,2.4,0.08,33.65,0,0,0,0,0,9,Fulham,True,Leeds United,0.24
+Carlos Vinícius Alves Morais,Fulham,Leeds United,2023-05-08,True,FW,90,1.0,0.2,1.0,0.1,9,2.0,1.0,7.3,0,True,2.6,0.16,35.74,0,0,0,0,0,9,Fulham,False,Southampton,-1.16
+Carlos Vinícius Alves Morais,Fulham,Southampton,2023-05-13,False,FW,64,1.0,0.55,0.0,0.08,9,2.0,1.0,7.6,3,True,4.2,0.39,36.75,0,0,0,0,0,0,Fulham,True,Crystal Palace,0.27
+Carlos Vinícius Alves Morais,Fulham,Crystal Palace,,True,,0,,,,,0,,,0.0,0,False,5.8,0.5,35.48,0,0,0,0,0,1,Fulham,False,Manchester United,0.13
+Carlos Vinícius Alves Morais,Fulham,Manchester United,2023-05-28,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,5.6,0.5,34.63,0,0,0,0,0,1,Fulham,False,Tottenham,1.6
+Carlos Vinícius Alves Morais,Fulham,Tottenham,2022-09-03,False,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,4.2,0.43,33.68,0,0,0,0,0,1,Fulham,False,Nottingham Forest,1.93
+Carlos Vinícius Alves Morais,Fulham,Nottingham Forest,2022-09-16,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,False,4.0,0.35,32.66,0,0,0,0,0,1,Fulham,True,Newcastle United,3.13
+Carlos Vinícius Alves Morais,Fulham,Newcastle United,2022-10-01,True,Sub,53,0.0,0.0,0.0,0.12,1,0.0,1.0,1.9,0,False,2.4,0.11,33.27,0,0,0,0,0,0,Fulham,False,Everton,-0.93

@@ -1,14 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Harry Winks,Spurs,Everton,2022-10-15,True,Sub,0,0,0.03,0,0.0,0,1,0,0.0,0,0,0,False,0.0,0.0,0.0,0,1,0.07,1.53,0.04,0
-Harry Winks,Spurs,Newcastle United,2022-10-23,True,AMR,0,0,0.14,0,0.0,0,2,0,0.0,0,0,0,False,0.0,0.03,0.0,0,1,0.07,1.53,0.04,0
-Harry Winks,Spurs,Bournemouth,2022-10-29,False,Sub,0,0,0.02,0,0.09,0,1,1,0.0,0,0,0,False,0.0,0.08,0.0,0,1,0.07,1.53,0.04,0
-Harry Winks,Spurs,Brentford,2022-12-26,False,Sub,0,0,0.05,0,0.1,0,1,1,0.0,0,0,0,False,0.0,0.06,0.0,0,1,0.07,1.53,0.04,0
-Harry Winks,Spurs,Arsenal,2023-01-15,True,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.06,0.0,0,1,0.07,1.53,0.04,0
-Harry Winks,Spurs,Fulham,2023-01-23,False,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.05,0.0,0,1,0.07,1.53,0.04,0
-Harry Winks,Spurs,Leeds United,2023-02-11,False,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.04,0.0,0,1,0.07,1.53,0.04,0
-Harry Winks,Spurs,Brighton,2023-04-08,True,Sub,0,0,0.0,0,0.03,0,0,1,0.0,0,0,0,False,0.0,0.02,0.0,0,1,0.07,1.53,0.04,0
-Harry Winks,Spurs,Bournemouth,2023-04-15,True,AMR,0,1,0.55,0,0.0,0,4,0,0.0,0,0,0,False,0.0,0.01,0.0,0,1,0.07,1.53,0.04,0
-Harry Winks,Spurs,Liverpool,2023-04-30,False,AMR,0,0,0.0,1,0.36,0,0,1,0.0,0,0,0,False,0.0,0.11,0.0,0,1,0.07,1.53,0.04,0
-Harry Winks,Spurs,Aston Villa,2023-05-13,False,AMR,0,0,0.0,1,0.45,0,0,2,0.0,0,0,0,False,0.0,0.31,0.0,0,1,0.07,1.53,0.04,0
-Harry Winks,Spurs,Brentford,2023-05-20,True,AMR,0,0,0.1,0,0.0,0,1,0,0.0,0,0,0,False,0.0,0.51,0.0,0,1,0.07,1.53,0.04,0
-Harry Winks,Spurs,Leicester City,2023-05-28,False,AMR,0,0,0.05,0,0.0,0,1,0,0.0,0,0,0,False,0.0,0.53,0.0,0,1,0.07,1.53,0.04,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Harry Winks,Spurs,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,False,Brighton,0.26
+Harry Winks,Spurs,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,True,Everton,-2.75
+Harry Winks,Spurs,Everton,2022-10-15,True,Sub,0,0.0,0.03,0.0,0.0,0,1.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,False,Manchester United,2.48
+Harry Winks,Spurs,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,True,Newcastle United,-2.91
+Harry Winks,Spurs,Newcastle United,2022-10-23,True,AMR,0,0.0,0.14,0.0,0.0,0,2.0,0.0,0.0,0,0,0,False,0.0,0.01,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,False,Bournemouth,-2.08
+Harry Winks,Spurs,Bournemouth,2022-10-29,False,Sub,0,0.0,0.02,0.0,0.09,0,1.0,1.0,0.0,0,0,0,False,0.0,0.03,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,True,Liverpool,-0.19
+Harry Winks,Spurs,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.04,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,True,Leicester City,-1.16
+Harry Winks,Spurs,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.04,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,False,Brentford,1.03
+Harry Winks,Spurs,Brentford,2022-12-26,False,Sub,0,0.0,0.05,0.0,0.1,0,1.0,1.0,0.0,0,0,0,False,0.0,0.03,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,True,Aston Villa,1.75
+Harry Winks,Spurs,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.04,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,False,Crystal Palace,0.96
+Harry Winks,Spurs,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.02,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,False,Chelsea,1.82
+Harry Winks,Spurs,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,True,Arsenal,-0.34
+Harry Winks,Spurs,Arsenal,2023-01-15,True,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.01,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,False,Manchester City,-0.2
+Harry Winks,Spurs,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,False,Fulham,1.2
+Harry Winks,Spurs,Fulham,2023-01-23,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,True,Manchester City,-0.27
+Harry Winks,Spurs,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,False,Leeds United,1.25
+Harry Winks,Spurs,Leeds United,2023-02-11,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,True,West Ham,0.26
+Harry Winks,Spurs,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,True,Chelsea,2.8
+Harry Winks,Spurs,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,False,Wolverhampton,0.79
+Harry Winks,Spurs,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,True,Nottingham Forest,-0.6
+Harry Winks,Spurs,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,False,Southampton,-0.37
+Harry Winks,Spurs,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,False,Everton,0.55
+Harry Winks,Spurs,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,True,Wolverhampton,2.72
+Harry Winks,Spurs,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,True,Brighton,-0.2
+Harry Winks,Spurs,Brighton,2023-04-08,True,Sub,0,0.0,0.0,0.0,0.03,0,0.0,1.0,0.0,0,0,0,False,0.0,0.0,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,True,Bournemouth,-1.78
+Harry Winks,Spurs,Bournemouth,2023-04-15,True,AMR,0,1.0,0.55,0.0,0.0,0,4.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,False,Newcastle United,4.3
+Harry Winks,Spurs,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.11,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,True,Manchester United,-0.02
+Harry Winks,Spurs,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.11,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,False,Liverpool,0.68
+Harry Winks,Spurs,Liverpool,2023-04-30,False,AMR,0,0.0,0.0,1.0,0.36,0,0.0,1.0,0.0,0,0,0,False,0.0,0.11,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,True,Crystal Palace,-2.03
+Harry Winks,Spurs,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.31,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,False,Aston Villa,-2.16
+Harry Winks,Spurs,Aston Villa,2023-05-13,False,AMR,0,0.0,0.0,1.0,0.45,0,0.0,2.0,0.0,0,0,0,False,0.0,0.31,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,True,Brentford,-1.31
+Harry Winks,Spurs,Brentford,2023-05-20,True,AMR,0,0.0,0.1,0.0,0.0,0,1.0,0.0,0.0,0,0,0,False,0.0,0.4,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,False,Leicester City,-4.57
+Harry Winks,Spurs,Leicester City,2023-05-28,False,AMR,0,0.0,0.05,0.0,0.0,0,1.0,0.0,0.0,0,0,0,False,0.0,0.42,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,False,Nottingham Forest,-3.55
+Harry Winks,Spurs,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.43,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,False,West Ham,2.47
+Harry Winks,Spurs,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.23,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,True,Fulham,-2.03
+Harry Winks,Spurs,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.23,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,True,Leeds United,-3.41
+Harry Winks,Spurs,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.03,0.0,0.0,1.0,0.07,1.53,0.04,0.0,Spurs,False,Arsenal,1.92
+Harry Winks,Spurs,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,0.0,1.0,0.07,1.53,0.04,,Wolves,False,Manchester United,0.79

@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,form,clean_sheet_probability
-David de Gea,Man Utd,Leicester City,2021-08-14,True,90,1,2,0,2,0,False,0.0,0.0,0.0
-David de Gea,Man Utd,Tottenham,2021-10-30,False,90,0,0,0,6,0,True,0.0,2.0,0.5
-David de Gea,Man Utd,Manchester City,2021-11-06,True,90,2,5,0,2,0,False,0.0,4.0,0.33
-David de Gea,Man Utd,Watford,2021-11-20,False,90,4,3,1,6,0,False,0.0,3.33,0.25
-David de Gea,Man Utd,Chelsea,2021-11-28,False,90,1,5,0,3,0,False,0.0,4.0,0.2
-David de Gea,Man Utd,Arsenal,2021-12-02,True,90,2,5,0,2,0,False,0.0,3.8,0.17
-David de Gea,Man Utd,Crystal Palace,2021-12-05,True,90,0,2,0,6,0,True,0.0,3.8,0.29
-David de Gea,Man Utd,Norwich,2021-12-11,False,90,0,5,0,10,3,True,0.0,3.8,0.38
-David de Gea,Man Utd,Newcastle United,2021-12-27,False,90,1,7,0,5,1,False,0.0,5.4,0.33
-David de Gea,Man Utd,Southampton,2021-08-22,False,90,1,3,0,3,0,False,0.0,5.2,0.3
-David de Gea,Man Utd,Burnley,2021-12-30,True,90,1,2,0,2,0,False,0.0,5.2,0.27
-David de Gea,Man Utd,Wolverhampton,2022-01-03,True,90,1,5,0,3,0,False,0.0,5.2,0.25
-David de Gea,Man Utd,Aston Villa,2022-01-15,False,90,2,7,0,4,1,False,0.0,4.6,0.23
-David de Gea,Man Utd,Brentford,2022-01-19,False,90,1,7,0,4,0,False,0.0,3.4,0.21
-David de Gea,Man Utd,West Ham,2022-01-22,True,90,0,2,0,6,0,True,0.0,3.2,0.27
-David de Gea,Man Utd,Burnley,2022-02-08,False,90,1,2,0,2,0,False,0.0,3.8,0.25
-David de Gea,Man Utd,Southampton,2022-02-12,True,90,1,3,0,3,0,False,0.0,3.8,0.24
-David de Gea,Man Utd,Brighton,2022-02-15,True,90,0,3,0,7,0,True,0.0,3.8,0.28
-David de Gea,Man Utd,Leicester City,2022-02-20,False,90,2,4,0,2,0,False,0.0,4.4,0.26
-David de Gea,Man Utd,Watford,2022-02-26,True,90,0,2,0,6,0,True,0.0,4.0,0.3
-David de Gea,Man Utd,Manchester City,2022-03-06,False,90,4,6,0,2,0,False,0.0,4.0,0.29
-David de Gea,Man Utd,Tottenham,2022-03-12,True,90,2,1,0,1,0,False,0.0,4.0,0.27
-David de Gea,Man Utd,Wolverhampton,2021-08-29,False,90,0,5,0,7,0,True,0.0,3.6,0.3
-David de Gea,Man Utd,Leeds United,2022-04-02,True,90,1,2,0,2,0,False,0.0,3.6,0.29
-David de Gea,Man Utd,Everton,2022-04-09,False,90,1,2,0,2,0,False,0.0,3.6,0.28
-David de Gea,Man Utd,Norwich,2022-04-16,True,90,2,2,0,1,0,False,0.0,2.8,0.27
-David de Gea,Man Utd,Liverpool,2022-04-19,False,90,4,1,0,0,0,False,0.0,2.6,0.26
-David de Gea,Man Utd,Arsenal,2022-04-23,False,90,3,4,0,2,0,False,0.0,2.4,0.25
-David de Gea,Man Utd,Chelsea,2022-04-28,True,90,1,5,0,3,0,False,0.0,1.4,0.24
-David de Gea,Man Utd,Brentford,2022-05-02,True,90,0,4,0,7,0,True,0.0,1.6,0.27
-David de Gea,Man Utd,Brighton,2022-05-07,False,90,4,1,0,0,0,False,0.0,2.6,0.26
-David de Gea,Man Utd,Crystal Palace,2022-05-22,False,90,1,2,0,2,0,False,0.0,2.4,0.25
-David de Gea,Man Utd,Newcastle United,2021-09-11,True,90,1,2,0,2,0,False,0.0,2.8,0.24
-David de Gea,Man Utd,West Ham,2021-09-19,False,90,1,3,1,10,2,False,0.0,2.8,0.24
-David de Gea,Man Utd,Aston Villa,2021-09-25,True,90,1,2,0,2,0,False,0.0,4.2,0.23
-David de Gea,Man Utd,Everton,2021-10-02,True,90,1,1,0,2,0,False,0.0,3.2,0.22
-David de Gea,Man Utd,Leeds United,2021-10-16,False,90,4,7,0,2,0,False,0.0,3.6,0.22
-David de Gea,Man Utd,Liverpool,2021-10-24,True,90,5,3,0,1,0,False,0.0,3.6,0.21
+name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,form,clean_sheet_probability,saves_per_game
+David de Gea,Man Utd,Leicester City,2021-08-14,True,90,1,2,0,2,0,False,0.0,0.0,0.0,2.0
+David de Gea,Man Utd,Tottenham,2021-10-30,False,90,0,0,0,6,0,True,0.0,2.0,0.5,1.0
+David de Gea,Man Utd,Manchester City,2021-11-06,True,90,2,5,0,2,0,False,0.0,4.0,0.33,2.33
+David de Gea,Man Utd,Watford,2021-11-20,False,90,4,3,1,6,0,False,0.0,3.33,0.25,2.5
+David de Gea,Man Utd,Chelsea,2021-11-28,False,90,1,5,0,3,0,False,0.0,4.0,0.2,3.0
+David de Gea,Man Utd,Arsenal,2021-12-02,True,90,2,5,0,2,0,False,0.0,3.8,0.17,3.33
+David de Gea,Man Utd,Crystal Palace,2021-12-05,True,90,0,2,0,6,0,True,0.0,3.8,0.29,3.14
+David de Gea,Man Utd,Norwich,2021-12-11,False,90,0,5,0,10,3,True,0.0,3.8,0.38,3.38
+David de Gea,Man Utd,Newcastle United,2021-12-27,False,90,1,7,0,5,1,False,0.0,5.4,0.33,3.78
+David de Gea,Man Utd,Southampton,2021-08-22,False,90,1,3,0,3,0,False,0.0,5.2,0.3,3.7
+David de Gea,Man Utd,Burnley,2021-12-30,True,90,1,2,0,2,0,False,0.0,5.2,0.27,3.55
+David de Gea,Man Utd,Wolverhampton,2022-01-03,True,90,1,5,0,3,0,False,0.0,5.2,0.25,3.67
+David de Gea,Man Utd,Aston Villa,2022-01-15,False,90,2,7,0,4,1,False,0.0,4.6,0.23,3.92
+David de Gea,Man Utd,Brentford,2022-01-19,False,90,1,7,0,4,0,False,0.0,3.4,0.21,4.14
+David de Gea,Man Utd,West Ham,2022-01-22,True,90,0,2,0,6,0,True,0.0,3.2,0.27,4.0
+David de Gea,Man Utd,Burnley,2022-02-08,False,90,1,2,0,2,0,False,0.0,3.8,0.25,3.88
+David de Gea,Man Utd,Southampton,2022-02-12,True,90,1,3,0,3,0,False,0.0,3.8,0.24,3.82
+David de Gea,Man Utd,Brighton,2022-02-15,True,90,0,3,0,7,0,True,0.0,3.8,0.28,3.78
+David de Gea,Man Utd,Leicester City,2022-02-20,False,90,2,4,0,2,0,False,0.0,4.4,0.26,3.79
+David de Gea,Man Utd,Watford,2022-02-26,True,90,0,2,0,6,0,True,0.0,4.0,0.3,3.7
+David de Gea,Man Utd,Manchester City,2022-03-06,False,90,4,6,0,2,0,False,0.0,4.0,0.29,3.81
+David de Gea,Man Utd,Tottenham,2022-03-12,True,90,2,1,0,1,0,False,0.0,4.0,0.27,3.68
+David de Gea,Man Utd,Wolverhampton,2021-08-29,False,90,0,5,0,7,0,True,0.0,3.6,0.3,3.74
+David de Gea,Man Utd,Leeds United,2022-04-02,True,90,1,2,0,2,0,False,0.0,3.6,0.29,3.67
+David de Gea,Man Utd,Everton,2022-04-09,False,90,1,2,0,2,0,False,0.0,3.6,0.28,3.6
+David de Gea,Man Utd,Norwich,2022-04-16,True,90,2,2,0,1,0,False,0.0,2.8,0.27,3.54
+David de Gea,Man Utd,Liverpool,2022-04-19,False,90,4,1,0,0,0,False,0.0,2.6,0.26,3.44
+David de Gea,Man Utd,Arsenal,2022-04-23,False,90,3,4,0,2,0,False,0.0,2.4,0.25,3.46
+David de Gea,Man Utd,Chelsea,2022-04-28,True,90,1,5,0,3,0,False,0.0,1.4,0.24,3.52
+David de Gea,Man Utd,Brentford,2022-05-02,True,90,0,4,0,7,0,True,0.0,1.6,0.27,3.53
+David de Gea,Man Utd,Brighton,2022-05-07,False,90,4,1,0,0,0,False,0.0,2.6,0.26,3.45
+David de Gea,Man Utd,Crystal Palace,2022-05-22,False,90,1,2,0,2,0,False,0.0,2.4,0.25,3.41
+David de Gea,Man Utd,Newcastle United,2021-09-11,True,90,1,2,0,2,0,False,0.0,2.8,0.24,3.36
+David de Gea,Man Utd,West Ham,2021-09-19,False,90,1,3,1,10,2,False,0.0,2.8,0.24,3.35
+David de Gea,Man Utd,Aston Villa,2021-09-25,True,90,1,2,0,2,0,False,0.0,4.2,0.23,3.31
+David de Gea,Man Utd,Everton,2021-10-02,True,90,1,1,0,2,0,False,0.0,3.2,0.22,3.25
+David de Gea,Man Utd,Leeds United,2021-10-16,False,90,4,7,0,2,0,False,0.0,3.6,0.22,3.35
+David de Gea,Man Utd,Liverpool,2021-10-24,True,90,5,3,0,1,0,False,0.0,3.6,0.21,3.34

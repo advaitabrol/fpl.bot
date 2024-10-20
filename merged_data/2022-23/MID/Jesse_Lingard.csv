@@ -1,18 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Jesse Lingard,Nott'm Forest,Newcastle United,2022-08-06,False,MC,90,0,0.08,0,0.02,2,1,1,4.3,0,0,2,False,0.0,0.0,90.0,2,0,0.78,0.46,0.08,1
-Jesse Lingard,Nott'm Forest,Wolverhampton,2022-10-15,False,Sub,20,0,0.0,0,0.02,1,0,1,1.9,0,0,0,False,2.0,0.08,55.0,2,0,0.78,0.46,0.08,3
-Jesse Lingard,Nott'm Forest,Brighton,2022-10-18,False,FWL,85,0,0.0,0,0.0,3,0,0,0.4,0,1,0,False,1.5,0.04,65.0,2,0,0.78,0.46,0.08,3
-Jesse Lingard,Nott'm Forest,Liverpool,2022-10-22,True,FWL,63,0,0.08,0,0.0,3,1,0,1.5,0,1,0,False,2.0,0.03,64.5,2,0,0.78,0.46,0.08,1
-Jesse Lingard,Nott'm Forest,Arsenal,2022-10-30,False,FWL,55,0,0.09,0,0.0,1,2,0,2.0,0,0,3,False,2.25,0.04,62.6,2,0,0.78,0.46,0.08,1
-Jesse Lingard,Nott'm Forest,Brentford,2022-11-05,True,Sub,11,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,2.0,0.05,54.0,2,0,0.78,0.46,0.08,3
-Jesse Lingard,Nott'm Forest,Crystal Palace,2022-11-12,True,FWL,80,0,0.13,0,0.08,3,1,1,1.6,0,1,0,True,1.8,0.04,57.71,2,0,0.78,0.46,0.08,1
-Jesse Lingard,Nott'm Forest,Manchester United,2022-12-27,False,FW,52,0,0.0,0,0.0,1,0,0,0.8,0,0,2,True,2.2,0.06,57.0,2,0,0.78,0.46,0.08,6
-Jesse Lingard,Nott'm Forest,West Ham,2022-08-14,True,AMC,90,0,0.13,0,0.09,6,1,2,4.5,0,1,0,False,1.8,0.06,60.67,2,0,0.78,0.46,0.08,1
-Jesse Lingard,Nott'm Forest,West Ham,2023-02-25,False,Sub,13,0,0.0,0,0.03,1,0,1,2.1,0,0,2,False,2.4,0.07,55.9,2,0,0.78,0.46,0.08,1
-Jesse Lingard,Nott'm Forest,Tottenham,2023-03-11,False,AMC,45,0,0.0,0,0.0,1,0,0,0.2,0,0,2,True,2.4,0.05,54.91,2,0,0.78,0.46,0.08,3
-Jesse Lingard,Nott'm Forest,Everton,2022-08-20,False,AMC,83,0,0.0,0,0.02,3,0,1,2.1,0,1,0,False,2.4,0.05,57.25,2,0,0.78,0.46,0.08,1
-Jesse Lingard,Nott'm Forest,Manchester United,2023-04-16,True,Sub,2,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,2.4,0.03,53.0,2,0,0.78,0.46,0.08,2
-Jesse Lingard,Nott'm Forest,Tottenham,2022-08-28,True,FW,68,0,0.02,0,0.13,2,1,3,5.7,0,0,1,False,2.4,0.03,54.07,2,0,0.78,0.46,0.08,2
-Jesse Lingard,Nott'm Forest,Bournemouth,2022-09-03,True,AMC,66,0,0.06,0,0.05,2,2,1,3.5,0,0,2,False,1.6,0.0,54.87,2,0,0.78,0.46,0.08,1
-Jesse Lingard,Nott'm Forest,Fulham,2022-09-16,True,Sub,27,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False,1.8,0.02,53.12,2,0,0.78,0.46,0.08,1
-Jesse Lingard,Nott'm Forest,Leeds United,2022-10-03,False,AML,68,0,0.11,0,0.0,1,1,0,1.9,0,0,3,False,1.8,0.02,54.0,2,0,0.78,0.46,0.08,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Jesse Lingard,Nott'm Forest,Newcastle United,2022-08-06,False,MC,90,0.0,0.08,0.0,0.02,2,1.0,1.0,4.3,0,0,2,False,0.0,0.0,90.0,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,True,Aston Villa,-2.76
+Jesse Lingard,Nott'm Forest,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.08,45.0,2.0,0.0,0.78,0.46,0.08,1.0,Nott'm Forest,False,Wolverhampton,0.48
+Jesse Lingard,Nott'm Forest,Wolverhampton,2022-10-15,False,Sub,20,0.0,0.0,0.0,0.02,1,0.0,1.0,1.9,0,0,0,False,1.0,0.04,36.67,2.0,0.0,0.78,0.46,0.08,3.0,Nott'm Forest,False,Brighton,1.21
+Jesse Lingard,Nott'm Forest,Brighton,2022-10-18,False,FWL,85,0.0,0.0,0.0,0.0,3,0.0,0.0,0.4,0,1,0,False,1.0,0.03,48.75,2.0,0.0,0.78,0.46,0.08,3.0,Nott'm Forest,True,Liverpool,-1.05
+Jesse Lingard,Nott'm Forest,Liverpool,2022-10-22,True,FWL,63,0.0,0.08,0.0,0.0,3,1.0,0.0,1.5,0,1,0,False,1.5,0.02,51.6,2.0,0.0,0.78,0.46,0.08,1.0,Nott'm Forest,False,Arsenal,1.87
+Jesse Lingard,Nott'm Forest,Arsenal,2022-10-30,False,FWL,55,0.0,0.09,0.0,0.0,1,2.0,0.0,2.0,0,0,3,False,1.8,0.03,52.17,2.0,0.0,0.78,0.46,0.08,1.0,Nott'm Forest,True,Brentford,0.39
+Jesse Lingard,Nott'm Forest,Brentford,2022-11-05,True,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,1.6,0.04,46.29,2.0,0.0,0.78,0.46,0.08,3.0,Nott'm Forest,True,Crystal Palace,-0.57
+Jesse Lingard,Nott'm Forest,Crystal Palace,2022-11-12,True,FWL,80,0.0,0.13,0.0,0.08,3,1.0,1.0,1.6,0,1,0,True,1.8,0.04,50.5,2.0,0.0,0.78,0.46,0.08,1.0,Nott'm Forest,False,Manchester United,1.16
+Jesse Lingard,Nott'm Forest,Manchester United,2022-12-27,False,FW,52,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,2,True,2.2,0.06,50.67,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,True,Chelsea,0.18
+Jesse Lingard,Nott'm Forest,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.06,45.6,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,False,Southampton,-1.72
+Jesse Lingard,Nott'm Forest,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.04,41.45,2.0,0.0,0.78,0.46,0.08,6.0,Nott'm Forest,True,West Ham,-2.72
+Jesse Lingard,Nott'm Forest,West Ham,2022-08-14,True,AMC,90,0.0,0.13,0.0,0.09,6,1.0,2.0,4.5,0,1,0,False,1.0,0.03,45.5,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,True,Leeds United,-2.6
+Jesse Lingard,Nott'm Forest,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.05,42.0,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,False,Bournemouth,0.9
+Jesse Lingard,Nott'm Forest,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.03,39.0,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,True,Leicester City,-1.35
+Jesse Lingard,Nott'm Forest,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.03,36.4,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,False,Fulham,5.33
+Jesse Lingard,Nott'm Forest,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.03,34.12,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,True,Manchester City,-0.22
+Jesse Lingard,Nott'm Forest,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.03,32.12,2.0,0.0,0.78,0.46,0.08,1.0,Nott'm Forest,False,West Ham,3.49
+Jesse Lingard,Nott'm Forest,West Ham,2023-02-25,False,Sub,13,0.0,0.0,0.0,0.03,1,0.0,1.0,2.1,0,0,2,False,0.0,0.0,31.06,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,True,Everton,1.16
+Jesse Lingard,Nott'm Forest,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,29.42,2.0,0.0,0.78,0.46,0.08,1.0,Nott'm Forest,False,Tottenham,0.66
+Jesse Lingard,Nott'm Forest,Tottenham,2023-03-11,False,AMC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,2,True,0.2,0.0,30.2,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,True,Newcastle United,0.52
+Jesse Lingard,Nott'm Forest,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,28.76,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,True,Wolverhampton,-0.63
+Jesse Lingard,Nott'm Forest,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,27.45,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,False,Leicester City,1.63
+Jesse Lingard,Nott'm Forest,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,26.26,2.0,0.0,0.78,0.46,0.08,3.0,Nott'm Forest,False,Everton,2.01
+Jesse Lingard,Nott'm Forest,Everton,2022-08-20,False,AMC,83,0.0,0.0,0.0,0.02,3,0.0,1.0,2.1,0,1,0,False,0.2,0.0,28.62,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,False,Aston Villa,2.52
+Jesse Lingard,Nott'm Forest,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.0,27.48,2.0,0.0,0.78,0.46,0.08,1.0,Nott'm Forest,True,Manchester United,0.67
+Jesse Lingard,Nott'm Forest,Manchester United,2023-04-16,True,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.6,0.0,26.5,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,False,Liverpool,2.76
+Jesse Lingard,Nott'm Forest,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.0,25.52,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,True,Brighton,-1.91
+Jesse Lingard,Nott'm Forest,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.0,24.61,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,False,Brentford,1.33
+Jesse Lingard,Nott'm Forest,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.0,23.76,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,True,Southampton,-0.97
+Jesse Lingard,Nott'm Forest,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,22.97,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,False,Chelsea,-2.46
+Jesse Lingard,Nott'm Forest,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,22.23,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,True,Arsenal,-1.92
+Jesse Lingard,Nott'm Forest,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,21.53,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,False,Crystal Palace,0.85
+Jesse Lingard,Nott'm Forest,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,20.88,2.0,0.0,0.78,0.46,0.08,2.0,Nott'm Forest,True,Tottenham,4.06
+Jesse Lingard,Nott'm Forest,Tottenham,2022-08-28,True,FW,68,0.0,0.02,0.0,0.13,2,1.0,3.0,5.7,0,0,1,False,0.0,0.0,22.26,2.0,0.0,0.78,0.46,0.08,0.0,Nott'm Forest,False,Manchester City,4.87
+Jesse Lingard,Nott'm Forest,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,21.63,2.0,0.0,0.78,0.46,0.08,2.0,Nott'm Forest,True,Bournemouth,0.52
+Jesse Lingard,Nott'm Forest,Bournemouth,2022-09-03,True,AMC,66,0.0,0.06,0.0,0.05,2,2.0,1.0,3.5,0,0,2,False,0.4,0.0,22.86,2.0,0.0,0.78,0.46,0.08,1.0,Nott'm Forest,True,Fulham,-2.25
+Jesse Lingard,Nott'm Forest,Fulham,2022-09-16,True,Sub,27,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.8,0.02,22.97,2.0,0.0,0.78,0.46,0.08,1.0,Nott'm Forest,False,Leeds United,3.17
+Jesse Lingard,Nott'm Forest,Leeds United,2022-10-03,False,AML,68,0.0,0.11,0.0,0.0,1,1.0,0.0,1.9,0,0,3,False,1.0,0.02,24.16,2.0,0.0,0.78,0.46,0.08,,Wolves,False,Manchester United,0.79

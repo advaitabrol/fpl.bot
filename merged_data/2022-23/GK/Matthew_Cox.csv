@@ -1,8 +1,32 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Matthew Cox,Brentford,Aston Villa,2022-10-23,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0
-Matthew Cox,Brentford,Wolverhampton,2022-10-29,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0
-Matthew Cox,Brentford,Southampton,2023-02-04,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0
-Matthew Cox,Brentford,Crystal Palace,2023-02-18,True,0,0,0.0,0,0,0,0,False,0.1,False,0.0,0.0,0,0,0,0
-Matthew Cox,Brentford,Leeds United,2023-03-18,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0
-Matthew Cox,Brentford,Tottenham,2023-05-20,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0
-Matthew Cox,Brentford,Manchester City,2023-05-28,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty,saves_per_game,last_season_total_saves
+Matthew Cox,Brentford,Newcastle United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,True,Brighton,-0.72,0.0,0
+Matthew Cox,Brentford,Brighton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,True,Chelsea,-0.25,0.0,0
+Matthew Cox,Brentford,Chelsea,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,False,Aston Villa,2.08,0.0,0
+Matthew Cox,Brentford,Aston Villa,2022-10-23,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0,Brentford,True,Wolverhampton,2.5,0.0,0
+Matthew Cox,Brentford,Wolverhampton,2022-10-29,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0,Brentford,False,Nottingham Forest,1.35,0.0,0
+Matthew Cox,Brentford,Nottingham Forest,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,False,Manchester City,-0.6,0.0,0
+Matthew Cox,Brentford,Manchester City,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,True,Tottenham,-0.38,0.0,0
+Matthew Cox,Brentford,Tottenham,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,False,West Ham,-0.27,0.0,0
+Matthew Cox,Brentford,West Ham,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,True,Liverpool,-0.79,0.0,0
+Matthew Cox,Brentford,Liverpool,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,True,Bournemouth,-0.5,0.0,0
+Matthew Cox,Brentford,Bournemouth,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,False,Leicester City,-0.02,0.0,0
+Matthew Cox,Brentford,Leicester City,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,True,Southampton,-4.06,0.0,0
+Matthew Cox,Brentford,Southampton,2023-02-04,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0,Brentford,False,Arsenal,0.3,0.0,0
+Matthew Cox,Brentford,Arsenal,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,True,Crystal Palace,1.05,0.0,0
+Matthew Cox,Brentford,Crystal Palace,2023-02-18,True,0,0,0.0,0,0,0,0,False,0.1,False,0.0,0.0,0,0,0,0,Brentford,True,Fulham,0.44,0.0,0
+Matthew Cox,Brentford,Fulham,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,False,Everton,2.1,0.0,0
+Matthew Cox,Brentford,Everton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,False,Southampton,0.93,0.0,0
+Matthew Cox,Brentford,Southampton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,True,Leeds United,2.23,0.0,0
+Matthew Cox,Brentford,Leeds United,2023-03-18,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0,Brentford,False,Brighton,1.2,0.0,0
+Matthew Cox,Brentford,Brighton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,False,Manchester United,1.62,0.0,0
+Matthew Cox,Brentford,Manchester United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,True,Newcastle United,2.43,0.0,0
+Matthew Cox,Brentford,Newcastle United,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,False,Wolverhampton,-1.6,0.0,0
+Matthew Cox,Brentford,Wolverhampton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,True,Aston Villa,0.51,0.0,0
+Matthew Cox,Brentford,Aston Villa,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,False,Chelsea,-4.41,0.0,0
+Matthew Cox,Brentford,Chelsea,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,True,Nottingham Forest,-0.34,0.0,0
+Matthew Cox,Brentford,Nottingham Forest,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,False,Liverpool,3.48,0.0,0
+Matthew Cox,Brentford,Liverpool,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,True,West Ham,-1.97,0.0,0
+Matthew Cox,Brentford,West Ham,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,False,Tottenham,2.11,0.0,0
+Matthew Cox,Brentford,Tottenham,2023-05-20,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0,Brentford,True,Manchester City,1.02,0.0,0
+Matthew Cox,Brentford,Manchester City,2023-05-28,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0,Brentford,False,Bournemouth,0.55,0.0,0
+Matthew Cox,Brentford,Bournemouth,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0,Brentford,True,Tottenham,-0.38,0.0,0

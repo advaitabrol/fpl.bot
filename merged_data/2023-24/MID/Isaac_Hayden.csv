@@ -1,3 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Isaac Hayden,Newcastle,West Ham,2024-03-30,True,Sub,0,0,0,0,0,0,0,0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0
-Isaac Hayden,Newcastle,Brentford,2024-05-19,False,Sub,0,0,0,0,0,0,0,0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Isaac Hayden,Newcastle,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,False,Wolverhampton,0.77
+Isaac Hayden,Newcastle,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,True,Arsenal,-0.34
+Isaac Hayden,Newcastle,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,False,Bournemouth,1.83
+Isaac Hayden,Newcastle,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,True,Chelsea,-0.41
+Isaac Hayden,Newcastle,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,True,Manchester United,-1.44
+Isaac Hayden,Newcastle,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,False,Everton,1.08
+Isaac Hayden,Newcastle,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,False,Tottenham,3.36
+Isaac Hayden,Newcastle,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,True,Fulham,-0.43
+Isaac Hayden,Newcastle,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,False,Luton,3.07
+Isaac Hayden,Newcastle,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,True,Nottingham Forest,2.13
+Isaac Hayden,Newcastle,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,False,Manchester City,2.91
+Isaac Hayden,Newcastle,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,False,Liverpool,2.07
+Isaac Hayden,Newcastle,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,True,Manchester City,3.23
+Isaac Hayden,Newcastle,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,False,Aston Villa,2.1
+Isaac Hayden,Newcastle,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,True,Luton,2.48
+Isaac Hayden,Newcastle,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,False,Nottingham Forest,0.98
+Isaac Hayden,Newcastle,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,True,Bournemouth,2.0
+Isaac Hayden,Newcastle,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,False,Arsenal,1.52
+Isaac Hayden,Newcastle,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,True,Wolverhampton,-2.13
+Isaac Hayden,Newcastle,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,False,Chelsea,0.97
+Isaac Hayden,Newcastle,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,True,Liverpool,1.54
+Isaac Hayden,Newcastle,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,True,West Ham,0.92
+Isaac Hayden,Newcastle,West Ham,2024-03-30,True,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,True,Everton,-2.28
+Isaac Hayden,Newcastle,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,False,Fulham,-1.79
+Isaac Hayden,Newcastle,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,True,Tottenham,-3.04
+Isaac Hayden,Newcastle,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,False,Crystal Palace,0.54
+Isaac Hayden,Newcastle,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,True,Sheffield,-0.96
+Isaac Hayden,Newcastle,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,False,Burnley,-1.63
+Isaac Hayden,Newcastle,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,True,Brighton,-2.35
+Isaac Hayden,Newcastle,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,False,Manchester United,0.69
+Isaac Hayden,Newcastle,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,False,Brentford,-1.1
+Isaac Hayden,Newcastle,Brentford,2024-05-19,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,False,Brighton,0.38
+Isaac Hayden,Newcastle,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,True,Brentford,-2.07
+Isaac Hayden,Newcastle,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,False,Sheffield,-6.83
+Isaac Hayden,Newcastle,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,True,Burnley,-2.77
+Isaac Hayden,Newcastle,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,False,West Ham,0.28
+Isaac Hayden,Newcastle,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Newcastle,True,Crystal Palace,-2.12
+Isaac Hayden,Newcastle,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,,,,,

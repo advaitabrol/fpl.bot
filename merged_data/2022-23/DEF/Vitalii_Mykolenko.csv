@@ -1,35 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Vitalii Mykolenko,Everton,Chelsea,2022-08-06,True,DL,90,0,0.09,0,0.08,1,1,1,3.3,0,0,1,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,1
-Vitalii Mykolenko,Everton,Manchester United,2022-10-09,True,DL,90,0,0.0,0,0.0,1,0,0,3.1,0,0,2,0.0,False,1.0,0.09,90.0,0.0,0,0,0,0,0
-Vitalii Mykolenko,Everton,Tottenham,2022-10-15,False,DC,90,0,0.0,0,0.0,0,0,0,1.2,0,0,2,0.0,False,1.0,0.04,90.0,0.0,0,0,0,0,2
-Vitalii Mykolenko,Everton,Newcastle United,2022-10-19,False,DL,90,0,0.0,0,0.0,2,0,0,0.6,0,0,1,0.0,False,0.67,0.03,90.0,0.0,0,0,0,0,11
-Vitalii Mykolenko,Everton,Crystal Palace,2022-10-22,True,DL,90,0,0.08,0,0.0,11,1,0,3.5,2,1,0,0.0,False,1.0,0.02,90.0,0.2,0,0,0,0,6
-Vitalii Mykolenko,Everton,Fulham,2022-10-29,False,DL,90,0,0.0,0,0.04,6,0,1,5.3,0,1,0,0.0,False,3.0,0.03,90.0,0.33,0,0,0,0,1
-Vitalii Mykolenko,Everton,Leeds United,2022-11-05,True,DL,90,0,0.0,0,0.07,1,0,1,5.6,0,0,2,0.0,False,4.0,0.02,90.0,0.29,0,0,0,0,0
-Vitalii Mykolenko,Everton,Bournemouth,2022-11-12,False,DL,28,0,0.0,0,0.0,0,0,0,0.3,0,0,2,1.36,True,4.0,0.02,82.25,0.29,0,0,0,0,1
-Vitalii Mykolenko,Everton,Wolverhampton,2022-12-26,True,DL,90,0,0.02,0,0.0,1,1,0,1.5,0,0,2,0.71,True,4.0,0.02,83.11,0.25,0,0,0,0,2
-Vitalii Mykolenko,Everton,Manchester City,2022-12-31,False,DL,90,0,0.0,0,0.0,2,0,0,1.9,0,0,1,2.04,True,3.8,0.02,83.8,0.22,0,0,0,0,0
-Vitalii Mykolenko,Everton,Brighton,2023-01-03,True,DL,90,0,0.0,0,0.09,0,0,2,4.5,0,0,4,2.2,True,2.0,0.0,84.36,0.2,0,0,0,0,1
-Vitalii Mykolenko,Everton,Aston Villa,2022-08-13,False,DML,90,0,0.0,0,0.07,1,0,2,4.7,0,0,2,0.0,False,0.8,0.0,84.83,0.18,0,0,0,0,1
-Vitalii Mykolenko,Everton,Southampton,2023-01-14,True,DML,90,0,0.0,0,0.28,1,0,1,3.4,0,0,2,1.24,True,0.8,0.0,85.23,0.17,0,0,0,0,0
-Vitalii Mykolenko,Everton,West Ham,2023-01-21,False,DML,45,0,0.0,0,0.0,0,0,0,0.7,0,0,2,1.51,True,1.0,0.0,82.36,0.17,0,0,0,0,5
-Vitalii Mykolenko,Everton,Arsenal,2023-02-04,True,DL,90,0,0.01,0,0.0,5,1,0,1.9,0,1,0,0.86,True,0.8,0.0,82.87,0.23,0,0,0,0,1
-Vitalii Mykolenko,Everton,Liverpool,2023-02-13,False,DL,90,0,0.0,0,0.03,1,0,1,3.2,0,0,2,2.19,True,1.4,0.0,83.31,0.21,0,0,0,0,6
-Vitalii Mykolenko,Everton,Leicester City,2023-02-18,True,DL,90,0,0.06,0,0.05,6,1,1,6.5,0,1,0,0.6,True,1.6,0.0,83.71,0.27,0,0,0,0,1
-Vitalii Mykolenko,Everton,Aston Villa,2023-02-25,True,DL,90,0,0.0,0,0.13,1,0,2,5.6,0,0,2,1.94,True,2.6,0.01,84.06,0.25,0,0,0,0,0
-Vitalii Mykolenko,Everton,Arsenal,2023-03-01,False,DL,90,0,0.0,0,0.0,0,0,0,1.4,0,0,4,2.79,True,2.6,0.01,84.37,0.24,0,0,0,0,1
-Vitalii Mykolenko,Everton,Brentford,2023-03-11,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.11,False,2.6,0.01,80.2,0.24,0,0,0,0,1
-Vitalii Mykolenko,Everton,Chelsea,2023-03-18,False,Sub,6,0,0.0,0,0.0,1,0,0,0.3,0,0,0,0.38,False,1.8,0.01,76.67,0.24,0,0,0,0,1
-Vitalii Mykolenko,Everton,Tottenham,2023-04-03,True,Sub,13,0,0.05,0,0.0,1,1,0,2.0,0,0,0,0.14,False,1.8,0.01,73.77,0.24,0,0,0,0,2
-Vitalii Mykolenko,Everton,Nottingham Forest,2022-08-20,True,DML,90,0,0.0,0,0.03,2,0,1,2.3,0,0,1,0.0,False,0.8,0.01,74.48,0.22,0,0,0,0,1
-Vitalii Mykolenko,Everton,Manchester United,2023-04-08,False,Sub,45,0,0.0,0,0.0,1,0,0,1.2,0,0,1,0.77,False,1.0,0.01,73.25,0.22,0,0,0,0,0
-Vitalii Mykolenko,Everton,Fulham,2023-04-15,True,DL,90,0,0.05,0,0.02,0,1,1,3.2,0,0,3,1.83,True,1.2,0.01,73.92,0.21,0,0,0,0,8
-Vitalii Mykolenko,Everton,Crystal Palace,2023-04-22,False,DL,90,0,0.0,0,0.0,8,0,0,1.8,2,1,0,0.49,True,1.0,0.02,74.54,0.25,0,0,0,0,0
-Vitalii Mykolenko,Everton,Newcastle United,2023-04-27,True,DL,90,0,0.0,0,0.02,0,0,1,0.0,0,0,4,2.44,True,2.4,0.02,75.11,0.24,0,0,0,0,1
-Vitalii Mykolenko,Everton,Leeds United,2023-05-01,False,DL,90,0,0.0,0,0.0,1,0,0,1.3,0,0,2,3.46,True,2.2,0.01,75.64,0.23,0,0,0,0,2
-Vitalii Mykolenko,Everton,Brighton,2023-05-08,False,DL,90,0,0.0,0,0.0,2,0,0,2.5,0,0,1,3.26,True,2.0,0.01,76.14,0.22,0,0,0,0,2
-Vitalii Mykolenko,Everton,Brentford,2022-08-27,False,DML,85,0,0.3,0,0.05,2,1,1,4.8,0,0,1,0.0,False,2.2,0.01,76.43,0.21,0,0,0,0,2
-Vitalii Mykolenko,Everton,Leicester City,2022-08-30,False,DL,90,0,0.01,0,0.0,2,1,0,2.8,0,0,1,0.0,False,2.6,0.06,76.87,0.2,0,0,0,0,6
-Vitalii Mykolenko,Everton,Liverpool,2022-09-03,True,DL,90,0,0.0,0,0.0,6,0,0,2.3,0,1,0,0.0,False,1.4,0.06,77.28,0.23,0,0,0,0,6
-Vitalii Mykolenko,Everton,West Ham,2022-09-18,True,DL,90,0,0.01,0,0.02,6,1,1,3.7,0,1,0,0.0,False,2.6,0.06,77.67,0.26,0,0,0,0,2
-Vitalii Mykolenko,Everton,Southampton,2022-10-01,False,DL,90,0,0.0,0,0.05,2,0,1,4.6,0,0,1,0.0,False,3.6,0.07,78.03,0.25,0,0,0,0,8
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Vitalii Mykolenko,Everton,Chelsea,2022-08-06,True,DL,90,0.0,0.09,0.0,0.08,1,1.0,1.0,3.3,0,0,1,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,1,Everton,True,Manchester United,0.93
+Vitalii Mykolenko,Everton,Manchester United,2022-10-09,True,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.1,0,0,2,0.0,False,1.0,0.09,90.0,0.0,0,0,0,0,0,Everton,False,Tottenham,2.99
+Vitalii Mykolenko,Everton,Tottenham,2022-10-15,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.2,0,0,2,0.0,False,1.0,0.04,90.0,0.0,0,0,0,0,2,Everton,False,Newcastle United,1.81
+Vitalii Mykolenko,Everton,Newcastle United,2022-10-19,False,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,0,1,0.0,False,0.67,0.03,90.0,0.0,0,0,0,0,11,Everton,True,Crystal Palace,-1.89
+Vitalii Mykolenko,Everton,Crystal Palace,2022-10-22,True,DL,90,0.0,0.08,0.0,0.0,11,1.0,0.0,3.5,2,1,0,0.0,False,1.0,0.02,90.0,0.2,0,0,0,0,6,Everton,False,Fulham,-0.21
+Vitalii Mykolenko,Everton,Fulham,2022-10-29,False,DL,90,0.0,0.0,0.0,0.04,6,0.0,1.0,5.3,0,1,0,0.0,False,3.0,0.03,90.0,0.33,0,0,0,0,1,Everton,True,Leeds United,0.49
+Vitalii Mykolenko,Everton,Leeds United,2022-11-05,True,DL,90,0.0,0.0,0.0,0.07,1,0.0,1.0,5.6,0,0,2,0.0,False,4.0,0.02,90.0,0.29,0,0,0,0,0,Everton,False,Bournemouth,4.39
+Vitalii Mykolenko,Everton,Bournemouth,2022-11-12,False,DL,28,0.0,0.0,0.0,0.0,0,0.0,0.0,0.3,0,0,2,1.36,True,4.0,0.02,82.25,0.29,0,0,0,0,1,Everton,True,Wolverhampton,1.62
+Vitalii Mykolenko,Everton,Wolverhampton,2022-12-26,True,DL,90,0.0,0.02,0.0,0.0,1,1.0,0.0,1.5,0,0,2,0.71,True,4.0,0.02,83.11,0.25,0,0,0,0,2,Everton,False,Manchester City,0.69
+Vitalii Mykolenko,Everton,Manchester City,2022-12-31,False,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,2.04,True,3.8,0.02,83.8,0.22,0,0,0,0,0,Everton,True,Brighton,0.33
+Vitalii Mykolenko,Everton,Brighton,2023-01-03,True,DL,90,0.0,0.0,0.0,0.09,0,0.0,2.0,4.5,0,0,4,2.2,True,2.0,0.0,84.36,0.2,0,0,0,0,1,Everton,False,Aston Villa,3.22
+Vitalii Mykolenko,Everton,Aston Villa,2022-08-13,False,DML,90,0.0,0.0,0.0,0.07,1,0.0,2.0,4.7,0,0,2,0.0,False,0.8,0.0,84.83,0.18,0,0,0,0,1,Everton,True,Southampton,-2.71
+Vitalii Mykolenko,Everton,Southampton,2023-01-14,True,DML,90,0.0,0.0,0.0,0.28,1,0.0,1.0,3.4,0,0,2,1.24,True,0.8,0.0,85.23,0.17,0,0,0,0,0,Everton,False,West Ham,2.5
+Vitalii Mykolenko,Everton,West Ham,2023-01-21,False,DML,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.7,0,0,2,1.51,True,1.0,0.0,82.36,0.17,0,0,0,0,5,Everton,True,Arsenal,-2.09
+Vitalii Mykolenko,Everton,Arsenal,2023-02-04,True,DL,90,0.0,0.01,0.0,0.0,5,1.0,0.0,1.9,0,1,0,0.86,True,0.8,0.0,82.87,0.23,0,0,0,0,1,Everton,False,Liverpool,1.94
+Vitalii Mykolenko,Everton,Liverpool,2023-02-13,False,DL,90,0.0,0.0,0.0,0.03,1,0.0,1.0,3.2,0,0,2,2.19,True,1.4,0.0,83.31,0.21,0,0,0,0,6,Everton,True,Leicester City,-3.7
+Vitalii Mykolenko,Everton,Leicester City,2023-02-18,True,DL,90,0.0,0.06,0.0,0.05,6,1.0,1.0,6.5,0,1,0,0.6,True,1.6,0.0,83.71,0.27,0,0,0,0,1,Everton,True,Aston Villa,1.41
+Vitalii Mykolenko,Everton,Aston Villa,2023-02-25,True,DL,90,0.0,0.0,0.0,0.13,1,0.0,2.0,5.6,0,0,2,1.94,True,2.6,0.01,84.06,0.25,0,0,0,0,0,Everton,False,Arsenal,2.52
+Vitalii Mykolenko,Everton,Arsenal,2023-03-01,False,DL,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.4,0,0,4,2.79,True,2.6,0.01,84.37,0.24,0,0,0,0,0,Everton,False,Nottingham Forest,0.07
+Vitalii Mykolenko,Everton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.6,0.01,80.15,0.24,0,0,0,0,1,Everton,True,Brentford,-2.0
+Vitalii Mykolenko,Everton,Brentford,2023-03-11,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.11,False,1.6,0.01,76.38,0.24,0,0,0,0,1,Everton,False,Chelsea,1.97
+Vitalii Mykolenko,Everton,Chelsea,2023-03-18,False,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.38,False,1.6,0.01,73.18,0.24,0,0,0,0,1,Everton,True,Tottenham,-0.33
+Vitalii Mykolenko,Everton,Tottenham,2023-04-03,True,Sub,13,0.0,0.05,0.0,0.0,1,1.0,0.0,2.0,0,0,0,0.14,False,0.6,0.0,70.57,0.24,0,0,0,0,2,Everton,True,Nottingham Forest,-0.72
+Vitalii Mykolenko,Everton,Nottingham Forest,2022-08-20,True,DML,90,0.0,0.0,0.0,0.03,2,0.0,1.0,2.3,0,0,1,0.0,False,0.6,0.01,71.38,0.22,0,0,0,0,1,Everton,False,Manchester United,1.96
+Vitalii Mykolenko,Everton,Manchester United,2023-04-08,False,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,1,0.77,False,1.0,0.01,70.32,0.22,0,0,0,0,0,Everton,True,Fulham,2.03
+Vitalii Mykolenko,Everton,Fulham,2023-04-15,True,DL,90,0.0,0.05,0.0,0.02,0,1.0,1.0,3.2,0,0,3,1.83,True,1.2,0.01,71.08,0.21,0,0,0,0,8,Everton,False,Crystal Palace,-0.42
+Vitalii Mykolenko,Everton,Crystal Palace,2023-04-22,False,DL,90,0.0,0.0,0.0,0.0,8,0.0,0.0,1.8,2,1,0,0.49,True,1.0,0.02,71.78,0.25,0,0,0,0,0,Everton,True,Newcastle United,-0.27
+Vitalii Mykolenko,Everton,Newcastle United,2023-04-27,True,DL,90,0.0,0.0,0.0,0.02,0,0.0,1.0,0.0,0,0,4,2.44,True,2.4,0.02,72.43,0.24,0,0,0,0,1,Everton,False,Leeds United,-1.47
+Vitalii Mykolenko,Everton,Leeds United,2023-05-01,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,2,3.46,True,2.2,0.01,73.03,0.23,0,0,0,0,2,Everton,False,Brighton,-3.42
+Vitalii Mykolenko,Everton,Brighton,2023-05-08,False,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.5,0,0,1,3.26,True,2.0,0.01,73.6,0.22,0,0,0,0,0,Everton,True,Manchester City,1.75
+Vitalii Mykolenko,Everton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.01,71.23,0.22,0,0,0,0,0,Everton,False,Wolverhampton,1.67
+Vitalii Mykolenko,Everton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.0,69.0,0.22,0,0,0,0,0,Everton,True,Bournemouth,-4.02
+Vitalii Mykolenko,Everton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,66.91,0.22,0,0,0,0,2,Everton,False,Brentford,0.08
+Vitalii Mykolenko,Everton,Brentford,2022-08-27,False,DML,85,0.0,0.3,0.0,0.05,2,1.0,1.0,4.8,0,0,1,0.0,False,0.6,0.0,67.44,0.21,0,0,0,0,2,Everton,False,Leicester City,-1.63
+Vitalii Mykolenko,Everton,Leicester City,2022-08-30,False,DL,90,0.0,0.01,0.0,0.0,2,1.0,0.0,2.8,0,0,1,0.0,False,0.8,0.06,68.09,0.2,0,0,0,0,6,Everton,True,Liverpool,-1.2
+Vitalii Mykolenko,Everton,Liverpool,2022-09-03,True,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.3,0,1,0,0.0,False,0.8,0.06,68.69,0.23,0,0,0,0,6,Everton,True,West Ham,1.45
+Vitalii Mykolenko,Everton,West Ham,2022-09-18,True,DL,90,0.0,0.01,0.0,0.02,6,1.0,1.0,3.7,0,1,0,0.0,False,2.0,0.06,69.27,0.26,0,0,0,0,2,Everton,False,Southampton,1.08
+Vitalii Mykolenko,Everton,Southampton,2022-10-01,False,DL,90,0.0,0.0,0.0,0.05,2,0.0,1.0,4.6,0,0,1,0.0,False,3.2,0.07,69.82,0.25,0,0,0,0,0,Everton,True,Fulham,2.03

@@ -1,1 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Rob Holding,Arsenal,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,True,Tottenham,0.68
+Rob Holding,Crystal Palace,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,False,Burnley,-0.94
+Rob Holding,Crystal Palace,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,True,Everton,0.47
+Rob Holding,Crystal Palace,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,False,Luton,2.09
+Rob Holding,Crystal Palace,Luton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,False,West Ham,0.38
+Rob Holding,Crystal Palace,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,True,Bournemouth,0.86
+Rob Holding,Crystal Palace,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,True,Liverpool,0.92
+Rob Holding,Crystal Palace,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,False,Manchester City,-0.8
+Rob Holding,Crystal Palace,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,True,Brighton,-0.29
+Rob Holding,Crystal Palace,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,False,Chelsea,2.48
+Rob Holding,Crystal Palace,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Arsenal,False,Crystal Palace,-0.5
+Rob Holding,Arsenal,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,True,Brentford,0.35
+Rob Holding,Crystal Palace,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,False,Arsenal,3.89
+Rob Holding,Crystal Palace,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,True,Sheffield,-0.69
+Rob Holding,Crystal Palace,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,False,Brighton,2.17
+Rob Holding,Crystal Palace,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,True,Chelsea,1.46
+Rob Holding,Crystal Palace,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,False,Everton,2.96
+Rob Holding,Crystal Palace,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,True,Burnley,-1.28
+Rob Holding,Crystal Palace,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,False,Tottenham,3.43
+Rob Holding,Crystal Palace,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,True,Luton,-0.01
+Rob Holding,Crystal Palace,Luton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Arsenal,True,Fulham,0.88
+Rob Holding,Arsenal,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,False,Nottingham Forest,1.76
+Rob Holding,Crystal Palace,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,False,Bournemouth,0.25
+Rob Holding,Crystal Palace,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,True,Manchester City,1.02
+Rob Holding,Crystal Palace,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,False,Liverpool,1.18
+Rob Holding,Crystal Palace,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,True,West Ham,0.94
+Rob Holding,Crystal Palace,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,True,Newcastle United,0.03
+Rob Holding,Crystal Palace,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,False,Fulham,1.13
+Rob Holding,Crystal Palace,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,True,Manchester United,-1.44
+Rob Holding,Crystal Palace,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,False,Wolverhampton,-0.93
+Rob Holding,Crystal Palace,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,True,Aston Villa,-0.88
+Rob Holding,Crystal Palace,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Arsenal,True,Manchester United,-2.18
+Rob Holding,Arsenal,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,False,Aston Villa,1.69
+Rob Holding,Crystal Palace,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,True,Fulham,2.42
+Rob Holding,Crystal Palace,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,False,Manchester United,0.01
+Rob Holding,Crystal Palace,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,True,Nottingham Forest,1.11
+Rob Holding,Crystal Palace,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,0.0,Crystal Palace,False,Newcastle United,3.58
+Rob Holding,Crystal Palace,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.38,0.0,11.0,0.0,,,,,

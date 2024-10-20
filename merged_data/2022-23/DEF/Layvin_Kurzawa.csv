@@ -1,4 +1,34 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Layvin Kurzawa,Fulham,Newcastle United,2023-01-15,False,DL,90,0,0.0,0,0.0,1,0,0,1.9,0,0,1,2.13,True,0.0,0.0,90.0,0.0,0,0,0,0,1
-Layvin Kurzawa,Fulham,Chelsea,2023-02-03,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.15,False,1.0,0.0,45.5,0.0,0,0,0,0,0
-Layvin Kurzawa,Fulham,Newcastle United,2022-10-01,True,DL,45,0,0.0,0,0.0,0,0,0,0.6,0,0,3,0.0,False,1.0,0.0,45.33,0.0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Layvin Kurzawa,Fulham,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Fulham,True,Bournemouth,-0.74
+Layvin Kurzawa,Fulham,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Fulham,True,Aston Villa,-0.63
+Layvin Kurzawa,Fulham,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Fulham,False,Leicester City,-2.72
+Layvin Kurzawa,Fulham,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Fulham,True,Everton,0.79
+Layvin Kurzawa,Fulham,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Fulham,False,Manchester City,1.5
+Layvin Kurzawa,Fulham,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Fulham,True,Manchester United,1.36
+Layvin Kurzawa,Fulham,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Fulham,False,Crystal Palace,-1.05
+Layvin Kurzawa,Fulham,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Fulham,True,Southampton,-0.67
+Layvin Kurzawa,Fulham,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Fulham,False,Leeds United,-2.01
+Layvin Kurzawa,Fulham,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Fulham,True,Chelsea,1.22
+Layvin Kurzawa,Fulham,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1.0,Fulham,False,Newcastle United,1.64
+Layvin Kurzawa,Fulham,Newcastle United,2023-01-15,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,1,2.13,True,0.0,0.0,7.5,0.0,0,0,0,0,0.0,Fulham,True,Tottenham,-0.89
+Layvin Kurzawa,Fulham,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,6.92,0.0,0,0,0,0,1.0,Fulham,False,Chelsea,0.71
+Layvin Kurzawa,Fulham,Chelsea,2023-02-03,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.15,False,0.2,0.0,6.5,0.0,0,0,0,0,0.0,Fulham,True,Nottingham Forest,-3.99
+Layvin Kurzawa,Fulham,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,6.07,0.0,0,0,0,0,0.0,Fulham,False,Brighton,-0.55
+Layvin Kurzawa,Fulham,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,5.69,0.0,0,0,0,0,0.0,Fulham,True,Wolverhampton,0.52
+Layvin Kurzawa,Fulham,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,5.35,0.0,0,0,0,0,0.0,Fulham,False,Brentford,0.07
+Layvin Kurzawa,Fulham,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,5.06,0.0,0,0,0,0,0.0,Fulham,True,Arsenal,0.97
+Layvin Kurzawa,Fulham,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.79,0.0,0,0,0,0,0.0,Fulham,False,Bournemouth,3.99
+Layvin Kurzawa,Fulham,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.55,0.0,0,0,0,0,0.0,Fulham,True,West Ham,-0.79
+Layvin Kurzawa,Fulham,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.33,0.0,0,0,0,0,0.0,Fulham,False,Everton,-0.93
+Layvin Kurzawa,Fulham,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.14,0.0,0,0,0,0,0.0,Fulham,True,Leicester City,-2.18
+Layvin Kurzawa,Fulham,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.96,0.0,0,0,0,0,0.0,Fulham,False,Aston Villa,2.57
+Layvin Kurzawa,Fulham,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.79,0.0,0,0,0,0,0.0,Fulham,True,Manchester City,2.68
+Layvin Kurzawa,Fulham,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.64,0.0,0,0,0,0,0.0,Fulham,False,Liverpool,0.28
+Layvin Kurzawa,Fulham,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.5,0.0,0,0,0,0,0.0,Fulham,True,Leeds United,0.24
+Layvin Kurzawa,Fulham,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.37,0.0,0,0,0,0,0.0,Fulham,False,Southampton,-1.16
+Layvin Kurzawa,Fulham,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.25,0.0,0,0,0,0,0.0,Fulham,True,Crystal Palace,0.27
+Layvin Kurzawa,Fulham,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.14,0.0,0,0,0,0,0.0,Fulham,False,Manchester United,0.13
+Layvin Kurzawa,Fulham,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.03,0.0,0,0,0,0,0.0,Fulham,False,Tottenham,1.6
+Layvin Kurzawa,Fulham,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.94,0.0,0,0,0,0,0.0,Fulham,False,Nottingham Forest,1.93
+Layvin Kurzawa,Fulham,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.84,0.0,0,0,0,0,0.0,Fulham,True,Newcastle United,3.13
+Layvin Kurzawa,Fulham,Newcastle United,2022-10-01,True,DL,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.6,0,0,3,0.0,False,0.0,0.0,4.12,0.0,0,0,0,0,,Nott'm Forest,False,Arsenal,1.87

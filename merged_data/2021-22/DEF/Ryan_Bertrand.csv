@@ -1,5 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
-Ryan Bertrand,Leicester,Manchester City,2021-09-11,True,DL,90,0,0.0,0,0.0,2,0,0,1.7,0,0,1,0.0,0.0,90.0,0.0
-Ryan Bertrand,Leicester,Brighton,2021-09-19,False,DL,67,0,0.0,0,0.0,1,0,0,1.4,0,0,2,2.0,0.0,78.5,0.0
-Ryan Bertrand,Leicester,Burnley,2021-09-25,True,DL,90,0,0.0,0,0.0,1,0,0,2.0,0,0,2,1.5,0.0,82.33,0.0
-Ryan Bertrand,Leicester,Crystal Palace,2021-10-03,False,DL,90,0,0.0,0,0.0,0,0,0,2.1,0,0,2,1.33,0.0,84.25,0.0
+Ryan Bertrand,Leicester,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Watford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Norwich,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Norwich,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Watford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Ryan Bertrand,Leicester,Manchester City,2021-09-11,True,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.7,0,0,1,0.0,0.0,2.73,0.0
+Ryan Bertrand,Leicester,Brighton,2021-09-19,False,DL,67,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,2,0.4,0.0,4.62,0.0
+Ryan Bertrand,Leicester,Burnley,2021-09-25,True,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.0,0,0,2,0.6,0.0,7.06,0.0
+Ryan Bertrand,Leicester,Crystal Palace,2021-10-03,False,DL,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.1,0,0,2,0.8,0.0,9.36,0.0
+Ryan Bertrand,Leicester,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.8,0.0,9.11,0.0
+Ryan Bertrand,Leicester,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.8,0.0,8.87,0.0

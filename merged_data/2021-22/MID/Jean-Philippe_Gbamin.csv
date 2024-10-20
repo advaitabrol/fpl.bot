@@ -1,9 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
-Jean-Philippe Gbamin,Everton,Wolverhampton,2021-11-01,False,MC,45,0,0.0,0,0.0,1,0,0,0.3,0,0,2,0.0,0.0,45.0
-Jean-Philippe Gbamin,Everton,Tottenham,2021-11-07,True,Sub,1,0,0.0,0,0.0,1,0,0,0.2,0,0,0,1.0,0.0,23.0
-Jean-Philippe Gbamin,Everton,Chelsea,2021-12-16,False,Sub,19,0,0.0,0,0.0,1,0,0,0.3,0,0,0,1.0,0.0,21.67
-Jean-Philippe Gbamin,Everton,Manchester City,2022-02-26,True,MC,0,0,0.04,0,0.0,0,2,0,0.0,0,0,0,1.0,0.0,16.25
-Jean-Philippe Gbamin,Everton,West Ham,2022-04-03,False,MC,0,0,0.85,0,0.11,0,3,3,0.0,0,0,0,0.75,0.01,13.0
-Jean-Philippe Gbamin,Everton,Manchester United,2022-04-09,True,MC,0,0,0.01,0,0.0,0,1,0,0.0,0,0,0,0.6,0.18,10.83
-Jean-Philippe Gbamin,Everton,Liverpool,2022-04-24,False,DMC,0,0,0.02,0,0.05,0,1,1,0.0,0,0,0,0.4,0.18,9.29
-Jean-Philippe Gbamin,Everton,Chelsea,2022-05-01,True,DMC,0,0,0.01,0,0.0,0,1,0,0.0,0,0,0,0.2,0.18,8.12
+Jean-Philippe Gbamin,Everton,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Jean-Philippe Gbamin,Everton,Wolverhampton,2021-11-01,False,MC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,2,0.0,0.0,22.5
+Jean-Philippe Gbamin,Everton,Tottenham,2021-11-07,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.5,0.0,15.33
+Jean-Philippe Gbamin,Everton,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.67,0.0,11.5
+Jean-Philippe Gbamin,Everton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.5,0.0,9.2
+Jean-Philippe Gbamin,Everton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,7.67
+Jean-Philippe Gbamin,Everton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,6.57
+Jean-Philippe Gbamin,Everton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,5.75
+Jean-Philippe Gbamin,Everton,Chelsea,2021-12-16,False,Sub,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,0.0,7.22
+Jean-Philippe Gbamin,Everton,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,6.5
+Jean-Philippe Gbamin,Everton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,5.91
+Jean-Philippe Gbamin,Everton,Norwich,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,5.42
+Jean-Philippe Gbamin,Everton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,5.0
+Jean-Philippe Gbamin,Everton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,4.64
+Jean-Philippe Gbamin,Everton,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,4.33
+Jean-Philippe Gbamin,Everton,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,4.06
+Jean-Philippe Gbamin,Everton,Manchester City,2022-02-26,True,MC,0,0.0,0.04,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0.0,3.82
+Jean-Philippe Gbamin,Everton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.01,3.61
+Jean-Philippe Gbamin,Everton,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.01,3.42
+Jean-Philippe Gbamin,Everton,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.01,3.25
+Jean-Philippe Gbamin,Everton,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.01,3.1
+Jean-Philippe Gbamin,Everton,West Ham,2022-04-03,False,MC,0,0.0,0.85,0.0,0.11,0,3.0,3.0,0.0,0,0,0,0.0,0.01,2.95
+Jean-Philippe Gbamin,Everton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.17,2.83
+Jean-Philippe Gbamin,Everton,Manchester United,2022-04-09,True,MC,0,0.0,0.01,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0.17,2.71
+Jean-Philippe Gbamin,Everton,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.17,2.6
+Jean-Philippe Gbamin,Everton,Liverpool,2022-04-24,False,DMC,0,0.0,0.02,0.0,0.05,0,1.0,1.0,0.0,0,0,0,0.0,0.17,2.5
+Jean-Philippe Gbamin,Everton,Chelsea,2022-05-01,True,DMC,0,0.0,0.01,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0.18,2.41
+Jean-Philippe Gbamin,Everton,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.01,2.32
+Jean-Philippe Gbamin,Everton,Watford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.01,2.24
+Jean-Philippe Gbamin,Everton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.01,2.17
+Jean-Philippe Gbamin,Everton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.01,2.1
+Jean-Philippe Gbamin,Everton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,2.03
+Jean-Philippe Gbamin,Everton,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,1.97
+Jean-Philippe Gbamin,Everton,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,1.91
+Jean-Philippe Gbamin,Everton,Norwich,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,1.86
+Jean-Philippe Gbamin,Everton,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,1.81
+Jean-Philippe Gbamin,Everton,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,1.76
+Jean-Philippe Gbamin,Everton,Watford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,1.71

@@ -1,6 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Divin Mubama,West Ham,Burnley,2023-11-25,False,Sub,28,0,0.0,0,0.0,1,0,0,0.0,0,False,0.0,0.0,28.0,0,0,0,0.06,0.08,1
-Divin Mubama,West Ham,Fulham,2023-12-10,False,Sub,26,0,0.05,0,0.0,1,1,0,0.7,0,False,1.0,0.0,27.0,0,0,0,0.06,0.08,1
-Divin Mubama,West Ham,Wolverhampton,2023-12-17,True,Sub,3,0,0.0,0,0.0,1,0,0,0.0,0,False,1.0,0.03,19.0,0,0,0,0.06,0.08,1
-Divin Mubama,West Ham,Brighton,2024-01-02,True,Sub,17,0,0.0,0,0.0,1,0,0,0.0,0,False,1.0,0.02,18.5,0,0,0,0.06,0.08,1
-Divin Mubama,West Ham,Sheffield,2024-01-21,False,Sub,1,0,0.0,0,0.0,1,0,0,0.1,0,False,1.0,0.01,15.0,0,0,0,0.06,0.08,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Divin Mubama,West Ham,Bournemouth,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,True,Everton,-1.58
+Divin Mubama,West Ham,Everton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,False,Brentford,3.32
+Divin Mubama,West Ham,Brentford,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,True,Nottingham Forest,-3.27
+Divin Mubama,West Ham,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.08,1.0,West Ham,False,Burnley,-0.34
+Divin Mubama,West Ham,Burnley,2023-11-25,False,Sub,28,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,0.0,0.0,5.6,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,True,Crystal Palace,1.39
+Divin Mubama,West Ham,Crystal Palace,,True,,0,,,,,0,,,0.0,0,False,0.2,0.0,4.67,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,False,Tottenham,1.24
+Divin Mubama,West Ham,Tottenham,,False,,0,,,,,0,,,0.0,0,False,0.2,0.0,4.0,0.0,0.0,0.0,0.06,0.08,1.0,West Ham,False,Fulham,1.3
+Divin Mubama,West Ham,Fulham,2023-12-10,False,Sub,26,0.0,0.05,0.0,0.0,1,1.0,0.0,0.7,0,False,0.2,0.0,6.75,0.0,0.0,0.0,0.06,0.08,1.0,West Ham,True,Wolverhampton,-2.4
+Divin Mubama,West Ham,Wolverhampton,2023-12-17,True,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,0.4,0.01,6.33,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,True,Manchester United,-1.91
+Divin Mubama,West Ham,Manchester United,,True,,0,,,,,0,,,0.0,0,False,0.6,0.01,5.7,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,False,Arsenal,-0.04
+Divin Mubama,West Ham,Arsenal,,False,,0,,,,,0,,,0.0,0,False,0.4,0.01,5.18,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,True,Chelsea,-2.62
+Divin Mubama,West Ham,Chelsea,,True,,0,,,,,0,,,0.0,0,False,0.4,0.01,4.75,0.0,0.0,0.0,0.06,0.08,1.0,West Ham,True,Brighton,0.78
+Divin Mubama,West Ham,Brighton,2024-01-02,True,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,0.4,0.01,5.69,0.0,0.0,0.0,0.06,0.08,1.0,West Ham,False,Sheffield,-0.61
+Divin Mubama,West Ham,Sheffield,2024-01-21,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,False,0.4,0.0,5.36,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,True,Bournemouth,-1.59
+Divin Mubama,West Ham,Bournemouth,,True,,0,,,,,0,,,0.0,0,False,0.4,0.0,5.0,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,False,Manchester United,1.98
+Divin Mubama,West Ham,Manchester United,,False,,0,,,,,0,,,0.0,0,False,0.4,0.0,4.69,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,True,Arsenal,2.39
+Divin Mubama,West Ham,Arsenal,,True,,0,,,,,0,,,0.0,0,False,0.4,0.0,4.41,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,False,Nottingham Forest,2.77
+Divin Mubama,West Ham,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,False,0.4,0.0,4.17,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,True,Brentford,1.03
+Divin Mubama,West Ham,Brentford,,True,,0,,,,,0,,,0.0,0,False,0.2,0.0,3.95,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,False,Everton,-0.77
+Divin Mubama,West Ham,Everton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,3.75,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,True,Burnley,-0.01
+Divin Mubama,West Ham,Burnley,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,3.57,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,True,Aston Villa,-0.86
+Divin Mubama,West Ham,Aston Villa,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,3.41,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,False,Brighton,0.97
+Divin Mubama,West Ham,Brighton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,3.26,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,False,Newcastle United,-0.16
+Divin Mubama,West Ham,Newcastle United,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,3.12,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,True,Tottenham,-2.05
+Divin Mubama,West Ham,Tottenham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,3.0,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,False,Wolverhampton,1.36
+Divin Mubama,West Ham,Wolverhampton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,2.88,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,True,Fulham,-1.16
+Divin Mubama,West Ham,Fulham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,2.78,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,False,Crystal Palace,0.59
+Divin Mubama,West Ham,Crystal Palace,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,2.68,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,True,Liverpool,-1.57
+Divin Mubama,West Ham,Liverpool,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,2.59,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,False,Chelsea,2.45
+Divin Mubama,West Ham,Chelsea,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,2.5,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,True,Luton,-4.51
+Divin Mubama,West Ham,Luton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,2.42,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,False,Manchester City,1.66
+Divin Mubama,West Ham,Manchester City,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,2.34,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,False,Luton,0.92
+Divin Mubama,West Ham,Luton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,2.27,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,True,Manchester City,1.25
+Divin Mubama,West Ham,Manchester City,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,2.21,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,False,Liverpool,0.54
+Divin Mubama,West Ham,Liverpool,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,2.14,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,True,Sheffield,-1.28
+Divin Mubama,West Ham,Sheffield,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,2.08,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,True,Newcastle United,1.05
+Divin Mubama,West Ham,Newcastle United,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,2.03,0.0,0.0,0.0,0.06,0.08,0.0,West Ham,False,Aston Villa,-0.5
+Divin Mubama,West Ham,Aston Villa,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,1.97,0.0,0.0,0.0,0.06,0.08,,,,,

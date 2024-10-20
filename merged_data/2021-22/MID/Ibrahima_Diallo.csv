@@ -1,24 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
-Ibrahima Diallo,Southampton,Everton,2021-08-14,False,Sub,10,0,0.06,0,0.0,1,1,0,2.0,0,0,1,0.0,0.0,10.0
-Ibrahima Diallo,Southampton,Watford,2021-10-30,False,Sub,10,0,0.0,0,0.0,1,0,0,0.3,0,0,0,1.0,0.06,10.0
-Ibrahima Diallo,Southampton,Aston Villa,2021-11-05,True,Sub,14,0,0.0,0,0.0,1,0,0,0.0,0,0,0,1.0,0.03,11.33
-Ibrahima Diallo,Southampton,Norwich,2021-11-20,False,MR,90,0,0.0,0,0.17,2,0,2,5.2,0,0,2,1.0,0.02,31.0
-Ibrahima Diallo,Southampton,Arsenal,2021-12-11,False,MC,90,0,0.0,0,0.0,2,0,0,1.0,0,0,3,1.25,0.01,42.8
-Ibrahima Diallo,Southampton,West Ham,2021-12-26,False,Sub,1,0,0.0,0,0.03,1,0,1,1.2,0,0,0,1.4,0.01,35.83
-Ibrahima Diallo,Southampton,Manchester United,2021-08-22,True,Sub,20,0,0.0,0,0.0,1,0,0,0.2,0,0,0,1.4,0.0,33.57
-Ibrahima Diallo,Southampton,Tottenham,2021-12-28,True,MC,90,0,0.0,0,0.09,2,0,3,5.4,0,0,1,1.4,0.0,40.62
-Ibrahima Diallo,Southampton,Brentford,2022-01-11,True,MC,90,0,0.06,1,0.39,11,2,3,9.3,3,0,1,1.6,0.0,46.11
-Ibrahima Diallo,Southampton,Wolverhampton,2022-01-15,False,MC,45,0,0.0,0,0.01,1,0,1,1.6,0,0,1,3.4,0.21,46.0
-Ibrahima Diallo,Southampton,Manchester City,2022-01-22,True,Sub,8,0,0.04,0,0.0,1,1,0,1.3,0,0,0,3.2,0.21,42.55
-Ibrahima Diallo,Southampton,Tottenham,2022-02-09,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,3.2,0.22,39.08
-Ibrahima Diallo,Southampton,Manchester United,2022-02-12,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,3.2,0.22,36.15
-Ibrahima Diallo,Southampton,Aston Villa,2022-03-05,False,Sub,14,0,0.0,0,0.05,1,0,2,2.6,0,0,0,3.0,0.22,34.57
-Ibrahima Diallo,Southampton,Newcastle United,2021-08-28,False,Sub,2,0,0.0,0,0.0,1,0,0,0.6,0,0,1,1.0,0.01,32.4
-Ibrahima Diallo,Southampton,Leicester City,2022-04-02,False,MC,90,0,0.02,0,0.0,2,1,0,2.8,0,0,1,1.0,0.01,36.0
-Ibrahima Diallo,Southampton,Chelsea,2022-04-09,True,Sub,45,0,0.0,0,0.0,1,0,0,0.5,0,0,2,1.2,0.0,36.53
-Ibrahima Diallo,Southampton,Brentford,2022-05-07,False,MC,63,0,0.0,0,0.11,1,0,2,4.0,0,0,2,1.2,0.0,38.0
-Ibrahima Diallo,Southampton,Liverpool,2022-05-17,True,MC,70,0,0.0,0,0.0,2,0,0,0.6,0,0,2,1.2,0.0,39.68
-Ibrahima Diallo,Southampton,West Ham,2021-09-11,True,Sub,37,0,0.12,0,0.0,1,1,0,0.7,0,0,0,1.4,0.0,39.55
-Ibrahima Diallo,Southampton,Chelsea,2021-10-02,False,Sub,45,0,0.0,0,0.09,1,0,1,1.5,0,0,2,1.4,0.03,39.81
-Ibrahima Diallo,Southampton,Leicester City,2021-10-16,True,MC,90,0,0.0,0,0.0,3,0,0,1.3,0,1,0,1.2,0.02,42.09
-Ibrahima Diallo,Southampton,Burnley,2021-10-23,True,MC,90,0,0.04,1,0.11,5,2,1,4.5,0,0,2,1.6,0.02,44.17
+Ibrahima Diallo,Southampton,Everton,2021-08-14,False,Sub,10,0.0,0.06,0.0,0.0,1,1.0,0.0,2.0,0,0,1,0.0,0.0,10.0
+Ibrahima Diallo,Southampton,Watford,2021-10-30,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,1.0,0.06,10.0
+Ibrahima Diallo,Southampton,Aston Villa,2021-11-05,True,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,1.0,0.03,11.33
+Ibrahima Diallo,Southampton,Norwich,2021-11-20,False,MR,90,0.0,0.0,0.0,0.17,2,0.0,2.0,5.2,0,0,2,1.0,0.02,31.0
+Ibrahima Diallo,Southampton,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,1.25,0.01,24.8
+Ibrahima Diallo,Southampton,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,1.0,0.01,20.67
+Ibrahima Diallo,Southampton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.8,0.0,17.71
+Ibrahima Diallo,Southampton,Arsenal,2021-12-11,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.0,0,0,3,0.6,0.0,26.75
+Ibrahima Diallo,Southampton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.8,0.0,23.78
+Ibrahima Diallo,Southampton,West Ham,2021-12-26,False,Sub,1,0.0,0.0,0.0,0.03,1,0.0,1.0,1.2,0,0,0,0.4,0.0,21.5
+Ibrahima Diallo,Southampton,Manchester United,2021-08-22,True,Sub,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.6,0.0,21.36
+Ibrahima Diallo,Southampton,Tottenham,2021-12-28,True,MC,90,0.0,0.0,0.0,0.09,2,0.0,3.0,5.4,0,0,1,0.8,0.0,27.08
+Ibrahima Diallo,Southampton,Brentford,2022-01-11,True,MC,90,0.0,0.06,1.0,0.39,11,2.0,3.0,9.3,3,0,1,1.2,0.0,31.92
+Ibrahima Diallo,Southampton,Wolverhampton,2022-01-15,False,MC,45,0.0,0.0,0.0,0.01,1,0.0,1.0,1.6,0,0,1,3.0,0.21,32.86
+Ibrahima Diallo,Southampton,Manchester City,2022-01-22,True,Sub,8,0.0,0.04,0.0,0.0,1,1.0,0.0,1.3,0,0,0,3.2,0.21,31.2
+Ibrahima Diallo,Southampton,Tottenham,2022-02-09,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,3.2,0.22,29.31
+Ibrahima Diallo,Southampton,Manchester United,2022-02-12,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,3.2,0.22,27.65
+Ibrahima Diallo,Southampton,Everton,,True,,0,,,,,0,,,0.0,0,0,0,3.0,0.22,26.11
+Ibrahima Diallo,Southampton,Norwich,,True,,0,,,,,0,,,0.0,0,0,0,0.8,0.01,24.74
+Ibrahima Diallo,Southampton,Aston Villa,2022-03-05,False,Sub,14,0.0,0.0,0.0,0.05,1,0.0,2.0,2.6,0,0,0,0.6,0.01,24.2
+Ibrahima Diallo,Southampton,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.6,0.0,23.05
+Ibrahima Diallo,Southampton,Watford,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,22.0
+Ibrahima Diallo,Southampton,Newcastle United,2021-08-28,False,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,0.2,0.0,21.13
+Ibrahima Diallo,Southampton,Leicester City,2022-04-02,False,MC,90,0.0,0.02,0.0,0.0,2,1.0,0.0,2.8,0,0,1,0.4,0.0,24.0
+Ibrahima Diallo,Southampton,Chelsea,2022-04-09,True,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,2,0.8,0.0,24.84
+Ibrahima Diallo,Southampton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.8,0.0,23.88
+Ibrahima Diallo,Southampton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.8,0.0,23.0
+Ibrahima Diallo,Southampton,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.8,0.0,22.18
+Ibrahima Diallo,Southampton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.6,0.0,21.41
+Ibrahima Diallo,Southampton,Brentford,2022-05-07,False,MC,63,0.0,0.0,0.0,0.11,1,0.0,2.0,4.0,0,0,2,0.2,0.0,22.8
+Ibrahima Diallo,Southampton,Liverpool,2022-05-17,True,MC,70,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,0,2,0.2,0.0,24.32
+Ibrahima Diallo,Southampton,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.6,0.0,23.56
+Ibrahima Diallo,Southampton,West Ham,2021-09-11,True,Sub,37,0.0,0.12,0.0,0.0,1,1.0,0.0,0.7,0,0,0,0.6,0.0,23.97
+Ibrahima Diallo,Southampton,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.8,0.02,23.26
+Ibrahima Diallo,Southampton,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.8,0.02,22.6
+Ibrahima Diallo,Southampton,Chelsea,2021-10-02,False,Sub,45,0.0,0.0,0.0,0.09,1,0.0,1.0,1.5,0,0,2,0.6,0.02,23.22
+Ibrahima Diallo,Southampton,Leicester City,2021-10-16,True,MC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.3,0,1,0,0.4,0.02,25.03
+Ibrahima Diallo,Southampton,Burnley,2021-10-23,True,MC,90,0.0,0.04,1.0,0.11,5,2.0,1.0,4.5,0,0,2,1.0,0.02,26.74

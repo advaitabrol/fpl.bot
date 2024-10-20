@@ -1,10 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Oriol Romeu Vidal,Southampton,Tottenham,2022-08-06,False,MC,74,0,0.0,0,0.0,2,0,0,1.2,0,0,4,False,0.0,0.0,74.0,2,2,1.49,3.07,0.03,0
-Oriol Romeu Vidal,Southampton,Manchester City,2022-10-08,False,MC,0,0,0.09,0,0.02,0,2,1,0.0,0,0,0,False,2.0,0.0,37.0,2,2,1.49,3.07,0.03,0
-Oriol Romeu Vidal,Southampton,Arsenal,2022-10-23,True,MC,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,1.0,0.05,24.67,2,2,1.49,3.07,0.03,0
-Oriol Romeu Vidal,Southampton,Everton,2023-01-14,False,MC,0,0,0.49,0,0.0,0,2,0,0.0,0,0,0,False,0.67,0.03,18.5,2,2,1.49,3.07,0.03,0
-Oriol Romeu Vidal,Southampton,Leeds United,2023-03-04,True,DMC,0,0,0.0,0,0.06,0,0,2,0.0,0,0,0,False,0.5,0.14,14.8,2,2,1.49,3.07,0.03,0
-Oriol Romeu Vidal,Southampton,Tottenham,2023-03-18,True,DMC,0,0,0.0,0,0.02,0,0,1,0.0,0,0,0,False,0.4,0.12,12.33,2,2,1.49,3.07,0.03,0
-Oriol Romeu Vidal,Southampton,Fulham,2023-05-13,True,DMC,0,0,0.02,0,0.04,0,1,1,0.0,0,0,0,False,0.0,0.12,10.57,2,2,1.49,3.07,0.03,0
-Oriol Romeu Vidal,Southampton,Liverpool,2023-05-28,True,DMC,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.1,9.25,2,2,1.49,3.07,0.03,0
-Oriol Romeu Vidal,Southampton,Wolverhampton,2022-09-03,False,MC,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.1,8.22,2,2,1.49,3.07,0.03,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Oriol Romeu Vidal,Southampton,Tottenham,2022-08-06,False,MC,74,0.0,0.0,0.0,0.0,2,0.0,0.0,1.2,0,0,4,False,0.0,0.0,74.0,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,False,Manchester City,3.44
+Oriol Romeu Vidal,Southampton,Manchester City,2022-10-08,False,MC,0,0.0,0.09,0.0,0.02,0,2.0,1.0,0.0,0,0,0,False,2.0,0.0,37.0,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,True,West Ham,-0.03
+Oriol Romeu Vidal,Southampton,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.05,24.67,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,False,Bournemouth,-0.76
+Oriol Romeu Vidal,Southampton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.67,0.03,18.5,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,True,Arsenal,-1.15
+Oriol Romeu Vidal,Southampton,Arsenal,2022-10-23,True,MC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.5,0.02,14.8,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,False,Crystal Palace,1.04
+Oriol Romeu Vidal,Southampton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.02,12.33,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,True,Newcastle United,3.01
+Oriol Romeu Vidal,Southampton,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.02,10.57,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,False,Liverpool,4.09
+Oriol Romeu Vidal,Southampton,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,9.25,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,True,Brighton,0.98
+Oriol Romeu Vidal,Southampton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.22,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,False,Fulham,1.81
+Oriol Romeu Vidal,Southampton,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.4,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,True,Nottingham Forest,3.03
+Oriol Romeu Vidal,Southampton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.73,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,True,Leicester City,-1.16
+Oriol Romeu Vidal,Southampton,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.17,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,False,Everton,2.07
+Oriol Romeu Vidal,Southampton,Everton,2023-01-14,False,MC,0,0.0,0.49,0.0,0.0,0,2.0,0.0,0.0,0,0,0,False,0.0,0.0,5.69,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,True,Aston Villa,0.29
+Oriol Romeu Vidal,Southampton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.1,5.29,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,False,Brentford,4.79
+Oriol Romeu Vidal,Southampton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.1,4.93,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,True,Wolverhampton,2.57
+Oriol Romeu Vidal,Southampton,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.1,4.62,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,False,Chelsea,0.51
+Oriol Romeu Vidal,Southampton,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.1,4.35,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,False,Leicester City,-0.79
+Oriol Romeu Vidal,Southampton,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.1,4.11,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,True,Leeds United,-1.21
+Oriol Romeu Vidal,Southampton,Leeds United,2023-03-04,True,DMC,0,0.0,0.0,0.0,0.06,0,0.0,2.0,0.0,0,0,0,False,0.0,0.0,3.89,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,False,Manchester United,0.89
+Oriol Romeu Vidal,Southampton,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.7,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,True,Brentford,0.03
+Oriol Romeu Vidal,Southampton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.52,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,True,Tottenham,0.56
+Oriol Romeu Vidal,Southampton,Tottenham,2023-03-18,True,DMC,0,0.0,0.0,0.0,0.02,0,0.0,1.0,0.0,0,0,0,False,0.0,0.0,3.36,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,False,West Ham,0.0
+Oriol Romeu Vidal,Southampton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.22,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,False,Leeds United,0.71
+Oriol Romeu Vidal,Southampton,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.08,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,True,Manchester City,0.1
+Oriol Romeu Vidal,Southampton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.96,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,True,Crystal Palace,2.32
+Oriol Romeu Vidal,Southampton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.85,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,False,Arsenal,0.71
+Oriol Romeu Vidal,Southampton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.74,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,True,Bournemouth,2.76
+Oriol Romeu Vidal,Southampton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.64,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,False,Newcastle United,1.29
+Oriol Romeu Vidal,Southampton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.55,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,False,Nottingham Forest,1.95
+Oriol Romeu Vidal,Southampton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.47,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,True,Fulham,2.66
+Oriol Romeu Vidal,Southampton,Fulham,2023-05-13,True,DMC,0,0.0,0.02,0.0,0.04,0,1.0,1.0,0.0,0,0,0,False,0.0,0.0,2.39,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,False,Brighton,1.32
+Oriol Romeu Vidal,Southampton,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.31,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,True,Liverpool,-0.47
+Oriol Romeu Vidal,Southampton,Liverpool,2023-05-28,True,DMC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,2.24,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,True,Manchester United,1.12
+Oriol Romeu Vidal,Southampton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.18,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,True,Chelsea,1.45
+Oriol Romeu Vidal,Southampton,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.11,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,False,Wolverhampton,2.86
+Oriol Romeu Vidal,Southampton,Wolverhampton,2022-09-03,False,MC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,2.06,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,False,Aston Villa,3.18
+Oriol Romeu Vidal,Southampton,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.0,2.0,2.0,1.49,3.07,0.03,0.0,Southampton,True,Everton,0.11
+Oriol Romeu Vidal,Southampton,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.95,2.0,2.0,1.49,3.07,0.03,,Nott'm Forest,False,Arsenal,1.87

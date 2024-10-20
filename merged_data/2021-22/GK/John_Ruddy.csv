@@ -1,3 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,form,clean_sheet_probability
-John Ruddy,Wolves,Norwich,2022-05-15,True,90,1,1,0,2,0,False,0,0.0,0.0
-John Ruddy,Wolves,Liverpool,2022-05-22,False,45,2,3,0,1,0,False,0,2.0,0.0
+name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,form,clean_sheet_probability,saves_per_game
+John Ruddy,Wolves,Leeds United,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Everton,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Crystal Palace,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,West Ham,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Norwich,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Burnley,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Liverpool,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Manchester City,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Brighton,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Chelsea,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Tottenham,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Manchester United,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Southampton,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Brentford,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Arsenal,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Tottenham,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Leeds United,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Arsenal,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,West Ham,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Crystal Palace,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Watford,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Everton,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Manchester United,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Leicester City,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Aston Villa,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Newcastle United,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Burnley,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Brighton,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Chelsea,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Manchester City,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+John Ruddy,Wolves,Norwich,2022-05-15,True,90,1,1,0,2,0,False,0.0,0.0,0.0,0.03
+John Ruddy,Wolves,Liverpool,2022-05-22,False,45,2,3,0,1,0,False,0.0,0.4,0.0,0.12
+John Ruddy,Wolves,Watford,,False,0,0,0,0,0,0,False,,0.6,0.0,0.12
+John Ruddy,Wolves,Brentford,,True,0,0,0,0,0,0,False,,0.6,0.0,0.12
+John Ruddy,Wolves,Southampton,,False,0,0,0,0,0,0,False,,0.6,0.0,0.11
+John Ruddy,Wolves,Newcastle United,,True,0,0,0,0,0,0,False,,0.6,0.0,0.11
+John Ruddy,Wolves,Aston Villa,,False,0,0,0,0,0,0,False,,0.2,0.0,0.11
+John Ruddy,Wolves,Leicester City,,False,0,0,0,0,0,0,False,,0.0,0.0,0.11

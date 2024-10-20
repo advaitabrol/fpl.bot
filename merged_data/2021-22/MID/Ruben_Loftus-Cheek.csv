@@ -1,25 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
-Ruben Loftus-Cheek,Chelsea,Newcastle United,2021-10-30,False,Sub,26,0,0.09,0,0.0,4,1,0,2.7,0,0,0,0.0,0.0,26.0
-Ruben Loftus-Cheek,Chelsea,Burnley,2021-11-06,True,Sub,17,0,0.0,0,0.0,1,0,0,0.5,0,0,1,4.0,0.09,21.5
-Ruben Loftus-Cheek,Chelsea,Leeds United,2021-11-20,False,Sub,13,0,0.0,0,0.0,1,0,0,0.3,0,0,0,2.5,0.05,18.67
-Ruben Loftus-Cheek,Chelsea,Manchester United,2021-11-28,True,MC,90,0,0.13,0,0.0,2,2,0,2.5,0,0,1,2.0,0.03,36.5
-Ruben Loftus-Cheek,Chelsea,Watford,2021-12-01,False,MC,90,0,0.05,0,0.05,2,1,1,2.8,0,0,1,2.0,0.06,47.2
-Ruben Loftus-Cheek,Chelsea,West Ham,2021-12-04,False,MC,90,0,0.09,0,0.12,2,2,2,8.1,0,0,3,2.0,0.05,54.33
-Ruben Loftus-Cheek,Chelsea,Leicester City,2021-12-11,True,MC,90,0,0.1,0,0.0,2,3,0,5.5,0,0,2,1.6,0.05,59.43
-Ruben Loftus-Cheek,Chelsea,Everton,2021-12-16,True,MC,64,0,0.12,0,0.0,2,1,0,1.5,0,1,0,1.8,0.07,60.0
-Ruben Loftus-Cheek,Chelsea,Crystal Palace,2022-02-19,False,Sub,16,0,0.0,0,0.0,1,0,0,0.0,0,0,0,2.0,0.1,55.11
-Ruben Loftus-Cheek,Chelsea,Burnley,2022-03-05,False,Sub,20,0,0.0,0,0.0,1,0,0,0.3,0,0,0,1.8,0.07,51.6
-Ruben Loftus-Cheek,Chelsea,Norwich,2022-03-10,False,Sub,45,0,0.0,0,0.14,1,0,1,2.6,0,0,1,1.6,0.06,51.0
-Ruben Loftus-Cheek,Chelsea,Brentford,2022-04-02,True,MC,90,0,0.02,0,0.06,2,1,2,5.7,0,0,4,1.4,0.04,54.25
-Ruben Loftus-Cheek,Chelsea,Southampton,2022-04-09,False,MR,90,0,0.03,0,0.15,3,1,1,6.1,0,1,0,1.4,0.03,57.0
-Ruben Loftus-Cheek,Chelsea,Arsenal,2022-04-20,True,MC,90,0,0.0,0,0.06,2,0,1,4.0,0,0,4,1.6,0.01,59.36
-Ruben Loftus-Cheek,Chelsea,West Ham,2022-04-24,True,MR,75,0,0.0,0,0.22,3,0,4,8.8,0,1,0,1.8,0.01,60.4
-Ruben Loftus-Cheek,Chelsea,Manchester United,2022-04-28,False,Sub,8,0,0.0,0,0.0,1,0,0,0.6,0,0,0,2.2,0.01,57.12
-Ruben Loftus-Cheek,Chelsea,Everton,2022-05-01,False,MC,90,0,0.08,0,0.41,2,2,1,5.6,0,0,1,2.2,0.01,59.06
-Ruben Loftus-Cheek,Chelsea,Wolverhampton,2022-05-07,True,MC,90,0,0.0,0,0.0,2,0,0,2.0,0,0,2,2.2,0.02,60.78
-Ruben Loftus-Cheek,Chelsea,Leicester City,2022-05-11,False,Sub,60,0,0.05,0,0.08,3,1,1,2.5,0,1,0,2.0,0.02,60.74
-Ruben Loftus-Cheek,Chelsea,Leeds United,2022-05-19,True,Sub,18,0,0.0,0,0.09,1,0,1,1.8,0,0,0,2.2,0.03,58.6
-Ruben Loftus-Cheek,Chelsea,Manchester City,2021-09-25,True,Sub,14,0,0.0,0,0.0,1,0,0,0.4,0,0,0,1.8,0.03,56.48
-Ruben Loftus-Cheek,Chelsea,Southampton,2021-10-02,True,MC,82,0,0.11,1,0.63,6,2,2,5.9,1,0,1,1.8,0.03,57.64
-Ruben Loftus-Cheek,Chelsea,Brentford,2021-10-16,False,MC,90,0,0.0,0,0.0,3,0,0,3.3,0,1,0,2.6,0.23,59.04
-Ruben Loftus-Cheek,Chelsea,Norwich,2021-10-23,True,Sub,26,0,0.07,1,0.55,4,2,1,5.7,0,0,0,2.8,0.23,57.67
+Ruben Loftus-Cheek,Chelsea,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Ruben Loftus-Cheek,Chelsea,Newcastle United,2021-10-30,False,Sub,26,0.0,0.09,0.0,0.0,4,1.0,0.0,2.7,0,0,0,0.0,0.0,13.0
+Ruben Loftus-Cheek,Chelsea,Burnley,2021-11-06,True,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1,2.0,0.05,14.33
+Ruben Loftus-Cheek,Chelsea,Leeds United,2021-11-20,False,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,1.67,0.03,14.0
+Ruben Loftus-Cheek,Chelsea,Manchester United,2021-11-28,True,MC,90,0.0,0.13,0.0,0.0,2,2.0,0.0,2.5,0,0,1,1.5,0.02,29.2
+Ruben Loftus-Cheek,Chelsea,Watford,2021-12-01,False,MC,90,0.0,0.05,0.0,0.05,2,1.0,1.0,2.8,0,0,1,1.6,0.05,39.33
+Ruben Loftus-Cheek,Chelsea,West Ham,2021-12-04,False,MC,90,0.0,0.09,0.0,0.12,2,2.0,2.0,8.1,0,0,3,2.0,0.05,46.57
+Ruben Loftus-Cheek,Chelsea,Leicester City,2021-12-11,True,MC,90,0.0,0.1,0.0,0.0,2,3.0,0.0,5.5,0,0,2,1.6,0.05,52.0
+Ruben Loftus-Cheek,Chelsea,Everton,2021-12-16,True,MC,64,0.0,0.12,0.0,0.0,2,1.0,0.0,1.5,0,1,0,1.8,0.07,53.33
+Ruben Loftus-Cheek,Chelsea,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,2.0,0.1,48.0
+Ruben Loftus-Cheek,Chelsea,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,1.6,0.07,43.64
+Ruben Loftus-Cheek,Chelsea,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,1.2,0.06,40.0
+Ruben Loftus-Cheek,Chelsea,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.8,0.04,36.92
+Ruben Loftus-Cheek,Chelsea,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.02,34.29
+Ruben Loftus-Cheek,Chelsea,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,32.0
+Ruben Loftus-Cheek,Chelsea,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,30.0
+Ruben Loftus-Cheek,Chelsea,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,28.24
+Ruben Loftus-Cheek,Chelsea,Crystal Palace,2022-02-19,False,Sub,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0.0,27.56
+Ruben Loftus-Cheek,Chelsea,Burnley,2022-03-05,False,Sub,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.2,0.0,27.16
+Ruben Loftus-Cheek,Chelsea,Norwich,2022-03-10,False,Sub,45,0.0,0.0,0.0,0.14,1,0.0,1.0,2.6,0,0,1,0.4,0.0,28.05
+Ruben Loftus-Cheek,Chelsea,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.6,0.0,26.71
+Ruben Loftus-Cheek,Chelsea,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.6,0.0,25.5
+Ruben Loftus-Cheek,Chelsea,Brentford,2022-04-02,True,MC,90,0.0,0.02,0.0,0.06,2,1.0,2.0,5.7,0,0,4,0.6,0.0,28.3
+Ruben Loftus-Cheek,Chelsea,Southampton,2022-04-09,False,MR,90,0.0,0.03,0.0,0.15,3,1.0,1.0,6.1,0,1,0,0.8,0.0,30.88
+Ruben Loftus-Cheek,Chelsea,Arsenal,2022-04-20,True,MC,90,0.0,0.0,0.0,0.06,2,0.0,1.0,4.0,0,0,4,1.2,0.01,33.24
+Ruben Loftus-Cheek,Chelsea,West Ham,2022-04-24,True,MR,75,0.0,0.0,0.0,0.22,3,0.0,4.0,8.8,0,1,0,1.4,0.01,34.85
+Ruben Loftus-Cheek,Chelsea,Manchester United,2022-04-28,False,Sub,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,2.0,0.01,33.85
+Ruben Loftus-Cheek,Chelsea,Everton,2022-05-01,False,MC,90,0.0,0.08,0.0,0.41,2,2.0,1.0,5.6,0,0,1,2.2,0.01,35.86
+Ruben Loftus-Cheek,Chelsea,Wolverhampton,2022-05-07,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,2,2.2,0.02,37.72
+Ruben Loftus-Cheek,Chelsea,Leicester City,2022-05-11,False,Sub,60,0.0,0.05,0.0,0.08,3,1.0,1.0,2.5,0,1,0,2.0,0.02,38.47
+Ruben Loftus-Cheek,Chelsea,Leeds United,2022-05-19,True,Sub,18,0.0,0.0,0.0,0.09,1,0.0,1.0,1.8,0,0,0,2.2,0.03,37.81
+Ruben Loftus-Cheek,Chelsea,Watford,,True,,0,,,,,0,,,0.0,0,0,0,1.8,0.03,36.62
+Ruben Loftus-Cheek,Chelsea,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,1.6,0.03,35.52
+Ruben Loftus-Cheek,Chelsea,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,1.2,0.01,34.47
+Ruben Loftus-Cheek,Chelsea,Manchester City,2021-09-25,True,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.8,0.01,33.89
+Ruben Loftus-Cheek,Chelsea,Southampton,2021-10-02,True,MC,82,0.0,0.11,1.0,0.63,6,2.0,2.0,5.9,1,0,1,0.4,0.0,35.22
+Ruben Loftus-Cheek,Chelsea,Brentford,2021-10-16,False,MC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,3.3,0,1,0,1.4,0.22,36.7
+Ruben Loftus-Cheek,Chelsea,Norwich,2021-10-23,True,Sub,26,0.0,0.07,1.0,0.55,4,2.0,1.0,5.7,0,0,0,2.0,0.22,36.42

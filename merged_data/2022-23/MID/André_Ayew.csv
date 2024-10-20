@@ -1,14 +1,19 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-André Ayew,Nott'm Forest,Leicester City,2023-02-05,True,Sub,1,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,0.0,0.0,1.0,0,0,0,0,0,1
-André Ayew,Nott'm Forest,Fulham,2023-02-11,False,Sub,27,0,0.0,0,0.0,1,0,0,0.2,0,0,1,False,1.0,0.0,14.0,0,0,0,0,0,1
-André Ayew,Nott'm Forest,Manchester City,2023-02-18,True,Sub,32,0,0.0,0,0.0,1,0,0,0.5,0,0,0,False,1.0,0.0,20.0,0,0,0,0,0,1
-André Ayew,Nott'm Forest,West Ham,2023-02-25,False,Sub,23,0,0.14,0,0.0,1,1,0,1.4,0,0,4,False,1.0,0.0,20.75,0,0,0,0,0,1
-André Ayew,Nott'm Forest,Everton,2023-03-05,True,Sub,19,0,0.06,0,0.0,1,1,0,2.3,0,0,0,False,1.0,0.03,20.4,0,0,0,0,0,-1
-André Ayew,Nott'm Forest,Tottenham,2023-03-11,False,Sub,45,0,0.76,0,0.0,-1,1,0,2.4,0,0,1,False,1.0,0.04,24.5,0,0,0,0,0,2
-André Ayew,Nott'm Forest,Newcastle United,2023-03-17,True,FW,78,0,0.0,0,0.0,2,0,0,0.5,0,0,1,True,0.6,0.19,32.14,0,0,0,0,0,1
-André Ayew,Nott'm Forest,Leicester City,2023-04-04,False,Sub,19,0,0.04,0,0.0,1,1,0,0.8,0,0,0,False,0.8,0.19,30.5,0,0,0,0,0,1
-André Ayew,Nott'm Forest,Aston Villa,2023-04-08,False,Sub,12,0,0.0,0,0.0,1,0,0,0.2,0,0,1,False,0.8,0.2,28.44,0,0,0,0,0,1
-André Ayew,Nott'm Forest,Liverpool,2023-04-22,False,Sub,3,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,0.8,0.17,25.9,0,0,0,0,0,1
-André Ayew,Nott'm Forest,Brighton,2023-04-26,True,Sub,10,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,0.8,0.16,24.45,0,0,0,0,0,0
-André Ayew,Nott'm Forest,Brentford,2023-04-29,False,Sub,36,0,0.0,0,0.03,0,0,1,1.8,0,0,2,False,1.2,0.01,25.42,0,0,0,0,0,1
-André Ayew,Nott'm Forest,Crystal Palace,2023-05-28,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,0.8,0.01,23.54,0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+André Ayew,Nott'm Forest,Leicester City,2023-02-05,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,0.0,0.0,1.0,0,0,0,0,0,1.0,Nott'm Forest,False,Fulham,5.33
+André Ayew,Nott'm Forest,Fulham,2023-02-11,False,Sub,27,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,False,1.0,0.0,14.0,0,0,0,0,0,1.0,Nott'm Forest,True,Manchester City,-0.22
+André Ayew,Nott'm Forest,Manchester City,2023-02-18,True,Sub,32,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,1.0,0.0,20.0,0,0,0,0,0,1.0,Nott'm Forest,False,West Ham,3.49
+André Ayew,Nott'm Forest,West Ham,2023-02-25,False,Sub,23,0.0,0.14,0.0,0.0,1,1.0,0.0,1.4,0,0,4,False,1.0,0.0,20.75,0,0,0,0,0,1.0,Nott'm Forest,True,Everton,1.16
+André Ayew,Nott'm Forest,Everton,2023-03-05,True,Sub,19,0.0,0.06,0.0,0.0,1,1.0,0.0,2.3,0,0,0,False,1.0,0.03,20.4,0,0,0,0,0,-1.0,Nott'm Forest,False,Tottenham,0.66
+André Ayew,Nott'm Forest,Tottenham,2023-03-11,False,Sub,45,0.0,0.76,0.0,0.0,-1,1.0,0.0,2.4,0,0,1,False,1.0,0.04,24.5,0,0,0,0,0,2.0,Nott'm Forest,True,Newcastle United,0.52
+André Ayew,Nott'm Forest,Newcastle United,2023-03-17,True,FW,78,0.0,0.0,0.0,0.0,2,0.0,0.0,0.5,0,0,1,True,0.6,0.19,32.14,0,0,0,0,0,0.0,Nott'm Forest,True,Wolverhampton,-0.63
+André Ayew,Nott'm Forest,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.19,28.12,0,0,0,0,0,1.0,Nott'm Forest,False,Leicester City,1.63
+André Ayew,Nott'm Forest,Leicester City,2023-04-04,False,Sub,19,0.0,0.04,0.0,0.0,1,1.0,0.0,0.8,0,0,0,False,0.6,0.19,27.11,0,0,0,0,0,1.0,Nott'm Forest,False,Aston Villa,2.52
+André Ayew,Nott'm Forest,Aston Villa,2023-04-08,False,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,False,0.6,0.17,25.6,0,0,0,0,0,0.0,Nott'm Forest,True,Manchester United,0.67
+André Ayew,Nott'm Forest,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.16,23.27,0,0,0,0,0,1.0,Nott'm Forest,False,Liverpool,2.76
+André Ayew,Nott'm Forest,Liverpool,2023-04-22,False,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.8,0.01,21.58,0,0,0,0,0,1.0,Nott'm Forest,True,Brighton,-1.91
+André Ayew,Nott'm Forest,Brighton,2023-04-26,True,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,0.6,0.01,20.69,0,0,0,0,0,0.0,Nott'm Forest,False,Brentford,1.33
+André Ayew,Nott'm Forest,Brentford,2023-04-29,False,Sub,36,0.0,0.0,0.0,0.03,0,0.0,1.0,1.8,0,0,2,False,0.8,0.01,21.79,0,0,0,0,0,0.0,Nott'm Forest,True,Southampton,-0.97
+André Ayew,Nott'm Forest,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,20.33,0,0,0,0,0,0.0,Nott'm Forest,False,Chelsea,-2.46
+André Ayew,Nott'm Forest,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,19.06,0,0,0,0,0,0.0,Nott'm Forest,True,Arsenal,-1.92
+André Ayew,Nott'm Forest,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,17.94,0,0,0,0,0,1.0,Nott'm Forest,False,Crystal Palace,0.85
+André Ayew,Nott'm Forest,Crystal Palace,2023-05-28,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.2,0.0,17.0,0,0,0,0,0,,Wolves,False,Manchester United,0.79

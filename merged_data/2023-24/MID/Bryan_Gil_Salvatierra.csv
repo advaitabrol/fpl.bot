@@ -1,12 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Bryan Gil Salvatierra,Spurs,Crystal Palace,2023-10-27,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,1,False,0.0,0.0,1.0,1,1,1.29,0.42,0.06,1
-Bryan Gil Salvatierra,Spurs,Wolverhampton,2023-11-11,False,Sub,15,0,0.0,0,0.0,1,0,0,0.2,0,0,2,False,1.0,0.0,8.0,1,1,1.29,0.42,0.06,2
-Bryan Gil Salvatierra,Spurs,Aston Villa,2023-11-26,True,AML,70,0,0.12,0,0.03,2,1,1,5.6,0,0,2,True,1.0,0.0,28.67,1,1,1.29,0.42,0.06,1
-Bryan Gil Salvatierra,Spurs,Manchester City,2023-12-03,False,AML,45,0,0.0,0,0.0,1,0,0,0.5,0,0,2,True,1.33,0.04,32.75,1,1,1.29,0.42,0.06,1
-Bryan Gil Salvatierra,Spurs,West Ham,2023-12-07,True,Sub,6,0,0.0,0,0.03,1,0,1,1.5,0,0,0,False,1.25,0.03,27.4,1,1,1.29,0.42,0.06,1
-Bryan Gil Salvatierra,Spurs,Newcastle United,2023-12-10,True,Sub,4,0,0.0,0,0.0,1,0,0,0.7,0,0,1,False,1.2,0.02,23.5,1,1,1.29,0.42,0.06,1
-Bryan Gil Salvatierra,Spurs,Brighton,2023-12-28,False,Sub,25,0,0.06,0,0.08,1,1,1,3.8,0,0,1,False,1.2,0.02,23.71,1,1,1.29,0.42,0.06,1
-Bryan Gil Salvatierra,Spurs,Bournemouth,2023-12-31,True,Sub,8,0,0.59,0,0.0,1,1,0,0.8,0,0,1,False,1.2,0.04,21.75,1,1,1.29,0.42,0.06,1
-Bryan Gil Salvatierra,Spurs,Manchester United,2024-01-14,False,Sub,10,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,1.0,0.13,20.44,1,1,1.29,0.42,0.06,1
-Bryan Gil Salvatierra,Spurs,Everton,2024-02-03,False,Sub,4,0,0.0,0,0.0,1,0,0,0.4,0,0,1,False,1.0,0.13,18.8,1,1,1.29,0.42,0.06,1
-Bryan Gil Salvatierra,Spurs,Chelsea,2024-05-02,False,Sub,12,0,0.02,0,0.06,1,1,1,2.1,0,0,0,False,1.0,0.13,18.18,1,1,1.29,0.42,0.06,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Bryan Gil Salvatierra,Spurs,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.29,0.42,0.06,1.0,Spurs,False,Crystal Palace,0.96
+Bryan Gil Salvatierra,Spurs,Crystal Palace,2023-10-27,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,False,0.0,0.0,0.5,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,True,Chelsea,2.8
+Bryan Gil Salvatierra,Spurs,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.5,0.0,0.33,1.0,1.0,1.29,0.42,0.06,1.0,Spurs,False,Wolverhampton,0.79
+Bryan Gil Salvatierra,Spurs,Wolverhampton,2023-11-11,False,Sub,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,2,False,0.33,0.0,4.0,1.0,1.0,1.29,0.42,0.06,2.0,Spurs,True,Aston Villa,1.75
+Bryan Gil Salvatierra,Spurs,Aston Villa,2023-11-26,True,AML,70,0.0,0.12,0.0,0.03,2,1.0,1.0,5.6,0,0,2,True,0.5,0.0,17.2,1.0,1.0,1.29,0.42,0.06,1.0,Spurs,False,Manchester City,-0.2
+Bryan Gil Salvatierra,Spurs,Manchester City,2023-12-03,False,AML,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,2,True,0.8,0.02,21.83,1.0,1.0,1.29,0.42,0.06,1.0,Spurs,True,West Ham,0.26
+Bryan Gil Salvatierra,Spurs,West Ham,2023-12-07,True,Sub,6,0.0,0.0,0.0,0.03,1,0.0,1.0,1.5,0,0,0,False,1.0,0.02,19.57,1.0,1.0,1.29,0.42,0.06,1.0,Spurs,True,Newcastle United,-2.91
+Bryan Gil Salvatierra,Spurs,Newcastle United,2023-12-10,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,1,False,1.0,0.02,17.62,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,False,Nottingham Forest,-3.55
+Bryan Gil Salvatierra,Spurs,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.02,15.67,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,True,Everton,-2.75
+Bryan Gil Salvatierra,Spurs,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.02,14.1,1.0,1.0,1.29,0.42,0.06,1.0,Spurs,False,Brighton,0.26
+Bryan Gil Salvatierra,Spurs,Brighton,2023-12-28,False,Sub,25,0.0,0.06,0.0,0.08,1,1.0,1.0,3.8,0,0,1,False,0.6,0.0,15.09,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,True,Manchester United,-0.02
+Bryan Gil Salvatierra,Spurs,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,13.83,1.0,1.0,1.29,0.42,0.06,1.0,Spurs,True,Bournemouth,-1.78
+Bryan Gil Salvatierra,Spurs,Bournemouth,2023-12-31,True,Sub,8,0.0,0.59,0.0,0.0,1,1.0,0.0,0.8,0,0,1,False,0.4,0.01,13.38,1.0,1.0,1.29,0.42,0.06,1.0,Spurs,False,Manchester United,2.48
+Bryan Gil Salvatierra,Spurs,Manchester United,2024-01-14,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.4,0.13,13.14,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,True,Brentford,-1.31
+Bryan Gil Salvatierra,Spurs,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.13,12.27,1.0,1.0,1.29,0.42,0.06,1.0,Spurs,False,Everton,0.55
+Bryan Gil Salvatierra,Spurs,Everton,2024-02-03,False,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1,False,0.6,0.13,11.75,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,True,Brighton,-0.2
+Bryan Gil Salvatierra,Spurs,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.12,11.06,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,True,Wolverhampton,2.72
+Bryan Gil Salvatierra,Spurs,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.12,10.44,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,True,Crystal Palace,-2.03
+Bryan Gil Salvatierra,Spurs,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,9.89,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,False,Aston Villa,-2.16
+Bryan Gil Salvatierra,Spurs,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,9.4,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,False,Fulham,1.2
+Bryan Gil Salvatierra,Spurs,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,8.95,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,False,Bournemouth,-2.08
+Bryan Gil Salvatierra,Spurs,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.55,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,True,Luton,-0.34
+Bryan Gil Salvatierra,Spurs,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.17,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,False,West Ham,2.47
+Bryan Gil Salvatierra,Spurs,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.83,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,True,Nottingham Forest,-0.6
+Bryan Gil Salvatierra,Spurs,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.52,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,False,Newcastle United,4.3
+Bryan Gil Salvatierra,Spurs,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.23,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,True,Arsenal,-0.34
+Bryan Gil Salvatierra,Spurs,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.96,1.0,1.0,1.29,0.42,0.06,1.0,Spurs,False,Chelsea,1.82
+Bryan Gil Salvatierra,Spurs,Chelsea,2024-05-02,False,Sub,12,0.0,0.02,0.0,0.06,1,1.0,1.0,2.1,0,0,0,False,0.0,0.0,7.14,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,False,Liverpool,0.68
+Bryan Gil Salvatierra,Spurs,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.9,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,True,Burnley,-1.38
+Bryan Gil Salvatierra,Spurs,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.67,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,True,Manchester City,-0.27
+Bryan Gil Salvatierra,Spurs,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.45,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,False,Sheffield,-2.16
+Bryan Gil Salvatierra,Spurs,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.25,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,False,Burnley,0.34
+Bryan Gil Salvatierra,Spurs,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.06,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,True,Sheffield,-0.02
+Bryan Gil Salvatierra,Spurs,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.88,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,False,Arsenal,1.92
+Bryan Gil Salvatierra,Spurs,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.71,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,True,Liverpool,-0.19
+Bryan Gil Salvatierra,Spurs,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.56,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,False,Luton,-1.24
+Bryan Gil Salvatierra,Spurs,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.41,1.0,1.0,1.29,0.42,0.06,0.0,Spurs,True,Fulham,-2.03
+Bryan Gil Salvatierra,Spurs,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.26,1.0,1.0,1.29,0.42,0.06,,,,,

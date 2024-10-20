@@ -1,37 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Brenden Aaronson,Leeds,Wolverhampton,2022-08-06,True,AMR,84,0,0.03,0,0.0,2,1,0,2.2,0,0,1,False,0.0,0.0,84.0,0,0,0,0,0,5
-Brenden Aaronson,Leeds,Crystal Palace,2022-10-09,False,AMR,75,0,0.18,0,0.0,5,2,0,1.8,0,0,1,False,2.0,0.03,79.5,0,0,0,0,0,2
-Brenden Aaronson,Leeds,Arsenal,2022-10-16,True,AMR,90,0,0.06,0,0.32,2,2,4,7.8,0,0,1,False,3.5,0.1,83.0,0,0,0,0,0,2
-Brenden Aaronson,Leeds,Leeds United,2022-10-20,False,AMC,90,0,0.03,0,0.11,2,1,2,4.7,0,0,2,False,3.0,0.09,84.75,0,0,0,0,0,2
-Brenden Aaronson,Leeds,Fulham,2022-10-23,True,AMC,90,0,0.07,0,0.7,2,1,7,10.8,0,0,3,False,2.75,0.07,85.8,0,0,0,0,0,2
-Brenden Aaronson,Leeds,Liverpool,2022-10-29,False,AMC,90,0,0.38,0,0.08,2,2,1,3.9,0,0,1,False,2.6,0.07,86.5,0,0,0,0,0,2
-Brenden Aaronson,Leeds,Bournemouth,2022-11-05,True,AMC,85,0,0.12,0,0.02,2,2,1,4.8,0,0,3,False,2.6,0.14,86.29,0,0,0,0,0,5
-Brenden Aaronson,Leeds,Tottenham,2022-11-12,False,AMC,90,0,0.07,1,0.74,5,2,2,7.6,0,0,4,True,2.0,0.13,86.75,0,0,0,0,0,2
-Brenden Aaronson,Leeds,Manchester City,2022-12-28,True,FW,82,0,0.02,0,0.05,2,1,1,1.7,0,0,3,True,2.6,0.34,86.22,0,0,0,0,0,3
-Brenden Aaronson,Leeds,Newcastle United,2022-12-31,False,AMR,90,0,0.11,0,0.0,3,1,1,3.5,0,1,0,True,2.6,0.33,86.6,0,0,0,0,0,2
-Brenden Aaronson,Leeds,West Ham,2023-01-04,True,AMR,62,0,0.09,0,0.0,2,1,0,0.6,0,0,2,True,2.8,0.34,84.36,0,0,0,0,0,1
-Brenden Aaronson,Leeds,Southampton,2022-08-13,False,AMR,90,0,0.06,0,0.04,1,2,1,5.5,0,0,2,False,2.8,0.28,84.83,0,0,0,0,0,2
-Brenden Aaronson,Leeds,Aston Villa,2023-01-13,False,AMC,76,0,0.15,0,0.05,2,2,1,3.4,0,0,2,True,2.6,0.27,84.15,0,0,0,0,0,3
-Brenden Aaronson,Leeds,Brentford,2023-01-22,True,AMR,69,0,0.1,0,0.03,3,2,1,2.9,0,1,0,True,2.0,0.09,83.07,0,0,0,0,0,1
-Brenden Aaronson,Leeds,Manchester United,2023-02-08,False,Sub,27,0,0.05,0,0.0,1,1,0,0.4,0,0,1,False,2.2,0.1,79.33,0,0,0,0,0,1
-Brenden Aaronson,Leeds,Manchester United,2023-02-12,True,Sub,17,0,0.05,0,0.0,1,1,0,0.6,0,0,2,False,1.8,0.09,75.44,0,0,0,0,0,1
-Brenden Aaronson,Leeds,Everton,2023-02-18,False,Sub,29,0,0.04,0,0.0,1,1,0,0.7,0,0,1,False,1.6,0.08,72.71,0,0,0,0,0,3
-Brenden Aaronson,Leeds,Southampton,2023-02-25,True,AMC,74,0,0.13,0,0.04,3,2,2,4.4,0,1,0,True,1.6,0.08,72.78,0,0,0,0,0,2
-Brenden Aaronson,Leeds,Chelsea,2023-03-04,False,AMC,67,0,0.08,0,0.0,2,1,0,1.7,0,0,1,True,1.8,0.07,72.47,0,0,0,0,0,2
-Brenden Aaronson,Leeds,Brighton,2023-03-11,True,AMC,83,0,0.13,0,0.19,2,2,2,5.9,0,0,2,True,1.6,0.07,73.0,0,0,0,0,0,2
-Brenden Aaronson,Leeds,Wolverhampton,2023-03-18,False,AMC,80,0,0.03,0,0.14,2,1,1,2.9,0,0,2,True,1.8,0.09,73.33,0,0,0,0,0,2
-Brenden Aaronson,Leeds,Arsenal,2023-04-01,False,FW,64,0,0.11,0,0.1,2,1,1,6.4,0,0,3,True,2.0,0.08,72.91,0,0,0,0,0,2
-Brenden Aaronson,Leeds,Nottingham Forest,2023-04-04,True,AMC,73,0,0.0,0,0.17,2,0,3,6.5,0,0,1,True,2.2,0.1,72.91,0,0,0,0,0,8
-Brenden Aaronson,Leeds,Chelsea,2022-08-21,True,AMC,82,1,0.9,0,0.07,8,2,2,11.5,0,1,0,False,2.0,0.07,73.29,0,0,0,0,0,4
-Brenden Aaronson,Leeds,Crystal Palace,2023-04-09,True,AMC,59,0,0.56,1,0.08,4,1,3,11.0,0,0,3,True,3.2,0.23,72.72,0,0,0,0,0,2
-Brenden Aaronson,Leeds,Liverpool,2023-04-17,True,AMC,65,0,0.05,0,0.13,2,2,2,3.3,0,0,4,True,3.6,0.52,72.42,0,0,0,0,0,2
-Brenden Aaronson,Leeds,Fulham,2023-04-22,False,AMC,64,0,0.0,0,0.05,2,0,1,2.0,0,0,1,True,3.6,0.53,72.11,0,0,0,0,0,1
-Brenden Aaronson,Leeds,Leeds United,2023-04-25,True,Sub,22,0,0.17,0,0.0,1,1,0,2.4,0,0,1,False,3.6,0.5,70.32,0,0,0,0,0,1
-Brenden Aaronson,Leeds,Manchester City,2023-05-06,False,Sub,10,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,3.4,0.54,68.24,0,0,0,0,0,1
-Brenden Aaronson,Leeds,Newcastle United,2023-05-13,True,Sub,3,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,2.0,0.36,66.07,0,0,0,0,0,1
-Brenden Aaronson,Leeds,West Ham,2023-05-21,False,Sub,28,0,0.08,0,0.0,1,1,0,1.2,0,0,2,False,1.4,0.04,64.84,0,0,0,0,0,1
-Brenden Aaronson,Leeds,Tottenham,2023-05-28,True,Sub,31,0,0.0,0,0.0,1,0,0,0.0,0,0,2,False,1.2,0.05,63.78,0,0,0,0,0,1
-Brenden Aaronson,Leeds,Brighton,2022-08-27,False,AMC,81,0,0.0,0,0.0,1,0,0,2.0,0,0,1,False,1.0,0.05,64.3,0,0,0,0,0,5
-Brenden Aaronson,Leeds,Everton,2022-08-30,True,AMC,75,0,0.08,1,0.08,5,1,3,9.5,0,0,1,False,1.0,0.02,64.62,0,0,0,0,0,2
-Brenden Aaronson,Leeds,Brentford,2022-09-03,False,AMC,90,0,0.02,0,0.07,2,1,1,3.8,0,0,5,False,1.8,0.23,65.34,0,0,0,0,0,3
-Brenden Aaronson,Leeds,Aston Villa,2022-10-02,True,AMC,78,0,0.0,0,0.1,3,0,2,3.7,0,1,0,False,2.0,0.23,65.69,0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Brenden Aaronson,Leeds,Wolverhampton,2022-08-06,True,AMR,84,0.0,0.03,0.0,0.0,2,1.0,0.0,2.2,0,0,1,False,0.0,0.0,84.0,0,0,0,0,0,5.0,Leeds,False,Crystal Palace,1.29
+Brenden Aaronson,Leeds,Crystal Palace,2022-10-09,False,AMR,75,0.0,0.18,0.0,0.0,5,2.0,0.0,1.8,0,0,1,False,2.0,0.03,79.5,0,0,0,0,0,2.0,Leeds,True,Arsenal,-0.89
+Brenden Aaronson,Leeds,Arsenal,2022-10-16,True,AMR,90,0.0,0.06,0.0,0.32,2,2.0,4.0,7.8,0,0,1,False,3.5,0.1,83.0,0,0,0,0,0,2.0,Leeds,False,Leeds United,
+Brenden Aaronson,Leeds,Leeds United,2022-10-20,False,AMC,90,0.0,0.03,0.0,0.11,2,1.0,2.0,4.7,0,0,2,False,3.0,0.09,84.75,0,0,0,0,0,2.0,Leeds,True,Fulham,-1.49
+Brenden Aaronson,Leeds,Fulham,2022-10-23,True,AMC,90,0.0,0.07,0.0,0.7,2,1.0,7.0,10.8,0,0,3,False,2.75,0.07,85.8,0,0,0,0,0,2.0,Leeds,False,Liverpool,0.8
+Brenden Aaronson,Leeds,Liverpool,2022-10-29,False,AMC,90,0.0,0.38,0.0,0.08,2,2.0,1.0,3.9,0,0,1,False,2.6,0.07,86.5,0,0,0,0,0,2.0,Leeds,True,Bournemouth,5.53
+Brenden Aaronson,Leeds,Bournemouth,2022-11-05,True,AMC,85,0.0,0.12,0.0,0.02,2,2.0,1.0,4.8,0,0,3,False,2.6,0.14,86.29,0,0,0,0,0,5.0,Leeds,False,Tottenham,0.38
+Brenden Aaronson,Leeds,Tottenham,2022-11-12,False,AMC,90,0.0,0.07,1.0,0.74,5,2.0,2.0,7.6,0,0,4,True,2.0,0.13,86.75,0,0,0,0,0,2.0,Leeds,True,Manchester City,0.4
+Brenden Aaronson,Leeds,Manchester City,2022-12-28,True,FW,82,0.0,0.02,0.0,0.05,2,1.0,1.0,1.7,0,0,3,True,2.6,0.34,86.22,0,0,0,0,0,3.0,Leeds,False,Newcastle United,-1.48
+Brenden Aaronson,Leeds,Newcastle United,2022-12-31,False,AMR,90,0.0,0.11,0.0,0.0,3,1.0,1.0,3.5,0,1,0,True,2.6,0.33,86.6,0,0,0,0,0,2.0,Leeds,True,West Ham,0.44
+Brenden Aaronson,Leeds,West Ham,2023-01-04,True,AMR,62,0.0,0.09,0.0,0.0,2,1.0,0.0,0.6,0,0,2,True,2.8,0.34,84.36,0,0,0,0,0,1.0,Leeds,False,Southampton,-0.58
+Brenden Aaronson,Leeds,Southampton,2022-08-13,False,AMR,90,0.0,0.06,0.0,0.04,1,2.0,1.0,5.5,0,0,2,False,2.8,0.28,84.83,0,0,0,0,0,2.0,Leeds,False,Aston Villa,-1.34
+Brenden Aaronson,Leeds,Aston Villa,2023-01-13,False,AMC,76,0.0,0.15,0.0,0.05,2,2.0,1.0,3.4,0,0,2,True,2.6,0.27,84.15,0,0,0,0,0,3.0,Leeds,True,Brentford,-0.85
+Brenden Aaronson,Leeds,Brentford,2023-01-22,True,AMR,69,0.0,0.1,0.0,0.03,3,2.0,1.0,2.9,0,1,0,True,2.0,0.09,83.07,0,0,0,0,0,0.0,Leeds,False,Nottingham Forest,0.54
+Brenden Aaronson,Leeds,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,2.2,0.1,77.53,0,0,0,0,0,1.0,Leeds,False,Manchester United,2.19
+Brenden Aaronson,Leeds,Manchester United,2023-02-08,False,Sub,27,0.0,0.05,0.0,0.0,1,1.0,0.0,0.4,0,0,1,False,1.6,0.08,74.38,0,0,0,0,0,1.0,Leeds,True,Manchester United,1.7
+Brenden Aaronson,Leeds,Manchester United,2023-02-12,True,Sub,17,0.0,0.05,0.0,0.0,1,1.0,0.0,0.6,0,0,2,False,1.4,0.07,71.0,0,0,0,0,0,1.0,Leeds,False,Everton,0.7
+Brenden Aaronson,Leeds,Everton,2023-02-18,False,Sub,29,0.0,0.04,0.0,0.0,1,1.0,0.0,0.7,0,0,1,False,1.4,0.07,68.67,0,0,0,0,0,3.0,Leeds,True,Southampton,-5.18
+Brenden Aaronson,Leeds,Southampton,2023-02-25,True,AMC,74,0.0,0.13,0.0,0.04,3,2.0,2.0,4.4,0,1,0,True,1.2,0.05,68.95,0,0,0,0,0,2.0,Leeds,False,Chelsea,0.29
+Brenden Aaronson,Leeds,Chelsea,2023-03-04,False,AMC,67,0.0,0.08,0.0,0.0,2,1.0,0.0,1.7,0,0,1,True,1.2,0.05,68.85,0,0,0,0,0,2.0,Leeds,True,Brighton,-1.07
+Brenden Aaronson,Leeds,Brighton,2023-03-11,True,AMC,83,0.0,0.13,0.0,0.19,2,2.0,2.0,5.9,0,0,2,True,1.6,0.07,69.52,0,0,0,0,0,2.0,Leeds,False,Wolverhampton,-0.27
+Brenden Aaronson,Leeds,Wolverhampton,2023-03-18,False,AMC,80,0.0,0.03,0.0,0.14,2,1.0,1.0,2.9,0,0,2,True,1.8,0.09,70.0,0,0,0,0,0,2.0,Leeds,False,Arsenal,2.26
+Brenden Aaronson,Leeds,Arsenal,2023-04-01,False,FW,64,0.0,0.11,0.0,0.1,2,1.0,1.0,6.4,0,0,3,True,2.0,0.08,69.74,0,0,0,0,0,2.0,Leeds,True,Nottingham Forest,1.75
+Brenden Aaronson,Leeds,Nottingham Forest,2023-04-04,True,AMC,73,0.0,0.0,0.0,0.17,2,0.0,3.0,6.5,0,0,1,True,2.2,0.1,69.88,0,0,0,0,0,8.0,Leeds,True,Chelsea,-0.25
+Brenden Aaronson,Leeds,Chelsea,2022-08-21,True,AMC,82,1.0,0.9,0.0,0.07,8,2.0,2.0,11.5,0,1,0,False,2.0,0.07,70.36,0,0,0,0,0,4.0,Leeds,True,Crystal Palace,-1.42
+Brenden Aaronson,Leeds,Crystal Palace,2023-04-09,True,AMC,59,0.0,0.56,1.0,0.08,4,1.0,3.0,11.0,0,0,3,True,3.2,0.23,69.92,0,0,0,0,0,2.0,Leeds,True,Liverpool,-0.81
+Brenden Aaronson,Leeds,Liverpool,2023-04-17,True,AMC,65,0.0,0.05,0.0,0.13,2,2.0,2.0,3.3,0,0,4,True,3.6,0.52,69.74,0,0,0,0,0,2.0,Leeds,False,Fulham,-0.19
+Brenden Aaronson,Leeds,Fulham,2023-04-22,False,AMC,64,0.0,0.0,0.0,0.05,2,0.0,1.0,2.0,0,0,1,True,3.6,0.53,69.54,0,0,0,0,0,1.0,Leeds,True,Leeds United,
+Brenden Aaronson,Leeds,Leeds United,2023-04-25,True,Sub,22,0.0,0.17,0.0,0.0,1,1.0,0.0,2.4,0,0,1,False,3.6,0.5,67.9,0,0,0,0,0,0.0,Leeds,False,Bournemouth,0.09
+Brenden Aaronson,Leeds,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,3.4,0.54,65.63,0,0,0,0,0,1.0,Leeds,False,Manchester City,2.79
+Brenden Aaronson,Leeds,Manchester City,2023-05-06,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,1.8,0.36,63.84,0,0,0,0,0,1.0,Leeds,True,Newcastle United,-0.68
+Brenden Aaronson,Leeds,Newcastle United,2023-05-13,True,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,1.2,0.04,61.94,0,0,0,0,0,1.0,Leeds,False,West Ham,0.82
+Brenden Aaronson,Leeds,West Ham,2023-05-21,False,Sub,28,0.0,0.08,0.0,0.0,1,1.0,0.0,1.2,0,0,2,False,1.0,0.03,60.91,0,0,0,0,0,1.0,Leeds,True,Tottenham,-2.16
+Brenden Aaronson,Leeds,Tottenham,2023-05-28,True,Sub,31,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,2,False,0.8,0.05,60.03,0,0,0,0,0,1.0,Leeds,False,Brighton,1.41
+Brenden Aaronson,Leeds,Brighton,2022-08-27,False,AMC,81,0.0,0.0,0.0,0.0,1,0.0,0.0,2.0,0,0,1,False,0.8,0.02,60.63,0,0,0,0,0,5.0,Leeds,True,Everton,3.32
+Brenden Aaronson,Leeds,Everton,2022-08-30,True,AMC,75,0.0,0.08,1.0,0.08,5,1.0,3.0,9.5,0,0,1,False,1.0,0.02,61.03,0,0,0,0,0,2.0,Leeds,False,Brentford,-2.77
+Brenden Aaronson,Leeds,Brentford,2022-09-03,False,AMC,90,0.0,0.02,0.0,0.07,2,1.0,1.0,3.8,0,0,5,False,1.8,0.23,61.81,0,0,0,0,0,3.0,Leeds,True,Aston Villa,-3.37
+Brenden Aaronson,Leeds,Aston Villa,2022-10-02,True,AMC,78,0.0,0.0,0.0,0.1,3,0.0,2.0,3.7,0,1,0,False,2.0,0.23,62.24,0,0,0,0,0,,Wolves,False,Manchester United,0.79

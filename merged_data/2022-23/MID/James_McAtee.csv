@@ -1,3 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-James McAtee,Man City,Newcastle United,2023-03-04,True,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0.09,0,0.11,0
-James McAtee,Man City,Brentford,2023-05-28,False,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0.09,0,0.11,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+James McAtee,Man City,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,True,Southampton,-3.23
+James McAtee,Man City,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,False,Liverpool,0.57
+James McAtee,Man City,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,True,Brighton,-2.1
+James McAtee,Man City,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,False,Leeds United,-0.19
+James McAtee,Man City,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,True,Fulham,-1.5
+James McAtee,Man City,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,True,Brentford,0.69
+James McAtee,Man City,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,False,Leicester City,-3.74
+James McAtee,Man City,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,True,Everton,-1.11
+James McAtee,Man City,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,False,Chelsea,-0.75
+James McAtee,Man City,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,True,Bournemouth,-4.45
+James McAtee,Man City,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,False,Manchester United,-1.52
+James McAtee,Man City,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,True,Tottenham,1.5
+James McAtee,Man City,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,True,Wolverhampton,-3.86
+James McAtee,Man City,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,False,Tottenham,0.04
+James McAtee,Man City,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,True,Aston Villa,-1.8
+James McAtee,Man City,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,False,Arsenal,-1.52
+James McAtee,Man City,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,False,Nottingham Forest,0.39
+James McAtee,Man City,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,False,Bournemouth,-2.29
+James McAtee,Man City,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,True,Newcastle United,-3.3
+James McAtee,Man City,Newcastle United,2023-03-04,True,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,False,Crystal Palace,-1.0
+James McAtee,Man City,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,True,Liverpool,-1.11
+James McAtee,Man City,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,False,Newcastle United,-1.93
+James McAtee,Man City,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,False,Southampton,0.6
+James McAtee,Man City,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,True,Leeds United,-0.16
+James McAtee,Man City,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,True,Arsenal,-3.0
+James McAtee,Man City,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,False,Fulham,-3.19
+James McAtee,Man City,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,True,West Ham,-1.87
+James McAtee,Man City,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,True,Leicester City,-3.61
+James McAtee,Man City,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,False,Everton,-2.05
+James McAtee,Man City,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,True,Chelsea,-0.63
+James McAtee,Man City,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,False,Brighton,-3.49
+James McAtee,Man City,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,False,Brentford,-1.08
+James McAtee,Man City,Brentford,2023-05-28,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,True,Crystal Palace,1.84
+James McAtee,Man City,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,True,Nottingham Forest,-4.8
+James McAtee,Man City,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,False,Aston Villa,0.61
+James McAtee,Man City,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,False,Wolverhampton,-1.76
+James McAtee,Man City,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,0,Man City,True,Manchester United,-1.86
+James McAtee,Man City,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.11,1,Man City,False,Burnley,-3.25

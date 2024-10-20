@@ -1,3 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,form,clean_sheet_probability
-Wayne Hennessey,Burnley,Manchester United,2021-12-30,False,90,3,4,0,2,0,False,0.15,0.0,0.0
-Wayne Hennessey,Burnley,Leicester City,2022-01-02,False,90,3,4,0,2,0,False,0.0,2.0,0.0
+name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,form,clean_sheet_probability,saves_per_game
+Wayne Hennessey,Burnley,Brighton,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Wayne Hennessey,Burnley,Brentford,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Wayne Hennessey,Burnley,Chelsea,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Wayne Hennessey,Burnley,Crystal Palace,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Wayne Hennessey,Burnley,Wolverhampton,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Wayne Hennessey,Burnley,Newcastle United,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Wayne Hennessey,Burnley,West Ham,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Wayne Hennessey,Burnley,Liverpool,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Wayne Hennessey,Burnley,Manchester United,2021-12-30,False,90,3,4,0,2,0,False,0.15,0.0,0.0,0.44
+Wayne Hennessey,Burnley,Leicester City,2022-01-02,False,90,3,4,0,2,0,False,0.0,0.4,0.0,0.8
+Wayne Hennessey,Burnley,Arsenal,,False,0,0,0,0,0,0,False,,0.8,0.0,0.73
+Wayne Hennessey,Burnley,Watford,,True,0,0,0,0,0,0,False,,0.8,0.0,0.67
+Wayne Hennessey,Burnley,Manchester United,,True,0,0,0,0,0,0,False,,0.8,0.0,0.62
+Wayne Hennessey,Burnley,Liverpool,,True,0,0,0,0,0,0,False,,0.8,0.0,0.57
+Wayne Hennessey,Burnley,Brighton,,False,0,0,0,0,0,0,False,,0.4,0.0,0.53
+Wayne Hennessey,Burnley,Tottenham,,True,0,0,0,0,0,0,False,,0.0,0.0,0.5
+Wayne Hennessey,Burnley,Crystal Palace,,False,0,0,0,0,0,0,False,,0.0,0.0,0.47
+Wayne Hennessey,Burnley,Leeds United,,True,0,0,0,0,0,0,False,,0.0,0.0,0.44
+Wayne Hennessey,Burnley,Chelsea,,True,0,0,0,0,0,0,False,,0.0,0.0,0.42
+Wayne Hennessey,Burnley,Brentford,,False,0,0,0,0,0,0,False,,0.0,0.0,0.4
+Wayne Hennessey,Burnley,Leicester City,,True,0,0,0,0,0,0,False,,0.0,0.0,0.38
+Wayne Hennessey,Burnley,Manchester City,,True,0,0,0,0,0,0,False,,0.0,0.0,0.36
+Wayne Hennessey,Burnley,Everton,,True,0,0,0,0,0,0,False,,0.0,0.0,0.35
+Wayne Hennessey,Burnley,Norwich,,False,0,0,0,0,0,0,False,,0.0,0.0,0.33
+Wayne Hennessey,Burnley,West Ham,,False,0,0,0,0,0,0,False,,0.0,0.0,0.32
+Wayne Hennessey,Burnley,Southampton,,True,0,0,0,0,0,0,False,,0.0,0.0,0.31
+Wayne Hennessey,Burnley,Wolverhampton,,True,0,0,0,0,0,0,False,,0.0,0.0,0.3
+Wayne Hennessey,Burnley,Watford,,False,0,0,0,0,0,0,False,,0.0,0.0,0.29
+Wayne Hennessey,Burnley,Aston Villa,,True,0,0,0,0,0,0,False,,0.0,0.0,0.28
+Wayne Hennessey,Burnley,Tottenham,,False,0,0,0,0,0,0,False,,0.0,0.0,0.27
+Wayne Hennessey,Burnley,Aston Villa,,False,0,0,0,0,0,0,False,,0.0,0.0,0.26
+Wayne Hennessey,Burnley,Newcastle United,,True,0,0,0,0,0,0,False,,0.0,0.0,0.25
+Wayne Hennessey,Burnley,Everton,,False,0,0,0,0,0,0,False,,0.0,0.0,0.24
+Wayne Hennessey,Burnley,Arsenal,,True,0,0,0,0,0,0,False,,0.0,0.0,0.24
+Wayne Hennessey,Burnley,Leeds United,,False,0,0,0,0,0,0,False,,0.0,0.0,0.23
+Wayne Hennessey,Burnley,Norwich,,True,0,0,0,0,0,0,False,,0.0,0.0,0.22
+Wayne Hennessey,Burnley,Manchester City,,False,0,0,0,0,0,0,False,,0.0,0.0,0.22
+Wayne Hennessey,Burnley,Southampton,,False,0,0,0,0,0,0,False,,0.0,0.0,0.21

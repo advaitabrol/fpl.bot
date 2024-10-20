@@ -1,3 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Nathaniel Phillips,Liverpool,Southampton,2022-11-12,True,Sub,3,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.0,False,0.0,0.0,3.0,0.0,0,0,0,0,2
-Nathaniel Phillips,Liverpool,Crystal Palace,2022-08-15,True,DC,62,0,0.03,0,0.0,2,1,0,3.4,0,0,1,0.0,False,1.0,0.0,32.5,0.0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Nathaniel Phillips,Liverpool,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Liverpool,False,Arsenal,2.26
+Nathaniel Phillips,Liverpool,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Liverpool,True,Manchester City,-0.87
+Nathaniel Phillips,Liverpool,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Liverpool,True,West Ham,-0.03
+Nathaniel Phillips,Liverpool,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Liverpool,False,Nottingham Forest,1.75
+Nathaniel Phillips,Liverpool,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Liverpool,True,Leicester City,-2.17
+Nathaniel Phillips,Liverpool,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Liverpool,False,Tottenham,1.56
+Nathaniel Phillips,Liverpool,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1,Liverpool,True,Southampton,-2.6
+Nathaniel Phillips,Liverpool,Southampton,2022-11-12,True,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.38,0.0,0,0,0,0,0,Liverpool,False,Aston Villa,1.03
+Nathaniel Phillips,Liverpool,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.33,0.0,0,0,0,0,0,Liverpool,True,Leeds United,-1.23
+Nathaniel Phillips,Liverpool,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.3,0.0,0,0,0,0,0,Liverpool,False,Brentford,2.56
+Nathaniel Phillips,Liverpool,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.27,0.0,0,0,0,0,2,Liverpool,True,Crystal Palace,1.28
+Nathaniel Phillips,Liverpool,Crystal Palace,2022-08-15,True,DC,62,0.0,0.03,0.0,0.0,2,1.0,0.0,3.4,0,0,1,0.0,False,0.2,0.0,5.42,0.0,0,0,0,0,0,Liverpool,False,Brighton,1.25
+Nathaniel Phillips,Liverpool,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.01,5.0,0.0,0,0,0,0,0,Liverpool,True,Chelsea,-1.38
+Nathaniel Phillips,Liverpool,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,4.64,0.0,0,0,0,0,0,Liverpool,False,Wolverhampton,1.32
+Nathaniel Phillips,Liverpool,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,4.33,0.0,0,0,0,0,0,Liverpool,True,Everton,-1.61
+Nathaniel Phillips,Liverpool,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,4.06,0.0,0,0,0,0,0,Liverpool,False,Newcastle United,-0.43
+Nathaniel Phillips,Liverpool,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,3.82,0.0,0,0,0,0,0,Liverpool,False,Crystal Palace,0.35
+Nathaniel Phillips,Liverpool,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.61,0.0,0,0,0,0,0,Liverpool,True,Wolverhampton,-1.46
+Nathaniel Phillips,Liverpool,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.42,0.0,0,0,0,0,0,Liverpool,True,Manchester United,-2.66
+Nathaniel Phillips,Liverpool,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.25,0.0,0,0,0,0,0,Liverpool,False,Bournemouth,-0.9
+Nathaniel Phillips,Liverpool,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.1,0.0,0,0,0,0,0,Liverpool,False,Manchester City,1.11
+Nathaniel Phillips,Liverpool,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.95,0.0,0,0,0,0,0,Liverpool,False,Chelsea,0.3
+Nathaniel Phillips,Liverpool,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.83,0.0,0,0,0,0,0,Liverpool,False,Manchester United,0.18
+Nathaniel Phillips,Liverpool,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.71,0.0,0,0,0,0,0,Liverpool,True,Arsenal,-0.54
+Nathaniel Phillips,Liverpool,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.6,0.0,0,0,0,0,0,Liverpool,False,Leicester City,-2.79
+Nathaniel Phillips,Liverpool,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.5,0.0,0,0,0,0,0,Liverpool,True,Nottingham Forest,-1.23
+Nathaniel Phillips,Liverpool,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.41,0.0,0,0,0,0,0,Liverpool,False,West Ham,2.89
+Nathaniel Phillips,Liverpool,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.32,0.0,0,0,0,0,0,Liverpool,True,Tottenham,0.66
+Nathaniel Phillips,Liverpool,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.24,0.0,0,0,0,0,0,Liverpool,True,Fulham,0.57
+Nathaniel Phillips,Liverpool,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.17,0.0,0,0,0,0,0,Liverpool,True,Brentford,-2.96
+Nathaniel Phillips,Liverpool,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.1,0.0,0,0,0,0,0,Liverpool,False,Leeds United,0.15
+Nathaniel Phillips,Liverpool,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.03,0.0,0,0,0,0,0,Liverpool,True,Aston Villa,-0.35
+Nathaniel Phillips,Liverpool,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.97,0.0,0,0,0,0,0,Liverpool,False,Southampton,2.18
+Nathaniel Phillips,Liverpool,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.91,0.0,0,0,0,0,0,Liverpool,True,Bournemouth,-4.12
+Nathaniel Phillips,Liverpool,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.86,0.0,0,0,0,0,0,Liverpool,True,Newcastle United,-0.89
+Nathaniel Phillips,Liverpool,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.81,0.0,0,0,0,0,0,Liverpool,False,Everton,1.81
+Nathaniel Phillips,Liverpool,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.76,0.0,0,0,0,0,0,Liverpool,True,Brighton,1.7
+Nathaniel Phillips,Liverpool,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.71,0.0,0,0,0,0,0,Liverpool,False,Chelsea,0.3

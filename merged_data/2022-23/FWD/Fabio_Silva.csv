@@ -1,18 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Fabio Silva,Wolves,Chelsea,2022-10-08,False,MC,0,0,0.04,0,0.0,0,1,0,0.0,0,False,0.0,0.0,0.0,0,0,2.74,0.41,0.05,0
-Fabio Silva,Wolves,Brentford,2022-10-29,False,FWR,0,0,0.06,0,0.08,0,1,1,0.0,0,False,0.0,0.04,0.0,0,0,2.74,0.41,0.05,0
-Fabio Silva,Wolves,Brighton,2022-11-05,True,FWR,0,0,0.03,0,0.31,0,1,1,0.0,0,False,0.0,0.05,0.0,0,0,2.74,0.41,0.05,0
-Fabio Silva,Wolves,Arsenal,2022-11-12,True,FWR,0,0,0.04,0,0.11,0,1,3,0.0,0,False,0.0,0.04,0.0,0,0,2.74,0.41,0.05,0
-Fabio Silva,Wolves,Manchester United,2022-12-31,True,DML,0,0,0.0,0,0.13,0,0,1,0.0,0,False,0.0,0.04,0.0,0,0,2.74,0.41,0.05,0
-Fabio Silva,Wolves,Fulham,2022-08-13,True,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,False,0.0,0.03,0.0,0,0,2.74,0.41,0.05,0
-Fabio Silva,Wolves,West Ham,2023-01-14,True,MC,0,0,0.02,0,0.0,0,1,0,0.0,0,False,0.0,0.03,0.0,0,0,2.74,0.41,0.05,0
-Fabio Silva,Wolves,Manchester City,2023-01-22,False,Sub,0,0,0.0,0,0.61,0,0,1,0.0,0,False,0.0,0.02,0.0,0,0,2.74,0.41,0.05,0
-Fabio Silva,Wolves,Bournemouth,2023-02-18,True,DMC,0,1,0.07,0,0.0,0,2,0,0.0,0,False,0.0,0.01,0.0,0,0,2.74,0.41,0.05,0
-Fabio Silva,Wolves,Tottenham,2023-03-04,True,Sub,0,1,0.11,0,0.0,0,1,0,0.0,0,False,0.0,0.02,0.0,0,0,2.74,0.41,0.05,0
-Fabio Silva,Wolves,Nottingham Forest,2023-04-01,False,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,False,0.0,0.04,0.0,0,0,2.74,0.41,0.05,0
-Fabio Silva,Wolves,Chelsea,2023-04-08,True,Sub,0,0,0.53,0,0.0,0,2,0,0.0,0,False,0.0,0.04,0.0,0,0,2.74,0.41,0.05,0
-Fabio Silva,Wolves,Brentford,2023-04-15,True,DMC,0,0,0.0,0,0.03,0,0,1,0.0,0,False,0.0,0.14,0.0,0,0,2.74,0.41,0.05,0
-Fabio Silva,Wolves,Aston Villa,2023-05-06,True,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,False,0.0,0.14,0.0,0,0,2.74,0.41,0.05,0
-Fabio Silva,Wolves,Bournemouth,2022-08-31,False,MC,0,0,0.03,1,0.05,0,1,1,0.0,0,False,0.0,0.13,0.0,0,0,2.74,0.41,0.05,0
-Fabio Silva,Wolves,Southampton,2022-09-03,True,FWR,0,0,0.0,0,0.0,0,0,0,0.0,0,False,0.0,0.31,0.0,0,0,2.74,0.41,0.05,0
-Fabio Silva,Wolves,Manchester City,2022-09-17,True,MC,0,0,0.0,1,0.13,0,0,3,0.0,0,False,0.0,0.31,0.0,0,0,2.74,0.41,0.05,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Fabio Silva,Wolves,Leicester City,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,False,Chelsea,-1.76
+Fabio Silva,Wolves,Chelsea,2022-10-08,False,MC,0,0.0,0.04,0.0,0.0,0,1.0,0.0,0.0,0,False,0.0,0.0,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,True,Nottingham Forest,-0.48
+Fabio Silva,Wolves,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,False,0.0,0.02,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,False,Crystal Palace,1.56
+Fabio Silva,Wolves,Crystal Palace,,False,,0,,,,,0,,,0.0,0,False,0.0,0.01,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,True,Leeds United,1.22
+Fabio Silva,Wolves,Leeds United,,True,,0,,,,,0,,,0.0,0,False,0.0,0.01,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,False,Brentford,-2.66
+Fabio Silva,Wolves,Brentford,2022-10-29,False,FWR,0,0.0,0.06,0.0,0.08,0,1.0,1.0,0.0,0,False,0.0,0.01,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,True,Brighton,0.86
+Fabio Silva,Wolves,Brighton,2022-11-05,True,FWR,0,0.0,0.03,0.0,0.31,0,1.0,1.0,0.0,0,False,0.0,0.02,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,True,Arsenal,2.09
+Fabio Silva,Wolves,Arsenal,2022-11-12,True,FWR,0,0.0,0.04,0.0,0.11,0,1.0,3.0,0.0,0,False,0.0,0.02,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,False,Everton,-1.6
+Fabio Silva,Wolves,Everton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.03,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,True,Manchester United,0.06
+Fabio Silva,Wolves,Manchester United,2022-12-31,True,DML,0,0.0,0.0,0.0,0.13,0,0.0,1.0,0.0,0,False,0.0,0.03,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,False,Aston Villa,-0.08
+Fabio Silva,Wolves,Aston Villa,,False,,0,,,,,0,,,0.0,0,False,0.0,0.03,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,True,Fulham,-0.51
+Fabio Silva,Wolves,Fulham,2022-08-13,True,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,False,0.0,0.01,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,True,West Ham,-1.01
+Fabio Silva,Wolves,West Ham,2023-01-14,True,MC,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,False,0.0,0.01,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,False,Manchester City,3.31
+Fabio Silva,Wolves,Manchester City,2023-01-22,False,Sub,0,0.0,0.0,0.0,0.61,0,0.0,1.0,0.0,0,False,0.0,0.0,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,True,Liverpool,-2.02
+Fabio Silva,Wolves,Liverpool,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,False,Southampton,-2.53
+Fabio Silva,Wolves,Southampton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,True,Bournemouth,2.85
+Fabio Silva,Wolves,Bournemouth,2023-02-18,True,DMC,0,1.0,0.07,0.0,0.0,0,2.0,0.0,0.0,0,False,0.0,0.0,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,False,Fulham,-1.47
+Fabio Silva,Wolves,Fulham,,False,,0,,,,,0,,,0.0,0,False,0.0,0.02,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,False,Liverpool,1.68
+Fabio Silva,Wolves,Liverpool,,False,,0,,,,,0,,,0.0,0,False,0.0,0.01,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,True,Tottenham,-0.94
+Fabio Silva,Wolves,Tottenham,2023-03-04,True,Sub,0,1.0,0.11,0.0,0.0,0,1.0,0.0,0.0,0,False,0.0,0.01,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,False,Newcastle United,2.58
+Fabio Silva,Wolves,Newcastle United,,False,,0,,,,,0,,,0.0,0,False,0.0,0.04,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,True,Leicester City,1.65
+Fabio Silva,Wolves,Leicester City,,True,,0,,,,,0,,,0.0,0,False,0.0,0.04,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,False,Nottingham Forest,0.01
+Fabio Silva,Wolves,Nottingham Forest,2023-04-01,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,False,0.0,0.02,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,False,Tottenham,-2.61
+Fabio Silva,Wolves,Tottenham,,False,,0,,,,,0,,,0.0,0,False,0.0,0.02,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,True,Chelsea,-2.49
+Fabio Silva,Wolves,Chelsea,2023-04-08,True,Sub,0,0.0,0.53,0.0,0.0,0,2.0,0.0,0.0,0,False,0.0,0.02,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,True,Brentford,1.37
+Fabio Silva,Wolves,Brentford,2023-04-15,True,DMC,0,0.0,0.0,0.0,0.03,0,0.0,1.0,0.0,0,False,0.0,0.11,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,False,Leeds United,1.57
+Fabio Silva,Wolves,Leeds United,,False,,0,,,,,0,,,0.0,0,False,0.0,0.11,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,True,Crystal Palace,0.91
+Fabio Silva,Wolves,Crystal Palace,,True,,0,,,,,0,,,0.0,0,False,0.0,0.11,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,False,Brighton,0.59
+Fabio Silva,Wolves,Brighton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.11,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,True,Aston Villa,-1.57
+Fabio Silva,Wolves,Aston Villa,2023-05-06,True,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,False,0.0,0.11,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,False,Manchester United,0.79
+Fabio Silva,Wolves,Manchester United,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,True,Everton,-2.28
+Fabio Silva,Wolves,Everton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,False,Arsenal,1.72
+Fabio Silva,Wolves,Arsenal,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,True,Newcastle United,-0.98
+Fabio Silva,Wolves,Newcastle United,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,False,Bournemouth,0.02
+Fabio Silva,Wolves,Bournemouth,2022-08-31,False,MC,0,0.0,0.03,1.0,0.05,0,1.0,1.0,0.0,0,False,0.0,0.0,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,True,Southampton,-3.31
+Fabio Silva,Wolves,Southampton,2022-09-03,True,FWR,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,False,0.0,0.21,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,True,Manchester City,1.61
+Fabio Silva,Wolves,Manchester City,2022-09-17,True,MC,0,0.0,0.0,1.0,0.13,0,0.0,3.0,0.0,0,False,0.0,0.21,0.0,0.0,0.0,2.74,0.41,0.05,0.0,Wolves,False,West Ham,3.01
+Fabio Silva,Wolves,West Ham,,False,,0,,,,,0,,,0.0,0,False,0.0,0.41,0.0,0.0,0.0,2.74,0.41,0.05,,Wolves,False,Manchester United,0.79

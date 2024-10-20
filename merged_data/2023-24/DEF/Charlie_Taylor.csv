@@ -1,29 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Charlie Taylor,Burnley,Bournemouth,2023-10-28,False,DL,90,1,0.04,0,0.0,6,2,0,4.5,0,0,2,1.08,True,0.0,0.0,90.0,0.0,0,0,0,0,1
-Charlie Taylor,Burnley,Crystal Palace,2023-11-04,True,DL,90,0,0.01,0,0.27,1,1,2,4.7,0,0,2,1.32,True,6.0,0.04,90.0,0.0,0,0,0,0,1
-Charlie Taylor,Burnley,Arsenal,2023-11-11,False,DL,90,0,0.0,0,0.0,1,0,0,2.1,0,0,3,2.03,True,3.5,0.02,90.0,0.0,0,0,0,0,1
-Charlie Taylor,Burnley,West Ham,2023-11-25,True,DL,90,0,0.0,0,0.0,1,0,0,2.8,0,0,2,1.03,True,2.67,0.02,90.0,0.0,0,0,0,0,10
-Charlie Taylor,Burnley,Sheffield,2023-12-02,True,DL,90,0,0.0,1,0.4,10,0,1,4.7,1,1,0,0.39,True,2.25,0.01,90.0,0.2,0,0,0,0,1
-Charlie Taylor,Burnley,Wolverhampton,2023-12-05,False,DL,90,0,0.02,0,0.05,1,1,1,2.7,0,0,1,0.83,True,3.8,0.21,90.0,0.17,0,0,0,0,1
-Charlie Taylor,Burnley,Brighton,2023-12-09,False,DL,90,0,0.0,0,0.0,1,0,0,1.4,0,0,1,2.72,True,2.8,0.21,90.0,0.14,0,0,0,0,6
-Charlie Taylor,Burnley,Fulham,2023-12-23,False,DL,90,0,0.0,0,0.04,6,0,1,3.2,0,1,0,1.38,True,2.8,0.2,90.0,0.25,0,0,0,0,1
-Charlie Taylor,Burnley,Liverpool,2023-12-26,True,DL,90,0,0.0,0,0.29,1,0,1,3.2,0,0,2,1.69,True,3.8,0.2,90.0,0.22,0,0,0,0,0
-Charlie Taylor,Burnley,Aston Villa,2023-12-30,False,DL,90,0,0.0,0,0.0,0,0,0,1.5,0,0,3,3.15,True,3.8,0.2,90.0,0.2,0,0,0,0,0
-Charlie Taylor,Burnley,Arsenal,2024-02-17,True,Sub,28,0,0.0,0,0.0,0,0,0,1.9,0,0,2,1.39,False,1.8,0.0,84.36,0.2,0,0,0,0,1
-Charlie Taylor,Burnley,Crystal Palace,2024-02-24,False,DL,74,0,0.0,0,0.0,1,0,0,0.8,0,0,2,1.41,True,1.6,0.0,83.5,0.18,0,0,0,0,1
-Charlie Taylor,Burnley,Bournemouth,2024-03-03,True,DL,90,0,0.0,0,0.45,1,0,1,2.9,0,0,2,1.1,True,1.6,0.0,84.0,0.17,0,0,0,0,1
-Charlie Taylor,Burnley,West Ham,2024-03-10,False,DL,90,0,0.01,0,0.0,1,1,0,1.7,0,0,2,1.82,True,0.6,0.0,84.43,0.15,0,0,0,0,1
-Charlie Taylor,Burnley,Brentford,2024-03-16,True,DL,90,0,0.03,0,0.09,1,1,2,5.1,0,0,1,1.07,True,0.6,0.0,84.8,0.14,0,0,0,0,1
-Charlie Taylor,Burnley,Chelsea,2024-03-30,False,Sub,45,0,0.0,0,0.0,1,0,0,1.4,0,0,1,2.04,False,0.8,0.01,82.31,0.14,0,0,0,0,2
-Charlie Taylor,Burnley,Wolverhampton,2024-04-02,True,DL,90,0,0.0,0,0.02,2,0,1,3.9,0,0,1,0.84,True,1.0,0.01,82.76,0.13,0,0,0,0,2
-Charlie Taylor,Burnley,Everton,2024-04-06,False,DL,83,0,0.05,0,0.0,2,1,0,2.1,0,0,1,0.79,True,1.2,0.01,82.78,0.12,0,0,0,0,1
-Charlie Taylor,Burnley,Brighton,2024-04-13,True,Sub,45,0,0.0,0,0.0,1,0,0,0.5,0,0,1,0.41,False,1.4,0.02,80.79,0.12,0,0,0,0,2
-Charlie Taylor,Burnley,Sheffield,2024-04-20,False,DL,90,0,0.0,0,0.17,2,0,2,5.6,0,0,1,2.43,True,1.4,0.01,81.25,0.12,0,0,0,0,0
-Charlie Taylor,Burnley,Tottenham,2024-05-11,False,DL,90,0,0.0,0,0.06,0,0,1,2.2,0,0,2,2.5,True,1.6,0.01,81.67,0.11,0,0,0,0,1
-Charlie Taylor,Burnley,Nottingham Forest,2024-05-19,True,DL,74,0,0.0,0,0.03,1,0,1,1.8,0,0,2,1.41,True,1.4,0.01,81.32,0.11,0,0,0,0,2
-Charlie Taylor,Burnley,Nottingham Forest,2023-09-18,False,DL,90,0,0.02,0,0.0,2,1,0,1.5,0,0,1,0.72,True,1.2,0.01,81.7,0.1,0,0,0,0,2
-Charlie Taylor,Burnley,Manchester United,2023-09-23,True,DL,90,0,0.0,0,0.0,2,0,0,2.5,0,0,1,0.91,True,1.2,0.0,82.04,0.1,0,0,0,0,0
-Charlie Taylor,Burnley,Newcastle United,2023-09-30,False,DL,90,0,0.0,0,0.0,0,0,0,1.6,0,0,2,3.19,True,1.4,0.0,82.36,0.09,0,0,0,0,1
-Charlie Taylor,Burnley,Luton,2023-10-03,False,DL,90,0,0.0,0,0.0,1,0,0,2.8,0,0,1,1.31,True,1.0,0.0,82.65,0.09,0,0,0,0,0
-Charlie Taylor,Burnley,Chelsea,2023-10-07,True,DL,90,0,0.07,0,0.02,0,2,1,2.4,0,0,4,1.58,True,1.2,0.0,82.93,0.08,0,0,0,0,1
-Charlie Taylor,Burnley,Brentford,2023-10-21,False,DL,90,0,0.0,0,0.0,1,0,0,1.8,0,0,3,3.24,True,1.0,0.02,83.18,0.08,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Charlie Taylor,Burnley,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,6.0,Burnley,False,Bournemouth,0.12
+Charlie Taylor,Burnley,Bournemouth,2023-10-28,False,DL,90,1.0,0.04,0.0,0.0,6,2.0,0.0,4.5,0,0,2,1.08,True,0.0,0.0,45.0,0.0,0,0,0,0,1.0,Burnley,True,Crystal Palace,1.35
+Charlie Taylor,Burnley,Crystal Palace,2023-11-04,True,DL,90,0.0,0.01,0.0,0.27,1,1.0,2.0,4.7,0,0,2,1.32,True,3.0,0.02,60.0,0.0,0,0,0,0,1.0,Burnley,False,Arsenal,0.24
+Charlie Taylor,Burnley,Arsenal,2023-11-11,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.1,0,0,3,2.03,True,2.33,0.02,67.5,0.0,0,0,0,0,1.0,Burnley,True,West Ham,-0.08
+Charlie Taylor,Burnley,West Ham,2023-11-25,True,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.8,0,0,2,1.03,True,2.0,0.01,72.0,0.0,0,0,0,0,10.0,Burnley,True,Sheffield,-6.23
+Charlie Taylor,Burnley,Sheffield,2023-12-02,True,DL,90,0.0,0.0,1.0,0.4,10,0.0,1.0,4.7,1,1,0,0.39,True,1.8,0.01,75.0,0.2,0,0,0,0,1.0,Burnley,False,Wolverhampton,0.3
+Charlie Taylor,Burnley,Wolverhampton,2023-12-05,False,DL,90,0.0,0.02,0.0,0.05,1,1.0,1.0,2.7,0,0,1,0.83,True,3.8,0.21,77.14,0.17,0,0,0,0,1.0,Burnley,False,Brighton,-4.46
+Charlie Taylor,Burnley,Brighton,2023-12-09,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,1,2.72,True,2.8,0.21,78.75,0.14,0,0,0,0,0.0,Burnley,True,Everton,1.09
+Charlie Taylor,Burnley,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.8,0.2,70.0,0.14,0,0,0,0,6.0,Burnley,False,Fulham,-2.75
+Charlie Taylor,Burnley,Fulham,2023-12-23,False,DL,90,0.0,0.0,0.0,0.04,6,0.0,1.0,3.2,0,1,0,1.38,True,2.6,0.2,72.0,0.25,0,0,0,0,1.0,Burnley,True,Liverpool,0.6
+Charlie Taylor,Burnley,Liverpool,2023-12-26,True,DL,90,0.0,0.0,0.0,0.29,1,0.0,1.0,3.2,0,0,2,1.69,True,3.6,0.2,73.64,0.22,0,0,0,0,0.0,Burnley,False,Aston Villa,-1.62
+Charlie Taylor,Burnley,Aston Villa,2023-12-30,False,DL,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.5,0,0,3,3.15,True,1.8,0.0,75.0,0.2,0,0,0,0,0.0,Burnley,True,Luton,-2.04
+Charlie Taylor,Burnley,Luton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.0,69.23,0.2,0,0,0,0,0.0,Burnley,False,Manchester City,0.91
+Charlie Taylor,Burnley,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,64.29,0.2,0,0,0,0,0.0,Burnley,True,Fulham,-1.12
+Charlie Taylor,Burnley,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,60.0,0.2,0,0,0,0,0.0,Burnley,False,Liverpool,2.65
+Charlie Taylor,Burnley,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,56.25,0.2,0,0,0,0,0.0,Burnley,True,Arsenal,3.02
+Charlie Taylor,Burnley,Arsenal,2024-02-17,True,Sub,28,0.0,0.0,0.0,0.0,0,0.0,0.0,1.9,0,0,2,1.39,False,0.0,0.0,54.59,0.2,0,0,0,0,1.0,Burnley,False,Crystal Palace,2.27
+Charlie Taylor,Burnley,Crystal Palace,2024-02-24,False,DL,74,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,2,1.41,True,0.0,0.0,55.67,0.18,0,0,0,0,1.0,Burnley,True,Bournemouth,2.12
+Charlie Taylor,Burnley,Bournemouth,2024-03-03,True,DL,90,0.0,0.0,0.0,0.45,1,0.0,1.0,2.9,0,0,2,1.1,True,0.2,0.0,57.47,0.17,0,0,0,0,1.0,Burnley,False,West Ham,0.48
+Charlie Taylor,Burnley,West Ham,2024-03-10,False,DL,90,0.0,0.01,0.0,0.0,1,1.0,0.0,1.7,0,0,2,1.82,True,0.4,0.0,59.1,0.15,0,0,0,0,1.0,Burnley,True,Brentford,-4.37
+Charlie Taylor,Burnley,Brentford,2024-03-16,True,DL,90,0.0,0.03,0.0,0.09,1,1.0,2.0,5.1,0,0,1,1.07,True,0.6,0.0,60.57,0.14,0,0,0,0,0.0,Burnley,True,Aston Villa,3.55
+Charlie Taylor,Burnley,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.01,57.82,0.14,0,0,0,0,1.0,Burnley,False,Chelsea,-0.08
+Charlie Taylor,Burnley,Chelsea,2024-03-30,False,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,1,2.04,False,0.8,0.01,57.26,0.14,0,0,0,0,2.0,Burnley,True,Wolverhampton,-1.75
+Charlie Taylor,Burnley,Wolverhampton,2024-04-02,True,DL,90,0.0,0.0,0.0,0.02,2,0.0,1.0,3.9,0,0,1,0.84,True,0.8,0.01,58.62,0.13,0,0,0,0,2.0,Burnley,False,Everton,1.47
+Charlie Taylor,Burnley,Everton,2024-04-06,False,DL,83,0.0,0.05,0.0,0.0,2,1.0,0.0,2.1,0,0,1,0.79,True,1.0,0.01,59.6,0.12,0,0,0,0,1.0,Burnley,True,Brighton,-1.01
+Charlie Taylor,Burnley,Brighton,2024-04-13,True,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1,0.41,False,1.2,0.01,59.04,0.12,0,0,0,0,2.0,Burnley,False,Sheffield,-4.75
+Charlie Taylor,Burnley,Sheffield,2024-04-20,False,DL,90,0.0,0.0,0.0,0.17,2,0.0,2.0,5.6,0,0,1,2.43,True,1.2,0.01,60.19,0.12,0,0,0,0,0.0,Burnley,False,Manchester United,2.09
+Charlie Taylor,Burnley,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.01,58.04,0.12,0,0,0,0,0.0,Burnley,True,Newcastle United,1.92
+Charlie Taylor,Burnley,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.01,56.03,0.12,0,0,0,0,0.0,Burnley,False,Tottenham,1.68
+Charlie Taylor,Burnley,Tottenham,2024-05-11,False,DL,90,0.0,0.0,0.0,0.06,0,0.0,1.0,2.2,0,0,2,2.5,True,1.0,0.01,57.17,0.11,0,0,0,0,1.0,Burnley,True,Nottingham Forest,2.96
+Charlie Taylor,Burnley,Nottingham Forest,2024-05-19,True,DL,74,0.0,0.0,0.0,0.03,1,0.0,1.0,1.8,0,0,2,1.41,True,0.6,0.0,57.71,0.11,0,0,0,0,0.0,Burnley,True,Tottenham,-0.76
+Charlie Taylor,Burnley,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,55.91,0.11,0,0,0,0,2.0,Burnley,False,Nottingham Forest,-1.33
+Charlie Taylor,Burnley,Nottingham Forest,2023-09-18,False,DL,90,0.0,0.02,0.0,0.0,2,1.0,0.0,1.5,0,0,1,0.72,True,0.2,0.0,56.94,0.1,0,0,0,0,2.0,Burnley,True,Manchester United,-0.19
+Charlie Taylor,Burnley,Manchester United,2023-09-23,True,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.5,0,0,1,0.91,True,0.6,0.0,57.91,0.1,0,0,0,0,0.0,Burnley,False,Newcastle United,3.29
+Charlie Taylor,Burnley,Newcastle United,2023-09-30,False,DL,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.6,0,0,2,3.19,True,1.0,0.0,58.83,0.09,0,0,0,0,1.0,Burnley,False,Luton,-0.73
+Charlie Taylor,Burnley,Luton,2023-10-03,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.8,0,0,1,1.31,True,1.0,0.0,59.69,0.09,0,0,0,0,0.0,Burnley,True,Chelsea,3.83
+Charlie Taylor,Burnley,Chelsea,2023-10-07,True,DL,90,0.0,0.07,0.0,0.02,0,2.0,1.0,2.4,0,0,4,1.58,True,1.0,0.0,60.51,0.08,0,0,0,0,1.0,Burnley,False,Brentford,3.5
+Charlie Taylor,Burnley,Brentford,2023-10-21,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,3,3.24,True,1.0,0.02,61.29,0.08,0,0,0,0,,,,,

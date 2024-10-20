@@ -1,25 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Daniel James,Fulham,West Ham,2022-10-09,False,AMR,76,0,0.22,0,0.0,2,3,0,0.9,0,0,2,False,0.0,0.0,76.0,4,4,7.72,4.27,0.04,1
-Daniel James,Fulham,Bournemouth,2022-10-15,True,AMR,45,0,0.2,0,0.0,1,3,0,5.7,0,0,2,False,2.0,0.22,60.5,4,4,7.72,4.27,0.04,1
-Daniel James,Fulham,Aston Villa,2022-10-20,True,Sub,17,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,1.5,0.21,46.0,4,4,7.72,4.27,0.04,1
-Daniel James,Fulham,Manchester City,2022-11-05,False,Sub,14,0,0.0,0,0.0,1,0,0,0.2,0,0,1,False,1.33,0.14,38.0,4,4,7.72,4.27,0.04,6
-Daniel James,Fulham,Manchester United,2022-11-13,True,Sub,31,1,0.9,0,0.06,6,3,1,0.0,0,0,1,False,1.25,0.1,36.6,4,4,7.72,4.27,0.04,1
-Daniel James,Fulham,Crystal Palace,2022-12-26,False,Sub,8,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False,2.2,0.26,31.83,4,4,7.72,4.27,0.04,1
-Daniel James,Fulham,Southampton,2022-12-31,True,Sub,28,0,0.0,0,0.0,1,0,0,0.9,0,0,0,False,2.0,0.22,31.29,4,4,7.72,4.27,0.04,1
-Daniel James,Fulham,Chelsea,2023-01-12,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,2.0,0.18,27.5,4,4,7.72,4.27,0.04,1
-Daniel James,Leeds,Southampton,2022-08-13,False,Sub,56,0,0.06,0,0.0,1,1,0,2.6,0,0,2,False,2.0,0.18,30.67,4,4,7.72,4.27,0.04,1
-Daniel James,Fulham,Newcastle United,2023-01-15,False,Sub,13,0,0.0,0,0.0,1,0,0,0.0,0,0,1,False,2.0,0.19,28.9,4,4,7.72,4.27,0.04,1
-Daniel James,Fulham,Arsenal,2023-03-12,True,Sub,14,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,1.0,0.01,27.55,4,4,7.72,4.27,0.04,1
-Daniel James,Fulham,Bournemouth,2023-04-01,False,Sub,21,0,0.11,0,0.0,1,1,0,1.4,0,0,1,False,1.0,0.01,27.0,4,4,7.72,4.27,0.04,3
-Daniel James,Leeds,Chelsea,2022-08-21,True,AMR,69,0,0.02,0,0.47,3,1,1,2.4,0,1,0,False,1.0,0.03,30.23,4,4,7.72,4.27,0.04,1
-Daniel James,Fulham,West Ham,2023-04-08,True,Sub,5,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False,1.4,0.04,28.43,4,4,7.72,4.27,0.04,12
-Daniel James,Fulham,Everton,2023-04-15,False,FW,89,1,0.45,1,0.4,12,2,2,11.5,2,0,1,True,1.4,0.02,32.47,4,4,7.72,4.27,0.04,2
-Daniel James,Fulham,Aston Villa,2023-04-25,False,FW,90,0,0.0,0,0.0,2,0,0,1.4,0,0,1,True,3.6,0.31,36.06,4,4,7.72,4.27,0.04,1
-Daniel James,Fulham,Manchester City,2023-04-30,True,Sub,14,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False,3.8,0.31,34.76,4,4,7.72,4.27,0.04,1
-Daniel James,Fulham,Liverpool,2023-05-03,False,Sub,10,0,0.0,0,0.1,1,0,1,1.8,0,0,0,False,3.8,0.29,33.39,4,4,7.72,4.27,0.04,1
-Daniel James,Fulham,Manchester United,2023-05-28,False,Sub,10,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,3.4,0.29,32.16,4,4,7.72,4.27,0.04,1
-Daniel James,Leeds,Brighton,2022-08-27,False,AMR,58,0,0.0,0,0.0,1,0,0,0.9,0,0,0,False,3.4,0.29,33.45,4,4,7.72,4.27,0.04,1
-Daniel James,Leeds,Everton,2022-08-30,True,Sub,14,0,0.06,0,0.0,1,1,0,0.6,0,0,0,False,1.2,0.0,32.52,4,4,7.72,4.27,0.04,1
-Daniel James,Fulham,Tottenham,2022-09-03,False,Sub,30,0,0.0,0,0.05,1,0,1,1.4,0,0,1,False,1.0,0.01,32.41,4,4,7.72,4.27,0.04,1
-Daniel James,Fulham,Nottingham Forest,2022-09-16,False,Sub,20,0,0.12,0,0.51,1,1,2,3.7,0,0,1,False,1.0,0.01,31.87,4,4,7.72,4.27,0.04,2
-Daniel James,Fulham,Newcastle United,2022-10-01,True,AMR,69,0,0.0,0,0.0,2,0,0,1.2,0,0,4,False,1.0,0.03,33.42,4,4,7.72,4.27,0.04,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Daniel James,Leeds,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,4.0,4.0,7.72,4.27,0.04,2.0,Fulham,False,West Ham,1.35
+Daniel James,Fulham,West Ham,2022-10-09,False,AMR,76,0.0,0.22,0.0,0.0,2,3.0,0.0,0.9,0,0,2,False,0.0,0.0,38.0,4.0,4.0,7.72,4.27,0.04,1.0,Fulham,True,Bournemouth,-0.74
+Daniel James,Fulham,Bournemouth,2022-10-15,True,AMR,45,0.0,0.2,0.0,0.0,1,3.0,0.0,5.7,0,0,2,False,1.0,0.11,40.33,4.0,4.0,7.72,4.27,0.04,1.0,Fulham,True,Aston Villa,-0.63
+Daniel James,Fulham,Aston Villa,2022-10-20,True,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,1.0,0.14,34.5,4.0,4.0,7.72,4.27,0.04,0.0,Fulham,False,Leicester City,-2.72
+Daniel James,Fulham,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.1,27.6,4.0,4.0,7.72,4.27,0.04,0.0,Fulham,True,Everton,0.79
+Daniel James,Fulham,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.08,23.0,4.0,4.0,7.72,4.27,0.04,1.0,Fulham,False,Manchester City,1.5
+Daniel James,Fulham,Manchester City,2022-11-05,False,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,False,0.8,0.08,21.71,4.0,4.0,7.72,4.27,0.04,6.0,Fulham,True,Manchester United,1.36
+Daniel James,Fulham,Manchester United,2022-11-13,True,Sub,31,1.0,0.9,0.0,0.06,6,3.0,1.0,0.0,0,0,1,False,0.6,0.04,22.88,4.0,4.0,7.72,4.27,0.04,1.0,Fulham,False,Crystal Palace,-1.05
+Daniel James,Fulham,Crystal Palace,2022-12-26,False,Sub,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,1.6,0.18,21.22,4.0,4.0,7.72,4.27,0.04,1.0,Fulham,True,Southampton,-0.67
+Daniel James,Fulham,Southampton,2022-12-31,True,Sub,28,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,False,1.6,0.18,21.9,4.0,4.0,7.72,4.27,0.04,0.0,Fulham,False,Leeds United,-2.01
+Daniel James,Fulham,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.18,19.91,4.0,4.0,7.72,4.27,0.04,1.0,Fulham,True,Chelsea,1.22
+Daniel James,Fulham,Chelsea,2023-01-12,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,1.8,0.18,18.33,4.0,4.0,7.72,4.27,0.04,1.0,Leeds,False,Southampton,-0.58
+Daniel James,Leeds,Southampton,2022-08-13,False,Sub,56,0.0,0.06,0.0,0.0,1,1.0,0.0,2.6,0,0,2,False,1.8,0.18,21.23,4.0,4.0,7.72,4.27,0.04,1.0,Fulham,False,Newcastle United,1.64
+Daniel James,Fulham,Newcastle United,2023-01-15,False,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,False,0.8,0.01,20.64,4.0,4.0,7.72,4.27,0.04,0.0,Fulham,True,Tottenham,-0.89
+Daniel James,Fulham,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.01,19.27,4.0,4.0,7.72,4.27,0.04,0.0,Fulham,False,Chelsea,0.71
+Daniel James,Fulham,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,18.06,4.0,4.0,7.72,4.27,0.04,0.0,Fulham,True,Nottingham Forest,-3.99
+Daniel James,Fulham,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,17.0,4.0,4.0,7.72,4.27,0.04,0.0,Fulham,False,Brighton,-0.55
+Daniel James,Fulham,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.01,16.06,4.0,4.0,7.72,4.27,0.04,0.0,Fulham,True,Wolverhampton,0.52
+Daniel James,Fulham,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,15.21,4.0,4.0,7.72,4.27,0.04,0.0,Fulham,False,Brentford,0.07
+Daniel James,Fulham,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,14.45,4.0,4.0,7.72,4.27,0.04,1.0,Fulham,True,Arsenal,0.97
+Daniel James,Fulham,Arsenal,2023-03-12,True,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.0,0.0,14.43,4.0,4.0,7.72,4.27,0.04,1.0,Fulham,False,Bournemouth,3.99
+Daniel James,Fulham,Bournemouth,2023-04-01,False,Sub,21,0.0,0.11,0.0,0.0,1,1.0,0.0,1.4,0,0,1,False,0.2,0.0,14.73,4.0,4.0,7.72,4.27,0.04,3.0,Leeds,True,Chelsea,-0.25
+Daniel James,Leeds,Chelsea,2022-08-21,True,AMR,69,0.0,0.02,0.0,0.47,3,1.0,1.0,2.4,0,1,0,False,0.4,0.02,17.09,4.0,4.0,7.72,4.27,0.04,1.0,Fulham,True,West Ham,-0.79
+Daniel James,Fulham,West Ham,2023-04-08,True,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,1.0,0.02,16.58,4.0,4.0,7.72,4.27,0.04,12.0,Fulham,False,Everton,-0.93
+Daniel James,Fulham,Everton,2023-04-15,False,FW,89,1.0,0.45,1.0,0.4,12,2.0,2.0,11.5,2,0,1,True,1.2,0.02,19.48,4.0,4.0,7.72,4.27,0.04,0.0,Fulham,True,Leicester City,-2.18
+Daniel James,Fulham,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,3.6,0.31,18.73,4.0,4.0,7.72,4.27,0.04,2.0,Fulham,False,Aston Villa,2.57
+Daniel James,Fulham,Aston Villa,2023-04-25,False,FW,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0,0,1,True,3.4,0.31,21.37,4.0,4.0,7.72,4.27,0.04,1.0,Fulham,True,Manchester City,2.68
+Daniel James,Fulham,Manchester City,2023-04-30,True,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,3.6,0.29,21.11,4.0,4.0,7.72,4.27,0.04,1.0,Fulham,False,Liverpool,0.28
+Daniel James,Fulham,Liverpool,2023-05-03,False,Sub,10,0.0,0.0,0.0,0.1,1,0.0,1.0,1.8,0,0,0,False,3.2,0.29,20.72,4.0,4.0,7.72,4.27,0.04,0.0,Fulham,True,Leeds United,0.24
+Daniel James,Fulham,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,3.2,0.29,20.03,4.0,4.0,7.72,4.27,0.04,0.0,Fulham,False,Southampton,-1.16
+Daniel James,Fulham,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.0,19.39,4.0,4.0,7.72,4.27,0.04,0.0,Fulham,True,Crystal Palace,0.27
+Daniel James,Fulham,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.0,18.78,4.0,4.0,7.72,4.27,0.04,1.0,Fulham,False,Manchester United,0.13
+Daniel James,Fulham,Manchester United,2023-05-28,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.4,0.0,18.52,4.0,4.0,7.72,4.27,0.04,1.0,Leeds,False,Brighton,1.41
+Daniel James,Leeds,Brighton,2022-08-27,False,AMR,58,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,False,0.4,0.0,19.68,4.0,4.0,7.72,4.27,0.04,1.0,Leeds,True,Everton,3.32
+Daniel James,Leeds,Everton,2022-08-30,True,Sub,14,0.0,0.06,0.0,0.0,1,1.0,0.0,0.6,0,0,0,False,0.4,0.0,19.51,4.0,4.0,7.72,4.27,0.04,1.0,Fulham,False,Tottenham,1.6
+Daniel James,Fulham,Tottenham,2022-09-03,False,Sub,30,0.0,0.0,0.0,0.05,1,0.0,1.0,1.4,0,0,1,False,0.6,0.01,19.81,4.0,4.0,7.72,4.27,0.04,1.0,Fulham,False,Nottingham Forest,1.93
+Daniel James,Fulham,Nottingham Forest,2022-09-16,False,Sub,20,0.0,0.12,0.0,0.51,1,1.0,2.0,3.7,0,0,1,False,0.8,0.01,19.81,4.0,4.0,7.72,4.27,0.04,2.0,Fulham,True,Newcastle United,3.13
+Daniel James,Fulham,Newcastle United,2022-10-01,True,AMR,69,0.0,0.0,0.0,0.0,2,0.0,0.0,1.2,0,0,4,False,1.0,0.03,21.11,4.0,4.0,7.72,4.27,0.04,,Wolves,False,Manchester United,0.79

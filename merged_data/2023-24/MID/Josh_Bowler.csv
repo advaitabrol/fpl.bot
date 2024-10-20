@@ -1,21 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Josh Bowler,Nott'm Forest,Brighton,2023-11-25,True,MC,0,0,0.06,0,0.0,0,1,0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0
-Josh Bowler,Nott'm Forest,Everton,2023-12-02,True,MC,0,1,0.05,0,0.0,0,2,0,0.0,0,0,0,False,0.0,0.06,0.0,0,0,0,0,0,0
-Josh Bowler,Nott'm Forest,Wolverhampton,2023-12-09,False,MC,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.05,0.0,0,0,0,0,0,0
-Josh Bowler,Nott'm Forest,Bournemouth,2023-12-23,True,MC,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.04,0.0,0,0,0,0,0,0
-Josh Bowler,Nott'm Forest,Newcastle United,2023-12-26,False,MC,0,0,0.03,0,0.05,0,1,1,0.0,0,0,0,False,0.0,0.03,0.0,0,0,0,0,0,0
-Josh Bowler,Nott'm Forest,Manchester United,2023-12-30,True,MC,0,0,0.1,0,0.05,0,2,1,0.0,0,0,0,False,0.0,0.03,0.0,0,0,0,0,0,0
-Josh Bowler,Nott'm Forest,Newcastle United,2024-02-10,True,MC,0,0,0.0,1,0.02,0,0,1,0.0,0,0,0,False,0.0,0.04,0.0,0,0,0,0,0,0
-Josh Bowler,Nott'm Forest,West Ham,2024-02-17,True,MC,0,0,0.02,0,0.04,0,1,1,0.0,0,0,0,False,0.0,0.23,0.0,0,0,0,0,0,0
-Josh Bowler,Nott'm Forest,Aston Villa,2024-02-24,False,MC,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.23,0.0,0,0,0,0,0,0
-Josh Bowler,Nott'm Forest,Brighton,2024-03-10,False,Sub,0,0,0.45,0,0.18,0,2,2,0.0,0,0,0,False,0.0,0.23,0.0,0,0,0,0,0,0
-Josh Bowler,Nott'm Forest,Luton,2024-03-16,False,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.31,0.0,0,0,0,0,0,0
-Josh Bowler,Nott'm Forest,Crystal Palace,2024-03-30,True,Sub,0,0,0.0,1,0.14,0,0,2,0.0,0,0,0,False,0.0,0.3,0.0,0,0,0,0,0,0
-Josh Bowler,Nott'm Forest,Wolverhampton,2024-04-13,True,Sub,0,1,0.36,0,0.0,0,2,0,0.0,0,0,0,False,0.0,0.3,0.0,0,0,0,0,0,0
-Josh Bowler,Nott'm Forest,Sheffield,2024-05-04,False,AMC,0,0,0.0,0,0.04,0,0,1,0.0,0,0,0,False,0.0,0.36,0.0,0,0,0,0,0,0
-Josh Bowler,Nott'm Forest,Burnley,2024-05-19,False,Sub,0,0,0.0,0,0.16,0,0,3,0.0,0,0,0,False,0.0,0.36,0.0,0,0,0,0,0,0
-Josh Bowler,Nott'm Forest,Chelsea,2023-09-02,False,Sub,0,1,0.16,0,0.03,0,3,1,0.0,0,0,0,False,0.0,0.27,0.0,0,0,0,0,0,0
-Josh Bowler,Nott'm Forest,Burnley,2023-09-18,True,DMC,0,0,0.1,0,0.0,0,1,0,0.0,0,0,0,False,0.0,0.31,0.0,0,0,0,0,0,0
-Josh Bowler,Nott'm Forest,Manchester City,2023-09-23,False,MC,0,0,0.02,0,0.14,0,1,3,0.0,0,0,0,False,0.0,0.13,0.0,0,0,0,0,0,0
-Josh Bowler,Nott'm Forest,Crystal Palace,2023-10-07,False,MC,0,0,0.0,0,0.08,0,0,1,0.0,0,0,0,False,0.0,0.06,0.0,0,0,0,0,0,0
-Josh Bowler,Nott'm Forest,Luton,2023-10-21,True,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.06,0.0,0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Josh Bowler,Nott'm Forest,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Liverpool,2.76
+Josh Bowler,Nott'm Forest,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Aston Villa,-2.76
+Josh Bowler,Nott'm Forest,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,West Ham,3.49
+Josh Bowler,Nott'm Forest,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Brighton,-1.91
+Josh Bowler,Nott'm Forest,Brighton,2023-11-25,True,MC,0,0.0,0.06,0.0,0.0,0,1.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Everton,1.16
+Josh Bowler,Nott'm Forest,Everton,2023-12-02,True,MC,0,1.0,0.05,0.0,0.0,0,2.0,0.0,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Fulham,5.33
+Josh Bowler,Nott'm Forest,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.02,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Wolverhampton,0.48
+Josh Bowler,Nott'm Forest,Wolverhampton,2023-12-09,False,MC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.02,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Tottenham,4.06
+Josh Bowler,Nott'm Forest,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.02,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Bournemouth,0.52
+Josh Bowler,Nott'm Forest,Bournemouth,2023-12-23,True,MC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.02,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Newcastle United,-1.87
+Josh Bowler,Nott'm Forest,Newcastle United,2023-12-26,False,MC,0,0.0,0.03,0.0,0.05,0,1.0,1.0,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Sheffield,-1.91
+Josh Bowler,Nott'm Forest,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Manchester United,0.67
+Josh Bowler,Nott'm Forest,Manchester United,2023-12-30,True,MC,0,0.0,0.1,0.0,0.05,0,2.0,1.0,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Brentford,1.33
+Josh Bowler,Nott'm Forest,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.03,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Arsenal,-1.92
+Josh Bowler,Nott'm Forest,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.03,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Bournemouth,0.9
+Josh Bowler,Nott'm Forest,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.03,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Newcastle United,0.52
+Josh Bowler,Nott'm Forest,Newcastle United,2024-02-10,True,MC,0,0.0,0.0,1.0,0.02,0,0.0,1.0,0.0,0,0,0,False,0.0,0.02,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,West Ham,-2.72
+Josh Bowler,Nott'm Forest,West Ham,2024-02-17,True,MC,0,0.0,0.02,0.0,0.04,0,1.0,1.0,0.0,0,0,0,False,0.0,0.22,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Aston Villa,2.52
+Josh Bowler,Nott'm Forest,Aston Villa,2024-02-24,False,MC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.2,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Liverpool,-1.05
+Josh Bowler,Nott'm Forest,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.2,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Brighton,1.21
+Josh Bowler,Nott'm Forest,Brighton,2024-03-10,False,Sub,0,0.0,0.45,0.0,0.18,0,2.0,2.0,0.0,0,0,0,False,0.0,0.2,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Luton,-1.05
+Josh Bowler,Nott'm Forest,Luton,2024-03-16,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.3,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Manchester United,1.16
+Josh Bowler,Nott'm Forest,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.1,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Crystal Palace,-0.57
+Josh Bowler,Nott'm Forest,Crystal Palace,2024-03-30,True,Sub,0,0.0,0.0,1.0,0.14,0,0.0,2.0,0.0,0,0,0,False,0.0,0.09,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Fulham,-2.25
+Josh Bowler,Nott'm Forest,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.29,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Tottenham,0.66
+Josh Bowler,Nott'm Forest,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.29,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Wolverhampton,-0.63
+Josh Bowler,Nott'm Forest,Wolverhampton,2024-04-13,True,Sub,0,1.0,0.36,0.0,0.0,0,2.0,0.0,0.0,0,0,0,False,0.0,0.2,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Everton,2.01
+Josh Bowler,Nott'm Forest,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.27,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Manchester City,-0.22
+Josh Bowler,Nott'm Forest,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.27,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Sheffield,-2.75
+Josh Bowler,Nott'm Forest,Sheffield,2024-05-04,False,AMC,0,0.0,0.0,0.0,0.04,0,0.0,1.0,0.0,0,0,0,False,0.0,0.07,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Chelsea,0.18
+Josh Bowler,Nott'm Forest,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.07,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Burnley,-4.0
+Josh Bowler,Nott'm Forest,Burnley,2024-05-19,False,Sub,0,0.0,0.0,0.0,0.16,0,0.0,3.0,0.0,0,0,0,False,0.0,0.07,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Chelsea,-2.46
+Josh Bowler,Nott'm Forest,Chelsea,2023-09-02,False,Sub,0,1.0,0.16,0.0,0.03,0,3.0,1.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Burnley,1.01
+Josh Bowler,Nott'm Forest,Burnley,2023-09-18,True,DMC,0,0.0,0.1,0.0,0.0,0,1.0,0.0,0.0,0,0,0,False,0.0,0.03,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Manchester City,4.87
+Josh Bowler,Nott'm Forest,Manchester City,2023-09-23,False,MC,0,0.0,0.02,0.0,0.14,0,1.0,3.0,0.0,0,0,0,False,0.0,0.05,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Brentford,0.39
+Josh Bowler,Nott'm Forest,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.06,0.0,0,0,0,0,0,0.0,Nott'm Forest,False,Crystal Palace,0.85
+Josh Bowler,Nott'm Forest,Crystal Palace,2023-10-07,False,MC,0,0.0,0.0,0.0,0.08,0,0.0,1.0,0.0,0,0,0,False,0.0,0.06,0.0,0,0,0,0,0,0.0,Nott'm Forest,True,Luton,-1.73
+Josh Bowler,Nott'm Forest,Luton,2023-10-21,True,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.06,0.0,0,0,0,0,0,,,,,

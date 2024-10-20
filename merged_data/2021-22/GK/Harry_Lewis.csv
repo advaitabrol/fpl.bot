@@ -1,6 +1,25 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,form,clean_sheet_probability
-Harry Lewis,Southampton,Tottenham,2021-12-28,True,0,0,0,0,0,0,False,0.63,0.0,0.0
-Harry Lewis,Southampton,Tottenham,2022-02-09,False,0,0,0,0,0,0,False,0.05,0.0,0.0
-Harry Lewis,Southampton,Arsenal,2022-04-16,True,0,0,0,0,0,0,False,0.0,0.0,0.0
-Harry Lewis,Southampton,Brentford,2022-05-07,False,0,0,0,0,0,0,False,0.0,0.0,0.0
-Harry Lewis,Southampton,Leeds United,2022-05-22,False,0,0,0,0,0,0,False,0.0,0.0,0.0
+name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,form,clean_sheet_probability,saves_per_game
+Harry Lewis,Southampton,Brighton,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Harry Lewis,Southampton,Arsenal,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Harry Lewis,Southampton,Crystal Palace,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Harry Lewis,Southampton,West Ham,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Harry Lewis,Southampton,Tottenham,2021-12-28,True,0,0,0,0,0,0,False,0.63,0.0,0.0,0.0
+Harry Lewis,Southampton,Brentford,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Harry Lewis,Southampton,Wolverhampton,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Harry Lewis,Southampton,Manchester City,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Harry Lewis,Southampton,Tottenham,2022-02-09,False,0,0,0,0,0,0,False,0.05,0.0,0.0,0.0
+Harry Lewis,Southampton,Manchester United,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Harry Lewis,Southampton,Everton,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Harry Lewis,Southampton,Norwich,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Harry Lewis,Southampton,Aston Villa,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Harry Lewis,Southampton,Newcastle United,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Harry Lewis,Southampton,Watford,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Harry Lewis,Southampton,Leicester City,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Harry Lewis,Southampton,Chelsea,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Harry Lewis,Southampton,Arsenal,2022-04-16,True,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0
+Harry Lewis,Southampton,Burnley,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Harry Lewis,Southampton,Brighton,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Harry Lewis,Southampton,Crystal Palace,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Harry Lewis,Southampton,Brentford,2022-05-07,False,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0
+Harry Lewis,Southampton,Liverpool,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Harry Lewis,Southampton,Leeds United,2022-05-22,False,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0

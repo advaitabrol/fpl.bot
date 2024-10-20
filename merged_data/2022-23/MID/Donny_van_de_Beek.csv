@@ -1,8 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Donny van de Beek,Man Utd,Brighton,2022-08-07,True,Sub,12,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,0.0,0.0,12.0,2,0,1.51,0.43,0.06,2
-Donny van de Beek,Man Utd,Aston Villa,2022-11-06,False,AMC,64,0,0.02,0,0.03,2,1,1,3.9,0,0,3,False,1.0,0.0,38.0,2,0,1.51,0.43,0.06,1
-Donny van de Beek,Man Utd,Nottingham Forest,2022-12-27,True,Sub,25,0,0.06,0,0.0,1,1,0,2.4,0,0,0,False,1.5,0.01,33.67,2,0,1.51,0.43,0.06,1
-Donny van de Beek,Man Utd,Wolverhampton,2022-12-31,False,Sub,9,0,0.0,0,0.07,1,0,1,1.6,0,0,0,False,1.33,0.03,27.5,2,0,1.51,0.43,0.06,1
-Donny van de Beek,Man Utd,Bournemouth,2023-01-03,True,AMC,45,0,0.0,0,0.03,1,0,1,2.4,0,0,0,True,1.25,0.02,31.0,2,0,1.51,0.43,0.06,1
-Donny van de Beek,Man Utd,Brentford,2022-08-13,False,Sub,3,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,1.2,0.02,26.33,2,0,1.51,0.43,0.06,1
-Donny van de Beek,Man Utd,Liverpool,2022-08-22,True,Sub,4,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,1.2,0.02,23.14,2,0,1.51,0.43,0.06,0
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Donny van de Beek,Man Utd,Brighton,2022-08-07,True,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,0.0,0.0,12.0,2.0,0.0,1.51,0.43,0.06,0,Man Utd,False,Everton,-1.18
+Donny van de Beek,Man Utd,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,6.0,2.0,0.0,1.51,0.43,0.06,0,Man Utd,True,Newcastle United,-0.79
+Donny van de Beek,Man Utd,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.5,0.0,4.0,2.0,0.0,1.51,0.43,0.06,0,Man Utd,True,Tottenham,-2.02
+Donny van de Beek,Man Utd,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.33,0.0,3.0,2.0,0.0,1.51,0.43,0.06,0,Man Utd,False,Chelsea,0.93
+Donny van de Beek,Man Utd,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.25,0.0,2.4,2.0,0.0,1.51,0.43,0.06,0,Man Utd,True,West Ham,-1.52
+Donny van de Beek,Man Utd,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,2.0,2.0,0.0,1.51,0.43,0.06,2,Man Utd,False,Aston Villa,-0.18
+Donny van de Beek,Man Utd,Aston Villa,2022-11-06,False,AMC,64,0.0,0.02,0.0,0.03,2,1.0,1.0,3.9,0,0,3,False,0.0,0.0,10.86,2.0,0.0,1.51,0.43,0.06,0,Man Utd,False,Fulham,-1.5
+Donny van de Beek,Man Utd,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,9.5,2.0,0.0,1.51,0.43,0.06,1,Man Utd,True,Nottingham Forest,-0.7
+Donny van de Beek,Man Utd,Nottingham Forest,2022-12-27,True,Sub,25,0.0,0.06,0.0,0.0,1,1.0,0.0,2.4,0,0,0,False,0.4,0.0,11.22,2.0,0.0,1.51,0.43,0.06,1,Man Utd,False,Wolverhampton,-0.7
+Donny van de Beek,Man Utd,Wolverhampton,2022-12-31,False,Sub,9,0.0,0.0,0.0,0.07,1,0.0,1.0,1.6,0,0,0,False,0.6,0.02,11.0,2.0,0.0,1.51,0.43,0.06,1,Man Utd,True,Bournemouth,1.4
+Donny van de Beek,Man Utd,Bournemouth,2023-01-03,True,AMC,45,0.0,0.0,0.0,0.03,1,0.0,1.0,2.4,0,0,0,True,0.8,0.02,14.09,2.0,0.0,1.51,0.43,0.06,1,Man Utd,False,Brentford,1.16
+Donny van de Beek,Man Utd,Brentford,2022-08-13,False,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,1.0,0.02,13.17,2.0,0.0,1.51,0.43,0.06,0,Man Utd,True,Manchester City,0.86
+Donny van de Beek,Man Utd,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.01,12.15,2.0,0.0,1.51,0.43,0.06,0,Man Utd,False,Crystal Palace,2.45
+Donny van de Beek,Man Utd,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.01,11.29,2.0,0.0,1.51,0.43,0.06,0,Man Utd,False,Arsenal,1.27
+Donny van de Beek,Man Utd,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,10.53,2.0,0.0,1.51,0.43,0.06,0,Man Utd,True,Crystal Palace,1.05
+Donny van de Beek,Man Utd,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,9.88,2.0,0.0,1.51,0.43,0.06,0,Man Utd,True,Leicester City,-2.87
+Donny van de Beek,Man Utd,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,9.29,2.0,0.0,1.51,0.43,0.06,0,Man Utd,False,Leicester City,-2.1
+Donny van de Beek,Man Utd,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.78,2.0,0.0,1.51,0.43,0.06,0,Man Utd,True,Leeds United,-2.34
+Donny van de Beek,Man Utd,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.32,2.0,0.0,1.51,0.43,0.06,0,Man Utd,False,Liverpool,2.76
+Donny van de Beek,Man Utd,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.9,2.0,0.0,1.51,0.43,0.06,0,Man Utd,True,Southampton,-0.88
+Donny van de Beek,Man Utd,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.52,2.0,0.0,1.51,0.43,0.06,0,Man Utd,False,Newcastle United,1.36
+Donny van de Beek,Man Utd,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.18,2.0,0.0,1.51,0.43,0.06,0,Man Utd,True,Brentford,-1.08
+Donny van de Beek,Man Utd,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.87,2.0,0.0,1.51,0.43,0.06,1,Man Utd,True,Liverpool,0.35
+Donny van de Beek,Man Utd,Liverpool,2022-08-22,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,6.75,2.0,0.0,1.51,0.43,0.06,0,Man Utd,True,Everton,-1.71
+Donny van de Beek,Man Utd,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.48,2.0,0.0,1.51,0.43,0.06,0,Man Utd,False,Nottingham Forest,-0.09
+Donny van de Beek,Man Utd,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.23,2.0,0.0,1.51,0.43,0.06,0,Man Utd,False,Tottenham,0.11
+Donny van de Beek,Man Utd,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.0,2.0,0.0,1.51,0.43,0.06,0,Man Utd,True,Aston Villa,-0.23
+Donny van de Beek,Man Utd,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,5.79,2.0,0.0,1.51,0.43,0.06,0,Man Utd,False,Brighton,0.65
+Donny van de Beek,Man Utd,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,5.59,2.0,0.0,1.51,0.43,0.06,0,Man Utd,False,West Ham,2.3
+Donny van de Beek,Man Utd,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.4,2.0,0.0,1.51,0.43,0.06,0,Man Utd,True,Wolverhampton,-0.93
+Donny van de Beek,Man Utd,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.23,2.0,0.0,1.51,0.43,0.06,0,Man Utd,False,Bournemouth,-0.31
+Donny van de Beek,Man Utd,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.06,2.0,0.0,1.51,0.43,0.06,0,Man Utd,True,Chelsea,-2.79
+Donny van de Beek,Man Utd,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.91,2.0,0.0,1.51,0.43,0.06,0,Man Utd,True,Fulham,0.26
+Donny van de Beek,Man Utd,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.76,2.0,0.0,1.51,0.43,0.06,0,Man Utd,False,Southampton,-0.99
+Donny van de Beek,Man Utd,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.63,2.0,0.0,1.51,0.43,0.06,0,Man Utd,False,Leeds United,0.57
+Donny van de Beek,Man Utd,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.5,2.0,0.0,1.51,0.43,0.06,0,Man Utd,True,Arsenal,-2.12
+Donny van de Beek,Man Utd,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.38,2.0,0.0,1.51,0.43,0.06,0,Man Utd,False,Manchester City,1.48
+Donny van de Beek,Man Utd,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.26,2.0,0.0,1.51,0.43,0.06,0,Man Utd,True,Wolverhampton,-0.93

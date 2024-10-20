@@ -1,28 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Neal Maupay,Everton,Manchester United,2022-10-09,True,FW,83,0,0.0,0,0.0,2,0,0,0.8,0,False,0.0,0.0,83.0,8,2,8.28,2.45,0.04,1
-Neal Maupay,Everton,Tottenham,2022-10-15,False,FW,65,0,0.0,0,0.0,1,0,0,0.0,0,False,2.0,0.0,74.0,8,2,8.28,2.45,0.04,1
-Neal Maupay,Everton,Newcastle United,2022-10-19,False,Sub,17,0,0.0,0,0.0,1,0,0,0.3,0,False,1.5,0.0,55.0,8,2,8.28,2.45,0.04,1
-Neal Maupay,Everton,Crystal Palace,2022-10-22,True,Sub,12,0,0.0,0,0.0,1,0,0,0.1,0,False,1.33,0.0,44.25,8,2,8.28,2.45,0.04,1
-Neal Maupay,Everton,Fulham,2022-10-29,False,Sub,4,0,0.0,0,0.0,1,0,0,0.0,0,False,1.25,0.0,36.2,8,2,8.28,2.45,0.04,1
-Neal Maupay,Everton,Leeds United,2022-11-05,True,Sub,29,0,0.09,0,0.0,1,1,0,4.4,0,False,1.2,0.0,35.0,8,2,8.28,2.45,0.04,2
-Neal Maupay,Everton,Bournemouth,2022-11-12,False,FW,73,0,0.12,0,0.02,2,2,1,4.5,0,True,1.0,0.02,40.43,8,2,8.28,2.45,0.04,2
-Neal Maupay,Everton,Wolverhampton,2022-12-26,True,FW,82,0,0.09,0,0.0,2,2,0,2.3,0,True,1.2,0.04,45.62,8,2,8.28,2.45,0.04,0
-Neal Maupay,Everton,Manchester City,2022-12-31,False,Sub,20,0,0.0,0,0.0,0,0,0,0.0,0,False,1.4,0.06,42.78,8,2,8.28,2.45,0.04,1
-Neal Maupay,Everton,Brighton,2023-01-03,True,Sub,26,0,0.0,0,0.0,1,0,0,0.2,0,False,1.2,0.06,41.1,8,2,8.28,2.45,0.04,0
-Neal Maupay,Everton,Arsenal,2023-02-04,True,Sub,28,0,0.02,0,0.0,0,1,0,1.0,0,False,1.2,0.06,39.91,8,2,8.28,2.45,0.04,1
-Neal Maupay,Everton,Liverpool,2023-02-13,False,Sub,12,0,0.0,0,0.0,1,0,0,0.0,0,False,1.0,0.05,37.58,8,2,8.28,2.45,0.04,2
-Neal Maupay,Everton,Leicester City,2023-02-18,True,FW,80,0,0.49,0,0.0,2,3,0,4.3,0,True,0.8,0.02,40.85,8,2,8.28,2.45,0.04,2
-Neal Maupay,Everton,Aston Villa,2023-02-25,True,FW,75,0,0.78,0,0.06,2,3,1,6.0,0,True,0.8,0.1,43.29,8,2,8.28,2.45,0.04,2
-Neal Maupay,Everton,Arsenal,2023-03-01,False,FW,60,0,0.89,0,0.0,2,5,0,6.0,0,True,1.2,0.26,44.4,8,2,8.28,2.45,0.04,1
-Neal Maupay,Everton,Nottingham Forest,2023-03-05,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,False,1.4,0.44,41.69,8,2,8.28,2.45,0.04,1
-Neal Maupay,Everton,Brentford,2023-03-11,True,Sub,4,0,0.0,0,0.0,1,0,0,0.1,0,False,1.6,0.43,39.47,8,2,8.28,2.45,0.04,1
-Neal Maupay,Everton,Manchester United,2023-04-08,False,Sub,20,0,0.04,0,0.0,1,1,0,0.6,0,False,1.6,0.43,38.39,8,2,8.28,2.45,0.04,2
-Neal Maupay,Everton,Fulham,2023-04-15,True,FW,73,0,0.86,0,0.02,2,2,1,5.7,0,True,1.4,0.34,40.21,8,2,8.28,2.45,0.04,1
-Neal Maupay,Everton,Crystal Palace,2023-04-22,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,False,1.4,0.36,38.25,8,2,8.28,2.45,0.04,0
-Neal Maupay,Everton,Newcastle United,2023-04-27,True,Sub,17,0,0.0,0,0.0,0,0,0,0.0,0,False,1.2,0.18,37.24,8,2,8.28,2.45,0.04,1
-Neal Maupay,Everton,Brighton,2023-05-08,False,Sub,3,0,0.0,0,0.0,1,0,0,0.0,0,False,1.0,0.18,35.68,8,2,8.28,2.45,0.04,1
-Neal Maupay,Everton,Manchester City,2023-05-14,True,Sub,45,0,0.12,0,0.0,1,1,0,1.0,0,False,1.0,0.18,36.09,8,2,8.28,2.45,0.04,1
-Neal Maupay,Everton,Wolverhampton,2023-05-20,False,Sub,8,0,0.09,0,0.0,1,1,0,0.6,0,False,1.0,0.2,34.92,8,2,8.28,2.45,0.04,2
-Neal Maupay,Everton,Liverpool,2022-09-03,True,FW,90,0,0.94,0,0.26,2,5,4,10.3,0,False,0.8,0.04,37.12,8,2,8.28,2.45,0.04,9
-Neal Maupay,Everton,West Ham,2022-09-18,True,FW,88,1,0.12,0,0.0,9,2,0,6.4,3,False,1.0,0.23,39.08,8,2,8.28,2.45,0.04,2
-Neal Maupay,Everton,Southampton,2022-10-01,False,FW,88,0,0.8,0,0.0,2,3,0,7.6,0,False,2.8,0.25,40.89,8,2,8.28,2.45,0.04,2
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Neal Maupay,Brighton,Manchester United,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,8.0,2.0,8.28,2.45,0.04,2,Everton,True,Manchester United,0.93
+Neal Maupay,Everton,Manchester United,2022-10-09,True,FW,83,0.0,0.0,0.0,0.0,2,0.0,0.0,0.8,0,False,0.0,0.0,41.5,8.0,2.0,8.28,2.45,0.04,1,Everton,False,Tottenham,2.99
+Neal Maupay,Everton,Tottenham,2022-10-15,False,FW,65,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,1.0,0.0,49.33,8.0,2.0,8.28,2.45,0.04,1,Everton,False,Newcastle United,1.81
+Neal Maupay,Everton,Newcastle United,2022-10-19,False,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,False,1.0,0.0,41.25,8.0,2.0,8.28,2.45,0.04,1,Everton,True,Crystal Palace,-1.89
+Neal Maupay,Everton,Crystal Palace,2022-10-22,True,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,False,1.0,0.0,35.4,8.0,2.0,8.28,2.45,0.04,1,Everton,False,Fulham,-0.21
+Neal Maupay,Everton,Fulham,2022-10-29,False,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,1.0,0.0,30.17,8.0,2.0,8.28,2.45,0.04,1,Everton,True,Leeds United,0.49
+Neal Maupay,Everton,Leeds United,2022-11-05,True,Sub,29,0.0,0.09,0.0,0.0,1,1.0,0.0,4.4,0,False,1.2,0.0,30.0,8.0,2.0,8.28,2.45,0.04,2,Everton,False,Bournemouth,4.39
+Neal Maupay,Everton,Bournemouth,2022-11-12,False,FW,73,0.0,0.12,0.0,0.02,2,2.0,1.0,4.5,0,True,1.0,0.02,35.38,8.0,2.0,8.28,2.45,0.04,2,Everton,True,Wolverhampton,1.62
+Neal Maupay,Everton,Wolverhampton,2022-12-26,True,FW,82,0.0,0.09,0.0,0.0,2,2.0,0.0,2.3,0,True,1.2,0.04,40.56,8.0,2.0,8.28,2.45,0.04,0,Everton,False,Manchester City,0.69
+Neal Maupay,Everton,Manchester City,2022-12-31,False,Sub,20,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,False,1.4,0.06,38.5,8.0,2.0,8.28,2.45,0.04,1,Everton,True,Brighton,0.33
+Neal Maupay,Everton,Brighton,2023-01-03,True,Sub,26,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,1.2,0.06,37.36,8.0,2.0,8.28,2.45,0.04,0,Brighton,True,Newcastle United,-0.89
+Neal Maupay,Brighton,Newcastle United,,True,,0,,,,,0,,,0.0,0,False,1.2,0.06,34.25,8.0,2.0,8.28,2.45,0.04,0,Everton,True,Southampton,-2.71
+Neal Maupay,Everton,Southampton,,True,,0,,,,,0,,,0.0,0,False,1.0,0.04,31.62,8.0,2.0,8.28,2.45,0.04,0,Everton,False,West Ham,2.5
+Neal Maupay,Everton,West Ham,,False,,0,,,,,0,,,0.0,0,False,0.6,0.02,29.36,8.0,2.0,8.28,2.45,0.04,0,Everton,True,Arsenal,-2.09
+Neal Maupay,Everton,Arsenal,2023-02-04,True,Sub,28,0.0,0.02,0.0,0.0,0,1.0,0.0,1.0,0,False,0.2,0.0,29.27,8.0,2.0,8.28,2.45,0.04,1,Everton,False,Liverpool,1.94
+Neal Maupay,Everton,Liverpool,2023-02-13,False,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,0.2,0.0,28.19,8.0,2.0,8.28,2.45,0.04,2,Everton,True,Leicester City,-3.7
+Neal Maupay,Everton,Leicester City,2023-02-18,True,FW,80,0.0,0.49,0.0,0.0,2,3.0,0.0,4.3,0,True,0.2,0.0,31.24,8.0,2.0,8.28,2.45,0.04,2,Everton,True,Aston Villa,1.41
+Neal Maupay,Everton,Aston Villa,2023-02-25,True,FW,75,0.0,0.78,0.0,0.06,2,3.0,1.0,6.0,0,True,0.6,0.1,33.67,8.0,2.0,8.28,2.45,0.04,2,Everton,False,Arsenal,2.52
+Neal Maupay,Everton,Arsenal,2023-03-01,False,FW,60,0.0,0.89,0.0,0.0,2,5.0,0.0,6.0,0,True,1.0,0.26,35.05,8.0,2.0,8.28,2.45,0.04,1,Everton,False,Nottingham Forest,0.07
+Neal Maupay,Everton,Nottingham Forest,2023-03-05,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,1.4,0.44,33.35,8.0,2.0,8.28,2.45,0.04,1,Everton,True,Brentford,-2.0
+Neal Maupay,Everton,Brentford,2023-03-11,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,False,1.6,0.43,31.95,8.0,2.0,8.28,2.45,0.04,0,Everton,False,Chelsea,1.97
+Neal Maupay,Everton,Chelsea,,False,,0,,,,,0,,,0.0,0,False,1.6,0.43,30.5,8.0,2.0,8.28,2.45,0.04,0,Everton,True,Tottenham,-0.33
+Neal Maupay,Everton,Tottenham,,True,,0,,,,,0,,,0.0,0,False,1.2,0.33,29.17,8.0,2.0,8.28,2.45,0.04,0,Brighton,False,West Ham,-0.99
+Neal Maupay,Brighton,West Ham,,False,,0,,,,,0,,,0.0,0,False,0.8,0.18,27.96,8.0,2.0,8.28,2.45,0.04,1,Everton,False,Manchester United,1.96
+Neal Maupay,Everton,Manchester United,2023-04-08,False,Sub,20,0.0,0.04,0.0,0.0,1,1.0,0.0,0.6,0,False,0.4,0.0,27.64,8.0,2.0,8.28,2.45,0.04,2,Everton,True,Fulham,2.03
+Neal Maupay,Everton,Fulham,2023-04-15,True,FW,73,0.0,0.86,0.0,0.02,2,2.0,1.0,5.7,0,True,0.4,0.01,29.38,8.0,2.0,8.28,2.45,0.04,1,Everton,False,Crystal Palace,-0.42
+Neal Maupay,Everton,Crystal Palace,2023-04-22,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,0.6,0.18,28.33,8.0,2.0,8.28,2.45,0.04,0,Everton,True,Newcastle United,-0.27
+Neal Maupay,Everton,Newcastle United,2023-04-27,True,Sub,17,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,False,0.8,0.18,27.93,8.0,2.0,8.28,2.45,0.04,0,Everton,False,Leeds United,-1.47
+Neal Maupay,Everton,Leeds United,,False,,0,,,,,0,,,0.0,0,False,0.8,0.18,26.97,8.0,2.0,8.28,2.45,0.04,1,Everton,False,Brighton,-3.42
+Neal Maupay,Everton,Brighton,2023-05-08,False,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,0.8,0.18,26.17,8.0,2.0,8.28,2.45,0.04,1,Everton,True,Manchester City,1.75
+Neal Maupay,Everton,Manchester City,2023-05-14,True,Sub,45,0.0,0.12,0.0,0.0,1,1.0,0.0,1.0,0,False,0.8,0.17,26.77,8.0,2.0,8.28,2.45,0.04,1,Everton,False,Wolverhampton,1.67
+Neal Maupay,Everton,Wolverhampton,2023-05-20,False,Sub,8,0.0,0.09,0.0,0.0,1,1.0,0.0,0.6,0,False,0.6,0.02,26.19,8.0,2.0,8.28,2.45,0.04,0,Everton,True,Bournemouth,-4.02
+Neal Maupay,Everton,Bournemouth,,True,,0,,,,,0,,,0.0,0,False,0.6,0.04,25.39,8.0,2.0,8.28,2.45,0.04,0,Everton,False,Brentford,0.08
+Neal Maupay,Everton,Brentford,,False,,0,,,,,0,,,0.0,0,False,0.6,0.04,24.65,8.0,2.0,8.28,2.45,0.04,0,Everton,False,Leicester City,-1.63
+Neal Maupay,Everton,Leicester City,,False,,0,,,,,0,,,0.0,0,False,0.6,0.04,23.94,8.0,2.0,8.28,2.45,0.04,2,Everton,True,Liverpool,-1.2
+Neal Maupay,Everton,Liverpool,2022-09-03,True,FW,90,0.0,0.94,0.0,0.26,2,5.0,4.0,10.3,0,False,0.4,0.04,25.78,8.0,2.0,8.28,2.45,0.04,9,Everton,True,West Ham,1.45
+Neal Maupay,Everton,West Ham,2022-09-18,True,FW,88,1.0,0.12,0.0,0.0,9,2.0,0.0,6.4,3,False,0.6,0.21,27.46,8.0,2.0,8.28,2.45,0.04,2,Everton,False,Southampton,1.08
+Neal Maupay,Everton,Southampton,2022-10-01,False,FW,88,0.0,0.8,0.0,0.0,2,3.0,0.0,7.6,0,False,2.2,0.21,29.05,8.0,2.0,8.28,2.45,0.04,2,Everton,True,Fulham,2.03

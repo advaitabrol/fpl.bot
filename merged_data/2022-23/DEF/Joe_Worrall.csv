@@ -1,31 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Joe Worrall,Nott'm Forest,Newcastle United,2022-08-06,False,DC,90,0,0.0,0,0.0,0,0,0,1.6,0,0,2,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,1
-Joe Worrall,Nott'm Forest,Brighton,2022-10-18,False,Sub,4,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.0,False,0.0,0.0,47.0,0.0,0,0,0,0,0
-Joe Worrall,Nott'm Forest,Liverpool,2022-10-22,True,Sub,26,0,0.0,0,0.0,0,0,0,0.2,0,0,0,0.0,False,0.5,0.0,40.0,0.0,0,0,0,0,1
-Joe Worrall,Nott'm Forest,Arsenal,2022-10-30,False,Sub,26,0,0.0,0,0.0,1,0,0,1.4,0,0,1,0.0,False,0.33,0.0,36.5,0.0,0,0,0,0,7
-Joe Worrall,Nott'm Forest,Crystal Palace,2022-11-12,True,DC,90,0,0.06,0,0.0,7,1,0,1.7,1,1,0,1.22,True,0.5,0.0,47.2,0.5,0,0,0,0,1
-Joe Worrall,Nott'm Forest,Manchester United,2022-12-27,False,DC,90,0,0.03,0,0.0,1,1,0,2.7,0,0,3,2.47,True,1.8,0.01,54.33,0.33,0,0,0,0,2
-Joe Worrall,Nott'm Forest,Chelsea,2023-01-01,True,DC,90,0,0.0,0,0.0,2,0,0,1.5,0,0,1,0.94,True,2.0,0.02,59.43,0.25,0,0,0,0,6
-Joe Worrall,Nott'm Forest,Southampton,2023-01-04,False,DC,90,0,0.0,0,0.0,6,0,0,1.4,0,1,0,0.39,True,2.2,0.02,63.25,0.4,0,0,0,0,7
-Joe Worrall,Nott'm Forest,West Ham,2022-08-14,True,DC,90,0,0.0,0,0.0,7,0,0,2.0,1,1,0,0.0,False,3.4,0.02,66.22,0.5,0,0,0,0,6
-Joe Worrall,Nott'm Forest,Leeds United,2023-01-14,True,DC,90,0,0.0,0,0.0,6,0,0,1.5,0,1,0,1.02,True,4.6,0.02,68.6,0.57,0,0,0,0,1
-Joe Worrall,Nott'm Forest,Bournemouth,2023-01-21,False,DC,90,0,0.04,0,0.0,1,1,0,3.1,0,0,1,1.36,True,4.4,0.01,70.55,0.5,0,0,0,0,1
-Joe Worrall,Nott'm Forest,Fulham,2023-02-11,False,Sub,83,0,0.0,0,0.0,1,0,0,1.5,0,0,2,1.62,False,4.4,0.01,71.58,0.44,0,0,0,0,1
-Joe Worrall,Nott'm Forest,Manchester City,2023-02-18,True,DC,90,0,0.0,0,0.0,1,0,0,2.7,0,0,1,2.54,True,4.2,0.01,73.0,0.4,0,0,0,0,0
-Joe Worrall,Nott'm Forest,West Ham,2023-02-25,False,DC,90,0,0.0,0,0.0,0,0,0,1.5,0,0,4,2.73,True,3.2,0.01,74.21,0.36,0,0,0,0,1
-Joe Worrall,Nott'm Forest,Everton,2023-03-05,True,DC,90,0,0.0,0,0.0,1,0,0,3.8,0,0,2,1.7,True,1.8,0.01,75.27,0.33,0,0,0,0,7
-Joe Worrall,Nott'm Forest,Tottenham,2023-03-11,False,DC,90,1,0.52,0,0.08,7,1,1,10.3,0,0,3,2.05,True,0.8,0.01,76.19,0.31,0,0,0,0,1
-Joe Worrall,Nott'm Forest,Wolverhampton,2023-04-01,True,Sub,23,0,0.0,0,0.0,1,0,0,0.6,0,0,1,0.2,False,2.0,0.1,73.06,0.31,0,0,0,0,1
-Joe Worrall,Nott'm Forest,Everton,2022-08-20,False,DC,90,0,0.0,0,0.0,1,0,0,1.7,0,0,1,0.0,False,2.0,0.1,74.0,0.29,0,0,0,0,2
-Joe Worrall,Nott'm Forest,Aston Villa,2023-04-08,False,DC,64,0,0.0,0,0.0,2,0,0,2.0,0,0,1,0.78,True,2.0,0.1,73.47,0.27,0,0,0,0,1
-Joe Worrall,Nott'm Forest,Liverpool,2023-04-22,False,Sub,60,0,0.0,0,0.09,1,0,1,2.9,0,0,3,2.6,False,2.4,0.1,72.8,0.27,0,0,0,0,2
-Joe Worrall,Nott'm Forest,Brighton,2023-04-26,True,Sub,76,0,0.0,0,0.0,2,0,0,1.6,0,0,1,2.35,False,2.4,0.1,72.95,0.25,0,0,0,0,1
-Joe Worrall,Nott'm Forest,Brentford,2023-04-29,False,DC,90,0,0.0,0,0.0,1,0,0,2.1,0,0,2,1.63,True,1.4,0.0,73.73,0.24,0,0,0,0,1
-Joe Worrall,Nott'm Forest,Southampton,2023-05-08,True,Sub,26,0,0.0,0,0.0,1,0,0,0.5,0,0,1,1.9,False,1.4,0.0,71.65,0.24,0,0,0,0,1
-Joe Worrall,Nott'm Forest,Chelsea,2023-05-13,False,DC,90,0,0.0,0,0.0,1,0,0,2.2,0,0,2,1.14,True,1.4,0.0,72.42,0.22,0,0,0,0,6
-Joe Worrall,Nott'm Forest,Arsenal,2023-05-20,True,DC,90,0,0.08,0,0.0,6,1,0,1.5,0,1,0,0.64,True,1.2,0.0,73.12,0.26,0,0,0,0,2
-Joe Worrall,Nott'm Forest,Crystal Palace,2023-05-28,False,DC,90,0,0.1,0,0.0,2,1,0,0.0,0,0,1,1.6,True,2.2,0.02,73.77,0.25,0,0,0,0,0
-Joe Worrall,Nott'm Forest,Tottenham,2022-08-28,True,DC,90,0,0.09,0,0.0,0,1,0,3.5,0,0,2,0.0,False,2.2,0.04,74.37,0.24,0,0,0,0,-1
-Joe Worrall,Nott'm Forest,Manchester City,2022-08-31,False,DC,90,0,0.0,0,0.0,-1,0,0,1.5,0,0,6,0.0,False,2.0,0.05,74.93,0.23,0,0,0,0,1
-Joe Worrall,Nott'm Forest,Bournemouth,2022-09-03,True,DC,90,0,0.0,0,0.0,1,0,0,2.4,0,0,3,0.0,False,1.6,0.05,75.45,0.22,0,0,0,0,1
-Joe Worrall,Nott'm Forest,Fulham,2022-09-16,True,Sub,27,0,0.0,0,0.39,1,0,2,2.9,0,0,0,0.0,False,1.6,0.05,73.83,0.22,0,0,0,0,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Joe Worrall,Nott'm Forest,Newcastle United,2022-08-06,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.6,0,0,2,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,0,Nott'm Forest,True,Aston Villa,-2.76
+Joe Worrall,Nott'm Forest,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,45.0,0.0,0,0,0,0,0,Nott'm Forest,False,Wolverhampton,0.48
+Joe Worrall,Nott'm Forest,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,30.0,0.0,0,0,0,0,1,Nott'm Forest,False,Brighton,1.21
+Joe Worrall,Nott'm Forest,Brighton,2022-10-18,False,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,0.0,0.0,23.5,0.0,0,0,0,0,0,Nott'm Forest,True,Liverpool,-1.05
+Joe Worrall,Nott'm Forest,Liverpool,2022-10-22,True,Sub,26,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,0,0,0.0,False,0.25,0.0,24.0,0.0,0,0,0,0,1,Nott'm Forest,False,Arsenal,1.87
+Joe Worrall,Nott'm Forest,Arsenal,2022-10-30,False,Sub,26,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,1,0.0,False,0.2,0.0,24.33,0.0,0,0,0,0,0,Nott'm Forest,True,Brentford,0.39
+Joe Worrall,Nott'm Forest,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,20.86,0.0,0,0,0,0,7,Nott'm Forest,True,Crystal Palace,-0.57
+Joe Worrall,Nott'm Forest,Crystal Palace,2022-11-12,True,DC,90,0.0,0.06,0.0,0.0,7,1.0,0.0,1.7,1,1,0,1.22,True,0.4,0.0,29.5,0.5,0,0,0,0,1,Nott'm Forest,False,Manchester United,1.16
+Joe Worrall,Nott'm Forest,Manchester United,2022-12-27,False,DC,90,0.0,0.03,0.0,0.0,1,1.0,0.0,2.7,0,0,3,2.47,True,1.8,0.01,36.22,0.33,0,0,0,0,2,Nott'm Forest,True,Chelsea,0.18
+Joe Worrall,Nott'm Forest,Chelsea,2023-01-01,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,0.94,True,1.8,0.02,41.6,0.25,0,0,0,0,6,Nott'm Forest,False,Southampton,-1.72
+Joe Worrall,Nott'm Forest,Southampton,2023-01-04,False,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.4,0,1,0,0.39,True,2.2,0.02,46.0,0.4,0,0,0,0,7,Nott'm Forest,True,West Ham,-2.72
+Joe Worrall,Nott'm Forest,West Ham,2022-08-14,True,DC,90,0.0,0.0,0.0,0.0,7,0.0,0.0,2.0,1,1,0,0.0,False,3.2,0.02,49.67,0.5,0,0,0,0,6,Nott'm Forest,True,Leeds United,-2.6
+Joe Worrall,Nott'm Forest,Leeds United,2023-01-14,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.5,0,1,0,1.02,True,4.6,0.02,52.77,0.57,0,0,0,0,1,Nott'm Forest,False,Bournemouth,0.9
+Joe Worrall,Nott'm Forest,Bournemouth,2023-01-21,False,DC,90,0.0,0.04,0.0,0.0,1,1.0,0.0,3.1,0,0,1,1.36,True,4.4,0.01,55.43,0.5,0,0,0,0,0,Nott'm Forest,True,Leicester City,-1.35
+Joe Worrall,Nott'm Forest,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,4.4,0.01,51.73,0.5,0,0,0,0,1,Nott'm Forest,False,Fulham,5.33
+Joe Worrall,Nott'm Forest,Fulham,2023-02-11,False,Sub,83,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,2,1.62,False,4.0,0.01,53.69,0.44,0,0,0,0,1,Nott'm Forest,True,Manchester City,-0.22
+Joe Worrall,Nott'm Forest,Manchester City,2023-02-18,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.7,0,0,1,2.54,True,3.0,0.01,55.82,0.4,0,0,0,0,0,Nott'm Forest,False,West Ham,3.49
+Joe Worrall,Nott'm Forest,West Ham,2023-02-25,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.5,0,0,4,2.73,True,1.8,0.01,57.72,0.36,0,0,0,0,1,Nott'm Forest,True,Everton,1.16
+Joe Worrall,Nott'm Forest,Everton,2023-03-05,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.8,0,0,2,1.7,True,0.6,0.01,59.42,0.33,0,0,0,0,7,Nott'm Forest,False,Tottenham,0.66
+Joe Worrall,Nott'm Forest,Tottenham,2023-03-11,False,DC,90,1.0,0.52,0.0,0.08,7,1.0,1.0,10.3,0,0,3,2.05,True,0.6,0.0,60.95,0.31,0,0,0,0,0,Nott'm Forest,True,Newcastle United,0.52
+Joe Worrall,Nott'm Forest,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.1,58.05,0.31,0,0,0,0,1,Nott'm Forest,True,Wolverhampton,-0.63
+Joe Worrall,Nott'm Forest,Wolverhampton,2023-04-01,True,Sub,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,0.2,False,1.8,0.1,56.45,0.31,0,0,0,0,0,Nott'm Forest,False,Leicester City,1.63
+Joe Worrall,Nott'm Forest,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.1,54.0,0.31,0,0,0,0,1,Nott'm Forest,False,Everton,2.01
+Joe Worrall,Nott'm Forest,Everton,2022-08-20,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,1,0.0,False,1.8,0.1,55.5,0.29,0,0,0,0,2,Nott'm Forest,False,Aston Villa,2.52
+Joe Worrall,Nott'm Forest,Aston Villa,2023-04-08,False,DC,64,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,1,0.78,True,1.8,0.1,55.84,0.27,0,0,0,0,0,Nott'm Forest,True,Manchester United,0.67
+Joe Worrall,Nott'm Forest,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.0,53.69,0.27,0,0,0,0,1,Nott'm Forest,False,Liverpool,2.76
+Joe Worrall,Nott'm Forest,Liverpool,2023-04-22,False,Sub,60,0.0,0.0,0.0,0.09,1,0.0,1.0,2.9,0,0,3,2.6,False,0.8,0.0,53.93,0.27,0,0,0,0,2,Nott'm Forest,True,Brighton,-1.91
+Joe Worrall,Nott'm Forest,Brighton,2023-04-26,True,Sub,76,0.0,0.0,0.0,0.0,2,0.0,0.0,1.6,0,0,1,2.35,False,0.8,0.0,54.71,0.25,0,0,0,0,1,Nott'm Forest,False,Brentford,1.33
+Joe Worrall,Nott'm Forest,Brentford,2023-04-29,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.1,0,0,2,1.63,True,1.2,0.0,55.93,0.24,0,0,0,0,1,Nott'm Forest,True,Southampton,-0.97
+Joe Worrall,Nott'm Forest,Southampton,2023-05-08,True,Sub,26,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1,1.9,False,1.2,0.0,54.93,0.24,0,0,0,0,1,Nott'm Forest,False,Chelsea,-2.46
+Joe Worrall,Nott'm Forest,Chelsea,2023-05-13,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,2,1.14,True,1.0,0.0,56.06,0.22,0,0,0,0,6,Nott'm Forest,True,Arsenal,-1.92
+Joe Worrall,Nott'm Forest,Arsenal,2023-05-20,True,DC,90,0.0,0.08,0.0,0.0,6,1.0,0.0,1.5,0,1,0,0.64,True,1.2,0.0,57.12,0.26,0,0,0,0,2,Nott'm Forest,False,Crystal Palace,0.85
+Joe Worrall,Nott'm Forest,Crystal Palace,2023-05-28,False,DC,90,0.0,0.1,0.0,0.0,2,1.0,0.0,0.0,0,0,1,1.6,True,2.2,0.02,58.12,0.25,0,0,0,0,0,Nott'm Forest,True,Tottenham,4.06
+Joe Worrall,Nott'm Forest,Tottenham,2022-08-28,True,DC,90,0.0,0.09,0.0,0.0,0,1.0,0.0,3.5,0,0,2,0.0,False,2.2,0.04,59.06,0.24,0,0,0,0,-1,Nott'm Forest,False,Manchester City,4.87
+Joe Worrall,Nott'm Forest,Manchester City,2022-08-31,False,DC,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,1.5,0,0,6,0.0,False,2.0,0.05,59.94,0.23,0,0,0,0,1,Nott'm Forest,True,Bournemouth,0.52
+Joe Worrall,Nott'm Forest,Bournemouth,2022-09-03,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.4,0,0,3,0.0,False,1.6,0.05,60.78,0.22,0,0,0,0,1,Nott'm Forest,True,Fulham,-2.25
+Joe Worrall,Nott'm Forest,Fulham,2022-09-16,True,Sub,27,0.0,0.0,0.0,0.39,1,0.0,2.0,2.9,0,0,0,0.0,False,1.6,0.05,59.86,0.22,0,0,0,0,0,Nott'm Forest,False,Leeds United,3.17
+Joe Worrall,Nott'm Forest,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.04,58.29,0.22,0,0,0,0,1,Nott'm Forest,False,Arsenal,1.87

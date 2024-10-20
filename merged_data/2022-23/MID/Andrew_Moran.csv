@@ -1,2 +1,28 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Andrew Moran,Brighton,Everton,2023-01-03,False,Sub,11,0,0,0,0,1,0,0,0.0,0,0,1,False,0,0,11.0,0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Andrew Moran,Brighton,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Brighton,False,Wolverhampton,-2.88
+Andrew Moran,Brighton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Brighton,True,Aston Villa,0.69
+Andrew Moran,Brighton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Brighton,False,Southampton,-0.82
+Andrew Moran,Brighton,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Brighton,True,Arsenal,2.84
+Andrew Moran,Brighton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,1.0,Brighton,False,Everton,-1.62
+Andrew Moran,Brighton,Everton,2023-01-03,False,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,False,0.0,0.0,1.83,0,0,0,0,0,0.0,Brighton,True,Liverpool,-1.1
+Andrew Moran,Brighton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.57,0,0,0,0,0,0.0,Brighton,False,Leeds United,0.58
+Andrew Moran,Brighton,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.38,0,0,0,0,0,0.0,Brighton,True,Bournemouth,-1.36
+Andrew Moran,Brighton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.22,0,0,0,0,0,0.0,Brighton,False,Crystal Palace,0.44
+Andrew Moran,Brighton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.1,0,0,0,0,0,0.0,Brighton,True,Fulham,-0.16
+Andrew Moran,Brighton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.0,0,0,0,0,0,0.0,Brighton,True,West Ham,-1.35
+Andrew Moran,Brighton,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.92,0,0,0,0,0,0.0,Brighton,False,Leicester City,-1.23
+Andrew Moran,Brighton,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.85,0,0,0,0,0,0.0,Brighton,True,Crystal Palace,-1.88
+Andrew Moran,Brighton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.79,0,0,0,0,0,0.0,Brighton,True,Brentford,-1.45
+Andrew Moran,Brighton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.73,0,0,0,0,0,0.0,Brighton,False,Bournemouth,0.25
+Andrew Moran,Brighton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.69,0,0,0,0,0,0.0,Brighton,False,Tottenham,-0.37
+Andrew Moran,Brighton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.65,0,0,0,0,0,0.0,Brighton,False,Chelsea,-0.59
+Andrew Moran,Brighton,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.61,0,0,0,0,0,0.0,Brighton,False,Nottingham Forest,0.99
+Andrew Moran,Brighton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.58,0,0,0,0,0,0.0,Brighton,True,Wolverhampton,-1.51
+Andrew Moran,Brighton,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.55,0,0,0,0,0,0.0,Brighton,True,Manchester United,-2.4
+Andrew Moran,Brighton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.52,0,0,0,0,0,0.0,Brighton,True,Everton,2.52
+Andrew Moran,Brighton,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.5,0,0,0,0,0,0.0,Brighton,False,Arsenal,-1.78
+Andrew Moran,Brighton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.48,0,0,0,0,0,0.0,Brighton,False,Newcastle United,1.9
+Andrew Moran,Brighton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.46,0,0,0,0,0,0.0,Brighton,True,Southampton,-1.51
+Andrew Moran,Brighton,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.44,0,0,0,0,0,0.0,Brighton,True,Manchester City,2.39
+Andrew Moran,Brighton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.42,0,0,0,0,0,0.0,Brighton,False,Aston Villa,2.71
+Andrew Moran,Brighton,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.41,0,0,0,0,0,,Wolves,False,Manchester United,0.79

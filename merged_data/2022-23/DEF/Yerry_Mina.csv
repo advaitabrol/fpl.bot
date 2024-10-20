@@ -1,8 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Yerry Mina,Everton,Chelsea,2022-08-06,True,DC,69,0,0.0,0,0.0,1,0,0,1.2,0,0,1,0.0,False,0.0,0.0,69.0,0.0,0,0,0,0,11
-Yerry Mina,Everton,Wolverhampton,2022-12-26,True,DC,75,1,0.1,0,0.0,11,1,0,6.0,3,0,1,0.48,True,1.0,0.0,72.0,0.0,0,0,0,0,1
-Yerry Mina,Everton,West Ham,2023-01-21,False,DC,90,0,0.11,0,0.0,1,2,0,5.4,0,0,2,2.33,True,6.0,0.05,78.0,0.0,0,0,0,0,1
-Yerry Mina,Everton,Brighton,2023-05-08,False,DC,90,0,0.0,0,0.0,1,0,0,4.1,0,0,1,3.26,True,4.33,0.07,81.0,0.0,0,0,0,0,1
-Yerry Mina,Everton,Manchester City,2023-05-14,True,DC,90,0,0.26,0,0.0,1,2,0,5.8,0,0,3,0.76,True,3.5,0.05,82.8,0.0,0,0,0,0,10
-Yerry Mina,Everton,Wolverhampton,2023-05-20,False,DC,90,1,1.19,0,0.08,10,3,1,10.5,2,0,1,1.55,True,3.0,0.09,84.0,0.0,0,0,0,0,8
-Yerry Mina,Everton,Bournemouth,2023-05-28,True,DC,90,0,0.0,0,0.0,8,0,0,0.0,2,1,0,0.49,True,4.8,0.33,84.86,0.14,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Yerry Mina,Everton,Chelsea,2022-08-06,True,DC,69,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,1,0.0,False,0.0,0.0,69.0,0.0,0,0,0,0,0.0,Everton,True,Manchester United,0.93
+Yerry Mina,Everton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,34.5,0.0,0,0,0,0,0.0,Everton,False,Tottenham,2.99
+Yerry Mina,Everton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.5,0.0,23.0,0.0,0,0,0,0,0.0,Everton,False,Newcastle United,1.81
+Yerry Mina,Everton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.33,0.0,17.25,0.0,0,0,0,0,0.0,Everton,True,Crystal Palace,-1.89
+Yerry Mina,Everton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.25,0.0,13.8,0.0,0,0,0,0,0.0,Everton,False,Fulham,-0.21
+Yerry Mina,Everton,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,11.5,0.0,0,0,0,0,0.0,Everton,True,Leeds United,0.49
+Yerry Mina,Everton,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,9.86,0.0,0,0,0,0,0.0,Everton,False,Bournemouth,4.39
+Yerry Mina,Everton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,8.62,0.0,0,0,0,0,11.0,Everton,True,Wolverhampton,1.62
+Yerry Mina,Everton,Wolverhampton,2022-12-26,True,DC,75,1.0,0.1,0.0,0.0,11,1.0,0.0,6.0,3,0,1,0.48,True,0.0,0.0,16.0,0.0,0,0,0,0,0.0,Everton,False,Manchester City,0.69
+Yerry Mina,Everton,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.02,14.4,0.0,0,0,0,0,0.0,Everton,True,Brighton,0.33
+Yerry Mina,Everton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.02,13.09,0.0,0,0,0,0,0.0,Everton,False,Aston Villa,3.22
+Yerry Mina,Everton,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.02,12.0,0.0,0,0,0,0,0.0,Everton,True,Southampton,-2.71
+Yerry Mina,Everton,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.02,11.08,0.0,0,0,0,0,1.0,Everton,False,West Ham,2.5
+Yerry Mina,Everton,West Ham,2023-01-21,False,DC,90,0.0,0.11,0.0,0.0,1,2.0,0.0,5.4,0,0,2,2.33,True,2.2,0.02,16.71,0.0,0,0,0,0,0.0,Everton,True,Arsenal,-2.09
+Yerry Mina,Everton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.02,15.6,0.0,0,0,0,0,0.0,Everton,False,Liverpool,1.94
+Yerry Mina,Everton,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.02,14.62,0.0,0,0,0,0,0.0,Everton,True,Leicester City,-3.7
+Yerry Mina,Everton,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.02,13.76,0.0,0,0,0,0,0.0,Everton,True,Aston Villa,1.41
+Yerry Mina,Everton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.02,13.0,0.0,0,0,0,0,0.0,Everton,False,Arsenal,2.52
+Yerry Mina,Everton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.02,12.32,0.0,0,0,0,0,0.0,Everton,False,Nottingham Forest,0.07
+Yerry Mina,Everton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,11.7,0.0,0,0,0,0,0.0,Everton,True,Brentford,-2.0
+Yerry Mina,Everton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,11.14,0.0,0,0,0,0,0.0,Everton,False,Chelsea,1.97
+Yerry Mina,Everton,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,10.64,0.0,0,0,0,0,0.0,Everton,True,Tottenham,-0.33
+Yerry Mina,Everton,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,10.17,0.0,0,0,0,0,0.0,Everton,True,Nottingham Forest,-0.72
+Yerry Mina,Everton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,9.75,0.0,0,0,0,0,0.0,Everton,False,Manchester United,1.96
+Yerry Mina,Everton,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,9.36,0.0,0,0,0,0,0.0,Everton,True,Fulham,2.03
+Yerry Mina,Everton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,9.0,0.0,0,0,0,0,0.0,Everton,False,Crystal Palace,-0.42
+Yerry Mina,Everton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,8.67,0.0,0,0,0,0,0.0,Everton,True,Newcastle United,-0.27
+Yerry Mina,Everton,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,8.36,0.0,0,0,0,0,0.0,Everton,False,Leeds United,-1.47
+Yerry Mina,Everton,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,8.07,0.0,0,0,0,0,1.0,Everton,False,Brighton,-3.42
+Yerry Mina,Everton,Brighton,2023-05-08,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,4.1,0,0,1,3.26,True,0.0,0.0,10.8,0.0,0,0,0,0,1.0,Everton,True,Manchester City,1.75
+Yerry Mina,Everton,Manchester City,2023-05-14,True,DC,90,0.0,0.26,0.0,0.0,1,2.0,0.0,5.8,0,0,3,0.76,True,0.2,0.0,13.35,0.0,0,0,0,0,10.0,Everton,False,Wolverhampton,1.67
+Yerry Mina,Everton,Wolverhampton,2023-05-20,False,DC,90,1.0,1.19,0.0,0.08,10,3.0,1.0,10.5,2,0,1,1.55,True,0.4,0.05,15.75,0.0,0,0,0,0,8.0,Everton,True,Bournemouth,-4.02
+Yerry Mina,Everton,Bournemouth,2023-05-28,True,DC,90,0.0,0.0,0.0,0.0,8,0.0,0.0,0.0,2,1,0,0.49,True,2.4,0.29,18.0,0.14,0,0,0,0,0.0,Everton,False,Brentford,0.08
+Yerry Mina,Everton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,4.0,0.29,17.47,0.14,0,0,0,0,0.0,Everton,False,Leicester City,-1.63
+Yerry Mina,Everton,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,4.0,0.29,16.97,0.14,0,0,0,0,0.0,Everton,True,Liverpool,-1.2
+Yerry Mina,Everton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.8,0.29,16.5,0.14,0,0,0,0,0.0,Everton,True,West Ham,1.45
+Yerry Mina,Everton,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.6,0.24,16.05,0.14,0,0,0,0,0.0,Everton,False,Southampton,1.08
+Yerry Mina,Everton,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.0,15.63,0.14,0,0,0,0,,Liverpool,False,Chelsea,0.3

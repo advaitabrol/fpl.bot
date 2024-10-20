@@ -1,2 +1,36 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Enso González,Wolves,Crystal Palace,2024-05-11,True,Sub,1,0,0,0,0,1,0,0,0.1,0,0,0,False,0,0,1.0,0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Enso González,Wolves,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,False,Sheffield,-0.53
+Enso González,Wolves,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,True,Tottenham,-0.94
+Enso González,Wolves,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,False,Fulham,-1.47
+Enso González,Wolves,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,False,Arsenal,1.72
+Enso González,Wolves,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,True,Burnley,-0.76
+Enso González,Wolves,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,True,Nottingham Forest,-0.48
+Enso González,Wolves,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,False,West Ham,3.01
+Enso González,Wolves,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,True,Chelsea,-2.49
+Enso González,Wolves,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,False,Brentford,-2.66
+Enso González,Wolves,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,True,Everton,-2.28
+Enso González,Wolves,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,False,Brighton,0.59
+Enso González,Wolves,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,True,Manchester United,0.06
+Enso González,Wolves,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,False,Chelsea,-1.76
+Enso González,Wolves,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,True,Brentford,1.37
+Enso González,Wolves,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,False,Tottenham,-2.61
+Enso González,Wolves,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,True,Sheffield,-0.53
+Enso González,Wolves,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,False,Newcastle United,2.58
+Enso González,Wolves,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,True,Fulham,-0.51
+Enso González,Wolves,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,False,Aston Villa,-0.08
+Enso González,Wolves,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,False,Burnley,0.99
+Enso González,Wolves,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,True,West Ham,-1.01
+Enso González,Wolves,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,False,Nottingham Forest,0.01
+Enso González,Wolves,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,True,Arsenal,2.09
+Enso González,Wolves,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,True,Bournemouth,2.85
+Enso González,Wolves,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,True,Luton,-3.07
+Enso González,Wolves,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,False,Manchester City,3.31
+Enso González,Wolves,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,1.0,Wolves,True,Crystal Palace,0.91
+Enso González,Wolves,Crystal Palace,2024-05-11,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.0,0.0,0.04,0,0,0,0,0,0.0,Wolves,False,Liverpool,1.68
+Enso González,Wolves,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.03,0,0,0,0,0,0.0,Wolves,False,Crystal Palace,1.56
+Enso González,Wolves,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.03,0,0,0,0,0,0.0,Wolves,True,Liverpool,-2.02
+Enso González,Wolves,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.03,0,0,0,0,0,0.0,Wolves,False,Luton,-1.71
+Enso González,Wolves,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.03,0,0,0,0,0,0.0,Wolves,True,Manchester City,1.61
+Enso González,Wolves,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.03,0,0,0,0,0,0.0,Wolves,True,Aston Villa,-1.57
+Enso González,Wolves,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.03,0,0,0,0,0,0.0,Wolves,False,Bournemouth,0.02
+Enso González,Wolves,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.03,0,0,0,0,0,,,,,

@@ -1,16 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Ayoze Pérez,Leicester,Bournemouth,2022-10-08,False,Sub,4,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,0.0,0.0,4.0,2,3,2.05,1.23,0.08,1
-Ayoze Pérez,Leicester,Leicester City,2022-10-20,True,Sub,20,0,0.07,0,0.0,1,1,0,2.0,0,0,0,False,1.0,0.0,12.0,2,3,2.05,1.23,0.08,4
-Ayoze Pérez,Leicester,West Ham,2022-11-12,False,Sub,22,0,0.0,1,0.58,4,0,3,5.7,0,0,0,False,1.0,0.03,15.33,2,3,2.05,1.23,0.08,2
-Ayoze Pérez,Leicester,Newcastle United,2022-12-26,True,Sub,73,0,0.04,0,0.0,2,1,0,2.8,0,0,1,False,2.0,0.36,29.75,2,3,2.05,1.23,0.08,2
-Ayoze Pérez,Leicester,Liverpool,2022-12-30,False,AMR,70,0,0.0,0,0.09,2,0,3,5.8,0,0,2,True,2.0,0.28,37.8,2,3,2.05,1.23,0.08,2
-Ayoze Pérez,Leicester,Fulham,2023-01-03,True,AMR,90,0,0.59,0,0.34,2,4,2,7.8,0,0,1,True,2.0,0.22,46.5,2,3,2.05,1.23,0.08,0
-Ayoze Pérez,Leicester,Aston Villa,2023-02-04,False,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,2.2,0.34,39.86,2,3,2.05,1.23,0.08,0
-Ayoze Pérez,Leicester,Tottenham,2023-02-11,True,Sub,0,0,0.42,0,0.0,0,1,0,0.0,0,0,0,False,2.0,0.33,34.88,2,3,2.05,1.23,0.08,6
-Ayoze Pérez,Leicester,Southampton,2022-08-20,True,MR,64,0,0.04,0,0.06,6,1,1,2.7,0,1,0,False,1.2,0.21,38.11,2,3,2.05,1.23,0.08,0
-Ayoze Pérez,Leicester,Manchester City,2023-04-15,False,AML,0,1,0.92,1,0.12,0,3,2,0.0,0,0,0,False,2.0,0.21,34.3,2,3,2.05,1.23,0.08,0
-Ayoze Pérez,Leicester,Wolverhampton,2023-04-22,True,AML,0,0,0.22,0,0.0,0,6,0,0.0,0,0,0,False,1.6,0.59,31.18,2,3,2.05,1.23,0.08,0
-Ayoze Pérez,Leicester,Leicester City,2023-04-25,False,FW,0,0,0.21,0,0.0,0,2,0,0.0,0,0,0,False,1.2,0.52,28.58,2,3,2.05,1.23,0.08,0
-Ayoze Pérez,Leicester,Liverpool,2023-05-15,True,AML,0,1,0.81,0,0.41,0,1,1,0.0,0,0,0,False,1.2,0.56,26.38,2,3,2.05,1.23,0.08,0
-Ayoze Pérez,Leicester,West Ham,2023-05-28,True,AML,0,0,0.38,0,0.09,0,1,2,0.0,0,0,0,False,1.2,0.64,24.5,2,3,2.05,1.23,0.08,1
-Ayoze Pérez,Leicester,Chelsea,2022-08-27,False,Sub,35,0,0.11,0,0.44,1,1,2,3.9,0,0,1,False,0.0,0.71,25.2,2,3,2.05,1.23,0.08,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Ayoze Pérez,Leicester,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,3.0,2.05,1.23,0.08,1.0,Leicester,False,Bournemouth,
+Ayoze Pérez,Leicester,Bournemouth,2022-10-08,False,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,0.0,0.0,2.0,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,True,Crystal Palace,-0.43
+Ayoze Pérez,Leicester,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.5,0.0,1.33,2.0,3.0,2.05,1.23,0.08,1.0,Leicester,True,Leicester City,2.25
+Ayoze Pérez,Leicester,Leicester City,2022-10-20,True,Sub,20,0.0,0.07,0.0,0.0,1,1.0,0.0,2.0,0,0,0,False,0.33,0.0,6.0,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,False,Wolverhampton,3.01
+Ayoze Pérez,Leicester,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.5,0.02,4.8,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,True,Manchester City,2.25
+Ayoze Pérez,Leicester,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.01,4.0,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,False,Everton,1.31
+Ayoze Pérez,Leicester,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.01,3.43,2.0,3.0,2.05,1.23,0.08,4.0,Leicester,False,West Ham,-0.48
+Ayoze Pérez,Leicester,West Ham,2022-11-12,False,Sub,22,0.0,0.0,1.0,0.58,4,0.0,3.0,5.7,0,0,0,False,0.2,0.01,5.75,2.0,3.0,2.05,1.23,0.08,2.0,Leicester,True,Newcastle United,2.07
+Ayoze Pérez,Leicester,Newcastle United,2022-12-26,True,Sub,73,0.0,0.04,0.0,0.0,2,1.0,0.0,2.8,0,0,1,False,1.0,0.21,13.22,2.0,3.0,2.05,1.23,0.08,2.0,Leicester,False,Liverpool,-0.04
+Ayoze Pérez,Leicester,Liverpool,2022-12-30,False,AMR,70,0.0,0.0,0.0,0.09,2,0.0,3.0,5.8,0,0,2,True,1.2,0.21,18.9,2.0,3.0,2.05,1.23,0.08,2.0,Leicester,True,Fulham,
+Ayoze Pérez,Leicester,Fulham,2023-01-03,True,AMR,90,0.0,0.59,0.0,0.34,2,4.0,2.0,7.8,0,0,1,True,1.6,0.21,25.36,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,False,Arsenal,-1.31
+Ayoze Pérez,Leicester,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.33,23.25,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,False,Nottingham Forest,
+Ayoze Pérez,Leicester,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.33,21.46,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,True,Brighton,-0.74
+Ayoze Pérez,Leicester,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.13,19.93,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,False,Aston Villa,-0.96
+Ayoze Pérez,Leicester,Aston Villa,2023-02-04,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.8,0.12,18.6,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,True,Tottenham,3.95
+Ayoze Pérez,Leicester,Tottenham,2023-02-11,True,Sub,0,0.0,0.42,0.0,0.0,0,1.0,0.0,0.0,0,0,0,False,0.4,0.12,17.44,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,False,Manchester United,0.11
+Ayoze Pérez,Leicester,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.08,16.41,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,True,Arsenal,-1.32
+Ayoze Pérez,Leicester,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.08,15.5,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,False,Southampton,-3.27
+Ayoze Pérez,Leicester,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.08,14.68,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,True,Chelsea,-2.98
+Ayoze Pérez,Leicester,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.08,13.95,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,False,Brentford,-4.9
+Ayoze Pérez,Leicester,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.08,13.29,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,False,Crystal Palace,2.07
+Ayoze Pérez,Leicester,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,12.68,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,True,Aston Villa,-0.34
+Ayoze Pérez,Leicester,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,12.13,2.0,3.0,2.05,1.23,0.08,6.0,Leicester,True,Southampton,1.76
+Ayoze Pérez,Leicester,Southampton,2022-08-20,True,MR,64,0.0,0.04,0.0,0.06,6,1.0,1.0,2.7,0,1,0,False,0.0,0.0,14.29,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,True,Bournemouth,
+Ayoze Pérez,Leicester,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.01,13.72,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,False,Manchester City,1.46
+Ayoze Pérez,Leicester,Manchester City,2023-04-15,False,AML,0,1.0,0.92,1.0,0.12,0,3.0,2.0,0.0,0,0,0,False,1.2,0.01,13.19,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,True,Wolverhampton,-1.75
+Ayoze Pérez,Leicester,Wolverhampton,2023-04-22,True,AML,0,0.0,0.22,0.0,0.0,0,6.0,0.0,0.0,0,0,0,False,1.2,0.39,12.7,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,False,Leicester City,1.46
+Ayoze Pérez,Leicester,Leicester City,2023-04-25,False,FW,0,0.0,0.21,0.0,0.0,0,2.0,0.0,0.0,0,0,0,False,1.2,0.44,12.25,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,True,Everton,4.46
+Ayoze Pérez,Leicester,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.48,11.83,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,False,Fulham,
+Ayoze Pérez,Leicester,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.47,11.43,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,True,Liverpool,-0.21
+Ayoze Pérez,Leicester,Liverpool,2023-05-15,True,AML,0,1.0,0.81,0.0,0.41,0,1.0,1.0,0.0,0,0,0,False,0.0,0.47,11.06,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,False,Newcastle United,1.84
+Ayoze Pérez,Leicester,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.25,10.72,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,True,West Ham,-0.48
+Ayoze Pérez,Leicester,West Ham,2023-05-28,True,AML,0,0.0,0.38,0.0,0.09,0,1.0,2.0,0.0,0,0,0,False,0.0,0.21,10.39,2.0,3.0,2.05,1.23,0.08,1.0,Leicester,False,Chelsea,-5.34
+Ayoze Pérez,Leicester,Chelsea,2022-08-27,False,Sub,35,0.0,0.11,0.0,0.44,1,1.0,2.0,3.9,0,0,1,False,0.0,0.24,11.12,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,True,Manchester United,-2.56
+Ayoze Pérez,Leicester,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.26,10.8,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,False,Brighton,-2.14
+Ayoze Pérez,Leicester,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.26,10.5,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,False,Tottenham,3.38
+Ayoze Pérez,Leicester,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.1,10.22,2.0,3.0,2.05,1.23,0.08,0.0,Leicester,True,Nottingham Forest,
+Ayoze Pérez,Leicester,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.1,9.95,2.0,3.0,2.05,1.23,0.08,,Wolves,False,Manchester United,0.79

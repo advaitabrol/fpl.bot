@@ -1,12 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
-Takumi Minamino,Liverpool,Brighton,2021-10-30,True,Sub,3,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0.0,0.0,3.0
-Takumi Minamino,Liverpool,West Ham,2021-11-07,False,Sub,10,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.0,0.0,6.5
-Takumi Minamino,Liverpool,Arsenal,2021-11-20,True,Sub,14,1,0.92,0,0.0,6,1,0,6.7,0,0,0,0.5,0.0,9.0
-Takumi Minamino,Liverpool,Southampton,2021-11-27,True,Sub,9,0,0.0,0,0.0,1,0,0,0.1,0,0,0,2.33,0.31,9.0
-Takumi Minamino,Liverpool,Everton,2021-12-01,False,Sub,2,0,0.0,0,0.0,1,0,0,0.0,0,0,0,2.0,0.23,7.6
-Takumi Minamino,Liverpool,Aston Villa,2021-12-11,True,Sub,2,0,0.0,0,0.0,1,0,0,0.0,0,0,0,1.8,0.18,6.67
-Takumi Minamino,Liverpool,Brentford,2022-01-16,True,Sub,16,1,0.64,0,0.49,6,2,1,7.9,0,0,0,2.0,0.18,8.0
-Takumi Minamino,Liverpool,Crystal Palace,2022-01-23,False,Sub,30,0,0.0,0,0.0,1,0,0,0.0,0,0,0,3.0,0.31,10.75
-Takumi Minamino,Liverpool,Leeds United,2022-02-10,True,Sub,1,0,0.0,0,0.0,1,0,0,0.1,0,0,0,2.0,0.13,9.67
-Takumi Minamino,Liverpool,Norwich,2022-02-19,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,2.0,0.13,8.8
-Takumi Minamino,Liverpool,Southampton,2022-05-17,False,FWR,90,1,0.2,0,0.07,9,4,1,10.4,2,0,1,2.0,0.13,16.18
+Takumi Minamino,Liverpool,Norwich,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Takumi Minamino,Liverpool,Brighton,2021-10-30,True,Sub,3,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0.0,1.5
+Takumi Minamino,Liverpool,West Ham,2021-11-07,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,0.0,4.33
+Takumi Minamino,Liverpool,Arsenal,2021-11-20,True,Sub,14,1.0,0.92,0.0,0.0,6,1.0,0.0,6.7,0,0,0,0.33,0.0,6.75
+Takumi Minamino,Liverpool,Southampton,2021-11-27,True,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,1.75,0.23,7.2
+Takumi Minamino,Liverpool,Everton,2021-12-01,False,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,1.6,0.18,6.33
+Takumi Minamino,Liverpool,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,1.8,0.18,5.43
+Takumi Minamino,Liverpool,Aston Villa,2021-12-11,True,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,1.8,0.18,5.0
+Takumi Minamino,Liverpool,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,1.8,0.18,4.44
+Takumi Minamino,Liverpool,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.6,0.0,4.0
+Takumi Minamino,Liverpool,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,3.64
+Takumi Minamino,Liverpool,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,3.33
+Takumi Minamino,Liverpool,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,3.08
+Takumi Minamino,Liverpool,Brentford,2022-01-16,True,Sub,16,1.0,0.64,0.0,0.49,6,2.0,1.0,7.9,0,0,0,0.0,0.0,4.0
+Takumi Minamino,Liverpool,Crystal Palace,2022-01-23,False,Sub,30,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,1.2,0.13,5.73
+Takumi Minamino,Liverpool,Leeds United,2022-02-10,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,1.4,0.13,5.44
+Takumi Minamino,Liverpool,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,1.6,0.13,5.12
+Takumi Minamino,Liverpool,Norwich,2022-02-19,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,1.6,0.13,4.89
+Takumi Minamino,Liverpool,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,1.8,0.13,4.63
+Takumi Minamino,Liverpool,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.6,0.0,4.4
+Takumi Minamino,Liverpool,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,4.19
+Takumi Minamino,Liverpool,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,4.0
+Takumi Minamino,Liverpool,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,3.83
+Takumi Minamino,Liverpool,Watford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,3.67
+Takumi Minamino,Liverpool,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,3.52
+Takumi Minamino,Liverpool,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,3.38
+Takumi Minamino,Liverpool,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,3.26
+Takumi Minamino,Liverpool,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,3.14
+Takumi Minamino,Liverpool,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,3.03
+Takumi Minamino,Liverpool,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,2.93
+Takumi Minamino,Liverpool,Southampton,2022-05-17,False,FWR,90,1.0,0.2,0.0,0.07,9,4.0,1.0,10.4,2,0,1,0.0,0.0,5.74
+Takumi Minamino,Liverpool,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,1.8,0.04,5.56
+Takumi Minamino,Liverpool,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,1.8,0.04,5.39
+Takumi Minamino,Liverpool,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,1.8,0.04,5.24
+Takumi Minamino,Liverpool,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,1.8,0.04,5.09
+Takumi Minamino,Liverpool,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,1.8,0.04,4.94
+Takumi Minamino,Liverpool,Watford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,4.81
+Takumi Minamino,Liverpool,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,4.68

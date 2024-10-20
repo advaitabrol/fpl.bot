@@ -1,10 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
-Axel Tuanzebe,Aston Villa,Southampton,2021-11-05,False,DC,90,0,0.0,0,0.0,1,0,0,0.8,0,0,1,0.0,0.0,90.0,0.0
-Axel Tuanzebe,Aston Villa,Leeds United,2021-12-05,True,Sub,6,0,0.0,0,0.0,1,0,0,0.0,0,0,0,1.0,0.0,48.0,0.0
-Axel Tuanzebe,Aston Villa,Norwich,2021-12-14,False,Sub,2,0,0.0,0,0.0,1,0,0,0.0,0,0,0,1.0,0.0,32.67,0.0
-Axel Tuanzebe,Aston Villa,Newcastle United,2021-08-21,True,Sub,2,0,0.0,0,0.0,1,0,0,0.0,0,0,0,1.0,0.0,25.0,0.0
-Axel Tuanzebe,Aston Villa,Brentford,2021-08-28,True,DC,90,0,0.06,0,0.0,2,1,0,3.9,0,0,1,1.0,0.0,38.0,0.0
-Axel Tuanzebe,Aston Villa,Chelsea,2021-09-11,False,DC,90,0,0.0,0,0.0,1,0,0,1.9,0,0,3,1.2,0.01,46.67,0.0
-Axel Tuanzebe,Aston Villa,Everton,2021-09-18,True,DC,90,0,0.1,0,0.0,6,1,0,2.9,0,1,0,1.2,0.01,52.86,0.25
-Axel Tuanzebe,Aston Villa,Wolverhampton,2021-10-16,True,DC,90,0,0.0,0,0.0,1,0,0,0.9,0,0,3,2.2,0.03,57.5,0.2
-Axel Tuanzebe,Aston Villa,Arsenal,2021-10-22,False,DC,45,0,0.0,0,0.0,0,0,0,1.1,0,0,2,2.2,0.03,56.11,0.2
+Axel Tuanzebe,Aston Villa,Watford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Axel Tuanzebe,Aston Villa,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Axel Tuanzebe,Aston Villa,Southampton,2021-11-05,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,1,0.0,0.0,30.0,0.0
+Axel Tuanzebe,Aston Villa,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.33,0.0,22.5,0.0
+Axel Tuanzebe,Aston Villa,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.25,0.0,18.0,0.0
+Axel Tuanzebe,Aston Villa,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,15.0,0.0
+Axel Tuanzebe,Aston Villa,Leeds United,2021-12-05,True,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.2,0.0,13.71,0.0
+Axel Tuanzebe,Aston Villa,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,12.0,0.0
+Axel Tuanzebe,Aston Villa,Norwich,2021-12-14,False,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.2,0.0,10.89,0.0
+Axel Tuanzebe,Aston Villa,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,9.8,0.0
+Axel Tuanzebe,Aston Villa,Newcastle United,2021-08-21,True,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.4,0.0,9.09,0.0
+Axel Tuanzebe,Aston Villa,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.6,0.0,8.33,0.0
+Axel Tuanzebe,Man Utd,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,7.69,0.0
+Axel Tuanzebe,Man Utd,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,7.14,0.0
+Axel Tuanzebe,Man Utd,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,6.67,0.0
+Axel Tuanzebe,Man Utd,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,6.25,0.0
+Axel Tuanzebe,Man Utd,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,5.88,0.0
+Axel Tuanzebe,Man Utd,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,5.56,0.0
+Axel Tuanzebe,Man Utd,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,5.26,0.0
+Axel Tuanzebe,Man Utd,Watford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,5.0,0.0
+Axel Tuanzebe,Man Utd,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,4.76,0.0
+Axel Tuanzebe,Man Utd,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,4.55,0.0
+Axel Tuanzebe,Aston Villa,Brentford,2021-08-28,True,DC,90,0.0,0.06,0.0,0.0,2,1.0,0.0,3.9,0,0,1,0.0,0.0,8.26,0.0
+Axel Tuanzebe,Man Utd,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.01,7.92,0.0
+Axel Tuanzebe,Man Utd,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.01,7.6,0.0
+Axel Tuanzebe,Man Utd,Norwich,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.01,7.31,0.0
+Axel Tuanzebe,Man Utd,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.01,7.04,0.0
+Axel Tuanzebe,Man Utd,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.01,6.79,0.0
+Axel Tuanzebe,Man Utd,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,6.55,0.0
+Axel Tuanzebe,Man Utd,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,6.33,0.0
+Axel Tuanzebe,Man Utd,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,6.13,0.0
+Axel Tuanzebe,Man Utd,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,5.94,0.0
+Axel Tuanzebe,Aston Villa,Chelsea,2021-09-11,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,3,0.0,0.0,8.48,0.0
+Axel Tuanzebe,Aston Villa,Everton,2021-09-18,True,DC,90,0.0,0.1,0.0,0.0,6,1.0,0.0,2.9,0,1,0,0.2,0.0,10.88,0.25
+Axel Tuanzebe,Aston Villa,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,1.4,0.02,10.57,0.25
+Axel Tuanzebe,Aston Villa,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,1.4,0.02,10.28,0.25
+Axel Tuanzebe,Aston Villa,Wolverhampton,2021-10-16,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,3,1.4,0.02,12.43,0.2
+Axel Tuanzebe,Aston Villa,Arsenal,2021-10-22,False,DC,45,0.0,0.0,0.0,0.0,0,0.0,0.0,1.1,0,0,2,1.6,0.02,13.29,0.2

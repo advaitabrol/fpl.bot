@@ -1,13 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Scott Carson,Man City,Newcastle United,2023-08-19,True,0,0,0.0,0,0,0,0,False,0.02,False,0.0,0.0,0,0.0,0,0
-Scott Carson,Man City,Sheffield,2023-08-27,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0.0,0,0
-Scott Carson,Man City,Crystal Palace,2024-04-06,False,0,0,0.0,0,0,0,0,False,0.07,False,0.0,0.0,0,0.0,0,0
-Scott Carson,Man City,Luton,2024-04-13,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0.0,0,0
-Scott Carson,Man City,Wolverhampton,2024-05-04,True,0,0,0.0,0,0,0,0,False,0.03,False,0.0,0.0,0,0.0,0,0
-Scott Carson,Man City,Fulham,2024-05-11,False,0,0,0.0,0,0,0,0,False,0.63,False,0.0,0.0,0,0.0,0,0
-Scott Carson,Man City,West Ham,2024-05-19,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0.0,0,0
-Scott Carson,Man City,Fulham,2023-09-02,True,0,0,0.0,0,0,0,0,False,0.1,False,0.0,0.0,0,0.0,0,0
-Scott Carson,Man City,West Ham,2023-09-16,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0.0,0,0
-Scott Carson,Man City,Wolverhampton,2023-09-30,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0.0,0,0
-Scott Carson,Man City,Arsenal,2023-10-08,False,0,0,0.0,0,0,0,0,False,0.02,False,0.0,0.0,0,0.0,0,0
-Scott Carson,Man City,Brighton,2023-10-21,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0.0,0,
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty,saves_per_game,last_season_total_saves
+Scott Carson,Man City,Burnley,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,False,Manchester United,-1.52,0.0,0
+Scott Carson,Man City,Manchester United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,True,Bournemouth,-4.45,0.0,0
+Scott Carson,Man City,Bournemouth,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,False,Chelsea,-0.75,0.0,0
+Scott Carson,Man City,Chelsea,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,True,Liverpool,-1.11,0.0,0
+Scott Carson,Man City,Liverpool,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,True,Tottenham,1.5,0.0,0
+Scott Carson,Man City,Tottenham,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,False,Aston Villa,0.61,0.0,0
+Scott Carson,Man City,Aston Villa,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,False,Luton,-2.0,0.0,0
+Scott Carson,Man City,Luton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,True,Crystal Palace,1.84,0.0,0
+Scott Carson,Man City,Crystal Palace,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,False,Everton,-2.05,0.0,0
+Scott Carson,Man City,Everton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,True,Newcastle United,-3.3,0.0,0
+Scott Carson,Man City,Newcastle United,2023-08-19,True,0,0,0.0,0,0,0,0,False,0.02,False,0.0,0.0,0,0.0,0,0.0,Man City,True,Sheffield,-0.83,0.0,0
+Scott Carson,Man City,Sheffield,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,False,Newcastle United,-1.93,0.0,0
+Scott Carson,Man City,Newcastle United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,True,Burnley,-2.04,0.0,0
+Scott Carson,Man City,Burnley,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,False,Brentford,-1.08,0.0,0
+Scott Carson,Man City,Brentford,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,True,Everton,-1.11,0.0,0
+Scott Carson,Man City,Everton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,True,Chelsea,-0.63,0.0,0
+Scott Carson,Man City,Chelsea,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,True,Brentford,0.69,0.0,0
+Scott Carson,Man City,Brentford,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,False,Bournemouth,-2.29,0.0,0
+Scott Carson,Man City,Bournemouth,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,True,Manchester United,-1.86,0.0,0
+Scott Carson,Man City,Manchester United,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,False,Liverpool,0.57,0.0,0
+Scott Carson,Man City,Liverpool,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,False,Sheffield,-1.37,0.0,0
+Scott Carson,Man City,Sheffield,2023-08-27,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0.0,0,0.0,Man City,True,Arsenal,-3.0,0.0,0
+Scott Carson,Man City,Arsenal,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,True,Aston Villa,-1.8,0.0,0
+Scott Carson,Man City,Aston Villa,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,False,Crystal Palace,-1.0,0.0,0
+Scott Carson,Man City,Crystal Palace,2024-04-06,False,0,0,0.0,0,0,0,0,False,0.07,False,0.0,0.0,0,0.0,0,0.0,Man City,True,Luton,-3.41,0.0,0
+Scott Carson,Man City,Luton,2024-04-13,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0.0,0,0.0,Man City,False,Brighton,-3.49,0.0,0
+Scott Carson,Man City,Brighton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,False,Nottingham Forest,0.39,0.0,0
+Scott Carson,Man City,Nottingham Forest,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,True,Wolverhampton,-3.86,0.0,0
+Scott Carson,Man City,Wolverhampton,2024-05-04,True,0,0,0.0,0,0,0,0,False,0.03,False,0.0,0.0,0,0.0,0,0.0,Man City,False,Fulham,-3.19,0.0,0
+Scott Carson,Man City,Fulham,2024-05-11,False,0,0,0.0,0,0,0,0,False,0.63,False,0.0,0.0,0,0.0,0,0.0,Man City,False,Tottenham,0.04,0.0,0
+Scott Carson,Man City,Tottenham,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,True,West Ham,-1.87,0.0,0
+Scott Carson,Man City,West Ham,2024-05-19,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0.0,0,0.0,Man City,True,Fulham,-1.5,0.0,0
+Scott Carson,Man City,Fulham,2023-09-02,True,0,0,0.0,0,0,0,0,False,0.1,False,0.0,0.0,0,0.0,0,0.0,Man City,False,West Ham,-1.27,0.0,0
+Scott Carson,Man City,West Ham,2023-09-16,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0.0,0,0.0,Man City,True,Nottingham Forest,-4.8,0.0,0
+Scott Carson,Man City,Nottingham Forest,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0.0,0,0.0,Man City,False,Wolverhampton,-1.76,0.0,0
+Scott Carson,Man City,Wolverhampton,2023-09-30,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0.0,0,0.0,Man City,False,Arsenal,-1.52,0.0,0
+Scott Carson,Man City,Arsenal,2023-10-08,False,0,0,0.0,0,0,0,0,False,0.02,False,0.0,0.0,0,0.0,0,0.0,Man City,True,Brighton,-2.1,0.0,0
+Scott Carson,Man City,Brighton,2023-10-21,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0.0,0,,,,,,0.0,0

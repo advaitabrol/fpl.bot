@@ -1,20 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Aaron Wan-Bissaka,Man Utd,Nottingham Forest,2022-12-27,True,DR,90,0,0.0,0,0.13,6,0,2,5.4,0,1,0,0.72,True,0.0,0.0,90.0,1.0,0,0,0,0,9
-Aaron Wan-Bissaka,Man Utd,Wolverhampton,2022-12-31,False,DR,90,0,0.0,0,0.46,9,0,1,3.4,3,1,0,0.67,True,6.0,0.0,90.0,1.0,0,0,0,0,6
-Aaron Wan-Bissaka,Man Utd,Bournemouth,2023-01-03,True,DR,68,0,0.0,0,0.03,6,0,1,2.5,0,1,0,0.37,True,7.5,0.0,82.67,1.0,0,0,0,0,2
-Aaron Wan-Bissaka,Man Utd,Manchester City,2023-01-14,True,DR,90,0,0.02,0,0.0,2,1,0,2.0,0,0,1,0.65,True,7.0,0.0,84.5,0.75,0,0,0,0,2
-Aaron Wan-Bissaka,Man Utd,Crystal Palace,2023-01-18,False,DR,90,0,0.0,0,0.02,2,0,1,4.7,0,0,1,0.55,True,5.75,0.0,85.6,0.6,0,0,0,0,1
-Aaron Wan-Bissaka,Man Utd,Arsenal,2023-01-22,False,DR,90,0,0.0,0,0.03,1,0,1,3.8,0,0,3,2.93,True,5.0,0.0,86.33,0.5,0,0,0,0,2
-Aaron Wan-Bissaka,Man Utd,Crystal Palace,2023-02-04,True,DR,86,0,0.0,0,0.0,2,0,0,1.8,0,0,1,1.17,True,4.0,0.0,86.29,0.43,0,0,0,0,1
-Aaron Wan-Bissaka,Man Utd,Leicester City,2023-02-12,False,Sub,17,0,0.0,0,0.0,1,0,0,0.4,0,0,0,0.39,False,2.6,0.0,77.62,0.43,0,0,0,0,1
-Aaron Wan-Bissaka,Man Utd,Leeds United,2023-02-19,True,Sub,21,0,0.0,0,0.14,1,0,1,1.8,0,0,0,0.25,False,1.6,0.0,71.33,0.43,0,0,0,0,6
-Aaron Wan-Bissaka,Man Utd,Southampton,2023-03-12,True,DR,90,0,0.03,0,0.0,6,1,0,2.7,0,1,0,1.14,True,1.4,0.0,73.2,0.5,0,0,0,0,1
-Aaron Wan-Bissaka,Man Utd,Liverpool,2022-08-22,True,Sub,4,0,0.0,0,0.0,1,0,0,0.3,0,0,0,0.0,False,2.2,0.01,66.91,0.5,0,0,0,0,6
-Aaron Wan-Bissaka,Man Utd,Everton,2023-04-08,True,DR,90,0,0.67,0,0.12,6,3,2,8.8,0,1,0,1.02,True,2.2,0.01,68.83,0.56,0,0,0,0,6
-Aaron Wan-Bissaka,Man Utd,Nottingham Forest,2023-04-16,False,DR,90,0,0.11,0,0.04,6,1,1,5.7,0,1,0,0.68,True,3.0,0.14,70.46,0.6,0,0,0,0,1
-Aaron Wan-Bissaka,Man Utd,Tottenham,2023-04-27,False,DR,70,0,0.03,0,0.0,1,1,0,0.0,0,0,1,1.54,True,4.0,0.16,70.43,0.55,0,0,0,0,2
-Aaron Wan-Bissaka,Man Utd,Brighton,2023-05-04,False,DR,90,0,0.1,0,0.0,2,1,0,2.7,0,0,1,2.29,True,4.0,0.17,71.73,0.5,0,0,0,0,1
-Aaron Wan-Bissaka,Man Utd,West Ham,2023-05-07,False,DR,86,0,0.0,0,0.07,1,0,3,5.7,0,0,1,1.29,True,3.2,0.18,72.62,0.46,0,0,0,0,6
-Aaron Wan-Bissaka,Man Utd,Wolverhampton,2023-05-13,True,DR,90,0,0.0,0,0.02,6,0,1,3.1,0,1,0,0.39,True,3.2,0.18,73.65,0.5,0,0,0,0,6
-Aaron Wan-Bissaka,Man Utd,Bournemouth,2023-05-20,False,DR,90,0,0.1,0,0.07,6,1,1,4.6,0,1,0,1.19,True,3.2,0.05,74.56,0.53,0,0,0,0,2
-Aaron Wan-Bissaka,Man Utd,Chelsea,2023-05-25,True,DR,90,0,0.12,0,0.0,2,1,0,2.9,0,0,1,1.93,True,3.2,0.04,75.37,0.5,0,0,0,0,12
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Aaron Wan-Bissaka,Man Utd,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Man Utd,False,Everton,-1.18
+Aaron Wan-Bissaka,Man Utd,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Man Utd,True,Newcastle United,-0.79
+Aaron Wan-Bissaka,Man Utd,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Man Utd,True,Tottenham,-2.02
+Aaron Wan-Bissaka,Man Utd,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Man Utd,False,Chelsea,0.93
+Aaron Wan-Bissaka,Man Utd,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Man Utd,True,West Ham,-1.52
+Aaron Wan-Bissaka,Man Utd,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Man Utd,False,Aston Villa,-0.18
+Aaron Wan-Bissaka,Man Utd,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Man Utd,False,Fulham,-1.5
+Aaron Wan-Bissaka,Man Utd,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,6,Man Utd,True,Nottingham Forest,-0.7
+Aaron Wan-Bissaka,Man Utd,Nottingham Forest,2022-12-27,True,DR,90,0.0,0.0,0.0,0.13,6,0.0,2.0,5.4,0,1,0,0.72,True,0.0,0.0,10.0,1.0,0,0,0,0,9,Man Utd,False,Wolverhampton,-0.7
+Aaron Wan-Bissaka,Man Utd,Wolverhampton,2022-12-31,False,DR,90,0.0,0.0,0.0,0.46,9,0.0,1.0,3.4,3,1,0,0.67,True,1.2,0.0,18.0,1.0,0,0,0,0,6,Man Utd,True,Bournemouth,1.4
+Aaron Wan-Bissaka,Man Utd,Bournemouth,2023-01-03,True,DR,68,0.0,0.0,0.0,0.03,6,0.0,1.0,2.5,0,1,0,0.37,True,3.0,0.0,22.55,1.0,0,0,0,0,0,Man Utd,False,Brentford,1.16
+Aaron Wan-Bissaka,Man Utd,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,4.2,0.0,20.67,1.0,0,0,0,0,2,Man Utd,True,Manchester City,0.86
+Aaron Wan-Bissaka,Man Utd,Manchester City,2023-01-14,True,DR,90,0.0,0.02,0.0,0.0,2,1.0,0.0,2.0,0,0,1,0.65,True,4.2,0.0,26.0,0.75,0,0,0,0,2,Man Utd,False,Crystal Palace,2.45
+Aaron Wan-Bissaka,Man Utd,Crystal Palace,2023-01-18,False,DR,90,0.0,0.0,0.0,0.02,2,0.0,1.0,4.7,0,0,1,0.55,True,4.6,0.0,30.57,0.6,0,0,0,0,1,Man Utd,False,Arsenal,1.27
+Aaron Wan-Bissaka,Man Utd,Arsenal,2023-01-22,False,DR,90,0.0,0.0,0.0,0.03,1,0.0,1.0,3.8,0,0,3,2.93,True,3.8,0.0,34.53,0.5,0,0,0,0,2,Man Utd,True,Crystal Palace,1.05
+Aaron Wan-Bissaka,Man Utd,Crystal Palace,2023-02-04,True,DR,86,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,1.17,True,2.2,0.0,37.75,0.43,0,0,0,0,0,Man Utd,True,Leicester City,-2.87
+Aaron Wan-Bissaka,Man Utd,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,35.53,0.43,0,0,0,0,1,Man Utd,False,Leicester City,-2.1
+Aaron Wan-Bissaka,Man Utd,Leicester City,2023-02-12,False,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.39,False,1.4,0.0,34.5,0.43,0,0,0,0,1,Man Utd,True,Leeds United,-2.34
+Aaron Wan-Bissaka,Man Utd,Leeds United,2023-02-19,True,Sub,21,0.0,0.0,0.0,0.14,1,0.0,1.0,1.8,0,0,0,0.25,False,1.2,0.0,33.79,0.43,0,0,0,0,0,Man Utd,False,Liverpool,2.76
+Aaron Wan-Bissaka,Man Utd,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,32.1,0.43,0,0,0,0,6,Man Utd,True,Southampton,-0.88
+Aaron Wan-Bissaka,Man Utd,Southampton,2023-03-12,True,DR,90,0.0,0.03,0.0,0.0,6,1.0,0.0,2.7,0,1,0,1.14,True,0.8,0.0,34.86,0.5,0,0,0,0,0,Man Utd,False,Newcastle United,1.36
+Aaron Wan-Bissaka,Man Utd,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.01,33.27,0.5,0,0,0,0,0,Man Utd,True,Brentford,-1.08
+Aaron Wan-Bissaka,Man Utd,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.01,31.83,0.5,0,0,0,0,1,Man Utd,True,Liverpool,0.35
+Aaron Wan-Bissaka,Man Utd,Liverpool,2022-08-22,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,False,1.4,0.01,30.67,0.5,0,0,0,0,6,Man Utd,True,Everton,-1.71
+Aaron Wan-Bissaka,Man Utd,Everton,2023-04-08,True,DR,90,0.0,0.67,0.0,0.12,6,3.0,2.0,8.8,0,1,0,1.02,True,1.4,0.01,33.04,0.56,0,0,0,0,6,Man Utd,False,Nottingham Forest,-0.09
+Aaron Wan-Bissaka,Man Utd,Nottingham Forest,2023-04-16,False,DR,90,0.0,0.11,0.0,0.04,6,1.0,1.0,5.7,0,1,0,0.68,True,2.6,0.14,35.23,0.6,0,0,0,0,1,Man Utd,False,Tottenham,0.11
+Aaron Wan-Bissaka,Man Utd,Tottenham,2023-04-27,False,DR,70,0.0,0.03,0.0,0.0,1,1.0,0.0,0.0,0,0,1,1.54,True,2.6,0.16,36.52,0.55,0,0,0,0,0,Man Utd,True,Aston Villa,-0.23
+Aaron Wan-Bissaka,Man Utd,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.8,0.16,35.21,0.55,0,0,0,0,2,Man Utd,False,Brighton,0.65
+Aaron Wan-Bissaka,Man Utd,Brighton,2023-05-04,False,DR,90,0.0,0.1,0.0,0.0,2,1.0,0.0,2.7,0,0,1,2.29,True,2.8,0.16,37.1,0.5,0,0,0,0,1,Man Utd,False,West Ham,2.3
+Aaron Wan-Bissaka,Man Utd,West Ham,2023-05-07,False,DR,86,0.0,0.0,0.0,0.07,1,0.0,3.0,5.7,0,0,1,1.29,True,3.0,0.18,38.73,0.46,0,0,0,0,6,Man Utd,True,Wolverhampton,-0.93
+Aaron Wan-Bissaka,Man Utd,Wolverhampton,2023-05-13,True,DR,90,0.0,0.0,0.0,0.02,6,0.0,1.0,3.1,0,1,0,0.39,True,2.0,0.05,40.39,0.5,0,0,0,0,6,Man Utd,False,Bournemouth,-0.31
+Aaron Wan-Bissaka,Man Utd,Bournemouth,2023-05-20,False,DR,90,0.0,0.1,0.0,0.07,6,1.0,1.0,4.6,0,1,0,1.19,True,2.0,0.03,41.94,0.53,0,0,0,0,2,Man Utd,True,Chelsea,-2.79
+Aaron Wan-Bissaka,Man Utd,Chelsea,2023-05-25,True,DR,90,0.0,0.12,0.0,0.0,2,1.0,0.0,2.9,0,0,1,1.93,True,3.0,0.04,43.39,0.5,0,0,0,0,0,Man Utd,True,Fulham,0.26
+Aaron Wan-Bissaka,Man Utd,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.4,0.06,42.12,0.5,0,0,0,0,0,Man Utd,False,Southampton,-0.99
+Aaron Wan-Bissaka,Man Utd,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.04,40.91,0.5,0,0,0,0,0,Man Utd,False,Leeds United,0.57
+Aaron Wan-Bissaka,Man Utd,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.8,0.04,39.78,0.5,0,0,0,0,0,Man Utd,True,Arsenal,-2.12
+Aaron Wan-Bissaka,Man Utd,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.04,38.7,0.5,0,0,0,0,0,Man Utd,False,Manchester City,1.48
+Aaron Wan-Bissaka,Man Utd,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.02,37.68,0.5,0,0,0,0,12,Man Utd,True,Wolverhampton,-0.93

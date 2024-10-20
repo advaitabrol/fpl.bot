@@ -1,13 +1,35 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Harvey Vale,Chelsea,Wolverhampton,2022-10-08,True,ML,0,0,0.09,0,0.0,0,2,0,0.0,0,0,0,False,0.0,0.0,0.0,2,3,1.82,1.5,0,0
-Harvey Vale,Chelsea,Brighton,2022-10-29,False,FWL,0,0,0.09,0,0.0,0,2,0,0.0,0,0,0,False,0.0,0.09,0.0,2,3,1.82,1.5,0,0
-Harvey Vale,Chelsea,Newcastle United,2022-11-12,False,ML,0,1,0.51,0,0.06,0,2,1,0.0,0,0,0,False,0.0,0.09,0.0,2,3,1.82,1.5,0,0
-Harvey Vale,Chelsea,Liverpool,2023-01-21,False,ML,0,1,0.79,0,0.0,0,3,0,0.0,0,0,0,False,0.0,0.23,0.0,2,3,1.82,1.5,0,0
-Harvey Vale,Chelsea,West Ham,2023-02-11,False,AML,0,1,0.24,0,0.23,0,3,1,0.0,0,0,0,False,0.0,0.37,0.0,2,3,1.82,1.5,0,0
-Harvey Vale,Chelsea,Leicester City,2023-03-04,True,AML,0,0,0.06,0,0.13,0,1,1,0.0,0,0,0,False,0.0,0.34,0.0,2,3,1.82,1.5,0,0
-Harvey Vale,Chelsea,Leeds United,2023-03-11,False,Sub,0,0,0.0,0,0.42,0,0,1,0.0,0,0,0,False,0.0,0.34,0.0,2,3,1.82,1.5,0,0
-Harvey Vale,Chelsea,Everton,2023-03-18,True,AML,0,1,0.49,0,0.05,0,4,1,0.0,0,0,0,False,0.0,0.32,0.0,2,3,1.82,1.5,0,0
-Harvey Vale,Chelsea,Aston Villa,2023-04-01,True,AML,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.32,0.0,2,3,1.82,1.5,0,0
-Harvey Vale,Chelsea,Liverpool,2023-04-04,True,FWL,0,1,0.27,0,0.0,0,3,0,0.0,0,0,0,False,0.0,0.16,0.0,2,3,1.82,1.5,0,0
-Harvey Vale,Chelsea,Wolverhampton,2023-04-08,False,AML,0,0,0.07,0,0.0,0,1,0,0.0,0,0,0,False,0.0,0.16,0.0,2,3,1.82,1.5,0,0
-Harvey Vale,Chelsea,Newcastle United,2023-05-28,True,AML,0,1,0.52,0,0.06,0,3,1,0.0,0,0,0,False,0.0,0.17,0.0,2,3,1.82,1.5,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Harvey Vale,Chelsea,Wolverhampton,2022-10-08,True,ML,0,0.0,0.09,0.0,0.0,0,2.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,False,Aston Villa,-1.37
+Harvey Vale,Chelsea,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.09,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,False,Brentford,0.61
+Harvey Vale,Chelsea,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.05,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,True,Manchester United,-1.31
+Harvey Vale,Chelsea,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.03,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,False,Brighton,1.01
+Harvey Vale,Chelsea,Brighton,2022-10-29,False,FWL,0,0.0,0.09,0.0,0.0,0,2.0,0.0,0.0,0,0,0,False,0.0,0.02,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,True,Arsenal,2.1
+Harvey Vale,Chelsea,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.04,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,False,Newcastle United,0.94
+Harvey Vale,Chelsea,Newcastle United,2022-11-12,False,ML,0,1.0,0.51,0.0,0.06,0,2.0,1.0,0.0,0,0,0,False,0.0,0.02,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,True,Bournemouth,-3.02
+Harvey Vale,Chelsea,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.12,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,False,Nottingham Forest,-0.41
+Harvey Vale,Chelsea,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.12,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,True,Manchester City,0.19
+Harvey Vale,Chelsea,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.12,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,False,Fulham,-2.13
+Harvey Vale,Chelsea,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.1,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,True,Crystal Palace,-1.51
+Harvey Vale,Chelsea,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.1,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,False,Liverpool,0.96
+Harvey Vale,Chelsea,Liverpool,2023-01-21,False,ML,0,1.0,0.79,0.0,0.0,0,3.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,True,Fulham,-1.08
+Harvey Vale,Chelsea,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.16,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,False,West Ham,2.89
+Harvey Vale,Chelsea,West Ham,2023-02-11,False,AML,0,1.0,0.24,0.0,0.23,0,3.0,1.0,0.0,0,0,0,False,0.0,0.16,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,True,Southampton,-0.42
+Harvey Vale,Chelsea,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.21,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,False,Tottenham,-1.07
+Harvey Vale,Chelsea,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.21,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,True,Leicester City,-0.96
+Harvey Vale,Chelsea,Leicester City,2023-03-04,True,AML,0,0.0,0.06,0.0,0.13,0,1.0,1.0,0.0,0,0,0,False,0.0,0.21,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,False,Leeds United,-3.94
+Harvey Vale,Chelsea,Leeds United,2023-03-11,False,Sub,0,0.0,0.0,0.0,0.42,0,0.0,1.0,0.0,0,0,0,False,0.0,0.06,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,True,Everton,-2.38
+Harvey Vale,Chelsea,Everton,2023-03-18,True,AML,0,1.0,0.49,0.0,0.05,0,4.0,1.0,0.0,0,0,0,False,0.0,0.06,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,True,Aston Villa,0.42
+Harvey Vale,Chelsea,Aston Villa,2023-04-01,True,AML,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.11,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,True,Liverpool,-0.16
+Harvey Vale,Chelsea,Liverpool,2023-04-04,True,FWL,0,1.0,0.27,0.0,0.0,0,3.0,0.0,0.0,0,0,0,False,0.0,0.11,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,False,Wolverhampton,1.62
+Harvey Vale,Chelsea,Wolverhampton,2023-04-08,False,AML,0,0.0,0.07,0.0,0.0,0,1.0,0.0,0.0,0,0,0,False,0.0,0.16,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,True,Brighton,-0.67
+Harvey Vale,Chelsea,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.17,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,True,Brentford,4.42
+Harvey Vale,Chelsea,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.17,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,False,Arsenal,1.29
+Harvey Vale,Chelsea,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.07,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,False,Bournemouth,-1.53
+Harvey Vale,Chelsea,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.07,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,True,Nottingham Forest,1.3
+Harvey Vale,Chelsea,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,False,Manchester City,-0.89
+Harvey Vale,Chelsea,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,False,Manchester United,1.87
+Harvey Vale,Chelsea,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,True,Newcastle United,-0.99
+Harvey Vale,Chelsea,Newcastle United,2023-05-28,True,AML,0,1.0,0.52,0.0,0.06,0,3.0,1.0,0.0,0,0,0,False,0.0,0.0,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,False,Southampton,-2.24
+Harvey Vale,Chelsea,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.1,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,True,West Ham,-2.56
+Harvey Vale,Chelsea,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.1,0.0,2.0,3.0,1.82,1.5,0,0.0,Chelsea,False,Crystal Palace,-1.06
+Harvey Vale,Chelsea,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.1,0.0,2.0,3.0,1.82,1.5,0,,Wolves,False,Manchester United,0.79

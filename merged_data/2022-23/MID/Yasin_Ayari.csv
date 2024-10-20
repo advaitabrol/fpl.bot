@@ -1,4 +1,20 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Yasin Ayari,Brighton,Bournemouth,2023-04-04,False,Sub,10,0,0.01,0,0.13,1,1,1,1.8,0,0,0,False,0.0,0.0,10.0,0,0,0,0,0,1
-Yasin Ayari,Brighton,Wolverhampton,2023-04-29,True,Sub,10,0,0.0,0,0.11,1,0,1,1.5,0,0,0,False,1.0,0.01,10.0,0,0,0,0,0,1
-Yasin Ayari,Brighton,Aston Villa,2023-05-28,False,MC,45,0,0.0,0,0.0,1,0,0,0.0,0,0,2,True,1.0,0.01,21.67,0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Yasin Ayari,Brighton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brighton,False,Crystal Palace,0.44
+Yasin Ayari,Brighton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brighton,True,Fulham,-0.16
+Yasin Ayari,Brighton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brighton,True,West Ham,-1.35
+Yasin Ayari,Brighton,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brighton,False,Leicester City,-1.23
+Yasin Ayari,Brighton,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brighton,True,Crystal Palace,-1.88
+Yasin Ayari,Brighton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brighton,True,Brentford,-1.45
+Yasin Ayari,Brighton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,1,Brighton,False,Bournemouth,0.25
+Yasin Ayari,Brighton,Bournemouth,2023-04-04,False,Sub,10,0.0,0.01,0.0,0.13,1,1.0,1.0,1.8,0,0,0,False,0.0,0.0,1.25,0,0,0,0,0,0,Brighton,False,Tottenham,-0.37
+Yasin Ayari,Brighton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.11,0,0,0,0,0,0,Brighton,False,Chelsea,-0.59
+Yasin Ayari,Brighton,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.0,0,0,0,0,0,0,Brighton,False,Nottingham Forest,0.99
+Yasin Ayari,Brighton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.91,0,0,0,0,0,1,Brighton,True,Wolverhampton,-1.51
+Yasin Ayari,Brighton,Wolverhampton,2023-04-29,True,Sub,10,0.0,0.0,0.0,0.11,1,0.0,1.0,1.5,0,0,0,False,0.2,0.0,1.67,0,0,0,0,0,0,Brighton,True,Manchester United,-2.4
+Yasin Ayari,Brighton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,1.54,0,0,0,0,0,0,Brighton,True,Everton,2.52
+Yasin Ayari,Brighton,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.43,0,0,0,0,0,0,Brighton,False,Arsenal,-1.78
+Yasin Ayari,Brighton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.33,0,0,0,0,0,0,Brighton,False,Newcastle United,1.9
+Yasin Ayari,Brighton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.25,0,0,0,0,0,0,Brighton,True,Southampton,-1.51
+Yasin Ayari,Brighton,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.18,0,0,0,0,0,0,Brighton,True,Manchester City,2.39
+Yasin Ayari,Brighton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.11,0,0,0,0,0,1,Brighton,False,Aston Villa,2.71
+Yasin Ayari,Brighton,Aston Villa,2023-05-28,False,MC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,2,True,0.0,0.0,3.42,0,0,0,0,0,0,Brighton,True,Luton,-3.81

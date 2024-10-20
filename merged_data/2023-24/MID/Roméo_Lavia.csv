@@ -1,2 +1,38 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Roméo Lavia,Chelsea,Crystal Palace,2023-12-27,True,Sub,32,0,0.0,0,0.0,1,0,0,0.6,0,0,0,False,0,0,32.0,1,0,0.27,0.52,0.03,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Roméo Lavia,Chelsea,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,False,Tottenham,-1.07
+Roméo Lavia,Chelsea,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,True,Manchester City,0.19
+Roméo Lavia,Chelsea,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,False,Newcastle United,0.94
+Roméo Lavia,Chelsea,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,True,Brighton,-0.67
+Roméo Lavia,Chelsea,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,False,Manchester United,1.87
+Roméo Lavia,Chelsea,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,False,Everton,0.79
+Roméo Lavia,Chelsea,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,True,Sheffield,-2.07
+Roméo Lavia,Chelsea,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,False,Wolverhampton,1.62
+Roméo Lavia,Chelsea,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,0.0,0.27,0.52,0.03,1.0,Chelsea,True,Crystal Palace,-1.51
+Roméo Lavia,Chelsea,Crystal Palace,2023-12-27,True,Sub,32,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,False,0.0,0.0,3.2,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,False,West Ham,2.89
+Roméo Lavia,Chelsea,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,2.91,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,False,Luton,-0.0
+Roméo Lavia,Chelsea,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,2.67,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,True,Fulham,-1.08
+Roméo Lavia,Chelsea,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,2.46,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,False,Liverpool,0.96
+Roméo Lavia,Chelsea,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,2.29,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,True,Wolverhampton,0.07
+Roméo Lavia,Chelsea,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,2.13,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,False,Crystal Palace,-1.06
+Roméo Lavia,Chelsea,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.0,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,False,Manchester City,-0.89
+Roméo Lavia,Chelsea,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.88,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,False,Brentford,0.61
+Roméo Lavia,Chelsea,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.78,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,True,Newcastle United,-0.99
+Roméo Lavia,Chelsea,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.68,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,True,Luton,-3.04
+Roméo Lavia,Chelsea,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.6,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,True,Burnley,0.34
+Roméo Lavia,Chelsea,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.52,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,True,Manchester United,-1.31
+Roméo Lavia,Chelsea,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.45,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,False,Sheffield,1.84
+Roméo Lavia,Chelsea,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.39,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,True,Everton,-2.38
+Roméo Lavia,Chelsea,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.33,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,False,Arsenal,1.29
+Roméo Lavia,Chelsea,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.28,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,False,Aston Villa,-1.37
+Roméo Lavia,Chelsea,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.23,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,True,Tottenham,-2.11
+Roméo Lavia,Chelsea,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.19,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,True,West Ham,-2.56
+Roméo Lavia,Chelsea,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.14,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,False,Nottingham Forest,-0.41
+Roméo Lavia,Chelsea,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.1,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,False,Brighton,1.01
+Roméo Lavia,Chelsea,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.07,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,True,Bournemouth,-3.02
+Roméo Lavia,Chelsea,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.03,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,True,Nottingham Forest,1.3
+Roméo Lavia,Chelsea,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.0,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,False,Bournemouth,-1.53
+Roméo Lavia,Chelsea,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.97,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,True,Aston Villa,0.42
+Roméo Lavia,Chelsea,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.94,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,False,Fulham,-2.13
+Roméo Lavia,Chelsea,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.91,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,False,Burnley,-2.71
+Roméo Lavia,Chelsea,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.89,1.0,0.0,0.27,0.52,0.03,0.0,Chelsea,True,Arsenal,2.1
+Roméo Lavia,Chelsea,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.86,1.0,0.0,0.27,0.52,0.03,,,,,

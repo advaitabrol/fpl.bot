@@ -1,8 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Çaglar Söyüncü,Leicester,Manchester City,2022-10-29,True,DC,71,0,0.0,0,0.0,2,0,0,1.5,0,0,1,0.0,False,0.0,0.0,71.0,0.0,0,0,0,0,0
-Çaglar Söyüncü,Leicester,Aston Villa,2023-02-04,False,Sub,7,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0.23,False,2.0,0.0,39.0,0.0,0,0,0,0,0
-Çaglar Söyüncü,Leicester,Manchester City,2023-04-15,False,DC,90,0,0.05,0,0.12,0,1,1,3.7,0,0,3,2.06,True,1.0,0.0,56.0,0.0,0,0,0,0,2
-Çaglar Söyüncü,Leicester,Wolverhampton,2023-04-22,True,DC,90,0,0.17,0,0.0,2,2,0,5.6,0,0,1,0.9,True,0.67,0.02,64.5,0.0,0,0,0,0,2
-Çaglar Söyüncü,Leicester,Leicester City,2023-04-25,False,DC,90,0,0.03,0,0.0,2,1,0,2.3,0,0,1,1.7,True,1.0,0.06,69.6,0.0,0,0,0,0,10
-Çaglar Söyüncü,Leicester,Everton,2023-05-01,True,DC,90,1,0.09,0,0.0,10,1,0,8.5,3,0,2,3.3,True,1.2,0.05,73.0,0.0,0,0,0,0,0
-Çaglar Söyüncü,Leicester,Fulham,2023-05-08,False,DC,90,0,0.0,0,0.0,0,0,0,2.5,0,0,5,1.67,True,2.8,0.07,75.43,0.0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Çaglar Söyüncü,Leicester,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Leicester,False,Bournemouth,
+Çaglar Söyüncü,Leicester,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Leicester,True,Crystal Palace,-0.43
+Çaglar Söyüncü,Leicester,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Leicester,True,Leicester City,2.25
+Çaglar Söyüncü,Leicester,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Leicester,False,Wolverhampton,3.01
+Çaglar Söyüncü,Leicester,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,2.0,Leicester,True,Manchester City,2.25
+Çaglar Söyüncü,Leicester,Manchester City,2022-10-29,True,DC,71,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,0.0,False,0.0,0.0,11.83,0.0,0,0,0,0,0.0,Leicester,False,Everton,1.31
+Çaglar Söyüncü,Leicester,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,10.14,0.0,0,0,0,0,0.0,Leicester,False,West Ham,-0.48
+Çaglar Söyüncü,Leicester,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,8.88,0.0,0,0,0,0,0.0,Leicester,True,Newcastle United,2.07
+Çaglar Söyüncü,Leicester,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,7.89,0.0,0,0,0,0,0.0,Leicester,False,Liverpool,-0.04
+Çaglar Söyüncü,Leicester,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,7.1,0.0,0,0,0,0,0.0,Leicester,True,Fulham,
+Çaglar Söyüncü,Leicester,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,6.45,0.0,0,0,0,0,0.0,Leicester,False,Arsenal,-1.31
+Çaglar Söyüncü,Leicester,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,5.92,0.0,0,0,0,0,0.0,Leicester,False,Nottingham Forest,
+Çaglar Söyüncü,Leicester,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,5.46,0.0,0,0,0,0,0.0,Leicester,True,Brighton,-0.74
+Çaglar Söyüncü,Leicester,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,5.07,0.0,0,0,0,0,0.0,Leicester,False,Aston Villa,-0.96
+Çaglar Söyüncü,Leicester,Aston Villa,2023-02-04,False,Sub,7,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.23,False,0.0,0.0,5.2,0.0,0,0,0,0,0.0,Leicester,True,Tottenham,3.95
+Çaglar Söyüncü,Leicester,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.88,0.0,0,0,0,0,0.0,Leicester,False,Manchester United,0.11
+Çaglar Söyüncü,Leicester,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.59,0.0,0,0,0,0,0.0,Leicester,True,Arsenal,-1.32
+Çaglar Söyüncü,Leicester,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.33,0.0,0,0,0,0,0.0,Leicester,False,Southampton,-3.27
+Çaglar Söyüncü,Leicester,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.11,0.0,0,0,0,0,0.0,Leicester,True,Chelsea,-2.98
+Çaglar Söyüncü,Leicester,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.9,0.0,0,0,0,0,0.0,Leicester,False,Brentford,-4.9
+Çaglar Söyüncü,Leicester,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.71,0.0,0,0,0,0,0.0,Leicester,False,Crystal Palace,2.07
+Çaglar Söyüncü,Leicester,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.55,0.0,0,0,0,0,0.0,Leicester,True,Aston Villa,-0.34
+Çaglar Söyüncü,Leicester,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.39,0.0,0,0,0,0,0.0,Leicester,True,Southampton,1.76
+Çaglar Söyüncü,Leicester,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.25,0.0,0,0,0,0,0.0,Leicester,True,Bournemouth,
+Çaglar Söyüncü,Leicester,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.12,0.0,0,0,0,0,0.0,Leicester,False,Manchester City,1.46
+Çaglar Söyüncü,Leicester,Manchester City,2023-04-15,False,DC,90,0.0,0.05,0.0,0.12,0,1.0,1.0,3.7,0,0,3,2.06,True,0.0,0.0,6.46,0.0,0,0,0,0,2.0,Leicester,True,Wolverhampton,-1.75
+Çaglar Söyüncü,Leicester,Wolverhampton,2023-04-22,True,DC,90,0.0,0.17,0.0,0.0,2,2.0,0.0,5.6,0,0,1,0.9,True,0.0,0.01,9.56,0.0,0,0,0,0,2.0,Leicester,False,Leicester City,1.46
+Çaglar Söyüncü,Leicester,Leicester City,2023-04-25,False,DC,90,0.0,0.03,0.0,0.0,2,1.0,0.0,2.3,0,0,1,1.7,True,0.4,0.04,12.43,0.0,0,0,0,0,10.0,Leicester,True,Everton,4.46
+Çaglar Söyüncü,Leicester,Everton,2023-05-01,True,DC,90,1.0,0.09,0.0,0.0,10,1.0,0.0,8.5,3,0,2,3.3,True,0.8,0.05,15.1,0.0,0,0,0,0,0.0,Leicester,False,Fulham,
+Çaglar Söyüncü,Leicester,Fulham,2023-05-08,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.5,0,0,5,1.67,True,2.8,0.07,17.6,0.0,0,0,0,0,0.0,Leicester,True,Liverpool,-0.21
+Çaglar Söyüncü,Leicester,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.8,0.07,17.03,0.0,0,0,0,0,0.0,Leicester,False,Newcastle United,1.84
+Çaglar Söyüncü,Leicester,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.8,0.06,16.5,0.0,0,0,0,0,0.0,Leicester,True,West Ham,-0.48
+Çaglar Söyüncü,Leicester,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.4,0.02,16.0,0.0,0,0,0,0,0.0,Leicester,False,Chelsea,-5.34
+Çaglar Söyüncü,Leicester,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.02,15.53,0.0,0,0,0,0,0.0,Leicester,True,Manchester United,-2.56
+Çaglar Söyüncü,Leicester,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,15.09,0.0,0,0,0,0,0.0,Leicester,False,Brighton,-2.14
+Çaglar Söyüncü,Leicester,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,14.67,0.0,0,0,0,0,0.0,Leicester,False,Tottenham,3.38
+Çaglar Söyüncü,Leicester,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,14.27,0.0,0,0,0,0,0.0,Leicester,True,Nottingham Forest,
+Çaglar Söyüncü,Leicester,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,13.89,0.0,0,0,0,0,,Liverpool,False,Chelsea,0.3

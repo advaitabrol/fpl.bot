@@ -1,18 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
-Marc Albrighton,Leicester,Chelsea,2021-11-20,True,DMR,90,0,0.0,0,0.01,2,0,1,3.8,0,0,3,0.0,0.0,90.0
-Marc Albrighton,Leicester,Watford,2021-11-28,True,Sub,15,0,0.0,0,0.0,1,0,0,0.6,0,0,0,2.0,0.0,52.5
-Marc Albrighton,Leicester,Newcastle United,2021-12-12,True,Sub,19,0,0.0,0,0.0,1,0,0,0.9,0,0,0,1.5,0.0,41.33
-Marc Albrighton,Leicester,Manchester City,2021-12-26,False,DR,90,0,0.36,0,0.03,2,2,1,3.4,0,0,6,1.33,0.0,53.5
-Marc Albrighton,Leicester,Liverpool,2021-12-28,True,Sub,22,0,0.0,0,0.0,1,0,0,0.4,0,0,0,1.5,0.09,47.2
-Marc Albrighton,Leicester,Tottenham,2022-01-19,True,DMR,90,0,0.0,0,0.0,2,0,0,1.5,0,0,3,1.4,0.07,54.33
-Marc Albrighton,Leicester,Brighton,2022-01-23,True,Sub,26,0,0.0,0,0.0,1,0,0,0.8,0,0,1,1.4,0.07,50.29
-Marc Albrighton,Leicester,Liverpool,2022-02-10,False,AMR,90,0,0.0,0,0.0,2,0,0,1.5,0,0,2,1.4,0.07,55.25
-Marc Albrighton,Leicester,Wolverhampton,2022-02-20,False,FWR,90,0,0.0,1,0.92,5,0,2,6.9,1,0,2,1.6,0.07,59.11
-Marc Albrighton,Leicester,Burnley,2022-03-01,False,FWR,90,0,0.0,0,0.07,3,0,1,2.9,0,1,0,2.2,0.2,62.2
-Marc Albrighton,Leicester,Leicester City,2022-03-05,True,FWR,90,0,0.0,0,0.12,3,0,2,4.9,0,1,0,2.6,0.2,64.73
-Marc Albrighton,Leicester,Arsenal,2022-03-13,False,AMR,90,0,0.07,0,0.1,2,1,1,4.8,0,0,2,2.8,0.2,66.83
-Marc Albrighton,Leicester,Norwich,2021-08-28,False,MR,90,1,0.06,0,0.0,7,1,0,6.4,1,0,1,3.0,0.21,68.62
-Marc Albrighton,Leicester,Tottenham,2022-05-01,False,DMR,90,0,0.0,0,0.0,1,0,0,1.9,0,0,3,4.0,0.23,70.14
-Marc Albrighton,Leicester,Watford,2022-05-15,False,Sub,45,0,0.0,1,0.32,4,0,1,4.3,0,0,0,3.2,0.03,68.47
-Marc Albrighton,Leicester,Manchester City,2021-09-11,True,MR,90,0,0.0,0,0.13,2,0,2,4.5,0,0,1,3.4,0.23,69.81
-Marc Albrighton,Leicester,Crystal Palace,2021-10-03,False,Sub,10,0,0.0,0,0.0,1,0,0,0.2,0,0,0,3.2,0.23,66.29
+Marc Albrighton,Leicester,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Marc Albrighton,Leicester,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Marc Albrighton,Leicester,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Marc Albrighton,Leicester,Chelsea,2021-11-20,True,DMR,90,0.0,0.0,0.0,0.01,2,0.0,1.0,3.8,0,0,3,0.0,0.0,22.5
+Marc Albrighton,Leicester,Watford,2021-11-28,True,Sub,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.5,0.0,21.0
+Marc Albrighton,Leicester,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.6,0.0,17.5
+Marc Albrighton,Leicester,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.6,0.0,15.0
+Marc Albrighton,Leicester,Newcastle United,2021-12-12,True,Sub,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,0.6,0.0,15.5
+Marc Albrighton,Leicester,Manchester City,2021-12-26,False,DR,90,0.0,0.36,0.0,0.03,2,2.0,1.0,3.4,0,0,6,0.8,0.0,23.78
+Marc Albrighton,Leicester,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.8,0.07,21.4
+Marc Albrighton,Leicester,Liverpool,2021-12-28,True,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.6,0.07,21.45
+Marc Albrighton,Leicester,Tottenham,2022-01-19,True,DMR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,3,0.8,0.07,27.17
+Marc Albrighton,Leicester,Brighton,2022-01-23,True,Sub,26,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,1,1.2,0.07,27.08
+Marc Albrighton,Leicester,Liverpool,2022-02-10,False,AMR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,2,1.2,0.07,31.57
+Marc Albrighton,Leicester,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,1.2,0.0,29.47
+Marc Albrighton,Leicester,Wolverhampton,2022-02-20,False,FWR,90,0.0,0.0,1.0,0.92,5,0.0,2.0,6.9,1,0,2,1.2,0.0,33.25
+Marc Albrighton,Leicester,Burnley,2022-03-01,False,FWR,90,0.0,0.0,0.0,0.07,3,0.0,1.0,2.9,0,1,0,2.0,0.2,36.59
+Marc Albrighton,Leicester,Leicester City,2022-03-05,True,FWR,90,0.0,0.0,0.0,0.12,3,0.0,2.0,4.9,0,1,0,2.2,0.2,39.56
+Marc Albrighton,Leicester,Arsenal,2022-03-13,False,AMR,90,0.0,0.07,0.0,0.1,2,1.0,1.0,4.8,0,0,2,2.6,0.2,42.21
+Marc Albrighton,Leicester,Norwich,2021-08-28,False,MR,90,1.0,0.06,0.0,0.0,7,1.0,0.0,6.4,1,0,1,2.6,0.21,44.6
+Marc Albrighton,Leicester,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,4.0,0.23,42.48
+Marc Albrighton,Leicester,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,3.0,0.03,40.55
+Marc Albrighton,Leicester,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,2.4,0.03,38.78
+Marc Albrighton,Leicester,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,1.8,0.03,37.17
+Marc Albrighton,Leicester,Everton,,False,,0,,,,,0,,,0.0,0,0,0,1.4,0.01,35.68
+Marc Albrighton,Leicester,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,34.31
+Marc Albrighton,Leicester,Tottenham,2022-05-01,False,DMR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,3,0.0,0.0,36.37
+Marc Albrighton,Leicester,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,35.07
+Marc Albrighton,Leicester,Norwich,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,33.86
+Marc Albrighton,Leicester,Watford,2022-05-15,False,Sub,45,0.0,0.0,1.0,0.32,4,0.0,1.0,4.3,0,0,0,0.2,0.0,34.23
+Marc Albrighton,Leicester,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,1.0,0.2,33.13
+Marc Albrighton,Leicester,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,1.0,0.2,32.09
+Marc Albrighton,Leicester,Manchester City,2021-09-11,True,MR,90,0.0,0.0,0.0,0.13,2,0.0,2.0,4.5,0,0,1,0.8,0.2,33.85
+Marc Albrighton,Leicester,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,1.2,0.2,32.85
+Marc Albrighton,Leicester,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,1.2,0.2,31.91
+Marc Albrighton,Leicester,Crystal Palace,2021-10-03,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.4,0.0,31.31
+Marc Albrighton,Leicester,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.6,0.0,30.46
+Marc Albrighton,Leicester,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.6,0.0,29.66

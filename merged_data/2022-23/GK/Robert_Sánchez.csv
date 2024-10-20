@@ -1,24 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Robert Sánchez,Brighton,Manchester United,2022-08-07,False,90,1,0.0,5,0,4,1,False,0.0,False,0.0,0.0,0,0,0,2
-Robert Sánchez,Brighton,Tottenham,2022-10-08,True,90,1,0.0,2,0,2,0,False,0.0,False,4.0,0.0,0,0,0,1
-Robert Sánchez,Brighton,Brentford,2022-10-14,False,90,2,0.0,0,0,1,0,False,0.0,False,3.0,0.0,0,0,0,6
-Robert Sánchez,Brighton,Nottingham Forest,2022-10-18,True,90,0,0.0,0,0,6,0,True,0.0,False,2.33,0.25,0,0,0,1
-Robert Sánchez,Brighton,Manchester City,2022-10-22,False,90,3,0.0,1,0,1,0,False,0.0,False,3.25,0.2,0,0,0,5
-Robert Sánchez,Brighton,Chelsea,2022-10-29,True,90,1,0.0,7,0,5,1,False,0.0,False,2.8,0.17,0,0,0,2
-Robert Sánchez,Brighton,Wolverhampton,2022-11-05,False,90,2,0.0,3,0,2,0,False,0.0,False,3.0,0.14,0,0,0,1
-Robert Sánchez,Brighton,Aston Villa,2022-11-13,True,90,2,1.49,0,0,1,0,False,0.0,True,3.0,0.12,0,0,0,9
-Robert Sánchez,Brighton,Southampton,2022-12-26,False,90,1,1.91,3,1,9,2,False,0.0,True,3.0,0.11,0,0,0,1
-Robert Sánchez,Brighton,Arsenal,2022-12-31,True,90,4,2.88,3,0,1,0,False,0.0,True,3.6,0.1,0,0,0,3
-Robert Sánchez,Brighton,Everton,2023-01-03,False,90,1,1.31,3,0,3,0,False,0.0,True,3.6,0.09,0,0,0,6
-Robert Sánchez,Brighton,Newcastle United,2022-08-13,True,90,0,0.0,1,0,6,0,True,0.0,False,3.2,0.17,0,0,0,7
-Robert Sánchez,Brighton,Liverpool,2023-01-14,True,90,0,1.03,2,0,7,1,True,0.0,True,4.0,0.23,0,0,0,1
-Robert Sánchez,Brighton,Leeds United,2023-01-21,False,90,2,1.3,0,0,1,0,False,0.0,True,5.2,0.21,0,0,0,8
-Robert Sánchez,Brighton,Bournemouth,2023-02-04,True,90,0,1.34,2,0,8,2,True,0.0,True,3.6,0.27,0,0,0,2
-Robert Sánchez,Brighton,Crystal Palace,2023-02-11,False,90,1,0.89,0,0,2,0,False,0.0,True,5.0,0.25,0,0,0,2
-Robert Sánchez,Brighton,Fulham,2023-02-18,True,90,1,0.31,1,0,2,0,False,0.0,True,4.8,0.24,0,0,0,8
-Robert Sánchez,Brighton,West Ham,2022-08-21,False,90,0,0.0,3,0,8,1,True,0.0,False,4.0,0.28,0,0,0,1
-Robert Sánchez,Brighton,Chelsea,2023-04-15,False,90,1,0.6,1,0,1,0,False,0.0,True,4.2,0.26,0,0,0,8
-Robert Sánchez,Brighton,Leicester City,2022-08-27,True,90,0,0.0,2,0,8,2,True,0.0,False,4.2,0.3,0,0,0,1
-Robert Sánchez,Brighton,Fulham,2022-08-30,False,90,2,0.0,2,0,1,0,False,0.0,False,4.2,0.29,0,0,0,1
-Robert Sánchez,Brighton,Leeds United,2022-09-04,True,90,2,0.0,2,0,1,0,False,0.0,False,4.0,0.27,0,0,0,2
-Robert Sánchez,Brighton,Liverpool,2022-10-01,False,90,3,0.0,5,0,2,0,False,0.0,False,3.8,0.26,0,0,0,2
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty,saves_per_game,last_season_total_saves
+Robert Sánchez,Brighton,Manchester United,2022-08-07,False,90,1,0.0,5,0,4,1,False,0.0,False,0.0,0.0,0,0,0,2,Brighton,True,Tottenham,-0.36,5.0,0
+Robert Sánchez,Brighton,Tottenham,2022-10-08,True,90,1,0.0,2,0,2,0,False,0.0,False,4.0,0.0,0,0,0,1,Brighton,False,Brentford,0.34,3.5,0
+Robert Sánchez,Brighton,Brentford,2022-10-14,False,90,2,0.0,0,0,1,0,False,0.0,False,3.0,0.0,0,0,0,6,Brighton,True,Nottingham Forest,-0.8,2.33,0
+Robert Sánchez,Brighton,Nottingham Forest,2022-10-18,True,90,0,0.0,0,0,6,0,True,0.0,False,2.33,0.25,0,0,0,1,Brighton,False,Manchester City,1.12,1.75,0
+Robert Sánchez,Brighton,Manchester City,2022-10-22,False,90,3,0.0,1,0,1,0,False,0.0,False,3.25,0.2,0,0,0,5,Brighton,True,Chelsea,-2.26,1.6,0
+Robert Sánchez,Brighton,Chelsea,2022-10-29,True,90,1,0.0,7,0,5,1,False,0.0,False,2.8,0.17,0,0,0,2,Brighton,False,Wolverhampton,-2.88,2.5,0
+Robert Sánchez,Brighton,Wolverhampton,2022-11-05,False,90,2,0.0,3,0,2,0,False,0.0,False,3.0,0.14,0,0,0,1,Brighton,True,Aston Villa,0.69,2.57,0
+Robert Sánchez,Brighton,Aston Villa,2022-11-13,True,90,2,1.49,0,0,1,0,False,0.0,True,3.0,0.12,0,0,0,9,Brighton,False,Southampton,-0.82,2.25,0
+Robert Sánchez,Brighton,Southampton,2022-12-26,False,90,1,1.91,3,1,9,2,False,0.0,True,3.0,0.11,0,0,0,1,Brighton,True,Arsenal,2.84,2.33,0
+Robert Sánchez,Brighton,Arsenal,2022-12-31,True,90,4,2.88,3,0,1,0,False,0.0,True,3.6,0.1,0,0,0,3,Brighton,False,Everton,-1.62,2.4,0
+Robert Sánchez,Brighton,Everton,2023-01-03,False,90,1,1.31,3,0,3,0,False,0.0,True,3.6,0.09,0,0,0,6,Brighton,True,Newcastle United,-0.89,2.45,0
+Robert Sánchez,Brighton,Newcastle United,2022-08-13,True,90,0,0.0,1,0,6,0,True,0.0,False,3.2,0.17,0,0,0,7,Brighton,True,Liverpool,-1.1,2.33,0
+Robert Sánchez,Brighton,Liverpool,2023-01-14,True,90,0,1.03,2,0,7,1,True,0.0,True,4.0,0.23,0,0,0,1,Brighton,False,Leeds United,0.58,2.31,0
+Robert Sánchez,Brighton,Leeds United,2023-01-21,False,90,2,1.3,0,0,1,0,False,0.0,True,5.2,0.21,0,0,0,8,Brighton,True,Bournemouth,-1.36,2.14,0
+Robert Sánchez,Brighton,Bournemouth,2023-02-04,True,90,0,1.34,2,0,8,2,True,0.0,True,3.6,0.27,0,0,0,2,Brighton,False,Crystal Palace,0.44,2.13,0
+Robert Sánchez,Brighton,Crystal Palace,2023-02-11,False,90,1,0.89,0,0,2,0,False,0.0,True,5.0,0.25,0,0,0,2,Brighton,True,Fulham,-0.16,2.0,0
+Robert Sánchez,Brighton,Fulham,2023-02-18,True,90,1,0.31,1,0,2,0,False,0.0,True,4.8,0.24,0,0,0,0,Brighton,True,West Ham,-1.35,1.94,0
+Robert Sánchez,Brighton,West Ham,,True,0,0,0.0,0,0,0,0,False,,False,4.0,0.24,0,0,0,0,Brighton,False,Leicester City,-1.23,1.83,0
+Robert Sánchez,Brighton,Leicester City,,False,0,0,0.0,0,0,0,0,False,,False,2.6,0.24,0,0,0,0,Brighton,True,Crystal Palace,-1.88,1.74,0
+Robert Sánchez,Brighton,Crystal Palace,,True,0,0,0.0,0,0,0,0,False,,False,2.4,0.24,0,0,0,0,Brighton,True,Brentford,-1.45,1.65,0
+Robert Sánchez,Brighton,Brentford,,True,0,0,0.0,0,0,0,0,False,,False,0.8,0.24,0,0,0,0,Brighton,False,Bournemouth,0.25,1.57,0
+Robert Sánchez,Brighton,Bournemouth,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.24,0,0,0,8,Brighton,False,West Ham,-0.99,1.5,0
+Robert Sánchez,Brighton,West Ham,2022-08-21,False,90,0,0.0,3,0,8,1,True,0.0,False,0.0,0.28,0,0,0,0,Brighton,False,Tottenham,-0.37,1.57,0
+Robert Sánchez,Brighton,Tottenham,,False,0,0,0.0,0,0,0,0,False,,False,1.6,0.28,0,0,0,1,Brighton,False,Chelsea,-0.59,1.5,0
+Robert Sánchez,Brighton,Chelsea,2023-04-15,False,90,1,0.6,1,0,1,0,False,0.0,True,1.6,0.26,0,0,0,0,Brighton,False,Nottingham Forest,0.99,1.48,0
+Robert Sánchez,Brighton,Nottingham Forest,,False,0,0,0.0,0,0,0,0,False,,False,1.8,0.26,0,0,0,0,Brighton,True,Wolverhampton,-1.51,1.42,0
+Robert Sánchez,Brighton,Wolverhampton,,True,0,0,0.0,0,0,0,0,False,,False,1.8,0.26,0,0,0,0,Brighton,True,Manchester United,-2.4,1.37,0
+Robert Sánchez,Brighton,Manchester United,,True,0,0,0.0,0,0,0,0,False,,False,1.8,0.26,0,0,0,0,Brighton,True,Everton,2.52,1.32,0
+Robert Sánchez,Brighton,Everton,,True,0,0,0.0,0,0,0,0,False,,False,0.2,0.26,0,0,0,0,Brighton,False,Arsenal,-1.78,1.28,0
+Robert Sánchez,Brighton,Arsenal,,False,0,0,0.0,0,0,0,0,False,,False,0.2,0.26,0,0,0,0,Brighton,False,Newcastle United,1.9,1.23,0
+Robert Sánchez,Brighton,Newcastle United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.26,0,0,0,0,Brighton,True,Southampton,-1.51,1.19,0
+Robert Sánchez,Brighton,Southampton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.26,0,0,0,0,Brighton,True,Manchester City,2.39,1.16,0
+Robert Sánchez,Brighton,Manchester City,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.26,0,0,0,0,Brighton,False,Aston Villa,2.71,1.12,0
+Robert Sánchez,Brighton,Aston Villa,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.26,0,0,0,8,Brighton,True,Leicester City,-1.84,1.09,0
+Robert Sánchez,Brighton,Leicester City,2022-08-27,True,90,0,0.0,2,0,8,2,True,0.0,False,0.0,0.3,0,0,0,1,Brighton,False,Fulham,1.99,1.11,0
+Robert Sánchez,Brighton,Fulham,2022-08-30,False,90,2,0.0,2,0,1,0,False,0.0,False,1.6,0.29,0,0,0,1,Brighton,True,Leeds United,-2.88,1.14,0
+Robert Sánchez,Brighton,Leeds United,2022-09-04,True,90,2,0.0,2,0,1,0,False,0.0,False,1.8,0.27,0,0,0,2,Brighton,False,Liverpool,-1.55,1.16,0
+Robert Sánchez,Brighton,Liverpool,2022-10-01,False,90,3,0.0,5,0,2,0,False,0.0,False,2.0,0.26,0,0,0,2,Chelsea,True,Liverpool,-0.16,1.26,0

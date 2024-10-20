@@ -1,3 +1,25 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Thomas Cannon,Everton,Bournemouth,2022-11-12,False,Sub,16,0,0.05,0,0.0,1,1,0,2.4,0,False,0.0,0.0,16.0,0,0,0,0,0,1
-Thomas Cannon,Everton,Wolverhampton,2022-12-26,True,Sub,7,0,0.0,0,0.07,1,0,1,1.4,0,False,1.0,0.05,11.5,0,0,0,0,0,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Thomas Cannon,Everton,Bournemouth,2022-11-12,False,Sub,16,0.0,0.05,0.0,0.0,1,1.0,0.0,2.4,0,False,0.0,0.0,16.0,0,0,0,0,0,1,Everton,True,Wolverhampton,1.62
+Thomas Cannon,Everton,Wolverhampton,2022-12-26,True,Sub,7,0.0,0.0,0.0,0.07,1,0.0,1.0,1.4,0,False,1.0,0.05,11.5,0,0,0,0,0,0,Everton,False,Manchester City,0.69
+Thomas Cannon,Everton,Manchester City,,False,,0,,,,,0,,,0.0,0,False,1.0,0.03,7.67,0,0,0,0,0,0,Everton,True,Brighton,0.33
+Thomas Cannon,Everton,Brighton,,True,,0,,,,,0,,,0.0,0,False,0.67,0.02,5.75,0,0,0,0,0,0,Everton,True,Southampton,-2.71
+Thomas Cannon,Everton,Southampton,,True,,0,,,,,0,,,0.0,0,False,0.5,0.01,4.6,0,0,0,0,0,0,Everton,False,West Ham,2.5
+Thomas Cannon,Everton,West Ham,,False,,0,,,,,0,,,0.0,0,False,0.4,0.01,3.83,0,0,0,0,0,0,Everton,True,Arsenal,-2.09
+Thomas Cannon,Everton,Arsenal,,True,,0,,,,,0,,,0.0,0,False,0.2,0.0,3.29,0,0,0,0,0,0,Everton,False,Liverpool,1.94
+Thomas Cannon,Everton,Liverpool,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,2.88,0,0,0,0,0,0,Everton,True,Leicester City,-3.7
+Thomas Cannon,Everton,Leicester City,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,2.56,0,0,0,0,0,0,Everton,True,Aston Villa,1.41
+Thomas Cannon,Everton,Aston Villa,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,2.3,0,0,0,0,0,0,Everton,False,Arsenal,2.52
+Thomas Cannon,Everton,Arsenal,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,2.09,0,0,0,0,0,0,Everton,False,Nottingham Forest,0.07
+Thomas Cannon,Everton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,1.92,0,0,0,0,0,0,Everton,True,Brentford,-2.0
+Thomas Cannon,Everton,Brentford,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,1.77,0,0,0,0,0,0,Everton,False,Chelsea,1.97
+Thomas Cannon,Everton,Chelsea,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,1.64,0,0,0,0,0,0,Everton,True,Tottenham,-0.33
+Thomas Cannon,Everton,Tottenham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,1.53,0,0,0,0,0,0,Everton,False,Manchester United,1.96
+Thomas Cannon,Everton,Manchester United,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,1.44,0,0,0,0,0,0,Everton,True,Fulham,2.03
+Thomas Cannon,Everton,Fulham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,1.35,0,0,0,0,0,0,Everton,False,Crystal Palace,-0.42
+Thomas Cannon,Everton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,1.28,0,0,0,0,0,0,Everton,True,Newcastle United,-0.27
+Thomas Cannon,Everton,Newcastle United,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,1.21,0,0,0,0,0,0,Everton,False,Leeds United,-1.47
+Thomas Cannon,Everton,Leeds United,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,1.15,0,0,0,0,0,0,Everton,False,Brighton,-3.42
+Thomas Cannon,Everton,Brighton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,1.1,0,0,0,0,0,0,Everton,True,Manchester City,1.75
+Thomas Cannon,Everton,Manchester City,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,1.05,0,0,0,0,0,0,Everton,False,Wolverhampton,1.67
+Thomas Cannon,Everton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,1.0,0,0,0,0,0,0,Everton,True,Bournemouth,-4.02
+Thomas Cannon,Everton,Bournemouth,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.96,0,0,0,0,0,0,Everton,True,Fulham,2.03

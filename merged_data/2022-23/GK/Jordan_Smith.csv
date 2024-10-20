@@ -1,12 +1,24 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Jordan Smith,Nott'm Forest,Leeds United,2023-01-14,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0
-Jordan Smith,Nott'm Forest,Bournemouth,2023-01-21,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0
-Jordan Smith,Nott'm Forest,Manchester City,2023-02-18,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0
-Jordan Smith,Nott'm Forest,West Ham,2023-02-25,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0
-Jordan Smith,Nott'm Forest,Everton,2023-03-05,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0
-Jordan Smith,Nott'm Forest,Tottenham,2023-03-11,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0
-Jordan Smith,Nott'm Forest,Aston Villa,2023-04-08,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0
-Jordan Smith,Nott'm Forest,Liverpool,2023-04-22,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0
-Jordan Smith,Nott'm Forest,Southampton,2023-05-08,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0
-Jordan Smith,Nott'm Forest,Arsenal,2023-05-20,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0
-Jordan Smith,Nott'm Forest,Crystal Palace,2023-05-28,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty,saves_per_game,last_season_total_saves
+Jordan Smith,Nott'm Forest,Manchester United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,True,Chelsea,0.18,0.0,0
+Jordan Smith,Nott'm Forest,Chelsea,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,False,Southampton,-1.72,0.0,0
+Jordan Smith,Nott'm Forest,Southampton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,True,Leeds United,-2.6,0.0,0
+Jordan Smith,Nott'm Forest,Leeds United,2023-01-14,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,False,Bournemouth,0.9,0.0,0
+Jordan Smith,Nott'm Forest,Bournemouth,2023-01-21,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,True,Leicester City,-1.35,0.0,0
+Jordan Smith,Nott'm Forest,Leicester City,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,False,Fulham,5.33,0.0,0
+Jordan Smith,Nott'm Forest,Fulham,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,True,Manchester City,-0.22,0.0,0
+Jordan Smith,Nott'm Forest,Manchester City,2023-02-18,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,False,West Ham,3.49,0.0,0
+Jordan Smith,Nott'm Forest,West Ham,2023-02-25,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,True,Everton,1.16,0.0,0
+Jordan Smith,Nott'm Forest,Everton,2023-03-05,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,False,Tottenham,0.66,0.0,0
+Jordan Smith,Nott'm Forest,Tottenham,2023-03-11,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,True,Newcastle United,0.52,0.0,0
+Jordan Smith,Nott'm Forest,Newcastle United,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,True,Wolverhampton,-0.63,0.0,0
+Jordan Smith,Nott'm Forest,Wolverhampton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,False,Leicester City,1.63,0.0,0
+Jordan Smith,Nott'm Forest,Leicester City,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,False,Aston Villa,2.52,0.0,0
+Jordan Smith,Nott'm Forest,Aston Villa,2023-04-08,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,True,Manchester United,0.67,0.0,0
+Jordan Smith,Nott'm Forest,Manchester United,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,False,Liverpool,2.76,0.0,0
+Jordan Smith,Nott'm Forest,Liverpool,2023-04-22,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,True,Brighton,-1.91,0.0,0
+Jordan Smith,Nott'm Forest,Brighton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,False,Brentford,1.33,0.0,0
+Jordan Smith,Nott'm Forest,Brentford,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,True,Southampton,-0.97,0.0,0
+Jordan Smith,Nott'm Forest,Southampton,2023-05-08,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,False,Chelsea,-2.46,0.0,0
+Jordan Smith,Nott'm Forest,Chelsea,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,True,Arsenal,-1.92,0.0,0
+Jordan Smith,Nott'm Forest,Arsenal,2023-05-20,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,0.0,Nott'm Forest,False,Crystal Palace,0.85,0.0,0
+Jordan Smith,Nott'm Forest,Crystal Palace,2023-05-28,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0,0,0,,Man City,False,Burnley,-3.25,0.0,0

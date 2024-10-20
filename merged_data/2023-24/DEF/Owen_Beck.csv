@@ -1,2 +1,19 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Owen Beck,Liverpool,Bournemouth,2024-01-21,False,Sub,7,0,0,0,0,1,0,0,0.5,0,0,0,0.95,False,0,0,7.0,0.0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Owen Beck,Liverpool,Bournemouth,2024-01-21,False,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.95,False,0.0,0.0,7.0,0.0,0,0,0,0,0.0,Liverpool,True,Chelsea,-1.38
+Owen Beck,Liverpool,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,3.5,0.0,0,0,0,0,0.0,Liverpool,False,Arsenal,2.26
+Owen Beck,Liverpool,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.5,0.0,2.33,0.0,0,0,0,0,0.0,Liverpool,True,Burnley,-2.09
+Owen Beck,Liverpool,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.33,0.0,1.75,0.0,0,0,0,0,0.0,Liverpool,False,Brentford,2.56
+Owen Beck,Liverpool,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.25,0.0,1.4,0.0,0,0,0,0,0.0,Liverpool,True,Luton,-3.08
+Owen Beck,Liverpool,Luton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,1.17,0.0,0,0,0,0,0.0,Liverpool,False,Nottingham Forest,1.75
+Owen Beck,Liverpool,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.0,0.0,0,0,0,0,0.0,Liverpool,True,Manchester City,-0.87
+Owen Beck,Liverpool,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.88,0.0,0,0,0,0,0.0,Liverpool,True,Brighton,1.7
+Owen Beck,Liverpool,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.78,0.0,0,0,0,0,0.0,Liverpool,True,Sheffield,-0.41
+Owen Beck,Liverpool,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.7,0.0,0,0,0,0,0.0,Liverpool,False,Manchester United,0.18
+Owen Beck,Liverpool,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.64,0.0,0,0,0,0,0.0,Liverpool,True,Crystal Palace,1.28
+Owen Beck,Liverpool,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.58,0.0,0,0,0,0,0.0,Liverpool,False,Fulham,0.4
+Owen Beck,Liverpool,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.54,0.0,0,0,0,0,0.0,Liverpool,False,Everton,1.81
+Owen Beck,Liverpool,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.5,0.0,0,0,0,0,0.0,Liverpool,False,West Ham,2.89
+Owen Beck,Liverpool,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.47,0.0,0,0,0,0,0.0,Liverpool,True,Tottenham,0.66
+Owen Beck,Liverpool,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.44,0.0,0,0,0,0,0.0,Liverpool,False,Aston Villa,1.03
+Owen Beck,Liverpool,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.41,0.0,0,0,0,0,0.0,Liverpool,True,Wolverhampton,-1.46
+Owen Beck,Liverpool,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.39,0.0,0,0,0,0,,,,,

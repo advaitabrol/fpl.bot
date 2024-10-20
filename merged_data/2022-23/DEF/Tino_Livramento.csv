@@ -1,3 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Tino Livramento,Southampton,Brighton,2023-05-21,False,Sub,13,0,0.0,0,0.0,1,0,0,0.6,0,0,0,0.4,False,0.0,0.0,13.0,0.0,0,0,0,0,1
-Tino Livramento,Southampton,Liverpool,2023-05-28,True,Sub,13,0,0.0,0,0.0,1,0,0,0.0,0,0,0,1.01,False,1.0,0.0,13.0,0.0,0,0,0,0,0
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Tino Livramento,Southampton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,False,Manchester City,3.44
+Tino Livramento,Southampton,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,True,West Ham,-0.03
+Tino Livramento,Southampton,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,False,Bournemouth,-0.76
+Tino Livramento,Southampton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,True,Arsenal,-1.15
+Tino Livramento,Southampton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,False,Crystal Palace,1.04
+Tino Livramento,Southampton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,True,Newcastle United,3.01
+Tino Livramento,Southampton,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,False,Liverpool,4.09
+Tino Livramento,Southampton,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,True,Brighton,0.98
+Tino Livramento,Southampton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,False,Fulham,1.81
+Tino Livramento,Southampton,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,True,Nottingham Forest,3.03
+Tino Livramento,Southampton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,True,Leicester City,-1.16
+Tino Livramento,Southampton,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,False,Everton,2.07
+Tino Livramento,Southampton,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,True,Aston Villa,0.29
+Tino Livramento,Southampton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,False,Brentford,4.79
+Tino Livramento,Southampton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,True,Wolverhampton,2.57
+Tino Livramento,Southampton,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,False,Chelsea,0.51
+Tino Livramento,Southampton,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,False,Leicester City,-0.79
+Tino Livramento,Southampton,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,True,Leeds United,-1.21
+Tino Livramento,Southampton,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,False,Manchester United,0.89
+Tino Livramento,Southampton,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,True,Brentford,0.03
+Tino Livramento,Southampton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,True,Tottenham,0.56
+Tino Livramento,Southampton,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,False,West Ham,0.0
+Tino Livramento,Southampton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,False,Leeds United,0.71
+Tino Livramento,Southampton,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,True,Manchester City,0.1
+Tino Livramento,Southampton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,True,Crystal Palace,2.32
+Tino Livramento,Southampton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,False,Arsenal,0.71
+Tino Livramento,Southampton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,True,Bournemouth,2.76
+Tino Livramento,Southampton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,False,Newcastle United,1.29
+Tino Livramento,Southampton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,False,Nottingham Forest,1.95
+Tino Livramento,Southampton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Southampton,True,Fulham,2.66
+Tino Livramento,Southampton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1,Southampton,False,Brighton,1.32
+Tino Livramento,Southampton,Brighton,2023-05-21,False,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.4,False,0.0,0.0,0.41,0.0,0,0,0,0,1,Southampton,True,Liverpool,-0.47
+Tino Livramento,Southampton,Liverpool,2023-05-28,True,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,1.01,False,0.2,0.0,0.79,0.0,0,0,0,0,0,Southampton,True,Manchester United,1.12
+Tino Livramento,Southampton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,0.76,0.0,0,0,0,0,0,Southampton,True,Chelsea,1.45
+Tino Livramento,Southampton,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,0.74,0.0,0,0,0,0,0,Southampton,False,Wolverhampton,2.86
+Tino Livramento,Southampton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,0.72,0.0,0,0,0,0,0,Southampton,False,Aston Villa,3.18
+Tino Livramento,Southampton,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,0.7,0.0,0,0,0,0,0,Southampton,True,Everton,0.11
+Tino Livramento,Southampton,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.68,0.0,0,0,0,0,0,Newcastle,True,Aston Villa,-3.48

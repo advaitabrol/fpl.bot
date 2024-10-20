@@ -1,13 +1,19 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Harry Souttar,Leicester,Aston Villa,2023-02-04,False,DC,90,0,0.0,0,0.0,-1,0,0,1.7,0,0,2,1.68,True,0.0,0.0,90.0,0.0,0,0,0,0,4
-Harry Souttar,Leicester,Tottenham,2023-02-11,True,DC,90,0,0.0,1,0.08,4,0,1,4.6,0,0,1,1.28,True,-1.0,0.0,90.0,0.0,0,0,0,0,1
-Harry Souttar,Leicester,Manchester United,2023-02-19,False,DC,90,0,0.11,0,0.02,1,2,1,5.4,0,0,3,4.23,True,1.5,0.5,90.0,0.0,0,0,0,0,2
-Harry Souttar,Leicester,Arsenal,2023-02-25,True,DC,90,0,0.0,0,0.0,2,0,0,1.0,0,0,1,0.64,True,1.33,0.37,90.0,0.0,0,0,0,0,2
-Harry Souttar,Leicester,Southampton,2023-03-04,False,DC,90,0,0.42,0,0.0,2,1,0,2.4,0,0,1,1.38,True,1.5,0.28,90.0,0.0,0,0,0,0,1
-Harry Souttar,Leicester,Chelsea,2023-03-11,True,DC,90,0,0.37,0,0.0,1,1,0,3.2,0,0,3,1.53,True,1.6,0.31,90.0,0.0,0,0,0,0,2
-Harry Souttar,Leicester,Brentford,2023-03-18,False,DC,90,0,0.11,0,0.0,2,1,0,4.1,0,0,1,0.64,True,2.0,0.38,90.0,0.0,0,0,0,0,0
-Harry Souttar,Leicester,Crystal Palace,2023-04-01,False,DC,90,0,0.0,0,0.0,0,0,0,1.9,0,0,2,2.29,True,1.6,0.2,90.0,0.0,0,0,0,0,1
-Harry Souttar,Leicester,Aston Villa,2023-04-04,True,DC,90,0,0.24,0,0.0,1,2,0,2.7,0,0,2,1.03,True,1.4,0.18,90.0,0.0,0,0,0,0,1
-Harry Souttar,Leicester,Manchester City,2023-04-15,False,DC,90,0,0.05,0,0.06,1,1,1,5.3,0,0,3,2.06,True,1.2,0.23,90.0,0.0,0,0,0,0,1
-Harry Souttar,Leicester,Liverpool,2023-05-15,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.0,False,1.0,0.16,81.91,0.0,0,0,0,0,6
-Harry Souttar,Leicester,Newcastle United,2023-05-22,False,DC,90,0,0.0,0,0.0,6,0,0,2.3,0,1,0,2.05,True,1.0,0.08,82.58,0.09,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Harry Souttar,Leicester,Aston Villa,2023-02-04,False,DC,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,1.7,0,0,2,1.68,True,0.0,0.0,90.0,0.0,0,0,0,0,4.0,Leicester,True,Tottenham,3.95
+Harry Souttar,Leicester,Tottenham,2023-02-11,True,DC,90,0.0,0.0,1.0,0.08,4,0.0,1.0,4.6,0,0,1,1.28,True,-1.0,0.0,90.0,0.0,0,0,0,0,1.0,Leicester,False,Manchester United,0.11
+Harry Souttar,Leicester,Manchester United,2023-02-19,False,DC,90,0.0,0.11,0.0,0.02,1,2.0,1.0,5.4,0,0,3,4.23,True,1.5,0.5,90.0,0.0,0,0,0,0,2.0,Leicester,True,Arsenal,-1.32
+Harry Souttar,Leicester,Arsenal,2023-02-25,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.0,0,0,1,0.64,True,1.33,0.37,90.0,0.0,0,0,0,0,2.0,Leicester,False,Southampton,-3.27
+Harry Souttar,Leicester,Southampton,2023-03-04,False,DC,90,0.0,0.42,0.0,0.0,2,1.0,0.0,2.4,0,0,1,1.38,True,1.5,0.28,90.0,0.0,0,0,0,0,1.0,Leicester,True,Chelsea,-2.98
+Harry Souttar,Leicester,Chelsea,2023-03-11,True,DC,90,0.0,0.37,0.0,0.0,1,1.0,0.0,3.2,0,0,3,1.53,True,1.6,0.31,90.0,0.0,0,0,0,0,2.0,Leicester,False,Brentford,-4.9
+Harry Souttar,Leicester,Brentford,2023-03-18,False,DC,90,0.0,0.11,0.0,0.0,2,1.0,0.0,4.1,0,0,1,0.64,True,2.0,0.38,90.0,0.0,0,0,0,0,0.0,Leicester,False,Crystal Palace,2.07
+Harry Souttar,Leicester,Crystal Palace,2023-04-01,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.9,0,0,2,2.29,True,1.6,0.2,90.0,0.0,0,0,0,0,1.0,Leicester,True,Aston Villa,-0.34
+Harry Souttar,Leicester,Aston Villa,2023-04-04,True,DC,90,0.0,0.24,0.0,0.0,1,2.0,0.0,2.7,0,0,2,1.03,True,1.4,0.18,90.0,0.0,0,0,0,0,0.0,Leicester,True,Bournemouth,
+Harry Souttar,Leicester,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.23,81.0,0.0,0,0,0,0,1.0,Leicester,False,Manchester City,1.46
+Harry Souttar,Leicester,Manchester City,2023-04-15,False,DC,90,0.0,0.05,0.0,0.06,1,1.0,1.0,5.3,0,0,3,2.06,True,0.8,0.14,81.82,0.0,0,0,0,0,0.0,Leicester,True,Wolverhampton,-1.75
+Harry Souttar,Leicester,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.08,75.0,0.0,0,0,0,0,0.0,Leicester,False,Leicester City,1.46
+Harry Souttar,Leicester,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.06,69.23,0.0,0,0,0,0,0.0,Leicester,True,Everton,4.46
+Harry Souttar,Leicester,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.06,64.29,0.0,0,0,0,0,0.0,Leicester,False,Fulham,
+Harry Souttar,Leicester,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.01,60.0,0.0,0,0,0,0,1.0,Leicester,True,Liverpool,-0.21
+Harry Souttar,Leicester,Liverpool,2023-05-15,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.2,0.01,56.31,0.0,0,0,0,0,6.0,Leicester,False,Newcastle United,1.84
+Harry Souttar,Leicester,Newcastle United,2023-05-22,False,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.3,0,1,0,2.05,True,0.2,0.0,58.29,0.09,0,0,0,0,0.0,Leicester,True,West Ham,-0.48
+Harry Souttar,Leicester,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,55.06,0.09,0,0,0,0,,Brentford,True,Tottenham,-0.38

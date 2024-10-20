@@ -1,27 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Chris Mepham,Bournemouth,Aston Villa,2022-08-06,True,DC,90,0,0.0,0,0.0,7,0,0,3.7,1,1,0,0.0,False,0.0,0.0,90.0,1.0,0,0,0,0,2
-Chris Mepham,Bournemouth,Leeds United,2022-10-08,True,DC,90,0,0.08,0,0.0,2,1,0,2.3,0,0,1,0.0,False,7.0,0.0,90.0,0.5,0,0,0,0,1
-Chris Mepham,Bournemouth,Fulham,2022-10-15,False,DC,90,0,0.04,0,0.0,1,1,0,1.8,0,0,2,0.0,False,4.5,0.04,90.0,0.33,0,0,0,0,1
-Chris Mepham,Bournemouth,Southampton,2022-10-19,True,DC,90,0,0.0,0,0.04,1,0,1,2.8,0,0,1,0.0,False,3.33,0.04,90.0,0.25,0,0,0,0,0
-Chris Mepham,Bournemouth,West Ham,2022-10-24,False,DC,90,0,0.0,0,0.0,0,0,0,3.5,0,0,2,0.0,False,2.75,0.03,90.0,0.2,0,0,0,0,1
-Chris Mepham,Bournemouth,Tottenham,2022-10-29,True,DC,90,0,0.02,0,0.0,1,1,0,4.7,0,0,3,0.0,False,2.2,0.02,90.0,0.17,0,0,0,0,-1
-Chris Mepham,Bournemouth,Leicester City,2022-11-05,False,DC,90,0,0.04,0,0.08,-1,1,1,3.9,0,0,4,0.0,False,1.0,0.03,90.0,0.14,0,0,0,0,1
-Chris Mepham,Bournemouth,Manchester United,2023-01-03,False,DC,90,0,0.0,0,0.0,1,0,0,2.2,0,0,3,2.21,True,0.4,0.02,90.0,0.12,0,0,0,0,-1
-Chris Mepham,Bournemouth,Manchester City,2022-08-13,False,DC,90,0,0.0,0,0.0,-1,0,0,1.1,0,0,4,0.0,False,0.4,0.01,90.0,0.11,0,0,0,0,1
-Chris Mepham,Bournemouth,Brentford,2023-01-14,False,DC,90,0,0.0,0,0.01,1,0,1,2.8,0,0,2,1.47,True,0.0,0.01,90.0,0.1,0,0,0,0,2
-Chris Mepham,Bournemouth,Brighton,2023-02-04,False,DC,90,0,0.04,0,0.0,2,1,0,2.6,0,0,1,2.61,True,0.2,0.01,90.0,0.09,0,0,0,0,1
-Chris Mepham,Bournemouth,Newcastle United,2023-02-11,True,Sub,37,0,0.0,0,0.0,1,0,0,1.4,0,0,0,0.7,False,0.4,0.02,85.58,0.09,0,0,0,0,1
-Chris Mepham,Bournemouth,Wolverhampton,2023-02-18,False,Sub,9,0,0.0,0,0.0,1,0,0,0.8,0,0,0,0.02,False,0.8,0.01,79.69,0.09,0,0,0,0,-3
-Chris Mepham,Bournemouth,Manchester City,2023-02-25,True,DC,90,0,0.0,0,0.0,-3,0,0,2.0,0,0,4,2.38,True,0.8,0.01,80.43,0.08,0,0,0,0,0
-Chris Mepham,Bournemouth,Arsenal,2023-03-04,False,DC,90,0,0.0,0,0.0,0,0,0,3.0,0,0,3,2.6,True,0.4,0.01,81.07,0.08,0,0,0,0,1
-Chris Mepham,Bournemouth,Arsenal,2022-08-20,True,DC,90,0,0.02,0,0.0,1,1,0,3.6,0,0,3,0.0,False,0.2,0.01,81.62,0.07,0,0,0,0,8
-Chris Mepham,Bournemouth,Leeds United,2023-04-08,False,DC,90,0,0.13,0,0.06,8,1,1,7.7,2,1,0,0.68,True,0.0,0.0,82.12,0.13,0,0,0,0,1
-Chris Mepham,Bournemouth,Tottenham,2023-04-15,False,DC,90,0,0.0,0,0.0,1,0,0,3.5,0,0,2,2.04,True,1.4,0.03,82.56,0.12,0,0,0,0,0
-Chris Mepham,Bournemouth,West Ham,2023-04-23,True,DC,90,0,0.12,0,0.0,0,1,0,6.5,0,0,4,2.34,True,1.4,0.03,82.95,0.12,0,0,0,0,6
-Chris Mepham,Bournemouth,Southampton,2023-04-27,False,DC,90,0,0.0,0,0.0,6,0,0,0.0,0,1,0,0.51,True,2.0,0.06,83.3,0.17,0,0,0,0,1
-Chris Mepham,Bournemouth,Crystal Palace,2023-05-13,False,DR,90,0,0.0,0,0.0,1,0,0,2.0,0,0,2,1.54,True,3.2,0.06,83.62,0.16,0,0,0,0,-4
-Chris Mepham,Bournemouth,Liverpool,2022-08-27,False,DC,81,0,0.0,0,0.0,-4,0,0,0.4,0,0,8,0.0,False,3.2,0.05,83.5,0.15,0,0,0,0,8
-Chris Mepham,Bournemouth,Wolverhampton,2022-08-31,True,DC,90,0,0.0,0,0.0,8,0,0,2.0,3,1,0,0.0,False,0.8,0.02,83.78,0.19,0,0,0,0,1
-Chris Mepham,Bournemouth,Nottingham Forest,2022-09-03,False,DC,90,0,0.0,0,0.0,1,0,0,3.1,0,0,2,0.0,False,2.2,0.02,84.04,0.18,0,0,0,0,2
-Chris Mepham,Bournemouth,Newcastle United,2022-09-17,False,DC,90,0,0.0,0,0.0,2,0,0,1.3,0,0,1,0.0,False,2.4,0.0,84.28,0.17,0,0,0,0,6
-Chris Mepham,Bournemouth,Brentford,2022-10-01,True,DC,90,0,0.0,0,0.0,6,0,0,3.0,0,1,0,0.0,False,1.6,0.0,84.5,0.21,0,0,0,0,0
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Chris Mepham,Bournemouth,Aston Villa,2022-08-06,True,DC,90,0.0,0.0,0.0,0.0,7,0.0,0.0,3.7,1,1,0,0.0,False,0.0,0.0,90.0,1.0,0,0,0,0,2,Bournemouth,True,Leeds United,-2.17
+Chris Mepham,Bournemouth,Leeds United,2022-10-08,True,DC,90,0.0,0.08,0.0,0.0,2,1.0,0.0,2.3,0,0,1,0.0,False,7.0,0.0,90.0,0.5,0,0,0,0,1,Bournemouth,False,Fulham,0.65
+Chris Mepham,Bournemouth,Fulham,2022-10-15,False,DC,90,0.0,0.04,0.0,0.0,1,1.0,0.0,1.8,0,0,2,0.0,False,4.5,0.04,90.0,0.33,0,0,0,0,1,Bournemouth,True,Southampton,2.91
+Chris Mepham,Bournemouth,Southampton,2022-10-19,True,DC,90,0.0,0.0,0.0,0.04,1,0.0,1.0,2.8,0,0,1,0.0,False,3.33,0.04,90.0,0.25,0,0,0,0,0,Bournemouth,False,West Ham,1.5
+Chris Mepham,Bournemouth,West Ham,2022-10-24,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,3.5,0,0,2,0.0,False,2.75,0.03,90.0,0.2,0,0,0,0,1,Bournemouth,True,Tottenham,1.6
+Chris Mepham,Bournemouth,Tottenham,2022-10-29,True,DC,90,0.0,0.02,0.0,0.0,1,1.0,0.0,4.7,0,0,3,0.0,False,2.2,0.02,90.0,0.17,0,0,0,0,-1,Bournemouth,False,Leicester City,-1.39
+Chris Mepham,Bournemouth,Leicester City,2022-11-05,False,DC,90,0.0,0.04,0.0,0.08,-1,1.0,1.0,3.9,0,0,4,0.0,False,1.0,0.03,90.0,0.14,0,0,0,0,0,Bournemouth,True,Everton,-3.5
+Chris Mepham,Bournemouth,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.02,78.75,0.14,0,0,0,0,0,Bournemouth,False,Chelsea,1.75
+Chris Mepham,Bournemouth,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.01,70.0,0.14,0,0,0,0,0,Bournemouth,True,Crystal Palace,0.58
+Chris Mepham,Bournemouth,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,63.0,0.14,0,0,0,0,1,Bournemouth,False,Manchester United,-1.42
+Chris Mepham,Bournemouth,Manchester United,2023-01-03,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,3,2.21,True,0.0,0.01,65.45,0.12,0,0,0,0,-1,Bournemouth,False,Manchester City,2.96
+Chris Mepham,Bournemouth,Manchester City,2022-08-13,False,DC,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,1.1,0,0,4,0.0,False,0.0,0.01,67.5,0.11,0,0,0,0,1,Bournemouth,False,Brentford,0.82
+Chris Mepham,Bournemouth,Brentford,2023-01-14,False,DC,90,0.0,0.0,0.0,0.01,1,0.0,1.0,2.8,0,0,2,1.47,True,0.0,0.0,69.23,0.1,0,0,0,0,0,Bournemouth,True,Nottingham Forest,-0.18
+Chris Mepham,Bournemouth,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,64.29,0.1,0,0,0,0,2,Bournemouth,False,Brighton,0.77
+Chris Mepham,Bournemouth,Brighton,2023-02-04,False,DC,90,0.0,0.04,0.0,0.0,2,1.0,0.0,2.6,0,0,1,2.61,True,0.2,0.0,66.0,0.09,0,0,0,0,1,Bournemouth,True,Newcastle United,-1.78
+Chris Mepham,Bournemouth,Newcastle United,2023-02-11,True,Sub,37,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,0,0.7,False,0.6,0.01,64.19,0.09,0,0,0,0,1,Bournemouth,False,Wolverhampton,-2.03
+Chris Mepham,Bournemouth,Wolverhampton,2023-02-18,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.02,False,0.6,0.01,60.94,0.09,0,0,0,0,-3,Bournemouth,True,Manchester City,1.44
+Chris Mepham,Bournemouth,Manchester City,2023-02-25,True,DC,90,0.0,0.0,0.0,0.0,-3,0.0,0.0,2.0,0,0,4,2.38,True,1.0,0.01,62.56,0.08,0,0,0,0,0,Bournemouth,False,Arsenal,0.25
+Chris Mepham,Bournemouth,Arsenal,2023-03-04,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,3.0,0,0,3,2.6,True,0.2,0.01,64.0,0.08,0,0,0,0,0,Bournemouth,True,Liverpool,0.55
+Chris Mepham,Bournemouth,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.01,60.8,0.08,0,0,0,0,0,Bournemouth,False,Aston Villa,2.29
+Chris Mepham,Bournemouth,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,-0.2,0.0,57.9,0.08,0,0,0,0,0,Bournemouth,True,Fulham,-3.96
+Chris Mepham,Bournemouth,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,-0.4,0.0,55.27,0.08,0,0,0,0,0,Bournemouth,True,Brighton,-1.19
+Chris Mepham,Bournemouth,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,-0.6,0.0,52.87,0.08,0,0,0,0,1,Bournemouth,True,Arsenal,4.06
+Chris Mepham,Bournemouth,Arsenal,2022-08-20,True,DC,90,0.0,0.02,0.0,0.0,1,1.0,0.0,3.6,0,0,3,0.0,False,0.0,0.0,54.42,0.07,0,0,0,0,8,Bournemouth,False,Leeds United,-0.64
+Chris Mepham,Bournemouth,Leeds United,2023-04-08,False,DC,90,0.0,0.13,0.0,0.06,8,1.0,1.0,7.7,2,1,0,0.68,True,0.2,0.0,55.84,0.13,0,0,0,0,1,Bournemouth,False,Tottenham,0.69
+Chris Mepham,Bournemouth,Tottenham,2023-04-15,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.5,0,0,2,2.04,True,1.8,0.03,57.15,0.12,0,0,0,0,0,Bournemouth,True,West Ham,2.84
+Chris Mepham,Bournemouth,West Ham,2023-04-23,True,DC,90,0.0,0.12,0.0,0.0,0,1.0,0.0,6.5,0,0,4,2.34,True,2.0,0.03,58.37,0.12,0,0,0,0,6,Bournemouth,False,Southampton,-0.86
+Chris Mepham,Bournemouth,Southampton,2023-04-27,False,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,0.0,0,1,0,0.51,True,2.0,0.06,59.5,0.17,0,0,0,0,0,Bournemouth,True,Leicester City,-4.92
+Chris Mepham,Bournemouth,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.2,0.06,57.45,0.17,0,0,0,0,0,Bournemouth,True,Chelsea,-0.01
+Chris Mepham,Bournemouth,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.05,55.53,0.17,0,0,0,0,1,Bournemouth,False,Crystal Palace,0.17
+Chris Mepham,Bournemouth,Crystal Palace,2023-05-13,False,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.0,0,0,2,1.54,True,1.4,0.02,56.65,0.16,0,0,0,0,0,Bournemouth,True,Manchester United,0.69
+Chris Mepham,Bournemouth,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.02,54.88,0.16,0,0,0,0,0,Bournemouth,False,Everton,3.85
+Chris Mepham,Bournemouth,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,53.21,0.16,0,0,0,0,-4,Bournemouth,False,Liverpool,4.89
+Chris Mepham,Bournemouth,Liverpool,2022-08-27,False,DC,81,0.0,0.0,0.0,0.0,-4,0.0,0.0,0.4,0,0,8,0.0,False,0.2,0.0,54.03,0.15,0,0,0,0,8,Bournemouth,True,Wolverhampton,0.64
+Chris Mepham,Bournemouth,Wolverhampton,2022-08-31,True,DC,90,0.0,0.0,0.0,0.0,8,0.0,0.0,2.0,3,1,0,0.0,False,-0.6,0.0,55.06,0.19,0,0,0,0,1,Bournemouth,False,Nottingham Forest,-0.87
+Chris Mepham,Bournemouth,Nottingham Forest,2022-09-03,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.1,0,0,2,0.0,False,1.0,0.0,56.03,0.18,0,0,0,0,2,Bournemouth,False,Newcastle United,-1.24
+Chris Mepham,Bournemouth,Newcastle United,2022-09-17,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.3,0,0,1,0.0,False,1.0,0.0,56.95,0.17,0,0,0,0,6,Bournemouth,True,Brentford,0.86
+Chris Mepham,Bournemouth,Brentford,2022-10-01,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,3.0,0,1,0,0.0,False,1.4,0.0,57.82,0.21,0,0,0,0,0,Bournemouth,True,West Ham,2.84

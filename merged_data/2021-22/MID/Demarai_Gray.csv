@@ -1,35 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
-Demarai Gray,Everton,Southampton,2021-08-14,True,AMC,82,0,0.0,0,0.11,2,0,1,3.0,0,0,1,0.0,0.0,82.0
-Demarai Gray,Everton,Wolverhampton,2021-11-01,False,FW,89,0,0.31,0,0.01,2,3,1,4.5,0,0,2,2.0,0.0,85.5
-Demarai Gray,Everton,Tottenham,2021-11-07,True,ML,90,0,0.36,0,0.03,3,5,1,9.8,0,1,0,2.0,0.15,87.0
-Demarai Gray,Everton,Manchester City,2021-11-21,False,ML,16,0,0.04,0,0.0,1,1,0,1.8,0,0,0,2.33,0.22,69.25
-Demarai Gray,Everton,Brentford,2021-11-28,False,Sub,20,0,0.02,0,0.0,1,1,0,2.5,0,0,0,2.0,0.18,59.4
-Demarai Gray,Everton,Liverpool,2021-12-01,True,ML,84,1,0.29,0,0.03,6,3,1,9.0,0,0,4,1.8,0.15,63.5
-Demarai Gray,Everton,Arsenal,2021-12-06,True,ML,90,1,0.11,0,0.05,9,3,1,6.9,0,0,1,2.6,0.2,67.29
-Demarai Gray,Everton,Crystal Palace,2021-12-12,False,ML,90,0,0.1,0,0.01,1,4,1,4.8,0,0,3,4.0,0.16,70.12
-Demarai Gray,Everton,Leicester City,2021-08-21,False,ML,82,1,0.09,0,0.12,9,1,1,8.5,2,0,2,3.6,0.11,71.44
-Demarai Gray,Everton,Brighton,2022-01-02,True,ML,90,0,0.36,0,0.11,2,2,3,12.3,0,0,3,5.2,0.12,73.3
-Demarai Gray,Everton,Norwich,2022-01-15,False,ML,90,0,0.11,0,0.06,2,2,2,8.1,0,0,2,5.4,0.19,74.82
-Demarai Gray,Everton,Aston Villa,2022-01-22,True,ML,90,0,0.19,0,0.03,2,3,1,6.1,0,0,1,4.6,0.15,76.08
-Demarai Gray,Everton,Newcastle United,2022-02-08,False,AMC,24,0,0.0,0,0.15,1,0,3,4.0,0,0,0,3.2,0.17,72.08
-Demarai Gray,Everton,Manchester City,2022-02-26,True,Sub,13,0,0.0,0,0.0,1,0,0,0.1,0,0,1,3.2,0.15,67.86
-Demarai Gray,Everton,Wolverhampton,2022-03-13,True,FWL,73,0,0.11,0,0.05,2,1,1,6.2,0,0,1,1.6,0.13,68.2
-Demarai Gray,Everton,Newcastle United,2022-03-17,True,AML,75,0,0.14,0,0.02,3,3,1,3.5,0,1,0,1.6,0.08,68.62
-Demarai Gray,Everton,Brighton,2021-08-28,False,ML,80,1,0.19,0,0.16,8,3,2,10.4,0,1,0,1.8,0.09,69.29
-Demarai Gray,Everton,West Ham,2022-04-03,False,FWR,90,0,0.04,0,0.17,2,2,2,5.6,0,0,2,3.0,0.09,70.44
-Demarai Gray,Everton,Burnley,2022-04-06,False,Sub,17,0,0.09,0,0.0,1,2,0,3.3,0,0,1,3.2,0.1,67.63
-Demarai Gray,Everton,Manchester United,2022-04-09,True,Sub,19,0,0.0,0,0.0,1,0,0,1.1,0,0,0,3.2,0.11,65.2
-Demarai Gray,Everton,Leeds United,2022-04-20,True,FWL,65,0,0.09,0,0.22,2,3,2,4.9,0,0,1,3.0,0.09,65.19
-Demarai Gray,Everton,Liverpool,2022-04-24,False,FWR,76,0,0.14,0,0.0,2,3,0,2.7,0,0,1,2.8,0.08,65.68
-Demarai Gray,Everton,Chelsea,2022-05-01,True,ML,90,0,0.16,1,0.34,7,2,1,7.8,1,1,0,1.6,0.07,66.74
-Demarai Gray,Everton,Leeds United,2022-05-08,False,ML,73,0,0.02,0,0.76,2,1,2,4.0,0,0,1,2.6,0.29,67.0
-Demarai Gray,Everton,Watford,2022-05-11,False,ML,76,0,0.17,0,0.09,3,3,2,6.6,0,1,0,2.8,0.28,67.36
-Demarai Gray,Everton,Brentford,2022-05-15,True,Sub,18,0,0.0,0,0.12,1,0,1,2.5,0,0,0,3.2,0.32,65.46
-Demarai Gray,Everton,Crystal Palace,2022-05-19,True,Sub,29,0,0.0,1,0.32,4,0,1,3.5,0,0,0,3.0,0.3,64.11
-Demarai Gray,Everton,Arsenal,2022-05-22,False,MR,90,0,0.14,0,0.0,2,3,0,0.0,0,0,5,3.4,0.47,65.04
-Demarai Gray,Everton,Burnley,2021-09-13,True,FWL,87,1,0.63,0,0.0,7,4,0,8.2,0,0,1,2.4,0.27,65.79
-Demarai Gray,Everton,Aston Villa,2021-09-18,False,AMC,90,0,0.18,0,0.1,2,2,2,7.3,0,0,3,3.4,0.39,66.6
-Demarai Gray,Everton,Norwich,2021-09-25,True,AMC,82,0,0.07,1,0.4,6,1,1,6.6,0,1,0,3.2,0.39,67.1
-Demarai Gray,Everton,Manchester United,2021-10-02,False,AMC,90,0,0.12,0,0.07,2,2,2,5.4,0,0,1,4.2,0.6,67.81
-Demarai Gray,Everton,West Ham,2021-10-17,True,AMC,90,0,0.09,0,0.11,2,2,3,7.9,0,0,1,3.8,0.43,68.48
-Demarai Gray,Everton,Watford,2021-10-23,True,AMC,76,0,0.0,1,0.8,5,0,3,6.4,0,0,1,3.8,0.42,68.71
+Demarai Gray,Everton,Southampton,2021-08-14,True,AMC,82,0.0,0.0,0.0,0.11,2,0.0,1.0,3.0,0,0,1,0.0,0.0,82.0
+Demarai Gray,Everton,Wolverhampton,2021-11-01,False,FW,89,0.0,0.31,0.0,0.01,2,3.0,1.0,4.5,0,0,2,2.0,0.0,85.5
+Demarai Gray,Everton,Tottenham,2021-11-07,True,ML,90,0.0,0.36,0.0,0.03,3,5.0,1.0,9.8,0,1,0,2.0,0.15,87.0
+Demarai Gray,Everton,Manchester City,2021-11-21,False,ML,16,0.0,0.04,0.0,0.0,1,1.0,0.0,1.8,0,0,0,2.33,0.22,69.25
+Demarai Gray,Everton,Brentford,2021-11-28,False,Sub,20,0.0,0.02,0.0,0.0,1,1.0,0.0,2.5,0,0,0,2.0,0.18,59.4
+Demarai Gray,Everton,Liverpool,2021-12-01,True,ML,84,1.0,0.29,0.0,0.03,6,3.0,1.0,9.0,0,0,4,1.8,0.15,63.5
+Demarai Gray,Everton,Arsenal,2021-12-06,True,ML,90,1.0,0.11,0.0,0.05,9,3.0,1.0,6.9,0,0,1,2.6,0.2,67.29
+Demarai Gray,Everton,Crystal Palace,2021-12-12,False,ML,90,0.0,0.1,0.0,0.01,1,4.0,1.0,4.8,0,0,3,4.0,0.16,70.12
+Demarai Gray,Everton,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,3.6,0.11,62.33
+Demarai Gray,Everton,Leicester City,2021-08-21,False,ML,82,1.0,0.09,0.0,0.12,9,1.0,1.0,8.5,2,0,2,3.4,0.11,64.3
+Demarai Gray,Everton,Brighton,2022-01-02,True,ML,90,0.0,0.36,0.0,0.11,2,2.0,3.0,12.3,0,0,3,5.0,0.12,66.64
+Demarai Gray,Everton,Norwich,2022-01-15,False,ML,90,0.0,0.11,0.0,0.06,2,2.0,2.0,8.1,0,0,2,4.2,0.13,68.58
+Demarai Gray,Everton,Aston Villa,2022-01-22,True,ML,90,0.0,0.19,0.0,0.03,2,3.0,1.0,6.1,0,0,1,2.8,0.13,70.23
+Demarai Gray,Everton,Newcastle United,2022-02-08,False,AMC,24,0.0,0.0,0.0,0.15,1,0.0,3.0,4.0,0,0,0,3.0,0.15,66.93
+Demarai Gray,Everton,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,3.2,0.15,62.47
+Demarai Gray,Everton,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,1.4,0.13,58.56
+Demarai Gray,Everton,Manchester City,2022-02-26,True,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,1.0,0.06,55.88
+Demarai Gray,Everton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.8,0.04,52.78
+Demarai Gray,Everton,Wolverhampton,2022-03-13,True,FWL,73,0.0,0.11,0.0,0.05,2,1.0,1.0,6.2,0,0,1,0.4,0.0,53.84
+Demarai Gray,Everton,Newcastle United,2022-03-17,True,AML,75,0.0,0.14,0.0,0.02,3,3.0,1.0,3.5,0,1,0,0.6,0.02,54.9
+Demarai Gray,Everton,Brighton,2021-08-28,False,ML,80,1.0,0.19,0.0,0.16,8,3.0,2.0,10.4,0,1,0,1.2,0.05,56.1
+Demarai Gray,Everton,West Ham,2022-04-03,False,FWR,90,0.0,0.04,0.0,0.17,2,2.0,2.0,5.6,0,0,2,2.8,0.09,57.64
+Demarai Gray,Everton,Burnley,2022-04-06,False,Sub,17,0.0,0.09,0.0,0.0,1,2.0,0.0,3.3,0,0,1,3.0,0.1,55.87
+Demarai Gray,Everton,Manchester United,2022-04-09,True,Sub,19,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,0,3.2,0.11,54.33
+Demarai Gray,Everton,Leeds United,2022-04-20,True,FWL,65,0.0,0.09,0.0,0.22,2,3.0,2.0,4.9,0,0,1,3.0,0.09,54.76
+Demarai Gray,Everton,Liverpool,2022-04-24,False,FWR,76,0.0,0.14,0.0,0.0,2,3.0,0.0,2.7,0,0,1,2.8,0.08,55.58
+Demarai Gray,Everton,Chelsea,2022-05-01,True,ML,90,0.0,0.16,1.0,0.34,7,2.0,1.0,7.8,1,1,0,1.6,0.07,56.85
+Demarai Gray,Everton,Leeds United,2022-05-08,False,ML,73,0.0,0.02,0.0,0.76,2,1.0,2.0,4.0,0,0,1,2.6,0.29,57.43
+Demarai Gray,Everton,Watford,2022-05-11,False,ML,76,0.0,0.17,0.0,0.09,3,3.0,2.0,6.6,0,1,0,2.8,0.28,58.07
+Demarai Gray,Everton,Brentford,2022-05-15,True,Sub,18,0.0,0.0,0.0,0.12,1,0.0,1.0,2.5,0,0,0,3.2,0.32,56.73
+Demarai Gray,Everton,Crystal Palace,2022-05-19,True,Sub,29,0.0,0.0,1.0,0.32,4,0.0,1.0,3.5,0,0,0,3.0,0.3,55.84
+Demarai Gray,Everton,Arsenal,2022-05-22,False,MR,90,0.0,0.14,0.0,0.0,2,3.0,0.0,0.0,0,0,5,3.4,0.47,56.91
+Demarai Gray,Everton,Burnley,2021-09-13,True,FWL,87,1.0,0.63,0.0,0.0,7,4.0,0.0,8.2,0,0,1,2.4,0.27,57.82
+Demarai Gray,Everton,Aston Villa,2021-09-18,False,AMC,90,0.0,0.18,0.0,0.1,2,2.0,2.0,7.3,0,0,3,3.4,0.39,58.76
+Demarai Gray,Everton,Norwich,2021-09-25,True,AMC,82,0.0,0.07,1.0,0.4,6,1.0,1.0,6.6,0,1,0,3.2,0.39,59.43
+Demarai Gray,Everton,Manchester United,2021-10-02,False,AMC,90,0.0,0.12,0.0,0.07,2,2.0,2.0,5.4,0,0,1,4.2,0.6,60.28
+Demarai Gray,Everton,West Ham,2021-10-17,True,AMC,90,0.0,0.09,0.0,0.11,2,2.0,3.0,7.9,0,0,1,3.8,0.43,61.08
+Demarai Gray,Everton,Watford,2021-10-23,True,AMC,76,0.0,0.0,1.0,0.8,5,0.0,3.0,6.4,0,0,1,3.8,0.42,61.47

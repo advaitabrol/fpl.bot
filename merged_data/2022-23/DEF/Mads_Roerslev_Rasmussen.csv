@@ -1,21 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Mads Roerslev Rasmussen,Brentford,Brighton,2022-10-14,True,Sub,19,0,0.06,0,0.0,1,1,0,2.0,0,0,0,0.0,False,0.0,0.0,19.0,0.0,0,0,0,0,6
-Mads Roerslev Rasmussen,Brentford,Chelsea,2022-10-19,True,DMR,90,0,0.0,0,0.59,6,0,3,5.7,0,1,0,0.0,False,1.0,0.06,54.5,1.0,0,0,0,0,0
-Mads Roerslev Rasmussen,Brentford,Aston Villa,2022-10-23,False,DMR,45,0,0.0,0,0.0,0,0,0,0.2,0,0,3,0.0,False,3.5,0.03,51.33,1.0,0,0,0,0,1
-Mads Roerslev Rasmussen,Brentford,Wolverhampton,2022-10-29,True,Sub,7,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.0,False,2.33,0.02,40.25,1.0,0,0,0,0,1
-Mads Roerslev Rasmussen,Brentford,Nottingham Forest,2022-11-05,False,DR,90,0,0.0,0,0.0,1,0,0,1.6,0,0,2,0.0,False,2.0,0.01,50.2,0.5,0,0,0,0,2
-Mads Roerslev Rasmussen,Brentford,Manchester City,2022-11-12,False,DMR,90,0,0.0,0,0.03,2,0,1,3.0,0,0,1,1.61,True,1.8,0.01,56.83,0.33,0,0,0,0,1
-Mads Roerslev Rasmussen,Brentford,Tottenham,2022-12-26,True,DMR,90,0,0.0,0,0.56,1,0,1,2.0,0,0,2,1.07,True,2.0,0.0,61.57,0.25,0,0,0,0,6
-Mads Roerslev Rasmussen,Brentford,West Ham,2022-12-30,False,DMR,90,0,0.0,0,0.14,6,0,1,3.0,0,1,0,1.24,True,1.0,0.0,65.12,0.4,0,0,0,0,2
-Mads Roerslev Rasmussen,Brentford,Liverpool,2023-01-02,True,DMR,90,0,0.0,0,0.0,2,0,0,1.5,0,0,1,2.03,True,2.2,0.0,67.89,0.33,0,0,0,0,6
-Mads Roerslev Rasmussen,Brentford,Manchester United,2022-08-13,True,DC,90,0,0.0,0,0.0,6,0,0,2.1,0,1,0,0.0,False,2.4,0.0,70.1,0.43,0,0,0,0,1
-Mads Roerslev Rasmussen,Brentford,Bournemouth,2023-01-14,True,Sub,19,0,0.0,0,0.11,1,0,1,2.2,0,0,0,0.06,False,3.4,0.0,65.45,0.43,0,0,0,0,6
-Mads Roerslev Rasmussen,Brentford,Leicester City,2023-01-22,False,DMR,90,0,0.07,0,0.0,6,1,0,1.9,0,1,0,0.5,True,3.2,0.0,67.5,0.5,0,0,0,0,1
-Mads Roerslev Rasmussen,Brentford,Southampton,2023-02-04,True,Sub,29,0,0.27,0,0.0,1,1,0,0.8,0,0,0,0.38,False,4.2,0.01,64.54,0.5,0,0,0,0,2
-Mads Roerslev Rasmussen,Brentford,Arsenal,2023-02-11,False,DMR,90,0,0.0,0,0.0,2,0,0,2.2,0,0,1,1.68,True,3.2,0.07,66.36,0.44,0,0,0,0,1
-Mads Roerslev Rasmussen,Brentford,Fulham,2023-03-06,True,Sub,1,0,0.0,0,0.0,1,0,0,0.2,0,0,1,0.21,False,3.2,0.07,62.0,0.44,0,0,0,0,2
-Mads Roerslev Rasmussen,Brentford,Manchester United,2023-04-05,False,DR,74,0,0.0,0,0.0,2,0,0,1.6,0,0,1,0.91,True,2.2,0.07,62.75,0.4,0,0,0,0,6
-Mads Roerslev Rasmussen,Brentford,Chelsea,2023-04-26,False,DR,90,0,0.0,0,0.0,6,0,0,0.4,0,1,0,1.24,True,2.4,0.07,64.35,0.45,0,0,0,0,1
-Mads Roerslev Rasmussen,Brentford,West Ham,2023-05-14,True,Sub,5,0,0.0,0,0.41,1,0,1,2.6,0,0,0,0.0,False,2.4,0.05,61.06,0.45,0,0,0,0,1
-Mads Roerslev Rasmussen,Brentford,Tottenham,2023-05-20,False,Sub,1,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.68,False,2.4,0.0,57.89,0.45,0,0,0,0,1
-Mads Roerslev Rasmussen,Brentford,Manchester City,2023-05-28,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.07,False,2.2,0.0,55.05,0.45,0,0,0,0,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Mads Roerslev Rasmussen,Brentford,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Brentford,False,Newcastle United,2.44
+Mads Roerslev Rasmussen,Brentford,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1,Brentford,True,Brighton,-0.72
+Mads Roerslev Rasmussen,Brentford,Brighton,2022-10-14,True,Sub,19,0.0,0.06,0.0,0.0,1,1.0,0.0,2.0,0,0,0,0.0,False,0.0,0.0,6.33,0.0,0,0,0,0,6,Brentford,True,Chelsea,-0.25
+Mads Roerslev Rasmussen,Brentford,Chelsea,2022-10-19,True,DMR,90,0.0,0.0,0.0,0.59,6,0.0,3.0,5.7,0,1,0,0.0,False,0.33,0.02,27.25,1.0,0,0,0,0,0,Brentford,False,Aston Villa,2.08
+Mads Roerslev Rasmussen,Brentford,Aston Villa,2022-10-23,False,DMR,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,0,3,0.0,False,1.75,0.01,30.8,1.0,0,0,0,0,1,Brentford,True,Wolverhampton,2.5
+Mads Roerslev Rasmussen,Brentford,Wolverhampton,2022-10-29,True,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,1.4,0.01,26.83,1.0,0,0,0,0,1,Brentford,False,Nottingham Forest,1.35
+Mads Roerslev Rasmussen,Brentford,Nottingham Forest,2022-11-05,False,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,2,0.0,False,1.6,0.01,35.86,0.5,0,0,0,0,2,Brentford,False,Manchester City,-0.6
+Mads Roerslev Rasmussen,Brentford,Manchester City,2022-11-12,False,DMR,90,0.0,0.0,0.0,0.03,2,0.0,1.0,3.0,0,0,1,1.61,True,1.8,0.01,42.62,0.33,0,0,0,0,1,Brentford,True,Tottenham,-0.38
+Mads Roerslev Rasmussen,Brentford,Tottenham,2022-12-26,True,DMR,90,0.0,0.0,0.0,0.56,1,0.0,1.0,2.0,0,0,2,1.07,True,2.0,0.0,47.89,0.25,0,0,0,0,6,Brentford,False,West Ham,-0.27
+Mads Roerslev Rasmussen,Brentford,West Ham,2022-12-30,False,DMR,90,0.0,0.0,0.0,0.14,6,0.0,1.0,3.0,0,1,0,1.24,True,1.0,0.0,52.1,0.4,0,0,0,0,2,Brentford,True,Liverpool,-0.79
+Mads Roerslev Rasmussen,Brentford,Liverpool,2023-01-02,True,DMR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,2.03,True,2.2,0.0,55.55,0.33,0,0,0,0,6,Brentford,True,Manchester United,-1.13
+Mads Roerslev Rasmussen,Brentford,Manchester United,2022-08-13,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.1,0,1,0,0.0,False,2.4,0.0,58.42,0.43,0,0,0,0,1,Brentford,True,Bournemouth,-0.5
+Mads Roerslev Rasmussen,Brentford,Bournemouth,2023-01-14,True,Sub,19,0.0,0.0,0.0,0.11,1,0.0,1.0,2.2,0,0,0,0.06,False,3.4,0.0,55.38,0.43,0,0,0,0,6,Brentford,False,Leicester City,-0.02
+Mads Roerslev Rasmussen,Brentford,Leicester City,2023-01-22,False,DMR,90,0.0,0.07,0.0,0.0,6,1.0,0.0,1.9,0,1,0,0.5,True,3.2,0.0,57.86,0.5,0,0,0,0,1,Brentford,True,Southampton,-4.06
+Mads Roerslev Rasmussen,Brentford,Southampton,2023-02-04,True,Sub,29,0.0,0.27,0.0,0.0,1,1.0,0.0,0.8,0,0,0,0.38,False,4.2,0.01,55.93,0.5,0,0,0,0,2,Brentford,False,Arsenal,0.3
+Mads Roerslev Rasmussen,Brentford,Arsenal,2023-02-11,False,DMR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,0,1,1.68,True,3.2,0.07,58.06,0.44,0,0,0,0,0,Brentford,True,Crystal Palace,1.05
+Mads Roerslev Rasmussen,Brentford,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.2,0.07,54.65,0.44,0,0,0,0,1,Brentford,True,Fulham,0.44
+Mads Roerslev Rasmussen,Brentford,Fulham,2023-03-06,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,0.21,False,2.0,0.07,51.67,0.44,0,0,0,0,0,Brentford,False,Everton,2.1
+Mads Roerslev Rasmussen,Brentford,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.07,48.95,0.44,0,0,0,0,0,Brentford,False,Southampton,0.93
+Mads Roerslev Rasmussen,Brentford,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.05,46.5,0.44,0,0,0,0,0,Brentford,True,Leeds United,2.23
+Mads Roerslev Rasmussen,Brentford,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,44.29,0.44,0,0,0,0,0,Brentford,False,Brighton,1.2
+Mads Roerslev Rasmussen,Brentford,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,42.27,0.44,0,0,0,0,2,Brentford,False,Manchester United,1.62
+Mads Roerslev Rasmussen,Brentford,Manchester United,2023-04-05,False,DR,74,0.0,0.0,0.0,0.0,2,0.0,0.0,1.6,0,0,1,0.91,True,0.2,0.0,43.65,0.4,0,0,0,0,0,Brentford,False,Fulham,-1.2
+Mads Roerslev Rasmussen,Brentford,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,41.83,0.4,0,0,0,0,0,Brentford,True,Newcastle United,2.43
+Mads Roerslev Rasmussen,Brentford,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,40.16,0.4,0,0,0,0,0,Brentford,False,Wolverhampton,-1.6
+Mads Roerslev Rasmussen,Brentford,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,38.62,0.4,0,0,0,0,0,Brentford,True,Aston Villa,0.51
+Mads Roerslev Rasmussen,Brentford,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,37.19,0.4,0,0,0,0,6,Brentford,False,Chelsea,-4.41
+Mads Roerslev Rasmussen,Brentford,Chelsea,2023-04-26,False,DR,90,0.0,0.0,0.0,0.0,6,0.0,0.0,0.4,0,1,0,1.24,True,0.4,0.0,39.07,0.45,0,0,0,0,0,Brentford,True,Nottingham Forest,-0.34
+Mads Roerslev Rasmussen,Brentford,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,37.72,0.45,0,0,0,0,0,Brentford,False,Liverpool,3.48
+Mads Roerslev Rasmussen,Brentford,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,36.47,0.45,0,0,0,0,1,Brentford,True,West Ham,-1.97
+Mads Roerslev Rasmussen,Brentford,West Ham,2023-05-14,True,Sub,5,0.0,0.0,0.0,0.41,1,0.0,1.0,2.6,0,0,0,0.0,False,1.2,0.0,35.45,0.45,0,0,0,0,1,Brentford,False,Tottenham,2.11
+Mads Roerslev Rasmussen,Brentford,Tottenham,2023-05-20,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.68,False,1.4,0.0,34.38,0.45,0,0,0,0,1,Brentford,True,Manchester City,1.02
+Mads Roerslev Rasmussen,Brentford,Manchester City,2023-05-28,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.07,False,1.6,0.0,33.36,0.45,0,0,0,0,0,Brentford,True,Everton,0.56
+Mads Roerslev Rasmussen,Brentford,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,32.38,0.45,0,0,0,0,0,Brentford,False,Crystal Palace,1.07
+Mads Roerslev Rasmussen,Brentford,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,31.46,0.45,0,0,0,0,0,Brentford,True,Leicester City,-0.73
+Mads Roerslev Rasmussen,Brentford,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,30.58,0.45,0,0,0,0,0,Brentford,True,Arsenal,0.17
+Mads Roerslev Rasmussen,Brentford,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,29.76,0.45,0,0,0,0,0,Brentford,False,Bournemouth,0.55
+Mads Roerslev Rasmussen,Brentford,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,28.97,0.45,0,0,0,0,1,Brentford,True,Tottenham,-0.38

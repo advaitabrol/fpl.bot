@@ -1,34 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
-Mateusz Klich,Leeds,Manchester United,2021-08-14,False,MC,90,0,0.06,0,0.0,2,2,0,2.1,0,0,5,0.0,0.0,90.0
-Mateusz Klich,Leeds,Tottenham,2021-11-21,False,MC,58,0,0.0,0,0.02,1,0,1,2.3,0,0,1,2.0,0.06,74.0
-Mateusz Klich,Leeds,Crystal Palace,2021-11-30,True,MC,45,0,0.0,0,0.0,1,0,0,0.3,0,0,0,1.5,0.03,64.33
-Mateusz Klich,Leeds,Brentford,2021-12-05,True,Sub,35,0,0.07,0,0.0,0,1,0,1.9,0,0,1,1.33,0.02,57.0
-Mateusz Klich,Leeds,Chelsea,2021-12-11,False,Sub,31,0,0.07,0,0.05,0,2,1,3.2,0,0,1,1.0,0.03,51.8
-Mateusz Klich,Leeds,Manchester City,2021-12-14,False,Sub,52,0,0.01,0,0.0,1,1,0,0.6,0,0,4,0.8,0.04,51.83
-Mateusz Klich,Leeds,Arsenal,2021-12-18,True,DMC,77,0,0.0,0,0.38,2,0,3,5.7,0,0,3,0.6,0.03,55.43
-Mateusz Klich,Leeds,Everton,2021-08-21,True,AMC,59,1,0.39,0,0.07,9,3,3,10.2,3,0,2,0.8,0.03,55.88
-Mateusz Klich,Leeds,Burnley,2022-01-02,True,MC,90,0,0.0,1,0.35,6,0,7,11.3,1,0,1,2.4,0.11,59.67
-Mateusz Klich,Leeds,West Ham,2022-01-16,False,AMC,90,0,0.17,0,0.05,2,2,1,7.0,0,0,2,3.6,0.3,62.7
-Mateusz Klich,Leeds,Newcastle United,2022-01-22,True,DMC,79,0,0.08,0,0.0,2,2,0,2.5,0,0,1,4.0,0.32,64.18
-Mateusz Klich,Leeds,Aston Villa,2022-02-09,False,DMC,84,0,0.19,0,0.0,2,4,0,4.9,0,0,3,4.2,0.33,65.83
-Mateusz Klich,Leeds,Everton,2022-02-12,False,MC,45,0,0.0,0,0.0,1,0,0,0.9,0,0,2,4.2,0.37,64.23
-Mateusz Klich,Leeds,Manchester United,2022-02-20,True,AMC,90,0,0.41,0,0.13,1,7,2,10.5,0,0,4,2.6,0.29,66.07
-Mateusz Klich,Leeds,Liverpool,2022-02-23,False,MC,45,0,0.0,0,0.0,1,0,0,0.6,0,0,3,1.6,0.17,64.67
-Mateusz Klich,Leeds,Tottenham,2022-02-26,True,Sub,45,0,0.08,0,0.0,0,1,0,3.0,0,0,1,1.4,0.14,63.44
-Mateusz Klich,Leeds,Leeds United,2022-03-05,False,DMC,69,0,0.0,0,0.0,2,0,0,1.8,0,0,1,1.0,0.14,63.76
-Mateusz Klich,Leeds,Aston Villa,2022-03-10,True,Sub,23,0,0.0,0,0.0,1,0,0,0.6,0,0,1,1.0,0.1,61.5
-Mateusz Klich,Leeds,Norwich,2022-03-13,True,DMC,90,0,0.0,0,0.15,2,0,2,5.4,0,0,1,1.0,0.1,63.0
-Mateusz Klich,Leeds,Wolverhampton,2022-03-18,False,DMC,45,0,0.0,0,0.0,1,0,0,0.4,0,0,1,1.2,0.02,62.1
-Mateusz Klich,Leeds,Southampton,2022-04-02,True,DMC,65,0,0.06,0,0.0,2,2,0,2.4,0,0,1,1.2,0.02,62.24
-Mateusz Klich,Leeds,Watford,2022-04-09,False,DMC,58,0,0.0,0,0.0,1,0,0,0.7,0,0,0,1.6,0.01,62.05
-Mateusz Klich,Leeds,Crystal Palace,2022-04-25,False,DMC,45,0,0.0,0,0.0,1,0,0,0.6,0,0,0,1.4,0.01,61.3
-Mateusz Klich,Leeds,Manchester City,2022-04-30,True,MC,90,0,0.0,0,0.28,2,0,1,3.5,0,0,4,1.4,0.01,62.5
-Mateusz Klich,Leeds,Arsenal,2022-05-08,False,DMC,45,0,0.0,0,0.0,0,0,0,0.1,0,0,2,1.4,0.01,61.8
-Mateusz Klich,Leeds,Chelsea,2022-05-11,True,Sub,31,0,0.02,0,0.0,1,1,0,1.0,0,0,1,1.2,0.01,60.62
-Mateusz Klich,Leeds,Brighton,2022-05-15,True,MC,82,0,0.12,0,0.05,2,2,2,6.5,0,0,1,1.0,0.0,61.41
-Mateusz Klich,Leeds,Brentford,2022-05-22,False,Sub,5,0,0.11,0,0.0,1,2,0,0.0,0,0,0,1.2,0.03,59.39
-Mateusz Klich,Leeds,Newcastle United,2021-09-17,False,MC,90,0,0.22,0,0.07,2,5,2,11.4,0,0,1,1.2,0.05,60.45
-Mateusz Klich,Leeds,West Ham,2021-09-25,True,MC,90,0,0.51,1,0.14,5,2,3,10.5,0,0,2,1.2,0.09,61.43
-Mateusz Klich,Leeds,Watford,2021-10-02,True,MC,90,0,0.09,0,0.16,3,2,3,7.3,0,1,0,2.2,0.4,62.35
-Mateusz Klich,Leeds,Southampton,2021-10-16,False,DMC,76,0,0.0,0,0.01,2,0,1,2.5,0,0,1,2.6,0.41,62.78
-Mateusz Klich,Leeds,Wolverhampton,2021-10-23,True,MC,62,0,0.03,0,0.0,2,1,0,2.6,0,0,1,2.6,0.38,62.76
+Mateusz Klich,Leeds,Manchester United,2021-08-14,False,MC,90,0.0,0.06,0.0,0.0,2,2.0,0.0,2.1,0,0,5,0.0,0.0,90.0
+Mateusz Klich,Leeds,Norwich,,False,,0,,,,,0,,,0.0,0,0,0,2.0,0.06,45.0
+Mateusz Klich,Leeds,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,1.0,0.03,30.0
+Mateusz Klich,Leeds,Tottenham,2021-11-21,False,MC,58,0.0,0.0,0.0,0.02,1,0.0,1.0,2.3,0,0,1,0.67,0.02,37.0
+Mateusz Klich,Leeds,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.75,0.01,29.6
+Mateusz Klich,Leeds,Crystal Palace,2021-11-30,True,MC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.6,0.01,32.17
+Mateusz Klich,Leeds,Brentford,2021-12-05,True,Sub,35,0.0,0.07,0.0,0.0,0,1.0,0.0,1.9,0,0,1,0.4,0.0,32.57
+Mateusz Klich,Leeds,Chelsea,2021-12-11,False,Sub,31,0.0,0.07,0.0,0.05,0,2.0,1.0,3.2,0,0,1,0.4,0.01,32.38
+Mateusz Klich,Leeds,Manchester City,2021-12-14,False,Sub,52,0.0,0.01,0.0,0.0,1,1.0,0.0,0.6,0,0,4,0.4,0.03,34.56
+Mateusz Klich,Leeds,Arsenal,2021-12-18,True,DMC,77,0.0,0.0,0.0,0.38,2,0.0,3.0,5.7,0,0,3,0.4,0.03,38.8
+Mateusz Klich,Leeds,Everton,2021-08-21,True,AMC,59,1.0,0.39,0.0,0.07,9,3.0,3.0,10.2,3,0,2,0.8,0.03,40.64
+Mateusz Klich,Leeds,Burnley,2022-01-02,True,MC,90,0.0,0.0,1.0,0.35,6,0.0,7.0,11.3,1,0,1,2.4,0.11,44.75
+Mateusz Klich,Leeds,West Ham,2022-01-16,False,AMC,90,0.0,0.17,0.0,0.05,2,2.0,1.0,7.0,0,0,2,3.6,0.3,48.23
+Mateusz Klich,Leeds,Newcastle United,2022-01-22,True,DMC,79,0.0,0.08,0.0,0.0,2,2.0,0.0,2.5,0,0,1,4.0,0.32,50.43
+Mateusz Klich,Leeds,Aston Villa,2022-02-09,False,DMC,84,0.0,0.19,0.0,0.0,2,4.0,0.0,4.9,0,0,3,4.2,0.33,52.67
+Mateusz Klich,Leeds,Everton,2022-02-12,False,MC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,2,4.2,0.37,52.19
+Mateusz Klich,Leeds,Manchester United,2022-02-20,True,AMC,90,0.0,0.41,0.0,0.13,1,7.0,2.0,10.5,0,0,4,2.6,0.29,54.41
+Mateusz Klich,Leeds,Liverpool,2022-02-23,False,MC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,3,1.6,0.17,53.89
+Mateusz Klich,Leeds,Tottenham,2022-02-26,True,Sub,45,0.0,0.08,0.0,0.0,0,1.0,0.0,3.0,0,0,1,1.4,0.14,53.42
+Mateusz Klich,Leeds,Leeds United,2022-03-05,False,DMC,69,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,1.0,0.14,54.2
+Mateusz Klich,Leeds,Aston Villa,2022-03-10,True,Sub,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,1.0,0.1,52.71
+Mateusz Klich,Leeds,Norwich,2022-03-13,True,DMC,90,0.0,0.0,0.0,0.15,2,0.0,2.0,5.4,0,0,1,1.0,0.1,54.41
+Mateusz Klich,Leeds,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,1.2,0.02,52.04
+Mateusz Klich,Leeds,Wolverhampton,2022-03-18,False,DMC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1,1.0,0.02,51.75
+Mateusz Klich,Leeds,Southampton,2022-04-02,True,DMC,65,0.0,0.06,0.0,0.0,2,2.0,0.0,2.4,0,0,1,1.2,0.0,52.28
+Mateusz Klich,Leeds,Watford,2022-04-09,False,DMC,58,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,1.2,0.01,52.5
+Mateusz Klich,Leeds,Crystal Palace,2022-04-25,False,DMC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,1.2,0.01,52.22
+Mateusz Klich,Leeds,Manchester City,2022-04-30,True,MC,90,0.0,0.0,0.0,0.28,2,0.0,1.0,3.5,0,0,4,1.0,0.01,53.57
+Mateusz Klich,Leeds,Arsenal,2022-05-08,False,DMC,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,0,2,1.4,0.01,53.28
+Mateusz Klich,Leeds,Chelsea,2022-05-11,True,Sub,31,0.0,0.02,0.0,0.0,1,1.0,0.0,1.0,0,0,1,1.2,0.01,52.53
+Mateusz Klich,Leeds,Brighton,2022-05-15,True,MC,82,0.0,0.12,0.0,0.05,2,2.0,2.0,6.5,0,0,1,1.0,0.0,53.48
+Mateusz Klich,Leeds,Brentford,2022-05-22,False,Sub,5,0.0,0.11,0.0,0.0,1,2.0,0.0,0.0,0,0,0,1.2,0.03,51.97
+Mateusz Klich,Leeds,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,1.2,0.05,50.39
+Mateusz Klich,Leeds,Newcastle United,2021-09-17,False,MC,90,0.0,0.22,0.0,0.07,2,5.0,2.0,11.4,0,0,1,0.8,0.05,51.56
+Mateusz Klich,Leeds,West Ham,2021-09-25,True,MC,90,0.0,0.51,1.0,0.14,5,2.0,3.0,10.5,0,0,2,1.2,0.09,52.66
+Mateusz Klich,Leeds,Watford,2021-10-02,True,MC,90,0.0,0.09,0.0,0.16,3,2.0,3.0,7.3,0,1,0,2.0,0.39,53.69
+Mateusz Klich,Leeds,Southampton,2021-10-16,False,DMC,76,0.0,0.0,0.0,0.01,2,0.0,1.0,2.5,0,0,1,2.2,0.38,54.3
+Mateusz Klich,Leeds,Wolverhampton,2021-10-23,True,MC,62,0.0,0.03,0.0,0.0,2,1.0,0.0,2.6,0,0,1,2.4,0.36,54.5

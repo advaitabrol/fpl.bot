@@ -1,3 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Jamal Lewis,Newcastle,Chelsea,2023-05-28,False,Sub,2,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.58,False,0.0,0.0,2.0,0.0,0,0,0,0,1
-Jamal Lewis,Newcastle,Fulham,2022-10-01,False,Sub,7,0,0.0,0,0.0,1,0,0,0.6,0,0,1,0.0,False,1.0,0.0,4.5,0.0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Jamal Lewis,Newcastle,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,True,Brentford,-2.07
+Jamal Lewis,Newcastle,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,False,Manchester United,0.69
+Jamal Lewis,Newcastle,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,True,Everton,-2.28
+Jamal Lewis,Newcastle,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,False,Tottenham,3.36
+Jamal Lewis,Newcastle,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,True,Aston Villa,-3.48
+Jamal Lewis,Newcastle,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,False,Southampton,-1.99
+Jamal Lewis,Newcastle,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,True,Chelsea,-0.41
+Jamal Lewis,Newcastle,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,False,Leeds United,0.85
+Jamal Lewis,Newcastle,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,True,Leicester City,-1.07
+Jamal Lewis,Newcastle,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,False,Arsenal,1.52
+Jamal Lewis,Newcastle,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,False,Brighton,0.38
+Jamal Lewis,Newcastle,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,True,Fulham,-0.43
+Jamal Lewis,Newcastle,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,False,Crystal Palace,0.54
+Jamal Lewis,Newcastle,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,True,West Ham,0.92
+Jamal Lewis,Newcastle,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,False,Bournemouth,1.83
+Jamal Lewis,Newcastle,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,True,Liverpool,1.54
+Jamal Lewis,Newcastle,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,False,Manchester City,2.91
+Jamal Lewis,Newcastle,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,True,Wolverhampton,-2.13
+Jamal Lewis,Newcastle,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,False,Nottingham Forest,0.98
+Jamal Lewis,Newcastle,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,True,Manchester United,-1.44
+Jamal Lewis,Newcastle,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,False,West Ham,0.28
+Jamal Lewis,Newcastle,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,True,Manchester City,3.23
+Jamal Lewis,Newcastle,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,False,Brentford,-1.1
+Jamal Lewis,Newcastle,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,False,Aston Villa,2.1
+Jamal Lewis,Newcastle,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,True,Tottenham,-3.04
+Jamal Lewis,Newcastle,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,False,Everton,1.08
+Jamal Lewis,Newcastle,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,True,Southampton,-0.72
+Jamal Lewis,Newcastle,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,True,Arsenal,-0.34
+Jamal Lewis,Newcastle,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,False,Leicester City,0.06
+Jamal Lewis,Newcastle,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,True,Brighton,-2.35
+Jamal Lewis,Newcastle,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,True,Leeds United,-1.95
+Jamal Lewis,Newcastle,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1,Newcastle,False,Chelsea,0.97
+Jamal Lewis,Newcastle,Chelsea,2023-05-28,False,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.58,False,0.0,0.0,0.06,0.0,0,0,0,0,0,Newcastle,False,Wolverhampton,0.77
+Jamal Lewis,Newcastle,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.06,0.0,0,0,0,0,0,Newcastle,False,Liverpool,2.07
+Jamal Lewis,Newcastle,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.06,0.0,0,0,0,0,0,Newcastle,True,Crystal Palace,-2.12
+Jamal Lewis,Newcastle,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.06,0.0,0,0,0,0,0,Newcastle,True,Bournemouth,2.0
+Jamal Lewis,Newcastle,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.05,0.0,0,0,0,0,1,Newcastle,False,Fulham,-1.79
+Jamal Lewis,Newcastle,Fulham,2022-10-01,False,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,0.0,False,0.2,0.0,0.24,0.0,0,0,0,0,0,Newcastle,True,Aston Villa,-3.48

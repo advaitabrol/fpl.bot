@@ -1,5 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Mads Bech Sørensen,Brentford,Leeds United,2022-08-07,False,Sub,6,0,0.0,0,0.0,1,0,0,0.2,0,0,0,0.0,False,0.0,0.0,6.0,0.0,0,0,0,0,1
-Mads Bech Sørensen,Brentford,Liverpool,2023-01-02,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.0,False,1.0,0.0,3.5,0.0,0,0,0,0,1
-Mads Bech Sørensen,Brentford,Manchester United,2022-08-13,True,Sub,10,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.0,False,1.0,0.0,5.67,0.0,0,0,0,0,1
-Mads Bech Sørensen,Brentford,Everton,2022-08-27,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.0,False,1.0,0.0,4.5,0.0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Mads Bech Sørensen,Brentford,Leeds United,2022-08-07,False,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,0.0,0.0,6.0,0.0,0,0,0,0,0,Brentford,False,Newcastle United,2.44
+Mads Bech Sørensen,Brentford,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,3.0,0.0,0,0,0,0,0,Brentford,True,Brighton,-0.72
+Mads Bech Sørensen,Brentford,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.5,0.0,2.0,0.0,0,0,0,0,0,Brentford,True,Chelsea,-0.25
+Mads Bech Sørensen,Brentford,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.33,0.0,1.5,0.0,0,0,0,0,0,Brentford,False,Aston Villa,2.08
+Mads Bech Sørensen,Brentford,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.25,0.0,1.2,0.0,0,0,0,0,0,Brentford,True,Wolverhampton,2.5
+Mads Bech Sørensen,Brentford,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,1.0,0.0,0,0,0,0,0,Brentford,False,Nottingham Forest,1.35
+Mads Bech Sørensen,Brentford,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.86,0.0,0,0,0,0,0,Brentford,False,Manchester City,-0.6
+Mads Bech Sørensen,Brentford,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.75,0.0,0,0,0,0,0,Brentford,True,Tottenham,-0.38
+Mads Bech Sørensen,Brentford,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.67,0.0,0,0,0,0,0,Brentford,False,West Ham,-0.27
+Mads Bech Sørensen,Brentford,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.6,0.0,0,0,0,0,1,Brentford,True,Liverpool,-0.79
+Mads Bech Sørensen,Brentford,Liverpool,2023-01-02,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.64,0.0,0,0,0,0,1,Brentford,True,Manchester United,-1.13
+Mads Bech Sørensen,Brentford,Manchester United,2022-08-13,True,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.2,0.0,1.42,0.0,0,0,0,0,0,Brentford,True,Bournemouth,-0.5
+Mads Bech Sørensen,Brentford,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,1.31,0.0,0,0,0,0,0,Brentford,False,Leicester City,-0.02
+Mads Bech Sørensen,Brentford,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,1.21,0.0,0,0,0,0,0,Brentford,True,Southampton,-4.06
+Mads Bech Sørensen,Brentford,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,1.13,0.0,0,0,0,0,0,Brentford,False,Arsenal,0.3
+Mads Bech Sørensen,Brentford,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,1.06,0.0,0,0,0,0,0,Brentford,True,Crystal Palace,1.05
+Mads Bech Sørensen,Brentford,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,1.0,0.0,0,0,0,0,0,Brentford,True,Fulham,0.44
+Mads Bech Sørensen,Brentford,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.94,0.0,0,0,0,0,0,Brentford,False,Everton,2.1
+Mads Bech Sørensen,Brentford,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.89,0.0,0,0,0,0,0,Brentford,False,Southampton,0.93
+Mads Bech Sørensen,Brentford,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.85,0.0,0,0,0,0,0,Brentford,True,Leeds United,2.23
+Mads Bech Sørensen,Brentford,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.81,0.0,0,0,0,0,0,Brentford,False,Brighton,1.2
+Mads Bech Sørensen,Brentford,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.77,0.0,0,0,0,0,0,Brentford,False,Manchester United,1.62
+Mads Bech Sørensen,Brentford,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.74,0.0,0,0,0,0,0,Brentford,False,Fulham,-1.2
+Mads Bech Sørensen,Brentford,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.71,0.0,0,0,0,0,0,Brentford,True,Newcastle United,2.43
+Mads Bech Sørensen,Brentford,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.68,0.0,0,0,0,0,0,Brentford,False,Wolverhampton,-1.6
+Mads Bech Sørensen,Brentford,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.65,0.0,0,0,0,0,0,Brentford,True,Aston Villa,0.51
+Mads Bech Sørensen,Brentford,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.63,0.0,0,0,0,0,0,Brentford,False,Chelsea,-4.41
+Mads Bech Sørensen,Brentford,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.61,0.0,0,0,0,0,0,Brentford,True,Nottingham Forest,-0.34
+Mads Bech Sørensen,Brentford,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.59,0.0,0,0,0,0,0,Brentford,False,Liverpool,3.48
+Mads Bech Sørensen,Brentford,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.57,0.0,0,0,0,0,0,Brentford,True,West Ham,-1.97
+Mads Bech Sørensen,Brentford,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.55,0.0,0,0,0,0,0,Brentford,False,Tottenham,2.11
+Mads Bech Sørensen,Brentford,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.53,0.0,0,0,0,0,0,Brentford,True,Manchester City,1.02
+Mads Bech Sørensen,Brentford,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.52,0.0,0,0,0,0,1,Brentford,True,Everton,0.56
+Mads Bech Sørensen,Brentford,Everton,2022-08-27,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.53,0.0,0,0,0,0,0,Brentford,False,Crystal Palace,1.07
+Mads Bech Sørensen,Brentford,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.51,0.0,0,0,0,0,0,Brentford,True,Leicester City,-0.73
+Mads Bech Sørensen,Brentford,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.5,0.0,0,0,0,0,0,Brentford,True,Arsenal,0.17
+Mads Bech Sørensen,Brentford,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.49,0.0,0,0,0,0,0,Brentford,False,Bournemouth,0.55
+Mads Bech Sørensen,Brentford,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.47,0.0,0,0,0,0,0,Brentford,True,Tottenham,-0.38

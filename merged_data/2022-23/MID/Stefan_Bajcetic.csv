@@ -1,12 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Stefan Bajcetic,Liverpool,Aston Villa,2022-12-26,False,Sub,11,1,0.84,0,0.0,6,2,0,8.2,0,0,0,False,0.0,0.0,11.0,0,0,0,0,0,1
-Stefan Bajcetic,Liverpool,Leeds United,2022-12-30,True,Sub,4,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,6.0,0.84,7.5,0,0,0,0,0,2
-Stefan Bajcetic,Liverpool,Chelsea,2023-01-21,True,MC,81,0,0.0,0,0.58,2,0,2,3.6,0,1,0,True,3.5,0.42,32.0,0,0,0,0,0,2
-Stefan Bajcetic,Liverpool,Wolverhampton,2023-02-04,False,MC,76,0,0.0,0,0.0,2,0,0,1.0,0,0,3,True,3.0,0.28,43.0,0,0,0,0,0,3
-Stefan Bajcetic,Liverpool,Everton,2023-02-13,True,MC,89,0,0.01,0,0.17,3,1,2,4.7,0,1,0,True,2.75,0.21,52.2,0,0,0,0,0,1
-Stefan Bajcetic,Liverpool,Newcastle United,2023-02-18,False,MC,58,0,0.01,0,0.0,1,1,0,0.8,0,0,0,True,2.8,0.17,53.17,0,0,0,0,0,1
-Stefan Bajcetic,Liverpool,Crystal Palace,2023-02-25,False,Sub,6,0,0.0,0,0.0,1,0,0,0.4,0,0,0,False,1.8,0.0,46.43,0,0,0,0,0,2
-Stefan Bajcetic,Liverpool,Wolverhampton,2023-03-01,True,MC,78,0,0.09,0,0.0,2,1,0,2.4,0,1,0,True,1.8,0.0,50.38,0,0,0,0,0,1
-Stefan Bajcetic,Liverpool,Manchester United,2023-03-05,True,Sub,12,0,0.0,0,0.0,1,0,0,0.6,0,0,0,False,1.8,0.02,46.11,0,0,0,0,0,2
-Stefan Bajcetic,Liverpool,Bournemouth,2023-03-11,False,MC,87,0,0.01,0,0.0,2,1,0,0.6,0,0,1,True,1.6,0.02,50.2,0,0,0,0,0,1
-Stefan Bajcetic,Liverpool,Bournemouth,2022-08-27,True,Sub,20,0,0.0,0,0.0,1,0,0,0.5,0,0,0,False,1.4,0.02,47.45,0,0,0,0,0,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Stefan Bajcetic,Liverpool,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Liverpool,False,Arsenal,2.26
+Stefan Bajcetic,Liverpool,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Liverpool,True,Manchester City,-0.87
+Stefan Bajcetic,Liverpool,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Liverpool,True,West Ham,-0.03
+Stefan Bajcetic,Liverpool,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Liverpool,False,Nottingham Forest,1.75
+Stefan Bajcetic,Liverpool,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Liverpool,True,Leicester City,-2.17
+Stefan Bajcetic,Liverpool,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Liverpool,False,Tottenham,1.56
+Stefan Bajcetic,Liverpool,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Liverpool,True,Southampton,-2.6
+Stefan Bajcetic,Liverpool,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,6,Liverpool,False,Aston Villa,1.03
+Stefan Bajcetic,Liverpool,Aston Villa,2022-12-26,False,Sub,11,1.0,0.84,0.0,0.0,6,2.0,0.0,8.2,0,0,0,False,0.0,0.0,1.22,0,0,0,0,0,1,Liverpool,True,Leeds United,-1.23
+Stefan Bajcetic,Liverpool,Leeds United,2022-12-30,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,1.2,0.17,1.5,0,0,0,0,0,0,Liverpool,False,Brentford,2.56
+Stefan Bajcetic,Liverpool,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.17,1.36,0,0,0,0,0,0,Liverpool,True,Crystal Palace,1.28
+Stefan Bajcetic,Liverpool,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.17,1.25,0,0,0,0,0,0,Liverpool,False,Brighton,1.25
+Stefan Bajcetic,Liverpool,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.17,1.15,0,0,0,0,0,2,Liverpool,True,Chelsea,-1.38
+Stefan Bajcetic,Liverpool,Chelsea,2023-01-21,True,MC,81,0.0,0.0,0.0,0.58,2,0.0,2.0,3.6,0,1,0,True,1.4,0.17,6.86,0,0,0,0,0,2,Liverpool,False,Wolverhampton,1.32
+Stefan Bajcetic,Liverpool,Wolverhampton,2023-02-04,False,MC,76,0.0,0.0,0.0,0.0,2,0.0,0.0,1.0,0,0,3,True,0.6,0.0,11.47,0,0,0,0,0,3,Liverpool,True,Everton,-1.61
+Stefan Bajcetic,Liverpool,Everton,2023-02-13,True,MC,89,0.0,0.01,0.0,0.17,3,1.0,2.0,4.7,0,1,0,True,0.8,0.0,16.31,0,0,0,0,0,1,Liverpool,False,Newcastle United,-0.43
+Stefan Bajcetic,Liverpool,Newcastle United,2023-02-18,False,MC,58,0.0,0.01,0.0,0.0,1,1.0,0.0,0.8,0,0,0,True,1.4,0.0,18.76,0,0,0,0,0,1,Liverpool,False,Crystal Palace,0.35
+Stefan Bajcetic,Liverpool,Crystal Palace,2023-02-25,False,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,1.6,0.0,18.06,0,0,0,0,0,2,Liverpool,True,Wolverhampton,-1.46
+Stefan Bajcetic,Liverpool,Wolverhampton,2023-03-01,True,MC,78,0.0,0.09,0.0,0.0,2,1.0,0.0,2.4,0,1,0,True,1.8,0.0,21.21,0,0,0,0,0,1,Liverpool,True,Manchester United,-2.66
+Stefan Bajcetic,Liverpool,Manchester United,2023-03-05,True,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,False,1.8,0.02,20.75,0,0,0,0,0,2,Liverpool,False,Bournemouth,-0.9
+Stefan Bajcetic,Liverpool,Bournemouth,2023-03-11,False,MC,87,0.0,0.01,0.0,0.0,2,1.0,0.0,0.6,0,0,1,True,1.6,0.02,23.9,0,0,0,0,0,0,Liverpool,False,Manchester City,1.11
+Stefan Bajcetic,Liverpool,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.02,22.82,0,0,0,0,0,0,Liverpool,False,Chelsea,0.3
+Stefan Bajcetic,Liverpool,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.02,21.83,0,0,0,0,0,0,Liverpool,False,Manchester United,0.18
+Stefan Bajcetic,Liverpool,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.02,20.92,0,0,0,0,0,0,Liverpool,True,Arsenal,-0.54
+Stefan Bajcetic,Liverpool,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,20.08,0,0,0,0,0,0,Liverpool,False,Leicester City,-2.79
+Stefan Bajcetic,Liverpool,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,19.31,0,0,0,0,0,0,Liverpool,True,Nottingham Forest,-1.23
+Stefan Bajcetic,Liverpool,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,18.59,0,0,0,0,0,0,Liverpool,False,West Ham,2.89
+Stefan Bajcetic,Liverpool,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,17.93,0,0,0,0,0,0,Liverpool,True,Tottenham,0.66
+Stefan Bajcetic,Liverpool,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,17.31,0,0,0,0,0,0,Liverpool,True,Fulham,0.57
+Stefan Bajcetic,Liverpool,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,16.73,0,0,0,0,0,0,Liverpool,True,Brentford,-2.96
+Stefan Bajcetic,Liverpool,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,16.19,0,0,0,0,0,0,Liverpool,False,Leeds United,0.15
+Stefan Bajcetic,Liverpool,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,15.69,0,0,0,0,0,0,Liverpool,True,Aston Villa,-0.35
+Stefan Bajcetic,Liverpool,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,15.21,0,0,0,0,0,0,Liverpool,False,Southampton,2.18
+Stefan Bajcetic,Liverpool,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,14.76,0,0,0,0,0,1,Liverpool,True,Bournemouth,-4.12
+Stefan Bajcetic,Liverpool,Bournemouth,2022-08-27,True,Sub,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,0.0,0.0,14.91,0,0,0,0,0,0,Liverpool,True,Newcastle United,-0.89
+Stefan Bajcetic,Liverpool,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,14.5,0,0,0,0,0,0,Liverpool,False,Everton,1.81
+Stefan Bajcetic,Liverpool,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,14.11,0,0,0,0,0,0,Liverpool,True,Brighton,1.7
+Stefan Bajcetic,Liverpool,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,13.74,0,0,0,0,0,0,Liverpool,False,Chelsea,0.3

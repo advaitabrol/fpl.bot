@@ -1,12 +1,35 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Andrew Omobamidele,Nott'm Forest,Brentford,2024-01-20,False,DC,90,0,0.0,0,0.0,1,0,0,1.8,0,0,3,1.29,True,0.0,0.0,90.0,0.0,0,0,0,0,1
-Andrew Omobamidele,Nott'm Forest,Arsenal,2024-01-30,True,DC,90,0,0.0,0,0.0,1,0,0,1.1,0,0,2,1.23,True,1.0,0.0,90.0,0.0,0,0,0,0,1
-Andrew Omobamidele,Nott'm Forest,Bournemouth,2024-02-04,False,DC,90,0,0.0,0,0.02,1,0,1,4.3,0,0,1,0.96,True,1.0,0.0,90.0,0.0,0,0,0,0,1
-Andrew Omobamidele,Nott'm Forest,West Ham,2024-02-17,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.01,False,1.0,0.0,67.75,0.0,0,0,0,0,1
-Andrew Omobamidele,Nott'm Forest,Aston Villa,2024-02-24,False,Sub,45,0,0.0,0,0.0,1,0,0,0.3,0,0,1,1.66,False,1.0,0.0,63.2,0.0,0,0,0,0,2
-Andrew Omobamidele,Nott'm Forest,Liverpool,2024-03-02,True,DC,90,0,0.0,0,0.0,2,0,0,3.8,0,0,1,2.07,True,1.0,0.0,67.67,0.0,0,0,0,0,-1
-Andrew Omobamidele,Nott'm Forest,Brighton,2024-03-10,False,DC,90,0,0.0,0,0.0,-1,0,0,1.0,0,0,1,0.46,True,1.2,0.0,70.86,0.0,0,0,0,0,2
-Andrew Omobamidele,Nott'm Forest,Fulham,2024-04-02,True,DC,90,0,0.0,0,0.0,2,0,0,1.9,0,0,1,1.48,True,0.8,0.0,73.25,0.0,0,0,0,0,1
-Andrew Omobamidele,Nott'm Forest,Tottenham,2024-04-07,False,DC,90,0,0.0,0,0.06,1,0,1,2.1,0,0,3,1.48,True,1.0,0.0,75.11,0.0,0,0,0,0,1
-Andrew Omobamidele,Nott'm Forest,Wolverhampton,2024-04-13,True,DC,90,0,0.08,0,0.0,1,1,0,2.3,0,0,2,1.07,True,1.0,0.0,76.6,0.0,0,0,0,0,1
-Andrew Omobamidele,Nott'm Forest,Manchester City,2024-04-28,True,Sub,16,0,0.0,0,0.0,1,0,0,0.3,0,0,0,0.06,False,1.0,0.02,71.09,0.0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Andrew Omobamidele,Nott'm Forest,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Nott'm Forest,True,Aston Villa,-2.76
+Andrew Omobamidele,Nott'm Forest,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Nott'm Forest,False,West Ham,3.49
+Andrew Omobamidele,Nott'm Forest,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Nott'm Forest,True,Brighton,-1.91
+Andrew Omobamidele,Nott'm Forest,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Nott'm Forest,True,Everton,1.16
+Andrew Omobamidele,Nott'm Forest,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Nott'm Forest,False,Fulham,5.33
+Andrew Omobamidele,Nott'm Forest,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Nott'm Forest,False,Wolverhampton,0.48
+Andrew Omobamidele,Nott'm Forest,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Nott'm Forest,True,Tottenham,4.06
+Andrew Omobamidele,Nott'm Forest,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Nott'm Forest,True,Bournemouth,0.52
+Andrew Omobamidele,Nott'm Forest,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Nott'm Forest,False,Newcastle United,-1.87
+Andrew Omobamidele,Nott'm Forest,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Nott'm Forest,True,Manchester United,0.67
+Andrew Omobamidele,Nott'm Forest,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1.0,Nott'm Forest,False,Brentford,1.33
+Andrew Omobamidele,Nott'm Forest,Brentford,2024-01-20,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,3,1.29,True,0.0,0.0,7.5,0.0,0,0,0,0,1.0,Nott'm Forest,True,Arsenal,-1.92
+Andrew Omobamidele,Nott'm Forest,Arsenal,2024-01-30,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,2,1.23,True,0.2,0.0,13.85,0.0,0,0,0,0,1.0,Nott'm Forest,False,Bournemouth,0.9
+Andrew Omobamidele,Nott'm Forest,Bournemouth,2024-02-04,False,DC,90,0.0,0.0,0.0,0.02,1,0.0,1.0,4.3,0,0,1,0.96,True,0.4,0.0,19.29,0.0,0,0,0,0,0.0,Nott'm Forest,True,Newcastle United,0.52
+Andrew Omobamidele,Nott'm Forest,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,18.0,0.0,0,0,0,0,1.0,Nott'm Forest,True,West Ham,-2.72
+Andrew Omobamidele,Nott'm Forest,West Ham,2024-02-17,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.01,False,0.6,0.0,16.94,0.0,0,0,0,0,1.0,Nott'm Forest,False,Aston Villa,2.52
+Andrew Omobamidele,Nott'm Forest,Aston Villa,2024-02-24,False,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,1.66,False,0.8,0.0,18.59,0.0,0,0,0,0,2.0,Nott'm Forest,True,Liverpool,-1.05
+Andrew Omobamidele,Nott'm Forest,Liverpool,2024-03-02,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.8,0,0,1,2.07,True,0.8,0.0,22.56,0.0,0,0,0,0,-1.0,Nott'm Forest,False,Brighton,1.21
+Andrew Omobamidele,Nott'm Forest,Brighton,2024-03-10,False,DC,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,1.0,0,0,1,0.46,True,1.0,0.0,26.11,0.0,0,0,0,0,0.0,Nott'm Forest,False,Luton,-1.05
+Andrew Omobamidele,Nott'm Forest,Luton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,24.8,0.0,0,0,0,0,0.0,Nott'm Forest,True,Crystal Palace,-0.57
+Andrew Omobamidele,Nott'm Forest,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,23.62,0.0,0,0,0,0,2.0,Nott'm Forest,True,Fulham,-2.25
+Andrew Omobamidele,Nott'm Forest,Fulham,2024-04-02,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,1.48,True,0.4,0.0,26.64,0.0,0,0,0,0,1.0,Nott'm Forest,False,Tottenham,0.66
+Andrew Omobamidele,Nott'm Forest,Tottenham,2024-04-07,False,DC,90,0.0,0.0,0.0,0.06,1,0.0,1.0,2.1,0,0,3,1.48,True,0.6,0.0,29.39,0.0,0,0,0,0,1.0,Nott'm Forest,True,Wolverhampton,-0.63
+Andrew Omobamidele,Nott'm Forest,Wolverhampton,2024-04-13,True,DC,90,0.0,0.08,0.0,0.0,1,1.0,0.0,2.3,0,0,2,1.07,True,0.4,0.0,31.92,0.0,0,0,0,0,0.0,Nott'm Forest,False,Everton,2.01
+Andrew Omobamidele,Nott'm Forest,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.02,30.64,0.0,0,0,0,0,1.0,Nott'm Forest,True,Manchester City,-0.22
+Andrew Omobamidele,Nott'm Forest,Manchester City,2024-04-28,True,Sub,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.06,False,0.8,0.02,30.08,0.0,0,0,0,0,0.0,Nott'm Forest,False,Sheffield,-2.75
+Andrew Omobamidele,Nott'm Forest,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.02,28.96,0.0,0,0,0,0,0.0,Nott'm Forest,True,Chelsea,0.18
+Andrew Omobamidele,Nott'm Forest,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.02,27.93,0.0,0,0,0,0,0.0,Nott'm Forest,False,Burnley,-4.0
+Andrew Omobamidele,Nott'm Forest,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.02,26.97,0.0,0,0,0,0,0.0,Nott'm Forest,True,Burnley,1.01
+Andrew Omobamidele,Nott'm Forest,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,26.07,0.0,0,0,0,0,0.0,Nott'm Forest,False,Manchester City,4.87
+Andrew Omobamidele,Nott'm Forest,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,25.23,0.0,0,0,0,0,0.0,Nott'm Forest,True,Brentford,0.39
+Andrew Omobamidele,Nott'm Forest,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,24.44,0.0,0,0,0,0,0.0,Nott'm Forest,False,Crystal Palace,0.85
+Andrew Omobamidele,Nott'm Forest,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,23.7,0.0,0,0,0,0,0.0,Nott'm Forest,True,Luton,-1.73
+Andrew Omobamidele,Nott'm Forest,Luton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,23.0,0.0,0,0,0,0,,,,,

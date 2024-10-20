@@ -1,38 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Conor Gallagher,Chelsea,Liverpool,2023-08-13,True,MC,90,0,0.0,0,0.0,2,0,0,2.4,0,0,1,True,0.0,0.0,90.0,3,1,2.54,2.62,0.04,2
-Conor Gallagher,Chelsea,Brentford,2023-10-28,True,DMC,90,0,0.01,0,0.09,2,1,2,7.1,0,0,2,True,2.0,0.0,90.0,3,1,2.54,2.62,0.04,6
-Conor Gallagher,Chelsea,Tottenham,2023-11-06,False,AMC,90,0,0.0,1,0.55,6,0,5,10.0,1,0,1,True,2.0,0.01,90.0,3,1,2.54,2.62,0.04,10
-Conor Gallagher,Chelsea,Manchester City,2023-11-12,True,AMC,90,0,0.06,1,0.07,10,3,2,7.2,2,0,4,True,3.33,0.34,90.0,3,1,2.54,2.62,0.04,2
-Conor Gallagher,Chelsea,Newcastle United,2023-11-25,False,AMC,68,0,0.4,0,0.3,2,2,1,2.3,0,0,3,True,5.0,0.52,85.6,3,1,2.54,2.62,0.04,-2
-Conor Gallagher,Chelsea,Brighton,2023-12-03,True,AMC,44,0,0.0,0,0.0,-2,0,0,0.4,0,0,2,True,4.4,0.5,78.67,3,1,2.54,2.62,0.04,2
-Conor Gallagher,Chelsea,Everton,2023-12-10,False,AMC,90,0,0.02,0,0.05,2,1,2,6.4,0,0,2,True,3.6,0.5,80.29,3,1,2.54,2.62,0.04,2
-Conor Gallagher,Chelsea,Sheffield,2023-12-16,True,DMC,90,0,0.05,0,0.08,2,2,1,5.6,0,1,0,True,3.6,0.5,81.5,3,1,2.54,2.62,0.04,1
-Conor Gallagher,Chelsea,Wolverhampton,2023-12-24,False,DMC,90,0,0.18,0,0.0,1,3,0,3.7,0,0,2,True,2.8,0.31,82.44,3,1,2.54,2.62,0.04,1
-Conor Gallagher,Chelsea,Crystal Palace,2023-12-27,True,DMC,90,0,0.0,0,0.46,1,0,2,5.5,0,0,1,True,1.0,0.13,83.2,3,1,2.54,2.62,0.04,2
-Conor Gallagher,Chelsea,West Ham,2023-08-20,False,MC,74,0,0.09,0,0.0,2,2,0,3.4,0,0,2,True,0.8,0.05,82.36,3,1,2.54,2.62,0.04,2
-Conor Gallagher,Chelsea,Luton,2023-12-30,False,DMC,90,0,0.15,0,0.0,2,2,0,3.8,0,0,2,True,1.6,0.07,83.0,3,1,2.54,2.62,0.04,3
-Conor Gallagher,Chelsea,Fulham,2024-01-13,True,AMC,90,0,0.21,0,0.14,3,3,2,4.9,0,1,0,True,1.6,0.09,83.54,3,1,2.54,2.62,0.04,1
-Conor Gallagher,Chelsea,Liverpool,2024-01-31,False,AMC,45,0,0.0,0,0.0,1,0,0,1.2,0,0,2,True,1.8,0.13,80.79,3,1,2.54,2.62,0.04,2
-Conor Gallagher,Chelsea,Wolverhampton,2024-02-04,True,AMC,90,0,0.31,0,0.07,2,2,1,3.3,0,0,4,True,1.8,0.09,81.4,3,1,2.54,2.62,0.04,15
-Conor Gallagher,Chelsea,Crystal Palace,2024-02-12,False,AMC,90,2,0.25,0,0.11,15,3,3,15.1,3,0,1,True,2.0,0.15,81.94,3,1,2.54,2.62,0.04,2
-Conor Gallagher,Chelsea,Manchester City,2024-02-17,False,AMC,90,0,0.14,0,0.11,2,1,1,3.6,0,0,1,True,4.6,0.18,82.41,3,1,2.54,2.62,0.04,1
-Conor Gallagher,Chelsea,Brentford,2024-03-02,False,MC,90,0,0.02,0,0.06,1,1,3,6.7,0,0,2,True,4.6,0.18,82.83,3,1,2.54,2.62,0.04,6
-Conor Gallagher,Chelsea,Newcastle United,2024-03-11,True,AMC,90,0,0.02,1,1.01,6,1,3,7.7,1,0,2,True,4.2,0.14,83.21,3,1,2.54,2.62,0.04,3
-Conor Gallagher,Chelsea,Luton,2023-08-25,True,MC,90,0,0.13,0,0.29,3,1,1,5.7,0,1,0,True,5.2,0.35,83.55,3,1,2.54,2.62,0.04,1
-Conor Gallagher,Chelsea,Burnley,2024-03-30,True,AMC,61,0,0.09,0,0.3,1,2,3,6.2,0,0,1,True,5.4,0.31,82.48,3,1,2.54,2.62,0.04,7
-Conor Gallagher,Chelsea,Manchester United,2024-04-04,True,AMC,88,1,0.67,0,0.23,7,4,2,8.6,0,0,3,True,2.6,0.28,82.73,3,1,2.54,2.62,0.04,5
-Conor Gallagher,Chelsea,Sheffield,2024-04-07,False,AML,90,0,0.03,1,0.29,5,1,2,5.1,0,0,2,True,3.6,0.39,83.04,3,1,2.54,2.62,0.04,3
-Conor Gallagher,Chelsea,Everton,2024-04-15,True,DMC,90,0,0.0,0,0.09,3,0,2,4.2,0,1,0,True,4.4,0.59,83.33,3,1,2.54,2.62,0.04,2
-Conor Gallagher,Chelsea,Arsenal,2024-04-23,False,AMC,90,0,0.0,0,0.0,2,0,0,5.4,0,0,5,True,3.8,0.38,83.6,3,1,2.54,2.62,0.04,9
-Conor Gallagher,Chelsea,Aston Villa,2024-04-27,False,DMC,90,1,0.08,0,0.01,9,3,1,7.5,2,0,2,True,3.6,0.36,83.85,3,1,2.54,2.62,0.04,6
-Conor Gallagher,Chelsea,Tottenham,2024-05-02,True,DMC,90,0,0.0,1,0.24,6,0,1,4.0,0,1,0,True,5.2,0.36,84.07,3,1,2.54,2.62,0.04,8
-Conor Gallagher,Chelsea,West Ham,2024-05-05,True,DMC,90,1,1.0,0,0.16,8,2,3,11.4,0,1,0,True,5.0,0.42,84.29,3,1,2.54,2.62,0.04,1
-Conor Gallagher,Chelsea,Nottingham Forest,2024-05-11,False,DMC,78,0,0.06,0,0.0,1,1,0,1.9,0,0,2,True,5.6,0.42,84.07,3,1,2.54,2.62,0.04,2
-Conor Gallagher,Chelsea,Brighton,2024-05-15,False,DMC,90,0,0.0,0,0.0,2,0,0,2.2,0,0,1,True,5.2,0.43,84.27,3,1,2.54,2.62,0.04,2
-Conor Gallagher,Chelsea,Bournemouth,2024-05-19,True,DMC,90,0,0.38,0,0.0,2,2,0,5.4,0,0,1,True,5.2,0.43,84.45,3,1,2.54,2.62,0.04,1
-Conor Gallagher,Chelsea,Nottingham Forest,2023-09-02,True,MC,61,0,0.02,0,0.1,1,1,1,2.4,0,0,1,True,3.8,0.49,83.72,3,1,2.54,2.62,0.04,3
-Conor Gallagher,Chelsea,Bournemouth,2023-09-17,False,DMC,90,0,0.13,0,0.32,3,1,1,6.2,0,1,0,True,2.8,0.29,83.91,3,1,2.54,2.62,0.04,2
-Conor Gallagher,Chelsea,Aston Villa,2023-09-24,True,DMC,90,0,0.02,0,0.02,2,1,1,3.7,0,0,1,True,1.8,0.12,84.09,3,1,2.54,2.62,0.04,3
-Conor Gallagher,Chelsea,Fulham,2023-10-02,False,MC,90,0,0.08,0,0.12,3,1,1,3.8,0,1,0,True,2.0,0.11,84.26,3,1,2.54,2.62,0.04,5
-Conor Gallagher,Chelsea,Burnley,2023-10-07,False,MC,90,0,0.0,1,0.33,5,0,1,5.0,0,0,1,True,2.2,0.13,84.42,3,1,2.54,2.62,0.04,6
-Conor Gallagher,Chelsea,Arsenal,2023-10-21,True,AMC,90,0,0.11,1,0.18,6,1,4,8.4,1,0,2,True,2.8,0.25,84.57,3,1,2.54,2.62,0.04,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Conor Gallagher,Chelsea,Liverpool,2023-08-13,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.4,0,0,1,True,0.0,0.0,90.0,3.0,1.0,2.54,2.62,0.04,2.0,Chelsea,True,Brentford,4.42
+Conor Gallagher,Chelsea,Brentford,2023-10-28,True,DMC,90,0.0,0.01,0.0,0.09,2,1.0,2.0,7.1,0,0,2,True,2.0,0.0,90.0,3.0,1.0,2.54,2.62,0.04,6.0,Chelsea,False,Tottenham,-1.07
+Conor Gallagher,Chelsea,Tottenham,2023-11-06,False,AMC,90,0.0,0.0,1.0,0.55,6,0.0,5.0,10.0,1,0,1,True,2.0,0.01,90.0,3.0,1.0,2.54,2.62,0.04,10.0,Chelsea,True,Manchester City,0.19
+Conor Gallagher,Chelsea,Manchester City,2023-11-12,True,AMC,90,0.0,0.06,1.0,0.07,10,3.0,2.0,7.2,2,0,4,True,3.33,0.34,90.0,3.0,1.0,2.54,2.62,0.04,2.0,Chelsea,False,Newcastle United,0.94
+Conor Gallagher,Chelsea,Newcastle United,2023-11-25,False,AMC,68,0.0,0.4,0.0,0.3,2,2.0,1.0,2.3,0,0,3,True,5.0,0.52,85.6,3.0,1.0,2.54,2.62,0.04,-2.0,Chelsea,True,Brighton,-0.67
+Conor Gallagher,Chelsea,Brighton,2023-12-03,True,AMC,44,0.0,0.0,0.0,0.0,-2,0.0,0.0,0.4,0,0,2,True,4.4,0.5,78.67,3.0,1.0,2.54,2.62,0.04,0.0,Chelsea,False,Manchester United,1.87
+Conor Gallagher,Chelsea,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,3.6,0.5,67.43,3.0,1.0,2.54,2.62,0.04,2.0,Chelsea,False,Everton,0.79
+Conor Gallagher,Chelsea,Everton,2023-12-10,False,AMC,90,0.0,0.02,0.0,0.05,2,1.0,2.0,6.4,0,0,2,True,3.2,0.49,70.25,3.0,1.0,2.54,2.62,0.04,2.0,Chelsea,True,Sheffield,-2.07
+Conor Gallagher,Chelsea,Sheffield,2023-12-16,True,DMC,90,0.0,0.05,0.0,0.08,2,2.0,1.0,5.6,0,1,0,True,2.4,0.3,72.44,3.0,1.0,2.54,2.62,0.04,1.0,Chelsea,False,Wolverhampton,1.62
+Conor Gallagher,Chelsea,Wolverhampton,2023-12-24,False,DMC,90,0.0,0.18,0.0,0.0,1,3.0,0.0,3.7,0,0,2,True,0.8,0.09,74.2,3.0,1.0,2.54,2.62,0.04,1.0,Chelsea,True,Crystal Palace,-1.51
+Conor Gallagher,Chelsea,Crystal Palace,2023-12-27,True,DMC,90,0.0,0.0,0.0,0.46,1,0.0,2.0,5.5,0,0,1,True,0.6,0.05,75.64,3.0,1.0,2.54,2.62,0.04,2.0,Chelsea,False,West Ham,2.89
+Conor Gallagher,Chelsea,West Ham,2023-08-20,False,MC,74,0.0,0.09,0.0,0.0,2,2.0,0.0,3.4,0,0,2,True,1.2,0.05,75.5,3.0,1.0,2.54,2.62,0.04,2.0,Chelsea,False,Luton,-0.0
+Conor Gallagher,Chelsea,Luton,2023-12-30,False,DMC,90,0.0,0.15,0.0,0.0,2,2.0,0.0,3.8,0,0,2,True,1.6,0.07,76.62,3.0,1.0,2.54,2.62,0.04,3.0,Chelsea,True,Fulham,-1.08
+Conor Gallagher,Chelsea,Fulham,2024-01-13,True,AMC,90,0.0,0.21,0.0,0.14,3,3.0,2.0,4.9,0,1,0,True,1.6,0.09,77.57,3.0,1.0,2.54,2.62,0.04,1.0,Chelsea,False,Liverpool,0.96
+Conor Gallagher,Chelsea,Liverpool,2024-01-31,False,AMC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,2,True,1.8,0.13,75.4,3.0,1.0,2.54,2.62,0.04,2.0,Chelsea,True,Wolverhampton,0.07
+Conor Gallagher,Chelsea,Wolverhampton,2024-02-04,True,AMC,90,0.0,0.31,0.0,0.07,2,2.0,1.0,3.3,0,0,4,True,1.8,0.09,76.31,3.0,1.0,2.54,2.62,0.04,15.0,Chelsea,False,Crystal Palace,-1.06
+Conor Gallagher,Chelsea,Crystal Palace,2024-02-12,False,AMC,90,2.0,0.25,0.0,0.11,15,3.0,3.0,15.1,3,0,1,True,2.0,0.15,77.12,3.0,1.0,2.54,2.62,0.04,2.0,Chelsea,False,Manchester City,-0.89
+Conor Gallagher,Chelsea,Manchester City,2024-02-17,False,AMC,90,0.0,0.14,0.0,0.11,2,1.0,1.0,3.6,0,0,1,True,4.6,0.18,77.83,3.0,1.0,2.54,2.62,0.04,1.0,Chelsea,False,Brentford,0.61
+Conor Gallagher,Chelsea,Brentford,2024-03-02,False,MC,90,0.0,0.02,0.0,0.06,1,1.0,3.0,6.7,0,0,2,True,4.6,0.18,78.47,3.0,1.0,2.54,2.62,0.04,6.0,Chelsea,True,Newcastle United,-0.99
+Conor Gallagher,Chelsea,Newcastle United,2024-03-11,True,AMC,90,0.0,0.02,1.0,1.01,6,1.0,3.0,7.7,1,0,2,True,4.2,0.14,79.05,3.0,1.0,2.54,2.62,0.04,3.0,Chelsea,True,Luton,-3.04
+Conor Gallagher,Chelsea,Luton,2023-08-25,True,MC,90,0.0,0.13,0.0,0.29,3,1.0,1.0,5.7,0,1,0,True,5.2,0.35,79.57,3.0,1.0,2.54,2.62,0.04,1.0,Chelsea,True,Burnley,0.34
+Conor Gallagher,Chelsea,Burnley,2024-03-30,True,AMC,61,0.0,0.09,0.0,0.3,1,2.0,3.0,6.2,0,0,1,True,5.4,0.31,78.73,3.0,1.0,2.54,2.62,0.04,7.0,Chelsea,True,Manchester United,-1.31
+Conor Gallagher,Chelsea,Manchester United,2024-04-04,True,AMC,88,1.0,0.67,0.0,0.23,7,4.0,2.0,8.6,0,0,3,True,2.6,0.28,79.13,3.0,1.0,2.54,2.62,0.04,5.0,Chelsea,False,Sheffield,1.84
+Conor Gallagher,Chelsea,Sheffield,2024-04-07,False,AML,90,0.0,0.03,1.0,0.29,5,1.0,2.0,5.1,0,0,2,True,3.6,0.39,79.58,3.0,1.0,2.54,2.62,0.04,3.0,Chelsea,True,Everton,-2.38
+Conor Gallagher,Chelsea,Everton,2024-04-15,True,DMC,90,0.0,0.0,0.0,0.09,3,0.0,2.0,4.2,0,1,0,True,4.4,0.59,80.0,3.0,1.0,2.54,2.62,0.04,2.0,Chelsea,False,Arsenal,1.29
+Conor Gallagher,Chelsea,Arsenal,2024-04-23,False,AMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,5.4,0,0,5,True,3.8,0.38,80.38,3.0,1.0,2.54,2.62,0.04,9.0,Chelsea,False,Aston Villa,-1.37
+Conor Gallagher,Chelsea,Aston Villa,2024-04-27,False,DMC,90,1.0,0.08,0.0,0.01,9,3.0,1.0,7.5,2,0,2,True,3.6,0.36,80.74,3.0,1.0,2.54,2.62,0.04,6.0,Chelsea,True,Tottenham,-2.11
+Conor Gallagher,Chelsea,Tottenham,2024-05-02,True,DMC,90,0.0,0.0,1.0,0.24,6,0.0,1.0,4.0,0,1,0,True,5.2,0.36,81.07,3.0,1.0,2.54,2.62,0.04,8.0,Chelsea,True,West Ham,-2.56
+Conor Gallagher,Chelsea,West Ham,2024-05-05,True,DMC,90,1.0,1.0,0.0,0.16,8,2.0,3.0,11.4,0,1,0,True,5.0,0.42,81.38,3.0,1.0,2.54,2.62,0.04,1.0,Chelsea,False,Nottingham Forest,-0.41
+Conor Gallagher,Chelsea,Nottingham Forest,2024-05-11,False,DMC,78,0.0,0.06,0.0,0.0,1,1.0,0.0,1.9,0,0,2,True,5.6,0.42,81.27,3.0,1.0,2.54,2.62,0.04,2.0,Chelsea,False,Brighton,1.01
+Conor Gallagher,Chelsea,Brighton,2024-05-15,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,0,1,True,5.2,0.43,81.55,3.0,1.0,2.54,2.62,0.04,2.0,Chelsea,True,Bournemouth,-3.02
+Conor Gallagher,Chelsea,Bournemouth,2024-05-19,True,DMC,90,0.0,0.38,0.0,0.0,2,2.0,0.0,5.4,0,0,1,True,5.2,0.43,81.81,3.0,1.0,2.54,2.62,0.04,1.0,Chelsea,True,Nottingham Forest,1.3
+Conor Gallagher,Chelsea,Nottingham Forest,2023-09-02,True,MC,61,0.0,0.02,0.0,0.1,1,1.0,1.0,2.4,0,0,1,True,3.8,0.49,81.18,3.0,1.0,2.54,2.62,0.04,3.0,Chelsea,False,Bournemouth,-1.53
+Conor Gallagher,Chelsea,Bournemouth,2023-09-17,False,DMC,90,0.0,0.13,0.0,0.32,3,1.0,1.0,6.2,0,1,0,True,2.8,0.29,81.44,3.0,1.0,2.54,2.62,0.04,2.0,Chelsea,True,Aston Villa,0.42
+Conor Gallagher,Chelsea,Aston Villa,2023-09-24,True,DMC,90,0.0,0.02,0.0,0.02,2,1.0,1.0,3.7,0,0,1,True,1.8,0.12,81.69,3.0,1.0,2.54,2.62,0.04,3.0,Chelsea,False,Fulham,-2.13
+Conor Gallagher,Chelsea,Fulham,2023-10-02,False,MC,90,0.0,0.08,0.0,0.12,3,1.0,1.0,3.8,0,1,0,True,2.0,0.11,81.92,3.0,1.0,2.54,2.62,0.04,5.0,Chelsea,False,Burnley,-2.71
+Conor Gallagher,Chelsea,Burnley,2023-10-07,False,MC,90,0.0,0.0,1.0,0.33,5,0.0,1.0,5.0,0,0,1,True,2.2,0.13,82.14,3.0,1.0,2.54,2.62,0.04,6.0,Chelsea,True,Arsenal,2.1
+Conor Gallagher,Chelsea,Arsenal,2023-10-21,True,AMC,90,0.0,0.11,1.0,0.18,6,1.0,4.0,8.4,1,0,2,True,2.8,0.25,82.34,3.0,1.0,2.54,2.62,0.04,,,,,

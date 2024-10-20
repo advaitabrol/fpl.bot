@@ -1,22 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Bart Verbruggen,Brighton,Everton,2023-11-04,False,90,1,0.71,3,0,5,2,False,0,True,0.0,0.0,0,0,0,1
-Bart Verbruggen,Brighton,Nottingham Forest,2023-11-25,False,90,2,1.69,3,0,1,0,False,0,True,5.0,0.0,0,0,0,2
-Bart Verbruggen,Brighton,Burnley,2023-12-09,True,90,1,0.94,2,0,2,0,False,0,True,3.0,0.0,0,0,0,3
-Bart Verbruggen,Brighton,Arsenal,2023-12-17,False,90,2,2.26,6,0,3,0,False,0,True,2.67,0.0,0,0,0,2
-Bart Verbruggen,Brighton,Crystal Palace,2023-12-21,False,90,1,1.36,2,0,2,0,False,0,True,2.75,0.0,0,0,0,3
-Bart Verbruggen,Brighton,Crystal Palace,2024-02-03,True,90,1,0.32,4,0,3,0,False,0,True,2.6,0.0,0,0,0,5
-Bart Verbruggen,Brighton,Sheffield,2024-02-18,False,90,0,0.58,1,0,5,0,True,0,True,2.2,0.14,0,0,0,2
-Bart Verbruggen,Brighton,Everton,2024-02-24,True,90,1,0.28,1,0,2,0,False,0,True,3.0,0.12,0,0,0,10
-Bart Verbruggen,Brighton,Nottingham Forest,2024-03-10,True,90,0,0.68,4,0,10,3,True,0,True,3.0,0.22,0,0,0,2
-Bart Verbruggen,Brighton,West Ham,2023-08-26,True,90,3,3.33,4,0,2,0,False,0,True,4.4,0.2,0,0,0,4
-Bart Verbruggen,Brighton,Liverpool,2024-03-31,False,90,2,2.79,6,0,4,1,False,0,True,4.4,0.18,0,0,0,6
-Bart Verbruggen,Brighton,Brentford,2024-04-03,False,90,0,0.5,2,0,6,0,True,0,True,4.6,0.25,0,0,0,2
-Bart Verbruggen,Brighton,Arsenal,2024-04-06,True,90,3,3.23,4,0,2,0,False,0,True,4.8,0.23,0,0,0,2
-Bart Verbruggen,Brighton,Burnley,2024-04-13,False,90,1,1.7,2,0,2,0,False,0,True,4.8,0.21,0,0,0,2
-Bart Verbruggen,Brighton,Bournemouth,2024-04-28,False,90,3,2.26,3,0,2,0,False,0,True,3.2,0.2,0,0,0,6
-Bart Verbruggen,Brighton,Aston Villa,2024-05-05,True,90,0,0.06,1,0,6,0,True,0,True,3.2,0.25,0,0,0,5
-Bart Verbruggen,Brighton,Newcastle United,2024-05-11,False,90,1,2.27,7,0,5,1,False,0,True,3.6,0.24,0,0,0,1
-Bart Verbruggen,Brighton,Chelsea,2024-05-15,True,90,2,1.48,4,0,1,0,False,0,True,3.4,0.22,0,0,0,2
-Bart Verbruggen,Brighton,Newcastle United,2023-09-02,True,90,1,1.3,2,0,2,0,False,0,True,3.2,0.21,0,0,0,2
-Bart Verbruggen,Brighton,Bournemouth,2023-09-24,True,90,1,1.37,2,0,2,0,False,0,True,3.2,0.2,0,0,0,1
-Bart Verbruggen,Brighton,Liverpool,2023-10-08,True,90,2,2.49,2,0,1,0,False,0,True,3.2,0.19,0,0,0,
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty,saves_per_game,last_season_total_saves
+Bart Verbruggen,Brighton,Luton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,0.0,Brighton,True,Fulham,-0.16,0.0,0
+Bart Verbruggen,Brighton,Fulham,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0,0,0,5.0,Brighton,False,Everton,-1.62,0.0,0
+Bart Verbruggen,Brighton,Everton,2023-11-04,False,90,1,0.71,3,0,5,2,False,0.0,True,0.0,0.0,0,0,0,0.0,Brighton,True,Sheffield,-1.39,1.0,0
+Bart Verbruggen,Brighton,Sheffield,,True,0,0,0.0,0,0,0,0,False,,False,1.67,0.0,0,0,0,1.0,Brighton,False,Nottingham Forest,0.99,0.75,0
+Bart Verbruggen,Brighton,Nottingham Forest,2023-11-25,False,90,2,1.69,3,0,1,0,False,0.0,True,1.25,0.0,0,0,0,0.0,Brighton,False,Chelsea,-0.59,1.2,0
+Bart Verbruggen,Brighton,Chelsea,,False,0,0,0.0,0,0,0,0,False,,False,1.2,0.0,0,0,0,0.0,Brighton,True,Brentford,-1.45,1.0,0
+Bart Verbruggen,Brighton,Brentford,,True,0,0,0.0,0,0,0,0,False,,False,1.2,0.0,0,0,0,2.0,Brighton,True,Burnley,2.43,0.86,0
+Bart Verbruggen,Brighton,Burnley,2023-12-09,True,90,1,0.94,2,0,2,0,False,0.0,True,1.2,0.0,0,0,0,3.0,Brighton,False,Arsenal,-1.78,1.0,0
+Bart Verbruggen,Brighton,Arsenal,2023-12-17,False,90,2,2.26,6,0,3,0,False,0.0,True,0.6,0.0,0,0,0,2.0,Brighton,False,Crystal Palace,0.44,1.56,0
+Bart Verbruggen,Brighton,Crystal Palace,2023-12-21,False,90,1,1.36,2,0,2,0,False,0.0,True,1.2,0.0,0,0,0,0.0,Brighton,True,Tottenham,-0.36,1.6,0
+Bart Verbruggen,Brighton,Tottenham,,True,0,0,0.0,0,0,0,0,False,,False,1.4,0.0,0,0,0,0.0,Brighton,False,Wolverhampton,-2.88,1.45,0
+Bart Verbruggen,Brighton,Wolverhampton,,False,0,0,0.0,0,0,0,0,False,,False,1.4,0.0,0,0,0,0.0,Brighton,False,West Ham,-0.99,1.33,0
+Bart Verbruggen,Brighton,West Ham,,False,0,0,0.0,0,0,0,0,False,,False,1.4,0.0,0,0,0,0.0,Brighton,True,Wolverhampton,-1.51,1.23,0
+Bart Verbruggen,Brighton,Wolverhampton,,True,0,0,0.0,0,0,0,0,False,,False,1.0,0.0,0,0,0,0.0,Brighton,False,Luton,5.03,1.14,0
+Bart Verbruggen,Brighton,Luton,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.0,0,0,0,3.0,Brighton,True,Crystal Palace,-1.88,1.07,0
+Bart Verbruggen,Brighton,Crystal Palace,2024-02-03,True,90,1,0.32,4,0,3,0,False,0.0,True,0.0,0.0,0,0,0,0.0,Brighton,False,Tottenham,-0.37,1.25,0
+Bart Verbruggen,Brighton,Tottenham,,False,0,0,0.0,0,0,0,0,False,,False,0.6,0.0,0,0,0,5.0,Brighton,False,Sheffield,-3.96,1.18,0
+Bart Verbruggen,Brighton,Sheffield,2024-02-18,False,90,0,0.58,1,0,5,0,True,0.0,True,0.6,0.14,0,0,0,2.0,Brighton,True,Everton,2.52,1.17,0
+Bart Verbruggen,Brighton,Everton,2024-02-24,True,90,1,0.28,1,0,2,0,False,0.0,True,1.6,0.12,0,0,0,0.0,Brighton,False,Fulham,1.99,1.16,0
+Bart Verbruggen,Brighton,Fulham,,False,0,0,0.0,0,0,0,0,False,,False,2.0,0.12,0,0,0,10.0,Brighton,True,Nottingham Forest,-0.8,1.1,0
+Bart Verbruggen,Brighton,Nottingham Forest,2024-03-10,True,90,0,0.68,4,0,10,3,True,0.0,True,2.0,0.22,0,0,0,2.0,Brighton,True,West Ham,-1.35,1.24,0
+Bart Verbruggen,Brighton,West Ham,2023-08-26,True,90,3,3.33,4,0,2,0,False,0.0,True,3.4,0.2,0,0,0,4.0,Brighton,False,Liverpool,-1.55,1.36,0
+Bart Verbruggen,Brighton,Liverpool,2024-03-31,False,90,2,2.79,6,0,4,1,False,0.0,True,3.8,0.18,0,0,0,6.0,Brighton,False,Brentford,0.34,1.57,0
+Bart Verbruggen,Brighton,Brentford,2024-04-03,False,90,0,0.5,2,0,6,0,True,0.0,True,3.6,0.25,0,0,0,2.0,Brighton,True,Arsenal,2.84,1.58,0
+Bart Verbruggen,Brighton,Arsenal,2024-04-06,True,90,3,3.23,4,0,2,0,False,0.0,True,4.4,0.23,0,0,0,2.0,Brighton,False,Burnley,-0.32,1.68,0
+Bart Verbruggen,Brighton,Burnley,2024-04-13,False,90,1,1.7,2,0,2,0,False,0.0,True,4.8,0.21,0,0,0,0.0,Brighton,True,Manchester City,2.39,1.69,0
+Bart Verbruggen,Brighton,Manchester City,,True,0,0,0.0,0,0,0,0,False,,False,3.2,0.21,0,0,0,2.0,Brighton,False,Bournemouth,0.25,1.63,0
+Bart Verbruggen,Brighton,Bournemouth,2024-04-28,False,90,3,2.26,3,0,2,0,False,0.0,True,2.8,0.2,0,0,0,6.0,Brighton,True,Aston Villa,0.69,1.68,0
+Bart Verbruggen,Brighton,Aston Villa,2024-05-05,True,90,0,0.06,1,0,6,0,True,0.0,True,2.4,0.25,0,0,0,5.0,Brighton,False,Newcastle United,1.9,1.66,0
+Bart Verbruggen,Brighton,Newcastle United,2024-05-11,False,90,1,2.27,7,0,5,1,False,0.0,True,2.4,0.24,0,0,0,1.0,Brighton,True,Chelsea,-2.26,1.83,0
+Bart Verbruggen,Brighton,Chelsea,2024-05-15,True,90,2,1.48,4,0,1,0,False,0.0,True,3.0,0.22,0,0,0,0.0,Brighton,True,Manchester United,-2.4,1.9,0
+Bart Verbruggen,Brighton,Manchester United,,True,0,0,0.0,0,0,0,0,False,,False,2.8,0.22,0,0,0,2.0,Brighton,True,Newcastle United,-0.89,1.84,0
+Bart Verbruggen,Brighton,Newcastle United,2023-09-02,True,90,1,1.3,2,0,2,0,False,0.0,True,2.8,0.21,0,0,0,0.0,Brighton,False,Manchester United,-0.89,1.85,0
+Bart Verbruggen,Brighton,Manchester United,,False,0,0,0.0,0,0,0,0,False,,False,2.8,0.21,0,0,0,2.0,Brighton,True,Bournemouth,-1.36,1.79,0
+Bart Verbruggen,Brighton,Bournemouth,2023-09-24,True,90,1,1.37,2,0,2,0,False,0.0,True,1.6,0.2,0,0,0,0.0,Brighton,False,Aston Villa,2.71,1.8,0
+Bart Verbruggen,Brighton,Aston Villa,,False,0,0,0.0,0,0,0,0,False,,False,1.0,0.2,0,0,0,1.0,Brighton,True,Liverpool,-1.1,1.75,0
+Bart Verbruggen,Brighton,Liverpool,2023-10-08,True,90,2,2.49,2,0,1,0,False,0.0,True,0.8,0.19,0,0,0,0.0,Brighton,False,Manchester City,1.12,1.76,0
+Bart Verbruggen,Brighton,Manchester City,,False,0,0,0.0,0,0,0,0,False,,False,1.0,0.19,0,0,0,,,,,,1.71,0

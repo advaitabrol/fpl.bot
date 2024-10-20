@@ -1,30 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
-Gabriel Magalhães,Arsenal,Brentford,2021-08-13,False,AML,0,0,0.12,0,0.08,0,1,2,0.0,0,0,0,0.0,0.0,0.0,0.0
-Gabriel Magalhães,Arsenal,Watford,2021-11-07,True,Sub,90,0,0.0,0,0.0,5,0,0,5.5,0,1,0,0.0,0.12,45.0,1.0
-Gabriel Magalhães,Arsenal,Newcastle United,2021-11-27,True,Sub,90,1,0.36,0,0.11,8,1,1,4.5,2,1,0,2.5,0.06,60.0,1.0
-Gabriel Magalhães,Arsenal,Manchester United,2021-12-02,False,MR,90,0,0.25,1,0.56,1,4,3,3.5,0,0,3,4.33,0.16,67.5,0.67
-Gabriel Magalhães,Arsenal,Everton,2021-12-06,False,AML,90,0,0.12,0,0.0,1,1,0,3.4,0,0,2,3.5,0.43,72.0,0.5
-Gabriel Magalhães,Arsenal,Southampton,2021-12-11,True,ML,68,0,0.04,1,0.62,11,1,3,8.0,0,1,0,3.0,0.37,71.33,0.6
-Gabriel Magalhães,Arsenal,West Ham,2021-12-15,True,ML,90,1,1.05,0,0.14,6,4,1,1.5,0,1,0,5.2,0.56,74.0,0.67
-Gabriel Magalhães,Arsenal,Leicester City,2021-12-18,False,ML,90,2,1.04,0,0.24,2,2,5,2.5,0,0,1,5.4,0.76,76.0,0.57
-Gabriel Magalhães,Arsenal,Norwich,2021-12-26,False,AML,90,0,0.12,0,0.0,6,3,0,1.8,0,1,0,4.2,0.9,77.56,0.62
-Gabriel Magalhães,Arsenal,Chelsea,2021-08-22,True,FW,0,0,0.0,0,0.04,0,0,1,0.0,0,0,0,5.2,0.67,69.8,0.62
-Gabriel Magalhães,Arsenal,Manchester City,2022-01-01,True,AML,58,0,0.69,0,0.0,-3,5,0,0.2,0,0,2,5.0,0.65,68.73,0.62
-Gabriel Magalhães,Arsenal,Burnley,2022-01-23,True,ML,90,0,0.09,0,0.08,6,2,2,4.7,0,1,0,2.2,0.58,70.5,0.67
-Gabriel Magalhães,Arsenal,Wolverhampton,2022-02-10,False,AML,90,0,0.0,0,0.0,14,0,0,12.7,3,1,0,2.2,0.39,72.0,0.7
-Gabriel Magalhães,Arsenal,Wolverhampton,2022-02-24,True,AML,90,0,0.56,0,0.13,2,4,2,2.7,0,0,1,4.6,0.18,73.29,0.64
-Gabriel Magalhães,Arsenal,Watford,2022-03-06,False,AML,90,1,0.15,0,0.05,1,3,1,2.1,0,0,2,3.8,0.27,74.4,0.58
-Gabriel Magalhães,Arsenal,Leeds United,2022-03-13,True,AML,90,0,0.19,1,0.23,6,2,2,1.4,0,1,0,4.0,0.3,75.38,0.62
-Gabriel Magalhães,Arsenal,Liverpool,2022-03-16,True,AML,90,0,0.04,0,0.02,1,1,1,2.1,0,0,2,5.8,0.4,76.24,0.57
-Gabriel Magalhães,Arsenal,Crystal Palace,2022-04-04,False,Sub,90,0,0.0,0,0.06,1,0,1,7.6,0,0,3,4.8,0.39,77.0,0.53
-Gabriel Magalhães,Arsenal,Brighton,2022-04-09,True,FWL,90,0,0.34,0,0.0,1,2,0,5.1,0,0,2,2.2,0.39,77.68,0.5
-Gabriel Magalhães,Arsenal,Southampton,2022-04-16,False,FWR,90,0,0.24,0,0.0,2,5,0,5.5,0,0,1,2.0,0.35,78.3,0.47
-Gabriel Magalhães,Arsenal,Chelsea,2022-04-20,False,Sub,90,0,0.0,0,0.0,0,0,0,2.6,0,0,2,2.2,0.36,78.86,0.44
-Gabriel Magalhães,Arsenal,Manchester United,2022-04-23,True,Sub,90,0,0.0,0,0.0,2,0,0,2.3,0,0,1,1.0,0.12,79.36,0.42
-Gabriel Magalhães,Arsenal,West Ham,2022-05-01,False,FWL,90,0,0.02,1,0.36,11,1,2,8.8,3,0,1,1.2,0.12,79.83,0.4
-Gabriel Magalhães,Arsenal,Leicester City,2022-05-08,True,FWL,90,0,0.76,1,0.58,1,4,2,3.8,0,0,1,3.2,0.32,80.25,0.38
-Gabriel Magalhães,Arsenal,Tottenham,2022-05-12,False,AML,75,0,0.0,0,0.17,1,0,2,2.7,0,0,3,3.2,0.61,80.04,0.36
-Gabriel Magalhães,Arsenal,Newcastle United,2022-05-16,False,Sub,72,0,0.0,0,0.0,2,0,0,0.9,0,0,1,3.0,0.56,79.73,0.35
-Gabriel Magalhães,Arsenal,Everton,2022-05-22,True,AML,90,1,2.21,1,0.62,8,4,3,0.0,0,0,1,3.4,0.56,80.11,0.33
-Gabriel Magalhães,Arsenal,Crystal Palace,2021-10-18,True,Sub,90,0,0.45,0,0.0,1,1,0,2.2,0,0,2,4.6,1.2,80.46,0.32
-Gabriel Magalhães,Arsenal,Aston Villa,2021-10-22,True,Sub,90,0,0.0,0,0.0,2,0,0,3.1,0,0,1,2.6,1.09,80.79,0.31
+Gabriel Magalhães,Arsenal,Brentford,2021-08-13,False,AML,0,0.0,0.12,0.0,0.08,0,1.0,2.0,0.0,0,0,0,0.0,0.0,0.0,0.0
+Gabriel Magalhães,Arsenal,Leeds United,,False,,90,,,,,15,,,8.4,3,1,0,0.0,0.12,45.0,1.0
+Gabriel Magalhães,Arsenal,Watford,2021-11-07,True,Sub,90,0.0,0.0,0.0,0.0,5,0.0,0.0,5.5,0,1,0,7.5,0.06,60.0,1.0
+Gabriel Magalhães,Arsenal,Liverpool,,False,,90,,,,,0,,,2.6,0,0,4,6.67,0.04,67.5,0.67
+Gabriel Magalhães,Arsenal,Newcastle United,2021-11-27,True,Sub,90,1.0,0.36,0.0,0.11,8,1.0,1.0,4.5,2,1,0,5.0,0.03,72.0,0.75
+Gabriel Magalhães,Arsenal,Manchester United,2021-12-02,False,MR,90,0.0,0.25,1.0,0.56,1,4.0,3.0,3.5,0,0,3,5.6,0.1,75.0,0.6
+Gabriel Magalhães,Arsenal,Everton,2021-12-06,False,AML,90,0.0,0.12,0.0,0.0,1,1.0,0.0,3.4,0,0,2,5.8,0.32,77.14,0.5
+Gabriel Magalhães,Arsenal,Southampton,2021-12-11,True,ML,68,0.0,0.04,1.0,0.62,11,1.0,3.0,8.0,0,1,0,3.0,0.35,76.0,0.57
+Gabriel Magalhães,Arsenal,West Ham,2021-12-15,True,ML,90,1.0,1.05,0.0,0.14,6,4.0,1.0,1.5,0,1,0,4.2,0.56,77.56,0.62
+Gabriel Magalhães,Arsenal,Leicester City,2021-12-18,False,ML,90,2.0,1.04,0.0,0.24,2,2.0,5.0,2.5,0,0,1,5.4,0.76,78.8,0.56
+Gabriel Magalhães,Arsenal,Norwich,2021-12-26,False,AML,90,0.0,0.12,0.0,0.0,6,3.0,0.0,1.8,0,1,0,4.2,0.9,79.82,0.6
+Gabriel Magalhães,Arsenal,Chelsea,2021-08-22,True,FW,0,0.0,0.0,0.0,0.04,0,0.0,1.0,0.0,0,0,0,5.2,0.67,73.17,0.6
+Gabriel Magalhães,Arsenal,Manchester City,2022-01-01,True,AML,58,0.0,0.69,0.0,0.0,-3,5.0,0.0,0.2,0,0,2,5.0,0.65,72.0,0.6
+Gabriel Magalhães,Arsenal,Burnley,2022-01-23,True,ML,90,0.0,0.09,0.0,0.08,6,2.0,2.0,4.7,0,1,0,2.2,0.58,73.29,0.64
+Gabriel Magalhães,Arsenal,Wolverhampton,2022-02-10,False,AML,90,0.0,0.0,0.0,0.0,14,0.0,0.0,12.7,3,1,0,2.2,0.39,74.4,0.67
+Gabriel Magalhães,Arsenal,Brentford,,True,,90,,,,,1,,,2.0,0,0,1,4.6,0.18,75.38,0.62
+Gabriel Magalhães,Arsenal,Wolverhampton,2022-02-24,True,AML,90,0.0,0.56,0.0,0.13,2,4.0,2.0,2.7,0,0,1,3.6,0.16,76.24,0.57
+Gabriel Magalhães,Arsenal,Watford,2022-03-06,False,AML,90,1.0,0.15,0.0,0.05,1,3.0,1.0,2.1,0,0,2,4.0,0.27,77.0,0.53
+Gabriel Magalhães,Arsenal,Leeds United,2022-03-13,True,AML,90,0.0,0.19,1.0,0.23,6,2.0,2.0,1.4,0,1,0,4.8,0.16,77.68,0.56
+Gabriel Magalhães,Arsenal,Liverpool,2022-03-16,True,AML,90,0.0,0.04,0.0,0.02,1,1.0,1.0,2.1,0,0,2,4.8,0.38,78.3,0.53
+Gabriel Magalhães,Arsenal,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,2.2,0.39,74.57,0.53
+Gabriel Magalhães,Arsenal,Aston Villa,,False,,90,,,,,8,,,2.3,2,1,0,2.0,0.39,75.27,0.56
+Gabriel Magalhães,Arsenal,Crystal Palace,2022-04-04,False,Sub,90,0.0,0.0,0.0,0.06,1,0.0,1.0,7.6,0,0,3,3.2,0.28,75.91,0.53
+Gabriel Magalhães,Arsenal,Brighton,2022-04-09,True,FWL,90,0.0,0.34,0.0,0.0,1,2.0,0.0,5.1,0,0,2,3.2,0.25,76.5,0.5
+Gabriel Magalhães,Arsenal,Southampton,2022-04-16,False,FWR,90,0.0,0.24,0.0,0.0,2,5.0,0.0,5.5,0,0,1,2.2,0.08,77.04,0.48
+Gabriel Magalhães,Arsenal,Chelsea,2022-04-20,False,Sub,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.6,0,0,2,2.4,0.12,77.54,0.45
+Gabriel Magalhães,Arsenal,Manchester United,2022-04-23,True,Sub,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,1,2.4,0.12,78.0,0.43
+Gabriel Magalhães,Arsenal,West Ham,2022-05-01,False,FWL,90,0.0,0.02,1.0,0.36,11,1.0,2.0,8.8,3,0,1,1.2,0.12,78.43,0.42
+Gabriel Magalhães,Arsenal,Leicester City,2022-05-08,True,FWL,90,0.0,0.76,1.0,0.58,1,4.0,2.0,3.8,0,0,1,3.2,0.32,78.83,0.4
+Gabriel Magalhães,Arsenal,Tottenham,2022-05-12,False,AML,75,0.0,0.0,0.0,0.17,1,0.0,2.0,2.7,0,0,3,3.2,0.61,78.7,0.38
+Gabriel Magalhães,Arsenal,Newcastle United,2022-05-16,False,Sub,72,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,0,1,3.0,0.56,78.48,0.37
+Gabriel Magalhães,Arsenal,Everton,2022-05-22,True,AML,90,1.0,2.21,1.0,0.62,8,4.0,3.0,0.0,0,0,1,3.4,0.56,78.84,0.36
+Gabriel Magalhães,Arsenal,Norwich,,True,,90,,,,,8,,,3.1,2,1,0,4.6,1.2,79.18,0.38
+Gabriel Magalhães,Arsenal,Burnley,,False,,90,,,,,7,,,3.1,1,1,0,4.0,1.0,79.5,0.4
+Gabriel Magalhães,Arsenal,Tottenham,,True,,90,,,,,2,,,3.4,0,0,1,5.2,0.64,79.8,0.39
+Gabriel Magalhães,Arsenal,Brighton,,False,,90,,,,,6,,,2.3,0,1,0,5.4,0.64,80.08,0.41
+Gabriel Magalhães,Arsenal,Crystal Palace,2021-10-18,True,Sub,90,0.0,0.45,0.0,0.0,1,1.0,0.0,2.2,0,0,2,6.2,0.64,80.35,0.39
+Gabriel Magalhães,Arsenal,Aston Villa,2021-10-22,True,Sub,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.1,0,0,1,4.8,0.09,80.61,0.38

@@ -1,8 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,form,xG&A_form,minutes_per_game
-Sam Greenwood,Leeds,Arsenal,2021-12-18,True,Sub,12,0,0.0,0,0.0,1,0,0,0.0,0,0.0,0.0,12.0
-Sam Greenwood,Leeds,Wolverhampton,2022-03-18,False,Sub,67,0,0.07,1,0.31,5,1,1,4.4,0,1.0,0.0,39.5
-Sam Greenwood,Leeds,Watford,2022-04-09,False,Sub,23,0,0.0,1,0.09,4,0,2,4.9,0,3.0,0.53,34.0
-Sam Greenwood,Leeds,Crystal Palace,2022-04-25,False,Sub,31,0,0.0,0,0.04,1,0,1,1.6,0,3.33,0.69,33.25
-Sam Greenwood,Leeds,Manchester City,2022-04-30,True,Sub,7,0,0.09,0,0.0,1,1,0,2.0,0,2.75,0.52,28.0
-Sam Greenwood,Leeds,Brighton,2022-05-15,True,Sub,7,0,0.0,0,0.0,1,0,0,0.1,0,2.4,0.43,24.5
-Sam Greenwood,Leeds,Brentford,2022-05-22,False,MC,84,0,0.07,0,0.0,2,2,0,0.0,0,2.4,0.43,33.0
+Sam Greenwood,Leeds,Manchester United,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Sam Greenwood,Leeds,Norwich,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Sam Greenwood,Leeds,Leeds United,,True,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Sam Greenwood,Leeds,Tottenham,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Sam Greenwood,Leeds,Brighton,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Sam Greenwood,Leeds,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Sam Greenwood,Leeds,Brentford,,True,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Sam Greenwood,Leeds,Chelsea,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Sam Greenwood,Leeds,Manchester City,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
+Sam Greenwood,Leeds,Arsenal,2021-12-18,True,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0.0,0.0,1.2
+Sam Greenwood,Leeds,Everton,,True,,0,,,,,0,,,0.0,0,0.2,0.0,1.09
+Sam Greenwood,Leeds,Burnley,,True,,0,,,,,0,,,0.0,0,0.2,0.0,1.0
+Sam Greenwood,Leeds,West Ham,,False,,0,,,,,0,,,0.0,0,0.2,0.0,0.92
+Sam Greenwood,Leeds,Newcastle United,,True,,0,,,,,0,,,0.0,0,0.2,0.0,0.86
+Sam Greenwood,Leeds,Aston Villa,,False,,0,,,,,0,,,0.0,0,0.2,0.0,0.8
+Sam Greenwood,Leeds,Everton,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.75
+Sam Greenwood,Leeds,Manchester United,,True,,0,,,,,0,,,0.0,0,0.0,0.0,0.71
+Sam Greenwood,Leeds,Liverpool,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.67
+Sam Greenwood,Leeds,Tottenham,,True,,0,,,,,0,,,0.0,0,0.0,0.0,0.63
+Sam Greenwood,Leeds,Leeds United,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.6
+Sam Greenwood,Leeds,Aston Villa,,True,,0,,,,,0,,,0.0,0,0.0,0.0,0.57
+Sam Greenwood,Leeds,Norwich,,True,,0,,,,,0,,,0.0,0,0.0,0.0,0.55
+Sam Greenwood,Leeds,Burnley,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.52
+Sam Greenwood,Leeds,Wolverhampton,2022-03-18,False,Sub,67,0.0,0.07,1.0,0.31,5,1.0,1.0,4.4,0,0.0,0.0,3.29
+Sam Greenwood,Leeds,Southampton,,True,,0,,,,,0,,,0.0,0,1.0,0.21,3.16
+Sam Greenwood,Leeds,Watford,2022-04-09,False,Sub,23,0.0,0.0,1.0,0.09,4,0.0,2.0,4.9,0,1.0,0.21,3.92
+Sam Greenwood,Leeds,Crystal Palace,2022-04-25,False,Sub,31,0.0,0.0,0.0,0.04,1,0.0,1.0,1.6,0,1.8,0.41,4.93
+Sam Greenwood,Leeds,Manchester City,2022-04-30,True,Sub,7,0.0,0.09,0.0,0.0,1,1.0,0.0,2.0,0,2.0,0.41,5.0
+Sam Greenwood,Leeds,Arsenal,,False,,0,,,,,0,,,0.0,0,2.2,0.43,4.83
+Sam Greenwood,Leeds,Chelsea,,True,,0,,,,,0,,,0.0,0,1.2,0.22,4.67
+Sam Greenwood,Leeds,Brighton,2022-05-15,True,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,1.2,0.22,4.74
+Sam Greenwood,Leeds,Brentford,2022-05-22,False,MC,84,0.0,0.07,0.0,0.0,2,2.0,0.0,0.0,0,0.6,0.02,7.22
+Sam Greenwood,Leeds,Liverpool,,True,,0,,,,,0,,,0.0,0,0.8,0.03,7.0
+Sam Greenwood,Leeds,Newcastle United,,False,,0,,,,,0,,,0.0,0,0.6,0.01,6.79
+Sam Greenwood,Leeds,West Ham,,True,,0,,,,,0,,,0.0,0,0.6,0.01,6.6
+Sam Greenwood,Leeds,Watford,,True,,0,,,,,0,,,0.0,0,0.6,0.01,6.42
+Sam Greenwood,Leeds,Southampton,,False,,0,,,,,0,,,0.0,0,0.4,0.01,6.24
+Sam Greenwood,Leeds,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0.0,0.0,6.08

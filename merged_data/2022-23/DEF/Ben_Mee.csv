@@ -1,38 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Ben Mee,Brentford,Leeds United,2022-08-07,False,DC,58,0,0.0,0,0.0,0,0,0,0.9,0,0,2,0.0,False,0.0,0.0,58.0,0.0,0,0,0,0,1
-Ben Mee,Brentford,Newcastle United,2022-10-08,False,DC,70,0,0.0,0,0.0,1,0,0,1.8,0,0,3,0.0,False,0.0,0.0,64.0,0.0,0,0,0,0,6
-Ben Mee,Brentford,Brighton,2022-10-14,True,DC,90,0,0.06,0,0.0,6,1,0,3.4,0,1,0,0.0,False,0.5,0.0,72.67,0.5,0,0,0,0,6
-Ben Mee,Brentford,Chelsea,2022-10-19,True,DC,90,0,0.0,0,0.0,6,0,0,2.7,0,1,0,0.0,False,2.33,0.02,77.0,0.67,0,0,0,0,11
-Ben Mee,Brentford,Wolverhampton,2022-10-29,True,DC,90,1,0.17,0,0.08,11,2,1,8.2,3,0,1,0.0,False,3.25,0.02,79.6,0.5,0,0,0,0,1
-Ben Mee,Brentford,Nottingham Forest,2022-11-05,False,DC,90,0,0.0,0,0.0,1,0,0,2.0,0,0,2,0.0,False,4.8,0.05,81.33,0.4,0,0,0,0,5
-Ben Mee,Brentford,Manchester City,2022-11-12,False,DC,90,0,0.0,0,0.0,5,0,0,3.2,0,0,1,1.61,True,5.0,0.05,82.57,0.33,0,0,0,0,1
-Ben Mee,Brentford,Tottenham,2022-12-26,True,DC,90,0,0.0,0,0.04,1,0,1,3.4,0,0,2,1.07,True,5.8,0.05,83.5,0.29,0,0,0,0,6
-Ben Mee,Brentford,West Ham,2022-12-30,False,DC,90,0,0.0,0,0.0,6,0,0,1.8,0,1,0,1.24,True,4.8,0.03,84.22,0.38,0,0,0,0,2
-Ben Mee,Brentford,Liverpool,2023-01-02,True,DC,90,0,0.0,0,0.0,2,0,0,2.4,0,0,1,2.03,True,4.8,0.03,84.8,0.33,0,0,0,0,14
-Ben Mee,Brentford,Manchester United,2022-08-13,True,DC,90,1,0.56,0,0.0,14,1,0,7.5,2,1,0,0.0,False,3.0,0.0,85.27,0.4,0,0,0,0,7
-Ben Mee,Brentford,Bournemouth,2023-01-14,True,DC,90,0,0.11,0,0.0,7,1,0,2.2,1,1,0,0.47,True,5.6,0.11,85.67,0.45,0,0,0,0,6
-Ben Mee,Brentford,Leicester City,2023-01-22,False,DC,90,0,0.0,0,0.0,6,0,0,1.6,0,1,0,0.5,True,6.0,0.14,86.0,0.5,0,0,0,0,13
-Ben Mee,Brentford,Southampton,2023-02-04,True,DC,90,1,0.17,0,0.0,13,3,0,7.4,1,1,0,0.63,True,7.0,0.14,86.29,0.54,0,0,0,0,2
-Ben Mee,Brentford,Arsenal,2023-02-11,False,DC,90,0,0.08,0,0.0,2,1,0,3.0,0,0,1,1.68,True,8.4,0.17,86.53,0.5,0,0,0,0,1
-Ben Mee,Brentford,Crystal Palace,2023-02-18,True,DC,90,0,0.0,0,0.0,1,0,0,2.2,0,0,1,1.11,True,8.4,0.19,86.75,0.47,0,0,0,0,1
-Ben Mee,Brentford,Fulham,2023-03-06,True,DC,90,0,0.04,0,0.0,1,1,0,2.0,0,0,2,1.42,True,5.8,0.07,86.94,0.44,0,0,0,0,2
-Ben Mee,Brentford,Everton,2023-03-11,False,DC,90,0,0.05,0,0.0,2,1,0,1.6,0,0,1,1.03,True,4.6,0.06,87.11,0.41,0,0,0,0,7
-Ben Mee,Brentford,Southampton,2023-03-15,False,DC,90,0,0.03,0,0.0,7,1,0,2.6,1,1,0,0.51,True,3.8,0.07,87.26,0.44,0,0,0,0,2
-Ben Mee,Brentford,Leeds United,2023-03-18,True,DC,90,0,0.0,0,0.06,2,0,1,4.5,0,0,1,1.35,True,2.6,0.04,87.4,0.42,0,0,0,0,1
-Ben Mee,Brentford,Brighton,2023-04-01,False,DC,90,0,0.0,0,0.08,1,0,1,3.7,0,0,3,4.45,True,2.6,0.03,87.52,0.4,0,0,0,0,2
-Ben Mee,Brentford,Manchester United,2023-04-05,False,DC,90,0,0.0,0,0.0,2,0,0,1.2,0,0,1,1.1,True,2.6,0.03,87.64,0.38,0,0,0,0,0
-Ben Mee,Brentford,Fulham,2022-08-20,False,DC,90,0,0.06,0,0.0,0,2,0,2.2,0,0,3,0.0,False,2.8,0.02,87.74,0.36,0,0,0,0,1
-Ben Mee,Brentford,Newcastle United,2023-04-08,True,DC,81,0,0.06,0,0.0,1,1,0,1.1,0,0,2,0.8,True,2.4,0.02,87.46,0.35,0,0,0,0,1
-Ben Mee,Brentford,Wolverhampton,2023-04-15,False,DC,90,0,0.0,0,0.0,1,0,0,1.9,0,0,2,0.73,True,1.2,0.02,87.56,0.33,0,0,0,0,2
-Ben Mee,Brentford,Aston Villa,2023-04-22,True,DC,90,0,0.0,0,0.0,2,0,0,2.4,0,0,1,1.91,True,1.0,0.02,87.65,0.32,0,0,0,0,6
-Ben Mee,Brentford,Chelsea,2023-04-26,False,DC,90,0,0.12,0,0.0,6,1,0,2.2,0,1,0,1.24,True,1.2,0.02,87.74,0.35,0,0,0,0,2
-Ben Mee,Brentford,Nottingham Forest,2023-04-29,True,DC,90,0,0.14,0,0.0,2,2,0,5.2,0,0,1,0.75,True,2.0,0.05,87.82,0.33,0,0,0,0,2
-Ben Mee,Brentford,Liverpool,2023-05-06,False,DC,90,0,0.02,0,0.0,2,1,0,2.1,0,0,1,2.08,True,2.4,0.06,87.9,0.32,0,0,0,0,11
-Ben Mee,Brentford,West Ham,2023-05-14,True,DC,90,0,0.88,1,1.34,11,3,2,9.8,2,1,0,0.22,True,2.6,0.06,87.97,0.34,0,0,0,0,2
-Ben Mee,Brentford,Tottenham,2023-05-20,False,DC,90,0,0.0,0,0.0,2,0,0,5.5,0,0,1,1.89,True,4.6,0.43,88.03,0.33,0,0,0,0,6
-Ben Mee,Brentford,Manchester City,2023-05-28,True,DC,90,0,0.18,0,0.08,6,2,1,0.0,0,1,0,0.64,True,4.6,0.43,88.09,0.35,0,0,0,0,2
-Ben Mee,Brentford,Everton,2022-08-27,True,DC,90,0,0.0,0,0.0,2,0,0,3.2,0,0,1,0.0,False,4.6,0.44,88.15,0.34,0,0,0,0,2
-Ben Mee,Brentford,Crystal Palace,2022-08-30,False,DC,90,0,0.47,0,0.0,2,2,0,1.8,0,0,1,0.0,False,4.6,0.42,88.21,0.33,0,0,0,0,1
-Ben Mee,Brentford,Leicester City,2022-09-03,True,DC,90,0,0.0,0,0.0,1,0,0,2.2,0,0,2,0.0,False,4.6,0.5,88.26,0.32,0,0,0,0,1
-Ben Mee,Brentford,Arsenal,2022-09-18,True,DC,90,0,0.0,0,0.0,1,0,0,2.2,0,0,3,0.0,False,2.6,0.13,88.31,0.31,0,0,0,0,7
-Ben Mee,Brentford,Bournemouth,2022-10-01,False,DC,90,0,0.01,0,0.0,7,1,0,5.2,1,1,0,0.0,False,2.4,0.13,88.35,0.33,0,0,0,0,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Ben Mee,Brentford,Leeds United,2022-08-07,False,DC,58,0.0,0.0,0.0,0.0,0,0.0,0.0,0.9,0,0,2,0.0,False,0.0,0.0,58.0,0.0,0,0,0,0,1,Brentford,False,Newcastle United,2.44
+Ben Mee,Brentford,Newcastle United,2022-10-08,False,DC,70,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,3,0.0,False,0.0,0.0,64.0,0.0,0,0,0,0,6,Brentford,True,Brighton,-0.72
+Ben Mee,Brentford,Brighton,2022-10-14,True,DC,90,0.0,0.06,0.0,0.0,6,1.0,0.0,3.4,0,1,0,0.0,False,0.5,0.0,72.67,0.5,0,0,0,0,6,Brentford,True,Chelsea,-0.25
+Ben Mee,Brentford,Chelsea,2022-10-19,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.7,0,1,0,0.0,False,2.33,0.02,77.0,0.67,0,0,0,0,0,Brentford,False,Aston Villa,2.08
+Ben Mee,Brentford,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.25,0.02,61.6,0.67,0,0,0,0,11,Brentford,True,Wolverhampton,2.5
+Ben Mee,Brentford,Wolverhampton,2022-10-29,True,DC,90,1.0,0.17,0.0,0.08,11,2.0,1.0,8.2,3,0,1,0.0,False,2.6,0.01,66.33,0.5,0,0,0,0,1,Brentford,False,Nottingham Forest,1.35
+Ben Mee,Brentford,Nottingham Forest,2022-11-05,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.0,0,0,2,0.0,False,4.8,0.05,69.71,0.4,0,0,0,0,5,Brentford,False,Manchester City,-0.6
+Ben Mee,Brentford,Manchester City,2022-11-12,False,DC,90,0.0,0.0,0.0,0.0,5,0.0,0.0,3.2,0,0,1,1.61,True,4.8,0.05,72.25,0.33,0,0,0,0,1,Brentford,True,Tottenham,-0.38
+Ben Mee,Brentford,Tottenham,2022-12-26,True,DC,90,0.0,0.0,0.0,0.04,1,0.0,1.0,3.4,0,0,2,1.07,True,4.6,0.03,74.22,0.29,0,0,0,0,6,Brentford,False,West Ham,-0.27
+Ben Mee,Brentford,West Ham,2022-12-30,False,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.8,0,1,0,1.24,True,3.6,0.03,75.8,0.38,0,0,0,0,2,Brentford,True,Liverpool,-0.79
+Ben Mee,Brentford,Liverpool,2023-01-02,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.4,0,0,1,2.03,True,4.8,0.03,77.09,0.33,0,0,0,0,14,Brentford,True,Manchester United,-1.13
+Ben Mee,Brentford,Manchester United,2022-08-13,True,DC,90,1.0,0.56,0.0,0.0,14,1.0,0.0,7.5,2,1,0,0.0,False,3.0,0.0,78.17,0.4,0,0,0,0,7,Brentford,True,Bournemouth,-0.5
+Ben Mee,Brentford,Bournemouth,2023-01-14,True,DC,90,0.0,0.11,0.0,0.0,7,1.0,0.0,2.2,1,1,0,0.47,True,5.6,0.11,79.08,0.45,0,0,0,0,6,Brentford,False,Leicester City,-0.02
+Ben Mee,Brentford,Leicester City,2023-01-22,False,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.6,0,1,0,0.5,True,6.0,0.14,79.86,0.5,0,0,0,0,13,Brentford,True,Southampton,-4.06
+Ben Mee,Brentford,Southampton,2023-02-04,True,DC,90,1.0,0.17,0.0,0.0,13,3.0,0.0,7.4,1,1,0,0.63,True,7.0,0.14,80.53,0.54,0,0,0,0,2,Brentford,False,Arsenal,0.3
+Ben Mee,Brentford,Arsenal,2023-02-11,False,DC,90,0.0,0.08,0.0,0.0,2,1.0,0.0,3.0,0,0,1,1.68,True,8.4,0.17,81.12,0.5,0,0,0,0,1,Brentford,True,Crystal Palace,1.05
+Ben Mee,Brentford,Crystal Palace,2023-02-18,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,1,1.11,True,8.4,0.19,81.65,0.47,0,0,0,0,1,Brentford,True,Fulham,0.44
+Ben Mee,Brentford,Fulham,2023-03-06,True,DC,90,0.0,0.04,0.0,0.0,1,1.0,0.0,2.0,0,0,2,1.42,True,5.8,0.07,82.11,0.44,0,0,0,0,2,Brentford,False,Everton,2.1
+Ben Mee,Brentford,Everton,2023-03-11,False,DC,90,0.0,0.05,0.0,0.0,2,1.0,0.0,1.6,0,0,1,1.03,True,4.6,0.06,82.53,0.41,0,0,0,0,7,Brentford,False,Southampton,0.93
+Ben Mee,Brentford,Southampton,2023-03-15,False,DC,90,0.0,0.03,0.0,0.0,7,1.0,0.0,2.6,1,1,0,0.51,True,3.8,0.07,82.9,0.44,0,0,0,0,2,Brentford,True,Leeds United,2.23
+Ben Mee,Brentford,Leeds United,2023-03-18,True,DC,90,0.0,0.0,0.0,0.06,2,0.0,1.0,4.5,0,0,1,1.35,True,2.6,0.04,83.24,0.42,0,0,0,0,1,Brentford,False,Brighton,1.2
+Ben Mee,Brentford,Brighton,2023-04-01,False,DC,90,0.0,0.0,0.0,0.08,1,0.0,1.0,3.7,0,0,3,4.45,True,2.6,0.03,83.55,0.4,0,0,0,0,2,Brentford,False,Manchester United,1.62
+Ben Mee,Brentford,Manchester United,2023-04-05,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.2,0,0,1,1.1,True,2.6,0.03,83.83,0.38,0,0,0,0,0,Brentford,False,Fulham,-1.2
+Ben Mee,Brentford,Fulham,2022-08-20,False,DC,90,0.0,0.06,0.0,0.0,0,2.0,0.0,2.2,0,0,3,0.0,False,2.8,0.02,84.08,0.36,0,0,0,0,1,Brentford,True,Newcastle United,2.43
+Ben Mee,Brentford,Newcastle United,2023-04-08,True,DC,81,0.0,0.06,0.0,0.0,1,1.0,0.0,1.1,0,0,2,0.8,True,2.4,0.02,83.96,0.35,0,0,0,0,1,Brentford,False,Wolverhampton,-1.6
+Ben Mee,Brentford,Wolverhampton,2023-04-15,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,2,0.73,True,1.2,0.02,84.19,0.33,0,0,0,0,2,Brentford,True,Aston Villa,0.51
+Ben Mee,Brentford,Aston Villa,2023-04-22,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.4,0,0,1,1.91,True,1.0,0.02,84.41,0.32,0,0,0,0,6,Brentford,False,Chelsea,-4.41
+Ben Mee,Brentford,Chelsea,2023-04-26,False,DC,90,0.0,0.12,0.0,0.0,6,1.0,0.0,2.2,0,1,0,1.24,True,1.2,0.02,84.61,0.35,0,0,0,0,2,Brentford,True,Nottingham Forest,-0.34
+Ben Mee,Brentford,Nottingham Forest,2023-04-29,True,DC,90,0.0,0.14,0.0,0.0,2,2.0,0.0,5.2,0,0,1,0.75,True,2.0,0.05,84.79,0.33,0,0,0,0,2,Brentford,False,Liverpool,3.48
+Ben Mee,Brentford,Liverpool,2023-05-06,False,DC,90,0.0,0.02,0.0,0.0,2,1.0,0.0,2.1,0,0,1,2.08,True,2.4,0.06,84.97,0.32,0,0,0,0,11,Brentford,True,West Ham,-1.97
+Ben Mee,Brentford,West Ham,2023-05-14,True,DC,90,0.0,0.88,1.0,1.34,11,3.0,2.0,9.8,2,1,0,0.22,True,2.6,0.06,85.13,0.34,0,0,0,0,2,Brentford,False,Tottenham,2.11
+Ben Mee,Brentford,Tottenham,2023-05-20,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,5.5,0,0,1,1.89,True,4.6,0.43,85.28,0.33,0,0,0,0,6,Brentford,True,Manchester City,1.02
+Ben Mee,Brentford,Manchester City,2023-05-28,True,DC,90,0.0,0.18,0.0,0.08,6,2.0,1.0,0.0,0,1,0,0.64,True,4.6,0.43,85.42,0.35,0,0,0,0,2,Brentford,True,Everton,0.56
+Ben Mee,Brentford,Everton,2022-08-27,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.2,0,0,1,0.0,False,4.6,0.44,85.56,0.34,0,0,0,0,2,Brentford,False,Crystal Palace,1.07
+Ben Mee,Brentford,Crystal Palace,2022-08-30,False,DC,90,0.0,0.47,0.0,0.0,2,2.0,0.0,1.8,0,0,1,0.0,False,4.6,0.42,85.69,0.33,0,0,0,0,1,Brentford,True,Leicester City,-0.73
+Ben Mee,Brentford,Leicester City,2022-09-03,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,2,0.0,False,4.6,0.5,85.81,0.32,0,0,0,0,1,Brentford,True,Arsenal,0.17
+Ben Mee,Brentford,Arsenal,2022-09-18,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,3,0.0,False,2.6,0.13,85.92,0.31,0,0,0,0,7,Brentford,False,Bournemouth,0.55
+Ben Mee,Brentford,Bournemouth,2022-10-01,False,DC,90,0.0,0.01,0.0,0.0,7,1.0,0.0,5.2,1,1,0,0.0,False,2.4,0.13,86.03,0.33,0,0,0,0,0,Brentford,True,Tottenham,-0.38

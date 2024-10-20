@@ -1,21 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
-Emil Krafth,Newcastle,West Ham,2021-08-15,True,DC,84,0,0.05,0,0.0,0,1,0,1.5,0,0,4,0.0,0.0,84.0,0.0
-Emil Krafth,Newcastle,Chelsea,2021-10-30,True,DC,90,0,0.0,0,0.0,1,0,0,1.1,0,0,3,0.0,0.05,87.0,0.0
-Emil Krafth,Newcastle,Brighton,2021-11-06,False,DC,90,0,0.0,0,0.0,2,0,0,0.7,0,0,1,0.5,0.03,88.0,0.0
-Emil Krafth,Newcastle,Arsenal,2021-11-27,False,DR,90,0,0.0,0,0.0,0,0,0,2.2,0,0,2,1.0,0.02,88.5,0.0
-Emil Krafth,Newcastle,Manchester United,2021-12-27,True,DR,90,0,0.0,0,0.74,1,0,1,3.8,0,0,1,0.75,0.01,88.8,0.0
-Emil Krafth,Newcastle,Aston Villa,2022-02-13,True,Sub,42,0,0.0,0,0.02,1,0,1,1.3,0,0,0,0.8,0.01,81.0,0.0
-Emil Krafth,Newcastle,West Ham,2022-02-19,False,DR,90,0,0.0,0,0.0,1,0,0,2.2,0,0,1,1.0,0.0,82.29,0.0
-Emil Krafth,Newcastle,Brentford,2022-02-26,False,DR,90,0,0.05,0,0.02,6,2,1,3.5,0,1,0,1.0,0.0,83.25,0.14
-Emil Krafth,Newcastle,Brighton,2022-03-05,True,DR,90,0,0.0,0,0.0,2,0,0,2.3,0,0,1,1.8,0.01,84.0,0.12
-Emil Krafth,Newcastle,Southampton,2022-03-10,False,DR,90,0,0.0,0,0.0,2,0,0,1.1,0,0,1,2.2,0.01,84.6,0.11
-Emil Krafth,Newcastle,Everton,2022-03-17,False,DR,90,0,0.01,0,0.0,5,1,0,2.1,0,1,0,2.4,0.01,85.09,0.2
-Emil Krafth,Newcastle,Wolverhampton,2022-04-08,True,DR,90,0,0.0,0,0.0,6,0,0,1.5,0,1,0,3.2,0.01,85.5,0.27
-Emil Krafth,Newcastle,Leeds United,2022-04-17,True,DR,90,0,0.0,0,0.0,1,0,0,2.0,0,0,1,4.2,0.01,85.85,0.25
-Emil Krafth,Newcastle,Crystal Palace,2022-04-20,True,DR,90,0,0.0,0,0.03,7,0,1,2.4,1,1,0,3.2,0.0,86.14,0.31
-Emil Krafth,Newcastle,Norwich,2022-04-23,False,DR,90,0,0.0,0,0.0,6,0,0,1.4,0,1,0,4.2,0.0,86.4,0.36
-Emil Krafth,Newcastle,Liverpool,2022-04-30,True,DR,84,0,0.0,0,0.0,2,0,0,1.7,0,0,1,5.0,0.0,86.25,0.33
-Emil Krafth,Newcastle,Manchester City,2022-05-08,False,DR,67,0,0.0,0,0.0,1,0,0,0.8,0,0,3,4.4,0.0,85.12,0.31
-Emil Krafth,Newcastle,Arsenal,2022-05-16,True,DR,90,0,0.02,0,0.13,7,1,1,3.0,1,1,0,3.4,0.0,85.39,0.35
-Emil Krafth,Newcastle,Leicester City,2021-09-17,True,Sub,9,0,0.0,0,0.0,1,0,0,0.2,0,0,0,4.6,0.0,81.37,0.35
-Emil Krafth,Newcastle,Crystal Palace,2021-10-23,False,DC,90,0,0.09,1,0.09,6,1,1,8.1,1,0,1,3.4,0.0,81.8,0.33
+Emil Krafth,Newcastle,West Ham,2021-08-15,True,DC,84,0.0,0.05,0.0,0.0,0,1.0,0.0,1.5,0,0,4,0.0,0.0,84.0,0.0
+Emil Krafth,Newcastle,Chelsea,2021-10-30,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,3,0.0,0.05,87.0,0.0
+Emil Krafth,Newcastle,Brighton,2021-11-06,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.7,0,0,1,0.5,0.03,88.0,0.0
+Emil Krafth,Newcastle,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,1.0,0.02,66.0,0.0
+Emil Krafth,Newcastle,Arsenal,2021-11-27,False,DR,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.2,0,0,2,0.75,0.01,70.8,0.0
+Emil Krafth,Newcastle,Norwich,,True,,0,,,,,0,,,0.0,0,0,0,0.6,0.01,59.0,0.0
+Emil Krafth,Newcastle,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.6,0.0,50.57,0.0
+Emil Krafth,Newcastle,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,44.25,0.0
+Emil Krafth,Newcastle,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,39.33,0.0
+Emil Krafth,Newcastle,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,35.4,0.0
+Emil Krafth,Newcastle,Manchester United,2021-12-27,True,DR,90,0.0,0.0,0.0,0.74,1,0.0,1.0,3.8,0,0,1,0.0,0.0,40.36,0.0
+Emil Krafth,Newcastle,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,37.0,0.0
+Emil Krafth,Newcastle,Watford,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,34.15,0.0
+Emil Krafth,Newcastle,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,31.71,0.0
+Emil Krafth,Newcastle,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,29.6,0.0
+Emil Krafth,Newcastle,Aston Villa,2022-02-13,True,Sub,42,0.0,0.0,0.0,0.02,1,0.0,1.0,1.3,0,0,0,0.2,0.0,30.38,0.0
+Emil Krafth,Newcastle,West Ham,2022-02-19,False,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,1,0.2,0.0,33.88,0.0
+Emil Krafth,Newcastle,Brentford,2022-02-26,False,DR,90,0.0,0.05,0.0,0.02,6,2.0,1.0,3.5,0,1,0,0.4,0.0,37.0,0.14
+Emil Krafth,Newcastle,Brighton,2022-03-05,True,DR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,1,1.6,0.01,39.79,0.12
+Emil Krafth,Newcastle,Southampton,2022-03-10,False,DR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,0,1,2.0,0.01,42.3,0.11
+Emil Krafth,Newcastle,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,2.4,0.01,40.29,0.11
+Emil Krafth,Newcastle,Everton,2022-03-17,False,DR,90,0.0,0.01,0.0,0.0,5,1.0,0.0,2.1,0,1,0,2.2,0.01,42.55,0.2
+Emil Krafth,Newcastle,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,3.0,0.01,40.7,0.2
+Emil Krafth,Newcastle,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,1.8,0.0,39.0,0.2
+Emil Krafth,Newcastle,Wolverhampton,2022-04-08,True,DR,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.5,0,1,0,1.4,0.0,41.04,0.27
+Emil Krafth,Newcastle,Leeds United,2022-04-17,True,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.0,0,0,1,2.2,0.0,42.92,0.25
+Emil Krafth,Newcastle,Crystal Palace,2022-04-20,True,DR,90,0.0,0.0,0.0,0.03,7,0.0,1.0,2.4,1,1,0,2.4,0.0,44.67,0.31
+Emil Krafth,Newcastle,Norwich,2022-04-23,False,DR,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.4,0,1,0,2.8,0.0,46.29,0.36
+Emil Krafth,Newcastle,Liverpool,2022-04-30,True,DR,84,0.0,0.0,0.0,0.0,2,0.0,0.0,1.7,0,0,1,4.0,0.0,47.59,0.33
+Emil Krafth,Newcastle,Manchester City,2022-05-08,False,DR,67,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,3,4.4,0.0,48.23,0.31
+Emil Krafth,Newcastle,Arsenal,2022-05-16,True,DR,90,0.0,0.02,0.0,0.13,7,1.0,1.0,3.0,1,1,0,3.4,0.0,49.58,0.35
+Emil Krafth,Newcastle,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,4.6,0.0,48.03,0.35
+Emil Krafth,Newcastle,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,3.2,0.0,46.58,0.35
+Emil Krafth,Newcastle,Leicester City,2021-09-17,True,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,2.0,0.0,45.47,0.35
+Emil Krafth,Newcastle,Watford,,False,,0,,,,,0,,,0.0,0,0,0,1.8,0.0,44.17,0.35
+Emil Krafth,Newcastle,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,1.6,0.0,42.94,0.35
+Emil Krafth,Newcastle,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,41.78,0.35
+Emil Krafth,Newcastle,Crystal Palace,2021-10-23,False,DC,90,0.0,0.09,1.0,0.09,6,1.0,1.0,8.1,1,0,1,0.2,0.0,43.05,0.33

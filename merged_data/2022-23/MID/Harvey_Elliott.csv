@@ -1,33 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Harvey Elliott,Liverpool,Fulham,2022-08-06,False,Sub,39,0,0.0,0,0.02,1,0,1,2.1,0,0,1,False,0.0,0.0,39.0,0,0,0.61,0.52,0.03,1
-Harvey Elliott,Liverpool,Arsenal,2022-10-09,False,Sub,9,0,0.02,0,0.0,1,1,0,1.4,0,0,0,False,1.0,0.0,24.0,0,0,0.61,0.52,0.03,3
-Harvey Elliott,Liverpool,Manchester City,2022-10-16,True,AMR,72,0,0.08,0,0.2,3,2,1,4.8,0,1,0,False,1.0,0.01,40.0,0,0,0.61,0.52,0.03,1
-Harvey Elliott,Liverpool,West Ham,2022-10-19,True,Sub,33,0,0.02,0,0.0,1,1,0,1.2,0,0,0,False,1.67,0.03,38.25,0,0,0.61,0.52,0.03,2
-Harvey Elliott,Liverpool,Nottingham Forest,2022-10-22,False,MR,90,0,0.06,0,0.47,2,1,3,8.4,0,0,1,False,1.5,0.03,48.6,0,0,0.61,0.52,0.03,1
-Harvey Elliott,Liverpool,Leicester City,2022-10-29,True,MC,59,0,0.02,0,0.0,1,1,0,0.2,0,0,1,False,1.6,0.04,50.33,0,0,0.61,0.52,0.03,2
-Harvey Elliott,Liverpool,Tottenham,2022-11-06,False,MC,73,0,0.04,0,0.0,2,2,0,3.3,0,0,1,False,1.6,0.04,53.57,0,0,0.61,0.52,0.03,5
-Harvey Elliott,Liverpool,Southampton,2022-11-12,True,MC,67,0,0.0,1,0.45,5,0,1,4.1,0,0,1,True,1.8,0.04,55.25,0,0,0.61,0.52,0.03,1
-Harvey Elliott,Liverpool,Aston Villa,2022-12-26,False,Sub,23,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,2.2,0.23,51.67,0,0,0.61,0.52,0.03,2
-Harvey Elliott,Liverpool,Leeds United,2022-12-30,True,MC,85,0,0.0,0,0.02,2,0,1,2.9,0,0,1,True,2.2,0.22,55.0,0,0,0.61,0.52,0.03,0
-Harvey Elliott,Liverpool,Brentford,2023-01-02,False,MC,45,0,0.0,0,0.08,0,0,2,4.4,0,0,2,True,2.2,0.21,54.09,0,0,0.61,0.52,0.03,4
-Harvey Elliott,Liverpool,Crystal Palace,2022-08-15,True,MC,78,0,0.19,0,0.33,4,3,2,10.7,2,0,1,False,2.0,0.21,56.08,0,0,0.61,0.52,0.03,1
-Harvey Elliott,Liverpool,Brighton,2023-01-14,False,Sub,21,0,0.14,0,0.0,1,1,0,0.4,0,0,1,False,2.4,0.24,53.38,0,0,0.61,0.52,0.03,3
-Harvey Elliott,Liverpool,Chelsea,2023-01-21,True,FWL,81,0,0.0,0,0.0,3,0,0,1.1,0,1,0,True,1.6,0.07,55.36,0,0,0.61,0.52,0.03,1
-Harvey Elliott,Liverpool,Wolverhampton,2023-02-04,False,Sub,13,0,0.01,0,0.0,1,1,0,0.4,0,0,0,False,2.0,0.07,52.53,0,0,0.61,0.52,0.03,1
-Harvey Elliott,Liverpool,Everton,2023-02-13,True,Sub,1,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,1.8,0.07,49.31,0,0,0.61,0.52,0.03,1
-Harvey Elliott,Liverpool,Newcastle United,2023-02-18,False,Sub,31,0,0.03,0,0.23,1,1,2,4.9,0,0,0,False,2.0,0.07,48.24,0,0,0.61,0.52,0.03,1
-Harvey Elliott,Liverpool,Crystal Palace,2023-02-25,False,Sub,45,0,0.0,0,0.0,1,0,0,0.8,0,0,0,False,1.4,0.04,48.06,0,0,0.61,0.52,0.03,3
-Harvey Elliott,Liverpool,Wolverhampton,2023-03-01,True,MC,90,0,0.49,0,0.05,3,3,1,7.0,0,1,0,True,1.4,0.01,50.26,0,0,0.61,0.52,0.03,6
-Harvey Elliott,Liverpool,Manchester United,2023-03-05,True,MC,84,0,0.15,1,0.61,6,3,1,6.8,0,1,0,True,1.4,0.11,51.95,0,0,0.61,0.52,0.03,1
-Harvey Elliott,Liverpool,Bournemouth,2023-03-11,False,MC,45,0,0.0,0,0.0,1,0,0,0.4,0,0,1,True,2.4,0.33,51.62,0,0,0.61,0.52,0.03,2
-Harvey Elliott,Liverpool,Manchester City,2023-04-01,False,MC,69,0,0.08,0,0.09,2,1,1,2.5,0,0,3,True,2.4,0.33,52.41,0,0,0.61,0.52,0.03,2
-Harvey Elliott,Liverpool,Manchester United,2022-08-22,False,MC,90,0,0.21,0,0.13,2,4,2,6.4,0,0,2,False,2.6,0.34,54.04,0,0,0.61,0.52,0.03,2
-Harvey Elliott,Liverpool,Tottenham,2023-04-30,True,MC,62,0,0.06,0,0.06,2,1,1,2.9,0,0,1,True,2.8,0.38,54.38,0,0,0.61,0.52,0.03,1
-Harvey Elliott,Liverpool,Fulham,2023-05-03,True,Sub,6,0,0.0,0,0.05,1,0,1,1.5,0,0,0,False,2.6,0.3,52.44,0,0,0.61,0.52,0.03,1
-Harvey Elliott,Liverpool,Leeds United,2023-05-15,False,Sub,2,0,0.1,0,0.0,1,1,0,0.5,0,0,0,False,1.6,0.07,50.5,0,0,0.61,0.52,0.03,1
-Harvey Elliott,Liverpool,Aston Villa,2023-05-20,True,Sub,9,0,0.02,0,0.0,1,1,0,1.8,0,0,0,False,1.6,0.09,48.96,0,0,0.61,0.52,0.03,0
-Harvey Elliott,Liverpool,Southampton,2023-05-28,False,Sub,33,0,0.08,0,0.16,0,4,3,0.0,0,0,1,False,1.4,0.08,48.39,0,0,0.61,0.52,0.03,6
-Harvey Elliott,Liverpool,Bournemouth,2022-08-27,True,MC,45,1,0.06,0,0.97,6,1,1,7.1,0,0,0,False,1.0,0.05,48.28,0,0,0.61,0.52,0.03,2
-Harvey Elliott,Liverpool,Newcastle United,2022-08-31,True,MC,90,0,0.09,0,0.02,2,1,1,5.8,0,0,1,False,1.8,0.05,49.67,0,0,0.61,0.52,0.03,3
-Harvey Elliott,Liverpool,Everton,2022-09-03,False,MC,79,0,0.04,0,0.0,3,1,0,2.7,0,1,0,False,2.0,0.07,50.61,0,0,0.61,0.52,0.03,1
-Harvey Elliott,Liverpool,Brighton,2022-10-01,True,Sub,31,0,0.04,0,0.04,1,1,1,2.4,0,0,1,False,2.4,0.06,50.0,0,0,0.61,0.52,0.03,1
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Harvey Elliott,Liverpool,Fulham,2022-08-06,False,Sub,39,0.0,0.0,0.0,0.02,1,0.0,1.0,2.1,0,0,1,False,0.0,0.0,39.0,0.0,0.0,0.61,0.52,0.03,1,Liverpool,False,Arsenal,2.26
+Harvey Elliott,Liverpool,Arsenal,2022-10-09,False,Sub,9,0.0,0.02,0.0,0.0,1,1.0,0.0,1.4,0,0,0,False,1.0,0.0,24.0,0.0,0.0,0.61,0.52,0.03,3,Liverpool,True,Manchester City,-0.87
+Harvey Elliott,Liverpool,Manchester City,2022-10-16,True,AMR,72,0.0,0.08,0.0,0.2,3,2.0,1.0,4.8,0,1,0,False,1.0,0.01,40.0,0.0,0.0,0.61,0.52,0.03,1,Liverpool,True,West Ham,-0.03
+Harvey Elliott,Liverpool,West Ham,2022-10-19,True,Sub,33,0.0,0.02,0.0,0.0,1,1.0,0.0,1.2,0,0,0,False,1.67,0.03,38.25,0.0,0.0,0.61,0.52,0.03,2,Liverpool,False,Nottingham Forest,1.75
+Harvey Elliott,Liverpool,Nottingham Forest,2022-10-22,False,MR,90,0.0,0.06,0.0,0.47,2,1.0,3.0,8.4,0,0,1,False,1.5,0.03,48.6,0.0,0.0,0.61,0.52,0.03,1,Liverpool,True,Leicester City,-2.17
+Harvey Elliott,Liverpool,Leicester City,2022-10-29,True,MC,59,0.0,0.02,0.0,0.0,1,1.0,0.0,0.2,0,0,1,False,1.6,0.04,50.33,0.0,0.0,0.61,0.52,0.03,2,Liverpool,False,Tottenham,1.56
+Harvey Elliott,Liverpool,Tottenham,2022-11-06,False,MC,73,0.0,0.04,0.0,0.0,2,2.0,0.0,3.3,0,0,1,False,1.6,0.04,53.57,0.0,0.0,0.61,0.52,0.03,5,Liverpool,True,Southampton,-2.6
+Harvey Elliott,Liverpool,Southampton,2022-11-12,True,MC,67,0.0,0.0,1.0,0.45,5,0.0,1.0,4.1,0,0,1,True,1.8,0.04,55.25,0.0,0.0,0.61,0.52,0.03,1,Liverpool,False,Aston Villa,1.03
+Harvey Elliott,Liverpool,Aston Villa,2022-12-26,False,Sub,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,2.2,0.23,51.67,0.0,0.0,0.61,0.52,0.03,2,Liverpool,True,Leeds United,-1.23
+Harvey Elliott,Liverpool,Leeds United,2022-12-30,True,MC,85,0.0,0.0,0.0,0.02,2,0.0,1.0,2.9,0,0,1,True,2.2,0.22,55.0,0.0,0.0,0.61,0.52,0.03,0,Liverpool,False,Brentford,2.56
+Harvey Elliott,Liverpool,Brentford,2023-01-02,False,MC,45,0.0,0.0,0.0,0.08,0,0.0,2.0,4.4,0,0,2,True,2.2,0.21,54.09,0.0,0.0,0.61,0.52,0.03,4,Liverpool,True,Crystal Palace,1.28
+Harvey Elliott,Liverpool,Crystal Palace,2022-08-15,True,MC,78,0.0,0.19,0.0,0.33,4,3.0,2.0,10.7,2,0,1,False,2.0,0.21,56.08,0.0,0.0,0.61,0.52,0.03,1,Liverpool,False,Brighton,1.25
+Harvey Elliott,Liverpool,Brighton,2023-01-14,False,Sub,21,0.0,0.14,0.0,0.0,1,1.0,0.0,0.4,0,0,1,False,2.4,0.24,53.38,0.0,0.0,0.61,0.52,0.03,3,Liverpool,True,Chelsea,-1.38
+Harvey Elliott,Liverpool,Chelsea,2023-01-21,True,FWL,81,0.0,0.0,0.0,0.0,3,0.0,0.0,1.1,0,1,0,True,1.6,0.07,55.36,0.0,0.0,0.61,0.52,0.03,1,Liverpool,False,Wolverhampton,1.32
+Harvey Elliott,Liverpool,Wolverhampton,2023-02-04,False,Sub,13,0.0,0.01,0.0,0.0,1,1.0,0.0,0.4,0,0,0,False,2.0,0.07,52.53,0.0,0.0,0.61,0.52,0.03,1,Liverpool,True,Everton,-1.61
+Harvey Elliott,Liverpool,Everton,2023-02-13,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,1.8,0.07,49.31,0.0,0.0,0.61,0.52,0.03,1,Liverpool,False,Newcastle United,-0.43
+Harvey Elliott,Liverpool,Newcastle United,2023-02-18,False,Sub,31,0.0,0.03,0.0,0.23,1,1.0,2.0,4.9,0,0,0,False,2.0,0.07,48.24,0.0,0.0,0.61,0.52,0.03,1,Liverpool,False,Crystal Palace,0.35
+Harvey Elliott,Liverpool,Crystal Palace,2023-02-25,False,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,False,1.4,0.04,48.06,0.0,0.0,0.61,0.52,0.03,3,Liverpool,True,Wolverhampton,-1.46
+Harvey Elliott,Liverpool,Wolverhampton,2023-03-01,True,MC,90,0.0,0.49,0.0,0.05,3,3.0,1.0,7.0,0,1,0,True,1.4,0.01,50.26,0.0,0.0,0.61,0.52,0.03,6,Liverpool,True,Manchester United,-2.66
+Harvey Elliott,Liverpool,Manchester United,2023-03-05,True,MC,84,0.0,0.15,1.0,0.61,6,3.0,1.0,6.8,0,1,0,True,1.4,0.11,51.95,0.0,0.0,0.61,0.52,0.03,1,Liverpool,False,Bournemouth,-0.9
+Harvey Elliott,Liverpool,Bournemouth,2023-03-11,False,MC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1,True,2.4,0.33,51.62,0.0,0.0,0.61,0.52,0.03,2,Liverpool,False,Manchester City,1.11
+Harvey Elliott,Liverpool,Manchester City,2023-04-01,False,MC,69,0.0,0.08,0.0,0.09,2,1.0,1.0,2.5,0,0,3,True,2.4,0.33,52.41,0.0,0.0,0.61,0.52,0.03,0,Liverpool,False,Chelsea,0.3
+Harvey Elliott,Liverpool,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,2.6,0.34,50.13,0.0,0.0,0.61,0.52,0.03,2,Liverpool,False,Manchester United,0.18
+Harvey Elliott,Liverpool,Manchester United,2022-08-22,False,MC,90,0.0,0.21,0.0,0.13,2,4.0,2.0,6.4,0,0,2,False,2.4,0.34,51.79,0.0,0.0,0.61,0.52,0.03,0,Liverpool,True,Arsenal,-0.54
+Harvey Elliott,Liverpool,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,2.2,0.29,49.72,0.0,0.0,0.61,0.52,0.03,0,Liverpool,False,Leicester City,-2.79
+Harvey Elliott,Liverpool,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.06,47.81,0.0,0.0,0.61,0.52,0.03,0,Liverpool,True,Nottingham Forest,-1.23
+Harvey Elliott,Liverpool,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.06,46.04,0.0,0.0,0.61,0.52,0.03,0,Liverpool,False,West Ham,2.89
+Harvey Elliott,Liverpool,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.04,44.39,0.0,0.0,0.61,0.52,0.03,2,Liverpool,True,Tottenham,0.66
+Harvey Elliott,Liverpool,Tottenham,2023-04-30,True,MC,62,0.0,0.06,0.0,0.06,2,1.0,1.0,2.9,0,0,1,True,0.4,0.04,45.0,0.0,0.0,0.61,0.52,0.03,1,Liverpool,True,Fulham,0.57
+Harvey Elliott,Liverpool,Fulham,2023-05-03,True,Sub,6,0.0,0.0,0.0,0.05,1,0.0,1.0,1.5,0,0,0,False,0.4,0.01,43.7,0.0,0.0,0.61,0.52,0.03,0,Liverpool,True,Brentford,-2.96
+Harvey Elliott,Liverpool,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,42.29,0.0,0.0,0.61,0.52,0.03,1,Liverpool,False,Leeds United,0.15
+Harvey Elliott,Liverpool,Leeds United,2023-05-15,False,Sub,2,0.0,0.1,0.0,0.0,1,1.0,0.0,0.5,0,0,0,False,0.6,0.01,41.03,0.0,0.0,0.61,0.52,0.03,1,Liverpool,True,Aston Villa,-0.35
+Harvey Elliott,Liverpool,Aston Villa,2023-05-20,True,Sub,9,0.0,0.02,0.0,0.0,1,1.0,0.0,1.8,0,0,0,False,0.8,0.03,40.06,0.0,0.0,0.61,0.52,0.03,0,Liverpool,False,Southampton,2.18
+Harvey Elliott,Liverpool,Southampton,2023-05-28,False,Sub,33,0.0,0.08,0.0,0.16,0,4.0,3.0,0.0,0,0,1,False,1.0,0.03,39.85,0.0,0.0,0.61,0.52,0.03,6,Liverpool,True,Bournemouth,-4.12
+Harvey Elliott,Liverpool,Bournemouth,2022-08-27,True,MC,45,1.0,0.06,0.0,0.97,6,1.0,1.0,7.1,0,0,0,False,0.6,0.04,40.0,0.0,0.0,0.61,0.52,0.03,2,Liverpool,True,Newcastle United,-0.89
+Harvey Elliott,Liverpool,Newcastle United,2022-08-31,True,MC,90,0.0,0.09,0.0,0.02,2,1.0,1.0,5.8,0,0,1,False,1.6,0.05,41.39,0.0,0.0,0.61,0.52,0.03,3,Liverpool,False,Everton,1.81
+Harvey Elliott,Liverpool,Everton,2022-09-03,False,MC,79,0.0,0.04,0.0,0.0,3,1.0,0.0,2.7,0,1,0,False,2.0,0.07,42.41,0.0,0.0,0.61,0.52,0.03,1,Liverpool,True,Brighton,1.7
+Harvey Elliott,Liverpool,Brighton,2022-10-01,True,Sub,31,0.0,0.04,0.0,0.04,1,1.0,1.0,2.4,0,0,1,False,2.4,0.06,42.11,0.0,0.0,0.61,0.52,0.03,1,Liverpool,False,Chelsea,0.3

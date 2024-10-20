@@ -1,10 +1,38 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Tom Davies,Sheffield Utd,Aston Villa,2024-02-03,True,Sub,18,0,0.05,0,0.0,1,1,0,1.1,0,0,0,False,0.0,0.0,18.0,0,0,1.31,0.13,0.04,1
-Tom Davies,Sheffield Utd,Luton,2024-02-10,False,Sub,30,0,0.0,0,0.0,1,0,0,1.2,0,0,0,False,1.0,0.05,24.0,0,0,1.31,0.13,0.04,0
-Tom Davies,Sheffield Utd,Brighton,2024-02-18,True,Sub,11,0,0.0,0,0.0,0,0,0,0.4,0,0,1,False,1.0,0.02,19.67,0,0,1.31,0.13,0.04,1
-Tom Davies,Sheffield Utd,Wolverhampton,2024-02-25,False,Sub,8,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,0.67,0.02,16.75,0,0,1.31,0.13,0.04,1
-Tom Davies,Sheffield Utd,Arsenal,2024-03-04,True,MC,45,0,0.0,0,0.0,1,0,0,0.0,0,0,5,True,0.75,0.01,22.4,0,0,1.31,0.13,0.04,1
-Tom Davies,Sheffield Utd,Bournemouth,2024-03-09,False,MC,45,0,0.12,0,0.0,1,1,0,3.6,0,0,0,True,0.8,0.01,26.17,0,0,1.31,0.13,0.04,0
-Tom Davies,Sheffield Utd,Tottenham,2023-09-16,False,Sub,9,0,0.0,0,0.0,0,0,0,0.2,0,0,2,False,0.8,0.02,23.71,0,0,1.31,0.13,0.04,1
-Tom Davies,Sheffield Utd,Newcastle United,2023-09-24,True,Sub,28,0,0.08,0,0.0,1,2,0,0.9,0,0,3,False,0.6,0.02,24.25,0,0,1.31,0.13,0.04,1
-Tom Davies,Sheffield Utd,West Ham,2023-09-30,False,Sub,20,0,0.0,0,0.03,1,0,1,1.7,0,0,0,False,0.8,0.04,23.78,0,0,1.31,0.13,0.04,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Tom Davies,Sheffield Utd,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,True,Wolverhampton,
+Tom Davies,Sheffield Utd,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,False,Brighton,
+Tom Davies,Sheffield Utd,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,True,Bournemouth,
+Tom Davies,Sheffield Utd,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,False,Burnley,
+Tom Davies,Sheffield Utd,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,True,Liverpool,
+Tom Davies,Sheffield Utd,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,True,Brentford,
+Tom Davies,Sheffield Utd,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,False,Chelsea,
+Tom Davies,Sheffield Utd,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,False,Aston Villa,
+Tom Davies,Sheffield Utd,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,True,Luton,
+Tom Davies,Sheffield Utd,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,False,Nottingham Forest,
+Tom Davies,Sheffield Utd,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,False,Manchester City,
+Tom Davies,Sheffield Utd,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,True,West Ham,
+Tom Davies,Sheffield Utd,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,False,Crystal Palace,
+Tom Davies,Sheffield Utd,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,1.31,0.13,0.04,1.0,Sheffield Utd,True,Aston Villa,
+Tom Davies,Sheffield Utd,Aston Villa,2024-02-03,True,Sub,18,0.0,0.05,0.0,0.0,1,1.0,0.0,1.1,0,0,0,False,0.0,0.0,1.2,0.0,0.0,1.31,0.13,0.04,1.0,Sheffield Utd,False,Luton,
+Tom Davies,Sheffield Utd,Luton,2024-02-10,False,Sub,30,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,0,False,0.2,0.01,3.0,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,True,Brighton,
+Tom Davies,Sheffield Utd,Brighton,2024-02-18,True,Sub,11,0.0,0.0,0.0,0.0,0,0.0,0.0,0.4,0,0,1,False,0.4,0.01,3.47,0.0,0.0,1.31,0.13,0.04,1.0,Sheffield Utd,False,Wolverhampton,
+Tom Davies,Sheffield Utd,Wolverhampton,2024-02-25,False,Sub,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.4,0.01,3.72,0.0,0.0,1.31,0.13,0.04,1.0,Sheffield Utd,True,Arsenal,
+Tom Davies,Sheffield Utd,Arsenal,2024-03-04,True,MC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,5,True,0.6,0.01,5.89,0.0,0.0,1.31,0.13,0.04,1.0,Sheffield Utd,False,Bournemouth,
+Tom Davies,Sheffield Utd,Bournemouth,2024-03-09,False,MC,45,0.0,0.12,0.0,0.0,1,1.0,0.0,3.6,0,0,0,True,0.8,0.01,7.85,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,True,Manchester City,
+Tom Davies,Sheffield Utd,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.02,7.48,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,True,Fulham,
+Tom Davies,Sheffield Utd,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.02,7.14,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,False,Liverpool,
+Tom Davies,Sheffield Utd,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.02,6.83,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,True,Chelsea,
+Tom Davies,Sheffield Utd,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.02,6.54,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,False,Brentford,
+Tom Davies,Sheffield Utd,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.02,6.28,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,True,Burnley,
+Tom Davies,Sheffield Utd,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.04,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,False,Manchester United,
+Tom Davies,Sheffield Utd,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.81,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,False,Newcastle United,
+Tom Davies,Sheffield Utd,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.61,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,True,Nottingham Forest,
+Tom Davies,Sheffield Utd,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.41,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,False,Everton,
+Tom Davies,Sheffield Utd,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.23,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,True,Tottenham,
+Tom Davies,Sheffield Utd,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.06,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,True,Everton,
+Tom Davies,Sheffield Utd,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.91,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,False,Tottenham,
+Tom Davies,Sheffield Utd,Tottenham,2023-09-16,False,Sub,9,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,0,2,False,0.0,0.0,5.03,0.0,0.0,1.31,0.13,0.04,1.0,Sheffield Utd,True,Newcastle United,
+Tom Davies,Sheffield Utd,Newcastle United,2023-09-24,True,Sub,28,0.0,0.08,0.0,0.0,1,2.0,0.0,0.9,0,0,3,False,0.0,0.0,5.71,0.0,0.0,1.31,0.13,0.04,1.0,Sheffield Utd,False,West Ham,
+Tom Davies,Sheffield Utd,West Ham,2023-09-30,False,Sub,20,0.0,0.0,0.0,0.03,1,0.0,1.0,1.7,0,0,0,False,0.2,0.02,6.11,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,False,Fulham,
+Tom Davies,Sheffield Utd,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.02,5.94,0.0,0.0,1.31,0.13,0.04,0.0,Sheffield Utd,True,Manchester United,
+Tom Davies,Sheffield Utd,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.02,5.78,0.0,0.0,1.31,0.13,0.04,,,,,

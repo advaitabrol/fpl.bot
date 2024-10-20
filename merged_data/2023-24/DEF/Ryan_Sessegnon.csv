@@ -1,1 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Ryan Sessegnon,Spurs,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,False,Crystal Palace,0.96
+Ryan Sessegnon,Spurs,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,True,Chelsea,2.8
+Ryan Sessegnon,Spurs,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,False,Wolverhampton,0.79
+Ryan Sessegnon,Spurs,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,True,Aston Villa,1.75
+Ryan Sessegnon,Spurs,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,False,Manchester City,-0.2
+Ryan Sessegnon,Spurs,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,True,West Ham,0.26
+Ryan Sessegnon,Spurs,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,True,Newcastle United,-2.91
+Ryan Sessegnon,Spurs,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,False,Nottingham Forest,-3.55
+Ryan Sessegnon,Spurs,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,True,Everton,-2.75
+Ryan Sessegnon,Spurs,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,False,Brighton,0.26
+Ryan Sessegnon,Spurs,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,True,Manchester United,-0.02
+Ryan Sessegnon,Spurs,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,True,Bournemouth,-1.78
+Ryan Sessegnon,Spurs,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,False,Manchester United,2.48
+Ryan Sessegnon,Spurs,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,True,Brentford,-1.31
+Ryan Sessegnon,Spurs,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,False,Everton,0.55
+Ryan Sessegnon,Spurs,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,True,Brighton,-0.2
+Ryan Sessegnon,Spurs,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,True,Wolverhampton,2.72
+Ryan Sessegnon,Spurs,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,True,Crystal Palace,-2.03
+Ryan Sessegnon,Spurs,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,False,Aston Villa,-2.16
+Ryan Sessegnon,Spurs,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,False,Fulham,1.2
+Ryan Sessegnon,Spurs,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,False,Bournemouth,-2.08
+Ryan Sessegnon,Spurs,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,True,Luton,-0.34
+Ryan Sessegnon,Spurs,Luton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,False,West Ham,2.47
+Ryan Sessegnon,Spurs,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,True,Nottingham Forest,-0.6
+Ryan Sessegnon,Spurs,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,False,Newcastle United,4.3
+Ryan Sessegnon,Spurs,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,True,Arsenal,-0.34
+Ryan Sessegnon,Spurs,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,False,Chelsea,1.82
+Ryan Sessegnon,Spurs,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,False,Liverpool,0.68
+Ryan Sessegnon,Spurs,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,True,Burnley,-1.38
+Ryan Sessegnon,Spurs,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,True,Manchester City,-0.27
+Ryan Sessegnon,Spurs,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,False,Sheffield,-2.16
+Ryan Sessegnon,Spurs,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,False,Burnley,0.34
+Ryan Sessegnon,Spurs,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,True,Sheffield,-0.02
+Ryan Sessegnon,Spurs,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,False,Arsenal,1.92
+Ryan Sessegnon,Spurs,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,True,Liverpool,-0.19
+Ryan Sessegnon,Spurs,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,False,Luton,-1.24
+Ryan Sessegnon,Spurs,Luton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,0.0,Spurs,True,Fulham,-2.03
+Ryan Sessegnon,Spurs,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,2.12,1.04,3.27,0.14,,,,,

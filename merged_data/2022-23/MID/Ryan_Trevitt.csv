@@ -1,7 +1,32 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Ryan Trevitt,Brentford,Newcastle United,2022-10-08,False,DR,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0
-Ryan Trevitt,Brentford,Chelsea,2022-10-19,True,DL,0,0,0.0,0,0.1,0,0,1,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0
-Ryan Trevitt,Brentford,Wolverhampton,2022-10-29,True,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0
-Ryan Trevitt,Brentford,Nottingham Forest,2022-11-05,False,DR,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0
-Ryan Trevitt,Brentford,Arsenal,2023-02-11,False,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0
-Ryan Trevitt,Brentford,Everton,2023-03-11,False,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Ryan Trevitt,Brentford,Newcastle United,2022-10-08,False,DR,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,True,Brighton,-0.72
+Ryan Trevitt,Brentford,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,True,Chelsea,-0.25
+Ryan Trevitt,Brentford,Chelsea,2022-10-19,True,DL,0,0.0,0.0,0.0,0.1,0,0.0,1.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,False,Aston Villa,2.08
+Ryan Trevitt,Brentford,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,True,Wolverhampton,2.5
+Ryan Trevitt,Brentford,Wolverhampton,2022-10-29,True,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,False,Nottingham Forest,1.35
+Ryan Trevitt,Brentford,Nottingham Forest,2022-11-05,False,DR,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,False,Manchester City,-0.6
+Ryan Trevitt,Brentford,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,True,Tottenham,-0.38
+Ryan Trevitt,Brentford,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,False,West Ham,-0.27
+Ryan Trevitt,Brentford,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,True,Liverpool,-0.79
+Ryan Trevitt,Brentford,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,True,Bournemouth,-0.5
+Ryan Trevitt,Brentford,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,False,Leicester City,-0.02
+Ryan Trevitt,Brentford,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,True,Southampton,-4.06
+Ryan Trevitt,Brentford,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,False,Arsenal,0.3
+Ryan Trevitt,Brentford,Arsenal,2023-02-11,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,True,Crystal Palace,1.05
+Ryan Trevitt,Brentford,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,True,Fulham,0.44
+Ryan Trevitt,Brentford,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,False,Everton,2.1
+Ryan Trevitt,Brentford,Everton,2023-03-11,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,False,Southampton,0.93
+Ryan Trevitt,Brentford,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,True,Leeds United,2.23
+Ryan Trevitt,Brentford,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,False,Brighton,1.2
+Ryan Trevitt,Brentford,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,False,Manchester United,1.62
+Ryan Trevitt,Brentford,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,True,Newcastle United,2.43
+Ryan Trevitt,Brentford,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,False,Wolverhampton,-1.6
+Ryan Trevitt,Brentford,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,True,Aston Villa,0.51
+Ryan Trevitt,Brentford,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,False,Chelsea,-4.41
+Ryan Trevitt,Brentford,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,True,Nottingham Forest,-0.34
+Ryan Trevitt,Brentford,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,False,Liverpool,3.48
+Ryan Trevitt,Brentford,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,True,West Ham,-1.97
+Ryan Trevitt,Brentford,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,False,Tottenham,2.11
+Ryan Trevitt,Brentford,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,True,Manchester City,1.02
+Ryan Trevitt,Brentford,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,False,Bournemouth,0.55
+Ryan Trevitt,Brentford,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Brentford,True,Tottenham,-0.38

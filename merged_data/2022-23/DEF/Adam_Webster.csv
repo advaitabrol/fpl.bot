@@ -1,28 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Adam Webster,Brighton,Manchester United,2022-08-07,False,DC,90,0,0.03,0,0.0,2,1,0,3.9,0,0,1,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,2
-Adam Webster,Brighton,Tottenham,2022-10-08,True,DC,90,0,0.03,0,0.33,2,1,1,4.1,0,0,1,0.0,False,2.0,0.03,90.0,0.0,0,0,0,0,1
-Adam Webster,Brighton,Brentford,2022-10-14,False,DC,90,0,0.0,0,0.0,1,0,0,1.1,0,0,2,0.0,False,2.0,0.03,90.0,0.0,0,0,0,0,6
-Adam Webster,Brighton,Nottingham Forest,2022-10-18,True,DC,90,0,0.11,0,0.0,6,1,0,1.9,0,1,0,0.0,False,1.67,0.02,90.0,0.25,0,0,0,0,1
-Adam Webster,Brighton,Manchester City,2022-10-22,False,DC,90,0,0.0,0,0.0,1,0,0,2.3,0,0,3,0.0,False,2.75,0.04,90.0,0.2,0,0,0,0,2
-Adam Webster,Brighton,Chelsea,2022-10-29,True,DC,90,0,0.14,0,0.0,2,2,0,2.6,0,0,1,0.0,False,2.4,0.03,90.0,0.17,0,0,0,0,1
-Adam Webster,Brighton,Wolverhampton,2022-11-05,False,DC,90,0,0.14,0,0.0,1,2,0,2.2,0,0,2,0.0,False,2.4,0.06,90.0,0.14,0,0,0,0,6
-Adam Webster,Brighton,Newcastle United,2022-08-13,True,DC,90,0,0.0,0,0.0,6,0,0,1.3,0,1,0,0.0,False,2.2,0.08,90.0,0.25,0,0,0,0,1
-Adam Webster,Brighton,Liverpool,2023-01-14,True,Sub,1,0,0.03,0,0.0,1,1,0,0.5,0,0,0,0.02,False,3.2,0.08,80.11,0.25,0,0,0,0,1
-Adam Webster,Brighton,Bournemouth,2023-02-04,True,Sub,1,0,0.0,0,0.0,1,0,0,0.1,0,0,0,0.0,False,2.2,0.06,72.2,0.25,0,0,0,0,2
-Adam Webster,Brighton,Crystal Palace,2023-02-11,False,DC,75,0,0.36,0,0.0,2,1,0,3.1,0,0,1,0.84,True,2.2,0.06,72.45,0.22,0,0,0,0,6
-Adam Webster,Brighton,Fulham,2023-02-18,True,DC,72,0,0.09,0,0.03,6,1,1,2.5,0,1,0,0.22,True,2.2,0.11,72.42,0.3,0,0,0,0,6
-Adam Webster,Brighton,West Ham,2023-03-04,True,DC,90,0,0.0,0,0.0,6,0,0,1.7,0,1,0,0.38,True,3.2,0.1,73.77,0.36,0,0,0,0,1
-Adam Webster,Brighton,Leicester City,2023-03-11,False,DC,87,0,0.0,0,0.0,1,0,0,2.7,0,0,2,1.54,True,3.2,0.1,74.71,0.33,0,0,0,0,1
-Adam Webster,Brighton,Crystal Palace,2023-03-15,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.05,False,3.2,0.09,69.8,0.33,0,0,0,0,9
-Adam Webster,Brighton,Bournemouth,2023-04-04,False,DC,90,0,0.0,0,0.04,9,0,1,3.5,3,1,0,1.92,True,3.2,0.09,71.06,0.38,0,0,0,0,6
-Adam Webster,Brighton,West Ham,2022-08-21,False,DC,90,0,0.05,0,0.0,6,1,0,1.5,0,1,0,0.0,False,4.6,0.02,72.18,0.43,0,0,0,0,1
-Adam Webster,Brighton,Tottenham,2023-04-08,False,Sub,21,0,0.0,0,0.0,1,0,0,1.5,0,0,1,0.14,False,4.6,0.01,69.33,0.43,0,0,0,0,2
-Adam Webster,Brighton,Chelsea,2023-04-15,False,DC,86,0,0.02,0,0.0,2,1,0,1.4,0,0,1,0.58,True,3.6,0.01,70.21,0.4,0,0,0,0,6
-Adam Webster,Brighton,Wolverhampton,2023-04-29,True,DC,90,0,0.0,0,0.0,6,0,0,2.3,0,1,0,0.7,True,3.8,0.01,71.2,0.44,0,0,0,0,5
-Adam Webster,Brighton,Manchester United,2023-05-04,True,DC,90,0,0.07,0,0.11,5,2,2,6.2,0,1,0,1.38,True,4.8,0.01,72.1,0.47,0,0,0,0,0
-Adam Webster,Brighton,Everton,2023-05-08,True,DC,45,0,0.0,0,0.0,0,0,0,2.8,0,0,3,1.19,True,4.0,0.03,70.86,0.47,0,0,0,0,1
-Adam Webster,Brighton,Aston Villa,2023-05-28,False,DC,64,0,0.0,0,0.0,1,0,0,0.0,0,0,2,2.3,True,2.8,0.02,70.57,0.44,0,0,0,0,5
-Adam Webster,Brighton,Leicester City,2022-08-27,True,DC,90,0,0.45,0,0.0,5,3,0,3.0,0,1,0,0.0,False,2.8,0.02,71.38,0.47,0,0,0,0,1
-Adam Webster,Brighton,Fulham,2022-08-30,False,DC,90,0,0.02,0,0.0,1,1,0,1.7,0,0,2,0.0,False,3.4,0.1,72.12,0.45,0,0,0,0,1
-Adam Webster,Brighton,Leeds United,2022-09-04,True,DC,90,0,0.0,0,0.02,1,0,1,2.7,0,0,2,0.0,False,2.4,0.11,72.81,0.43,0,0,0,0,-1
-Adam Webster,Brighton,Liverpool,2022-10-01,False,DC,90,0,0.0,0,0.0,-1,0,0,1.8,0,0,3,0.0,False,1.6,0.09,73.44,0.41,0,0,0,0,2
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Adam Webster,Brighton,Manchester United,2022-08-07,False,DC,90,0.0,0.03,0.0,0.0,2,1.0,0.0,3.9,0,0,1,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,2,Brighton,True,Tottenham,-0.36
+Adam Webster,Brighton,Tottenham,2022-10-08,True,DC,90,0.0,0.03,0.0,0.33,2,1.0,1.0,4.1,0,0,1,0.0,False,2.0,0.03,90.0,0.0,0,0,0,0,1,Brighton,False,Brentford,0.34
+Adam Webster,Brighton,Brentford,2022-10-14,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,2,0.0,False,2.0,0.03,90.0,0.0,0,0,0,0,6,Brighton,True,Nottingham Forest,-0.8
+Adam Webster,Brighton,Nottingham Forest,2022-10-18,True,DC,90,0.0,0.11,0.0,0.0,6,1.0,0.0,1.9,0,1,0,0.0,False,1.67,0.02,90.0,0.25,0,0,0,0,1,Brighton,False,Manchester City,1.12
+Adam Webster,Brighton,Manchester City,2022-10-22,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.3,0,0,3,0.0,False,2.75,0.04,90.0,0.2,0,0,0,0,2,Brighton,True,Chelsea,-2.26
+Adam Webster,Brighton,Chelsea,2022-10-29,True,DC,90,0.0,0.14,0.0,0.0,2,2.0,0.0,2.6,0,0,1,0.0,False,2.4,0.03,90.0,0.17,0,0,0,0,1,Brighton,False,Wolverhampton,-2.88
+Adam Webster,Brighton,Wolverhampton,2022-11-05,False,DC,90,0.0,0.14,0.0,0.0,1,2.0,0.0,2.2,0,0,2,0.0,False,2.4,0.06,90.0,0.14,0,0,0,0,0,Brighton,True,Aston Villa,0.69
+Adam Webster,Brighton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.08,78.75,0.14,0,0,0,0,0,Brighton,False,Southampton,-0.82
+Adam Webster,Brighton,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.08,70.0,0.14,0,0,0,0,0,Brighton,True,Arsenal,2.84
+Adam Webster,Brighton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.06,63.0,0.14,0,0,0,0,0,Brighton,False,Everton,-1.62
+Adam Webster,Brighton,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.06,57.27,0.14,0,0,0,0,6,Brighton,True,Newcastle United,-0.89
+Adam Webster,Brighton,Newcastle United,2022-08-13,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.3,0,1,0,0.0,False,0.2,0.03,60.0,0.25,0,0,0,0,1,Brighton,True,Liverpool,-1.1
+Adam Webster,Brighton,Liverpool,2023-01-14,True,Sub,1,0.0,0.03,0.0,0.0,1,1.0,0.0,0.5,0,0,0,0.02,False,1.2,0.0,55.46,0.25,0,0,0,0,0,Brighton,False,Leeds United,0.58
+Adam Webster,Brighton,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.01,51.5,0.25,0,0,0,0,1,Brighton,True,Bournemouth,-1.36
+Adam Webster,Brighton,Bournemouth,2023-02-04,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,False,1.4,0.01,48.13,0.25,0,0,0,0,2,Brighton,False,Crystal Palace,0.44
+Adam Webster,Brighton,Crystal Palace,2023-02-11,False,DC,75,0.0,0.36,0.0,0.0,2,1.0,0.0,3.1,0,0,1,0.84,True,1.6,0.01,49.81,0.22,0,0,0,0,6,Brighton,True,Fulham,-0.16
+Adam Webster,Brighton,Fulham,2023-02-18,True,DC,72,0.0,0.09,0.0,0.03,6,1.0,1.0,2.5,0,1,0,0.22,True,2.0,0.08,51.12,0.3,0,0,0,0,6,Brighton,True,West Ham,-1.35
+Adam Webster,Brighton,West Ham,2023-03-04,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.7,0,1,0,0.38,True,2.0,0.1,53.28,0.36,0,0,0,0,1,Brighton,False,Leicester City,-1.23
+Adam Webster,Brighton,Leicester City,2023-03-11,False,DC,87,0.0,0.0,0.0,0.0,1,0.0,0.0,2.7,0,0,2,1.54,True,3.0,0.09,55.05,0.33,0,0,0,0,1,Brighton,True,Crystal Palace,-1.88
+Adam Webster,Brighton,Crystal Palace,2023-03-15,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.05,False,3.2,0.09,52.35,0.33,0,0,0,0,0,Brighton,True,Brentford,-1.45
+Adam Webster,Brighton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.2,0.09,49.86,0.33,0,0,0,0,9,Brighton,False,Bournemouth,0.25
+Adam Webster,Brighton,Bournemouth,2023-04-04,False,DC,90,0.0,0.0,0.0,0.04,9,0.0,1.0,3.5,3,1,0,1.92,True,2.8,0.02,51.68,0.38,0,0,0,0,6,Brighton,False,West Ham,-0.99
+Adam Webster,Brighton,West Ham,2022-08-21,False,DC,90,0.0,0.05,0.0,0.0,6,1.0,0.0,1.5,0,1,0,0.0,False,3.4,0.0,53.35,0.43,0,0,0,0,1,Brighton,False,Tottenham,-0.37
+Adam Webster,Brighton,Tottenham,2023-04-08,False,Sub,21,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,1,0.14,False,3.4,0.01,52.0,0.43,0,0,0,0,2,Brighton,False,Chelsea,-0.59
+Adam Webster,Brighton,Chelsea,2023-04-15,False,DC,86,0.0,0.02,0.0,0.0,2,1.0,0.0,1.4,0,0,1,0.58,True,3.4,0.01,53.36,0.4,0,0,0,0,0,Brighton,False,Nottingham Forest,0.99
+Adam Webster,Brighton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.6,0.01,51.31,0.4,0,0,0,0,6,Brighton,True,Wolverhampton,-1.51
+Adam Webster,Brighton,Wolverhampton,2023-04-29,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.3,0,1,0,0.7,True,3.6,0.01,52.74,0.44,0,0,0,0,5,Brighton,True,Manchester United,-2.4
+Adam Webster,Brighton,Manchester United,2023-05-04,True,DC,90,0.0,0.07,0.0,0.11,5,2.0,2.0,6.2,0,1,0,1.38,True,3.0,0.01,54.07,0.47,0,0,0,0,0,Brighton,True,Everton,2.52
+Adam Webster,Brighton,Everton,2023-05-08,True,DC,45,0.0,0.0,0.0,0.0,0,0.0,0.0,2.8,0,0,3,1.19,True,2.8,0.02,53.76,0.47,0,0,0,0,0,Brighton,False,Arsenal,-1.78
+Adam Webster,Brighton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.6,0.02,51.97,0.47,0,0,0,0,0,Brighton,False,Newcastle United,1.9
+Adam Webster,Brighton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.01,50.29,0.47,0,0,0,0,0,Brighton,True,Southampton,-1.51
+Adam Webster,Brighton,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.01,48.72,0.47,0,0,0,0,0,Brighton,True,Manchester City,2.39
+Adam Webster,Brighton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.01,47.24,0.47,0,0,0,0,1,Brighton,False,Aston Villa,2.71
+Adam Webster,Brighton,Aston Villa,2023-05-28,False,DC,64,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,2,2.3,True,0.0,0.0,47.74,0.44,0,0,0,0,5,Brighton,True,Leicester City,-1.84
+Adam Webster,Brighton,Leicester City,2022-08-27,True,DC,90,0.0,0.45,0.0,0.0,5,3.0,0.0,3.0,0,1,0,0.0,False,0.2,0.0,48.94,0.47,0,0,0,0,1,Brighton,False,Fulham,1.99
+Adam Webster,Brighton,Fulham,2022-08-30,False,DC,90,0.0,0.02,0.0,0.0,1,1.0,0.0,1.7,0,0,2,0.0,False,1.2,0.09,50.08,0.45,0,0,0,0,1,Brighton,True,Leeds United,-2.88
+Adam Webster,Brighton,Leeds United,2022-09-04,True,DC,90,0.0,0.0,0.0,0.02,1,0.0,1.0,2.7,0,0,2,0.0,False,1.4,0.09,51.16,0.43,0,0,0,0,-1,Brighton,False,Liverpool,-1.55
+Adam Webster,Brighton,Liverpool,2022-10-01,False,DC,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,1.8,0,0,3,0.0,False,1.6,0.09,52.18,0.41,0,0,0,0,0,Brighton,True,Luton,-3.81

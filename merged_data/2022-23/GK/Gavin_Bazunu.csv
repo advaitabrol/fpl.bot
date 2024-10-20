@@ -1,33 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Gavin Bazunu,Southampton,Tottenham,2022-08-06,False,90,4,0.0,5,0,1,0,False,0.0,False,0.0,0.0,0,0,0,1
-Gavin Bazunu,Southampton,Manchester City,2022-10-08,False,90,4,0.0,4,0,1,0,False,0.0,False,1.0,0.0,0,0,0,3
-Gavin Bazunu,Southampton,West Ham,2022-10-16,True,90,1,0.0,3,0,3,0,False,0.0,False,1.0,0.0,0,0,0,7
-Gavin Bazunu,Southampton,Bournemouth,2022-10-19,False,90,0,0.0,3,0,7,0,True,0.0,False,1.67,0.25,0,0,0,2
-Gavin Bazunu,Southampton,Arsenal,2022-10-23,True,90,1,0.0,2,0,2,0,False,0.0,False,3.0,0.2,0,0,0,2
-Gavin Bazunu,Southampton,Crystal Palace,2022-10-29,False,90,1,0.0,2,0,2,0,False,0.0,False,2.8,0.17,0,0,0,0
-Gavin Bazunu,Southampton,Newcastle United,2022-11-06,True,90,4,0.0,0,0,0,0,False,0.0,False,3.0,0.14,0,0,0,2
-Gavin Bazunu,Southampton,Liverpool,2022-11-12,False,90,3,1.99,4,0,2,0,False,0.0,True,2.8,0.12,0,0,0,1
-Gavin Bazunu,Southampton,Brighton,2022-12-26,True,90,3,0.64,2,0,1,0,False,0.0,True,2.6,0.11,0,0,0,7
-Gavin Bazunu,Southampton,Fulham,2022-12-31,False,90,2,1.53,1,1,7,1,False,0.0,True,1.4,0.1,0,0,0,2
-Gavin Bazunu,Southampton,Nottingham Forest,2023-01-04,True,90,1,1.37,0,0,2,0,False,0.0,True,2.4,0.09,0,0,0,2
-Gavin Bazunu,Southampton,Leicester City,2022-08-13,True,90,2,0.0,3,0,2,0,False,0.0,False,2.4,0.08,0,0,0,3
-Gavin Bazunu,Southampton,Everton,2023-01-14,False,90,1,1.41,3,0,3,0,False,0.0,True,2.8,0.08,0,0,0,3
-Gavin Bazunu,Southampton,Aston Villa,2023-01-21,True,90,1,1.42,4,0,3,0,False,0.0,True,3.0,0.07,0,0,0,1
-Gavin Bazunu,Southampton,Brentford,2023-02-04,False,90,3,2.13,0,0,1,0,False,0.0,True,3.4,0.07,0,0,0,1
-Gavin Bazunu,Southampton,Wolverhampton,2023-02-11,True,90,2,0.78,0,0,1,0,False,0.0,True,2.2,0.06,0,0,0,9
-Gavin Bazunu,Southampton,Chelsea,2023-02-18,False,90,0,1.55,4,0,9,2,True,0.0,True,2.0,0.12,0,0,0,3
-Gavin Bazunu,Southampton,Leicester City,2023-02-25,False,90,1,0.86,3,0,3,0,False,0.0,True,3.4,0.11,0,0,0,6
-Gavin Bazunu,Southampton,Leeds United,2023-03-04,True,90,0,1.9,0,0,6,0,True,0.0,True,3.4,0.16,0,0,0,7
-Gavin Bazunu,Southampton,Manchester United,2023-03-12,False,90,0,0.84,4,0,7,0,True,0.0,True,4.0,0.2,0,0,0,1
-Gavin Bazunu,Southampton,Brentford,2023-03-15,True,90,2,2.01,2,0,1,0,False,0.0,True,5.2,0.19,0,0,0,1
-Gavin Bazunu,Southampton,Tottenham,2023-03-18,True,90,3,2.26,0,0,1,0,False,0.0,True,5.2,0.18,0,0,0,2
-Gavin Bazunu,Southampton,West Ham,2023-04-02,False,90,1,1.36,2,0,2,0,False,0.0,True,3.6,0.17,0,0,0,2
-Gavin Bazunu,Southampton,Leeds United,2022-08-20,False,90,1,0.0,0,0,2,0,False,0.0,False,3.4,0.17,0,0,0,1
-Gavin Bazunu,Southampton,Manchester City,2023-04-08,True,90,4,2.64,4,0,1,0,False,0.0,True,2.6,0.16,0,0,0,1
-Gavin Bazunu,Southampton,Crystal Palace,2023-04-15,True,90,2,0.81,0,0,1,0,False,0.0,True,1.4,0.15,0,0,0,1
-Gavin Bazunu,Southampton,Arsenal,2023-04-21,False,90,3,2.81,2,0,1,0,False,0.0,True,1.4,0.15,0,0,0,3
-Gavin Bazunu,Southampton,Manchester United,2022-08-27,True,90,1,0.0,3,0,3,0,False,0.04,False,1.4,0.14,0,0,0,3
-Gavin Bazunu,Southampton,Chelsea,2022-08-30,True,90,1,0.0,3,0,3,0,False,0.0,False,1.6,0.14,0,0,0,2
-Gavin Bazunu,Southampton,Wolverhampton,2022-09-03,False,90,1,0.0,1,0,2,0,False,0.0,False,1.8,0.13,0,0,0,2
-Gavin Bazunu,Southampton,Aston Villa,2022-09-16,False,90,1,0.0,2,0,2,0,False,0.0,False,2.0,0.13,0,0,0,2
-Gavin Bazunu,Southampton,Everton,2022-10-01,True,90,2,0.0,3,0,2,0,False,0.0,False,2.2,0.12,0,0,0,
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty,saves_per_game,last_season_total_saves
+Gavin Bazunu,Southampton,Tottenham,2022-08-06,False,90,4,0.0,5,0,1,0,False,0.0,False,0.0,0.0,0,0,0,1.0,Southampton,False,Manchester City,3.44,5.0,0
+Gavin Bazunu,Southampton,Manchester City,2022-10-08,False,90,4,0.0,4,0,1,0,False,0.0,False,1.0,0.0,0,0,0,3.0,Southampton,True,West Ham,-0.03,4.5,0
+Gavin Bazunu,Southampton,West Ham,2022-10-16,True,90,1,0.0,3,0,3,0,False,0.0,False,1.0,0.0,0,0,0,7.0,Southampton,False,Bournemouth,-0.76,4.0,0
+Gavin Bazunu,Southampton,Bournemouth,2022-10-19,False,90,0,0.0,3,0,7,0,True,0.0,False,1.67,0.25,0,0,0,2.0,Southampton,True,Arsenal,-1.15,3.75,0
+Gavin Bazunu,Southampton,Arsenal,2022-10-23,True,90,1,0.0,2,0,2,0,False,0.0,False,3.0,0.2,0,0,0,2.0,Southampton,False,Crystal Palace,1.04,3.4,0
+Gavin Bazunu,Southampton,Crystal Palace,2022-10-29,False,90,1,0.0,2,0,2,0,False,0.0,False,2.8,0.17,0,0,0,0.0,Southampton,True,Newcastle United,3.01,3.17,0
+Gavin Bazunu,Southampton,Newcastle United,2022-11-06,True,90,4,0.0,0,0,0,0,False,0.0,False,3.0,0.14,0,0,0,2.0,Southampton,False,Liverpool,4.09,2.71,0
+Gavin Bazunu,Southampton,Liverpool,2022-11-12,False,90,3,1.99,4,0,2,0,False,0.0,True,2.8,0.12,0,0,0,1.0,Southampton,True,Brighton,0.98,2.88,0
+Gavin Bazunu,Southampton,Brighton,2022-12-26,True,90,3,0.64,2,0,1,0,False,0.0,True,2.6,0.11,0,0,0,7.0,Southampton,False,Fulham,1.81,2.78,0
+Gavin Bazunu,Southampton,Fulham,2022-12-31,False,90,2,1.53,1,1,7,1,False,0.0,True,1.4,0.1,0,0,0,2.0,Southampton,True,Nottingham Forest,3.03,2.6,0
+Gavin Bazunu,Southampton,Nottingham Forest,2023-01-04,True,90,1,1.37,0,0,2,0,False,0.0,True,2.4,0.09,0,0,0,2.0,Southampton,True,Leicester City,-1.16,2.36,0
+Gavin Bazunu,Southampton,Leicester City,2022-08-13,True,90,2,0.0,3,0,2,0,False,0.0,False,2.4,0.08,0,0,0,3.0,Southampton,False,Everton,2.07,2.42,0
+Gavin Bazunu,Southampton,Everton,2023-01-14,False,90,1,1.41,3,0,3,0,False,0.0,True,2.8,0.08,0,0,0,3.0,Southampton,True,Aston Villa,0.29,2.46,0
+Gavin Bazunu,Southampton,Aston Villa,2023-01-21,True,90,1,1.42,4,0,3,0,False,0.0,True,3.0,0.07,0,0,0,1.0,Southampton,False,Brentford,4.79,2.57,0
+Gavin Bazunu,Southampton,Brentford,2023-02-04,False,90,3,2.13,0,0,1,0,False,0.0,True,3.4,0.07,0,0,0,1.0,Southampton,True,Wolverhampton,2.57,2.4,0
+Gavin Bazunu,Southampton,Wolverhampton,2023-02-11,True,90,2,0.78,0,0,1,0,False,0.0,True,2.2,0.06,0,0,0,9.0,Southampton,False,Chelsea,0.51,2.25,0
+Gavin Bazunu,Southampton,Chelsea,2023-02-18,False,90,0,1.55,4,0,9,2,True,0.0,True,2.0,0.12,0,0,0,3.0,Southampton,False,Leicester City,-0.79,2.35,0
+Gavin Bazunu,Southampton,Leicester City,2023-02-25,False,90,1,0.86,3,0,3,0,False,0.0,True,3.4,0.11,0,0,0,6.0,Southampton,True,Leeds United,-1.21,2.39,0
+Gavin Bazunu,Southampton,Leeds United,2023-03-04,True,90,0,1.9,0,0,6,0,True,0.0,True,3.4,0.16,0,0,0,7.0,Southampton,False,Manchester United,0.89,2.26,0
+Gavin Bazunu,Southampton,Manchester United,2023-03-12,False,90,0,0.84,4,0,7,0,True,0.0,True,4.0,0.2,0,0,0,1.0,Southampton,True,Brentford,0.03,2.35,0
+Gavin Bazunu,Southampton,Brentford,2023-03-15,True,90,2,2.01,2,0,1,0,False,0.0,True,5.2,0.19,0,0,0,1.0,Southampton,True,Tottenham,0.56,2.33,0
+Gavin Bazunu,Southampton,Tottenham,2023-03-18,True,90,3,2.26,0,0,1,0,False,0.0,True,5.2,0.18,0,0,0,2.0,Southampton,False,West Ham,0.0,2.23,0
+Gavin Bazunu,Southampton,West Ham,2023-04-02,False,90,1,1.36,2,0,2,0,False,0.0,True,3.6,0.17,0,0,0,2.0,Southampton,False,Leeds United,0.71,2.22,0
+Gavin Bazunu,Southampton,Leeds United,2022-08-20,False,90,1,0.0,0,0,2,0,False,0.0,False,3.4,0.17,0,0,0,1.0,Southampton,True,Manchester City,0.1,2.12,0
+Gavin Bazunu,Southampton,Manchester City,2023-04-08,True,90,4,2.64,4,0,1,0,False,0.0,True,2.6,0.16,0,0,0,1.0,Southampton,True,Crystal Palace,2.32,2.2,0
+Gavin Bazunu,Southampton,Crystal Palace,2023-04-15,True,90,2,0.81,0,0,1,0,False,0.0,True,1.4,0.15,0,0,0,1.0,Southampton,False,Arsenal,0.71,2.12,0
+Gavin Bazunu,Southampton,Arsenal,2023-04-21,False,90,3,2.81,2,0,1,0,False,0.0,True,1.4,0.15,0,0,0,0.0,Southampton,True,Bournemouth,2.76,2.11,0
+Gavin Bazunu,Southampton,Bournemouth,,True,0,0,0.0,0,0,0,0,False,,False,1.4,0.15,0,0,0,0.0,Southampton,False,Newcastle United,1.29,2.04,0
+Gavin Bazunu,Southampton,Newcastle United,,False,0,0,0.0,0,0,0,0,False,,False,1.0,0.15,0,0,0,0.0,Southampton,False,Nottingham Forest,1.95,1.97,0
+Gavin Bazunu,Southampton,Nottingham Forest,,False,0,0,0.0,0,0,0,0,False,,False,0.6,0.15,0,0,0,0.0,Southampton,True,Fulham,2.66,1.9,0
+Gavin Bazunu,Southampton,Fulham,,True,0,0,0.0,0,0,0,0,False,,False,0.4,0.15,0,0,0,0.0,Southampton,False,Brighton,1.32,1.84,0
+Gavin Bazunu,Southampton,Brighton,,False,0,0,0.0,0,0,0,0,False,,False,0.2,0.15,0,0,0,0.0,Southampton,True,Liverpool,-0.47,1.78,0
+Gavin Bazunu,Southampton,Liverpool,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.15,0,0,0,3.0,Southampton,True,Manchester United,1.12,1.73,0
+Gavin Bazunu,Southampton,Manchester United,2022-08-27,True,90,1,0.0,3,0,3,0,False,0.04,False,0.0,0.14,0,0,0,3.0,Southampton,True,Chelsea,1.45,1.76,0
+Gavin Bazunu,Southampton,Chelsea,2022-08-30,True,90,1,0.0,3,0,3,0,False,0.0,False,0.6,0.14,0,0,0,2.0,Southampton,False,Wolverhampton,2.86,1.8,0
+Gavin Bazunu,Southampton,Wolverhampton,2022-09-03,False,90,1,0.0,1,0,2,0,False,0.0,False,1.2,0.13,0,0,0,2.0,Southampton,False,Aston Villa,3.18,1.78,0
+Gavin Bazunu,Southampton,Aston Villa,2022-09-16,False,90,1,0.0,2,0,2,0,False,0.0,False,1.6,0.13,0,0,0,2.0,Southampton,True,Everton,0.11,1.78,0
+Gavin Bazunu,Southampton,Everton,2022-10-01,True,90,2,0.0,3,0,2,0,False,0.0,False,2.0,0.12,0,0,0,,Man City,False,Burnley,-3.25,1.82,0

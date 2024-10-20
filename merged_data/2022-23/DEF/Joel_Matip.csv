@@ -1,15 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Joel Matip,Liverpool,Fulham,2022-08-06,False,DC,90,0,0.0,0,0.0,1,0,0,3.2,0,0,2,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,1
-Joel Matip,Liverpool,Arsenal,2022-10-09,False,DC,68,0,0.0,0,0.0,1,0,0,1.3,0,0,2,0.0,False,1.0,0.0,79.0,0.0,0,0,0,0,2
-Joel Matip,Liverpool,Aston Villa,2022-12-26,False,DC,90,0,0.0,0,0.0,2,0,0,3.2,0,0,1,1.3,True,1.0,0.0,82.67,0.0,0,0,0,0,2
-Joel Matip,Liverpool,Leeds United,2022-12-30,True,DC,90,0,0.0,0,0.0,2,0,0,1.0,0,0,1,0.99,True,1.33,0.0,84.5,0.0,0,0,0,0,1
-Joel Matip,Liverpool,Brentford,2023-01-02,False,Sub,45,0,0.0,0,0.0,1,0,0,1.3,0,0,1,0.53,False,1.5,0.0,76.6,0.0,0,0,0,0,0
-Joel Matip,Liverpool,Brighton,2023-01-14,False,DC,68,0,0.0,0,0.0,0,0,0,0.4,0,0,2,1.42,True,1.4,0.0,75.17,0.0,0,0,0,0,-1
-Joel Matip,Liverpool,Wolverhampton,2023-02-04,False,DC,90,0,0.0,0,0.07,-1,0,2,2.6,0,0,3,2.09,True,1.2,0.0,77.29,0.0,0,0,0,0,7
-Joel Matip,Liverpool,Everton,2023-02-13,True,DC,90,0,0.0,0,0.0,7,0,0,2.1,1,1,0,0.28,True,0.8,0.0,78.88,0.14,0,0,0,0,6
-Joel Matip,Liverpool,Crystal Palace,2023-02-25,False,DC,90,0,0.05,0,0.23,6,1,1,5.8,1,1,0,0.6,True,1.8,0.0,80.11,0.25,0,0,0,0,5
-Joel Matip,Liverpool,Chelsea,2023-04-04,False,DC,90,0,0.0,0,0.0,5,0,0,1.6,0,1,0,2.12,True,2.6,0.01,81.1,0.33,0,0,0,0,10
-Joel Matip,Liverpool,West Ham,2023-04-26,False,DC,90,1,0.58,0,0.0,10,3,0,11.5,2,0,1,0.78,True,3.4,0.01,81.91,0.3,0,0,0,0,0
-Joel Matip,Liverpool,Southampton,2023-05-28,False,DC,90,0,0.01,0,0.02,0,1,1,0.0,0,0,4,1.77,True,5.4,0.13,82.58,0.27,0,0,0,0,1
-Joel Matip,Liverpool,Everton,2022-09-03,False,Sub,10,0,0.0,0,0.0,1,0,0,0.1,0,0,0,0.0,False,5.6,0.13,77.0,0.27,0,0,0,0,1
-Joel Matip,Liverpool,Brighton,2022-10-01,True,DC,90,0,0.0,0,0.0,1,0,0,2.1,0,0,3,0.0,False,4.4,0.13,77.93,0.25,0,0,0,0,5
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Joel Matip,Liverpool,Fulham,2022-08-06,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.2,0,0,2,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,1,Liverpool,False,Arsenal,2.26
+Joel Matip,Liverpool,Arsenal,2022-10-09,False,DC,68,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,2,0.0,False,1.0,0.0,79.0,0.0,0,0,0,0,0,Liverpool,True,Manchester City,-0.87
+Joel Matip,Liverpool,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,52.67,0.0,0,0,0,0,0,Liverpool,True,West Ham,-0.03
+Joel Matip,Liverpool,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.67,0.0,39.5,0.0,0,0,0,0,0,Liverpool,False,Nottingham Forest,1.75
+Joel Matip,Liverpool,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.5,0.0,31.6,0.0,0,0,0,0,0,Liverpool,True,Leicester City,-2.17
+Joel Matip,Liverpool,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,26.33,0.0,0,0,0,0,0,Liverpool,False,Tottenham,1.56
+Joel Matip,Liverpool,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,22.57,0.0,0,0,0,0,0,Liverpool,True,Southampton,-2.6
+Joel Matip,Liverpool,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,19.75,0.0,0,0,0,0,2,Liverpool,False,Aston Villa,1.03
+Joel Matip,Liverpool,Aston Villa,2022-12-26,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.2,0,0,1,1.3,True,0.0,0.0,27.56,0.0,0,0,0,0,2,Liverpool,True,Leeds United,-1.23
+Joel Matip,Liverpool,Leeds United,2022-12-30,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.0,0,0,1,0.99,True,0.4,0.0,33.8,0.0,0,0,0,0,1,Liverpool,False,Brentford,2.56
+Joel Matip,Liverpool,Brentford,2023-01-02,False,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,1,0.53,False,0.8,0.0,34.82,0.0,0,0,0,0,0,Liverpool,True,Crystal Palace,1.28
+Joel Matip,Liverpool,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,31.92,0.0,0,0,0,0,0,Liverpool,False,Brighton,1.25
+Joel Matip,Liverpool,Brighton,2023-01-14,False,DC,68,0.0,0.0,0.0,0.0,0,0.0,0.0,0.4,0,0,2,1.42,True,1.0,0.0,34.69,0.0,0,0,0,0,0,Liverpool,True,Chelsea,-1.38
+Joel Matip,Liverpool,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,32.21,0.0,0,0,0,0,-1,Liverpool,False,Wolverhampton,1.32
+Joel Matip,Liverpool,Wolverhampton,2023-02-04,False,DC,90,0.0,0.0,0.0,0.07,-1,0.0,2.0,2.6,0,0,3,2.09,True,0.6,0.0,36.07,0.0,0,0,0,0,7,Liverpool,True,Everton,-1.61
+Joel Matip,Liverpool,Everton,2023-02-13,True,DC,90,0.0,0.0,0.0,0.0,7,0.0,0.0,2.1,1,1,0,0.28,True,0.0,0.0,39.44,0.14,0,0,0,0,0,Liverpool,False,Newcastle United,-0.43
+Joel Matip,Liverpool,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,37.12,0.14,0,0,0,0,6,Liverpool,False,Crystal Palace,0.35
+Joel Matip,Liverpool,Crystal Palace,2023-02-25,False,DC,90,0.0,0.05,0.0,0.23,6,1.0,1.0,5.8,1,1,0,0.6,True,1.2,0.0,40.06,0.25,0,0,0,0,0,Liverpool,True,Wolverhampton,-1.46
+Joel Matip,Liverpool,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.4,0.01,37.95,0.25,0,0,0,0,0,Liverpool,True,Manchester United,-2.66
+Joel Matip,Liverpool,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.4,0.01,36.05,0.25,0,0,0,0,0,Liverpool,False,Bournemouth,-0.9
+Joel Matip,Liverpool,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.6,0.01,34.33,0.25,0,0,0,0,0,Liverpool,False,Manchester City,1.11
+Joel Matip,Liverpool,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.01,32.77,0.25,0,0,0,0,5,Liverpool,False,Chelsea,0.3
+Joel Matip,Liverpool,Chelsea,2023-04-04,False,DC,90,0.0,0.0,0.0,0.0,5,0.0,0.0,1.6,0,1,0,2.12,True,1.2,0.01,35.26,0.33,0,0,0,0,0,Liverpool,False,Manchester United,0.18
+Joel Matip,Liverpool,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,33.79,0.33,0,0,0,0,0,Liverpool,True,Arsenal,-0.54
+Joel Matip,Liverpool,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,32.44,0.33,0,0,0,0,0,Liverpool,False,Leicester City,-2.79
+Joel Matip,Liverpool,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,31.19,0.33,0,0,0,0,0,Liverpool,True,Nottingham Forest,-1.23
+Joel Matip,Liverpool,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,30.04,0.33,0,0,0,0,10,Liverpool,False,West Ham,2.89
+Joel Matip,Liverpool,West Ham,2023-04-26,False,DC,90,1.0,0.58,0.0,0.0,10,3.0,0.0,11.5,2,0,1,0.78,True,1.0,0.0,32.18,0.3,0,0,0,0,0,Liverpool,True,Tottenham,0.66
+Joel Matip,Liverpool,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.12,31.07,0.3,0,0,0,0,0,Liverpool,True,Fulham,0.57
+Joel Matip,Liverpool,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.12,30.03,0.3,0,0,0,0,0,Liverpool,True,Brentford,-2.96
+Joel Matip,Liverpool,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.12,29.06,0.3,0,0,0,0,0,Liverpool,False,Leeds United,0.15
+Joel Matip,Liverpool,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.12,28.16,0.3,0,0,0,0,0,Liverpool,True,Aston Villa,-0.35
+Joel Matip,Liverpool,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.12,27.3,0.3,0,0,0,0,0,Liverpool,False,Southampton,2.18
+Joel Matip,Liverpool,Southampton,2023-05-28,False,DC,90,0.0,0.01,0.0,0.02,0,1.0,1.0,0.0,0,0,4,1.77,True,0.0,0.0,29.15,0.27,0,0,0,0,0,Liverpool,True,Bournemouth,-4.12
+Joel Matip,Liverpool,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,28.31,0.27,0,0,0,0,0,Liverpool,True,Newcastle United,-0.89
+Joel Matip,Liverpool,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,27.53,0.27,0,0,0,0,1,Liverpool,False,Everton,1.81
+Joel Matip,Liverpool,Everton,2022-09-03,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,False,0.0,0.0,27.05,0.27,0,0,0,0,1,Liverpool,True,Brighton,1.7
+Joel Matip,Liverpool,Brighton,2022-10-01,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.1,0,0,3,0.0,False,0.2,0.0,28.71,0.25,0,0,0,0,0,Liverpool,False,Chelsea,0.3

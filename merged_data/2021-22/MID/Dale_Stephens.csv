@@ -1,4 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
-Dale Stephens,Burnley,Manchester United,2021-12-30,False,Sub,32,0,0.0,0,0.0,1,0,0,0.4,0,0,0,0.0,0.0,32.0
-Dale Stephens,Burnley,Watford,2022-02-05,True,MC,90,0,0.04,0,0.02,2,1,1,2.2,0,1,0,1.0,0.0,61.0
-Dale Stephens,Burnley,Watford,2022-04-30,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,1.5,0.02,41.0
+Dale Stephens,Burnley,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Dale Stephens,Burnley,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Dale Stephens,Burnley,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Dale Stephens,Burnley,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Dale Stephens,Burnley,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Dale Stephens,Burnley,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Dale Stephens,Burnley,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Dale Stephens,Burnley,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Dale Stephens,Burnley,Manchester United,2021-12-30,False,Sub,32,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.0,0.0,3.56
+Dale Stephens,Burnley,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,3.2
+Dale Stephens,Burnley,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,2.91
+Dale Stephens,Burnley,Watford,2022-02-05,True,MC,90,0.0,0.04,0.0,0.02,2,1.0,1.0,2.2,0,1,0,0.2,0.0,10.17
+Dale Stephens,Burnley,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.6,0.01,9.38
+Dale Stephens,Burnley,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.6,0.01,8.71
+Dale Stephens,Burnley,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.01,8.13
+Dale Stephens,Burnley,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.01,7.62
+Dale Stephens,Burnley,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.01,7.18
+Dale Stephens,Burnley,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,6.78
+Dale Stephens,Burnley,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,6.42
+Dale Stephens,Burnley,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,6.1
+Dale Stephens,Burnley,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,5.81
+Dale Stephens,Burnley,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,5.55
+Dale Stephens,Burnley,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,5.3
+Dale Stephens,Burnley,Norwich,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,5.08
+Dale Stephens,Burnley,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,4.88
+Dale Stephens,Burnley,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,4.69
+Dale Stephens,Burnley,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,4.52
+Dale Stephens,Burnley,Watford,2022-04-30,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0.0,4.39
+Dale Stephens,Burnley,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,4.24
+Dale Stephens,Burnley,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,4.1
+Dale Stephens,Burnley,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,3.97
+Dale Stephens,Burnley,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,3.84
+Dale Stephens,Burnley,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,3.73
+Dale Stephens,Burnley,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,3.62
+Dale Stephens,Burnley,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,3.51
+Dale Stephens,Burnley,Norwich,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,3.42
+Dale Stephens,Burnley,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,3.32
+Dale Stephens,Burnley,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,3.24

@@ -1,10 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Anthony Knockaert,Fulham,West Ham,2022-10-09,False,FW,0,0,0.0,1,0.58,0,0,1,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0
-Anthony Knockaert,Fulham,Manchester United,2022-11-13,True,FW,0,0,0.89,0,0.11,0,3,1,0.0,0,0,0,False,0.0,1.0,0.0,0,0,0,0,0,0
-Anthony Knockaert,Fulham,Southampton,2022-12-31,True,FW,0,0,0.61,0,0.12,0,2,1,0.0,0,0,0,False,0.0,0.94,0.0,0,0,0,0,0,0
-Anthony Knockaert,Fulham,Leeds United,2023-01-03,False,FW,0,0,0.58,0,0.0,0,2,0,0.0,0,0,0,False,0.0,0.83,0.0,0,0,0,0,0,0
-Anthony Knockaert,Fulham,West Ham,2023-04-08,True,Sub,0,1,0.48,0,0.1,0,1,1,0.0,0,0,0,False,0.0,0.77,0.0,0,0,0,0,0,0
-Anthony Knockaert,Fulham,Manchester City,2023-04-30,True,Sub,0,0,0.0,0,0.1,0,0,1,0.0,0,0,0,False,0.0,0.71,0.0,0,0,0,0,0,0
-Anthony Knockaert,Fulham,Southampton,2023-05-13,False,FW,0,1,0.61,0,0.04,0,3,2,0.0,0,0,0,False,0.0,0.51,0.0,0,0,0,0,0,0
-Anthony Knockaert,Fulham,Crystal Palace,2023-05-20,True,FW,0,0,0.15,0,0.0,0,3,0,0.0,0,0,0,False,0.0,0.46,0.0,0,0,0,0,0,0
-Anthony Knockaert,Fulham,Manchester United,2023-05-28,False,Sub,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,False,0.0,0.37,0.0,0,0,0,0,0,0
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Anthony Knockaert,Fulham,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Fulham,False,West Ham,1.35
+Anthony Knockaert,Fulham,West Ham,2022-10-09,False,FW,0,0.0,0.0,1.0,0.58,0,0.0,1.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Fulham,True,Bournemouth,-0.74
+Anthony Knockaert,Fulham,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.5,0.0,0,0,0,0,0,0,Fulham,True,Aston Villa,-0.63
+Anthony Knockaert,Fulham,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.33,0.0,0,0,0,0,0,0,Fulham,False,Leicester City,-2.72
+Anthony Knockaert,Fulham,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.25,0.0,0,0,0,0,0,0,Fulham,True,Everton,0.79
+Anthony Knockaert,Fulham,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.2,0.0,0,0,0,0,0,0,Fulham,False,Manchester City,1.5
+Anthony Knockaert,Fulham,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.2,0.0,0,0,0,0,0,0,Fulham,True,Manchester United,1.36
+Anthony Knockaert,Fulham,Manchester United,2022-11-13,True,FW,0,0.0,0.89,0.0,0.11,0,3.0,1.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Fulham,False,Crystal Palace,-1.05
+Anthony Knockaert,Fulham,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.18,0.0,0,0,0,0,0,0,Fulham,True,Southampton,-0.67
+Anthony Knockaert,Fulham,Southampton,2022-12-31,True,FW,0,0.0,0.61,0.0,0.12,0,2.0,1.0,0.0,0,0,0,False,0.0,0.18,0.0,0,0,0,0,0,0,Fulham,False,Leeds United,-2.01
+Anthony Knockaert,Fulham,Leeds United,2023-01-03,False,FW,0,0.0,0.58,0.0,0.0,0,2.0,0.0,0.0,0,0,0,False,0.0,0.3,0.0,0,0,0,0,0,0,Fulham,True,Chelsea,1.22
+Anthony Knockaert,Fulham,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.42,0.0,0,0,0,0,0,0,Fulham,False,Wolverhampton,0.28
+Anthony Knockaert,Fulham,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.42,0.0,0,0,0,0,0,0,Fulham,False,Newcastle United,1.64
+Anthony Knockaert,Fulham,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.24,0.0,0,0,0,0,0,0,Fulham,True,Tottenham,-0.89
+Anthony Knockaert,Fulham,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.24,0.0,0,0,0,0,0,0,Fulham,False,Chelsea,0.71
+Anthony Knockaert,Fulham,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.12,0.0,0,0,0,0,0,0,Fulham,True,Nottingham Forest,-3.99
+Anthony Knockaert,Fulham,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Fulham,False,Brighton,-0.55
+Anthony Knockaert,Fulham,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Fulham,True,Wolverhampton,0.52
+Anthony Knockaert,Fulham,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Fulham,False,Brentford,0.07
+Anthony Knockaert,Fulham,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Fulham,True,Arsenal,0.97
+Anthony Knockaert,Fulham,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Fulham,False,Bournemouth,3.99
+Anthony Knockaert,Fulham,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Fulham,True,Brentford,1.56
+Anthony Knockaert,Fulham,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Fulham,True,West Ham,-0.79
+Anthony Knockaert,Fulham,West Ham,2023-04-08,True,Sub,0,1.0,0.48,0.0,0.1,0,1.0,1.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Fulham,False,Everton,-0.93
+Anthony Knockaert,Fulham,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.1,0.0,0,0,0,0,0,0,Fulham,True,Leicester City,-2.18
+Anthony Knockaert,Fulham,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.1,0.0,0,0,0,0,0,0,Fulham,False,Aston Villa,2.57
+Anthony Knockaert,Fulham,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.1,0.0,0,0,0,0,0,0,Fulham,True,Manchester City,2.68
+Anthony Knockaert,Fulham,Manchester City,2023-04-30,True,Sub,0,0.0,0.0,0.0,0.1,0,0.0,1.0,0.0,0,0,0,False,0.0,0.1,0.0,0,0,0,0,0,0,Fulham,False,Liverpool,0.28
+Anthony Knockaert,Fulham,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.1,0.0,0,0,0,0,0,0,Fulham,True,Leeds United,0.24
+Anthony Knockaert,Fulham,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Fulham,False,Southampton,-1.16
+Anthony Knockaert,Fulham,Southampton,2023-05-13,False,FW,0,1.0,0.61,0.0,0.04,0,3.0,2.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Fulham,True,Crystal Palace,0.27
+Anthony Knockaert,Fulham,Crystal Palace,2023-05-20,True,FW,0,0.0,0.15,0.0,0.0,0,3.0,0.0,0.0,0,0,0,False,0.0,0.12,0.0,0,0,0,0,0,0,Fulham,False,Manchester United,0.13
+Anthony Knockaert,Fulham,Manchester United,2023-05-28,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.15,0.0,0,0,0,0,0,0,Fulham,False,Arsenal,-0.68
+Anthony Knockaert,Fulham,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.15,0.0,0,0,0,0,0,0,Fulham,True,Brighton,-2.78
+Anthony Knockaert,Fulham,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.15,0.0,0,0,0,0,0,0,Fulham,False,Tottenham,1.6
+Anthony Knockaert,Fulham,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.15,0.0,0,0,0,0,0,0,Fulham,False,Nottingham Forest,1.93
+Anthony Knockaert,Fulham,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.03,0.0,0,0,0,0,0,0,Fulham,True,Newcastle United,3.13
+Anthony Knockaert,Fulham,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Fulham,False,Everton,-0.93

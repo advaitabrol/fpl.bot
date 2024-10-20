@@ -1,13 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Armando Broja,Chelsea,Everton,2022-08-06,False,Sub,15,0,0.05,0,0.0,1,1,0,2.5,0,False,0.0,0.0,15.0,6,0,5.9,1.46,0.05,5
-Armando Broja,Chelsea,Wolverhampton,2022-10-08,True,Sub,18,1,0.14,0,0.0,5,1,0,5.1,0,False,1.0,0.05,16.5,6,0,5.9,1.46,0.05,1
-Armando Broja,Chelsea,Aston Villa,2022-10-16,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,False,3.0,0.09,11.33,6,0,5.9,1.46,0.05,2
-Armando Broja,Chelsea,Brentford,2022-10-19,False,FW,61,0,0.06,0,0.0,2,1,0,2.1,0,False,2.33,0.06,23.75,6,0,5.9,1.46,0.05,4
-Armando Broja,Chelsea,Manchester United,2022-10-22,True,Sub,11,0,0.0,0,0.0,4,0,0,0.2,0,False,2.25,0.06,21.2,6,0,5.9,1.46,0.05,1
-Armando Broja,Chelsea,Brighton,2022-10-29,False,Sub,11,0,0.0,0,0.0,1,0,0,0.3,0,False,2.6,0.05,19.5,6,0,5.9,1.46,0.05,1
-Armando Broja,Chelsea,Arsenal,2022-11-06,True,Sub,26,0,0.0,0,0.0,1,0,0,0.4,0,False,2.6,0.04,20.43,6,0,5.9,1.46,0.05,2
-Armando Broja,Chelsea,Newcastle United,2022-11-12,False,FW,72,0,0.12,0,0.09,2,1,1,3.9,0,True,1.8,0.01,26.88,6,0,5.9,1.46,0.05,1
-Armando Broja,Chelsea,Tottenham,2022-08-14,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,False,2.0,0.04,24.0,6,0,5.9,1.46,0.05,1
-Armando Broja,Chelsea,Southampton,2022-08-30,False,Sub,24,0,0.4,0,0.0,1,1,0,2.7,0,False,1.8,0.02,24.0,6,0,5.9,1.46,0.05,1
-Armando Broja,Chelsea,West Ham,2022-09-03,True,Sub,30,0,0.1,0,0.0,1,1,0,2.5,0,False,1.2,0.1,24.55,6,0,5.9,1.46,0.05,1
-Armando Broja,Chelsea,Crystal Palace,2022-10-01,False,Sub,15,0,0.0,0,0.0,1,0,0,0.0,0,False,1.2,0.12,23.75,6,0,5.9,1.46,0.05,4
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Armando Broja,Chelsea,Everton,2022-08-06,False,Sub,15,0.0,0.05,0.0,0.0,1,1.0,0.0,2.5,0,False,0.0,0.0,15.0,6.0,0.0,5.9,1.46,0.05,5,Chelsea,True,Wolverhampton,0.07
+Armando Broja,Chelsea,Wolverhampton,2022-10-08,True,Sub,18,1.0,0.14,0.0,0.0,5,1.0,0.0,5.1,0,False,1.0,0.05,16.5,6.0,0.0,5.9,1.46,0.05,1,Chelsea,False,Aston Villa,-1.37
+Armando Broja,Chelsea,Aston Villa,2022-10-16,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,3.0,0.09,11.33,6.0,0.0,5.9,1.46,0.05,2,Chelsea,False,Brentford,0.61
+Armando Broja,Chelsea,Brentford,2022-10-19,False,FW,61,0.0,0.06,0.0,0.0,2,1.0,0.0,2.1,0,False,2.33,0.06,23.75,6.0,0.0,5.9,1.46,0.05,4,Chelsea,True,Manchester United,-1.31
+Armando Broja,Chelsea,Manchester United,2022-10-22,True,Sub,11,0.0,0.0,0.0,0.0,4,0.0,0.0,0.2,0,False,2.25,0.06,21.2,6.0,0.0,5.9,1.46,0.05,1,Chelsea,False,Brighton,1.01
+Armando Broja,Chelsea,Brighton,2022-10-29,False,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,False,2.6,0.05,19.5,6.0,0.0,5.9,1.46,0.05,1,Chelsea,True,Arsenal,2.1
+Armando Broja,Chelsea,Arsenal,2022-11-06,True,Sub,26,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,False,2.6,0.04,20.43,6.0,0.0,5.9,1.46,0.05,2,Chelsea,False,Newcastle United,0.94
+Armando Broja,Chelsea,Newcastle United,2022-11-12,False,FW,72,0.0,0.12,0.0,0.09,2,1.0,1.0,3.9,0,True,1.8,0.01,26.88,6.0,0.0,5.9,1.46,0.05,0,Chelsea,True,Bournemouth,-3.02
+Armando Broja,Chelsea,Bournemouth,,True,,0,,,,,0,,,0.0,0,False,2.0,0.04,23.89,6.0,0.0,5.9,1.46,0.05,0,Chelsea,False,Nottingham Forest,-0.41
+Armando Broja,Chelsea,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,False,1.6,0.02,21.5,6.0,0.0,5.9,1.46,0.05,0,Chelsea,True,Manchester City,0.19
+Armando Broja,Chelsea,Manchester City,,True,,0,,,,,0,,,0.0,0,False,0.8,0.02,19.55,6.0,0.0,5.9,1.46,0.05,0,Chelsea,False,Fulham,-2.13
+Armando Broja,Chelsea,Fulham,,False,,0,,,,,0,,,0.0,0,False,0.6,0.02,17.92,6.0,0.0,5.9,1.46,0.05,1,Chelsea,True,Tottenham,-2.11
+Armando Broja,Chelsea,Tottenham,2022-08-14,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,0.4,0.02,16.62,6.0,0.0,5.9,1.46,0.05,0,Chelsea,True,Crystal Palace,-1.51
+Armando Broja,Chelsea,Crystal Palace,,True,,0,,,,,0,,,0.0,0,False,0.2,0.0,15.43,6.0,0.0,5.9,1.46,0.05,0,Chelsea,False,Liverpool,0.96
+Armando Broja,Chelsea,Liverpool,,False,,0,,,,,0,,,0.0,0,False,0.2,0.0,14.4,6.0,0.0,5.9,1.46,0.05,0,Chelsea,True,Fulham,-1.08
+Armando Broja,Chelsea,Fulham,,True,,0,,,,,0,,,0.0,0,False,0.2,0.0,13.5,6.0,0.0,5.9,1.46,0.05,0,Chelsea,False,West Ham,2.89
+Armando Broja,Chelsea,West Ham,,False,,0,,,,,0,,,0.0,0,False,0.2,0.0,12.71,6.0,0.0,5.9,1.46,0.05,0,Chelsea,True,Southampton,-0.42
+Armando Broja,Chelsea,Southampton,,True,,0,,,,,0,,,0.0,0,False,0.2,0.0,12.0,6.0,0.0,5.9,1.46,0.05,0,Chelsea,False,Tottenham,-1.07
+Armando Broja,Chelsea,Tottenham,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,11.37,6.0,0.0,5.9,1.46,0.05,0,Chelsea,True,Leicester City,-0.96
+Armando Broja,Chelsea,Leicester City,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,10.8,6.0,0.0,5.9,1.46,0.05,0,Chelsea,False,Leeds United,-3.94
+Armando Broja,Chelsea,Leeds United,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,10.29,6.0,0.0,5.9,1.46,0.05,0,Chelsea,True,Everton,-2.38
+Armando Broja,Chelsea,Everton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,9.82,6.0,0.0,5.9,1.46,0.05,0,Chelsea,True,Aston Villa,0.42
+Armando Broja,Chelsea,Aston Villa,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,9.39,6.0,0.0,5.9,1.46,0.05,0,Chelsea,True,Liverpool,-0.16
+Armando Broja,Chelsea,Liverpool,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,9.0,6.0,0.0,5.9,1.46,0.05,0,Chelsea,False,Leicester City,1.68
+Armando Broja,Chelsea,Leicester City,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,8.64,6.0,0.0,5.9,1.46,0.05,0,Chelsea,False,Wolverhampton,1.62
+Armando Broja,Chelsea,Wolverhampton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,8.31,6.0,0.0,5.9,1.46,0.05,0,Chelsea,True,Brighton,-0.67
+Armando Broja,Chelsea,Brighton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,8.0,6.0,0.0,5.9,1.46,0.05,0,Chelsea,True,Brentford,4.42
+Armando Broja,Chelsea,Brentford,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,7.71,6.0,0.0,5.9,1.46,0.05,0,Chelsea,False,Arsenal,1.29
+Armando Broja,Chelsea,Arsenal,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,7.45,6.0,0.0,5.9,1.46,0.05,0,Chelsea,False,Bournemouth,-1.53
+Armando Broja,Chelsea,Bournemouth,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,7.2,6.0,0.0,5.9,1.46,0.05,0,Chelsea,True,Nottingham Forest,1.3
+Armando Broja,Chelsea,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,6.97,6.0,0.0,5.9,1.46,0.05,0,Chelsea,False,Manchester City,-0.89
+Armando Broja,Chelsea,Manchester City,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,6.75,6.0,0.0,5.9,1.46,0.05,0,Chelsea,False,Manchester United,1.87
+Armando Broja,Chelsea,Manchester United,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,6.55,6.0,0.0,5.9,1.46,0.05,0,Chelsea,True,Newcastle United,-0.99
+Armando Broja,Chelsea,Newcastle United,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,6.35,6.0,0.0,5.9,1.46,0.05,0,Chelsea,True,Leeds United,-1.36
+Armando Broja,Chelsea,Leeds United,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,6.17,6.0,0.0,5.9,1.46,0.05,1,Chelsea,False,Southampton,-2.24
+Armando Broja,Chelsea,Southampton,2022-08-30,False,Sub,24,0.0,0.4,0.0,0.0,1,1.0,0.0,2.7,0,False,0.0,0.0,6.67,6.0,0.0,5.9,1.46,0.05,1,Chelsea,True,West Ham,-2.56
+Armando Broja,Chelsea,West Ham,2022-09-03,True,Sub,30,0.0,0.1,0.0,0.0,1,1.0,0.0,2.5,0,False,0.2,0.08,7.3,6.0,0.0,5.9,1.46,0.05,1,Chelsea,False,Crystal Palace,-1.06
+Armando Broja,Chelsea,Crystal Palace,2022-10-01,False,Sub,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,0.4,0.1,7.5,6.0,0.0,5.9,1.46,0.05,0,Chelsea,True,Liverpool,-0.16

@@ -1,9 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
-Malang Sarr,Chelsea,Manchester City,2022-01-15,False,DC,90,0,0.0,0,0.0,2,0,0,2.7,0,0,1,0.0,0.0,90.0,0.0
-Malang Sarr,Chelsea,Tottenham,2022-01-23,True,DL,90,0,0.0,0,0.0,6,0,0,1.7,0,1,0,2.0,0.0,90.0,0.5
-Malang Sarr,Chelsea,Crystal Palace,2022-02-19,False,DL,73,0,0.02,0,0.36,5,1,2,3.9,0,1,0,4.0,0.0,84.33,0.67
-Malang Sarr,Chelsea,Newcastle United,2022-03-13,True,DL,77,0,0.0,0,0.0,8,0,0,0.6,2,1,0,4.33,0.01,82.5,0.75
-Malang Sarr,Chelsea,Arsenal,2022-04-20,True,DC,90,0,0.0,0,0.0,-1,0,0,3.0,0,0,4,5.25,0.01,84.0,0.6
-Malang Sarr,Chelsea,Wolverhampton,2022-05-07,True,Sub,3,0,0.0,0,0.0,1,0,0,0.1,0,0,1,4.0,0.0,70.5,0.6
-Malang Sarr,Chelsea,Watford,2022-05-22,True,Sub,31,0,0.0,0,0.03,1,0,1,0.0,0,0,1,3.8,0.0,64.86,0.6
-Malang Sarr,Chelsea,Brentford,2021-10-16,False,DC,90,0,0.0,0,0.0,8,0,0,3.9,2,1,0,2.8,0.0,68.0,0.67
+Malang Sarr,Chelsea,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Malang Sarr,Chelsea,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Malang Sarr,Chelsea,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Malang Sarr,Chelsea,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Malang Sarr,Chelsea,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Malang Sarr,Chelsea,Watford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Malang Sarr,Chelsea,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Malang Sarr,Chelsea,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Malang Sarr,Chelsea,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Malang Sarr,Chelsea,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Malang Sarr,Chelsea,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Malang Sarr,Chelsea,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Malang Sarr,Chelsea,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Malang Sarr,Chelsea,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
+Malang Sarr,Chelsea,Manchester City,2022-01-15,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.7,0,0,1,0.0,0.0,6.0,0.0
+Malang Sarr,Chelsea,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,5.62,0.0
+Malang Sarr,Chelsea,Tottenham,2022-01-23,True,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.7,0,1,0,0.4,0.0,10.59,0.5
+Malang Sarr,Chelsea,Crystal Palace,2022-02-19,False,DL,73,0.0,0.02,0.0,0.36,5,1.0,2.0,3.9,0,1,0,1.6,0.0,14.06,0.67
+Malang Sarr,Chelsea,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,2.6,0.0,13.32,0.67
+Malang Sarr,Chelsea,Norwich,,False,,0,,,,,0,,,0.0,0,0,0,2.6,0.0,12.65,0.67
+Malang Sarr,Chelsea,Newcastle United,2022-03-13,True,DL,77,0.0,0.0,0.0,0.0,8,0.0,0.0,0.6,2,1,0,2.2,0.0,15.71,0.75
+Malang Sarr,Chelsea,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,3.8,0.0,15.0,0.75
+Malang Sarr,Chelsea,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,2.6,0.0,14.35,0.75
+Malang Sarr,Chelsea,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,1.6,0.0,13.75,0.75
+Malang Sarr,Chelsea,Arsenal,2022-04-20,True,DC,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,3.0,0,0,4,1.6,0.0,16.8,0.6
+Malang Sarr,Chelsea,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,1.4,0.0,16.15,0.6
+Malang Sarr,Chelsea,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,-0.2,0.0,15.56,0.6
+Malang Sarr,Chelsea,Everton,,False,,0,,,,,0,,,0.0,0,0,0,-0.2,0.0,15.0,0.6
+Malang Sarr,Chelsea,Wolverhampton,2022-05-07,True,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,-0.2,0.0,14.59,0.6
+Malang Sarr,Chelsea,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,14.1,0.6
+Malang Sarr,Chelsea,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,13.65,0.6
+Malang Sarr,Chelsea,Watford,2022-05-22,True,Sub,31,0.0,0.0,0.0,0.03,1,0.0,1.0,0.0,0,0,1,0.2,0.0,14.19,0.6
+Malang Sarr,Chelsea,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,13.76,0.6
+Malang Sarr,Chelsea,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,13.35,0.6
+Malang Sarr,Chelsea,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,12.97,0.6
+Malang Sarr,Chelsea,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,12.61,0.6
+Malang Sarr,Chelsea,Brentford,2021-10-16,False,DC,90,0.0,0.0,0.0,0.0,8,0.0,0.0,3.9,2,1,0,0.2,0.0,14.7,0.67
+Malang Sarr,Chelsea,Norwich,,True,,0,,,,,0,,,0.0,0,0,0,1.6,0.0,14.32,0.67

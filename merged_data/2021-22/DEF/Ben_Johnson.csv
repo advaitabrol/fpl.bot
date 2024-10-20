@@ -1,21 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
-Ben Johnson,West Ham,Newcastle United,2021-08-15,False,Sub,1,0,0.0,0,0.0,1,0,0,0.1,0,0,0,0.0,0.0,1.0,0.0
-Ben Johnson,West Ham,Aston Villa,2021-10-31,False,DR,90,1,0.04,0,0.0,8,1,0,8.0,0,0,1,1.0,0.0,45.5,0.0
-Ben Johnson,West Ham,Liverpool,2021-11-07,True,DR,90,0,0.01,0,0.0,1,1,0,2.9,0,0,2,4.5,0.02,60.33,0.0
-Ben Johnson,West Ham,Wolverhampton,2021-11-20,False,DR,90,0,0.0,0,0.02,2,0,1,3.4,0,0,1,3.33,0.02,67.75,0.0
-Ben Johnson,West Ham,Manchester City,2021-11-28,False,DR,90,0,0.0,0,0.05,1,0,1,3.6,0,0,2,3.0,0.01,72.2,0.0
-Ben Johnson,West Ham,Brighton,2021-12-01,True,DL,90,0,0.0,0,0.0,2,0,0,1.8,0,0,1,2.6,0.01,75.17,0.0
-Ben Johnson,West Ham,Chelsea,2021-12-04,True,DML,45,0,0.0,0,0.0,0,0,0,0.1,0,0,2,2.8,0.01,70.86,0.0
-Ben Johnson,West Ham,Watford,2021-12-28,False,DL,81,0,0.0,0,0.0,2,0,0,1.4,0,0,1,1.2,0.0,72.12,0.0
-Ben Johnson,West Ham,Crystal Palace,2022-01-01,False,DL,45,0,0.0,0,0.0,0,0,0,2.7,0,0,0,1.4,0.0,69.11,0.0
-Ben Johnson,West Ham,Newcastle United,2022-02-19,True,Sub,45,0,0.0,0,0.0,1,0,0,0.7,0,0,0,1.0,0.0,66.7,0.0
-Ben Johnson,West Ham,Wolverhampton,2022-02-27,True,DR,90,0,0.0,0,0.0,6,0,0,1.7,0,1,0,1.0,0.0,68.82,0.14
-Ben Johnson,West Ham,Liverpool,2022-03-05,False,DR,90,0,0.0,0,0.3,2,0,2,4.4,0,0,1,1.8,0.0,70.58,0.12
-Ben Johnson,West Ham,Aston Villa,2022-03-13,True,DR,90,0,0.0,0,0.0,2,0,0,3.0,0,0,1,2.2,0.0,72.08,0.11
-Ben Johnson,West Ham,Tottenham,2022-03-20,False,DMR,90,0,0.0,0,0.0,1,0,0,1.1,0,0,3,2.2,0.0,73.36,0.1
-Ben Johnson,West Ham,Burnley,2022-04-17,True,DR,90,0,0.05,0,0.09,2,2,3,7.7,0,0,1,2.4,0.0,74.47,0.09
-Ben Johnson,West Ham,Chelsea,2022-04-24,False,DC,90,0,0.0,0,0.0,2,0,0,1.9,0,0,1,2.6,0.01,75.44,0.08
-Ben Johnson,West Ham,Manchester City,2022-05-15,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,1.8,0.01,71.06,0.08
-Ben Johnson,West Ham,Brighton,2022-05-22,False,Sub,9,0,0.0,0,0.0,1,0,0,0.0,0,0,1,1.6,0.01,67.61,0.08
-Ben Johnson,West Ham,Everton,2021-10-17,False,DR,90,0,0.0,0,0.04,7,0,1,3.9,1,1,0,1.4,0.01,68.79,0.15
-Ben Johnson,West Ham,Tottenham,2021-10-24,True,DR,90,0,0.05,0,0.06,6,1,1,3.9,0,1,0,2.6,0.01,69.85,0.21
+Ben Johnson,West Ham,Newcastle United,2021-08-15,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,0.0,1.0,0.0
+Ben Johnson,West Ham,Aston Villa,2021-10-31,False,DR,90,1.0,0.04,0.0,0.0,8,1.0,0.0,8.0,0,0,1,1.0,0.0,45.5,0.0
+Ben Johnson,West Ham,Liverpool,2021-11-07,True,DR,90,0.0,0.01,0.0,0.0,1,1.0,0.0,2.9,0,0,2,4.5,0.02,60.33,0.0
+Ben Johnson,West Ham,Wolverhampton,2021-11-20,False,DR,90,0.0,0.0,0.0,0.02,2,0.0,1.0,3.4,0,0,1,3.33,0.02,67.75,0.0
+Ben Johnson,West Ham,Manchester City,2021-11-28,False,DR,90,0.0,0.0,0.0,0.05,1,0.0,1.0,3.6,0,0,2,3.0,0.01,72.2,0.0
+Ben Johnson,West Ham,Brighton,2021-12-01,True,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,2.6,0.01,75.17,0.0
+Ben Johnson,West Ham,Chelsea,2021-12-04,True,DML,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,0,2,2.8,0.01,70.86,0.0
+Ben Johnson,West Ham,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,1.2,0.0,62.0,0.0
+Ben Johnson,West Ham,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,1.0,0.0,55.11,0.0
+Ben Johnson,West Ham,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.6,0.0,49.6,0.0
+Ben Johnson,West Ham,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,45.09,0.0
+Ben Johnson,West Ham,Watford,2021-12-28,False,DL,81,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0,0,1,0.0,0.0,48.08,0.0
+Ben Johnson,West Ham,Crystal Palace,2022-01-01,False,DL,45,0.0,0.0,0.0,0.0,0,0.0,0.0,2.7,0,0,0,0.4,0.0,47.85,0.0
+Ben Johnson,West Ham,Norwich,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,44.43,0.0
+Ben Johnson,West Ham,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,41.47,0.0
+Ben Johnson,West Ham,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,38.88,0.0
+Ben Johnson,West Ham,Watford,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,36.59,0.0
+Ben Johnson,West Ham,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,34.56,0.0
+Ben Johnson,West Ham,Newcastle United,2022-02-19,True,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,0.0,0.0,35.11,0.0
+Ben Johnson,West Ham,Wolverhampton,2022-02-27,True,DR,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.7,0,1,0,0.2,0.0,37.85,0.14
+Ben Johnson,West Ham,Liverpool,2022-03-05,False,DR,90,0.0,0.0,0.0,0.3,2,0.0,2.0,4.4,0,0,1,1.4,0.0,40.33,0.12
+Ben Johnson,West Ham,Aston Villa,2022-03-13,True,DR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.0,0,0,1,1.8,0.0,42.59,0.11
+Ben Johnson,West Ham,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,2.2,0.0,40.74,0.11
+Ben Johnson,West Ham,Tottenham,2022-03-20,False,DMR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,3,2.2,0.0,42.79,0.1
+Ben Johnson,West Ham,Everton,,True,,0,,,,,0,,,0.0,0,0,0,2.2,0.0,41.08,0.1
+Ben Johnson,West Ham,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,1.0,0.0,39.5,0.1
+Ben Johnson,West Ham,Burnley,2022-04-17,True,DR,90,0.0,0.05,0.0,0.09,2,2.0,3.0,7.7,0,0,1,0.6,0.0,41.37,0.09
+Ben Johnson,West Ham,Chelsea,2022-04-24,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,0.6,0.01,43.11,0.08
+Ben Johnson,West Ham,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,1.0,0.01,41.62,0.08
+Ben Johnson,West Ham,Norwich,,False,,0,,,,,0,,,0.0,0,0,0,0.8,0.01,40.23,0.08
+Ben Johnson,West Ham,Manchester City,2022-05-15,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.8,0.01,38.97,0.08
+Ben Johnson,West Ham,Brighton,2022-05-22,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,1.0,0.01,38.03,0.08
+Ben Johnson,West Ham,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.8,0.0,36.88,0.08
+Ben Johnson,West Ham,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,35.79,0.08
+Ben Johnson,West Ham,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,34.77,0.08
+Ben Johnson,West Ham,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,33.81,0.08
+Ben Johnson,West Ham,Everton,2021-10-17,False,DR,90,0.0,0.0,0.0,0.04,7,0.0,1.0,3.9,1,1,0,0.2,0.0,35.32,0.15
+Ben Johnson,West Ham,Tottenham,2021-10-24,True,DR,90,0.0,0.05,0.0,0.06,6,1.0,1.0,3.9,0,1,0,1.4,0.0,36.76,0.21

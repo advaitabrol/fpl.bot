@@ -1,13 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Jack Hinshelwood,Brighton,Nottingham Forest,2023-11-25,False,Sub,55,0,0.0,0,0.0,1,0,0,1.0,0,0,1,False,0.0,0.0,55.0,0,0,0,0,1.0,0
-Jack Hinshelwood,Brighton,Chelsea,2023-12-03,False,DL,56,0,0.0,0,0.0,0,0,0,0.4,0,0,2,True,1.0,0.0,55.5,0,0,0,0,1.0,10
-Jack Hinshelwood,Brighton,Brentford,2023-12-06,True,DR,72,1,0.09,0,0.54,10,1,1,9.6,3,0,1,True,0.5,0.0,61.0,0,0,0,0,1.0,1
-Jack Hinshelwood,Brighton,Burnley,2023-12-09,True,Sub,31,0,0.91,0,0.0,1,4,0,6.5,0,0,0,False,3.67,0.03,53.5,0,0,0,0,1.0,2
-Jack Hinshelwood,Brighton,Arsenal,2023-12-17,False,Sub,63,0,0.11,0,0.0,2,2,0,3.4,0,0,2,False,3.0,0.25,55.4,0,0,0,0,1.0,2
-Jack Hinshelwood,Brighton,Crystal Palace,2023-12-21,False,DR,74,0,0.39,0,0.06,2,2,1,3.0,0,0,1,True,2.8,0.22,58.5,0,0,0,0,1.0,9
-Jack Hinshelwood,Brighton,Tottenham,2023-12-28,True,DR,90,1,0.33,0,0.0,9,1,0,6.1,2,0,2,True,3.0,0.3,63.0,0,0,0,0,1.0,3
-Jack Hinshelwood,Brighton,West Ham,2024-01-02,False,DR,90,0,0.22,0,0.07,3,3,1,7.9,0,1,0,True,4.8,0.37,66.38,0,0,0,0,1.0,3
-Jack Hinshelwood,Brighton,Wolverhampton,2024-01-22,True,DR,90,0,0.0,0,0.06,3,0,3,5.7,0,1,0,True,3.4,0.39,69.0,0,0,0,0,1.0,2
-Jack Hinshelwood,Brighton,Luton,2024-01-30,False,Sub,70,0,0.0,0,0.0,2,0,0,1.0,0,0,2,False,3.8,0.21,69.1,0,0,0,0,1.0,7
-Jack Hinshelwood,Brighton,Crystal Palace,2024-02-03,True,DMR,90,1,0.1,0,0.0,7,1,0,7.3,0,0,1,True,3.8,0.19,71.0,0,0,0,0,1.0,2
-Jack Hinshelwood,Brighton,Aston Villa,2023-09-30,False,DMC,85,0,0.0,0,0.11,2,0,2,3.1,0,0,5,True,4.8,0.13,72.17,0,0,0,0,1.0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Jack Hinshelwood,Brighton,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,True,Fulham,-0.16
+Jack Hinshelwood,Brighton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,False,Everton,-1.62
+Jack Hinshelwood,Brighton,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,True,Sheffield,-1.39
+Jack Hinshelwood,Brighton,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,Brighton,False,Nottingham Forest,0.99
+Jack Hinshelwood,Brighton,Nottingham Forest,2023-11-25,False,Sub,55,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,1,False,0.0,0.0,11.0,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,False,Chelsea,-0.59
+Jack Hinshelwood,Brighton,Chelsea,2023-12-03,False,DL,56,0.0,0.0,0.0,0.0,0,0.0,0.0,0.4,0,0,2,True,0.2,0.0,18.5,0.0,0.0,0.0,0.0,1.0,10.0,Brighton,True,Brentford,-1.45
+Jack Hinshelwood,Brighton,Brentford,2023-12-06,True,DR,72,1.0,0.09,0.0,0.54,10,1.0,1.0,9.6,3,0,1,True,0.2,0.0,26.14,0.0,0.0,0.0,0.0,1.0,1.0,Brighton,True,Burnley,2.43
+Jack Hinshelwood,Brighton,Burnley,2023-12-09,True,Sub,31,0.0,0.91,0.0,0.0,1,4.0,0.0,6.5,0,0,0,False,2.2,0.02,26.75,0.0,0.0,0.0,0.0,1.0,2.0,Brighton,False,Arsenal,-1.78
+Jack Hinshelwood,Brighton,Arsenal,2023-12-17,False,Sub,63,0.0,0.11,0.0,0.0,2,2.0,0.0,3.4,0,0,2,False,2.4,0.2,30.78,0.0,0.0,0.0,0.0,1.0,2.0,Brighton,False,Crystal Palace,0.44
+Jack Hinshelwood,Brighton,Crystal Palace,2023-12-21,False,DR,74,0.0,0.39,0.0,0.06,2,2.0,1.0,3.0,0,0,1,True,2.8,0.22,35.1,0.0,0.0,0.0,0.0,1.0,9.0,Brighton,True,Tottenham,-0.36
+Jack Hinshelwood,Brighton,Tottenham,2023-12-28,True,DR,90,1.0,0.33,0.0,0.0,9,1.0,0.0,6.1,2,0,2,True,3.0,0.3,40.09,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,False,Wolverhampton,-2.88
+Jack Hinshelwood,Brighton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,4.8,0.37,36.75,0.0,0.0,0.0,0.0,1.0,3.0,Brighton,False,West Ham,-0.99
+Jack Hinshelwood,Brighton,West Ham,2024-01-02,False,DR,90,0.0,0.22,0.0,0.07,3,3.0,1.0,7.9,0,1,0,True,2.8,0.35,40.85,0.0,0.0,0.0,0.0,1.0,3.0,Brighton,True,Wolverhampton,-1.51
+Jack Hinshelwood,Brighton,Wolverhampton,2024-01-22,True,DR,90,0.0,0.0,0.0,0.06,3,0.0,3.0,5.7,0,1,0,True,3.2,0.21,44.36,0.0,0.0,0.0,0.0,1.0,2.0,Brighton,False,Luton,5.03
+Jack Hinshelwood,Brighton,Luton,2024-01-30,False,Sub,70,0.0,0.0,0.0,0.0,2,0.0,0.0,1.0,0,0,2,False,3.4,0.19,46.07,0.0,0.0,0.0,0.0,1.0,7.0,Brighton,True,Crystal Palace,-1.88
+Jack Hinshelwood,Brighton,Crystal Palace,2024-02-03,True,DMR,90,1.0,0.1,0.0,0.0,7,1.0,0.0,7.3,0,0,1,True,3.4,0.11,48.81,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,False,Tottenham,-0.37
+Jack Hinshelwood,Brighton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,3.0,0.07,45.94,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,False,Sheffield,-3.96
+Jack Hinshelwood,Brighton,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,3.0,0.07,43.39,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,True,Everton,2.52
+Jack Hinshelwood,Brighton,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,2.4,0.02,41.11,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,False,Fulham,1.99
+Jack Hinshelwood,Brighton,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.02,39.05,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,True,Nottingham Forest,-0.8
+Jack Hinshelwood,Brighton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.02,37.19,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,True,West Ham,-1.35
+Jack Hinshelwood,Brighton,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,35.5,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,False,Liverpool,-1.55
+Jack Hinshelwood,Brighton,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,33.96,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,False,Brentford,0.34
+Jack Hinshelwood,Brighton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,32.54,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,True,Arsenal,2.84
+Jack Hinshelwood,Brighton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,31.24,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,False,Burnley,-0.32
+Jack Hinshelwood,Brighton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,30.04,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,True,Manchester City,2.39
+Jack Hinshelwood,Brighton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,28.93,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,False,Bournemouth,0.25
+Jack Hinshelwood,Brighton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,27.89,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,True,Aston Villa,0.69
+Jack Hinshelwood,Brighton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,26.93,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,False,Newcastle United,1.9
+Jack Hinshelwood,Brighton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,26.03,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,True,Chelsea,-2.26
+Jack Hinshelwood,Brighton,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,25.19,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,True,Manchester United,-2.4
+Jack Hinshelwood,Brighton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,24.41,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,True,Newcastle United,-0.89
+Jack Hinshelwood,Brighton,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,23.67,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,False,Manchester United,-0.89
+Jack Hinshelwood,Brighton,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,22.97,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,True,Bournemouth,-1.36
+Jack Hinshelwood,Brighton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,22.31,0.0,0.0,0.0,0.0,1.0,2.0,Brighton,False,Aston Villa,2.71
+Jack Hinshelwood,Brighton,Aston Villa,2023-09-30,False,DMC,85,0.0,0.0,0.0,0.11,2,0.0,2.0,3.1,0,0,5,True,0.0,0.0,24.06,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,True,Liverpool,-1.1
+Jack Hinshelwood,Brighton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,23.41,0.0,0.0,0.0,0.0,1.0,0.0,Brighton,False,Manchester City,1.12
+Jack Hinshelwood,Brighton,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,22.79,0.0,0.0,0.0,0.0,1.0,,,,,

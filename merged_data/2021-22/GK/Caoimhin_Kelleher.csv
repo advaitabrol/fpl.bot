@@ -1,3 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,form,clean_sheet_probability
-Caoimhin Kelleher,Liverpool,Chelsea,2022-01-02,False,90,2,4,0,2,0,False,0,0.0,0.0
-Caoimhin Kelleher,Liverpool,Watford,2021-10-16,False,90,0,2,0,6,0,True,0,2.0,0.5
+name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,form,clean_sheet_probability,saves_per_game
+Caoimhin Kelleher,Liverpool,Norwich,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Caoimhin Kelleher,Liverpool,Brighton,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Caoimhin Kelleher,Liverpool,West Ham,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Caoimhin Kelleher,Liverpool,Arsenal,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Caoimhin Kelleher,Liverpool,Southampton,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Caoimhin Kelleher,Liverpool,Everton,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Caoimhin Kelleher,Liverpool,Wolverhampton,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Caoimhin Kelleher,Liverpool,Aston Villa,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Caoimhin Kelleher,Liverpool,Newcastle United,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Caoimhin Kelleher,Liverpool,Tottenham,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Caoimhin Kelleher,Liverpool,Burnley,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Caoimhin Kelleher,Liverpool,Leeds United,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Caoimhin Kelleher,Liverpool,Chelsea,2022-01-02,False,90,2,4,0,2,0,False,0.0,0.0,0.0,0.31
+Caoimhin Kelleher,Liverpool,Brentford,,True,0,0,0,0,0,0,False,,0.4,0.0,0.29
+Caoimhin Kelleher,Liverpool,Crystal Palace,,False,0,0,0,0,0,0,False,,0.4,0.0,0.27
+Caoimhin Kelleher,Liverpool,Leeds United,,True,0,0,0,0,0,0,False,,0.4,0.0,0.25
+Caoimhin Kelleher,Liverpool,Burnley,,False,0,0,0,0,0,0,False,,0.4,0.0,0.24
+Caoimhin Kelleher,Liverpool,Norwich,,True,0,0,0,0,0,0,False,,0.4,0.0,0.22
+Caoimhin Kelleher,Liverpool,Leicester City,,True,0,0,0,0,0,0,False,,0.0,0.0,0.21
+Caoimhin Kelleher,Liverpool,West Ham,,True,0,0,0,0,0,0,False,,0.0,0.0,0.2
+Caoimhin Kelleher,Liverpool,Brighton,,False,0,0,0,0,0,0,False,,0.0,0.0,0.19
+Caoimhin Kelleher,Liverpool,Arsenal,,False,0,0,0,0,0,0,False,,0.0,0.0,0.18
+Caoimhin Kelleher,Liverpool,Chelsea,,True,0,0,0,0,0,0,False,,0.0,0.0,0.17
+Caoimhin Kelleher,Liverpool,Watford,,True,0,0,0,0,0,0,False,,0.0,0.0,0.17
+Caoimhin Kelleher,Liverpool,Manchester City,,False,0,0,0,0,0,0,False,,0.0,0.0,0.16
+Caoimhin Kelleher,Liverpool,Manchester United,,True,0,0,0,0,0,0,False,,0.0,0.0,0.15
+Caoimhin Kelleher,Liverpool,Everton,,True,0,0,0,0,0,0,False,,0.0,0.0,0.15
+Caoimhin Kelleher,Liverpool,Newcastle United,,False,0,0,0,0,0,0,False,,0.0,0.0,0.14
+Caoimhin Kelleher,Liverpool,Tottenham,,True,0,0,0,0,0,0,False,,0.0,0.0,0.14
+Caoimhin Kelleher,Liverpool,Aston Villa,,False,0,0,0,0,0,0,False,,0.0,0.0,0.13
+Caoimhin Kelleher,Liverpool,Southampton,,False,0,0,0,0,0,0,False,,0.0,0.0,0.13
+Caoimhin Kelleher,Liverpool,Wolverhampton,,True,0,0,0,0,0,0,False,,0.0,0.0,0.12
+Caoimhin Kelleher,Liverpool,Leicester City,,False,0,0,0,0,0,0,False,,0.0,0.0,0.12
+Caoimhin Kelleher,Liverpool,Crystal Palace,,True,0,0,0,0,0,0,False,,0.0,0.0,0.12
+Caoimhin Kelleher,Liverpool,Brentford,,False,0,0,0,0,0,0,False,,0.0,0.0,0.11
+Caoimhin Kelleher,Liverpool,Manchester City,,True,0,0,0,0,0,0,False,,0.0,0.0,0.11
+Caoimhin Kelleher,Liverpool,Watford,2021-10-16,False,90,0,2,0,6,0,True,0.0,0.0,0.5,0.16
+Caoimhin Kelleher,Liverpool,Manchester United,,False,0,0,0,0,0,0,False,,1.2,0.5,0.16

@@ -1,24 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Marcus Tavernier,Bournemouth,Aston Villa,2022-08-06,True,MC,85,0,0.0,0,0.33,3,0,3,5.7,0,1,0,False,0.0,0.0,85.0,0,0,0,0,0,2
-Marcus Tavernier,Bournemouth,Leeds United,2022-10-08,True,ML,90,0,0.06,0,0.0,2,1,0,2.0,0,0,1,False,3.0,0.0,87.5,0,0,0,0,0,2
-Marcus Tavernier,Bournemouth,Fulham,2022-10-15,False,ML,74,0,0.03,0,0.0,2,2,0,3.8,0,0,2,False,2.5,0.03,83.0,0,0,0,0,0,2
-Marcus Tavernier,Bournemouth,Southampton,2022-10-19,True,DR,90,0,0.13,0,0.0,2,4,0,7.2,0,0,1,False,2.33,0.03,84.75,0,0,0,0,0,2
-Marcus Tavernier,Bournemouth,West Ham,2022-10-24,False,AML,90,0,0.02,0,0.0,2,1,0,1.0,0,0,2,False,2.25,0.06,85.8,0,0,0,0,0,5
-Marcus Tavernier,Bournemouth,Tottenham,2022-10-29,True,DMR,77,0,0.05,1,0.35,5,1,1,5.7,0,0,2,False,2.2,0.05,84.33,0,0,0,0,0,16
-Marcus Tavernier,Bournemouth,Leicester City,2022-11-05,False,ML,90,1,0.69,2,0.22,16,2,2,14.9,3,0,4,False,2.6,0.26,85.14,0,0,0,0,0,14
-Marcus Tavernier,Bournemouth,Everton,2022-11-12,True,MR,79,1,0.65,1,0.87,14,5,2,17.5,3,1,0,True,5.4,0.79,84.38,0,0,0,0,0,2
-Marcus Tavernier,Bournemouth,Manchester City,2022-08-13,False,AMC,79,0,0.0,0,0.0,2,0,0,0.3,0,0,4,False,7.8,1.11,83.78,0,0,0,0,0,1
-Marcus Tavernier,Bournemouth,Newcastle United,2023-02-11,True,Sub,27,0,0.05,0,0.0,1,1,0,2.3,0,0,0,False,7.8,1.08,78.1,0,0,0,0,0,8
-Marcus Tavernier,Bournemouth,Wolverhampton,2023-02-18,False,AML,56,1,0.89,0,0.0,8,1,0,7.1,2,0,0,True,7.6,1.09,76.09,0,0,0,0,0,7
-Marcus Tavernier,Bournemouth,Fulham,2023-04-01,True,Sub,45,1,0.07,0,0.21,7,2,1,7.6,1,0,0,False,8.2,1.06,73.5,0,0,0,0,0,1
-Marcus Tavernier,Bournemouth,Brighton,2023-04-04,True,Sub,32,0,0.02,0,0.0,1,1,0,0.5,0,0,1,False,6.4,0.53,70.31,0,0,0,0,0,2
-Marcus Tavernier,Bournemouth,Arsenal,2022-08-20,True,MC,90,0,0.12,0,0.01,2,2,1,2.4,0,0,3,False,3.8,0.21,71.71,0,0,0,0,0,1
-Marcus Tavernier,Bournemouth,Leeds United,2023-04-08,False,Sub,52,0,0.08,0,0.0,1,1,0,1.2,0,0,0,False,3.8,0.23,70.4,0,0,0,0,0,2
-Marcus Tavernier,Bournemouth,Tottenham,2023-04-15,False,DMR,78,0,0.11,0,0.0,2,2,0,5.0,0,0,1,True,3.8,0.24,70.88,0,0,0,0,0,2
-Marcus Tavernier,Bournemouth,West Ham,2023-04-23,True,DML,90,0,0.01,0,0.28,2,1,1,4.7,0,0,4,True,2.6,0.08,72.0,0,0,0,0,0,11
-Marcus Tavernier,Bournemouth,Southampton,2023-04-27,False,DMR,77,1,0.34,0,0.12,11,3,2,0.0,3,1,0,True,1.6,0.07,72.28,0,0,0,0,0,2
-Marcus Tavernier,Bournemouth,Liverpool,2022-08-27,False,AML,90,0,0.0,0,0.02,2,0,1,5.2,0,0,9,False,3.6,0.13,73.21,0,0,0,0,0,3
-Marcus Tavernier,Bournemouth,Wolverhampton,2022-08-31,True,MR,90,0,0.07,0,0.11,3,1,1,6.5,0,1,0,False,3.6,0.11,74.05,0,0,0,0,0,2
-Marcus Tavernier,Bournemouth,Nottingham Forest,2022-09-03,False,AML,90,0,0.24,0,0.13,2,2,1,5.8,0,0,2,False,4.0,0.11,74.81,0,0,0,0,0,1
-Marcus Tavernier,Bournemouth,Newcastle United,2022-09-17,False,AMR,79,0,0.13,0,0.04,1,2,1,2.9,0,0,1,False,4.0,0.13,75.0,0,0,0,0,0,3
-Marcus Tavernier,Bournemouth,Brentford,2022-10-01,True,MR,90,0,0.16,0,0.0,3,2,0,3.5,0,1,0,False,3.8,0.16,75.65,0,0,0,0,0,2
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Marcus Tavernier,Bournemouth,Aston Villa,2022-08-06,True,MC,85,0.0,0.0,0.0,0.33,3,0.0,3.0,5.7,0,1,0,False,0.0,0.0,85.0,0,0,0,0,0,2,Bournemouth,True,Leeds United,-2.17
+Marcus Tavernier,Bournemouth,Leeds United,2022-10-08,True,ML,90,0.0,0.06,0.0,0.0,2,1.0,0.0,2.0,0,0,1,False,3.0,0.0,87.5,0,0,0,0,0,2,Bournemouth,False,Fulham,0.65
+Marcus Tavernier,Bournemouth,Fulham,2022-10-15,False,ML,74,0.0,0.03,0.0,0.0,2,2.0,0.0,3.8,0,0,2,False,2.5,0.03,83.0,0,0,0,0,0,2,Bournemouth,True,Southampton,2.91
+Marcus Tavernier,Bournemouth,Southampton,2022-10-19,True,DR,90,0.0,0.13,0.0,0.0,2,4.0,0.0,7.2,0,0,1,False,2.33,0.03,84.75,0,0,0,0,0,2,Bournemouth,False,West Ham,1.5
+Marcus Tavernier,Bournemouth,West Ham,2022-10-24,False,AML,90,0.0,0.02,0.0,0.0,2,1.0,0.0,1.0,0,0,2,False,2.25,0.06,85.8,0,0,0,0,0,5,Bournemouth,True,Tottenham,1.6
+Marcus Tavernier,Bournemouth,Tottenham,2022-10-29,True,DMR,77,0.0,0.05,1.0,0.35,5,1.0,1.0,5.7,0,0,2,False,2.2,0.05,84.33,0,0,0,0,0,16,Bournemouth,False,Leicester City,-1.39
+Marcus Tavernier,Bournemouth,Leicester City,2022-11-05,False,ML,90,1.0,0.69,2.0,0.22,16,2.0,2.0,14.9,3,0,4,False,2.6,0.26,85.14,0,0,0,0,0,14,Bournemouth,True,Everton,-3.5
+Marcus Tavernier,Bournemouth,Everton,2022-11-12,True,MR,79,1.0,0.65,1.0,0.87,14,5.0,2.0,17.5,3,1,0,True,5.4,0.79,84.38,0,0,0,0,0,0,Bournemouth,False,Chelsea,1.75
+Marcus Tavernier,Bournemouth,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,7.8,1.11,75.0,0,0,0,0,0,0,Bournemouth,True,Crystal Palace,0.58
+Marcus Tavernier,Bournemouth,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,7.4,1.08,67.5,0,0,0,0,0,0,Bournemouth,False,Manchester United,-1.42
+Marcus Tavernier,Bournemouth,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,7.0,1.08,61.36,0,0,0,0,0,2,Bournemouth,False,Manchester City,2.96
+Marcus Tavernier,Bournemouth,Manchester City,2022-08-13,False,AMC,79,0.0,0.0,0.0,0.0,2,0.0,0.0,0.3,0,0,4,False,6.0,0.87,62.83,0,0,0,0,0,0,Bournemouth,False,Brentford,0.82
+Marcus Tavernier,Bournemouth,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,3.2,0.33,58.0,0,0,0,0,0,0,Bournemouth,True,Nottingham Forest,-0.18
+Marcus Tavernier,Bournemouth,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,53.86,0,0,0,0,0,0,Bournemouth,False,Brighton,0.77
+Marcus Tavernier,Bournemouth,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,50.27,0,0,0,0,0,1,Bournemouth,True,Newcastle United,-1.78
+Marcus Tavernier,Bournemouth,Newcastle United,2023-02-11,True,Sub,27,0.0,0.05,0.0,0.0,1,1.0,0.0,2.3,0,0,0,False,0.4,0.0,48.81,0,0,0,0,0,8,Bournemouth,False,Wolverhampton,-2.03
+Marcus Tavernier,Bournemouth,Wolverhampton,2023-02-18,False,AML,56,1.0,0.89,0.0,0.0,8,1.0,0.0,7.1,2,0,0,True,0.6,0.01,49.24,0,0,0,0,0,0,Bournemouth,True,Manchester City,1.44
+Marcus Tavernier,Bournemouth,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.19,46.5,0,0,0,0,0,0,Bournemouth,False,Arsenal,0.25
+Marcus Tavernier,Bournemouth,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.19,44.05,0,0,0,0,0,0,Bournemouth,True,Liverpool,0.55
+Marcus Tavernier,Bournemouth,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.19,41.85,0,0,0,0,0,0,Bournemouth,False,Aston Villa,2.29
+Marcus Tavernier,Bournemouth,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.19,39.86,0,0,0,0,0,7,Bournemouth,True,Fulham,-3.96
+Marcus Tavernier,Bournemouth,Fulham,2023-04-01,True,Sub,45,1.0,0.07,0.0,0.21,7,2.0,1.0,7.6,1,0,0,False,1.6,0.18,40.09,0,0,0,0,0,1,Bournemouth,True,Brighton,-1.19
+Marcus Tavernier,Bournemouth,Brighton,2023-04-04,True,Sub,32,0.0,0.02,0.0,0.0,1,1.0,0.0,0.5,0,0,1,False,1.4,0.01,39.74,0,0,0,0,0,2,Bournemouth,True,Arsenal,4.06
+Marcus Tavernier,Bournemouth,Arsenal,2022-08-20,True,MC,90,0.0,0.12,0.0,0.01,2,2.0,1.0,2.4,0,0,3,False,1.6,0.02,41.83,0,0,0,0,0,1,Bournemouth,False,Leeds United,-0.64
+Marcus Tavernier,Bournemouth,Leeds United,2023-04-08,False,Sub,52,0.0,0.08,0.0,0.0,1,1.0,0.0,1.2,0,0,0,False,2.0,0.04,42.24,0,0,0,0,0,2,Bournemouth,False,Tottenham,0.69
+Marcus Tavernier,Bournemouth,Tottenham,2023-04-15,False,DMR,78,0.0,0.11,0.0,0.0,2,2.0,0.0,5.0,0,0,1,True,2.2,0.06,43.62,0,0,0,0,0,2,Bournemouth,True,West Ham,2.84
+Marcus Tavernier,Bournemouth,West Ham,2023-04-23,True,DML,90,0.0,0.01,0.0,0.28,2,1.0,1.0,4.7,0,0,4,True,2.6,0.08,45.33,0,0,0,0,0,11,Bournemouth,False,Southampton,-0.86
+Marcus Tavernier,Bournemouth,Southampton,2023-04-27,False,DMR,77,1.0,0.34,0.0,0.12,11,3.0,2.0,0.0,3,1,0,True,1.6,0.07,46.46,0,0,0,0,0,0,Bournemouth,True,Leicester City,-4.92
+Marcus Tavernier,Bournemouth,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,3.6,0.13,44.86,0,0,0,0,0,0,Bournemouth,True,Chelsea,-0.01
+Marcus Tavernier,Bournemouth,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,3.2,0.11,43.37,0,0,0,0,0,0,Bournemouth,False,Crystal Palace,0.17
+Marcus Tavernier,Bournemouth,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,3.0,0.09,41.97,0,0,0,0,0,0,Bournemouth,True,Manchester United,0.69
+Marcus Tavernier,Bournemouth,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,2.6,0.07,40.66,0,0,0,0,0,0,Bournemouth,False,Everton,3.85
+Marcus Tavernier,Bournemouth,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,2.2,0.07,39.42,0,0,0,0,0,2,Bournemouth,False,Liverpool,4.89
+Marcus Tavernier,Bournemouth,Liverpool,2022-08-27,False,AML,90,0.0,0.0,0.0,0.02,2,0.0,1.0,5.2,0,0,9,False,0.0,0.0,40.91,0,0,0,0,0,3,Bournemouth,True,Wolverhampton,0.64
+Marcus Tavernier,Bournemouth,Wolverhampton,2022-08-31,True,MR,90,0.0,0.07,0.0,0.11,3,1.0,1.0,6.5,0,1,0,False,0.4,0.0,42.31,0,0,0,0,0,2,Bournemouth,False,Nottingham Forest,-0.87
+Marcus Tavernier,Bournemouth,Nottingham Forest,2022-09-03,False,AML,90,0.0,0.24,0.0,0.13,2,2.0,1.0,5.8,0,0,2,False,1.0,0.01,43.64,0,0,0,0,0,1,Bournemouth,False,Newcastle United,-1.24
+Marcus Tavernier,Bournemouth,Newcastle United,2022-09-17,False,AMR,79,0.0,0.13,0.0,0.04,1,2.0,1.0,2.9,0,0,1,False,1.4,0.06,44.59,0,0,0,0,0,3,Bournemouth,True,Brentford,0.86
+Marcus Tavernier,Bournemouth,Brentford,2022-10-01,True,MR,90,0.0,0.16,0.0,0.0,3,2.0,0.0,3.5,0,1,0,False,1.6,0.09,45.79,0,0,0,0,0,0,Bournemouth,True,West Ham,2.84

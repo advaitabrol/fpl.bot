@@ -1,8 +1,20 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Jakub Kiwior,Arsenal,Crystal Palace,2023-03-19,True,Sub,4,0,0.0,0,0.0,1,0,0,0.3,0,0,0,0.18,False,0.0,0.0,4.0,0.0,0,0,0,0,1
-Jakub Kiwior,Arsenal,Liverpool,2023-04-09,False,Sub,10,0,0.0,0,0.0,1,0,0,0.0,0,0,1,1.82,False,1.0,0.0,7.0,0.0,0,0,0,0,2
-Jakub Kiwior,Arsenal,Chelsea,2023-05-02,True,DC,90,0,0.0,0,0.0,2,0,0,2.3,0,0,1,0.74,True,1.0,0.0,34.67,0.0,0,0,0,0,6
-Jakub Kiwior,Arsenal,Newcastle United,2023-05-07,False,DC,90,0,0.0,0,0.0,6,0,0,1.9,0,1,0,1.3,True,1.33,0.0,48.5,0.5,0,0,0,0,1
-Jakub Kiwior,Arsenal,Brighton,2023-05-14,True,DC,90,0,0.0,0,0.0,1,0,0,1.4,0,0,3,1.78,True,2.5,0.0,56.8,0.33,0,0,0,0,2
-Jakub Kiwior,Arsenal,Nottingham Forest,2023-05-20,False,DL,62,0,0.0,0,0.0,2,0,0,0.4,0,0,1,0.32,True,2.2,0.0,57.67,0.25,0,0,0,0,13
-Jakub Kiwior,Arsenal,Wolverhampton,2023-05-28,True,DL,79,1,0.1,0,0.03,13,1,1,0.0,1,1,0,0.32,True,2.4,0.0,60.71,0.4,0,0,0,0,6
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Jakub Kiwior,Arsenal,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Arsenal,True,Brentford,-0.02
+Jakub Kiwior,Arsenal,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Arsenal,True,Manchester City,0.69
+Jakub Kiwior,Arsenal,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Arsenal,False,Aston Villa,-0.83
+Jakub Kiwior,Arsenal,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Arsenal,False,Leeds United,-1.65
+Jakub Kiwior,Arsenal,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Arsenal,True,Everton,-2.68
+Jakub Kiwior,Arsenal,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Arsenal,True,Bournemouth,-1.36
+Jakub Kiwior,Arsenal,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Arsenal,False,Fulham,-0.97
+Jakub Kiwior,Arsenal,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1,Arsenal,True,Crystal Palace,-2.84
+Jakub Kiwior,Arsenal,Crystal Palace,2023-03-19,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.18,False,0.0,0.0,0.44,0.0,0,0,0,0,0,Arsenal,True,Leicester City,-3.26
+Jakub Kiwior,Arsenal,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.4,0.0,0,0,0,0,1,Arsenal,False,Liverpool,0.87
+Jakub Kiwior,Arsenal,Liverpool,2023-04-09,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,1.82,False,0.2,0.0,1.27,0.0,0,0,0,0,0,Arsenal,False,West Ham,-2.34
+Jakub Kiwior,Arsenal,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,1.17,0.0,0,0,0,0,0,Arsenal,True,Southampton,-0.96
+Jakub Kiwior,Arsenal,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,1.08,0.0,0,0,0,0,0,Arsenal,False,Manchester City,2.4
+Jakub Kiwior,Arsenal,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,1.0,0.0,0,0,0,0,2,Arsenal,True,Chelsea,-2.12
+Jakub Kiwior,Arsenal,Chelsea,2023-05-02,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,1,0.74,True,0.2,0.0,6.93,0.0,0,0,0,0,6,Arsenal,False,Newcastle United,0.23
+Jakub Kiwior,Arsenal,Newcastle United,2023-05-07,False,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.9,0,1,0,1.3,True,0.6,0.0,12.12,0.5,0,0,0,0,1,Arsenal,True,Brighton,0.58
+Jakub Kiwior,Arsenal,Brighton,2023-05-14,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,3,1.78,True,1.6,0.0,16.71,0.33,0,0,0,0,2,Arsenal,False,Nottingham Forest,2.82
+Jakub Kiwior,Arsenal,Nottingham Forest,2023-05-20,False,DL,62,0.0,0.0,0.0,0.0,2,0.0,0.0,0.4,0,0,1,0.32,True,1.8,0.0,19.22,0.25,0,0,0,0,13,Arsenal,True,Wolverhampton,-2.6
+Jakub Kiwior,Arsenal,Wolverhampton,2023-05-28,True,DL,79,1.0,0.1,0.0,0.03,13,1.0,1.0,0.0,1,1,0,0.32,True,2.2,0.0,22.37,0.4,0,0,0,0,0,Arsenal,True,Nottingham Forest,-1.27

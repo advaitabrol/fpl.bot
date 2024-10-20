@@ -1,20 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,form,clean_sheet_probability
-Mathew Ryan,Brighton,Burnley,2021-08-14,False,0,0,0,0,0,0,False,0.08,0.0,0.0
-Mathew Ryan,Brighton,Aston Villa,2021-11-20,False,0,0,0,0,0,0,False,0.0,0.0,0.0
-Mathew Ryan,Brighton,Leicester City,2021-11-27,True,0,0,0,0,0,0,False,0.0,0.0,0.0
-Mathew Ryan,Brighton,West Ham,2021-12-01,False,0,0,0,0,0,0,False,0.0,0.0,0.0
-Mathew Ryan,Brighton,Brentford,2021-12-26,True,0,0,0,0,0,0,False,0.17,0.0,0.0
-Mathew Ryan,Brighton,Watford,2021-08-21,True,0,0,0,0,0,0,False,0.0,0.0,0.0
-Mathew Ryan,Brighton,Everton,2022-01-02,False,0,0,0,0,0,0,False,0.02,0.0,0.0
-Mathew Ryan,Brighton,Burnley,2022-02-19,True,0,0,0,0,0,0,False,0.08,0.0,0.0
-Mathew Ryan,Brighton,Aston Villa,2022-02-26,True,0,0,0,0,0,0,False,0.0,0.0,0.0
-Mathew Ryan,Brighton,Newcastle United,2022-03-05,False,0,0,0,0,0,0,False,0.45,0.0,0.0
-Mathew Ryan,Brighton,Everton,2021-08-28,True,0,0,0,0,0,0,False,0.0,0.0,0.0
-Mathew Ryan,Brighton,Norwich,2022-04-02,True,0,0,0,0,0,0,False,0.0,0.0,0.0
-Mathew Ryan,Brighton,Arsenal,2022-04-09,False,0,0,0,0,0,0,False,0.0,0.0,0.0
-Mathew Ryan,Brighton,Wolverhampton,2022-04-30,False,0,0,0,0,0,0,False,0.0,0.0,0.0
-Mathew Ryan,Brighton,Manchester United,2022-05-07,True,0,0,0,0,0,0,False,0.07,0.0,0.0
-Mathew Ryan,Brighton,Leicester City,2022-05-15,False,0,0,0,0,0,0,False,0.0,0.0,0.0
-Mathew Ryan,Brighton,West Ham,2022-05-22,True,0,0,0,0,0,0,False,0.0,0.0,0.0
-Mathew Ryan,Brighton,Brentford,2021-09-11,False,0,0,0,0,0,0,False,0.0,0.0,0.0
-Mathew Ryan,Brighton,Norwich,2021-10-16,False,0,0,0,0,0,0,False,0.07,0.0,0.0
+name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,form,clean_sheet_probability,saves_per_game
+Mathew Ryan,Brighton,Burnley,2021-08-14,False,0,0,0,0,0,0,False,0.08,0.0,0.0,0.0
+Mathew Ryan,Brighton,Liverpool,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Mathew Ryan,Brighton,Newcastle United,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Mathew Ryan,Brighton,Aston Villa,2021-11-20,False,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0
+Mathew Ryan,Brighton,Leicester City,2021-11-27,True,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0
+Mathew Ryan,Brighton,West Ham,2021-12-01,False,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0
+Mathew Ryan,Brighton,Southampton,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Mathew Ryan,Brighton,Wolverhampton,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Mathew Ryan,Brighton,Brentford,2021-12-26,True,0,0,0,0,0,0,False,0.17,0.0,0.0,0.0
+Mathew Ryan,Brighton,Watford,2021-08-21,True,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0
+Mathew Ryan,Brighton,Chelsea,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Mathew Ryan,Brighton,Everton,2022-01-02,False,0,0,0,0,0,0,False,0.02,0.0,0.0,0.0
+Mathew Ryan,Brighton,Crystal Palace,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Mathew Ryan,Brighton,Chelsea,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Mathew Ryan,Brighton,Leeds United,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Mathew Ryan,Brighton,Watford,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Mathew Ryan,Brighton,Manchester United,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Mathew Ryan,Brighton,Burnley,2022-02-19,True,0,0,0,0,0,0,False,0.08,0.0,0.0,0.0
+Mathew Ryan,Brighton,Aston Villa,2022-02-26,True,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0
+Mathew Ryan,Brighton,Newcastle United,2022-03-05,False,0,0,0,0,0,0,False,0.45,0.0,0.0,0.0
+Mathew Ryan,Brighton,Liverpool,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Mathew Ryan,Brighton,Tottenham,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Mathew Ryan,Brighton,Everton,2021-08-28,True,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0
+Mathew Ryan,Brighton,Norwich,2022-04-02,True,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0
+Mathew Ryan,Brighton,Arsenal,2022-04-09,False,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0
+Mathew Ryan,Brighton,Tottenham,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Mathew Ryan,Brighton,Manchester City,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Mathew Ryan,Brighton,Southampton,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Mathew Ryan,Brighton,Wolverhampton,2022-04-30,False,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0
+Mathew Ryan,Brighton,Manchester United,2022-05-07,True,0,0,0,0,0,0,False,0.07,0.0,0.0,0.0
+Mathew Ryan,Brighton,Leicester City,2022-05-15,False,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0
+Mathew Ryan,Brighton,West Ham,2022-05-22,True,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0
+Mathew Ryan,Brighton,Brentford,2021-09-11,False,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0
+Mathew Ryan,Brighton,Leeds United,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Mathew Ryan,Brighton,Crystal Palace,,False,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Mathew Ryan,Brighton,Arsenal,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
+Mathew Ryan,Brighton,Norwich,2021-10-16,False,0,0,0,0,0,0,False,0.07,0.0,0.0,0.0
+Mathew Ryan,Brighton,Manchester City,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0

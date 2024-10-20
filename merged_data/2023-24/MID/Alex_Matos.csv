@@ -1,2 +1,35 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Alex Matos,Chelsea,Fulham,2023-10-02,False,Sub,1,0,0,0,0,1,0,0,0.0,0,0,0,False,0,0,1.0,0,0,0,0,0,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Alex Matos,Chelsea,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Tottenham,-1.07
+Alex Matos,Chelsea,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Manchester City,0.19
+Alex Matos,Chelsea,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Newcastle United,0.94
+Alex Matos,Chelsea,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Brighton,-0.67
+Alex Matos,Chelsea,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Manchester United,1.87
+Alex Matos,Chelsea,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Everton,0.79
+Alex Matos,Chelsea,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Sheffield,-2.07
+Alex Matos,Chelsea,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Wolverhampton,1.62
+Alex Matos,Chelsea,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Crystal Palace,-1.51
+Alex Matos,Chelsea,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Luton,-0.0
+Alex Matos,Chelsea,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Fulham,-1.08
+Alex Matos,Chelsea,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Liverpool,0.96
+Alex Matos,Chelsea,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Wolverhampton,0.07
+Alex Matos,Chelsea,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Crystal Palace,-1.06
+Alex Matos,Chelsea,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Manchester City,-0.89
+Alex Matos,Chelsea,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Brentford,0.61
+Alex Matos,Chelsea,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Newcastle United,-0.99
+Alex Matos,Chelsea,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Burnley,0.34
+Alex Matos,Chelsea,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Manchester United,-1.31
+Alex Matos,Chelsea,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Sheffield,1.84
+Alex Matos,Chelsea,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Everton,-2.38
+Alex Matos,Chelsea,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Arsenal,1.29
+Alex Matos,Chelsea,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Aston Villa,-1.37
+Alex Matos,Chelsea,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Tottenham,-2.11
+Alex Matos,Chelsea,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,West Ham,-2.56
+Alex Matos,Chelsea,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Nottingham Forest,-0.41
+Alex Matos,Chelsea,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Brighton,1.01
+Alex Matos,Chelsea,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Bournemouth,-3.02
+Alex Matos,Chelsea,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Bournemouth,-1.53
+Alex Matos,Chelsea,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Aston Villa,0.42
+Alex Matos,Chelsea,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,1.0,Chelsea,False,Fulham,-2.13
+Alex Matos,Chelsea,Fulham,2023-10-02,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.03,0,0,0,0,0,0.0,Chelsea,False,Burnley,-2.71
+Alex Matos,Chelsea,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.03,0,0,0,0,0,0.0,Chelsea,True,Arsenal,2.1
+Alex Matos,Chelsea,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.03,0,0,0,0,0,,,,,

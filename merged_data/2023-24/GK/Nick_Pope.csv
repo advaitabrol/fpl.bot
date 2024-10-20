@@ -1,16 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points
-Nick Pope,Newcastle,Aston Villa,2023-08-12,True,90,1,1.9,5,0,3,0,False,0.0,True,0.0,0.0,2,25.17,0.39,2
-Nick Pope,Newcastle,Wolverhampton,2023-10-28,False,90,2,0.98,4,0,2,0,False,0.0,True,3.0,0.0,2,25.17,0.39,6
-Nick Pope,Newcastle,Arsenal,2023-11-04,True,90,0,0.56,1,0,6,0,True,0.0,True,2.5,0.33,2,25.17,0.39,4
-Nick Pope,Newcastle,Bournemouth,2023-11-11,False,90,2,2.49,8,0,4,1,False,0.0,True,3.67,0.25,2,25.17,0.39,3
-Nick Pope,Newcastle,Chelsea,2023-11-25,True,90,1,0.58,3,0,3,0,False,0.0,True,3.75,0.2,2,25.17,0.39,6
-Nick Pope,Newcastle,Manchester United,2023-12-02,True,85,0,0.17,1,0,6,0,True,0.0,True,3.6,0.33,2,25.17,0.39,3
-Nick Pope,Newcastle,Manchester City,2023-08-19,False,90,1,1.09,3,0,3,0,False,0.0,True,4.2,0.29,2,25.17,0.39,1
-Nick Pope,Newcastle,Liverpool,2023-08-27,True,90,2,0.95,2,0,1,0,False,0.0,True,4.4,0.25,2,25.17,0.39,1
-Nick Pope,Newcastle,Brentford,2024-05-19,False,90,2,1.22,3,0,1,0,False,0.0,True,3.4,0.22,2,25.17,0.39,2
-Nick Pope,Newcastle,Brighton,2023-09-02,False,90,3,1.42,4,0,2,0,False,0.0,True,2.8,0.2,2,25.17,0.39,6
-Nick Pope,Newcastle,Brentford,2023-09-16,True,90,0,0.54,2,0,6,0,True,0.0,True,2.6,0.27,2,25.17,0.39,6
-Nick Pope,Newcastle,Sheffield,2023-09-24,False,90,0,0.94,1,0,6,0,True,0.0,True,2.6,0.33,2,25.17,0.39,6
-Nick Pope,Newcastle,Burnley,2023-09-30,True,90,0,0.65,2,0,6,0,True,0.0,True,3.2,0.38,2,25.17,0.39,1
-Nick Pope,Newcastle,West Ham,2023-10-08,False,90,2,1.22,1,0,1,0,False,0.0,True,4.2,0.36,2,25.17,0.39,7
-Nick Pope,Newcastle,Crystal Palace,2023-10-21,True,90,0,1.21,3,0,7,0,True,0.0,True,4.2,0.4,2,25.17,0.39,
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty,saves_per_game,last_season_total_saves
+Nick Pope,Newcastle,Aston Villa,2023-08-12,True,90,1,1.9,5,0,3,0,False,0.0,True,0.0,0.0,2,25.17,0.39,2.0,Newcastle,False,Wolverhampton,0.77,5.0,87
+Nick Pope,Newcastle,Wolverhampton,2023-10-28,False,90,2,0.98,4,0,2,0,False,0.0,True,3.0,0.0,2,25.17,0.39,6.0,Newcastle,True,Arsenal,-0.34,4.5,87
+Nick Pope,Newcastle,Arsenal,2023-11-04,True,90,0,0.56,1,0,6,0,True,0.0,True,2.5,0.33,2,25.17,0.39,4.0,Newcastle,False,Bournemouth,1.83,3.33,87
+Nick Pope,Newcastle,Bournemouth,2023-11-11,False,90,2,2.49,8,0,4,1,False,0.0,True,3.67,0.25,2,25.17,0.39,3.0,Newcastle,True,Chelsea,-0.41,4.5,87
+Nick Pope,Newcastle,Chelsea,2023-11-25,True,90,1,0.58,3,0,3,0,False,0.0,True,3.75,0.2,2,25.17,0.39,6.0,Newcastle,True,Manchester United,-1.44,4.2,87
+Nick Pope,Newcastle,Manchester United,2023-12-02,True,85,0,0.17,1,0,6,0,True,0.0,True,3.6,0.33,2,25.17,0.39,0.0,Newcastle,False,Everton,1.08,3.67,87
+Nick Pope,Newcastle,Everton,,False,0,0,0.0,0,0,0,0,False,,False,4.2,0.33,2,25.17,0.39,0.0,Newcastle,False,Tottenham,3.36,3.14,87
+Nick Pope,Newcastle,Tottenham,,False,0,0,0.0,0,0,0,0,False,,False,3.8,0.33,2,25.17,0.39,0.0,Newcastle,True,Fulham,-0.43,2.75,87
+Nick Pope,Newcastle,Fulham,,True,0,0,0.0,0,0,0,0,False,,False,2.6,0.33,2,25.17,0.39,0.0,Newcastle,False,Luton,3.07,2.44,87
+Nick Pope,Newcastle,Luton,,False,0,0,0.0,0,0,0,0,False,,False,1.8,0.33,2,25.17,0.39,0.0,Newcastle,True,Nottingham Forest,2.13,2.2,87
+Nick Pope,Newcastle,Nottingham Forest,,True,0,0,0.0,0,0,0,0,False,,False,1.2,0.33,2,25.17,0.39,3.0,Newcastle,False,Manchester City,2.91,2.0,87
+Nick Pope,Newcastle,Manchester City,2023-08-19,False,90,1,1.09,3,0,3,0,False,0.0,True,0.0,0.29,2,25.17,0.39,0.0,Newcastle,False,Liverpool,2.07,2.08,87
+Nick Pope,Newcastle,Liverpool,,False,0,0,0.0,0,0,0,0,False,,False,0.6,0.29,2,25.17,0.39,0.0,Newcastle,True,Manchester City,3.23,1.92,87
+Nick Pope,Newcastle,Manchester City,,True,0,0,0.0,0,0,0,0,False,,False,0.6,0.29,2,25.17,0.39,0.0,Newcastle,False,Aston Villa,2.1,1.79,87
+Nick Pope,Newcastle,Aston Villa,,False,0,0,0.0,0,0,0,0,False,,False,0.6,0.29,2,25.17,0.39,0.0,Newcastle,True,Luton,2.48,1.67,87
+Nick Pope,Newcastle,Luton,,True,0,0,0.0,0,0,0,0,False,,False,0.6,0.29,2,25.17,0.39,0.0,Newcastle,False,Nottingham Forest,0.98,1.56,87
+Nick Pope,Newcastle,Nottingham Forest,,False,0,0,0.0,0,0,0,0,False,,False,0.6,0.29,2,25.17,0.39,0.0,Newcastle,True,Bournemouth,2.0,1.47,87
+Nick Pope,Newcastle,Bournemouth,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.29,2,25.17,0.39,0.0,Newcastle,False,Arsenal,1.52,1.39,87
+Nick Pope,Newcastle,Arsenal,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.29,2,25.17,0.39,0.0,Newcastle,True,Wolverhampton,-2.13,1.32,87
+Nick Pope,Newcastle,Wolverhampton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.29,2,25.17,0.39,0.0,Newcastle,False,Chelsea,0.97,1.25,87
+Nick Pope,Newcastle,Chelsea,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.29,2,25.17,0.39,1.0,Newcastle,True,Liverpool,1.54,1.19,87
+Nick Pope,Newcastle,Liverpool,2023-08-27,True,90,2,0.95,2,0,1,0,False,0.0,True,0.0,0.25,2,25.17,0.39,0.0,Newcastle,True,West Ham,0.92,1.23,87
+Nick Pope,Newcastle,West Ham,,True,0,0,0.0,0,0,0,0,False,,False,0.2,0.25,2,25.17,0.39,0.0,Newcastle,True,Everton,-2.28,1.17,87
+Nick Pope,Newcastle,Everton,,True,0,0,0.0,0,0,0,0,False,,False,0.2,0.25,2,25.17,0.39,0.0,Newcastle,False,Fulham,-1.79,1.12,87
+Nick Pope,Newcastle,Fulham,,False,0,0,0.0,0,0,0,0,False,,False,0.2,0.25,2,25.17,0.39,0.0,Newcastle,True,Tottenham,-3.04,1.08,87
+Nick Pope,Newcastle,Tottenham,,True,0,0,0.0,0,0,0,0,False,,False,0.2,0.25,2,25.17,0.39,0.0,Newcastle,False,Crystal Palace,0.54,1.04,87
+Nick Pope,Newcastle,Crystal Palace,,False,0,0,0.0,0,0,0,0,False,,False,0.2,0.25,2,25.17,0.39,0.0,Newcastle,True,Sheffield,-0.96,1.0,87
+Nick Pope,Newcastle,Sheffield,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,2,25.17,0.39,0.0,Newcastle,False,Burnley,-1.63,0.96,87
+Nick Pope,Newcastle,Burnley,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,2,25.17,0.39,0.0,Newcastle,True,Brighton,-2.35,0.93,87
+Nick Pope,Newcastle,Brighton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,2,25.17,0.39,0.0,Newcastle,False,Manchester United,0.69,0.9,87
+Nick Pope,Newcastle,Manchester United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,2,25.17,0.39,1.0,Newcastle,False,Brentford,-1.1,0.87,87
+Nick Pope,Newcastle,Brentford,2024-05-19,False,90,2,1.22,3,0,1,0,False,0.0,True,0.0,0.22,2,25.17,0.39,2.0,Newcastle,False,Brighton,0.38,0.94,87
+Nick Pope,Newcastle,Brighton,2023-09-02,False,90,3,1.42,4,0,2,0,False,0.0,True,0.2,0.2,2,25.17,0.39,6.0,Newcastle,True,Brentford,-2.07,1.03,87
+Nick Pope,Newcastle,Brentford,2023-09-16,True,90,0,0.54,2,0,6,0,True,0.0,True,0.6,0.27,2,25.17,0.39,6.0,Newcastle,False,Sheffield,-6.83,1.06,87
+Nick Pope,Newcastle,Sheffield,2023-09-24,False,90,0,0.94,1,0,6,0,True,0.0,True,1.8,0.33,2,25.17,0.39,6.0,Newcastle,True,Burnley,-2.77,1.06,87
+Nick Pope,Newcastle,Burnley,2023-09-30,True,90,0,0.65,2,0,6,0,True,0.0,True,3.0,0.38,2,25.17,0.39,1.0,Newcastle,False,West Ham,0.28,1.08,87
+Nick Pope,Newcastle,West Ham,2023-10-08,False,90,2,1.22,1,0,1,0,False,0.0,True,4.2,0.36,2,25.17,0.39,7.0,Newcastle,True,Crystal Palace,-2.12,1.08,87
+Nick Pope,Newcastle,Crystal Palace,2023-10-21,True,90,0,1.21,3,0,7,0,True,0.0,True,4.2,0.4,2,25.17,0.39,,,,,,1.13,87

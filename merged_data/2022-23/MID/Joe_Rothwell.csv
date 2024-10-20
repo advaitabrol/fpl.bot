@@ -1,21 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Joe Rothwell,Bournemouth,Southampton,2022-10-19,True,Sub,13,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,0.0,0.0,13.0,0,0,0,0,0,1
-Joe Rothwell,Bournemouth,Leicester City,2022-11-05,False,Sub,2,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,1.0,0.0,7.5,0,0,0,0,0,1
-Joe Rothwell,Bournemouth,Crystal Palace,2022-12-31,True,Sub,20,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,1.0,0.0,11.67,0,0,0,0,0,1
-Joe Rothwell,Bournemouth,Manchester United,2023-01-03,False,Sub,6,0,0.0,0,0.0,1,0,0,0.0,0,0,1,False,1.0,0.0,10.25,0,0,0,0,0,1
-Joe Rothwell,Bournemouth,Brentford,2023-01-14,False,Sub,12,0,0.0,0,0.0,1,0,0,0.1,0,0,0,False,1.0,0.0,10.6,0,0,0,0,0,3
-Joe Rothwell,Bournemouth,Nottingham Forest,2023-01-21,True,MC,74,0,0.04,0,0.24,3,1,3,6.4,0,1,0,True,1.0,0.0,21.17,0,0,0,0,0,1
-Joe Rothwell,Bournemouth,Brighton,2023-02-04,False,Sub,24,0,0.0,0,0.0,1,0,0,0.6,0,0,1,False,1.4,0.01,21.57,0,0,0,0,0,1
-Joe Rothwell,Bournemouth,Wolverhampton,2023-02-18,False,Sub,45,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,1.4,0.01,24.5,0,0,0,0,0,1
-Joe Rothwell,Bournemouth,Manchester City,2023-02-25,True,Sub,31,0,0.0,0,0.0,1,0,0,0.2,0,0,0,False,1.4,0.01,25.22,0,0,0,0,0,5
-Joe Rothwell,Bournemouth,Arsenal,2023-03-04,False,MC,70,0,0.0,1,0.58,5,0,2,6.0,0,0,2,True,1.4,0.01,29.7,0,0,0,0,0,3
-Joe Rothwell,Bournemouth,Liverpool,2023-03-11,True,MC,90,0,0.0,0,0.0,3,0,0,0.8,0,1,0,True,2.2,0.21,35.18,0,0,0,0,0,1
-Joe Rothwell,Bournemouth,Aston Villa,2023-03-18,False,MC,58,0,0.0,0,0.0,1,0,0,1.0,0,0,1,True,2.2,0.2,37.08,0,0,0,0,0,2
-Joe Rothwell,Bournemouth,Fulham,2023-04-01,True,MC,71,0,0.0,0,0.0,2,0,0,0.5,0,0,1,True,2.2,0.2,39.69,0,0,0,0,0,0
-Joe Rothwell,Bournemouth,Leeds United,2023-04-08,False,DMC,59,0,0.07,0,0.26,0,1,2,4.4,0,0,0,True,2.4,0.2,41.07,0,0,0,0,0,2
-Joe Rothwell,Bournemouth,Tottenham,2023-04-15,False,MC,90,0,0.0,0,0.0,2,0,0,1.7,0,0,2,True,2.2,0.21,44.33,0,0,0,0,0,1
-Joe Rothwell,Bournemouth,West Ham,2023-04-23,True,MC,45,0,0.0,0,0.12,1,0,1,2.8,0,0,3,True,1.6,0.01,44.38,0,0,0,0,0,3
-Joe Rothwell,Bournemouth,Southampton,2023-04-27,False,MC,90,0,0.04,0,0.0,3,1,0,0.0,0,1,0,True,1.2,0.01,47.06,0,0,0,0,0,2
-Joe Rothwell,Bournemouth,Leicester City,2023-04-30,True,DMC,72,0,0.0,0,0.0,2,0,0,0.7,0,0,1,True,1.6,0.02,48.44,0,0,0,0,0,1
-Joe Rothwell,Bournemouth,Chelsea,2023-05-06,True,DMC,58,0,0.0,0,0.0,1,0,0,0.3,0,0,1,True,1.6,0.02,48.95,0,0,0,0,0,2
-Joe Rothwell,Bournemouth,Crystal Palace,2023-05-13,False,DMC,80,0,0.0,0,0.0,2,0,0,0.9,0,0,2,True,1.8,0.01,50.5,0,0,0,0,0,2
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Joe Rothwell,Bournemouth,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Bournemouth,True,Leeds United,-2.17
+Joe Rothwell,Bournemouth,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Bournemouth,False,Fulham,0.65
+Joe Rothwell,Bournemouth,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,1,Bournemouth,True,Southampton,2.91
+Joe Rothwell,Bournemouth,Southampton,2022-10-19,True,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,3.25,0,0,0,0,0,0,Bournemouth,False,West Ham,1.5
+Joe Rothwell,Bournemouth,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.25,0.0,2.6,0,0,0,0,0,0,Bournemouth,True,Tottenham,1.6
+Joe Rothwell,Bournemouth,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,2.17,0,0,0,0,0,1,Bournemouth,False,Leicester City,-1.39
+Joe Rothwell,Bournemouth,Leicester City,2022-11-05,False,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,0.2,0.0,2.14,0,0,0,0,0,0,Bournemouth,True,Everton,-3.5
+Joe Rothwell,Bournemouth,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,1.88,0,0,0,0,0,0,Bournemouth,False,Chelsea,1.75
+Joe Rothwell,Bournemouth,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,1.67,0,0,0,0,0,1,Bournemouth,True,Crystal Palace,0.58
+Joe Rothwell,Bournemouth,Crystal Palace,2022-12-31,True,Sub,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.2,0.0,3.5,0,0,0,0,0,1,Bournemouth,False,Manchester United,-1.42
+Joe Rothwell,Bournemouth,Manchester United,2023-01-03,False,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,False,0.4,0.0,3.73,0,0,0,0,0,0,Bournemouth,False,Manchester City,2.96
+Joe Rothwell,Bournemouth,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,3.42,0,0,0,0,0,1,Bournemouth,False,Brentford,0.82
+Joe Rothwell,Bournemouth,Brentford,2023-01-14,False,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.4,0.0,4.08,0,0,0,0,0,3,Bournemouth,True,Nottingham Forest,-0.18
+Joe Rothwell,Bournemouth,Nottingham Forest,2023-01-21,True,MC,74,0.0,0.04,0.0,0.24,3,1.0,3.0,6.4,0,1,0,True,0.6,0.0,9.07,0,0,0,0,0,1,Bournemouth,False,Brighton,0.77
+Joe Rothwell,Bournemouth,Brighton,2023-02-04,False,Sub,24,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,False,1.2,0.01,10.07,0,0,0,0,0,0,Bournemouth,True,Newcastle United,-1.78
+Joe Rothwell,Bournemouth,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.01,9.44,0,0,0,0,0,1,Bournemouth,False,Wolverhampton,-2.03
+Joe Rothwell,Bournemouth,Wolverhampton,2023-02-18,False,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,1.0,0.01,11.53,0,0,0,0,0,1,Bournemouth,True,Manchester City,1.44
+Joe Rothwell,Bournemouth,Manchester City,2023-02-25,True,Sub,31,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,1.2,0.01,12.61,0,0,0,0,0,5,Bournemouth,False,Arsenal,0.25
+Joe Rothwell,Bournemouth,Arsenal,2023-03-04,False,MC,70,0.0,0.0,1.0,0.58,5,0.0,2.0,6.0,0,0,2,True,1.2,0.01,15.63,0,0,0,0,0,3,Bournemouth,True,Liverpool,0.55
+Joe Rothwell,Bournemouth,Liverpool,2023-03-11,True,MC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,0.8,0,1,0,True,1.6,0.2,19.35,0,0,0,0,0,1,Bournemouth,False,Aston Villa,2.29
+Joe Rothwell,Bournemouth,Aston Villa,2023-03-18,False,MC,58,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,1,True,2.0,0.2,21.19,0,0,0,0,0,2,Bournemouth,True,Fulham,-3.96
+Joe Rothwell,Bournemouth,Fulham,2023-04-01,True,MC,71,0.0,0.0,0.0,0.0,2,0.0,0.0,0.5,0,0,1,True,2.2,0.2,23.45,0,0,0,0,0,0,Bournemouth,True,Brighton,-1.19
+Joe Rothwell,Bournemouth,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,2.4,0.2,22.43,0,0,0,0,0,0,Bournemouth,True,Arsenal,4.06
+Joe Rothwell,Bournemouth,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,2.2,0.2,21.5,0,0,0,0,0,0,Bournemouth,False,Leeds United,-0.64
+Joe Rothwell,Bournemouth,Leeds United,2023-04-08,False,DMC,59,0.0,0.07,0.0,0.26,0,1.0,2.0,4.4,0,0,0,True,1.2,0.0,23.0,0,0,0,0,0,2,Bournemouth,False,Tottenham,0.69
+Joe Rothwell,Bournemouth,Tottenham,2023-04-15,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.7,0,0,2,True,0.6,0.01,25.58,0,0,0,0,0,1,Bournemouth,True,West Ham,2.84
+Joe Rothwell,Bournemouth,West Ham,2023-04-23,True,MC,45,0.0,0.0,0.0,0.12,1,0.0,1.0,2.8,0,0,3,True,0.8,0.01,26.3,0,0,0,0,0,3,Bournemouth,False,Southampton,-0.86
+Joe Rothwell,Bournemouth,Southampton,2023-04-27,False,MC,90,0.0,0.04,0.0,0.0,3,1.0,0.0,0.0,0,1,0,True,0.6,0.01,28.57,0,0,0,0,0,2,Bournemouth,True,Leicester City,-4.92
+Joe Rothwell,Bournemouth,Leicester City,2023-04-30,True,DMC,72,0.0,0.0,0.0,0.0,2,0.0,0.0,0.7,0,0,1,True,1.2,0.02,30.07,0,0,0,0,0,1,Bournemouth,True,Chelsea,-0.01
+Joe Rothwell,Bournemouth,Chelsea,2023-05-06,True,DMC,58,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,True,1.6,0.02,31.0,0,0,0,0,0,2,Bournemouth,False,Crystal Palace,0.17
+Joe Rothwell,Bournemouth,Crystal Palace,2023-05-13,False,DMC,80,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,0,2,True,1.8,0.01,32.58,0,0,0,0,0,0,Bournemouth,True,Manchester United,0.69
+Joe Rothwell,Bournemouth,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.01,31.56,0,0,0,0,0,0,Bournemouth,False,Everton,3.85
+Joe Rothwell,Bournemouth,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.01,30.61,0,0,0,0,0,0,Bournemouth,False,Liverpool,4.89
+Joe Rothwell,Bournemouth,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,29.71,0,0,0,0,0,0,Bournemouth,True,Wolverhampton,0.64
+Joe Rothwell,Bournemouth,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,28.86,0,0,0,0,0,0,Bournemouth,False,Nottingham Forest,-0.87
+Joe Rothwell,Bournemouth,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,28.06,0,0,0,0,0,0,Bournemouth,False,Newcastle United,-1.24
+Joe Rothwell,Bournemouth,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,27.3,0,0,0,0,0,0,Bournemouth,True,Brentford,0.86
+Joe Rothwell,Bournemouth,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,26.58,0,0,0,0,0,2,Bournemouth,True,West Ham,2.84

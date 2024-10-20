@@ -1,35 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
-Conor Gallagher,Crystal Palace,Manchester City,2021-10-30,False,MC,90,1,0.47,1,0.51,13,2,4,16.0,3,1,0,0.0,0.0,90.0
-Conor Gallagher,Crystal Palace,Wolverhampton,2021-11-06,True,MC,90,1,0.91,0,0.28,11,2,4,13.5,3,1,0,13.0,1.47,90.0
-Conor Gallagher,Crystal Palace,Burnley,2021-11-20,False,AMC,80,0,0.1,1,0.68,5,1,3,9.6,0,0,3,12.0,1.19,86.67
-Conor Gallagher,Crystal Palace,Aston Villa,2021-11-27,True,AMC,90,0,0.0,0,0.07,2,0,2,5.4,0,0,2,9.67,1.16,87.5
-Conor Gallagher,Crystal Palace,Leicester City,2021-11-30,False,MC,90,0,0.19,0,0.0,1,2,0,4.9,0,0,1,7.75,0.87,88.0
-Conor Gallagher,Crystal Palace,Manchester United,2021-12-05,False,MC,90,0,0.02,0,0.03,2,1,2,5.0,0,0,1,6.4,0.73,88.33
-Conor Gallagher,Crystal Palace,Everton,2021-12-12,True,MC,90,2,0.76,0,0.29,15,7,3,19.8,3,0,1,4.2,0.44,88.57
-Conor Gallagher,Crystal Palace,Southampton,2021-12-15,True,MC,90,0,0.0,0,0.11,2,0,2,4.7,0,0,2,5.0,0.41,88.75
-Conor Gallagher,Crystal Palace,Tottenham,2021-12-26,False,MC,74,0,0.0,0,0.07,2,0,2,4.0,0,0,3,4.4,0.19,87.11
-Conor Gallagher,Crystal Palace,Brentford,2021-08-21,True,MC,90,0,0.32,0,0.06,3,2,1,5.4,0,1,0,4.4,0.19,87.4
-Conor Gallagher,Crystal Palace,Brighton,2022-01-14,False,MC,90,1,0.47,0,0.0,9,1,0,6.7,2,0,1,4.8,0.22,87.64
-Conor Gallagher,Crystal Palace,Liverpool,2022-01-23,True,MC,90,0,0.61,0,0.0,1,1,0,1.1,0,0,3,6.2,0.31,87.83
-Conor Gallagher,Crystal Palace,Norwich,2022-02-09,False,MC,90,0,0.2,0,0.03,1,2,1,6.0,0,0,1,3.4,0.28,88.0
-Conor Gallagher,Crystal Palace,Brentford,2022-02-12,False,MC,90,0,0.0,0,0.07,3,0,1,2.7,0,1,0,3.2,0.32,88.14
-Conor Gallagher,Crystal Palace,Watford,2022-02-23,False,MC,90,1,0.32,0,0.0,12,1,0,6.1,2,0,1,3.4,0.32,88.27
-Conor Gallagher,Crystal Palace,Burnley,2022-02-26,True,MC,90,0,0.0,0,0.02,2,0,1,2.7,0,0,1,5.2,0.32,88.38
-Conor Gallagher,Crystal Palace,Wolverhampton,2022-03-05,False,MC,90,0,0.11,0,0.0,2,2,0,5.0,0,1,0,3.8,0.23,88.47
-Conor Gallagher,Crystal Palace,Manchester City,2022-03-14,True,AMC,90,0,0.05,0,0.0,2,1,0,1.4,0,1,0,4.0,0.13,88.56
-Conor Gallagher,Crystal Palace,West Ham,2021-08-28,False,MC,90,2,0.74,0,0.77,15,2,1,15.8,3,0,2,4.2,0.09,88.63
-Conor Gallagher,Crystal Palace,Arsenal,2022-04-04,True,MC,90,0,0.0,0,0.0,3,0,0,0.9,0,1,0,6.6,0.24,88.7
-Conor Gallagher,Crystal Palace,Leeds United,2022-04-10,False,AMC,57,0,0.0,0,0.09,1,0,1,1.8,0,0,2,4.8,0.18,87.19
-Conor Gallagher,Crystal Palace,Newcastle United,2022-04-20,False,AMC,59,0,0.0,0,0.0,0,0,0,0.7,0,0,1,4.6,0.18,85.91
-Conor Gallagher,Crystal Palace,Leicester City,2022-04-25,True,MC,90,0,0.25,0,0.0,3,3,0,5.6,0,1,0,4.2,0.16,86.09
-Conor Gallagher,Crystal Palace,Southampton,2022-04-30,False,MC,90,0,0.11,0,0.14,2,2,2,4.7,0,0,1,4.4,0.2,86.25
-Conor Gallagher,Crystal Palace,Watford,2022-05-07,True,MC,62,0,0.02,0,0.0,3,1,0,0.4,0,1,0,1.8,0.07,85.28
-Conor Gallagher,Crystal Palace,Aston Villa,2022-05-15,False,MC,90,0,0.09,0,0.0,1,3,0,5.3,0,0,1,1.8,0.08,85.46
-Conor Gallagher,Crystal Palace,Everton,2022-05-19,False,Sub,16,0,0.0,0,0.0,1,0,0,0.0,0,0,2,1.8,0.09,82.89
-Conor Gallagher,Crystal Palace,Manchester United,2022-05-22,True,AMC,90,0,0.05,0,0.02,3,1,1,0.0,0,1,0,2.0,0.09,83.14
-Conor Gallagher,Crystal Palace,Tottenham,2021-09-11,True,MC,90,0,1.53,1,0.59,8,6,3,15.5,0,1,0,2.0,0.05,83.38
-Conor Gallagher,Crystal Palace,Liverpool,2021-09-18,False,MC,90,0,0.0,0,0.05,2,0,2,5.0,0,0,3,3.2,0.54,83.6
-Conor Gallagher,Crystal Palace,Brighton,2021-09-27,True,MC,90,0,0.04,0,0.0,4,1,0,4.3,0,0,1,3.0,0.53,83.81
-Conor Gallagher,Crystal Palace,Leeds United,2021-10-03,True,MC,70,0,0.23,0,0.11,2,4,1,5.4,0,0,2,3.6,0.52,83.38
-Conor Gallagher,Crystal Palace,Arsenal,2021-10-18,False,AMC,90,0,0.09,0,0.0,2,3,0,3.0,0,0,2,3.8,0.57,83.58
-Conor Gallagher,Crystal Palace,Newcastle United,2021-10-23,True,AMC,85,0,0.02,0,0.13,2,1,2,6.1,0,0,1,3.6,0.58,83.62
+Conor Gallagher,Crystal Palace,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Conor Gallagher,Crystal Palace,Manchester City,2021-10-30,False,MC,90,1.0,0.47,1.0,0.51,13,2.0,4.0,16.0,3,1,0,0.0,0.0,45.0
+Conor Gallagher,Crystal Palace,Wolverhampton,2021-11-06,True,MC,90,1.0,0.91,0.0,0.28,11,2.0,4.0,13.5,3,1,0,6.5,0.73,60.0
+Conor Gallagher,Crystal Palace,Burnley,2021-11-20,False,AMC,80,0.0,0.1,1.0,0.68,5,1.0,3.0,9.6,0,0,3,8.0,0.79,65.0
+Conor Gallagher,Crystal Palace,Aston Villa,2021-11-27,True,AMC,90,0.0,0.0,0.0,0.07,2,0.0,2.0,5.4,0,0,2,7.25,0.87,70.0
+Conor Gallagher,Crystal Palace,Leicester City,2021-11-30,False,MC,90,0.0,0.19,0.0,0.0,1,2.0,0.0,4.9,0,0,1,6.2,0.7,73.33
+Conor Gallagher,Crystal Palace,Manchester United,2021-12-05,False,MC,90,0.0,0.02,0.0,0.03,2,1.0,2.0,5.0,0,0,1,6.4,0.73,75.71
+Conor Gallagher,Crystal Palace,Everton,2021-12-12,True,MC,90,2.0,0.76,0.0,0.29,15,7.0,3.0,19.8,3,0,1,4.2,0.44,77.5
+Conor Gallagher,Crystal Palace,Southampton,2021-12-15,True,MC,90,0.0,0.0,0.0,0.11,2,0.0,2.0,4.7,0,0,2,5.0,0.41,78.89
+Conor Gallagher,Crystal Palace,Tottenham,2021-12-26,False,MC,74,0.0,0.0,0.0,0.07,2,0.0,2.0,4.0,0,0,3,4.4,0.19,78.4
+Conor Gallagher,Crystal Palace,Brentford,2021-08-21,True,MC,90,0.0,0.32,0.0,0.06,3,2.0,1.0,5.4,0,1,0,4.4,0.19,79.45
+Conor Gallagher,Crystal Palace,Norwich,,True,,0,,,,,0,,,0.0,0,0,0,4.8,0.22,72.83
+Conor Gallagher,Crystal Palace,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,4.4,0.22,67.23
+Conor Gallagher,Crystal Palace,Brighton,2022-01-14,False,MC,90,1.0,0.47,0.0,0.0,9,1.0,0.0,6.7,2,0,1,1.4,0.06,68.86
+Conor Gallagher,Crystal Palace,Liverpool,2022-01-23,True,MC,90,0.0,0.61,0.0,0.0,1,1.0,0.0,1.1,0,0,3,2.8,0.16,70.27
+Conor Gallagher,Crystal Palace,Norwich,2022-02-09,False,MC,90,0.0,0.2,0.0,0.03,1,2.0,1.0,6.0,0,0,1,2.6,0.28,71.5
+Conor Gallagher,Crystal Palace,Brentford,2022-02-12,False,MC,90,0.0,0.0,0.0,0.07,3,0.0,1.0,2.7,0,1,0,2.2,0.25,72.59
+Conor Gallagher,Crystal Palace,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,2.8,0.25,68.56
+Conor Gallagher,Crystal Palace,Watford,2022-02-23,False,MC,90,1.0,0.32,0.0,0.0,12,1.0,0.0,6.1,2,0,1,2.8,0.25,69.68
+Conor Gallagher,Crystal Palace,Burnley,2022-02-26,True,MC,90,0.0,0.0,0.0,0.02,2,0.0,1.0,2.7,0,0,1,3.4,0.23,70.7
+Conor Gallagher,Crystal Palace,Wolverhampton,2022-03-05,False,MC,90,0.0,0.11,0.0,0.0,2,2.0,0.0,5.0,0,1,0,3.6,0.1,71.62
+Conor Gallagher,Crystal Palace,Manchester City,2022-03-14,True,AMC,90,0.0,0.05,0.0,0.0,2,1.0,0.0,1.4,0,1,0,3.8,0.08,72.45
+Conor Gallagher,Crystal Palace,West Ham,2021-08-28,False,MC,90,2.0,0.74,0.0,0.77,15,2.0,1.0,15.8,3,0,2,3.6,0.09,73.22
+Conor Gallagher,Crystal Palace,Arsenal,2022-04-04,True,MC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,0.9,0,1,0,6.6,0.24,73.92
+Conor Gallagher,Crystal Palace,Leeds United,2022-04-10,False,AMC,57,0.0,0.0,0.0,0.09,1,0.0,1.0,1.8,0,0,2,4.8,0.18,73.24
+Conor Gallagher,Crystal Palace,Newcastle United,2022-04-20,False,AMC,59,0.0,0.0,0.0,0.0,0,0.0,0.0,0.7,0,0,1,4.6,0.18,72.69
+Conor Gallagher,Crystal Palace,Leicester City,2022-04-25,True,MC,90,0.0,0.25,0.0,0.0,3,3.0,0.0,5.6,0,1,0,4.2,0.16,73.33
+Conor Gallagher,Crystal Palace,Southampton,2022-04-30,False,MC,90,0.0,0.11,0.0,0.14,2,2.0,2.0,4.7,0,0,1,4.4,0.2,73.93
+Conor Gallagher,Crystal Palace,Watford,2022-05-07,True,MC,62,0.0,0.02,0.0,0.0,3,1.0,0.0,0.4,0,1,0,1.8,0.07,73.52
+Conor Gallagher,Crystal Palace,Aston Villa,2022-05-15,False,MC,90,0.0,0.09,0.0,0.0,1,3.0,0.0,5.3,0,0,1,1.8,0.08,74.07
+Conor Gallagher,Crystal Palace,Everton,2022-05-19,False,Sub,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,2,1.8,0.09,72.19
+Conor Gallagher,Crystal Palace,Manchester United,2022-05-22,True,AMC,90,0.0,0.05,0.0,0.02,3,1.0,1.0,0.0,0,1,0,2.0,0.09,72.75
+Conor Gallagher,Crystal Palace,Tottenham,2021-09-11,True,MC,90,0.0,1.53,1.0,0.59,8,6.0,3.0,15.5,0,1,0,2.0,0.05,73.27
+Conor Gallagher,Crystal Palace,Liverpool,2021-09-18,False,MC,90,0.0,0.0,0.0,0.05,2,0.0,2.0,5.0,0,0,3,3.2,0.54,73.76
+Conor Gallagher,Crystal Palace,Brighton,2021-09-27,True,MC,90,0.0,0.04,0.0,0.0,4,1.0,0.0,4.3,0,0,1,3.0,0.53,74.23
+Conor Gallagher,Crystal Palace,Leeds United,2021-10-03,True,MC,70,0.0,0.23,0.0,0.11,2,4.0,1.0,5.4,0,0,2,3.6,0.52,74.11
+Conor Gallagher,Crystal Palace,Arsenal,2021-10-18,False,AMC,90,0.0,0.09,0.0,0.0,2,3.0,0.0,3.0,0,0,2,3.8,0.57,74.54
+Conor Gallagher,Crystal Palace,Newcastle United,2021-10-23,True,AMC,85,0.0,0.02,0.0,0.13,2,1.0,2.0,6.1,0,0,1,3.6,0.58,74.82

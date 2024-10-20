@@ -1,12 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
-Mark Noble,West Ham,Leeds United,2021-08-23,True,Sub,2,0,0.0,0,0.0,1,0,0,0.1,0,0,0,0.0,0.0,2.0
-Mark Noble,West Ham,Watford,2021-12-28,False,DMC,90,1,0.76,0,0.0,8,1,0,5.6,1,0,1,1.0,0.0,46.0
-Mark Noble,West Ham,Crystal Palace,2022-01-01,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,1,4.5,0.38,31.0
-Mark Noble,West Ham,Liverpool,2022-03-05,False,Sub,29,0,0.0,0,0.0,1,0,0,0.2,0,0,0,3.33,0.25,30.5
-Mark Noble,West Ham,Everton,2022-04-03,True,Sub,20,0,0.0,0,0.0,1,0,0,0.6,0,0,0,2.75,0.19,28.4
-Mark Noble,West Ham,Chelsea,2022-04-24,False,MC,61,0,0.0,0,0.0,3,0,0,1.7,0,1,0,2.4,0.15,33.83
-Mark Noble,West Ham,Arsenal,2022-05-01,True,DMC,76,0,0.0,0,0.0,2,0,0,2.0,0,0,2,2.8,0.15,39.86
-Mark Noble,West Ham,Norwich,2022-05-08,False,Sub,23,0,0.0,0,0.0,1,0,0,0.7,0,0,0,1.6,0.0,37.75
-Mark Noble,West Ham,Manchester City,2022-05-15,True,Sub,13,0,0.0,0,0.0,1,0,0,0.2,0,0,0,1.6,0.0,35.0
-Mark Noble,West Ham,Brighton,2022-05-22,False,Sub,9,0,0.0,0,0.02,1,0,1,0.0,0,0,1,1.6,0.0,32.4
-Mark Noble,West Ham,Manchester United,2021-09-19,True,Sub,1,0,0.76,0,0.0,-1,1,0,2.0,0,0,0,1.6,0.0,29.55
+Mark Noble,West Ham,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Mark Noble,West Ham,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Mark Noble,West Ham,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Mark Noble,West Ham,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Mark Noble,West Ham,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Mark Noble,West Ham,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Mark Noble,West Ham,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Mark Noble,West Ham,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Mark Noble,West Ham,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Mark Noble,West Ham,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
+Mark Noble,West Ham,Leeds United,2021-08-23,True,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,0.0,0.18
+Mark Noble,West Ham,Watford,2021-12-28,False,DMC,90,1.0,0.76,0.0,0.0,8,1.0,0.0,5.6,1,0,1,0.2,0.0,7.67
+Mark Noble,West Ham,Crystal Palace,2022-01-01,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,1.8,0.15,7.15
+Mark Noble,West Ham,Norwich,,True,,0,,,,,0,,,0.0,0,0,0,2.0,0.15,6.64
+Mark Noble,West Ham,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,2.0,0.15,6.2
+Mark Noble,West Ham,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,2.0,0.15,5.81
+Mark Noble,West Ham,Watford,,True,,0,,,,,0,,,0.0,0,0,0,1.8,0.15,5.47
+Mark Noble,West Ham,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,5.17
+Mark Noble,West Ham,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,4.89
+Mark Noble,West Ham,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,4.65
+Mark Noble,West Ham,Liverpool,2022-03-05,False,Sub,29,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,0.0,5.81
+Mark Noble,West Ham,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,5.55
+Mark Noble,West Ham,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,5.3
+Mark Noble,West Ham,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,5.08
+Mark Noble,West Ham,Everton,2022-04-03,True,Sub,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.2,0.0,5.68
+Mark Noble,West Ham,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,5.46
+Mark Noble,West Ham,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,5.26
+Mark Noble,West Ham,Chelsea,2022-04-24,False,MC,61,0.0,0.0,0.0,0.0,3,0.0,0.0,1.7,0,1,0,0.2,0.0,7.25
+Mark Noble,West Ham,Arsenal,2022-05-01,True,DMC,76,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,2,0.8,0.0,9.62
+Mark Noble,West Ham,Norwich,2022-05-08,False,Sub,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,1.2,0.0,10.07
+Mark Noble,West Ham,Manchester City,2022-05-15,True,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,1.2,0.0,10.16
+Mark Noble,West Ham,Brighton,2022-05-22,False,Sub,9,0.0,0.0,0.0,0.02,1,0.0,1.0,0.0,0,0,1,1.4,0.0,10.12
+Mark Noble,West Ham,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,1.6,0.0,9.82
+Mark Noble,West Ham,Manchester United,2021-09-19,True,Sub,1,0.0,0.76,0.0,0.0,-1,1.0,0.0,2.0,0,0,0,1.0,0.0,9.56
+Mark Noble,West Ham,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.15,9.29
+Mark Noble,West Ham,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.15,9.03
+Mark Noble,West Ham,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.15,8.78
+Mark Noble,West Ham,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,-0.2,0.15,8.55

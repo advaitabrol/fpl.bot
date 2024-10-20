@@ -1,2 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Deniz Undav,Brighton,Manchester United,2023-09-16,False,Sub,0,0,0.02,1,0.73,0,1,2,0.0,0,False,0,0,0.0,5,0,5.54,1.17,0.08,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_fixture_difficulty
+Deniz Undav,Brighton,Luton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,True,Fulham,-0.16
+Deniz Undav,Brighton,Fulham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,False,Everton,-1.62
+Deniz Undav,Brighton,Everton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,True,Sheffield,-1.39
+Deniz Undav,Brighton,Sheffield,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,False,Nottingham Forest,0.99
+Deniz Undav,Brighton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,False,Chelsea,-0.59
+Deniz Undav,Brighton,Chelsea,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,True,Brentford,-1.45
+Deniz Undav,Brighton,Brentford,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,True,Burnley,2.43
+Deniz Undav,Brighton,Burnley,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,False,Arsenal,-1.78
+Deniz Undav,Brighton,Arsenal,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,False,Crystal Palace,0.44
+Deniz Undav,Brighton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,True,Tottenham,-0.36
+Deniz Undav,Brighton,Tottenham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,False,Wolverhampton,-2.88
+Deniz Undav,Brighton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,False,West Ham,-0.99
+Deniz Undav,Brighton,West Ham,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,True,Wolverhampton,-1.51
+Deniz Undav,Brighton,Wolverhampton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,False,Luton,5.03
+Deniz Undav,Brighton,Luton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,True,Crystal Palace,-1.88
+Deniz Undav,Brighton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,False,Tottenham,-0.37
+Deniz Undav,Brighton,Tottenham,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,False,Sheffield,-3.96
+Deniz Undav,Brighton,Sheffield,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,True,Everton,2.52
+Deniz Undav,Brighton,Everton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,False,Fulham,1.99
+Deniz Undav,Brighton,Fulham,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,True,Nottingham Forest,-0.8
+Deniz Undav,Brighton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,True,West Ham,-1.35
+Deniz Undav,Brighton,West Ham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,False,Liverpool,-1.55
+Deniz Undav,Brighton,Liverpool,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,False,Brentford,0.34
+Deniz Undav,Brighton,Brentford,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,True,Arsenal,2.84
+Deniz Undav,Brighton,Arsenal,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,False,Burnley,-0.32
+Deniz Undav,Brighton,Burnley,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,True,Manchester City,2.39
+Deniz Undav,Brighton,Manchester City,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,False,Bournemouth,0.25
+Deniz Undav,Brighton,Bournemouth,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,True,Aston Villa,0.69
+Deniz Undav,Brighton,Aston Villa,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,False,Newcastle United,1.9
+Deniz Undav,Brighton,Newcastle United,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,True,Chelsea,-2.26
+Deniz Undav,Brighton,Chelsea,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,True,Manchester United,-2.4
+Deniz Undav,Brighton,Manchester United,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,True,Newcastle United,-0.89
+Deniz Undav,Brighton,Newcastle United,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,False,Manchester United,-0.89
+Deniz Undav,Brighton,Manchester United,2023-09-16,False,Sub,0,0.0,0.02,1.0,0.73,0,1.0,2.0,0.0,0,False,0.0,0.0,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,True,Bournemouth,-1.36
+Deniz Undav,Brighton,Bournemouth,,True,,0,,,,,0,,,0.0,0,False,0.0,0.2,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,False,Aston Villa,2.71
+Deniz Undav,Brighton,Aston Villa,,False,,0,,,,,0,,,0.0,0,False,0.0,0.2,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,True,Liverpool,-1.1
+Deniz Undav,Brighton,Liverpool,,True,,0,,,,,0,,,0.0,0,False,0.0,0.2,0.0,5.0,0.0,5.54,1.17,0.08,0.0,Brighton,False,Manchester City,1.12
+Deniz Undav,Brighton,Manchester City,,False,,0,,,,,0,,,0.0,0,False,0.0,0.2,0.0,5.0,0.0,5.54,1.17,0.08,,,,,
