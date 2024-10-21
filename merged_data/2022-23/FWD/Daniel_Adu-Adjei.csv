@@ -1,21 +1,21 @@
-name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Daniel Adu-Adjei,Bournemouth,Brentford,False,0,0,0.0,0,False,0.0,Bournemouth,True,Nottingham Forest,
-Daniel Adu-Adjei,Bournemouth,Nottingham Forest,True,0,0,0.0,0,False,0.0,Bournemouth,False,Brighton,
-Daniel Adu-Adjei,Bournemouth,Brighton,False,0,0,0.0,0,False,0.0,Bournemouth,True,Newcastle United,
-Daniel Adu-Adjei,Bournemouth,Newcastle United,True,0,0,0.0,0,False,0.0,Bournemouth,False,Wolverhampton,
-Daniel Adu-Adjei,Bournemouth,Wolverhampton,False,0,0,0.0,0,False,0.0,Bournemouth,True,Manchester City,
-Daniel Adu-Adjei,Bournemouth,Manchester City,True,0,0,0.0,0,False,0.0,Bournemouth,False,Arsenal,
-Daniel Adu-Adjei,Bournemouth,Arsenal,False,0,0,0.0,0,False,0.0,Bournemouth,True,Liverpool,
-Daniel Adu-Adjei,Bournemouth,Liverpool,True,0,0,0.0,0,False,0.0,Bournemouth,False,Aston Villa,
-Daniel Adu-Adjei,Bournemouth,Aston Villa,False,0,0,0.0,0,False,0.0,Bournemouth,True,Fulham,
-Daniel Adu-Adjei,Bournemouth,Fulham,True,0,0,0.0,0,False,0.0,Bournemouth,True,Brighton,
-Daniel Adu-Adjei,Bournemouth,Brighton,True,0,0,0.0,0,False,0.0,Bournemouth,False,Leeds United,
-Daniel Adu-Adjei,Bournemouth,Leeds United,False,0,0,0.0,0,False,0.0,Bournemouth,False,Tottenham,
-Daniel Adu-Adjei,Bournemouth,Tottenham,False,0,0,0.0,0,False,0.0,Bournemouth,True,West Ham,
-Daniel Adu-Adjei,Bournemouth,West Ham,True,0,0,0.0,0,False,0.0,Bournemouth,False,Southampton,
-Daniel Adu-Adjei,Bournemouth,Southampton,False,0,0,0.0,0,False,0.0,Bournemouth,True,Leicester City,
-Daniel Adu-Adjei,Bournemouth,Leicester City,True,0,0,0.0,0,False,0.0,Bournemouth,True,Chelsea,
-Daniel Adu-Adjei,Bournemouth,Chelsea,True,0,0,0.0,0,False,0.0,Bournemouth,False,Crystal Palace,
-Daniel Adu-Adjei,Bournemouth,Crystal Palace,False,0,0,0.0,0,False,0.0,Bournemouth,True,Manchester United,
-Daniel Adu-Adjei,Bournemouth,Manchester United,True,0,0,0.0,0,False,0.0,Bournemouth,False,Everton,
-Daniel Adu-Adjei,Bournemouth,Everton,False,0,0,0.0,0,False,,Fulham,False,Everton,
+name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Daniel Adu-Adjei,Bournemouth,Brentford,False,0,0,0.0,0,False,0.0,Bournemouth,True,Nottingham Forest,,
+Daniel Adu-Adjei,Bournemouth,Nottingham Forest,True,0,0,0.0,0,False,0.0,Bournemouth,False,Brighton,,-0.39
+Daniel Adu-Adjei,Bournemouth,Brighton,False,0,0,0.0,0,False,0.0,Bournemouth,True,Newcastle United,,
+Daniel Adu-Adjei,Bournemouth,Newcastle United,True,0,0,0.0,0,False,0.0,Bournemouth,False,Wolverhampton,,-0.46
+Daniel Adu-Adjei,Bournemouth,Wolverhampton,False,0,0,0.0,0,False,0.0,Bournemouth,True,Manchester City,,
+Daniel Adu-Adjei,Bournemouth,Manchester City,True,0,0,0.0,0,False,0.0,Bournemouth,False,Arsenal,,-0.0
+Daniel Adu-Adjei,Bournemouth,Arsenal,False,0,0,0.0,0,False,0.0,Bournemouth,True,Liverpool,,-0.53
+Daniel Adu-Adjei,Bournemouth,Liverpool,True,0,0,0.0,0,False,0.0,Bournemouth,False,Aston Villa,,
+Daniel Adu-Adjei,Bournemouth,Aston Villa,False,0,0,0.0,0,False,0.0,Bournemouth,True,Fulham,,-0.3
+Daniel Adu-Adjei,Bournemouth,Fulham,True,0,0,0.0,0,False,0.0,Bournemouth,True,Brighton,,-0.71
+Daniel Adu-Adjei,Bournemouth,Brighton,True,0,0,0.0,0,False,0.0,Bournemouth,False,Leeds United,,
+Daniel Adu-Adjei,Bournemouth,Leeds United,False,0,0,0.0,0,False,0.0,Bournemouth,False,Tottenham,,-0.03
+Daniel Adu-Adjei,Bournemouth,Tottenham,False,0,0,0.0,0,False,0.0,Bournemouth,True,West Ham,,
+Daniel Adu-Adjei,Bournemouth,West Ham,True,0,0,0.0,0,False,0.0,Bournemouth,False,Southampton,,-1.07
+Daniel Adu-Adjei,Bournemouth,Southampton,False,0,0,0.0,0,False,0.0,Bournemouth,True,Leicester City,,
+Daniel Adu-Adjei,Bournemouth,Leicester City,True,0,0,0.0,0,False,0.0,Bournemouth,True,Chelsea,,-0.25
+Daniel Adu-Adjei,Bournemouth,Chelsea,True,0,0,0.0,0,False,0.0,Bournemouth,False,Crystal Palace,,
+Daniel Adu-Adjei,Bournemouth,Crystal Palace,False,0,0,0.0,0,False,0.0,Bournemouth,True,Manchester United,,
+Daniel Adu-Adjei,Bournemouth,Manchester United,True,0,0,0.0,0,False,0.0,Bournemouth,False,Everton,,-0.63
+Daniel Adu-Adjei,Bournemouth,Everton,False,0,0,0.0,0,False,,Fulham,False,Everton,,-0.63

@@ -1,39 +1,39 @@
-name,team,opponent_team,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,starts,form,clean_sheet_probability,saves_per_game,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,last_season_total_saves,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Darren Randolph,West Ham,Manchester City,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,True,Fulham,
-Darren Randolph,West Ham,Fulham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,False,Southampton,0.96
-Darren Randolph,West Ham,Southampton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,False,Liverpool,0.66
-Darren Randolph,West Ham,Liverpool,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,True,Bournemouth,
-Darren Randolph,West Ham,Bournemouth,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,False,Manchester United,2.8
-Darren Randolph,West Ham,Manchester United,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,True,Crystal Palace,2.25
-Darren Randolph,West Ham,Crystal Palace,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,True,Leeds United,-5.24
-Darren Randolph,West Ham,Leeds United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,False,Arsenal,4.81
-Darren Randolph,West Ham,Arsenal,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,True,Brentford,3.83
-Darren Randolph,West Ham,Brentford,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,False,Leicester City,-1.82
-Darren Randolph,West Ham,Leicester City,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,False,Nottingham Forest,
-Darren Randolph,West Ham,Nottingham Forest,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,False,Wolverhampton,4.02
-Darren Randolph,West Ham,Wolverhampton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,True,Everton,-1.75
-Darren Randolph,West Ham,Everton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,False,Brighton,
-Darren Randolph,Bournemouth,Brighton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,True,Newcastle United,
-Darren Randolph,Bournemouth,Newcastle United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,False,Wolverhampton,
-Darren Randolph,Bournemouth,Wolverhampton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,True,Manchester City,
-Darren Randolph,Bournemouth,Manchester City,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,False,Arsenal,
-Darren Randolph,Bournemouth,Arsenal,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,True,Liverpool,
-Darren Randolph,Bournemouth,Liverpool,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,False,Aston Villa,
-Darren Randolph,Bournemouth,Aston Villa,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,True,Fulham,
-Darren Randolph,Bournemouth,Fulham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,True,Brighton,
-Darren Randolph,Bournemouth,Brighton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,True,Brighton,1.39
-Darren Randolph,West Ham,Brighton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,False,Leeds United,
-Darren Randolph,Bournemouth,Leeds United,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,False,Tottenham,
-Darren Randolph,Bournemouth,Tottenham,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,True,West Ham,
-Darren Randolph,Bournemouth,West Ham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,False,Southampton,
-Darren Randolph,Bournemouth,Southampton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,True,Leicester City,
-Darren Randolph,Bournemouth,Leicester City,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,True,Chelsea,
-Darren Randolph,Bournemouth,Chelsea,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,False,Crystal Palace,
-Darren Randolph,Bournemouth,Crystal Palace,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,True,Manchester United,
-Darren Randolph,Bournemouth,Manchester United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,False,Everton,
-Darren Randolph,Bournemouth,Everton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,False,Aston Villa,-2.62
-Darren Randolph,West Ham,Aston Villa,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,True,Tottenham,-2.08
-Darren Randolph,West Ham,Tottenham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,False,Chelsea,-1.22
-Darren Randolph,West Ham,Chelsea,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,False,Everton,-0.01
-Darren Randolph,West Ham,Everton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,True,Wolverhampton,-3.77
-Darren Randolph,West Ham,Wolverhampton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,,Wolves,False,Manchester United,-0.63
+name,team,opponent_team,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,starts,form,clean_sheet_probability,saves_per_game,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,last_season_total_saves,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Darren Randolph,West Ham,Manchester City,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,True,Fulham,,-0.3
+Darren Randolph,West Ham,Fulham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,False,Southampton,0.96,-1.07
+Darren Randolph,West Ham,Southampton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,False,Liverpool,0.66,-1.33
+Darren Randolph,West Ham,Liverpool,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,True,Bournemouth,,1.46
+Darren Randolph,West Ham,Bournemouth,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,False,Manchester United,2.8,
+Darren Randolph,West Ham,Manchester United,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,True,Crystal Palace,2.25,
+Darren Randolph,West Ham,Crystal Palace,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,True,Leeds United,-5.24,
+Darren Randolph,West Ham,Leeds United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,False,Arsenal,4.81,-0.0
+Darren Randolph,West Ham,Arsenal,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,True,Brentford,3.83,0.69
+Darren Randolph,West Ham,Brentford,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,False,Leicester City,-1.82,
+Darren Randolph,West Ham,Leicester City,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,False,Nottingham Forest,,
+Darren Randolph,West Ham,Nottingham Forest,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,False,Wolverhampton,4.02,-0.46
+Darren Randolph,West Ham,Wolverhampton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,True,Everton,-1.75,0.34
+Darren Randolph,West Ham,Everton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,False,Brighton,,-0.39
+Darren Randolph,Bournemouth,Brighton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,True,Newcastle United,,
+Darren Randolph,Bournemouth,Newcastle United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,False,Wolverhampton,,-0.46
+Darren Randolph,Bournemouth,Wolverhampton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,True,Manchester City,,
+Darren Randolph,Bournemouth,Manchester City,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,False,Arsenal,,-0.0
+Darren Randolph,Bournemouth,Arsenal,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,True,Liverpool,,-0.53
+Darren Randolph,Bournemouth,Liverpool,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,False,Aston Villa,,
+Darren Randolph,Bournemouth,Aston Villa,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,True,Fulham,,-0.3
+Darren Randolph,Bournemouth,Fulham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,True,Brighton,,-0.71
+Darren Randolph,Bournemouth,Brighton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,True,Brighton,1.39,-0.71
+Darren Randolph,West Ham,Brighton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,False,Leeds United,,
+Darren Randolph,Bournemouth,Leeds United,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,False,Tottenham,,-0.03
+Darren Randolph,Bournemouth,Tottenham,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,True,West Ham,,
+Darren Randolph,Bournemouth,West Ham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,False,Southampton,,-1.07
+Darren Randolph,Bournemouth,Southampton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,True,Leicester City,,
+Darren Randolph,Bournemouth,Leicester City,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,True,Chelsea,,-0.25
+Darren Randolph,Bournemouth,Chelsea,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,False,Crystal Palace,,
+Darren Randolph,Bournemouth,Crystal Palace,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,True,Manchester United,,
+Darren Randolph,Bournemouth,Manchester United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Bournemouth,False,Everton,,-0.63
+Darren Randolph,Bournemouth,Everton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,False,Aston Villa,-2.62,
+Darren Randolph,West Ham,Aston Villa,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,True,Tottenham,-2.08,1.07
+Darren Randolph,West Ham,Tottenham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,False,Chelsea,-1.22,-0.72
+Darren Randolph,West Ham,Chelsea,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,False,Everton,-0.01,-0.63
+Darren Randolph,West Ham,Everton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,West Ham,True,Wolverhampton,-3.77,-0.48
+Darren Randolph,West Ham,Wolverhampton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,,Wolves,False,Manchester United,-0.63,

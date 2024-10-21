@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Tyler Adams,Leeds,Wolverhampton,2022-08-06,True,DMC,90,0.0,0.02,0.0,0.03,1,1.0,1.0,2.4,0,0,1,False,0.0,0.0,90.0,0,0,0,0,0,2,Leeds,False,Crystal Palace,-1.48
-Tyler Adams,Leeds,Crystal Palace,2022-10-09,False,DMC,90,0.0,0.0,0.0,0.38,2,0.0,2.0,4.6,0,0,2,False,1.0,0.02,90.0,0,0,0,0,0,2,Leeds,True,Arsenal,-2.44
-Tyler Adams,Leeds,Arsenal,2022-10-16,True,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.2,0,0,1,False,1.5,0.01,90.0,0,0,0,0,0,2,Leeds,False,Leeds United,
-Tyler Adams,Leeds,Leeds United,2022-10-20,False,DMC,90,0.0,0.0,0.0,0.07,2,0.0,3.0,5.5,0,0,2,False,1.67,0.01,90.0,0,0,0,0,0,0,Leeds,True,Fulham,
-Tyler Adams,Leeds,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,1.75,0.0,72.0,0,0,0,0,0,2,Leeds,False,Liverpool,1.31
-Tyler Adams,Leeds,Liverpool,2022-10-29,False,DMC,90,0.0,0.0,0.0,0.04,2,0.0,1.0,2.7,0,0,1,False,1.4,0.0,75.0,0,0,0,0,0,2,Leeds,True,Bournemouth,
-Tyler Adams,Leeds,Bournemouth,2022-11-05,True,DMC,90,0.0,0.0,0.0,0.09,2,0.0,1.0,2.8,0,0,3,False,1.6,0.0,77.14,0,0,0,0,0,-1,Leeds,False,Tottenham,0.01
-Tyler Adams,Leeds,Tottenham,2022-11-12,False,DMC,86,0.0,0.0,0.0,0.0,-1,0.0,0.0,1.1,0,0,4,True,1.6,0.0,78.25,0,0,0,0,0,0,Leeds,True,Manchester City,2.49
-Tyler Adams,Leeds,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,69.56,0,0,0,0,0,3,Leeds,False,Newcastle United,-5.11
-Tyler Adams,Leeds,Newcastle United,2022-12-31,False,DMC,90,0.0,0.0,0.0,0.17,3,0.0,2.0,5.0,0,1,0,True,0.6,0.0,71.6,0,0,0,0,0,3,Leeds,True,West Ham,-2.86
-Tyler Adams,Leeds,West Ham,2023-01-04,True,DMC,90,0.0,0.0,0.0,0.09,3,0.0,3.0,5.4,1,0,2,True,1.2,0.0,73.27,0,0,0,0,0,2,Leeds,False,Southampton,-2.03
-Tyler Adams,Leeds,Southampton,2022-08-13,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,2,False,1.4,0.0,74.67,0,0,0,0,0,2,Leeds,False,Aston Villa,-1.61
-Tyler Adams,Leeds,Aston Villa,2023-01-13,False,DMC,90,0.0,0.0,0.0,0.1,2,0.0,1.0,3.5,0,0,2,True,1.4,0.0,75.85,0,0,0,0,0,3,Leeds,True,Brentford,-0.12
-Tyler Adams,Leeds,Brentford,2023-01-22,True,DMC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,2.1,0,1,0,True,2.0,0.0,76.86,0,0,0,0,0,2,Leeds,False,Nottingham Forest,
-Tyler Adams,Leeds,Nottingham Forest,2023-02-05,False,DMC,90,0.0,0.0,0.0,0.17,2,0.0,1.0,3.0,0,0,1,True,2.6,0.0,77.73,0,0,0,0,0,1,Leeds,False,Manchester United,2.58
-Tyler Adams,Leeds,Manchester United,2023-02-08,False,DMC,90,0.0,0.0,0.0,0.02,1,0.0,1.0,3.1,0,0,2,True,2.4,0.0,78.5,0,0,0,0,0,2,Leeds,True,Manchester United,1.66
-Tyler Adams,Leeds,Manchester United,2023-02-12,True,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0,0,2,True,2.0,0.0,79.18,0,0,0,0,0,1,Leeds,False,Everton,1.15
-Tyler Adams,Leeds,Everton,2023-02-18,False,DMC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.1,0,0,1,True,2.0,0.0,79.78,0,0,0,0,0,3,Leeds,True,Southampton,-3.43
-Tyler Adams,Leeds,Southampton,2023-02-25,True,DMC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.9,0,1,0,True,1.8,0.0,80.32,0,0,0,0,0,2,Leeds,False,Chelsea,-1.33
-Tyler Adams,Leeds,Chelsea,2023-03-04,False,DMC,90,0.0,0.03,0.0,0.0,2,1.0,0.0,1.9,0,0,1,True,1.8,0.0,80.8,0,0,0,0,0,2,Leeds,True,Brighton,-4.64
-Tyler Adams,Leeds,Brighton,2023-03-11,True,DMC,90,0.0,0.01,0.0,0.03,2,1.0,1.0,2.9,0,0,2,True,1.8,0.01,81.24,0,0,0,0,0,0,Leeds,False,Wolverhampton,-3.79
-Tyler Adams,Leeds,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.01,77.55,0,0,0,0,0,0,Leeds,False,Arsenal,0.14
-Tyler Adams,Leeds,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.01,74.17,0,0,0,0,0,0,Leeds,True,Nottingham Forest,1.75
-Tyler Adams,Leeds,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.01,71.08,0,0,0,0,0,3,Leeds,True,Chelsea,-0.38
-Tyler Adams,Leeds,Chelsea,2022-08-21,True,DMC,90,0.0,0.02,0.0,0.09,3,1.0,2.0,5.3,0,1,0,False,0.8,0.01,71.84,0,0,0,0,0,0,Leeds,True,Crystal Palace,1.78
-Tyler Adams,Leeds,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.01,69.08,0,0,0,0,0,0,Leeds,True,Liverpool,0.62
-Tyler Adams,Leeds,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,66.52,0,0,0,0,0,0,Leeds,False,Fulham,
-Tyler Adams,Leeds,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,64.14,0,0,0,0,0,0,Leeds,True,Leeds United,
-Tyler Adams,Leeds,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,61.93,0,0,0,0,0,0,Leeds,False,Bournemouth,0.09
-Tyler Adams,Leeds,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,59.87,0,0,0,0,0,0,Leeds,False,Manchester City,4.57
-Tyler Adams,Leeds,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,57.94,0,0,0,0,0,0,Leeds,True,Newcastle United,-0.68
-Tyler Adams,Leeds,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,56.12,0,0,0,0,0,0,Leeds,False,West Ham,0.82
-Tyler Adams,Leeds,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,54.42,0,0,0,0,0,0,Leeds,True,Tottenham,-4.61
-Tyler Adams,Leeds,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,52.82,0,0,0,0,0,2,Leeds,False,Brighton,1.41
-Tyler Adams,Leeds,Brighton,2022-08-27,False,DMC,90,0.0,0.0,0.0,0.02,2,0.0,1.0,2.9,0,0,1,False,0.0,0.0,53.89,0,0,0,0,0,1,Leeds,True,Everton,
-Tyler Adams,Leeds,Everton,2022-08-30,True,DMC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.0,0,0,1,False,0.4,0.0,54.89,0,0,0,0,0,2,Leeds,False,Brentford,-0.35
-Tyler Adams,Leeds,Brentford,2022-09-03,False,DMC,90,0.0,0.0,0.0,0.07,2,0.0,4.0,7.8,0,0,5,False,0.6,0.0,55.84,0,0,0,0,0,3,Leeds,True,Aston Villa,
-Tyler Adams,Leeds,Aston Villa,2022-10-02,True,DMC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.0,0,1,0,False,1.0,0.0,56.74,0,0,0,0,0,0,Bournemouth,True,Burnley,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Tyler Adams,Leeds,Wolverhampton,2022-08-06,True,DMC,90,0.0,0.02,0.0,0.03,1,1.0,1.0,2.4,0,0,1,False,0.0,0.0,90.0,0,0,0,0,0,2,Leeds,False,Crystal Palace,-1.48,
+Tyler Adams,Leeds,Crystal Palace,2022-10-09,False,DMC,90,0.0,0.0,0.0,0.38,2,0.0,2.0,4.6,0,0,2,False,1.0,0.02,90.0,0,0,0,0,0,2,Leeds,True,Arsenal,-2.44,0.36
+Tyler Adams,Leeds,Arsenal,2022-10-16,True,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.2,0,0,1,False,1.5,0.01,90.0,0,0,0,0,0,2,Leeds,False,Leeds United,,
+Tyler Adams,Leeds,Leeds United,2022-10-20,False,DMC,90,0.0,0.0,0.0,0.07,2,0.0,3.0,5.5,0,0,2,False,1.67,0.01,90.0,0,0,0,0,0,0,Leeds,True,Fulham,,-0.3
+Tyler Adams,Leeds,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,1.75,0.0,72.0,0,0,0,0,0,2,Leeds,False,Liverpool,1.31,-1.33
+Tyler Adams,Leeds,Liverpool,2022-10-29,False,DMC,90,0.0,0.0,0.0,0.04,2,0.0,1.0,2.7,0,0,1,False,1.4,0.0,75.0,0,0,0,0,0,2,Leeds,True,Bournemouth,,1.46
+Tyler Adams,Leeds,Bournemouth,2022-11-05,True,DMC,90,0.0,0.0,0.0,0.09,2,0.0,1.0,2.8,0,0,3,False,1.6,0.0,77.14,0,0,0,0,0,-1,Leeds,False,Tottenham,0.01,-0.03
+Tyler Adams,Leeds,Tottenham,2022-11-12,False,DMC,86,0.0,0.0,0.0,0.0,-1,0.0,0.0,1.1,0,0,4,True,1.6,0.0,78.25,0,0,0,0,0,0,Leeds,True,Manchester City,2.49,
+Tyler Adams,Leeds,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,69.56,0,0,0,0,0,3,Leeds,False,Newcastle United,-5.11,
+Tyler Adams,Leeds,Newcastle United,2022-12-31,False,DMC,90,0.0,0.0,0.0,0.17,3,0.0,2.0,5.0,0,1,0,True,0.6,0.0,71.6,0,0,0,0,0,3,Leeds,True,West Ham,-2.86,
+Tyler Adams,Leeds,West Ham,2023-01-04,True,DMC,90,0.0,0.0,0.0,0.09,3,0.0,3.0,5.4,1,0,2,True,1.2,0.0,73.27,0,0,0,0,0,2,Leeds,False,Southampton,-2.03,-1.07
+Tyler Adams,Leeds,Southampton,2022-08-13,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,2,False,1.4,0.0,74.67,0,0,0,0,0,2,Leeds,False,Aston Villa,-1.61,
+Tyler Adams,Leeds,Aston Villa,2023-01-13,False,DMC,90,0.0,0.0,0.0,0.1,2,0.0,1.0,3.5,0,0,2,True,1.4,0.0,75.85,0,0,0,0,0,3,Leeds,True,Brentford,-0.12,0.69
+Tyler Adams,Leeds,Brentford,2023-01-22,True,DMC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,2.1,0,1,0,True,2.0,0.0,76.86,0,0,0,0,0,2,Leeds,False,Nottingham Forest,,
+Tyler Adams,Leeds,Nottingham Forest,2023-02-05,False,DMC,90,0.0,0.0,0.0,0.17,2,0.0,1.0,3.0,0,0,1,True,2.6,0.0,77.73,0,0,0,0,0,1,Leeds,False,Manchester United,2.58,
+Tyler Adams,Leeds,Manchester United,2023-02-08,False,DMC,90,0.0,0.0,0.0,0.02,1,0.0,1.0,3.1,0,0,2,True,2.4,0.0,78.5,0,0,0,0,0,2,Leeds,True,Manchester United,1.66,
+Tyler Adams,Leeds,Manchester United,2023-02-12,True,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0,0,2,True,2.0,0.0,79.18,0,0,0,0,0,1,Leeds,False,Everton,1.15,-0.63
+Tyler Adams,Leeds,Everton,2023-02-18,False,DMC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.1,0,0,1,True,2.0,0.0,79.78,0,0,0,0,0,3,Leeds,True,Southampton,-3.43,-0.38
+Tyler Adams,Leeds,Southampton,2023-02-25,True,DMC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.9,0,1,0,True,1.8,0.0,80.32,0,0,0,0,0,2,Leeds,False,Chelsea,-1.33,-0.72
+Tyler Adams,Leeds,Chelsea,2023-03-04,False,DMC,90,0.0,0.03,0.0,0.0,2,1.0,0.0,1.9,0,0,1,True,1.8,0.0,80.8,0,0,0,0,0,2,Leeds,True,Brighton,-4.64,-0.71
+Tyler Adams,Leeds,Brighton,2023-03-11,True,DMC,90,0.0,0.01,0.0,0.03,2,1.0,1.0,2.9,0,0,2,True,1.8,0.01,81.24,0,0,0,0,0,0,Leeds,False,Wolverhampton,-3.79,-0.46
+Tyler Adams,Leeds,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.01,77.55,0,0,0,0,0,0,Leeds,False,Arsenal,0.14,-0.0
+Tyler Adams,Leeds,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.01,74.17,0,0,0,0,0,0,Leeds,True,Nottingham Forest,1.75,
+Tyler Adams,Leeds,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.01,71.08,0,0,0,0,0,3,Leeds,True,Chelsea,-0.38,-0.25
+Tyler Adams,Leeds,Chelsea,2022-08-21,True,DMC,90,0.0,0.02,0.0,0.09,3,1.0,2.0,5.3,0,1,0,False,0.8,0.01,71.84,0,0,0,0,0,0,Leeds,True,Crystal Palace,1.78,
+Tyler Adams,Leeds,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.01,69.08,0,0,0,0,0,0,Leeds,True,Liverpool,0.62,-0.53
+Tyler Adams,Leeds,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,66.52,0,0,0,0,0,0,Leeds,False,Fulham,,1.37
+Tyler Adams,Leeds,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,64.14,0,0,0,0,0,0,Leeds,True,Leeds United,,
+Tyler Adams,Leeds,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,61.93,0,0,0,0,0,0,Leeds,False,Bournemouth,0.09,0.19
+Tyler Adams,Leeds,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,59.87,0,0,0,0,0,0,Leeds,False,Manchester City,4.57,
+Tyler Adams,Leeds,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,57.94,0,0,0,0,0,0,Leeds,True,Newcastle United,-0.68,
+Tyler Adams,Leeds,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,56.12,0,0,0,0,0,0,Leeds,False,West Ham,0.82,
+Tyler Adams,Leeds,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,54.42,0,0,0,0,0,0,Leeds,True,Tottenham,-4.61,1.07
+Tyler Adams,Leeds,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,52.82,0,0,0,0,0,2,Leeds,False,Brighton,1.41,-0.39
+Tyler Adams,Leeds,Brighton,2022-08-27,False,DMC,90,0.0,0.0,0.0,0.02,2,0.0,1.0,2.9,0,0,1,False,0.0,0.0,53.89,0,0,0,0,0,1,Leeds,True,Everton,,0.34
+Tyler Adams,Leeds,Everton,2022-08-30,True,DMC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.0,0,0,1,False,0.4,0.0,54.89,0,0,0,0,0,2,Leeds,False,Brentford,-0.35,-0.55
+Tyler Adams,Leeds,Brentford,2022-09-03,False,DMC,90,0.0,0.0,0.0,0.07,2,0.0,4.0,7.8,0,0,5,False,0.6,0.0,55.84,0,0,0,0,0,3,Leeds,True,Aston Villa,,
+Tyler Adams,Leeds,Aston Villa,2022-10-02,True,DMC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.0,0,1,0,False,1.0,0.0,56.74,0,0,0,0,0,0,Bournemouth,True,Burnley,,0.39

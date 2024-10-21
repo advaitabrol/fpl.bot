@@ -1,21 +1,21 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Mislav Orsic,Southampton,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,1.0,Southampton,True,Aston Villa,-1.21
-Mislav Orsic,Southampton,Aston Villa,2023-01-21,True,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,0.0,0.0,3.0,0,0,0,0,0,0.0,Southampton,False,Brentford,3.85
-Mislav Orsic,Southampton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.5,0.0,2.0,0,0,0,0,0,0.0,Southampton,True,Wolverhampton,3.38
-Mislav Orsic,Southampton,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.33,0.0,1.5,0,0,0,0,0,0.0,Southampton,False,Chelsea,1.8
-Mislav Orsic,Southampton,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.25,0.0,1.2,0,0,0,0,0,0.0,Southampton,False,Leicester City,-2.53
-Mislav Orsic,Southampton,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.0,0,0,0,0,0,0.0,Southampton,True,Leeds United,-0.35
-Mislav Orsic,Southampton,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.86,0,0,0,0,0,0.0,Southampton,False,Manchester United,1.62
-Mislav Orsic,Southampton,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.75,0,0,0,0,0,0.0,Southampton,True,Brentford,-5.16
-Mislav Orsic,Southampton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.67,0,0,0,0,0,0.0,Southampton,True,Tottenham,0.15
-Mislav Orsic,Southampton,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.6,0,0,0,0,0,0.0,Southampton,False,West Ham,-2.95
-Mislav Orsic,Southampton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.55,0,0,0,0,0,0.0,Southampton,True,Manchester City,-3.41
-Mislav Orsic,Southampton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.5,0,0,0,0,0,0.0,Southampton,True,Crystal Palace,0.7
-Mislav Orsic,Southampton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.46,0,0,0,0,0,0.0,Southampton,False,Arsenal,2.91
-Mislav Orsic,Southampton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.43,0,0,0,0,0,0.0,Southampton,True,Bournemouth,
-Mislav Orsic,Southampton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.4,0,0,0,0,0,0.0,Southampton,False,Newcastle United,-1.73
-Mislav Orsic,Southampton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.38,0,0,0,0,0,0.0,Southampton,False,Nottingham Forest,
-Mislav Orsic,Southampton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.35,0,0,0,0,0,0.0,Southampton,True,Fulham,
-Mislav Orsic,Southampton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.33,0,0,0,0,0,0.0,Southampton,False,Brighton,0.35
-Mislav Orsic,Southampton,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.32,0,0,0,0,0,0.0,Southampton,True,Liverpool,-0.75
-Mislav Orsic,Southampton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.3,0,0,0,0,0,,Wolves,False,Manchester United,-0.63
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Mislav Orsic,Southampton,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,1.0,Southampton,True,Aston Villa,-1.21,
+Mislav Orsic,Southampton,Aston Villa,2023-01-21,True,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,0.0,0.0,3.0,0,0,0,0,0,0.0,Southampton,False,Brentford,3.85,-0.55
+Mislav Orsic,Southampton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.5,0.0,2.0,0,0,0,0,0,0.0,Southampton,True,Wolverhampton,3.38,-0.48
+Mislav Orsic,Southampton,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.33,0.0,1.5,0,0,0,0,0,0.0,Southampton,False,Chelsea,1.8,-0.72
+Mislav Orsic,Southampton,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.25,0.0,1.2,0,0,0,0,0,0.0,Southampton,False,Leicester City,-2.53,
+Mislav Orsic,Southampton,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.0,0,0,0,0,0,0.0,Southampton,True,Leeds United,-0.35,
+Mislav Orsic,Southampton,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.86,0,0,0,0,0,0.0,Southampton,False,Manchester United,1.62,
+Mislav Orsic,Southampton,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.75,0,0,0,0,0,0.0,Southampton,True,Brentford,-5.16,0.69
+Mislav Orsic,Southampton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.67,0,0,0,0,0,0.0,Southampton,True,Tottenham,0.15,1.07
+Mislav Orsic,Southampton,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.6,0,0,0,0,0,0.0,Southampton,False,West Ham,-2.95,
+Mislav Orsic,Southampton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.55,0,0,0,0,0,0.0,Southampton,True,Manchester City,-3.41,
+Mislav Orsic,Southampton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.5,0,0,0,0,0,0.0,Southampton,True,Crystal Palace,0.7,
+Mislav Orsic,Southampton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.46,0,0,0,0,0,0.0,Southampton,False,Arsenal,2.91,-0.0
+Mislav Orsic,Southampton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.43,0,0,0,0,0,0.0,Southampton,True,Bournemouth,,1.46
+Mislav Orsic,Southampton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.4,0,0,0,0,0,0.0,Southampton,False,Newcastle United,-1.73,
+Mislav Orsic,Southampton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.38,0,0,0,0,0,0.0,Southampton,False,Nottingham Forest,,
+Mislav Orsic,Southampton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.35,0,0,0,0,0,0.0,Southampton,True,Fulham,,-0.3
+Mislav Orsic,Southampton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.33,0,0,0,0,0,0.0,Southampton,False,Brighton,0.35,-0.39
+Mislav Orsic,Southampton,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.32,0,0,0,0,0,0.0,Southampton,True,Liverpool,-0.75,-0.53
+Mislav Orsic,Southampton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.3,0,0,0,0,0,,Wolves,False,Manchester United,-0.63,

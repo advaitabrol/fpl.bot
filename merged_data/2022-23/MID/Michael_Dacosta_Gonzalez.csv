@@ -1,21 +1,21 @@
-name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Michael Dacosta Gonzalez,Bournemouth,Brentford,False,0,0,0.0,0,0,0,False,0.0,Bournemouth,True,Nottingham Forest,
-Michael Dacosta Gonzalez,Bournemouth,Nottingham Forest,True,0,0,0.0,0,0,0,False,0.0,Bournemouth,False,Brighton,
-Michael Dacosta Gonzalez,Bournemouth,Brighton,False,0,0,0.0,0,0,0,False,0.0,Bournemouth,True,Newcastle United,
-Michael Dacosta Gonzalez,Bournemouth,Newcastle United,True,0,0,0.0,0,0,0,False,0.0,Bournemouth,False,Wolverhampton,
-Michael Dacosta Gonzalez,Bournemouth,Wolverhampton,False,0,0,0.0,0,0,0,False,0.0,Bournemouth,True,Manchester City,
-Michael Dacosta Gonzalez,Bournemouth,Manchester City,True,0,0,0.0,0,0,0,False,0.0,Bournemouth,False,Arsenal,
-Michael Dacosta Gonzalez,Bournemouth,Arsenal,False,0,0,0.0,0,0,0,False,0.0,Bournemouth,True,Liverpool,
-Michael Dacosta Gonzalez,Bournemouth,Liverpool,True,0,0,0.0,0,0,0,False,0.0,Bournemouth,False,Aston Villa,
-Michael Dacosta Gonzalez,Bournemouth,Aston Villa,False,0,0,0.0,0,0,0,False,0.0,Bournemouth,True,Fulham,
-Michael Dacosta Gonzalez,Bournemouth,Fulham,True,0,0,0.0,0,0,0,False,0.0,Bournemouth,True,Brighton,
-Michael Dacosta Gonzalez,Bournemouth,Brighton,True,0,0,0.0,0,0,0,False,0.0,Bournemouth,False,Leeds United,
-Michael Dacosta Gonzalez,Bournemouth,Leeds United,False,0,0,0.0,0,0,0,False,0.0,Bournemouth,False,Tottenham,
-Michael Dacosta Gonzalez,Bournemouth,Tottenham,False,0,0,0.0,0,0,0,False,0.0,Bournemouth,True,West Ham,
-Michael Dacosta Gonzalez,Bournemouth,West Ham,True,0,0,0.0,0,0,0,False,0.0,Bournemouth,False,Southampton,
-Michael Dacosta Gonzalez,Bournemouth,Southampton,False,0,0,0.0,0,0,0,False,0.0,Bournemouth,True,Leicester City,
-Michael Dacosta Gonzalez,Bournemouth,Leicester City,True,0,0,0.0,0,0,0,False,0.0,Bournemouth,True,Chelsea,
-Michael Dacosta Gonzalez,Bournemouth,Chelsea,True,0,0,0.0,0,0,0,False,0.0,Bournemouth,False,Crystal Palace,
-Michael Dacosta Gonzalez,Bournemouth,Crystal Palace,False,0,0,0.0,0,0,0,False,0.0,Bournemouth,True,Manchester United,
-Michael Dacosta Gonzalez,Bournemouth,Manchester United,True,0,0,0.0,0,0,0,False,0.0,Bournemouth,False,Everton,
-Michael Dacosta Gonzalez,Bournemouth,Everton,False,0,0,0.0,0,0,0,False,,Nott'm Forest,False,Arsenal,
+name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Michael Dacosta Gonzalez,Bournemouth,Brentford,False,0,0,0.0,0,0,0,False,0.0,Bournemouth,True,Nottingham Forest,,
+Michael Dacosta Gonzalez,Bournemouth,Nottingham Forest,True,0,0,0.0,0,0,0,False,0.0,Bournemouth,False,Brighton,,-0.39
+Michael Dacosta Gonzalez,Bournemouth,Brighton,False,0,0,0.0,0,0,0,False,0.0,Bournemouth,True,Newcastle United,,
+Michael Dacosta Gonzalez,Bournemouth,Newcastle United,True,0,0,0.0,0,0,0,False,0.0,Bournemouth,False,Wolverhampton,,-0.46
+Michael Dacosta Gonzalez,Bournemouth,Wolverhampton,False,0,0,0.0,0,0,0,False,0.0,Bournemouth,True,Manchester City,,
+Michael Dacosta Gonzalez,Bournemouth,Manchester City,True,0,0,0.0,0,0,0,False,0.0,Bournemouth,False,Arsenal,,-0.0
+Michael Dacosta Gonzalez,Bournemouth,Arsenal,False,0,0,0.0,0,0,0,False,0.0,Bournemouth,True,Liverpool,,-0.53
+Michael Dacosta Gonzalez,Bournemouth,Liverpool,True,0,0,0.0,0,0,0,False,0.0,Bournemouth,False,Aston Villa,,
+Michael Dacosta Gonzalez,Bournemouth,Aston Villa,False,0,0,0.0,0,0,0,False,0.0,Bournemouth,True,Fulham,,-0.3
+Michael Dacosta Gonzalez,Bournemouth,Fulham,True,0,0,0.0,0,0,0,False,0.0,Bournemouth,True,Brighton,,-0.71
+Michael Dacosta Gonzalez,Bournemouth,Brighton,True,0,0,0.0,0,0,0,False,0.0,Bournemouth,False,Leeds United,,
+Michael Dacosta Gonzalez,Bournemouth,Leeds United,False,0,0,0.0,0,0,0,False,0.0,Bournemouth,False,Tottenham,,-0.03
+Michael Dacosta Gonzalez,Bournemouth,Tottenham,False,0,0,0.0,0,0,0,False,0.0,Bournemouth,True,West Ham,,
+Michael Dacosta Gonzalez,Bournemouth,West Ham,True,0,0,0.0,0,0,0,False,0.0,Bournemouth,False,Southampton,,-1.07
+Michael Dacosta Gonzalez,Bournemouth,Southampton,False,0,0,0.0,0,0,0,False,0.0,Bournemouth,True,Leicester City,,
+Michael Dacosta Gonzalez,Bournemouth,Leicester City,True,0,0,0.0,0,0,0,False,0.0,Bournemouth,True,Chelsea,,-0.25
+Michael Dacosta Gonzalez,Bournemouth,Chelsea,True,0,0,0.0,0,0,0,False,0.0,Bournemouth,False,Crystal Palace,,
+Michael Dacosta Gonzalez,Bournemouth,Crystal Palace,False,0,0,0.0,0,0,0,False,0.0,Bournemouth,True,Manchester United,,
+Michael Dacosta Gonzalez,Bournemouth,Manchester United,True,0,0,0.0,0,0,0,False,0.0,Bournemouth,False,Everton,,-0.63
+Michael Dacosta Gonzalez,Bournemouth,Everton,False,0,0,0.0,0,0,0,False,,Nott'm Forest,False,Arsenal,,-0.0

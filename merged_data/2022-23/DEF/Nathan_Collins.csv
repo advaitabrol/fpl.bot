@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Nathan Collins,Wolves,Leicester City,2022-08-06,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,2,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,0,Wolves,False,Chelsea,-1.63
-Nathan Collins,Wolves,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,45.0,0.0,0,0,0,0,0,Wolves,True,Nottingham Forest,
-Nathan Collins,Wolves,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.5,0.0,30.0,0.0,0,0,0,0,1,Wolves,False,Crystal Palace,3.09
-Nathan Collins,Wolves,Crystal Palace,2022-10-18,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.7,0,0,2,0.0,False,0.33,0.0,45.0,0.0,0,0,0,0,0,Wolves,True,Leeds United,-1.61
-Nathan Collins,Wolves,Leeds United,2022-10-23,True,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.3,0,0,4,0.0,False,0.5,0.0,54.0,0.0,0,0,0,0,2,Wolves,False,Brentford,-1.55
-Nathan Collins,Wolves,Brentford,2022-10-29,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.7,0,0,1,0.0,False,0.4,0.0,60.0,0.0,0,0,0,0,0,Wolves,True,Brighton,5.19
-Nathan Collins,Wolves,Brighton,2022-11-05,True,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.7,0,0,3,0.0,False,0.6,0.0,64.29,0.0,0,0,0,0,1,Wolves,True,Arsenal,1.59
-Nathan Collins,Wolves,Arsenal,2022-11-12,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,2,1.81,True,0.6,0.0,67.5,0.0,0,0,0,0,2,Wolves,False,Everton,-1.05
-Nathan Collins,Wolves,Everton,2022-12-26,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.5,0,0,1,1.73,True,0.8,0.0,70.0,0.0,0,0,0,0,2,Wolves,True,Manchester United,-0.79
-Nathan Collins,Wolves,Manchester United,2022-12-31,True,DC,90,0.0,0.03,0.0,0.0,2,1.0,0.0,2.5,0,0,1,1.99,True,1.0,0.0,72.0,0.0,0,0,0,0,2,Wolves,False,Aston Villa,-2.09
-Nathan Collins,Wolves,Aston Villa,2023-01-04,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.4,0,0,1,1.61,True,1.4,0.01,73.64,0.0,0,0,0,0,8,Wolves,True,Fulham,
-Nathan Collins,Wolves,Fulham,2022-08-13,True,DC,90,0.0,0.0,0.0,0.0,8,0.0,0.0,1.6,2,1,0,0.0,False,1.4,0.01,75.0,0.1,0,0,0,0,6,Wolves,True,West Ham,-2.69
-Nathan Collins,Wolves,West Ham,2023-01-14,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.6,0,1,0,1.02,True,3.0,0.01,76.15,0.18,0,0,0,0,1,Wolves,False,Manchester City,-0.09
-Nathan Collins,Wolves,Manchester City,2023-01-22,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,3,2.63,True,4.0,0.01,77.14,0.17,0,0,0,0,0,Wolves,True,Liverpool,0.37
-Nathan Collins,Wolves,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.8,0.01,72.0,0.17,0,0,0,0,0,Wolves,False,Southampton,-2.8
-Nathan Collins,Wolves,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.4,0.0,67.5,0.17,0,0,0,0,0,Wolves,True,Bournemouth,
-Nathan Collins,Wolves,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.0,63.53,0.17,0,0,0,0,0,Wolves,False,Fulham,
-Nathan Collins,Wolves,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,60.0,0.17,0,0,0,0,0,Wolves,False,Liverpool,0.91
-Nathan Collins,Wolves,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,56.84,0.17,0,0,0,0,1,Wolves,True,Tottenham,2.05
-Nathan Collins,Wolves,Tottenham,2023-03-04,True,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,2.1,0,0,0,0.67,False,0.0,0.0,56.25,0.17,0,0,0,0,1,Wolves,False,Newcastle United,3.01
-Nathan Collins,Wolves,Newcastle United,2023-03-12,False,Sub,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,0.15,False,0.2,0.0,54.29,0.17,0,0,0,0,0,Wolves,True,Leicester City,
-Nathan Collins,Wolves,Leicester City,2023-03-18,True,Sub,45,0.0,0.03,0.0,0.0,0,1.0,0.0,1.9,0,0,3,1.15,False,0.4,0.0,53.86,0.17,0,0,0,0,0,Wolves,False,Nottingham Forest,
-Nathan Collins,Wolves,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,51.52,0.17,0,0,0,0,1,Wolves,False,Tottenham,1.18
-Nathan Collins,Wolves,Tottenham,2022-08-20,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,1,0.0,False,0.4,0.01,53.12,0.15,0,0,0,0,1,Wolves,True,Chelsea,-1.03
-Nathan Collins,Wolves,Chelsea,2023-04-08,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.6,0.01,51.04,0.15,0,0,0,0,0,Wolves,True,Brentford,3.23
-Nathan Collins,Wolves,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.01,49.08,0.15,0,0,0,0,0,Wolves,False,Leeds United,0.21
-Nathan Collins,Wolves,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,47.26,0.15,0,0,0,0,1,Wolves,True,Crystal Palace,
-Nathan Collins,Wolves,Crystal Palace,2023-04-25,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.08,False,0.4,0.0,45.61,0.15,0,0,0,0,0,Wolves,False,Brighton,-1.83
-Nathan Collins,Wolves,Brighton,2023-04-29,False,Sub,45,0.0,0.0,0.0,0.0,0,0.0,0.0,2.3,0,0,2,1.39,False,0.6,0.0,45.59,0.15,0,0,0,0,1,Wolves,True,Aston Villa,
-Nathan Collins,Wolves,Aston Villa,2023-05-06,True,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.04,False,0.4,0.0,44.3,0.15,0,0,0,0,0,Wolves,False,Manchester United,-0.63
-Nathan Collins,Wolves,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,42.87,0.15,0,0,0,0,2,Wolves,True,Everton,-1.31
-Nathan Collins,Wolves,Everton,2023-05-20,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,1,1.98,True,0.4,0.0,44.34,0.14,0,0,0,0,0,Wolves,False,Arsenal,
-Nathan Collins,Wolves,Arsenal,2023-05-28,False,DC,90,0.0,0.06,0.0,0.0,0,1.0,0.0,0.0,0,0,5,2.39,True,0.8,0.0,45.73,0.13,0,0,0,0,2,Wolves,True,Newcastle United,-1.69
-Nathan Collins,Wolves,Newcastle United,2022-08-28,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.0,0,0,1,0.0,False,0.6,0.01,47.03,0.12,0,0,0,0,7,Wolves,False,Bournemouth,1.23
-Nathan Collins,Wolves,Bournemouth,2022-08-31,False,DC,90,0.0,0.0,0.0,0.07,7,0.0,2.0,4.5,1,1,0,0.0,False,1.0,0.01,48.26,0.18,0,0,0,0,9,Wolves,True,Southampton,-2.12
-Nathan Collins,Wolves,Southampton,2022-09-03,True,DC,90,0.0,0.0,0.0,0.0,9,0.0,0.0,2.3,3,1,0,0.0,False,2.2,0.01,49.42,0.22,0,0,0,0,-3,Wolves,True,Manchester City,3.44
-Nathan Collins,Wolves,Manchester City,2022-09-17,True,DC,32,0.0,0.0,0.0,0.0,-3,0.0,0.0,0.8,0,0,3,0.0,False,4.0,0.01,48.95,0.22,0,0,0,0,0,Wolves,False,West Ham,4.15
-Nathan Collins,Wolves,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.01,47.66,0.22,0,0,0,0,1,Brentford,True,Tottenham,-0.15
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Nathan Collins,Wolves,Leicester City,2022-08-06,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,2,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,0,Wolves,False,Chelsea,-1.63,-0.72
+Nathan Collins,Wolves,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,45.0,0.0,0,0,0,0,0,Wolves,True,Nottingham Forest,,
+Nathan Collins,Wolves,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.5,0.0,30.0,0.0,0,0,0,0,1,Wolves,False,Crystal Palace,3.09,
+Nathan Collins,Wolves,Crystal Palace,2022-10-18,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.7,0,0,2,0.0,False,0.33,0.0,45.0,0.0,0,0,0,0,0,Wolves,True,Leeds United,-1.61,
+Nathan Collins,Wolves,Leeds United,2022-10-23,True,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.3,0,0,4,0.0,False,0.5,0.0,54.0,0.0,0,0,0,0,2,Wolves,False,Brentford,-1.55,-0.55
+Nathan Collins,Wolves,Brentford,2022-10-29,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.7,0,0,1,0.0,False,0.4,0.0,60.0,0.0,0,0,0,0,0,Wolves,True,Brighton,5.19,-0.71
+Nathan Collins,Wolves,Brighton,2022-11-05,True,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.7,0,0,3,0.0,False,0.6,0.0,64.29,0.0,0,0,0,0,1,Wolves,True,Arsenal,1.59,0.36
+Nathan Collins,Wolves,Arsenal,2022-11-12,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,2,1.81,True,0.6,0.0,67.5,0.0,0,0,0,0,2,Wolves,False,Everton,-1.05,-0.63
+Nathan Collins,Wolves,Everton,2022-12-26,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.5,0,0,1,1.73,True,0.8,0.0,70.0,0.0,0,0,0,0,2,Wolves,True,Manchester United,-0.79,
+Nathan Collins,Wolves,Manchester United,2022-12-31,True,DC,90,0.0,0.03,0.0,0.0,2,1.0,0.0,2.5,0,0,1,1.99,True,1.0,0.0,72.0,0.0,0,0,0,0,2,Wolves,False,Aston Villa,-2.09,
+Nathan Collins,Wolves,Aston Villa,2023-01-04,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.4,0,0,1,1.61,True,1.4,0.01,73.64,0.0,0,0,0,0,8,Wolves,True,Fulham,,-0.3
+Nathan Collins,Wolves,Fulham,2022-08-13,True,DC,90,0.0,0.0,0.0,0.0,8,0.0,0.0,1.6,2,1,0,0.0,False,1.4,0.01,75.0,0.1,0,0,0,0,6,Wolves,True,West Ham,-2.69,
+Nathan Collins,Wolves,West Ham,2023-01-14,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.6,0,1,0,1.02,True,3.0,0.01,76.15,0.18,0,0,0,0,1,Wolves,False,Manchester City,-0.09,
+Nathan Collins,Wolves,Manchester City,2023-01-22,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,3,2.63,True,4.0,0.01,77.14,0.17,0,0,0,0,0,Wolves,True,Liverpool,0.37,-0.53
+Nathan Collins,Wolves,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.8,0.01,72.0,0.17,0,0,0,0,0,Wolves,False,Southampton,-2.8,-1.07
+Nathan Collins,Wolves,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.4,0.0,67.5,0.17,0,0,0,0,0,Wolves,True,Bournemouth,,1.46
+Nathan Collins,Wolves,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.0,63.53,0.17,0,0,0,0,0,Wolves,False,Fulham,,1.37
+Nathan Collins,Wolves,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,60.0,0.17,0,0,0,0,0,Wolves,False,Liverpool,0.91,-1.33
+Nathan Collins,Wolves,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,56.84,0.17,0,0,0,0,1,Wolves,True,Tottenham,2.05,1.07
+Nathan Collins,Wolves,Tottenham,2023-03-04,True,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,2.1,0,0,0,0.67,False,0.0,0.0,56.25,0.17,0,0,0,0,1,Wolves,False,Newcastle United,3.01,
+Nathan Collins,Wolves,Newcastle United,2023-03-12,False,Sub,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,0.15,False,0.2,0.0,54.29,0.17,0,0,0,0,0,Wolves,True,Leicester City,,
+Nathan Collins,Wolves,Leicester City,2023-03-18,True,Sub,45,0.0,0.03,0.0,0.0,0,1.0,0.0,1.9,0,0,3,1.15,False,0.4,0.0,53.86,0.17,0,0,0,0,0,Wolves,False,Nottingham Forest,,
+Nathan Collins,Wolves,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,51.52,0.17,0,0,0,0,1,Wolves,False,Tottenham,1.18,-0.03
+Nathan Collins,Wolves,Tottenham,2022-08-20,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,1,0.0,False,0.4,0.01,53.12,0.15,0,0,0,0,1,Wolves,True,Chelsea,-1.03,-0.25
+Nathan Collins,Wolves,Chelsea,2023-04-08,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.6,0.01,51.04,0.15,0,0,0,0,0,Wolves,True,Brentford,3.23,0.69
+Nathan Collins,Wolves,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.01,49.08,0.15,0,0,0,0,0,Wolves,False,Leeds United,0.21,
+Nathan Collins,Wolves,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,47.26,0.15,0,0,0,0,1,Wolves,True,Crystal Palace,,
+Nathan Collins,Wolves,Crystal Palace,2023-04-25,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.08,False,0.4,0.0,45.61,0.15,0,0,0,0,0,Wolves,False,Brighton,-1.83,-0.39
+Nathan Collins,Wolves,Brighton,2023-04-29,False,Sub,45,0.0,0.0,0.0,0.0,0,0.0,0.0,2.3,0,0,2,1.39,False,0.6,0.0,45.59,0.15,0,0,0,0,1,Wolves,True,Aston Villa,,
+Nathan Collins,Wolves,Aston Villa,2023-05-06,True,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.04,False,0.4,0.0,44.3,0.15,0,0,0,0,0,Wolves,False,Manchester United,-0.63,
+Nathan Collins,Wolves,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,42.87,0.15,0,0,0,0,2,Wolves,True,Everton,-1.31,0.34
+Nathan Collins,Wolves,Everton,2023-05-20,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,1,1.98,True,0.4,0.0,44.34,0.14,0,0,0,0,0,Wolves,False,Arsenal,,-0.0
+Nathan Collins,Wolves,Arsenal,2023-05-28,False,DC,90,0.0,0.06,0.0,0.0,0,1.0,0.0,0.0,0,0,5,2.39,True,0.8,0.0,45.73,0.13,0,0,0,0,2,Wolves,True,Newcastle United,-1.69,
+Nathan Collins,Wolves,Newcastle United,2022-08-28,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.0,0,0,1,0.0,False,0.6,0.01,47.03,0.12,0,0,0,0,7,Wolves,False,Bournemouth,1.23,0.19
+Nathan Collins,Wolves,Bournemouth,2022-08-31,False,DC,90,0.0,0.0,0.0,0.07,7,0.0,2.0,4.5,1,1,0,0.0,False,1.0,0.01,48.26,0.18,0,0,0,0,9,Wolves,True,Southampton,-2.12,-0.38
+Nathan Collins,Wolves,Southampton,2022-09-03,True,DC,90,0.0,0.0,0.0,0.0,9,0.0,0.0,2.3,3,1,0,0.0,False,2.2,0.01,49.42,0.22,0,0,0,0,-3,Wolves,True,Manchester City,3.44,
+Nathan Collins,Wolves,Manchester City,2022-09-17,True,DC,32,0.0,0.0,0.0,0.0,-3,0.0,0.0,0.8,0,0,3,0.0,False,4.0,0.01,48.95,0.22,0,0,0,0,0,Wolves,False,West Ham,4.15,
+Nathan Collins,Wolves,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.01,47.66,0.22,0,0,0,0,1,Brentford,True,Tottenham,-0.15,1.07

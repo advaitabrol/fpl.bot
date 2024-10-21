@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Rico Henry,Brentford,Leeds United,2022-08-07,False,DL,90,0.0,0.0,1.0,0.44,4,0.0,1.0,3.5,0,0,2,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,0,Brentford,False,Newcastle United,0.38
-Rico Henry,Brentford,Newcastle United,2022-10-08,False,DML,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.2,0,0,5,0.0,False,4.0,1.0,90.0,0.0,0,0,0,0,6,Brentford,True,Brighton,0.05
-Rico Henry,Brentford,Brighton,2022-10-14,True,DL,86,0.0,0.0,0.0,0.0,6,0.0,0.0,1.3,0,1,0,0.0,False,2.0,0.5,88.67,0.33,0,0,0,0,6,Brentford,True,Chelsea,1.02
-Rico Henry,Brentford,Chelsea,2022-10-19,True,DML,90,0.0,0.07,0.0,0.0,6,1.0,0.0,1.5,0,1,0,0.0,False,3.33,0.33,89.0,0.5,0,0,0,0,0,Brentford,False,Aston Villa,0.66
-Rico Henry,Brentford,Aston Villa,2022-10-23,False,DML,90,0.0,0.0,0.0,0.04,0,0.0,1.0,4.0,0,0,4,0.0,False,4.0,0.27,89.2,0.4,0,0,0,0,2,Brentford,True,Wolverhampton,1.93
-Rico Henry,Brentford,Wolverhampton,2022-10-29,True,DL,90,0.0,0.01,0.0,0.0,2,1.0,0.0,2.0,0,0,1,0.0,False,3.2,0.21,89.33,0.33,0,0,0,0,1,Brentford,False,Nottingham Forest,
-Rico Henry,Brentford,Nottingham Forest,2022-11-05,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,2,0.0,False,2.8,0.02,89.43,0.29,0,0,0,0,2,Brentford,False,Manchester City,1.7
-Rico Henry,Brentford,Manchester City,2022-11-12,False,DML,90,0.0,0.0,0.0,0.34,2,0.0,1.0,3.9,0,0,1,1.61,True,3.0,0.02,89.5,0.25,0,0,0,0,1,Brentford,True,Tottenham,-0.82
-Rico Henry,Brentford,Tottenham,2022-12-26,True,DML,90,0.0,0.0,0.0,0.08,1,0.0,1.0,3.3,0,0,2,1.07,True,2.2,0.02,89.56,0.22,0,0,0,0,6,Brentford,False,West Ham,-2.82
-Rico Henry,Brentford,West Ham,2022-12-30,False,DML,90,0.0,0.0,0.0,0.0,6,0.0,0.0,0.7,0,1,0,1.24,True,1.2,0.0,89.6,0.3,0,0,0,0,2,Brentford,True,Liverpool,-3.03
-Rico Henry,Brentford,Liverpool,2023-01-02,True,DML,90,0.0,0.0,0.0,0.04,2,0.0,1.0,3.2,0,0,1,2.03,True,2.4,0.0,89.64,0.27,0,0,0,0,6,Brentford,True,Manchester United,2.88
-Rico Henry,Brentford,Manchester United,2022-08-13,True,DL,90,0.0,0.09,0.0,0.0,6,3.0,0.0,2.4,0,1,0,0.0,False,2.4,0.0,89.67,0.33,0,0,0,0,0,Brentford,True,Bournemouth,
-Rico Henry,Brentford,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.4,0.02,82.77,0.33,0,0,0,0,6,Brentford,False,Leicester City,-0.7
-Rico Henry,Brentford,Leicester City,2023-01-22,False,DML,90,0.0,0.0,0.0,0.04,6,0.0,2.0,5.7,0,1,0,0.5,True,3.0,0.02,83.29,0.38,0,0,0,0,11,Brentford,True,Southampton,-5.29
-Rico Henry,Brentford,Southampton,2023-02-04,True,DL,90,0.0,0.07,1.0,0.52,11,1.0,1.0,5.3,2,1,0,0.63,True,4.0,0.02,83.73,0.43,0,0,0,0,2,Brentford,False,Arsenal,1.21
-Rico Henry,Brentford,Arsenal,2023-02-11,False,DML,90,0.0,0.58,0.0,0.0,2,1.0,0.0,1.9,0,0,1,1.68,True,5.0,0.23,84.12,0.4,0,0,0,0,2,Brentford,True,Crystal Palace,-1.39
-Rico Henry,Brentford,Crystal Palace,2023-02-18,True,DL,75,0.0,0.0,0.0,0.0,2,0.0,0.0,1.6,0,0,1,0.96,True,5.0,0.35,83.59,0.38,0,0,0,0,1,Brentford,True,Fulham,
-Rico Henry,Brentford,Fulham,2023-03-06,True,DL,90,0.0,0.04,0.0,0.5,1,1.0,1.0,5.2,0,0,2,1.42,True,4.2,0.33,83.94,0.35,0,0,0,0,2,Brentford,False,Everton,1.61
-Rico Henry,Brentford,Everton,2023-03-11,False,DL,86,0.0,0.47,0.0,0.1,2,1.0,2.0,7.6,0,0,1,1.03,True,4.4,0.34,84.05,0.33,0,0,0,0,6,Brentford,False,Southampton,4.95
-Rico Henry,Brentford,Southampton,2023-03-15,False,DL,90,0.0,0.03,0.0,0.0,6,2.0,0.0,1.4,0,1,0,0.51,True,3.6,0.43,84.35,0.37,0,0,0,0,2,Brentford,True,Leeds United,2.58
-Rico Henry,Brentford,Leeds United,2023-03-18,True,DL,90,0.0,0.05,0.0,0.16,2,3.0,3.0,5.8,0,0,1,1.35,True,2.6,0.22,84.62,0.35,0,0,0,0,1,Brentford,False,Brighton,2.12
-Rico Henry,Brentford,Brighton,2023-04-01,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,3,4.45,True,2.6,0.12,84.86,0.33,0,0,0,0,2,Brentford,False,Manchester United,
-Rico Henry,Brentford,Manchester United,2023-04-05,False,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0,0,1,1.1,True,2.4,0.12,85.09,0.32,0,0,0,0,1,Brentford,False,Fulham,3.1
-Rico Henry,Brentford,Fulham,2022-08-20,False,DL,90,0.0,0.05,0.0,0.0,1,1.0,0.0,4.0,0,0,3,0.0,False,2.6,0.11,85.29,0.3,0,0,0,0,5,Brentford,True,Newcastle United,
-Rico Henry,Brentford,Newcastle United,2023-04-08,True,DL,90,0.0,0.0,0.0,0.06,5,0.0,1.0,3.1,1,0,2,1.18,True,2.4,0.03,85.48,0.29,0,0,0,0,1,Brentford,False,Wolverhampton,-3.56
-Rico Henry,Brentford,Wolverhampton,2023-04-15,False,DL,73,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,2,0.66,True,2.2,0.02,85.0,0.28,0,0,0,0,2,Brentford,True,Aston Villa,-0.66
-Rico Henry,Brentford,Aston Villa,2023-04-22,True,DL,90,0.0,0.03,0.0,0.0,2,1.0,0.0,0.9,0,0,1,1.91,True,2.0,0.01,85.19,0.27,0,0,0,0,5,Brentford,False,Chelsea,
-Rico Henry,Brentford,Chelsea,2023-04-26,False,DL,90,0.0,0.0,0.0,0.04,5,0.0,1.0,2.0,0,1,0,1.08,True,2.2,0.02,85.36,0.3,0,0,0,0,0,Brentford,True,Nottingham Forest,
-Rico Henry,Brentford,Nottingham Forest,2023-04-29,True,DL,59,0.0,0.04,0.0,0.0,0,1.0,0.0,0.7,0,0,1,0.66,True,2.8,0.02,84.45,0.3,0,0,0,0,1,Brentford,False,Liverpool,
-Rico Henry,Brentford,Liverpool,2023-05-06,False,DL,71,0.0,0.05,0.0,0.0,1,1.0,0.0,1.4,0,0,1,1.71,True,2.6,0.01,84.0,0.29,0,0,0,0,6,Brentford,True,West Ham,
-Rico Henry,Brentford,West Ham,2023-05-14,True,DL,90,0.0,0.02,0.0,0.06,6,1.0,1.0,3.3,0,1,0,0.22,True,1.8,0.02,84.19,0.31,0,0,0,0,1,Brentford,False,Tottenham,4.55
-Rico Henry,Brentford,Tottenham,2023-05-20,False,DL,90,0.0,0.02,0.0,0.06,1,1.0,1.0,4.7,0,0,1,1.89,True,2.8,0.03,84.38,0.3,0,0,0,0,7,Brentford,True,Manchester City,0.85
-Rico Henry,Brentford,Manchester City,2023-05-28,True,DL,90,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,1,1,0,0.64,True,2.6,0.02,84.55,0.32,0,0,0,0,2,Brentford,True,Everton,-0.64
-Rico Henry,Brentford,Everton,2022-08-27,True,DL,90,0.0,0.0,0.0,0.46,2,0.0,2.0,4.8,0,0,1,0.0,False,3.0,0.02,84.71,0.31,0,0,0,0,2,Brentford,False,Crystal Palace,0.48
-Rico Henry,Brentford,Crystal Palace,2022-08-30,False,DL,90,0.0,0.32,0.0,0.03,2,1.0,1.0,4.6,0,0,1,0.0,False,3.4,0.02,84.86,0.3,0,0,0,0,1,Brentford,True,Leicester City,-3.59
-Rico Henry,Brentford,Leicester City,2022-09-03,True,DL,90,0.0,0.02,0.0,0.0,1,1.0,0.0,1.3,0,0,2,0.0,False,3.6,0.07,85.0,0.29,0,0,0,0,1,Brentford,True,Arsenal,-0.45
-Rico Henry,Brentford,Arsenal,2022-09-18,True,DML,90,0.0,0.0,0.0,0.03,1,0.0,1.0,3.7,0,0,3,0.0,False,2.6,0.07,85.14,0.29,0,0,0,0,6,Brentford,False,Bournemouth,2.35
-Rico Henry,Brentford,Bournemouth,2022-10-01,False,DL,90,0.0,0.0,0.0,0.06,6,0.0,1.0,3.3,0,1,0,0.0,False,2.6,0.07,85.26,0.31,0,0,0,0,4,Brentford,True,Tottenham,-0.15
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Rico Henry,Brentford,Leeds United,2022-08-07,False,DL,90,0.0,0.0,1.0,0.44,4,0.0,1.0,3.5,0,0,2,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,0,Brentford,False,Newcastle United,0.38,
+Rico Henry,Brentford,Newcastle United,2022-10-08,False,DML,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.2,0,0,5,0.0,False,4.0,1.0,90.0,0.0,0,0,0,0,6,Brentford,True,Brighton,0.05,-0.71
+Rico Henry,Brentford,Brighton,2022-10-14,True,DL,86,0.0,0.0,0.0,0.0,6,0.0,0.0,1.3,0,1,0,0.0,False,2.0,0.5,88.67,0.33,0,0,0,0,6,Brentford,True,Chelsea,1.02,-0.25
+Rico Henry,Brentford,Chelsea,2022-10-19,True,DML,90,0.0,0.07,0.0,0.0,6,1.0,0.0,1.5,0,1,0,0.0,False,3.33,0.33,89.0,0.5,0,0,0,0,0,Brentford,False,Aston Villa,0.66,
+Rico Henry,Brentford,Aston Villa,2022-10-23,False,DML,90,0.0,0.0,0.0,0.04,0,0.0,1.0,4.0,0,0,4,0.0,False,4.0,0.27,89.2,0.4,0,0,0,0,2,Brentford,True,Wolverhampton,1.93,-0.48
+Rico Henry,Brentford,Wolverhampton,2022-10-29,True,DL,90,0.0,0.01,0.0,0.0,2,1.0,0.0,2.0,0,0,1,0.0,False,3.2,0.21,89.33,0.33,0,0,0,0,1,Brentford,False,Nottingham Forest,,
+Rico Henry,Brentford,Nottingham Forest,2022-11-05,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,2,0.0,False,2.8,0.02,89.43,0.29,0,0,0,0,2,Brentford,False,Manchester City,1.7,
+Rico Henry,Brentford,Manchester City,2022-11-12,False,DML,90,0.0,0.0,0.0,0.34,2,0.0,1.0,3.9,0,0,1,1.61,True,3.0,0.02,89.5,0.25,0,0,0,0,1,Brentford,True,Tottenham,-0.82,1.07
+Rico Henry,Brentford,Tottenham,2022-12-26,True,DML,90,0.0,0.0,0.0,0.08,1,0.0,1.0,3.3,0,0,2,1.07,True,2.2,0.02,89.56,0.22,0,0,0,0,6,Brentford,False,West Ham,-2.82,
+Rico Henry,Brentford,West Ham,2022-12-30,False,DML,90,0.0,0.0,0.0,0.0,6,0.0,0.0,0.7,0,1,0,1.24,True,1.2,0.0,89.6,0.3,0,0,0,0,2,Brentford,True,Liverpool,-3.03,-0.53
+Rico Henry,Brentford,Liverpool,2023-01-02,True,DML,90,0.0,0.0,0.0,0.04,2,0.0,1.0,3.2,0,0,1,2.03,True,2.4,0.0,89.64,0.27,0,0,0,0,6,Brentford,True,Manchester United,2.88,
+Rico Henry,Brentford,Manchester United,2022-08-13,True,DL,90,0.0,0.09,0.0,0.0,6,3.0,0.0,2.4,0,1,0,0.0,False,2.4,0.0,89.67,0.33,0,0,0,0,0,Brentford,True,Bournemouth,,1.46
+Rico Henry,Brentford,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.4,0.02,82.77,0.33,0,0,0,0,6,Brentford,False,Leicester City,-0.7,
+Rico Henry,Brentford,Leicester City,2023-01-22,False,DML,90,0.0,0.0,0.0,0.04,6,0.0,2.0,5.7,0,1,0,0.5,True,3.0,0.02,83.29,0.38,0,0,0,0,11,Brentford,True,Southampton,-5.29,-0.38
+Rico Henry,Brentford,Southampton,2023-02-04,True,DL,90,0.0,0.07,1.0,0.52,11,1.0,1.0,5.3,2,1,0,0.63,True,4.0,0.02,83.73,0.43,0,0,0,0,2,Brentford,False,Arsenal,1.21,-0.0
+Rico Henry,Brentford,Arsenal,2023-02-11,False,DML,90,0.0,0.58,0.0,0.0,2,1.0,0.0,1.9,0,0,1,1.68,True,5.0,0.23,84.12,0.4,0,0,0,0,2,Brentford,True,Crystal Palace,-1.39,
+Rico Henry,Brentford,Crystal Palace,2023-02-18,True,DL,75,0.0,0.0,0.0,0.0,2,0.0,0.0,1.6,0,0,1,0.96,True,5.0,0.35,83.59,0.38,0,0,0,0,1,Brentford,True,Fulham,,-0.3
+Rico Henry,Brentford,Fulham,2023-03-06,True,DL,90,0.0,0.04,0.0,0.5,1,1.0,1.0,5.2,0,0,2,1.42,True,4.2,0.33,83.94,0.35,0,0,0,0,2,Brentford,False,Everton,1.61,-0.63
+Rico Henry,Brentford,Everton,2023-03-11,False,DL,86,0.0,0.47,0.0,0.1,2,1.0,2.0,7.6,0,0,1,1.03,True,4.4,0.34,84.05,0.33,0,0,0,0,6,Brentford,False,Southampton,4.95,-1.07
+Rico Henry,Brentford,Southampton,2023-03-15,False,DL,90,0.0,0.03,0.0,0.0,6,2.0,0.0,1.4,0,1,0,0.51,True,3.6,0.43,84.35,0.37,0,0,0,0,2,Brentford,True,Leeds United,2.58,
+Rico Henry,Brentford,Leeds United,2023-03-18,True,DL,90,0.0,0.05,0.0,0.16,2,3.0,3.0,5.8,0,0,1,1.35,True,2.6,0.22,84.62,0.35,0,0,0,0,1,Brentford,False,Brighton,2.12,-0.39
+Rico Henry,Brentford,Brighton,2023-04-01,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,3,4.45,True,2.6,0.12,84.86,0.33,0,0,0,0,2,Brentford,False,Manchester United,,
+Rico Henry,Brentford,Manchester United,2023-04-05,False,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0,0,1,1.1,True,2.4,0.12,85.09,0.32,0,0,0,0,1,Brentford,False,Fulham,3.1,1.37
+Rico Henry,Brentford,Fulham,2022-08-20,False,DL,90,0.0,0.05,0.0,0.0,1,1.0,0.0,4.0,0,0,3,0.0,False,2.6,0.11,85.29,0.3,0,0,0,0,5,Brentford,True,Newcastle United,,
+Rico Henry,Brentford,Newcastle United,2023-04-08,True,DL,90,0.0,0.0,0.0,0.06,5,0.0,1.0,3.1,1,0,2,1.18,True,2.4,0.03,85.48,0.29,0,0,0,0,1,Brentford,False,Wolverhampton,-3.56,-0.46
+Rico Henry,Brentford,Wolverhampton,2023-04-15,False,DL,73,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,2,0.66,True,2.2,0.02,85.0,0.28,0,0,0,0,2,Brentford,True,Aston Villa,-0.66,
+Rico Henry,Brentford,Aston Villa,2023-04-22,True,DL,90,0.0,0.03,0.0,0.0,2,1.0,0.0,0.9,0,0,1,1.91,True,2.0,0.01,85.19,0.27,0,0,0,0,5,Brentford,False,Chelsea,,-0.72
+Rico Henry,Brentford,Chelsea,2023-04-26,False,DL,90,0.0,0.0,0.0,0.04,5,0.0,1.0,2.0,0,1,0,1.08,True,2.2,0.02,85.36,0.3,0,0,0,0,0,Brentford,True,Nottingham Forest,,
+Rico Henry,Brentford,Nottingham Forest,2023-04-29,True,DL,59,0.0,0.04,0.0,0.0,0,1.0,0.0,0.7,0,0,1,0.66,True,2.8,0.02,84.45,0.3,0,0,0,0,1,Brentford,False,Liverpool,,-1.33
+Rico Henry,Brentford,Liverpool,2023-05-06,False,DL,71,0.0,0.05,0.0,0.0,1,1.0,0.0,1.4,0,0,1,1.71,True,2.6,0.01,84.0,0.29,0,0,0,0,6,Brentford,True,West Ham,,
+Rico Henry,Brentford,West Ham,2023-05-14,True,DL,90,0.0,0.02,0.0,0.06,6,1.0,1.0,3.3,0,1,0,0.22,True,1.8,0.02,84.19,0.31,0,0,0,0,1,Brentford,False,Tottenham,4.55,-0.03
+Rico Henry,Brentford,Tottenham,2023-05-20,False,DL,90,0.0,0.02,0.0,0.06,1,1.0,1.0,4.7,0,0,1,1.89,True,2.8,0.03,84.38,0.3,0,0,0,0,7,Brentford,True,Manchester City,0.85,
+Rico Henry,Brentford,Manchester City,2023-05-28,True,DL,90,0.0,0.0,0.0,0.0,7,0.0,0.0,0.0,1,1,0,0.64,True,2.6,0.02,84.55,0.32,0,0,0,0,2,Brentford,True,Everton,-0.64,0.34
+Rico Henry,Brentford,Everton,2022-08-27,True,DL,90,0.0,0.0,0.0,0.46,2,0.0,2.0,4.8,0,0,1,0.0,False,3.0,0.02,84.71,0.31,0,0,0,0,2,Brentford,False,Crystal Palace,0.48,
+Rico Henry,Brentford,Crystal Palace,2022-08-30,False,DL,90,0.0,0.32,0.0,0.03,2,1.0,1.0,4.6,0,0,1,0.0,False,3.4,0.02,84.86,0.3,0,0,0,0,1,Brentford,True,Leicester City,-3.59,
+Rico Henry,Brentford,Leicester City,2022-09-03,True,DL,90,0.0,0.02,0.0,0.0,1,1.0,0.0,1.3,0,0,2,0.0,False,3.6,0.07,85.0,0.29,0,0,0,0,1,Brentford,True,Arsenal,-0.45,0.36
+Rico Henry,Brentford,Arsenal,2022-09-18,True,DML,90,0.0,0.0,0.0,0.03,1,0.0,1.0,3.7,0,0,3,0.0,False,2.6,0.07,85.14,0.29,0,0,0,0,6,Brentford,False,Bournemouth,2.35,0.19
+Rico Henry,Brentford,Bournemouth,2022-10-01,False,DL,90,0.0,0.0,0.0,0.06,6,0.0,1.0,3.3,0,1,0,0.0,False,2.6,0.07,85.26,0.31,0,0,0,0,4,Brentford,True,Tottenham,-0.15,1.07

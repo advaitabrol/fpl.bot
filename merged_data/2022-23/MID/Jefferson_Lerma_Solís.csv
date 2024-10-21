@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Jefferson Lerma Solís,Bournemouth,Aston Villa,2022-08-06,True,DC,90,1.0,0.1,0.0,0.0,10,1.0,0.0,5.9,2,1,0,False,0.0,0.0,90.0,0,0,0,0,0,2,Bournemouth,True,Leeds United,
-Jefferson Lerma Solís,Bournemouth,Leeds United,2022-10-08,True,MC,90,0.0,0.0,0.0,0.06,2,0.0,1.0,2.6,0,0,1,False,10.0,0.1,90.0,0,0,0,0,0,7,Bournemouth,False,Fulham,
-Jefferson Lerma Solís,Bournemouth,Fulham,2022-10-15,False,MC,90,1.0,0.43,0.0,0.0,7,3.0,0.0,8.6,0,0,2,False,6.0,0.05,90.0,0,0,0,0,0,2,Bournemouth,True,Southampton,
-Jefferson Lerma Solís,Bournemouth,Southampton,2022-10-19,True,MC,90,0.0,0.02,0.0,0.0,2,1.0,0.0,1.9,0,0,1,False,6.33,0.18,90.0,0,0,0,0,0,1,Bournemouth,False,West Ham,
-Jefferson Lerma Solís,Bournemouth,West Ham,2022-10-24,False,DMC,90,0.0,0.06,0.0,0.49,1,1.0,1.0,2.5,0,0,2,False,5.25,0.14,90.0,0,0,0,0,0,2,Bournemouth,True,Tottenham,
-Jefferson Lerma Solís,Bournemouth,Tottenham,2022-10-29,True,MC,90,0.0,0.01,0.0,0.02,2,1.0,1.0,2.8,0,0,3,False,4.4,0.12,90.0,0,0,0,0,0,1,Bournemouth,False,Leicester City,
-Jefferson Lerma Solís,Bournemouth,Leicester City,2022-11-05,False,MC,90,0.0,0.08,0.0,0.05,1,1.0,1.0,5.9,0,0,4,False,2.8,0.1,90.0,0,0,0,0,0,3,Bournemouth,True,Everton,
-Jefferson Lerma Solís,Bournemouth,Everton,2022-11-12,True,MC,90,0.0,0.0,0.0,0.05,3,0.0,1.0,2.7,0,1,0,True,2.6,0.12,90.0,0,0,0,0,0,2,Bournemouth,False,Chelsea,
-Jefferson Lerma Solís,Bournemouth,Chelsea,2022-12-27,False,MC,90,0.0,0.02,0.0,0.08,2,1.0,1.0,2.2,0,0,2,True,1.8,0.03,90.0,0,0,0,0,0,2,Bournemouth,True,Crystal Palace,
-Jefferson Lerma Solís,Bournemouth,Crystal Palace,2022-12-31,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.8,0,0,2,True,1.8,0.03,90.0,0,0,0,0,0,2,Bournemouth,False,Manchester United,
-Jefferson Lerma Solís,Bournemouth,Manchester United,2023-01-03,False,MC,83,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,2,True,2.0,0.02,89.36,0,0,0,0,0,0,Bournemouth,False,Manchester City,
-Jefferson Lerma Solís,Bournemouth,Manchester City,2022-08-13,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.7,0,0,4,False,2.0,0.02,89.42,0,0,0,0,0,2,Bournemouth,False,Brentford,
-Jefferson Lerma Solís,Bournemouth,Brentford,2023-01-14,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,2,True,1.8,0.0,89.46,0,0,0,0,0,2,Bournemouth,True,Nottingham Forest,
-Jefferson Lerma Solís,Bournemouth,Nottingham Forest,2023-01-21,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,1,True,1.6,0.0,89.5,0,0,0,0,0,2,Bournemouth,False,Brighton,
-Jefferson Lerma Solís,Bournemouth,Brighton,2023-02-04,False,MC,90,0.0,0.1,0.0,0.1,2,1.0,2.0,5.9,0,0,1,True,1.6,0.0,89.53,0,0,0,0,0,2,Bournemouth,True,Newcastle United,
-Jefferson Lerma Solís,Bournemouth,Newcastle United,2023-02-11,True,MC,90,0.0,0.0,0.0,0.02,2,0.0,1.0,4.0,0,0,1,True,1.6,0.02,89.56,0,0,0,0,0,1,Bournemouth,False,Wolverhampton,
-Jefferson Lerma Solís,Bournemouth,Wolverhampton,2023-02-18,False,DMC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,0,True,1.6,0.02,86.94,0,0,0,0,0,7,Bournemouth,True,Manchester City,
-Jefferson Lerma Solís,Bournemouth,Manchester City,2023-02-25,True,MC,90,1.0,0.48,0.0,0.0,7,4.0,0.0,6.7,0,0,4,True,1.8,0.02,87.11,0,0,0,0,0,0,Bournemouth,False,Arsenal,
-Jefferson Lerma Solís,Bournemouth,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,2.8,0.12,82.53,0,0,0,0,0,3,Bournemouth,True,Liverpool,
-Jefferson Lerma Solís,Bournemouth,Liverpool,2023-03-11,True,MC,80,0.0,0.0,0.0,0.0,3,0.0,0.0,1.1,0,1,0,True,2.4,0.12,82.4,0,0,0,0,0,1,Bournemouth,False,Aston Villa,
-Jefferson Lerma Solís,Bournemouth,Aston Villa,2023-03-18,False,MC,90,0.0,0.05,0.0,0.0,1,1.0,0.0,3.4,0,0,3,True,2.6,0.1,82.76,0,0,0,0,0,1,Bournemouth,True,Fulham,
-Jefferson Lerma Solís,Bournemouth,Fulham,2023-04-01,True,MC,90,0.0,0.48,0.0,0.58,1,3.0,2.0,4.4,0,0,1,True,2.4,0.11,83.09,0,0,0,0,0,2,Bournemouth,True,Brighton,
-Jefferson Lerma Solís,Bournemouth,Brighton,2023-04-04,True,MC,90,0.0,0.05,0.0,0.45,2,2.0,2.0,5.3,0,0,2,True,2.4,0.2,83.39,0,0,0,0,0,2,Bournemouth,True,Arsenal,2.53
-Jefferson Lerma Solís,Bournemouth,Arsenal,2022-08-20,True,DMC,90,0.0,0.01,0.0,0.0,2,1.0,0.0,1.6,0,0,3,False,1.4,0.12,83.67,0,0,0,0,0,3,Bournemouth,False,Leeds United,
-Jefferson Lerma Solís,Bournemouth,Leeds United,2023-04-08,False,DMC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,0.6,0,1,0,True,1.8,0.12,83.92,0,0,0,0,0,2,Bournemouth,False,Tottenham,
-Jefferson Lerma Solís,Bournemouth,Tottenham,2023-04-15,False,MC,90,0.0,0.04,0.0,0.0,2,2.0,0.0,2.2,0,0,2,True,1.8,0.12,84.15,0,0,0,0,0,2,Bournemouth,True,West Ham,
-Jefferson Lerma Solís,Bournemouth,West Ham,2023-04-23,True,MC,74,0.0,0.02,0.0,0.01,2,1.0,1.0,4.8,0,0,4,True,2.0,0.12,83.78,0,0,0,0,0,2,Bournemouth,False,Southampton,
-Jefferson Lerma Solís,Bournemouth,Southampton,2023-04-27,False,MC,90,0.0,0.02,0.0,0.02,2,1.0,1.0,0.0,0,1,0,True,2.2,0.02,84.0,0,0,0,0,0,15,Bournemouth,True,Leicester City,
-Jefferson Lerma Solís,Bournemouth,Leicester City,2023-04-30,True,DMC,90,2.0,0.61,0.0,0.04,15,3.0,1.0,13.9,3,0,1,True,2.2,0.02,84.21,0,0,0,0,0,2,Bournemouth,True,Chelsea,
-Jefferson Lerma Solís,Bournemouth,Chelsea,2023-05-06,True,DMC,90,0.0,0.02,0.0,0.57,2,1.0,1.0,2.6,0,0,3,True,4.8,0.14,84.4,0,0,0,0,0,1,Bournemouth,False,Crystal Palace,
-Jefferson Lerma Solís,Bournemouth,Crystal Palace,2023-05-13,False,DMC,90,0.0,0.0,0.0,0.08,1,0.0,1.0,3.4,0,0,2,True,4.6,0.14,84.58,0,0,0,0,0,2,Bournemouth,True,Manchester United,
-Jefferson Lerma Solís,Bournemouth,Manchester United,2023-05-20,True,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,True,4.4,0.13,84.75,0,0,0,0,0,2,Bournemouth,False,Everton,
-Jefferson Lerma Solís,Bournemouth,Everton,2023-05-28,False,DMC,90,0.0,0.05,0.0,0.0,2,1.0,0.0,0.0,0,0,1,True,4.4,0.13,84.91,0,0,0,0,0,2,Bournemouth,False,Liverpool,7.33
-Jefferson Lerma Solís,Bournemouth,Liverpool,2022-08-27,False,DMC,90,0.0,0.02,0.0,0.0,2,1.0,0.0,1.0,0,0,9,False,4.4,0.14,85.06,0,0,0,0,0,3,Bournemouth,True,Wolverhampton,1.01
-Jefferson Lerma Solís,Bournemouth,Wolverhampton,2022-08-31,True,MC,90,0.0,0.01,0.0,0.0,3,1.0,0.0,1.8,0,1,0,False,1.8,0.02,85.2,0,0,0,0,0,2,Bournemouth,False,Nottingham Forest,-0.1
-Jefferson Lerma Solís,Bournemouth,Nottingham Forest,2022-09-03,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,2,False,2.0,0.02,85.33,0,0,0,0,0,2,Bournemouth,False,Newcastle United,-1.45
-Jefferson Lerma Solís,Bournemouth,Newcastle United,2022-09-17,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,0,1,False,2.2,0.02,85.46,0,0,0,0,0,2,Bournemouth,True,Brentford,0.49
-Jefferson Lerma Solís,Bournemouth,Brentford,2022-10-01,True,MC,90,0.0,0.46,0.0,0.0,2,3.0,0.0,5.6,0,1,0,False,2.2,0.02,85.58,0,0,0,0,0,3,Crystal Palace,False,Sheffield,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jefferson Lerma Solís,Bournemouth,Aston Villa,2022-08-06,True,DC,90,1.0,0.1,0.0,0.0,10,1.0,0.0,5.9,2,1,0,False,0.0,0.0,90.0,0,0,0,0,0,2,Bournemouth,True,Leeds United,,
+Jefferson Lerma Solís,Bournemouth,Leeds United,2022-10-08,True,MC,90,0.0,0.0,0.0,0.06,2,0.0,1.0,2.6,0,0,1,False,10.0,0.1,90.0,0,0,0,0,0,7,Bournemouth,False,Fulham,,1.37
+Jefferson Lerma Solís,Bournemouth,Fulham,2022-10-15,False,MC,90,1.0,0.43,0.0,0.0,7,3.0,0.0,8.6,0,0,2,False,6.0,0.05,90.0,0,0,0,0,0,2,Bournemouth,True,Southampton,,-0.38
+Jefferson Lerma Solís,Bournemouth,Southampton,2022-10-19,True,MC,90,0.0,0.02,0.0,0.0,2,1.0,0.0,1.9,0,0,1,False,6.33,0.18,90.0,0,0,0,0,0,1,Bournemouth,False,West Ham,,
+Jefferson Lerma Solís,Bournemouth,West Ham,2022-10-24,False,DMC,90,0.0,0.06,0.0,0.49,1,1.0,1.0,2.5,0,0,2,False,5.25,0.14,90.0,0,0,0,0,0,2,Bournemouth,True,Tottenham,,1.07
+Jefferson Lerma Solís,Bournemouth,Tottenham,2022-10-29,True,MC,90,0.0,0.01,0.0,0.02,2,1.0,1.0,2.8,0,0,3,False,4.4,0.12,90.0,0,0,0,0,0,1,Bournemouth,False,Leicester City,,
+Jefferson Lerma Solís,Bournemouth,Leicester City,2022-11-05,False,MC,90,0.0,0.08,0.0,0.05,1,1.0,1.0,5.9,0,0,4,False,2.8,0.1,90.0,0,0,0,0,0,3,Bournemouth,True,Everton,,0.34
+Jefferson Lerma Solís,Bournemouth,Everton,2022-11-12,True,MC,90,0.0,0.0,0.0,0.05,3,0.0,1.0,2.7,0,1,0,True,2.6,0.12,90.0,0,0,0,0,0,2,Bournemouth,False,Chelsea,,-0.72
+Jefferson Lerma Solís,Bournemouth,Chelsea,2022-12-27,False,MC,90,0.0,0.02,0.0,0.08,2,1.0,1.0,2.2,0,0,2,True,1.8,0.03,90.0,0,0,0,0,0,2,Bournemouth,True,Crystal Palace,,
+Jefferson Lerma Solís,Bournemouth,Crystal Palace,2022-12-31,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.8,0,0,2,True,1.8,0.03,90.0,0,0,0,0,0,2,Bournemouth,False,Manchester United,,
+Jefferson Lerma Solís,Bournemouth,Manchester United,2023-01-03,False,MC,83,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,2,True,2.0,0.02,89.36,0,0,0,0,0,0,Bournemouth,False,Manchester City,,
+Jefferson Lerma Solís,Bournemouth,Manchester City,2022-08-13,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.7,0,0,4,False,2.0,0.02,89.42,0,0,0,0,0,2,Bournemouth,False,Brentford,,-0.55
+Jefferson Lerma Solís,Bournemouth,Brentford,2023-01-14,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,2,True,1.8,0.0,89.46,0,0,0,0,0,2,Bournemouth,True,Nottingham Forest,,
+Jefferson Lerma Solís,Bournemouth,Nottingham Forest,2023-01-21,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,1,True,1.6,0.0,89.5,0,0,0,0,0,2,Bournemouth,False,Brighton,,-0.39
+Jefferson Lerma Solís,Bournemouth,Brighton,2023-02-04,False,MC,90,0.0,0.1,0.0,0.1,2,1.0,2.0,5.9,0,0,1,True,1.6,0.0,89.53,0,0,0,0,0,2,Bournemouth,True,Newcastle United,,
+Jefferson Lerma Solís,Bournemouth,Newcastle United,2023-02-11,True,MC,90,0.0,0.0,0.0,0.02,2,0.0,1.0,4.0,0,0,1,True,1.6,0.02,89.56,0,0,0,0,0,1,Bournemouth,False,Wolverhampton,,-0.46
+Jefferson Lerma Solís,Bournemouth,Wolverhampton,2023-02-18,False,DMC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,0,True,1.6,0.02,86.94,0,0,0,0,0,7,Bournemouth,True,Manchester City,,
+Jefferson Lerma Solís,Bournemouth,Manchester City,2023-02-25,True,MC,90,1.0,0.48,0.0,0.0,7,4.0,0.0,6.7,0,0,4,True,1.8,0.02,87.11,0,0,0,0,0,0,Bournemouth,False,Arsenal,,-0.0
+Jefferson Lerma Solís,Bournemouth,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,2.8,0.12,82.53,0,0,0,0,0,3,Bournemouth,True,Liverpool,,-0.53
+Jefferson Lerma Solís,Bournemouth,Liverpool,2023-03-11,True,MC,80,0.0,0.0,0.0,0.0,3,0.0,0.0,1.1,0,1,0,True,2.4,0.12,82.4,0,0,0,0,0,1,Bournemouth,False,Aston Villa,,
+Jefferson Lerma Solís,Bournemouth,Aston Villa,2023-03-18,False,MC,90,0.0,0.05,0.0,0.0,1,1.0,0.0,3.4,0,0,3,True,2.6,0.1,82.76,0,0,0,0,0,1,Bournemouth,True,Fulham,,-0.3
+Jefferson Lerma Solís,Bournemouth,Fulham,2023-04-01,True,MC,90,0.0,0.48,0.0,0.58,1,3.0,2.0,4.4,0,0,1,True,2.4,0.11,83.09,0,0,0,0,0,2,Bournemouth,True,Brighton,,-0.71
+Jefferson Lerma Solís,Bournemouth,Brighton,2023-04-04,True,MC,90,0.0,0.05,0.0,0.45,2,2.0,2.0,5.3,0,0,2,True,2.4,0.2,83.39,0,0,0,0,0,2,Bournemouth,True,Arsenal,2.53,0.36
+Jefferson Lerma Solís,Bournemouth,Arsenal,2022-08-20,True,DMC,90,0.0,0.01,0.0,0.0,2,1.0,0.0,1.6,0,0,3,False,1.4,0.12,83.67,0,0,0,0,0,3,Bournemouth,False,Leeds United,,
+Jefferson Lerma Solís,Bournemouth,Leeds United,2023-04-08,False,DMC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,0.6,0,1,0,True,1.8,0.12,83.92,0,0,0,0,0,2,Bournemouth,False,Tottenham,,-0.03
+Jefferson Lerma Solís,Bournemouth,Tottenham,2023-04-15,False,MC,90,0.0,0.04,0.0,0.0,2,2.0,0.0,2.2,0,0,2,True,1.8,0.12,84.15,0,0,0,0,0,2,Bournemouth,True,West Ham,,
+Jefferson Lerma Solís,Bournemouth,West Ham,2023-04-23,True,MC,74,0.0,0.02,0.0,0.01,2,1.0,1.0,4.8,0,0,4,True,2.0,0.12,83.78,0,0,0,0,0,2,Bournemouth,False,Southampton,,-1.07
+Jefferson Lerma Solís,Bournemouth,Southampton,2023-04-27,False,MC,90,0.0,0.02,0.0,0.02,2,1.0,1.0,0.0,0,1,0,True,2.2,0.02,84.0,0,0,0,0,0,15,Bournemouth,True,Leicester City,,
+Jefferson Lerma Solís,Bournemouth,Leicester City,2023-04-30,True,DMC,90,2.0,0.61,0.0,0.04,15,3.0,1.0,13.9,3,0,1,True,2.2,0.02,84.21,0,0,0,0,0,2,Bournemouth,True,Chelsea,,-0.25
+Jefferson Lerma Solís,Bournemouth,Chelsea,2023-05-06,True,DMC,90,0.0,0.02,0.0,0.57,2,1.0,1.0,2.6,0,0,3,True,4.8,0.14,84.4,0,0,0,0,0,1,Bournemouth,False,Crystal Palace,,
+Jefferson Lerma Solís,Bournemouth,Crystal Palace,2023-05-13,False,DMC,90,0.0,0.0,0.0,0.08,1,0.0,1.0,3.4,0,0,2,True,4.6,0.14,84.58,0,0,0,0,0,2,Bournemouth,True,Manchester United,,
+Jefferson Lerma Solís,Bournemouth,Manchester United,2023-05-20,True,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,True,4.4,0.13,84.75,0,0,0,0,0,2,Bournemouth,False,Everton,,-0.63
+Jefferson Lerma Solís,Bournemouth,Everton,2023-05-28,False,DMC,90,0.0,0.05,0.0,0.0,2,1.0,0.0,0.0,0,0,1,True,4.4,0.13,84.91,0,0,0,0,0,2,Bournemouth,False,Liverpool,7.33,-1.33
+Jefferson Lerma Solís,Bournemouth,Liverpool,2022-08-27,False,DMC,90,0.0,0.02,0.0,0.0,2,1.0,0.0,1.0,0,0,9,False,4.4,0.14,85.06,0,0,0,0,0,3,Bournemouth,True,Wolverhampton,1.01,-0.48
+Jefferson Lerma Solís,Bournemouth,Wolverhampton,2022-08-31,True,MC,90,0.0,0.01,0.0,0.0,3,1.0,0.0,1.8,0,1,0,False,1.8,0.02,85.2,0,0,0,0,0,2,Bournemouth,False,Nottingham Forest,-0.1,
+Jefferson Lerma Solís,Bournemouth,Nottingham Forest,2022-09-03,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,2,False,2.0,0.02,85.33,0,0,0,0,0,2,Bournemouth,False,Newcastle United,-1.45,
+Jefferson Lerma Solís,Bournemouth,Newcastle United,2022-09-17,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,0,1,False,2.2,0.02,85.46,0,0,0,0,0,2,Bournemouth,True,Brentford,0.49,0.69
+Jefferson Lerma Solís,Bournemouth,Brentford,2022-10-01,True,MC,90,0.0,0.46,0.0,0.0,2,3.0,0.0,5.6,0,1,0,False,2.2,0.02,85.58,0,0,0,0,0,3,Crystal Palace,False,Sheffield,,-0.61

@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Marcos Senesi,Bournemouth,West Ham,2023-08-12,True,DC,59,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,1,0.84,True,0.0,0.0,59.0,0.0,2.07,0.5,30.69,0.19,0.0,Bournemouth,True,Burnley,
-Marcos Senesi,Bournemouth,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,29.5,0.0,2.07,0.5,30.69,0.19,0.0,Bournemouth,False,Manchester City,1.61
-Marcos Senesi,Bournemouth,Manchester City,2023-11-04,False,Sub,45,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,0,0,3,1.01,False,0.5,0.0,34.67,0.0,2.07,0.5,30.69,0.19,5.0,Bournemouth,True,Newcastle United,-1.09
-Marcos Senesi,Bournemouth,Newcastle United,2023-11-11,True,DC,90,0.0,0.0,0.0,0.0,5,0.0,0.0,1.3,0,1,0,0.51,True,0.33,0.0,48.5,1.0,2.07,0.5,30.69,0.19,2.0,Bournemouth,False,Sheffield,
-Marcos Senesi,Bournemouth,Sheffield,2023-11-25,False,DC,90,0.0,0.0,0.0,0.03,2,0.0,1.0,3.4,0,0,1,0.81,True,1.5,0.0,56.8,0.5,2.07,0.5,30.69,0.19,0.0,Bournemouth,True,Aston Villa,-2.77
-Marcos Senesi,Bournemouth,Aston Villa,2023-12-03,True,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,3.2,0,0,2,0.68,True,1.6,0.0,62.33,0.33,2.07,0.5,30.69,0.19,14.0,Bournemouth,False,Crystal Palace,3.33
-Marcos Senesi,Bournemouth,Crystal Palace,2023-12-06,False,DC,90,1.0,0.66,0.0,0.04,14,2.0,1.0,9.4,3,1,0,0.84,True,1.4,0.0,66.29,0.5,2.07,0.5,30.69,0.19,15.0,Bournemouth,False,Manchester United,2.68
-Marcos Senesi,Bournemouth,Manchester United,2023-12-09,False,DC,90,1.0,0.1,0.0,0.08,15,1.0,1.0,9.9,3,1,0,1.16,True,4.2,0.13,69.25,0.6,2.07,0.5,30.69,0.19,5.0,Bournemouth,False,Nottingham Forest,-0.1
-Marcos Senesi,Bournemouth,Nottingham Forest,2023-12-23,False,DC,90,0.0,0.0,1.0,0.06,5,0.0,3.0,10.0,1,0,2,0.75,True,7.2,0.15,71.56,0.5,2.07,0.5,30.69,0.19,6.0,Bournemouth,True,Fulham,-2.88
-Marcos Senesi,Bournemouth,Fulham,2023-12-26,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.7,0,1,0,0.28,True,7.2,0.35,73.4,0.57,2.07,0.5,30.69,0.19,1.0,Bournemouth,False,Liverpool,7.33
-Marcos Senesi,Bournemouth,Liverpool,2023-08-19,False,DC,83,0.0,0.0,0.0,0.02,1,0.0,1.0,3.6,0,0,3,3.08,True,8.0,0.35,74.27,0.5,2.07,0.5,30.69,0.19,0.0,Bournemouth,False,Tottenham,-1.42
-Marcos Senesi,Bournemouth,Tottenham,2023-12-31,False,DC,90,0.0,0.02,0.0,0.05,0,1.0,1.0,4.5,0,0,3,2.33,True,8.2,0.35,75.58,0.44,2.07,0.5,30.69,0.19,0.0,Bournemouth,True,Liverpool,-2.32
-Marcos Senesi,Bournemouth,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,5.4,0.22,69.77,0.44,2.07,0.5,30.69,0.19,2.0,Bournemouth,False,West Ham,2.67
-Marcos Senesi,Bournemouth,West Ham,2024-02-01,False,DC,90,0.0,0.07,0.0,0.0,2,1.0,0.0,2.5,0,0,1,1.31,True,2.4,0.2,71.21,0.4,2.07,0.5,30.69,0.19,1.0,Bournemouth,True,Nottingham Forest,0.51
-Marcos Senesi,Bournemouth,Nottingham Forest,2024-02-04,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,1,0.56,True,1.8,0.02,72.47,0.36,2.07,0.5,30.69,0.19,8.0,Bournemouth,False,Fulham,-1.43
-Marcos Senesi,Bournemouth,Fulham,2024-02-10,False,DC,90,1.0,0.41,0.0,0.75,8,1.0,3.0,11.7,1,0,3,1.55,True,0.8,0.02,73.56,0.33,2.07,0.5,30.69,0.19,0.0,Bournemouth,False,Newcastle United,-1.45
-Marcos Senesi,Bournemouth,Newcastle United,2024-02-17,False,DC,90,0.0,0.02,0.0,0.0,0,1.0,0.0,0.6,0,0,2,2.26,True,2.2,0.1,74.53,0.31,2.07,0.5,30.69,0.19,1.0,Bournemouth,True,Manchester City,1.02
-Marcos Senesi,Bournemouth,Manchester City,2024-02-24,True,DC,79,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,1,1.62,True,2.2,0.1,74.78,0.29,2.07,0.5,30.69,0.19,1.0,Bournemouth,False,Burnley,
-Marcos Senesi,Bournemouth,Burnley,2024-03-03,False,DC,11,0.0,0.0,0.0,0.06,1,0.0,1.0,1.5,0,0,0,0.34,True,2.4,0.1,71.42,0.29,2.07,0.5,30.69,0.19,0.0,Bournemouth,True,Sheffield,
-Marcos Senesi,Bournemouth,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.08,67.85,0.29,2.07,0.5,30.69,0.19,0.0,Bournemouth,True,Luton,
-Marcos Senesi,Bournemouth,Luton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.08,64.62,0.29,2.07,0.5,30.69,0.19,0.0,Bournemouth,True,Tottenham,1.6
-Marcos Senesi,Bournemouth,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,61.68,0.29,2.07,0.5,30.69,0.19,0.0,Bournemouth,True,Everton,-5.04
-Marcos Senesi,Bournemouth,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,59.0,0.29,2.07,0.5,30.69,0.19,0.0,Bournemouth,True,Crystal Palace,3.26
-Marcos Senesi,Bournemouth,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,56.54,0.29,2.07,0.5,30.69,0.19,1.0,Bournemouth,False,Luton,
-Marcos Senesi,Bournemouth,Luton,2024-04-06,False,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,0.51,False,0.0,0.0,54.44,0.29,2.07,0.5,30.69,0.19,8.0,Bournemouth,True,Manchester United,
-Marcos Senesi,Bournemouth,Manchester United,2024-04-13,True,DC,90,0.0,0.0,2.0,0.12,8,0.0,2.0,7.7,2,0,2,1.18,True,0.2,0.0,55.81,0.27,2.07,0.5,30.69,0.19,0.0,Bournemouth,False,Aston Villa,
-Marcos Senesi,Bournemouth,Aston Villa,2024-04-21,False,DC,62,0.0,0.0,0.0,0.0,0,0.0,0.0,0.7,0,0,2,1.2,True,1.8,0.4,56.04,0.25,2.07,0.5,30.69,0.19,6.0,Bournemouth,False,Wolverhampton,
-Marcos Senesi,Bournemouth,Wolverhampton,2024-04-24,False,DC,86,0.0,0.27,0.0,0.38,6,4.0,1.0,4.4,0,1,0,0.35,True,1.8,0.4,57.11,0.29,2.07,0.5,30.69,0.19,13.0,Bournemouth,True,Brighton,
-Marcos Senesi,Bournemouth,Brighton,2024-04-28,True,DC,90,1.0,0.72,0.0,0.0,13,1.0,0.0,7.1,2,1,0,1.0,True,3.0,0.45,58.24,0.33,2.07,0.5,30.69,0.19,1.0,Bournemouth,False,Arsenal,
-Marcos Senesi,Bournemouth,Arsenal,2024-05-04,False,DC,79,0.0,0.0,0.0,0.0,1,0.0,0.0,2.4,0,0,2,3.89,True,5.6,0.6,58.93,0.32,2.07,0.5,30.69,0.19,4.0,Bournemouth,True,Brentford,0.49
-Marcos Senesi,Bournemouth,Brentford,2024-05-11,True,DC,90,0.0,0.0,1.0,0.1,4,0.0,3.0,8.1,1,0,2,1.44,True,5.6,0.6,59.94,0.3,2.07,0.5,30.69,0.19,0.0,Bournemouth,False,Chelsea,2.82
-Marcos Senesi,Bournemouth,Chelsea,2024-05-19,False,DC,83,0.0,0.11,0.0,0.07,0,1.0,3.0,8.2,0,0,2,0.72,True,4.8,0.4,60.66,0.29,2.07,0.5,30.69,0.19,4.0,Bournemouth,False,Brentford,0.82
-Marcos Senesi,Bournemouth,Brentford,2023-09-02,False,DC,90,0.0,0.0,1.0,0.11,4,0.0,1.0,4.1,0,0,2,3.29,True,4.8,0.42,61.55,0.27,2.07,0.5,30.69,0.19,1.0,Bournemouth,True,Chelsea,-1.09
-Marcos Senesi,Bournemouth,Chelsea,2023-09-17,True,Sub,16,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,0,0.5,False,4.4,0.57,60.21,0.27,2.07,0.5,30.69,0.19,0.0,Bournemouth,False,Brighton,1.13
-Marcos Senesi,Bournemouth,Brighton,2023-09-24,False,Sub,7,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,0,0,0,0.12,False,2.0,0.42,58.69,0.27,2.07,0.5,30.69,0.19,0.0,Bournemouth,True,Arsenal,4.06
-Marcos Senesi,Bournemouth,Arsenal,2023-09-30,True,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.3,0,0,4,3.47,True,1.8,0.42,59.56,0.26,2.07,0.5,30.69,0.19,1.0,Bournemouth,False,Everton,4.91
-Marcos Senesi,Bournemouth,Everton,2023-10-07,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.5,0,0,3,2.71,True,1.0,0.22,60.38,0.25,2.07,0.5,30.69,0.19,1.0,Bournemouth,True,Wolverhampton,0.64
-Marcos Senesi,Bournemouth,Wolverhampton,2023-10-21,True,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,0.52,False,1.2,0.2,58.92,0.25,2.07,0.5,30.69,0.19,,,,,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Marcos Senesi,Bournemouth,West Ham,2023-08-12,True,DC,59,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,1,0.84,True,0.0,0.0,59.0,0.0,2.07,0.5,30.69,0.19,0.0,Bournemouth,True,Burnley,,0.39
+Marcos Senesi,Bournemouth,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,29.5,0.0,2.07,0.5,30.69,0.19,0.0,Bournemouth,False,Manchester City,1.61,
+Marcos Senesi,Bournemouth,Manchester City,2023-11-04,False,Sub,45,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,0,0,3,1.01,False,0.5,0.0,34.67,0.0,2.07,0.5,30.69,0.19,5.0,Bournemouth,True,Newcastle United,-1.09,
+Marcos Senesi,Bournemouth,Newcastle United,2023-11-11,True,DC,90,0.0,0.0,0.0,0.0,5,0.0,0.0,1.3,0,1,0,0.51,True,0.33,0.0,48.5,1.0,2.07,0.5,30.69,0.19,2.0,Bournemouth,False,Sheffield,,-0.61
+Marcos Senesi,Bournemouth,Sheffield,2023-11-25,False,DC,90,0.0,0.0,0.0,0.03,2,0.0,1.0,3.4,0,0,1,0.81,True,1.5,0.0,56.8,0.5,2.07,0.5,30.69,0.19,0.0,Bournemouth,True,Aston Villa,-2.77,
+Marcos Senesi,Bournemouth,Aston Villa,2023-12-03,True,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,3.2,0,0,2,0.68,True,1.6,0.0,62.33,0.33,2.07,0.5,30.69,0.19,14.0,Bournemouth,False,Crystal Palace,3.33,
+Marcos Senesi,Bournemouth,Crystal Palace,2023-12-06,False,DC,90,1.0,0.66,0.0,0.04,14,2.0,1.0,9.4,3,1,0,0.84,True,1.4,0.0,66.29,0.5,2.07,0.5,30.69,0.19,15.0,Bournemouth,False,Manchester United,2.68,
+Marcos Senesi,Bournemouth,Manchester United,2023-12-09,False,DC,90,1.0,0.1,0.0,0.08,15,1.0,1.0,9.9,3,1,0,1.16,True,4.2,0.13,69.25,0.6,2.07,0.5,30.69,0.19,5.0,Bournemouth,False,Nottingham Forest,-0.1,
+Marcos Senesi,Bournemouth,Nottingham Forest,2023-12-23,False,DC,90,0.0,0.0,1.0,0.06,5,0.0,3.0,10.0,1,0,2,0.75,True,7.2,0.15,71.56,0.5,2.07,0.5,30.69,0.19,6.0,Bournemouth,True,Fulham,-2.88,-0.13
+Marcos Senesi,Bournemouth,Fulham,2023-12-26,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.7,0,1,0,0.28,True,7.2,0.35,73.4,0.57,2.07,0.5,30.69,0.19,1.0,Bournemouth,False,Liverpool,7.33,-1.01
+Marcos Senesi,Bournemouth,Liverpool,2023-08-19,False,DC,83,0.0,0.0,0.0,0.02,1,0.0,1.0,3.6,0,0,3,3.08,True,8.0,0.35,74.27,0.5,2.07,0.5,30.69,0.19,0.0,Bournemouth,False,Tottenham,-1.42,-0.36
+Marcos Senesi,Bournemouth,Tottenham,2023-12-31,False,DC,90,0.0,0.02,0.0,0.05,0,1.0,1.0,4.5,0,0,3,2.33,True,8.2,0.35,75.58,0.44,2.07,0.5,30.69,0.19,0.0,Bournemouth,True,Liverpool,-2.32,0.18
+Marcos Senesi,Bournemouth,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,5.4,0.22,69.77,0.44,2.07,0.5,30.69,0.19,2.0,Bournemouth,False,West Ham,2.67,
+Marcos Senesi,Bournemouth,West Ham,2024-02-01,False,DC,90,0.0,0.07,0.0,0.0,2,1.0,0.0,2.5,0,0,1,1.31,True,2.4,0.2,71.21,0.4,2.07,0.5,30.69,0.19,1.0,Bournemouth,True,Nottingham Forest,0.51,
+Marcos Senesi,Bournemouth,Nottingham Forest,2024-02-04,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,1,0.56,True,1.8,0.02,72.47,0.36,2.07,0.5,30.69,0.19,8.0,Bournemouth,False,Fulham,-1.43,0.86
+Marcos Senesi,Bournemouth,Fulham,2024-02-10,False,DC,90,1.0,0.41,0.0,0.75,8,1.0,3.0,11.7,1,0,3,1.55,True,0.8,0.02,73.56,0.33,2.07,0.5,30.69,0.19,0.0,Bournemouth,False,Newcastle United,-1.45,
+Marcos Senesi,Bournemouth,Newcastle United,2024-02-17,False,DC,90,0.0,0.02,0.0,0.0,0,1.0,0.0,0.6,0,0,2,2.26,True,2.2,0.1,74.53,0.31,2.07,0.5,30.69,0.19,1.0,Bournemouth,True,Manchester City,1.02,
+Marcos Senesi,Bournemouth,Manchester City,2024-02-24,True,DC,79,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,1,1.62,True,2.2,0.1,74.78,0.29,2.07,0.5,30.69,0.19,1.0,Bournemouth,False,Burnley,,0.0
+Marcos Senesi,Bournemouth,Burnley,2024-03-03,False,DC,11,0.0,0.0,0.0,0.06,1,0.0,1.0,1.5,0,0,0,0.34,True,2.4,0.1,71.42,0.29,2.07,0.5,30.69,0.19,0.0,Bournemouth,True,Sheffield,,0.68
+Marcos Senesi,Bournemouth,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.08,67.85,0.29,2.07,0.5,30.69,0.19,0.0,Bournemouth,True,Luton,,
+Marcos Senesi,Bournemouth,Luton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.08,64.62,0.29,2.07,0.5,30.69,0.19,0.0,Bournemouth,True,Tottenham,1.6,0.69
+Marcos Senesi,Bournemouth,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,61.68,0.29,2.07,0.5,30.69,0.19,0.0,Bournemouth,True,Everton,-5.04,0.53
+Marcos Senesi,Bournemouth,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,59.0,0.29,2.07,0.5,30.69,0.19,0.0,Bournemouth,True,Crystal Palace,3.26,
+Marcos Senesi,Bournemouth,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,56.54,0.29,2.07,0.5,30.69,0.19,1.0,Bournemouth,False,Luton,,
+Marcos Senesi,Bournemouth,Luton,2024-04-06,False,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,0.51,False,0.0,0.0,54.44,0.29,2.07,0.5,30.69,0.19,8.0,Bournemouth,True,Manchester United,,
+Marcos Senesi,Bournemouth,Manchester United,2024-04-13,True,DC,90,0.0,0.0,2.0,0.12,8,0.0,2.0,7.7,2,0,2,1.18,True,0.2,0.0,55.81,0.27,2.07,0.5,30.69,0.19,0.0,Bournemouth,False,Aston Villa,,
+Marcos Senesi,Bournemouth,Aston Villa,2024-04-21,False,DC,62,0.0,0.0,0.0,0.0,0,0.0,0.0,0.7,0,0,2,1.2,True,1.8,0.4,56.04,0.25,2.07,0.5,30.69,0.19,6.0,Bournemouth,False,Wolverhampton,,-0.52
+Marcos Senesi,Bournemouth,Wolverhampton,2024-04-24,False,DC,86,0.0,0.27,0.0,0.38,6,4.0,1.0,4.4,0,1,0,0.35,True,1.8,0.4,57.11,0.29,2.07,0.5,30.69,0.19,13.0,Bournemouth,True,Brighton,,-0.66
+Marcos Senesi,Bournemouth,Brighton,2024-04-28,True,DC,90,1.0,0.72,0.0,0.0,13,1.0,0.0,7.1,2,1,0,1.0,True,3.0,0.45,58.24,0.33,2.07,0.5,30.69,0.19,1.0,Bournemouth,False,Arsenal,,-0.48
+Marcos Senesi,Bournemouth,Arsenal,2024-05-04,False,DC,79,0.0,0.0,0.0,0.0,1,0.0,0.0,2.4,0,0,2,3.89,True,5.6,0.6,58.93,0.32,2.07,0.5,30.69,0.19,4.0,Bournemouth,True,Brentford,0.49,0.79
+Marcos Senesi,Bournemouth,Brentford,2024-05-11,True,DC,90,0.0,0.0,1.0,0.1,4,0.0,3.0,8.1,1,0,2,1.44,True,5.6,0.6,59.94,0.3,2.07,0.5,30.69,0.19,0.0,Bournemouth,False,Chelsea,2.82,-0.85
+Marcos Senesi,Bournemouth,Chelsea,2024-05-19,False,DC,83,0.0,0.11,0.0,0.07,0,1.0,3.0,8.2,0,0,2,0.72,True,4.8,0.4,60.66,0.29,2.07,0.5,30.69,0.19,4.0,Bournemouth,False,Brentford,0.82,-0.53
+Marcos Senesi,Bournemouth,Brentford,2023-09-02,False,DC,90,0.0,0.0,1.0,0.11,4,0.0,1.0,4.1,0,0,2,3.29,True,4.8,0.42,61.55,0.27,2.07,0.5,30.69,0.19,1.0,Bournemouth,True,Chelsea,-1.09,-0.25
+Marcos Senesi,Bournemouth,Chelsea,2023-09-17,True,Sub,16,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,0,0.5,False,4.4,0.57,60.21,0.27,2.07,0.5,30.69,0.19,0.0,Bournemouth,False,Brighton,1.13,-0.6
+Marcos Senesi,Bournemouth,Brighton,2023-09-24,False,Sub,7,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,0,0,0,0.12,False,2.0,0.42,58.69,0.27,2.07,0.5,30.69,0.19,0.0,Bournemouth,True,Arsenal,4.06,-0.11
+Marcos Senesi,Bournemouth,Arsenal,2023-09-30,True,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.3,0,0,4,3.47,True,1.8,0.42,59.56,0.26,2.07,0.5,30.69,0.19,1.0,Bournemouth,False,Everton,4.91,-0.24
+Marcos Senesi,Bournemouth,Everton,2023-10-07,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.5,0,0,3,2.71,True,1.0,0.22,60.38,0.25,2.07,0.5,30.69,0.19,1.0,Bournemouth,True,Wolverhampton,0.64,0.05
+Marcos Senesi,Bournemouth,Wolverhampton,2023-10-21,True,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,0.52,False,1.2,0.2,58.92,0.25,2.07,0.5,30.69,0.19,,,,,,

@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Jurriën Timber,Arsenal,Nottingham Forest,2023-08-12,True,DL,49,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.28,True,0.0,0.0,49.0,0.0,0,0,0,0,0.0,Arsenal,True,Sheffield,
-Jurriën Timber,Arsenal,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,24.5,0.0,0,0,0,0,0.0,Arsenal,False,Newcastle United,-0.61
-Jurriën Timber,Arsenal,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,16.33,0.0,0,0,0,0,0.0,Arsenal,True,Burnley,0.55
-Jurriën Timber,Arsenal,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,12.25,0.0,0,0,0,0,0.0,Arsenal,False,Brentford,-0.38
-Jurriën Timber,Arsenal,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,9.8,0.0,0,0,0,0,0.0,Arsenal,True,Wolverhampton,-3.77
-Jurriën Timber,Arsenal,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,8.17,0.0,0,0,0,0,0.0,Arsenal,False,Luton,
-Jurriën Timber,Arsenal,Luton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,7.0,0.0,0,0,0,0,0.0,Arsenal,False,Aston Villa,-1.92
-Jurriën Timber,Arsenal,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,6.12,0.0,0,0,0,0,0.0,Arsenal,True,Brighton,2.17
-Jurriën Timber,Arsenal,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,5.44,0.0,0,0,0,0,0.0,Arsenal,False,Liverpool,1.55
-Jurriën Timber,Arsenal,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.9,0.0,0,0,0,0,0.0,Arsenal,True,West Ham,-1.81
-Jurriën Timber,Arsenal,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.45,0.0,0,0,0,0,0.0,Arsenal,False,Crystal Palace,0.57
-Jurriën Timber,Arsenal,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.08,0.0,0,0,0,0,0.0,Arsenal,False,Fulham,-4.27
-Jurriën Timber,Arsenal,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.77,0.0,0,0,0,0,0.0,Arsenal,True,Crystal Palace,-1.66
-Jurriën Timber,Arsenal,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.5,0.0,0,0,0,0,0.0,Arsenal,False,Nottingham Forest,3.11
-Jurriën Timber,Arsenal,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.27,0.0,0,0,0,0,0.0,Arsenal,True,Liverpool,-0.82
-Jurriën Timber,Arsenal,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.06,0.0,0,0,0,0,0.0,Arsenal,False,West Ham,-0.66
-Jurriën Timber,Arsenal,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.88,0.0,0,0,0,0,0.0,Arsenal,False,Burnley,-1.51
-Jurriën Timber,Arsenal,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.72,0.0,0,0,0,0,0.0,Arsenal,True,Newcastle United,-1.37
-Jurriën Timber,Arsenal,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.58,0.0,0,0,0,0,0.0,Arsenal,False,Sheffield,
-Jurriën Timber,Arsenal,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.45,0.0,0,0,0,0,0.0,Arsenal,True,Brentford,-0.34
-Jurriën Timber,Arsenal,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.33,0.0,0,0,0,0,0.0,Arsenal,True,Fulham,0.88
-Jurriën Timber,Arsenal,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.23,0.0,0,0,0,0,0.0,Arsenal,False,Manchester City,4.53
-Jurriën Timber,Arsenal,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.13,0.0,0,0,0,0,0.0,Arsenal,True,Luton,
-Jurriën Timber,Arsenal,Luton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.04,0.0,0,0,0,0,0.0,Arsenal,False,Brighton,-3.3
-Jurriën Timber,Arsenal,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.96,0.0,0,0,0,0,0.0,Arsenal,True,Aston Villa,-2.64
-Jurriën Timber,Arsenal,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.88,0.0,0,0,0,0,0.0,Arsenal,False,Wolverhampton,-4.1
-Jurriën Timber,Arsenal,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.81,0.0,0,0,0,0,0.0,Arsenal,True,Chelsea,2.07
-Jurriën Timber,Arsenal,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.75,0.0,0,0,0,0,0.0,Arsenal,False,Tottenham,-3.15
-Jurriën Timber,Arsenal,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.69,0.0,0,0,0,0,0.0,Arsenal,True,Bournemouth,
-Jurriën Timber,Arsenal,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.63,0.0,0,0,0,0,0.0,Arsenal,False,Manchester United,2.33
-Jurriën Timber,Arsenal,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.58,0.0,0,0,0,0,0.0,Arsenal,True,Everton,
-Jurriën Timber,Arsenal,Everton,2024-05-19,True,Sub,21,0.0,0.0,0.0,0.0,0,0.0,0.0,0.7,0,0,0,0.0,False,0.0,0.0,2.19,0.0,0,0,0,0,0.0,Arsenal,True,Manchester United,-2.27
-Jurriën Timber,Arsenal,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.12,0.0,0,0,0,0,0.0,Arsenal,False,Everton,0.57
-Jurriën Timber,Arsenal,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.06,0.0,0,0,0,0,0.0,Arsenal,True,Tottenham,-1.3
-Jurriën Timber,Arsenal,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.0,0.0,0,0,0,0,0.0,Arsenal,False,Bournemouth,-5.08
-Jurriën Timber,Arsenal,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.94,0.0,0,0,0,0,0.0,Arsenal,True,Manchester City,-1.15
-Jurriën Timber,Arsenal,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.89,0.0,0,0,0,0,0.0,Arsenal,False,Chelsea,-0.46
-Jurriën Timber,Arsenal,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.84,0.0,0,0,0,0,,,,,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jurriën Timber,Arsenal,Nottingham Forest,2023-08-12,True,DL,49,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.28,True,0.0,0.0,49.0,0.0,0,0,0,0,0.0,Arsenal,True,Sheffield,,0.68
+Jurriën Timber,Arsenal,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,24.5,0.0,0,0,0,0,0.0,Arsenal,False,Newcastle United,-0.61,
+Jurriën Timber,Arsenal,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,16.33,0.0,0,0,0,0,0.0,Arsenal,True,Burnley,0.55,0.39
+Jurriën Timber,Arsenal,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,12.25,0.0,0,0,0,0,0.0,Arsenal,False,Brentford,-0.38,-0.53
+Jurriën Timber,Arsenal,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,9.8,0.0,0,0,0,0,0.0,Arsenal,True,Wolverhampton,-3.77,0.05
+Jurriën Timber,Arsenal,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,8.17,0.0,0,0,0,0,0.0,Arsenal,False,Luton,,
+Jurriën Timber,Arsenal,Luton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,7.0,0.0,0,0,0,0,0.0,Arsenal,False,Aston Villa,-1.92,
+Jurriën Timber,Arsenal,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,6.12,0.0,0,0,0,0,0.0,Arsenal,True,Brighton,2.17,-0.66
+Jurriën Timber,Arsenal,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,5.44,0.0,0,0,0,0,0.0,Arsenal,False,Liverpool,1.55,-1.01
+Jurriën Timber,Arsenal,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.9,0.0,0,0,0,0,0.0,Arsenal,True,West Ham,-1.81,
+Jurriën Timber,Arsenal,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.45,0.0,0,0,0,0,0.0,Arsenal,False,Crystal Palace,0.57,
+Jurriën Timber,Arsenal,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.08,0.0,0,0,0,0,0.0,Arsenal,False,Fulham,-4.27,0.86
+Jurriën Timber,Arsenal,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.77,0.0,0,0,0,0,0.0,Arsenal,True,Crystal Palace,-1.66,
+Jurriën Timber,Arsenal,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.5,0.0,0,0,0,0,0.0,Arsenal,False,Nottingham Forest,3.11,
+Jurriën Timber,Arsenal,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.27,0.0,0,0,0,0,0.0,Arsenal,True,Liverpool,-0.82,0.18
+Jurriën Timber,Arsenal,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.06,0.0,0,0,0,0,0.0,Arsenal,False,West Ham,-0.66,
+Jurriën Timber,Arsenal,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.88,0.0,0,0,0,0,0.0,Arsenal,False,Burnley,-1.51,0.0
+Jurriën Timber,Arsenal,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.72,0.0,0,0,0,0,0.0,Arsenal,True,Newcastle United,-1.37,
+Jurriën Timber,Arsenal,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.58,0.0,0,0,0,0,0.0,Arsenal,False,Sheffield,,-0.61
+Jurriën Timber,Arsenal,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.45,0.0,0,0,0,0,0.0,Arsenal,True,Brentford,-0.34,0.79
+Jurriën Timber,Arsenal,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.33,0.0,0,0,0,0,0.0,Arsenal,True,Fulham,0.88,-0.13
+Jurriën Timber,Arsenal,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.23,0.0,0,0,0,0,0.0,Arsenal,False,Manchester City,4.53,
+Jurriën Timber,Arsenal,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.13,0.0,0,0,0,0,0.0,Arsenal,True,Luton,,
+Jurriën Timber,Arsenal,Luton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.04,0.0,0,0,0,0,0.0,Arsenal,False,Brighton,-3.3,-0.6
+Jurriën Timber,Arsenal,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.96,0.0,0,0,0,0,0.0,Arsenal,True,Aston Villa,-2.64,
+Jurriën Timber,Arsenal,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.88,0.0,0,0,0,0,0.0,Arsenal,False,Wolverhampton,-4.1,-0.52
+Jurriën Timber,Arsenal,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.81,0.0,0,0,0,0,0.0,Arsenal,True,Chelsea,2.07,-0.25
+Jurriën Timber,Arsenal,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.75,0.0,0,0,0,0,0.0,Arsenal,False,Tottenham,-3.15,-0.36
+Jurriën Timber,Arsenal,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.69,0.0,0,0,0,0,0.0,Arsenal,True,Bournemouth,,1.22
+Jurriën Timber,Arsenal,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.63,0.0,0,0,0,0,0.0,Arsenal,False,Manchester United,2.33,
+Jurriën Timber,Arsenal,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.58,0.0,0,0,0,0,0.0,Arsenal,True,Everton,,0.53
+Jurriën Timber,Arsenal,Everton,2024-05-19,True,Sub,21,0.0,0.0,0.0,0.0,0,0.0,0.0,0.7,0,0,0,0.0,False,0.0,0.0,2.19,0.0,0,0,0,0,0.0,Arsenal,True,Manchester United,-2.27,
+Jurriën Timber,Arsenal,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.12,0.0,0,0,0,0,0.0,Arsenal,False,Everton,0.57,-0.24
+Jurriën Timber,Arsenal,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.06,0.0,0,0,0,0,0.0,Arsenal,True,Tottenham,-1.3,0.69
+Jurriën Timber,Arsenal,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.0,0.0,0,0,0,0,0.0,Arsenal,False,Bournemouth,-5.08,0.19
+Jurriën Timber,Arsenal,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.94,0.0,0,0,0,0,0.0,Arsenal,True,Manchester City,-1.15,
+Jurriën Timber,Arsenal,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.89,0.0,0,0,0,0,0.0,Arsenal,False,Chelsea,-0.46,-0.85
+Jurriën Timber,Arsenal,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.84,0.0,0,0,0,0,,,,,,

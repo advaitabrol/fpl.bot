@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Rayan Aït-Nouri,Wolves,Manchester United,2023-08-14,False,DL,76,0.0,0.0,0.0,0.02,1,0.0,1.0,3.2,0,0,1,1.18,True,0.0,0.0,76.0,0.0,1.12,0.75,9.28,0.44,0.0,Wolves,True,Newcastle United,-1.69
-Rayan Aït-Nouri,Wolves,Newcastle United,2023-10-28,True,ML,90,0.0,0.03,0.0,0.0,0,1.0,0.0,2.6,0,0,2,2.17,True,1.0,0.0,83.0,0.0,1.12,0.75,9.28,0.44,1.0,Wolves,False,Sheffield,
-Rayan Aït-Nouri,Wolves,Sheffield,2023-11-04,False,ML,90,0.0,0.47,0.0,0.17,1,2.0,1.0,3.5,0,0,2,1.06,True,0.5,0.02,85.33,0.0,1.12,0.75,9.28,0.44,1.0,Wolves,True,Tottenham,0.14
-Rayan Aït-Nouri,Wolves,Tottenham,2023-11-11,True,DML,86,0.0,0.08,0.0,0.22,1,2.0,4.0,8.7,0,0,1,0.5,True,0.67,0.17,85.5,0.0,1.12,0.75,9.28,0.44,1.0,Wolves,False,Fulham,-0.7
-Rayan Aït-Nouri,Wolves,Fulham,2023-11-27,False,DML,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,0.87,True,0.75,0.15,72.0,0.0,1.12,0.75,9.28,0.44,0.0,Wolves,False,Arsenal,2.85
-Rayan Aït-Nouri,Wolves,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.12,60.0,0.0,1.12,0.75,9.28,0.44,0.0,Wolves,True,Burnley,0.01
-Rayan Aït-Nouri,Wolves,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.12,51.43,0.0,1.12,0.75,9.28,0.44,0.0,Wolves,True,Nottingham Forest,-1.37
-Rayan Aït-Nouri,Wolves,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.11,45.0,0.0,1.12,0.75,9.28,0.44,1.0,Wolves,False,West Ham,2.37
-Rayan Aït-Nouri,Wolves,West Ham,2023-12-17,False,Sub,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1,0.18,False,0.4,0.02,42.22,0.0,1.12,0.75,9.28,0.44,7.0,Wolves,True,Chelsea,-1.82
-Rayan Aït-Nouri,Wolves,Chelsea,2023-12-24,True,DML,86,0.0,0.0,0.0,0.08,7,0.0,1.0,1.7,1,1,0,1.51,True,0.4,0.0,46.6,0.2,1.12,0.75,9.28,0.44,2.0,Wolves,False,Brentford,-1.35
-Rayan Aït-Nouri,Wolves,Brentford,2023-12-27,False,DML,79,0.0,0.0,0.0,0.08,2,0.0,1.0,3.1,0,0,1,2.13,True,1.6,0.0,49.55,0.17,1.12,0.75,9.28,0.44,0.0,Wolves,True,Brighton,1.03
-Rayan Aït-Nouri,Wolves,Brighton,2023-08-19,True,DL,86,0.0,0.33,0.0,0.03,0,1.0,1.0,3.4,0,0,4,2.27,True,2.0,0.0,52.58,0.14,1.12,0.75,9.28,0.44,5.0,Wolves,True,Everton,-0.67
-Rayan Aït-Nouri,Wolves,Everton,2023-12-30,True,DML,72,0.0,0.08,0.0,0.0,5,1.0,0.0,2.3,0,1,0,0.4,True,2.0,0.07,54.08,0.25,1.12,0.75,9.28,0.44,0.0,Wolves,False,Brighton,2.18
-Rayan Aït-Nouri,Wolves,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.08,50.21,0.25,1.12,0.75,9.28,0.44,0.0,Wolves,True,Manchester United,0.17
-Rayan Aït-Nouri,Wolves,Manchester United,2024-02-01,True,Sub,36,0.0,0.0,0.0,0.0,0,0.0,0.0,1.2,0,0,2,1.48,False,2.8,0.08,49.27,0.25,1.12,0.75,9.28,0.44,4.0,Wolves,False,Chelsea,0.12
-Rayan Aït-Nouri,Wolves,Chelsea,2024-02-04,False,DML,86,0.0,0.08,0.0,0.0,4,1.0,0.0,3.3,0,0,2,1.67,True,1.4,0.08,51.56,0.22,1.12,0.75,9.28,0.44,1.0,Wolves,True,Brentford,0.29
-Rayan Aït-Nouri,Wolves,Brentford,2024-02-10,True,DML,90,0.0,0.09,0.0,0.16,1,2.0,3.0,7.2,0,0,2,1.94,True,1.8,0.1,53.82,0.2,1.12,0.75,9.28,0.44,2.0,Wolves,False,Tottenham,-1.64
-Rayan Aït-Nouri,Wolves,Tottenham,2024-02-17,False,DML,90,0.0,0.06,0.0,0.04,2,1.0,1.0,3.7,0,0,1,1.71,True,2.0,0.05,55.83,0.18,1.12,0.75,9.28,0.44,12.0,Wolves,True,Sheffield,
-Rayan Aït-Nouri,Wolves,Sheffield,2024-02-25,True,DML,76,0.0,0.0,1.0,0.39,12,0.0,1.0,5.2,3,1,0,0.48,True,1.4,0.05,56.89,0.25,1.12,0.75,9.28,0.44,0.0,Wolves,False,Newcastle United,1.8
-Rayan Aït-Nouri,Wolves,Newcastle United,2024-03-02,False,DML,90,0.0,0.0,0.0,0.13,0,0.0,2.0,3.6,0,0,3,2.19,True,3.8,0.25,58.55,0.23,1.12,0.75,9.28,0.44,10.0,Wolves,True,Fulham,0.54
-Rayan Aït-Nouri,Wolves,Fulham,2024-03-09,True,DL,90,1.0,0.6,0.0,0.23,10,2.0,1.0,10.2,2,0,1,2.7,True,3.8,0.25,60.05,0.21,1.12,0.75,9.28,0.44,1.0,Wolves,False,Everton,-1.88
-Rayan Aït-Nouri,Wolves,Everton,2023-08-26,False,Sub,45,0.0,0.0,0.0,0.06,1,0.0,1.0,1.6,0,0,0,0.58,False,5.0,0.35,59.36,0.21,1.12,0.75,9.28,0.44,2.0,Wolves,False,Aston Villa,-0.98
-Rayan Aït-Nouri,Wolves,Aston Villa,2024-03-30,False,DML,63,0.0,0.54,0.0,0.0,2,1.0,0.0,2.4,0,0,1,0.7,True,5.0,0.33,59.52,0.2,1.12,0.75,9.28,0.44,8.0,Wolves,False,Burnley,
-Rayan Aït-Nouri,Wolves,Burnley,2024-04-02,False,ML,90,1.0,0.55,0.0,0.02,8,2.0,1.0,10.7,0,0,1,0.98,True,5.0,0.43,60.79,0.19,1.12,0.75,9.28,0.44,4.0,Wolves,True,West Ham,-2.07
-Rayan Aït-Nouri,Wolves,West Ham,2024-04-06,True,AMC,54,0.0,0.03,0.0,0.0,4,2.0,0.0,1.3,0,0,0,0.05,True,4.2,0.34,60.52,0.19,1.12,0.75,9.28,0.44,0.0,Wolves,False,Nottingham Forest,
-Rayan Aït-Nouri,Wolves,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,5.0,0.35,58.19,0.19,1.12,0.75,9.28,0.44,1.0,Wolves,True,Arsenal,3.51
-Rayan Aït-Nouri,Wolves,Arsenal,2024-04-20,True,Sub,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,0.4,False,3.0,0.23,56.59,0.19,1.12,0.75,9.28,0.44,1.0,Wolves,True,Bournemouth,
-Rayan Aït-Nouri,Wolves,Bournemouth,2024-04-24,True,ML,90,0.0,0.07,0.0,0.05,1,2.0,1.0,4.3,0,0,1,1.88,True,3.0,0.23,57.79,0.18,1.12,0.75,9.28,0.44,2.0,Wolves,True,Luton,
-Rayan Aït-Nouri,Wolves,Luton,2024-04-27,True,DML,84,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,0.52,True,2.8,0.13,58.69,0.17,1.12,0.75,9.28,0.44,0.0,Wolves,False,Manchester City,-0.09
-Rayan Aït-Nouri,Wolves,Manchester City,2024-05-04,False,DMR,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.4,0,0,5,3.57,True,1.6,0.02,59.73,0.16,1.12,0.75,9.28,0.44,1.0,Wolves,True,Crystal Palace,
-Rayan Aït-Nouri,Wolves,Crystal Palace,2024-05-11,True,DML,60,0.0,0.02,0.0,0.08,1,1.0,1.0,5.5,0,0,2,2.05,True,0.8,0.01,59.74,0.16,1.12,0.75,9.28,0.44,1.0,Wolves,False,Liverpool,
-Rayan Aït-Nouri,Wolves,Liverpool,2024-05-19,False,DML,77,0.0,0.0,0.0,0.43,1,0.0,1.0,3.9,0,0,2,4.67,True,1.0,0.02,60.28,0.15,1.12,0.75,9.28,0.44,0.0,Wolves,False,Crystal Palace,1.56
-Rayan Aït-Nouri,Wolves,Crystal Palace,2023-09-03,False,DL,81,0.0,0.0,0.0,0.0,0,0.0,0.0,1.9,0,0,2,1.89,True,1.0,0.02,60.91,0.14,1.12,0.75,9.28,0.44,2.0,Wolves,True,Liverpool,1.2
-Rayan Aït-Nouri,Wolves,Liverpool,2023-09-16,True,DL,64,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,1.65,True,0.8,0.0,61.0,0.14,1.12,0.75,9.28,0.44,1.0,Wolves,False,Luton,-1.71
-Rayan Aït-Nouri,Wolves,Luton,2023-09-23,False,DL,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,0,0.53,True,0.8,0.0,60.54,0.14,1.12,0.75,9.28,0.44,2.0,Wolves,True,Manchester City,-0.07
-Rayan Aït-Nouri,Wolves,Manchester City,2023-09-30,True,DML,73,0.0,0.0,0.0,0.0,2,0.0,0.0,0.7,0,0,1,0.72,True,1.0,0.0,60.89,0.13,1.12,0.75,9.28,0.44,1.0,Wolves,True,Aston Villa,-1.23
-Rayan Aït-Nouri,Wolves,Aston Villa,2023-10-08,True,DML,45,0.0,0.11,0.0,0.0,1,1.0,0.0,1.1,0,0,0,0.55,True,1.2,0.0,60.46,0.13,1.12,0.75,9.28,0.44,2.0,Wolves,False,Bournemouth,0.02
-Rayan Aït-Nouri,Wolves,Bournemouth,2023-10-21,False,DML,90,0.0,0.09,0.0,0.18,2,1.0,3.0,4.7,0,0,1,0.61,True,1.2,0.02,61.24,0.12,1.12,0.75,9.28,0.44,,,,,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Rayan Aït-Nouri,Wolves,Manchester United,2023-08-14,False,DL,76,0.0,0.0,0.0,0.02,1,0.0,1.0,3.2,0,0,1,1.18,True,0.0,0.0,76.0,0.0,1.12,0.75,9.28,0.44,0.0,Wolves,True,Newcastle United,-1.69,
+Rayan Aït-Nouri,Wolves,Newcastle United,2023-10-28,True,ML,90,0.0,0.03,0.0,0.0,0,1.0,0.0,2.6,0,0,2,2.17,True,1.0,0.0,83.0,0.0,1.12,0.75,9.28,0.44,1.0,Wolves,False,Sheffield,,-0.61
+Rayan Aït-Nouri,Wolves,Sheffield,2023-11-04,False,ML,90,0.0,0.47,0.0,0.17,1,2.0,1.0,3.5,0,0,2,1.06,True,0.5,0.02,85.33,0.0,1.12,0.75,9.28,0.44,1.0,Wolves,True,Tottenham,0.14,0.69
+Rayan Aït-Nouri,Wolves,Tottenham,2023-11-11,True,DML,86,0.0,0.08,0.0,0.22,1,2.0,4.0,8.7,0,0,1,0.5,True,0.67,0.17,85.5,0.0,1.12,0.75,9.28,0.44,1.0,Wolves,False,Fulham,-0.7,0.86
+Rayan Aït-Nouri,Wolves,Fulham,2023-11-27,False,DML,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,0.87,True,0.75,0.15,72.0,0.0,1.12,0.75,9.28,0.44,0.0,Wolves,False,Arsenal,2.85,-0.48
+Rayan Aït-Nouri,Wolves,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.12,60.0,0.0,1.12,0.75,9.28,0.44,0.0,Wolves,True,Burnley,0.01,0.39
+Rayan Aït-Nouri,Wolves,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.12,51.43,0.0,1.12,0.75,9.28,0.44,0.0,Wolves,True,Nottingham Forest,-1.37,
+Rayan Aït-Nouri,Wolves,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.11,45.0,0.0,1.12,0.75,9.28,0.44,1.0,Wolves,False,West Ham,2.37,
+Rayan Aït-Nouri,Wolves,West Ham,2023-12-17,False,Sub,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1,0.18,False,0.4,0.02,42.22,0.0,1.12,0.75,9.28,0.44,7.0,Wolves,True,Chelsea,-1.82,-0.25
+Rayan Aït-Nouri,Wolves,Chelsea,2023-12-24,True,DML,86,0.0,0.0,0.0,0.08,7,0.0,1.0,1.7,1,1,0,1.51,True,0.4,0.0,46.6,0.2,1.12,0.75,9.28,0.44,2.0,Wolves,False,Brentford,-1.35,-0.53
+Rayan Aït-Nouri,Wolves,Brentford,2023-12-27,False,DML,79,0.0,0.0,0.0,0.08,2,0.0,1.0,3.1,0,0,1,2.13,True,1.6,0.0,49.55,0.17,1.12,0.75,9.28,0.44,0.0,Wolves,True,Brighton,1.03,-0.66
+Rayan Aït-Nouri,Wolves,Brighton,2023-08-19,True,DL,86,0.0,0.33,0.0,0.03,0,1.0,1.0,3.4,0,0,4,2.27,True,2.0,0.0,52.58,0.14,1.12,0.75,9.28,0.44,5.0,Wolves,True,Everton,-0.67,0.53
+Rayan Aït-Nouri,Wolves,Everton,2023-12-30,True,DML,72,0.0,0.08,0.0,0.0,5,1.0,0.0,2.3,0,1,0,0.4,True,2.0,0.07,54.08,0.25,1.12,0.75,9.28,0.44,0.0,Wolves,False,Brighton,2.18,-0.6
+Rayan Aït-Nouri,Wolves,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.08,50.21,0.25,1.12,0.75,9.28,0.44,0.0,Wolves,True,Manchester United,0.17,
+Rayan Aït-Nouri,Wolves,Manchester United,2024-02-01,True,Sub,36,0.0,0.0,0.0,0.0,0,0.0,0.0,1.2,0,0,2,1.48,False,2.8,0.08,49.27,0.25,1.12,0.75,9.28,0.44,4.0,Wolves,False,Chelsea,0.12,-0.85
+Rayan Aït-Nouri,Wolves,Chelsea,2024-02-04,False,DML,86,0.0,0.08,0.0,0.0,4,1.0,0.0,3.3,0,0,2,1.67,True,1.4,0.08,51.56,0.22,1.12,0.75,9.28,0.44,1.0,Wolves,True,Brentford,0.29,0.79
+Rayan Aït-Nouri,Wolves,Brentford,2024-02-10,True,DML,90,0.0,0.09,0.0,0.16,1,2.0,3.0,7.2,0,0,2,1.94,True,1.8,0.1,53.82,0.2,1.12,0.75,9.28,0.44,2.0,Wolves,False,Tottenham,-1.64,-0.36
+Rayan Aït-Nouri,Wolves,Tottenham,2024-02-17,False,DML,90,0.0,0.06,0.0,0.04,2,1.0,1.0,3.7,0,0,1,1.71,True,2.0,0.05,55.83,0.18,1.12,0.75,9.28,0.44,12.0,Wolves,True,Sheffield,,0.68
+Rayan Aït-Nouri,Wolves,Sheffield,2024-02-25,True,DML,76,0.0,0.0,1.0,0.39,12,0.0,1.0,5.2,3,1,0,0.48,True,1.4,0.05,56.89,0.25,1.12,0.75,9.28,0.44,0.0,Wolves,False,Newcastle United,1.8,
+Rayan Aït-Nouri,Wolves,Newcastle United,2024-03-02,False,DML,90,0.0,0.0,0.0,0.13,0,0.0,2.0,3.6,0,0,3,2.19,True,3.8,0.25,58.55,0.23,1.12,0.75,9.28,0.44,10.0,Wolves,True,Fulham,0.54,-0.13
+Rayan Aït-Nouri,Wolves,Fulham,2024-03-09,True,DL,90,1.0,0.6,0.0,0.23,10,2.0,1.0,10.2,2,0,1,2.7,True,3.8,0.25,60.05,0.21,1.12,0.75,9.28,0.44,1.0,Wolves,False,Everton,-1.88,-0.24
+Rayan Aït-Nouri,Wolves,Everton,2023-08-26,False,Sub,45,0.0,0.0,0.0,0.06,1,0.0,1.0,1.6,0,0,0,0.58,False,5.0,0.35,59.36,0.21,1.12,0.75,9.28,0.44,2.0,Wolves,False,Aston Villa,-0.98,
+Rayan Aït-Nouri,Wolves,Aston Villa,2024-03-30,False,DML,63,0.0,0.54,0.0,0.0,2,1.0,0.0,2.4,0,0,1,0.7,True,5.0,0.33,59.52,0.2,1.12,0.75,9.28,0.44,8.0,Wolves,False,Burnley,,0.0
+Rayan Aït-Nouri,Wolves,Burnley,2024-04-02,False,ML,90,1.0,0.55,0.0,0.02,8,2.0,1.0,10.7,0,0,1,0.98,True,5.0,0.43,60.79,0.19,1.12,0.75,9.28,0.44,4.0,Wolves,True,West Ham,-2.07,
+Rayan Aït-Nouri,Wolves,West Ham,2024-04-06,True,AMC,54,0.0,0.03,0.0,0.0,4,2.0,0.0,1.3,0,0,0,0.05,True,4.2,0.34,60.52,0.19,1.12,0.75,9.28,0.44,0.0,Wolves,False,Nottingham Forest,,
+Rayan Aït-Nouri,Wolves,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,5.0,0.35,58.19,0.19,1.12,0.75,9.28,0.44,1.0,Wolves,True,Arsenal,3.51,-0.11
+Rayan Aït-Nouri,Wolves,Arsenal,2024-04-20,True,Sub,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,0.4,False,3.0,0.23,56.59,0.19,1.12,0.75,9.28,0.44,1.0,Wolves,True,Bournemouth,,1.22
+Rayan Aït-Nouri,Wolves,Bournemouth,2024-04-24,True,ML,90,0.0,0.07,0.0,0.05,1,2.0,1.0,4.3,0,0,1,1.88,True,3.0,0.23,57.79,0.18,1.12,0.75,9.28,0.44,2.0,Wolves,True,Luton,,
+Rayan Aït-Nouri,Wolves,Luton,2024-04-27,True,DML,84,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,0.52,True,2.8,0.13,58.69,0.17,1.12,0.75,9.28,0.44,0.0,Wolves,False,Manchester City,-0.09,
+Rayan Aït-Nouri,Wolves,Manchester City,2024-05-04,False,DMR,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.4,0,0,5,3.57,True,1.6,0.02,59.73,0.16,1.12,0.75,9.28,0.44,1.0,Wolves,True,Crystal Palace,,
+Rayan Aït-Nouri,Wolves,Crystal Palace,2024-05-11,True,DML,60,0.0,0.02,0.0,0.08,1,1.0,1.0,5.5,0,0,2,2.05,True,0.8,0.01,59.74,0.16,1.12,0.75,9.28,0.44,1.0,Wolves,False,Liverpool,,-1.01
+Rayan Aït-Nouri,Wolves,Liverpool,2024-05-19,False,DML,77,0.0,0.0,0.0,0.43,1,0.0,1.0,3.9,0,0,2,4.67,True,1.0,0.02,60.28,0.15,1.12,0.75,9.28,0.44,0.0,Wolves,False,Crystal Palace,1.56,
+Rayan Aït-Nouri,Wolves,Crystal Palace,2023-09-03,False,DL,81,0.0,0.0,0.0,0.0,0,0.0,0.0,1.9,0,0,2,1.89,True,1.0,0.02,60.91,0.14,1.12,0.75,9.28,0.44,2.0,Wolves,True,Liverpool,1.2,0.18
+Rayan Aït-Nouri,Wolves,Liverpool,2023-09-16,True,DL,64,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,1.65,True,0.8,0.0,61.0,0.14,1.12,0.75,9.28,0.44,1.0,Wolves,False,Luton,-1.71,
+Rayan Aït-Nouri,Wolves,Luton,2023-09-23,False,DL,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,0,0.53,True,0.8,0.0,60.54,0.14,1.12,0.75,9.28,0.44,2.0,Wolves,True,Manchester City,-0.07,
+Rayan Aït-Nouri,Wolves,Manchester City,2023-09-30,True,DML,73,0.0,0.0,0.0,0.0,2,0.0,0.0,0.7,0,0,1,0.72,True,1.0,0.0,60.89,0.13,1.12,0.75,9.28,0.44,1.0,Wolves,True,Aston Villa,-1.23,
+Rayan Aït-Nouri,Wolves,Aston Villa,2023-10-08,True,DML,45,0.0,0.11,0.0,0.0,1,1.0,0.0,1.1,0,0,0,0.55,True,1.2,0.0,60.46,0.13,1.12,0.75,9.28,0.44,2.0,Wolves,False,Bournemouth,0.02,0.19
+Rayan Aït-Nouri,Wolves,Bournemouth,2023-10-21,False,DML,90,0.0,0.09,0.0,0.18,2,1.0,3.0,4.7,0,0,1,0.61,True,1.2,0.02,61.24,0.12,1.12,0.75,9.28,0.44,,,,,,

@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Ben Johnson,West Ham,Manchester City,2022-08-07,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,2,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,0,West Ham,True,Fulham,
-Ben Johnson,West Ham,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,45.0,0.0,0,0,0,0,2,West Ham,False,Southampton,0.96
-Ben Johnson,West Ham,Southampton,2022-10-16,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,1,0.0,False,0.5,0.0,60.0,0.0,0,0,0,0,2,West Ham,False,Liverpool,0.66
-Ben Johnson,West Ham,Liverpool,2022-10-19,False,DR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,1,0.0,False,1.0,0.0,67.5,0.0,0,0,0,0,7,West Ham,True,Bournemouth,
-Ben Johnson,West Ham,Bournemouth,2022-10-24,True,DR,90,0.0,0.0,0.0,0.09,7,0.0,1.0,3.9,1,1,0,0.0,False,1.25,0.0,72.0,0.25,0,0,0,0,0,West Ham,False,Manchester United,2.8
-Ben Johnson,West Ham,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.4,0.0,60.0,0.25,0,0,0,0,0,West Ham,True,Crystal Palace,2.25
-Ben Johnson,West Ham,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.0,51.43,0.25,0,0,0,0,0,West Ham,True,Leeds United,-5.24
-Ben Johnson,West Ham,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.0,45.0,0.25,0,0,0,0,0,West Ham,False,Arsenal,4.81
-Ben Johnson,West Ham,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.0,40.0,0.25,0,0,0,0,0,West Ham,True,Brentford,3.83
-Ben Johnson,West Ham,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,36.0,0.25,0,0,0,0,0,West Ham,False,Leicester City,-1.82
-Ben Johnson,West Ham,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,32.73,0.25,0,0,0,0,2,West Ham,False,Nottingham Forest,
-Ben Johnson,West Ham,Nottingham Forest,2022-08-14,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0,0,1,0.0,False,0.0,0.0,37.5,0.2,0,0,0,0,0,West Ham,False,Wolverhampton,4.02
-Ben Johnson,West Ham,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,34.62,0.2,0,0,0,0,1,West Ham,True,Everton,-1.75
-Ben Johnson,West Ham,Everton,2023-01-21,True,Sub,9,0.0,0.0,0.0,0.05,1,0.0,1.0,2.2,0,0,0,0.0,False,0.4,0.0,32.79,0.2,0,0,0,0,1,West Ham,False,Newcastle United,-0.75
-Ben Johnson,West Ham,Newcastle United,2023-02-04,False,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.44,False,0.6,0.0,33.6,0.2,0,0,0,0,1,West Ham,True,Chelsea,-1.67
-Ben Johnson,West Ham,Chelsea,2023-02-11,True,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.04,False,0.8,0.0,32.12,0.2,0,0,0,0,1,West Ham,False,Tottenham,5.86
-Ben Johnson,West Ham,Tottenham,2023-02-19,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,False,1.0,0.0,30.76,0.2,0,0,0,0,6,West Ham,True,Nottingham Forest,
-Ben Johnson,West Ham,Nottingham Forest,2023-02-25,True,DL,90,0.0,0.02,0.0,0.0,6,1.0,0.0,2.3,0,1,0,0.42,True,0.8,0.0,34.06,0.33,0,0,0,0,0,West Ham,False,Brighton,4.06
-Ben Johnson,West Ham,Brighton,2023-03-04,False,DR,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.8,0,0,4,3.56,True,2.0,0.0,37.0,0.29,0,0,0,0,0,West Ham,True,Aston Villa,-0.6
-Ben Johnson,West Ham,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.0,35.15,0.29,0,0,0,0,0,West Ham,True,Southampton,3.84
-Ben Johnson,West Ham,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.0,33.48,0.29,0,0,0,0,0,West Ham,True,Newcastle United,
-Ben Johnson,West Ham,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,31.95,0.29,0,0,0,0,1,West Ham,True,Brighton,1.39
-Ben Johnson,West Ham,Brighton,2022-08-21,True,Sub,15,0.0,0.0,0.0,0.1,1,0.0,1.0,2.5,0,0,0,0.0,False,1.2,0.0,31.22,0.29,0,0,0,0,0,West Ham,False,Fulham,
-Ben Johnson,West Ham,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,29.92,0.29,0,0,0,0,0,West Ham,True,Arsenal,
-Ben Johnson,West Ham,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,28.72,0.29,0,0,0,0,0,West Ham,False,Bournemouth,
-Ben Johnson,West Ham,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,27.62,0.29,0,0,0,0,0,West Ham,True,Liverpool,-1.96
-Ben Johnson,West Ham,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,26.59,0.29,0,0,0,0,0,West Ham,False,Crystal Palace,
-Ben Johnson,West Ham,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,25.64,0.29,0,0,0,0,0,West Ham,False,Manchester City,3.95
-Ben Johnson,West Ham,Manchester City,2023-05-03,False,Sub,28,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,0,2,0.9,False,0.0,0.0,25.72,0.29,0,0,0,0,1,West Ham,True,Manchester United,2.79
-Ben Johnson,West Ham,Manchester United,2023-05-07,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.15,False,0.0,0.0,24.9,0.29,0,0,0,0,1,West Ham,False,Brentford,
-Ben Johnson,West Ham,Brentford,2023-05-14,False,DR,90,0.0,0.06,0.0,0.0,1,1.0,0.0,3.5,0,0,2,3.62,True,0.2,0.0,27.0,0.25,0,0,0,0,1,West Ham,True,Leicester City,
-Ben Johnson,West Ham,Leicester City,2023-05-21,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.03,False,0.4,0.01,26.19,0.25,0,0,0,0,0,West Ham,False,Leeds United,
-Ben Johnson,West Ham,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.01,25.39,0.25,0,0,0,0,1,West Ham,False,Aston Villa,-2.62
-Ben Johnson,West Ham,Aston Villa,2022-08-28,False,DMR,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.0,False,0.6,0.01,25.29,0.25,0,0,0,0,0,West Ham,True,Tottenham,-2.08
-Ben Johnson,West Ham,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.01,24.57,0.25,0,0,0,0,0,West Ham,False,Chelsea,-1.22
-Ben Johnson,West Ham,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.01,23.89,0.25,0,0,0,0,0,West Ham,False,Everton,-0.01
-Ben Johnson,West Ham,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,23.24,0.25,0,0,0,0,0,West Ham,True,Wolverhampton,-3.77
-Ben Johnson,West Ham,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,22.63,0.25,0,0,0,0,0,West Ham,False,Bournemouth,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Ben Johnson,West Ham,Manchester City,2022-08-07,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,2,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,0,West Ham,True,Fulham,,-0.3
+Ben Johnson,West Ham,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,45.0,0.0,0,0,0,0,2,West Ham,False,Southampton,0.96,-1.07
+Ben Johnson,West Ham,Southampton,2022-10-16,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,1,0.0,False,0.5,0.0,60.0,0.0,0,0,0,0,2,West Ham,False,Liverpool,0.66,-1.33
+Ben Johnson,West Ham,Liverpool,2022-10-19,False,DR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,1,0.0,False,1.0,0.0,67.5,0.0,0,0,0,0,7,West Ham,True,Bournemouth,,1.46
+Ben Johnson,West Ham,Bournemouth,2022-10-24,True,DR,90,0.0,0.0,0.0,0.09,7,0.0,1.0,3.9,1,1,0,0.0,False,1.25,0.0,72.0,0.25,0,0,0,0,0,West Ham,False,Manchester United,2.8,
+Ben Johnson,West Ham,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.4,0.0,60.0,0.25,0,0,0,0,0,West Ham,True,Crystal Palace,2.25,
+Ben Johnson,West Ham,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.0,51.43,0.25,0,0,0,0,0,West Ham,True,Leeds United,-5.24,
+Ben Johnson,West Ham,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.0,45.0,0.25,0,0,0,0,0,West Ham,False,Arsenal,4.81,-0.0
+Ben Johnson,West Ham,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.0,40.0,0.25,0,0,0,0,0,West Ham,True,Brentford,3.83,0.69
+Ben Johnson,West Ham,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,36.0,0.25,0,0,0,0,0,West Ham,False,Leicester City,-1.82,
+Ben Johnson,West Ham,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,32.73,0.25,0,0,0,0,2,West Ham,False,Nottingham Forest,,
+Ben Johnson,West Ham,Nottingham Forest,2022-08-14,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0,0,1,0.0,False,0.0,0.0,37.5,0.2,0,0,0,0,0,West Ham,False,Wolverhampton,4.02,-0.46
+Ben Johnson,West Ham,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,34.62,0.2,0,0,0,0,1,West Ham,True,Everton,-1.75,0.34
+Ben Johnson,West Ham,Everton,2023-01-21,True,Sub,9,0.0,0.0,0.0,0.05,1,0.0,1.0,2.2,0,0,0,0.0,False,0.4,0.0,32.79,0.2,0,0,0,0,1,West Ham,False,Newcastle United,-0.75,
+Ben Johnson,West Ham,Newcastle United,2023-02-04,False,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.44,False,0.6,0.0,33.6,0.2,0,0,0,0,1,West Ham,True,Chelsea,-1.67,-0.25
+Ben Johnson,West Ham,Chelsea,2023-02-11,True,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.04,False,0.8,0.0,32.12,0.2,0,0,0,0,1,West Ham,False,Tottenham,5.86,-0.03
+Ben Johnson,West Ham,Tottenham,2023-02-19,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,False,1.0,0.0,30.76,0.2,0,0,0,0,6,West Ham,True,Nottingham Forest,,
+Ben Johnson,West Ham,Nottingham Forest,2023-02-25,True,DL,90,0.0,0.02,0.0,0.0,6,1.0,0.0,2.3,0,1,0,0.42,True,0.8,0.0,34.06,0.33,0,0,0,0,0,West Ham,False,Brighton,4.06,-0.39
+Ben Johnson,West Ham,Brighton,2023-03-04,False,DR,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.8,0,0,4,3.56,True,2.0,0.0,37.0,0.29,0,0,0,0,0,West Ham,True,Aston Villa,-0.6,
+Ben Johnson,West Ham,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.0,35.15,0.29,0,0,0,0,0,West Ham,True,Southampton,3.84,-0.38
+Ben Johnson,West Ham,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.0,33.48,0.29,0,0,0,0,0,West Ham,True,Newcastle United,,
+Ben Johnson,West Ham,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,31.95,0.29,0,0,0,0,1,West Ham,True,Brighton,1.39,-0.71
+Ben Johnson,West Ham,Brighton,2022-08-21,True,Sub,15,0.0,0.0,0.0,0.1,1,0.0,1.0,2.5,0,0,0,0.0,False,1.2,0.0,31.22,0.29,0,0,0,0,0,West Ham,False,Fulham,,1.37
+Ben Johnson,West Ham,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,29.92,0.29,0,0,0,0,0,West Ham,True,Arsenal,,0.36
+Ben Johnson,West Ham,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,28.72,0.29,0,0,0,0,0,West Ham,False,Bournemouth,,0.19
+Ben Johnson,West Ham,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,27.62,0.29,0,0,0,0,0,West Ham,True,Liverpool,-1.96,-0.53
+Ben Johnson,West Ham,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,26.59,0.29,0,0,0,0,0,West Ham,False,Crystal Palace,,
+Ben Johnson,West Ham,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,25.64,0.29,0,0,0,0,0,West Ham,False,Manchester City,3.95,
+Ben Johnson,West Ham,Manchester City,2023-05-03,False,Sub,28,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,0,2,0.9,False,0.0,0.0,25.72,0.29,0,0,0,0,1,West Ham,True,Manchester United,2.79,
+Ben Johnson,West Ham,Manchester United,2023-05-07,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.15,False,0.0,0.0,24.9,0.29,0,0,0,0,1,West Ham,False,Brentford,,-0.55
+Ben Johnson,West Ham,Brentford,2023-05-14,False,DR,90,0.0,0.06,0.0,0.0,1,1.0,0.0,3.5,0,0,2,3.62,True,0.2,0.0,27.0,0.25,0,0,0,0,1,West Ham,True,Leicester City,,
+Ben Johnson,West Ham,Leicester City,2023-05-21,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.03,False,0.4,0.01,26.19,0.25,0,0,0,0,0,West Ham,False,Leeds United,,
+Ben Johnson,West Ham,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.01,25.39,0.25,0,0,0,0,1,West Ham,False,Aston Villa,-2.62,
+Ben Johnson,West Ham,Aston Villa,2022-08-28,False,DMR,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.0,False,0.6,0.01,25.29,0.25,0,0,0,0,0,West Ham,True,Tottenham,-2.08,1.07
+Ben Johnson,West Ham,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.01,24.57,0.25,0,0,0,0,0,West Ham,False,Chelsea,-1.22,-0.72
+Ben Johnson,West Ham,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.01,23.89,0.25,0,0,0,0,0,West Ham,False,Everton,-0.01,-0.63
+Ben Johnson,West Ham,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,23.24,0.25,0,0,0,0,0,West Ham,True,Wolverhampton,-3.77,-0.48
+Ben Johnson,West Ham,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,22.63,0.25,0,0,0,0,0,West Ham,False,Bournemouth,,0.19

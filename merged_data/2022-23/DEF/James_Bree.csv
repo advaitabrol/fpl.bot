@@ -1,19 +1,19 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-James Bree,Southampton,Brentford,2023-02-04,False,DR,90,0.0,0.0,0.0,0.15,1,0.0,3.0,6.3,0,0,3,2.13,True,0.0,0.0,90.0,0.0,0,0,0,0,2.0,Southampton,True,Wolverhampton,3.38
-James Bree,Southampton,Wolverhampton,2023-02-11,True,DR,79,0.0,0.0,0.0,0.03,2,0.0,1.0,2.9,0,0,1,0.55,True,1.0,0.0,84.5,0.0,0,0,0,0,0.0,Southampton,False,Chelsea,1.8
-James Bree,Southampton,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.5,0.0,56.33,0.0,0,0,0,0,0.0,Southampton,False,Leicester City,-2.53
-James Bree,Southampton,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,42.25,0.0,0,0,0,0,0.0,Southampton,True,Leeds United,-0.35
-James Bree,Southampton,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.75,0.0,33.8,0.0,0,0,0,0,0.0,Southampton,False,Manchester United,1.62
-James Bree,Southampton,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,28.17,0.0,0,0,0,0,1.0,Southampton,True,Brentford,-5.16
-James Bree,Southampton,Brentford,2023-03-15,True,Sub,31,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,1,0.56,False,0.4,0.0,28.57,0.0,0,0,0,0,0.0,Southampton,True,Tottenham,0.15
-James Bree,Southampton,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,25.0,0.0,0,0,0,0,0.0,Southampton,False,West Ham,-2.95
-James Bree,Southampton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,22.22,0.0,0,0,0,0,0.0,Southampton,True,Manchester City,-3.41
-James Bree,Southampton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,20.0,0.0,0,0,0,0,0.0,Southampton,True,Crystal Palace,0.7
-James Bree,Southampton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,18.18,0.0,0,0,0,0,0.0,Southampton,False,Arsenal,2.91
-James Bree,Southampton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,16.67,0.0,0,0,0,0,0.0,Southampton,True,Bournemouth,
-James Bree,Southampton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,15.38,0.0,0,0,0,0,0.0,Southampton,False,Newcastle United,-1.73
-James Bree,Southampton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,14.29,0.0,0,0,0,0,0.0,Southampton,False,Nottingham Forest,
-James Bree,Southampton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,13.33,0.0,0,0,0,0,0.0,Southampton,True,Fulham,
-James Bree,Southampton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,12.5,0.0,0,0,0,0,0.0,Southampton,False,Brighton,0.35
-James Bree,Southampton,Brighton,2023-05-21,False,DR,76,0.0,0.0,0.0,0.0,0,0.0,0.0,0.8,0,0,3,2.14,True,0.0,0.0,16.24,0.0,0,0,0,0,0.0,Southampton,True,Liverpool,-0.75
-James Bree,Southampton,Liverpool,2023-05-28,True,DR,90,0.0,0.01,0.0,0.0,0,1.0,0.0,0.0,0,0,4,3.85,True,0.0,0.0,20.33,0.0,0,0,0,0,,Liverpool,False,Chelsea,-0.15
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+James Bree,Southampton,Brentford,2023-02-04,False,DR,90,0.0,0.0,0.0,0.15,1,0.0,3.0,6.3,0,0,3,2.13,True,0.0,0.0,90.0,0.0,0,0,0,0,2.0,Southampton,True,Wolverhampton,3.38,-0.48
+James Bree,Southampton,Wolverhampton,2023-02-11,True,DR,79,0.0,0.0,0.0,0.03,2,0.0,1.0,2.9,0,0,1,0.55,True,1.0,0.0,84.5,0.0,0,0,0,0,0.0,Southampton,False,Chelsea,1.8,-0.72
+James Bree,Southampton,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.5,0.0,56.33,0.0,0,0,0,0,0.0,Southampton,False,Leicester City,-2.53,
+James Bree,Southampton,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,42.25,0.0,0,0,0,0,0.0,Southampton,True,Leeds United,-0.35,
+James Bree,Southampton,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.75,0.0,33.8,0.0,0,0,0,0,0.0,Southampton,False,Manchester United,1.62,
+James Bree,Southampton,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,28.17,0.0,0,0,0,0,1.0,Southampton,True,Brentford,-5.16,0.69
+James Bree,Southampton,Brentford,2023-03-15,True,Sub,31,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,1,0.56,False,0.4,0.0,28.57,0.0,0,0,0,0,0.0,Southampton,True,Tottenham,0.15,1.07
+James Bree,Southampton,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,25.0,0.0,0,0,0,0,0.0,Southampton,False,West Ham,-2.95,
+James Bree,Southampton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,22.22,0.0,0,0,0,0,0.0,Southampton,True,Manchester City,-3.41,
+James Bree,Southampton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,20.0,0.0,0,0,0,0,0.0,Southampton,True,Crystal Palace,0.7,
+James Bree,Southampton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,18.18,0.0,0,0,0,0,0.0,Southampton,False,Arsenal,2.91,-0.0
+James Bree,Southampton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,16.67,0.0,0,0,0,0,0.0,Southampton,True,Bournemouth,,1.46
+James Bree,Southampton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,15.38,0.0,0,0,0,0,0.0,Southampton,False,Newcastle United,-1.73,
+James Bree,Southampton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,14.29,0.0,0,0,0,0,0.0,Southampton,False,Nottingham Forest,,
+James Bree,Southampton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,13.33,0.0,0,0,0,0,0.0,Southampton,True,Fulham,,-0.3
+James Bree,Southampton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,12.5,0.0,0,0,0,0,0.0,Southampton,False,Brighton,0.35,-0.39
+James Bree,Southampton,Brighton,2023-05-21,False,DR,76,0.0,0.0,0.0,0.0,0,0.0,0.0,0.8,0,0,3,2.14,True,0.0,0.0,16.24,0.0,0,0,0,0,0.0,Southampton,True,Liverpool,-0.75,-0.53
+James Bree,Southampton,Liverpool,2023-05-28,True,DR,90,0.0,0.01,0.0,0.0,0,1.0,0.0,0.0,0,0,4,3.85,True,0.0,0.0,20.33,0.0,0,0,0,0,,Liverpool,False,Chelsea,-0.15,-0.72

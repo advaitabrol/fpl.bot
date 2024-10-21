@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Oliver Skipp,Spurs,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.14,0.76,0.03,1,Spurs,False,Brighton,-2.68
-Oliver Skipp,Spurs,Brighton,2022-10-08,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.5,0.0,0.0,0.14,0.76,0.03,1,Spurs,True,Everton,-5.21
-Oliver Skipp,Spurs,Everton,2022-10-15,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.5,0.0,0.67,0.0,0.0,0.14,0.76,0.03,1,Spurs,False,Manchester United,4.8
-Oliver Skipp,Spurs,Manchester United,2022-10-19,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.67,0.0,0.75,0.0,0.0,0.14,0.76,0.03,1,Spurs,True,Newcastle United,-3.79
-Oliver Skipp,Spurs,Newcastle United,2022-10-23,True,MC,65,0.0,0.0,0.0,0.14,1,0.0,3.0,4.3,0,0,2,False,0.75,0.0,13.6,0.0,0.0,0.14,0.76,0.03,1,Spurs,False,Bournemouth,
-Oliver Skipp,Spurs,Bournemouth,2022-10-29,False,MC,45,0.0,0.06,0.0,0.0,1,1.0,0.0,2.9,0,0,1,False,0.8,0.0,18.83,0.0,0.0,0.14,0.76,0.03,0,Spurs,True,Liverpool,0.32
-Oliver Skipp,Spurs,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.01,16.14,0.0,0.0,0.14,0.76,0.03,0,Spurs,True,Leicester City,-0.2
-Oliver Skipp,Spurs,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.01,14.12,0.0,0.0,0.14,0.76,0.03,0,Spurs,False,Brentford,1.4
-Oliver Skipp,Spurs,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,12.56,0.0,0.0,0.14,0.76,0.03,1,Spurs,True,Aston Villa,-0.44
-Oliver Skipp,Spurs,Aston Villa,2023-01-01,True,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.4,0.01,11.5,0.0,0.0,0.14,0.76,0.03,2,Spurs,False,Crystal Palace,7.24
-Oliver Skipp,Spurs,Crystal Palace,2023-01-04,False,MC,65,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,1,0,True,0.4,0.01,16.36,0.0,0.0,0.14,0.76,0.03,0,Spurs,False,Chelsea,3.74
-Oliver Skipp,Spurs,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,15.0,0.0,0.0,0.14,0.76,0.03,0,Spurs,True,Arsenal,-2.81
-Oliver Skipp,Spurs,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,13.85,0.0,0.0,0.14,0.76,0.03,0,Spurs,False,Manchester City,-2.29
-Oliver Skipp,Spurs,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,12.86,0.0,0.0,0.14,0.76,0.03,0,Spurs,False,Fulham,
-Oliver Skipp,Spurs,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,12.0,0.0,0.0,0.14,0.76,0.03,0,Spurs,True,Manchester City,-0.19
-Oliver Skipp,Spurs,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,11.25,0.0,0.0,0.14,0.76,0.03,0,Spurs,False,Leeds United,1.08
-Oliver Skipp,Spurs,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,10.59,0.0,0.0,0.14,0.76,0.03,2,Spurs,True,West Ham,-1.58
-Oliver Skipp,Spurs,West Ham,2023-02-19,True,MC,88,0.0,0.06,0.0,0.04,2,1.0,1.0,3.3,0,1,0,True,0.0,0.0,14.89,0.0,0.0,0.14,0.76,0.03,9,Spurs,True,Chelsea,5.76
-Oliver Skipp,Spurs,Chelsea,2023-02-26,True,MC,90,1.0,0.02,0.0,0.0,9,1.0,0.0,5.6,1,1,0,True,0.4,0.01,18.84,0.0,0.0,0.14,0.76,0.03,2,Spurs,False,Wolverhampton,-1.1
-Oliver Skipp,Spurs,Wolverhampton,2023-03-04,False,MC,90,0.0,0.04,0.0,0.02,2,2.0,1.0,2.1,0,0,1,True,2.2,0.02,22.4,0.0,0.0,0.14,0.76,0.03,1,Spurs,True,Nottingham Forest,
-Oliver Skipp,Spurs,Nottingham Forest,2023-03-11,True,MC,90,0.0,0.01,0.0,0.0,1,1.0,0.0,1.5,0,0,1,True,2.6,0.02,25.62,0.0,0.0,0.14,0.76,0.03,1,Spurs,False,Southampton,-0.01
-Oliver Skipp,Spurs,Southampton,2023-03-18,False,MC,90,0.0,0.0,0.0,0.04,1,0.0,2.0,4.4,0,0,3,True,2.8,0.03,28.55,0.0,0.0,0.14,0.76,0.03,2,Spurs,False,Everton,-0.37
-Oliver Skipp,Spurs,Everton,2023-04-03,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.8,0,0,1,True,3.0,0.03,31.22,0.0,0.0,0.14,0.76,0.03,0,Spurs,True,Wolverhampton,-0.85
-Oliver Skipp,Spurs,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,3.0,0.01,29.92,0.0,0.0,0.14,0.76,0.03,2,Spurs,True,Brighton,
-Oliver Skipp,Spurs,Brighton,2023-04-08,True,MC,87,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,0,1,True,1.2,0.01,32.2,0.0,0.0,0.14,0.76,0.03,2,Spurs,True,Bournemouth,
-Oliver Skipp,Spurs,Bournemouth,2023-04-15,True,MC,76,0.0,0.02,0.0,0.2,2,1.0,1.0,3.4,0,0,2,True,1.2,0.0,33.88,0.0,0.0,0.14,0.76,0.03,1,Spurs,False,Newcastle United,0.79
-Oliver Skipp,Spurs,Newcastle United,2023-04-23,False,MC,90,0.0,0.0,0.0,0.08,1,0.0,1.0,2.7,0,0,6,True,1.4,0.0,35.96,0.0,0.0,0.14,0.76,0.03,2,Spurs,True,Manchester United,5.3
-Oliver Skipp,Spurs,Manchester United,2023-04-27,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0,0,2,True,1.4,0.0,37.89,0.0,0.0,0.14,0.76,0.03,2,Spurs,False,Liverpool,
-Oliver Skipp,Spurs,Liverpool,2023-04-30,False,MC,83,0.0,0.0,0.0,0.0,2,0.0,0.0,3.0,0,0,3,True,1.4,0.0,39.45,0.0,0.0,0.14,0.76,0.03,3,Spurs,True,Crystal Palace,-3.09
-Oliver Skipp,Spurs,Crystal Palace,2023-05-06,True,MC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.4,0,1,0,True,1.8,0.0,41.13,0.0,0.0,0.14,0.76,0.03,1,Spurs,False,Aston Villa,
-Oliver Skipp,Spurs,Aston Villa,2023-05-13,False,MC,60,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,True,2.0,0.0,41.74,0.0,0.0,0.14,0.76,0.03,2,Spurs,True,Brentford,-3.15
-Oliver Skipp,Spurs,Brentford,2023-05-20,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,0,3,True,1.8,0.0,43.25,0.0,0.0,0.14,0.76,0.03,2,Spurs,False,Leicester City,
-Oliver Skipp,Spurs,Leicester City,2023-05-28,False,MC,90,0.0,0.0,0.0,0.02,2,0.0,1.0,0.0,0,0,1,True,2.0,0.0,44.67,0.0,0.0,0.14,0.76,0.03,0,Spurs,False,Nottingham Forest,-5.2
-Oliver Skipp,Spurs,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.0,43.35,0.0,0.0,0.14,0.76,0.03,0,Spurs,False,West Ham,2.68
-Oliver Skipp,Spurs,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.0,42.11,0.0,0.0,0.14,0.76,0.03,0,Spurs,True,Fulham,-1.52
-Oliver Skipp,Spurs,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,40.94,0.0,0.0,0.14,0.76,0.03,0,Spurs,True,Leeds United,-5.34
-Oliver Skipp,Spurs,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.0,39.84,0.0,0.0,0.14,0.76,0.03,1,Spurs,False,Arsenal,2.45
-Oliver Skipp,Spurs,Arsenal,2022-10-01,False,Sub,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,0.4,0.0,39.18,0.0,0.0,0.14,0.76,0.03,1,Spurs,False,Brentford,0.99
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Oliver Skipp,Spurs,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.14,0.76,0.03,1,Spurs,False,Brighton,-2.68,-0.39
+Oliver Skipp,Spurs,Brighton,2022-10-08,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.5,0.0,0.0,0.14,0.76,0.03,1,Spurs,True,Everton,-5.21,0.34
+Oliver Skipp,Spurs,Everton,2022-10-15,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.5,0.0,0.67,0.0,0.0,0.14,0.76,0.03,1,Spurs,False,Manchester United,4.8,
+Oliver Skipp,Spurs,Manchester United,2022-10-19,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.67,0.0,0.75,0.0,0.0,0.14,0.76,0.03,1,Spurs,True,Newcastle United,-3.79,
+Oliver Skipp,Spurs,Newcastle United,2022-10-23,True,MC,65,0.0,0.0,0.0,0.14,1,0.0,3.0,4.3,0,0,2,False,0.75,0.0,13.6,0.0,0.0,0.14,0.76,0.03,1,Spurs,False,Bournemouth,,0.19
+Oliver Skipp,Spurs,Bournemouth,2022-10-29,False,MC,45,0.0,0.06,0.0,0.0,1,1.0,0.0,2.9,0,0,1,False,0.8,0.0,18.83,0.0,0.0,0.14,0.76,0.03,0,Spurs,True,Liverpool,0.32,-0.53
+Oliver Skipp,Spurs,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.01,16.14,0.0,0.0,0.14,0.76,0.03,0,Spurs,True,Leicester City,-0.2,
+Oliver Skipp,Spurs,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.01,14.12,0.0,0.0,0.14,0.76,0.03,0,Spurs,False,Brentford,1.4,-0.55
+Oliver Skipp,Spurs,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,12.56,0.0,0.0,0.14,0.76,0.03,1,Spurs,True,Aston Villa,-0.44,
+Oliver Skipp,Spurs,Aston Villa,2023-01-01,True,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.4,0.01,11.5,0.0,0.0,0.14,0.76,0.03,2,Spurs,False,Crystal Palace,7.24,
+Oliver Skipp,Spurs,Crystal Palace,2023-01-04,False,MC,65,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,1,0,True,0.4,0.01,16.36,0.0,0.0,0.14,0.76,0.03,0,Spurs,False,Chelsea,3.74,-0.72
+Oliver Skipp,Spurs,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,15.0,0.0,0.0,0.14,0.76,0.03,0,Spurs,True,Arsenal,-2.81,0.36
+Oliver Skipp,Spurs,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,13.85,0.0,0.0,0.14,0.76,0.03,0,Spurs,False,Manchester City,-2.29,
+Oliver Skipp,Spurs,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,12.86,0.0,0.0,0.14,0.76,0.03,0,Spurs,False,Fulham,,1.37
+Oliver Skipp,Spurs,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,12.0,0.0,0.0,0.14,0.76,0.03,0,Spurs,True,Manchester City,-0.19,
+Oliver Skipp,Spurs,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,11.25,0.0,0.0,0.14,0.76,0.03,0,Spurs,False,Leeds United,1.08,
+Oliver Skipp,Spurs,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,10.59,0.0,0.0,0.14,0.76,0.03,2,Spurs,True,West Ham,-1.58,
+Oliver Skipp,Spurs,West Ham,2023-02-19,True,MC,88,0.0,0.06,0.0,0.04,2,1.0,1.0,3.3,0,1,0,True,0.0,0.0,14.89,0.0,0.0,0.14,0.76,0.03,9,Spurs,True,Chelsea,5.76,-0.25
+Oliver Skipp,Spurs,Chelsea,2023-02-26,True,MC,90,1.0,0.02,0.0,0.0,9,1.0,0.0,5.6,1,1,0,True,0.4,0.01,18.84,0.0,0.0,0.14,0.76,0.03,2,Spurs,False,Wolverhampton,-1.1,-0.46
+Oliver Skipp,Spurs,Wolverhampton,2023-03-04,False,MC,90,0.0,0.04,0.0,0.02,2,2.0,1.0,2.1,0,0,1,True,2.2,0.02,22.4,0.0,0.0,0.14,0.76,0.03,1,Spurs,True,Nottingham Forest,,
+Oliver Skipp,Spurs,Nottingham Forest,2023-03-11,True,MC,90,0.0,0.01,0.0,0.0,1,1.0,0.0,1.5,0,0,1,True,2.6,0.02,25.62,0.0,0.0,0.14,0.76,0.03,1,Spurs,False,Southampton,-0.01,-1.07
+Oliver Skipp,Spurs,Southampton,2023-03-18,False,MC,90,0.0,0.0,0.0,0.04,1,0.0,2.0,4.4,0,0,3,True,2.8,0.03,28.55,0.0,0.0,0.14,0.76,0.03,2,Spurs,False,Everton,-0.37,-0.63
+Oliver Skipp,Spurs,Everton,2023-04-03,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.8,0,0,1,True,3.0,0.03,31.22,0.0,0.0,0.14,0.76,0.03,0,Spurs,True,Wolverhampton,-0.85,-0.48
+Oliver Skipp,Spurs,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,3.0,0.01,29.92,0.0,0.0,0.14,0.76,0.03,2,Spurs,True,Brighton,,-0.71
+Oliver Skipp,Spurs,Brighton,2023-04-08,True,MC,87,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,0,1,True,1.2,0.01,32.2,0.0,0.0,0.14,0.76,0.03,2,Spurs,True,Bournemouth,,1.46
+Oliver Skipp,Spurs,Bournemouth,2023-04-15,True,MC,76,0.0,0.02,0.0,0.2,2,1.0,1.0,3.4,0,0,2,True,1.2,0.0,33.88,0.0,0.0,0.14,0.76,0.03,1,Spurs,False,Newcastle United,0.79,
+Oliver Skipp,Spurs,Newcastle United,2023-04-23,False,MC,90,0.0,0.0,0.0,0.08,1,0.0,1.0,2.7,0,0,6,True,1.4,0.0,35.96,0.0,0.0,0.14,0.76,0.03,2,Spurs,True,Manchester United,5.3,
+Oliver Skipp,Spurs,Manchester United,2023-04-27,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0,0,2,True,1.4,0.0,37.89,0.0,0.0,0.14,0.76,0.03,2,Spurs,False,Liverpool,,-1.33
+Oliver Skipp,Spurs,Liverpool,2023-04-30,False,MC,83,0.0,0.0,0.0,0.0,2,0.0,0.0,3.0,0,0,3,True,1.4,0.0,39.45,0.0,0.0,0.14,0.76,0.03,3,Spurs,True,Crystal Palace,-3.09,
+Oliver Skipp,Spurs,Crystal Palace,2023-05-06,True,MC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.4,0,1,0,True,1.8,0.0,41.13,0.0,0.0,0.14,0.76,0.03,1,Spurs,False,Aston Villa,,
+Oliver Skipp,Spurs,Aston Villa,2023-05-13,False,MC,60,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,True,2.0,0.0,41.74,0.0,0.0,0.14,0.76,0.03,2,Spurs,True,Brentford,-3.15,0.69
+Oliver Skipp,Spurs,Brentford,2023-05-20,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,0,3,True,1.8,0.0,43.25,0.0,0.0,0.14,0.76,0.03,2,Spurs,False,Leicester City,,
+Oliver Skipp,Spurs,Leicester City,2023-05-28,False,MC,90,0.0,0.0,0.0,0.02,2,0.0,1.0,0.0,0,0,1,True,2.0,0.0,44.67,0.0,0.0,0.14,0.76,0.03,0,Spurs,False,Nottingham Forest,-5.2,
+Oliver Skipp,Spurs,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.0,43.35,0.0,0.0,0.14,0.76,0.03,0,Spurs,False,West Ham,2.68,
+Oliver Skipp,Spurs,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.0,42.11,0.0,0.0,0.14,0.76,0.03,0,Spurs,True,Fulham,-1.52,-0.3
+Oliver Skipp,Spurs,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,40.94,0.0,0.0,0.14,0.76,0.03,0,Spurs,True,Leeds United,-5.34,
+Oliver Skipp,Spurs,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.0,39.84,0.0,0.0,0.14,0.76,0.03,1,Spurs,False,Arsenal,2.45,-0.0
+Oliver Skipp,Spurs,Arsenal,2022-10-01,False,Sub,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,0.4,0.0,39.18,0.0,0.0,0.14,0.76,0.03,1,Spurs,False,Brentford,0.99,-0.55

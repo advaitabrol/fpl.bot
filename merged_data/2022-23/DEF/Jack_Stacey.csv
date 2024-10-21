@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Jack Stacey,Bournemouth,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1.0,Bournemouth,True,Leeds United,
-Jack Stacey,Bournemouth,Leeds United,2022-10-08,True,Sub,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.0,False,0.0,0.0,9.0,0.0,0,0,0,0,1.0,Bournemouth,False,Fulham,
-Jack Stacey,Bournemouth,Fulham,2022-10-15,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,0.5,0.0,6.33,0.0,0,0,0,0,0.0,Bournemouth,True,Southampton,
-Jack Stacey,Bournemouth,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.67,0.0,4.75,0.0,0,0,0,0,0.0,Bournemouth,False,West Ham,
-Jack Stacey,Bournemouth,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.5,0.0,3.8,0.0,0,0,0,0,0.0,Bournemouth,True,Tottenham,
-Jack Stacey,Bournemouth,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,3.17,0.0,0,0,0,0,1.0,Bournemouth,False,Leicester City,
-Jack Stacey,Bournemouth,Leicester City,2022-11-05,False,Sub,17,0.0,0.05,0.0,0.0,1,1.0,0.0,0.8,0,0,1,0.0,False,0.4,0.0,5.14,0.0,0,0,0,0,0.0,Bournemouth,True,Everton,
-Jack Stacey,Bournemouth,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,4.5,0.0,0,0,0,0,0.0,Bournemouth,False,Chelsea,
-Jack Stacey,Bournemouth,Chelsea,2022-12-27,False,DR,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,0,2,1.12,True,0.2,0.01,9.0,0.0,0,0,0,0,0.0,Bournemouth,True,Crystal Palace,
-Jack Stacey,Bournemouth,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.01,8.1,0.0,0,0,0,0,0.0,Bournemouth,False,Manchester United,
-Jack Stacey,Bournemouth,Manchester United,2023-01-03,False,Sub,27,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,0,0,1,0.97,False,0.2,0.01,9.82,0.0,0,0,0,0,-1.0,Bournemouth,False,Manchester City,
-Jack Stacey,Bournemouth,Manchester City,2022-08-13,False,DML,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,1.1,0,0,4,0.0,False,0.2,0.01,16.5,0.0,0,0,0,0,1.0,Bournemouth,False,Brentford,
-Jack Stacey,Bournemouth,Brentford,2023-01-14,False,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,2,1.47,True,-0.2,0.0,22.15,0.0,0,0,0,0,0.0,Bournemouth,True,Nottingham Forest,
-Jack Stacey,Bournemouth,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,20.57,0.0,0,0,0,0,0.0,Bournemouth,False,Brighton,
-Jack Stacey,Bournemouth,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,19.2,0.0,0,0,0,0,0.0,Bournemouth,True,Newcastle United,
-Jack Stacey,Bournemouth,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,18.0,0.0,0,0,0,0,0.0,Bournemouth,False,Wolverhampton,
-Jack Stacey,Bournemouth,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,16.94,0.0,0,0,0,0,0.0,Bournemouth,True,Manchester City,
-Jack Stacey,Bournemouth,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,16.0,0.0,0,0,0,0,0.0,Bournemouth,False,Arsenal,
-Jack Stacey,Bournemouth,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,15.16,0.0,0,0,0,0,0.0,Bournemouth,True,Liverpool,
-Jack Stacey,Bournemouth,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,14.4,0.0,0,0,0,0,0.0,Bournemouth,False,Aston Villa,
-Jack Stacey,Bournemouth,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,13.71,0.0,0,0,0,0,0.0,Bournemouth,True,Fulham,
-Jack Stacey,Bournemouth,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,13.09,0.0,0,0,0,0,0.0,Bournemouth,True,Brighton,
-Jack Stacey,Bournemouth,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,12.52,0.0,0,0,0,0,0.0,Bournemouth,True,Arsenal,2.53
-Jack Stacey,Bournemouth,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,12.0,0.0,0,0,0,0,0.0,Bournemouth,False,Leeds United,
-Jack Stacey,Bournemouth,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,11.52,0.0,0,0,0,0,0.0,Bournemouth,False,Tottenham,
-Jack Stacey,Bournemouth,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,11.08,0.0,0,0,0,0,0.0,Bournemouth,True,West Ham,
-Jack Stacey,Bournemouth,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,10.67,0.0,0,0,0,0,0.0,Bournemouth,False,Southampton,
-Jack Stacey,Bournemouth,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,10.29,0.0,0,0,0,0,1.0,Bournemouth,True,Leicester City,
-Jack Stacey,Bournemouth,Leicester City,2023-04-30,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,9.97,0.0,0,0,0,0,0.0,Bournemouth,True,Chelsea,
-Jack Stacey,Bournemouth,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,9.63,0.0,0,0,0,0,0.0,Bournemouth,False,Crystal Palace,
-Jack Stacey,Bournemouth,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,9.32,0.0,0,0,0,0,0.0,Bournemouth,True,Manchester United,
-Jack Stacey,Bournemouth,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,9.03,0.0,0,0,0,0,0.0,Bournemouth,False,Everton,
-Jack Stacey,Bournemouth,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,8.76,0.0,0,0,0,0,0.0,Bournemouth,False,Liverpool,7.33
-Jack Stacey,Bournemouth,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,8.5,0.0,0,0,0,0,0.0,Bournemouth,True,Wolverhampton,1.01
-Jack Stacey,Bournemouth,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,8.26,0.0,0,0,0,0,1.0,Bournemouth,False,Nottingham Forest,-0.1
-Jack Stacey,Bournemouth,Nottingham Forest,2022-09-03,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,8.06,0.0,0,0,0,0,1.0,Bournemouth,False,Newcastle United,-1.45
-Jack Stacey,Bournemouth,Newcastle United,2022-09-17,False,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.0,False,0.2,0.0,7.92,0.0,0,0,0,0,0.0,Bournemouth,True,Brentford,0.49
-Jack Stacey,Bournemouth,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,7.71,0.0,0,0,0,0,,Chelsea,True,Liverpool,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jack Stacey,Bournemouth,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1.0,Bournemouth,True,Leeds United,,
+Jack Stacey,Bournemouth,Leeds United,2022-10-08,True,Sub,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.0,False,0.0,0.0,9.0,0.0,0,0,0,0,1.0,Bournemouth,False,Fulham,,1.37
+Jack Stacey,Bournemouth,Fulham,2022-10-15,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,0.5,0.0,6.33,0.0,0,0,0,0,0.0,Bournemouth,True,Southampton,,-0.38
+Jack Stacey,Bournemouth,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.67,0.0,4.75,0.0,0,0,0,0,0.0,Bournemouth,False,West Ham,,
+Jack Stacey,Bournemouth,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.5,0.0,3.8,0.0,0,0,0,0,0.0,Bournemouth,True,Tottenham,,1.07
+Jack Stacey,Bournemouth,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,3.17,0.0,0,0,0,0,1.0,Bournemouth,False,Leicester City,,
+Jack Stacey,Bournemouth,Leicester City,2022-11-05,False,Sub,17,0.0,0.05,0.0,0.0,1,1.0,0.0,0.8,0,0,1,0.0,False,0.4,0.0,5.14,0.0,0,0,0,0,0.0,Bournemouth,True,Everton,,0.34
+Jack Stacey,Bournemouth,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,4.5,0.0,0,0,0,0,0.0,Bournemouth,False,Chelsea,,-0.72
+Jack Stacey,Bournemouth,Chelsea,2022-12-27,False,DR,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,0,2,1.12,True,0.2,0.01,9.0,0.0,0,0,0,0,0.0,Bournemouth,True,Crystal Palace,,
+Jack Stacey,Bournemouth,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.01,8.1,0.0,0,0,0,0,0.0,Bournemouth,False,Manchester United,,
+Jack Stacey,Bournemouth,Manchester United,2023-01-03,False,Sub,27,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,0,0,1,0.97,False,0.2,0.01,9.82,0.0,0,0,0,0,-1.0,Bournemouth,False,Manchester City,,
+Jack Stacey,Bournemouth,Manchester City,2022-08-13,False,DML,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,1.1,0,0,4,0.0,False,0.2,0.01,16.5,0.0,0,0,0,0,1.0,Bournemouth,False,Brentford,,-0.55
+Jack Stacey,Bournemouth,Brentford,2023-01-14,False,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,2,1.47,True,-0.2,0.0,22.15,0.0,0,0,0,0,0.0,Bournemouth,True,Nottingham Forest,,
+Jack Stacey,Bournemouth,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,20.57,0.0,0,0,0,0,0.0,Bournemouth,False,Brighton,,-0.39
+Jack Stacey,Bournemouth,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,19.2,0.0,0,0,0,0,0.0,Bournemouth,True,Newcastle United,,
+Jack Stacey,Bournemouth,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,18.0,0.0,0,0,0,0,0.0,Bournemouth,False,Wolverhampton,,-0.46
+Jack Stacey,Bournemouth,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,16.94,0.0,0,0,0,0,0.0,Bournemouth,True,Manchester City,,
+Jack Stacey,Bournemouth,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,16.0,0.0,0,0,0,0,0.0,Bournemouth,False,Arsenal,,-0.0
+Jack Stacey,Bournemouth,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,15.16,0.0,0,0,0,0,0.0,Bournemouth,True,Liverpool,,-0.53
+Jack Stacey,Bournemouth,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,14.4,0.0,0,0,0,0,0.0,Bournemouth,False,Aston Villa,,
+Jack Stacey,Bournemouth,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,13.71,0.0,0,0,0,0,0.0,Bournemouth,True,Fulham,,-0.3
+Jack Stacey,Bournemouth,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,13.09,0.0,0,0,0,0,0.0,Bournemouth,True,Brighton,,-0.71
+Jack Stacey,Bournemouth,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,12.52,0.0,0,0,0,0,0.0,Bournemouth,True,Arsenal,2.53,0.36
+Jack Stacey,Bournemouth,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,12.0,0.0,0,0,0,0,0.0,Bournemouth,False,Leeds United,,
+Jack Stacey,Bournemouth,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,11.52,0.0,0,0,0,0,0.0,Bournemouth,False,Tottenham,,-0.03
+Jack Stacey,Bournemouth,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,11.08,0.0,0,0,0,0,0.0,Bournemouth,True,West Ham,,
+Jack Stacey,Bournemouth,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,10.67,0.0,0,0,0,0,0.0,Bournemouth,False,Southampton,,-1.07
+Jack Stacey,Bournemouth,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,10.29,0.0,0,0,0,0,1.0,Bournemouth,True,Leicester City,,
+Jack Stacey,Bournemouth,Leicester City,2023-04-30,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,9.97,0.0,0,0,0,0,0.0,Bournemouth,True,Chelsea,,-0.25
+Jack Stacey,Bournemouth,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,9.63,0.0,0,0,0,0,0.0,Bournemouth,False,Crystal Palace,,
+Jack Stacey,Bournemouth,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,9.32,0.0,0,0,0,0,0.0,Bournemouth,True,Manchester United,,
+Jack Stacey,Bournemouth,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,9.03,0.0,0,0,0,0,0.0,Bournemouth,False,Everton,,-0.63
+Jack Stacey,Bournemouth,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,8.76,0.0,0,0,0,0,0.0,Bournemouth,False,Liverpool,7.33,-1.33
+Jack Stacey,Bournemouth,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,8.5,0.0,0,0,0,0,0.0,Bournemouth,True,Wolverhampton,1.01,-0.48
+Jack Stacey,Bournemouth,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,8.26,0.0,0,0,0,0,1.0,Bournemouth,False,Nottingham Forest,-0.1,
+Jack Stacey,Bournemouth,Nottingham Forest,2022-09-03,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,8.06,0.0,0,0,0,0,1.0,Bournemouth,False,Newcastle United,-1.45,
+Jack Stacey,Bournemouth,Newcastle United,2022-09-17,False,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.0,False,0.2,0.0,7.92,0.0,0,0,0,0,0.0,Bournemouth,True,Brentford,0.49,0.69
+Jack Stacey,Bournemouth,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,7.71,0.0,0,0,0,0,,Chelsea,True,Liverpool,,-0.53

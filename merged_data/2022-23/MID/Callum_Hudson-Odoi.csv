@@ -1,39 +1,39 @@
-name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Callum Hudson-Odoi,Chelsea,Everton,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Wolverhampton,2.42
-Callum Hudson-Odoi,Chelsea,Wolverhampton,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Aston Villa,-1.51
-Callum Hudson-Odoi,Chelsea,Aston Villa,False,0,0,0.0,0,0,0,False,0,Chelsea,False,Brentford,-0.66
-Callum Hudson-Odoi,Chelsea,Brentford,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Manchester United,-0.06
-Callum Hudson-Odoi,Chelsea,Manchester United,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Brighton,0.05
-Callum Hudson-Odoi,Chelsea,Brighton,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Arsenal,5.81
-Callum Hudson-Odoi,Chelsea,Arsenal,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Newcastle United,-1.55
-Callum Hudson-Odoi,Chelsea,Newcastle United,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Bournemouth,
-Callum Hudson-Odoi,Chelsea,Bournemouth,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Nottingham Forest,
-Callum Hudson-Odoi,Chelsea,Nottingham Forest,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Manchester City,1.05
-Callum Hudson-Odoi,Chelsea,Manchester City,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Fulham,
-Callum Hudson-Odoi,Chelsea,Fulham,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Tottenham,-1.77
-Callum Hudson-Odoi,Chelsea,Tottenham,True,0,0,0.0,0,0,0,False,0,Chelsea,True,Crystal Palace,0.31
-Callum Hudson-Odoi,Chelsea,Crystal Palace,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Liverpool,0.32
-Callum Hudson-Odoi,Chelsea,Liverpool,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Fulham,
-Callum Hudson-Odoi,Chelsea,Fulham,True,0,0,0.0,0,0,0,False,0,Chelsea,False,West Ham,4.47
-Callum Hudson-Odoi,Chelsea,West Ham,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Southampton,-1.13
-Callum Hudson-Odoi,Chelsea,Southampton,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Tottenham,-1.69
-Callum Hudson-Odoi,Chelsea,Tottenham,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Leicester City,1.12
-Callum Hudson-Odoi,Chelsea,Leicester City,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Leeds United,-3.0
-Callum Hudson-Odoi,Chelsea,Leeds United,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Everton,1.01
-Callum Hudson-Odoi,Chelsea,Everton,True,0,0,0.0,0,0,0,False,0,Chelsea,True,Aston Villa,-2.49
-Callum Hudson-Odoi,Chelsea,Aston Villa,True,0,0,0.0,0,0,0,False,0,Chelsea,True,Liverpool,
-Callum Hudson-Odoi,Chelsea,Liverpool,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Leicester City,5.06
-Callum Hudson-Odoi,Chelsea,Leicester City,False,0,0,0.0,0,0,0,False,0,Chelsea,False,Wolverhampton,0.77
-Callum Hudson-Odoi,Chelsea,Wolverhampton,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Brighton,
-Callum Hudson-Odoi,Chelsea,Brighton,True,0,0,0.0,0,0,0,False,0,Chelsea,True,Brentford,
-Callum Hudson-Odoi,Chelsea,Brentford,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Arsenal,-1.77
-Callum Hudson-Odoi,Chelsea,Arsenal,False,0,0,0.0,0,0,0,False,0,Chelsea,False,Bournemouth,
-Callum Hudson-Odoi,Chelsea,Bournemouth,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Nottingham Forest,
-Callum Hudson-Odoi,Chelsea,Nottingham Forest,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Manchester City,
-Callum Hudson-Odoi,Chelsea,Manchester City,False,0,0,0.0,0,0,0,False,0,Chelsea,False,Manchester United,
-Callum Hudson-Odoi,Chelsea,Manchester United,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Newcastle United,
-Callum Hudson-Odoi,Chelsea,Newcastle United,True,0,0,0.0,0,0,0,False,0,Chelsea,True,Leeds United,-3.8
-Callum Hudson-Odoi,Chelsea,Leeds United,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Southampton,0.63
-Callum Hudson-Odoi,Chelsea,Southampton,False,0,0,0.0,0,0,0,False,0,Chelsea,True,West Ham,-1.25
-Callum Hudson-Odoi,Chelsea,West Ham,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Crystal Palace,-1.84
-Callum Hudson-Odoi,Chelsea,Crystal Palace,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Liverpool,
+name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Callum Hudson-Odoi,Chelsea,Everton,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Wolverhampton,2.42,-0.48
+Callum Hudson-Odoi,Chelsea,Wolverhampton,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Aston Villa,-1.51,
+Callum Hudson-Odoi,Chelsea,Aston Villa,False,0,0,0.0,0,0,0,False,0,Chelsea,False,Brentford,-0.66,-0.55
+Callum Hudson-Odoi,Chelsea,Brentford,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Manchester United,-0.06,
+Callum Hudson-Odoi,Chelsea,Manchester United,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Brighton,0.05,-0.39
+Callum Hudson-Odoi,Chelsea,Brighton,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Arsenal,5.81,0.36
+Callum Hudson-Odoi,Chelsea,Arsenal,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Newcastle United,-1.55,
+Callum Hudson-Odoi,Chelsea,Newcastle United,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Bournemouth,,1.46
+Callum Hudson-Odoi,Chelsea,Bournemouth,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Nottingham Forest,,
+Callum Hudson-Odoi,Chelsea,Nottingham Forest,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Manchester City,1.05,
+Callum Hudson-Odoi,Chelsea,Manchester City,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Fulham,,1.37
+Callum Hudson-Odoi,Chelsea,Fulham,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Tottenham,-1.77,1.07
+Callum Hudson-Odoi,Chelsea,Tottenham,True,0,0,0.0,0,0,0,False,0,Chelsea,True,Crystal Palace,0.31,
+Callum Hudson-Odoi,Chelsea,Crystal Palace,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Liverpool,0.32,-1.33
+Callum Hudson-Odoi,Chelsea,Liverpool,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Fulham,,-0.3
+Callum Hudson-Odoi,Chelsea,Fulham,True,0,0,0.0,0,0,0,False,0,Chelsea,False,West Ham,4.47,
+Callum Hudson-Odoi,Chelsea,West Ham,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Southampton,-1.13,-0.38
+Callum Hudson-Odoi,Chelsea,Southampton,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Tottenham,-1.69,-0.03
+Callum Hudson-Odoi,Chelsea,Tottenham,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Leicester City,1.12,
+Callum Hudson-Odoi,Chelsea,Leicester City,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Leeds United,-3.0,
+Callum Hudson-Odoi,Chelsea,Leeds United,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Everton,1.01,0.34
+Callum Hudson-Odoi,Chelsea,Everton,True,0,0,0.0,0,0,0,False,0,Chelsea,True,Aston Villa,-2.49,
+Callum Hudson-Odoi,Chelsea,Aston Villa,True,0,0,0.0,0,0,0,False,0,Chelsea,True,Liverpool,,-0.53
+Callum Hudson-Odoi,Chelsea,Liverpool,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Leicester City,5.06,
+Callum Hudson-Odoi,Chelsea,Leicester City,False,0,0,0.0,0,0,0,False,0,Chelsea,False,Wolverhampton,0.77,-0.46
+Callum Hudson-Odoi,Chelsea,Wolverhampton,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Brighton,,-0.71
+Callum Hudson-Odoi,Chelsea,Brighton,True,0,0,0.0,0,0,0,False,0,Chelsea,True,Brentford,,0.69
+Callum Hudson-Odoi,Chelsea,Brentford,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Arsenal,-1.77,-0.0
+Callum Hudson-Odoi,Chelsea,Arsenal,False,0,0,0.0,0,0,0,False,0,Chelsea,False,Bournemouth,,0.19
+Callum Hudson-Odoi,Chelsea,Bournemouth,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Nottingham Forest,,
+Callum Hudson-Odoi,Chelsea,Nottingham Forest,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Manchester City,,
+Callum Hudson-Odoi,Chelsea,Manchester City,False,0,0,0.0,0,0,0,False,0,Chelsea,False,Manchester United,,
+Callum Hudson-Odoi,Chelsea,Manchester United,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Newcastle United,,
+Callum Hudson-Odoi,Chelsea,Newcastle United,True,0,0,0.0,0,0,0,False,0,Chelsea,True,Leeds United,-3.8,
+Callum Hudson-Odoi,Chelsea,Leeds United,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Southampton,0.63,-1.07
+Callum Hudson-Odoi,Chelsea,Southampton,False,0,0,0.0,0,0,0,False,0,Chelsea,True,West Ham,-1.25,
+Callum Hudson-Odoi,Chelsea,West Ham,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Crystal Palace,-1.84,
+Callum Hudson-Odoi,Chelsea,Crystal Palace,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Liverpool,,-0.53

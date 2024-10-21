@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Luke Thomas,Leicester,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Leicester,False,Bournemouth,
-Luke Thomas,Leicester,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Leicester,True,Crystal Palace,-0.43
-Luke Thomas,Leicester,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Leicester,True,Leicester City,2.25
-Luke Thomas,Leicester,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1,Leicester,False,Wolverhampton,3.01
-Luke Thomas,Leicester,Wolverhampton,2022-10-23,False,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,0.0,0.0,0.4,0.0,0,0,0,0,0,Leicester,True,Manchester City,2.25
-Luke Thomas,Leicester,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.33,0.0,0,0,0,0,0,Leicester,False,Everton,1.31
-Luke Thomas,Leicester,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.29,0.0,0,0,0,0,6,Leicester,False,West Ham,-0.48
-Luke Thomas,Leicester,West Ham,2022-11-12,False,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.2,0,1,0,1.4,True,0.2,0.0,11.5,1.0,0,0,0,0,1,Leicester,True,Newcastle United,2.07
-Luke Thomas,Leicester,Newcastle United,2022-12-26,True,DL,90,0.0,0.0,0.0,0.07,1,0.0,1.0,4.0,0,0,3,1.9,True,1.4,0.0,20.22,0.5,0,0,0,0,1,Leicester,False,Liverpool,-0.04
-Luke Thomas,Leicester,Liverpool,2022-12-30,False,DL,90,0.0,0.0,0.0,0.23,1,0.0,1.0,2.8,0,0,2,2.12,True,1.6,0.0,27.2,0.33,0,0,0,0,2,Leicester,True,Fulham,
-Luke Thomas,Leicester,Fulham,2023-01-03,True,DL,71,0.0,0.0,0.0,0.28,2,0.0,1.0,3.4,0,0,1,1.11,True,1.6,0.0,31.18,0.25,0,0,0,0,0,Leicester,False,Arsenal,-1.31
-Luke Thomas,Leicester,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.0,28.58,0.25,0,0,0,0,2,Leicester,False,Nottingham Forest,
-Luke Thomas,Leicester,Nottingham Forest,2023-01-14,False,DL,67,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,0,1,1.36,True,2.0,0.0,31.54,0.2,0,0,0,0,4,Leicester,True,Brighton,-0.74
-Luke Thomas,Leicester,Brighton,2023-01-21,True,DL,90,0.0,0.07,0.0,0.0,4,2.0,0.0,1.3,0,0,2,1.53,True,1.2,0.0,35.71,0.17,0,0,0,0,1,Leicester,False,Aston Villa,-0.96
-Luke Thomas,Leicester,Aston Villa,2023-02-04,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.23,False,1.8,0.01,33.93,0.17,0,0,0,0,0,Leicester,True,Tottenham,3.95
-Luke Thomas,Leicester,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.01,31.81,0.17,0,0,0,0,0,Leicester,False,Manchester United,0.11
-Luke Thomas,Leicester,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.01,29.94,0.17,0,0,0,0,0,Leicester,True,Arsenal,-1.32
-Luke Thomas,Leicester,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.01,28.28,0.17,0,0,0,0,0,Leicester,False,Southampton,-3.27
-Luke Thomas,Leicester,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.01,26.79,0.17,0,0,0,0,0,Leicester,True,Chelsea,-2.98
-Luke Thomas,Leicester,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,25.45,0.17,0,0,0,0,0,Leicester,False,Brentford,-4.9
-Luke Thomas,Leicester,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,24.24,0.17,0,0,0,0,1,Leicester,False,Crystal Palace,
-Luke Thomas,Leicester,Crystal Palace,2023-04-01,False,Sub,30,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,1,1.15,False,0.0,0.0,24.5,0.17,0,0,0,0,0,Leicester,True,Aston Villa,
-Luke Thomas,Leicester,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,23.43,0.17,0,0,0,0,0,Leicester,True,Southampton,
-Luke Thomas,Leicester,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,22.46,0.17,0,0,0,0,0,Leicester,True,Bournemouth,
-Luke Thomas,Leicester,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,21.56,0.17,0,0,0,0,1,Leicester,False,Manchester City,1.46
-Luke Thomas,Leicester,Manchester City,2023-04-15,False,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,0,0.15,False,0.2,0.0,22.46,0.17,0,0,0,0,0,Leicester,True,Wolverhampton,-1.75
-Luke Thomas,Leicester,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,21.63,0.17,0,0,0,0,0,Leicester,False,Leicester City,1.46
-Luke Thomas,Leicester,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,20.86,0.17,0,0,0,0,0,Leicester,True,Everton,4.46
-Luke Thomas,Leicester,Everton,2023-05-01,True,DL,87,0.0,0.02,0.0,0.02,0,1.0,1.0,3.7,0,0,2,3.3,True,0.2,0.0,23.14,0.14,0,0,0,0,1,Leicester,False,Fulham,
-Luke Thomas,Leicester,Fulham,2023-05-08,False,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,0,0.29,False,0.2,0.0,22.83,0.14,0,0,0,0,0,Leicester,True,Liverpool,-0.21
-Luke Thomas,Leicester,Liverpool,2023-05-15,True,Sub,23,0.0,0.0,0.0,0.0,0,0.0,0.0,0.8,0,0,1,0.87,False,0.4,0.0,22.84,0.14,0,0,0,0,6,Leicester,False,Newcastle United,1.84
-Luke Thomas,Leicester,Newcastle United,2023-05-22,False,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.3,0,1,0,2.05,True,0.2,0.0,24.94,0.25,0,0,0,0,2,Leicester,True,West Ham,-0.48
-Luke Thomas,Leicester,West Ham,2023-05-28,True,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0,0,1,1.34,True,1.4,0.0,26.91,0.22,0,0,0,0,0,Leicester,False,Chelsea,-5.34
-Luke Thomas,Leicester,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.0,26.12,0.22,0,0,0,0,2,Leicester,True,Manchester United,
-Luke Thomas,Leicester,Manchester United,2022-09-01,True,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.6,0,0,1,0.0,False,1.8,0.0,27.94,0.2,0,0,0,0,-3,Leicester,False,Brighton,-2.14
-Luke Thomas,Leicester,Brighton,2022-09-04,False,DL,90,0.0,0.0,0.0,0.0,-3,0.0,0.0,0.6,0,0,5,0.0,False,2.0,0.0,29.67,0.18,0,0,0,0,0,Leicester,False,Tottenham,3.38
-Luke Thomas,Leicester,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,28.86,0.18,0,0,0,0,0,Leicester,True,Nottingham Forest,
-Luke Thomas,Leicester,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,28.11,0.18,0,0,0,0,0,Sheffield Utd,False,Arsenal,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Luke Thomas,Leicester,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Leicester,False,Bournemouth,,0.19
+Luke Thomas,Leicester,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Leicester,True,Crystal Palace,-0.43,
+Luke Thomas,Leicester,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Leicester,True,Leicester City,2.25,
+Luke Thomas,Leicester,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1,Leicester,False,Wolverhampton,3.01,-0.46
+Luke Thomas,Leicester,Wolverhampton,2022-10-23,False,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,0.0,0.0,0.4,0.0,0,0,0,0,0,Leicester,True,Manchester City,2.25,
+Luke Thomas,Leicester,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.33,0.0,0,0,0,0,0,Leicester,False,Everton,1.31,-0.63
+Luke Thomas,Leicester,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,0.29,0.0,0,0,0,0,6,Leicester,False,West Ham,-0.48,
+Luke Thomas,Leicester,West Ham,2022-11-12,False,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.2,0,1,0,1.4,True,0.2,0.0,11.5,1.0,0,0,0,0,1,Leicester,True,Newcastle United,2.07,
+Luke Thomas,Leicester,Newcastle United,2022-12-26,True,DL,90,0.0,0.0,0.0,0.07,1,0.0,1.0,4.0,0,0,3,1.9,True,1.4,0.0,20.22,0.5,0,0,0,0,1,Leicester,False,Liverpool,-0.04,-1.33
+Luke Thomas,Leicester,Liverpool,2022-12-30,False,DL,90,0.0,0.0,0.0,0.23,1,0.0,1.0,2.8,0,0,2,2.12,True,1.6,0.0,27.2,0.33,0,0,0,0,2,Leicester,True,Fulham,,-0.3
+Luke Thomas,Leicester,Fulham,2023-01-03,True,DL,71,0.0,0.0,0.0,0.28,2,0.0,1.0,3.4,0,0,1,1.11,True,1.6,0.0,31.18,0.25,0,0,0,0,0,Leicester,False,Arsenal,-1.31,-0.0
+Luke Thomas,Leicester,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.0,28.58,0.25,0,0,0,0,2,Leicester,False,Nottingham Forest,,
+Luke Thomas,Leicester,Nottingham Forest,2023-01-14,False,DL,67,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,0,1,1.36,True,2.0,0.0,31.54,0.2,0,0,0,0,4,Leicester,True,Brighton,-0.74,-0.71
+Luke Thomas,Leicester,Brighton,2023-01-21,True,DL,90,0.0,0.07,0.0,0.0,4,2.0,0.0,1.3,0,0,2,1.53,True,1.2,0.0,35.71,0.17,0,0,0,0,1,Leicester,False,Aston Villa,-0.96,
+Luke Thomas,Leicester,Aston Villa,2023-02-04,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.23,False,1.8,0.01,33.93,0.17,0,0,0,0,0,Leicester,True,Tottenham,3.95,1.07
+Luke Thomas,Leicester,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.01,31.81,0.17,0,0,0,0,0,Leicester,False,Manchester United,0.11,
+Luke Thomas,Leicester,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.01,29.94,0.17,0,0,0,0,0,Leicester,True,Arsenal,-1.32,0.36
+Luke Thomas,Leicester,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.01,28.28,0.17,0,0,0,0,0,Leicester,False,Southampton,-3.27,-1.07
+Luke Thomas,Leicester,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.01,26.79,0.17,0,0,0,0,0,Leicester,True,Chelsea,-2.98,-0.25
+Luke Thomas,Leicester,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,25.45,0.17,0,0,0,0,0,Leicester,False,Brentford,-4.9,-0.55
+Luke Thomas,Leicester,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,24.24,0.17,0,0,0,0,1,Leicester,False,Crystal Palace,,
+Luke Thomas,Leicester,Crystal Palace,2023-04-01,False,Sub,30,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,1,1.15,False,0.0,0.0,24.5,0.17,0,0,0,0,0,Leicester,True,Aston Villa,,
+Luke Thomas,Leicester,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,23.43,0.17,0,0,0,0,0,Leicester,True,Southampton,,-0.38
+Luke Thomas,Leicester,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,22.46,0.17,0,0,0,0,0,Leicester,True,Bournemouth,,1.46
+Luke Thomas,Leicester,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,21.56,0.17,0,0,0,0,1,Leicester,False,Manchester City,1.46,
+Luke Thomas,Leicester,Manchester City,2023-04-15,False,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,0,0.15,False,0.2,0.0,22.46,0.17,0,0,0,0,0,Leicester,True,Wolverhampton,-1.75,-0.48
+Luke Thomas,Leicester,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,21.63,0.17,0,0,0,0,0,Leicester,False,Leicester City,1.46,
+Luke Thomas,Leicester,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,20.86,0.17,0,0,0,0,0,Leicester,True,Everton,4.46,0.34
+Luke Thomas,Leicester,Everton,2023-05-01,True,DL,87,0.0,0.02,0.0,0.02,0,1.0,1.0,3.7,0,0,2,3.3,True,0.2,0.0,23.14,0.14,0,0,0,0,1,Leicester,False,Fulham,,1.37
+Luke Thomas,Leicester,Fulham,2023-05-08,False,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,0,0.29,False,0.2,0.0,22.83,0.14,0,0,0,0,0,Leicester,True,Liverpool,-0.21,-0.53
+Luke Thomas,Leicester,Liverpool,2023-05-15,True,Sub,23,0.0,0.0,0.0,0.0,0,0.0,0.0,0.8,0,0,1,0.87,False,0.4,0.0,22.84,0.14,0,0,0,0,6,Leicester,False,Newcastle United,1.84,
+Luke Thomas,Leicester,Newcastle United,2023-05-22,False,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.3,0,1,0,2.05,True,0.2,0.0,24.94,0.25,0,0,0,0,2,Leicester,True,West Ham,-0.48,
+Luke Thomas,Leicester,West Ham,2023-05-28,True,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0,0,1,1.34,True,1.4,0.0,26.91,0.22,0,0,0,0,0,Leicester,False,Chelsea,-5.34,-0.72
+Luke Thomas,Leicester,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.0,26.12,0.22,0,0,0,0,2,Leicester,True,Manchester United,,
+Luke Thomas,Leicester,Manchester United,2022-09-01,True,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.6,0,0,1,0.0,False,1.8,0.0,27.94,0.2,0,0,0,0,-3,Leicester,False,Brighton,-2.14,-0.39
+Luke Thomas,Leicester,Brighton,2022-09-04,False,DL,90,0.0,0.0,0.0,0.0,-3,0.0,0.0,0.6,0,0,5,0.0,False,2.0,0.0,29.67,0.18,0,0,0,0,0,Leicester,False,Tottenham,3.38,-0.03
+Luke Thomas,Leicester,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,28.86,0.18,0,0,0,0,0,Leicester,True,Nottingham Forest,,
+Luke Thomas,Leicester,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,28.11,0.18,0,0,0,0,0,Sheffield Utd,False,Arsenal,,-0.0

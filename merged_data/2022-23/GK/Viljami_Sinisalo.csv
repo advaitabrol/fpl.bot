@@ -1,20 +1,20 @@
-name,team,opponent_team,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,starts,form,clean_sheet_probability,saves_per_game,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,last_season_total_saves,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Viljami Sinisalo,Aston Villa,Southampton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Leeds United,-3.62
-Viljami Sinisalo,Aston Villa,Leeds United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Manchester City,0.58
-Viljami Sinisalo,Aston Villa,Manchester City,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Arsenal,0.71
-Viljami Sinisalo,Aston Villa,Arsenal,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Everton,-0.42
-Viljami Sinisalo,Aston Villa,Everton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Crystal Palace,-0.13
-Viljami Sinisalo,Aston Villa,Crystal Palace,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,West Ham,1.86
-Viljami Sinisalo,Aston Villa,West Ham,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Bournemouth,
-Viljami Sinisalo,Aston Villa,Bournemouth,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Chelsea,4.06
-Viljami Sinisalo,Aston Villa,Chelsea,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Leeds United,-2.15
-Viljami Sinisalo,Aston Villa,Leeds United,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Nottingham Forest,
-Viljami Sinisalo,Aston Villa,Nottingham Forest,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Newcastle United,-3.47
-Viljami Sinisalo,Aston Villa,Newcastle United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Brentford,0.38
-Viljami Sinisalo,Aston Villa,Brentford,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Fulham,
-Viljami Sinisalo,Aston Villa,Fulham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Manchester United,-1.29
-Viljami Sinisalo,Aston Villa,Manchester United,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Wolverhampton,1.31
-Viljami Sinisalo,Aston Villa,Wolverhampton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Tottenham,5.76
-Viljami Sinisalo,Aston Villa,Tottenham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Liverpool,0.83
-Viljami Sinisalo,Aston Villa,Liverpool,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Brighton,-3.72
-Viljami Sinisalo,Aston Villa,Brighton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,,Nott'm Forest,False,Bournemouth,
+name,team,opponent_team,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,starts,form,clean_sheet_probability,saves_per_game,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,last_season_total_saves,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Viljami Sinisalo,Aston Villa,Southampton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Leeds United,-3.62,
+Viljami Sinisalo,Aston Villa,Leeds United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Manchester City,0.58,
+Viljami Sinisalo,Aston Villa,Manchester City,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Arsenal,0.71,0.36
+Viljami Sinisalo,Aston Villa,Arsenal,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Everton,-0.42,-0.63
+Viljami Sinisalo,Aston Villa,Everton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Crystal Palace,-0.13,
+Viljami Sinisalo,Aston Villa,Crystal Palace,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,West Ham,1.86,
+Viljami Sinisalo,Aston Villa,West Ham,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Bournemouth,,1.46
+Viljami Sinisalo,Aston Villa,Bournemouth,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Chelsea,4.06,-0.72
+Viljami Sinisalo,Aston Villa,Chelsea,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Leeds United,-2.15,
+Viljami Sinisalo,Aston Villa,Leeds United,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Nottingham Forest,,
+Viljami Sinisalo,Aston Villa,Nottingham Forest,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Newcastle United,-3.47,
+Viljami Sinisalo,Aston Villa,Newcastle United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Brentford,0.38,-0.55
+Viljami Sinisalo,Aston Villa,Brentford,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Fulham,,-0.3
+Viljami Sinisalo,Aston Villa,Fulham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Manchester United,-1.29,
+Viljami Sinisalo,Aston Villa,Manchester United,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Wolverhampton,1.31,-0.46
+Viljami Sinisalo,Aston Villa,Wolverhampton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Tottenham,5.76,1.07
+Viljami Sinisalo,Aston Villa,Tottenham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,False,Liverpool,0.83,-1.33
+Viljami Sinisalo,Aston Villa,Liverpool,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Aston Villa,True,Brighton,-3.72,-0.71
+Viljami Sinisalo,Aston Villa,Brighton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,,Nott'm Forest,False,Bournemouth,,0.19

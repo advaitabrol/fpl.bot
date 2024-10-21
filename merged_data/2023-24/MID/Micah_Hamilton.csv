@@ -1,22 +1,22 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Micah Hamilton,Man City,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,True,Sheffield,
-Micah Hamilton,Man City,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,False,Newcastle United,-2.55
-Micah Hamilton,Man City,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,True,Burnley,-1.82
-Micah Hamilton,Man City,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,False,Brentford,-0.65
-Micah Hamilton,Man City,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,True,Everton,-0.65
-Micah Hamilton,Man City,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,True,Chelsea,-0.88
-Micah Hamilton,Man City,Chelsea,2024-02-17,True,FW,0,0.0,0.04,0.0,0.0,0,1.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,True,Brentford,1.93
-Micah Hamilton,Man City,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Man City,False,Bournemouth,-1.59
-Micah Hamilton,Man City,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Man City,True,Manchester United,-1.84
-Micah Hamilton,Man City,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Man City,False,Liverpool,1.42
-Micah Hamilton,Man City,Liverpool,2024-03-10,False,Sub,0,0.0,0.27,0.0,0.04,0,4.0,1.0,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Man City,True,Arsenal,-3.84
-Micah Hamilton,Man City,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.06,0.0,0,0,0,0,0,0.0,Man City,True,Aston Villa,-1.19
-Micah Hamilton,Man City,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.05,0.0,0,0,0,0,0,0.0,Man City,False,Crystal Palace,-1.04
-Micah Hamilton,Man City,Crystal Palace,2024-04-06,False,Sub,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0,False,0.0,0.05,0.0,0,0,0,0,0,0.0,Man City,True,Luton,
-Micah Hamilton,Man City,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.06,0.0,0,0,0,0,0,0.0,Man City,False,Brighton,-2.33
-Micah Hamilton,Man City,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.06,0.0,0,0,0,0,0,0.0,Man City,False,Nottingham Forest,2.0
-Micah Hamilton,Man City,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,True,Wolverhampton,-2.88
-Micah Hamilton,Man City,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,False,Fulham,-0.69
-Micah Hamilton,Man City,Fulham,2024-05-11,False,FW,0,0.0,0.21,0.0,0.49,0,3.0,1.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,False,Tottenham,1.8
-Micah Hamilton,Man City,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.04,0.0,0,0,0,0,0,0.0,Man City,True,West Ham,-2.38
-Micah Hamilton,Man City,West Ham,2024-05-19,True,FW,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.04,0.0,0,0,0,0,0,,,,,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Micah Hamilton,Man City,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,True,Sheffield,,0.68
+Micah Hamilton,Man City,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,False,Newcastle United,-2.55,
+Micah Hamilton,Man City,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,True,Burnley,-1.82,0.39
+Micah Hamilton,Man City,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,False,Brentford,-0.65,-0.53
+Micah Hamilton,Man City,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,True,Everton,-0.65,0.53
+Micah Hamilton,Man City,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,True,Chelsea,-0.88,-0.25
+Micah Hamilton,Man City,Chelsea,2024-02-17,True,FW,0,0.0,0.04,0.0,0.0,0,1.0,0.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,True,Brentford,1.93,0.79
+Micah Hamilton,Man City,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Man City,False,Bournemouth,-1.59,0.19
+Micah Hamilton,Man City,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Man City,True,Manchester United,-1.84,
+Micah Hamilton,Man City,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Man City,False,Liverpool,1.42,-1.01
+Micah Hamilton,Man City,Liverpool,2024-03-10,False,Sub,0,0.0,0.27,0.0,0.04,0,4.0,1.0,0.0,0,0,0,False,0.0,0.01,0.0,0,0,0,0,0,0.0,Man City,True,Arsenal,-3.84,-0.11
+Micah Hamilton,Man City,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.06,0.0,0,0,0,0,0,0.0,Man City,True,Aston Villa,-1.19,
+Micah Hamilton,Man City,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.05,0.0,0,0,0,0,0,0.0,Man City,False,Crystal Palace,-1.04,
+Micah Hamilton,Man City,Crystal Palace,2024-04-06,False,Sub,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0,False,0.0,0.05,0.0,0,0,0,0,0,0.0,Man City,True,Luton,,
+Micah Hamilton,Man City,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.06,0.0,0,0,0,0,0,0.0,Man City,False,Brighton,-2.33,-0.6
+Micah Hamilton,Man City,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.06,0.0,0,0,0,0,0,0.0,Man City,False,Nottingham Forest,2.0,
+Micah Hamilton,Man City,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,True,Wolverhampton,-2.88,0.05
+Micah Hamilton,Man City,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,False,Fulham,-0.69,0.86
+Micah Hamilton,Man City,Fulham,2024-05-11,False,FW,0,0.0,0.21,0.0,0.49,0,3.0,1.0,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,False,Tottenham,1.8,-0.36
+Micah Hamilton,Man City,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.04,0.0,0,0,0,0,0,0.0,Man City,True,West Ham,-2.38,
+Micah Hamilton,Man City,West Ham,2024-05-19,True,FW,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,False,0.0,0.04,0.0,0,0,0,0,0,,,,,,

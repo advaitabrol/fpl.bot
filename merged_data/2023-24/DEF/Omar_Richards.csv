@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Omar Richards,Nott'm Forest,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Liverpool,1.21
-Omar Richards,Nott'm Forest,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Aston Villa,-1.24
-Omar Richards,Nott'm Forest,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,West Ham,5.53
-Omar Richards,Nott'm Forest,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Brighton,-4.68
-Omar Richards,Nott'm Forest,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Everton,0.17
-Omar Richards,Nott'm Forest,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Fulham,3.69
-Omar Richards,Nott'm Forest,Fulham,2023-12-06,False,DMC,0,0.0,0.0,0.0,0.06,0,0.0,1.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Wolverhampton,1.27
-Omar Richards,Nott'm Forest,Wolverhampton,2023-12-09,False,MC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Tottenham,5.64
-Omar Richards,Nott'm Forest,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Bournemouth,0.55
-Omar Richards,Nott'm Forest,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Newcastle United,1.35
-Omar Richards,Nott'm Forest,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Sheffield,
-Omar Richards,Nott'm Forest,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Manchester United,2.69
-Omar Richards,Nott'm Forest,Manchester United,2023-12-30,True,MC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Brentford,1.0
-Omar Richards,Nott'm Forest,Brentford,2024-01-20,False,DC,0,0.0,0.03,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Arsenal,-2.77
-Omar Richards,Nott'm Forest,Arsenal,2024-01-30,True,DR,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Bournemouth,1.05
-Omar Richards,Nott'm Forest,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Newcastle United,1.26
-Omar Richards,Nott'm Forest,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,West Ham,-1.34
-Omar Richards,Nott'm Forest,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Aston Villa,2.3
-Omar Richards,Nott'm Forest,Aston Villa,2024-02-24,False,DC,0,1.0,0.21,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Liverpool,-3.15
-Omar Richards,Nott'm Forest,Liverpool,2024-03-02,True,DC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.04,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Brighton,0.45
-Omar Richards,Nott'm Forest,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.04,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Luton,
-Omar Richards,Nott'm Forest,Luton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.04,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Manchester United,1.16
-Omar Richards,Nott'm Forest,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.04,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Crystal Palace,-1.59
-Omar Richards,Nott'm Forest,Crystal Palace,2024-03-30,True,DC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.04,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Fulham,0.28
-Omar Richards,Nott'm Forest,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Tottenham,
-Omar Richards,Nott'm Forest,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Wolverhampton,
-Omar Richards,Nott'm Forest,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Everton,0.64
-Omar Richards,Nott'm Forest,Everton,2024-04-21,False,DC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Manchester City,
-Omar Richards,Nott'm Forest,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Sheffield,
-Omar Richards,Nott'm Forest,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Chelsea,0.67
-Omar Richards,Nott'm Forest,Chelsea,2024-05-11,True,DC,0,0.0,0.04,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Burnley,
-Omar Richards,Nott'm Forest,Burnley,2024-05-19,False,DC,0,0.0,0.0,0.0,0.06,0,0.0,1.0,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Chelsea,-1.91
-Omar Richards,Nott'm Forest,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Burnley,1.01
-Omar Richards,Nott'm Forest,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Manchester City,4.87
-Omar Richards,Nott'm Forest,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Brentford,0.39
-Omar Richards,Nott'm Forest,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Crystal Palace,2.44
-Omar Richards,Nott'm Forest,Crystal Palace,2023-10-07,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Luton,-1.73
-Omar Richards,Nott'm Forest,Luton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,,,,,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Omar Richards,Nott'm Forest,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Liverpool,1.21,-1.01
+Omar Richards,Nott'm Forest,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Aston Villa,-1.24,
+Omar Richards,Nott'm Forest,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,West Ham,5.53,
+Omar Richards,Nott'm Forest,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Brighton,-4.68,-0.66
+Omar Richards,Nott'm Forest,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Everton,0.17,0.53
+Omar Richards,Nott'm Forest,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Fulham,3.69,0.86
+Omar Richards,Nott'm Forest,Fulham,2023-12-06,False,DMC,0,0.0,0.0,0.0,0.06,0,0.0,1.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Wolverhampton,1.27,-0.52
+Omar Richards,Nott'm Forest,Wolverhampton,2023-12-09,False,MC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Tottenham,5.64,0.69
+Omar Richards,Nott'm Forest,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Bournemouth,0.55,1.22
+Omar Richards,Nott'm Forest,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Newcastle United,1.35,
+Omar Richards,Nott'm Forest,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Sheffield,,0.68
+Omar Richards,Nott'm Forest,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Manchester United,2.69,
+Omar Richards,Nott'm Forest,Manchester United,2023-12-30,True,MC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Brentford,1.0,-0.53
+Omar Richards,Nott'm Forest,Brentford,2024-01-20,False,DC,0,0.0,0.03,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Arsenal,-2.77,-0.11
+Omar Richards,Nott'm Forest,Arsenal,2024-01-30,True,DR,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Bournemouth,1.05,0.19
+Omar Richards,Nott'm Forest,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Newcastle United,1.26,
+Omar Richards,Nott'm Forest,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,West Ham,-1.34,
+Omar Richards,Nott'm Forest,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Aston Villa,2.3,
+Omar Richards,Nott'm Forest,Aston Villa,2024-02-24,False,DC,0,1.0,0.21,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Liverpool,-3.15,0.18
+Omar Richards,Nott'm Forest,Liverpool,2024-03-02,True,DC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.04,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Brighton,0.45,-0.6
+Omar Richards,Nott'm Forest,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.04,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Luton,,
+Omar Richards,Nott'm Forest,Luton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.04,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Manchester United,1.16,
+Omar Richards,Nott'm Forest,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.04,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Crystal Palace,-1.59,
+Omar Richards,Nott'm Forest,Crystal Palace,2024-03-30,True,DC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.04,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Fulham,0.28,-0.13
+Omar Richards,Nott'm Forest,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Tottenham,,-0.36
+Omar Richards,Nott'm Forest,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Wolverhampton,,0.05
+Omar Richards,Nott'm Forest,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Everton,0.64,-0.24
+Omar Richards,Nott'm Forest,Everton,2024-04-21,False,DC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Manchester City,,
+Omar Richards,Nott'm Forest,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Sheffield,,-0.61
+Omar Richards,Nott'm Forest,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Chelsea,0.67,-0.25
+Omar Richards,Nott'm Forest,Chelsea,2024-05-11,True,DC,0,0.0,0.04,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Burnley,,0.0
+Omar Richards,Nott'm Forest,Burnley,2024-05-19,False,DC,0,0.0,0.0,0.0,0.06,0,0.0,1.0,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Chelsea,-1.91,-0.85
+Omar Richards,Nott'm Forest,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Burnley,1.01,0.39
+Omar Richards,Nott'm Forest,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Manchester City,4.87,
+Omar Richards,Nott'm Forest,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Brentford,0.39,0.79
+Omar Richards,Nott'm Forest,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,False,Crystal Palace,2.44,
+Omar Richards,Nott'm Forest,Crystal Palace,2023-10-07,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,0.0,Nott'm Forest,True,Luton,-1.73,
+Omar Richards,Nott'm Forest,Luton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0,,,,,,

@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,saves_per_game,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,last_season_total_saves,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Hugo Lloris,Spurs,Southampton,2022-08-06,True,90,1,0.0,1,0,2,0,False,0.0,False,0.0,0.0,1.0,0,0,0,0,10,Spurs,False,Brighton,-2.68
-Hugo Lloris,Spurs,Brighton,2022-10-08,False,90,0,0.0,4,0,10,3,True,0.0,False,2.0,0.5,2.5,0,0,0,0,6,Spurs,True,Everton,-5.21
-Hugo Lloris,Spurs,Everton,2022-10-15,True,90,0,0.0,0,0,6,0,True,0.0,False,6.0,0.67,1.67,0,0,0,0,3,Spurs,False,Manchester United,4.8
-Hugo Lloris,Spurs,Manchester United,2022-10-19,False,90,2,0.0,8,0,3,0,False,0.0,False,6.0,0.5,3.25,0,0,0,0,2,Spurs,True,Newcastle United,-3.79
-Hugo Lloris,Spurs,Newcastle United,2022-10-23,True,90,2,0.0,3,0,2,0,False,0.0,False,5.25,0.4,3.2,0,0,0,0,1,Spurs,False,Bournemouth,
-Hugo Lloris,Spurs,Bournemouth,2022-10-29,False,90,2,0.0,2,0,1,0,False,0.0,False,4.6,0.33,3.0,0,0,0,0,2,Spurs,True,Liverpool,0.32
-Hugo Lloris,Spurs,Liverpool,2022-11-06,True,90,2,0.0,4,0,2,0,False,0.0,False,4.4,0.29,3.14,0,0,0,0,1,Spurs,True,Leicester City,-0.2
-Hugo Lloris,Spurs,Leicester City,2022-11-12,True,90,3,1.21,2,0,1,0,False,0.0,True,2.8,0.25,3.0,0,0,0,0,0,Spurs,False,Brentford,1.4
-Hugo Lloris,Spurs,Brentford,,False,0,0,0.0,0,0,0,0,False,,False,1.8,0.25,2.67,0,0,0,0,1,Spurs,True,Aston Villa,-0.44
-Hugo Lloris,Spurs,Aston Villa,2023-01-01,True,90,2,1.0,2,0,1,0,False,0.0,True,1.2,0.22,2.6,0,0,0,0,7,Spurs,False,Crystal Palace,7.24
-Hugo Lloris,Spurs,Crystal Palace,2023-01-04,False,90,0,0.79,4,0,7,0,True,0.0,True,1.0,0.3,2.73,0,0,0,0,1,Spurs,False,Chelsea,3.74
-Hugo Lloris,Spurs,Chelsea,2022-08-14,False,90,2,0.0,1,0,1,0,False,0.0,False,2.2,0.27,2.58,0,0,0,0,0,Spurs,True,Arsenal,-2.81
-Hugo Lloris,Spurs,Arsenal,2023-01-15,True,90,2,1.66,4,0,0,0,False,0.0,True,2.0,0.25,2.69,0,0,0,0,0,Spurs,False,Manchester City,-2.29
-Hugo Lloris,Spurs,Manchester City,2023-01-19,False,90,4,2.45,2,0,0,0,False,0.0,True,1.8,0.23,2.64,0,0,0,0,9,Spurs,False,Fulham,
-Hugo Lloris,Spurs,Fulham,2023-01-23,False,90,0,1.18,5,0,9,2,True,0.0,True,1.8,0.29,2.8,0,0,0,0,10,Spurs,True,Manchester City,-0.19
-Hugo Lloris,Spurs,Manchester City,2023-02-05,True,90,0,0.97,5,0,10,3,True,0.0,True,3.4,0.33,2.94,0,0,0,0,0,Spurs,False,Leeds United,1.08
-Hugo Lloris,Spurs,Leeds United,,False,0,0,0.0,0,0,0,0,False,,False,4.0,0.33,2.76,0,0,0,0,0,Spurs,True,West Ham,-1.58
-Hugo Lloris,Spurs,West Ham,,True,0,0,0.0,0,0,0,0,False,,False,3.8,0.33,2.61,0,0,0,0,0,Spurs,True,Chelsea,5.76
-Hugo Lloris,Spurs,Chelsea,,True,0,0,0.0,0,0,0,0,False,,False,3.8,0.33,2.47,0,0,0,0,0,Spurs,False,Wolverhampton,-1.1
-Hugo Lloris,Spurs,Wolverhampton,,False,0,0,0.0,0,0,0,0,False,,False,3.8,0.33,2.35,0,0,0,0,0,Spurs,True,Nottingham Forest,
-Hugo Lloris,Spurs,Nottingham Forest,,True,0,0,0.0,0,0,0,0,False,,False,2.0,0.33,2.24,0,0,0,0,0,Spurs,False,Southampton,-0.01
-Hugo Lloris,Spurs,Southampton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.33,2.14,0,0,0,0,3,Spurs,False,Everton,-0.37
-Hugo Lloris,Spurs,Everton,2023-04-03,False,90,1,0.88,5,0,3,0,False,0.0,True,0.0,0.31,2.26,0,0,0,0,9,Spurs,True,Wolverhampton,-0.85
-Hugo Lloris,Spurs,Wolverhampton,2022-08-20,True,90,0,0.0,3,0,9,2,True,0.0,False,0.6,0.35,2.29,0,0,0,0,3,Spurs,True,Brighton,
-Hugo Lloris,Spurs,Brighton,2023-04-08,True,90,1,1.43,3,0,3,0,False,0.0,True,2.4,0.33,2.32,0,0,0,0,2,Spurs,True,Bournemouth,
-Hugo Lloris,Spurs,Bournemouth,2023-04-15,True,90,3,0.94,3,0,2,0,False,0.0,True,3.0,0.32,2.35,0,0,0,0,-1,Spurs,False,Newcastle United,0.79
-Hugo Lloris,Spurs,Newcastle United,2023-04-23,False,45,5,2.23,1,0,-1,0,False,0.0,True,3.4,0.32,2.3,0,0,0,0,0,Spurs,True,Manchester United,5.3
-Hugo Lloris,Spurs,Manchester United,,True,0,0,0.0,0,0,0,0,False,,False,3.2,0.32,2.21,0,0,0,0,0,Spurs,False,Liverpool,
-Hugo Lloris,Spurs,Liverpool,,False,0,0,0.0,0,0,0,0,False,,False,2.6,0.32,2.14,0,0,0,0,0,Spurs,True,Crystal Palace,-3.09
-Hugo Lloris,Spurs,Crystal Palace,,True,0,0,0.0,0,0,0,0,False,,False,0.8,0.32,2.07,0,0,0,0,0,Spurs,False,Aston Villa,
-Hugo Lloris,Spurs,Aston Villa,,False,0,0,0.0,0,0,0,0,False,,False,0.2,0.32,2.0,0,0,0,0,0,Spurs,True,Brentford,-3.15
-Hugo Lloris,Spurs,Brentford,,True,0,0,0.0,0,0,0,0,False,,False,-0.2,0.32,1.94,0,0,0,0,0,Spurs,False,Leicester City,
-Hugo Lloris,Spurs,Leicester City,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.32,1.88,0,0,0,0,6,Spurs,False,Nottingham Forest,-5.2
-Hugo Lloris,Spurs,Nottingham Forest,2022-08-28,False,90,0,0.0,1,0,6,0,True,0.0,False,0.0,0.35,1.85,0,0,0,0,5,Spurs,False,West Ham,2.68
-Hugo Lloris,Spurs,West Ham,2022-08-31,False,90,1,0.0,3,0,5,2,False,0.0,False,1.2,0.33,1.89,0,0,0,0,2,Spurs,True,Fulham,-1.52
-Hugo Lloris,Spurs,Fulham,2022-09-03,True,90,1,0.0,2,0,2,0,False,0.0,False,2.2,0.32,1.89,0,0,0,0,2,Spurs,True,Leeds United,-5.34
-Hugo Lloris,Spurs,Leeds United,2022-09-17,True,90,2,0.0,5,0,2,0,False,0.0,False,2.6,0.3,1.97,0,0,0,0,3,Spurs,False,Arsenal,2.45
-Hugo Lloris,Spurs,Arsenal,2022-10-01,False,90,3,0.0,6,0,3,0,False,0.0,False,3.0,0.29,2.08,0,0,0,0,0,Spurs,False,Brentford,0.99
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,saves_per_game,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,last_season_total_saves,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Hugo Lloris,Spurs,Southampton,2022-08-06,True,90,1,0.0,1,0,2,0,False,0.0,False,0.0,0.0,1.0,0,0,0,0,10,Spurs,False,Brighton,-2.68,-0.39
+Hugo Lloris,Spurs,Brighton,2022-10-08,False,90,0,0.0,4,0,10,3,True,0.0,False,2.0,0.5,2.5,0,0,0,0,6,Spurs,True,Everton,-5.21,0.34
+Hugo Lloris,Spurs,Everton,2022-10-15,True,90,0,0.0,0,0,6,0,True,0.0,False,6.0,0.67,1.67,0,0,0,0,3,Spurs,False,Manchester United,4.8,
+Hugo Lloris,Spurs,Manchester United,2022-10-19,False,90,2,0.0,8,0,3,0,False,0.0,False,6.0,0.5,3.25,0,0,0,0,2,Spurs,True,Newcastle United,-3.79,
+Hugo Lloris,Spurs,Newcastle United,2022-10-23,True,90,2,0.0,3,0,2,0,False,0.0,False,5.25,0.4,3.2,0,0,0,0,1,Spurs,False,Bournemouth,,0.19
+Hugo Lloris,Spurs,Bournemouth,2022-10-29,False,90,2,0.0,2,0,1,0,False,0.0,False,4.6,0.33,3.0,0,0,0,0,2,Spurs,True,Liverpool,0.32,-0.53
+Hugo Lloris,Spurs,Liverpool,2022-11-06,True,90,2,0.0,4,0,2,0,False,0.0,False,4.4,0.29,3.14,0,0,0,0,1,Spurs,True,Leicester City,-0.2,
+Hugo Lloris,Spurs,Leicester City,2022-11-12,True,90,3,1.21,2,0,1,0,False,0.0,True,2.8,0.25,3.0,0,0,0,0,0,Spurs,False,Brentford,1.4,-0.55
+Hugo Lloris,Spurs,Brentford,,False,0,0,0.0,0,0,0,0,False,,False,1.8,0.25,2.67,0,0,0,0,1,Spurs,True,Aston Villa,-0.44,
+Hugo Lloris,Spurs,Aston Villa,2023-01-01,True,90,2,1.0,2,0,1,0,False,0.0,True,1.2,0.22,2.6,0,0,0,0,7,Spurs,False,Crystal Palace,7.24,
+Hugo Lloris,Spurs,Crystal Palace,2023-01-04,False,90,0,0.79,4,0,7,0,True,0.0,True,1.0,0.3,2.73,0,0,0,0,1,Spurs,False,Chelsea,3.74,-0.72
+Hugo Lloris,Spurs,Chelsea,2022-08-14,False,90,2,0.0,1,0,1,0,False,0.0,False,2.2,0.27,2.58,0,0,0,0,0,Spurs,True,Arsenal,-2.81,0.36
+Hugo Lloris,Spurs,Arsenal,2023-01-15,True,90,2,1.66,4,0,0,0,False,0.0,True,2.0,0.25,2.69,0,0,0,0,0,Spurs,False,Manchester City,-2.29,
+Hugo Lloris,Spurs,Manchester City,2023-01-19,False,90,4,2.45,2,0,0,0,False,0.0,True,1.8,0.23,2.64,0,0,0,0,9,Spurs,False,Fulham,,1.37
+Hugo Lloris,Spurs,Fulham,2023-01-23,False,90,0,1.18,5,0,9,2,True,0.0,True,1.8,0.29,2.8,0,0,0,0,10,Spurs,True,Manchester City,-0.19,
+Hugo Lloris,Spurs,Manchester City,2023-02-05,True,90,0,0.97,5,0,10,3,True,0.0,True,3.4,0.33,2.94,0,0,0,0,0,Spurs,False,Leeds United,1.08,
+Hugo Lloris,Spurs,Leeds United,,False,0,0,0.0,0,0,0,0,False,,False,4.0,0.33,2.76,0,0,0,0,0,Spurs,True,West Ham,-1.58,
+Hugo Lloris,Spurs,West Ham,,True,0,0,0.0,0,0,0,0,False,,False,3.8,0.33,2.61,0,0,0,0,0,Spurs,True,Chelsea,5.76,-0.25
+Hugo Lloris,Spurs,Chelsea,,True,0,0,0.0,0,0,0,0,False,,False,3.8,0.33,2.47,0,0,0,0,0,Spurs,False,Wolverhampton,-1.1,-0.46
+Hugo Lloris,Spurs,Wolverhampton,,False,0,0,0.0,0,0,0,0,False,,False,3.8,0.33,2.35,0,0,0,0,0,Spurs,True,Nottingham Forest,,
+Hugo Lloris,Spurs,Nottingham Forest,,True,0,0,0.0,0,0,0,0,False,,False,2.0,0.33,2.24,0,0,0,0,0,Spurs,False,Southampton,-0.01,-1.07
+Hugo Lloris,Spurs,Southampton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.33,2.14,0,0,0,0,3,Spurs,False,Everton,-0.37,-0.63
+Hugo Lloris,Spurs,Everton,2023-04-03,False,90,1,0.88,5,0,3,0,False,0.0,True,0.0,0.31,2.26,0,0,0,0,9,Spurs,True,Wolverhampton,-0.85,-0.48
+Hugo Lloris,Spurs,Wolverhampton,2022-08-20,True,90,0,0.0,3,0,9,2,True,0.0,False,0.6,0.35,2.29,0,0,0,0,3,Spurs,True,Brighton,,-0.71
+Hugo Lloris,Spurs,Brighton,2023-04-08,True,90,1,1.43,3,0,3,0,False,0.0,True,2.4,0.33,2.32,0,0,0,0,2,Spurs,True,Bournemouth,,1.46
+Hugo Lloris,Spurs,Bournemouth,2023-04-15,True,90,3,0.94,3,0,2,0,False,0.0,True,3.0,0.32,2.35,0,0,0,0,-1,Spurs,False,Newcastle United,0.79,
+Hugo Lloris,Spurs,Newcastle United,2023-04-23,False,45,5,2.23,1,0,-1,0,False,0.0,True,3.4,0.32,2.3,0,0,0,0,0,Spurs,True,Manchester United,5.3,
+Hugo Lloris,Spurs,Manchester United,,True,0,0,0.0,0,0,0,0,False,,False,3.2,0.32,2.21,0,0,0,0,0,Spurs,False,Liverpool,,-1.33
+Hugo Lloris,Spurs,Liverpool,,False,0,0,0.0,0,0,0,0,False,,False,2.6,0.32,2.14,0,0,0,0,0,Spurs,True,Crystal Palace,-3.09,
+Hugo Lloris,Spurs,Crystal Palace,,True,0,0,0.0,0,0,0,0,False,,False,0.8,0.32,2.07,0,0,0,0,0,Spurs,False,Aston Villa,,
+Hugo Lloris,Spurs,Aston Villa,,False,0,0,0.0,0,0,0,0,False,,False,0.2,0.32,2.0,0,0,0,0,0,Spurs,True,Brentford,-3.15,0.69
+Hugo Lloris,Spurs,Brentford,,True,0,0,0.0,0,0,0,0,False,,False,-0.2,0.32,1.94,0,0,0,0,0,Spurs,False,Leicester City,,
+Hugo Lloris,Spurs,Leicester City,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.32,1.88,0,0,0,0,6,Spurs,False,Nottingham Forest,-5.2,
+Hugo Lloris,Spurs,Nottingham Forest,2022-08-28,False,90,0,0.0,1,0,6,0,True,0.0,False,0.0,0.35,1.85,0,0,0,0,5,Spurs,False,West Ham,2.68,
+Hugo Lloris,Spurs,West Ham,2022-08-31,False,90,1,0.0,3,0,5,2,False,0.0,False,1.2,0.33,1.89,0,0,0,0,2,Spurs,True,Fulham,-1.52,-0.3
+Hugo Lloris,Spurs,Fulham,2022-09-03,True,90,1,0.0,2,0,2,0,False,0.0,False,2.2,0.32,1.89,0,0,0,0,2,Spurs,True,Leeds United,-5.34,
+Hugo Lloris,Spurs,Leeds United,2022-09-17,True,90,2,0.0,5,0,2,0,False,0.0,False,2.6,0.3,1.97,0,0,0,0,3,Spurs,False,Arsenal,2.45,-0.0
+Hugo Lloris,Spurs,Arsenal,2022-10-01,False,90,3,0.0,6,0,3,0,False,0.0,False,3.0,0.29,2.08,0,0,0,0,0,Spurs,False,Brentford,0.99,-0.55

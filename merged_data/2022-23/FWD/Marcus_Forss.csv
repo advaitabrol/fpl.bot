@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Marcus Forss,Brentford,Leeds United,2022-08-07,False,FWL,0,0.0,0.4,0.0,0.02,0,3.0,1.0,0.0,0,False,0.0,0.0,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Newcastle United,0.38
-Marcus Forss,Brentford,Newcastle United,,False,,0,,,,,0,,,0.0,0,False,0.0,0.4,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Brighton,0.05
-Marcus Forss,Brentford,Brighton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.2,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Chelsea,1.02
-Marcus Forss,Brentford,Chelsea,2022-10-19,True,FW,0,0.0,0.71,0.0,0.0,0,4.0,0.0,0.0,0,False,0.0,0.13,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Aston Villa,0.66
-Marcus Forss,Brentford,Aston Villa,,False,,0,,,,,0,,,0.0,0,False,0.0,0.28,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Wolverhampton,1.93
-Marcus Forss,Brentford,Wolverhampton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.22,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Nottingham Forest,
-Marcus Forss,Brentford,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,False,0.0,0.14,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Manchester City,1.7
-Marcus Forss,Brentford,Manchester City,,False,,0,,,,,0,,,0.0,0,False,0.0,0.14,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Tottenham,-0.82
-Marcus Forss,Brentford,Tottenham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.14,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,West Ham,-2.82
-Marcus Forss,Brentford,West Ham,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Liverpool,-3.03
-Marcus Forss,Brentford,Liverpool,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Manchester United,2.88
-Marcus Forss,Brentford,Manchester United,2022-08-13,True,AML,0,0.0,0.09,0.0,0.13,0,2.0,2.0,0.0,0,False,0.0,0.0,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Bournemouth,
-Marcus Forss,Brentford,Bournemouth,2023-01-14,True,AML,0,1.0,1.46,0.0,0.09,0,3.0,1.0,0.0,0,False,0.0,0.02,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Leicester City,-0.7
-Marcus Forss,Brentford,Leicester City,2023-01-22,False,AML,0,1.0,0.09,0.0,0.0,0,2.0,0.0,0.0,0,False,0.0,0.31,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Southampton,-5.29
-Marcus Forss,Brentford,Southampton,2023-02-04,True,AML,0,1.0,0.92,0.0,0.0,0,7.0,0.0,0.0,0,False,0.0,0.33,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Arsenal,1.21
-Marcus Forss,Brentford,Arsenal,,False,,0,,,,,0,,,0.0,0,False,0.0,0.51,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Crystal Palace,-1.39
-Marcus Forss,Brentford,Crystal Palace,,True,,0,,,,,0,,,0.0,0,False,0.0,0.51,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Fulham,
-Marcus Forss,Brentford,Fulham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.49,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Everton,1.61
-Marcus Forss,Brentford,Everton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.2,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Southampton,4.95
-Marcus Forss,Brentford,Southampton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.18,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Leeds United,2.58
-Marcus Forss,Brentford,Leeds United,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Brighton,2.12
-Marcus Forss,Brentford,Brighton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Manchester United,
-Marcus Forss,Brentford,Manchester United,2023-04-05,False,FW,0,1.0,0.55,0.0,0.15,0,3.0,4.0,0.0,0,False,0.0,0.0,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Fulham,3.1
-Marcus Forss,Brentford,Fulham,,False,,0,,,,,0,,,0.0,0,False,0.0,0.11,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Newcastle United,
-Marcus Forss,Brentford,Newcastle United,2023-04-08,True,FW,0,0.0,1.56,1.0,0.48,0,7.0,1.0,0.0,0,False,0.0,0.11,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Wolverhampton,-3.56
-Marcus Forss,Brentford,Wolverhampton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.62,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Aston Villa,-0.66
-Marcus Forss,Brentford,Aston Villa,,True,,0,,,,,0,,,0.0,0,False,0.0,0.62,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Chelsea,
-Marcus Forss,Brentford,Chelsea,,False,,0,,,,,0,,,0.0,0,False,0.0,0.62,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Nottingham Forest,
-Marcus Forss,Brentford,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,False,0.0,0.51,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Liverpool,
-Marcus Forss,Brentford,Liverpool,,False,,0,,,,,0,,,0.0,0,False,0.0,0.51,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,West Ham,
-Marcus Forss,Brentford,West Ham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Tottenham,4.55
-Marcus Forss,Brentford,Tottenham,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Manchester City,0.85
-Marcus Forss,Brentford,Manchester City,2023-05-28,True,FW,0,0.0,0.84,0.0,0.0,0,6.0,0.0,0.0,0,False,0.0,0.0,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Everton,-0.64
-Marcus Forss,Brentford,Everton,2022-08-27,True,FW,0,0.0,0.07,0.0,0.0,0,1.0,0.0,0.0,0,False,0.0,0.17,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Crystal Palace,0.48
-Marcus Forss,Brentford,Crystal Palace,,False,,0,,,,,0,,,0.0,0,False,0.0,0.18,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Leicester City,-3.59
-Marcus Forss,Brentford,Leicester City,,True,,0,,,,,0,,,0.0,0,False,0.0,0.18,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Arsenal,-0.45
-Marcus Forss,Brentford,Arsenal,,True,,0,,,,,0,,,0.0,0,False,0.0,0.18,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Bournemouth,2.35
-Marcus Forss,Brentford,Bournemouth,,False,,0,,,,,0,,,0.0,0,False,0.0,0.18,0.0,0.0,1.0,0.3,0.42,0.05,,Chelsea,True,Liverpool,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Marcus Forss,Brentford,Leeds United,2022-08-07,False,FWL,0,0.0,0.4,0.0,0.02,0,3.0,1.0,0.0,0,False,0.0,0.0,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Newcastle United,0.38,
+Marcus Forss,Brentford,Newcastle United,,False,,0,,,,,0,,,0.0,0,False,0.0,0.4,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Brighton,0.05,-0.71
+Marcus Forss,Brentford,Brighton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.2,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Chelsea,1.02,-0.25
+Marcus Forss,Brentford,Chelsea,2022-10-19,True,FW,0,0.0,0.71,0.0,0.0,0,4.0,0.0,0.0,0,False,0.0,0.13,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Aston Villa,0.66,
+Marcus Forss,Brentford,Aston Villa,,False,,0,,,,,0,,,0.0,0,False,0.0,0.28,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Wolverhampton,1.93,-0.48
+Marcus Forss,Brentford,Wolverhampton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.22,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Nottingham Forest,,
+Marcus Forss,Brentford,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,False,0.0,0.14,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Manchester City,1.7,
+Marcus Forss,Brentford,Manchester City,,False,,0,,,,,0,,,0.0,0,False,0.0,0.14,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Tottenham,-0.82,1.07
+Marcus Forss,Brentford,Tottenham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.14,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,West Ham,-2.82,
+Marcus Forss,Brentford,West Ham,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Liverpool,-3.03,-0.53
+Marcus Forss,Brentford,Liverpool,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Manchester United,2.88,
+Marcus Forss,Brentford,Manchester United,2022-08-13,True,AML,0,0.0,0.09,0.0,0.13,0,2.0,2.0,0.0,0,False,0.0,0.0,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Bournemouth,,1.46
+Marcus Forss,Brentford,Bournemouth,2023-01-14,True,AML,0,1.0,1.46,0.0,0.09,0,3.0,1.0,0.0,0,False,0.0,0.02,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Leicester City,-0.7,
+Marcus Forss,Brentford,Leicester City,2023-01-22,False,AML,0,1.0,0.09,0.0,0.0,0,2.0,0.0,0.0,0,False,0.0,0.31,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Southampton,-5.29,-0.38
+Marcus Forss,Brentford,Southampton,2023-02-04,True,AML,0,1.0,0.92,0.0,0.0,0,7.0,0.0,0.0,0,False,0.0,0.33,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Arsenal,1.21,-0.0
+Marcus Forss,Brentford,Arsenal,,False,,0,,,,,0,,,0.0,0,False,0.0,0.51,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Crystal Palace,-1.39,
+Marcus Forss,Brentford,Crystal Palace,,True,,0,,,,,0,,,0.0,0,False,0.0,0.51,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Fulham,,-0.3
+Marcus Forss,Brentford,Fulham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.49,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Everton,1.61,-0.63
+Marcus Forss,Brentford,Everton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.2,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Southampton,4.95,-1.07
+Marcus Forss,Brentford,Southampton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.18,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Leeds United,2.58,
+Marcus Forss,Brentford,Leeds United,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Brighton,2.12,-0.39
+Marcus Forss,Brentford,Brighton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Manchester United,,
+Marcus Forss,Brentford,Manchester United,2023-04-05,False,FW,0,1.0,0.55,0.0,0.15,0,3.0,4.0,0.0,0,False,0.0,0.0,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Fulham,3.1,1.37
+Marcus Forss,Brentford,Fulham,,False,,0,,,,,0,,,0.0,0,False,0.0,0.11,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Newcastle United,,
+Marcus Forss,Brentford,Newcastle United,2023-04-08,True,FW,0,0.0,1.56,1.0,0.48,0,7.0,1.0,0.0,0,False,0.0,0.11,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Wolverhampton,-3.56,-0.46
+Marcus Forss,Brentford,Wolverhampton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.62,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Aston Villa,-0.66,
+Marcus Forss,Brentford,Aston Villa,,True,,0,,,,,0,,,0.0,0,False,0.0,0.62,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Chelsea,,-0.72
+Marcus Forss,Brentford,Chelsea,,False,,0,,,,,0,,,0.0,0,False,0.0,0.62,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Nottingham Forest,,
+Marcus Forss,Brentford,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,False,0.0,0.51,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Liverpool,,-1.33
+Marcus Forss,Brentford,Liverpool,,False,,0,,,,,0,,,0.0,0,False,0.0,0.51,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,West Ham,,
+Marcus Forss,Brentford,West Ham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Tottenham,4.55,-0.03
+Marcus Forss,Brentford,Tottenham,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Manchester City,0.85,
+Marcus Forss,Brentford,Manchester City,2023-05-28,True,FW,0,0.0,0.84,0.0,0.0,0,6.0,0.0,0.0,0,False,0.0,0.0,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Everton,-0.64,0.34
+Marcus Forss,Brentford,Everton,2022-08-27,True,FW,0,0.0,0.07,0.0,0.0,0,1.0,0.0,0.0,0,False,0.0,0.17,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Crystal Palace,0.48,
+Marcus Forss,Brentford,Crystal Palace,,False,,0,,,,,0,,,0.0,0,False,0.0,0.18,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Leicester City,-3.59,
+Marcus Forss,Brentford,Leicester City,,True,,0,,,,,0,,,0.0,0,False,0.0,0.18,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,True,Arsenal,-0.45,0.36
+Marcus Forss,Brentford,Arsenal,,True,,0,,,,,0,,,0.0,0,False,0.0,0.18,0.0,0.0,1.0,0.3,0.42,0.05,0.0,Brentford,False,Bournemouth,2.35,0.19
+Marcus Forss,Brentford,Bournemouth,,False,,0,,,,,0,,,0.0,0,False,0.0,0.18,0.0,0.0,1.0,0.3,0.42,0.05,,Chelsea,True,Liverpool,,-0.53

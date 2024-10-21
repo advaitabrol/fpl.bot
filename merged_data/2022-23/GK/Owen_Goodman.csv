@@ -1,30 +1,30 @@
-name,team,opponent_team,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,starts,form,clean_sheet_probability,saves_per_game,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,last_season_total_saves,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Owen Goodman,Crystal Palace,Wolverhampton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Everton,2.41
-Owen Goodman,Crystal Palace,Everton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Southampton,0.54
-Owen Goodman,Crystal Palace,Southampton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,West Ham,0.59
-Owen Goodman,Crystal Palace,West Ham,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Nottingham Forest,
-Owen Goodman,Crystal Palace,Nottingham Forest,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Fulham,
-Owen Goodman,Crystal Palace,Fulham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Bournemouth,
-Owen Goodman,Crystal Palace,Bournemouth,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Tottenham,-5.01
-Owen Goodman,Crystal Palace,Tottenham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Chelsea,2.77
-Owen Goodman,Crystal Palace,Chelsea,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Manchester United,-0.9
-Owen Goodman,Crystal Palace,Manchester United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Newcastle United,1.62
-Owen Goodman,Crystal Palace,Newcastle United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Manchester United,0.74
-Owen Goodman,Crystal Palace,Manchester United,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Brighton,-0.1
-Owen Goodman,Crystal Palace,Brighton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Brentford,1.96
-Owen Goodman,Crystal Palace,Brentford,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Liverpool,3.6
-Owen Goodman,Crystal Palace,Liverpool,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Aston Villa,0.99
-Owen Goodman,Crystal Palace,Aston Villa,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Manchester City,-0.0
-Owen Goodman,Crystal Palace,Manchester City,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Brighton,0.95
-Owen Goodman,Crystal Palace,Brighton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Arsenal,1.99
-Owen Goodman,Crystal Palace,Arsenal,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Leeds United,3.21
-Owen Goodman,Crystal Palace,Leeds United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Leicester City,2.85
-Owen Goodman,Crystal Palace,Leicester City,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Southampton,
-Owen Goodman,Crystal Palace,Southampton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Everton,-1.9
-Owen Goodman,Crystal Palace,Everton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Wolverhampton,
-Owen Goodman,Crystal Palace,Wolverhampton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,West Ham,
-Owen Goodman,Crystal Palace,West Ham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Tottenham,6.04
-Owen Goodman,Crystal Palace,Tottenham,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Bournemouth,
-Owen Goodman,Crystal Palace,Bournemouth,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Fulham,
-Owen Goodman,Crystal Palace,Fulham,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Nottingham Forest,
-Owen Goodman,Crystal Palace,Nottingham Forest,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,,Man City,False,Burnley,
+name,team,opponent_team,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,starts,form,clean_sheet_probability,saves_per_game,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,last_season_total_saves,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Owen Goodman,Crystal Palace,Wolverhampton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Everton,2.41,-0.63
+Owen Goodman,Crystal Palace,Everton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Southampton,0.54,-0.38
+Owen Goodman,Crystal Palace,Southampton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,West Ham,0.59,
+Owen Goodman,Crystal Palace,West Ham,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Nottingham Forest,,
+Owen Goodman,Crystal Palace,Nottingham Forest,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Fulham,,-0.3
+Owen Goodman,Crystal Palace,Fulham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Bournemouth,,0.19
+Owen Goodman,Crystal Palace,Bournemouth,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Tottenham,-5.01,1.07
+Owen Goodman,Crystal Palace,Tottenham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Chelsea,2.77,-0.72
+Owen Goodman,Crystal Palace,Chelsea,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Manchester United,-0.9,
+Owen Goodman,Crystal Palace,Manchester United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Newcastle United,1.62,
+Owen Goodman,Crystal Palace,Newcastle United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Manchester United,0.74,
+Owen Goodman,Crystal Palace,Manchester United,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Brighton,-0.1,-0.71
+Owen Goodman,Crystal Palace,Brighton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Brentford,1.96,-0.55
+Owen Goodman,Crystal Palace,Brentford,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Liverpool,3.6,-0.53
+Owen Goodman,Crystal Palace,Liverpool,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Aston Villa,0.99,
+Owen Goodman,Crystal Palace,Aston Villa,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Manchester City,-0.0,
+Owen Goodman,Crystal Palace,Manchester City,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Brighton,0.95,-0.39
+Owen Goodman,Crystal Palace,Brighton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Arsenal,1.99,-0.0
+Owen Goodman,Crystal Palace,Arsenal,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Leeds United,3.21,
+Owen Goodman,Crystal Palace,Leeds United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Leicester City,2.85,
+Owen Goodman,Crystal Palace,Leicester City,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Southampton,,-1.07
+Owen Goodman,Crystal Palace,Southampton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Everton,-1.9,0.34
+Owen Goodman,Crystal Palace,Everton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Wolverhampton,,-0.46
+Owen Goodman,Crystal Palace,Wolverhampton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,West Ham,,
+Owen Goodman,Crystal Palace,West Ham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Tottenham,6.04,-0.03
+Owen Goodman,Crystal Palace,Tottenham,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Bournemouth,,1.46
+Owen Goodman,Crystal Palace,Bournemouth,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,False,Fulham,,1.37
+Owen Goodman,Crystal Palace,Fulham,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Crystal Palace,True,Nottingham Forest,,
+Owen Goodman,Crystal Palace,Nottingham Forest,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,,Man City,False,Burnley,,0.0

@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Callum Wilson,Newcastle,Nottingham Forest,2022-08-06,True,FW,89,1.0,0.72,0.0,0.15,6,4.0,2.0,10.9,0,False,0.0,0.0,89.0,8.0,0.0,7.05,0.54,0.05,5,Newcastle,True,Brentford,-2.4
-Callum Wilson,Newcastle,Brentford,2022-10-08,True,FW,83,0.0,0.71,1.0,0.59,5,3.0,3.0,7.8,0,False,6.0,0.72,86.0,8.0,0.0,7.05,0.54,0.05,2,Newcastle,False,Manchester United,1.2
-Callum Wilson,Newcastle,Manchester United,2022-10-16,False,FW,77,0.0,0.17,0.0,0.0,2,2.0,0.0,1.7,0,False,5.5,1.21,83.0,8.0,0.0,7.05,0.54,0.05,2,Newcastle,True,Everton,-5.87
-Callum Wilson,Newcastle,Everton,2022-10-19,True,FW,86,0.0,0.16,0.0,0.06,2,2.0,1.0,6.2,0,False,4.33,0.87,83.75,8.0,0.0,7.05,0.54,0.05,5,Newcastle,False,Tottenham,4.75
-Callum Wilson,Newcastle,Tottenham,2022-10-23,False,FW,87,1.0,0.7,0.0,0.02,5,4.0,1.0,10.4,0,False,3.75,0.69,84.4,8.0,0.0,7.05,0.54,0.05,19,Newcastle,True,Aston Villa,-2.14
-Callum Wilson,Newcastle,Aston Villa,2022-10-29,True,FW,85,2.0,2.04,1.0,0.12,19,5.0,2.0,18.7,3,False,4.0,0.69,84.5,8.0,0.0,7.05,0.54,0.05,1,Newcastle,False,Southampton,-1.93
-Callum Wilson,Newcastle,Southampton,2022-11-06,False,FW,45,0.0,0.06,0.0,0.0,1,1.0,0.0,0.6,0,False,6.6,1.16,78.86,8.0,0.0,7.05,0.54,0.05,1,Newcastle,True,Chelsea,1.87
-Callum Wilson,Newcastle,Chelsea,2022-11-12,True,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,5.8,0.83,70.75,8.0,0.0,7.05,0.54,0.05,0,Newcastle,False,Leeds United,6.23
-Callum Wilson,Newcastle,Leeds United,,False,,0,,,,,0,,,0.0,0,False,5.6,0.79,62.89,8.0,0.0,7.05,0.54,0.05,0,Newcastle,True,Leicester City,-1.01
-Callum Wilson,Newcastle,Leicester City,2022-12-31,True,Sub,26,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,False,5.2,0.76,59.2,8.0,0.0,7.05,0.54,0.05,1,Newcastle,False,Arsenal,2.9
-Callum Wilson,Newcastle,Arsenal,2023-01-03,False,FW,67,0.0,0.17,0.0,0.0,1,2.0,0.0,1.5,0,True,4.2,0.62,59.91,8.0,0.0,7.05,0.54,0.05,2,Newcastle,False,Brighton,-0.9
-Callum Wilson,Newcastle,Brighton,2022-08-13,False,FW,86,0.0,0.0,0.0,0.04,2,0.0,1.0,1.8,0,False,0.6,0.05,62.08,8.0,0.0,7.05,0.54,0.05,5,Newcastle,True,Fulham,
-Callum Wilson,Newcastle,Fulham,2023-01-15,True,FW,90,0.0,0.65,1.0,0.68,5,7.0,1.0,12.2,0,True,0.8,0.03,64.23,8.0,0.0,7.05,0.54,0.05,2,Newcastle,False,Crystal Palace,-1.13
-Callum Wilson,Newcastle,Crystal Palace,2023-01-21,False,FW,68,0.0,0.34,0.0,0.0,2,2.0,0.0,3.6,0,True,1.6,0.36,64.5,8.0,0.0,7.05,0.54,0.05,7,Newcastle,True,West Ham,0.49
-Callum Wilson,Newcastle,West Ham,2023-02-04,True,FW,90,1.0,0.6,0.0,0.06,7,3.0,1.0,8.4,1,True,2.0,0.43,66.2,8.0,0.0,7.05,0.54,0.05,0,Newcastle,False,Bournemouth,
-Callum Wilson,Newcastle,Bournemouth,,False,,0,,,,,0,,,0.0,0,False,3.4,0.55,62.06,8.0,0.0,7.05,0.54,0.05,1,Newcastle,True,Liverpool,1.47
-Callum Wilson,Newcastle,Liverpool,2023-02-18,True,Sub,26,0.0,0.38,0.0,0.02,1,1.0,1.0,3.3,0,False,3.2,0.52,59.94,8.0,0.0,7.05,0.54,0.05,2,Newcastle,False,Manchester City,4.63
-Callum Wilson,Newcastle,Manchester City,2023-03-04,False,FW,61,0.0,0.1,0.0,0.1,2,1.0,1.0,1.8,0,True,3.0,0.59,60.0,8.0,0.0,7.05,0.54,0.05,1,Newcastle,True,Wolverhampton,-2.98
-Callum Wilson,Newcastle,Wolverhampton,2023-03-12,True,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,2.4,0.28,58.0,8.0,0.0,7.05,0.54,0.05,0,Newcastle,False,Nottingham Forest,
-Callum Wilson,Newcastle,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,False,2.2,0.22,55.1,8.0,0.0,7.05,0.54,0.05,6,Newcastle,True,Manchester United,-0.55
-Callum Wilson,Newcastle,Manchester United,2023-04-02,True,Sub,10,1.0,0.52,0.0,0.0,6,1.0,0.0,6.7,1,False,0.8,0.1,52.95,8.0,0.0,7.05,0.54,0.05,13,Newcastle,False,West Ham,
-Callum Wilson,Newcastle,West Ham,2023-04-05,False,FW,63,2.0,1.02,0.0,0.0,13,3.0,0.0,11.8,3,True,2.0,0.2,53.41,8.0,0.0,7.05,0.54,0.05,6,Newcastle,True,Manchester City,4.58
-Callum Wilson,Newcastle,Manchester City,2022-08-21,True,FW,69,1.0,0.95,0.0,0.0,6,4.0,0.0,11.1,0,False,4.4,0.33,54.09,8.0,0.0,7.05,0.54,0.05,4,Newcastle,False,Brentford,
-Callum Wilson,Newcastle,Brentford,2023-04-08,False,Sub,45,0.0,0.13,1.0,0.54,4,1.0,3.0,6.4,0,False,5.2,0.5,53.71,8.0,0.0,7.05,0.54,0.05,1,Newcastle,False,Aston Villa,3.3
-Callum Wilson,Newcastle,Aston Villa,2023-04-15,False,Sub,34,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,False,5.8,0.72,52.92,8.0,0.0,7.05,0.54,0.05,5,Newcastle,True,Tottenham,-0.29
-Callum Wilson,Newcastle,Tottenham,2023-04-23,True,Sub,24,1.0,0.54,0.0,0.08,5,1.0,1.0,6.9,0,False,6.0,0.72,51.81,8.0,0.0,7.05,0.54,0.05,13,Newcastle,False,Everton,
-Callum Wilson,Newcastle,Everton,2023-04-27,False,FW,86,2.0,0.74,0.0,0.0,13,4.0,0.0,0.0,3,True,5.8,0.73,53.07,8.0,0.0,7.05,0.54,0.05,12,Newcastle,True,Southampton,0.18
-Callum Wilson,Newcastle,Southampton,2023-04-30,True,Sub,45,2.0,2.34,0.0,0.0,12,6.0,0.0,16.0,3,False,5.8,0.67,52.79,8.0,0.0,7.05,0.54,0.05,2,Newcastle,True,Arsenal,
-Callum Wilson,Newcastle,Arsenal,2023-05-07,True,FW,77,0.0,0.0,0.0,0.06,2,0.0,1.0,1.5,0,True,7.0,0.95,53.62,8.0,0.0,7.05,0.54,0.05,12,Newcastle,False,Leicester City,
-Callum Wilson,Newcastle,Leicester City,2023-05-13,False,FW,72,2.0,1.77,0.0,0.03,12,5.0,1.0,14.7,3,True,6.6,0.72,54.23,8.0,0.0,7.05,0.54,0.05,12,Newcastle,True,Brighton,
-Callum Wilson,Newcastle,Brighton,2023-05-18,True,FW,90,1.0,1.41,1.0,0.9,12,4.0,3.0,14.4,3,True,8.8,1.08,55.39,8.0,0.0,7.05,0.54,0.05,2,Newcastle,True,Leeds United,
-Callum Wilson,Newcastle,Leeds United,2023-05-22,True,FW,67,0.0,0.93,0.0,0.12,2,4.0,1.0,2.6,0,True,10.2,1.45,55.75,8.0,0.0,7.05,0.54,0.05,1,Newcastle,False,Chelsea,
-Callum Wilson,Newcastle,Chelsea,2023-05-28,False,Sub,21,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,8.0,1.49,54.7,8.0,0.0,7.05,0.54,0.05,0,Newcastle,False,Wolverhampton,1.1
-Callum Wilson,Newcastle,Wolverhampton,,False,,0,,,,,0,,,0.0,0,False,5.8,1.02,53.09,8.0,0.0,7.05,0.54,0.05,0,Newcastle,False,Liverpool,0.9
-Callum Wilson,Newcastle,Liverpool,,False,,0,,,,,0,,,0.0,0,False,5.4,1.02,51.57,8.0,0.0,7.05,0.54,0.05,0,Newcastle,True,Crystal Palace,-0.56
-Callum Wilson,Newcastle,Crystal Palace,,True,,0,,,,,0,,,0.0,0,False,3.0,0.67,50.14,8.0,0.0,7.05,0.54,0.05,0,Newcastle,True,Bournemouth,2.6
-Callum Wilson,Newcastle,Bournemouth,,True,,0,,,,,0,,,0.0,0,False,0.6,0.19,48.78,8.0,0.0,7.05,0.54,0.05,6,Newcastle,False,Fulham,-1.62
-Callum Wilson,Newcastle,Fulham,2022-10-01,False,FW,65,1.0,1.72,0.0,0.0,6,3.0,0.0,7.6,0,False,0.2,0.0,49.21,8.0,0.0,7.05,0.54,0.05,5,Newcastle,True,Aston Villa,-4.4
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Callum Wilson,Newcastle,Nottingham Forest,2022-08-06,True,FW,89,1.0,0.72,0.0,0.15,6,4.0,2.0,10.9,0,False,0.0,0.0,89.0,8.0,0.0,7.05,0.54,0.05,5,Newcastle,True,Brentford,-2.4,0.69
+Callum Wilson,Newcastle,Brentford,2022-10-08,True,FW,83,0.0,0.71,1.0,0.59,5,3.0,3.0,7.8,0,False,6.0,0.72,86.0,8.0,0.0,7.05,0.54,0.05,2,Newcastle,False,Manchester United,1.2,
+Callum Wilson,Newcastle,Manchester United,2022-10-16,False,FW,77,0.0,0.17,0.0,0.0,2,2.0,0.0,1.7,0,False,5.5,1.21,83.0,8.0,0.0,7.05,0.54,0.05,2,Newcastle,True,Everton,-5.87,0.34
+Callum Wilson,Newcastle,Everton,2022-10-19,True,FW,86,0.0,0.16,0.0,0.06,2,2.0,1.0,6.2,0,False,4.33,0.87,83.75,8.0,0.0,7.05,0.54,0.05,5,Newcastle,False,Tottenham,4.75,-0.03
+Callum Wilson,Newcastle,Tottenham,2022-10-23,False,FW,87,1.0,0.7,0.0,0.02,5,4.0,1.0,10.4,0,False,3.75,0.69,84.4,8.0,0.0,7.05,0.54,0.05,19,Newcastle,True,Aston Villa,-2.14,
+Callum Wilson,Newcastle,Aston Villa,2022-10-29,True,FW,85,2.0,2.04,1.0,0.12,19,5.0,2.0,18.7,3,False,4.0,0.69,84.5,8.0,0.0,7.05,0.54,0.05,1,Newcastle,False,Southampton,-1.93,-1.07
+Callum Wilson,Newcastle,Southampton,2022-11-06,False,FW,45,0.0,0.06,0.0,0.0,1,1.0,0.0,0.6,0,False,6.6,1.16,78.86,8.0,0.0,7.05,0.54,0.05,1,Newcastle,True,Chelsea,1.87,-0.25
+Callum Wilson,Newcastle,Chelsea,2022-11-12,True,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,5.8,0.83,70.75,8.0,0.0,7.05,0.54,0.05,0,Newcastle,False,Leeds United,6.23,
+Callum Wilson,Newcastle,Leeds United,,False,,0,,,,,0,,,0.0,0,False,5.6,0.79,62.89,8.0,0.0,7.05,0.54,0.05,0,Newcastle,True,Leicester City,-1.01,
+Callum Wilson,Newcastle,Leicester City,2022-12-31,True,Sub,26,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,False,5.2,0.76,59.2,8.0,0.0,7.05,0.54,0.05,1,Newcastle,False,Arsenal,2.9,-0.0
+Callum Wilson,Newcastle,Arsenal,2023-01-03,False,FW,67,0.0,0.17,0.0,0.0,1,2.0,0.0,1.5,0,True,4.2,0.62,59.91,8.0,0.0,7.05,0.54,0.05,2,Newcastle,False,Brighton,-0.9,-0.39
+Callum Wilson,Newcastle,Brighton,2022-08-13,False,FW,86,0.0,0.0,0.0,0.04,2,0.0,1.0,1.8,0,False,0.6,0.05,62.08,8.0,0.0,7.05,0.54,0.05,5,Newcastle,True,Fulham,,-0.3
+Callum Wilson,Newcastle,Fulham,2023-01-15,True,FW,90,0.0,0.65,1.0,0.68,5,7.0,1.0,12.2,0,True,0.8,0.03,64.23,8.0,0.0,7.05,0.54,0.05,2,Newcastle,False,Crystal Palace,-1.13,
+Callum Wilson,Newcastle,Crystal Palace,2023-01-21,False,FW,68,0.0,0.34,0.0,0.0,2,2.0,0.0,3.6,0,True,1.6,0.36,64.5,8.0,0.0,7.05,0.54,0.05,7,Newcastle,True,West Ham,0.49,
+Callum Wilson,Newcastle,West Ham,2023-02-04,True,FW,90,1.0,0.6,0.0,0.06,7,3.0,1.0,8.4,1,True,2.0,0.43,66.2,8.0,0.0,7.05,0.54,0.05,0,Newcastle,False,Bournemouth,,0.19
+Callum Wilson,Newcastle,Bournemouth,,False,,0,,,,,0,,,0.0,0,False,3.4,0.55,62.06,8.0,0.0,7.05,0.54,0.05,1,Newcastle,True,Liverpool,1.47,-0.53
+Callum Wilson,Newcastle,Liverpool,2023-02-18,True,Sub,26,0.0,0.38,0.0,0.02,1,1.0,1.0,3.3,0,False,3.2,0.52,59.94,8.0,0.0,7.05,0.54,0.05,2,Newcastle,False,Manchester City,4.63,
+Callum Wilson,Newcastle,Manchester City,2023-03-04,False,FW,61,0.0,0.1,0.0,0.1,2,1.0,1.0,1.8,0,True,3.0,0.59,60.0,8.0,0.0,7.05,0.54,0.05,1,Newcastle,True,Wolverhampton,-2.98,-0.48
+Callum Wilson,Newcastle,Wolverhampton,2023-03-12,True,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,2.4,0.28,58.0,8.0,0.0,7.05,0.54,0.05,0,Newcastle,False,Nottingham Forest,,
+Callum Wilson,Newcastle,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,False,2.2,0.22,55.1,8.0,0.0,7.05,0.54,0.05,6,Newcastle,True,Manchester United,-0.55,
+Callum Wilson,Newcastle,Manchester United,2023-04-02,True,Sub,10,1.0,0.52,0.0,0.0,6,1.0,0.0,6.7,1,False,0.8,0.1,52.95,8.0,0.0,7.05,0.54,0.05,13,Newcastle,False,West Ham,,
+Callum Wilson,Newcastle,West Ham,2023-04-05,False,FW,63,2.0,1.02,0.0,0.0,13,3.0,0.0,11.8,3,True,2.0,0.2,53.41,8.0,0.0,7.05,0.54,0.05,6,Newcastle,True,Manchester City,4.58,
+Callum Wilson,Newcastle,Manchester City,2022-08-21,True,FW,69,1.0,0.95,0.0,0.0,6,4.0,0.0,11.1,0,False,4.4,0.33,54.09,8.0,0.0,7.05,0.54,0.05,4,Newcastle,False,Brentford,,-0.55
+Callum Wilson,Newcastle,Brentford,2023-04-08,False,Sub,45,0.0,0.13,1.0,0.54,4,1.0,3.0,6.4,0,False,5.2,0.5,53.71,8.0,0.0,7.05,0.54,0.05,1,Newcastle,False,Aston Villa,3.3,
+Callum Wilson,Newcastle,Aston Villa,2023-04-15,False,Sub,34,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,False,5.8,0.72,52.92,8.0,0.0,7.05,0.54,0.05,5,Newcastle,True,Tottenham,-0.29,1.07
+Callum Wilson,Newcastle,Tottenham,2023-04-23,True,Sub,24,1.0,0.54,0.0,0.08,5,1.0,1.0,6.9,0,False,6.0,0.72,51.81,8.0,0.0,7.05,0.54,0.05,13,Newcastle,False,Everton,,-0.63
+Callum Wilson,Newcastle,Everton,2023-04-27,False,FW,86,2.0,0.74,0.0,0.0,13,4.0,0.0,0.0,3,True,5.8,0.73,53.07,8.0,0.0,7.05,0.54,0.05,12,Newcastle,True,Southampton,0.18,-0.38
+Callum Wilson,Newcastle,Southampton,2023-04-30,True,Sub,45,2.0,2.34,0.0,0.0,12,6.0,0.0,16.0,3,False,5.8,0.67,52.79,8.0,0.0,7.05,0.54,0.05,2,Newcastle,True,Arsenal,,0.36
+Callum Wilson,Newcastle,Arsenal,2023-05-07,True,FW,77,0.0,0.0,0.0,0.06,2,0.0,1.0,1.5,0,True,7.0,0.95,53.62,8.0,0.0,7.05,0.54,0.05,12,Newcastle,False,Leicester City,,
+Callum Wilson,Newcastle,Leicester City,2023-05-13,False,FW,72,2.0,1.77,0.0,0.03,12,5.0,1.0,14.7,3,True,6.6,0.72,54.23,8.0,0.0,7.05,0.54,0.05,12,Newcastle,True,Brighton,,-0.71
+Callum Wilson,Newcastle,Brighton,2023-05-18,True,FW,90,1.0,1.41,1.0,0.9,12,4.0,3.0,14.4,3,True,8.8,1.08,55.39,8.0,0.0,7.05,0.54,0.05,2,Newcastle,True,Leeds United,,
+Callum Wilson,Newcastle,Leeds United,2023-05-22,True,FW,67,0.0,0.93,0.0,0.12,2,4.0,1.0,2.6,0,True,10.2,1.45,55.75,8.0,0.0,7.05,0.54,0.05,1,Newcastle,False,Chelsea,,-0.72
+Callum Wilson,Newcastle,Chelsea,2023-05-28,False,Sub,21,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,8.0,1.49,54.7,8.0,0.0,7.05,0.54,0.05,0,Newcastle,False,Wolverhampton,1.1,-0.46
+Callum Wilson,Newcastle,Wolverhampton,,False,,0,,,,,0,,,0.0,0,False,5.8,1.02,53.09,8.0,0.0,7.05,0.54,0.05,0,Newcastle,False,Liverpool,0.9,-1.33
+Callum Wilson,Newcastle,Liverpool,,False,,0,,,,,0,,,0.0,0,False,5.4,1.02,51.57,8.0,0.0,7.05,0.54,0.05,0,Newcastle,True,Crystal Palace,-0.56,
+Callum Wilson,Newcastle,Crystal Palace,,True,,0,,,,,0,,,0.0,0,False,3.0,0.67,50.14,8.0,0.0,7.05,0.54,0.05,0,Newcastle,True,Bournemouth,2.6,1.46
+Callum Wilson,Newcastle,Bournemouth,,True,,0,,,,,0,,,0.0,0,False,0.6,0.19,48.78,8.0,0.0,7.05,0.54,0.05,6,Newcastle,False,Fulham,-1.62,1.37
+Callum Wilson,Newcastle,Fulham,2022-10-01,False,FW,65,1.0,1.72,0.0,0.0,6,3.0,0.0,7.6,0,False,0.2,0.0,49.21,8.0,0.0,7.05,0.54,0.05,5,Newcastle,True,Aston Villa,-4.4,

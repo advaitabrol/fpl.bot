@@ -1,77 +1,77 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Ben Davies,Liverpool,Fulham,2022-08-06,False,DC,0,0.0,0.03,0.0,0.01,0,1.0,1.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,2,Spurs,True,Southampton,3.36
-Ben Davies,Spurs,Southampton,2022-08-06,True,DC,85,0.0,0.03,0.0,0.01,2,1.0,1.0,4.8,0,0,1,0.0,False,0.0,0.03,42.5,0.0,0,0,0,0,0,Liverpool,False,Arsenal,-2.38
-Ben Davies,Liverpool,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.03,28.33,0.0,0,0,0,0,6,Spurs,False,Brighton,-2.68
-Ben Davies,Spurs,Brighton,2022-10-08,False,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.4,0,1,0,0.0,False,0.67,0.02,43.75,0.5,0,0,0,0,0,Liverpool,True,Manchester City,0.85
-Ben Davies,Liverpool,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.02,35.0,0.5,0,0,0,0,6,Spurs,True,Everton,-5.21
-Ben Davies,Spurs,Everton,2022-10-15,True,DC,90,0.0,0.0,0.0,0.2,6,0.0,3.0,4.6,0,1,0,0.0,False,1.6,0.01,44.17,0.67,0,0,0,0,0,Liverpool,True,West Ham,0.04
-Ben Davies,Liverpool,West Ham,2022-10-19,True,DC,0,0.0,0.0,0.0,0.46,0,0.0,2.0,0.0,0,0,0,0.0,False,2.8,0.01,37.86,0.67,0,0,0,0,1,Spurs,False,Manchester United,4.8
-Ben Davies,Spurs,Manchester United,2022-10-19,False,DC,90,0.0,0.0,0.0,0.46,1,0.0,2.0,5.8,0,0,2,0.0,False,2.4,0.0,44.38,0.5,0,0,0,0,0,Liverpool,False,Nottingham Forest,
-Ben Davies,Liverpool,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.6,0.0,39.44,0.5,0,0,0,0,1,Spurs,True,Newcastle United,-3.79
-Ben Davies,Spurs,Newcastle United,2022-10-23,True,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,False,1.4,0.0,36.4,0.5,0,0,0,0,0,Liverpool,True,Leicester City,-7.96
-Ben Davies,Liverpool,Leicester City,2022-10-29,True,DC,0,1.0,0.47,0.0,0.0,0,3.0,0.0,0.0,0,0,0,0.0,False,1.6,0.0,33.09,0.5,0,0,0,0,7,Spurs,False,Bournemouth,
-Ben Davies,Spurs,Bournemouth,2022-10-29,False,DC,90,1.0,0.47,0.0,0.0,7,3.0,0.0,7.8,0,0,2,0.0,False,0.4,0.09,37.83,0.4,0,0,0,0,0,Liverpool,False,Tottenham,3.08
-Ben Davies,Liverpool,Tottenham,2022-11-06,False,DC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,1.8,0.19,34.92,0.4,0,0,0,0,1,Spurs,True,Liverpool,0.32
-Ben Davies,Spurs,Liverpool,2022-11-06,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,2,0.0,False,1.6,0.19,38.86,0.33,0,0,0,0,0,Liverpool,True,Southampton,-3.78
-Ben Davies,Liverpool,Southampton,2022-11-12,True,DC,0,1.0,0.04,0.0,0.44,0,1.0,2.0,0.0,0,0,0,0.0,False,1.8,0.19,36.27,0.33,0,0,0,0,7,Spurs,True,Leicester City,-0.2
-Ben Davies,Spurs,Leicester City,2022-11-12,True,DC,90,1.0,0.04,0.0,0.44,7,1.0,2.0,8.2,0,0,3,1.21,True,1.6,0.2,39.62,0.29,0,0,0,0,0,Liverpool,False,Aston Villa,1.3
-Ben Davies,Liverpool,Aston Villa,2022-12-26,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,3.0,0.11,37.29,0.29,0,0,0,0,1,Spurs,False,Brentford,1.4
-Ben Davies,Spurs,Brentford,2022-12-26,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,1.6,0.02,35.28,0.29,0,0,0,0,0,Liverpool,True,Leeds United,-2.07
-Ben Davies,Liverpool,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.02,33.42,0.29,0,0,0,0,0,Spurs,True,Aston Villa,-0.44
-Ben Davies,Spurs,Aston Villa,2023-01-01,True,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.5,0,0,2,1.0,True,1.6,0.02,36.25,0.25,0,0,0,0,0,Liverpool,False,Brentford,4.84
-Ben Davies,Liverpool,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.01,34.52,0.25,0,0,0,0,1,Spurs,False,Crystal Palace,1.4
-Ben Davies,Spurs,Crystal Palace,2023-01-04,False,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.2,0.0,33.14,0.25,0,0,0,0,0,Liverpool,True,Crystal Palace,0.33
-Ben Davies,Liverpool,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,31.7,0.25,0,0,0,0,4,Spurs,False,Chelsea,-2.17
-Ben Davies,Spurs,Chelsea,2022-08-14,False,DC,90,0.0,0.06,1.0,0.03,4,1.0,1.0,8.4,0,0,2,0.0,False,0.2,0.0,34.12,0.22,0,0,0,0,0,Liverpool,False,Brighton,3.47
-Ben Davies,Liverpool,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.21,32.76,0.22,0,0,0,0,1,Spurs,True,Arsenal,0.83
-Ben Davies,Spurs,Arsenal,2023-01-15,True,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,False,1.0,0.21,31.58,0.22,0,0,0,0,1,Spurs,False,Manchester City,
-Ben Davies,Spurs,Manchester City,2023-01-19,False,DC,77,0.0,0.0,0.0,0.05,1,0.0,1.0,2.6,0,0,3,1.94,True,1.2,0.21,33.26,0.2,0,0,0,0,0,Liverpool,True,Chelsea,0.25
-Ben Davies,Liverpool,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.21,32.07,0.2,0,0,0,0,7,Spurs,False,Fulham,
-Ben Davies,Spurs,Fulham,2023-01-23,False,DC,90,0.0,0.11,0.0,0.48,7,1.0,1.0,3.6,1,1,0,1.18,True,1.2,0.21,34.07,0.27,0,0,0,0,0,Liverpool,False,Wolverhampton,-0.13
-Ben Davies,Liverpool,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.02,32.93,0.27,0,0,0,0,6,Spurs,True,Manchester City,-0.19
-Ben Davies,Spurs,Manchester City,2023-02-05,True,DC,90,0.0,0.02,0.0,0.0,6,1.0,0.0,1.5,0,1,0,0.97,True,1.8,0.02,34.77,0.33,0,0,0,0,0,Liverpool,True,Everton,
-Ben Davies,Liverpool,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.8,0.03,33.69,0.33,0,0,0,0,3,Spurs,False,Leeds United,1.08
-Ben Davies,Spurs,Leeds United,2023-02-11,False,DC,90,0.0,0.07,0.0,0.0,3,1.0,0.0,1.7,0,0,4,1.54,True,2.6,0.03,35.39,0.31,0,0,0,0,0,Liverpool,False,Newcastle United,
-Ben Davies,Liverpool,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.2,0.04,34.35,0.31,0,0,0,0,11,Spurs,True,West Ham,
-Ben Davies,Spurs,West Ham,2023-02-19,True,DML,90,0.0,0.04,1.0,0.32,11,1.0,1.0,4.9,2,1,0,0.48,True,1.8,0.02,35.94,0.36,0,0,0,0,0,Liverpool,False,Crystal Palace,
-Ben Davies,Liverpool,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,4.0,0.23,34.94,0.36,0,0,0,0,0,Liverpool,True,Wolverhampton,
-Ben Davies,Liverpool,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.8,0.22,34.0,0.36,0,0,0,0,5,Spurs,True,Chelsea,5.76
-Ben Davies,Spurs,Chelsea,2023-02-26,True,DML,90,0.0,0.0,0.0,0.02,5,0.0,1.0,3.1,0,1,0,0.41,True,2.8,0.22,35.47,0.4,0,0,0,0,0,Liverpool,True,Manchester United,
-Ben Davies,Liverpool,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.2,0.21,34.56,0.4,0,0,0,0,2,Spurs,False,Wolverhampton,-1.1
-Ben Davies,Spurs,Wolverhampton,2023-03-04,False,DC,84,0.0,0.01,0.0,0.0,2,1.0,0.0,1.1,0,0,1,0.39,True,3.2,0.21,35.8,0.38,0,0,0,0,0,Liverpool,False,Bournemouth,
-Ben Davies,Liverpool,Bournemouth,2023-03-11,False,DML,0,0.0,0.08,0.0,0.02,0,2.0,1.0,0.0,0,0,0,0.0,False,1.4,0.0,34.93,0.38,0,0,0,0,2,Spurs,True,Nottingham Forest,
-Ben Davies,Spurs,Nottingham Forest,2023-03-11,True,DML,90,0.0,0.08,0.0,0.02,2,2.0,1.0,4.8,0,0,1,1.57,True,1.4,0.02,36.24,0.35,0,0,0,0,1,Spurs,False,Southampton,-0.01
-Ben Davies,Spurs,Southampton,2023-03-18,False,DML,36,0.0,0.0,0.0,0.08,1,0.0,1.0,1.8,0,0,0,0.51,True,1.8,0.03,36.23,0.35,0,0,0,0,0,Liverpool,False,Manchester City,
-Ben Davies,Liverpool,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.03,35.41,0.35,0,0,0,0,0,Liverpool,False,Chelsea,
-Ben Davies,Liverpool,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.03,34.62,0.35,0,0,0,0,0,Spurs,False,Everton,-0.37
-Ben Davies,Spurs,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.03,33.87,0.35,0,0,0,0,0,Liverpool,False,Manchester United,-0.0
-Ben Davies,Liverpool,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.02,33.15,0.35,0,0,0,0,6,Spurs,True,Wolverhampton,-0.85
-Ben Davies,Spurs,Wolverhampton,2022-08-20,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.6,0,1,0,0.0,False,0.2,0.0,34.33,0.39,0,0,0,0,0,Liverpool,True,Arsenal,-3.99
-Ben Davies,Liverpool,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,33.63,0.39,0,0,0,0,0,Spurs,True,Brighton,
-Ben Davies,Spurs,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,32.96,0.39,0,0,0,0,0,Liverpool,False,Leicester City,-5.24
-Ben Davies,Liverpool,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,32.31,0.39,0,0,0,0,0,Spurs,True,Bournemouth,
-Ben Davies,Spurs,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,31.69,0.39,0,0,0,0,0,Liverpool,True,Nottingham Forest,
-Ben Davies,Liverpool,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,31.09,0.39,0,0,0,0,0,Spurs,False,Newcastle United,0.79
-Ben Davies,Spurs,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,30.52,0.39,0,0,0,0,0,Liverpool,False,West Ham,4.92
-Ben Davies,Liverpool,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,29.96,0.39,0,0,0,0,1,Spurs,True,Manchester United,5.3
-Ben Davies,Spurs,Manchester United,2023-04-27,True,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.18,False,0.0,0.0,29.66,0.39,0,0,0,0,0,Liverpool,True,Tottenham,
-Ben Davies,Liverpool,Tottenham,2023-04-30,True,DC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.2,0.0,29.14,0.39,0,0,0,0,0,Liverpool,True,Fulham,
-Ben Davies,Liverpool,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,28.64,0.39,0,0,0,0,0,Spurs,False,Liverpool,
-Ben Davies,Spurs,Liverpool,2023-04-30,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.2,0,0,4,2.33,True,0.2,0.0,29.68,0.37,0,0,0,0,0,Liverpool,True,Brentford,
-Ben Davies,Liverpool,Brentford,2023-05-06,True,DL,0,0.0,0.0,0.0,0.03,0,0.0,1.0,0.0,0,0,0,0.0,False,0.2,0.0,29.18,0.37,0,0,0,0,5,Spurs,True,Crystal Palace,-3.09
-Ben Davies,Spurs,Crystal Palace,2023-05-06,True,DL,90,0.0,0.0,0.0,0.03,5,0.0,1.0,3.1,0,1,0,0.37,True,0.2,0.0,30.18,0.4,0,0,0,0,0,Liverpool,False,Leeds United,1.77
-Ben Davies,Liverpool,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,29.69,0.4,0,0,0,0,1,Spurs,False,Aston Villa,
-Ben Davies,Spurs,Aston Villa,2023-05-13,False,DML,89,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,2,1.18,True,1.0,0.0,30.63,0.38,0,0,0,0,0,Liverpool,True,Aston Villa,-1.22
-Ben Davies,Liverpool,Aston Villa,2023-05-20,True,DL,0,0.0,0.0,0.0,0.07,0,0.0,1.0,0.0,0,0,0,0.0,False,1.2,0.0,30.16,0.38,0,0,0,0,1,Spurs,True,Brentford,-3.15
-Ben Davies,Spurs,Brentford,2023-05-20,True,DL,84,0.0,0.0,0.0,0.07,1,0.0,1.0,3.8,0,0,2,0.61,True,1.2,0.0,30.98,0.36,0,0,0,0,0,Liverpool,False,Southampton,
-Ben Davies,Liverpool,Southampton,2023-05-28,False,DL,0,0.0,0.0,0.0,0.13,0,0.0,1.0,0.0,0,0,0,0.0,False,1.4,0.0,30.52,0.36,0,0,0,0,2,Spurs,False,Leicester City,
-Ben Davies,Spurs,Leicester City,2023-05-28,False,DL,90,0.0,0.0,0.0,0.13,2,0.0,1.0,0.0,0,0,1,1.5,True,0.4,0.0,31.4,0.35,0,0,0,0,0,Liverpool,True,Bournemouth,-5.88
-Ben Davies,Liverpool,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.0,30.94,0.35,0,0,0,0,6,Spurs,False,Nottingham Forest,-5.2
-Ben Davies,Spurs,Nottingham Forest,2022-08-28,False,DC,90,0.0,0.07,0.0,0.0,6,1.0,0.0,1.7,0,1,0,0.0,False,0.6,0.0,31.8,0.38,0,0,0,0,0,Liverpool,True,Newcastle United,0.08
-Ben Davies,Liverpool,Newcastle United,2022-08-31,True,DC,0,0.0,0.0,0.0,0.13,0,0.0,2.0,0.0,0,0,0,0.0,False,1.8,0.01,31.34,0.38,0,0,0,0,1,Spurs,False,West Ham,2.68
-Ben Davies,Spurs,West Ham,2022-08-31,False,DC,90,0.0,0.0,0.0,0.13,1,0.0,2.0,4.0,0,0,1,0.0,False,1.6,0.01,32.17,0.36,0,0,0,0,0,Liverpool,False,Everton,-0.44
-Ben Davies,Liverpool,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.01,31.72,0.36,0,0,0,0,0,Spurs,True,Fulham,-1.52
-Ben Davies,Spurs,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.01,31.29,0.36,0,0,0,0,0,Spurs,True,Leeds United,-5.34
-Ben Davies,Spurs,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.01,30.86,0.36,0,0,0,0,0,Liverpool,True,Brighton,2.85
-Ben Davies,Liverpool,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,30.45,0.36,0,0,0,0,0,Spurs,False,Arsenal,2.45
-Ben Davies,Spurs,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,30.05,0.36,0,0,0,0,0,Spurs,False,Brentford,0.99
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Ben Davies,Liverpool,Fulham,2022-08-06,False,DC,0,0.0,0.03,0.0,0.01,0,1.0,1.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,2,Spurs,True,Southampton,3.36,-0.38
+Ben Davies,Spurs,Southampton,2022-08-06,True,DC,85,0.0,0.03,0.0,0.01,2,1.0,1.0,4.8,0,0,1,0.0,False,0.0,0.03,42.5,0.0,0,0,0,0,0,Liverpool,False,Arsenal,-2.38,-0.0
+Ben Davies,Liverpool,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.03,28.33,0.0,0,0,0,0,6,Spurs,False,Brighton,-2.68,-0.39
+Ben Davies,Spurs,Brighton,2022-10-08,False,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.4,0,1,0,0.0,False,0.67,0.02,43.75,0.5,0,0,0,0,0,Liverpool,True,Manchester City,0.85,
+Ben Davies,Liverpool,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.02,35.0,0.5,0,0,0,0,6,Spurs,True,Everton,-5.21,0.34
+Ben Davies,Spurs,Everton,2022-10-15,True,DC,90,0.0,0.0,0.0,0.2,6,0.0,3.0,4.6,0,1,0,0.0,False,1.6,0.01,44.17,0.67,0,0,0,0,0,Liverpool,True,West Ham,0.04,
+Ben Davies,Liverpool,West Ham,2022-10-19,True,DC,0,0.0,0.0,0.0,0.46,0,0.0,2.0,0.0,0,0,0,0.0,False,2.8,0.01,37.86,0.67,0,0,0,0,1,Spurs,False,Manchester United,4.8,
+Ben Davies,Spurs,Manchester United,2022-10-19,False,DC,90,0.0,0.0,0.0,0.46,1,0.0,2.0,5.8,0,0,2,0.0,False,2.4,0.0,44.38,0.5,0,0,0,0,0,Liverpool,False,Nottingham Forest,,
+Ben Davies,Liverpool,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.6,0.0,39.44,0.5,0,0,0,0,1,Spurs,True,Newcastle United,-3.79,
+Ben Davies,Spurs,Newcastle United,2022-10-23,True,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,False,1.4,0.0,36.4,0.5,0,0,0,0,0,Liverpool,True,Leicester City,-7.96,
+Ben Davies,Liverpool,Leicester City,2022-10-29,True,DC,0,1.0,0.47,0.0,0.0,0,3.0,0.0,0.0,0,0,0,0.0,False,1.6,0.0,33.09,0.5,0,0,0,0,7,Spurs,False,Bournemouth,,0.19
+Ben Davies,Spurs,Bournemouth,2022-10-29,False,DC,90,1.0,0.47,0.0,0.0,7,3.0,0.0,7.8,0,0,2,0.0,False,0.4,0.09,37.83,0.4,0,0,0,0,0,Liverpool,False,Tottenham,3.08,-0.03
+Ben Davies,Liverpool,Tottenham,2022-11-06,False,DC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,1.8,0.19,34.92,0.4,0,0,0,0,1,Spurs,True,Liverpool,0.32,-0.53
+Ben Davies,Spurs,Liverpool,2022-11-06,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,2,0.0,False,1.6,0.19,38.86,0.33,0,0,0,0,0,Liverpool,True,Southampton,-3.78,-0.38
+Ben Davies,Liverpool,Southampton,2022-11-12,True,DC,0,1.0,0.04,0.0,0.44,0,1.0,2.0,0.0,0,0,0,0.0,False,1.8,0.19,36.27,0.33,0,0,0,0,7,Spurs,True,Leicester City,-0.2,
+Ben Davies,Spurs,Leicester City,2022-11-12,True,DC,90,1.0,0.04,0.0,0.44,7,1.0,2.0,8.2,0,0,3,1.21,True,1.6,0.2,39.62,0.29,0,0,0,0,0,Liverpool,False,Aston Villa,1.3,
+Ben Davies,Liverpool,Aston Villa,2022-12-26,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,3.0,0.11,37.29,0.29,0,0,0,0,1,Spurs,False,Brentford,1.4,-0.55
+Ben Davies,Spurs,Brentford,2022-12-26,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,1.6,0.02,35.28,0.29,0,0,0,0,0,Liverpool,True,Leeds United,-2.07,
+Ben Davies,Liverpool,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.02,33.42,0.29,0,0,0,0,0,Spurs,True,Aston Villa,-0.44,
+Ben Davies,Spurs,Aston Villa,2023-01-01,True,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.5,0,0,2,1.0,True,1.6,0.02,36.25,0.25,0,0,0,0,0,Liverpool,False,Brentford,4.84,-0.55
+Ben Davies,Liverpool,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.01,34.52,0.25,0,0,0,0,1,Spurs,False,Crystal Palace,1.4,
+Ben Davies,Spurs,Crystal Palace,2023-01-04,False,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.2,0.0,33.14,0.25,0,0,0,0,0,Liverpool,True,Crystal Palace,0.33,
+Ben Davies,Liverpool,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,31.7,0.25,0,0,0,0,4,Spurs,False,Chelsea,-2.17,-0.72
+Ben Davies,Spurs,Chelsea,2022-08-14,False,DC,90,0.0,0.06,1.0,0.03,4,1.0,1.0,8.4,0,0,2,0.0,False,0.2,0.0,34.12,0.22,0,0,0,0,0,Liverpool,False,Brighton,3.47,-0.39
+Ben Davies,Liverpool,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.21,32.76,0.22,0,0,0,0,1,Spurs,True,Arsenal,0.83,0.36
+Ben Davies,Spurs,Arsenal,2023-01-15,True,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,False,1.0,0.21,31.58,0.22,0,0,0,0,1,Spurs,False,Manchester City,,
+Ben Davies,Spurs,Manchester City,2023-01-19,False,DC,77,0.0,0.0,0.0,0.05,1,0.0,1.0,2.6,0,0,3,1.94,True,1.2,0.21,33.26,0.2,0,0,0,0,0,Liverpool,True,Chelsea,0.25,-0.25
+Ben Davies,Liverpool,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.21,32.07,0.2,0,0,0,0,7,Spurs,False,Fulham,,1.37
+Ben Davies,Spurs,Fulham,2023-01-23,False,DC,90,0.0,0.11,0.0,0.48,7,1.0,1.0,3.6,1,1,0,1.18,True,1.2,0.21,34.07,0.27,0,0,0,0,0,Liverpool,False,Wolverhampton,-0.13,-0.46
+Ben Davies,Liverpool,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.02,32.93,0.27,0,0,0,0,6,Spurs,True,Manchester City,-0.19,
+Ben Davies,Spurs,Manchester City,2023-02-05,True,DC,90,0.0,0.02,0.0,0.0,6,1.0,0.0,1.5,0,1,0,0.97,True,1.8,0.02,34.77,0.33,0,0,0,0,0,Liverpool,True,Everton,,0.34
+Ben Davies,Liverpool,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.8,0.03,33.69,0.33,0,0,0,0,3,Spurs,False,Leeds United,1.08,
+Ben Davies,Spurs,Leeds United,2023-02-11,False,DC,90,0.0,0.07,0.0,0.0,3,1.0,0.0,1.7,0,0,4,1.54,True,2.6,0.03,35.39,0.31,0,0,0,0,0,Liverpool,False,Newcastle United,,
+Ben Davies,Liverpool,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.2,0.04,34.35,0.31,0,0,0,0,11,Spurs,True,West Ham,,
+Ben Davies,Spurs,West Ham,2023-02-19,True,DML,90,0.0,0.04,1.0,0.32,11,1.0,1.0,4.9,2,1,0,0.48,True,1.8,0.02,35.94,0.36,0,0,0,0,0,Liverpool,False,Crystal Palace,,
+Ben Davies,Liverpool,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,4.0,0.23,34.94,0.36,0,0,0,0,0,Liverpool,True,Wolverhampton,,-0.48
+Ben Davies,Liverpool,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.8,0.22,34.0,0.36,0,0,0,0,5,Spurs,True,Chelsea,5.76,-0.25
+Ben Davies,Spurs,Chelsea,2023-02-26,True,DML,90,0.0,0.0,0.0,0.02,5,0.0,1.0,3.1,0,1,0,0.41,True,2.8,0.22,35.47,0.4,0,0,0,0,0,Liverpool,True,Manchester United,,
+Ben Davies,Liverpool,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.2,0.21,34.56,0.4,0,0,0,0,2,Spurs,False,Wolverhampton,-1.1,-0.46
+Ben Davies,Spurs,Wolverhampton,2023-03-04,False,DC,84,0.0,0.01,0.0,0.0,2,1.0,0.0,1.1,0,0,1,0.39,True,3.2,0.21,35.8,0.38,0,0,0,0,0,Liverpool,False,Bournemouth,,0.19
+Ben Davies,Liverpool,Bournemouth,2023-03-11,False,DML,0,0.0,0.08,0.0,0.02,0,2.0,1.0,0.0,0,0,0,0.0,False,1.4,0.0,34.93,0.38,0,0,0,0,2,Spurs,True,Nottingham Forest,,
+Ben Davies,Spurs,Nottingham Forest,2023-03-11,True,DML,90,0.0,0.08,0.0,0.02,2,2.0,1.0,4.8,0,0,1,1.57,True,1.4,0.02,36.24,0.35,0,0,0,0,1,Spurs,False,Southampton,-0.01,-1.07
+Ben Davies,Spurs,Southampton,2023-03-18,False,DML,36,0.0,0.0,0.0,0.08,1,0.0,1.0,1.8,0,0,0,0.51,True,1.8,0.03,36.23,0.35,0,0,0,0,0,Liverpool,False,Manchester City,,
+Ben Davies,Liverpool,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.03,35.41,0.35,0,0,0,0,0,Liverpool,False,Chelsea,,-0.72
+Ben Davies,Liverpool,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.03,34.62,0.35,0,0,0,0,0,Spurs,False,Everton,-0.37,-0.63
+Ben Davies,Spurs,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.03,33.87,0.35,0,0,0,0,0,Liverpool,False,Manchester United,-0.0,
+Ben Davies,Liverpool,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.02,33.15,0.35,0,0,0,0,6,Spurs,True,Wolverhampton,-0.85,-0.48
+Ben Davies,Spurs,Wolverhampton,2022-08-20,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.6,0,1,0,0.0,False,0.2,0.0,34.33,0.39,0,0,0,0,0,Liverpool,True,Arsenal,-3.99,0.36
+Ben Davies,Liverpool,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,33.63,0.39,0,0,0,0,0,Spurs,True,Brighton,,-0.71
+Ben Davies,Spurs,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,32.96,0.39,0,0,0,0,0,Liverpool,False,Leicester City,-5.24,
+Ben Davies,Liverpool,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,32.31,0.39,0,0,0,0,0,Spurs,True,Bournemouth,,1.46
+Ben Davies,Spurs,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,31.69,0.39,0,0,0,0,0,Liverpool,True,Nottingham Forest,,
+Ben Davies,Liverpool,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,31.09,0.39,0,0,0,0,0,Spurs,False,Newcastle United,0.79,
+Ben Davies,Spurs,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,30.52,0.39,0,0,0,0,0,Liverpool,False,West Ham,4.92,
+Ben Davies,Liverpool,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,29.96,0.39,0,0,0,0,1,Spurs,True,Manchester United,5.3,
+Ben Davies,Spurs,Manchester United,2023-04-27,True,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.18,False,0.0,0.0,29.66,0.39,0,0,0,0,0,Liverpool,True,Tottenham,,1.07
+Ben Davies,Liverpool,Tottenham,2023-04-30,True,DC,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.2,0.0,29.14,0.39,0,0,0,0,0,Liverpool,True,Fulham,,-0.3
+Ben Davies,Liverpool,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,28.64,0.39,0,0,0,0,0,Spurs,False,Liverpool,,-1.33
+Ben Davies,Spurs,Liverpool,2023-04-30,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.2,0,0,4,2.33,True,0.2,0.0,29.68,0.37,0,0,0,0,0,Liverpool,True,Brentford,,0.69
+Ben Davies,Liverpool,Brentford,2023-05-06,True,DL,0,0.0,0.0,0.0,0.03,0,0.0,1.0,0.0,0,0,0,0.0,False,0.2,0.0,29.18,0.37,0,0,0,0,5,Spurs,True,Crystal Palace,-3.09,
+Ben Davies,Spurs,Crystal Palace,2023-05-06,True,DL,90,0.0,0.0,0.0,0.03,5,0.0,1.0,3.1,0,1,0,0.37,True,0.2,0.0,30.18,0.4,0,0,0,0,0,Liverpool,False,Leeds United,1.77,
+Ben Davies,Liverpool,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,29.69,0.4,0,0,0,0,1,Spurs,False,Aston Villa,,
+Ben Davies,Spurs,Aston Villa,2023-05-13,False,DML,89,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,2,1.18,True,1.0,0.0,30.63,0.38,0,0,0,0,0,Liverpool,True,Aston Villa,-1.22,
+Ben Davies,Liverpool,Aston Villa,2023-05-20,True,DL,0,0.0,0.0,0.0,0.07,0,0.0,1.0,0.0,0,0,0,0.0,False,1.2,0.0,30.16,0.38,0,0,0,0,1,Spurs,True,Brentford,-3.15,0.69
+Ben Davies,Spurs,Brentford,2023-05-20,True,DL,84,0.0,0.0,0.0,0.07,1,0.0,1.0,3.8,0,0,2,0.61,True,1.2,0.0,30.98,0.36,0,0,0,0,0,Liverpool,False,Southampton,,-1.07
+Ben Davies,Liverpool,Southampton,2023-05-28,False,DL,0,0.0,0.0,0.0,0.13,0,0.0,1.0,0.0,0,0,0,0.0,False,1.4,0.0,30.52,0.36,0,0,0,0,2,Spurs,False,Leicester City,,
+Ben Davies,Spurs,Leicester City,2023-05-28,False,DL,90,0.0,0.0,0.0,0.13,2,0.0,1.0,0.0,0,0,1,1.5,True,0.4,0.0,31.4,0.35,0,0,0,0,0,Liverpool,True,Bournemouth,-5.88,1.46
+Ben Davies,Liverpool,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.0,30.94,0.35,0,0,0,0,6,Spurs,False,Nottingham Forest,-5.2,
+Ben Davies,Spurs,Nottingham Forest,2022-08-28,False,DC,90,0.0,0.07,0.0,0.0,6,1.0,0.0,1.7,0,1,0,0.0,False,0.6,0.0,31.8,0.38,0,0,0,0,0,Liverpool,True,Newcastle United,0.08,
+Ben Davies,Liverpool,Newcastle United,2022-08-31,True,DC,0,0.0,0.0,0.0,0.13,0,0.0,2.0,0.0,0,0,0,0.0,False,1.8,0.01,31.34,0.38,0,0,0,0,1,Spurs,False,West Ham,2.68,
+Ben Davies,Spurs,West Ham,2022-08-31,False,DC,90,0.0,0.0,0.0,0.13,1,0.0,2.0,4.0,0,0,1,0.0,False,1.6,0.01,32.17,0.36,0,0,0,0,0,Liverpool,False,Everton,-0.44,-0.63
+Ben Davies,Liverpool,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.01,31.72,0.36,0,0,0,0,0,Spurs,True,Fulham,-1.52,-0.3
+Ben Davies,Spurs,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.01,31.29,0.36,0,0,0,0,0,Spurs,True,Leeds United,-5.34,
+Ben Davies,Spurs,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.01,30.86,0.36,0,0,0,0,0,Liverpool,True,Brighton,2.85,-0.71
+Ben Davies,Liverpool,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,30.45,0.36,0,0,0,0,0,Spurs,False,Arsenal,2.45,-0.0
+Ben Davies,Spurs,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,30.05,0.36,0,0,0,0,0,Spurs,False,Brentford,0.99,-0.55

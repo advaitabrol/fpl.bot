@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Joe Rodon,Spurs,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Crystal Palace,1.4
-Joe Rodon,Spurs,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Chelsea,1.57
-Joe Rodon,Spurs,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Wolverhampton,0.08
-Joe Rodon,Spurs,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Aston Villa,1.17
-Joe Rodon,Spurs,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Manchester City,-0.49
-Joe Rodon,Spurs,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,West Ham,-1.74
-Joe Rodon,Spurs,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Newcastle United,-1.88
-Joe Rodon,Spurs,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Nottingham Forest,-5.2
-Joe Rodon,Spurs,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Everton,-3.67
-Joe Rodon,Spurs,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Brighton,-2.31
-Joe Rodon,Spurs,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Manchester United,1.18
-Joe Rodon,Spurs,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Bournemouth,-0.25
-Joe Rodon,Spurs,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Manchester United,3.47
-Joe Rodon,Spurs,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Brentford,-1.06
-Joe Rodon,Spurs,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Everton,-0.31
-Joe Rodon,Spurs,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Brighton,0.56
-Joe Rodon,Spurs,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Wolverhampton,2.48
-Joe Rodon,Spurs,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Crystal Palace,-2.5
-Joe Rodon,Spurs,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Aston Villa,-1.56
-Joe Rodon,Spurs,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Fulham,-1.25
-Joe Rodon,Spurs,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Bournemouth,-2.08
-Joe Rodon,Spurs,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Luton,
-Joe Rodon,Spurs,Luton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,West Ham,2.68
-Joe Rodon,Spurs,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Nottingham Forest,
-Joe Rodon,Spurs,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Newcastle United,0.79
-Joe Rodon,Spurs,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Arsenal,0.83
-Joe Rodon,Spurs,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Chelsea,-2.17
-Joe Rodon,Spurs,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Liverpool,
-Joe Rodon,Spurs,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Burnley,
-Joe Rodon,Spurs,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Manchester City,-0.19
-Joe Rodon,Spurs,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Sheffield,
-Joe Rodon,Spurs,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Burnley,-3.2
-Joe Rodon,Spurs,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Sheffield,-0.02
-Joe Rodon,Spurs,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Arsenal,1.92
-Joe Rodon,Spurs,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Liverpool,-0.19
-Joe Rodon,Spurs,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Luton,-1.24
-Joe Rodon,Spurs,Luton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Fulham,-2.03
-Joe Rodon,Spurs,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,,,,,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Joe Rodon,Spurs,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Crystal Palace,1.4,
+Joe Rodon,Spurs,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Chelsea,1.57,-0.25
+Joe Rodon,Spurs,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Wolverhampton,0.08,-0.52
+Joe Rodon,Spurs,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Aston Villa,1.17,
+Joe Rodon,Spurs,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Manchester City,-0.49,
+Joe Rodon,Spurs,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,West Ham,-1.74,
+Joe Rodon,Spurs,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Newcastle United,-1.88,
+Joe Rodon,Spurs,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Nottingham Forest,-5.2,
+Joe Rodon,Spurs,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Everton,-3.67,0.53
+Joe Rodon,Spurs,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Brighton,-2.31,-0.6
+Joe Rodon,Spurs,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Manchester United,1.18,
+Joe Rodon,Spurs,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Bournemouth,-0.25,1.22
+Joe Rodon,Spurs,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Manchester United,3.47,
+Joe Rodon,Spurs,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Brentford,-1.06,0.79
+Joe Rodon,Spurs,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Everton,-0.31,-0.24
+Joe Rodon,Spurs,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Brighton,0.56,-0.66
+Joe Rodon,Spurs,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Wolverhampton,2.48,0.05
+Joe Rodon,Spurs,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Crystal Palace,-2.5,
+Joe Rodon,Spurs,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Aston Villa,-1.56,
+Joe Rodon,Spurs,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Fulham,-1.25,0.86
+Joe Rodon,Spurs,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Bournemouth,-2.08,0.19
+Joe Rodon,Spurs,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Luton,,
+Joe Rodon,Spurs,Luton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,West Ham,2.68,
+Joe Rodon,Spurs,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Nottingham Forest,,
+Joe Rodon,Spurs,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Newcastle United,0.79,
+Joe Rodon,Spurs,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Arsenal,0.83,-0.11
+Joe Rodon,Spurs,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Chelsea,-2.17,-0.85
+Joe Rodon,Spurs,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Liverpool,,-1.01
+Joe Rodon,Spurs,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Burnley,,0.39
+Joe Rodon,Spurs,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Manchester City,-0.19,
+Joe Rodon,Spurs,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Sheffield,,-0.61
+Joe Rodon,Spurs,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Burnley,-3.2,0.0
+Joe Rodon,Spurs,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Sheffield,-0.02,0.68
+Joe Rodon,Spurs,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Arsenal,1.92,-0.48
+Joe Rodon,Spurs,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Liverpool,-0.19,0.18
+Joe Rodon,Spurs,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,False,Luton,-1.24,
+Joe Rodon,Spurs,Luton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,0.0,Spurs,True,Fulham,-2.03,-0.13
+Joe Rodon,Spurs,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.16,0.9,0.0,0,,,,,,
