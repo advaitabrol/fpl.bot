@@ -3,11 +3,11 @@ import pandas as pd
 
 # Define the seasons for each calculation
 season_sets = {
-    "difficulty_2019_2022": ["2019-20", "2020-21", "2021-22"],
-    "difficulty_2019_2022_first_half_2022_23": ["2019-20", "2020-21", "2021-22", "2022-23_first_half"],
-    "difficulty_2019_2023": ["2019-20", "2020-21", "2021-22", "2022-23"],
-    "difficulty_2019_2023_first_half_2023_24": ["2019-20", "2020-21", "2021-22", "2022-23", "2023-24_first_half"],
-    "difficulty_2019_2024": ["2019-20", "2020-21", "2021-22", "2022-23", "2023-24"]
+    "difficulty_2022": ["2019-20", "2020-21", "2021-22"],
+    "difficulty_half_2023": ["2019-20", "2020-21", "2021-22", "2022-23_first_half"],
+    "difficulty_2023": ["2019-20", "2020-21", "2021-22", "2022-23"],
+    "difficulty_half_2024": ["2019-20", "2020-21", "2021-22", "2022-23", "2023-24_first_half"],
+    "difficulty_2024": ["2019-20", "2020-21", "2021-22", "2022-23", "2023-24"]
 }
 
 # Directory for the FPL team data and output
@@ -20,7 +20,6 @@ def load_filtered_data(season, team_name):
     
     if season.endswith("first_half"):
         # Handle partial seasons: only take the first 19 rows
-        actual_season = season.replace("_first_half", "")
         df = pd.read_csv(file_path).head(19)
     else:
         # Load the full season
@@ -28,9 +27,13 @@ def load_filtered_data(season, team_name):
     
     return df
 
+# Function to normalize team names (converting underscores to spaces for display, but keeping underscores for file operations)
+def display_team_name(filename):
+    return filename.replace('_', ' ')  # Convert underscores to spaces for display
+
 # Function to calculate holistic difficulties
 def calculate_holistic_difficulties(fpl_team_data_dir, output_dir, season_set):
-    teams = set(filename.split('_')[0] for filename in os.listdir(fpl_team_data_dir) if filename.endswith('.csv'))
+    teams = set('_'.join(filename.split('_')[:-1]) for filename in os.listdir(fpl_team_data_dir) if filename.endswith('.csv'))
     
     # Loop through each team
     for team in teams:
@@ -77,7 +80,7 @@ def calculate_holistic_difficulties(fpl_team_data_dir, output_dir, season_set):
             if os.stat(output_path).st_size == 0:
                 # If file is empty, write header row
                 f.write("Team,Home Difficulty,Away Difficulty\n")
-            f.write(f"{team},{avg_home_difficulty},{avg_away_difficulty}\n")
+            f.write(f"{display_team_name(team)},{avg_home_difficulty},{avg_away_difficulty}\n")
         
         print(f"Saved difficulties for {team} in {output_path}")
 
