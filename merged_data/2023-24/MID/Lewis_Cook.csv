@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Lewis Cook,Bournemouth,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,2.0,0.19,2.3,0.03,0.0,Bournemouth,True,Burnley,
-Lewis Cook,Bournemouth,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,2.0,0.19,2.3,0.03,0.0,Bournemouth,False,Manchester City,1.61
-Lewis Cook,Bournemouth,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,True,Newcastle United,-1.09
-Lewis Cook,Bournemouth,Newcastle United,2023-11-11,True,DMC,90,0.0,0.0,0.0,0.05,2,0.0,2.0,4.3,0,1,0,True,0.0,0.0,22.5,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Sheffield,
-Lewis Cook,Bournemouth,Sheffield,2023-11-25,False,DMC,90,0.0,0.0,0.0,0.22,2,0.0,2.0,5.2,0,0,1,True,0.5,0.0,36.0,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,True,Aston Villa,-2.77
-Lewis Cook,Bournemouth,Aston Villa,2023-12-03,True,DMC,90,0.0,0.0,0.0,0.19,2,0.0,3.0,5.4,0,0,2,True,0.8,0.0,45.0,0.0,2.0,0.19,2.3,0.03,3.0,Bournemouth,False,Crystal Palace,3.33
-Lewis Cook,Bournemouth,Crystal Palace,2023-12-06,False,DMC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,2.0,0,1,0,True,1.2,0.0,51.43,0.0,2.0,0.19,2.3,0.03,8.0,Bournemouth,False,Manchester United,2.68
-Lewis Cook,Bournemouth,Manchester United,2023-12-09,False,DMC,87,0.0,0.0,1.0,0.57,8,0.0,3.0,8.2,2,1,0,True,1.8,0.0,55.88,0.0,2.0,0.19,2.3,0.03,1.0,Bournemouth,False,Nottingham Forest,-0.1
-Lewis Cook,Bournemouth,Nottingham Forest,2023-12-23,False,DMC,28,0.0,0.0,0.0,0.06,1,0.0,1.0,2.1,0,0,0,True,3.4,0.2,52.78,0.0,2.0,0.19,2.3,0.03,0.0,Bournemouth,True,Fulham,-2.88
-Lewis Cook,Bournemouth,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,3.2,0.2,47.5,0.0,2.0,0.19,2.3,0.03,0.0,Bournemouth,False,Liverpool,7.33
-Lewis Cook,Bournemouth,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,2.8,0.2,43.18,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Tottenham,-1.42
-Lewis Cook,Bournemouth,Tottenham,2023-12-31,False,DMC,90,0.0,0.0,0.0,0.16,2,0.0,4.0,8.5,0,0,3,True,2.4,0.2,47.08,0.0,2.0,0.19,2.3,0.03,1.0,Bournemouth,True,Liverpool,-2.32
-Lewis Cook,Bournemouth,Liverpool,2024-01-21,True,DMC,82,0.0,0.0,0.0,0.07,1,0.0,1.0,2.5,0,0,3,True,2.2,0.2,49.77,0.0,2.0,0.19,2.3,0.03,1.0,Bournemouth,False,West Ham,2.67
-Lewis Cook,Bournemouth,West Ham,2024-02-01,False,DMC,90,0.0,0.02,0.0,0.0,1,1.0,0.0,1.0,0,0,1,True,0.8,0.0,52.64,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,True,Nottingham Forest,0.51
-Lewis Cook,Bournemouth,Nottingham Forest,2024-02-04,True,DMC,90,0.0,0.0,0.0,0.09,2,0.0,2.0,4.4,0,0,1,True,0.8,0.0,55.13,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Fulham,-1.43
-Lewis Cook,Bournemouth,Fulham,2024-02-10,False,DMC,90,0.0,0.0,0.0,0.04,2,0.0,1.0,2.6,0,0,3,True,1.2,0.0,57.31,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Newcastle United,-1.45
-Lewis Cook,Bournemouth,Newcastle United,2024-02-17,False,DMC,90,0.0,0.03,0.0,0.0,2,1.0,0.0,3.7,0,0,2,True,1.6,0.0,59.24,0.0,2.0,0.19,2.3,0.03,1.0,Bournemouth,True,Manchester City,1.02
-Lewis Cook,Bournemouth,Manchester City,2024-02-24,True,DMC,90,0.0,0.01,0.0,0.0,1,1.0,0.0,1.0,0,0,1,True,1.6,0.01,60.94,0.0,2.0,0.19,2.3,0.03,12.0,Bournemouth,False,Burnley,
-Lewis Cook,Bournemouth,Burnley,2024-03-03,False,DMC,90,0.0,0.0,2.0,0.59,12,0.0,3.0,8.1,3,1,0,True,1.6,0.01,62.47,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,True,Sheffield,
-Lewis Cook,Bournemouth,Sheffield,2024-03-09,True,DMC,90,0.0,0.01,0.0,0.18,2,1.0,4.0,7.7,0,0,2,True,3.8,0.41,63.85,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,True,Luton,
-Lewis Cook,Bournemouth,Luton,2024-03-13,True,DMC,90,0.0,0.02,0.0,0.13,2,1.0,3.0,8.2,0,0,3,True,3.8,0.41,65.1,0.0,2.0,0.19,2.3,0.03,1.0,Bournemouth,True,Tottenham,1.6
-Lewis Cook,Bournemouth,Tottenham,2023-08-26,True,Sub,45,0.0,0.02,0.0,0.0,1,1.0,0.0,1.4,0,0,1,False,3.8,0.41,64.18,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,True,Everton,-5.04
-Lewis Cook,Bournemouth,Everton,2024-03-30,True,DMC,90,0.0,0.2,0.0,0.19,2,3.0,3.0,7.1,0,0,1,True,3.6,0.41,65.3,0.0,2.0,0.19,2.3,0.03,3.0,Bournemouth,True,Crystal Palace,3.26
-Lewis Cook,Bournemouth,Crystal Palace,2024-04-02,True,DC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,2.4,0,1,0,True,3.8,0.45,66.33,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Luton,
-Lewis Cook,Bournemouth,Luton,2024-04-06,False,DMC,86,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,0,1,True,2.0,0.05,67.12,0.0,2.0,0.19,2.3,0.03,1.0,Bournemouth,True,Manchester United,
-Lewis Cook,Bournemouth,Manchester United,2024-04-13,True,DMC,90,0.0,0.0,0.0,0.11,1,0.0,3.0,5.1,0,0,2,True,2.0,0.05,68.0,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Aston Villa,
-Lewis Cook,Bournemouth,Aston Villa,2024-04-21,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.1,0,0,3,True,1.8,0.05,68.81,0.0,2.0,0.19,2.3,0.03,3.0,Bournemouth,False,Wolverhampton,
-Lewis Cook,Bournemouth,Wolverhampton,2024-04-24,False,DMC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.4,0,1,0,True,2.0,0.04,69.57,0.0,2.0,0.19,2.3,0.03,3.0,Bournemouth,True,Brighton,
-Lewis Cook,Bournemouth,Brighton,2024-04-28,True,MC,90,0.0,0.0,0.0,0.17,3,0.0,2.0,5.3,0,1,0,True,2.2,0.0,70.28,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Arsenal,
-Lewis Cook,Bournemouth,Arsenal,2024-05-04,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,3,True,2.2,0.0,70.93,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,True,Brentford,0.49
-Lewis Cook,Bournemouth,Brentford,2024-05-11,True,DMC,90,0.0,0.01,0.0,0.11,2,1.0,3.0,6.3,0,0,2,True,2.2,0.0,71.55,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Chelsea,2.82
-Lewis Cook,Bournemouth,Chelsea,2024-05-19,False,DMC,90,0.0,0.02,0.0,0.54,2,1.0,2.0,4.0,0,0,2,True,2.4,0.0,72.12,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Brentford,0.82
-Lewis Cook,Bournemouth,Brentford,2023-09-02,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.2,0,0,2,True,2.4,0.01,72.67,0.0,2.0,0.19,2.3,0.03,3.0,Bournemouth,True,Chelsea,-1.09
-Lewis Cook,Bournemouth,Chelsea,2023-09-17,True,DMC,90,0.0,0.06,0.0,0.05,3,1.0,1.0,4.8,0,1,0,True,2.2,0.01,73.18,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Brighton,1.13
-Lewis Cook,Bournemouth,Brighton,2023-09-24,False,DMC,90,0.0,0.0,0.0,0.13,2,0.0,2.0,3.9,0,0,3,True,2.2,0.02,73.66,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,True,Arsenal,4.06
-Lewis Cook,Bournemouth,Arsenal,2023-09-30,True,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,0,4,True,2.2,0.02,74.11,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Everton,4.91
-Lewis Cook,Bournemouth,Everton,2023-10-07,False,DMC,66,0.0,0.0,0.0,0.02,2,0.0,1.0,3.0,0,0,3,True,2.2,0.02,73.89,0.0,2.0,0.19,2.3,0.03,-2.0,Bournemouth,True,Wolverhampton,0.64
-Lewis Cook,Bournemouth,Wolverhampton,2023-10-21,True,DMC,53,0.0,0.0,0.0,0.0,-2,0.0,0.0,0.3,0,0,2,True,2.2,0.01,73.34,0.0,2.0,0.19,2.3,0.03,,,,,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Lewis Cook,Bournemouth,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,2.0,0.19,2.3,0.03,0.0,Bournemouth,True,Burnley,,0.39
+Lewis Cook,Bournemouth,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,2.0,0.19,2.3,0.03,0.0,Bournemouth,False,Manchester City,1.61,
+Lewis Cook,Bournemouth,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,True,Newcastle United,-1.09,
+Lewis Cook,Bournemouth,Newcastle United,2023-11-11,True,DMC,90,0.0,0.0,0.0,0.05,2,0.0,2.0,4.3,0,1,0,True,0.0,0.0,22.5,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Sheffield,,-0.61
+Lewis Cook,Bournemouth,Sheffield,2023-11-25,False,DMC,90,0.0,0.0,0.0,0.22,2,0.0,2.0,5.2,0,0,1,True,0.5,0.0,36.0,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,True,Aston Villa,-2.77,
+Lewis Cook,Bournemouth,Aston Villa,2023-12-03,True,DMC,90,0.0,0.0,0.0,0.19,2,0.0,3.0,5.4,0,0,2,True,0.8,0.0,45.0,0.0,2.0,0.19,2.3,0.03,3.0,Bournemouth,False,Crystal Palace,3.33,
+Lewis Cook,Bournemouth,Crystal Palace,2023-12-06,False,DMC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,2.0,0,1,0,True,1.2,0.0,51.43,0.0,2.0,0.19,2.3,0.03,8.0,Bournemouth,False,Manchester United,2.68,
+Lewis Cook,Bournemouth,Manchester United,2023-12-09,False,DMC,87,0.0,0.0,1.0,0.57,8,0.0,3.0,8.2,2,1,0,True,1.8,0.0,55.88,0.0,2.0,0.19,2.3,0.03,1.0,Bournemouth,False,Nottingham Forest,-0.1,
+Lewis Cook,Bournemouth,Nottingham Forest,2023-12-23,False,DMC,28,0.0,0.0,0.0,0.06,1,0.0,1.0,2.1,0,0,0,True,3.4,0.2,52.78,0.0,2.0,0.19,2.3,0.03,0.0,Bournemouth,True,Fulham,-2.88,-0.13
+Lewis Cook,Bournemouth,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,3.2,0.2,47.5,0.0,2.0,0.19,2.3,0.03,0.0,Bournemouth,False,Liverpool,7.33,-1.01
+Lewis Cook,Bournemouth,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,2.8,0.2,43.18,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Tottenham,-1.42,-0.36
+Lewis Cook,Bournemouth,Tottenham,2023-12-31,False,DMC,90,0.0,0.0,0.0,0.16,2,0.0,4.0,8.5,0,0,3,True,2.4,0.2,47.08,0.0,2.0,0.19,2.3,0.03,1.0,Bournemouth,True,Liverpool,-2.32,0.18
+Lewis Cook,Bournemouth,Liverpool,2024-01-21,True,DMC,82,0.0,0.0,0.0,0.07,1,0.0,1.0,2.5,0,0,3,True,2.2,0.2,49.77,0.0,2.0,0.19,2.3,0.03,1.0,Bournemouth,False,West Ham,2.67,
+Lewis Cook,Bournemouth,West Ham,2024-02-01,False,DMC,90,0.0,0.02,0.0,0.0,1,1.0,0.0,1.0,0,0,1,True,0.8,0.0,52.64,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,True,Nottingham Forest,0.51,
+Lewis Cook,Bournemouth,Nottingham Forest,2024-02-04,True,DMC,90,0.0,0.0,0.0,0.09,2,0.0,2.0,4.4,0,0,1,True,0.8,0.0,55.13,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Fulham,-1.43,0.86
+Lewis Cook,Bournemouth,Fulham,2024-02-10,False,DMC,90,0.0,0.0,0.0,0.04,2,0.0,1.0,2.6,0,0,3,True,1.2,0.0,57.31,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Newcastle United,-1.45,
+Lewis Cook,Bournemouth,Newcastle United,2024-02-17,False,DMC,90,0.0,0.03,0.0,0.0,2,1.0,0.0,3.7,0,0,2,True,1.6,0.0,59.24,0.0,2.0,0.19,2.3,0.03,1.0,Bournemouth,True,Manchester City,1.02,
+Lewis Cook,Bournemouth,Manchester City,2024-02-24,True,DMC,90,0.0,0.01,0.0,0.0,1,1.0,0.0,1.0,0,0,1,True,1.6,0.01,60.94,0.0,2.0,0.19,2.3,0.03,12.0,Bournemouth,False,Burnley,,0.0
+Lewis Cook,Bournemouth,Burnley,2024-03-03,False,DMC,90,0.0,0.0,2.0,0.59,12,0.0,3.0,8.1,3,1,0,True,1.6,0.01,62.47,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,True,Sheffield,,0.68
+Lewis Cook,Bournemouth,Sheffield,2024-03-09,True,DMC,90,0.0,0.01,0.0,0.18,2,1.0,4.0,7.7,0,0,2,True,3.8,0.41,63.85,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,True,Luton,,
+Lewis Cook,Bournemouth,Luton,2024-03-13,True,DMC,90,0.0,0.02,0.0,0.13,2,1.0,3.0,8.2,0,0,3,True,3.8,0.41,65.1,0.0,2.0,0.19,2.3,0.03,1.0,Bournemouth,True,Tottenham,1.6,0.69
+Lewis Cook,Bournemouth,Tottenham,2023-08-26,True,Sub,45,0.0,0.02,0.0,0.0,1,1.0,0.0,1.4,0,0,1,False,3.8,0.41,64.18,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,True,Everton,-5.04,0.53
+Lewis Cook,Bournemouth,Everton,2024-03-30,True,DMC,90,0.0,0.2,0.0,0.19,2,3.0,3.0,7.1,0,0,1,True,3.6,0.41,65.3,0.0,2.0,0.19,2.3,0.03,3.0,Bournemouth,True,Crystal Palace,3.26,
+Lewis Cook,Bournemouth,Crystal Palace,2024-04-02,True,DC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,2.4,0,1,0,True,3.8,0.45,66.33,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Luton,,
+Lewis Cook,Bournemouth,Luton,2024-04-06,False,DMC,86,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,0,1,True,2.0,0.05,67.12,0.0,2.0,0.19,2.3,0.03,1.0,Bournemouth,True,Manchester United,,
+Lewis Cook,Bournemouth,Manchester United,2024-04-13,True,DMC,90,0.0,0.0,0.0,0.11,1,0.0,3.0,5.1,0,0,2,True,2.0,0.05,68.0,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Aston Villa,,
+Lewis Cook,Bournemouth,Aston Villa,2024-04-21,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.1,0,0,3,True,1.8,0.05,68.81,0.0,2.0,0.19,2.3,0.03,3.0,Bournemouth,False,Wolverhampton,,-0.52
+Lewis Cook,Bournemouth,Wolverhampton,2024-04-24,False,DMC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.4,0,1,0,True,2.0,0.04,69.57,0.0,2.0,0.19,2.3,0.03,3.0,Bournemouth,True,Brighton,,-0.66
+Lewis Cook,Bournemouth,Brighton,2024-04-28,True,MC,90,0.0,0.0,0.0,0.17,3,0.0,2.0,5.3,0,1,0,True,2.2,0.0,70.28,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Arsenal,,-0.48
+Lewis Cook,Bournemouth,Arsenal,2024-05-04,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,3,True,2.2,0.0,70.93,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,True,Brentford,0.49,0.79
+Lewis Cook,Bournemouth,Brentford,2024-05-11,True,DMC,90,0.0,0.01,0.0,0.11,2,1.0,3.0,6.3,0,0,2,True,2.2,0.0,71.55,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Chelsea,2.82,-0.85
+Lewis Cook,Bournemouth,Chelsea,2024-05-19,False,DMC,90,0.0,0.02,0.0,0.54,2,1.0,2.0,4.0,0,0,2,True,2.4,0.0,72.12,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Brentford,0.82,-0.53
+Lewis Cook,Bournemouth,Brentford,2023-09-02,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.2,0,0,2,True,2.4,0.01,72.67,0.0,2.0,0.19,2.3,0.03,3.0,Bournemouth,True,Chelsea,-1.09,-0.25
+Lewis Cook,Bournemouth,Chelsea,2023-09-17,True,DMC,90,0.0,0.06,0.0,0.05,3,1.0,1.0,4.8,0,1,0,True,2.2,0.01,73.18,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Brighton,1.13,-0.6
+Lewis Cook,Bournemouth,Brighton,2023-09-24,False,DMC,90,0.0,0.0,0.0,0.13,2,0.0,2.0,3.9,0,0,3,True,2.2,0.02,73.66,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,True,Arsenal,4.06,-0.11
+Lewis Cook,Bournemouth,Arsenal,2023-09-30,True,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,0,4,True,2.2,0.02,74.11,0.0,2.0,0.19,2.3,0.03,2.0,Bournemouth,False,Everton,4.91,-0.24
+Lewis Cook,Bournemouth,Everton,2023-10-07,False,DMC,66,0.0,0.0,0.0,0.02,2,0.0,1.0,3.0,0,0,3,True,2.2,0.02,73.89,0.0,2.0,0.19,2.3,0.03,-2.0,Bournemouth,True,Wolverhampton,0.64,0.05
+Lewis Cook,Bournemouth,Wolverhampton,2023-10-21,True,DMC,53,0.0,0.0,0.0,0.0,-2,0.0,0.0,0.3,0,0,2,True,2.2,0.01,73.34,0.0,2.0,0.19,2.3,0.03,,,,,,

@@ -1,35 +1,35 @@
-name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Lucas Tolentino Coelho de Lima,West Ham,Fulham,True,83,8,9.3,3,0,1,False,2,West Ham,False,Southampton,0.96
-Lucas Tolentino Coelho de Lima,West Ham,Southampton,False,86,2,10.3,0,0,1,False,0,West Ham,False,Liverpool,0.66
-Lucas Tolentino Coelho de Lima,West Ham,Liverpool,False,0,0,0.0,0,0,0,False,0,West Ham,True,Bournemouth,
-Lucas Tolentino Coelho de Lima,West Ham,Bournemouth,True,0,0,0.0,0,0,0,False,0,West Ham,False,Manchester United,2.8
-Lucas Tolentino Coelho de Lima,West Ham,Manchester United,False,0,0,0.0,0,0,0,False,5,West Ham,True,Crystal Palace,2.25
-Lucas Tolentino Coelho de Lima,West Ham,Crystal Palace,True,90,5,4.8,0,0,1,False,1,West Ham,True,Leeds United,-5.24
-Lucas Tolentino Coelho de Lima,West Ham,Leeds United,True,90,1,8.6,0,0,2,True,2,West Ham,False,Arsenal,4.81
-Lucas Tolentino Coelho de Lima,West Ham,Arsenal,False,90,2,3.2,0,0,3,True,2,West Ham,True,Brentford,3.83
-Lucas Tolentino Coelho de Lima,West Ham,Brentford,True,81,2,5.6,0,0,2,True,8,West Ham,False,Leicester City,-1.82
-Lucas Tolentino Coelho de Lima,West Ham,Leicester City,False,79,8,9.9,1,0,2,True,2,West Ham,False,Wolverhampton,4.02
-Lucas Tolentino Coelho de Lima,West Ham,Wolverhampton,False,90,2,4.7,0,0,1,True,2,West Ham,True,Everton,-1.75
-Lucas Tolentino Coelho de Lima,West Ham,Everton,True,71,2,1.4,0,1,0,True,10,West Ham,False,Newcastle United,-0.75
-Lucas Tolentino Coelho de Lima,West Ham,Newcastle United,False,73,10,8.6,3,0,1,True,1,West Ham,True,Chelsea,-1.67
-Lucas Tolentino Coelho de Lima,West Ham,Chelsea,True,13,1,0.0,0,0,0,True,0,West Ham,False,Tottenham,5.86
-Lucas Tolentino Coelho de Lima,West Ham,Tottenham,False,0,0,0.0,0,0,0,False,3,West Ham,True,Nottingham Forest,
-Lucas Tolentino Coelho de Lima,West Ham,Nottingham Forest,True,82,3,3.5,0,1,0,True,2,West Ham,False,Brighton,4.06
-Lucas Tolentino Coelho de Lima,West Ham,Brighton,False,74,2,3.6,0,0,3,True,4,West Ham,True,Aston Villa,-0.6
-Lucas Tolentino Coelho de Lima,West Ham,Aston Villa,True,76,4,6.3,0,0,1,True,3,West Ham,True,Southampton,3.84
-Lucas Tolentino Coelho de Lima,West Ham,Southampton,True,87,3,3.9,0,1,0,True,2,West Ham,True,Newcastle United,0.1
-Lucas Tolentino Coelho de Lima,West Ham,Newcastle United,True,90,2,4.7,0,0,5,True,0,West Ham,False,Fulham,
-Lucas Tolentino Coelho de Lima,West Ham,Fulham,False,0,0,0.0,0,0,0,False,5,West Ham,True,Arsenal,
-Lucas Tolentino Coelho de Lima,West Ham,Arsenal,True,86,5,3.5,0,0,2,True,8,West Ham,False,Bournemouth,
-Lucas Tolentino Coelho de Lima,West Ham,Bournemouth,False,76,8,10.1,0,1,0,True,8,West Ham,True,Liverpool,-1.96
-Lucas Tolentino Coelho de Lima,West Ham,Liverpool,True,90,8,7.0,1,0,2,True,2,West Ham,False,Crystal Palace,
-Lucas Tolentino Coelho de Lima,West Ham,Crystal Palace,False,68,2,0.7,0,0,4,True,2,West Ham,False,Manchester City,3.95
-Lucas Tolentino Coelho de Lima,West Ham,Manchester City,False,90,2,4.2,0,0,3,True,3,West Ham,True,Manchester United,2.79
-Lucas Tolentino Coelho de Lima,West Ham,Manchester United,True,90,3,5.9,0,1,0,True,0,West Ham,False,Brentford,
-Lucas Tolentino Coelho de Lima,West Ham,Brentford,False,0,0,0.0,0,0,0,False,4,West Ham,True,Leicester City,
-Lucas Tolentino Coelho de Lima,West Ham,Leicester City,True,90,4,12.1,0,0,1,True,2,West Ham,False,Leeds United,
-Lucas Tolentino Coelho de Lima,West Ham,Leeds United,False,70,2,0.0,0,0,2,True,0,West Ham,True,Tottenham,-2.08
-Lucas Tolentino Coelho de Lima,West Ham,Tottenham,True,23,0,0.6,0,0,0,False,2,West Ham,False,Chelsea,-1.22
-Lucas Tolentino Coelho de Lima,West Ham,Chelsea,False,82,2,6.0,0,0,1,False,2,West Ham,False,Everton,-0.01
-Lucas Tolentino Coelho de Lima,West Ham,Everton,False,61,2,2.3,0,0,1,False,3,West Ham,True,Wolverhampton,-3.77
-Lucas Tolentino Coelho de Lima,West Ham,Wolverhampton,True,73,3,1.2,0,1,0,False,1,West Ham,False,Bournemouth,
+name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Lucas Tolentino Coelho de Lima,West Ham,Fulham,True,83,8,9.3,3,0,1,False,2,West Ham,False,Southampton,0.96,-1.07
+Lucas Tolentino Coelho de Lima,West Ham,Southampton,False,86,2,10.3,0,0,1,False,0,West Ham,False,Liverpool,0.66,-1.33
+Lucas Tolentino Coelho de Lima,West Ham,Liverpool,False,0,0,0.0,0,0,0,False,0,West Ham,True,Bournemouth,,1.46
+Lucas Tolentino Coelho de Lima,West Ham,Bournemouth,True,0,0,0.0,0,0,0,False,0,West Ham,False,Manchester United,2.8,
+Lucas Tolentino Coelho de Lima,West Ham,Manchester United,False,0,0,0.0,0,0,0,False,5,West Ham,True,Crystal Palace,2.25,
+Lucas Tolentino Coelho de Lima,West Ham,Crystal Palace,True,90,5,4.8,0,0,1,False,1,West Ham,True,Leeds United,-5.24,
+Lucas Tolentino Coelho de Lima,West Ham,Leeds United,True,90,1,8.6,0,0,2,True,2,West Ham,False,Arsenal,4.81,-0.0
+Lucas Tolentino Coelho de Lima,West Ham,Arsenal,False,90,2,3.2,0,0,3,True,2,West Ham,True,Brentford,3.83,0.69
+Lucas Tolentino Coelho de Lima,West Ham,Brentford,True,81,2,5.6,0,0,2,True,8,West Ham,False,Leicester City,-1.82,
+Lucas Tolentino Coelho de Lima,West Ham,Leicester City,False,79,8,9.9,1,0,2,True,2,West Ham,False,Wolverhampton,4.02,-0.46
+Lucas Tolentino Coelho de Lima,West Ham,Wolverhampton,False,90,2,4.7,0,0,1,True,2,West Ham,True,Everton,-1.75,0.34
+Lucas Tolentino Coelho de Lima,West Ham,Everton,True,71,2,1.4,0,1,0,True,10,West Ham,False,Newcastle United,-0.75,
+Lucas Tolentino Coelho de Lima,West Ham,Newcastle United,False,73,10,8.6,3,0,1,True,1,West Ham,True,Chelsea,-1.67,-0.25
+Lucas Tolentino Coelho de Lima,West Ham,Chelsea,True,13,1,0.0,0,0,0,True,0,West Ham,False,Tottenham,5.86,-0.03
+Lucas Tolentino Coelho de Lima,West Ham,Tottenham,False,0,0,0.0,0,0,0,False,3,West Ham,True,Nottingham Forest,,
+Lucas Tolentino Coelho de Lima,West Ham,Nottingham Forest,True,82,3,3.5,0,1,0,True,2,West Ham,False,Brighton,4.06,-0.39
+Lucas Tolentino Coelho de Lima,West Ham,Brighton,False,74,2,3.6,0,0,3,True,4,West Ham,True,Aston Villa,-0.6,
+Lucas Tolentino Coelho de Lima,West Ham,Aston Villa,True,76,4,6.3,0,0,1,True,3,West Ham,True,Southampton,3.84,-0.38
+Lucas Tolentino Coelho de Lima,West Ham,Southampton,True,87,3,3.9,0,1,0,True,2,West Ham,True,Newcastle United,0.1,
+Lucas Tolentino Coelho de Lima,West Ham,Newcastle United,True,90,2,4.7,0,0,5,True,0,West Ham,False,Fulham,,1.37
+Lucas Tolentino Coelho de Lima,West Ham,Fulham,False,0,0,0.0,0,0,0,False,5,West Ham,True,Arsenal,,0.36
+Lucas Tolentino Coelho de Lima,West Ham,Arsenal,True,86,5,3.5,0,0,2,True,8,West Ham,False,Bournemouth,,0.19
+Lucas Tolentino Coelho de Lima,West Ham,Bournemouth,False,76,8,10.1,0,1,0,True,8,West Ham,True,Liverpool,-1.96,-0.53
+Lucas Tolentino Coelho de Lima,West Ham,Liverpool,True,90,8,7.0,1,0,2,True,2,West Ham,False,Crystal Palace,,
+Lucas Tolentino Coelho de Lima,West Ham,Crystal Palace,False,68,2,0.7,0,0,4,True,2,West Ham,False,Manchester City,3.95,
+Lucas Tolentino Coelho de Lima,West Ham,Manchester City,False,90,2,4.2,0,0,3,True,3,West Ham,True,Manchester United,2.79,
+Lucas Tolentino Coelho de Lima,West Ham,Manchester United,True,90,3,5.9,0,1,0,True,0,West Ham,False,Brentford,,-0.55
+Lucas Tolentino Coelho de Lima,West Ham,Brentford,False,0,0,0.0,0,0,0,False,4,West Ham,True,Leicester City,,
+Lucas Tolentino Coelho de Lima,West Ham,Leicester City,True,90,4,12.1,0,0,1,True,2,West Ham,False,Leeds United,,
+Lucas Tolentino Coelho de Lima,West Ham,Leeds United,False,70,2,0.0,0,0,2,True,0,West Ham,True,Tottenham,-2.08,1.07
+Lucas Tolentino Coelho de Lima,West Ham,Tottenham,True,23,0,0.6,0,0,0,False,2,West Ham,False,Chelsea,-1.22,-0.72
+Lucas Tolentino Coelho de Lima,West Ham,Chelsea,False,82,2,6.0,0,0,1,False,2,West Ham,False,Everton,-0.01,-0.63
+Lucas Tolentino Coelho de Lima,West Ham,Everton,False,61,2,2.3,0,0,1,False,3,West Ham,True,Wolverhampton,-3.77,-0.48
+Lucas Tolentino Coelho de Lima,West Ham,Wolverhampton,True,73,3,1.2,0,1,0,False,1,West Ham,False,Bournemouth,,0.19

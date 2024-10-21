@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Ben Osborn,Sheffield Utd,Crystal Palace,2023-08-12,True,MC,86,0.0,0.11,0.0,0.0,2,1.0,0.0,0.0,0,0,1,True,0.0,0.0,86.0,0,0,0,0,0,0.0,Sheffield Utd,False,Arsenal,
-Ben Osborn,Sheffield Utd,Arsenal,2023-10-28,False,Sub,31,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,2,False,2.0,0.11,58.5,0,0,0,0,0,1.0,Sheffield Utd,True,Wolverhampton,
-Ben Osborn,Sheffield Utd,Wolverhampton,2023-11-04,True,Sub,1,0.0,0.0,0.0,0.07,1,0.0,1.0,1.4,0,0,0,False,1.0,0.06,39.33,0,0,0,0,0,1.0,Sheffield Utd,False,Brighton,
-Ben Osborn,Sheffield Utd,Brighton,2023-11-12,False,Sub,38,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,1.0,0.04,39.0,0,0,0,0,0,1.0,Sheffield Utd,True,Bournemouth,
-Ben Osborn,Sheffield Utd,Bournemouth,2023-11-25,True,Sub,24,0.0,0.0,0.0,0.03,1,0.0,1.0,2.1,0,0,0,False,1.0,0.03,36.0,0,0,0,0,0,0.0,Sheffield Utd,False,Burnley,
-Ben Osborn,Sheffield Utd,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.02,30.0,0,0,0,0,0,0.0,Sheffield Utd,True,Liverpool,
-Ben Osborn,Sheffield Utd,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,25.71,0,0,0,0,0,0.0,Sheffield Utd,True,Brentford,
-Ben Osborn,Sheffield Utd,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,22.5,0,0,0,0,0,0.0,Sheffield Utd,False,Chelsea,
-Ben Osborn,Sheffield Utd,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,20.0,0,0,0,0,0,0.0,Sheffield Utd,False,Aston Villa,
-Ben Osborn,Sheffield Utd,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,18.0,0,0,0,0,0,0.0,Sheffield Utd,True,Luton,
-Ben Osborn,Sheffield Utd,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,16.36,0,0,0,0,0,1.0,Sheffield Utd,False,Nottingham Forest,
-Ben Osborn,Sheffield Utd,Nottingham Forest,2023-08-18,False,DMR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,2,True,0.0,0.0,22.5,0,0,0,0,0,1.0,Sheffield Utd,False,Manchester City,
-Ben Osborn,Sheffield Utd,Manchester City,2023-12-30,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,0.2,0.0,21.54,0,0,0,0,0,0.0,Sheffield Utd,True,West Ham,
-Ben Osborn,Sheffield Utd,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,20.0,0,0,0,0,0,0.0,Sheffield Utd,False,Crystal Palace,
-Ben Osborn,Sheffield Utd,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,18.67,0,0,0,0,0,1.0,Sheffield Utd,True,Aston Villa,
-Ben Osborn,Sheffield Utd,Aston Villa,2024-02-03,True,Sub,40,0.0,0.0,0.0,0.06,1,0.0,1.0,2.0,0,0,0,False,0.4,0.0,20.0,0,0,0,0,0,5.0,Sheffield Utd,False,Luton,
-Ben Osborn,Sheffield Utd,Luton,2024-02-10,False,ML,90,0.0,0.0,1.0,0.08,5,0.0,1.0,3.7,0,0,1,True,0.6,0.0,24.12,0,0,0,0,0,2.0,Sheffield Utd,True,Brighton,
-Ben Osborn,Sheffield Utd,Brighton,2024-02-18,True,MC,78,0.0,0.02,0.0,0.0,2,1.0,0.0,0.8,0,0,4,True,1.4,0.2,27.11,0,0,0,0,0,1.0,Sheffield Utd,False,Wolverhampton,
-Ben Osborn,Sheffield Utd,Wolverhampton,2024-02-25,False,Sub,18,0.0,0.0,0.0,0.08,1,0.0,1.0,1.9,0,0,0,False,1.6,0.2,26.63,0,0,0,0,0,2.0,Sheffield Utd,True,Arsenal,
-Ben Osborn,Sheffield Utd,Arsenal,2024-03-04,True,Sub,73,0.0,0.0,0.0,0.0,2,0.0,0.0,0.7,0,0,3,False,1.8,0.2,28.95,0,0,0,0,0,2.0,Sheffield Utd,False,Bournemouth,
-Ben Osborn,Sheffield Utd,Bournemouth,2024-03-09,False,DML,90,0.0,0.0,0.0,0.04,2,0.0,1.0,3.0,0,0,2,True,2.2,0.2,31.86,0,0,0,0,0,1.0,Sheffield Utd,True,Manchester City,
-Ben Osborn,Sheffield Utd,Manchester City,2023-08-27,True,DML,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,True,2.4,0.2,31.14,0,0,0,0,0,2.0,Sheffield Utd,True,Fulham,
-Ben Osborn,Sheffield Utd,Fulham,2024-03-30,True,DML,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,3,True,1.6,0.0,33.7,0,0,0,0,0,1.0,Sheffield Utd,False,Liverpool,
-Ben Osborn,Sheffield Utd,Liverpool,2024-04-04,False,Sub,28,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,2,False,1.6,0.0,33.46,0,0,0,0,0,2.0,Sheffield Utd,True,Chelsea,
-Ben Osborn,Sheffield Utd,Chelsea,2024-04-07,True,MC,90,0.0,0.03,0.0,0.0,2,1.0,0.0,1.3,0,0,2,True,1.6,0.0,35.72,0,0,0,0,0,2.0,Sheffield Utd,False,Brentford,
-Ben Osborn,Sheffield Utd,Brentford,2024-04-13,False,MC,90,0.0,0.01,0.0,0.05,2,1.0,1.0,4.1,0,0,2,True,1.6,0.01,37.81,0,0,0,0,0,1.0,Sheffield Utd,True,Burnley,
-Ben Osborn,Sheffield Utd,Burnley,2024-04-20,True,DL,90,0.0,0.0,0.0,0.02,1,0.0,1.0,2.7,0,0,4,True,1.6,0.01,39.74,0,0,0,0,0,5.0,Sheffield Utd,False,Manchester United,
-Ben Osborn,Sheffield Utd,Manchester United,2024-04-24,False,DML,90,0.0,0.0,1.0,0.51,5,0.0,1.0,4.0,0,0,4,True,1.6,0.01,41.54,0,0,0,0,0,0.0,Sheffield Utd,False,Newcastle United,
-Ben Osborn,Sheffield Utd,Newcastle United,2024-04-27,False,DML,90,0.0,0.0,0.0,0.04,0,0.0,1.0,2.9,0,0,5,True,2.2,0.21,43.21,0,0,0,0,0,2.0,Sheffield Utd,True,Nottingham Forest,
-Ben Osborn,Sheffield Utd,Nottingham Forest,2024-05-04,True,DML,90,0.0,0.0,0.0,0.03,2,0.0,1.0,2.5,0,0,3,True,2.0,0.21,44.77,0,0,0,0,0,0.0,Sheffield Utd,False,Everton,
-Ben Osborn,Sheffield Utd,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.2,43.32,0,0,0,0,0,1.0,Sheffield Utd,True,Tottenham,
-Ben Osborn,Sheffield Utd,Tottenham,2024-05-19,True,MC,4,0.0,0.0,0.0,0.07,1,0.0,1.0,1.2,0,0,0,True,1.6,0.2,42.09,0,0,0,0,0,0.0,Sheffield Utd,True,Everton,
-Ben Osborn,Sheffield Utd,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.2,40.82,0,0,0,0,0,0.0,Sheffield Utd,False,Tottenham,
-Ben Osborn,Sheffield Utd,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,39.62,0,0,0,0,0,0.0,Sheffield Utd,True,Newcastle United,
-Ben Osborn,Sheffield Utd,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,38.49,0,0,0,0,0,0.0,Sheffield Utd,False,West Ham,
-Ben Osborn,Sheffield Utd,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,37.42,0,0,0,0,0,0.0,Sheffield Utd,False,Fulham,
-Ben Osborn,Sheffield Utd,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,36.41,0,0,0,0,0,1.0,Sheffield Utd,True,Manchester United,
-Ben Osborn,Sheffield Utd,Manchester United,2023-10-21,True,Sub,12,0.0,0.0,0.0,0.01,1,0.0,1.0,1.9,0,0,0,False,0.0,0.0,35.76,0,0,0,0,0,,,,,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Ben Osborn,Sheffield Utd,Crystal Palace,2023-08-12,True,MC,86,0.0,0.11,0.0,0.0,2,1.0,0.0,0.0,0,0,1,True,0.0,0.0,86.0,0,0,0,0,0,0.0,Sheffield Utd,False,Arsenal,,-0.48
+Ben Osborn,Sheffield Utd,Arsenal,2023-10-28,False,Sub,31,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,2,False,2.0,0.11,58.5,0,0,0,0,0,1.0,Sheffield Utd,True,Wolverhampton,,0.05
+Ben Osborn,Sheffield Utd,Wolverhampton,2023-11-04,True,Sub,1,0.0,0.0,0.0,0.07,1,0.0,1.0,1.4,0,0,0,False,1.0,0.06,39.33,0,0,0,0,0,1.0,Sheffield Utd,False,Brighton,,-0.6
+Ben Osborn,Sheffield Utd,Brighton,2023-11-12,False,Sub,38,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,1.0,0.04,39.0,0,0,0,0,0,1.0,Sheffield Utd,True,Bournemouth,,1.22
+Ben Osborn,Sheffield Utd,Bournemouth,2023-11-25,True,Sub,24,0.0,0.0,0.0,0.03,1,0.0,1.0,2.1,0,0,0,False,1.0,0.03,36.0,0,0,0,0,0,0.0,Sheffield Utd,False,Burnley,,0.0
+Ben Osborn,Sheffield Utd,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.02,30.0,0,0,0,0,0,0.0,Sheffield Utd,True,Liverpool,,0.18
+Ben Osborn,Sheffield Utd,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,25.71,0,0,0,0,0,0.0,Sheffield Utd,True,Brentford,,0.79
+Ben Osborn,Sheffield Utd,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,22.5,0,0,0,0,0,0.0,Sheffield Utd,False,Chelsea,,-0.85
+Ben Osborn,Sheffield Utd,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,20.0,0,0,0,0,0,0.0,Sheffield Utd,False,Aston Villa,,
+Ben Osborn,Sheffield Utd,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,18.0,0,0,0,0,0,0.0,Sheffield Utd,True,Luton,,
+Ben Osborn,Sheffield Utd,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,16.36,0,0,0,0,0,1.0,Sheffield Utd,False,Nottingham Forest,,
+Ben Osborn,Sheffield Utd,Nottingham Forest,2023-08-18,False,DMR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,2,True,0.0,0.0,22.5,0,0,0,0,0,1.0,Sheffield Utd,False,Manchester City,,
+Ben Osborn,Sheffield Utd,Manchester City,2023-12-30,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,0.2,0.0,21.54,0,0,0,0,0,0.0,Sheffield Utd,True,West Ham,,
+Ben Osborn,Sheffield Utd,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,20.0,0,0,0,0,0,0.0,Sheffield Utd,False,Crystal Palace,,
+Ben Osborn,Sheffield Utd,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,18.67,0,0,0,0,0,1.0,Sheffield Utd,True,Aston Villa,,
+Ben Osborn,Sheffield Utd,Aston Villa,2024-02-03,True,Sub,40,0.0,0.0,0.0,0.06,1,0.0,1.0,2.0,0,0,0,False,0.4,0.0,20.0,0,0,0,0,0,5.0,Sheffield Utd,False,Luton,,
+Ben Osborn,Sheffield Utd,Luton,2024-02-10,False,ML,90,0.0,0.0,1.0,0.08,5,0.0,1.0,3.7,0,0,1,True,0.6,0.0,24.12,0,0,0,0,0,2.0,Sheffield Utd,True,Brighton,,-0.66
+Ben Osborn,Sheffield Utd,Brighton,2024-02-18,True,MC,78,0.0,0.02,0.0,0.0,2,1.0,0.0,0.8,0,0,4,True,1.4,0.2,27.11,0,0,0,0,0,1.0,Sheffield Utd,False,Wolverhampton,,-0.52
+Ben Osborn,Sheffield Utd,Wolverhampton,2024-02-25,False,Sub,18,0.0,0.0,0.0,0.08,1,0.0,1.0,1.9,0,0,0,False,1.6,0.2,26.63,0,0,0,0,0,2.0,Sheffield Utd,True,Arsenal,,-0.11
+Ben Osborn,Sheffield Utd,Arsenal,2024-03-04,True,Sub,73,0.0,0.0,0.0,0.0,2,0.0,0.0,0.7,0,0,3,False,1.8,0.2,28.95,0,0,0,0,0,2.0,Sheffield Utd,False,Bournemouth,,0.19
+Ben Osborn,Sheffield Utd,Bournemouth,2024-03-09,False,DML,90,0.0,0.0,0.0,0.04,2,0.0,1.0,3.0,0,0,2,True,2.2,0.2,31.86,0,0,0,0,0,1.0,Sheffield Utd,True,Manchester City,,
+Ben Osborn,Sheffield Utd,Manchester City,2023-08-27,True,DML,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,True,2.4,0.2,31.14,0,0,0,0,0,2.0,Sheffield Utd,True,Fulham,,-0.13
+Ben Osborn,Sheffield Utd,Fulham,2024-03-30,True,DML,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,3,True,1.6,0.0,33.7,0,0,0,0,0,1.0,Sheffield Utd,False,Liverpool,,-1.01
+Ben Osborn,Sheffield Utd,Liverpool,2024-04-04,False,Sub,28,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,2,False,1.6,0.0,33.46,0,0,0,0,0,2.0,Sheffield Utd,True,Chelsea,,-0.25
+Ben Osborn,Sheffield Utd,Chelsea,2024-04-07,True,MC,90,0.0,0.03,0.0,0.0,2,1.0,0.0,1.3,0,0,2,True,1.6,0.0,35.72,0,0,0,0,0,2.0,Sheffield Utd,False,Brentford,,-0.53
+Ben Osborn,Sheffield Utd,Brentford,2024-04-13,False,MC,90,0.0,0.01,0.0,0.05,2,1.0,1.0,4.1,0,0,2,True,1.6,0.01,37.81,0,0,0,0,0,1.0,Sheffield Utd,True,Burnley,,0.39
+Ben Osborn,Sheffield Utd,Burnley,2024-04-20,True,DL,90,0.0,0.0,0.0,0.02,1,0.0,1.0,2.7,0,0,4,True,1.6,0.01,39.74,0,0,0,0,0,5.0,Sheffield Utd,False,Manchester United,,
+Ben Osborn,Sheffield Utd,Manchester United,2024-04-24,False,DML,90,0.0,0.0,1.0,0.51,5,0.0,1.0,4.0,0,0,4,True,1.6,0.01,41.54,0,0,0,0,0,0.0,Sheffield Utd,False,Newcastle United,,
+Ben Osborn,Sheffield Utd,Newcastle United,2024-04-27,False,DML,90,0.0,0.0,0.0,0.04,0,0.0,1.0,2.9,0,0,5,True,2.2,0.21,43.21,0,0,0,0,0,2.0,Sheffield Utd,True,Nottingham Forest,,
+Ben Osborn,Sheffield Utd,Nottingham Forest,2024-05-04,True,DML,90,0.0,0.0,0.0,0.03,2,0.0,1.0,2.5,0,0,3,True,2.0,0.21,44.77,0,0,0,0,0,0.0,Sheffield Utd,False,Everton,,-0.24
+Ben Osborn,Sheffield Utd,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.2,43.32,0,0,0,0,0,1.0,Sheffield Utd,True,Tottenham,,0.69
+Ben Osborn,Sheffield Utd,Tottenham,2024-05-19,True,MC,4,0.0,0.0,0.0,0.07,1,0.0,1.0,1.2,0,0,0,True,1.6,0.2,42.09,0,0,0,0,0,0.0,Sheffield Utd,True,Everton,,0.53
+Ben Osborn,Sheffield Utd,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.2,40.82,0,0,0,0,0,0.0,Sheffield Utd,False,Tottenham,,-0.36
+Ben Osborn,Sheffield Utd,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,39.62,0,0,0,0,0,0.0,Sheffield Utd,True,Newcastle United,,
+Ben Osborn,Sheffield Utd,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,38.49,0,0,0,0,0,0.0,Sheffield Utd,False,West Ham,,
+Ben Osborn,Sheffield Utd,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,37.42,0,0,0,0,0,0.0,Sheffield Utd,False,Fulham,,0.86
+Ben Osborn,Sheffield Utd,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,36.41,0,0,0,0,0,1.0,Sheffield Utd,True,Manchester United,,
+Ben Osborn,Sheffield Utd,Manchester United,2023-10-21,True,Sub,12,0.0,0.0,0.0,0.01,1,0.0,1.0,1.9,0,0,0,False,0.0,0.0,35.76,0,0,0,0,0,,,,,,

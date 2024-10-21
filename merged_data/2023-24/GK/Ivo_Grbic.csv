@@ -1,18 +1,18 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,saves_per_game,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,last_season_total_saves,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Ivo Grbic,Sheffield Utd,Crystal Palace,2024-01-30,False,51,2,0.92,0,0,0,0,False,0.0,True,0.0,0.0,0.0,0,0,0,0,0.0,Sheffield Utd,True,Aston Villa,
-Ivo Grbic,Sheffield Utd,Aston Villa,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Sheffield Utd,False,Luton,
-Ivo Grbic,Sheffield Utd,Luton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Sheffield Utd,True,Brighton,
-Ivo Grbic,Sheffield Utd,Brighton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,2.0,Sheffield Utd,False,Wolverhampton,
-Ivo Grbic,Sheffield Utd,Wolverhampton,2024-02-25,False,90,1,1.24,1,0,2,0,False,0.0,True,0.0,0.0,0.2,0,0,0,0,0.0,Sheffield Utd,True,Arsenal,
-Ivo Grbic,Sheffield Utd,Arsenal,2024-03-04,True,90,6,2.25,4,0,0,0,False,0.0,True,0.4,0.0,0.83,0,0,0,0,3.0,Sheffield Utd,False,Bournemouth,
-Ivo Grbic,Sheffield Utd,Bournemouth,2024-03-09,False,90,2,3.34,9,0,3,0,False,0.0,True,0.4,0.0,2.0,0,0,0,0,3.0,Sheffield Utd,True,Fulham,
-Ivo Grbic,Sheffield Utd,Fulham,2024-03-30,True,90,3,1.35,6,0,3,0,False,0.0,True,1.0,0.0,2.5,0,0,0,0,3.0,Sheffield Utd,False,Liverpool,
-Ivo Grbic,Sheffield Utd,Liverpool,2024-04-04,False,90,3,1.65,6,0,3,0,False,0.0,True,1.6,0.0,2.89,0,0,0,0,1.0,Sheffield Utd,True,Chelsea,
-Ivo Grbic,Sheffield Utd,Chelsea,2024-04-07,True,90,2,0.37,2,0,1,0,False,0.0,True,2.2,0.0,2.8,0,0,0,0,2.0,Sheffield Utd,False,Brentford,
-Ivo Grbic,Sheffield Utd,Brentford,2024-04-13,False,90,2,1.02,4,0,2,0,False,0.0,True,2.0,0.0,2.91,0,0,0,0,1.0,Sheffield Utd,True,Burnley,
-Ivo Grbic,Sheffield Utd,Burnley,2024-04-20,True,90,4,2.18,5,0,1,0,False,0.0,True,2.4,0.0,3.08,0,0,0,0,0.0,Sheffield Utd,False,Manchester United,
-Ivo Grbic,Sheffield Utd,Manchester United,,False,0,0,0.0,0,0,0,0,False,,False,2.0,0.0,2.85,0,0,0,0,0.0,Sheffield Utd,False,Newcastle United,
-Ivo Grbic,Sheffield Utd,Newcastle United,,False,0,0,0.0,0,0,0,0,False,,False,1.4,0.0,2.64,0,0,0,0,0.0,Sheffield Utd,True,Nottingham Forest,
-Ivo Grbic,Sheffield Utd,Nottingham Forest,,True,0,0,0.0,0,0,0,0,False,,False,0.8,0.0,2.47,0,0,0,0,0.0,Sheffield Utd,False,Everton,
-Ivo Grbic,Sheffield Utd,Everton,,False,0,0,0.0,0,0,0,0,False,,False,0.6,0.0,2.31,0,0,0,0,0.0,Sheffield Utd,True,Tottenham,
-Ivo Grbic,Sheffield Utd,Tottenham,,True,0,0,0.0,0,0,0,0,False,,False,0.2,0.0,2.18,0,0,0,0,,,,,
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,saves_per_game,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,last_season_total_saves,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Ivo Grbic,Sheffield Utd,Crystal Palace,2024-01-30,False,51,2,0.92,0,0,0,0,False,0.0,True,0.0,0.0,0.0,0,0,0,0,0.0,Sheffield Utd,True,Aston Villa,,
+Ivo Grbic,Sheffield Utd,Aston Villa,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Sheffield Utd,False,Luton,,
+Ivo Grbic,Sheffield Utd,Luton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Sheffield Utd,True,Brighton,,-0.66
+Ivo Grbic,Sheffield Utd,Brighton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,2.0,Sheffield Utd,False,Wolverhampton,,-0.52
+Ivo Grbic,Sheffield Utd,Wolverhampton,2024-02-25,False,90,1,1.24,1,0,2,0,False,0.0,True,0.0,0.0,0.2,0,0,0,0,0.0,Sheffield Utd,True,Arsenal,,-0.11
+Ivo Grbic,Sheffield Utd,Arsenal,2024-03-04,True,90,6,2.25,4,0,0,0,False,0.0,True,0.4,0.0,0.83,0,0,0,0,3.0,Sheffield Utd,False,Bournemouth,,0.19
+Ivo Grbic,Sheffield Utd,Bournemouth,2024-03-09,False,90,2,3.34,9,0,3,0,False,0.0,True,0.4,0.0,2.0,0,0,0,0,3.0,Sheffield Utd,True,Fulham,,-0.13
+Ivo Grbic,Sheffield Utd,Fulham,2024-03-30,True,90,3,1.35,6,0,3,0,False,0.0,True,1.0,0.0,2.5,0,0,0,0,3.0,Sheffield Utd,False,Liverpool,,-1.01
+Ivo Grbic,Sheffield Utd,Liverpool,2024-04-04,False,90,3,1.65,6,0,3,0,False,0.0,True,1.6,0.0,2.89,0,0,0,0,1.0,Sheffield Utd,True,Chelsea,,-0.25
+Ivo Grbic,Sheffield Utd,Chelsea,2024-04-07,True,90,2,0.37,2,0,1,0,False,0.0,True,2.2,0.0,2.8,0,0,0,0,2.0,Sheffield Utd,False,Brentford,,-0.53
+Ivo Grbic,Sheffield Utd,Brentford,2024-04-13,False,90,2,1.02,4,0,2,0,False,0.0,True,2.0,0.0,2.91,0,0,0,0,1.0,Sheffield Utd,True,Burnley,,0.39
+Ivo Grbic,Sheffield Utd,Burnley,2024-04-20,True,90,4,2.18,5,0,1,0,False,0.0,True,2.4,0.0,3.08,0,0,0,0,0.0,Sheffield Utd,False,Manchester United,,
+Ivo Grbic,Sheffield Utd,Manchester United,,False,0,0,0.0,0,0,0,0,False,,False,2.0,0.0,2.85,0,0,0,0,0.0,Sheffield Utd,False,Newcastle United,,
+Ivo Grbic,Sheffield Utd,Newcastle United,,False,0,0,0.0,0,0,0,0,False,,False,1.4,0.0,2.64,0,0,0,0,0.0,Sheffield Utd,True,Nottingham Forest,,
+Ivo Grbic,Sheffield Utd,Nottingham Forest,,True,0,0,0.0,0,0,0,0,False,,False,0.8,0.0,2.47,0,0,0,0,0.0,Sheffield Utd,False,Everton,,-0.24
+Ivo Grbic,Sheffield Utd,Everton,,False,0,0,0.0,0,0,0,0,False,,False,0.6,0.0,2.31,0,0,0,0,0.0,Sheffield Utd,True,Tottenham,,0.69
+Ivo Grbic,Sheffield Utd,Tottenham,,True,0,0,0.0,0,0,0,0,False,,False,0.2,0.0,2.18,0,0,0,0,,,,,,

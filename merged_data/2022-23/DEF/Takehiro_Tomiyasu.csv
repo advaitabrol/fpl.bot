@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Takehiro Tomiyasu,Arsenal,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1,Arsenal,True,Liverpool,1.96
-Takehiro Tomiyasu,Arsenal,Liverpool,2022-10-09,True,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.7,0,0,2,0.0,False,0.0,0.0,45.0,0.0,0,0,0,0,6,Arsenal,False,Leicester City,-3.95
-Takehiro Tomiyasu,Arsenal,Leicester City,2022-10-16,False,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.4,0,1,0,0.0,False,0.5,0.0,60.0,0.5,0,0,0,0,2,Arsenal,False,Southampton,2.15
-Takehiro Tomiyasu,Arsenal,Southampton,2022-10-23,False,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.7,0,0,1,0.0,False,2.33,0.0,67.5,0.33,0,0,0,0,6,Arsenal,True,Nottingham Forest,
-Takehiro Tomiyasu,Arsenal,Nottingham Forest,2022-10-30,True,DL,62,0.0,0.05,0.0,0.04,6,1.0,1.0,4.2,0,1,0,0.0,False,2.25,0.0,66.4,0.5,0,0,0,0,0,Arsenal,False,Chelsea,-3.91
-Takehiro Tomiyasu,Arsenal,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.01,55.33,0.5,0,0,0,0,0,Arsenal,False,Wolverhampton,-1.32
-Takehiro Tomiyasu,Arsenal,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.01,47.43,0.5,0,0,0,0,0,Arsenal,True,West Ham,-2.46
-Takehiro Tomiyasu,Arsenal,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.8,0.01,41.5,0.5,0,0,0,0,0,Arsenal,False,Brighton,-0.75
-Takehiro Tomiyasu,Arsenal,Brighton,2022-12-31,False,Sub,30,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,0,2,0.78,False,1.6,0.01,40.22,0.5,0,0,0,0,1,Arsenal,True,Newcastle United,-2.77
-Takehiro Tomiyasu,Arsenal,Newcastle United,2023-01-03,True,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,1.2,0.01,37.6,0.5,0,0,0,0,0,Arsenal,True,Leeds United,-3.81
-Takehiro Tomiyasu,Arsenal,Leeds United,2022-08-13,True,Sub,15,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.2,0.0,35.55,0.5,0,0,0,0,1,Arsenal,False,Tottenham,3.44
-Takehiro Tomiyasu,Arsenal,Tottenham,2023-01-15,False,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.07,False,0.2,0.0,32.92,0.5,0,0,0,0,4,Arsenal,True,Manchester United,-1.99
-Takehiro Tomiyasu,Arsenal,Manchester United,2023-01-22,True,Sub,45,0.0,0.0,1.0,0.48,4,0.0,2.0,6.6,0,0,1,0.22,False,0.4,0.0,33.85,0.5,0,0,0,0,1,Arsenal,False,Everton,1.42
-Takehiro Tomiyasu,Arsenal,Everton,2023-02-04,False,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.0,False,1.2,0.2,31.79,0.5,0,0,0,0,0,Arsenal,True,Brentford,-1.07
-Takehiro Tomiyasu,Arsenal,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.2,29.67,0.5,0,0,0,0,0,Arsenal,True,Manchester City,0.98
-Takehiro Tomiyasu,Arsenal,Manchester City,2023-02-15,True,DR,82,0.0,0.08,0.0,0.0,0,1.0,0.0,1.7,0,0,3,1.71,True,1.2,0.2,32.94,0.4,0,0,0,0,1,Arsenal,False,Aston Villa,-0.61
-Takehiro Tomiyasu,Arsenal,Aston Villa,2023-02-18,False,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.11,False,1.2,0.22,31.65,0.4,0,0,0,0,1,Arsenal,False,Leeds United,-2.61
-Takehiro Tomiyasu,Arsenal,Leeds United,2023-02-25,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,1.2,0.22,29.94,0.4,0,0,0,0,0,Arsenal,True,Everton,-3.92
-Takehiro Tomiyasu,Arsenal,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.02,28.37,0.4,0,0,0,0,1,Arsenal,True,Bournemouth,
-Takehiro Tomiyasu,Arsenal,Bournemouth,2023-03-04,True,DR,45,0.0,0.01,0.0,0.0,1,1.0,0.0,2.9,0,0,1,1.06,True,0.4,0.02,29.2,0.4,0,0,0,0,1,Arsenal,False,Fulham,
-Takehiro Tomiyasu,Arsenal,Fulham,2023-03-12,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,0.11,False,0.6,0.02,28.29,0.4,0,0,0,0,0,Arsenal,True,Crystal Palace,-0.14
-Takehiro Tomiyasu,Arsenal,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.0,27.0,0.4,0,0,0,0,0,Arsenal,True,Leicester City,
-Takehiro Tomiyasu,Arsenal,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,25.83,0.4,0,0,0,0,1,Arsenal,False,Bournemouth,-3.74
-Takehiro Tomiyasu,Arsenal,Bournemouth,2022-08-20,False,Sub,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.0,False,0.4,0.0,25.38,0.4,0,0,0,0,0,Arsenal,False,Liverpool,4.27
-Takehiro Tomiyasu,Arsenal,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,24.36,0.4,0,0,0,0,0,Arsenal,False,West Ham,
-Takehiro Tomiyasu,Arsenal,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,23.42,0.4,0,0,0,0,0,Arsenal,True,Southampton,-3.78
-Takehiro Tomiyasu,Arsenal,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,22.56,0.4,0,0,0,0,0,Arsenal,False,Manchester City,4.53
-Takehiro Tomiyasu,Arsenal,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,21.75,0.4,0,0,0,0,0,Arsenal,True,Chelsea,2.07
-Takehiro Tomiyasu,Arsenal,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,21.0,0.4,0,0,0,0,0,Arsenal,False,Newcastle United,
-Takehiro Tomiyasu,Arsenal,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,20.3,0.4,0,0,0,0,0,Arsenal,True,Brighton,
-Takehiro Tomiyasu,Arsenal,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,19.65,0.4,0,0,0,0,0,Arsenal,False,Nottingham Forest,
-Takehiro Tomiyasu,Arsenal,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,19.03,0.4,0,0,0,0,0,Arsenal,True,Wolverhampton,
-Takehiro Tomiyasu,Arsenal,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,18.45,0.4,0,0,0,0,1,Arsenal,True,Fulham,-0.83
-Takehiro Tomiyasu,Arsenal,Fulham,2022-08-27,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,17.94,0.4,0,0,0,0,1,Arsenal,True,Aston Villa,-2.64
-Takehiro Tomiyasu,Arsenal,Aston Villa,2022-08-31,True,Sub,26,0.0,0.0,0.0,0.08,1,0.0,1.0,2.3,0,0,1,0.0,False,0.2,0.0,18.17,0.4,0,0,0,0,1,Arsenal,False,Manchester United,2.33
-Takehiro Tomiyasu,Arsenal,Manchester United,2022-09-04,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.0,False,0.4,0.0,17.94,0.4,0,0,0,0,1,Arsenal,False,Brentford,-0.38
-Takehiro Tomiyasu,Arsenal,Brentford,2022-09-18,False,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,0.6,0.0,17.57,0.4,0,0,0,0,1,Arsenal,True,Tottenham,-2.27
-Takehiro Tomiyasu,Arsenal,Tottenham,2022-10-01,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.8,0.0,17.13,0.4,0,0,0,0,1,Arsenal,True,Nottingham Forest,-5.07
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Takehiro Tomiyasu,Arsenal,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1,Arsenal,True,Liverpool,1.96,-0.53
+Takehiro Tomiyasu,Arsenal,Liverpool,2022-10-09,True,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.7,0,0,2,0.0,False,0.0,0.0,45.0,0.0,0,0,0,0,6,Arsenal,False,Leicester City,-3.95,
+Takehiro Tomiyasu,Arsenal,Leicester City,2022-10-16,False,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.4,0,1,0,0.0,False,0.5,0.0,60.0,0.5,0,0,0,0,2,Arsenal,False,Southampton,2.15,-1.07
+Takehiro Tomiyasu,Arsenal,Southampton,2022-10-23,False,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.7,0,0,1,0.0,False,2.33,0.0,67.5,0.33,0,0,0,0,6,Arsenal,True,Nottingham Forest,,
+Takehiro Tomiyasu,Arsenal,Nottingham Forest,2022-10-30,True,DL,62,0.0,0.05,0.0,0.04,6,1.0,1.0,4.2,0,1,0,0.0,False,2.25,0.0,66.4,0.5,0,0,0,0,0,Arsenal,False,Chelsea,-3.91,-0.72
+Takehiro Tomiyasu,Arsenal,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.01,55.33,0.5,0,0,0,0,0,Arsenal,False,Wolverhampton,-1.32,-0.46
+Takehiro Tomiyasu,Arsenal,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.01,47.43,0.5,0,0,0,0,0,Arsenal,True,West Ham,-2.46,
+Takehiro Tomiyasu,Arsenal,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.8,0.01,41.5,0.5,0,0,0,0,0,Arsenal,False,Brighton,-0.75,-0.39
+Takehiro Tomiyasu,Arsenal,Brighton,2022-12-31,False,Sub,30,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,0,2,0.78,False,1.6,0.01,40.22,0.5,0,0,0,0,1,Arsenal,True,Newcastle United,-2.77,
+Takehiro Tomiyasu,Arsenal,Newcastle United,2023-01-03,True,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,1.2,0.01,37.6,0.5,0,0,0,0,0,Arsenal,True,Leeds United,-3.81,
+Takehiro Tomiyasu,Arsenal,Leeds United,2022-08-13,True,Sub,15,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.2,0.0,35.55,0.5,0,0,0,0,1,Arsenal,False,Tottenham,3.44,-0.03
+Takehiro Tomiyasu,Arsenal,Tottenham,2023-01-15,False,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.07,False,0.2,0.0,32.92,0.5,0,0,0,0,4,Arsenal,True,Manchester United,-1.99,
+Takehiro Tomiyasu,Arsenal,Manchester United,2023-01-22,True,Sub,45,0.0,0.0,1.0,0.48,4,0.0,2.0,6.6,0,0,1,0.22,False,0.4,0.0,33.85,0.5,0,0,0,0,1,Arsenal,False,Everton,1.42,-0.63
+Takehiro Tomiyasu,Arsenal,Everton,2023-02-04,False,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.0,False,1.2,0.2,31.79,0.5,0,0,0,0,0,Arsenal,True,Brentford,-1.07,0.69
+Takehiro Tomiyasu,Arsenal,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.2,29.67,0.5,0,0,0,0,0,Arsenal,True,Manchester City,0.98,
+Takehiro Tomiyasu,Arsenal,Manchester City,2023-02-15,True,DR,82,0.0,0.08,0.0,0.0,0,1.0,0.0,1.7,0,0,3,1.71,True,1.2,0.2,32.94,0.4,0,0,0,0,1,Arsenal,False,Aston Villa,-0.61,
+Takehiro Tomiyasu,Arsenal,Aston Villa,2023-02-18,False,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.11,False,1.2,0.22,31.65,0.4,0,0,0,0,1,Arsenal,False,Leeds United,-2.61,
+Takehiro Tomiyasu,Arsenal,Leeds United,2023-02-25,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,1.2,0.22,29.94,0.4,0,0,0,0,0,Arsenal,True,Everton,-3.92,0.34
+Takehiro Tomiyasu,Arsenal,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.02,28.37,0.4,0,0,0,0,1,Arsenal,True,Bournemouth,,1.46
+Takehiro Tomiyasu,Arsenal,Bournemouth,2023-03-04,True,DR,45,0.0,0.01,0.0,0.0,1,1.0,0.0,2.9,0,0,1,1.06,True,0.4,0.02,29.2,0.4,0,0,0,0,1,Arsenal,False,Fulham,,1.37
+Takehiro Tomiyasu,Arsenal,Fulham,2023-03-12,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,0.11,False,0.6,0.02,28.29,0.4,0,0,0,0,0,Arsenal,True,Crystal Palace,-0.14,
+Takehiro Tomiyasu,Arsenal,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.0,27.0,0.4,0,0,0,0,0,Arsenal,True,Leicester City,,
+Takehiro Tomiyasu,Arsenal,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,25.83,0.4,0,0,0,0,1,Arsenal,False,Bournemouth,-3.74,0.19
+Takehiro Tomiyasu,Arsenal,Bournemouth,2022-08-20,False,Sub,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.0,False,0.4,0.0,25.38,0.4,0,0,0,0,0,Arsenal,False,Liverpool,4.27,-1.33
+Takehiro Tomiyasu,Arsenal,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,24.36,0.4,0,0,0,0,0,Arsenal,False,West Ham,,
+Takehiro Tomiyasu,Arsenal,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,23.42,0.4,0,0,0,0,0,Arsenal,True,Southampton,-3.78,-0.38
+Takehiro Tomiyasu,Arsenal,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,22.56,0.4,0,0,0,0,0,Arsenal,False,Manchester City,4.53,
+Takehiro Tomiyasu,Arsenal,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,21.75,0.4,0,0,0,0,0,Arsenal,True,Chelsea,2.07,-0.25
+Takehiro Tomiyasu,Arsenal,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,21.0,0.4,0,0,0,0,0,Arsenal,False,Newcastle United,,
+Takehiro Tomiyasu,Arsenal,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,20.3,0.4,0,0,0,0,0,Arsenal,True,Brighton,,-0.71
+Takehiro Tomiyasu,Arsenal,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,19.65,0.4,0,0,0,0,0,Arsenal,False,Nottingham Forest,,
+Takehiro Tomiyasu,Arsenal,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,19.03,0.4,0,0,0,0,0,Arsenal,True,Wolverhampton,,-0.48
+Takehiro Tomiyasu,Arsenal,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,18.45,0.4,0,0,0,0,1,Arsenal,True,Fulham,-0.83,-0.3
+Takehiro Tomiyasu,Arsenal,Fulham,2022-08-27,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,17.94,0.4,0,0,0,0,1,Arsenal,True,Aston Villa,-2.64,
+Takehiro Tomiyasu,Arsenal,Aston Villa,2022-08-31,True,Sub,26,0.0,0.0,0.0,0.08,1,0.0,1.0,2.3,0,0,1,0.0,False,0.2,0.0,18.17,0.4,0,0,0,0,1,Arsenal,False,Manchester United,2.33,
+Takehiro Tomiyasu,Arsenal,Manchester United,2022-09-04,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.0,False,0.4,0.0,17.94,0.4,0,0,0,0,1,Arsenal,False,Brentford,-0.38,-0.55
+Takehiro Tomiyasu,Arsenal,Brentford,2022-09-18,False,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,0.6,0.0,17.57,0.4,0,0,0,0,1,Arsenal,True,Tottenham,-2.27,1.07
+Takehiro Tomiyasu,Arsenal,Tottenham,2022-10-01,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.8,0.0,17.13,0.4,0,0,0,0,1,Arsenal,True,Nottingham Forest,-5.07,

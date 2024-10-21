@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Hugo Bueno López,Wolves,Manchester United,2023-08-14,False,Sub,13,0.0,0.02,0.0,0.0,1,1.0,0.0,3.4,0,0,0,0.29,False,0.0,0.0,13.0,0.0,0.12,1.07,17.25,0.23,0.0,Wolves,True,Newcastle United,-1.69
-Hugo Bueno López,Wolves,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.02,6.5,0.0,0.12,1.07,17.25,0.23,0.0,Wolves,False,Sheffield,
-Hugo Bueno López,Wolves,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.5,0.01,4.33,0.0,0.12,1.07,17.25,0.23,0.0,Wolves,True,Tottenham,0.14
-Hugo Bueno López,Wolves,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.33,0.01,3.25,0.0,0.12,1.07,17.25,0.23,0.0,Wolves,False,Fulham,-0.7
-Hugo Bueno López,Wolves,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.25,0.0,2.6,0.0,0.12,1.07,17.25,0.23,1.0,Wolves,False,Arsenal,2.85
-Hugo Bueno López,Wolves,Arsenal,2023-12-02,False,DML,61,0.0,0.0,0.0,0.33,1,0.0,1.0,3.7,0,0,2,1.58,True,0.2,0.0,12.33,0.0,0.12,1.07,17.25,0.23,6.0,Wolves,True,Burnley,0.01
-Hugo Bueno López,Wolves,Burnley,2023-12-05,True,DML,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.4,0,1,0,0.83,True,0.2,0.0,23.43,0.5,0.12,1.07,17.25,0.23,2.0,Wolves,True,Nottingham Forest,-1.37
-Hugo Bueno López,Wolves,Nottingham Forest,2023-12-09,True,DML,68,0.0,0.09,0.0,0.0,2,1.0,0.0,1.4,0,0,1,0.31,True,1.4,0.0,29.0,0.33,0.12,1.07,17.25,0.23,0.0,Wolves,False,West Ham,2.37
-Hugo Bueno López,Wolves,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.02,25.78,0.33,0.12,1.07,17.25,0.23,0.0,Wolves,True,Chelsea,-1.82
-Hugo Bueno López,Wolves,Chelsea,2023-12-24,True,Sub,3,0.0,0.0,0.0,0.0,0,0.0,0.0,0.4,0,0,1,0.54,False,1.8,0.02,23.5,0.33,0.12,1.07,17.25,0.23,1.0,Wolves,False,Brentford,-1.35
-Hugo Bueno López,Wolves,Brentford,2023-12-27,False,Sub,10,0.0,0.0,0.0,0.07,1,0.0,1.0,1.6,0,0,0,0.03,False,1.8,0.02,22.27,0.33,0.12,1.07,17.25,0.23,1.0,Wolves,True,Brighton,1.03
-Hugo Bueno López,Wolves,Brighton,2023-08-19,True,Sub,4,0.0,0.14,0.0,0.0,1,2.0,0.0,1.1,0,0,0,0.0,False,1.8,0.02,20.75,0.33,0.12,1.07,17.25,0.23,1.0,Wolves,True,Everton,-0.67
-Hugo Bueno López,Wolves,Everton,2023-12-30,True,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.06,False,0.8,0.05,20.46,0.33,0.12,1.07,17.25,0.23,0.0,Wolves,False,Brighton,2.18
-Hugo Bueno López,Wolves,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.03,19.0,0.33,0.12,1.07,17.25,0.23,0.0,Wolves,True,Manchester United,0.17
-Hugo Bueno López,Wolves,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.03,17.73,0.33,0.12,1.07,17.25,0.23,1.0,Wolves,False,Chelsea,0.12
-Hugo Bueno López,Wolves,Chelsea,2024-02-04,False,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.21,False,0.6,0.03,16.81,0.33,0.12,1.07,17.25,0.23,0.0,Wolves,True,Brentford,0.29
-Hugo Bueno López,Wolves,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.03,15.82,0.33,0.12,1.07,17.25,0.23,0.0,Wolves,False,Tottenham,-1.64
-Hugo Bueno López,Wolves,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,14.94,0.33,0.12,1.07,17.25,0.23,0.0,Wolves,True,Sheffield,
-Hugo Bueno López,Wolves,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,14.16,0.33,0.12,1.07,17.25,0.23,1.0,Wolves,False,Newcastle United,1.8
-Hugo Bueno López,Wolves,Newcastle United,2024-03-02,False,Sub,31,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,1,0.42,False,0.2,0.0,15.0,0.33,0.12,1.07,17.25,0.23,0.0,Wolves,True,Fulham,0.54
-Hugo Bueno López,Wolves,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,14.29,0.33,0.12,1.07,17.25,0.23,6.0,Wolves,False,Everton,-1.88
-Hugo Bueno López,Wolves,Everton,2023-08-26,False,DL,84,0.0,0.0,0.0,0.02,6,0.0,1.0,3.0,0,1,0,1.14,True,0.2,0.0,17.45,0.5,0.12,1.07,17.25,0.23,1.0,Wolves,False,Aston Villa,-0.98
-Hugo Bueno López,Wolves,Aston Villa,2024-03-30,False,Sub,26,0.0,0.0,0.0,0.29,1,0.0,1.0,2.6,0,0,1,0.29,False,1.4,0.0,17.83,0.5,0.12,1.07,17.25,0.23,2.0,Wolves,False,Burnley,
-Hugo Bueno López,Wolves,Burnley,2024-04-02,False,DL,67,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,0,1,0.81,True,1.6,0.0,19.88,0.4,0.12,1.07,17.25,0.23,1.0,Wolves,True,West Ham,-2.07
-Hugo Bueno López,Wolves,West Ham,2024-04-06,True,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.06,False,2.0,0.0,19.2,0.4,0.12,1.07,17.25,0.23,1.0,Wolves,False,Nottingham Forest,
-Hugo Bueno López,Wolves,Nottingham Forest,2024-04-13,False,Sub,31,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,0,0.37,False,2.0,0.0,19.65,0.4,0.12,1.07,17.25,0.23,1.0,Wolves,True,Arsenal,3.51
-Hugo Bueno López,Wolves,Arsenal,2024-04-20,True,ML,90,0.0,0.03,0.0,0.0,1,1.0,0.0,0.9,0,0,2,1.21,True,2.2,0.0,22.26,0.33,0.12,1.07,17.25,0.23,0.0,Wolves,True,Bournemouth,
-Hugo Bueno López,Wolves,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.01,21.46,0.33,0.12,1.07,17.25,0.23,1.0,Wolves,True,Luton,
-Hugo Bueno López,Wolves,Luton,2024-04-27,True,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.07,False,1.0,0.01,20.9,0.33,0.12,1.07,17.25,0.23,0.0,Wolves,False,Manchester City,-0.09
-Hugo Bueno López,Wolves,Manchester City,2024-05-04,False,DML,70,0.0,0.0,0.0,0.14,0,0.0,1.0,2.2,0,0,4,2.67,True,0.8,0.01,22.53,0.29,0.12,1.07,17.25,0.23,0.0,Wolves,True,Crystal Palace,
-Hugo Bueno López,Wolves,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.01,21.81,0.29,0.12,1.07,17.25,0.23,1.0,Wolves,False,Liverpool,
-Hugo Bueno López,Wolves,Liverpool,2024-05-19,False,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.58,False,0.4,0.01,21.5,0.29,0.12,1.07,17.25,0.23,1.0,Wolves,False,Crystal Palace,1.56
-Hugo Bueno López,Wolves,Crystal Palace,2023-09-03,False,Sub,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,0.24,False,0.4,0.0,21.09,0.29,0.12,1.07,17.25,0.23,-2.0,Wolves,True,Liverpool,1.2
-Hugo Bueno López,Wolves,Liverpool,2023-09-16,True,Sub,25,0.0,0.0,0.0,0.0,-2,0.0,0.0,0.0,0,0,2,0.89,False,0.6,0.0,21.21,0.29,0.12,1.07,17.25,0.23,1.0,Wolves,False,Luton,-1.71
-Hugo Bueno López,Wolves,Luton,2023-09-23,False,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.39,False,0.0,0.0,20.77,0.29,0.12,1.07,17.25,0.23,0.0,Wolves,True,Manchester City,-0.07
-Hugo Bueno López,Wolves,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,20.19,0.29,0.12,1.07,17.25,0.23,0.0,Wolves,True,Aston Villa,-1.23
-Hugo Bueno López,Wolves,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,19.65,0.29,0.12,1.07,17.25,0.23,0.0,Wolves,False,Bournemouth,0.02
-Hugo Bueno López,Wolves,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,19.13,0.29,0.12,1.07,17.25,0.23,,,,,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Hugo Bueno López,Wolves,Manchester United,2023-08-14,False,Sub,13,0.0,0.02,0.0,0.0,1,1.0,0.0,3.4,0,0,0,0.29,False,0.0,0.0,13.0,0.0,0.12,1.07,17.25,0.23,0.0,Wolves,True,Newcastle United,-1.69,
+Hugo Bueno López,Wolves,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.02,6.5,0.0,0.12,1.07,17.25,0.23,0.0,Wolves,False,Sheffield,,-0.61
+Hugo Bueno López,Wolves,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.5,0.01,4.33,0.0,0.12,1.07,17.25,0.23,0.0,Wolves,True,Tottenham,0.14,0.69
+Hugo Bueno López,Wolves,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.33,0.01,3.25,0.0,0.12,1.07,17.25,0.23,0.0,Wolves,False,Fulham,-0.7,0.86
+Hugo Bueno López,Wolves,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.25,0.0,2.6,0.0,0.12,1.07,17.25,0.23,1.0,Wolves,False,Arsenal,2.85,-0.48
+Hugo Bueno López,Wolves,Arsenal,2023-12-02,False,DML,61,0.0,0.0,0.0,0.33,1,0.0,1.0,3.7,0,0,2,1.58,True,0.2,0.0,12.33,0.0,0.12,1.07,17.25,0.23,6.0,Wolves,True,Burnley,0.01,0.39
+Hugo Bueno López,Wolves,Burnley,2023-12-05,True,DML,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.4,0,1,0,0.83,True,0.2,0.0,23.43,0.5,0.12,1.07,17.25,0.23,2.0,Wolves,True,Nottingham Forest,-1.37,
+Hugo Bueno López,Wolves,Nottingham Forest,2023-12-09,True,DML,68,0.0,0.09,0.0,0.0,2,1.0,0.0,1.4,0,0,1,0.31,True,1.4,0.0,29.0,0.33,0.12,1.07,17.25,0.23,0.0,Wolves,False,West Ham,2.37,
+Hugo Bueno López,Wolves,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.02,25.78,0.33,0.12,1.07,17.25,0.23,0.0,Wolves,True,Chelsea,-1.82,-0.25
+Hugo Bueno López,Wolves,Chelsea,2023-12-24,True,Sub,3,0.0,0.0,0.0,0.0,0,0.0,0.0,0.4,0,0,1,0.54,False,1.8,0.02,23.5,0.33,0.12,1.07,17.25,0.23,1.0,Wolves,False,Brentford,-1.35,-0.53
+Hugo Bueno López,Wolves,Brentford,2023-12-27,False,Sub,10,0.0,0.0,0.0,0.07,1,0.0,1.0,1.6,0,0,0,0.03,False,1.8,0.02,22.27,0.33,0.12,1.07,17.25,0.23,1.0,Wolves,True,Brighton,1.03,-0.66
+Hugo Bueno López,Wolves,Brighton,2023-08-19,True,Sub,4,0.0,0.14,0.0,0.0,1,2.0,0.0,1.1,0,0,0,0.0,False,1.8,0.02,20.75,0.33,0.12,1.07,17.25,0.23,1.0,Wolves,True,Everton,-0.67,0.53
+Hugo Bueno López,Wolves,Everton,2023-12-30,True,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.06,False,0.8,0.05,20.46,0.33,0.12,1.07,17.25,0.23,0.0,Wolves,False,Brighton,2.18,-0.6
+Hugo Bueno López,Wolves,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.03,19.0,0.33,0.12,1.07,17.25,0.23,0.0,Wolves,True,Manchester United,0.17,
+Hugo Bueno López,Wolves,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.03,17.73,0.33,0.12,1.07,17.25,0.23,1.0,Wolves,False,Chelsea,0.12,-0.85
+Hugo Bueno López,Wolves,Chelsea,2024-02-04,False,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.21,False,0.6,0.03,16.81,0.33,0.12,1.07,17.25,0.23,0.0,Wolves,True,Brentford,0.29,0.79
+Hugo Bueno López,Wolves,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.03,15.82,0.33,0.12,1.07,17.25,0.23,0.0,Wolves,False,Tottenham,-1.64,-0.36
+Hugo Bueno López,Wolves,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,14.94,0.33,0.12,1.07,17.25,0.23,0.0,Wolves,True,Sheffield,,0.68
+Hugo Bueno López,Wolves,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,14.16,0.33,0.12,1.07,17.25,0.23,1.0,Wolves,False,Newcastle United,1.8,
+Hugo Bueno López,Wolves,Newcastle United,2024-03-02,False,Sub,31,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,1,0.42,False,0.2,0.0,15.0,0.33,0.12,1.07,17.25,0.23,0.0,Wolves,True,Fulham,0.54,-0.13
+Hugo Bueno López,Wolves,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,14.29,0.33,0.12,1.07,17.25,0.23,6.0,Wolves,False,Everton,-1.88,-0.24
+Hugo Bueno López,Wolves,Everton,2023-08-26,False,DL,84,0.0,0.0,0.0,0.02,6,0.0,1.0,3.0,0,1,0,1.14,True,0.2,0.0,17.45,0.5,0.12,1.07,17.25,0.23,1.0,Wolves,False,Aston Villa,-0.98,
+Hugo Bueno López,Wolves,Aston Villa,2024-03-30,False,Sub,26,0.0,0.0,0.0,0.29,1,0.0,1.0,2.6,0,0,1,0.29,False,1.4,0.0,17.83,0.5,0.12,1.07,17.25,0.23,2.0,Wolves,False,Burnley,,0.0
+Hugo Bueno López,Wolves,Burnley,2024-04-02,False,DL,67,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,0,1,0.81,True,1.6,0.0,19.88,0.4,0.12,1.07,17.25,0.23,1.0,Wolves,True,West Ham,-2.07,
+Hugo Bueno López,Wolves,West Ham,2024-04-06,True,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.06,False,2.0,0.0,19.2,0.4,0.12,1.07,17.25,0.23,1.0,Wolves,False,Nottingham Forest,,
+Hugo Bueno López,Wolves,Nottingham Forest,2024-04-13,False,Sub,31,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,0,0.37,False,2.0,0.0,19.65,0.4,0.12,1.07,17.25,0.23,1.0,Wolves,True,Arsenal,3.51,-0.11
+Hugo Bueno López,Wolves,Arsenal,2024-04-20,True,ML,90,0.0,0.03,0.0,0.0,1,1.0,0.0,0.9,0,0,2,1.21,True,2.2,0.0,22.26,0.33,0.12,1.07,17.25,0.23,0.0,Wolves,True,Bournemouth,,1.22
+Hugo Bueno López,Wolves,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.01,21.46,0.33,0.12,1.07,17.25,0.23,1.0,Wolves,True,Luton,,
+Hugo Bueno López,Wolves,Luton,2024-04-27,True,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.07,False,1.0,0.01,20.9,0.33,0.12,1.07,17.25,0.23,0.0,Wolves,False,Manchester City,-0.09,
+Hugo Bueno López,Wolves,Manchester City,2024-05-04,False,DML,70,0.0,0.0,0.0,0.14,0,0.0,1.0,2.2,0,0,4,2.67,True,0.8,0.01,22.53,0.29,0.12,1.07,17.25,0.23,0.0,Wolves,True,Crystal Palace,,
+Hugo Bueno López,Wolves,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.01,21.81,0.29,0.12,1.07,17.25,0.23,1.0,Wolves,False,Liverpool,,-1.01
+Hugo Bueno López,Wolves,Liverpool,2024-05-19,False,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.58,False,0.4,0.01,21.5,0.29,0.12,1.07,17.25,0.23,1.0,Wolves,False,Crystal Palace,1.56,
+Hugo Bueno López,Wolves,Crystal Palace,2023-09-03,False,Sub,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,0.24,False,0.4,0.0,21.09,0.29,0.12,1.07,17.25,0.23,-2.0,Wolves,True,Liverpool,1.2,0.18
+Hugo Bueno López,Wolves,Liverpool,2023-09-16,True,Sub,25,0.0,0.0,0.0,0.0,-2,0.0,0.0,0.0,0,0,2,0.89,False,0.6,0.0,21.21,0.29,0.12,1.07,17.25,0.23,1.0,Wolves,False,Luton,-1.71,
+Hugo Bueno López,Wolves,Luton,2023-09-23,False,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.39,False,0.0,0.0,20.77,0.29,0.12,1.07,17.25,0.23,0.0,Wolves,True,Manchester City,-0.07,
+Hugo Bueno López,Wolves,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,20.19,0.29,0.12,1.07,17.25,0.23,0.0,Wolves,True,Aston Villa,-1.23,
+Hugo Bueno López,Wolves,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,19.65,0.29,0.12,1.07,17.25,0.23,0.0,Wolves,False,Bournemouth,0.02,0.19
+Hugo Bueno López,Wolves,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,19.13,0.29,0.12,1.07,17.25,0.23,,,,,,

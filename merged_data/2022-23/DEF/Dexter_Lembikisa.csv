@@ -1,25 +1,25 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Dexter Lembikisa,Wolves,Arsenal,2022-11-12,True,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,0.33,False,0.0,0.0,22.0,0.0,0,0,0,0,0.0,Wolves,False,Everton,-1.05
-Dexter Lembikisa,Wolves,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,11.0,0.0,0,0,0,0,0.0,Wolves,True,Manchester United,-0.79
-Dexter Lembikisa,Wolves,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.5,0.0,7.33,0.0,0,0,0,0,0.0,Wolves,False,Aston Villa,-2.09
-Dexter Lembikisa,Wolves,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.33,0.0,5.5,0.0,0,0,0,0,0.0,Wolves,True,West Ham,-2.69
-Dexter Lembikisa,Wolves,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.25,0.0,4.4,0.0,0,0,0,0,0.0,Wolves,False,Manchester City,-0.09
-Dexter Lembikisa,Wolves,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,3.67,0.0,0,0,0,0,0.0,Wolves,True,Liverpool,0.37
-Dexter Lembikisa,Wolves,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.14,0.0,0,0,0,0,0.0,Wolves,False,Southampton,-2.8
-Dexter Lembikisa,Wolves,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.75,0.0,0,0,0,0,0.0,Wolves,True,Bournemouth,
-Dexter Lembikisa,Wolves,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.44,0.0,0,0,0,0,0.0,Wolves,False,Fulham,
-Dexter Lembikisa,Wolves,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.2,0.0,0,0,0,0,0.0,Wolves,False,Liverpool,0.91
-Dexter Lembikisa,Wolves,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.0,0.0,0,0,0,0,0.0,Wolves,True,Tottenham,2.05
-Dexter Lembikisa,Wolves,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.83,0.0,0,0,0,0,0.0,Wolves,False,Newcastle United,3.01
-Dexter Lembikisa,Wolves,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.69,0.0,0,0,0,0,0.0,Wolves,True,Leicester City,2.07
-Dexter Lembikisa,Wolves,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.57,0.0,0,0,0,0,0.0,Wolves,False,Nottingham Forest,
-Dexter Lembikisa,Wolves,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.47,0.0,0,0,0,0,0.0,Wolves,True,Chelsea,-1.03
-Dexter Lembikisa,Wolves,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.38,0.0,0,0,0,0,0.0,Wolves,True,Brentford,3.23
-Dexter Lembikisa,Wolves,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.29,0.0,0,0,0,0,0.0,Wolves,False,Leeds United,0.21
-Dexter Lembikisa,Wolves,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.22,0.0,0,0,0,0,0.0,Wolves,True,Crystal Palace,4.57
-Dexter Lembikisa,Wolves,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.16,0.0,0,0,0,0,0.0,Wolves,False,Brighton,-1.83
-Dexter Lembikisa,Wolves,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.1,0.0,0,0,0,0,0.0,Wolves,True,Aston Villa,-1.69
-Dexter Lembikisa,Wolves,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.05,0.0,0,0,0,0,0.0,Wolves,False,Manchester United,-0.63
-Dexter Lembikisa,Wolves,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.0,0.0,0,0,0,0,0.0,Wolves,True,Everton,-1.31
-Dexter Lembikisa,Wolves,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.96,0.0,0,0,0,0,0.0,Wolves,False,Arsenal,
-Dexter Lembikisa,Wolves,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.92,0.0,0,0,0,0,,Man City,False,Burnley,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Dexter Lembikisa,Wolves,Arsenal,2022-11-12,True,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,0.33,False,0.0,0.0,22.0,0.0,0,0,0,0,0.0,Wolves,False,Everton,-1.05,-0.63
+Dexter Lembikisa,Wolves,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,11.0,0.0,0,0,0,0,0.0,Wolves,True,Manchester United,-0.79,
+Dexter Lembikisa,Wolves,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.5,0.0,7.33,0.0,0,0,0,0,0.0,Wolves,False,Aston Villa,-2.09,
+Dexter Lembikisa,Wolves,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.33,0.0,5.5,0.0,0,0,0,0,0.0,Wolves,True,West Ham,-2.69,
+Dexter Lembikisa,Wolves,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.25,0.0,4.4,0.0,0,0,0,0,0.0,Wolves,False,Manchester City,-0.09,
+Dexter Lembikisa,Wolves,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,3.67,0.0,0,0,0,0,0.0,Wolves,True,Liverpool,0.37,-0.53
+Dexter Lembikisa,Wolves,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.14,0.0,0,0,0,0,0.0,Wolves,False,Southampton,-2.8,-1.07
+Dexter Lembikisa,Wolves,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.75,0.0,0,0,0,0,0.0,Wolves,True,Bournemouth,,1.46
+Dexter Lembikisa,Wolves,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.44,0.0,0,0,0,0,0.0,Wolves,False,Fulham,,1.37
+Dexter Lembikisa,Wolves,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.2,0.0,0,0,0,0,0.0,Wolves,False,Liverpool,0.91,-1.33
+Dexter Lembikisa,Wolves,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.0,0.0,0,0,0,0,0.0,Wolves,True,Tottenham,2.05,1.07
+Dexter Lembikisa,Wolves,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.83,0.0,0,0,0,0,0.0,Wolves,False,Newcastle United,3.01,
+Dexter Lembikisa,Wolves,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.69,0.0,0,0,0,0,0.0,Wolves,True,Leicester City,2.07,
+Dexter Lembikisa,Wolves,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.57,0.0,0,0,0,0,0.0,Wolves,False,Nottingham Forest,,
+Dexter Lembikisa,Wolves,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.47,0.0,0,0,0,0,0.0,Wolves,True,Chelsea,-1.03,-0.25
+Dexter Lembikisa,Wolves,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.38,0.0,0,0,0,0,0.0,Wolves,True,Brentford,3.23,0.69
+Dexter Lembikisa,Wolves,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.29,0.0,0,0,0,0,0.0,Wolves,False,Leeds United,0.21,
+Dexter Lembikisa,Wolves,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.22,0.0,0,0,0,0,0.0,Wolves,True,Crystal Palace,4.57,
+Dexter Lembikisa,Wolves,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.16,0.0,0,0,0,0,0.0,Wolves,False,Brighton,-1.83,-0.39
+Dexter Lembikisa,Wolves,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.1,0.0,0,0,0,0,0.0,Wolves,True,Aston Villa,-1.69,
+Dexter Lembikisa,Wolves,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.05,0.0,0,0,0,0,0.0,Wolves,False,Manchester United,-0.63,
+Dexter Lembikisa,Wolves,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,1.0,0.0,0,0,0,0,0.0,Wolves,True,Everton,-1.31,0.34
+Dexter Lembikisa,Wolves,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.96,0.0,0,0,0,0,0.0,Wolves,False,Arsenal,,-0.0
+Dexter Lembikisa,Wolves,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.92,0.0,0,0,0,0,,Man City,False,Burnley,,0.0

@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Anass Zaroury,Burnley,Manchester City,2023-08-11,True,Sub,30,0.0,0.06,0.0,0.01,-2,1.0,1.0,0.0,0,0,1,False,0.0,0.0,30.0,0,0,0,0,0,2.0,Burnley,False,Bournemouth,
-Anass Zaroury,Burnley,Bournemouth,2023-10-28,False,FWL,67,0.0,0.03,0.0,0.0,2,1.0,0.0,1.4,0,0,1,True,-2.0,0.06,48.5,0,0,0,0,0,0.0,Burnley,True,Crystal Palace,0.07
-Anass Zaroury,Burnley,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.05,32.33,0,0,0,0,0,0.0,Burnley,False,Arsenal,-1.08
-Anass Zaroury,Burnley,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.03,24.25,0,0,0,0,0,1.0,Burnley,True,West Ham,-0.48
-Anass Zaroury,Burnley,West Ham,2023-11-25,True,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,2,False,0.0,0.02,21.2,0,0,0,0,0,0.0,Burnley,True,Sheffield,
-Anass Zaroury,Burnley,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.02,17.67,0,0,0,0,0,0.0,Burnley,False,Wolverhampton,0.24
-Anass Zaroury,Burnley,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,15.14,0,0,0,0,0,0.0,Burnley,False,Brighton,-6.77
-Anass Zaroury,Burnley,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,13.25,0,0,0,0,0,0.0,Burnley,True,Everton,-1.19
-Anass Zaroury,Burnley,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,11.78,0,0,0,0,0,0.0,Burnley,False,Fulham,
-Anass Zaroury,Burnley,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,10.6,0,0,0,0,0,0.0,Burnley,True,Liverpool,1.07
-Anass Zaroury,Burnley,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,9.64,0,0,0,0,0,0.0,Burnley,False,Aston Villa,-2.94
-Anass Zaroury,Burnley,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.83,0,0,0,0,0,0.0,Burnley,True,Luton,
-Anass Zaroury,Burnley,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.15,0,0,0,0,0,1.0,Burnley,False,Manchester City,1.29
-Anass Zaroury,Burnley,Manchester City,2024-01-31,False,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,False,0.0,0.0,8.57,0,0,0,0,0,0.0,Burnley,True,Fulham,
-Anass Zaroury,Burnley,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,8.0,0,0,0,0,0,0.0,Burnley,False,Liverpool,3.66
-Anass Zaroury,Burnley,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,7.5,0,0,0,0,0,0.0,Burnley,True,Arsenal,2.1
-Anass Zaroury,Burnley,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,7.06,0,0,0,0,0,0.0,Burnley,False,Crystal Palace,1.42
-Anass Zaroury,Burnley,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.67,0,0,0,0,0,0.0,Burnley,True,Bournemouth,
-Anass Zaroury,Burnley,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.32,0,0,0,0,0,0.0,Burnley,False,West Ham,-0.06
-Anass Zaroury,Burnley,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.0,0,0,0,0,0,0.0,Burnley,True,Brentford,-6.41
-Anass Zaroury,Burnley,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.71,0,0,0,0,0,0.0,Burnley,True,Aston Villa,3.88
-Anass Zaroury,Burnley,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.45,0,0,0,0,0,0.0,Burnley,False,Chelsea,1.09
-Anass Zaroury,Burnley,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.22,0,0,0,0,0,0.0,Burnley,True,Wolverhampton,
-Anass Zaroury,Burnley,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.0,0,0,0,0,0,0.0,Burnley,False,Everton,2.03
-Anass Zaroury,Burnley,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.8,0,0,0,0,0,0.0,Burnley,True,Brighton,-0.51
-Anass Zaroury,Burnley,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.62,0,0,0,0,0,0.0,Burnley,False,Sheffield,
-Anass Zaroury,Burnley,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.44,0,0,0,0,0,0.0,Burnley,False,Manchester United,4.49
-Anass Zaroury,Burnley,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.29,0,0,0,0,0,0.0,Burnley,True,Newcastle United,
-Anass Zaroury,Burnley,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.14,0,0,0,0,0,0.0,Burnley,False,Tottenham,
-Anass Zaroury,Burnley,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.0,0,0,0,0,0,0.0,Burnley,True,Nottingham Forest,
-Anass Zaroury,Burnley,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.87,0,0,0,0,0,0.0,Burnley,True,Tottenham,2.27
-Anass Zaroury,Burnley,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.75,0,0,0,0,0,1.0,Burnley,False,Nottingham Forest,-1.33
-Anass Zaroury,Burnley,Nottingham Forest,2023-09-18,False,Sub,27,0.0,0.08,0.0,0.0,1,1.0,0.0,0.3,0,0,0,False,0.0,0.0,4.45,0,0,0,0,0,0.0,Burnley,True,Manchester United,0.22
-Anass Zaroury,Burnley,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.02,4.32,0,0,0,0,0,1.0,Burnley,False,Newcastle United,3.29
-Anass Zaroury,Burnley,Newcastle United,2023-09-30,False,Sub,2,0.0,0.0,0.0,0.03,1,0.0,1.0,1.2,0,0,0,False,0.2,0.02,4.26,0,0,0,0,0,0.0,Burnley,False,Luton,-0.73
-Anass Zaroury,Burnley,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.02,4.14,0,0,0,0,0,0.0,Burnley,True,Chelsea,1.56
-Anass Zaroury,Burnley,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.02,4.03,0,0,0,0,0,0.0,Burnley,False,Brentford,2.95
-Anass Zaroury,Burnley,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.02,3.92,0,0,0,0,0,,,,,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Anass Zaroury,Burnley,Manchester City,2023-08-11,True,Sub,30,0.0,0.06,0.0,0.01,-2,1.0,1.0,0.0,0,0,1,False,0.0,0.0,30.0,0,0,0,0,0,2.0,Burnley,False,Bournemouth,,0.19
+Anass Zaroury,Burnley,Bournemouth,2023-10-28,False,FWL,67,0.0,0.03,0.0,0.0,2,1.0,0.0,1.4,0,0,1,True,-2.0,0.06,48.5,0,0,0,0,0,0.0,Burnley,True,Crystal Palace,0.07,
+Anass Zaroury,Burnley,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.05,32.33,0,0,0,0,0,0.0,Burnley,False,Arsenal,-1.08,-0.48
+Anass Zaroury,Burnley,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.03,24.25,0,0,0,0,0,1.0,Burnley,True,West Ham,-0.48,
+Anass Zaroury,Burnley,West Ham,2023-11-25,True,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,2,False,0.0,0.02,21.2,0,0,0,0,0,0.0,Burnley,True,Sheffield,,0.68
+Anass Zaroury,Burnley,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.02,17.67,0,0,0,0,0,0.0,Burnley,False,Wolverhampton,0.24,-0.52
+Anass Zaroury,Burnley,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,15.14,0,0,0,0,0,0.0,Burnley,False,Brighton,-6.77,-0.6
+Anass Zaroury,Burnley,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,13.25,0,0,0,0,0,0.0,Burnley,True,Everton,-1.19,0.53
+Anass Zaroury,Burnley,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,11.78,0,0,0,0,0,0.0,Burnley,False,Fulham,,0.86
+Anass Zaroury,Burnley,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,10.6,0,0,0,0,0,0.0,Burnley,True,Liverpool,1.07,0.18
+Anass Zaroury,Burnley,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,9.64,0,0,0,0,0,0.0,Burnley,False,Aston Villa,-2.94,
+Anass Zaroury,Burnley,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.83,0,0,0,0,0,0.0,Burnley,True,Luton,,
+Anass Zaroury,Burnley,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.15,0,0,0,0,0,1.0,Burnley,False,Manchester City,1.29,
+Anass Zaroury,Burnley,Manchester City,2024-01-31,False,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,False,0.0,0.0,8.57,0,0,0,0,0,0.0,Burnley,True,Fulham,,-0.13
+Anass Zaroury,Burnley,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,8.0,0,0,0,0,0,0.0,Burnley,False,Liverpool,3.66,-1.01
+Anass Zaroury,Burnley,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,7.5,0,0,0,0,0,0.0,Burnley,True,Arsenal,2.1,-0.11
+Anass Zaroury,Burnley,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,7.06,0,0,0,0,0,0.0,Burnley,False,Crystal Palace,1.42,
+Anass Zaroury,Burnley,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.67,0,0,0,0,0,0.0,Burnley,True,Bournemouth,,1.22
+Anass Zaroury,Burnley,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.32,0,0,0,0,0,0.0,Burnley,False,West Ham,-0.06,
+Anass Zaroury,Burnley,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.0,0,0,0,0,0,0.0,Burnley,True,Brentford,-6.41,0.79
+Anass Zaroury,Burnley,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.71,0,0,0,0,0,0.0,Burnley,True,Aston Villa,3.88,
+Anass Zaroury,Burnley,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.45,0,0,0,0,0,0.0,Burnley,False,Chelsea,1.09,-0.85
+Anass Zaroury,Burnley,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.22,0,0,0,0,0,0.0,Burnley,True,Wolverhampton,,0.05
+Anass Zaroury,Burnley,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.0,0,0,0,0,0,0.0,Burnley,False,Everton,2.03,-0.24
+Anass Zaroury,Burnley,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.8,0,0,0,0,0,0.0,Burnley,True,Brighton,-0.51,-0.66
+Anass Zaroury,Burnley,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.62,0,0,0,0,0,0.0,Burnley,False,Sheffield,,-0.61
+Anass Zaroury,Burnley,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.44,0,0,0,0,0,0.0,Burnley,False,Manchester United,4.49,
+Anass Zaroury,Burnley,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.29,0,0,0,0,0,0.0,Burnley,True,Newcastle United,,
+Anass Zaroury,Burnley,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.14,0,0,0,0,0,0.0,Burnley,False,Tottenham,,-0.36
+Anass Zaroury,Burnley,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.0,0,0,0,0,0,0.0,Burnley,True,Nottingham Forest,,
+Anass Zaroury,Burnley,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.87,0,0,0,0,0,0.0,Burnley,True,Tottenham,2.27,0.69
+Anass Zaroury,Burnley,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.75,0,0,0,0,0,1.0,Burnley,False,Nottingham Forest,-1.33,
+Anass Zaroury,Burnley,Nottingham Forest,2023-09-18,False,Sub,27,0.0,0.08,0.0,0.0,1,1.0,0.0,0.3,0,0,0,False,0.0,0.0,4.45,0,0,0,0,0,0.0,Burnley,True,Manchester United,0.22,
+Anass Zaroury,Burnley,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.02,4.32,0,0,0,0,0,1.0,Burnley,False,Newcastle United,3.29,
+Anass Zaroury,Burnley,Newcastle United,2023-09-30,False,Sub,2,0.0,0.0,0.0,0.03,1,0.0,1.0,1.2,0,0,0,False,0.2,0.02,4.26,0,0,0,0,0,0.0,Burnley,False,Luton,-0.73,
+Anass Zaroury,Burnley,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.02,4.14,0,0,0,0,0,0.0,Burnley,True,Chelsea,1.56,-0.25
+Anass Zaroury,Burnley,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.02,4.03,0,0,0,0,0,0.0,Burnley,False,Brentford,2.95,-0.53
+Anass Zaroury,Burnley,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.02,3.92,0,0,0,0,0,,,,,,

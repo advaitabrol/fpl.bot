@@ -1,35 +1,35 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Nicolás Domínguez,Nott'm Forest,Liverpool,2023-10-29,False,ML,68,0.0,0.06,0.0,0.0,1,1.0,0.0,1.3,0,0,2,True,0.0,0.0,68.0,0,0,0,0,0,3.0,Nott'm Forest,True,Aston Villa,-1.24
-Nicolás Domínguez,Nott'm Forest,Aston Villa,2023-11-05,True,MC,86,0.0,0.54,0.0,0.0,3,3.0,0.0,4.1,0,1,0,True,1.0,0.06,77.0,0,0,0,0,0,1.0,Nott'm Forest,False,West Ham,5.53
-Nicolás Domínguez,Nott'm Forest,West Ham,2023-11-12,False,MC,45,0.0,0.03,0.0,0.0,1,1.0,0.0,1.3,0,0,1,True,2.0,0.3,66.33,0,0,0,0,0,2.0,Nott'm Forest,True,Brighton,-4.68
-Nicolás Domínguez,Nott'm Forest,Brighton,2023-11-25,True,MC,68,0.0,0.0,0.0,0.02,2,0.0,1.0,3.0,0,0,3,True,1.67,0.21,66.75,0,0,0,0,0,0.0,Nott'm Forest,True,Everton,0.17
-Nicolás Domínguez,Nott'm Forest,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,1.75,0.16,53.4,0,0,0,0,0,1.0,Nott'm Forest,False,Fulham,3.69
-Nicolás Domínguez,Nott'm Forest,Fulham,2023-12-06,False,AMC,45,0.0,0.0,0.0,0.02,1,0.0,1.0,1.7,0,0,2,True,1.4,0.13,52.0,0,0,0,0,0,0.0,Nott'm Forest,False,Wolverhampton,1.27
-Nicolás Domínguez,Nott'm Forest,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.11,44.57,0,0,0,0,0,0.0,Nott'm Forest,True,Tottenham,5.64
-Nicolás Domínguez,Nott'm Forest,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.01,39.0,0,0,0,0,0,0.0,Nott'm Forest,True,Bournemouth,0.55
-Nicolás Domínguez,Nott'm Forest,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,34.67,0,0,0,0,0,1.0,Nott'm Forest,False,Newcastle United,1.35
-Nicolás Domínguez,Nott'm Forest,Newcastle United,2023-12-26,False,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.2,0.0,32.3,0,0,0,0,0,9.0,Nott'm Forest,True,Manchester United,2.69
-Nicolás Domínguez,Nott'm Forest,Manchester United,2023-12-30,True,AML,78,1.0,0.46,0.0,0.0,9,3.0,0.0,7.5,2,0,1,True,0.4,0.0,36.45,0,0,0,0,0,2.0,Nott'm Forest,False,Brentford,1.0
-Nicolás Domínguez,Nott'm Forest,Brentford,2024-01-20,False,AMR,90,0.0,0.0,0.0,0.07,2,0.0,1.0,4.5,0,0,3,True,2.0,0.09,40.92,0,0,0,0,0,3.0,Nott'm Forest,True,Arsenal,-2.77
-Nicolás Domínguez,Nott'm Forest,Arsenal,2024-01-30,True,AML,63,0.0,0.0,0.0,0.0,3,0.0,0.0,1.4,0,1,0,True,2.4,0.09,42.62,0,0,0,0,0,2.0,Nott'm Forest,False,Bournemouth,1.05
-Nicolás Domínguez,Nott'm Forest,Bournemouth,2024-02-04,False,DMC,71,0.0,0.0,0.0,0.15,2,0.0,1.0,4.0,0,0,1,True,3.0,0.09,44.64,0,0,0,0,0,6.0,Nott'm Forest,True,Newcastle United,1.26
-Nicolás Domínguez,Nott'm Forest,Newcastle United,2024-02-10,True,DMC,77,0.0,0.06,1.0,0.09,6,2.0,2.0,6.2,1,0,3,True,3.4,0.09,46.8,0,0,0,0,0,5.0,Nott'm Forest,True,West Ham,-1.34
-Nicolás Domínguez,Nott'm Forest,West Ham,2024-02-17,True,DMC,85,0.0,0.07,1.0,0.45,5,1.0,1.0,4.9,0,1,0,True,4.4,0.3,49.19,0,0,0,0,0,2.0,Nott'm Forest,False,Aston Villa,2.3
-Nicolás Domínguez,Nott'm Forest,Aston Villa,2024-02-24,False,DMC,72,0.0,0.01,0.0,0.0,2,1.0,0.0,1.1,0,0,4,True,3.6,0.43,50.53,0,0,0,0,0,3.0,Nott'm Forest,True,Liverpool,-3.15
-Nicolás Domínguez,Nott'm Forest,Liverpool,2024-03-02,True,DMC,78,0.0,0.16,0.0,0.04,3,2.0,1.0,4.0,0,1,0,True,3.6,0.43,52.06,0,0,0,0,0,1.0,Nott'm Forest,False,Brighton,0.45
-Nicolás Domínguez,Nott'm Forest,Brighton,2024-03-10,False,MC,71,0.0,0.0,0.0,0.02,1,0.0,1.0,1.5,0,0,1,True,3.6,0.46,53.05,0,0,0,0,0,1.0,Nott'm Forest,False,Luton,
-Nicolás Domínguez,Nott'm Forest,Luton,2024-03-16,False,Sub,8,0.0,0.07,0.0,0.04,1,1.0,1.0,2.4,0,0,1,False,3.4,0.46,50.8,0,0,0,0,0,0.0,Nott'm Forest,True,Crystal Palace,-1.59
-Nicolás Domínguez,Nott'm Forest,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,2.4,0.26,48.38,0,0,0,0,0,1.0,Nott'm Forest,True,Fulham,0.28
-Nicolás Domínguez,Nott'm Forest,Fulham,2024-04-02,True,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,1.4,0.05,46.5,0,0,0,0,0,1.0,Nott'm Forest,False,Tottenham,
-Nicolás Domínguez,Nott'm Forest,Tottenham,2024-04-07,False,Sub,22,0.0,0.03,0.0,0.0,1,1.0,0.0,1.9,0,0,0,False,1.2,0.05,45.43,0,0,0,0,0,1.0,Nott'm Forest,True,Wolverhampton,
-Nicolás Domínguez,Nott'm Forest,Wolverhampton,2024-04-13,True,Sub,24,0.0,0.05,0.0,0.0,1,1.0,0.0,0.8,0,0,0,False,0.8,0.02,44.54,0,0,0,0,0,2.0,Nott'm Forest,False,Everton,0.64
-Nicolás Domínguez,Nott'm Forest,Everton,2024-04-21,False,DMC,79,0.0,0.0,0.0,0.0,2,0.0,0.0,1.2,0,0,2,True,0.8,0.03,45.92,0,0,0,0,0,0.0,Nott'm Forest,True,Manchester City,
-Nicolás Domínguez,Nott'm Forest,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.02,44.15,0,0,0,0,0,1.0,Nott'm Forest,False,Sheffield,
-Nicolás Domínguez,Nott'm Forest,Sheffield,2024-05-04,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,1.0,0.02,42.56,0,0,0,0,0,0.0,Nott'm Forest,True,Chelsea,0.67
-Nicolás Domínguez,Nott'm Forest,Chelsea,2024-05-11,True,Sub,4,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,0,0,False,1.0,0.02,41.18,0,0,0,0,0,0.0,Nott'm Forest,False,Burnley,
-Nicolás Domínguez,Nott'm Forest,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.01,39.76,0,0,0,0,0,0.0,Nott'm Forest,True,Burnley,1.01
-Nicolás Domínguez,Nott'm Forest,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,38.43,0,0,0,0,0,2.0,Nott'm Forest,False,Manchester City,4.87
-Nicolás Domínguez,Nott'm Forest,Manchester City,2023-09-23,False,ML,90,0.0,0.04,0.0,0.0,2,1.0,0.0,1.8,0,0,2,True,0.2,0.0,40.1,0,0,0,0,0,10.0,Nott'm Forest,True,Brentford,0.39
-Nicolás Domínguez,Nott'm Forest,Brentford,2023-10-01,True,MC,79,1.0,0.02,0.0,0.0,10,1.0,0.0,7.5,3,0,1,True,0.6,0.01,41.31,0,0,0,0,0,3.0,Nott'm Forest,False,Crystal Palace,2.44
-Nicolás Domínguez,Nott'm Forest,Crystal Palace,2023-10-07,False,MC,90,0.0,0.03,0.0,0.0,3,1.0,0.0,4.1,0,1,0,True,2.4,0.01,42.79,0,0,0,0,0,3.0,Nott'm Forest,True,Luton,-1.73
-Nicolás Domínguez,Nott'm Forest,Luton,2023-10-21,True,MC,77,0.0,0.08,0.0,0.0,3,2.0,0.0,3.5,0,1,0,True,3.0,0.02,43.79,0,0,0,0,0,,,,,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Nicolás Domínguez,Nott'm Forest,Liverpool,2023-10-29,False,ML,68,0.0,0.06,0.0,0.0,1,1.0,0.0,1.3,0,0,2,True,0.0,0.0,68.0,0,0,0,0,0,3.0,Nott'm Forest,True,Aston Villa,-1.24,
+Nicolás Domínguez,Nott'm Forest,Aston Villa,2023-11-05,True,MC,86,0.0,0.54,0.0,0.0,3,3.0,0.0,4.1,0,1,0,True,1.0,0.06,77.0,0,0,0,0,0,1.0,Nott'm Forest,False,West Ham,5.53,
+Nicolás Domínguez,Nott'm Forest,West Ham,2023-11-12,False,MC,45,0.0,0.03,0.0,0.0,1,1.0,0.0,1.3,0,0,1,True,2.0,0.3,66.33,0,0,0,0,0,2.0,Nott'm Forest,True,Brighton,-4.68,-0.66
+Nicolás Domínguez,Nott'm Forest,Brighton,2023-11-25,True,MC,68,0.0,0.0,0.0,0.02,2,0.0,1.0,3.0,0,0,3,True,1.67,0.21,66.75,0,0,0,0,0,0.0,Nott'm Forest,True,Everton,0.17,0.53
+Nicolás Domínguez,Nott'm Forest,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,1.75,0.16,53.4,0,0,0,0,0,1.0,Nott'm Forest,False,Fulham,3.69,0.86
+Nicolás Domínguez,Nott'm Forest,Fulham,2023-12-06,False,AMC,45,0.0,0.0,0.0,0.02,1,0.0,1.0,1.7,0,0,2,True,1.4,0.13,52.0,0,0,0,0,0,0.0,Nott'm Forest,False,Wolverhampton,1.27,-0.52
+Nicolás Domínguez,Nott'm Forest,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.11,44.57,0,0,0,0,0,0.0,Nott'm Forest,True,Tottenham,5.64,0.69
+Nicolás Domínguez,Nott'm Forest,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.01,39.0,0,0,0,0,0,0.0,Nott'm Forest,True,Bournemouth,0.55,1.22
+Nicolás Domínguez,Nott'm Forest,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,34.67,0,0,0,0,0,1.0,Nott'm Forest,False,Newcastle United,1.35,
+Nicolás Domínguez,Nott'm Forest,Newcastle United,2023-12-26,False,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.2,0.0,32.3,0,0,0,0,0,9.0,Nott'm Forest,True,Manchester United,2.69,
+Nicolás Domínguez,Nott'm Forest,Manchester United,2023-12-30,True,AML,78,1.0,0.46,0.0,0.0,9,3.0,0.0,7.5,2,0,1,True,0.4,0.0,36.45,0,0,0,0,0,2.0,Nott'm Forest,False,Brentford,1.0,-0.53
+Nicolás Domínguez,Nott'm Forest,Brentford,2024-01-20,False,AMR,90,0.0,0.0,0.0,0.07,2,0.0,1.0,4.5,0,0,3,True,2.0,0.09,40.92,0,0,0,0,0,3.0,Nott'm Forest,True,Arsenal,-2.77,-0.11
+Nicolás Domínguez,Nott'm Forest,Arsenal,2024-01-30,True,AML,63,0.0,0.0,0.0,0.0,3,0.0,0.0,1.4,0,1,0,True,2.4,0.09,42.62,0,0,0,0,0,2.0,Nott'm Forest,False,Bournemouth,1.05,0.19
+Nicolás Domínguez,Nott'm Forest,Bournemouth,2024-02-04,False,DMC,71,0.0,0.0,0.0,0.15,2,0.0,1.0,4.0,0,0,1,True,3.0,0.09,44.64,0,0,0,0,0,6.0,Nott'm Forest,True,Newcastle United,1.26,
+Nicolás Domínguez,Nott'm Forest,Newcastle United,2024-02-10,True,DMC,77,0.0,0.06,1.0,0.09,6,2.0,2.0,6.2,1,0,3,True,3.4,0.09,46.8,0,0,0,0,0,5.0,Nott'm Forest,True,West Ham,-1.34,
+Nicolás Domínguez,Nott'm Forest,West Ham,2024-02-17,True,DMC,85,0.0,0.07,1.0,0.45,5,1.0,1.0,4.9,0,1,0,True,4.4,0.3,49.19,0,0,0,0,0,2.0,Nott'm Forest,False,Aston Villa,2.3,
+Nicolás Domínguez,Nott'm Forest,Aston Villa,2024-02-24,False,DMC,72,0.0,0.01,0.0,0.0,2,1.0,0.0,1.1,0,0,4,True,3.6,0.43,50.53,0,0,0,0,0,3.0,Nott'm Forest,True,Liverpool,-3.15,0.18
+Nicolás Domínguez,Nott'm Forest,Liverpool,2024-03-02,True,DMC,78,0.0,0.16,0.0,0.04,3,2.0,1.0,4.0,0,1,0,True,3.6,0.43,52.06,0,0,0,0,0,1.0,Nott'm Forest,False,Brighton,0.45,-0.6
+Nicolás Domínguez,Nott'm Forest,Brighton,2024-03-10,False,MC,71,0.0,0.0,0.0,0.02,1,0.0,1.0,1.5,0,0,1,True,3.6,0.46,53.05,0,0,0,0,0,1.0,Nott'm Forest,False,Luton,,
+Nicolás Domínguez,Nott'm Forest,Luton,2024-03-16,False,Sub,8,0.0,0.07,0.0,0.04,1,1.0,1.0,2.4,0,0,1,False,3.4,0.46,50.8,0,0,0,0,0,0.0,Nott'm Forest,True,Crystal Palace,-1.59,
+Nicolás Domínguez,Nott'm Forest,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,2.4,0.26,48.38,0,0,0,0,0,1.0,Nott'm Forest,True,Fulham,0.28,-0.13
+Nicolás Domínguez,Nott'm Forest,Fulham,2024-04-02,True,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,1.4,0.05,46.5,0,0,0,0,0,1.0,Nott'm Forest,False,Tottenham,,-0.36
+Nicolás Domínguez,Nott'm Forest,Tottenham,2024-04-07,False,Sub,22,0.0,0.03,0.0,0.0,1,1.0,0.0,1.9,0,0,0,False,1.2,0.05,45.43,0,0,0,0,0,1.0,Nott'm Forest,True,Wolverhampton,,0.05
+Nicolás Domínguez,Nott'm Forest,Wolverhampton,2024-04-13,True,Sub,24,0.0,0.05,0.0,0.0,1,1.0,0.0,0.8,0,0,0,False,0.8,0.02,44.54,0,0,0,0,0,2.0,Nott'm Forest,False,Everton,0.64,-0.24
+Nicolás Domínguez,Nott'm Forest,Everton,2024-04-21,False,DMC,79,0.0,0.0,0.0,0.0,2,0.0,0.0,1.2,0,0,2,True,0.8,0.03,45.92,0,0,0,0,0,0.0,Nott'm Forest,True,Manchester City,,
+Nicolás Domínguez,Nott'm Forest,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.02,44.15,0,0,0,0,0,1.0,Nott'm Forest,False,Sheffield,,-0.61
+Nicolás Domínguez,Nott'm Forest,Sheffield,2024-05-04,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,1.0,0.02,42.56,0,0,0,0,0,0.0,Nott'm Forest,True,Chelsea,0.67,-0.25
+Nicolás Domínguez,Nott'm Forest,Chelsea,2024-05-11,True,Sub,4,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,0,0,False,1.0,0.02,41.18,0,0,0,0,0,0.0,Nott'm Forest,False,Burnley,,0.0
+Nicolás Domínguez,Nott'm Forest,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.01,39.76,0,0,0,0,0,0.0,Nott'm Forest,True,Burnley,1.01,0.39
+Nicolás Domínguez,Nott'm Forest,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,38.43,0,0,0,0,0,2.0,Nott'm Forest,False,Manchester City,4.87,
+Nicolás Domínguez,Nott'm Forest,Manchester City,2023-09-23,False,ML,90,0.0,0.04,0.0,0.0,2,1.0,0.0,1.8,0,0,2,True,0.2,0.0,40.1,0,0,0,0,0,10.0,Nott'm Forest,True,Brentford,0.39,0.79
+Nicolás Domínguez,Nott'm Forest,Brentford,2023-10-01,True,MC,79,1.0,0.02,0.0,0.0,10,1.0,0.0,7.5,3,0,1,True,0.6,0.01,41.31,0,0,0,0,0,3.0,Nott'm Forest,False,Crystal Palace,2.44,
+Nicolás Domínguez,Nott'm Forest,Crystal Palace,2023-10-07,False,MC,90,0.0,0.03,0.0,0.0,3,1.0,0.0,4.1,0,1,0,True,2.4,0.01,42.79,0,0,0,0,0,3.0,Nott'm Forest,True,Luton,-1.73,
+Nicolás Domínguez,Nott'm Forest,Luton,2023-10-21,True,MC,77,0.0,0.08,0.0,0.0,3,2.0,0.0,3.5,0,1,0,True,3.0,0.02,43.79,0,0,0,0,0,,,,,,

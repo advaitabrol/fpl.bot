@@ -1,31 +1,31 @@
-name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Kofi Balmer,Crystal Palace,Leeds United,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Wolverhampton,-2.67
-Kofi Balmer,Crystal Palace,Wolverhampton,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Everton,2.41
-Kofi Balmer,Crystal Palace,Everton,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Southampton,0.54
-Kofi Balmer,Crystal Palace,Southampton,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,West Ham,0.59
-Kofi Balmer,Crystal Palace,West Ham,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Nottingham Forest,
-Kofi Balmer,Crystal Palace,Nottingham Forest,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Fulham,
-Kofi Balmer,Crystal Palace,Fulham,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Bournemouth,
-Kofi Balmer,Crystal Palace,Bournemouth,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Tottenham,-5.01
-Kofi Balmer,Crystal Palace,Tottenham,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Chelsea,2.77
-Kofi Balmer,Crystal Palace,Chelsea,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Manchester United,-0.9
-Kofi Balmer,Crystal Palace,Manchester United,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Newcastle United,1.62
-Kofi Balmer,Crystal Palace,Newcastle United,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Manchester United,0.74
-Kofi Balmer,Crystal Palace,Manchester United,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Brighton,-0.1
-Kofi Balmer,Crystal Palace,Brighton,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Brentford,1.96
-Kofi Balmer,Crystal Palace,Brentford,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Liverpool,3.6
-Kofi Balmer,Crystal Palace,Liverpool,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Aston Villa,0.99
-Kofi Balmer,Crystal Palace,Aston Villa,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Manchester City,-0.0
-Kofi Balmer,Crystal Palace,Manchester City,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Brighton,0.95
-Kofi Balmer,Crystal Palace,Brighton,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Arsenal,1.99
-Kofi Balmer,Crystal Palace,Arsenal,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Leeds United,3.21
-Kofi Balmer,Crystal Palace,Leeds United,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Leicester City,2.85
-Kofi Balmer,Crystal Palace,Leicester City,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Southampton,
-Kofi Balmer,Crystal Palace,Southampton,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Everton,-1.9
-Kofi Balmer,Crystal Palace,Everton,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Wolverhampton,
-Kofi Balmer,Crystal Palace,Wolverhampton,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,West Ham,
-Kofi Balmer,Crystal Palace,West Ham,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Tottenham,6.04
-Kofi Balmer,Crystal Palace,Tottenham,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Bournemouth,
-Kofi Balmer,Crystal Palace,Bournemouth,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Fulham,
-Kofi Balmer,Crystal Palace,Fulham,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Nottingham Forest,
-Kofi Balmer,Crystal Palace,Nottingham Forest,True,0,0,0.0,0,0,0,0.0,False,,Chelsea,True,Liverpool,
+name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Kofi Balmer,Crystal Palace,Leeds United,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Wolverhampton,-2.67,-0.48
+Kofi Balmer,Crystal Palace,Wolverhampton,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Everton,2.41,-0.63
+Kofi Balmer,Crystal Palace,Everton,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Southampton,0.54,-0.38
+Kofi Balmer,Crystal Palace,Southampton,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,West Ham,0.59,
+Kofi Balmer,Crystal Palace,West Ham,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Nottingham Forest,,
+Kofi Balmer,Crystal Palace,Nottingham Forest,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Fulham,,-0.3
+Kofi Balmer,Crystal Palace,Fulham,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Bournemouth,,0.19
+Kofi Balmer,Crystal Palace,Bournemouth,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Tottenham,-5.01,1.07
+Kofi Balmer,Crystal Palace,Tottenham,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Chelsea,2.77,-0.72
+Kofi Balmer,Crystal Palace,Chelsea,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Manchester United,-0.9,
+Kofi Balmer,Crystal Palace,Manchester United,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Newcastle United,1.62,
+Kofi Balmer,Crystal Palace,Newcastle United,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Manchester United,0.74,
+Kofi Balmer,Crystal Palace,Manchester United,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Brighton,-0.1,-0.71
+Kofi Balmer,Crystal Palace,Brighton,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Brentford,1.96,-0.55
+Kofi Balmer,Crystal Palace,Brentford,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Liverpool,3.6,-0.53
+Kofi Balmer,Crystal Palace,Liverpool,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Aston Villa,0.99,
+Kofi Balmer,Crystal Palace,Aston Villa,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Manchester City,-0.0,
+Kofi Balmer,Crystal Palace,Manchester City,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Brighton,0.95,-0.39
+Kofi Balmer,Crystal Palace,Brighton,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Arsenal,1.99,-0.0
+Kofi Balmer,Crystal Palace,Arsenal,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Leeds United,3.21,
+Kofi Balmer,Crystal Palace,Leeds United,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Leicester City,2.85,
+Kofi Balmer,Crystal Palace,Leicester City,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Southampton,,-1.07
+Kofi Balmer,Crystal Palace,Southampton,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Everton,-1.9,0.34
+Kofi Balmer,Crystal Palace,Everton,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Wolverhampton,,-0.46
+Kofi Balmer,Crystal Palace,Wolverhampton,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,West Ham,,
+Kofi Balmer,Crystal Palace,West Ham,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Tottenham,6.04,-0.03
+Kofi Balmer,Crystal Palace,Tottenham,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Bournemouth,,1.46
+Kofi Balmer,Crystal Palace,Bournemouth,True,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,False,Fulham,,1.37
+Kofi Balmer,Crystal Palace,Fulham,False,0,0,0.0,0,0,0,0.0,False,0.0,Crystal Palace,True,Nottingham Forest,,
+Kofi Balmer,Crystal Palace,Nottingham Forest,True,0,0,0.0,0,0,0,0.0,False,,Chelsea,True,Liverpool,,-0.53

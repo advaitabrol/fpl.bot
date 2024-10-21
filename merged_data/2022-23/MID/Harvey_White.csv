@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Harvey White,Spurs,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Brighton,-2.68
-Harvey White,Spurs,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Everton,-5.21
-Harvey White,Spurs,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Manchester United,4.8
-Harvey White,Spurs,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Newcastle United,-3.79
-Harvey White,Spurs,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Bournemouth,
-Harvey White,Spurs,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Liverpool,0.32
-Harvey White,Spurs,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Leicester City,-0.2
-Harvey White,Spurs,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Brentford,1.4
-Harvey White,Spurs,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Aston Villa,-0.44
-Harvey White,Spurs,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,5.0,2.02,2.1,0,1.0,Spurs,False,Crystal Palace,7.24
-Harvey White,Spurs,Crystal Palace,2023-01-04,False,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,False,0.0,0.0,0.36,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Chelsea,3.74
-Harvey White,Spurs,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.33,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Arsenal,-2.81
-Harvey White,Spurs,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.31,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Manchester City,-2.29
-Harvey White,Spurs,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.29,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Fulham,
-Harvey White,Spurs,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.27,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Manchester City,-0.19
-Harvey White,Spurs,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.25,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Leeds United,1.08
-Harvey White,Spurs,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.24,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,West Ham,-1.58
-Harvey White,Spurs,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.22,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Chelsea,5.76
-Harvey White,Spurs,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.21,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Wolverhampton,-1.1
-Harvey White,Spurs,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.2,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Nottingham Forest,
-Harvey White,Spurs,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.19,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Southampton,-0.01
-Harvey White,Spurs,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.18,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Everton,-0.37
-Harvey White,Spurs,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.17,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Wolverhampton,-0.85
-Harvey White,Spurs,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.17,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Brighton,
-Harvey White,Spurs,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.16,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Bournemouth,
-Harvey White,Spurs,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.15,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Newcastle United,0.79
-Harvey White,Spurs,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.15,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Manchester United,5.3
-Harvey White,Spurs,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.14,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Liverpool,
-Harvey White,Spurs,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.14,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Crystal Palace,-3.09
-Harvey White,Spurs,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.13,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Aston Villa,
-Harvey White,Spurs,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.13,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Brentford,-3.15
-Harvey White,Spurs,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.12,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Leicester City,
-Harvey White,Spurs,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.12,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Nottingham Forest,-5.2
-Harvey White,Spurs,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.12,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,West Ham,2.68
-Harvey White,Spurs,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.11,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Fulham,-1.52
-Harvey White,Spurs,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.11,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Leeds United,-5.34
-Harvey White,Spurs,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.11,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Arsenal,2.45
-Harvey White,Spurs,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.11,2.0,5.0,2.02,2.1,0,,Wolves,False,Manchester United,-0.63
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Harvey White,Spurs,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Brighton,-2.68,-0.39
+Harvey White,Spurs,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Everton,-5.21,0.34
+Harvey White,Spurs,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Manchester United,4.8,
+Harvey White,Spurs,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Newcastle United,-3.79,
+Harvey White,Spurs,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Bournemouth,,0.19
+Harvey White,Spurs,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Liverpool,0.32,-0.53
+Harvey White,Spurs,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Leicester City,-0.2,
+Harvey White,Spurs,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Brentford,1.4,-0.55
+Harvey White,Spurs,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Aston Villa,-0.44,
+Harvey White,Spurs,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,5.0,2.02,2.1,0,1.0,Spurs,False,Crystal Palace,7.24,
+Harvey White,Spurs,Crystal Palace,2023-01-04,False,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,False,0.0,0.0,0.36,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Chelsea,3.74,-0.72
+Harvey White,Spurs,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.33,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Arsenal,-2.81,0.36
+Harvey White,Spurs,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.31,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Manchester City,-2.29,
+Harvey White,Spurs,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.29,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Fulham,,1.37
+Harvey White,Spurs,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.27,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Manchester City,-0.19,
+Harvey White,Spurs,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.25,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Leeds United,1.08,
+Harvey White,Spurs,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.24,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,West Ham,-1.58,
+Harvey White,Spurs,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.22,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Chelsea,5.76,-0.25
+Harvey White,Spurs,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.21,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Wolverhampton,-1.1,-0.46
+Harvey White,Spurs,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.2,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Nottingham Forest,,
+Harvey White,Spurs,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.19,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Southampton,-0.01,-1.07
+Harvey White,Spurs,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.18,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Everton,-0.37,-0.63
+Harvey White,Spurs,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.17,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Wolverhampton,-0.85,-0.48
+Harvey White,Spurs,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.17,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Brighton,,-0.71
+Harvey White,Spurs,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.16,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Bournemouth,,1.46
+Harvey White,Spurs,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.15,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Newcastle United,0.79,
+Harvey White,Spurs,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.15,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Manchester United,5.3,
+Harvey White,Spurs,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.14,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Liverpool,,-1.33
+Harvey White,Spurs,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.14,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Crystal Palace,-3.09,
+Harvey White,Spurs,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.13,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Aston Villa,,
+Harvey White,Spurs,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.13,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Brentford,-3.15,0.69
+Harvey White,Spurs,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.12,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Leicester City,,
+Harvey White,Spurs,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.12,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Nottingham Forest,-5.2,
+Harvey White,Spurs,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.12,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,West Ham,2.68,
+Harvey White,Spurs,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.11,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Fulham,-1.52,-0.3
+Harvey White,Spurs,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.11,2.0,5.0,2.02,2.1,0,0.0,Spurs,True,Leeds United,-5.34,
+Harvey White,Spurs,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.11,2.0,5.0,2.02,2.1,0,0.0,Spurs,False,Arsenal,2.45,-0.0
+Harvey White,Spurs,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.11,2.0,5.0,2.02,2.1,0,,Wolves,False,Manchester United,-0.63,

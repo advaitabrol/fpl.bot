@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Bobby Clark,Liverpool,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Nottingham Forest,0.91
-Bobby Clark,Liverpool,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Luton,
-Bobby Clark,Liverpool,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Brentford,-2.91
-Bobby Clark,Liverpool,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Manchester City,1.92
-Bobby Clark,Liverpool,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Fulham,0.11
-Bobby Clark,Liverpool,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Sheffield,
-Bobby Clark,Liverpool,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Crystal Palace,-0.31
-Bobby Clark,Liverpool,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Manchester United,-4.17
-Bobby Clark,Liverpool,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Arsenal,-1.17
-Bobby Clark,Liverpool,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Burnley,-0.79
-Bobby Clark,Liverpool,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Bournemouth,-5.88
-Bobby Clark,Liverpool,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Newcastle United,0.08
-Bobby Clark,Liverpool,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,1.0,Liverpool,False,Bournemouth,2.9
-Bobby Clark,Liverpool,Bournemouth,2024-01-21,False,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.14,1.0,Liverpool,True,Chelsea,0.25
-Bobby Clark,Liverpool,Chelsea,2024-01-31,True,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,0.2,0.0,0.93,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Arsenal,0.56
-Bobby Clark,Liverpool,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,0.88,0.0,0.0,0.0,0.0,0.14,1.0,Liverpool,True,Burnley,-2.64
-Bobby Clark,Liverpool,Burnley,2024-02-10,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.4,0.0,0.88,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Brentford,5.51
-Bobby Clark,Liverpool,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,0.83,0.0,0.0,0.0,0.0,0.14,1.0,Liverpool,True,Luton,
-Bobby Clark,Liverpool,Luton,2024-02-21,True,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,0,False,0.6,0.0,1.42,0.0,0.0,0.0,0.0,0.14,1.0,Liverpool,False,Nottingham Forest,3.7
-Bobby Clark,Liverpool,Nottingham Forest,2024-03-02,False,MC,59,0.0,0.07,0.0,0.0,1,2.0,0.0,1.9,0,0,0,True,0.6,0.0,4.3,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Manchester City,-1.69
-Bobby Clark,Liverpool,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,4.1,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Newcastle United,-0.74
-Bobby Clark,Liverpool,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,3.91,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Brighton,2.85
-Bobby Clark,Liverpool,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.01,3.74,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Sheffield,
-Bobby Clark,Liverpool,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.01,3.58,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Manchester United,-0.0
-Bobby Clark,Liverpool,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.01,3.44,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Crystal Palace,0.33
-Bobby Clark,Liverpool,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.31,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Fulham,1.98
-Bobby Clark,Liverpool,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.19,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Everton,-0.44
-Bobby Clark,Liverpool,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.07,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,West Ham,4.92
-Bobby Clark,Liverpool,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.97,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Tottenham,
-Bobby Clark,Liverpool,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.87,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Aston Villa,-0.35
-Bobby Clark,Liverpool,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.77,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Wolverhampton,
-Bobby Clark,Liverpool,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.69,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Aston Villa,-1.74
-Bobby Clark,Liverpool,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.61,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Wolverhampton,-1.44
-Bobby Clark,Liverpool,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.53,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,West Ham,-0.06
-Bobby Clark,Liverpool,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.46,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Tottenham,1.56
-Bobby Clark,Liverpool,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.39,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Brighton,3.13
-Bobby Clark,Liverpool,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.32,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Everton,-2.18
-Bobby Clark,Liverpool,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.26,0.0,0.0,0.0,0.0,0.14,,,,,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Bobby Clark,Liverpool,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Nottingham Forest,0.91,
+Bobby Clark,Liverpool,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Luton,,
+Bobby Clark,Liverpool,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Brentford,-2.91,0.79
+Bobby Clark,Liverpool,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Manchester City,1.92,
+Bobby Clark,Liverpool,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Fulham,0.11,-0.13
+Bobby Clark,Liverpool,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Sheffield,,-0.61
+Bobby Clark,Liverpool,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Crystal Palace,-0.31,
+Bobby Clark,Liverpool,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Manchester United,-4.17,
+Bobby Clark,Liverpool,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Arsenal,-1.17,-0.11
+Bobby Clark,Liverpool,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Burnley,-0.79,0.0
+Bobby Clark,Liverpool,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Bournemouth,-5.88,1.22
+Bobby Clark,Liverpool,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Newcastle United,0.08,
+Bobby Clark,Liverpool,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,1.0,Liverpool,False,Bournemouth,2.9,0.19
+Bobby Clark,Liverpool,Bournemouth,2024-01-21,False,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.14,1.0,Liverpool,True,Chelsea,0.25,-0.25
+Bobby Clark,Liverpool,Chelsea,2024-01-31,True,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,0.2,0.0,0.93,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Arsenal,0.56,-0.48
+Bobby Clark,Liverpool,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,0.88,0.0,0.0,0.0,0.0,0.14,1.0,Liverpool,True,Burnley,-2.64,0.39
+Bobby Clark,Liverpool,Burnley,2024-02-10,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.4,0.0,0.88,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Brentford,5.51,-0.53
+Bobby Clark,Liverpool,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,0.83,0.0,0.0,0.0,0.0,0.14,1.0,Liverpool,True,Luton,,
+Bobby Clark,Liverpool,Luton,2024-02-21,True,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,0,False,0.6,0.0,1.42,0.0,0.0,0.0,0.0,0.14,1.0,Liverpool,False,Nottingham Forest,3.7,
+Bobby Clark,Liverpool,Nottingham Forest,2024-03-02,False,MC,59,0.0,0.07,0.0,0.0,1,2.0,0.0,1.9,0,0,0,True,0.6,0.0,4.3,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Manchester City,-1.69,
+Bobby Clark,Liverpool,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,4.1,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Newcastle United,-0.74,
+Bobby Clark,Liverpool,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.01,3.91,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Brighton,2.85,-0.66
+Bobby Clark,Liverpool,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.01,3.74,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Sheffield,,0.68
+Bobby Clark,Liverpool,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.01,3.58,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Manchester United,-0.0,
+Bobby Clark,Liverpool,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.01,3.44,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Crystal Palace,0.33,
+Bobby Clark,Liverpool,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.31,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Fulham,1.98,0.86
+Bobby Clark,Liverpool,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.19,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Everton,-0.44,-0.24
+Bobby Clark,Liverpool,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.07,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,West Ham,4.92,
+Bobby Clark,Liverpool,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.97,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Tottenham,,0.69
+Bobby Clark,Liverpool,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.87,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Aston Villa,-0.35,
+Bobby Clark,Liverpool,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.77,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Wolverhampton,,0.05
+Bobby Clark,Liverpool,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.69,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Aston Villa,-1.74,
+Bobby Clark,Liverpool,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.61,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Wolverhampton,-1.44,-0.52
+Bobby Clark,Liverpool,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.53,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,West Ham,-0.06,
+Bobby Clark,Liverpool,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.46,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Tottenham,1.56,-0.36
+Bobby Clark,Liverpool,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.39,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,False,Brighton,3.13,-0.6
+Bobby Clark,Liverpool,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.32,0.0,0.0,0.0,0.0,0.14,0.0,Liverpool,True,Everton,-2.18,0.53
+Bobby Clark,Liverpool,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.26,0.0,0.0,0.0,0.0,0.14,,,,,,

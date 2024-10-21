@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Ben Godfrey,Everton,Chelsea,2022-08-06,True,DC,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,0.0,0.0,17.0,0.0,0,0,0,0,0,Everton,True,Manchester United,-3.63
-Ben Godfrey,Everton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,8.5,0.0,0,0,0,0,0,Everton,False,Tottenham,5.72
-Ben Godfrey,Everton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.5,0.0,5.67,0.0,0,0,0,0,0,Everton,False,Newcastle United,2.79
-Ben Godfrey,Everton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.33,0.0,4.25,0.0,0,0,0,0,0,Everton,True,Crystal Palace,-2.12
-Ben Godfrey,Everton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.25,0.0,3.4,0.0,0,0,0,0,0,Everton,False,Fulham,
-Ben Godfrey,Everton,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,2.83,0.0,0,0,0,0,0,Everton,True,Leeds United,-2.66
-Ben Godfrey,Everton,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.43,0.0,0,0,0,0,0,Everton,False,Bournemouth,
-Ben Godfrey,Everton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.12,0.0,0,0,0,0,1,Everton,True,Wolverhampton,1.74
-Ben Godfrey,Everton,Wolverhampton,2022-12-26,True,Sub,14,0.0,0.07,0.0,0.0,1,1.0,0.0,2.1,0,0,1,0.23,False,0.0,0.0,3.44,0.0,0,0,0,0,2,Everton,False,Manchester City,1.57
-Ben Godfrey,Everton,Manchester City,2022-12-31,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,0,1,1.56,True,0.2,0.01,12.1,0.0,0,0,0,0,0,Everton,True,Brighton,-1.26
-Ben Godfrey,Everton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.01,11.0,0.0,0,0,0,0,0,Everton,False,Aston Villa,2.84
-Ben Godfrey,Everton,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.01,10.08,0.0,0,0,0,0,1,Everton,True,Southampton,-6.12
-Ben Godfrey,Everton,Southampton,2023-01-14,True,DC,90,0.0,0.48,0.0,0.07,1,2.0,1.0,3.5,0,0,2,1.24,True,0.6,0.01,16.23,0.0,0,0,0,0,0,Everton,False,West Ham,2.96
-Ben Godfrey,Everton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.11,15.07,0.0,0,0,0,0,0,Everton,True,Arsenal,-2.74
-Ben Godfrey,Everton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.1,14.07,0.0,0,0,0,0,0,Everton,False,Liverpool,0.23
-Ben Godfrey,Everton,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.1,13.19,0.0,0,0,0,0,0,Everton,True,Leicester City,-6.39
-Ben Godfrey,Everton,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.1,12.41,0.0,0,0,0,0,0,Everton,True,Aston Villa,0.09
-Ben Godfrey,Everton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.1,11.72,0.0,0,0,0,0,-1,Everton,False,Arsenal,3.18
-Ben Godfrey,Everton,Arsenal,2023-03-01,False,Sub,29,0.0,0.0,0.0,0.06,-1,0.0,1.0,1.7,0,0,2,1.94,False,0.0,0.0,12.63,0.0,0,0,0,0,0,Everton,False,Nottingham Forest,
-Ben Godfrey,Everton,Nottingham Forest,2023-03-05,False,DL,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.6,0,0,2,0.91,True,-0.2,0.0,16.5,0.0,0,0,0,0,6,Everton,True,Brentford,-2.68
-Ben Godfrey,Everton,Brentford,2023-03-11,True,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.5,0,1,0,2.1,True,-0.2,0.0,20.0,0.25,0,0,0,0,1,Everton,False,Chelsea,-1.5
-Ben Godfrey,Everton,Chelsea,2023-03-18,False,DL,90,0.0,0.02,0.0,0.0,1,1.0,0.0,2.2,0,0,2,2.37,True,1.0,0.0,23.18,0.2,0,0,0,0,5,Everton,True,Tottenham,1.66
-Ben Godfrey,Everton,Tottenham,2023-04-03,True,DL,90,0.0,0.06,1.0,0.02,5,1.0,1.0,5.0,0,0,1,1.48,True,1.2,0.0,26.09,0.17,0,0,0,0,0,Everton,True,Nottingham Forest,1.11
-Ben Godfrey,Everton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.22,25.0,0.17,0,0,0,0,1,Everton,False,Manchester United,-2.79
-Ben Godfrey,Everton,Manchester United,2023-04-08,False,DL,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,1,2.69,True,2.4,0.22,25.8,0.17,0,0,0,0,0,Everton,True,Fulham,
-Ben Godfrey,Everton,Fulham,2023-04-15,True,DR,57,0.0,0.08,0.0,0.0,0,1.0,0.0,1.2,0,0,2,0.93,True,2.6,0.22,27.0,0.17,0,0,0,0,1,Everton,False,Crystal Palace,1.58
-Ben Godfrey,Everton,Crystal Palace,2023-04-22,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.19,False,1.4,0.23,26.33,0.17,0,0,0,0,0,Everton,True,Newcastle United,
-Ben Godfrey,Everton,Newcastle United,2023-04-27,True,DR,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,4,2.44,True,1.4,0.23,28.61,0.14,0,0,0,0,0,Everton,False,Leeds United,
-Ben Godfrey,Everton,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.02,27.62,0.14,0,0,0,0,0,Everton,False,Brighton,-5.19
-Ben Godfrey,Everton,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.02,26.7,0.14,0,0,0,0,0,Everton,True,Manchester City,
-Ben Godfrey,Everton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.02,25.84,0.14,0,0,0,0,0,Everton,False,Wolverhampton,0.33
-Ben Godfrey,Everton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,25.03,0.14,0,0,0,0,0,Everton,True,Bournemouth,
-Ben Godfrey,Everton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,24.27,0.14,0,0,0,0,0,Everton,False,Brentford,1.71
-Ben Godfrey,Everton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,23.56,0.14,0,0,0,0,0,Everton,False,Leicester City,-1.63
-Ben Godfrey,Everton,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,22.89,0.14,0,0,0,0,0,Everton,True,Liverpool,0.76
-Ben Godfrey,Everton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,22.25,0.14,0,0,0,0,0,Everton,True,West Ham,0.7
-Ben Godfrey,Everton,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,21.65,0.14,0,0,0,0,0,Everton,False,Southampton,-1.98
-Ben Godfrey,Everton,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,21.08,0.14,0,0,0,0,0,Everton,True,Fulham,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Ben Godfrey,Everton,Chelsea,2022-08-06,True,DC,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,0.0,0.0,17.0,0.0,0,0,0,0,0,Everton,True,Manchester United,-3.63,
+Ben Godfrey,Everton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,8.5,0.0,0,0,0,0,0,Everton,False,Tottenham,5.72,-0.03
+Ben Godfrey,Everton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.5,0.0,5.67,0.0,0,0,0,0,0,Everton,False,Newcastle United,2.79,
+Ben Godfrey,Everton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.33,0.0,4.25,0.0,0,0,0,0,0,Everton,True,Crystal Palace,-2.12,
+Ben Godfrey,Everton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.25,0.0,3.4,0.0,0,0,0,0,0,Everton,False,Fulham,,1.37
+Ben Godfrey,Everton,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,2.83,0.0,0,0,0,0,0,Everton,True,Leeds United,-2.66,
+Ben Godfrey,Everton,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.43,0.0,0,0,0,0,0,Everton,False,Bournemouth,,0.19
+Ben Godfrey,Everton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,2.12,0.0,0,0,0,0,1,Everton,True,Wolverhampton,1.74,-0.48
+Ben Godfrey,Everton,Wolverhampton,2022-12-26,True,Sub,14,0.0,0.07,0.0,0.0,1,1.0,0.0,2.1,0,0,1,0.23,False,0.0,0.0,3.44,0.0,0,0,0,0,2,Everton,False,Manchester City,1.57,
+Ben Godfrey,Everton,Manchester City,2022-12-31,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,0,1,1.56,True,0.2,0.01,12.1,0.0,0,0,0,0,0,Everton,True,Brighton,-1.26,-0.71
+Ben Godfrey,Everton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.01,11.0,0.0,0,0,0,0,0,Everton,False,Aston Villa,2.84,
+Ben Godfrey,Everton,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.01,10.08,0.0,0,0,0,0,1,Everton,True,Southampton,-6.12,-0.38
+Ben Godfrey,Everton,Southampton,2023-01-14,True,DC,90,0.0,0.48,0.0,0.07,1,2.0,1.0,3.5,0,0,2,1.24,True,0.6,0.01,16.23,0.0,0,0,0,0,0,Everton,False,West Ham,2.96,
+Ben Godfrey,Everton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.11,15.07,0.0,0,0,0,0,0,Everton,True,Arsenal,-2.74,0.36
+Ben Godfrey,Everton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.1,14.07,0.0,0,0,0,0,0,Everton,False,Liverpool,0.23,-1.33
+Ben Godfrey,Everton,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.1,13.19,0.0,0,0,0,0,0,Everton,True,Leicester City,-6.39,
+Ben Godfrey,Everton,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.1,12.41,0.0,0,0,0,0,0,Everton,True,Aston Villa,0.09,
+Ben Godfrey,Everton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.1,11.72,0.0,0,0,0,0,-1,Everton,False,Arsenal,3.18,-0.0
+Ben Godfrey,Everton,Arsenal,2023-03-01,False,Sub,29,0.0,0.0,0.0,0.06,-1,0.0,1.0,1.7,0,0,2,1.94,False,0.0,0.0,12.63,0.0,0,0,0,0,0,Everton,False,Nottingham Forest,,
+Ben Godfrey,Everton,Nottingham Forest,2023-03-05,False,DL,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.6,0,0,2,0.91,True,-0.2,0.0,16.5,0.0,0,0,0,0,6,Everton,True,Brentford,-2.68,0.69
+Ben Godfrey,Everton,Brentford,2023-03-11,True,DL,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.5,0,1,0,2.1,True,-0.2,0.0,20.0,0.25,0,0,0,0,1,Everton,False,Chelsea,-1.5,-0.72
+Ben Godfrey,Everton,Chelsea,2023-03-18,False,DL,90,0.0,0.02,0.0,0.0,1,1.0,0.0,2.2,0,0,2,2.37,True,1.0,0.0,23.18,0.2,0,0,0,0,5,Everton,True,Tottenham,1.66,1.07
+Ben Godfrey,Everton,Tottenham,2023-04-03,True,DL,90,0.0,0.06,1.0,0.02,5,1.0,1.0,5.0,0,0,1,1.48,True,1.2,0.0,26.09,0.17,0,0,0,0,0,Everton,True,Nottingham Forest,1.11,
+Ben Godfrey,Everton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.22,25.0,0.17,0,0,0,0,1,Everton,False,Manchester United,-2.79,
+Ben Godfrey,Everton,Manchester United,2023-04-08,False,DL,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,1,2.69,True,2.4,0.22,25.8,0.17,0,0,0,0,0,Everton,True,Fulham,,-0.3
+Ben Godfrey,Everton,Fulham,2023-04-15,True,DR,57,0.0,0.08,0.0,0.0,0,1.0,0.0,1.2,0,0,2,0.93,True,2.6,0.22,27.0,0.17,0,0,0,0,1,Everton,False,Crystal Palace,1.58,
+Ben Godfrey,Everton,Crystal Palace,2023-04-22,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.19,False,1.4,0.23,26.33,0.17,0,0,0,0,0,Everton,True,Newcastle United,,
+Ben Godfrey,Everton,Newcastle United,2023-04-27,True,DR,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,4,2.44,True,1.4,0.23,28.61,0.14,0,0,0,0,0,Everton,False,Leeds United,,
+Ben Godfrey,Everton,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.02,27.62,0.14,0,0,0,0,0,Everton,False,Brighton,-5.19,-0.39
+Ben Godfrey,Everton,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.02,26.7,0.14,0,0,0,0,0,Everton,True,Manchester City,,
+Ben Godfrey,Everton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.02,25.84,0.14,0,0,0,0,0,Everton,False,Wolverhampton,0.33,-0.46
+Ben Godfrey,Everton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,25.03,0.14,0,0,0,0,0,Everton,True,Bournemouth,,1.46
+Ben Godfrey,Everton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,24.27,0.14,0,0,0,0,0,Everton,False,Brentford,1.71,-0.55
+Ben Godfrey,Everton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,23.56,0.14,0,0,0,0,0,Everton,False,Leicester City,-1.63,
+Ben Godfrey,Everton,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,22.89,0.14,0,0,0,0,0,Everton,True,Liverpool,0.76,-0.53
+Ben Godfrey,Everton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,22.25,0.14,0,0,0,0,0,Everton,True,West Ham,0.7,
+Ben Godfrey,Everton,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,21.65,0.14,0,0,0,0,0,Everton,False,Southampton,-1.98,-1.07
+Ben Godfrey,Everton,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,21.08,0.14,0,0,0,0,0,Everton,True,Fulham,,-0.3

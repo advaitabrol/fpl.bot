@@ -1,39 +1,39 @@
-name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Gabriel Fernando de Jesus,Arsenal,Crystal Palace,False,82,2,4.9,0,False,5.0,Arsenal,True,Liverpool,1.96
-Gabriel Fernando de Jesus,Arsenal,Liverpool,True,90,5,6.2,0,False,2.0,Arsenal,False,Leicester City,-3.95
-Gabriel Fernando de Jesus,Arsenal,Leicester City,False,81,2,4.1,0,False,2.0,Arsenal,False,Southampton,2.15
-Gabriel Fernando de Jesus,Arsenal,Southampton,False,90,2,6.9,0,False,9.0,Arsenal,True,Nottingham Forest,
-Gabriel Fernando de Jesus,Arsenal,Nottingham Forest,True,90,9,20.4,1,False,2.0,Arsenal,False,Chelsea,-3.91
-Gabriel Fernando de Jesus,Arsenal,Chelsea,False,90,2,9.1,0,False,2.0,Arsenal,False,Wolverhampton,-1.32
-Gabriel Fernando de Jesus,Arsenal,Wolverhampton,False,90,2,7.0,0,True,0.0,Arsenal,True,West Ham,-2.46
-Gabriel Fernando de Jesus,Arsenal,West Ham,True,0,0,0.0,0,False,0.0,Arsenal,False,Brighton,-0.75
-Gabriel Fernando de Jesus,Arsenal,Brighton,False,0,0,0.0,0,False,0.0,Arsenal,True,Newcastle United,-2.77
-Gabriel Fernando de Jesus,Arsenal,Newcastle United,True,0,0,0.0,0,False,19.0,Arsenal,True,Leeds United,-3.81
-Gabriel Fernando de Jesus,Arsenal,Leeds United,True,83,19,23.7,3,False,0.0,Arsenal,False,Tottenham,3.44
-Gabriel Fernando de Jesus,Arsenal,Tottenham,False,0,0,0.0,0,False,0.0,Arsenal,True,Manchester United,-1.99
-Gabriel Fernando de Jesus,Arsenal,Manchester United,True,0,0,0.0,0,False,0.0,Arsenal,False,Everton,1.42
-Gabriel Fernando de Jesus,Arsenal,Everton,False,0,0,0.0,0,False,0.0,Arsenal,True,Brentford,-1.07
-Gabriel Fernando de Jesus,Arsenal,Brentford,True,0,0,0.0,0,False,0.0,Arsenal,True,Manchester City,0.98
-Gabriel Fernando de Jesus,Arsenal,Manchester City,True,0,0,0.0,0,False,0.0,Arsenal,False,Aston Villa,-0.61
-Gabriel Fernando de Jesus,Arsenal,Aston Villa,False,0,0,0.0,0,False,0.0,Arsenal,False,Leeds United,-2.61
-Gabriel Fernando de Jesus,Arsenal,Leeds United,False,0,0,0.0,0,False,0.0,Arsenal,True,Everton,-3.92
-Gabriel Fernando de Jesus,Arsenal,Everton,True,0,0,0.0,0,False,0.0,Arsenal,True,Bournemouth,
-Gabriel Fernando de Jesus,Arsenal,Bournemouth,True,0,0,0.0,0,False,1.0,Arsenal,False,Fulham,
-Gabriel Fernando de Jesus,Arsenal,Fulham,False,13,1,2.5,0,False,1.0,Arsenal,True,Crystal Palace,-0.14
-Gabriel Fernando de Jesus,Arsenal,Crystal Palace,True,25,1,0.8,0,False,12.0,Arsenal,True,Leicester City,
-Gabriel Fernando de Jesus,Arsenal,Leicester City,True,59,12,14.0,3,True,4.0,Arsenal,False,Bournemouth,-3.74
-Gabriel Fernando de Jesus,Arsenal,Bournemouth,False,90,4,10.3,0,False,7.0,Arsenal,False,Liverpool,4.27
-Gabriel Fernando de Jesus,Arsenal,Liverpool,False,79,7,6.8,1,True,7.0,Arsenal,False,West Ham,
-Gabriel Fernando de Jesus,Arsenal,West Ham,False,66,7,7.3,2,True,2.0,Arsenal,True,Southampton,-3.78
-Gabriel Fernando de Jesus,Arsenal,Southampton,True,90,2,9.1,0,True,2.0,Arsenal,False,Manchester City,4.53
-Gabriel Fernando de Jesus,Arsenal,Manchester City,False,80,2,0.8,0,True,7.0,Arsenal,True,Chelsea,2.07
-Gabriel Fernando de Jesus,Arsenal,Chelsea,True,90,7,12.3,1,True,2.0,Arsenal,False,Newcastle United,
-Gabriel Fernando de Jesus,Arsenal,Newcastle United,False,86,2,4.6,0,True,2.0,Arsenal,True,Brighton,
-Gabriel Fernando de Jesus,Arsenal,Brighton,True,76,2,5.7,0,True,1.0,Arsenal,False,Nottingham Forest,
-Gabriel Fernando de Jesus,Arsenal,Nottingham Forest,False,90,1,10.0,0,True,12.0,Arsenal,True,Wolverhampton,
-Gabriel Fernando de Jesus,Arsenal,Wolverhampton,True,90,12,0.0,3,True,1.0,Arsenal,True,Fulham,-0.83
-Gabriel Fernando de Jesus,Arsenal,Fulham,True,88,1,11.5,0,False,6.0,Arsenal,True,Aston Villa,-2.64
-Gabriel Fernando de Jesus,Arsenal,Aston Villa,True,87,6,14.2,0,False,1.0,Arsenal,False,Manchester United,2.33
-Gabriel Fernando de Jesus,Arsenal,Manchester United,False,90,1,8.8,0,False,6.0,Arsenal,False,Brentford,-0.38
-Gabriel Fernando de Jesus,Arsenal,Brentford,False,90,6,12.5,1,False,8.0,Arsenal,True,Tottenham,-2.27
-Gabriel Fernando de Jesus,Arsenal,Tottenham,True,79,8,14.8,2,False,,Sheffield Utd,True,Brighton,
+name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Gabriel Fernando de Jesus,Arsenal,Crystal Palace,False,82,2,4.9,0,False,5.0,Arsenal,True,Liverpool,1.96,-0.53
+Gabriel Fernando de Jesus,Arsenal,Liverpool,True,90,5,6.2,0,False,2.0,Arsenal,False,Leicester City,-3.95,
+Gabriel Fernando de Jesus,Arsenal,Leicester City,False,81,2,4.1,0,False,2.0,Arsenal,False,Southampton,2.15,-1.07
+Gabriel Fernando de Jesus,Arsenal,Southampton,False,90,2,6.9,0,False,9.0,Arsenal,True,Nottingham Forest,,
+Gabriel Fernando de Jesus,Arsenal,Nottingham Forest,True,90,9,20.4,1,False,2.0,Arsenal,False,Chelsea,-3.91,-0.72
+Gabriel Fernando de Jesus,Arsenal,Chelsea,False,90,2,9.1,0,False,2.0,Arsenal,False,Wolverhampton,-1.32,-0.46
+Gabriel Fernando de Jesus,Arsenal,Wolverhampton,False,90,2,7.0,0,True,0.0,Arsenal,True,West Ham,-2.46,
+Gabriel Fernando de Jesus,Arsenal,West Ham,True,0,0,0.0,0,False,0.0,Arsenal,False,Brighton,-0.75,-0.39
+Gabriel Fernando de Jesus,Arsenal,Brighton,False,0,0,0.0,0,False,0.0,Arsenal,True,Newcastle United,-2.77,
+Gabriel Fernando de Jesus,Arsenal,Newcastle United,True,0,0,0.0,0,False,19.0,Arsenal,True,Leeds United,-3.81,
+Gabriel Fernando de Jesus,Arsenal,Leeds United,True,83,19,23.7,3,False,0.0,Arsenal,False,Tottenham,3.44,-0.03
+Gabriel Fernando de Jesus,Arsenal,Tottenham,False,0,0,0.0,0,False,0.0,Arsenal,True,Manchester United,-1.99,
+Gabriel Fernando de Jesus,Arsenal,Manchester United,True,0,0,0.0,0,False,0.0,Arsenal,False,Everton,1.42,-0.63
+Gabriel Fernando de Jesus,Arsenal,Everton,False,0,0,0.0,0,False,0.0,Arsenal,True,Brentford,-1.07,0.69
+Gabriel Fernando de Jesus,Arsenal,Brentford,True,0,0,0.0,0,False,0.0,Arsenal,True,Manchester City,0.98,
+Gabriel Fernando de Jesus,Arsenal,Manchester City,True,0,0,0.0,0,False,0.0,Arsenal,False,Aston Villa,-0.61,
+Gabriel Fernando de Jesus,Arsenal,Aston Villa,False,0,0,0.0,0,False,0.0,Arsenal,False,Leeds United,-2.61,
+Gabriel Fernando de Jesus,Arsenal,Leeds United,False,0,0,0.0,0,False,0.0,Arsenal,True,Everton,-3.92,0.34
+Gabriel Fernando de Jesus,Arsenal,Everton,True,0,0,0.0,0,False,0.0,Arsenal,True,Bournemouth,,1.46
+Gabriel Fernando de Jesus,Arsenal,Bournemouth,True,0,0,0.0,0,False,1.0,Arsenal,False,Fulham,,1.37
+Gabriel Fernando de Jesus,Arsenal,Fulham,False,13,1,2.5,0,False,1.0,Arsenal,True,Crystal Palace,-0.14,
+Gabriel Fernando de Jesus,Arsenal,Crystal Palace,True,25,1,0.8,0,False,12.0,Arsenal,True,Leicester City,,
+Gabriel Fernando de Jesus,Arsenal,Leicester City,True,59,12,14.0,3,True,4.0,Arsenal,False,Bournemouth,-3.74,0.19
+Gabriel Fernando de Jesus,Arsenal,Bournemouth,False,90,4,10.3,0,False,7.0,Arsenal,False,Liverpool,4.27,-1.33
+Gabriel Fernando de Jesus,Arsenal,Liverpool,False,79,7,6.8,1,True,7.0,Arsenal,False,West Ham,,
+Gabriel Fernando de Jesus,Arsenal,West Ham,False,66,7,7.3,2,True,2.0,Arsenal,True,Southampton,-3.78,-0.38
+Gabriel Fernando de Jesus,Arsenal,Southampton,True,90,2,9.1,0,True,2.0,Arsenal,False,Manchester City,4.53,
+Gabriel Fernando de Jesus,Arsenal,Manchester City,False,80,2,0.8,0,True,7.0,Arsenal,True,Chelsea,2.07,-0.25
+Gabriel Fernando de Jesus,Arsenal,Chelsea,True,90,7,12.3,1,True,2.0,Arsenal,False,Newcastle United,,
+Gabriel Fernando de Jesus,Arsenal,Newcastle United,False,86,2,4.6,0,True,2.0,Arsenal,True,Brighton,,-0.71
+Gabriel Fernando de Jesus,Arsenal,Brighton,True,76,2,5.7,0,True,1.0,Arsenal,False,Nottingham Forest,,
+Gabriel Fernando de Jesus,Arsenal,Nottingham Forest,False,90,1,10.0,0,True,12.0,Arsenal,True,Wolverhampton,,-0.48
+Gabriel Fernando de Jesus,Arsenal,Wolverhampton,True,90,12,0.0,3,True,1.0,Arsenal,True,Fulham,-0.83,-0.3
+Gabriel Fernando de Jesus,Arsenal,Fulham,True,88,1,11.5,0,False,6.0,Arsenal,True,Aston Villa,-2.64,
+Gabriel Fernando de Jesus,Arsenal,Aston Villa,True,87,6,14.2,0,False,1.0,Arsenal,False,Manchester United,2.33,
+Gabriel Fernando de Jesus,Arsenal,Manchester United,False,90,1,8.8,0,False,6.0,Arsenal,False,Brentford,-0.38,-0.55
+Gabriel Fernando de Jesus,Arsenal,Brentford,False,90,6,12.5,1,False,8.0,Arsenal,True,Tottenham,-2.27,1.07
+Gabriel Fernando de Jesus,Arsenal,Tottenham,True,79,8,14.8,2,False,,Sheffield Utd,True,Brighton,,-0.71

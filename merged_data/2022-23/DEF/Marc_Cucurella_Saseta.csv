@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Marc Cucurella Saseta,Chelsea,Everton,2022-08-06,False,Sub,15,0.0,0.0,0.0,0.35,0,0.0,1.0,2.6,0,0,0,0.0,False,0.0,0.0,15.0,0.0,0,0,0,0,7,Chelsea,True,Wolverhampton,2.42
-Marc Cucurella Saseta,Chelsea,Wolverhampton,2022-10-08,True,DL,90,0.0,0.0,0.0,0.05,7,0.0,1.0,5.1,1,1,0,0.0,False,0.0,0.0,52.5,1.0,0,0,0,0,1,Chelsea,False,Aston Villa,-1.51
-Marc Cucurella Saseta,Chelsea,Aston Villa,2022-10-16,False,DC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.0,False,3.5,0.0,50.0,1.0,0,0,0,0,6,Chelsea,False,Brentford,-0.66
-Marc Cucurella Saseta,Chelsea,Brentford,2022-10-19,False,DML,60,0.0,0.0,0.0,0.0,6,0.0,0.0,3.0,0,1,0,0.0,False,2.67,0.0,52.5,1.0,0,0,0,0,1,Chelsea,True,Manchester United,-0.06
-Marc Cucurella Saseta,Chelsea,Manchester United,2022-10-22,True,DC,35,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,False,3.5,0.0,49.0,1.0,0,0,0,0,1,Chelsea,False,Brighton,0.05
-Marc Cucurella Saseta,Chelsea,Brighton,2022-10-29,False,DC,63,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,3,0.0,False,3.0,0.0,51.33,0.5,0,0,0,0,2,Chelsea,True,Arsenal,5.81
-Marc Cucurella Saseta,Chelsea,Arsenal,2022-11-06,True,DL,90,0.0,0.03,0.0,0.0,2,1.0,0.0,3.2,0,0,1,0.0,False,3.2,0.0,56.86,0.33,0,0,0,0,1,Chelsea,False,Newcastle United,-1.55
-Marc Cucurella Saseta,Chelsea,Newcastle United,2022-11-12,False,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.0,False,2.2,0.01,51.88,0.33,0,0,0,0,6,Chelsea,True,Bournemouth,
-Marc Cucurella Saseta,Chelsea,Bournemouth,2022-12-27,True,DL,90,0.0,0.0,0.0,0.25,6,0.0,1.0,3.7,0,1,0,0.53,True,2.2,0.01,56.11,0.5,0,0,0,0,2,Chelsea,False,Nottingham Forest,
-Marc Cucurella Saseta,Chelsea,Nottingham Forest,2023-01-01,False,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.5,0,0,1,1.2,True,2.2,0.01,59.5,0.4,0,0,0,0,2,Chelsea,True,Manchester City,1.05
-Marc Cucurella Saseta,Chelsea,Manchester City,2023-01-05,True,DL,67,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,1.45,True,2.4,0.01,60.18,0.33,0,0,0,0,1,Chelsea,False,Fulham,
-Marc Cucurella Saseta,Chelsea,Fulham,2023-01-12,False,Sub,11,0.0,0.05,0.0,0.0,1,1.0,0.0,0.7,0,0,0,0.0,False,2.6,0.01,56.08,0.33,0,0,0,0,4,Chelsea,True,Tottenham,-1.77
-Marc Cucurella Saseta,Chelsea,Tottenham,2022-08-14,True,DML,90,0.0,0.11,1.0,0.05,4,2.0,1.0,7.7,0,0,2,0.0,False,2.4,0.01,58.69,0.29,0,0,0,0,0,Chelsea,True,Crystal Palace,0.31
-Marc Cucurella Saseta,Chelsea,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.23,54.5,0.29,0,0,0,0,6,Chelsea,False,Liverpool,0.32
-Marc Cucurella Saseta,Chelsea,Liverpool,2023-01-21,False,DML,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.6,0,1,0,1.4,True,1.8,0.23,56.87,0.38,0,0,0,0,6,Chelsea,True,Fulham,
-Marc Cucurella Saseta,Chelsea,Fulham,2023-02-03,True,DL,83,0.0,0.0,0.0,0.02,6,0.0,1.0,3.4,0,1,0,0.58,True,2.6,0.23,58.5,0.44,0,0,0,0,2,Chelsea,False,West Ham,4.47
-Marc Cucurella Saseta,Chelsea,West Ham,2023-02-11,False,DL,66,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,1.16,True,3.4,0.23,58.94,0.4,0,0,0,0,0,Chelsea,True,Southampton,-1.13
-Marc Cucurella Saseta,Chelsea,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.6,0.22,55.67,0.4,0,0,0,0,0,Chelsea,False,Tottenham,-1.69
-Marc Cucurella Saseta,Chelsea,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.8,0.0,52.74,0.4,0,0,0,0,0,Chelsea,True,Leicester City,1.12
-Marc Cucurella Saseta,Chelsea,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.8,0.0,50.1,0.4,0,0,0,0,1,Chelsea,False,Leeds United,-3.0
-Marc Cucurella Saseta,Chelsea,Leeds United,2023-03-11,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.6,0,0,1,2.35,True,1.6,0.0,52.0,0.36,0,0,0,0,0,Chelsea,True,Everton,1.01
-Marc Cucurella Saseta,Chelsea,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,49.64,0.36,0,0,0,0,1,Chelsea,True,Aston Villa,-2.49
-Marc Cucurella Saseta,Chelsea,Aston Villa,2023-04-01,True,DC,79,0.0,0.01,0.0,0.22,1,1.0,3.0,4.9,0,0,2,0.77,True,0.2,0.0,50.91,0.33,0,0,0,0,6,Chelsea,True,Liverpool,
-Marc Cucurella Saseta,Chelsea,Liverpool,2023-04-04,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.0,0,1,0,0.35,True,0.4,0.0,52.54,0.38,0,0,0,0,1,Chelsea,False,Leicester City,5.06
-Marc Cucurella Saseta,Chelsea,Leicester City,2022-08-21,False,DML,90,0.0,0.15,0.0,0.03,1,2.0,1.0,4.0,0,0,3,0.0,False,1.6,0.0,54.04,0.36,0,0,0,0,1,Chelsea,False,Wolverhampton,0.77
-Marc Cucurella Saseta,Chelsea,Wolverhampton,2023-04-08,False,DL,67,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,1,0.56,True,1.8,0.03,54.54,0.33,0,0,0,0,0,Chelsea,True,Brighton,
-Marc Cucurella Saseta,Chelsea,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.03,52.52,0.33,0,0,0,0,0,Chelsea,True,Brentford,
-Marc Cucurella Saseta,Chelsea,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.03,50.64,0.33,0,0,0,0,0,Chelsea,False,Arsenal,-1.77
-Marc Cucurella Saseta,Chelsea,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.03,48.9,0.33,0,0,0,0,0,Chelsea,False,Bournemouth,
-Marc Cucurella Saseta,Chelsea,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.03,47.27,0.33,0,0,0,0,0,Chelsea,True,Nottingham Forest,
-Marc Cucurella Saseta,Chelsea,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,45.74,0.33,0,0,0,0,0,Chelsea,False,Manchester City,
-Marc Cucurella Saseta,Chelsea,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,44.31,0.33,0,0,0,0,0,Chelsea,False,Manchester United,
-Marc Cucurella Saseta,Chelsea,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,42.97,0.33,0,0,0,0,0,Chelsea,True,Newcastle United,
-Marc Cucurella Saseta,Chelsea,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,41.71,0.33,0,0,0,0,5,Chelsea,True,Leeds United,-3.8
-Marc Cucurella Saseta,Chelsea,Leeds United,2022-08-27,True,DL,90,0.0,0.0,1.0,0.05,5,0.0,2.0,5.4,0,0,1,0.0,False,0.0,0.0,43.09,0.31,0,0,0,0,1,Chelsea,False,Southampton,0.63
-Marc Cucurella Saseta,Chelsea,Southampton,2022-08-30,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.4,0,0,2,0.0,False,1.0,0.2,44.39,0.29,0,0,0,0,1,Chelsea,True,West Ham,-1.25
-Marc Cucurella Saseta,Chelsea,West Ham,2022-09-03,True,ML,71,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,1,0.0,False,1.2,0.2,45.11,0.28,0,0,0,0,0,Chelsea,False,Crystal Palace,-1.84
-Marc Cucurella Saseta,Chelsea,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.2,43.92,0.28,0,0,0,0,0,Chelsea,True,Liverpool,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Marc Cucurella Saseta,Chelsea,Everton,2022-08-06,False,Sub,15,0.0,0.0,0.0,0.35,0,0.0,1.0,2.6,0,0,0,0.0,False,0.0,0.0,15.0,0.0,0,0,0,0,7,Chelsea,True,Wolverhampton,2.42,-0.48
+Marc Cucurella Saseta,Chelsea,Wolverhampton,2022-10-08,True,DL,90,0.0,0.0,0.0,0.05,7,0.0,1.0,5.1,1,1,0,0.0,False,0.0,0.0,52.5,1.0,0,0,0,0,1,Chelsea,False,Aston Villa,-1.51,
+Marc Cucurella Saseta,Chelsea,Aston Villa,2022-10-16,False,DC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.0,False,3.5,0.0,50.0,1.0,0,0,0,0,6,Chelsea,False,Brentford,-0.66,-0.55
+Marc Cucurella Saseta,Chelsea,Brentford,2022-10-19,False,DML,60,0.0,0.0,0.0,0.0,6,0.0,0.0,3.0,0,1,0,0.0,False,2.67,0.0,52.5,1.0,0,0,0,0,1,Chelsea,True,Manchester United,-0.06,
+Marc Cucurella Saseta,Chelsea,Manchester United,2022-10-22,True,DC,35,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,False,3.5,0.0,49.0,1.0,0,0,0,0,1,Chelsea,False,Brighton,0.05,-0.39
+Marc Cucurella Saseta,Chelsea,Brighton,2022-10-29,False,DC,63,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,3,0.0,False,3.0,0.0,51.33,0.5,0,0,0,0,2,Chelsea,True,Arsenal,5.81,0.36
+Marc Cucurella Saseta,Chelsea,Arsenal,2022-11-06,True,DL,90,0.0,0.03,0.0,0.0,2,1.0,0.0,3.2,0,0,1,0.0,False,3.2,0.0,56.86,0.33,0,0,0,0,1,Chelsea,False,Newcastle United,-1.55,
+Marc Cucurella Saseta,Chelsea,Newcastle United,2022-11-12,False,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.0,False,2.2,0.01,51.88,0.33,0,0,0,0,6,Chelsea,True,Bournemouth,,1.46
+Marc Cucurella Saseta,Chelsea,Bournemouth,2022-12-27,True,DL,90,0.0,0.0,0.0,0.25,6,0.0,1.0,3.7,0,1,0,0.53,True,2.2,0.01,56.11,0.5,0,0,0,0,2,Chelsea,False,Nottingham Forest,,
+Marc Cucurella Saseta,Chelsea,Nottingham Forest,2023-01-01,False,DL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.5,0,0,1,1.2,True,2.2,0.01,59.5,0.4,0,0,0,0,2,Chelsea,True,Manchester City,1.05,
+Marc Cucurella Saseta,Chelsea,Manchester City,2023-01-05,True,DL,67,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,1.45,True,2.4,0.01,60.18,0.33,0,0,0,0,1,Chelsea,False,Fulham,,1.37
+Marc Cucurella Saseta,Chelsea,Fulham,2023-01-12,False,Sub,11,0.0,0.05,0.0,0.0,1,1.0,0.0,0.7,0,0,0,0.0,False,2.6,0.01,56.08,0.33,0,0,0,0,4,Chelsea,True,Tottenham,-1.77,1.07
+Marc Cucurella Saseta,Chelsea,Tottenham,2022-08-14,True,DML,90,0.0,0.11,1.0,0.05,4,2.0,1.0,7.7,0,0,2,0.0,False,2.4,0.01,58.69,0.29,0,0,0,0,0,Chelsea,True,Crystal Palace,0.31,
+Marc Cucurella Saseta,Chelsea,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.23,54.5,0.29,0,0,0,0,6,Chelsea,False,Liverpool,0.32,-1.33
+Marc Cucurella Saseta,Chelsea,Liverpool,2023-01-21,False,DML,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.6,0,1,0,1.4,True,1.8,0.23,56.87,0.38,0,0,0,0,6,Chelsea,True,Fulham,,-0.3
+Marc Cucurella Saseta,Chelsea,Fulham,2023-02-03,True,DL,83,0.0,0.0,0.0,0.02,6,0.0,1.0,3.4,0,1,0,0.58,True,2.6,0.23,58.5,0.44,0,0,0,0,2,Chelsea,False,West Ham,4.47,
+Marc Cucurella Saseta,Chelsea,West Ham,2023-02-11,False,DL,66,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,1.16,True,3.4,0.23,58.94,0.4,0,0,0,0,0,Chelsea,True,Southampton,-1.13,-0.38
+Marc Cucurella Saseta,Chelsea,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.6,0.22,55.67,0.4,0,0,0,0,0,Chelsea,False,Tottenham,-1.69,-0.03
+Marc Cucurella Saseta,Chelsea,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.8,0.0,52.74,0.4,0,0,0,0,0,Chelsea,True,Leicester City,1.12,
+Marc Cucurella Saseta,Chelsea,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.8,0.0,50.1,0.4,0,0,0,0,1,Chelsea,False,Leeds United,-3.0,
+Marc Cucurella Saseta,Chelsea,Leeds United,2023-03-11,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.6,0,0,1,2.35,True,1.6,0.0,52.0,0.36,0,0,0,0,0,Chelsea,True,Everton,1.01,0.34
+Marc Cucurella Saseta,Chelsea,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,49.64,0.36,0,0,0,0,1,Chelsea,True,Aston Villa,-2.49,
+Marc Cucurella Saseta,Chelsea,Aston Villa,2023-04-01,True,DC,79,0.0,0.01,0.0,0.22,1,1.0,3.0,4.9,0,0,2,0.77,True,0.2,0.0,50.91,0.33,0,0,0,0,6,Chelsea,True,Liverpool,,-0.53
+Marc Cucurella Saseta,Chelsea,Liverpool,2023-04-04,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.0,0,1,0,0.35,True,0.4,0.0,52.54,0.38,0,0,0,0,1,Chelsea,False,Leicester City,5.06,
+Marc Cucurella Saseta,Chelsea,Leicester City,2022-08-21,False,DML,90,0.0,0.15,0.0,0.03,1,2.0,1.0,4.0,0,0,3,0.0,False,1.6,0.0,54.04,0.36,0,0,0,0,1,Chelsea,False,Wolverhampton,0.77,-0.46
+Marc Cucurella Saseta,Chelsea,Wolverhampton,2023-04-08,False,DL,67,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,1,0.56,True,1.8,0.03,54.54,0.33,0,0,0,0,0,Chelsea,True,Brighton,,-0.71
+Marc Cucurella Saseta,Chelsea,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.03,52.52,0.33,0,0,0,0,0,Chelsea,True,Brentford,,0.69
+Marc Cucurella Saseta,Chelsea,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.03,50.64,0.33,0,0,0,0,0,Chelsea,False,Arsenal,-1.77,-0.0
+Marc Cucurella Saseta,Chelsea,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.03,48.9,0.33,0,0,0,0,0,Chelsea,False,Bournemouth,,0.19
+Marc Cucurella Saseta,Chelsea,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.03,47.27,0.33,0,0,0,0,0,Chelsea,True,Nottingham Forest,,
+Marc Cucurella Saseta,Chelsea,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,45.74,0.33,0,0,0,0,0,Chelsea,False,Manchester City,,
+Marc Cucurella Saseta,Chelsea,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,44.31,0.33,0,0,0,0,0,Chelsea,False,Manchester United,,
+Marc Cucurella Saseta,Chelsea,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,42.97,0.33,0,0,0,0,0,Chelsea,True,Newcastle United,,
+Marc Cucurella Saseta,Chelsea,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,41.71,0.33,0,0,0,0,5,Chelsea,True,Leeds United,-3.8,
+Marc Cucurella Saseta,Chelsea,Leeds United,2022-08-27,True,DL,90,0.0,0.0,1.0,0.05,5,0.0,2.0,5.4,0,0,1,0.0,False,0.0,0.0,43.09,0.31,0,0,0,0,1,Chelsea,False,Southampton,0.63,-1.07
+Marc Cucurella Saseta,Chelsea,Southampton,2022-08-30,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.4,0,0,2,0.0,False,1.0,0.2,44.39,0.29,0,0,0,0,1,Chelsea,True,West Ham,-1.25,
+Marc Cucurella Saseta,Chelsea,West Ham,2022-09-03,True,ML,71,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,1,0.0,False,1.2,0.2,45.11,0.28,0,0,0,0,0,Chelsea,False,Crystal Palace,-1.84,
+Marc Cucurella Saseta,Chelsea,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.2,43.92,0.28,0,0,0,0,0,Chelsea,True,Liverpool,,-0.53

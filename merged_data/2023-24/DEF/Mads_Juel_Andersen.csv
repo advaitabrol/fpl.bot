@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Mads Juel Andersen,Luton,Brighton,2023-08-12,False,DC,75,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,2,2.34,True,0.0,0.0,75.0,0.0,0,0,0,0,0.0,Luton,False,Aston Villa,
-Mads Juel Andersen,Luton,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,37.5,0.0,0,0,0,0,0.0,Luton,True,Liverpool,
-Mads Juel Andersen,Luton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,25.0,0.0,0,0,0,0,0.0,Luton,False,Manchester United,
-Mads Juel Andersen,Luton,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,18.75,0.0,0,0,0,0,0.0,Luton,True,Crystal Palace,
-Mads Juel Andersen,Luton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,15.0,0.0,0,0,0,0,0.0,Luton,False,Brentford,
-Mads Juel Andersen,Luton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,12.5,0.0,0,0,0,0,0.0,Luton,True,Arsenal,
-Mads Juel Andersen,Luton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,10.71,0.0,0,0,0,0,0.0,Luton,True,Manchester City,
-Mads Juel Andersen,Luton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,9.38,0.0,0,0,0,0,1.0,Luton,True,Newcastle United,
-Mads Juel Andersen,Luton,Newcastle United,2023-12-23,True,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,0.44,False,0.0,0.0,9.89,0.0,0,0,0,0,1.0,Luton,False,Sheffield,
-Mads Juel Andersen,Luton,Sheffield,2023-12-26,False,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.13,False,0.2,0.0,10.1,0.0,0,0,0,0,0.0,Luton,True,Chelsea,
-Mads Juel Andersen,Luton,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,9.18,0.0,0,0,0,0,0.0,Luton,False,Burnley,
-Mads Juel Andersen,Luton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,8.42,0.0,0,0,0,0,0.0,Luton,True,Brighton,
-Mads Juel Andersen,Luton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,7.77,0.0,0,0,0,0,0.0,Luton,False,Newcastle United,
-Mads Juel Andersen,Luton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,7.21,0.0,0,0,0,0,0.0,Luton,True,Sheffield,
-Mads Juel Andersen,Luton,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,6.73,0.0,0,0,0,0,0.0,Luton,True,Manchester United,
-Mads Juel Andersen,Luton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,6.31,0.0,0,0,0,0,0.0,Luton,False,Liverpool,
-Mads Juel Andersen,Luton,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,5.94,0.0,0,0,0,0,0.0,Luton,True,Aston Villa,
-Mads Juel Andersen,Luton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,5.61,0.0,0,0,0,0,0.0,Luton,False,Crystal Palace,
-Mads Juel Andersen,Luton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,5.32,0.0,0,0,0,0,0.0,Luton,False,Bournemouth,
-Mads Juel Andersen,Luton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,5.05,0.0,0,0,0,0,0.0,Luton,True,Nottingham Forest,
-Mads Juel Andersen,Luton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.81,0.0,0,0,0,0,1.0,Luton,False,Chelsea,4.03
-Mads Juel Andersen,Luton,Chelsea,2023-08-25,False,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.08,False,0.0,0.0,5.18,0.0,0,0,0,0,0.0,Luton,False,Tottenham,
-Mads Juel Andersen,Luton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.96,0.0,0,0,0,0,0.0,Luton,False,Arsenal,
-Mads Juel Andersen,Luton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.75,0.0,0,0,0,0,0.0,Luton,True,Bournemouth,
-Mads Juel Andersen,Luton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.56,0.0,0,0,0,0,0.0,Luton,False,Manchester City,
-Mads Juel Andersen,Luton,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.38,0.0,0,0,0,0,0.0,Luton,True,Brentford,
-Mads Juel Andersen,Luton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.22,0.0,0,0,0,0,0.0,Luton,False,Wolverhampton,
-Mads Juel Andersen,Luton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.07,0.0,0,0,0,0,0.0,Luton,True,Everton,
-Mads Juel Andersen,Luton,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.93,0.0,0,0,0,0,0.0,Luton,False,West Ham,
-Mads Juel Andersen,Luton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.8,0.0,0,0,0,0,0.0,Luton,True,Fulham,
-Mads Juel Andersen,Luton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.68,0.0,0,0,0,0,8.0,Luton,True,West Ham,-0.3
-Mads Juel Andersen,Luton,West Ham,2023-09-01,True,DC,90,1.0,0.62,0.0,0.0,8,2.0,0.0,7.4,1,0,2,1.06,True,0.0,0.0,6.38,0.0,0,0,0,0,2.0,Luton,False,Fulham,-0.95
-Mads Juel Andersen,Luton,Fulham,2023-09-16,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.6,0,0,1,0.98,True,1.6,0.12,8.91,0.0,0,0,0,0,0.0,Luton,True,Wolverhampton,1.05
-Mads Juel Andersen,Luton,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.12,8.65,0.0,0,0,0,0,1.0,Luton,False,Everton,-1.05
-Mads Juel Andersen,Luton,Everton,2023-09-30,False,Sub,45,0.0,0.07,0.0,0.0,1,1.0,0.0,2.8,0,0,0,0.65,False,2.0,0.12,9.69,0.0,0,0,0,0,0.0,Luton,True,Burnley,0.12
-Mads Juel Andersen,Luton,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.14,9.42,0.0,0,0,0,0,1.0,Luton,True,Tottenham,1.36
-Mads Juel Andersen,Luton,Tottenham,2023-10-07,True,DC,58,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,1,1.96,True,2.2,0.14,10.73,0.0,0,0,0,0,0.0,Luton,False,Nottingham Forest,0.87
-Mads Juel Andersen,Luton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.01,10.45,0.0,0,0,0,0,,,,,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Mads Juel Andersen,Luton,Brighton,2023-08-12,False,DC,75,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,2,2.34,True,0.0,0.0,75.0,0.0,0,0,0,0,0.0,Luton,False,Aston Villa,,
+Mads Juel Andersen,Luton,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,37.5,0.0,0,0,0,0,0.0,Luton,True,Liverpool,,0.18
+Mads Juel Andersen,Luton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,25.0,0.0,0,0,0,0,0.0,Luton,False,Manchester United,,
+Mads Juel Andersen,Luton,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,18.75,0.0,0,0,0,0,0.0,Luton,True,Crystal Palace,,
+Mads Juel Andersen,Luton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,15.0,0.0,0,0,0,0,0.0,Luton,False,Brentford,,-0.53
+Mads Juel Andersen,Luton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,12.5,0.0,0,0,0,0,0.0,Luton,True,Arsenal,,-0.11
+Mads Juel Andersen,Luton,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,10.71,0.0,0,0,0,0,0.0,Luton,True,Manchester City,,
+Mads Juel Andersen,Luton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,9.38,0.0,0,0,0,0,1.0,Luton,True,Newcastle United,,
+Mads Juel Andersen,Luton,Newcastle United,2023-12-23,True,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,0.44,False,0.0,0.0,9.89,0.0,0,0,0,0,1.0,Luton,False,Sheffield,,-0.61
+Mads Juel Andersen,Luton,Sheffield,2023-12-26,False,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.13,False,0.2,0.0,10.1,0.0,0,0,0,0,0.0,Luton,True,Chelsea,,-0.25
+Mads Juel Andersen,Luton,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,9.18,0.0,0,0,0,0,0.0,Luton,False,Burnley,,0.0
+Mads Juel Andersen,Luton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,8.42,0.0,0,0,0,0,0.0,Luton,True,Brighton,,-0.66
+Mads Juel Andersen,Luton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,7.77,0.0,0,0,0,0,0.0,Luton,False,Newcastle United,,
+Mads Juel Andersen,Luton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,7.21,0.0,0,0,0,0,0.0,Luton,True,Sheffield,,0.68
+Mads Juel Andersen,Luton,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,6.73,0.0,0,0,0,0,0.0,Luton,True,Manchester United,,
+Mads Juel Andersen,Luton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,6.31,0.0,0,0,0,0,0.0,Luton,False,Liverpool,,-1.01
+Mads Juel Andersen,Luton,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,5.94,0.0,0,0,0,0,0.0,Luton,True,Aston Villa,,
+Mads Juel Andersen,Luton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,5.61,0.0,0,0,0,0,0.0,Luton,False,Crystal Palace,,
+Mads Juel Andersen,Luton,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,5.32,0.0,0,0,0,0,0.0,Luton,False,Bournemouth,,0.19
+Mads Juel Andersen,Luton,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,5.05,0.0,0,0,0,0,0.0,Luton,True,Nottingham Forest,,
+Mads Juel Andersen,Luton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.81,0.0,0,0,0,0,1.0,Luton,False,Chelsea,4.03,-0.85
+Mads Juel Andersen,Luton,Chelsea,2023-08-25,False,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.08,False,0.0,0.0,5.18,0.0,0,0,0,0,0.0,Luton,False,Tottenham,,-0.36
+Mads Juel Andersen,Luton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.96,0.0,0,0,0,0,0.0,Luton,False,Arsenal,,-0.48
+Mads Juel Andersen,Luton,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.75,0.0,0,0,0,0,0.0,Luton,True,Bournemouth,,1.22
+Mads Juel Andersen,Luton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.56,0.0,0,0,0,0,0.0,Luton,False,Manchester City,,
+Mads Juel Andersen,Luton,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.38,0.0,0,0,0,0,0.0,Luton,True,Brentford,,0.79
+Mads Juel Andersen,Luton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.22,0.0,0,0,0,0,0.0,Luton,False,Wolverhampton,,-0.52
+Mads Juel Andersen,Luton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.07,0.0,0,0,0,0,0.0,Luton,True,Everton,,0.53
+Mads Juel Andersen,Luton,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.93,0.0,0,0,0,0,0.0,Luton,False,West Ham,,
+Mads Juel Andersen,Luton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.8,0.0,0,0,0,0,0.0,Luton,True,Fulham,,-0.13
+Mads Juel Andersen,Luton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.68,0.0,0,0,0,0,8.0,Luton,True,West Ham,-0.3,
+Mads Juel Andersen,Luton,West Ham,2023-09-01,True,DC,90,1.0,0.62,0.0,0.0,8,2.0,0.0,7.4,1,0,2,1.06,True,0.0,0.0,6.38,0.0,0,0,0,0,2.0,Luton,False,Fulham,-0.95,0.86
+Mads Juel Andersen,Luton,Fulham,2023-09-16,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.6,0,0,1,0.98,True,1.6,0.12,8.91,0.0,0,0,0,0,0.0,Luton,True,Wolverhampton,1.05,0.05
+Mads Juel Andersen,Luton,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.12,8.65,0.0,0,0,0,0,1.0,Luton,False,Everton,-1.05,-0.24
+Mads Juel Andersen,Luton,Everton,2023-09-30,False,Sub,45,0.0,0.07,0.0,0.0,1,1.0,0.0,2.8,0,0,0,0.65,False,2.0,0.12,9.69,0.0,0,0,0,0,0.0,Luton,True,Burnley,0.12,0.39
+Mads Juel Andersen,Luton,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.14,9.42,0.0,0,0,0,0,1.0,Luton,True,Tottenham,1.36,0.69
+Mads Juel Andersen,Luton,Tottenham,2023-10-07,True,DC,58,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,1,1.96,True,2.2,0.14,10.73,0.0,0,0,0,0,0.0,Luton,False,Nottingham Forest,0.87,
+Mads Juel Andersen,Luton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.01,10.45,0.0,0,0,0,0,,,,,,

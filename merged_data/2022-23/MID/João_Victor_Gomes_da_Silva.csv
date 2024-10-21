@@ -1,19 +1,19 @@
-name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-João Victor Gomes da Silva,Wolves,Liverpool,True,0,0,0.0,0,0,0,False,8.0,Wolves,False,Southampton,-2.8
-João Victor Gomes da Silva,Wolves,Southampton,False,20,8,5.6,2,0,0,False,0.0,Wolves,True,Bournemouth,
-João Victor Gomes da Silva,Wolves,Bournemouth,True,20,0,0.6,0,0,0,False,0.0,Wolves,False,Fulham,
-João Victor Gomes da Silva,Wolves,Fulham,False,0,0,0.0,0,0,0,False,1.0,Wolves,False,Liverpool,0.91
-João Victor Gomes da Silva,Wolves,Liverpool,False,26,1,0.3,0,0,2,False,0.0,Wolves,True,Tottenham,2.05
-João Victor Gomes da Silva,Wolves,Tottenham,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Newcastle United,3.01
-João Victor Gomes da Silva,Wolves,Newcastle United,False,0,0,0.0,0,0,0,False,1.0,Wolves,True,Leicester City,2.07
-João Victor Gomes da Silva,Wolves,Leicester City,True,90,1,4.5,0,0,4,True,0.0,Wolves,False,Nottingham Forest,
-João Victor Gomes da Silva,Wolves,Nottingham Forest,False,0,0,0.0,0,0,0,False,2.0,Wolves,True,Chelsea,-1.03
-João Victor Gomes da Silva,Wolves,Chelsea,True,90,2,4.1,0,1,0,True,2.0,Wolves,True,Brentford,3.23
-João Victor Gomes da Silva,Wolves,Brentford,True,72,2,2.1,0,1,0,True,2.0,Wolves,False,Leeds United,0.21
-João Victor Gomes da Silva,Wolves,Leeds United,False,90,2,2.6,0,0,2,True,0.0,Wolves,True,Crystal Palace,4.57
-João Victor Gomes da Silva,Wolves,Crystal Palace,True,22,0,0.8,0,0,0,False,1.0,Wolves,False,Brighton,-1.83
-João Victor Gomes da Silva,Wolves,Brighton,False,45,1,1.5,0,0,4,True,0.0,Wolves,True,Aston Villa,-1.69
-João Victor Gomes da Silva,Wolves,Aston Villa,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Manchester United,-0.63
-João Victor Gomes da Silva,Wolves,Manchester United,False,0,0,0.0,0,0,0,False,2.0,Wolves,True,Everton,-1.31
-João Victor Gomes da Silva,Wolves,Everton,True,90,2,2.8,0,0,1,True,2.0,Wolves,False,Arsenal,-0.05
-João Victor Gomes da Silva,Wolves,Arsenal,False,84,2,0.0,0,0,5,True,,Nott'm Forest,False,Arsenal,
+name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+João Victor Gomes da Silva,Wolves,Liverpool,True,0,0,0.0,0,0,0,False,8.0,Wolves,False,Southampton,-2.8,-1.07
+João Victor Gomes da Silva,Wolves,Southampton,False,20,8,5.6,2,0,0,False,0.0,Wolves,True,Bournemouth,,1.46
+João Victor Gomes da Silva,Wolves,Bournemouth,True,20,0,0.6,0,0,0,False,0.0,Wolves,False,Fulham,,1.37
+João Victor Gomes da Silva,Wolves,Fulham,False,0,0,0.0,0,0,0,False,1.0,Wolves,False,Liverpool,0.91,-1.33
+João Victor Gomes da Silva,Wolves,Liverpool,False,26,1,0.3,0,0,2,False,0.0,Wolves,True,Tottenham,2.05,1.07
+João Victor Gomes da Silva,Wolves,Tottenham,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Newcastle United,3.01,
+João Victor Gomes da Silva,Wolves,Newcastle United,False,0,0,0.0,0,0,0,False,1.0,Wolves,True,Leicester City,2.07,
+João Victor Gomes da Silva,Wolves,Leicester City,True,90,1,4.5,0,0,4,True,0.0,Wolves,False,Nottingham Forest,,
+João Victor Gomes da Silva,Wolves,Nottingham Forest,False,0,0,0.0,0,0,0,False,2.0,Wolves,True,Chelsea,-1.03,-0.25
+João Victor Gomes da Silva,Wolves,Chelsea,True,90,2,4.1,0,1,0,True,2.0,Wolves,True,Brentford,3.23,0.69
+João Victor Gomes da Silva,Wolves,Brentford,True,72,2,2.1,0,1,0,True,2.0,Wolves,False,Leeds United,0.21,
+João Victor Gomes da Silva,Wolves,Leeds United,False,90,2,2.6,0,0,2,True,0.0,Wolves,True,Crystal Palace,4.57,
+João Victor Gomes da Silva,Wolves,Crystal Palace,True,22,0,0.8,0,0,0,False,1.0,Wolves,False,Brighton,-1.83,-0.39
+João Victor Gomes da Silva,Wolves,Brighton,False,45,1,1.5,0,0,4,True,0.0,Wolves,True,Aston Villa,-1.69,
+João Victor Gomes da Silva,Wolves,Aston Villa,True,0,0,0.0,0,0,0,False,0.0,Wolves,False,Manchester United,-0.63,
+João Victor Gomes da Silva,Wolves,Manchester United,False,0,0,0.0,0,0,0,False,2.0,Wolves,True,Everton,-1.31,0.34
+João Victor Gomes da Silva,Wolves,Everton,True,90,2,2.8,0,0,1,True,2.0,Wolves,False,Arsenal,-0.05,-0.0
+João Victor Gomes da Silva,Wolves,Arsenal,False,84,2,0.0,0,0,5,True,,Nott'm Forest,False,Arsenal,,-0.0

@@ -1,39 +1,39 @@
-name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Ross Barkley,Chelsea,Everton,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Wolverhampton,2.42
-Ross Barkley,Chelsea,Wolverhampton,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Aston Villa,-1.51
-Ross Barkley,Chelsea,Aston Villa,False,0,0,0.0,0,0,0,False,0,Chelsea,False,Brentford,-0.66
-Ross Barkley,Chelsea,Brentford,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Manchester United,-0.06
-Ross Barkley,Chelsea,Manchester United,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Brighton,0.05
-Ross Barkley,Chelsea,Brighton,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Arsenal,5.81
-Ross Barkley,Chelsea,Arsenal,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Newcastle United,-1.55
-Ross Barkley,Chelsea,Newcastle United,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Bournemouth,
-Ross Barkley,Chelsea,Bournemouth,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Nottingham Forest,
-Ross Barkley,Chelsea,Nottingham Forest,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Manchester City,1.05
-Ross Barkley,Chelsea,Manchester City,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Fulham,
-Ross Barkley,Chelsea,Fulham,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Tottenham,-1.77
-Ross Barkley,Chelsea,Tottenham,True,0,0,0.0,0,0,0,False,0,Chelsea,True,Crystal Palace,0.31
-Ross Barkley,Chelsea,Crystal Palace,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Liverpool,0.32
-Ross Barkley,Chelsea,Liverpool,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Fulham,
-Ross Barkley,Chelsea,Fulham,True,0,0,0.0,0,0,0,False,0,Chelsea,False,West Ham,4.47
-Ross Barkley,Chelsea,West Ham,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Southampton,-1.13
-Ross Barkley,Chelsea,Southampton,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Tottenham,-1.69
-Ross Barkley,Chelsea,Tottenham,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Leicester City,1.12
-Ross Barkley,Chelsea,Leicester City,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Leeds United,-3.0
-Ross Barkley,Chelsea,Leeds United,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Everton,1.01
-Ross Barkley,Chelsea,Everton,True,0,0,0.0,0,0,0,False,0,Chelsea,True,Aston Villa,-2.49
-Ross Barkley,Chelsea,Aston Villa,True,0,0,0.0,0,0,0,False,0,Chelsea,True,Liverpool,
-Ross Barkley,Chelsea,Liverpool,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Leicester City,5.06
-Ross Barkley,Chelsea,Leicester City,False,0,0,0.0,0,0,0,False,0,Chelsea,False,Wolverhampton,0.77
-Ross Barkley,Chelsea,Wolverhampton,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Brighton,
-Ross Barkley,Chelsea,Brighton,True,0,0,0.0,0,0,0,False,0,Chelsea,True,Brentford,
-Ross Barkley,Chelsea,Brentford,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Arsenal,-1.77
-Ross Barkley,Chelsea,Arsenal,False,0,0,0.0,0,0,0,False,0,Chelsea,False,Bournemouth,
-Ross Barkley,Chelsea,Bournemouth,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Nottingham Forest,
-Ross Barkley,Chelsea,Nottingham Forest,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Manchester City,
-Ross Barkley,Chelsea,Manchester City,False,0,0,0.0,0,0,0,False,0,Chelsea,False,Manchester United,
-Ross Barkley,Chelsea,Manchester United,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Newcastle United,
-Ross Barkley,Chelsea,Newcastle United,True,0,0,0.0,0,0,0,False,0,Chelsea,True,Leeds United,-3.8
-Ross Barkley,Chelsea,Leeds United,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Southampton,0.63
-Ross Barkley,Chelsea,Southampton,False,0,0,0.0,0,0,0,False,0,Chelsea,True,West Ham,-1.25
-Ross Barkley,Chelsea,West Ham,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Crystal Palace,-1.84
-Ross Barkley,Chelsea,Crystal Palace,False,0,0,0.0,0,0,0,False,0,Luton,False,Brighton,
+name,team,opponent_team,was_home,minutes,total_points,ict_index,bonus,clean_sheets,goals_conceded,starts,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Ross Barkley,Chelsea,Everton,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Wolverhampton,2.42,-0.48
+Ross Barkley,Chelsea,Wolverhampton,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Aston Villa,-1.51,
+Ross Barkley,Chelsea,Aston Villa,False,0,0,0.0,0,0,0,False,0,Chelsea,False,Brentford,-0.66,-0.55
+Ross Barkley,Chelsea,Brentford,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Manchester United,-0.06,
+Ross Barkley,Chelsea,Manchester United,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Brighton,0.05,-0.39
+Ross Barkley,Chelsea,Brighton,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Arsenal,5.81,0.36
+Ross Barkley,Chelsea,Arsenal,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Newcastle United,-1.55,
+Ross Barkley,Chelsea,Newcastle United,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Bournemouth,,1.46
+Ross Barkley,Chelsea,Bournemouth,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Nottingham Forest,,
+Ross Barkley,Chelsea,Nottingham Forest,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Manchester City,1.05,
+Ross Barkley,Chelsea,Manchester City,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Fulham,,1.37
+Ross Barkley,Chelsea,Fulham,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Tottenham,-1.77,1.07
+Ross Barkley,Chelsea,Tottenham,True,0,0,0.0,0,0,0,False,0,Chelsea,True,Crystal Palace,0.31,
+Ross Barkley,Chelsea,Crystal Palace,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Liverpool,0.32,-1.33
+Ross Barkley,Chelsea,Liverpool,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Fulham,,-0.3
+Ross Barkley,Chelsea,Fulham,True,0,0,0.0,0,0,0,False,0,Chelsea,False,West Ham,4.47,
+Ross Barkley,Chelsea,West Ham,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Southampton,-1.13,-0.38
+Ross Barkley,Chelsea,Southampton,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Tottenham,-1.69,-0.03
+Ross Barkley,Chelsea,Tottenham,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Leicester City,1.12,
+Ross Barkley,Chelsea,Leicester City,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Leeds United,-3.0,
+Ross Barkley,Chelsea,Leeds United,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Everton,1.01,0.34
+Ross Barkley,Chelsea,Everton,True,0,0,0.0,0,0,0,False,0,Chelsea,True,Aston Villa,-2.49,
+Ross Barkley,Chelsea,Aston Villa,True,0,0,0.0,0,0,0,False,0,Chelsea,True,Liverpool,,-0.53
+Ross Barkley,Chelsea,Liverpool,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Leicester City,5.06,
+Ross Barkley,Chelsea,Leicester City,False,0,0,0.0,0,0,0,False,0,Chelsea,False,Wolverhampton,0.77,-0.46
+Ross Barkley,Chelsea,Wolverhampton,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Brighton,,-0.71
+Ross Barkley,Chelsea,Brighton,True,0,0,0.0,0,0,0,False,0,Chelsea,True,Brentford,,0.69
+Ross Barkley,Chelsea,Brentford,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Arsenal,-1.77,-0.0
+Ross Barkley,Chelsea,Arsenal,False,0,0,0.0,0,0,0,False,0,Chelsea,False,Bournemouth,,0.19
+Ross Barkley,Chelsea,Bournemouth,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Nottingham Forest,,
+Ross Barkley,Chelsea,Nottingham Forest,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Manchester City,,
+Ross Barkley,Chelsea,Manchester City,False,0,0,0.0,0,0,0,False,0,Chelsea,False,Manchester United,,
+Ross Barkley,Chelsea,Manchester United,False,0,0,0.0,0,0,0,False,0,Chelsea,True,Newcastle United,,
+Ross Barkley,Chelsea,Newcastle United,True,0,0,0.0,0,0,0,False,0,Chelsea,True,Leeds United,-3.8,
+Ross Barkley,Chelsea,Leeds United,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Southampton,0.63,-1.07
+Ross Barkley,Chelsea,Southampton,False,0,0,0.0,0,0,0,False,0,Chelsea,True,West Ham,-1.25,
+Ross Barkley,Chelsea,West Ham,True,0,0,0.0,0,0,0,False,0,Chelsea,False,Crystal Palace,-1.84,
+Ross Barkley,Chelsea,Crystal Palace,False,0,0,0.0,0,0,0,False,0,Luton,False,Brighton,,-0.39

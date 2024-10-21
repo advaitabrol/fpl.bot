@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Issa Kaboré,Luton,Brighton,2023-08-12,False,DMR,63,0.0,0.02,0.0,0.84,1,1.0,1.0,2.2,0,0,1,1.55,True,0.0,0.0,63.0,0.0,0,0,0,0,0.0,Luton,False,Aston Villa,
-Issa Kaboré,Luton,Aston Villa,2023-10-29,False,DR,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.3,0,0,3,2.39,True,1.0,0.02,76.5,0.0,0,0,0,0,8.0,Luton,True,Liverpool,
-Issa Kaboré,Luton,Liverpool,2023-11-05,True,DMR,90,0.0,0.13,1.0,0.56,8,2.0,1.0,7.3,3,0,1,3.04,True,0.5,0.01,81.0,0.0,0,0,0,0,1.0,Luton,False,Manchester United,
-Issa Kaboré,Luton,Manchester United,2023-11-11,False,DMR,86,0.0,0.0,0.0,0.11,1,0.0,2.0,4.3,0,0,1,2.01,True,3.0,0.38,82.25,0.0,0,0,0,0,0.0,Luton,True,Crystal Palace,
-Issa Kaboré,Luton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.5,0.29,65.8,0.0,0,0,0,0,1.0,Luton,False,Brentford,
-Issa Kaboré,Luton,Brentford,2023-12-02,False,DMR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,3,3.47,True,2.0,0.23,69.83,0.0,0,0,0,0,0.0,Luton,True,Arsenal,
-Issa Kaboré,Luton,Arsenal,2023-12-05,True,DMR,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.8,0,0,4,2.44,True,2.0,0.23,72.71,0.0,0,0,0,0,0.0,Luton,True,Manchester City,
-Issa Kaboré,Luton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.23,63.62,0.0,0,0,0,0,1.0,Luton,True,Newcastle United,
-Issa Kaboré,Luton,Newcastle United,2023-12-23,True,DMR,45,0.0,0.0,0.0,0.02,1,0.0,1.0,2.3,0,0,0,0.94,True,0.4,0.0,61.56,0.0,0,0,0,0,0.0,Luton,False,Sheffield,
-Issa Kaboré,Luton,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,55.4,0.0,0,0,0,0,0.0,Luton,True,Chelsea,
-Issa Kaboré,Luton,Chelsea,2023-12-30,True,DMR,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.3,0,0,2,0.35,True,0.4,0.0,54.45,0.0,0,0,0,0,0.0,Luton,False,Burnley,
-Issa Kaboré,Luton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,49.92,0.0,0,0,0,0,0.0,Luton,True,Brighton,
-Issa Kaboré,Luton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,46.08,0.0,0,0,0,0,0.0,Luton,False,Newcastle United,
-Issa Kaboré,Luton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,42.79,0.0,0,0,0,0,0.0,Luton,True,Sheffield,
-Issa Kaboré,Luton,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,39.93,0.0,0,0,0,0,0.0,Luton,True,Manchester United,
-Issa Kaboré,Luton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,37.44,0.0,0,0,0,0,0.0,Luton,False,Liverpool,
-Issa Kaboré,Luton,Liverpool,2024-02-21,False,Sub,16,0.0,0.0,0.0,0.0,0,0.0,0.0,0.3,0,0,1,0.57,False,0.0,0.0,36.18,0.0,0,0,0,0,1.0,Luton,True,Aston Villa,
-Issa Kaboré,Luton,Aston Villa,2024-03-02,True,DMR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,3,1.83,True,0.0,0.0,39.17,0.0,0,0,0,0,1.0,Luton,False,Crystal Palace,
-Issa Kaboré,Luton,Crystal Palace,2024-03-09,False,DMR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.1,0,0,1,2.59,True,0.2,0.0,41.84,0.0,0,0,0,0,3.0,Luton,False,Bournemouth,
-Issa Kaboré,Luton,Bournemouth,2024-03-13,False,DMR,90,0.0,0.0,1.0,0.57,3,0.0,2.0,6.9,0,0,4,2.66,True,0.4,0.0,44.25,0.0,0,0,0,0,1.0,Luton,True,Nottingham Forest,
-Issa Kaboré,Luton,Nottingham Forest,2024-03-16,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,1,1.71,True,1.0,0.2,46.43,0.0,0,0,0,0,1.0,Luton,False,Chelsea,4.03
-Issa Kaboré,Luton,Chelsea,2023-08-25,False,DR,69,0.0,0.04,0.0,0.0,1,1.0,0.0,1.1,0,0,2,1.52,True,1.2,0.2,47.45,0.0,0,0,0,0,-1.0,Luton,False,Tottenham,
-Issa Kaboré,Luton,Tottenham,2024-03-30,False,DR,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,3.2,0,0,2,2.98,True,1.4,0.21,49.3,0.0,0,0,0,0,1.0,Luton,False,Arsenal,
-Issa Kaboré,Luton,Arsenal,2024-04-03,False,DC,90,0.0,0.0,0.0,0.04,1,0.0,1.0,3.1,0,0,2,0.82,True,1.0,0.21,51.0,0.0,0,0,0,0,2.0,Luton,True,Bournemouth,
-Issa Kaboré,Luton,Bournemouth,2024-04-06,True,DC,90,0.0,0.0,0.0,0.04,2,0.0,2.0,4.8,0,0,1,0.34,True,1.0,0.21,52.56,0.0,0,0,0,0,0.0,Luton,False,Manchester City,
-Issa Kaboré,Luton,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.01,50.54,0.0,0,0,0,0,1.0,Luton,True,Brentford,
-Issa Kaboré,Luton,Brentford,2024-04-20,True,DMR,34,0.0,0.0,0.0,0.06,1,0.0,1.0,2.6,0,0,1,0.69,True,0.6,0.01,49.93,0.0,0,0,0,0,0.0,Luton,False,Wolverhampton,
-Issa Kaboré,Luton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,48.14,0.0,0,0,0,0,0.0,Luton,True,Everton,
-Issa Kaboré,Luton,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.0,46.48,0.0,0,0,0,0,0.0,Luton,False,West Ham,
-Issa Kaboré,Luton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,44.93,0.0,0,0,0,0,0.0,Luton,True,Fulham,
-Issa Kaboré,Luton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,43.48,0.0,0,0,0,0,1.0,Luton,True,West Ham,-0.3
-Issa Kaboré,Luton,West Ham,2023-09-01,True,Sub,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,1,0.2,False,0.2,0.0,42.72,0.0,0,0,0,0,2.0,Luton,False,Fulham,-0.95
-Issa Kaboré,Luton,Fulham,2023-09-16,False,DR,90,0.0,0.06,0.0,0.77,2,1.0,3.0,7.7,0,0,1,0.98,True,0.2,0.0,44.15,0.0,0,0,0,0,5.0,Luton,True,Wolverhampton,1.05
-Issa Kaboré,Luton,Wolverhampton,2023-09-23,True,DMR,84,0.0,0.06,0.0,0.0,5,1.0,0.0,1.5,0,0,1,0.59,True,0.6,0.01,45.32,0.0,0,0,0,0,1.0,Luton,False,Everton,-1.05
-Issa Kaboré,Luton,Everton,2023-09-30,False,DMR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.6,0,0,1,2.9,True,1.6,0.02,46.6,0.0,0,0,0,0,2.0,Luton,True,Burnley,0.12
-Issa Kaboré,Luton,Burnley,2023-10-03,True,DMR,61,0.0,0.0,0.0,0.11,2,0.0,1.0,2.8,0,0,1,0.98,True,1.8,0.02,47.0,0.0,0,0,0,0,0.0,Luton,True,Tottenham,1.36
-Issa Kaboré,Luton,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.02,45.73,0.0,0,0,0,0,1.0,Luton,False,Nottingham Forest,0.87
-Issa Kaboré,Luton,Nottingham Forest,2023-10-21,False,Sub,35,0.0,0.0,0.0,0.03,1,0.0,1.0,2.0,0,0,1,0.49,False,2.0,0.02,45.45,0.0,0,0,0,0,,,,,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Issa Kaboré,Luton,Brighton,2023-08-12,False,DMR,63,0.0,0.02,0.0,0.84,1,1.0,1.0,2.2,0,0,1,1.55,True,0.0,0.0,63.0,0.0,0,0,0,0,0.0,Luton,False,Aston Villa,,
+Issa Kaboré,Luton,Aston Villa,2023-10-29,False,DR,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.3,0,0,3,2.39,True,1.0,0.02,76.5,0.0,0,0,0,0,8.0,Luton,True,Liverpool,,0.18
+Issa Kaboré,Luton,Liverpool,2023-11-05,True,DMR,90,0.0,0.13,1.0,0.56,8,2.0,1.0,7.3,3,0,1,3.04,True,0.5,0.01,81.0,0.0,0,0,0,0,1.0,Luton,False,Manchester United,,
+Issa Kaboré,Luton,Manchester United,2023-11-11,False,DMR,86,0.0,0.0,0.0,0.11,1,0.0,2.0,4.3,0,0,1,2.01,True,3.0,0.38,82.25,0.0,0,0,0,0,0.0,Luton,True,Crystal Palace,,
+Issa Kaboré,Luton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.5,0.29,65.8,0.0,0,0,0,0,1.0,Luton,False,Brentford,,-0.53
+Issa Kaboré,Luton,Brentford,2023-12-02,False,DMR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,3,3.47,True,2.0,0.23,69.83,0.0,0,0,0,0,0.0,Luton,True,Arsenal,,-0.11
+Issa Kaboré,Luton,Arsenal,2023-12-05,True,DMR,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.8,0,0,4,2.44,True,2.0,0.23,72.71,0.0,0,0,0,0,0.0,Luton,True,Manchester City,,
+Issa Kaboré,Luton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.23,63.62,0.0,0,0,0,0,1.0,Luton,True,Newcastle United,,
+Issa Kaboré,Luton,Newcastle United,2023-12-23,True,DMR,45,0.0,0.0,0.0,0.02,1,0.0,1.0,2.3,0,0,0,0.94,True,0.4,0.0,61.56,0.0,0,0,0,0,0.0,Luton,False,Sheffield,,-0.61
+Issa Kaboré,Luton,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,55.4,0.0,0,0,0,0,0.0,Luton,True,Chelsea,,-0.25
+Issa Kaboré,Luton,Chelsea,2023-12-30,True,DMR,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.3,0,0,2,0.35,True,0.4,0.0,54.45,0.0,0,0,0,0,0.0,Luton,False,Burnley,,0.0
+Issa Kaboré,Luton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,49.92,0.0,0,0,0,0,0.0,Luton,True,Brighton,,-0.66
+Issa Kaboré,Luton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,46.08,0.0,0,0,0,0,0.0,Luton,False,Newcastle United,,
+Issa Kaboré,Luton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,42.79,0.0,0,0,0,0,0.0,Luton,True,Sheffield,,0.68
+Issa Kaboré,Luton,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,39.93,0.0,0,0,0,0,0.0,Luton,True,Manchester United,,
+Issa Kaboré,Luton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,37.44,0.0,0,0,0,0,0.0,Luton,False,Liverpool,,-1.01
+Issa Kaboré,Luton,Liverpool,2024-02-21,False,Sub,16,0.0,0.0,0.0,0.0,0,0.0,0.0,0.3,0,0,1,0.57,False,0.0,0.0,36.18,0.0,0,0,0,0,1.0,Luton,True,Aston Villa,,
+Issa Kaboré,Luton,Aston Villa,2024-03-02,True,DMR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,3,1.83,True,0.0,0.0,39.17,0.0,0,0,0,0,1.0,Luton,False,Crystal Palace,,
+Issa Kaboré,Luton,Crystal Palace,2024-03-09,False,DMR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.1,0,0,1,2.59,True,0.2,0.0,41.84,0.0,0,0,0,0,3.0,Luton,False,Bournemouth,,0.19
+Issa Kaboré,Luton,Bournemouth,2024-03-13,False,DMR,90,0.0,0.0,1.0,0.57,3,0.0,2.0,6.9,0,0,4,2.66,True,0.4,0.0,44.25,0.0,0,0,0,0,1.0,Luton,True,Nottingham Forest,,
+Issa Kaboré,Luton,Nottingham Forest,2024-03-16,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,1,1.71,True,1.0,0.2,46.43,0.0,0,0,0,0,1.0,Luton,False,Chelsea,4.03,-0.85
+Issa Kaboré,Luton,Chelsea,2023-08-25,False,DR,69,0.0,0.04,0.0,0.0,1,1.0,0.0,1.1,0,0,2,1.52,True,1.2,0.2,47.45,0.0,0,0,0,0,-1.0,Luton,False,Tottenham,,-0.36
+Issa Kaboré,Luton,Tottenham,2024-03-30,False,DR,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,3.2,0,0,2,2.98,True,1.4,0.21,49.3,0.0,0,0,0,0,1.0,Luton,False,Arsenal,,-0.48
+Issa Kaboré,Luton,Arsenal,2024-04-03,False,DC,90,0.0,0.0,0.0,0.04,1,0.0,1.0,3.1,0,0,2,0.82,True,1.0,0.21,51.0,0.0,0,0,0,0,2.0,Luton,True,Bournemouth,,1.22
+Issa Kaboré,Luton,Bournemouth,2024-04-06,True,DC,90,0.0,0.0,0.0,0.04,2,0.0,2.0,4.8,0,0,1,0.34,True,1.0,0.21,52.56,0.0,0,0,0,0,0.0,Luton,False,Manchester City,,
+Issa Kaboré,Luton,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.01,50.54,0.0,0,0,0,0,1.0,Luton,True,Brentford,,0.79
+Issa Kaboré,Luton,Brentford,2024-04-20,True,DMR,34,0.0,0.0,0.0,0.06,1,0.0,1.0,2.6,0,0,1,0.69,True,0.6,0.01,49.93,0.0,0,0,0,0,0.0,Luton,False,Wolverhampton,,-0.52
+Issa Kaboré,Luton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,48.14,0.0,0,0,0,0,0.0,Luton,True,Everton,,0.53
+Issa Kaboré,Luton,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.0,46.48,0.0,0,0,0,0,0.0,Luton,False,West Ham,,
+Issa Kaboré,Luton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,44.93,0.0,0,0,0,0,0.0,Luton,True,Fulham,,-0.13
+Issa Kaboré,Luton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,43.48,0.0,0,0,0,0,1.0,Luton,True,West Ham,-0.3,
+Issa Kaboré,Luton,West Ham,2023-09-01,True,Sub,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,1,0.2,False,0.2,0.0,42.72,0.0,0,0,0,0,2.0,Luton,False,Fulham,-0.95,0.86
+Issa Kaboré,Luton,Fulham,2023-09-16,False,DR,90,0.0,0.06,0.0,0.77,2,1.0,3.0,7.7,0,0,1,0.98,True,0.2,0.0,44.15,0.0,0,0,0,0,5.0,Luton,True,Wolverhampton,1.05,0.05
+Issa Kaboré,Luton,Wolverhampton,2023-09-23,True,DMR,84,0.0,0.06,0.0,0.0,5,1.0,0.0,1.5,0,0,1,0.59,True,0.6,0.01,45.32,0.0,0,0,0,0,1.0,Luton,False,Everton,-1.05,-0.24
+Issa Kaboré,Luton,Everton,2023-09-30,False,DMR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.6,0,0,1,2.9,True,1.6,0.02,46.6,0.0,0,0,0,0,2.0,Luton,True,Burnley,0.12,0.39
+Issa Kaboré,Luton,Burnley,2023-10-03,True,DMR,61,0.0,0.0,0.0,0.11,2,0.0,1.0,2.8,0,0,1,0.98,True,1.8,0.02,47.0,0.0,0,0,0,0,0.0,Luton,True,Tottenham,1.36,0.69
+Issa Kaboré,Luton,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.02,45.73,0.0,0,0,0,0,1.0,Luton,False,Nottingham Forest,0.87,
+Issa Kaboré,Luton,Nottingham Forest,2023-10-21,False,Sub,35,0.0,0.0,0.0,0.03,1,0.0,1.0,2.0,0,0,1,0.49,False,2.0,0.02,45.45,0.0,0,0,0,0,,,,,,

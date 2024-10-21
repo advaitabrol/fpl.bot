@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Yoane Wissa,Brentford,Tottenham,2023-08-13,True,FW,71,1.0,0.2,0.0,0.07,9,3.0,2.0,11.6,3,True,0.0,0.0,71.0,0,0,0,0,0,2.0,Brentford,False,Chelsea,-4.09
-Yoane Wissa,Brentford,Chelsea,2023-10-28,False,FW,75,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,True,9.0,0.2,73.0,0,0,0,0,0,2.0,Brentford,True,West Ham,-2.81
-Yoane Wissa,Brentford,West Ham,2023-11-04,True,FWL,88,0.0,0.12,0.0,0.12,2,2.0,1.0,3.3,0,True,5.5,0.1,78.0,0,0,0,0,0,2.0,Brentford,False,Liverpool,3.61
-Yoane Wissa,Brentford,Liverpool,2023-11-12,False,FW,71,0.0,0.06,0.0,0.0,2,1.0,0.0,1.3,0,True,4.33,0.11,76.25,0,0,0,0,0,2.0,Brentford,True,Arsenal,-0.45
-Yoane Wissa,Brentford,Arsenal,2023-11-25,True,FW,71,0.0,0.6,0.0,0.49,2,1.0,2.0,3.6,0,True,3.75,0.1,75.2,0,0,0,0,0,2.0,Brentford,True,Luton,
-Yoane Wissa,Brentford,Luton,2023-12-02,True,FWL,90,0.0,0.19,0.0,0.11,2,3.0,1.0,4.7,0,True,3.4,0.2,77.67,0,0,0,0,0,0.0,Brentford,False,Brighton,1.94
-Yoane Wissa,Brentford,Brighton,2023-12-06,False,Sub,50,0.0,0.06,0.0,0.0,0,1.0,0.0,0.6,0,False,2.0,0.19,73.71,0,0,0,0,0,2.0,Brentford,False,Sheffield,
-Yoane Wissa,Brentford,Sheffield,2023-12-09,False,FWL,90,0.0,0.11,0.0,0.0,2,2.0,0.0,4.8,0,True,1.6,0.21,75.75,0,0,0,0,0,2.0,Brentford,True,Aston Villa,0.1
-Yoane Wissa,Brentford,Aston Villa,2023-12-17,True,FW,75,0.0,0.32,0.0,0.0,2,2.0,0.0,3.2,0,True,1.6,0.2,75.67,0,0,0,0,0,7.0,Brentford,True,Wolverhampton,1.61
-Yoane Wissa,Brentford,Wolverhampton,2023-12-27,True,FWR,85,1.0,0.37,0.0,0.24,7,2.0,2.0,10.2,1,True,1.6,0.26,76.6,0,0,0,0,0,11.0,Brentford,False,Fulham,3.1
-Yoane Wissa,Brentford,Fulham,2023-08-19,False,FW,78,1.0,1.01,0.0,0.0,11,7.0,0.0,10.5,2,True,2.6,0.21,76.73,0,0,0,0,0,2.0,Brentford,False,Crystal Palace,0.48
-Yoane Wissa,Brentford,Crystal Palace,2023-12-30,False,FW,90,0.0,0.58,0.0,0.0,2,1.0,0.0,0.9,0,True,4.4,0.37,77.83,0,0,0,0,0,0.0,Brentford,True,Nottingham Forest,0.65
-Yoane Wissa,Brentford,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,False,4.8,0.48,71.85,0,0,0,0,0,0.0,Brentford,False,Tottenham,1.78
-Yoane Wissa,Brentford,Tottenham,,False,,0,,,,,0,,,0.0,0,False,4.4,0.45,66.71,0,0,0,0,0,0.0,Brentford,True,Manchester City,0.86
-Yoane Wissa,Brentford,Manchester City,,True,,0,,,,,0,,,0.0,0,False,4.0,0.39,62.27,0,0,0,0,0,0.0,Brentford,False,Wolverhampton,-0.44
-Yoane Wissa,Brentford,Wolverhampton,,False,,0,,,,,0,,,0.0,0,False,2.6,0.32,58.38,0,0,0,0,0,1.0,Brentford,True,Liverpool,-3.47
-Yoane Wissa,Brentford,Liverpool,2024-02-17,True,Sub,27,0.0,0.0,0.0,0.11,1,0.0,1.0,1.7,0,False,0.4,0.12,56.53,0,0,0,0,0,1.0,Brentford,False,Manchester City,-1.15
-Yoane Wissa,Brentford,Manchester City,2024-02-20,False,FW,67,0.0,0.0,0.0,0.31,1,0.0,1.0,2.0,0,True,0.2,0.0,57.11,0,0,0,0,0,5.0,Brentford,False,West Ham,-2.81
-Yoane Wissa,Brentford,West Ham,2024-02-26,False,Sub,17,1.0,0.06,0.0,0.01,5,1.0,1.0,5.7,0,False,0.4,0.0,55.0,0,0,0,0,0,6.0,Brentford,True,Chelsea,0.13
-Yoane Wissa,Brentford,Chelsea,2024-03-02,True,FW,86,1.0,1.06,0.0,0.07,6,5.0,1.0,9.3,0,True,1.4,0.01,56.55,0,0,0,0,0,5.0,Brentford,False,Arsenal,0.51
-Yoane Wissa,Brentford,Arsenal,2024-03-09,False,FW,77,1.0,0.16,0.0,0.05,5,3.0,1.0,8.4,0,True,2.6,0.22,57.52,0,0,0,0,0,2.0,Brentford,False,Burnley,4.94
-Yoane Wissa,Brentford,Burnley,2024-03-16,False,FW,78,0.0,0.36,0.0,0.0,2,1.0,0.0,2.1,0,True,3.6,0.26,58.45,0,0,0,0,0,2.0,Brentford,True,Crystal Palace,0.84
-Yoane Wissa,Brentford,Crystal Palace,2023-08-26,True,FW,90,0.0,0.36,0.0,0.0,2,2.0,0.0,1.1,0,True,3.8,0.33,59.83,0,0,0,0,0,1.0,Brentford,True,Manchester United,-5.51
-Yoane Wissa,Brentford,Manchester United,2024-03-30,True,FW,70,0.0,0.68,0.0,0.26,1,4.0,1.0,4.0,0,True,4.0,0.4,60.25,0,0,0,0,0,2.0,Brentford,True,Brighton,-1.03
-Yoane Wissa,Brentford,Brighton,2024-04-03,True,FW,72,0.0,0.14,0.0,0.17,2,1.0,1.0,2.3,0,True,3.2,0.52,60.72,0,0,0,0,0,5.0,Brentford,False,Aston Villa,3.41
-Yoane Wissa,Brentford,Aston Villa,2024-04-06,False,FW,80,1.0,0.69,0.0,0.09,5,1.0,1.0,9.7,0,True,2.4,0.34,61.46,0,0,0,0,0,2.0,Brentford,True,Sheffield,
-Yoane Wissa,Brentford,Sheffield,2024-04-13,True,FWL,89,0.0,0.05,0.0,0.0,2,1.0,0.0,2.2,0,True,2.4,0.44,62.48,0,0,0,0,0,13.0,Brentford,False,Luton,
-Yoane Wissa,Brentford,Luton,2024-04-20,False,FW,81,2.0,0.75,0.0,0.24,13,2.0,3.0,14.2,3,True,2.4,0.38,63.14,0,0,0,0,0,2.0,Brentford,False,Everton,
-Yoane Wissa,Brentford,Everton,2024-04-27,False,FWL,67,0.0,0.0,0.0,0.0,2,0.0,0.0,1.3,0,True,4.6,0.46,63.28,0,0,0,0,0,1.0,Brentford,True,Fulham,
-Yoane Wissa,Brentford,Fulham,2024-05-04,True,Sub,24,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,False,4.8,0.32,61.97,0,0,0,0,0,11.0,Brentford,False,Bournemouth,2.35
-Yoane Wissa,Brentford,Bournemouth,2024-05-11,False,Sub,27,1.0,0.35,1.0,0.4,11,1.0,2.0,11.3,3,False,4.6,0.3,60.84,0,0,0,0,0,9.0,Brentford,True,Newcastle United,
-Yoane Wissa,Brentford,Newcastle United,2024-05-19,True,FWL,83,1.0,0.27,1.0,0.33,9,4.0,1.0,7.5,1,True,5.8,0.43,61.53,0,0,0,0,0,2.0,Brentford,True,Bournemouth,-0.5
-Yoane Wissa,Brentford,Bournemouth,2023-09-02,True,FW,90,0.0,0.35,0.0,0.0,2,3.0,0.0,2.4,0,True,7.2,0.67,62.39,0,0,0,0,0,1.0,Brentford,False,Newcastle United,2.44
-Yoane Wissa,Brentford,Newcastle United,2023-09-16,False,FW,90,0.0,0.33,0.0,0.03,1,5.0,1.0,7.2,0,True,5.0,0.59,63.21,0,0,0,0,0,2.0,Brentford,True,Everton,0.56
-Yoane Wissa,Brentford,Everton,2023-09-23,True,FW,90,0.0,0.1,0.0,0.06,2,1.0,1.0,2.3,0,True,4.8,0.66,63.97,0,0,0,0,0,2.0,Brentford,False,Nottingham Forest,1.35
-Yoane Wissa,Brentford,Nottingham Forest,2023-10-01,False,FW,90,0.0,0.5,0.0,0.13,2,2.0,1.0,2.7,0,True,5.0,0.68,64.69,0,0,0,0,0,5.0,Brentford,False,Manchester United,0.17
-Yoane Wissa,Brentford,Manchester United,2023-10-07,False,FW,69,0.0,0.08,1.0,0.07,5,2.0,1.0,4.6,0,True,3.2,0.51,64.81,0,0,0,0,0,8.0,Brentford,True,Burnley,-3.68
-Yoane Wissa,Brentford,Burnley,2023-10-21,True,FWL,90,1.0,1.27,0.0,0.47,8,3.0,3.0,14.5,2,True,2.4,0.47,65.47,0,0,0,0,0,,,,,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Yoane Wissa,Brentford,Tottenham,2023-08-13,True,FW,71,1.0,0.2,0.0,0.07,9,3.0,2.0,11.6,3,True,0.0,0.0,71.0,0,0,0,0,0,2.0,Brentford,False,Chelsea,-4.09,-0.85
+Yoane Wissa,Brentford,Chelsea,2023-10-28,False,FW,75,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,True,9.0,0.2,73.0,0,0,0,0,0,2.0,Brentford,True,West Ham,-2.81,
+Yoane Wissa,Brentford,West Ham,2023-11-04,True,FWL,88,0.0,0.12,0.0,0.12,2,2.0,1.0,3.3,0,True,5.5,0.1,78.0,0,0,0,0,0,2.0,Brentford,False,Liverpool,3.61,-1.01
+Yoane Wissa,Brentford,Liverpool,2023-11-12,False,FW,71,0.0,0.06,0.0,0.0,2,1.0,0.0,1.3,0,True,4.33,0.11,76.25,0,0,0,0,0,2.0,Brentford,True,Arsenal,-0.45,-0.11
+Yoane Wissa,Brentford,Arsenal,2023-11-25,True,FW,71,0.0,0.6,0.0,0.49,2,1.0,2.0,3.6,0,True,3.75,0.1,75.2,0,0,0,0,0,2.0,Brentford,True,Luton,,
+Yoane Wissa,Brentford,Luton,2023-12-02,True,FWL,90,0.0,0.19,0.0,0.11,2,3.0,1.0,4.7,0,True,3.4,0.2,77.67,0,0,0,0,0,0.0,Brentford,False,Brighton,1.94,-0.6
+Yoane Wissa,Brentford,Brighton,2023-12-06,False,Sub,50,0.0,0.06,0.0,0.0,0,1.0,0.0,0.6,0,False,2.0,0.19,73.71,0,0,0,0,0,2.0,Brentford,False,Sheffield,,-0.61
+Yoane Wissa,Brentford,Sheffield,2023-12-09,False,FWL,90,0.0,0.11,0.0,0.0,2,2.0,0.0,4.8,0,True,1.6,0.21,75.75,0,0,0,0,0,2.0,Brentford,True,Aston Villa,0.1,
+Yoane Wissa,Brentford,Aston Villa,2023-12-17,True,FW,75,0.0,0.32,0.0,0.0,2,2.0,0.0,3.2,0,True,1.6,0.2,75.67,0,0,0,0,0,7.0,Brentford,True,Wolverhampton,1.61,0.05
+Yoane Wissa,Brentford,Wolverhampton,2023-12-27,True,FWR,85,1.0,0.37,0.0,0.24,7,2.0,2.0,10.2,1,True,1.6,0.26,76.6,0,0,0,0,0,11.0,Brentford,False,Fulham,3.1,0.86
+Yoane Wissa,Brentford,Fulham,2023-08-19,False,FW,78,1.0,1.01,0.0,0.0,11,7.0,0.0,10.5,2,True,2.6,0.21,76.73,0,0,0,0,0,2.0,Brentford,False,Crystal Palace,0.48,
+Yoane Wissa,Brentford,Crystal Palace,2023-12-30,False,FW,90,0.0,0.58,0.0,0.0,2,1.0,0.0,0.9,0,True,4.4,0.37,77.83,0,0,0,0,0,0.0,Brentford,True,Nottingham Forest,0.65,
+Yoane Wissa,Brentford,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,False,4.8,0.48,71.85,0,0,0,0,0,0.0,Brentford,False,Tottenham,1.78,-0.36
+Yoane Wissa,Brentford,Tottenham,,False,,0,,,,,0,,,0.0,0,False,4.4,0.45,66.71,0,0,0,0,0,0.0,Brentford,True,Manchester City,0.86,
+Yoane Wissa,Brentford,Manchester City,,True,,0,,,,,0,,,0.0,0,False,4.0,0.39,62.27,0,0,0,0,0,0.0,Brentford,False,Wolverhampton,-0.44,-0.52
+Yoane Wissa,Brentford,Wolverhampton,,False,,0,,,,,0,,,0.0,0,False,2.6,0.32,58.38,0,0,0,0,0,1.0,Brentford,True,Liverpool,-3.47,0.18
+Yoane Wissa,Brentford,Liverpool,2024-02-17,True,Sub,27,0.0,0.0,0.0,0.11,1,0.0,1.0,1.7,0,False,0.4,0.12,56.53,0,0,0,0,0,1.0,Brentford,False,Manchester City,-1.15,
+Yoane Wissa,Brentford,Manchester City,2024-02-20,False,FW,67,0.0,0.0,0.0,0.31,1,0.0,1.0,2.0,0,True,0.2,0.0,57.11,0,0,0,0,0,5.0,Brentford,False,West Ham,-2.81,
+Yoane Wissa,Brentford,West Ham,2024-02-26,False,Sub,17,1.0,0.06,0.0,0.01,5,1.0,1.0,5.7,0,False,0.4,0.0,55.0,0,0,0,0,0,6.0,Brentford,True,Chelsea,0.13,-0.25
+Yoane Wissa,Brentford,Chelsea,2024-03-02,True,FW,86,1.0,1.06,0.0,0.07,6,5.0,1.0,9.3,0,True,1.4,0.01,56.55,0,0,0,0,0,5.0,Brentford,False,Arsenal,0.51,-0.48
+Yoane Wissa,Brentford,Arsenal,2024-03-09,False,FW,77,1.0,0.16,0.0,0.05,5,3.0,1.0,8.4,0,True,2.6,0.22,57.52,0,0,0,0,0,2.0,Brentford,False,Burnley,4.94,0.0
+Yoane Wissa,Brentford,Burnley,2024-03-16,False,FW,78,0.0,0.36,0.0,0.0,2,1.0,0.0,2.1,0,True,3.6,0.26,58.45,0,0,0,0,0,2.0,Brentford,True,Crystal Palace,0.84,
+Yoane Wissa,Brentford,Crystal Palace,2023-08-26,True,FW,90,0.0,0.36,0.0,0.0,2,2.0,0.0,1.1,0,True,3.8,0.33,59.83,0,0,0,0,0,1.0,Brentford,True,Manchester United,-5.51,
+Yoane Wissa,Brentford,Manchester United,2024-03-30,True,FW,70,0.0,0.68,0.0,0.26,1,4.0,1.0,4.0,0,True,4.0,0.4,60.25,0,0,0,0,0,2.0,Brentford,True,Brighton,-1.03,-0.66
+Yoane Wissa,Brentford,Brighton,2024-04-03,True,FW,72,0.0,0.14,0.0,0.17,2,1.0,1.0,2.3,0,True,3.2,0.52,60.72,0,0,0,0,0,5.0,Brentford,False,Aston Villa,3.41,
+Yoane Wissa,Brentford,Aston Villa,2024-04-06,False,FW,80,1.0,0.69,0.0,0.09,5,1.0,1.0,9.7,0,True,2.4,0.34,61.46,0,0,0,0,0,2.0,Brentford,True,Sheffield,,0.68
+Yoane Wissa,Brentford,Sheffield,2024-04-13,True,FWL,89,0.0,0.05,0.0,0.0,2,1.0,0.0,2.2,0,True,2.4,0.44,62.48,0,0,0,0,0,13.0,Brentford,False,Luton,,
+Yoane Wissa,Brentford,Luton,2024-04-20,False,FW,81,2.0,0.75,0.0,0.24,13,2.0,3.0,14.2,3,True,2.4,0.38,63.14,0,0,0,0,0,2.0,Brentford,False,Everton,,-0.24
+Yoane Wissa,Brentford,Everton,2024-04-27,False,FWL,67,0.0,0.0,0.0,0.0,2,0.0,0.0,1.3,0,True,4.6,0.46,63.28,0,0,0,0,0,1.0,Brentford,True,Fulham,,-0.13
+Yoane Wissa,Brentford,Fulham,2024-05-04,True,Sub,24,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,False,4.8,0.32,61.97,0,0,0,0,0,11.0,Brentford,False,Bournemouth,2.35,0.19
+Yoane Wissa,Brentford,Bournemouth,2024-05-11,False,Sub,27,1.0,0.35,1.0,0.4,11,1.0,2.0,11.3,3,False,4.6,0.3,60.84,0,0,0,0,0,9.0,Brentford,True,Newcastle United,,
+Yoane Wissa,Brentford,Newcastle United,2024-05-19,True,FWL,83,1.0,0.27,1.0,0.33,9,4.0,1.0,7.5,1,True,5.8,0.43,61.53,0,0,0,0,0,2.0,Brentford,True,Bournemouth,-0.5,1.22
+Yoane Wissa,Brentford,Bournemouth,2023-09-02,True,FW,90,0.0,0.35,0.0,0.0,2,3.0,0.0,2.4,0,True,7.2,0.67,62.39,0,0,0,0,0,1.0,Brentford,False,Newcastle United,2.44,
+Yoane Wissa,Brentford,Newcastle United,2023-09-16,False,FW,90,0.0,0.33,0.0,0.03,1,5.0,1.0,7.2,0,True,5.0,0.59,63.21,0,0,0,0,0,2.0,Brentford,True,Everton,0.56,0.53
+Yoane Wissa,Brentford,Everton,2023-09-23,True,FW,90,0.0,0.1,0.0,0.06,2,1.0,1.0,2.3,0,True,4.8,0.66,63.97,0,0,0,0,0,2.0,Brentford,False,Nottingham Forest,1.35,
+Yoane Wissa,Brentford,Nottingham Forest,2023-10-01,False,FW,90,0.0,0.5,0.0,0.13,2,2.0,1.0,2.7,0,True,5.0,0.68,64.69,0,0,0,0,0,5.0,Brentford,False,Manchester United,0.17,
+Yoane Wissa,Brentford,Manchester United,2023-10-07,False,FW,69,0.0,0.08,1.0,0.07,5,2.0,1.0,4.6,0,True,3.2,0.51,64.81,0,0,0,0,0,8.0,Brentford,True,Burnley,-3.68,0.39
+Yoane Wissa,Brentford,Burnley,2023-10-21,True,FWL,90,1.0,1.27,0.0,0.47,8,3.0,3.0,14.5,2,True,2.4,0.47,65.47,0,0,0,0,0,,,,,,

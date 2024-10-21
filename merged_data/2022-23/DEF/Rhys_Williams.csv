@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Rhys Williams,Liverpool,Fulham,2022-08-06,False,DR,0,0.0,0.02,0.0,0.07,0,1.0,1.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Arsenal,-2.38
-Rhys Williams,Liverpool,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.02,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Manchester City,0.85
-Rhys Williams,Liverpool,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Liverpool,True,West Ham,0.04
-Rhys Williams,Liverpool,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Nottingham Forest,
-Rhys Williams,Liverpool,Nottingham Forest,2022-10-22,False,DL,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Leicester City,-7.96
-Rhys Williams,Liverpool,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Tottenham,3.08
-Rhys Williams,Liverpool,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Southampton,-3.78
-Rhys Williams,Liverpool,Southampton,2022-11-12,True,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Aston Villa,1.3
-Rhys Williams,Liverpool,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Leeds United,-2.07
-Rhys Williams,Liverpool,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Brentford,4.84
-Rhys Williams,Liverpool,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Crystal Palace,-3.98
-Rhys Williams,Liverpool,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Brighton,-2.51
-Rhys Williams,Liverpool,Brighton,2023-01-14,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Chelsea,0.29
-Rhys Williams,Liverpool,Chelsea,2023-01-21,True,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Wolverhampton,-0.13
-Rhys Williams,Liverpool,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Everton,-0.32
-Rhys Williams,Liverpool,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Newcastle United,-1.4
-Rhys Williams,Liverpool,Newcastle United,2023-02-18,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Crystal Palace,-1.03
-Rhys Williams,Liverpool,Crystal Palace,2023-02-25,False,DR,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Wolverhampton,0.05
-Rhys Williams,Liverpool,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Manchester United,-4.04
-Rhys Williams,Liverpool,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Bournemouth,
-Rhys Williams,Liverpool,Bournemouth,2023-03-11,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Manchester City,
-Rhys Williams,Liverpool,Manchester City,2023-04-01,False,DR,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Chelsea,
-Rhys Williams,Liverpool,Chelsea,2023-04-04,False,DR,0,0.0,0.04,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Manchester United,-0.0
-Rhys Williams,Liverpool,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Arsenal,-3.99
-Rhys Williams,Liverpool,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Leicester City,-5.24
-Rhys Williams,Liverpool,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Nottingham Forest,
-Rhys Williams,Liverpool,Nottingham Forest,2023-04-22,True,DMR,0,1.0,0.03,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Liverpool,False,West Ham,4.92
-Rhys Williams,Liverpool,West Ham,2023-04-26,False,DMR,0,0.0,0.08,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Tottenham,
-Rhys Williams,Liverpool,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.02,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Fulham,
-Rhys Williams,Liverpool,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.02,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Brentford,
-Rhys Williams,Liverpool,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.02,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Leeds United,1.77
-Rhys Williams,Liverpool,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.02,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Aston Villa,-1.22
-Rhys Williams,Liverpool,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.02,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Southampton,
-Rhys Williams,Liverpool,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Bournemouth,-5.88
-Rhys Williams,Liverpool,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Newcastle United,0.08
-Rhys Williams,Liverpool,Newcastle United,2022-08-31,True,DR,0,0.0,0.0,0.0,0.32,0,0.0,3.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Everton,-0.44
-Rhys Williams,Liverpool,Everton,2022-09-03,False,DMR,0,0.0,0.07,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Brighton,2.85
-Rhys Williams,Liverpool,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,,Brentford,True,Tottenham,-0.15
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Rhys Williams,Liverpool,Fulham,2022-08-06,False,DR,0,0.0,0.02,0.0,0.07,0,1.0,1.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Arsenal,-2.38,-0.0
+Rhys Williams,Liverpool,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.02,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Manchester City,0.85,
+Rhys Williams,Liverpool,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Liverpool,True,West Ham,0.04,
+Rhys Williams,Liverpool,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Nottingham Forest,,
+Rhys Williams,Liverpool,Nottingham Forest,2022-10-22,False,DL,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Leicester City,-7.96,
+Rhys Williams,Liverpool,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Tottenham,3.08,-0.03
+Rhys Williams,Liverpool,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Southampton,-3.78,-0.38
+Rhys Williams,Liverpool,Southampton,2022-11-12,True,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Aston Villa,1.3,
+Rhys Williams,Liverpool,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Leeds United,-2.07,
+Rhys Williams,Liverpool,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Brentford,4.84,-0.55
+Rhys Williams,Liverpool,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Crystal Palace,-3.98,
+Rhys Williams,Liverpool,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Brighton,-2.51,-0.39
+Rhys Williams,Liverpool,Brighton,2023-01-14,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Chelsea,0.29,-0.25
+Rhys Williams,Liverpool,Chelsea,2023-01-21,True,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Wolverhampton,-0.13,-0.46
+Rhys Williams,Liverpool,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Everton,-0.32,0.34
+Rhys Williams,Liverpool,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Newcastle United,-1.4,
+Rhys Williams,Liverpool,Newcastle United,2023-02-18,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Crystal Palace,-1.03,
+Rhys Williams,Liverpool,Crystal Palace,2023-02-25,False,DR,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Wolverhampton,0.05,-0.48
+Rhys Williams,Liverpool,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Manchester United,-4.04,
+Rhys Williams,Liverpool,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Bournemouth,,0.19
+Rhys Williams,Liverpool,Bournemouth,2023-03-11,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Manchester City,,
+Rhys Williams,Liverpool,Manchester City,2023-04-01,False,DR,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Chelsea,,-0.72
+Rhys Williams,Liverpool,Chelsea,2023-04-04,False,DR,0,0.0,0.04,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Manchester United,-0.0,
+Rhys Williams,Liverpool,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Arsenal,-3.99,0.36
+Rhys Williams,Liverpool,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Leicester City,-5.24,
+Rhys Williams,Liverpool,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Nottingham Forest,,
+Rhys Williams,Liverpool,Nottingham Forest,2023-04-22,True,DMR,0,1.0,0.03,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Liverpool,False,West Ham,4.92,
+Rhys Williams,Liverpool,West Ham,2023-04-26,False,DMR,0,0.0,0.08,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Tottenham,,1.07
+Rhys Williams,Liverpool,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.02,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Fulham,,-0.3
+Rhys Williams,Liverpool,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.02,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Brentford,,0.69
+Rhys Williams,Liverpool,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.02,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Leeds United,1.77,
+Rhys Williams,Liverpool,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.02,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Aston Villa,-1.22,
+Rhys Williams,Liverpool,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.02,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Southampton,,-1.07
+Rhys Williams,Liverpool,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Bournemouth,-5.88,1.46
+Rhys Williams,Liverpool,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Newcastle United,0.08,
+Rhys Williams,Liverpool,Newcastle United,2022-08-31,True,DR,0,0.0,0.0,0.0,0.32,0,0.0,3.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,False,Everton,-0.44,-0.63
+Rhys Williams,Liverpool,Everton,2022-09-03,False,DMR,0,0.0,0.07,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Liverpool,True,Brighton,2.85,-0.71
+Rhys Williams,Liverpool,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,,Brentford,True,Tottenham,-0.15,1.07

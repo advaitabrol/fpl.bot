@@ -1,38 +1,38 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Wataru Endo,Liverpool,Nottingham Forest,2023-10-29,True,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.0,0.0,10.0,0,0,0,0,0,0.0,Liverpool,False,Luton,
-Wataru Endo,Liverpool,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,5.0,0,0,0,0,0,3.0,Liverpool,True,Brentford,-2.91
-Wataru Endo,Liverpool,Brentford,2023-11-12,True,MC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.5,0,1,0,True,0.5,0.0,33.33,0,0,0,0,0,0.0,Liverpool,False,Manchester City,1.92
-Wataru Endo,Liverpool,Manchester City,2023-11-25,False,Sub,5,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,0,0,False,1.33,0.0,26.25,0,0,0,0,0,6.0,Liverpool,True,Fulham,0.11
-Wataru Endo,Liverpool,Fulham,2023-12-03,True,Sub,7,1.0,0.11,0.0,0.02,6,2.0,1.0,5.8,0,0,0,False,1.0,0.0,22.4,0,0,0,0,0,2.0,Liverpool,False,Sheffield,
-Wataru Endo,Liverpool,Sheffield,2023-12-06,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,1,0,True,2.0,0.02,33.67,0,0,0,0,0,1.0,Liverpool,False,Crystal Palace,-0.31
-Wataru Endo,Liverpool,Crystal Palace,2023-12-09,False,MC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,True,2.2,0.02,35.29,0,0,0,0,0,2.0,Liverpool,True,Manchester United,-4.17
-Wataru Endo,Liverpool,Manchester United,2023-12-17,True,MC,90,0.0,0.02,0.0,0.0,2,1.0,0.0,1.8,0,1,0,True,2.4,0.02,42.12,0,0,0,0,0,1.0,Liverpool,True,Arsenal,-1.17
-Wataru Endo,Liverpool,Arsenal,2023-12-23,True,MC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.4,0,0,1,True,2.2,0.03,47.44,0,0,0,0,0,3.0,Liverpool,False,Burnley,-0.79
-Wataru Endo,Liverpool,Burnley,2023-12-26,False,MC,90,0.0,0.07,0.0,0.04,3,1.0,2.0,5.1,0,1,0,True,2.4,0.03,51.7,0,0,0,0,0,1.0,Liverpool,True,Bournemouth,-5.88
-Wataru Endo,Liverpool,Bournemouth,2023-08-19,True,Sub,27,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,False,1.8,0.02,49.45,0,0,0,0,0,1.0,Liverpool,True,Newcastle United,0.08
-Wataru Endo,Liverpool,Newcastle United,2024-01-01,True,MC,74,0.0,0.04,0.0,0.32,1,2.0,3.0,5.6,0,0,1,True,1.6,0.02,51.5,0,0,0,0,0,0.0,Liverpool,False,Bournemouth,2.9
-Wataru Endo,Liverpool,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.03,47.54,0,0,0,0,0,0.0,Liverpool,True,Chelsea,0.25
-Wataru Endo,Liverpool,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.02,44.14,0,0,0,0,0,0.0,Liverpool,False,Arsenal,0.56
-Wataru Endo,Liverpool,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.02,41.2,0,0,0,0,0,1.0,Liverpool,True,Burnley,-2.64
-Wataru Endo,Liverpool,Burnley,2024-02-10,True,MC,90,0.0,0.02,0.0,0.38,1,1.0,2.0,4.8,0,0,1,True,0.4,0.01,44.25,0,0,0,0,0,1.0,Liverpool,False,Brentford,5.51
-Wataru Endo,Liverpool,Brentford,2024-02-17,False,MC,90,0.0,0.04,0.0,0.0,1,1.0,0.0,1.7,0,0,1,True,0.4,0.01,46.94,0,0,0,0,0,2.0,Liverpool,True,Luton,
-Wataru Endo,Liverpool,Luton,2024-02-21,True,MC,90,0.0,0.0,0.0,0.61,2,0.0,3.0,6.3,0,0,1,True,0.4,0.01,49.33,0,0,0,0,0,1.0,Liverpool,False,Nottingham Forest,3.7
-Wataru Endo,Liverpool,Nottingham Forest,2024-03-02,False,Sub,30,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,False,0.8,0.01,48.32,0,0,0,0,0,2.0,Liverpool,True,Manchester City,-1.69
-Wataru Endo,Liverpool,Manchester City,2024-03-10,True,MC,90,0.0,0.0,0.0,0.02,2,0.0,1.0,3.1,0,0,1,True,1.0,0.01,50.4,0,0,0,0,0,1.0,Liverpool,False,Newcastle United,-0.28
-Wataru Endo,Liverpool,Newcastle United,2023-08-27,False,MC,57,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,1,True,1.4,0.01,50.71,0,0,0,0,0,1.0,Liverpool,True,Brighton,2.85
-Wataru Endo,Liverpool,Brighton,2024-03-31,True,MC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,1,True,1.4,0.01,52.5,0,0,0,0,0,0.0,Liverpool,True,Sheffield,
-Wataru Endo,Liverpool,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.0,50.22,0,0,0,0,0,2.0,Liverpool,False,Manchester United,-0.0
-Wataru Endo,Liverpool,Manchester United,2024-04-07,False,MC,68,0.0,0.0,0.0,0.02,2,0.0,1.0,2.0,0,0,2,True,1.0,0.0,50.96,0,0,0,0,0,1.0,Liverpool,True,Crystal Palace,0.33
-Wataru Endo,Liverpool,Crystal Palace,2024-04-14,True,MC,45,0.0,0.11,0.0,0.0,1,1.0,0.0,1.0,0,0,1,True,1.2,0.0,50.72,0,0,0,0,0,2.0,Liverpool,False,Fulham,1.98
-Wataru Endo,Liverpool,Fulham,2024-04-21,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,True,1.0,0.02,52.23,0,0,0,0,0,1.0,Liverpool,False,Everton,-0.44
-Wataru Endo,Liverpool,Everton,2024-04-24,False,Sub,27,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,1.2,0.02,51.3,0,0,0,0,0,1.0,Liverpool,False,West Ham,4.92
-Wataru Endo,Liverpool,West Ham,2024-04-27,False,MC,78,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,2,True,1.2,0.02,52.25,0,0,0,0,0,3.0,Liverpool,True,Tottenham,
-Wataru Endo,Liverpool,Tottenham,2024-05-05,True,MC,64,0.0,0.0,0.0,0.03,3,0.0,1.0,1.6,0,1,0,True,1.4,0.02,52.66,0,0,0,0,0,2.0,Liverpool,False,Aston Villa,-0.35
-Wataru Endo,Liverpool,Aston Villa,2024-05-13,False,MC,75,0.0,0.0,0.0,0.0,2,0.0,0.0,2.4,0,0,1,True,1.6,0.02,53.4,0,0,0,0,0,2.0,Liverpool,True,Wolverhampton,
-Wataru Endo,Liverpool,Wolverhampton,2024-05-19,True,MC,90,0.0,0.03,0.0,0.04,2,1.0,2.0,5.1,0,1,0,True,1.8,0.0,54.58,0,0,0,0,0,1.0,Liverpool,True,Aston Villa,-1.74
-Wataru Endo,Liverpool,Aston Villa,2023-09-03,True,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,1.8,0.01,52.97,0,0,0,0,0,0.0,Liverpool,False,Wolverhampton,-1.44
-Wataru Endo,Liverpool,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.01,51.36,0,0,0,0,0,1.0,Liverpool,True,West Ham,-0.06
-Wataru Endo,Liverpool,West Ham,2023-09-24,True,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,1.6,0.01,49.91,0,0,0,0,0,1.0,Liverpool,False,Tottenham,1.56
-Wataru Endo,Liverpool,Tottenham,2023-09-30,False,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,False,1.2,0.01,48.97,0,0,0,0,0,0.0,Liverpool,False,Brighton,3.13
-Wataru Endo,Liverpool,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.01,47.61,0,0,0,0,0,0.0,Liverpool,True,Everton,-2.18
-Wataru Endo,Liverpool,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,46.32,0,0,0,0,0,,,,,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Wataru Endo,Liverpool,Nottingham Forest,2023-10-29,True,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.0,0.0,10.0,0,0,0,0,0,0.0,Liverpool,False,Luton,,
+Wataru Endo,Liverpool,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,5.0,0,0,0,0,0,3.0,Liverpool,True,Brentford,-2.91,0.79
+Wataru Endo,Liverpool,Brentford,2023-11-12,True,MC,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.5,0,1,0,True,0.5,0.0,33.33,0,0,0,0,0,0.0,Liverpool,False,Manchester City,1.92,
+Wataru Endo,Liverpool,Manchester City,2023-11-25,False,Sub,5,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,0,0,False,1.33,0.0,26.25,0,0,0,0,0,6.0,Liverpool,True,Fulham,0.11,-0.13
+Wataru Endo,Liverpool,Fulham,2023-12-03,True,Sub,7,1.0,0.11,0.0,0.02,6,2.0,1.0,5.8,0,0,0,False,1.0,0.0,22.4,0,0,0,0,0,2.0,Liverpool,False,Sheffield,,-0.61
+Wataru Endo,Liverpool,Sheffield,2023-12-06,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,1,0,True,2.0,0.02,33.67,0,0,0,0,0,1.0,Liverpool,False,Crystal Palace,-0.31,
+Wataru Endo,Liverpool,Crystal Palace,2023-12-09,False,MC,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,True,2.2,0.02,35.29,0,0,0,0,0,2.0,Liverpool,True,Manchester United,-4.17,
+Wataru Endo,Liverpool,Manchester United,2023-12-17,True,MC,90,0.0,0.02,0.0,0.0,2,1.0,0.0,1.8,0,1,0,True,2.4,0.02,42.12,0,0,0,0,0,1.0,Liverpool,True,Arsenal,-1.17,-0.11
+Wataru Endo,Liverpool,Arsenal,2023-12-23,True,MC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.4,0,0,1,True,2.2,0.03,47.44,0,0,0,0,0,3.0,Liverpool,False,Burnley,-0.79,0.0
+Wataru Endo,Liverpool,Burnley,2023-12-26,False,MC,90,0.0,0.07,0.0,0.04,3,1.0,2.0,5.1,0,1,0,True,2.4,0.03,51.7,0,0,0,0,0,1.0,Liverpool,True,Bournemouth,-5.88,1.22
+Wataru Endo,Liverpool,Bournemouth,2023-08-19,True,Sub,27,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,False,1.8,0.02,49.45,0,0,0,0,0,1.0,Liverpool,True,Newcastle United,0.08,
+Wataru Endo,Liverpool,Newcastle United,2024-01-01,True,MC,74,0.0,0.04,0.0,0.32,1,2.0,3.0,5.6,0,0,1,True,1.6,0.02,51.5,0,0,0,0,0,0.0,Liverpool,False,Bournemouth,2.9,0.19
+Wataru Endo,Liverpool,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.03,47.54,0,0,0,0,0,0.0,Liverpool,True,Chelsea,0.25,-0.25
+Wataru Endo,Liverpool,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.02,44.14,0,0,0,0,0,0.0,Liverpool,False,Arsenal,0.56,-0.48
+Wataru Endo,Liverpool,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.02,41.2,0,0,0,0,0,1.0,Liverpool,True,Burnley,-2.64,0.39
+Wataru Endo,Liverpool,Burnley,2024-02-10,True,MC,90,0.0,0.02,0.0,0.38,1,1.0,2.0,4.8,0,0,1,True,0.4,0.01,44.25,0,0,0,0,0,1.0,Liverpool,False,Brentford,5.51,-0.53
+Wataru Endo,Liverpool,Brentford,2024-02-17,False,MC,90,0.0,0.04,0.0,0.0,1,1.0,0.0,1.7,0,0,1,True,0.4,0.01,46.94,0,0,0,0,0,2.0,Liverpool,True,Luton,,
+Wataru Endo,Liverpool,Luton,2024-02-21,True,MC,90,0.0,0.0,0.0,0.61,2,0.0,3.0,6.3,0,0,1,True,0.4,0.01,49.33,0,0,0,0,0,1.0,Liverpool,False,Nottingham Forest,3.7,
+Wataru Endo,Liverpool,Nottingham Forest,2024-03-02,False,Sub,30,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,False,0.8,0.01,48.32,0,0,0,0,0,2.0,Liverpool,True,Manchester City,-1.69,
+Wataru Endo,Liverpool,Manchester City,2024-03-10,True,MC,90,0.0,0.0,0.0,0.02,2,0.0,1.0,3.1,0,0,1,True,1.0,0.01,50.4,0,0,0,0,0,1.0,Liverpool,False,Newcastle United,-0.28,
+Wataru Endo,Liverpool,Newcastle United,2023-08-27,False,MC,57,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,1,True,1.4,0.01,50.71,0,0,0,0,0,1.0,Liverpool,True,Brighton,2.85,-0.66
+Wataru Endo,Liverpool,Brighton,2024-03-31,True,MC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,1,True,1.4,0.01,52.5,0,0,0,0,0,0.0,Liverpool,True,Sheffield,,0.68
+Wataru Endo,Liverpool,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.0,50.22,0,0,0,0,0,2.0,Liverpool,False,Manchester United,-0.0,
+Wataru Endo,Liverpool,Manchester United,2024-04-07,False,MC,68,0.0,0.0,0.0,0.02,2,0.0,1.0,2.0,0,0,2,True,1.0,0.0,50.96,0,0,0,0,0,1.0,Liverpool,True,Crystal Palace,0.33,
+Wataru Endo,Liverpool,Crystal Palace,2024-04-14,True,MC,45,0.0,0.11,0.0,0.0,1,1.0,0.0,1.0,0,0,1,True,1.2,0.0,50.72,0,0,0,0,0,2.0,Liverpool,False,Fulham,1.98,0.86
+Wataru Endo,Liverpool,Fulham,2024-04-21,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,True,1.0,0.02,52.23,0,0,0,0,0,1.0,Liverpool,False,Everton,-0.44,-0.24
+Wataru Endo,Liverpool,Everton,2024-04-24,False,Sub,27,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,1.2,0.02,51.3,0,0,0,0,0,1.0,Liverpool,False,West Ham,4.92,
+Wataru Endo,Liverpool,West Ham,2024-04-27,False,MC,78,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,2,True,1.2,0.02,52.25,0,0,0,0,0,3.0,Liverpool,True,Tottenham,,0.69
+Wataru Endo,Liverpool,Tottenham,2024-05-05,True,MC,64,0.0,0.0,0.0,0.03,3,0.0,1.0,1.6,0,1,0,True,1.4,0.02,52.66,0,0,0,0,0,2.0,Liverpool,False,Aston Villa,-0.35,
+Wataru Endo,Liverpool,Aston Villa,2024-05-13,False,MC,75,0.0,0.0,0.0,0.0,2,0.0,0.0,2.4,0,0,1,True,1.6,0.02,53.4,0,0,0,0,0,2.0,Liverpool,True,Wolverhampton,,0.05
+Wataru Endo,Liverpool,Wolverhampton,2024-05-19,True,MC,90,0.0,0.03,0.0,0.04,2,1.0,2.0,5.1,0,1,0,True,1.8,0.0,54.58,0,0,0,0,0,1.0,Liverpool,True,Aston Villa,-1.74,
+Wataru Endo,Liverpool,Aston Villa,2023-09-03,True,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,1.8,0.01,52.97,0,0,0,0,0,0.0,Liverpool,False,Wolverhampton,-1.44,-0.52
+Wataru Endo,Liverpool,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.01,51.36,0,0,0,0,0,1.0,Liverpool,True,West Ham,-0.06,
+Wataru Endo,Liverpool,West Ham,2023-09-24,True,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,1.6,0.01,49.91,0,0,0,0,0,1.0,Liverpool,False,Tottenham,1.56,-0.36
+Wataru Endo,Liverpool,Tottenham,2023-09-30,False,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,False,1.2,0.01,48.97,0,0,0,0,0,0.0,Liverpool,False,Brighton,3.13,-0.6
+Wataru Endo,Liverpool,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.01,47.61,0,0,0,0,0,0.0,Liverpool,True,Everton,-2.18,0.53
+Wataru Endo,Liverpool,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,46.32,0,0,0,0,0,,,,,,

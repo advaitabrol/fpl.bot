@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Ryan Fraser,Newcastle,Nottingham Forest,2022-08-06,True,Sub,9,0.0,0.0,0.0,0.06,1,0.0,1.0,1.3,0,0,0,False,0.0,0.0,9.0,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Brentford,-2.4
-Ryan Fraser,Newcastle,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,4.5,2.0,3.0,2.88,2.14,0.05,1,Newcastle,False,Manchester United,1.2
-Ryan Fraser,Newcastle,Manchester United,2022-10-16,False,Sub,31,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.5,0.0,13.33,2.0,3.0,2.88,2.14,0.05,1,Newcastle,True,Everton,-5.87
-Ryan Fraser,Newcastle,Everton,2022-10-19,True,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.67,0.0,14.25,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Tottenham,4.75
-Ryan Fraser,Newcastle,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.75,0.0,11.4,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Aston Villa,-2.14
-Ryan Fraser,Newcastle,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,9.5,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Southampton,-1.93
-Ryan Fraser,Newcastle,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,8.14,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Chelsea,1.87
-Ryan Fraser,Newcastle,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,7.12,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Leeds United,6.23
-Ryan Fraser,Newcastle,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.33,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Leicester City,-1.01
-Ryan Fraser,Newcastle,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.7,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Arsenal,2.9
-Ryan Fraser,Newcastle,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.18,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Brighton,-0.9
-Ryan Fraser,Newcastle,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.75,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Fulham,
-Ryan Fraser,Newcastle,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.38,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Crystal Palace,-1.13
-Ryan Fraser,Newcastle,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.07,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,West Ham,0.49
-Ryan Fraser,Newcastle,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.8,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Bournemouth,
-Ryan Fraser,Newcastle,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.56,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Liverpool,1.47
-Ryan Fraser,Newcastle,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.35,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Manchester City,4.63
-Ryan Fraser,Newcastle,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.17,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Wolverhampton,-2.98
-Ryan Fraser,Newcastle,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.0,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Nottingham Forest,
-Ryan Fraser,Newcastle,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.85,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Manchester United,-0.55
-Ryan Fraser,Newcastle,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.71,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,West Ham,
-Ryan Fraser,Newcastle,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.59,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Manchester City,4.58
-Ryan Fraser,Newcastle,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.48,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Brentford,
-Ryan Fraser,Newcastle,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.38,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Aston Villa,3.3
-Ryan Fraser,Newcastle,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.28,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Tottenham,-0.29
-Ryan Fraser,Newcastle,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.19,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Everton,
-Ryan Fraser,Newcastle,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.11,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Southampton,0.18
-Ryan Fraser,Newcastle,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.04,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Arsenal,
-Ryan Fraser,Newcastle,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.97,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Leicester City,
-Ryan Fraser,Newcastle,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.9,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Brighton,
-Ryan Fraser,Newcastle,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.84,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Leeds United,
-Ryan Fraser,Newcastle,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.78,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Chelsea,
-Ryan Fraser,Newcastle,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.73,2.0,3.0,2.88,2.14,0.05,1,Newcastle,False,Wolverhampton,1.1
-Ryan Fraser,Newcastle,Wolverhampton,2022-08-28,False,Sub,25,0.0,0.0,0.0,0.13,1,0.0,2.0,4.0,0,0,0,False,0.0,0.0,2.41,2.0,3.0,2.88,2.14,0.05,2,Newcastle,False,Liverpool,0.9
-Ryan Fraser,Newcastle,Liverpool,2022-08-31,False,FWL,63,0.0,0.05,0.0,0.0,2,1.0,0.0,1.1,0,0,1,False,0.2,0.0,4.14,2.0,3.0,2.88,2.14,0.05,2,Newcastle,True,Crystal Palace,-0.56
-Ryan Fraser,Newcastle,Crystal Palace,2022-09-03,True,FWL,69,0.0,0.08,0.0,0.0,2,1.0,0.0,4.5,0,1,0,False,0.6,0.01,5.94,2.0,3.0,2.88,2.14,0.05,2,Newcastle,True,Bournemouth,2.6
-Ryan Fraser,Newcastle,Bournemouth,2022-09-17,True,FWL,70,0.0,0.18,0.0,0.05,2,4.0,1.0,4.1,0,0,1,False,1.0,0.03,7.68,2.0,3.0,2.88,2.14,0.05,1,Newcastle,False,Fulham,-1.62
-Ryan Fraser,Newcastle,Fulham,2022-10-01,False,Sub,24,0.0,0.0,0.0,0.12,1,0.0,1.0,1.8,0,0,1,False,1.4,0.06,8.11,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Aston Villa,-4.4
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Ryan Fraser,Newcastle,Nottingham Forest,2022-08-06,True,Sub,9,0.0,0.0,0.0,0.06,1,0.0,1.0,1.3,0,0,0,False,0.0,0.0,9.0,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Brentford,-2.4,0.69
+Ryan Fraser,Newcastle,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,4.5,2.0,3.0,2.88,2.14,0.05,1,Newcastle,False,Manchester United,1.2,
+Ryan Fraser,Newcastle,Manchester United,2022-10-16,False,Sub,31,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.5,0.0,13.33,2.0,3.0,2.88,2.14,0.05,1,Newcastle,True,Everton,-5.87,0.34
+Ryan Fraser,Newcastle,Everton,2022-10-19,True,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.67,0.0,14.25,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Tottenham,4.75,-0.03
+Ryan Fraser,Newcastle,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.75,0.0,11.4,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Aston Villa,-2.14,
+Ryan Fraser,Newcastle,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,9.5,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Southampton,-1.93,-1.07
+Ryan Fraser,Newcastle,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,8.14,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Chelsea,1.87,-0.25
+Ryan Fraser,Newcastle,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,7.12,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Leeds United,6.23,
+Ryan Fraser,Newcastle,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.33,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Leicester City,-1.01,
+Ryan Fraser,Newcastle,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.7,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Arsenal,2.9,-0.0
+Ryan Fraser,Newcastle,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.18,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Brighton,-0.9,-0.39
+Ryan Fraser,Newcastle,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.75,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Fulham,,-0.3
+Ryan Fraser,Newcastle,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.38,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Crystal Palace,-1.13,
+Ryan Fraser,Newcastle,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,4.07,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,West Ham,0.49,
+Ryan Fraser,Newcastle,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.8,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Bournemouth,,0.19
+Ryan Fraser,Newcastle,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.56,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Liverpool,1.47,-0.53
+Ryan Fraser,Newcastle,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.35,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Manchester City,4.63,
+Ryan Fraser,Newcastle,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.17,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Wolverhampton,-2.98,-0.48
+Ryan Fraser,Newcastle,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.0,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Nottingham Forest,,
+Ryan Fraser,Newcastle,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.85,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Manchester United,-0.55,
+Ryan Fraser,Newcastle,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.71,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,West Ham,,
+Ryan Fraser,Newcastle,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.59,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Manchester City,4.58,
+Ryan Fraser,Newcastle,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.48,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Brentford,,-0.55
+Ryan Fraser,Newcastle,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.38,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Aston Villa,3.3,
+Ryan Fraser,Newcastle,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.28,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Tottenham,-0.29,1.07
+Ryan Fraser,Newcastle,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.19,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Everton,,-0.63
+Ryan Fraser,Newcastle,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.11,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Southampton,0.18,-0.38
+Ryan Fraser,Newcastle,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.04,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Arsenal,,0.36
+Ryan Fraser,Newcastle,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.97,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Leicester City,,
+Ryan Fraser,Newcastle,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.9,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Brighton,,-0.71
+Ryan Fraser,Newcastle,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.84,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Leeds United,,
+Ryan Fraser,Newcastle,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.78,2.0,3.0,2.88,2.14,0.05,0,Newcastle,False,Chelsea,,-0.72
+Ryan Fraser,Newcastle,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.73,2.0,3.0,2.88,2.14,0.05,1,Newcastle,False,Wolverhampton,1.1,-0.46
+Ryan Fraser,Newcastle,Wolverhampton,2022-08-28,False,Sub,25,0.0,0.0,0.0,0.13,1,0.0,2.0,4.0,0,0,0,False,0.0,0.0,2.41,2.0,3.0,2.88,2.14,0.05,2,Newcastle,False,Liverpool,0.9,-1.33
+Ryan Fraser,Newcastle,Liverpool,2022-08-31,False,FWL,63,0.0,0.05,0.0,0.0,2,1.0,0.0,1.1,0,0,1,False,0.2,0.0,4.14,2.0,3.0,2.88,2.14,0.05,2,Newcastle,True,Crystal Palace,-0.56,
+Ryan Fraser,Newcastle,Crystal Palace,2022-09-03,True,FWL,69,0.0,0.08,0.0,0.0,2,1.0,0.0,4.5,0,1,0,False,0.6,0.01,5.94,2.0,3.0,2.88,2.14,0.05,2,Newcastle,True,Bournemouth,2.6,1.46
+Ryan Fraser,Newcastle,Bournemouth,2022-09-17,True,FWL,70,0.0,0.18,0.0,0.05,2,4.0,1.0,4.1,0,0,1,False,1.0,0.03,7.68,2.0,3.0,2.88,2.14,0.05,1,Newcastle,False,Fulham,-1.62,1.37
+Ryan Fraser,Newcastle,Fulham,2022-10-01,False,Sub,24,0.0,0.0,0.0,0.12,1,0.0,1.0,1.8,0,0,1,False,1.4,0.06,8.11,2.0,3.0,2.88,2.14,0.05,0,Newcastle,True,Aston Villa,-4.4,

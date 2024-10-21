@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty
-Aaron Hickey,Brentford,Tottenham,2023-08-13,True,DR,71,0.0,0.01,0.0,0.05,0,1.0,1.0,2.6,0,0,2,1.02,True,0.0,0.0,71.0,0.0,0.34,0.63,18.29,0.19,6.0,Brentford,False,Chelsea,-4.09
-Aaron Hickey,Brentford,Chelsea,2023-10-28,False,DML,83,0.0,0.0,0.0,0.0,6,0.0,0.0,2.0,0,1,0,1.11,True,0.0,0.01,77.0,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,True,West Ham,-2.81
-Aaron Hickey,Brentford,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.01,51.33,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,False,Liverpool,3.61
-Aaron Hickey,Brentford,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.0,38.5,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,True,Arsenal,-0.45
-Aaron Hickey,Brentford,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.5,0.0,30.8,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,True,Luton,
-Aaron Hickey,Brentford,Luton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,25.67,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,False,Brighton,1.94
-Aaron Hickey,Brentford,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,22.0,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,False,Sheffield,
-Aaron Hickey,Brentford,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,19.25,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,True,Aston Villa,0.1
-Aaron Hickey,Brentford,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,17.11,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,True,Wolverhampton,1.61
-Aaron Hickey,Brentford,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,15.4,0.5,0.34,0.63,18.29,0.19,5.0,Brentford,False,Fulham,3.1
-Aaron Hickey,Brentford,Fulham,2023-08-19,False,DR,77,0.0,0.0,0.0,0.0,5,0.0,0.0,0.2,0,1,0,0.36,True,0.0,0.0,21.0,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,False,Crystal Palace,0.48
-Aaron Hickey,Brentford,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,19.25,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,True,Nottingham Forest,0.65
-Aaron Hickey,Brentford,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,17.77,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,False,Tottenham,1.78
-Aaron Hickey,Brentford,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,16.5,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,True,Manchester City,0.86
-Aaron Hickey,Brentford,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,15.4,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,False,Wolverhampton,-0.44
-Aaron Hickey,Brentford,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,14.44,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,True,Liverpool,-3.47
-Aaron Hickey,Brentford,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,13.59,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,False,Manchester City,-1.15
-Aaron Hickey,Brentford,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,12.83,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,False,West Ham,-2.81
-Aaron Hickey,Brentford,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,12.16,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,True,Chelsea,0.13
-Aaron Hickey,Brentford,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,11.55,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,False,Arsenal,0.51
-Aaron Hickey,Brentford,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,11.0,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,False,Burnley,4.94
-Aaron Hickey,Brentford,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,10.5,0.67,0.34,0.63,18.29,0.19,2.0,Brentford,True,Crystal Palace,0.84
-Aaron Hickey,Brentford,Crystal Palace,2023-08-26,True,DR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,0.8,True,0.0,0.0,13.96,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,True,Manchester United,-5.51
-Aaron Hickey,Brentford,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,13.38,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,True,Brighton,-1.03
-Aaron Hickey,Brentford,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,12.84,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,False,Aston Villa,3.41
-Aaron Hickey,Brentford,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,12.35,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,True,Sheffield,
-Aaron Hickey,Brentford,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,11.89,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,False,Luton,
-Aaron Hickey,Brentford,Luton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,11.46,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,False,Everton,
-Aaron Hickey,Brentford,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,11.07,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,True,Fulham,
-Aaron Hickey,Brentford,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,10.7,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,False,Bournemouth,2.35
-Aaron Hickey,Brentford,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,10.35,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,True,Newcastle United,
-Aaron Hickey,Brentford,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,10.03,0.5,0.34,0.63,18.29,0.19,1.0,Brentford,True,Bournemouth,-0.5
-Aaron Hickey,Brentford,Bournemouth,2023-09-02,True,DR,81,0.0,0.02,0.0,0.0,1,1.0,0.0,1.8,0,0,2,2.02,True,0.0,0.0,12.18,0.4,0.34,0.63,18.29,0.19,1.0,Brentford,False,Newcastle United,2.44
-Aaron Hickey,Brentford,Newcastle United,2023-09-16,False,DR,81,0.0,0.08,0.0,0.0,1,1.0,0.0,3.2,0,0,1,1.43,True,0.2,0.0,14.21,0.33,0.34,0.63,18.29,0.19,1.0,Brentford,True,Everton,0.56
-Aaron Hickey,Brentford,Everton,2023-09-23,True,DL,72,0.0,0.04,0.0,0.0,1,2.0,0.0,0.6,0,0,3,1.81,True,0.4,0.02,15.86,0.29,0.34,0.63,18.29,0.19,1.0,Brentford,False,Nottingham Forest,1.35
-Aaron Hickey,Brentford,Nottingham Forest,2023-10-01,False,DL,68,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,1,0.22,True,0.6,0.03,17.31,0.25,0.34,0.63,18.29,0.19,0.0,Brentford,False,Manchester United,0.17
-Aaron Hickey,Brentford,Manchester United,2023-10-07,False,DML,90,0.0,0.05,0.0,0.0,0,2.0,0.0,0.0,0,0,2,1.43,True,0.8,0.03,19.27,0.22,0.34,0.63,18.29,0.19,0.0,Brentford,True,Burnley,-3.68
-Aaron Hickey,Brentford,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.04,18.76,0.22,0.34,0.63,18.29,0.19,,,,,
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Aaron Hickey,Brentford,Tottenham,2023-08-13,True,DR,71,0.0,0.01,0.0,0.05,0,1.0,1.0,2.6,0,0,2,1.02,True,0.0,0.0,71.0,0.0,0.34,0.63,18.29,0.19,6.0,Brentford,False,Chelsea,-4.09,-0.85
+Aaron Hickey,Brentford,Chelsea,2023-10-28,False,DML,83,0.0,0.0,0.0,0.0,6,0.0,0.0,2.0,0,1,0,1.11,True,0.0,0.01,77.0,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,True,West Ham,-2.81,
+Aaron Hickey,Brentford,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.01,51.33,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,False,Liverpool,3.61,-1.01
+Aaron Hickey,Brentford,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.0,38.5,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,True,Arsenal,-0.45,-0.11
+Aaron Hickey,Brentford,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.5,0.0,30.8,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,True,Luton,,
+Aaron Hickey,Brentford,Luton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,25.67,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,False,Brighton,1.94,-0.6
+Aaron Hickey,Brentford,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,22.0,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,False,Sheffield,,-0.61
+Aaron Hickey,Brentford,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,19.25,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,True,Aston Villa,0.1,
+Aaron Hickey,Brentford,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,17.11,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,True,Wolverhampton,1.61,0.05
+Aaron Hickey,Brentford,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,15.4,0.5,0.34,0.63,18.29,0.19,5.0,Brentford,False,Fulham,3.1,0.86
+Aaron Hickey,Brentford,Fulham,2023-08-19,False,DR,77,0.0,0.0,0.0,0.0,5,0.0,0.0,0.2,0,1,0,0.36,True,0.0,0.0,21.0,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,False,Crystal Palace,0.48,
+Aaron Hickey,Brentford,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,19.25,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,True,Nottingham Forest,0.65,
+Aaron Hickey,Brentford,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,17.77,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,False,Tottenham,1.78,-0.36
+Aaron Hickey,Brentford,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,16.5,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,True,Manchester City,0.86,
+Aaron Hickey,Brentford,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,15.4,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,False,Wolverhampton,-0.44,-0.52
+Aaron Hickey,Brentford,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,14.44,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,True,Liverpool,-3.47,0.18
+Aaron Hickey,Brentford,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,13.59,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,False,Manchester City,-1.15,
+Aaron Hickey,Brentford,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,12.83,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,False,West Ham,-2.81,
+Aaron Hickey,Brentford,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,12.16,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,True,Chelsea,0.13,-0.25
+Aaron Hickey,Brentford,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,11.55,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,False,Arsenal,0.51,-0.48
+Aaron Hickey,Brentford,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,11.0,0.67,0.34,0.63,18.29,0.19,0.0,Brentford,False,Burnley,4.94,0.0
+Aaron Hickey,Brentford,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,10.5,0.67,0.34,0.63,18.29,0.19,2.0,Brentford,True,Crystal Palace,0.84,
+Aaron Hickey,Brentford,Crystal Palace,2023-08-26,True,DR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,0.8,True,0.0,0.0,13.96,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,True,Manchester United,-5.51,
+Aaron Hickey,Brentford,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,13.38,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,True,Brighton,-1.03,-0.66
+Aaron Hickey,Brentford,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,12.84,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,False,Aston Villa,3.41,
+Aaron Hickey,Brentford,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,12.35,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,True,Sheffield,,0.68
+Aaron Hickey,Brentford,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,11.89,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,False,Luton,,
+Aaron Hickey,Brentford,Luton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,11.46,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,False,Everton,,-0.24
+Aaron Hickey,Brentford,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,11.07,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,True,Fulham,,-0.13
+Aaron Hickey,Brentford,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,10.7,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,False,Bournemouth,2.35,0.19
+Aaron Hickey,Brentford,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,10.35,0.5,0.34,0.63,18.29,0.19,0.0,Brentford,True,Newcastle United,,
+Aaron Hickey,Brentford,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,10.03,0.5,0.34,0.63,18.29,0.19,1.0,Brentford,True,Bournemouth,-0.5,1.22
+Aaron Hickey,Brentford,Bournemouth,2023-09-02,True,DR,81,0.0,0.02,0.0,0.0,1,1.0,0.0,1.8,0,0,2,2.02,True,0.0,0.0,12.18,0.4,0.34,0.63,18.29,0.19,1.0,Brentford,False,Newcastle United,2.44,
+Aaron Hickey,Brentford,Newcastle United,2023-09-16,False,DR,81,0.0,0.08,0.0,0.0,1,1.0,0.0,3.2,0,0,1,1.43,True,0.2,0.0,14.21,0.33,0.34,0.63,18.29,0.19,1.0,Brentford,True,Everton,0.56,0.53
+Aaron Hickey,Brentford,Everton,2023-09-23,True,DL,72,0.0,0.04,0.0,0.0,1,2.0,0.0,0.6,0,0,3,1.81,True,0.4,0.02,15.86,0.29,0.34,0.63,18.29,0.19,1.0,Brentford,False,Nottingham Forest,1.35,
+Aaron Hickey,Brentford,Nottingham Forest,2023-10-01,False,DL,68,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,1,0.22,True,0.6,0.03,17.31,0.25,0.34,0.63,18.29,0.19,0.0,Brentford,False,Manchester United,0.17,
+Aaron Hickey,Brentford,Manchester United,2023-10-07,False,DML,90,0.0,0.05,0.0,0.0,0,2.0,0.0,0.0,0,0,2,1.43,True,0.8,0.03,19.27,0.22,0.34,0.63,18.29,0.19,0.0,Brentford,True,Burnley,-3.68,0.39
+Aaron Hickey,Brentford,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.04,18.76,0.22,0.34,0.63,18.29,0.19,,,,,,
