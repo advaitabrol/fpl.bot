@@ -72,11 +72,14 @@ def calculate_holistic_difficulties(fpl_team_data_dir, output_dir, season_set):
         avg_away_difficulty = total_away_difficulty / total_away_matches if total_away_matches > 0 else None
 
         # Prepare and save the output
-        output_path = os.path.join(output_dir, f"{team}_holistic_difficulty.csv")
+        output_path = os.path.join(output_dir, f"{team}_difficulty.csv")
         with open(output_path, 'a') as f:
-            f.write(f"{team},Holistic,{avg_home_difficulty},{avg_away_difficulty},{'_'.join(season_set)}\n")
+            if os.stat(output_path).st_size == 0:
+                # If file is empty, write header row
+                f.write("Team,Home Difficulty,Away Difficulty\n")
+            f.write(f"{team},{avg_home_difficulty},{avg_away_difficulty}\n")
         
-        print(f"Saved holistic difficulties for {team} in {output_path}")
+        print(f"Saved difficulties for {team} in {output_path}")
 
 # Main function to loop over all season sets and calculate difficulties
 def main():
