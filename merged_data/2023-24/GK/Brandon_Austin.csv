@@ -1,34 +1,34 @@
 name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,saves_per_game,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,last_season_total_saves,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Brandon Austin,Spurs,Brentford,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Crystal Palace,1.4,
+Brandon Austin,Spurs,Brentford,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Crystal Palace,1.4,0.38
 Brandon Austin,Spurs,Crystal Palace,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Chelsea,1.57,-0.25
 Brandon Austin,Spurs,Chelsea,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Wolverhampton,0.08,-0.52
-Brandon Austin,Spurs,Wolverhampton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Aston Villa,1.17,
-Brandon Austin,Spurs,Aston Villa,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Manchester City,-0.49,
-Brandon Austin,Spurs,Manchester City,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,West Ham,-1.74,
-Brandon Austin,Spurs,West Ham,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Newcastle United,-1.88,
-Brandon Austin,Spurs,Newcastle United,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Nottingham Forest,-5.2,
+Brandon Austin,Spurs,Wolverhampton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Aston Villa,1.17,0.64
+Brandon Austin,Spurs,Aston Villa,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Manchester City,-0.49,-1.32
+Brandon Austin,Spurs,Manchester City,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,West Ham,-1.74,0.49
+Brandon Austin,Spurs,West Ham,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Newcastle United,-1.88,0.55
+Brandon Austin,Spurs,Newcastle United,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Nottingham Forest,-5.2,-0.55
 Brandon Austin,Spurs,Nottingham Forest,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Everton,-3.67,0.53
 Brandon Austin,Spurs,Everton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Brighton,-2.31,-0.6
-Brandon Austin,Spurs,Brighton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Manchester United,1.18,
+Brandon Austin,Spurs,Brighton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Manchester United,1.18,0.38
 Brandon Austin,Spurs,Manchester United,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Bournemouth,-0.25,1.22
-Brandon Austin,Spurs,Bournemouth,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Manchester United,3.47,
+Brandon Austin,Spurs,Bournemouth,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Manchester United,3.47,-0.63
 Brandon Austin,Spurs,Manchester United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Brentford,-1.06,0.79
 Brandon Austin,Spurs,Brentford,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Everton,-0.31,-0.24
 Brandon Austin,Spurs,Everton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Brighton,0.56,-0.66
 Brandon Austin,Spurs,Brighton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Wolverhampton,2.48,0.05
-Brandon Austin,Spurs,Wolverhampton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Crystal Palace,-2.5,
-Brandon Austin,Spurs,Crystal Palace,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Aston Villa,-1.56,
+Brandon Austin,Spurs,Wolverhampton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Crystal Palace,-2.5,0.88
+Brandon Austin,Spurs,Crystal Palace,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Aston Villa,-1.56,0.29
 Brandon Austin,Spurs,Aston Villa,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Fulham,-1.25,0.86
 Brandon Austin,Spurs,Fulham,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Bournemouth,-2.08,0.19
 Brandon Austin,Spurs,Bournemouth,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Luton,,
-Brandon Austin,Spurs,Luton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,West Ham,2.68,
-Brandon Austin,Spurs,West Ham,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Nottingham Forest,,
-Brandon Austin,Spurs,Nottingham Forest,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Newcastle United,0.79,
+Brandon Austin,Spurs,Luton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,West Ham,2.68,-0.22
+Brandon Austin,Spurs,West Ham,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Nottingham Forest,,1.55
+Brandon Austin,Spurs,Nottingham Forest,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Newcastle United,0.79,-0.41
 Brandon Austin,Spurs,Newcastle United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Arsenal,0.83,-0.11
 Brandon Austin,Spurs,Arsenal,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Chelsea,-2.17,-0.85
 Brandon Austin,Spurs,Chelsea,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Liverpool,,-1.01
 Brandon Austin,Spurs,Liverpool,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Burnley,,0.39
-Brandon Austin,Spurs,Burnley,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Manchester City,-0.19,
+Brandon Austin,Spurs,Burnley,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Manchester City,-0.19,-0.96
 Brandon Austin,Spurs,Manchester City,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Sheffield,,-0.61
 Brandon Austin,Spurs,Sheffield,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,False,Burnley,-3.2,0.0
 Brandon Austin,Spurs,Burnley,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0.0,0,0,0.0,Spurs,True,Sheffield,-0.02,0.68

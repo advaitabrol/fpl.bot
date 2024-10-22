@@ -1,38 +1,38 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Ben Doak,Liverpool,Chelsea,2023-08-13,False,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Nottingham Forest,0.91,
+Ben Doak,Liverpool,Chelsea,2023-08-13,False,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Nottingham Forest,0.91,1.55
 Ben Doak,Liverpool,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,6.5,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Luton,,
 Ben Doak,Liverpool,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.5,0.0,4.33,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Brentford,-2.91,0.79
-Ben Doak,Liverpool,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.33,0.0,3.25,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Manchester City,1.92,
+Ben Doak,Liverpool,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.33,0.0,3.25,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Manchester City,1.92,-1.32
 Ben Doak,Liverpool,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.25,0.0,2.6,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Fulham,0.11,-0.13
 Ben Doak,Liverpool,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,2.17,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Sheffield,,-0.61
-Ben Doak,Liverpool,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.86,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Crystal Palace,-0.31,
-Ben Doak,Liverpool,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.62,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Manchester United,-4.17,
+Ben Doak,Liverpool,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.86,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Crystal Palace,-0.31,0.38
+Ben Doak,Liverpool,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.62,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Manchester United,-4.17,0.38
 Ben Doak,Liverpool,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.44,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Arsenal,-1.17,-0.11
 Ben Doak,Liverpool,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.3,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Burnley,-0.79,0.0
 Ben Doak,Liverpool,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.18,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Bournemouth,-5.88,1.22
-Ben Doak,Liverpool,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.08,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Newcastle United,0.08,
+Ben Doak,Liverpool,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.08,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Newcastle United,0.08,0.55
 Ben Doak,Liverpool,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Bournemouth,2.9,0.19
 Ben Doak,Liverpool,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.93,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Chelsea,0.25,-0.25
 Ben Doak,Liverpool,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.87,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Arsenal,0.56,-0.48
 Ben Doak,Liverpool,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.81,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Burnley,-2.64,0.39
 Ben Doak,Liverpool,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.76,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Brentford,5.51,-0.53
 Ben Doak,Liverpool,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.72,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Luton,,
-Ben Doak,Liverpool,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.68,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Nottingham Forest,3.7,
-Ben Doak,Liverpool,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.65,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Manchester City,-1.69,
-Ben Doak,Liverpool,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.62,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Newcastle United,-0.74,
+Ben Doak,Liverpool,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.68,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Nottingham Forest,3.7,-0.55
+Ben Doak,Liverpool,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.65,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Manchester City,-1.69,-0.96
+Ben Doak,Liverpool,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.62,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Newcastle United,-0.74,-0.41
 Ben Doak,Liverpool,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.59,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Brighton,2.85,-0.66
 Ben Doak,Liverpool,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.57,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Sheffield,,0.68
-Ben Doak,Liverpool,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.54,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Manchester United,-0.0,
-Ben Doak,Liverpool,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.52,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Crystal Palace,0.33,
+Ben Doak,Liverpool,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.54,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Manchester United,-0.0,-0.63
+Ben Doak,Liverpool,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.52,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Crystal Palace,0.33,0.88
 Ben Doak,Liverpool,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Fulham,1.98,0.86
 Ben Doak,Liverpool,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.48,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Everton,-0.44,-0.24
-Ben Doak,Liverpool,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.46,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,West Ham,4.92,
+Ben Doak,Liverpool,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.46,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,West Ham,4.92,-0.22
 Ben Doak,Liverpool,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.45,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Tottenham,,0.69
-Ben Doak,Liverpool,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.43,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Aston Villa,-0.35,
+Ben Doak,Liverpool,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.43,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Aston Villa,-0.35,0.29
 Ben Doak,Liverpool,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.42,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Wolverhampton,,0.05
-Ben Doak,Liverpool,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.41,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Aston Villa,-1.74,
+Ben Doak,Liverpool,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.41,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Aston Villa,-1.74,0.64
 Ben Doak,Liverpool,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.39,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Wolverhampton,-1.44,-0.52
-Ben Doak,Liverpool,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.38,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,West Ham,-0.06,
+Ben Doak,Liverpool,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.38,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,West Ham,-0.06,0.49
 Ben Doak,Liverpool,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.37,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Tottenham,1.56,-0.36
 Ben Doak,Liverpool,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.36,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,False,Brighton,3.13,-0.6
 Ben Doak,Liverpool,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.35,0.0,0.0,0.0,0.0,0.09,0.0,Liverpool,True,Everton,-2.18,0.53

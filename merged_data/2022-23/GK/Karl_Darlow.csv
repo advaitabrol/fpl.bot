@@ -1,39 +1,39 @@
 name,team,opponent_team,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,starts,form,clean_sheet_probability,saves_per_game,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,last_season_total_saves,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
 Karl Darlow,Newcastle,Nottingham Forest,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Brentford,-2.4,0.69
-Karl Darlow,Newcastle,Brentford,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Manchester United,1.2,
+Karl Darlow,Newcastle,Brentford,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Manchester United,1.2,-0.1
 Karl Darlow,Newcastle,Manchester United,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Everton,-5.87,0.34
 Karl Darlow,Newcastle,Everton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Tottenham,4.75,-0.03
-Karl Darlow,Newcastle,Tottenham,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Aston Villa,-2.14,
+Karl Darlow,Newcastle,Tottenham,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Aston Villa,-2.14,0.55
 Karl Darlow,Newcastle,Aston Villa,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Southampton,-1.93,-1.07
 Karl Darlow,Newcastle,Southampton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Chelsea,1.87,-0.25
-Karl Darlow,Newcastle,Chelsea,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Leeds United,6.23,
-Karl Darlow,Newcastle,Leeds United,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Leicester City,-1.01,
+Karl Darlow,Newcastle,Chelsea,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Leeds United,6.23,-0.8
+Karl Darlow,Newcastle,Leeds United,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Leicester City,-1.01,0.83
 Karl Darlow,Newcastle,Leicester City,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Arsenal,2.9,-0.0
 Karl Darlow,Newcastle,Arsenal,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Brighton,-0.9,-0.39
 Karl Darlow,Newcastle,Brighton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Fulham,,-0.3
-Karl Darlow,Newcastle,Fulham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Crystal Palace,-1.13,
-Karl Darlow,Newcastle,Crystal Palace,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,West Ham,0.49,
+Karl Darlow,Newcastle,Fulham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Crystal Palace,-1.13,0.13
+Karl Darlow,Newcastle,Crystal Palace,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,West Ham,0.49,0.63
 Karl Darlow,Newcastle,West Ham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Bournemouth,,0.19
 Karl Darlow,Newcastle,Bournemouth,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Liverpool,1.47,-0.53
-Karl Darlow,Newcastle,Liverpool,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Manchester City,4.63,
+Karl Darlow,Newcastle,Liverpool,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Manchester City,4.63,-1.26
 Karl Darlow,Newcastle,Manchester City,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Wolverhampton,-2.98,-0.48
 Karl Darlow,Newcastle,Wolverhampton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Nottingham Forest,,
-Karl Darlow,Newcastle,Nottingham Forest,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Manchester United,-0.55,
-Karl Darlow,Newcastle,Manchester United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,West Ham,,
-Karl Darlow,Newcastle,West Ham,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Manchester City,4.58,
+Karl Darlow,Newcastle,Nottingham Forest,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Manchester United,-0.55,0.38
+Karl Darlow,Newcastle,Manchester United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,West Ham,,0.14
+Karl Darlow,Newcastle,West Ham,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Manchester City,4.58,-1.17
 Karl Darlow,Newcastle,Manchester City,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Brentford,,-0.55
-Karl Darlow,Newcastle,Brentford,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Aston Villa,3.3,
+Karl Darlow,Newcastle,Brentford,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Aston Villa,3.3,0.59
 Karl Darlow,Newcastle,Aston Villa,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Tottenham,-0.29,1.07
 Karl Darlow,Newcastle,Tottenham,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Everton,,-0.63
 Karl Darlow,Newcastle,Everton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Southampton,0.18,-0.38
 Karl Darlow,Newcastle,Southampton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Arsenal,,0.36
-Karl Darlow,Newcastle,Arsenal,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Leicester City,,
+Karl Darlow,Newcastle,Arsenal,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Leicester City,,-0.05
 Karl Darlow,Newcastle,Leicester City,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Brighton,,-0.71
-Karl Darlow,Newcastle,Brighton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Leeds United,,
+Karl Darlow,Newcastle,Brighton,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Leeds United,,-0.79
 Karl Darlow,Newcastle,Leeds United,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Chelsea,,-0.72
 Karl Darlow,Newcastle,Chelsea,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Wolverhampton,1.1,-0.46
 Karl Darlow,Newcastle,Wolverhampton,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Liverpool,0.9,-1.33
-Karl Darlow,Newcastle,Liverpool,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Crystal Palace,-0.56,
+Karl Darlow,Newcastle,Liverpool,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Crystal Palace,-0.56,0.81
 Karl Darlow,Newcastle,Crystal Palace,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,True,Bournemouth,2.6,1.46
 Karl Darlow,Newcastle,Bournemouth,True,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,0.0,Newcastle,False,Fulham,-1.62,1.37
 Karl Darlow,Newcastle,Fulham,False,0,0,0.0,0,0,0,0,False,False,0.0,0.0,0.0,0,0,0,0,,Man City,False,Burnley,,0.0

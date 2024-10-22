@@ -1,19 +1,19 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Lewis Hall,Chelsea,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2.0,Chelsea,False,Newcastle United,-1.55,
+Lewis Hall,Chelsea,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,2.0,Chelsea,False,Newcastle United,-1.55,-0.34
 Lewis Hall,Chelsea,Newcastle United,2022-11-12,False,DML,72,0.0,0.0,0.0,0.17,2,0.0,2.0,3.9,0,0,1,True,0.0,0.0,36.0,0.0,0.0,0.0,0.0,0,0.0,Chelsea,True,Bournemouth,,1.46
 Lewis Hall,Chelsea,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,24.0,0.0,0.0,0.0,0.0,0,0.0,Chelsea,False,Nottingham Forest,,
-Lewis Hall,Chelsea,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.67,0.0,18.0,0.0,0.0,0.0,0.0,0,1.0,Chelsea,True,Manchester City,1.05,
+Lewis Hall,Chelsea,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.67,0.0,18.0,0.0,0.0,0.0,0.0,0,1.0,Chelsea,True,Manchester City,1.05,-1.17
 Lewis Hall,Chelsea,Manchester City,2023-01-05,True,Sub,22,0.0,0.04,0.0,0.05,1,1.0,1.0,3.2,0,0,0,False,0.5,0.0,18.8,0.0,0.0,0.0,0.0,0,1.0,Chelsea,False,Fulham,,1.37
-Lewis Hall,Chelsea,Fulham,2023-01-12,False,DML,78,0.0,0.38,0.0,0.0,1,2.0,0.0,5.3,0,0,2,True,0.6,0.01,28.67,0.0,0.0,0.0,0.0,0,3.0,Chelsea,True,Crystal Palace,0.31,
+Lewis Hall,Chelsea,Fulham,2023-01-12,False,DML,78,0.0,0.38,0.0,0.0,1,2.0,0.0,5.3,0,0,2,True,0.6,0.01,28.67,0.0,0.0,0.0,0.0,0,3.0,Chelsea,True,Crystal Palace,0.31,0.81
 Lewis Hall,Chelsea,Crystal Palace,2023-01-15,True,DL,77,0.0,0.24,0.0,0.11,3,1.0,1.0,3.3,0,1,0,True,0.8,0.08,35.57,0.0,0.0,0.0,0.0,0,1.0,Chelsea,False,Liverpool,0.32,-1.33
 Lewis Hall,Chelsea,Liverpool,2023-01-21,False,MC,54,0.0,0.06,0.0,0.0,1,1.0,0.0,0.8,0,0,0,True,1.0,0.13,37.88,0.0,0.0,0.0,0.0,0,0.0,Chelsea,True,Fulham,,-0.3
-Lewis Hall,Chelsea,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.14,33.67,0.0,0.0,0.0,0.0,0,0.0,Chelsea,False,West Ham,4.47,
+Lewis Hall,Chelsea,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.14,33.67,0.0,0.0,0.0,0.0,0,0.0,Chelsea,False,West Ham,4.47,0.14
 Lewis Hall,Chelsea,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.14,30.3,0.0,0.0,0.0,0.0,0,0.0,Chelsea,True,Southampton,-1.13,-0.38
 Lewis Hall,Chelsea,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.14,27.55,0.0,0.0,0.0,0.0,0,0.0,Chelsea,False,Tottenham,-1.69,-0.03
-Lewis Hall,Chelsea,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.06,25.25,0.0,0.0,0.0,0.0,0,0.0,Chelsea,True,Leicester City,1.12,
-Lewis Hall,Chelsea,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.01,23.31,0.0,0.0,0.0,0.0,0,0.0,Chelsea,False,Leeds United,-3.0,
+Lewis Hall,Chelsea,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.06,25.25,0.0,0.0,0.0,0.0,0,0.0,Chelsea,True,Leicester City,1.12,0.83
+Lewis Hall,Chelsea,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.01,23.31,0.0,0.0,0.0,0.0,0,0.0,Chelsea,False,Leeds United,-3.0,-0.8
 Lewis Hall,Chelsea,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,21.64,0.0,0.0,0.0,0.0,0,0.0,Chelsea,True,Everton,1.01,0.34
-Lewis Hall,Chelsea,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,20.2,0.0,0.0,0.0,0.0,0,0.0,Chelsea,True,Aston Villa,-2.49,
+Lewis Hall,Chelsea,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,20.2,0.0,0.0,0.0,0.0,0,0.0,Chelsea,True,Aston Villa,-2.49,0.55
 Lewis Hall,Chelsea,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,18.94,0.0,0.0,0.0,0.0,0,0.0,Chelsea,True,Liverpool,2.38,-0.53
 Lewis Hall,Chelsea,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,17.82,0.0,0.0,0.0,0.0,0,0.0,Chelsea,False,Wolverhampton,0.77,-0.46
 Lewis Hall,Chelsea,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,16.83,0.0,0.0,0.0,0.0,0,0.0,Chelsea,True,Brighton,0.37,-0.71
@@ -21,7 +21,7 @@ Lewis Hall,Chelsea,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,15.95,0.0,0
 Lewis Hall,Chelsea,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,15.15,0.0,0.0,0.0,0.0,0,0.0,Chelsea,False,Arsenal,-1.77,-0.0
 Lewis Hall,Chelsea,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,14.43,0.0,0.0,0.0,0.0,0,0.0,Chelsea,False,Bournemouth,,0.19
 Lewis Hall,Chelsea,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,13.77,0.0,0.0,0.0,0.0,0,2.0,Chelsea,True,Nottingham Forest,,
-Lewis Hall,Chelsea,Nottingham Forest,2023-05-13,True,DL,90,0.0,0.03,0.0,0.34,2,1.0,3.0,6.6,0,0,2,True,0.0,0.0,17.09,0.0,0.0,0.0,0.0,0,2.0,Chelsea,False,Manchester City,,
-Lewis Hall,Chelsea,Manchester City,2023-05-21,False,ML,80,0.0,0.08,0.0,0.36,2,2.0,2.0,8.5,0,0,1,True,0.4,0.01,19.71,0.0,0.0,0.0,0.0,0,5.0,Chelsea,False,Manchester United,,
-Lewis Hall,Chelsea,Manchester United,2023-05-25,False,DL,90,0.0,0.11,0.0,0.9,5,2.0,3.0,9.1,3,0,4,True,0.8,0.02,22.52,0.0,0.0,0.0,0.0,0,2.0,Chelsea,True,Newcastle United,,
-Lewis Hall,Chelsea,Newcastle United,2023-05-28,True,DL,90,0.0,0.02,0.0,0.56,2,1.0,3.0,0.0,0,0,1,True,1.8,0.04,25.12,0.0,0.0,0.0,0.0,0,,Wolves,False,Manchester United,-0.63,
+Lewis Hall,Chelsea,Nottingham Forest,2023-05-13,True,DL,90,0.0,0.03,0.0,0.34,2,1.0,3.0,6.6,0,0,2,True,0.0,0.0,17.09,0.0,0.0,0.0,0.0,0,2.0,Chelsea,False,Manchester City,,-1.26
+Lewis Hall,Chelsea,Manchester City,2023-05-21,False,ML,80,0.0,0.08,0.0,0.36,2,2.0,2.0,8.5,0,0,1,True,0.4,0.01,19.71,0.0,0.0,0.0,0.0,0,5.0,Chelsea,False,Manchester United,,-0.1
+Lewis Hall,Chelsea,Manchester United,2023-05-25,False,DL,90,0.0,0.11,0.0,0.9,5,2.0,3.0,9.1,3,0,4,True,0.8,0.02,22.52,0.0,0.0,0.0,0.0,0,2.0,Chelsea,True,Newcastle United,,0.73
+Lewis Hall,Chelsea,Newcastle United,2023-05-28,True,DL,90,0.0,0.02,0.0,0.56,2,1.0,3.0,0.0,0,0,1,True,1.8,0.04,25.12,0.0,0.0,0.0,0.0,0,,Wolves,False,Manchester United,-0.63,-0.1

@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
 Kai Havertz,Arsenal,Nottingham Forest,2023-08-12,True,MC,90,0.0,0.11,0.0,0.18,2,2.0,2.0,5.5,0,0,1,True,0.0,0.0,90.0,0,0,0,0,0,3.0,Arsenal,True,Sheffield,,0.68
-Kai Havertz,Arsenal,Sheffield,2023-10-28,True,MC,90,0.0,0.56,0.0,0.09,3,1.0,1.0,3.0,0,1,0,True,2.0,0.11,90.0,0,0,0,0,0,1.0,Arsenal,False,Newcastle United,-0.61,
+Kai Havertz,Arsenal,Sheffield,2023-10-28,True,MC,90,0.0,0.56,0.0,0.09,3,1.0,1.0,3.0,0,1,0,True,2.0,0.11,90.0,0,0,0,0,0,1.0,Arsenal,False,Newcastle United,-0.61,-0.41
 Kai Havertz,Arsenal,Newcastle United,2023-11-04,False,MC,90,0.0,0.05,0.0,0.0,1,1.0,0.0,3.2,0,0,1,True,2.5,0.34,90.0,0,0,0,0,0,1.0,Arsenal,True,Burnley,0.55,0.39
 Kai Havertz,Arsenal,Burnley,2023-11-11,True,MC,58,0.0,0.17,0.0,0.06,1,2.0,1.0,3.4,0,0,1,True,2.0,0.24,82.0,0,0,0,0,0,6.0,Arsenal,False,Brentford,-0.38,-0.53
 Kai Havertz,Arsenal,Brentford,2023-11-25,False,Sub,11,1.0,0.44,0.0,0.0,6,1.0,0.0,7.3,0,0,0,False,1.75,0.22,67.8,0,0,0,0,0,1.0,Arsenal,True,Wolverhampton,-3.77,0.05
 Kai Havertz,Arsenal,Wolverhampton,2023-12-02,True,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,False,2.6,0.27,58.5,0,0,0,0,0,7.0,Arsenal,False,Luton,,
-Kai Havertz,Arsenal,Luton,2023-12-05,False,MC,90,1.0,0.68,0.0,0.25,7,5.0,4.0,12.0,0,0,3,True,2.4,0.24,63.0,0,0,0,0,0,2.0,Arsenal,False,Aston Villa,-1.92,
+Kai Havertz,Arsenal,Luton,2023-12-05,False,MC,90,1.0,0.68,0.0,0.25,7,5.0,4.0,12.0,0,0,3,True,2.4,0.24,63.0,0,0,0,0,0,2.0,Arsenal,False,Aston Villa,-1.92,0.29
 Kai Havertz,Arsenal,Aston Villa,2023-12-09,False,MC,90,0.0,0.05,0.0,0.17,2,1.0,2.0,5.2,0,0,1,True,3.2,0.27,66.38,0,0,0,0,0,8.0,Arsenal,True,Brighton,2.17,-0.66
 Kai Havertz,Arsenal,Brighton,2023-12-17,True,MC,88,1.0,0.87,0.0,0.0,8,4.0,0.0,6.7,0,1,0,True,3.4,0.27,68.78,0,0,0,0,0,1.0,Arsenal,False,Liverpool,1.55,-1.01
-Kai Havertz,Arsenal,Liverpool,2023-12-23,False,MC,90,0.0,0.05,0.0,0.0,1,1.0,0.0,1.6,0,0,1,True,4.8,0.41,70.9,0,0,0,0,0,0.0,Arsenal,True,West Ham,-1.81,
-Kai Havertz,Arsenal,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,3.8,0.33,64.45,0,0,0,0,0,2.0,Arsenal,False,Crystal Palace,0.57,
+Kai Havertz,Arsenal,Liverpool,2023-12-23,False,MC,90,0.0,0.05,0.0,0.0,1,1.0,0.0,1.6,0,0,1,True,4.8,0.41,70.9,0,0,0,0,0,0.0,Arsenal,True,West Ham,-1.81,0.49
+Kai Havertz,Arsenal,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,3.8,0.33,64.45,0,0,0,0,0,2.0,Arsenal,False,Crystal Palace,0.57,0.38
 Kai Havertz,Arsenal,Crystal Palace,2023-08-21,False,MC,90,0.0,0.04,0.0,0.09,2,1.0,1.0,1.9,0,1,0,True,3.6,0.33,66.58,0,0,0,0,0,2.0,Arsenal,False,Fulham,-4.27,0.86
-Kai Havertz,Arsenal,Fulham,2023-12-31,False,MC,76,0.0,0.0,0.0,0.1,2,0.0,1.0,1.7,0,0,2,True,2.6,0.2,67.31,0,0,0,0,0,3.0,Arsenal,True,Crystal Palace,-1.66,
-Kai Havertz,Arsenal,Crystal Palace,2024-01-20,True,MC,68,0.0,0.0,0.0,0.0,3,0.0,0.0,1.2,0,1,0,True,2.6,0.19,67.36,0,0,0,0,0,1.0,Arsenal,False,Nottingham Forest,3.11,
+Kai Havertz,Arsenal,Fulham,2023-12-31,False,MC,76,0.0,0.0,0.0,0.1,2,0.0,1.0,1.7,0,0,2,True,2.6,0.2,67.31,0,0,0,0,0,3.0,Arsenal,True,Crystal Palace,-1.66,0.88
+Kai Havertz,Arsenal,Crystal Palace,2024-01-20,True,MC,68,0.0,0.0,0.0,0.0,3,0.0,0.0,1.2,0,1,0,True,2.6,0.19,67.36,0,0,0,0,0,1.0,Arsenal,False,Nottingham Forest,3.11,-0.55
 Kai Havertz,Arsenal,Nottingham Forest,2024-01-30,False,Sub,19,0.0,0.0,0.0,0.05,1,0.0,1.0,1.8,0,0,1,False,1.6,0.02,64.13,0,0,0,0,0,4.0,Arsenal,True,Liverpool,-0.82,0.18
-Kai Havertz,Arsenal,Liverpool,2024-02-04,True,FW,90,0.0,0.89,0.0,0.14,4,3.0,2.0,8.6,0,0,1,True,1.6,0.01,65.75,0,0,0,0,0,3.0,Arsenal,False,West Ham,-0.66,
+Kai Havertz,Arsenal,Liverpool,2024-02-04,True,FW,90,0.0,0.89,0.0,0.14,4,3.0,2.0,8.6,0,0,1,True,1.6,0.01,65.75,0,0,0,0,0,3.0,Arsenal,False,West Ham,-0.66,-0.22
 Kai Havertz,Arsenal,West Ham,2024-02-11,False,MC,90,0.0,0.07,0.0,0.3,3,2.0,3.0,7.9,0,1,0,True,2.4,0.19,67.18,0,0,0,0,0,12.0,Arsenal,False,Burnley,-1.51,0.0
-Kai Havertz,Arsenal,Burnley,2024-02-17,False,MC,83,1.0,0.58,0.0,0.02,12,2.0,1.0,8.8,1,1,0,True,2.6,0.19,68.06,0,0,0,0,0,14.0,Arsenal,True,Newcastle United,-1.37,
+Kai Havertz,Arsenal,Burnley,2024-02-17,False,MC,83,1.0,0.58,0.0,0.02,12,2.0,1.0,8.8,1,1,0,True,2.6,0.19,68.06,0,0,0,0,0,14.0,Arsenal,True,Newcastle United,-1.37,0.55
 Kai Havertz,Arsenal,Newcastle United,2024-02-24,True,FW,75,1.0,1.11,1.0,0.07,14,2.0,1.0,9.5,3,1,0,True,4.6,0.31,68.42,0,0,0,0,0,14.0,Arsenal,False,Sheffield,,-0.61
 Kai Havertz,Arsenal,Sheffield,2024-03-04,False,FW,90,1.0,0.21,1.0,0.32,14,2.0,4.0,16.1,3,1,0,True,6.8,0.73,69.5,0,0,0,0,0,7.0,Arsenal,True,Brentford,-0.34,0.79
 Kai Havertz,Arsenal,Brentford,2024-03-09,True,FW,90,1.0,0.82,0.0,0.0,7,4.0,0.0,8.8,1,0,1,True,9.4,0.97,70.48,0,0,0,0,0,1.0,Arsenal,True,Fulham,0.88,-0.13
-Kai Havertz,Arsenal,Fulham,2023-08-26,True,MC,55,0.0,0.13,0.0,0.2,1,1.0,2.0,4.2,0,0,1,True,10.0,0.96,69.77,0,0,0,0,0,3.0,Arsenal,False,Manchester City,4.53,
+Kai Havertz,Arsenal,Fulham,2023-08-26,True,MC,55,0.0,0.13,0.0,0.2,1,1.0,2.0,4.2,0,0,1,True,10.0,0.96,69.77,0,0,0,0,0,3.0,Arsenal,False,Manchester City,4.53,-1.32
 Kai Havertz,Arsenal,Manchester City,2024-03-31,False,FW,90,0.0,0.14,0.0,0.0,3,1.0,0.0,4.1,0,1,0,True,9.6,0.97,70.65,0,0,0,0,0,5.0,Arsenal,True,Luton,,
 Kai Havertz,Arsenal,Luton,2024-04-03,True,FW,65,0.0,0.14,1.0,0.36,5,2.0,1.0,6.3,0,1,0,True,7.8,0.88,70.42,0,0,0,0,0,14.0,Arsenal,False,Brighton,-3.3,-0.6
-Kai Havertz,Arsenal,Brighton,2024-04-06,False,FW,88,1.0,1.18,1.0,0.74,14,2.0,4.0,15.6,3,1,0,True,6.0,0.69,71.12,0,0,0,0,0,1.0,Arsenal,True,Aston Villa,-2.64,
+Kai Havertz,Arsenal,Brighton,2024-04-06,False,FW,88,1.0,1.18,1.0,0.74,14,2.0,4.0,15.6,3,1,0,True,6.0,0.69,71.12,0,0,0,0,0,1.0,Arsenal,True,Aston Villa,-2.64,0.64
 Kai Havertz,Arsenal,Aston Villa,2024-04-14,True,MC,90,0.0,0.39,0.0,0.06,1,3.0,1.0,8.8,0,0,2,True,6.0,0.88,71.85,0,0,0,0,0,3.0,Arsenal,False,Wolverhampton,-4.1,-0.52
 Kai Havertz,Arsenal,Wolverhampton,2024-04-20,False,MC,90,0.0,0.31,0.0,0.07,3,5.0,2.0,9.7,0,1,0,True,4.8,0.8,72.52,0,0,0,0,0,14.0,Arsenal,True,Chelsea,2.07,-0.25
 Kai Havertz,Arsenal,Chelsea,2024-04-23,True,FW,71,2.0,1.13,0.0,0.14,14,4.0,2.0,19.7,1,1,0,True,5.2,0.83,72.46,0,0,0,0,0,13.0,Arsenal,False,Tottenham,-3.15,-0.36
 Kai Havertz,Arsenal,Tottenham,2024-04-28,False,FW,90,1.0,0.5,1.0,0.54,13,1.0,2.0,12.5,3,0,2,True,7.4,1.03,73.07,0,0,0,0,0,5.0,Arsenal,True,Bournemouth,,1.22
-Kai Havertz,Arsenal,Bournemouth,2024-05-04,True,FW,90,0.0,0.17,0.0,0.74,5,2.0,2.0,10.6,0,1,0,True,9.0,1.1,73.63,0,0,0,0,0,6.0,Arsenal,False,Manchester United,2.33,
+Kai Havertz,Arsenal,Bournemouth,2024-05-04,True,FW,90,0.0,0.17,0.0,0.74,5,2.0,2.0,10.6,0,1,0,True,9.0,1.1,73.63,0,0,0,0,0,6.0,Arsenal,False,Manchester United,2.33,-0.63
 Kai Havertz,Arsenal,Manchester United,2024-05-12,False,FW,90,0.0,0.0,1.0,1.0,6,0.0,2.0,5.6,0,1,0,True,7.2,0.7,74.16,0,0,0,0,0,6.0,Arsenal,True,Everton,,0.53
-Kai Havertz,Arsenal,Everton,2024-05-19,True,FW,90,1.0,1.64,0.0,0.02,6,9.0,1.0,12.6,0,0,1,True,8.2,0.82,74.66,0,0,0,0,0,2.0,Arsenal,True,Manchester United,-2.27,
+Kai Havertz,Arsenal,Everton,2024-05-19,True,FW,90,1.0,1.64,0.0,0.02,6,9.0,1.0,12.6,0,0,1,True,8.2,0.82,74.66,0,0,0,0,0,2.0,Arsenal,True,Manchester United,-2.27,0.38
 Kai Havertz,Arsenal,Manchester United,2023-09-03,True,MC,76,0.0,0.16,0.0,0.08,2,2.0,1.0,4.1,0,0,1,True,8.8,1.09,74.7,0,0,0,0,0,1.0,Arsenal,False,Everton,0.57,-0.24
 Kai Havertz,Arsenal,Everton,2023-09-17,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,6.4,0.89,72.79,0,0,0,0,0,0.0,Arsenal,True,Tottenham,-1.3,0.69
 Kai Havertz,Arsenal,Tottenham,2023-09-24,True,Sub,45,0.0,0.05,0.0,0.0,0,1.0,0.0,1.0,0,0,1,False,4.0,0.59,72.0,0,0,0,0,0,7.0,Arsenal,False,Bournemouth,-5.08,0.19
-Kai Havertz,Arsenal,Bournemouth,2023-09-30,False,MC,80,1.0,0.82,0.0,0.0,7,2.0,0.0,6.9,0,1,0,True,3.0,0.57,72.22,0,0,0,0,0,4.0,Arsenal,True,Manchester City,-1.15,
+Kai Havertz,Arsenal,Bournemouth,2023-09-30,False,MC,80,1.0,0.82,0.0,0.0,7,2.0,0.0,6.9,0,1,0,True,3.0,0.57,72.22,0,0,0,0,0,4.0,Arsenal,True,Manchester City,-1.15,-0.96
 Kai Havertz,Arsenal,Manchester City,2023-10-08,True,Sub,15,0.0,0.0,1.0,0.03,4,0.0,1.0,3.5,0,0,0,False,3.2,0.53,70.68,0,0,0,0,0,1.0,Arsenal,False,Chelsea,-0.46,-0.85
 Kai Havertz,Arsenal,Chelsea,2023-10-21,False,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,2.8,0.41,69.13,0,0,0,0,0,,,,,,

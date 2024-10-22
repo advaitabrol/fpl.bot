@@ -1,21 +1,21 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
 Son Heung-min,Spurs,Southampton,2022-08-06,True,AMC,90,0.0,0.44,1.0,0.25,5,4.0,4.0,14.5,0,0,1,False,0.0,0.0,90.0,0,0,0,0,0,6,Spurs,False,Brighton,-2.68,-0.39
 Son Heung-min,Spurs,Brighton,2022-10-08,False,FW,79,0.0,0.07,1.0,0.51,6,2.0,3.0,8.2,0,1,0,False,5.0,1.44,84.5,0,0,0,0,0,3,Spurs,True,Everton,-5.21,0.34
-Son Heung-min,Spurs,Everton,2022-10-15,True,AMC,90,0.0,0.24,0.0,0.09,3,4.0,2.0,10.9,0,1,0,False,5.5,1.25,86.33,0,0,0,0,0,2,Spurs,False,Manchester United,4.8,
-Son Heung-min,Spurs,Manchester United,2022-10-19,False,FW,90,0.0,0.02,0.0,0.04,2,1.0,2.0,3.9,0,0,2,False,4.67,0.91,87.25,0,0,0,0,0,2,Spurs,True,Newcastle United,-3.79,
+Son Heung-min,Spurs,Everton,2022-10-15,True,AMC,90,0.0,0.24,0.0,0.09,3,4.0,2.0,10.9,0,1,0,False,5.5,1.25,86.33,0,0,0,0,0,2,Spurs,False,Manchester United,4.8,-0.1
+Son Heung-min,Spurs,Manchester United,2022-10-19,False,FW,90,0.0,0.02,0.0,0.04,2,1.0,2.0,3.9,0,0,2,False,4.67,0.91,87.25,0,0,0,0,0,2,Spurs,True,Newcastle United,-3.79,0.73
 Son Heung-min,Spurs,Newcastle United,2022-10-23,True,FW,90,0.0,0.55,0.0,0.05,2,5.0,1.0,6.5,0,0,2,False,4.0,0.69,87.8,0,0,0,0,0,2,Spurs,False,Bournemouth,,0.19
 Son Heung-min,Spurs,Bournemouth,2022-10-29,False,FW,90,0.0,0.27,0.0,0.82,2,3.0,6.0,14.5,0,0,2,False,3.6,0.66,88.17,0,0,0,0,0,0,Spurs,True,Liverpool,0.32,-0.53
-Son Heung-min,Spurs,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,3.0,0.43,75.57,0,0,0,0,0,0,Spurs,True,Leicester City,-0.2,
+Son Heung-min,Spurs,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,3.0,0.43,75.57,0,0,0,0,0,0,Spurs,True,Leicester City,-0.2,0.83
 Son Heung-min,Spurs,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.21,66.12,0,0,0,0,0,2,Spurs,False,Brentford,1.4,-0.55
-Son Heung-min,Spurs,Brentford,2022-12-26,False,FWL,90,0.0,0.1,0.0,0.1,2,3.0,1.0,3.7,0,0,2,True,1.2,0.17,68.78,0,0,0,0,0,2,Spurs,True,Aston Villa,-0.44,
-Son Heung-min,Spurs,Aston Villa,2023-01-01,True,FWL,90,0.0,0.08,0.0,0.07,2,2.0,1.0,5.6,0,0,2,True,1.2,0.18,70.9,0,0,0,0,0,8,Spurs,False,Crystal Palace,7.24,
+Son Heung-min,Spurs,Brentford,2022-12-26,False,FWL,90,0.0,0.1,0.0,0.1,2,3.0,1.0,3.7,0,0,2,True,1.2,0.17,68.78,0,0,0,0,0,2,Spurs,True,Aston Villa,-0.44,0.55
+Son Heung-min,Spurs,Aston Villa,2023-01-01,True,FWL,90,0.0,0.08,0.0,0.07,2,2.0,1.0,5.6,0,0,2,True,1.2,0.18,70.9,0,0,0,0,0,8,Spurs,False,Crystal Palace,7.24,0.13
 Son Heung-min,Spurs,Crystal Palace,2023-01-04,False,AMC,90,1.0,0.47,0.0,0.05,8,2.0,1.0,8.9,0,1,0,True,1.2,0.09,72.64,0,0,0,0,0,2,Spurs,False,Chelsea,3.74,-0.72
 Son Heung-min,Spurs,Chelsea,2022-08-14,False,AMC,78,0.0,0.35,0.0,0.01,2,2.0,1.0,6.2,0,0,2,False,2.4,0.13,73.08,0,0,0,0,0,2,Spurs,True,Arsenal,-2.81,0.36
-Son Heung-min,Spurs,Arsenal,2023-01-15,True,AMC,90,0.0,0.65,0.0,0.09,2,5.0,1.0,5.6,0,0,2,True,2.8,0.2,74.38,0,0,0,0,0,2,Spurs,False,Manchester City,-2.29,
+Son Heung-min,Spurs,Arsenal,2023-01-15,True,AMC,90,0.0,0.65,0.0,0.09,2,5.0,1.0,5.6,0,0,2,True,2.8,0.2,74.38,0,0,0,0,0,2,Spurs,False,Manchester City,-2.29,-1.26
 Son Heung-min,Spurs,Manchester City,2023-01-19,False,AMC,90,0.0,0.05,0.0,0.0,2,1.0,0.0,3.7,0,0,4,True,3.2,0.33,75.5,0,0,0,0,0,5,Spurs,False,Fulham,,1.37
-Son Heung-min,Spurs,Fulham,2023-01-23,False,AMC,75,0.0,0.0,1.0,0.07,5,0.0,1.0,4.0,0,1,0,True,3.2,0.32,75.47,0,0,0,0,0,3,Spurs,True,Manchester City,-0.19,
-Son Heung-min,Spurs,Manchester City,2023-02-05,True,AMC,83,0.0,0.02,0.0,0.45,3,1.0,1.0,2.5,0,1,0,True,3.8,0.5,75.94,0,0,0,0,0,2,Spurs,False,Leeds United,1.08,
-Son Heung-min,Spurs,Leeds United,2023-02-11,False,AMC,90,0.0,0.03,0.0,0.0,2,1.0,0.0,1.1,0,0,4,True,2.8,0.42,76.76,0,0,0,0,0,6,Spurs,True,West Ham,-1.58,
+Son Heung-min,Spurs,Fulham,2023-01-23,False,AMC,75,0.0,0.0,1.0,0.07,5,0.0,1.0,4.0,0,1,0,True,3.2,0.32,75.47,0,0,0,0,0,3,Spurs,True,Manchester City,-0.19,-1.17
+Son Heung-min,Spurs,Manchester City,2023-02-05,True,AMC,83,0.0,0.02,0.0,0.45,3,1.0,1.0,2.5,0,1,0,True,3.8,0.5,75.94,0,0,0,0,0,2,Spurs,False,Leeds United,1.08,-0.8
+Son Heung-min,Spurs,Leeds United,2023-02-11,False,AMC,90,0.0,0.03,0.0,0.0,2,1.0,0.0,1.1,0,0,4,True,2.8,0.42,76.76,0,0,0,0,0,6,Spurs,True,West Ham,-1.58,0.63
 Son Heung-min,Spurs,West Ham,2023-02-19,True,Sub,22,1.0,0.34,0.0,0.08,6,1.0,2.0,7.7,0,0,0,False,2.8,0.35,73.72,0,0,0,0,0,1,Spurs,True,Chelsea,5.76,-0.25
 Son Heung-min,Spurs,Chelsea,2023-02-26,True,Sub,11,0.0,0.0,0.0,0.11,1,0.0,1.0,1.7,0,0,0,False,3.6,0.29,70.42,0,0,0,0,0,2,Spurs,False,Wolverhampton,-1.1,-0.46
 Son Heung-min,Spurs,Wolverhampton,2023-03-04,False,AMC,90,0.0,0.15,0.0,0.25,2,4.0,3.0,7.7,0,0,1,True,3.4,0.28,71.4,0,0,0,0,0,9,Spurs,True,Nottingham Forest,,
@@ -24,16 +24,16 @@ Son Heung-min,Spurs,Southampton,2023-03-18,False,AMC,90,0.0,0.13,1.0,0.48,5,2.0,
 Son Heung-min,Spurs,Everton,2023-04-03,False,AMC,81,0.0,0.0,0.0,0.04,3,0.0,1.0,1.8,0,1,0,True,4.6,0.4,73.13,0,0,0,0,0,3,Spurs,True,Wolverhampton,-0.85,-0.48
 Son Heung-min,Spurs,Wolverhampton,2022-08-20,True,AMC,75,0.0,0.27,0.0,0.0,3,3.0,0.0,3.5,0,1,0,False,4.0,0.33,73.21,0,0,0,0,0,7,Spurs,True,Brighton,,-0.71
 Son Heung-min,Spurs,Brighton,2023-04-08,True,AMC,90,1.0,0.02,0.0,0.12,7,1.0,1.0,6.4,0,0,1,True,4.4,0.38,73.88,0,0,0,0,0,9,Spurs,True,Bournemouth,,1.46
-Son Heung-min,Spurs,Bournemouth,2023-04-15,True,AMC,90,1.0,0.79,0.0,0.17,9,4.0,2.0,13.9,2,0,3,True,5.4,0.36,74.5,0,0,0,0,0,2,Spurs,False,Newcastle United,0.79,
-Son Heung-min,Spurs,Newcastle United,2023-04-23,False,FWL,82,0.0,0.16,0.0,0.18,2,3.0,2.0,3.2,0,0,6,True,5.4,0.44,74.78,0,0,0,0,0,8,Spurs,True,Manchester United,5.3,
+Son Heung-min,Spurs,Bournemouth,2023-04-15,True,AMC,90,1.0,0.79,0.0,0.17,9,4.0,2.0,13.9,2,0,3,True,5.4,0.36,74.5,0,0,0,0,0,2,Spurs,False,Newcastle United,0.79,-0.34
+Son Heung-min,Spurs,Newcastle United,2023-04-23,False,FWL,82,0.0,0.16,0.0,0.18,2,3.0,2.0,3.2,0,0,6,True,5.4,0.44,74.78,0,0,0,0,0,8,Spurs,True,Manchester United,5.3,0.38
 Son Heung-min,Spurs,Manchester United,2023-04-27,True,AMC,86,1.0,1.11,0.0,0.11,8,3.0,1.0,0.0,1,0,2,True,4.8,0.25,75.18,0,0,0,0,0,9,Spurs,False,Liverpool,,-1.33
-Son Heung-min,Spurs,Liverpool,2023-04-30,False,AMC,90,1.0,0.62,1.0,0.28,9,3.0,1.0,9.2,0,0,4,True,5.8,0.47,75.69,0,0,0,0,0,3,Spurs,True,Crystal Palace,-3.09,
-Son Heung-min,Spurs,Crystal Palace,2023-05-06,True,ML,88,0.0,0.31,0.0,0.0,3,1.0,0.0,3.1,0,1,0,True,7.0,0.74,76.1,0,0,0,0,0,2,Spurs,False,Aston Villa,,
+Son Heung-min,Spurs,Liverpool,2023-04-30,False,AMC,90,1.0,0.62,1.0,0.28,9,3.0,1.0,9.2,0,0,4,True,5.8,0.47,75.69,0,0,0,0,0,3,Spurs,True,Crystal Palace,-3.09,0.81
+Son Heung-min,Spurs,Crystal Palace,2023-05-06,True,ML,88,0.0,0.31,0.0,0.0,3,1.0,0.0,3.1,0,1,0,True,7.0,0.74,76.1,0,0,0,0,0,2,Spurs,False,Aston Villa,,0.59
 Son Heung-min,Spurs,Aston Villa,2023-05-13,False,FWL,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,0,2,True,6.2,0.8,76.55,0,0,0,0,0,2,Spurs,True,Brentford,-3.15,0.69
-Son Heung-min,Spurs,Brentford,2023-05-20,True,ML,90,0.0,0.49,0.0,0.49,2,3.0,4.0,11.5,0,0,3,True,4.8,0.64,76.97,0,0,0,0,0,5,Spurs,False,Leicester City,,
+Son Heung-min,Spurs,Brentford,2023-05-20,True,ML,90,0.0,0.49,0.0,0.49,2,3.0,4.0,11.5,0,0,3,True,4.8,0.64,76.97,0,0,0,0,0,5,Spurs,False,Leicester City,,-0.05
 Son Heung-min,Spurs,Leicester City,2023-05-28,False,ML,75,0.0,0.15,1.0,0.45,5,1.0,2.0,0.0,0,0,1,True,4.8,0.71,76.91,0,0,0,0,0,3,Spurs,False,Nottingham Forest,-5.2,
-Son Heung-min,Spurs,Nottingham Forest,2022-08-28,False,AMC,73,0.0,0.12,0.0,0.21,3,2.0,3.0,5.9,0,1,0,False,4.2,0.71,76.79,0,0,0,0,0,2,Spurs,False,West Ham,2.68,
+Son Heung-min,Spurs,Nottingham Forest,2022-08-28,False,AMC,73,0.0,0.12,0.0,0.21,3,2.0,3.0,5.9,0,1,0,False,4.2,0.71,76.79,0,0,0,0,0,2,Spurs,False,West Ham,2.68,0.14
 Son Heung-min,Spurs,West Ham,2022-08-31,False,AMC,90,0.0,0.15,0.0,0.0,2,2.0,0.0,4.0,0,0,1,False,3.0,0.41,77.17,0,0,0,0,0,2,Spurs,True,Fulham,-1.52,-0.3
-Son Heung-min,Spurs,Fulham,2022-09-03,True,AMC,83,0.0,0.65,0.0,0.38,2,4.0,5.0,13.6,0,0,1,False,2.8,0.38,77.33,0,0,0,0,0,19,Spurs,True,Leeds United,-5.34,
+Son Heung-min,Spurs,Fulham,2022-09-03,True,AMC,83,0.0,0.65,0.0,0.38,2,4.0,5.0,13.6,0,0,1,False,2.8,0.38,77.33,0,0,0,0,0,19,Spurs,True,Leeds United,-5.34,-0.79
 Son Heung-min,Spurs,Leeds United,2022-09-17,True,Sub,31,3.0,0.43,0.0,0.0,19,4.0,0.0,14.3,3,0,0,False,2.8,0.51,76.08,0,0,0,0,0,2,Spurs,False,Arsenal,2.45,-0.0
 Son Heung-min,Spurs,Arsenal,2022-10-01,False,AMC,71,0.0,0.0,0.0,0.04,2,0.0,1.0,1.9,0,0,3,False,6.2,0.5,75.95,0,0,0,0,0,2,Spurs,False,Brentford,0.99,-0.55

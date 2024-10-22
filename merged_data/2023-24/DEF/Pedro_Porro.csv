@@ -1,34 +1,34 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Pedro Porro,Spurs,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.41,2.51,19.42,0.15,2.0,Spurs,False,Crystal Palace,1.4,
+Pedro Porro,Spurs,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.41,2.51,19.42,0.15,2.0,Spurs,False,Crystal Palace,1.4,0.38
 Pedro Porro,Spurs,Crystal Palace,2023-10-27,False,DR,90,0.0,0.03,0.0,0.0,2,1.0,0.0,3.0,0,0,1,0.64,True,0.0,0.0,45.0,0.0,1.41,2.51,19.42,0.15,0.0,Spurs,True,Chelsea,1.57,-0.25
 Pedro Porro,Spurs,Chelsea,2023-11-06,True,DR,90,0.0,0.07,0.0,0.55,0,1.0,1.0,5.3,0,0,4,4.04,True,1.0,0.01,60.0,0.0,1.41,2.51,19.42,0.15,5.0,Spurs,False,Wolverhampton,0.08,-0.52
-Pedro Porro,Spurs,Wolverhampton,2023-11-11,False,DR,90,0.0,0.0,1.0,0.22,5,0.0,2.0,7.7,1,0,2,2.15,True,0.67,0.03,67.5,0.0,1.41,2.51,19.42,0.15,5.0,Spurs,True,Aston Villa,1.17,
-Pedro Porro,Spurs,Aston Villa,2023-11-26,True,DR,90,0.0,0.14,1.0,0.44,5,3.0,4.0,11.9,1,0,2,1.77,True,1.75,0.27,72.0,0.0,1.41,2.51,19.42,0.15,0.0,Spurs,False,Manchester City,-0.49,
-Pedro Porro,Spurs,Manchester City,2023-12-03,False,DR,90,0.0,0.06,0.0,0.03,0,1.0,1.0,4.2,0,0,3,2.64,True,2.4,0.45,75.0,0.0,1.41,2.51,19.42,0.15,5.0,Spurs,True,West Ham,-1.74,
-Pedro Porro,Spurs,West Ham,2023-12-07,True,DR,90,0.0,0.21,1.0,0.51,5,5.0,5.0,13.9,2,0,2,2.07,True,2.4,0.46,77.14,0.0,1.41,2.51,19.42,0.15,5.0,Spurs,True,Newcastle United,-1.88,
-Pedro Porro,Spurs,Newcastle United,2023-12-10,True,DR,90,0.0,0.16,1.0,0.38,5,3.0,3.0,11.3,0,0,1,1.69,True,3.0,0.7,78.75,0.0,1.41,2.51,19.42,0.15,8.0,Spurs,False,Nottingham Forest,-5.2,
+Pedro Porro,Spurs,Wolverhampton,2023-11-11,False,DR,90,0.0,0.0,1.0,0.22,5,0.0,2.0,7.7,1,0,2,2.15,True,0.67,0.03,67.5,0.0,1.41,2.51,19.42,0.15,5.0,Spurs,True,Aston Villa,1.17,0.64
+Pedro Porro,Spurs,Aston Villa,2023-11-26,True,DR,90,0.0,0.14,1.0,0.44,5,3.0,4.0,11.9,1,0,2,1.77,True,1.75,0.27,72.0,0.0,1.41,2.51,19.42,0.15,0.0,Spurs,False,Manchester City,-0.49,-1.32
+Pedro Porro,Spurs,Manchester City,2023-12-03,False,DR,90,0.0,0.06,0.0,0.03,0,1.0,1.0,4.2,0,0,3,2.64,True,2.4,0.45,75.0,0.0,1.41,2.51,19.42,0.15,5.0,Spurs,True,West Ham,-1.74,0.49
+Pedro Porro,Spurs,West Ham,2023-12-07,True,DR,90,0.0,0.21,1.0,0.51,5,5.0,5.0,13.9,2,0,2,2.07,True,2.4,0.46,77.14,0.0,1.41,2.51,19.42,0.15,5.0,Spurs,True,Newcastle United,-1.88,0.55
+Pedro Porro,Spurs,Newcastle United,2023-12-10,True,DR,90,0.0,0.16,1.0,0.38,5,3.0,3.0,11.3,0,0,1,1.69,True,3.0,0.7,78.75,0.0,1.41,2.51,19.42,0.15,8.0,Spurs,False,Nottingham Forest,-5.2,-0.55
 Pedro Porro,Spurs,Nottingham Forest,2023-12-15,False,DR,90,0.0,0.25,0.0,0.42,8,2.0,3.0,7.3,2,1,0,1.5,True,4.0,0.92,80.0,0.12,1.41,2.51,19.42,0.15,2.0,Spurs,True,Everton,-3.67,0.53
 Pedro Porro,Spurs,Everton,2023-12-23,True,DR,90,0.0,0.1,0.0,0.05,2,2.0,1.0,4.3,0,0,1,1.95,True,4.6,0.76,81.0,0.11,1.41,2.51,19.42,0.15,5.0,Spurs,False,Brighton,-2.31,-0.6
-Pedro Porro,Spurs,Brighton,2023-12-28,False,DR,90,0.0,0.08,1.0,0.74,5,2.0,3.0,9.6,2,0,4,3.7,True,4.0,0.56,81.82,0.1,1.41,2.51,19.42,0.15,6.0,Spurs,True,Manchester United,1.18,
+Pedro Porro,Spurs,Brighton,2023-12-28,False,DR,90,0.0,0.08,1.0,0.74,5,2.0,3.0,9.6,2,0,4,3.7,True,4.0,0.56,81.82,0.1,1.41,2.51,19.42,0.15,6.0,Spurs,True,Manchester United,1.18,0.38
 Pedro Porro,Spurs,Manchester United,2023-08-19,True,DR,87,0.0,0.07,0.0,0.1,6,1.0,1.0,3.6,0,1,0,1.73,True,5.0,0.76,82.25,0.18,1.41,2.51,19.42,0.15,2.0,Spurs,True,Bournemouth,-0.25,1.22
-Pedro Porro,Spurs,Bournemouth,2023-12-31,True,DR,90,0.0,0.02,0.0,0.08,2,1.0,1.0,6.0,0,0,1,1.6,True,5.2,0.53,82.85,0.17,1.41,2.51,19.42,0.15,6.0,Spurs,False,Manchester United,3.47,
+Pedro Porro,Spurs,Bournemouth,2023-12-31,True,DR,90,0.0,0.02,0.0,0.08,2,1.0,1.0,6.0,0,0,1,1.6,True,5.2,0.53,82.85,0.17,1.41,2.51,19.42,0.15,6.0,Spurs,False,Manchester United,3.47,-0.63
 Pedro Porro,Spurs,Manchester United,2024-01-14,False,DR,90,0.0,0.03,1.0,0.74,6,1.0,5.0,14.1,2,0,2,0.84,True,4.6,0.3,83.36,0.15,1.41,2.51,19.42,0.15,1.0,Spurs,True,Brentford,-1.06,0.79
 Pedro Porro,Spurs,Brentford,2024-01-31,True,DR,90,0.0,0.08,0.0,0.0,1,2.0,0.0,3.2,0,0,2,1.66,True,4.2,0.46,83.8,0.14,1.41,2.51,19.42,0.15,1.0,Spurs,False,Everton,-0.31,-0.24
 Pedro Porro,Spurs,Everton,2024-02-03,False,DR,90,0.0,0.04,0.0,0.0,1,1.0,0.0,2.7,0,0,2,2.62,True,4.0,0.46,84.19,0.13,1.41,2.51,19.42,0.15,2.0,Spurs,True,Brighton,0.56,-0.66
 Pedro Porro,Spurs,Brighton,2024-02-10,True,DR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,1,1.21,True,3.2,0.25,84.53,0.12,1.41,2.51,19.42,0.15,0.0,Spurs,True,Wolverhampton,2.48,0.05
-Pedro Porro,Spurs,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.4,0.23,79.83,0.12,1.41,2.51,19.42,0.15,0.0,Spurs,True,Crystal Palace,-2.5,
-Pedro Porro,Spurs,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.23,75.63,0.12,1.41,2.51,19.42,0.15,7.0,Spurs,False,Aston Villa,-1.56,
+Pedro Porro,Spurs,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.4,0.23,79.83,0.12,1.41,2.51,19.42,0.15,0.0,Spurs,True,Crystal Palace,-2.5,0.88
+Pedro Porro,Spurs,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.23,75.63,0.12,1.41,2.51,19.42,0.15,7.0,Spurs,False,Aston Villa,-1.56,0.29
 Pedro Porro,Spurs,Aston Villa,2024-03-10,False,DR,90,0.0,0.0,0.0,0.13,7,0.0,1.0,5.7,1,1,0,0.97,True,0.8,0.02,76.35,0.18,1.41,2.51,19.42,0.15,1.0,Spurs,False,Fulham,-1.25,0.86
 Pedro Porro,Spurs,Fulham,2024-03-16,False,DR,90,0.0,0.0,0.0,0.08,1,0.0,2.0,3.8,0,0,3,2.79,True,2.0,0.01,77.0,0.17,1.41,2.51,19.42,0.15,6.0,Spurs,False,Bournemouth,-2.08,0.19
 Pedro Porro,Spurs,Bournemouth,2023-08-26,False,DR,90,0.0,0.11,0.0,0.0,6,3.0,0.0,3.1,0,1,0,0.67,True,2.0,0.0,77.59,0.21,1.41,2.51,19.42,0.15,2.0,Spurs,True,Luton,,
-Pedro Porro,Spurs,Luton,2024-03-30,True,DR,90,0.0,0.13,0.0,0.09,2,2.0,1.0,5.2,0,0,1,0.39,True,2.8,0.02,78.13,0.2,1.41,2.51,19.42,0.15,2.0,Spurs,False,West Ham,2.68,
-Pedro Porro,Spurs,West Ham,2024-04-02,False,DR,90,0.0,0.08,0.0,0.0,2,2.0,0.0,5.9,0,0,1,1.16,True,3.2,0.05,78.62,0.19,1.41,2.51,19.42,0.15,11.0,Spurs,True,Nottingham Forest,,
-Pedro Porro,Spurs,Nottingham Forest,2024-04-07,True,DR,90,1.0,0.09,0.0,0.02,11,1.0,1.0,8.4,3,0,1,1.56,True,3.6,0.06,79.08,0.18,1.41,2.51,19.42,0.15,0.0,Spurs,False,Newcastle United,0.79,
+Pedro Porro,Spurs,Luton,2024-03-30,True,DR,90,0.0,0.13,0.0,0.09,2,2.0,1.0,5.2,0,0,1,0.39,True,2.8,0.02,78.13,0.2,1.41,2.51,19.42,0.15,2.0,Spurs,False,West Ham,2.68,-0.22
+Pedro Porro,Spurs,West Ham,2024-04-02,False,DR,90,0.0,0.08,0.0,0.0,2,2.0,0.0,5.9,0,0,1,1.16,True,3.2,0.05,78.62,0.19,1.41,2.51,19.42,0.15,11.0,Spurs,True,Nottingham Forest,,1.55
+Pedro Porro,Spurs,Nottingham Forest,2024-04-07,True,DR,90,1.0,0.09,0.0,0.02,11,1.0,1.0,8.4,3,0,1,1.56,True,3.6,0.06,79.08,0.18,1.41,2.51,19.42,0.15,0.0,Spurs,False,Newcastle United,0.79,-0.41
 Pedro Porro,Spurs,Newcastle United,2024-04-13,False,DR,48,0.0,0.0,0.0,0.0,0,0.0,0.0,1.5,0,0,2,1.85,True,4.4,0.08,77.88,0.18,1.41,2.51,19.42,0.15,1.0,Spurs,True,Arsenal,0.83,-0.11
 Pedro Porro,Spurs,Arsenal,2024-04-28,True,DR,90,0.0,0.09,0.0,0.3,1,3.0,1.0,3.9,0,0,3,1.08,True,4.2,0.08,78.33,0.17,1.41,2.51,19.42,0.15,1.0,Spurs,False,Chelsea,-2.17,-0.85
 Pedro Porro,Spurs,Chelsea,2024-05-02,False,DR,90,0.0,0.05,0.0,0.16,1,1.0,2.0,6.7,0,0,2,1.94,True,3.2,0.08,78.75,0.17,1.41,2.51,19.42,0.15,0.0,Spurs,False,Liverpool,,-1.01
 Pedro Porro,Spurs,Liverpool,2024-05-05,False,DR,90,0.0,0.0,0.0,0.26,0,1.0,1.0,3.5,0,0,4,3.22,True,3.0,0.06,79.14,0.16,1.41,2.51,19.42,0.15,9.0,Spurs,True,Burnley,,0.39
-Pedro Porro,Spurs,Burnley,2024-05-11,True,DR,90,1.0,0.17,0.0,0.03,9,4.0,1.0,8.9,1,0,1,0.75,True,2.6,0.05,79.5,0.15,1.41,2.51,19.42,0.15,1.0,Spurs,True,Manchester City,-0.19,
+Pedro Porro,Spurs,Burnley,2024-05-11,True,DR,90,1.0,0.17,0.0,0.03,9,4.0,1.0,8.9,1,0,1,0.75,True,2.6,0.05,79.5,0.15,1.41,2.51,19.42,0.15,1.0,Spurs,True,Manchester City,-0.19,-0.96
 Pedro Porro,Spurs,Manchester City,2024-05-14,True,DR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,2,2.4,True,2.2,0.06,79.84,0.15,1.41,2.51,19.42,0.15,14.0,Spurs,False,Sheffield,,-0.61
 Pedro Porro,Spurs,Sheffield,2024-05-19,False,DR,75,1.0,0.11,0.0,0.46,14,2.0,2.0,9.5,2,1,0,0.64,True,2.4,0.06,79.69,0.18,1.41,2.51,19.42,0.15,4.0,Spurs,False,Burnley,-3.2,0.0
 Pedro Porro,Spurs,Burnley,2023-09-02,False,DR,90,0.0,0.14,1.0,1.14,4,3.0,3.0,6.4,0,0,2,1.35,True,5.0,0.07,80.0,0.17,1.41,2.51,19.42,0.15,2.0,Spurs,True,Sheffield,-0.02,0.68

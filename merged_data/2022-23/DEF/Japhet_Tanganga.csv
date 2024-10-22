@@ -1,21 +1,21 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
 Japhet Tanganga,Spurs,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Spurs,False,Brighton,-2.68,-0.39
 Japhet Tanganga,Spurs,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Spurs,True,Everton,-5.21,0.34
-Japhet Tanganga,Spurs,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Spurs,False,Manchester United,4.8,
-Japhet Tanganga,Spurs,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Spurs,True,Newcastle United,-3.79,
+Japhet Tanganga,Spurs,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Spurs,False,Manchester United,4.8,-0.1
+Japhet Tanganga,Spurs,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Spurs,True,Newcastle United,-3.79,0.73
 Japhet Tanganga,Spurs,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Spurs,False,Bournemouth,,0.19
 Japhet Tanganga,Spurs,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Spurs,True,Liverpool,0.32,-0.53
-Japhet Tanganga,Spurs,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Spurs,True,Leicester City,-0.2,
+Japhet Tanganga,Spurs,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Spurs,True,Leicester City,-0.2,0.83
 Japhet Tanganga,Spurs,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1,Spurs,False,Brentford,1.4,-0.55
-Japhet Tanganga,Spurs,Brentford,2022-12-26,False,DC,66,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,2,1.95,True,0.0,0.0,7.33,0.0,0,0,0,0,0,Spurs,True,Aston Villa,-0.44,
-Japhet Tanganga,Spurs,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,6.6,0.0,0,0,0,0,0,Spurs,False,Crystal Palace,7.24,
+Japhet Tanganga,Spurs,Brentford,2022-12-26,False,DC,66,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,2,1.95,True,0.0,0.0,7.33,0.0,0,0,0,0,0,Spurs,True,Aston Villa,-0.44,0.55
+Japhet Tanganga,Spurs,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,6.6,0.0,0,0,0,0,0,Spurs,False,Crystal Palace,7.24,0.13
 Japhet Tanganga,Spurs,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,6.0,0.0,0,0,0,0,0,Spurs,False,Chelsea,3.74,-0.72
 Japhet Tanganga,Spurs,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,5.5,0.0,0,0,0,0,0,Spurs,True,Arsenal,-2.81,0.36
-Japhet Tanganga,Spurs,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,5.08,0.0,0,0,0,0,0,Spurs,False,Manchester City,-2.29,
+Japhet Tanganga,Spurs,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,5.08,0.0,0,0,0,0,0,Spurs,False,Manchester City,-2.29,-1.26
 Japhet Tanganga,Spurs,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.71,0.0,0,0,0,0,0,Spurs,False,Fulham,,1.37
-Japhet Tanganga,Spurs,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.4,0.0,0,0,0,0,0,Spurs,True,Manchester City,-0.19,
-Japhet Tanganga,Spurs,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.12,0.0,0,0,0,0,1,Spurs,False,Leeds United,1.08,
-Japhet Tanganga,Spurs,Leeds United,2023-02-11,False,DC,75,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,3,1.41,True,0.0,0.0,8.29,0.0,0,0,0,0,0,Spurs,True,West Ham,-1.58,
+Japhet Tanganga,Spurs,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.4,0.0,0,0,0,0,0,Spurs,True,Manchester City,-0.19,-1.17
+Japhet Tanganga,Spurs,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.12,0.0,0,0,0,0,1,Spurs,False,Leeds United,1.08,-0.8
+Japhet Tanganga,Spurs,Leeds United,2023-02-11,False,DC,75,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,3,1.41,True,0.0,0.0,8.29,0.0,0,0,0,0,0,Spurs,True,West Ham,-1.58,0.63
 Japhet Tanganga,Spurs,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,7.83,0.0,0,0,0,0,0,Spurs,True,Chelsea,5.76,-0.25
 Japhet Tanganga,Spurs,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,7.42,0.0,0,0,0,0,0,Spurs,False,Wolverhampton,-1.1,-0.46
 Japhet Tanganga,Spurs,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,7.05,0.0,0,0,0,0,0,Spurs,True,Nottingham Forest,,
@@ -24,16 +24,16 @@ Japhet Tanganga,Spurs,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,
 Japhet Tanganga,Spurs,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,6.13,0.0,0,0,0,0,0,Spurs,True,Wolverhampton,-0.85,-0.48
 Japhet Tanganga,Spurs,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,5.88,0.0,0,0,0,0,1,Spurs,True,Brighton,,-0.71
 Japhet Tanganga,Spurs,Brighton,2023-04-08,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.16,False,0.0,0.0,5.68,0.0,0,0,0,0,0,Spurs,True,Bournemouth,,1.46
-Japhet Tanganga,Spurs,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,5.46,0.0,0,0,0,0,0,Spurs,False,Newcastle United,0.79,
-Japhet Tanganga,Spurs,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,5.26,0.0,0,0,0,0,1,Spurs,True,Manchester United,5.3,
+Japhet Tanganga,Spurs,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,5.46,0.0,0,0,0,0,0,Spurs,False,Newcastle United,0.79,-0.34
+Japhet Tanganga,Spurs,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,5.26,0.0,0,0,0,0,1,Spurs,True,Manchester United,5.3,0.38
 Japhet Tanganga,Spurs,Manchester United,2023-04-27,True,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.17,False,0.2,0.0,5.18,0.0,0,0,0,0,0,Spurs,False,Liverpool,,-1.33
-Japhet Tanganga,Spurs,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,5.0,0.0,0,0,0,0,0,Spurs,True,Crystal Palace,-3.09,
-Japhet Tanganga,Spurs,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,4.83,0.0,0,0,0,0,0,Spurs,False,Aston Villa,,
+Japhet Tanganga,Spurs,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,5.0,0.0,0,0,0,0,0,Spurs,True,Crystal Palace,-3.09,0.81
+Japhet Tanganga,Spurs,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,4.83,0.0,0,0,0,0,0,Spurs,False,Aston Villa,,0.59
 Japhet Tanganga,Spurs,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.68,0.0,0,0,0,0,0,Spurs,True,Brentford,-3.15,0.69
-Japhet Tanganga,Spurs,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.53,0.0,0,0,0,0,0,Spurs,False,Leicester City,,
+Japhet Tanganga,Spurs,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.53,0.0,0,0,0,0,0,Spurs,False,Leicester City,,-0.05
 Japhet Tanganga,Spurs,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.39,0.0,0,0,0,0,0,Spurs,False,Nottingham Forest,-5.2,
-Japhet Tanganga,Spurs,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.26,0.0,0,0,0,0,0,Spurs,False,West Ham,2.68,
+Japhet Tanganga,Spurs,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.26,0.0,0,0,0,0,0,Spurs,False,West Ham,2.68,0.14
 Japhet Tanganga,Spurs,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.14,0.0,0,0,0,0,0,Spurs,True,Fulham,-1.52,-0.3
-Japhet Tanganga,Spurs,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.03,0.0,0,0,0,0,0,Spurs,True,Leeds United,-5.34,
+Japhet Tanganga,Spurs,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.03,0.0,0,0,0,0,0,Spurs,True,Leeds United,-5.34,-0.79
 Japhet Tanganga,Spurs,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.92,0.0,0,0,0,0,0,Spurs,False,Arsenal,2.45,-0.0
 Japhet Tanganga,Spurs,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.82,0.0,0,0,0,0,0,Spurs,False,Brentford,0.99,-0.55

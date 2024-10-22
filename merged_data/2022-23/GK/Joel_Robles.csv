@@ -1,19 +1,19 @@
 name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,saves_per_game,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,last_season_total_saves,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
 Joel Robles,Leeds,Crystal Palace,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,True,Arsenal,-2.44,0.36
-Joel Robles,Leeds,Arsenal,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,False,Leeds United,,
+Joel Robles,Leeds,Arsenal,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,False,Leeds United,,-0.8
 Joel Robles,Leeds,Leeds United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,True,Fulham,,-0.3
 Joel Robles,Leeds,Fulham,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,False,Liverpool,1.31,-1.33
 Joel Robles,Leeds,Liverpool,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,True,Bournemouth,,1.46
 Joel Robles,Leeds,Bournemouth,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,False,Tottenham,0.01,-0.03
-Joel Robles,Leeds,Tottenham,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,True,Manchester City,2.49,
-Joel Robles,Leeds,Manchester City,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,False,Newcastle United,-5.11,
-Joel Robles,Leeds,Newcastle United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,True,West Ham,-2.86,
+Joel Robles,Leeds,Tottenham,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,True,Manchester City,2.49,-1.17
+Joel Robles,Leeds,Manchester City,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,False,Newcastle United,-5.11,-0.34
+Joel Robles,Leeds,Newcastle United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,True,West Ham,-2.86,0.63
 Joel Robles,Leeds,West Ham,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,False,Southampton,-2.03,-1.07
-Joel Robles,Leeds,Southampton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,False,Aston Villa,-1.61,
+Joel Robles,Leeds,Southampton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,False,Aston Villa,-1.61,0.59
 Joel Robles,Leeds,Aston Villa,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,True,Brentford,-0.12,0.69
 Joel Robles,Leeds,Brentford,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,False,Nottingham Forest,,
-Joel Robles,Leeds,Nottingham Forest,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,False,Manchester United,2.58,
-Joel Robles,Leeds,Manchester United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,True,Manchester United,1.66,
+Joel Robles,Leeds,Nottingham Forest,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,False,Manchester United,2.58,-0.1
+Joel Robles,Leeds,Manchester United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,True,Manchester United,1.66,0.38
 Joel Robles,Leeds,Manchester United,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,False,Everton,1.15,-0.63
 Joel Robles,Leeds,Everton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,True,Southampton,-3.43,-0.38
 Joel Robles,Leeds,Southampton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,False,Chelsea,-1.33,-0.72
@@ -22,17 +22,17 @@ Joel Robles,Leeds,Brighton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,
 Joel Robles,Leeds,Wolverhampton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,False,Arsenal,0.14,-0.0
 Joel Robles,Leeds,Arsenal,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,True,Nottingham Forest,1.75,
 Joel Robles,Leeds,Nottingham Forest,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,True,Chelsea,-0.38,-0.25
-Joel Robles,Leeds,Chelsea,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,True,Crystal Palace,1.78,
+Joel Robles,Leeds,Chelsea,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,True,Crystal Palace,1.78,0.81
 Joel Robles,Leeds,Crystal Palace,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,True,Liverpool,0.62,-0.53
 Joel Robles,Leeds,Liverpool,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,False,Fulham,,1.37
-Joel Robles,Leeds,Fulham,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,True,Leeds United,,
+Joel Robles,Leeds,Fulham,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,True,Leeds United,,-0.79
 Joel Robles,Leeds,Leeds United,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Leeds,False,Bournemouth,0.09,0.19
-Joel Robles,Leeds,Bournemouth,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,2.0,Leeds,False,Manchester City,4.57,
-Joel Robles,Leeds,Manchester City,2023-05-06,False,90,2,2.47,4,0,2,0,False,0.0,True,0.0,0.0,0.13,0,0,0,0,1.0,Leeds,True,Newcastle United,-0.68,
-Joel Robles,Leeds,Newcastle United,2023-05-13,True,90,2,2.42,3,0,1,0,False,0.0,True,0.4,0.0,0.23,0,0,0,0,3.0,Leeds,False,West Ham,0.82,
+Joel Robles,Leeds,Bournemouth,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,2.0,Leeds,False,Manchester City,4.57,-1.26
+Joel Robles,Leeds,Manchester City,2023-05-06,False,90,2,2.47,4,0,2,0,False,0.0,True,0.0,0.0,0.13,0,0,0,0,1.0,Leeds,True,Newcastle United,-0.68,0.73
+Joel Robles,Leeds,Newcastle United,2023-05-13,True,90,2,2.42,3,0,1,0,False,0.0,True,0.4,0.0,0.23,0,0,0,0,3.0,Leeds,False,West Ham,0.82,0.14
 Joel Robles,Leeds,West Ham,2023-05-21,False,90,3,2.15,6,0,3,0,False,0.0,True,0.6,0.0,0.41,0,0,0,0,1.0,Leeds,True,Tottenham,-4.61,1.07
 Joel Robles,Leeds,Tottenham,2023-05-28,True,90,4,2.12,3,0,1,0,False,0.0,True,1.2,0.0,0.48,0,0,0,0,0.0,Leeds,False,Brighton,1.41,-0.39
 Joel Robles,Leeds,Brighton,,False,0,0,0.0,0,0,0,0,False,,False,1.4,0.0,0.47,0,0,0,0,0.0,Leeds,True,Everton,,0.34
 Joel Robles,Leeds,Everton,,True,0,0,0.0,0,0,0,0,False,,False,1.4,0.0,0.46,0,0,0,0,0.0,Leeds,False,Brentford,-0.35,-0.55
-Joel Robles,Leeds,Brentford,,False,0,0,0.0,0,0,0,0,False,,False,1.0,0.0,0.44,0,0,0,0,0.0,Leeds,True,Aston Villa,,
+Joel Robles,Leeds,Brentford,,False,0,0,0.0,0,0,0,0,False,,False,1.0,0.0,0.44,0,0,0,0,0.0,Leeds,True,Aston Villa,,0.55
 Joel Robles,Leeds,Aston Villa,,True,0,0,0.0,0,0,0,0,False,,False,0.8,0.0,0.43,0,0,0,0,,Man City,False,Burnley,,0.0

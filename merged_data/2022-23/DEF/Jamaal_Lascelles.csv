@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
 Jamaal Lascelles,Newcastle,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0,Newcastle,True,Brentford,-2.4,0.69
-Jamaal Lascelles,Newcastle,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1,Newcastle,False,Manchester United,1.2,
+Jamaal Lascelles,Newcastle,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1,Newcastle,False,Manchester United,1.2,-0.1
 Jamaal Lascelles,Newcastle,Manchester United,2022-10-16,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,False,0.0,0.0,0.33,0.0,0,0,0,0,0,Newcastle,True,Everton,-5.87,0.34
 Jamaal Lascelles,Newcastle,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.33,0.0,0.25,0.0,0,0,0,0,0,Newcastle,False,Tottenham,4.75,-0.03
-Jamaal Lascelles,Newcastle,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.25,0.0,0.2,0.0,0,0,0,0,1,Newcastle,True,Aston Villa,-2.14,
+Jamaal Lascelles,Newcastle,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.25,0.0,0.2,0.0,0,0,0,0,1,Newcastle,True,Aston Villa,-2.14,0.55
 Jamaal Lascelles,Newcastle,Aston Villa,2022-10-29,True,Sub,7,0.0,0.07,0.0,0.0,1,1.0,0.0,0.1,0,0,0,0.0,False,0.2,0.0,1.33,0.0,0,0,0,0,0,Newcastle,False,Southampton,-1.93,-1.07
 Jamaal Lascelles,Newcastle,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,1.14,0.0,0,0,0,0,-1,Newcastle,True,Chelsea,1.87,-0.25
-Jamaal Lascelles,Newcastle,Chelsea,,True,,0,,,,,-1,,,0.0,0,0,0,0.0,False,0.4,0.01,1.0,0.0,0,0,0,0,0,Newcastle,False,Leeds United,6.23,
-Jamaal Lascelles,Newcastle,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.89,0.0,0,0,0,0,0,Newcastle,True,Leicester City,-1.01,
+Jamaal Lascelles,Newcastle,Chelsea,,True,,0,,,,,-1,,,0.0,0,0,0,0.0,False,0.4,0.01,1.0,0.0,0,0,0,0,0,Newcastle,False,Leeds United,6.23,-0.8
+Jamaal Lascelles,Newcastle,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.89,0.0,0,0,0,0,0,Newcastle,True,Leicester City,-1.01,0.83
 Jamaal Lascelles,Newcastle,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.01,0.8,0.0,0,0,0,0,-1,Newcastle,False,Arsenal,2.9,-0.0
 Jamaal Lascelles,Newcastle,Arsenal,,False,,0,,,,,-1,,,0.0,0,0,0,0.0,False,0.0,0.01,0.73,0.0,0,0,0,0,0,Newcastle,False,Brighton,-0.9,-0.39
 Jamaal Lascelles,Newcastle,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,-0.4,0.0,0.67,0.0,0,0,0,0,0,Newcastle,True,Fulham,,-0.3
-Jamaal Lascelles,Newcastle,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,-0.4,0.0,0.62,0.0,0,0,0,0,0,Newcastle,False,Crystal Palace,-1.13,
-Jamaal Lascelles,Newcastle,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,-0.2,0.0,0.57,0.0,0,0,0,0,0,Newcastle,True,West Ham,0.49,
+Jamaal Lascelles,Newcastle,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,-0.4,0.0,0.62,0.0,0,0,0,0,0,Newcastle,False,Crystal Palace,-1.13,0.13
+Jamaal Lascelles,Newcastle,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,-0.2,0.0,0.57,0.0,0,0,0,0,0,Newcastle,True,West Ham,0.49,0.63
 Jamaal Lascelles,Newcastle,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,-0.2,0.0,0.53,0.0,0,0,0,0,0,Newcastle,False,Bournemouth,,0.19
 Jamaal Lascelles,Newcastle,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,-0.2,0.0,0.5,0.0,0,0,0,0,0,Newcastle,True,Liverpool,1.47,-0.53
-Jamaal Lascelles,Newcastle,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.47,0.0,0,0,0,0,0,Newcastle,False,Manchester City,4.63,
+Jamaal Lascelles,Newcastle,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.47,0.0,0,0,0,0,0,Newcastle,False,Manchester City,4.63,-1.26
 Jamaal Lascelles,Newcastle,Manchester City,2023-03-04,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.6,0,0,2,1.34,True,0.0,0.0,5.44,0.0,0,0,0,0,0,Newcastle,True,Wolverhampton,-2.98,-0.48
 Jamaal Lascelles,Newcastle,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,5.16,0.0,0,0,0,0,0,Newcastle,False,Nottingham Forest,,
-Jamaal Lascelles,Newcastle,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.9,0.0,0,0,0,0,0,Newcastle,True,Manchester United,-0.55,
-Jamaal Lascelles,Newcastle,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.67,0.0,0,0,0,0,0,Newcastle,False,West Ham,,
-Jamaal Lascelles,Newcastle,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.45,0.0,0,0,0,0,0,Newcastle,True,Manchester City,4.58,
+Jamaal Lascelles,Newcastle,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.9,0.0,0,0,0,0,0,Newcastle,True,Manchester United,-0.55,0.38
+Jamaal Lascelles,Newcastle,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.67,0.0,0,0,0,0,0,Newcastle,False,West Ham,,0.14
+Jamaal Lascelles,Newcastle,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.45,0.0,0,0,0,0,0,Newcastle,True,Manchester City,4.58,-1.17
 Jamaal Lascelles,Newcastle,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,4.26,0.0,0,0,0,0,1,Newcastle,False,Brentford,,-0.55
-Jamaal Lascelles,Newcastle,Brentford,2023-04-08,False,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.4,False,0.0,0.0,4.21,0.0,0,0,0,0,0,Newcastle,False,Aston Villa,3.3,
+Jamaal Lascelles,Newcastle,Brentford,2023-04-08,False,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.4,False,0.0,0.0,4.21,0.0,0,0,0,0,0,Newcastle,False,Aston Villa,3.3,0.59
 Jamaal Lascelles,Newcastle,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,4.04,0.0,0,0,0,0,1,Newcastle,True,Tottenham,-0.29,1.07
 Jamaal Lascelles,Newcastle,Tottenham,2023-04-23,True,Sub,16,0.0,0.05,0.0,0.0,1,1.0,0.0,0.9,0,0,0,0.34,False,0.2,0.0,4.5,0.0,0,0,0,0,0,Newcastle,False,Everton,,-0.63
 Jamaal Lascelles,Newcastle,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,4.33,0.0,0,0,0,0,0,Newcastle,True,Southampton,0.18,-0.38
 Jamaal Lascelles,Newcastle,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,4.18,0.0,0,0,0,0,0,Newcastle,True,Arsenal,,0.36
-Jamaal Lascelles,Newcastle,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,4.03,0.0,0,0,0,0,0,Newcastle,False,Leicester City,,
+Jamaal Lascelles,Newcastle,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,4.03,0.0,0,0,0,0,0,Newcastle,False,Leicester City,,-0.05
 Jamaal Lascelles,Newcastle,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.01,3.9,0.0,0,0,0,0,0,Newcastle,True,Brighton,,-0.71
-Jamaal Lascelles,Newcastle,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.01,3.77,0.0,0,0,0,0,0,Newcastle,True,Leeds United,,
+Jamaal Lascelles,Newcastle,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.01,3.77,0.0,0,0,0,0,0,Newcastle,True,Leeds United,,-0.79
 Jamaal Lascelles,Newcastle,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.66,0.0,0,0,0,0,0,Newcastle,False,Chelsea,,-0.72
 Jamaal Lascelles,Newcastle,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.55,0.0,0,0,0,0,0,Newcastle,False,Wolverhampton,1.1,-0.46
 Jamaal Lascelles,Newcastle,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,3.44,0.0,0,0,0,0,0,Newcastle,False,Liverpool,0.9,-1.33
-Jamaal Lascelles,Newcastle,Liverpool,2022-08-31,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.9,0,0,2,0.0,False,0.0,0.0,5.91,0.0,0,0,0,0,0,Newcastle,True,Crystal Palace,-0.56,
+Jamaal Lascelles,Newcastle,Liverpool,2022-08-31,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.9,0,0,2,0.0,False,0.0,0.0,5.91,0.0,0,0,0,0,0,Newcastle,True,Crystal Palace,-0.56,0.81
 Jamaal Lascelles,Newcastle,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,5.75,0.0,0,0,0,0,0,Newcastle,True,Bournemouth,2.6,1.46
 Jamaal Lascelles,Newcastle,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,5.59,0.0,0,0,0,0,1,Newcastle,False,Fulham,-1.62,1.37
-Jamaal Lascelles,Newcastle,Fulham,2022-10-01,False,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,0.0,False,0.0,0.0,5.63,0.0,0,0,0,0,0,Newcastle,True,Aston Villa,-4.4,
+Jamaal Lascelles,Newcastle,Fulham,2022-10-01,False,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,0.0,False,0.0,0.0,5.63,0.0,0,0,0,0,0,Newcastle,True,Aston Villa,-4.4,0.55

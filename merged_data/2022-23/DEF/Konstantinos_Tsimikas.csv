@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
 Konstantinos Tsimikas,Liverpool,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1,Liverpool,False,Arsenal,-2.38,-0.0
-Konstantinos Tsimikas,Liverpool,Arsenal,2022-10-09,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.0,0,0,3,0.0,False,0.0,0.0,45.0,0.0,0,0,0,0,1,Liverpool,True,Manchester City,0.85,
-Konstantinos Tsimikas,Liverpool,Manchester City,2022-10-16,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.5,0.0,30.33,0.0,0,0,0,0,9,Liverpool,True,West Ham,0.04,
+Konstantinos Tsimikas,Liverpool,Arsenal,2022-10-09,False,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.0,0,0,3,0.0,False,0.0,0.0,45.0,0.0,0,0,0,0,1,Liverpool,True,Manchester City,0.85,-1.17
+Konstantinos Tsimikas,Liverpool,Manchester City,2022-10-16,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.5,0.0,30.33,0.0,0,0,0,0,9,Liverpool,True,West Ham,0.04,0.63
 Konstantinos Tsimikas,Liverpool,West Ham,2022-10-19,True,DL,80,0.0,0.0,1.0,0.05,9,0.0,1.0,4.6,0,1,0,0.0,False,0.67,0.0,42.75,0.5,0,0,0,0,0,Liverpool,False,Nottingham Forest,,
-Konstantinos Tsimikas,Liverpool,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.75,0.25,34.2,0.5,0,0,0,0,0,Liverpool,True,Leicester City,-7.96,
+Konstantinos Tsimikas,Liverpool,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.75,0.25,34.2,0.5,0,0,0,0,0,Liverpool,True,Leicester City,-7.96,0.83
 Konstantinos Tsimikas,Liverpool,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.2,28.5,0.5,0,0,0,0,0,Liverpool,False,Tottenham,3.08,-0.03
 Konstantinos Tsimikas,Liverpool,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.2,24.43,0.5,0,0,0,0,1,Liverpool,True,Southampton,-3.78,-0.38
-Konstantinos Tsimikas,Liverpool,Southampton,2022-11-12,True,Sub,4,0.0,0.0,0.0,0.05,1,0.0,2.0,3.3,0,0,0,0.0,False,2.0,0.2,21.88,0.5,0,0,0,0,0,Liverpool,False,Aston Villa,1.3,
-Konstantinos Tsimikas,Liverpool,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.2,19.44,0.5,0,0,0,0,1,Liverpool,True,Leeds United,-2.07,
+Konstantinos Tsimikas,Liverpool,Southampton,2022-11-12,True,Sub,4,0.0,0.0,0.0,0.05,1,0.0,2.0,3.3,0,0,0,0.0,False,2.0,0.2,21.88,0.5,0,0,0,0,0,Liverpool,False,Aston Villa,1.3,0.59
+Konstantinos Tsimikas,Liverpool,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.2,19.44,0.5,0,0,0,0,1,Liverpool,True,Leeds United,-2.07,-0.79
 Konstantinos Tsimikas,Liverpool,Leeds United,2022-12-30,True,Sub,28,0.0,0.08,0.0,0.05,1,1.0,1.0,2.8,0,0,0,0.03,False,0.2,0.0,20.3,0.5,0,0,0,0,0,Liverpool,False,Brentford,4.84,-0.55
-Konstantinos Tsimikas,Liverpool,Brentford,2023-01-02,False,DL,45,0.0,0.44,0.0,0.15,0,3.0,2.0,10.4,0,0,2,1.44,True,0.4,0.02,22.55,0.5,0,0,0,0,0,Liverpool,True,Crystal Palace,-3.98,
+Konstantinos Tsimikas,Liverpool,Brentford,2023-01-02,False,DL,45,0.0,0.44,0.0,0.15,0,3.0,2.0,10.4,0,0,2,1.44,True,0.4,0.02,22.55,0.5,0,0,0,0,0,Liverpool,True,Crystal Palace,-3.98,0.81
 Konstantinos Tsimikas,Liverpool,Crystal Palace,2022-08-15,True,Sub,27,0.0,0.02,0.0,0.0,0,1.0,0.0,2.4,0,0,0,0.0,False,0.4,0.1,22.92,0.5,0,0,0,0,0,Liverpool,False,Brighton,-2.51,-0.39
 Konstantinos Tsimikas,Liverpool,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.11,21.15,0.5,0,0,0,0,0,Liverpool,True,Chelsea,0.29,-0.25
 Konstantinos Tsimikas,Liverpool,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.11,19.64,0.5,0,0,0,0,1,Liverpool,False,Wolverhampton,-0.13,-0.46
 Konstantinos Tsimikas,Liverpool,Wolverhampton,2023-02-04,False,Sub,4,0.0,0.0,0.0,0.01,1,0.0,1.0,1.9,0,0,0,0.55,False,0.2,0.11,18.6,0.5,0,0,0,0,0,Liverpool,True,Everton,-0.32,0.34
-Konstantinos Tsimikas,Liverpool,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.09,17.44,0.5,0,0,0,0,0,Liverpool,False,Newcastle United,-1.4,
-Konstantinos Tsimikas,Liverpool,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,16.41,0.5,0,0,0,0,0,Liverpool,False,Crystal Palace,-1.03,
+Konstantinos Tsimikas,Liverpool,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.09,17.44,0.5,0,0,0,0,0,Liverpool,False,Newcastle United,-1.4,-0.34
+Konstantinos Tsimikas,Liverpool,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,16.41,0.5,0,0,0,0,0,Liverpool,False,Crystal Palace,-1.03,0.13
 Konstantinos Tsimikas,Liverpool,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,15.5,0.5,0,0,0,0,11,Liverpool,True,Wolverhampton,0.05,-0.48
-Konstantinos Tsimikas,Liverpool,Wolverhampton,2023-03-01,True,DL,90,0.0,0.0,1.0,0.67,11,0.0,2.0,6.3,2,1,0,0.93,True,0.2,0.0,19.42,0.67,0,0,0,0,0,Liverpool,True,Manchester United,-4.04,
+Konstantinos Tsimikas,Liverpool,Wolverhampton,2023-03-01,True,DL,90,0.0,0.0,1.0,0.67,11,0.0,2.0,6.3,2,1,0,0.93,True,0.2,0.0,19.42,0.67,0,0,0,0,0,Liverpool,True,Manchester United,-4.04,0.38
 Konstantinos Tsimikas,Liverpool,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.4,0.2,18.45,0.67,0,0,0,0,0,Liverpool,False,Bournemouth,,0.19
-Konstantinos Tsimikas,Liverpool,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.2,17.57,0.67,0,0,0,0,1,Liverpool,False,Manchester City,,
+Konstantinos Tsimikas,Liverpool,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.2,17.57,0.67,0,0,0,0,1,Liverpool,False,Manchester City,,-1.26
 Konstantinos Tsimikas,Liverpool,Manchester City,2023-04-01,False,Sub,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,0.68,False,2.2,0.2,17.68,0.67,0,0,0,0,5,Liverpool,False,Chelsea,,-0.72
-Konstantinos Tsimikas,Liverpool,Chelsea,2023-04-04,False,DL,65,0.0,0.0,0.0,0.05,5,0.0,2.0,3.2,0,1,0,2.02,True,2.4,0.2,19.74,0.75,0,0,0,0,1,Liverpool,False,Manchester United,-0.0,
+Konstantinos Tsimikas,Liverpool,Chelsea,2023-04-04,False,DL,65,0.0,0.0,0.0,0.05,5,0.0,2.0,3.2,0,1,0,2.02,True,2.4,0.2,19.74,0.75,0,0,0,0,1,Liverpool,False,Manchester United,-0.0,-0.1
 Konstantinos Tsimikas,Liverpool,Manchester United,2022-08-22,False,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.0,False,3.4,0.2,19.12,0.75,0,0,0,0,0,Liverpool,True,Arsenal,-3.99,0.36
-Konstantinos Tsimikas,Liverpool,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,18.36,0.75,0,0,0,0,0,Liverpool,False,Leicester City,-5.24,
+Konstantinos Tsimikas,Liverpool,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,18.36,0.75,0,0,0,0,0,Liverpool,False,Leicester City,-5.24,-0.05
 Konstantinos Tsimikas,Liverpool,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,17.65,0.75,0,0,0,0,0,Liverpool,True,Nottingham Forest,,
-Konstantinos Tsimikas,Liverpool,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,17.0,0.75,0,0,0,0,0,Liverpool,False,West Ham,4.92,
+Konstantinos Tsimikas,Liverpool,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,17.0,0.75,0,0,0,0,0,Liverpool,False,West Ham,4.92,0.14
 Konstantinos Tsimikas,Liverpool,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.0,16.39,0.75,0,0,0,0,0,Liverpool,True,Tottenham,,1.07
 Konstantinos Tsimikas,Liverpool,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,15.83,0.75,0,0,0,0,6,Liverpool,True,Fulham,,-0.3
 Konstantinos Tsimikas,Liverpool,Fulham,2023-05-03,True,DL,65,0.0,0.0,0.0,0.0,6,0.0,0.0,0.5,0,1,0,0.44,True,0.0,0.0,17.47,0.8,0,0,0,0,1,Liverpool,True,Brentford,,0.69
-Konstantinos Tsimikas,Liverpool,Brentford,2023-05-06,True,Sub,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,False,1.2,0.0,17.16,0.8,0,0,0,0,0,Liverpool,False,Leeds United,1.77,
-Konstantinos Tsimikas,Liverpool,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,16.62,0.8,0,0,0,0,1,Liverpool,True,Aston Villa,-1.22,
+Konstantinos Tsimikas,Liverpool,Brentford,2023-05-06,True,Sub,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,False,1.2,0.0,17.16,0.8,0,0,0,0,0,Liverpool,False,Leeds United,1.77,-0.8
+Konstantinos Tsimikas,Liverpool,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,16.62,0.8,0,0,0,0,1,Liverpool,True,Aston Villa,-1.22,0.55
 Konstantinos Tsimikas,Liverpool,Aston Villa,2023-05-20,True,Sub,18,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,0,0.03,False,1.4,0.0,16.67,0.8,0,0,0,0,-1,Liverpool,False,Southampton,,-1.07
 Konstantinos Tsimikas,Liverpool,Southampton,2023-05-28,False,DL,56,0.0,0.0,0.0,0.05,-1,0.0,1.0,0.0,0,0,3,1.54,True,1.6,0.0,17.82,0.8,0,0,0,0,7,Liverpool,True,Bournemouth,-5.88,1.46
-Konstantinos Tsimikas,Liverpool,Bournemouth,2022-08-27,True,Sub,21,0.0,0.0,2.0,0.25,7,0.0,2.0,6.2,0,0,0,0.0,False,1.4,0.0,17.91,0.8,0,0,0,0,1,Liverpool,True,Newcastle United,0.08,
+Konstantinos Tsimikas,Liverpool,Bournemouth,2022-08-27,True,Sub,21,0.0,0.0,2.0,0.25,7,0.0,2.0,6.2,0,0,0,0.0,False,1.4,0.0,17.91,0.8,0,0,0,0,1,Liverpool,True,Newcastle United,0.08,0.73
 Konstantinos Tsimikas,Liverpool,Newcastle United,2022-08-31,True,Sub,19,0.0,0.0,0.0,0.01,1,0.0,1.0,3.0,0,0,0,0.0,False,1.6,0.4,17.94,0.8,0,0,0,0,1,Liverpool,False,Everton,-0.44,-0.63
 Konstantinos Tsimikas,Liverpool,Everton,2022-09-03,False,DL,58,0.0,0.07,0.0,0.03,1,2.0,2.0,6.2,0,0,0,0.0,False,1.6,0.4,19.03,0.8,0,0,0,0,0,Liverpool,True,Brighton,2.85,-0.71
 Konstantinos Tsimikas,Liverpool,Brighton,2022-10-01,True,DL,58,0.0,0.0,0.0,0.03,0,0.0,1.0,3.4,0,0,2,0.0,False,1.8,0.41,20.05,0.8,0,0,0,0,0,Liverpool,False,Chelsea,,-0.72

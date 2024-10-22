@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
 Cheikhou Kouyaté,Nott'm Forest,Arsenal,2023-08-12,False,Sub,1,0.0,0.02,0.0,0.0,1,1.0,0.0,0.5,0,0,0,False,0.0,0.0,1.0,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,False,Liverpool,1.21,-1.01
-Cheikhou Kouyaté,Nott'm Forest,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.02,0.5,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,Aston Villa,-1.24,
-Cheikhou Kouyaté,Nott'm Forest,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.5,0.01,0.33,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,False,West Ham,5.53,
+Cheikhou Kouyaté,Nott'm Forest,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.02,0.5,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,Aston Villa,-1.24,0.64
+Cheikhou Kouyaté,Nott'm Forest,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.5,0.01,0.33,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,False,West Ham,5.53,-0.22
 Cheikhou Kouyaté,Nott'm Forest,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.33,0.01,0.25,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,Brighton,-4.68,-0.66
 Cheikhou Kouyaté,Nott'm Forest,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.25,0.0,0.2,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,Everton,0.17,0.53
 Cheikhou Kouyaté,Nott'm Forest,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,0.17,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,False,Fulham,3.69,0.86
 Cheikhou Kouyaté,Nott'm Forest,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.14,1.0,0.0,0.19,1.01,0.04,1.0,Nott'm Forest,False,Wolverhampton,1.27,-0.52
 Cheikhou Kouyaté,Nott'm Forest,Wolverhampton,2023-12-09,False,MC,62,0.0,0.33,0.0,0.0,1,2.0,0.0,1.7,0,0,1,True,0.0,0.0,7.88,1.0,0.0,0.19,1.01,0.04,2.0,Nott'm Forest,True,Tottenham,5.64,0.69
 Cheikhou Kouyaté,Nott'm Forest,Tottenham,2023-12-15,True,MC,67,0.0,0.0,0.0,0.0,2,0.0,0.0,0.7,0,0,2,True,0.2,0.07,14.44,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,Bournemouth,0.55,1.22
-Cheikhou Kouyaté,Nott'm Forest,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.07,13.0,1.0,0.0,0.19,1.01,0.04,1.0,Nott'm Forest,False,Newcastle United,1.35,
+Cheikhou Kouyaté,Nott'm Forest,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.07,13.0,1.0,0.0,0.19,1.01,0.04,1.0,Nott'm Forest,False,Newcastle United,1.35,-0.41
 Cheikhou Kouyaté,Nott'm Forest,Newcastle United,2023-12-26,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.6,0.07,11.91,1.0,0.0,0.19,1.01,0.04,1.0,Nott'm Forest,True,Sheffield,,0.68
-Cheikhou Kouyaté,Nott'm Forest,Sheffield,2023-08-18,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.8,0.07,11.0,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,Manchester United,2.69,
+Cheikhou Kouyaté,Nott'm Forest,Sheffield,2023-08-18,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.8,0.07,11.0,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,Manchester United,2.69,0.38
 Cheikhou Kouyaté,Nott'm Forest,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.07,10.15,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,False,Brentford,1.0,-0.53
 Cheikhou Kouyaté,Nott'm Forest,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.0,9.43,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,Arsenal,-2.77,-0.11
 Cheikhou Kouyaté,Nott'm Forest,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,8.8,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,False,Bournemouth,1.05,0.19
-Cheikhou Kouyaté,Nott'm Forest,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,8.25,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,Newcastle United,1.26,
-Cheikhou Kouyaté,Nott'm Forest,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,7.76,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,West Ham,-1.34,
-Cheikhou Kouyaté,Nott'm Forest,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.33,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,False,Aston Villa,2.3,
+Cheikhou Kouyaté,Nott'm Forest,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,8.25,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,Newcastle United,1.26,0.55
+Cheikhou Kouyaté,Nott'm Forest,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,7.76,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,West Ham,-1.34,0.49
+Cheikhou Kouyaté,Nott'm Forest,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.33,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,False,Aston Villa,2.3,0.29
 Cheikhou Kouyaté,Nott'm Forest,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.95,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,Liverpool,-3.15,0.18
 Cheikhou Kouyaté,Nott'm Forest,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,6.6,1.0,0.0,0.19,1.01,0.04,1.0,Nott'm Forest,False,Brighton,0.45,-0.6
 Cheikhou Kouyaté,Nott'm Forest,Brighton,2024-03-10,False,Sub,3,0.0,0.02,0.0,0.0,1,1.0,0.0,0.1,0,0,0,False,0.0,0.0,6.43,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,False,Luton,,
-Cheikhou Kouyaté,Nott'm Forest,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.14,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,False,Manchester United,1.16,
-Cheikhou Kouyaté,Nott'm Forest,Manchester United,2023-08-26,False,Sub,20,0.0,0.0,0.0,0.0,0,0.0,0.0,0.8,0,0,1,False,0.2,0.0,6.74,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,Crystal Palace,-1.59,
+Cheikhou Kouyaté,Nott'm Forest,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.14,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,False,Manchester United,1.16,-0.63
+Cheikhou Kouyaté,Nott'm Forest,Manchester United,2023-08-26,False,Sub,20,0.0,0.0,0.0,0.0,0,0.0,0.0,0.8,0,0,1,False,0.2,0.0,6.74,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,Crystal Palace,-1.59,0.88
 Cheikhou Kouyaté,Nott'm Forest,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.46,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,Fulham,0.28,-0.13
 Cheikhou Kouyaté,Nott'm Forest,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.2,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,False,Tottenham,,-0.36
 Cheikhou Kouyaté,Nott'm Forest,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,5.96,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,Wolverhampton,,0.05
 Cheikhou Kouyaté,Nott'm Forest,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.74,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,False,Everton,0.64,-0.24
-Cheikhou Kouyaté,Nott'm Forest,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.54,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,Manchester City,,
+Cheikhou Kouyaté,Nott'm Forest,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.54,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,Manchester City,,-0.96
 Cheikhou Kouyaté,Nott'm Forest,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.34,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,False,Sheffield,,-0.61
 Cheikhou Kouyaté,Nott'm Forest,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.17,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,Chelsea,0.67,-0.25
 Cheikhou Kouyaté,Nott'm Forest,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.0,1.0,0.0,0.19,1.01,0.04,1.0,Nott'm Forest,False,Burnley,,0.0
 Cheikhou Kouyaté,Nott'm Forest,Burnley,2024-05-19,False,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,4.91,1.0,0.0,0.19,1.01,0.04,1.0,Nott'm Forest,False,Chelsea,-1.91,-0.85
 Cheikhou Kouyaté,Nott'm Forest,Chelsea,2023-09-02,False,Sub,17,0.0,0.0,0.0,0.06,1,0.0,1.0,2.0,0,0,0,False,0.2,0.0,5.27,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,True,Burnley,1.01,0.39
-Cheikhou Kouyaté,Nott'm Forest,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,5.12,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,False,Manchester City,4.87,
+Cheikhou Kouyaté,Nott'm Forest,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,5.12,1.0,0.0,0.19,1.01,0.04,0.0,Nott'm Forest,False,Manchester City,4.87,-1.32
 Cheikhou Kouyaté,Nott'm Forest,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,4.97,1.0,0.0,0.19,1.01,0.04,1.0,Nott'm Forest,True,Brentford,0.39,0.79
-Cheikhou Kouyaté,Nott'm Forest,Brentford,2023-10-01,True,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,0.4,0.0,5.19,1.0,0.0,0.19,1.01,0.04,1.0,Nott'm Forest,False,Crystal Palace,2.44,
+Cheikhou Kouyaté,Nott'm Forest,Brentford,2023-10-01,True,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,0.4,0.0,5.19,1.0,0.0,0.19,1.01,0.04,1.0,Nott'm Forest,False,Crystal Palace,2.44,0.38
 Cheikhou Kouyaté,Nott'm Forest,Crystal Palace,2023-10-07,False,Sub,7,0.0,0.03,0.0,0.0,1,1.0,0.0,0.2,0,0,0,False,0.6,0.0,5.24,1.0,0.0,0.19,1.01,0.04,1.0,Nott'm Forest,True,Luton,-1.73,
 Cheikhou Kouyaté,Nott'm Forest,Luton,2023-10-21,True,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,2,False,0.6,0.01,5.42,1.0,0.0,0.19,1.01,0.04,,,,,,

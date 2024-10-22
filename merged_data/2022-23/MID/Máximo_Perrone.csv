@@ -1,17 +1,17 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Máximo Perrone,Man City,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Man City,True,Aston Villa,0.75,
+Máximo Perrone,Man City,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Man City,True,Aston Villa,0.75,0.55
 Máximo Perrone,Man City,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Man City,False,Arsenal,-0.86,-0.0
 Máximo Perrone,Man City,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Man City,False,Nottingham Forest,,
 Máximo Perrone,Man City,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,1,Man City,False,Bournemouth,,0.19
-Máximo Perrone,Man City,Bournemouth,2023-02-25,False,Sub,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,1,False,0.0,0.0,3.6,0,0,0,0,0,0,Man City,True,Newcastle United,-4.65,
-Máximo Perrone,Man City,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,3.0,0,0,0,0,0,0,Man City,False,Crystal Palace,-0.84,
+Máximo Perrone,Man City,Bournemouth,2023-02-25,False,Sub,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,1,False,0.0,0.0,3.6,0,0,0,0,0,0,Man City,True,Newcastle United,-4.65,0.73
+Máximo Perrone,Man City,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,3.0,0,0,0,0,0,0,Man City,False,Crystal Palace,-0.84,0.13
 Máximo Perrone,Man City,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,2.57,0,0,0,0,0,0,Man City,True,Liverpool,0.31,-0.53
 Máximo Perrone,Man City,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,2.25,0,0,0,0,0,0,Man City,False,Southampton,2.42,-1.07
-Máximo Perrone,Man City,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,2.0,0,0,0,0,0,0,Man City,True,Leeds United,0.66,
+Máximo Perrone,Man City,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,2.0,0,0,0,0,0,0,Man City,True,Leeds United,0.66,-0.79
 Máximo Perrone,Man City,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.8,0,0,0,0,0,0,Man City,True,Arsenal,-4.53,0.36
 Máximo Perrone,Man City,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.64,0,0,0,0,0,0,Man City,False,Fulham,,1.37
-Máximo Perrone,Man City,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.5,0,0,0,0,0,0,Man City,True,West Ham,-2.19,
-Máximo Perrone,Man City,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.38,0,0,0,0,0,0,Man City,True,Leicester City,-6.74,
+Máximo Perrone,Man City,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.5,0,0,0,0,0,0,Man City,True,West Ham,-2.19,0.63
+Máximo Perrone,Man City,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.38,0,0,0,0,0,0,Man City,True,Leicester City,-6.74,0.83
 Máximo Perrone,Man City,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.29,0,0,0,0,0,0,Man City,False,Everton,-2.09,-0.63
 Máximo Perrone,Man City,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.2,0,0,0,0,0,0,Man City,True,Chelsea,-1.27,-0.25
 Máximo Perrone,Man City,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.12,0,0,0,0,0,0,Man City,False,Brighton,-5.24,-0.39

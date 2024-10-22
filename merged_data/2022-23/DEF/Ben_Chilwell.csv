@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
 Ben Chilwell,Chelsea,Everton,2022-08-06,False,DML,64,0.0,0.0,0.0,0.0,9,0.0,0.0,1.0,0,1,0,0.0,False,0.0,0.0,64.0,1.0,0,0,0,0,0,Chelsea,True,Wolverhampton,2.42,-0.48
-Ben Chilwell,Chelsea,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,9.0,0.0,32.0,1.0,0,0,0,0,5,Chelsea,False,Aston Villa,-1.51,
+Ben Chilwell,Chelsea,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,9.0,0.0,32.0,1.0,0,0,0,0,5,Chelsea,False,Aston Villa,-1.51,0.59
 Ben Chilwell,Chelsea,Aston Villa,2022-10-16,False,DML,90,0.0,0.0,0.0,0.0,5,0.0,0.0,0.6,0,1,0,0.0,False,4.5,0.0,51.33,1.0,0,0,0,0,0,Chelsea,False,Brentford,-0.66,-0.55
-Ben Chilwell,Chelsea,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,4.67,0.0,38.5,1.0,0,0,0,0,2,Chelsea,True,Manchester United,-0.06,
+Ben Chilwell,Chelsea,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,4.67,0.0,38.5,1.0,0,0,0,0,2,Chelsea,True,Manchester United,-0.06,0.38
 Ben Chilwell,Chelsea,Manchester United,2022-10-22,True,DML,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,0.0,False,3.5,0.0,48.8,0.67,0,0,0,0,1,Chelsea,False,Brighton,0.05,-0.39
 Ben Chilwell,Chelsea,Brighton,2022-10-29,False,Sub,26,0.0,0.02,0.0,0.0,1,1.0,0.0,0.6,0,0,1,0.0,False,3.2,0.0,45.0,0.67,0,0,0,0,0,Chelsea,True,Arsenal,5.81,0.36
-Ben Chilwell,Chelsea,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.0,38.57,0.67,0,0,0,0,0,Chelsea,False,Newcastle United,-1.55,
+Ben Chilwell,Chelsea,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.0,38.57,0.67,0,0,0,0,0,Chelsea,False,Newcastle United,-1.55,-0.34
 Ben Chilwell,Chelsea,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.0,33.75,0.67,0,0,0,0,0,Chelsea,True,Bournemouth,,1.46
 Ben Chilwell,Chelsea,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,30.0,0.67,0,0,0,0,0,Chelsea,False,Nottingham Forest,,
-Ben Chilwell,Chelsea,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,27.0,0.67,0,0,0,0,0,Chelsea,True,Manchester City,1.05,
+Ben Chilwell,Chelsea,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,27.0,0.67,0,0,0,0,0,Chelsea,True,Manchester City,1.05,-1.17
 Ben Chilwell,Chelsea,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,24.55,0.67,0,0,0,0,0,Chelsea,False,Fulham,,1.37
 Ben Chilwell,Chelsea,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,22.5,0.67,0,0,0,0,0,Chelsea,True,Tottenham,-1.77,1.07
-Ben Chilwell,Chelsea,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,20.77,0.67,0,0,0,0,0,Chelsea,True,Crystal Palace,0.31,
+Ben Chilwell,Chelsea,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,20.77,0.67,0,0,0,0,0,Chelsea,True,Crystal Palace,0.31,0.81
 Ben Chilwell,Chelsea,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,19.29,0.67,0,0,0,0,0,Chelsea,False,Liverpool,0.32,-1.33
 Ben Chilwell,Chelsea,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,18.0,0.67,0,0,0,0,1,Chelsea,True,Fulham,,-0.3
-Ben Chilwell,Chelsea,Fulham,2023-02-03,True,Sub,6,0.0,0.0,0.0,0.11,1,0.0,1.0,1.6,0,0,0,0.09,False,0.0,0.0,17.25,0.67,0,0,0,0,1,Chelsea,False,West Ham,4.47,
+Ben Chilwell,Chelsea,Fulham,2023-02-03,True,Sub,6,0.0,0.0,0.0,0.11,1,0.0,1.0,1.6,0,0,0,0.09,False,0.0,0.0,17.25,0.67,0,0,0,0,1,Chelsea,False,West Ham,4.47,0.14
 Ben Chilwell,Chelsea,West Ham,2023-02-11,False,Sub,23,0.0,0.0,0.0,0.03,1,0.0,1.0,2.7,0,0,0,0.14,False,0.2,0.0,17.59,0.67,0,0,0,0,2,Chelsea,True,Southampton,-1.13,-0.38
 Ben Chilwell,Chelsea,Southampton,2023-02-18,True,DL,83,0.0,0.01,0.0,0.0,2,1.0,0.0,1.3,0,0,1,0.83,True,0.4,0.0,21.22,0.5,0,0,0,0,1,Chelsea,False,Tottenham,-1.69,-0.03
-Ben Chilwell,Chelsea,Tottenham,2023-02-26,False,DL,90,0.0,0.02,0.0,0.01,1,1.0,1.0,3.9,0,0,2,0.71,True,0.8,0.0,24.84,0.4,0,0,0,0,10,Chelsea,True,Leicester City,1.12,
-Ben Chilwell,Chelsea,Leicester City,2023-03-04,True,DML,90,0.0,0.42,1.0,0.17,10,2.0,2.0,8.2,1,1,0,0.94,True,1.0,0.01,28.1,0.5,0,0,0,0,8,Chelsea,False,Leeds United,-3.0,
+Ben Chilwell,Chelsea,Tottenham,2023-02-26,False,DL,90,0.0,0.02,0.0,0.01,1,1.0,1.0,3.9,0,0,2,0.71,True,0.8,0.0,24.84,0.4,0,0,0,0,10,Chelsea,True,Leicester City,1.12,0.83
+Ben Chilwell,Chelsea,Leicester City,2023-03-04,True,DML,90,0.0,0.42,1.0,0.17,10,2.0,2.0,8.2,1,1,0,0.94,True,1.0,0.01,28.1,0.5,0,0,0,0,8,Chelsea,False,Leeds United,-3.0,-0.8
 Ben Chilwell,Chelsea,Leeds United,2023-03-11,False,DML,72,1.0,0.03,0.0,0.19,8,1.0,3.0,9.9,0,0,1,2.08,True,3.0,0.29,30.19,0.43,0,0,0,0,1,Chelsea,True,Everton,1.01,0.34
-Ben Chilwell,Chelsea,Everton,2023-03-18,True,DML,90,0.0,0.04,0.0,0.33,1,1.0,4.0,10.9,0,0,2,1.43,True,4.4,0.3,32.91,0.38,0,0,0,0,0,Chelsea,True,Aston Villa,-2.49,
+Ben Chilwell,Chelsea,Everton,2023-03-18,True,DML,90,0.0,0.04,0.0,0.33,1,1.0,4.0,10.9,0,0,2,1.43,True,4.4,0.3,32.91,0.38,0,0,0,0,0,Chelsea,True,Aston Villa,-2.49,0.55
 Ben Chilwell,Chelsea,Aston Villa,2023-04-01,True,DML,90,0.0,0.14,0.0,0.12,0,4.0,2.0,5.7,0,0,2,0.81,True,4.4,0.31,35.39,0.33,0,0,0,0,9,Chelsea,True,Liverpool,,-0.53
-Ben Chilwell,Chelsea,Liverpool,2023-04-04,True,DML,77,0.0,0.0,0.0,0.73,9,0.0,3.0,5.0,3,1,0,0.35,True,4.0,0.33,37.12,0.4,0,0,0,0,1,Chelsea,False,Leicester City,5.06,
+Ben Chilwell,Chelsea,Liverpool,2023-04-04,True,DML,77,0.0,0.0,0.0,0.73,9,0.0,3.0,5.0,3,1,0,0.35,True,4.0,0.33,37.12,0.4,0,0,0,0,1,Chelsea,False,Leicester City,5.06,-0.05
 Ben Chilwell,Chelsea,Leicester City,2022-08-21,False,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.0,False,5.6,0.33,36.16,0.4,0,0,0,0,0,Chelsea,False,Wolverhampton,0.77,-0.46
 Ben Chilwell,Chelsea,Wolverhampton,2023-04-08,False,Sub,22,0.0,0.03,0.0,0.0,0,1.0,0.0,0.3,0,0,0,0.0,False,3.8,0.04,35.62,0.4,0,0,0,0,1,Chelsea,True,Brighton,,-0.71
 Ben Chilwell,Chelsea,Brighton,2023-04-15,True,DL,90,0.0,0.1,0.0,0.12,1,1.0,2.0,4.4,0,0,2,2.28,True,2.2,0.04,37.63,0.36,0,0,0,0,1,Chelsea,True,Brentford,,0.69
 Ben Chilwell,Chelsea,Brentford,2023-04-26,True,DML,90,0.0,0.0,0.0,0.06,1,0.0,1.0,4.6,0,0,2,1.05,True,2.2,0.05,39.5,0.33,0,0,0,0,1,Chelsea,False,Arsenal,-1.77,-0.0
 Ben Chilwell,Chelsea,Arsenal,2023-05-02,False,DL,90,0.0,0.26,0.0,0.0,1,1.0,0.0,4.1,0,0,3,2.11,True,2.4,0.03,41.24,0.31,0,0,0,0,2,Chelsea,False,Bournemouth,,0.19
 Ben Chilwell,Chelsea,Bournemouth,2023-05-06,False,DL,74,0.0,0.0,0.0,0.0,2,0.0,0.0,3.3,0,0,1,0.8,True,0.8,0.08,42.33,0.29,0,0,0,0,0,Chelsea,True,Nottingham Forest,,
-Ben Chilwell,Chelsea,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.08,40.97,0.29,0,0,0,0,0,Chelsea,False,Manchester City,,
-Ben Chilwell,Chelsea,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.07,39.69,0.29,0,0,0,0,0,Chelsea,False,Manchester United,,
-Ben Chilwell,Chelsea,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.05,38.48,0.29,0,0,0,0,0,Chelsea,True,Newcastle United,,
-Ben Chilwell,Chelsea,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.05,37.35,0.29,0,0,0,0,1,Chelsea,True,Leeds United,-3.8,
+Ben Chilwell,Chelsea,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.08,40.97,0.29,0,0,0,0,0,Chelsea,False,Manchester City,,-1.26
+Ben Chilwell,Chelsea,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.07,39.69,0.29,0,0,0,0,0,Chelsea,False,Manchester United,,-0.1
+Ben Chilwell,Chelsea,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.05,38.48,0.29,0,0,0,0,0,Chelsea,True,Newcastle United,,0.73
+Ben Chilwell,Chelsea,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.05,37.35,0.29,0,0,0,0,1,Chelsea,True,Leeds United,-3.8,-0.79
 Ben Chilwell,Chelsea,Leeds United,2022-08-27,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,False,0.4,0.0,36.31,0.29,0,0,0,0,1,Chelsea,False,Southampton,0.63,-1.07
-Ben Chilwell,Chelsea,Southampton,2022-08-30,False,Sub,23,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,0,0.0,False,0.2,0.0,35.94,0.29,0,0,0,0,10,Chelsea,True,West Ham,-1.25,
-Ben Chilwell,Chelsea,West Ham,2022-09-03,True,Sub,18,1.0,0.34,1.0,0.12,10,1.0,1.0,9.4,0,0,0,0.0,False,0.4,0.0,35.46,0.29,0,0,0,0,2,Chelsea,False,Crystal Palace,-1.84,
+Ben Chilwell,Chelsea,Southampton,2022-08-30,False,Sub,23,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,0,0.0,False,0.2,0.0,35.94,0.29,0,0,0,0,10,Chelsea,True,West Ham,-1.25,0.63
+Ben Chilwell,Chelsea,West Ham,2022-09-03,True,Sub,18,1.0,0.34,1.0,0.12,10,1.0,1.0,9.4,0,0,0,0.0,False,0.4,0.0,35.46,0.29,0,0,0,0,2,Chelsea,False,Crystal Palace,-1.84,0.13
 Ben Chilwell,Chelsea,Crystal Palace,2022-10-01,False,DL,90,0.0,0.03,0.0,0.0,2,1.0,0.0,2.6,0,0,1,0.0,False,2.4,0.27,36.89,0.27,0,0,0,0,7,Chelsea,True,Liverpool,,-0.53

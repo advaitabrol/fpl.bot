@@ -1,24 +1,24 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Denis Zakaria,Chelsea,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Aston Villa,-1.51,
+Denis Zakaria,Chelsea,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Aston Villa,-1.51,0.59
 Denis Zakaria,Chelsea,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Brentford,-0.66,-0.55
-Denis Zakaria,Chelsea,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Manchester United,-0.06,
+Denis Zakaria,Chelsea,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Manchester United,-0.06,0.38
 Denis Zakaria,Chelsea,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Brighton,0.05,-0.39
 Denis Zakaria,Chelsea,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Arsenal,5.81,0.36
-Denis Zakaria,Chelsea,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Newcastle United,-1.55,
+Denis Zakaria,Chelsea,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Newcastle United,-1.55,-0.34
 Denis Zakaria,Chelsea,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,3.0,Chelsea,True,Bournemouth,,1.46
 Denis Zakaria,Chelsea,Bournemouth,2022-12-27,True,MC,81,0.0,0.24,0.0,0.0,3,2.0,0.0,3.4,0,1,0,True,0.0,0.0,10.12,0,0,0,0,0,3.0,Chelsea,False,Nottingham Forest,,
-Denis Zakaria,Chelsea,Nottingham Forest,2023-01-01,False,MC,60,0.0,0.0,0.0,0.0,3,0.0,0.0,0.4,0,1,0,True,0.6,0.05,15.67,0,0,0,0,0,2.0,Chelsea,True,Manchester City,1.05,
+Denis Zakaria,Chelsea,Nottingham Forest,2023-01-01,False,MC,60,0.0,0.0,0.0,0.0,3,0.0,0.0,0.4,0,1,0,True,0.6,0.05,15.67,0,0,0,0,0,2.0,Chelsea,True,Manchester City,1.05,-1.17
 Denis Zakaria,Chelsea,Manchester City,2023-01-05,True,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.6,0,0,1,True,1.2,0.05,23.1,0,0,0,0,0,1.0,Chelsea,False,Fulham,,1.37
-Denis Zakaria,Chelsea,Fulham,2023-01-12,False,MC,55,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1,True,1.6,0.05,26.0,0,0,0,0,0,0.0,Chelsea,True,Crystal Palace,0.31,
+Denis Zakaria,Chelsea,Fulham,2023-01-12,False,MC,55,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1,True,1.6,0.05,26.0,0,0,0,0,0,0.0,Chelsea,True,Crystal Palace,0.31,0.81
 Denis Zakaria,Chelsea,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.05,23.83,0,0,0,0,0,0.0,Chelsea,False,Liverpool,0.32,-1.33
 Denis Zakaria,Chelsea,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.05,22.0,0,0,0,0,0,0.0,Chelsea,True,Fulham,,-0.3
-Denis Zakaria,Chelsea,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.0,20.43,0,0,0,0,0,0.0,Chelsea,False,West Ham,4.47,
+Denis Zakaria,Chelsea,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.0,20.43,0,0,0,0,0,0.0,Chelsea,False,West Ham,4.47,0.14
 Denis Zakaria,Chelsea,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,19.07,0,0,0,0,0,0.0,Chelsea,True,Southampton,-1.13,-0.38
 Denis Zakaria,Chelsea,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,17.88,0,0,0,0,0,1.0,Chelsea,False,Tottenham,-1.69,-0.03
-Denis Zakaria,Chelsea,Tottenham,2023-02-26,False,Sub,28,0.0,0.0,0.0,0.02,1,0.0,1.0,1.8,0,0,1,False,0.0,0.0,18.47,0,0,0,0,0,1.0,Chelsea,True,Leicester City,1.12,
-Denis Zakaria,Chelsea,Leicester City,2023-03-04,True,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,0,False,0.2,0.0,18.67,0,0,0,0,0,0.0,Chelsea,False,Leeds United,-3.0,
+Denis Zakaria,Chelsea,Tottenham,2023-02-26,False,Sub,28,0.0,0.0,0.0,0.02,1,0.0,1.0,1.8,0,0,1,False,0.0,0.0,18.47,0,0,0,0,0,1.0,Chelsea,True,Leicester City,1.12,0.83
+Denis Zakaria,Chelsea,Leicester City,2023-03-04,True,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,0,False,0.2,0.0,18.67,0,0,0,0,0,0.0,Chelsea,False,Leeds United,-3.0,-0.8
 Denis Zakaria,Chelsea,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,17.68,0,0,0,0,0,0.0,Chelsea,True,Everton,1.01,0.34
-Denis Zakaria,Chelsea,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,16.8,0,0,0,0,0,0.0,Chelsea,True,Aston Villa,-2.49,
+Denis Zakaria,Chelsea,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,16.8,0,0,0,0,0,0.0,Chelsea,True,Aston Villa,-2.49,0.55
 Denis Zakaria,Chelsea,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,16.0,0,0,0,0,0,0.0,Chelsea,True,Liverpool,,-0.53
 Denis Zakaria,Chelsea,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,15.27,0,0,0,0,0,0.0,Chelsea,False,Wolverhampton,0.77,-0.46
 Denis Zakaria,Chelsea,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,14.61,0,0,0,0,0,2.0,Chelsea,True,Brighton,,-0.71
@@ -26,9 +26,9 @@ Denis Zakaria,Chelsea,Brighton,2023-04-15,True,DMC,73,0.0,0.0,0.0,0.0,2,0.0,0.0,
 Denis Zakaria,Chelsea,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,16.36,0,0,0,0,0,0.0,Chelsea,False,Arsenal,-1.77,-0.0
 Denis Zakaria,Chelsea,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,15.73,0,0,0,0,0,0.0,Chelsea,False,Bournemouth,,0.19
 Denis Zakaria,Chelsea,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,15.15,0,0,0,0,0,0.0,Chelsea,True,Nottingham Forest,,
-Denis Zakaria,Chelsea,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,14.61,0,0,0,0,0,0.0,Chelsea,False,Manchester City,,
-Denis Zakaria,Chelsea,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,14.1,0,0,0,0,0,0.0,Chelsea,False,Manchester United,,
-Denis Zakaria,Chelsea,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,13.63,0,0,0,0,0,0.0,Chelsea,True,Newcastle United,,
-Denis Zakaria,Chelsea,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,13.19,0,0,0,0,0,0.0,Chelsea,True,West Ham,-1.25,
-Denis Zakaria,Chelsea,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,12.78,0,0,0,0,0,0.0,Chelsea,False,Crystal Palace,-1.84,
-Denis Zakaria,Chelsea,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,12.39,0,0,0,0,0,,Wolves,False,Manchester United,-0.63,
+Denis Zakaria,Chelsea,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,14.61,0,0,0,0,0,0.0,Chelsea,False,Manchester City,,-1.26
+Denis Zakaria,Chelsea,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,14.1,0,0,0,0,0,0.0,Chelsea,False,Manchester United,,-0.1
+Denis Zakaria,Chelsea,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,13.63,0,0,0,0,0,0.0,Chelsea,True,Newcastle United,,0.73
+Denis Zakaria,Chelsea,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,13.19,0,0,0,0,0,0.0,Chelsea,True,West Ham,-1.25,0.63
+Denis Zakaria,Chelsea,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,12.78,0,0,0,0,0,0.0,Chelsea,False,Crystal Palace,-1.84,0.13
+Denis Zakaria,Chelsea,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,12.39,0,0,0,0,0,,Wolves,False,Manchester United,-0.63,-0.1

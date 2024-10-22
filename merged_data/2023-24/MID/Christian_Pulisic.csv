@@ -1,38 +1,38 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
 Christian Pulisic,Chelsea,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Brentford,4.46,0.79
 Christian Pulisic,Chelsea,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Tottenham,0.52,-0.36
-Christian Pulisic,Chelsea,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Manchester City,0.82,
-Christian Pulisic,Chelsea,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Newcastle United,-0.48,
+Christian Pulisic,Chelsea,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Manchester City,0.82,-0.96
+Christian Pulisic,Chelsea,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Newcastle United,-0.48,-0.41
 Christian Pulisic,Chelsea,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Brighton,0.38,-0.66
-Christian Pulisic,Chelsea,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Manchester United,1.57,
+Christian Pulisic,Chelsea,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Manchester United,1.57,-0.63
 Christian Pulisic,Chelsea,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Everton,-0.36,-0.24
 Christian Pulisic,Chelsea,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Sheffield,,0.68
 Christian Pulisic,Chelsea,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Wolverhampton,1.13,-0.52
-Christian Pulisic,Chelsea,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Crystal Palace,-1.42,
-Christian Pulisic,Chelsea,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,West Ham,2.39,
+Christian Pulisic,Chelsea,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Crystal Palace,-1.42,0.88
+Christian Pulisic,Chelsea,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,West Ham,2.39,-0.22
 Christian Pulisic,Chelsea,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Luton,,
 Christian Pulisic,Chelsea,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Fulham,-0.78,-0.13
 Christian Pulisic,Chelsea,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Liverpool,-0.82,-1.01
 Christian Pulisic,Chelsea,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Wolverhampton,-1.65,0.05
-Christian Pulisic,Chelsea,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Crystal Palace,-1.09,
-Christian Pulisic,Chelsea,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Manchester City,-0.67,
+Christian Pulisic,Chelsea,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Crystal Palace,-1.09,0.38
+Christian Pulisic,Chelsea,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Manchester City,-0.67,-1.32
 Christian Pulisic,Chelsea,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Brentford,0.19,-0.53
-Christian Pulisic,Chelsea,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Newcastle United,-0.46,
+Christian Pulisic,Chelsea,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Newcastle United,-0.46,0.55
 Christian Pulisic,Chelsea,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Luton,,
 Christian Pulisic,Chelsea,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Burnley,-0.18,0.39
-Christian Pulisic,Chelsea,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Manchester United,-1.38,
+Christian Pulisic,Chelsea,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Manchester United,-1.38,0.38
 Christian Pulisic,Chelsea,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Sheffield,,-0.61
 Christian Pulisic,Chelsea,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Everton,1.01,0.53
 Christian Pulisic,Chelsea,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Arsenal,-1.77,-0.48
-Christian Pulisic,Chelsea,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Aston Villa,-2.75,
+Christian Pulisic,Chelsea,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Aston Villa,-2.75,0.29
 Christian Pulisic,Chelsea,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Tottenham,-1.01,0.69
-Christian Pulisic,Chelsea,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,West Ham,-1.25,
-Christian Pulisic,Chelsea,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Nottingham Forest,-1.51,
+Christian Pulisic,Chelsea,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,West Ham,-1.25,0.49
+Christian Pulisic,Chelsea,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Nottingham Forest,-1.51,-0.55
 Christian Pulisic,Chelsea,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Brighton,4.26,-0.6
 Christian Pulisic,Chelsea,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Bournemouth,-5.36,1.22
-Christian Pulisic,Chelsea,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Nottingham Forest,2.21,
+Christian Pulisic,Chelsea,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Nottingham Forest,2.21,1.55
 Christian Pulisic,Chelsea,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Bournemouth,1.27,0.19
-Christian Pulisic,Chelsea,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Aston Villa,-0.41,
+Christian Pulisic,Chelsea,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Aston Villa,-0.41,0.64
 Christian Pulisic,Chelsea,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Fulham,-2.13,0.86
 Christian Pulisic,Chelsea,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,False,Burnley,-1.83,0.0
 Christian Pulisic,Chelsea,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,1.88,0.43,0.05,0.0,Chelsea,True,Arsenal,0.24,-0.11

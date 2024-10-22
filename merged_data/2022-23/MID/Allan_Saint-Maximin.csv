@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
 Allan Saint-Maximin,Newcastle,Nottingham Forest,2022-08-06,True,FWL,89,0.0,0.36,0.0,0.02,3,4.0,1.0,10.6,0,1,0,False,0.0,0.0,89.0,0,0,0,0,0,1,Newcastle,True,Brentford,-2.4,0.69
-Allan Saint-Maximin,Newcastle,Brentford,2022-10-08,True,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,3.0,0.36,50.5,0,0,0,0,0,0,Newcastle,False,Manchester United,1.2,
+Allan Saint-Maximin,Newcastle,Brentford,2022-10-08,True,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,3.0,0.36,50.5,0,0,0,0,0,0,Newcastle,False,Manchester United,1.2,-0.1
 Allan Saint-Maximin,Newcastle,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.18,33.67,0,0,0,0,0,0,Newcastle,True,Everton,-5.87,0.34
 Allan Saint-Maximin,Newcastle,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,1.33,0.12,25.25,0,0,0,0,0,0,Newcastle,False,Tottenham,4.75,-0.03
-Allan Saint-Maximin,Newcastle,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.09,20.2,0,0,0,0,0,1,Newcastle,True,Aston Villa,-2.14,
+Allan Saint-Maximin,Newcastle,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.09,20.2,0,0,0,0,0,1,Newcastle,True,Aston Villa,-2.14,0.55
 Allan Saint-Maximin,Newcastle,Aston Villa,2022-10-29,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.8,0.07,17.5,0,0,0,0,0,4,Newcastle,False,Southampton,-1.93,-1.07
 Allan Saint-Maximin,Newcastle,Southampton,2022-11-06,False,Sub,17,0.0,0.0,1.0,0.02,4,0.0,1.0,2.9,0,0,1,False,0.4,0.0,17.43,0,0,0,0,0,0,Newcastle,True,Chelsea,1.87,-0.25
-Allan Saint-Maximin,Newcastle,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.2,15.25,0,0,0,0,0,1,Newcastle,False,Leeds United,6.23,
-Allan Saint-Maximin,Newcastle,Leeds United,2022-12-26,False,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,1.0,0.2,14.33,0,0,0,0,0,1,Newcastle,True,Leicester City,-1.01,
+Allan Saint-Maximin,Newcastle,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.2,15.25,0,0,0,0,0,1,Newcastle,False,Leeds United,6.23,-0.8
+Allan Saint-Maximin,Newcastle,Leeds United,2022-12-26,False,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,1.0,0.2,14.33,0,0,0,0,0,1,Newcastle,True,Leicester City,-1.01,0.83
 Allan Saint-Maximin,Newcastle,Leicester City,2022-12-31,True,Sub,26,0.0,0.0,0.0,0.08,1,0.0,1.0,1.9,0,0,0,False,1.2,0.2,15.5,0,0,0,0,0,1,Newcastle,False,Arsenal,2.9,-0.0
 Allan Saint-Maximin,Newcastle,Arsenal,2023-01-03,False,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,1.4,0.2,14.36,0,0,0,0,0,2,Newcastle,False,Brighton,-0.9,-0.39
 Allan Saint-Maximin,Newcastle,Brighton,2022-08-13,False,FWL,74,0.0,0.0,0.0,0.04,2,0.0,1.0,2.7,0,1,0,False,1.4,0.2,19.33,0,0,0,0,0,1,Newcastle,True,Fulham,,-0.3
-Allan Saint-Maximin,Newcastle,Fulham,2023-01-15,True,Sub,45,0.0,0.07,0.0,0.0,1,1.0,0.0,0.6,0,0,0,False,1.0,0.0,21.31,0,0,0,0,0,1,Newcastle,False,Crystal Palace,-1.13,
-Allan Saint-Maximin,Newcastle,Crystal Palace,2023-01-21,False,Sub,21,0.0,0.11,0.0,0.0,1,1.0,0.0,0.6,0,0,0,False,1.2,0.01,21.29,0,0,0,0,0,2,Newcastle,True,West Ham,0.49,
+Allan Saint-Maximin,Newcastle,Fulham,2023-01-15,True,Sub,45,0.0,0.07,0.0,0.0,1,1.0,0.0,0.6,0,0,0,False,1.0,0.0,21.31,0,0,0,0,0,1,Newcastle,False,Crystal Palace,-1.13,0.13
+Allan Saint-Maximin,Newcastle,Crystal Palace,2023-01-21,False,Sub,21,0.0,0.11,0.0,0.0,1,1.0,0.0,0.6,0,0,0,False,1.2,0.01,21.29,0,0,0,0,0,2,Newcastle,True,West Ham,0.49,0.63
 Allan Saint-Maximin,Newcastle,West Ham,2023-02-04,True,FWL,68,0.0,0.06,0.0,0.0,2,1.0,0.0,1.7,0,0,1,True,1.2,0.04,24.4,0,0,0,0,0,2,Newcastle,False,Bournemouth,,0.19
 Allan Saint-Maximin,Newcastle,Bournemouth,2023-02-11,False,FWL,83,0.0,0.06,0.0,0.1,2,2.0,2.0,6.4,0,0,1,True,1.4,0.05,28.06,0,0,0,0,0,2,Newcastle,True,Liverpool,1.47,-0.53
-Allan Saint-Maximin,Newcastle,Liverpool,2023-02-18,True,FWL,90,0.0,0.17,0.0,0.42,2,3.0,2.0,8.0,0,0,2,True,1.6,0.06,31.71,0,0,0,0,0,1,Newcastle,False,Manchester City,4.63,
+Allan Saint-Maximin,Newcastle,Liverpool,2023-02-18,True,FWL,90,0.0,0.17,0.0,0.42,2,3.0,2.0,8.0,0,0,2,True,1.6,0.06,31.71,0,0,0,0,0,1,Newcastle,False,Manchester City,4.63,-1.26
 Allan Saint-Maximin,Newcastle,Manchester City,2023-03-04,False,Sub,28,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1,False,1.6,0.09,31.5,0,0,0,0,0,3,Newcastle,True,Wolverhampton,-2.98,-0.48
 Allan Saint-Maximin,Newcastle,Wolverhampton,2023-03-12,True,FWL,67,0.0,0.08,0.0,0.3,3,2.0,4.0,9.1,0,1,0,True,1.6,0.08,33.37,0,0,0,0,0,1,Newcastle,False,Nottingham Forest,,
-Allan Saint-Maximin,Newcastle,Nottingham Forest,2023-03-17,False,FWL,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,True,2.0,0.07,33.95,0,0,0,0,0,6,Newcastle,True,Manchester United,-0.55,
-Allan Saint-Maximin,Newcastle,Manchester United,2023-04-02,True,FWL,67,0.0,0.03,1.0,1.13,6,1.0,6.0,12.0,0,1,0,True,1.8,0.06,35.52,0,0,0,0,0,5,Newcastle,False,West Ham,,
-Allan Saint-Maximin,Newcastle,West Ham,2023-04-05,False,FWL,63,0.0,0.11,1.0,0.77,5,2.0,2.0,7.9,0,0,1,True,2.6,0.26,36.77,0,0,0,0,0,13,Newcastle,True,Manchester City,4.58,
+Allan Saint-Maximin,Newcastle,Nottingham Forest,2023-03-17,False,FWL,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,True,2.0,0.07,33.95,0,0,0,0,0,6,Newcastle,True,Manchester United,-0.55,0.38
+Allan Saint-Maximin,Newcastle,Manchester United,2023-04-02,True,FWL,67,0.0,0.03,1.0,1.13,6,1.0,6.0,12.0,0,1,0,True,1.8,0.06,35.52,0,0,0,0,0,5,Newcastle,False,West Ham,,0.14
+Allan Saint-Maximin,Newcastle,West Ham,2023-04-05,False,FWL,63,0.0,0.11,1.0,0.77,5,2.0,2.0,7.9,0,0,1,True,2.6,0.26,36.77,0,0,0,0,0,13,Newcastle,True,Manchester City,4.58,-1.17
 Allan Saint-Maximin,Newcastle,Manchester City,2022-08-21,True,FWL,90,0.0,0.22,2.0,1.13,13,3.0,4.0,13.5,2,0,3,False,3.2,0.44,39.09,0,0,0,0,0,0,Newcastle,False,Brentford,,-0.55
-Allan Saint-Maximin,Newcastle,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,5.6,0.89,37.46,0,0,0,0,0,0,Newcastle,False,Aston Villa,3.3,
+Allan Saint-Maximin,Newcastle,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,5.6,0.89,37.46,0,0,0,0,0,0,Newcastle,False,Aston Villa,3.3,0.59
 Allan Saint-Maximin,Newcastle,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,5.0,0.87,35.96,0,0,0,0,0,0,Newcastle,True,Tottenham,-0.29,1.07
 Allan Saint-Maximin,Newcastle,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,4.8,0.87,34.58,0,0,0,0,0,0,Newcastle,False,Everton,,-0.63
 Allan Saint-Maximin,Newcastle,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,3.6,0.67,33.3,0,0,0,0,0,0,Newcastle,True,Southampton,0.18,-0.38
 Allan Saint-Maximin,Newcastle,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,2.6,0.44,32.11,0,0,0,0,0,1,Newcastle,True,Arsenal,,0.36
-Allan Saint-Maximin,Newcastle,Arsenal,2023-05-07,True,Sub,12,0.0,0.02,0.0,0.0,1,1.0,0.0,2.0,0,0,0,False,0.0,0.0,31.41,0,0,0,0,0,1,Newcastle,False,Leicester City,,
+Allan Saint-Maximin,Newcastle,Arsenal,2023-05-07,True,Sub,12,0.0,0.02,0.0,0.0,1,1.0,0.0,2.0,0,0,0,False,0.0,0.0,31.41,0,0,0,0,0,1,Newcastle,False,Leicester City,,-0.05
 Allan Saint-Maximin,Newcastle,Leicester City,2023-05-13,False,Sub,17,0.0,0.04,0.0,0.0,1,1.0,0.0,3.0,0,0,1,False,0.2,0.0,30.93,0,0,0,0,0,1,Newcastle,True,Brighton,,-0.71
-Allan Saint-Maximin,Newcastle,Brighton,2023-05-18,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,False,0.4,0.01,29.97,0,0,0,0,0,1,Newcastle,True,Leeds United,,
+Allan Saint-Maximin,Newcastle,Brighton,2023-05-18,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,False,0.4,0.01,29.97,0,0,0,0,0,1,Newcastle,True,Leeds United,,-0.79
 Allan Saint-Maximin,Newcastle,Leeds United,2023-05-22,True,Sub,22,0.0,0.0,0.0,0.03,1,0.0,1.0,2.3,0,0,0,False,0.6,0.01,29.72,0,0,0,0,0,2,Newcastle,False,Chelsea,,-0.72
 Allan Saint-Maximin,Newcastle,Chelsea,2023-05-28,False,FWL,68,0.0,0.08,0.0,0.6,2,1.0,5.0,0.0,0,0,1,True,0.8,0.01,30.88,0,0,0,0,0,9,Newcastle,False,Wolverhampton,1.1,-0.46
 Allan Saint-Maximin,Newcastle,Wolverhampton,2022-08-28,False,FWL,90,1.0,0.21,0.0,0.08,9,5.0,1.0,11.2,2,0,1,False,1.2,0.03,32.62,0,0,0,0,0,0,Newcastle,False,Liverpool,0.9,-1.33
-Allan Saint-Maximin,Newcastle,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,2.8,0.07,31.69,0,0,0,0,0,0,Newcastle,True,Crystal Palace,-0.56,
+Allan Saint-Maximin,Newcastle,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,2.8,0.07,31.69,0,0,0,0,0,0,Newcastle,True,Crystal Palace,-0.56,0.81
 Allan Saint-Maximin,Newcastle,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,2.6,0.06,30.81,0,0,0,0,0,0,Newcastle,True,Bournemouth,2.6,1.46
 Allan Saint-Maximin,Newcastle,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,2.4,0.06,29.97,0,0,0,0,0,0,Newcastle,False,Fulham,-1.62,1.37
-Allan Saint-Maximin,Newcastle,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,2.2,0.06,29.18,0,0,0,0,0,0,Newcastle,True,Aston Villa,-4.4,
+Allan Saint-Maximin,Newcastle,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,2.2,0.06,29.18,0,0,0,0,0,0,Newcastle,True,Aston Villa,-4.4,0.55

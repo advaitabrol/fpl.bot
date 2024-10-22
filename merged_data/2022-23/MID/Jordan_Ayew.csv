@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jordan Ayew,Crystal Palace,Arsenal,2022-08-05,True,AMR,90,0,0.06,0,0.11,2,1,3,7.4,0,0,2,False,0.0,0.0,90.0,0,0,0,0,0,2,Crystal Palace,True,Leicester City,-0.38,
-Jordan Ayew,Crystal Palace,Leicester City,2022-10-09,True,FWR,64,0,0.11,0,0.09,2,1,2,4.6,0,0,1,False,2.0,0.06,77.0,0,0,0,0,0,3,Crystal Palace,False,Leeds United,2.13,
+Jordan Ayew,Crystal Palace,Arsenal,2022-08-05,True,AMR,90,0,0.06,0,0.11,2,1,3,7.4,0,0,2,False,0.0,0.0,90.0,0,0,0,0,0,2,Crystal Palace,True,Leicester City,-0.38,0.83
+Jordan Ayew,Crystal Palace,Leicester City,2022-10-09,True,FWR,64,0,0.11,0,0.09,2,1,2,4.6,0,0,1,False,2.0,0.06,77.0,0,0,0,0,0,3,Crystal Palace,False,Leeds United,2.13,-0.8
 Jordan Ayew,Crystal Palace,Leeds United,2022-10-15,False,FWR,90,0,0.0,0,0.0,3,0,0,1.3,0,1,0,False,2.0,0.09,81.33,0,0,0,0,0,1,Crystal Palace,True,Wolverhampton,-2.67,-0.48
 Jordan Ayew,Crystal Palace,Wolverhampton,2022-10-18,True,Sub,10,0,0.0,0,0.0,1,0,0,0.9,0,0,0,False,2.33,0.06,63.5,0,0,0,0,0,2,Crystal Palace,False,Everton,2.41,-0.63
 Jordan Ayew,Crystal Palace,Everton,2022-10-22,False,MC,74,0,0.0,0,0.21,2,0,2,3.9,0,0,2,False,2.0,0.04,65.6,0,0,0,0,0,1,Crystal Palace,True,Southampton,0.54,-0.38
-Jordan Ayew,Crystal Palace,Southampton,2022-10-29,True,Sub,27,0,0.0,0,0.0,1,0,0,2.0,0,0,0,False,2.0,0.04,59.17,0,0,0,0,0,1,Crystal Palace,False,West Ham,0.59,
+Jordan Ayew,Crystal Palace,Southampton,2022-10-29,True,Sub,27,0,0.0,0,0.0,1,0,0,2.0,0,0,0,False,2.0,0.04,59.17,0,0,0,0,0,1,Crystal Palace,False,West Ham,0.59,0.14
 Jordan Ayew,Crystal Palace,West Ham,2022-11-06,False,AMR,90,0,0.0,0,0.09,1,0,2,3.9,0,0,1,False,1.8,0.02,63.57,0,0,0,0,0,1,Crystal Palace,False,Nottingham Forest,,
 Jordan Ayew,Crystal Palace,Nottingham Forest,2022-11-12,False,FWR,58,0,0.03,0,0.0,1,1,0,1.8,0,0,1,True,1.6,0.0,62.88,0,0,0,0,0,2,Crystal Palace,True,Fulham,,-0.3
 Jordan Ayew,Crystal Palace,Fulham,2022-12-26,True,AMR,90,0,0.11,0,0.0,2,1,0,2.4,0,0,3,True,1.2,0.01,65.89,0,0,0,0,0,10,Crystal Palace,False,Bournemouth,,0.19
 Jordan Ayew,Crystal Palace,Bournemouth,2022-12-31,False,FWR,73,1,0.55,0,0.0,10,2,0,10.0,2,1,0,True,1.4,0.03,66.6,0,0,0,0,0,2,Crystal Palace,True,Tottenham,-5.01,1.07
 Jordan Ayew,Crystal Palace,Tottenham,2023-01-04,True,FW,90,0,0.2,0,0.02,2,3,1,7.5,0,0,4,True,3.0,0.14,68.73,0,0,0,0,0,2,Crystal Palace,False,Liverpool,7.24,-1.33
 Jordan Ayew,Crystal Palace,Liverpool,2022-08-15,False,MR,62,0,0.0,0,0.0,2,0,0,1.3,0,0,1,False,3.2,0.18,68.17,0,0,0,0,0,2,Crystal Palace,False,Chelsea,2.77,-0.72
-Jordan Ayew,Crystal Palace,Chelsea,2023-01-15,False,AMR,68,0,0.0,0,0.0,2,0,0,2.4,0,0,1,True,3.4,0.18,68.15,0,0,0,0,0,1,Crystal Palace,True,Manchester United,-0.9,
-Jordan Ayew,Crystal Palace,Manchester United,2023-01-18,True,Sub,19,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,3.6,0.17,64.64,0,0,0,0,0,3,Crystal Palace,True,Newcastle United,1.62,
-Jordan Ayew,Crystal Palace,Newcastle United,2023-01-21,True,AMR,90,0,0.05,0,0.0,3,1,0,2.3,0,1,0,True,3.4,0.15,66.33,0,0,0,0,0,2,Crystal Palace,False,Manchester United,0.74,
+Jordan Ayew,Crystal Palace,Chelsea,2023-01-15,False,AMR,68,0,0.0,0,0.0,2,0,0,2.4,0,0,1,True,3.4,0.18,68.15,0,0,0,0,0,1,Crystal Palace,True,Manchester United,-0.9,0.38
+Jordan Ayew,Crystal Palace,Manchester United,2023-01-18,True,Sub,19,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,3.6,0.17,64.64,0,0,0,0,0,3,Crystal Palace,True,Newcastle United,1.62,0.73
+Jordan Ayew,Crystal Palace,Newcastle United,2023-01-21,True,AMR,90,0,0.05,0,0.0,3,1,0,2.3,0,1,0,True,3.4,0.15,66.33,0,0,0,0,0,2,Crystal Palace,False,Manchester United,0.74,-0.1
 Jordan Ayew,Crystal Palace,Manchester United,2023-02-04,False,AMR,72,0,0.0,0,0.0,2,0,0,1.2,0,0,2,True,2.0,0.05,66.69,0,0,0,0,0,2,Crystal Palace,True,Brighton,-0.1,-0.71
 Jordan Ayew,Crystal Palace,Brighton,2023-02-11,True,AMC,90,0,0.0,0,0.07,2,0,1,3.2,0,0,1,True,2.0,0.01,68.06,0,0,0,0,0,1,Crystal Palace,False,Brentford,1.96,-0.55
 Jordan Ayew,Crystal Palace,Brentford,2023-02-18,False,FW,90,0,0.0,0,0.39,1,0,4,7.5,0,0,1,True,2.0,0.01,69.28,0,0,0,0,0,3,Crystal Palace,True,Liverpool,3.6,-0.53
-Jordan Ayew,Crystal Palace,Liverpool,2023-02-25,True,AMC,90,0,0.0,0,0.08,3,0,1,3.8,0,1,0,True,1.8,0.01,70.37,0,0,0,0,0,2,Crystal Palace,False,Aston Villa,0.99,
-Jordan Ayew,Crystal Palace,Aston Villa,2023-03-04,False,AMR,74,0,0.0,0,0.0,2,0,0,0.9,0,0,1,True,2.2,0.01,70.55,0,0,0,0,0,2,Crystal Palace,True,Manchester City,-0.0,
+Jordan Ayew,Crystal Palace,Liverpool,2023-02-25,True,AMC,90,0,0.0,0,0.08,3,0,1,3.8,0,1,0,True,1.8,0.01,70.37,0,0,0,0,0,2,Crystal Palace,False,Aston Villa,0.99,0.59
+Jordan Ayew,Crystal Palace,Aston Villa,2023-03-04,False,AMR,74,0,0.0,0,0.0,2,0,0,0.9,0,0,1,True,2.2,0.01,70.55,0,0,0,0,0,2,Crystal Palace,True,Manchester City,-0.0,-1.17
 Jordan Ayew,Crystal Palace,Manchester City,2023-03-11,True,AMC,79,0,0.0,0,0.0,2,0,0,0.6,0,0,1,True,2.0,0.0,70.95,0,0,0,0,0,0,Crystal Palace,False,Brighton,,-0.39
 Jordan Ayew,Crystal Palace,Brighton,2023-03-15,False,Sub,20,0,0.0,0,0.0,0,0,0,0.5,0,0,0,False,2.0,0.0,68.64,0,0,0,0,0,1,Crystal Palace,False,Arsenal,1.99,-0.0
-Jordan Ayew,Crystal Palace,Arsenal,2023-03-19,False,Sub,25,0,0.06,0,0.0,1,1,0,0.9,0,0,1,False,1.6,0.0,66.74,0,0,0,0,0,4,Crystal Palace,True,Leeds United,3.21,
-Jordan Ayew,Crystal Palace,Leeds United,2023-04-01,True,Sub,45,0,0.03,1,0.54,4,2,2,6.6,0,0,1,False,1.6,0.01,65.83,0,0,0,0,0,2,Crystal Palace,True,Aston Villa,0.32,
-Jordan Ayew,Crystal Palace,Aston Villa,2022-08-20,True,FWR,69,0,0.19,0,0.08,2,2,1,5.7,0,0,1,False,1.8,0.22,65.96,0,0,0,0,0,14,Crystal Palace,False,Leicester City,2.85,
+Jordan Ayew,Crystal Palace,Arsenal,2023-03-19,False,Sub,25,0,0.06,0,0.0,1,1,0,0.9,0,0,1,False,1.6,0.0,66.74,0,0,0,0,0,4,Crystal Palace,True,Leeds United,3.21,-0.79
+Jordan Ayew,Crystal Palace,Leeds United,2023-04-01,True,Sub,45,0,0.03,1,0.54,4,2,2,6.6,0,0,1,False,1.6,0.01,65.83,0,0,0,0,0,2,Crystal Palace,True,Aston Villa,0.32,0.55
+Jordan Ayew,Crystal Palace,Aston Villa,2022-08-20,True,FWR,69,0,0.19,0,0.08,2,2,1,5.7,0,0,1,False,1.8,0.22,65.96,0,0,0,0,0,14,Crystal Palace,False,Leicester City,2.85,-0.05
 Jordan Ayew,Crystal Palace,Leicester City,2023-04-09,False,FWL,79,2,0.68,0,0.0,14,4,0,12.3,2,0,1,True,1.8,0.26,66.46,0,0,0,0,0,3,Crystal Palace,False,Southampton,,-1.07
 Jordan Ayew,Crystal Palace,Southampton,2023-04-15,False,FWL,90,0,0.16,0,0.0,3,2,0,3.6,0,1,0,True,4.2,0.39,67.33,0,0,0,0,0,3,Crystal Palace,True,Everton,-1.9,0.34
 Jordan Ayew,Crystal Palace,Everton,2023-04-22,True,FWL,90,0,0.1,0,0.04,3,3,1,5.3,0,1,0,True,4.8,0.42,68.14,0,0,0,0,0,2,Crystal Palace,False,Wolverhampton,,-0.46
-Jordan Ayew,Crystal Palace,Wolverhampton,2023-04-25,False,FW,90,0,0.05,0,0.03,2,1,1,2.8,0,0,2,True,5.2,0.43,68.9,0,0,0,0,0,6,Crystal Palace,True,West Ham,,
+Jordan Ayew,Crystal Palace,Wolverhampton,2023-04-25,False,FW,90,0,0.05,0,0.03,2,1,1,2.8,0,0,2,True,5.2,0.43,68.9,0,0,0,0,0,6,Crystal Palace,True,West Ham,,0.63
 Jordan Ayew,Crystal Palace,West Ham,2023-04-29,True,FW,90,1,0.08,0,0.11,6,1,2,9.8,0,0,3,True,4.8,0.24,69.6,0,0,0,0,0,1,Crystal Palace,False,Tottenham,6.04,-0.03
 Jordan Ayew,Crystal Palace,Tottenham,2023-05-06,False,FW,83,0,0.0,0,0.04,1,0,1,2.3,0,0,1,True,5.6,0.22,70.03,0,0,0,0,0,6,Crystal Palace,True,Bournemouth,,1.46
 Jordan Ayew,Crystal Palace,Bournemouth,2023-05-13,True,FW,90,0,0.07,1,0.56,6,1,1,5.2,0,1,0,True,3.0,0.08,70.66,0,0,0,0,0,2,Crystal Palace,False,Fulham,,1.37
 Jordan Ayew,Crystal Palace,Fulham,2023-05-20,False,AML,90,0,0.07,0,0.03,2,1,1,3.8,0,0,2,True,3.6,0.26,71.24,0,0,0,0,0,2,Crystal Palace,True,Nottingham Forest,,
-Jordan Ayew,Crystal Palace,Nottingham Forest,2023-05-28,True,AML,90,0,0.1,0,0.0,2,3,0,0.0,0,0,1,True,3.4,0.26,71.79,0,0,0,0,0,2,Crystal Palace,False,Manchester City,-0.86,
+Jordan Ayew,Crystal Palace,Nottingham Forest,2023-05-28,True,AML,90,0,0.1,0,0.0,2,3,0,0.0,0,0,1,True,3.4,0.26,71.79,0,0,0,0,0,2,Crystal Palace,False,Manchester City,-0.86,-1.26
 Jordan Ayew,Crystal Palace,Manchester City,2022-08-27,False,MR,73,0,0.0,0,0.0,2,0,0,0.3,0,0,3,False,3.4,0.26,71.83,0,0,0,0,0,1,Crystal Palace,True,Brentford,0.87,0.69
-Jordan Ayew,Crystal Palace,Brentford,2022-08-30,True,Sub,14,0,0.0,0,0.06,1,0,1,1.4,0,0,1,False,2.6,0.25,70.22,0,0,0,0,0,3,Crystal Palace,False,Newcastle United,1.9,
+Jordan Ayew,Crystal Palace,Brentford,2022-08-30,True,Sub,14,0,0.0,0,0.06,1,0,1,1.4,0,0,1,False,2.6,0.25,70.22,0,0,0,0,0,3,Crystal Palace,False,Newcastle United,1.9,-0.34
 Jordan Ayew,Crystal Palace,Newcastle United,2022-09-03,False,FWR,90,0,0.02,0,0.07,3,1,2,5.0,0,1,0,False,2.6,0.25,70.76,0,0,0,0,0,5,Crystal Palace,True,Chelsea,1.2,-0.25
 Jordan Ayew,Crystal Palace,Chelsea,2022-10-01,True,FWR,90,0,0.0,1,0.43,5,0,1,4.3,0,0,2,False,2.0,0.04,71.26,0,0,0,0,0,6,Crystal Palace,False,Sheffield,,-0.61

@@ -1,17 +1,17 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Manor Solomon,Fulham,Liverpool,2022-08-06,True,Sub,24,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,False,0.0,0.0,24.0,0,0,0,0,0,0,Fulham,False,West Ham,,
+Manor Solomon,Fulham,Liverpool,2022-08-06,True,Sub,24,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,False,0.0,0.0,24.0,0,0,0,0,0,0,Fulham,False,West Ham,,0.14
 Manor Solomon,Fulham,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,12.0,0,0,0,0,0,0,Fulham,True,Bournemouth,,1.46
-Manor Solomon,Fulham,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.5,0.0,8.0,0,0,0,0,0,0,Fulham,True,Aston Villa,,
-Manor Solomon,Fulham,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.33,0.0,6.0,0,0,0,0,0,0,Fulham,False,Leicester City,,
+Manor Solomon,Fulham,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.5,0.0,8.0,0,0,0,0,0,0,Fulham,True,Aston Villa,,0.55
+Manor Solomon,Fulham,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.33,0.0,6.0,0,0,0,0,0,0,Fulham,False,Leicester City,,-0.05
 Manor Solomon,Fulham,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.25,0.0,4.8,0,0,0,0,0,0,Fulham,True,Everton,,0.34
-Manor Solomon,Fulham,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,4.0,0,0,0,0,0,0,Fulham,False,Manchester City,,
-Manor Solomon,Fulham,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.43,0,0,0,0,0,0,Fulham,True,Manchester United,,
-Manor Solomon,Fulham,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.0,0,0,0,0,0,0,Fulham,False,Crystal Palace,,
+Manor Solomon,Fulham,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,4.0,0,0,0,0,0,0,Fulham,False,Manchester City,,-1.26
+Manor Solomon,Fulham,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.43,0,0,0,0,0,0,Fulham,True,Manchester United,,0.38
+Manor Solomon,Fulham,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.0,0,0,0,0,0,0,Fulham,False,Crystal Palace,,0.13
 Manor Solomon,Fulham,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.67,0,0,0,0,0,0,Fulham,True,Southampton,,-0.38
-Manor Solomon,Fulham,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.4,0,0,0,0,0,0,Fulham,False,Leeds United,,
+Manor Solomon,Fulham,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.4,0,0,0,0,0,0,Fulham,False,Leeds United,,-0.8
 Manor Solomon,Fulham,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.18,0,0,0,0,0,1,Fulham,True,Chelsea,,-0.25
 Manor Solomon,Fulham,Chelsea,2023-01-12,True,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,2.58,0,0,0,0,0,0,Fulham,False,Wolverhampton,,-0.46
-Manor Solomon,Fulham,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,2.38,0,0,0,0,0,0,Fulham,False,Newcastle United,,
+Manor Solomon,Fulham,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,2.38,0,0,0,0,0,0,Fulham,False,Newcastle United,,-0.34
 Manor Solomon,Fulham,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,2.21,0,0,0,0,0,1,Fulham,True,Tottenham,,1.07
 Manor Solomon,Fulham,Tottenham,2023-01-23,True,Sub,10,0.0,0.04,0.0,0.0,1,1.0,0.0,1.1,0,0,0,False,0.2,0.0,2.73,0,0,0,0,0,1,Fulham,False,Chelsea,,-0.72
 Manor Solomon,Fulham,Chelsea,2023-02-03,False,Sub,15,0.0,0.0,0.0,0.01,1,0.0,1.0,1.7,0,0,0,False,0.4,0.01,3.5,0,0,0,0,0,6,Fulham,True,Nottingham Forest,,
@@ -21,19 +21,19 @@ Manor Solomon,Fulham,Wolverhampton,2023-02-24,True,Sub,45,1.0,0.03,0.0,0.01,7,1.
 Manor Solomon,Fulham,Brentford,2023-03-06,False,AML,74,1.0,0.37,0.0,0.0,7,1.0,0.0,8.3,0,0,2,True,4.2,0.09,10.05,0,0,0,0,0,2,Fulham,True,Arsenal,,0.36
 Manor Solomon,Fulham,Arsenal,2023-03-12,True,AML,75,0.0,0.02,0.0,0.06,2,1.0,1.0,2.8,0,0,3,True,5.4,0.16,13.14,0,0,0,0,0,2,Fulham,False,Bournemouth,,0.19
 Manor Solomon,Fulham,Bournemouth,2023-04-01,False,AML,90,0.0,0.03,0.0,0.17,2,1.0,2.0,5.4,0,0,2,True,5.6,0.17,16.64,0,0,0,0,0,0,Fulham,True,Brentford,-2.09,0.69
-Manor Solomon,Fulham,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,4.8,0.1,15.91,0,0,0,0,0,1,Fulham,True,West Ham,,
+Manor Solomon,Fulham,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,4.8,0.1,15.91,0,0,0,0,0,1,Fulham,True,West Ham,,0.63
 Manor Solomon,Fulham,West Ham,2023-04-08,True,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,0,False,3.6,0.09,17.12,0,0,0,0,0,0,Fulham,False,Everton,,-0.63
-Manor Solomon,Fulham,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,2.4,0.08,16.44,0,0,0,0,0,1,Fulham,True,Leicester City,,
-Manor Solomon,Fulham,Leicester City,2023-04-22,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,1.0,0.01,15.96,0,0,0,0,0,2,Fulham,False,Aston Villa,,
-Manor Solomon,Fulham,Aston Villa,2023-04-25,False,AML,66,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,0,1,True,0.8,0.01,17.81,0,0,0,0,0,1,Fulham,True,Manchester City,,
+Manor Solomon,Fulham,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,2.4,0.08,16.44,0,0,0,0,0,1,Fulham,True,Leicester City,,0.83
+Manor Solomon,Fulham,Leicester City,2023-04-22,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,1.0,0.01,15.96,0,0,0,0,0,2,Fulham,False,Aston Villa,,0.59
+Manor Solomon,Fulham,Aston Villa,2023-04-25,False,AML,66,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,0,1,True,0.8,0.01,17.81,0,0,0,0,0,1,Fulham,True,Manchester City,,-1.17
 Manor Solomon,Fulham,Manchester City,2023-04-30,True,Sub,14,0.0,0.03,0.0,0.0,1,1.0,0.0,0.6,0,0,0,False,0.8,0.0,17.68,0,0,0,0,0,1,Fulham,False,Liverpool,,-1.33
-Manor Solomon,Fulham,Liverpool,2023-05-03,False,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,1.0,0.01,17.45,0,0,0,0,0,1,Fulham,True,Leeds United,,
+Manor Solomon,Fulham,Liverpool,2023-05-03,False,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,1.0,0.01,17.45,0,0,0,0,0,1,Fulham,True,Leeds United,,-0.79
 Manor Solomon,Fulham,Leeds United,2023-05-08,True,Sub,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,False,1.0,0.01,17.13,0,0,0,0,0,1,Fulham,False,Southampton,,-1.07
-Manor Solomon,Fulham,Southampton,2023-05-13,False,Sub,12,0.0,0.06,0.0,0.0,1,1.0,0.0,1.2,0,0,0,False,1.2,0.01,16.97,0,0,0,0,0,1,Fulham,True,Crystal Palace,,
-Manor Solomon,Fulham,Crystal Palace,2023-05-20,True,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,False,1.2,0.02,16.75,0,0,0,0,0,1,Fulham,False,Manchester United,,
+Manor Solomon,Fulham,Southampton,2023-05-13,False,Sub,12,0.0,0.06,0.0,0.0,1,1.0,0.0,1.2,0,0,0,False,1.2,0.01,16.97,0,0,0,0,0,1,Fulham,True,Crystal Palace,,0.81
+Manor Solomon,Fulham,Crystal Palace,2023-05-20,True,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,False,1.2,0.02,16.75,0,0,0,0,0,1,Fulham,False,Manchester United,,-0.1
 Manor Solomon,Fulham,Manchester United,2023-05-28,False,Sub,24,0.0,0.06,0.0,0.08,1,2.0,1.0,0.0,0,0,0,False,1.0,0.02,16.97,0,0,0,0,0,0,Fulham,False,Arsenal,0.0,-0.0
 Manor Solomon,Fulham,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.02,16.47,0,0,0,0,0,0,Fulham,True,Brighton,-0.52,-0.71
 Manor Solomon,Fulham,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.02,16.0,0,0,0,0,0,0,Fulham,False,Tottenham,1.23,-0.03
 Manor Solomon,Fulham,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.02,15.56,0,0,0,0,0,0,Fulham,False,Nottingham Forest,-0.51,
-Manor Solomon,Fulham,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.01,15.14,0,0,0,0,0,0,Fulham,True,Newcastle United,3.93,
+Manor Solomon,Fulham,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.01,15.14,0,0,0,0,0,0,Fulham,True,Newcastle United,3.93,0.73
 Manor Solomon,Fulham,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.01,14.74,0,0,0,0,0,0,Spurs,False,Brentford,0.99,-0.55
