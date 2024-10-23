@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Nathan Redmond,Burnley,Manchester City,2023-08-11,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,Burnley,False,Bournemouth,,0.19
+Nathan Redmond,Burnley,Bournemouth,2023-10-28,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,1.0,0.0,5.0,0.0,0.0,0.0,0.0,1.0,1.0,Burnley,True,Crystal Palace,0.07,0.88
+Nathan Redmond,Burnley,Crystal Palace,2023-11-04,True,Sub,12,0.0,0.0,0.0,0.04,1,0.0,1.0,1.7,0,0,1,False,1.0,0.0,7.33,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,False,Arsenal,-1.08,-0.48
+Nathan Redmond,Burnley,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,5.5,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,True,West Ham,-0.48,0.49
+Nathan Redmond,Burnley,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.75,0.0,4.4,0.0,0.0,0.0,0.0,1.0,1.0,Burnley,True,Sheffield,,0.68
+Nathan Redmond,Burnley,Sheffield,2023-12-02,True,Sub,13,0.0,0.0,0.0,0.08,1,0.0,1.0,2.3,0,0,0,False,0.6,0.0,5.83,0.0,0.0,0.0,0.0,1.0,1.0,Burnley,False,Wolverhampton,0.24,-0.52
+Nathan Redmond,Burnley,Wolverhampton,2023-12-05,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.6,0.0,5.14,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,False,Brighton,-6.77,-0.6
+Nathan Redmond,Burnley,Brighton,2023-12-09,False,Sub,12,0.0,0.0,0.0,0.0,0,0.0,1.0,1.4,0,0,0,False,0.6,0.0,6.0,0.0,0.0,0.0,0.0,1.0,1.0,Burnley,True,Everton,-1.19,0.53
+Nathan Redmond,Burnley,Everton,2023-12-16,True,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.4,0.0,5.67,0.0,0.0,0.0,0.0,1.0,1.0,Burnley,False,Fulham,,0.86
+Nathan Redmond,Burnley,Fulham,2023-12-23,False,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,0.6,0.0,6.1,0.0,0.0,0.0,0.0,1.0,1.0,Burnley,True,Liverpool,1.07,0.18
+Nathan Redmond,Burnley,Liverpool,2023-12-26,True,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,False,0.8,0.0,6.0,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,False,Aston Villa,-2.94,0.29
+Nathan Redmond,Burnley,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.0,5.5,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,True,Luton,,
+Nathan Redmond,Burnley,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,5.08,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,False,Manchester City,1.29,-1.32
+Nathan Redmond,Burnley,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,4.71,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,True,Fulham,,-0.13
+Nathan Redmond,Burnley,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,4.4,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,False,Liverpool,3.66,-1.01
+Nathan Redmond,Burnley,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,4.12,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,True,Arsenal,2.1,-0.11
+Nathan Redmond,Burnley,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.88,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,False,Crystal Palace,1.42,0.38
+Nathan Redmond,Burnley,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.67,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,True,Bournemouth,,1.22
+Nathan Redmond,Burnley,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.47,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,False,West Ham,-0.06,-0.22
+Nathan Redmond,Burnley,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.3,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,True,Brentford,-6.41,0.79
+Nathan Redmond,Burnley,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.14,0.0,0.0,0.0,0.0,1.0,1.0,Burnley,True,Aston Villa,3.88,0.64
+Nathan Redmond,Burnley,Aston Villa,2023-08-27,True,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,0.0,0.0,4.0,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,False,Chelsea,1.09,-0.85
+Nathan Redmond,Burnley,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,3.83,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,True,Wolverhampton,,0.05
+Nathan Redmond,Burnley,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,3.67,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,False,Everton,2.03,-0.24
+Nathan Redmond,Burnley,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,3.52,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,True,Brighton,-0.51,-0.66
+Nathan Redmond,Burnley,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,3.38,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,False,Sheffield,,-0.61
+Nathan Redmond,Burnley,Sheffield,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,3.26,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,False,Manchester United,4.49,-0.63
+Nathan Redmond,Burnley,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.14,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,True,Newcastle United,,0.55
+Nathan Redmond,Burnley,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,3.03,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,False,Tottenham,,-0.36
+Nathan Redmond,Burnley,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.93,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,True,Nottingham Forest,,1.55
+Nathan Redmond,Burnley,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.84,0.0,0.0,0.0,0.0,1.0,1.0,Burnley,True,Tottenham,2.27,0.69
+Nathan Redmond,Burnley,Tottenham,2023-09-02,True,Sub,30,0.0,0.0,0.0,0.13,1,0.0,1.0,2.4,0,0,2,False,0.0,0.0,3.69,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,False,Nottingham Forest,-1.33,-0.55
+Nathan Redmond,Burnley,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,3.58,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,True,Manchester United,0.22,0.38
+Nathan Redmond,Burnley,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,3.47,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,False,Newcastle United,3.29,-0.41
+Nathan Redmond,Burnley,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,3.37,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,False,Luton,-0.73,
+Nathan Redmond,Burnley,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,3.28,0.0,0.0,0.0,0.0,1.0,0.0,Burnley,True,Chelsea,1.56,-0.25
+Nathan Redmond,Burnley,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,3.19,0.0,0.0,0.0,0.0,1.0,1.0,Burnley,False,Brentford,2.95,-0.53
+Nathan Redmond,Burnley,Brentford,2023-10-21,False,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1,False,0.0,0.0,3.47,0.0,0.0,0.0,0.0,1.0,,Newcastle,True,Southampton,0.18,0.24

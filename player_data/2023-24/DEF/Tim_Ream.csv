@@ -1,0 +1,39 @@
+name,position_x,team,bonus,clean_sheets,expected_goals_conceded,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,own_goals,starts,total_points,was_home,goals,shots,xG,time,position_y,date,xA,assists,key_passes,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Tim Ream,DEF,Fulham,1,1,2.73,0,1.6,2023-08-12,90,Everton,0,1,7,False,0.0,0.0,0.0,90.0,DC,2023-08-12,0.0,0.0,0.0,0.0,0.0,90.0,1.0,0.5,0.07,28.05,0.25,2,Fulham,False,Brighton,-1.45,-0.6
+Tim Ream,DEF,Fulham,0,0,1.32,1,1.9,2023-10-29,90,Brighton,0,1,2,False,0.0,0.0,0.0,90.0,DC,2023-10-29,0.0,0.0,0.0,7.0,0.0,90.0,0.5,0.5,0.07,28.05,0.25,2,Fulham,True,Manchester United,2.97,0.38
+Tim Ream,DEF,Fulham,0,0,0.69,1,1.6,2023-11-04,90,Manchester United,0,1,2,True,0.0,0.0,0.0,90.0,DC,2023-11-04,0.0,0.0,0.0,4.5,0.0,90.0,0.33,0.5,0.07,28.05,0.25,1,Fulham,False,Aston Villa,1.75,0.29
+Tim Ream,DEF,Fulham,0,0,3.08,3,1.1,2023-11-12,90,Aston Villa,0,1,1,False,0.0,0.0,0.0,90.0,DC,2023-11-12,0.0,0.0,0.0,3.67,0.0,90.0,0.25,0.5,0.07,28.05,0.25,0,Fulham,True,Wolverhampton,0.25,0.05
+Tim Ream,DEF,Fulham,0,0,1.41,2,1.0,2023-11-27,90,Wolverhampton,0,1,0,True,0.0,0.0,0.0,90.0,DC,2023-11-27,0.0,0.0,0.0,3.0,0.0,90.0,0.2,0.5,0.07,28.05,0.25,0,Fulham,False,Liverpool,0.06,-1.01
+Tim Ream,DEF,Fulham,0,0,2.22,4,2.8,2023-12-03,90,Liverpool,0,1,0,False,0.0,0.0,0.0,90.0,DC,2023-12-03,0.0,0.0,0.0,2.4,0.0,90.0,0.17,0.5,0.07,28.05,0.25,0,Fulham,True,Nottingham Forest,-2.94,1.55
+Tim Ream,DEF,Fulham,0,0,0.0,0,0.0,2023-12-06,0,Nottingham Forest,0,0,0,True,,,,,,,,,,1.0,0.0,77.14,0.17,0.5,0.07,28.05,0.25,0,Fulham,True,West Ham,3.48,0.49
+Tim Ream,DEF,Fulham,0,0,0.0,0,0.0,2023-12-10,0,West Ham,0,0,0,True,,,,,,,,,,0.6,0.0,67.5,0.17,0.5,0.07,28.05,0.25,0,Fulham,False,Newcastle United,0.12,-0.41
+Tim Ream,DEF,Fulham,0,0,0.0,0,0.0,2023-12-16,0,Newcastle United,0,0,0,False,,,,,,,,,,0.2,0.0,60.0,0.17,0.5,0.07,28.05,0.25,0,Fulham,True,Burnley,,0.39
+Tim Ream,DEF,Fulham,0,0,0.0,0,0.0,2023-12-23,0,Burnley,0,0,0,True,,,,,,,,,,0.0,0.0,54.0,0.17,0.5,0.07,28.05,0.25,0,Fulham,False,Bournemouth,3.26,0.19
+Tim Ream,DEF,Fulham,0,0,0.0,0,0.0,2023-12-26,0,Bournemouth,0,0,0,False,,,,,,,,,,0.0,0.0,49.09,0.17,0.5,0.07,28.05,0.25,-2,Fulham,True,Brentford,-2.09,0.79
+Tim Ream,DEF,Fulham,0,0,6.46,3,0.3,2023-08-19,63,Brentford,0,1,-2,True,0.0,0.0,0.0,66.0,DC,2023-08-19,0.0,0.0,0.0,0.0,0.0,50.25,0.14,0.5,0.07,28.05,0.25,0,Fulham,True,Arsenal,3.29,-0.11
+Tim Ream,DEF,Fulham,0,0,0.0,0,0.0,2023-12-31,0,Arsenal,0,0,0,True,,,,,,,,,,-0.4,0.0,46.38,0.14,0.5,0.07,28.05,0.25,0,Fulham,False,Chelsea,-0.32,-0.85
+Tim Ream,DEF,Fulham,0,0,0.0,0,0.0,2024-01-13,0,Chelsea,0,0,0,False,,,,,,,,,,-0.4,0.0,43.07,0.14,0.5,0.07,28.05,0.25,1,Fulham,True,Everton,1.34,0.53
+Tim Ream,DEF,Fulham,0,0,1.19,0,1.2,2024-01-30,15,Everton,0,0,1,True,0.0,0.0,0.0,14.0,Sub,2024-01-30,0.0,0.0,0.0,-0.4,0.0,41.2,0.14,0.5,0.07,28.05,0.25,1,Fulham,False,Burnley,,0.0
+Tim Ream,DEF,Fulham,0,0,1.68,2,1.6,2024-02-03,90,Burnley,0,1,1,False,0.0,0.0,0.0,90.0,DC,2024-02-03,0.0,0.0,0.0,-0.2,0.0,44.25,0.12,0.5,0.07,28.05,0.25,2,Fulham,True,Bournemouth,1.23,1.22
+Tim Ream,DEF,Fulham,0,0,1.84,1,4.1,2024-02-10,90,Bournemouth,0,1,2,True,0.0,0.0,0.0,90.0,DC,2024-02-10,0.0,0.0,0.0,0.0,0.0,46.94,0.11,0.5,0.07,28.05,0.25,1,Fulham,True,Aston Villa,-3.96,0.64
+Tim Ream,DEF,Fulham,0,0,1.65,2,2.3,2024-02-17,75,Aston Villa,0,1,1,True,0.0,0.0,0.0,83.0,DC,2024-02-17,0.0,0.0,0.0,0.8,0.0,48.5,0.1,0.5,0.07,28.05,0.25,0,Fulham,False,Manchester United,0.59,-0.63
+Tim Ream,DEF,Fulham,0,0,0.0,0,0.0,2024-02-24,0,Manchester United,0,0,0,False,,,,,,,,,,1.0,0.0,45.95,0.1,0.5,0.07,28.05,0.25,0,Fulham,True,Brighton,-0.52,-0.66
+Tim Ream,DEF,Fulham,0,0,0.0,0,0.0,2024-03-02,0,Brighton,0,0,0,True,,,,,,,,,,1.0,0.0,43.65,0.1,0.5,0.07,28.05,0.25,0,Fulham,False,Wolverhampton,-0.42,-0.52
+Tim Ream,DEF,Fulham,0,0,0.0,0,0.0,2024-03-09,0,Wolverhampton,0,0,0,False,,,,,,,,,,0.8,0.0,41.57,0.1,0.5,0.07,28.05,0.25,0,Fulham,True,Tottenham,,0.69
+Tim Ream,DEF,Fulham,0,0,0.0,0,0.0,2024-03-16,0,Tottenham,0,0,0,True,,,,,,,,,,0.6,0.0,39.68,0.1,0.5,0.07,28.05,0.25,0,Fulham,False,Arsenal,-0.68,-0.48
+Tim Ream,DEF,Fulham,0,0,0.0,0,0.0,2023-08-26,0,Arsenal,0,0,0,False,,,,,,,,,,0.2,0.0,37.96,0.1,0.5,0.07,28.05,0.25,0,Fulham,False,Sheffield,,-0.61
+Tim Ream,DEF,Fulham,0,0,0.0,0,0.0,2024-03-30,0,Sheffield,0,0,0,False,,,,,,,,,,0.0,0.0,36.38,0.1,0.5,0.07,28.05,0.25,0,Fulham,False,Nottingham Forest,-0.51,-0.55
+Tim Ream,DEF,Fulham,0,0,0.0,0,0.0,2024-04-02,0,Nottingham Forest,0,0,0,False,,,,,,,,,,0.0,0.0,34.92,0.1,0.5,0.07,28.05,0.25,0,Fulham,True,Newcastle United,3.93,0.55
+Tim Ream,DEF,Fulham,0,0,0.0,0,0.0,2024-04-06,0,Newcastle United,0,0,0,True,,,,,,,,,,0.0,0.0,33.58,0.1,0.5,0.07,28.05,0.25,0,Fulham,False,West Ham,5.62,-0.22
+Tim Ream,DEF,Fulham,0,0,0.0,0,0.0,2024-04-14,0,West Ham,0,0,0,False,,,,,,,,,,0.0,0.0,32.33,0.1,0.5,0.07,28.05,0.25,0,Fulham,True,Liverpool,-0.55,0.18
+Tim Ream,DEF,Fulham,0,0,0.0,0,0.0,2024-04-21,0,Liverpool,0,0,0,True,,,,,,,,,,0.0,0.0,31.18,0.1,0.5,0.07,28.05,0.25,0,Fulham,True,Crystal Palace,,0.88
+Tim Ream,DEF,Fulham,0,0,0.0,0,0.0,2024-04-27,0,Crystal Palace,0,0,0,True,,,,,,,,,,0.0,0.0,30.1,0.1,0.5,0.07,28.05,0.25,0,Fulham,False,Brentford,,-0.53
+Tim Ream,DEF,Fulham,0,0,0.0,0,0.0,2024-05-04,0,Brentford,0,0,0,False,,,,,,,,,,0.0,0.0,29.1,0.1,0.5,0.07,28.05,0.25,0,Fulham,True,Manchester City,,-0.96
+Tim Ream,DEF,Fulham,0,0,0.0,0,0.0,2024-05-11,0,Manchester City,0,0,0,True,,,,,,,,,,0.0,0.0,28.16,0.1,0.5,0.07,28.05,0.25,1,Fulham,False,Luton,,
+Tim Ream,DEF,Fulham,0,0,2.11,2,2.0,2024-05-19,90,Luton,0,1,1,False,0.0,0.0,0.0,90.0,DC,2024-05-19,0.0,0.0,0.0,0.0,0.0,30.09,0.09,0.5,0.07,28.05,0.25,7,Fulham,False,Manchester City,1.5,-1.32
+Tim Ream,DEF,Fulham,1,0,2.26,5,7.9,2023-09-02,90,Manchester City,0,1,7,False,1.0,1.0,0.96,90.0,DC,2023-09-02,0.0,0.0,0.0,0.2,0.0,31.91,0.08,0.5,0.07,28.05,0.25,8,Fulham,True,Luton,1.34,
+Tim Ream,DEF,Fulham,2,1,1.28,0,3.4,2023-09-16,90,Luton,0,1,8,True,0.0,0.0,0.0,90.0,DC,2023-09-16,0.0,0.0,0.0,1.6,0.19,33.62,0.15,0.5,0.07,28.05,0.25,5,Fulham,False,Crystal Palace,-1.05,0.38
+Tim Ream,DEF,Fulham,0,1,0.3,0,1.4,2023-09-23,90,Crystal Palace,0,1,5,False,0.0,0.0,0.0,90.0,DC,2023-09-23,0.0,0.0,0.0,3.2,0.19,35.23,0.21,0.5,0.07,28.05,0.25,1,Fulham,True,Chelsea,1.22,-0.25
+Tim Ream,DEF,Fulham,0,0,1.73,2,1.2,2023-10-02,90,Chelsea,0,1,1,True,0.0,0.0,0.0,90.0,DC,2023-10-02,0.0,0.0,0.0,4.2,0.19,36.75,0.2,0.5,0.07,28.05,0.25,2,Fulham,True,Sheffield,-2.44,0.68
+Tim Ream,DEF,Fulham,0,0,0.57,1,2.2,2023-10-07,90,Sheffield,0,1,2,True,0.0,0.0,0.0,90.0,DC,2023-10-07,0.0,0.0,0.0,4.4,0.19,38.19,0.19,0.5,0.07,28.05,0.25,1,Fulham,False,Tottenham,1.6,-0.36
+Tim Ream,DEF,Fulham,0,0,1.51,2,2.8,2023-10-23,90,Tottenham,0,1,1,False,0.0,0.0,0.0,90.0,DC,2023-10-23,0.0,0.0,0.0,4.6,0.19,39.55,0.18,0.5,0.07,28.05,0.25,0,Fulham,False,Manchester United,,-0.63

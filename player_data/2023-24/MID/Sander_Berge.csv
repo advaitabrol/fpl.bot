@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Sander Berge,Burnley,Manchester City,2023-08-11,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0,0,3,True,0.0,0.0,90.0,0,0,0,0,0,1,Burnley,False,Bournemouth,,0.19
+Sander Berge,Burnley,Bournemouth,2023-10-28,False,Sub,30,0.0,0.7,0.0,0.0,1,2.0,0.0,3.1,0,0,1,False,2.0,0.0,60.0,0,0,0,0,0,2,Burnley,True,Crystal Palace,0.07,0.88
+Sander Berge,Burnley,Crystal Palace,2023-11-04,True,MC,90,0.0,0.0,0.0,0.1,2,0.0,1.0,2.8,0,0,2,True,1.5,0.35,70.0,0,0,0,0,0,2,Burnley,False,Arsenal,-1.08,-0.48
+Sander Berge,Burnley,Arsenal,2023-11-11,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.1,0,0,3,True,1.67,0.23,75.0,0,0,0,0,0,2,Burnley,True,West Ham,-0.48,0.49
+Sander Berge,Burnley,West Ham,2023-11-25,True,MC,90,0.0,0.0,0.0,0.03,2,0.0,1.0,4.4,0,0,2,True,1.75,0.18,78.0,0,0,0,0,0,3,Burnley,True,Sheffield,,0.68
+Sander Berge,Burnley,Sheffield,2023-12-02,True,MC,90,0.0,0.0,0.0,0.04,3,0.0,1.0,2.7,0,1,0,True,1.8,0.14,80.0,0,0,0,0,0,1,Burnley,False,Wolverhampton,0.24,-0.52
+Sander Berge,Burnley,Wolverhampton,2023-12-05,False,MC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,True,2.0,0.14,81.43,0,0,0,0,0,2,Burnley,False,Brighton,-6.77,-0.6
+Sander Berge,Burnley,Brighton,2023-12-09,False,MC,90,0.0,0.0,0.0,0.06,2,0.0,1.0,3.2,0,0,1,True,2.0,0.0,82.5,0,0,0,0,0,2,Burnley,True,Everton,-1.19,0.53
+Sander Berge,Burnley,Everton,2023-12-16,True,MC,90,0.0,0.1,0.0,0.06,2,3.0,1.0,3.2,0,0,2,True,2.0,0.0,83.33,0,0,0,0,0,9,Burnley,False,Fulham,,0.86
+Sander Berge,Burnley,Fulham,2023-12-23,False,MC,90,1.0,0.15,0.0,0.0,9,3.0,0.0,5.8,1,1,0,True,2.0,0.02,84.0,0,0,0,0,0,1,Burnley,True,Liverpool,1.07,0.18
+Sander Berge,Burnley,Liverpool,2023-12-26,True,MC,90,0.0,0.34,0.0,0.03,1,2.0,1.0,2.5,0,0,2,True,3.4,0.05,84.55,0,0,0,0,0,-2,Burnley,False,Aston Villa,-2.94,0.29
+Sander Berge,Burnley,Aston Villa,2023-12-30,False,MC,55,0.0,0.0,0.0,0.0,-2,0.0,0.0,0.0,0,0,3,True,3.0,0.12,82.08,0,0,0,0,0,0,Burnley,True,Luton,,
+Sander Berge,Burnley,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,2.4,0.12,75.77,0,0,0,0,0,2,Burnley,False,Manchester City,1.29,-1.32
+Sander Berge,Burnley,Manchester City,2024-01-31,False,MC,90,0.0,0.08,0.0,0.04,2,1.0,1.0,2.7,0,0,3,True,2.0,0.12,76.79,0,0,0,0,0,1,Burnley,True,Fulham,,-0.13
+Sander Berge,Burnley,Fulham,2024-02-03,True,MC,90,0.0,0.09,0.0,0.0,1,2.0,0.0,3.2,0,0,2,True,2.0,0.11,77.67,0,0,0,0,0,2,Burnley,False,Liverpool,3.66,-1.01
+Sander Berge,Burnley,Liverpool,2024-02-10,False,MC,90,0.0,0.0,0.0,0.04,2,0.0,1.0,4.6,0,0,3,True,0.4,0.1,78.44,0,0,0,0,0,2,Burnley,True,Arsenal,2.1,-0.11
+Sander Berge,Burnley,Arsenal,2024-02-17,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,5,True,0.6,0.03,79.12,0,0,0,0,0,2,Burnley,False,Crystal Palace,1.42,0.38
+Sander Berge,Burnley,Crystal Palace,2024-02-24,False,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.1,0,0,3,True,1.4,0.03,79.72,0,0,0,0,0,2,Burnley,True,Bournemouth,,1.22
+Sander Berge,Burnley,Bournemouth,2024-03-03,True,MC,90,0.0,0.04,0.0,0.02,2,1.0,1.0,3.9,0,0,2,True,1.8,0.03,80.26,0,0,0,0,0,1,Burnley,False,West Ham,-0.06,-0.22
+Sander Berge,Burnley,West Ham,2024-03-10,False,MC,90,0.0,0.1,0.0,0.51,1,2.0,3.0,4.7,0,0,2,True,1.8,0.03,80.75,0,0,0,0,0,2,Burnley,True,Brentford,-6.41,0.79
+Sander Berge,Burnley,Brentford,2024-03-16,True,MC,90,0.0,0.06,0.0,0.03,2,1.0,1.0,4.7,0,0,1,True,1.8,0.03,81.19,0,0,0,0,0,1,Burnley,True,Aston Villa,3.88,0.64
+Sander Berge,Burnley,Aston Villa,2023-08-27,True,MC,67,0.0,0.0,0.0,0.02,1,0.0,1.0,2.3,0,0,3,True,1.8,0.04,80.55,0,0,0,0,0,2,Burnley,False,Chelsea,1.09,-0.85
+Sander Berge,Burnley,Chelsea,2024-03-30,False,MC,90,0.0,0.11,0.0,0.06,2,1.0,1.0,2.9,0,0,2,True,1.6,0.04,80.96,0,0,0,0,0,2,Burnley,True,Wolverhampton,,0.05
+Sander Berge,Burnley,Wolverhampton,2024-04-02,True,MC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.0,0,0,1,True,1.6,0.06,81.33,0,0,0,0,0,1,Burnley,False,Everton,2.03,-0.24
+Sander Berge,Burnley,Everton,2024-04-06,False,MC,90,0.0,0.05,0.0,0.0,1,1.0,0.0,1.6,0,0,1,True,1.6,0.05,81.68,0,0,0,0,0,2,Burnley,True,Brighton,-0.51,-0.66
+Sander Berge,Burnley,Brighton,2024-04-13,True,MC,90,0.0,0.02,0.0,0.03,2,1.0,1.0,2.7,0,0,1,True,1.6,0.04,82.0,0,0,0,0,0,2,Burnley,False,Sheffield,,-0.61
+Sander Berge,Burnley,Sheffield,2024-04-20,False,MC,90,0.0,0.0,0.0,0.54,2,0.0,1.0,3.9,0,0,1,True,1.6,0.04,82.3,0,0,0,0,0,2,Burnley,False,Manchester United,4.49,-0.63
+Sander Berge,Burnley,Manchester United,2024-04-27,False,MC,90,0.0,0.0,0.0,0.58,2,0.0,3.0,5.8,0,0,1,True,1.8,0.04,82.57,0,0,0,0,0,2,Burnley,True,Newcastle United,,0.55
+Sander Berge,Burnley,Newcastle United,2024-05-04,True,DMC,90,0.0,0.06,0.0,0.06,2,2.0,1.0,3.1,0,0,4,True,1.8,0.01,82.83,0,0,0,0,0,4,Burnley,False,Tottenham,,-0.36
+Sander Berge,Burnley,Tottenham,2024-05-11,False,MC,90,0.0,0.0,1.0,0.31,4,0.0,1.0,4.7,0,0,2,True,1.8,0.03,83.07,0,0,0,0,0,2,Burnley,True,Nottingham Forest,,1.55
+Sander Berge,Burnley,Nottingham Forest,2024-05-19,True,MC,90,0.0,0.0,0.0,0.14,2,0.0,3.0,6.3,0,0,2,True,2.4,0.22,83.29,0,0,0,0,0,1,Burnley,True,Tottenham,2.27,0.69
+Sander Berge,Burnley,Tottenham,2023-09-02,True,MC,45,0.0,0.0,0.0,0.02,1,0.0,1.0,2.5,0,0,2,True,2.4,0.21,82.09,0,0,0,0,0,1,Burnley,False,Nottingham Forest,-1.33,-0.55
+Sander Berge,Burnley,Nottingham Forest,2023-09-18,False,Sub,26,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,0,False,2.2,0.21,80.39,0,0,0,0,0,1,Burnley,True,Manchester United,0.22,0.38
+Sander Berge,Burnley,Manchester United,2023-09-23,True,Sub,17,0.0,0.09,0.0,0.0,1,1.0,0.0,1.2,0,0,0,False,2.0,0.21,78.53,0,0,0,0,0,2,Burnley,False,Newcastle United,3.29,-0.41
+Sander Berge,Burnley,Newcastle United,2023-09-30,False,DMC,87,0.0,0.08,0.0,0.14,2,1.0,2.0,4.7,0,0,2,True,1.8,0.22,78.77,0,0,0,0,0,7,Burnley,False,Luton,-0.73,
+Sander Berge,Burnley,Luton,2023-10-03,False,MC,90,0.0,0.0,1.0,0.33,7,0.0,1.0,5.0,2,0,1,True,1.4,0.03,79.08,0,0,0,0,0,2,Burnley,True,Chelsea,1.56,-0.25
+Sander Berge,Burnley,Chelsea,2023-10-07,True,MC,90,0.0,0.05,0.0,0.0,2,1.0,0.0,1.0,0,0,4,True,2.4,0.23,79.38,0,0,0,0,0,1,Burnley,False,Brentford,2.95,-0.53
+Sander Berge,Burnley,Brentford,2023-10-21,False,DMC,65,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,2,True,2.6,0.24,79.0,0,0,0,0,0,0,Fulham,True,Leicester City,,0.47

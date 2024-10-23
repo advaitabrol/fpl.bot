@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Kai Havertz,Chelsea,Everton,2022-08-06,False,FWL,74,0.0,0.18,0.0,0.0,2,3.0,0.0,5.3,0,False,0.0,0.0,74.0,0,0,0,0,0,6.0,Chelsea,True,Wolverhampton,2.42,-0.48
+Kai Havertz,Chelsea,Wolverhampton,2022-10-08,True,FW,85,1.0,1.05,0.0,0.0,6,4.0,0.0,9.4,0,False,2.0,0.18,79.5,0,0,0,0,0,1.0,Chelsea,False,Aston Villa,-1.51,0.59
+Kai Havertz,Chelsea,Aston Villa,2022-10-16,False,AMC,45,0.0,0.09,0.0,0.11,1,1.0,1.0,4.0,0,False,4.0,0.62,68.0,0,0,0,0,0,2.0,Chelsea,False,Brentford,-0.66,-0.55
+Kai Havertz,Chelsea,Brentford,2022-10-19,False,AMC,80,0.0,0.06,0.0,0.0,2,1.0,0.0,3.5,0,False,3.0,0.44,71.0,0,0,0,0,0,0.0,Chelsea,True,Manchester United,-0.06,0.38
+Kai Havertz,Chelsea,Manchester United,,True,,0,,,,,0,,,0.0,0,False,2.75,0.34,56.8,0,0,0,0,0,9.0,Chelsea,False,Brighton,0.05,-0.39
+Kai Havertz,Chelsea,Brighton,2022-10-29,False,FW,90,1.0,0.67,0.0,0.04,9,4.0,2.0,12.4,3,False,2.2,0.28,62.33,0,0,0,0,0,2.0,Chelsea,True,Arsenal,5.81,0.36
+Kai Havertz,Chelsea,Arsenal,2022-11-06,True,AMC,63,0.0,0.05,0.0,0.02,2,1.0,1.0,4.4,0,False,3.6,0.37,62.43,0,0,0,0,0,1.0,Chelsea,False,Newcastle United,-1.55,-0.34
+Kai Havertz,Chelsea,Newcastle United,2022-11-12,False,Sub,17,0.0,0.06,0.0,0.0,1,1.0,0.0,0.5,0,False,2.8,0.17,56.75,0,0,0,0,0,12.0,Chelsea,True,Bournemouth,,1.46
+Kai Havertz,Chelsea,Bournemouth,2022-12-27,True,FW,90,1.0,0.99,1.0,0.17,12,3.0,2.0,12.8,3,True,2.8,0.17,60.44,0,0,0,0,0,2.0,Chelsea,False,Nottingham Forest,,
+Kai Havertz,Chelsea,Nottingham Forest,2023-01-01,False,FW,90,0.0,0.1,0.0,0.0,2,1.0,0.0,5.2,0,True,4.8,0.55,63.4,0,0,0,0,0,2.0,Chelsea,True,Manchester City,1.05,-1.17
+Kai Havertz,Chelsea,Manchester City,2023-01-05,True,FW,90,0.0,0.05,0.0,0.34,2,1.0,4.0,8.6,0,True,5.2,0.57,65.82,0,0,0,0,0,2.0,Chelsea,False,Fulham,,1.37
+Kai Havertz,Chelsea,Fulham,2023-01-12,False,FW,90,0.0,0.52,0.0,0.45,2,3.0,4.0,11.2,0,True,3.8,0.45,67.83,0,0,0,0,0,1.0,Chelsea,True,Tottenham,-1.77,1.07
+Kai Havertz,Chelsea,Tottenham,2022-08-14,True,AMC,89,0.0,0.56,0.0,0.07,1,2.0,1.0,6.1,0,False,3.8,0.54,69.46,0,0,0,0,0,6.0,Chelsea,True,Crystal Palace,0.31,0.81
+Kai Havertz,Chelsea,Crystal Palace,2023-01-15,True,FW,88,1.0,1.15,0.0,0.0,6,5.0,0.0,9.3,0,True,3.8,0.64,70.79,0,0,0,0,0,2.0,Chelsea,False,Liverpool,0.32,-1.33
+Kai Havertz,Chelsea,Liverpool,2023-01-21,False,FW,80,0.0,0.17,0.0,0.02,2,2.0,1.0,2.8,0,True,2.6,0.48,71.4,0,0,0,0,0,2.0,Chelsea,True,Fulham,,-0.3
+Kai Havertz,Chelsea,Fulham,2023-02-03,True,FW,90,0.0,0.8,0.0,0.0,2,3.0,0.0,1.2,0,True,2.6,0.49,72.56,0,0,0,0,0,2.0,Chelsea,False,West Ham,4.47,0.14
+Kai Havertz,Chelsea,West Ham,2023-02-11,False,FW,90,0.0,0.03,0.0,0.05,2,1.0,1.0,2.7,0,True,2.6,0.64,73.59,0,0,0,0,0,1.0,Chelsea,True,Southampton,-1.13,-0.38
+Kai Havertz,Chelsea,Southampton,2023-02-18,True,Sub,26,0.0,0.0,0.0,0.72,1,0.0,3.0,5.7,0,False,2.6,0.54,70.94,0,0,0,0,0,1.0,Chelsea,False,Tottenham,-1.69,-0.03
+Kai Havertz,Chelsea,Tottenham,2023-02-26,False,FW,90,0.0,0.0,0.0,0.08,1,0.0,3.0,5.3,0,True,2.6,0.43,71.95,0,0,0,0,0,2.0,Chelsea,True,Leicester City,1.12,0.83
+Kai Havertz,Chelsea,Leicester City,2023-03-04,True,FW,90,0.0,0.52,0.0,0.33,2,1.0,2.0,6.4,0,True,1.6,0.2,72.85,0,0,0,0,0,9.0,Chelsea,False,Leeds United,-3.0,-0.8
+Kai Havertz,Chelsea,Leeds United,2023-03-11,False,FWR,90,1.0,0.74,0.0,0.35,9,5.0,1.0,10.2,3,True,1.6,0.27,73.67,0,0,0,0,0,8.0,Chelsea,True,Everton,1.01,0.34
+Kai Havertz,Chelsea,Everton,2023-03-18,True,FW,90,1.0,1.11,0.0,0.06,8,6.0,1.0,13.6,2,True,3.0,0.26,74.41,0,0,0,0,0,2.0,Chelsea,True,Aston Villa,-2.49,0.55
+Kai Havertz,Chelsea,Aston Villa,2023-04-01,True,AMC,90,0.0,0.78,0.0,0.14,2,4.0,3.0,11.3,0,True,4.2,0.47,75.09,0,0,0,0,0,2.0,Chelsea,True,Liverpool,,-0.53
+Kai Havertz,Chelsea,Liverpool,2023-04-04,True,FW,90,0.0,1.31,0.0,0.11,2,4.0,2.0,10.2,0,True,4.4,0.63,75.71,0,0,0,0,0,2.0,Chelsea,False,Leicester City,5.06,-0.05
+Kai Havertz,Chelsea,Leicester City,2022-08-21,False,FW,90,0.0,0.0,0.0,0.07,2,0.0,1.0,3.0,0,False,4.6,0.89,76.28,0,0,0,0,0,2.0,Chelsea,False,Wolverhampton,0.77,-0.46
+Kai Havertz,Chelsea,Wolverhampton,2023-04-08,False,FW,60,0.0,0.11,0.0,0.02,2,1.0,1.0,4.1,0,True,4.6,0.79,75.65,0,0,0,0,0,0.0,Chelsea,True,Brighton,,-0.71
+Kai Havertz,Chelsea,Brighton,,True,,0,,,,,0,,,0.0,0,False,3.2,0.66,72.85,0,0,0,0,0,0.0,Chelsea,True,Brentford,,0.69
+Kai Havertz,Chelsea,Brentford,,True,,0,,,,,0,,,0.0,0,False,1.6,0.44,70.25,0,0,0,0,0,1.0,Chelsea,False,Arsenal,-1.77,-0.0
+Kai Havertz,Chelsea,Arsenal,2023-05-02,False,Sub,45,0.0,0.18,0.0,0.0,1,2.0,0.0,6.2,0,False,1.2,0.28,69.38,0,0,0,0,0,2.0,Chelsea,False,Bournemouth,,0.19
+Kai Havertz,Chelsea,Bournemouth,2023-05-06,False,FW,83,0.0,0.46,0.0,0.0,2,1.0,0.0,1.7,0,True,1.0,0.06,69.83,0,0,0,0,0,1.0,Chelsea,True,Nottingham Forest,,
+Kai Havertz,Chelsea,Nottingham Forest,2023-05-13,True,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,False,1.0,0.15,68.13,0,0,0,0,0,1.0,Chelsea,False,Manchester City,,-1.26
+Kai Havertz,Chelsea,Manchester City,2023-05-21,False,FW,84,0.0,0.16,0.0,0.3,1,3.0,1.0,3.6,0,True,0.8,0.13,68.62,0,0,0,0,0,2.0,Chelsea,False,Manchester United,,-0.1
+Kai Havertz,Chelsea,Manchester United,2023-05-25,False,FW,63,0.0,0.47,0.0,0.0,2,3.0,0.0,3.3,0,True,1.0,0.16,68.45,0,0,0,0,0,1.0,Chelsea,True,Newcastle United,,0.73
+Kai Havertz,Chelsea,Newcastle United,2023-05-28,True,FW,58,0.0,0.0,0.0,0.05,1,0.0,2.0,0.0,0,True,1.4,0.25,68.15,0,0,0,0,0,1.0,Chelsea,True,Leeds United,-3.8,-0.79
+Kai Havertz,Chelsea,Leeds United,2022-08-27,True,FW,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,False,1.4,0.22,68.77,0,0,0,0,0,2.0,Chelsea,False,Southampton,0.63,-1.07
+Kai Havertz,Chelsea,Southampton,2022-08-30,False,FWL,65,0.0,0.15,0.0,0.0,2,2.0,0.0,3.4,0,False,1.2,0.13,68.67,0,0,0,0,0,6.0,Chelsea,True,West Ham,-1.25,0.63
+Kai Havertz,Chelsea,West Ham,2022-09-03,True,Sub,18,1.0,0.12,0.0,0.0,6,1.0,0.0,5.5,2,False,1.4,0.16,67.3,0,0,0,0,0,2.0,Chelsea,False,Crystal Palace,-1.84,0.13
+Kai Havertz,Chelsea,Crystal Palace,2022-10-01,False,FW,75,0.0,0.13,0.0,0.07,2,2.0,1.0,4.5,0,False,2.4,0.15,67.5,0,0,0,0,0,,Chelsea,True,Liverpool,,-0.53

@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import shutil
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 
@@ -355,6 +356,7 @@ def process_fwd_mid_player_file(player_path, season, last_season_dir, position):
     
     # 4. Get last season stats for 2022-23 and 2023-24 seasons
     if season in ['2022-23', '2023-24', '2024-25']:
+        player_file = os.path.basename(player_path)
         last_season_goals, last_season_assists, last_season_xG, last_season_xA, last_season_ppm = get_fwd_mid_last_season_stats(player_file, last_season_dir, position)
         df['last_season_goals'] = last_season_goals
         df['last_season_assists'] = last_season_assists
@@ -467,6 +469,7 @@ def process_defender_player_file(player_path, season, last_season_dir):
     
     # 5. Get last season stats (only for 2022-23 and 2023-24 seasons)
     if season in ['2022-23', '2023-24', '2024-25']:
+        player_file = os.path.basename(player_path)
         last_season_xG, last_season_xA, last_season_expected_goals_conceded, last_season_clean_sheet_prob = get_last_season_stats_defender(player_file, last_season_dir)
         df['last_season_xG'] = last_season_xG
         df['last_season_xA'] = last_season_xA
@@ -493,7 +496,6 @@ def calculate_goalkeeper_form(series, num_games=5):
         else:
             form.append(series[i-num_games:i].mean())
     return form
-
 # Helper function to get last season stats for goalkeepers
 def get_last_season_stats_goalkeeper(player_name, last_season_dir):
     last_season_file = os.path.join(last_season_dir, 'GK', player_name)
@@ -526,7 +528,6 @@ def get_last_season_stats_goalkeeper(player_name, last_season_dir):
         print(f"File {last_season_file} not found.")  # Debugging
     
     return 0, 0, 0, 0
-
 # Helper function to calculate clean sheet probability for current season
 def calculate_clean_sheet_probability(df):
     clean_sheet_games = df[(df['minutes'] > 60) & (df['clean_sheets'] == True)]
@@ -534,16 +535,13 @@ def calculate_clean_sheet_probability(df):
     if not total_games.empty:
         return len(clean_sheet_games) / len(total_games)
     return 0
-
 # Helper function to calculate saves per game
 def calculate_saves_per_game(df):
     return df['saves'].cumsum() / (df.index + 1)
-
 # Main function to process goalkeeper data across all seasons
 def form_goalkeeper_data(root_dir='player_data', seasons=['2021-22', '2022-23', '2023-24', '2024-25']):
     for season in seasons:
         process_goalkeeper_season_data(season, root_dir)
-
 # Function to process goalkeeper data for a specific season
 def process_goalkeeper_season_data(season, root_dir):
     position_dir = os.path.join(root_dir, season, 'GK')
@@ -556,7 +554,6 @@ def process_goalkeeper_season_data(season, root_dir):
     for player_file in os.listdir(position_dir):
         player_path = os.path.join(position_dir, player_file)
         process_goalkeeper_player_file(player_path, season, last_season_dir)
-
 # Function to process a single goalkeeper's file
 def process_goalkeeper_player_file(player_path, season, last_season_dir):
     try:
@@ -584,6 +581,7 @@ def process_goalkeeper_player_file(player_path, season, last_season_dir):
     
     # 4. Get last season stats (only for 2022-23 and 2023-24 seasons)
     if season in ['2022-23', '2023-24', '2024-25']:
+        player_file = os.path.basename(player_path)
         last_season_penalties_saved, last_season_expected_goals_conceded, last_season_clean_sheet_prob, last_season_total_saves = get_last_season_stats_goalkeeper(player_file, last_season_dir)
         df['last_season_penalties_saved'] = last_season_penalties_saved
         df['last_season_expected_goals_conceded'] = last_season_expected_goals_conceded
@@ -599,15 +597,349 @@ def process_goalkeeper_player_file(player_path, season, last_season_dir):
 
 
 
+#ADD THE NEXT WEEK GAMEWEEK POINTS TO EACH ROW
+def add_next_gw_pts(base_dir='player_data', seasons=['2022-23', '2023-24', '2024-25']):
+    
+    positions=['FWD', 'MID', 'GK', 'DEF']; 
+    """
+    Processes player CSV files in the given directory structure by adding a 'next_week_points' column.
+    
+    Args:
+    base_dir (str): The base directory containing the player data.
+    seasons (list of str): List of season directories to process.
+    positions (list of str): List of position directories to process.
+    
+    """
+    # Loop through each season
+    for season_index, season in enumerate(seasons):
+        for position in positions:
+            # Get the path to the position folder in the current season
+            position_dir = os.path.join(base_dir, season, position)
+
+            # Ensure the position directory exists
+            if not os.path.exists(position_dir):
+                print(f"Position directory {position_dir} does not exist. Skipping.")
+                continue
+
+            # Loop through each player CSV file in the position directory
+            for player_file in os.listdir(position_dir):
+                # Load the CSV file for the player
+                player_file_path = os.path.join(position_dir, player_file)
+                try:
+                    df = pd.read_csv(player_file_path)
+                except pd.errors.EmptyDataError:
+                    print(f"File {player_file_path} is empty or corrupted. Skipping.")
+                    continue
+
+                # Check if the file has a 'total_points' column
+                if 'total_points' not in df.columns:
+                    print(f"File {player_file_path} does not have 'total_points'. Skipping.")
+                    continue
+
+                # Create a new column for next week's points
+                df['next_week_points'] = None
+
+                # Iterate through each row
+                for i in range(len(df) - 1):
+                    df.at[i, 'next_week_points'] = df.at[i + 1, 'total_points']
+
+                # Handle the case for the last row, only if it's not the last season
+                if season_index < len(seasons) - 1 and len(df) > 0:
+                    # Look for the same player file in the next season, same position
+                    next_season = seasons[season_index + 1]
+                    next_season_dir = os.path.join(base_dir, next_season, position)
+                    next_season_player_file = os.path.join(next_season_dir, player_file)
+
+                    # Ensure the next season file exists and can be read
+                    if os.path.exists(next_season_player_file):
+                        try:
+                            next_season_df = pd.read_csv(next_season_player_file)
+                            if len(next_season_df) > 0:
+                                # Get the first row's total_points from the next season
+                                df.at[len(df) - 1, 'next_week_points'] = next_season_df.at[0, 'total_points']
+                        except pd.errors.EmptyDataError:
+                            print(f"File {next_season_player_file} is empty or corrupted. Skipping last row addition.")
+
+                # Save the updated CSV file back to the same location
+                df.to_csv(player_file_path, index=False)
+
+    print("Processing completed.")
+
+  
+
+###ADDING FORM 
+def map_team_name(team_name, team_name_mappings):
+    """Map team names to their canonical versions."""
+    return team_name_mappings.get(team_name, team_name)
+
+def get_closest_match(team_name, options, threshold=75):
+    """Get the closest match for a team name using fuzzywuzzy."""
+    closest_match, score = process.extractOne(team_name, options)
+    if score >= threshold:
+        return closest_match
+    return None
+
+def get_difficulty_subdirectory(season, row_index):
+    """Determine the appropriate difficulty directory based on the row index."""
+    season_start_year = int(season.split('-')[0])
+    if row_index <= 19:  # First half of the season
+        return f'difficulty_{season_start_year}'
+    else:  # Second half of the season
+        return f'difficulty_half_{season_start_year+1}'
+
+def get_next_fixture_difficulty(player_team, was_home, opponent_team, season, row_index, fixture_difficulties_dir, team_name_mappings):
+    """Calculate next week's specific fixture difficulty."""
+    mapped_team = map_team_name(player_team, team_name_mappings)
+    difficulty_subdir = get_difficulty_subdirectory(season, row_index)
+    difficulty_dir_path = os.path.join(fixture_difficulties_dir, difficulty_subdir)
+
+    if os.path.exists(difficulty_dir_path):
+        team_files = os.listdir(difficulty_dir_path)
+        closest_team_file = get_closest_match(mapped_team, team_files)
+
+        if closest_team_file:
+            team_difficulty_file_path = os.path.join(difficulty_dir_path, closest_team_file)
+            team_df = pd.read_csv(team_difficulty_file_path)
+            opponent = get_closest_match(opponent_team, team_df['Opponent'].tolist())
+
+            if opponent is not None:
+                if was_home:
+                    difficulty = team_df.loc[team_df['Opponent'] == opponent, 'Home Difficulty'].values
+                else:
+                    difficulty = team_df.loc[team_df['Opponent'] == opponent, 'Away Difficulty'].values
+                if len(difficulty) > 0:
+                    return round(difficulty[0], 2)
+    return None
+
+def get_next_holistic_fixture_difficulty(opponent_team, was_home, season, row_index, holistic_difficulties_dir, team_name_mappings):
+    """Calculate holistic fixture difficulty for the next week."""
+    mapped_team = map_team_name(opponent_team, team_name_mappings)
+    difficulty_subdir = get_difficulty_subdirectory(season, row_index)
+    difficulty_dir_path = os.path.join(holistic_difficulties_dir, difficulty_subdir)
+
+    if os.path.exists(difficulty_dir_path):
+        team_files = os.listdir(difficulty_dir_path)
+        closest_team_file = get_closest_match(mapped_team, team_files)
+
+        if closest_team_file:
+            team_difficulty_file_path = os.path.join(difficulty_dir_path, closest_team_file)
+            team_df = pd.read_csv(team_difficulty_file_path)
+
+            if was_home:
+                difficulty = team_df['Away Difficulty'].values
+            else:
+                difficulty = team_df['Home Difficulty'].values
+            if len(difficulty) > 0:
+                return round(difficulty[0], 2)
+    return None
+
+def get_next_season_fixture(player_file, current_season_index, position, seasons, merged_data_dir):
+    """Handle moving to the next season for the last row."""
+    if current_season_index < len(seasons) - 1:
+        next_season = seasons[current_season_index + 1]
+        next_season_dir = os.path.join(merged_data_dir, next_season, position)
+        if os.path.exists(next_season_dir):
+            next_season_files = os.listdir(next_season_dir)
+            closest_player_file = get_closest_match(player_file, next_season_files, threshold=75)
+            if closest_player_file:
+                next_player_path = os.path.join(next_season_dir, closest_player_file)
+                next_df = pd.read_csv(next_player_path)
+                if len(next_df) > 0:
+                    return next_df.iloc[0]['team'], next_df.iloc[0]['was_home'], next_df.iloc[0]['opponent_team']
+    return None, None, None
+
+def process_form_data(merged_data_dir, fixture_difficulties_dir, holistic_difficulties_dir, seasons, positions, team_name_mappings):
+    """Main function to traverse the data and calculate fixture difficulties."""
+    for season_index, season in enumerate(seasons):
+        for position in positions:
+            position_dir = os.path.join(merged_data_dir, season, position)
+            
+            if os.path.exists(position_dir):
+                for player_file in os.listdir(position_dir):
+                    player_file_path = os.path.join(position_dir, player_file)
+                    
+                    try:
+                        df = pd.read_csv(player_file_path)
+                    except pd.errors.EmptyDataError:
+                        print(f"File {player_file_path} is empty or corrupted. Skipping.")
+                        continue
+                    
+                    if df.empty or not {'team', 'was_home', 'opponent_team'}.issubset(df.columns):
+                        continue
+
+                    df['next_team'] = df['team'].shift(-1)
+                    df['next_was_home'] = df['was_home'].shift(-1)
+                    df['next_opponent_team'] = df['opponent_team'].shift(-1)
+
+                    last_row_index = df.index[-1]
+                    if season_index < len(seasons) - 1:
+                        next_season_team, next_season_was_home, next_season_opponent_team = get_next_season_fixture(
+                            player_file, season_index, position, seasons, merged_data_dir)
+                        
+                        if next_season_team:
+                            df.loc[last_row_index, 'next_team'] = next_season_team
+                            df.loc[last_row_index, 'next_was_home'] = next_season_was_home
+                            df.loc[last_row_index, 'next_opponent_team'] = next_season_opponent_team
+                    
+                    df['next_week_specific_fixture_difficulty'] = df.apply(
+                        lambda row: get_next_fixture_difficulty(
+                            row['next_team'], row['next_was_home'], row['next_opponent_team'], season, row.name,
+                            fixture_difficulties_dir, team_name_mappings
+                        ) if pd.notnull(row['next_team']) and pd.notnull(row['next_opponent_team']) else None, axis=1
+                    )
+
+                    df['next_week_holistic_fixture_difficulty'] = df.apply(
+                        lambda row: get_next_holistic_fixture_difficulty(
+                            row['next_opponent_team'], row['next_was_home'], season, row.name,
+                            holistic_difficulties_dir, team_name_mappings
+                        ) if pd.notnull(row['next_opponent_team']) else None, axis=1
+                    )
+
+                    df.to_csv(player_file_path, index=False)
+                    print(f"Updated {player_file_path} with next_week_specific_fixture_difficulty and next_week_holistic_fixture_difficulty.")
+            else:
+                print(f"Position directory {position_dir} does not exist for season {season}.")
+
+def process_forms_default():
+    """Helper function to call process_player_data with default directories and mappings."""
+    merged_data_dir = 'player_data'
+    fixture_difficulties_dir = 'fixture_difficulties'
+    holistic_difficulties_dir = 'holistic_difficulties'
+
+    seasons = ['2022-23', '2023-24', '2024-25']
+    positions = ['GK', 'DEF', 'MID', 'FWD']
+
+    team_name_mappings = {
+        "Spurs": "Tottenham",
+        "Man City": "Manchester City",
+        "Man Utd": "Manchester United",
+        "Nott'm Forest": "Nottingham Forest"
+    }
+
+    process_form_data(merged_data_dir, fixture_difficulties_dir, holistic_difficulties_dir, seasons, positions, team_name_mappings)
+
+
+
+###CREATE TRAIN DATA 
+def create_train_data(base_dir, train_data_dir, seasons):
+    # Create the train_data directory if it doesn't exist
+    if not os.path.exists(train_data_dir):
+        os.makedirs(train_data_dir)
+
+    # Define the positions and corresponding output files
+    positions_mapping = {
+        'FWD': 'forward.csv',
+        'MID': 'midfielder.csv',
+        'GK': 'goalkeeper.csv',
+        'DEF': 'defender.csv'
+    }
+
+    # Initialize empty dataframes for each position
+    position_dfs = {
+        'FWD': pd.DataFrame(),
+        'MID': pd.DataFrame(),
+        'GK': pd.DataFrame(),
+        'DEF': pd.DataFrame()
+    }
+
+    # Loop through the seasons
+    for season in seasons:
+        # Loop through each position (FWD, MID, GK, DEF)
+        for position, output_file in positions_mapping.items():
+            position_dir = os.path.join(base_dir, season, position)
+
+            # Ensure the position directory exists
+            if not os.path.exists(position_dir):
+                print(f"Position directory {position_dir} does not exist. Skipping.")
+                continue
+
+            # Loop through each player CSV file in the position directory
+            for player_file in os.listdir(position_dir):
+                player_file_path = os.path.join(position_dir, player_file)
+
+                try:
+                    df = pd.read_csv(player_file_path)
+                except pd.errors.EmptyDataError:
+                    print(f"File {player_file_path} is empty or corrupted. Skipping.")
+                    continue
+
+                # Filter rows where 'next_week_points' is defined (non-null or non-NaN)
+                df_filtered = df[df['next_week_points'].notnull()]
+
+                # Append filtered data to the corresponding dataframe for this position
+                position_dfs[position] = pd.concat([position_dfs[position], df_filtered])
+
+    # Save each position's dataframe into the corresponding CSV in train_data
+    for position, output_file in positions_mapping.items():
+        output_path = os.path.join(train_data_dir, output_file)
+        position_dfs[position].to_csv(output_path, index=False)
+        print(f"{output_file} saved with {len(position_dfs[position])} rows.")
+
+    print("Processing completed.")
+
+def clean_footprint(base_dirs=['fpl_gw_data', 'understat_data']):
+    """
+    Deletes all files and directories within the provided base directories.
+    
+    Parameters:
+    - base_dirs: A list of base directories to clean (e.g., ['fpl_gw_data', 'understat_data']).
+    """
+    for base_dir in base_dirs:
+        # Check if the directory exists
+        if os.path.exists(base_dir):
+            # Loop through all subdirectories and files in the base directory
+            for root, dirs, files in os.walk(base_dir, topdown=False):
+                # Remove files
+                for file in files:
+                    file_path = os.path.join(root, file)
+                    try:
+                        os.remove(file_path)
+                        print(f"Deleted file: {file_path}")
+                    except OSError as e:
+                        print(f"Error deleting file {file_path}: {e}")
+
+                # Remove directories
+                for dir in dirs:
+                    dir_path = os.path.join(root, dir)
+                    try:
+                        shutil.rmtree(dir_path)
+                        print(f"Deleted directory: {dir_path}")
+                    except OSError as e:
+                        print(f"Error deleting directory {dir_path}: {e}")
+
+            # Remove the base directory itself
+            try:
+                shutil.rmtree(base_dir)
+                print(f"Deleted base directory: {base_dir}")
+            except OSError as e:
+                print(f"Error deleting base directory {base_dir}: {e}")
+        else:
+            print(f"Directory {base_dir} does not exist. Skipping.")
+
+
+
+
+
 
 def merge_all(): 
-  merge_fpl_and_understat_data(); 
-  process_fwd_data(); 
-  process_mid_data(); 
-  process_def_data(); 
-  process_gk_data();  
+  #merge_fpl_and_understat_data(); 
+  #process_fwd_data(); 
+  #process_mid_data(); 
+  #process_def_data(); 
+  #process_gk_data();  
   ###GET THE FORMS 
-  form_fwd_mid_data();
-  form_defender_data();
-  form_goalkeeper_data(); 
+  #form_fwd_mid_data();
+  #form_defender_data();
+  #form_goalkeeper_data(); 
+  ###ADD THE NEXT GW PTS 
+  #add_next_gw_pts(); 
+  ###ADD FORMS 
+  #process_forms_default(); 
+  create_train_data('player_data', 'train_data', ['2022-23', '2023-24']); 
+  clean_footprint();
+
+
+
+if __name__ == "__main__":
+    merge_all()
 
