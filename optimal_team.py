@@ -1,90 +1,124 @@
-import pulp as pl
-import pandas as pd
 import os
+import pandas as pd
+import pulp as pl
 
-# Load player data for all positions (GK, DEF, MID, ATT) from respective CSVs
+# Directory containing the player data
+base_dir = './fake_plur_data/'
+
+# Load player data from CSV files and correct column names
 def load_player_data(base_dir):
     positions = ['GK', 'DEF', 'MID', 'ATT']
-    all_players = []
+    all_players = pd.DataFrame()
 
     for pos in positions:
-        file_path = os.path.join(base_dir, f"{pos}.csv")
+        file_path = os.path.join(base_dir, pos, f"{pos}.csv")
         df = pd.read_csv(file_path)
-        df['Position'] = pos  # Add the position column
-        all_players.extend(df.to_dict(orient='records'))
-    
+        
+        # Rename columns to match the expected names for consistency
+        df.rename(columns={'Player Name': 'name', 'Team': 'team', 'Value': 'value', 'Expected Points': 'expected_points'}, inplace=True)
+        
+        df['position'] = pos  # Add position column to differentiate
+        all_players = pd.concat([all_players, df], ignore_index=True)
+
     return all_players
 
-# Define the MILP optimization function
-def build_optimal_team(player_data, max_team_budget=100, max_players_per_team=3):
-    # Create a MILP problem to maximize expected points
-    prob = pl.LpProblem("FPL_Team_Selection", pl.LpMaximize)
+# Select the bench players, minimizing their value
+def select_bench_players(all_players):
+    # Initialize LP problem for selecting bench players with minimum value
+    prob = pl.LpProblem("BenchSelection", pl.LpMinimize)
 
-    # Define decision variables: 1 if the player is selected, 0 otherwise
-    player_vars = {player['Name']: pl.LpVariable(player['Name'], cat='Binary') for player in player_data}
+    # Define decision variables for the bench
+    player_vars = [pl.LpVariable(f"bench_player_{i}", cat='Binary') for i in range(len(all_players))]
 
-    # Objective: Maximize the total expected points of the selected players
-    prob += pl.lpSum([player_vars[player['Name']] * player['Expected Points'] for player in player_data])
+    # Objective: Minimize the total value of the bench
+    prob += pl.lpSum([player_vars[i] * all_players.loc[i, 'value'] for i in range(len(all_players))])
 
-    # Constraint 1: Total team value must not exceed 100
-    prob += pl.lpSum([player_vars[player['Name']] * player['Value'] for player in player_data]) <= max_team_budget, "TotalValue"
+    # Constraint: Select exactly 4 bench players
+    prob += pl.lpSum(player_vars) == 4
 
-    # Constraint 2: 2 goalkeepers, 5 defenders, 5 midfielders, 3 attackers
-    prob += pl.lpSum([player_vars[player['Name']] for player in player_data if player['Position'] == 'GK']) == 2, "Goalkeepers"
-    prob += pl.lpSum([player_vars[player['Name']] for player in player_data if player['Position'] == 'DEF']) == 5, "Defenders"
-    prob += pl.lpSum([player_vars[player['Name']] for player in player_data if player['Position'] == 'MID']) == 5, "Midfielders"
-    prob += pl.lpSum([player_vars[player['Name']] for player in player_data if player['Position'] == 'ATT']) == 3, "Attackers"
+    # Constraint: 1 goalkeeper on the bench
+    prob += pl.lpSum([player_vars[i] for i in range(len(all_players)) if all_players.loc[i, 'position'] == 'GK']) == 1
 
-    # Constraint 3: Only one substitute GK (1 additional goalkeeper must be on the bench)
-    prob += pl.lpSum([player_vars[player['Name']] for player in player_data if player['Position'] == 'GK']) == 2, "SubGoalkeeper"
-
-    # Constraint 4: No more than 3 players from the same team
-    teams = list(set([player['Team'] for player in player_data]))
-    for team in teams:
-        prob += pl.lpSum([player_vars[player['Name']] for player in player_data if player['Team'] == team]) <= max_players_per_team, f"MaxPlayersFrom_{team}"
-
-    # Solve the problem
+    # Solve the LP problem
     prob.solve()
 
-    # Extract the selected players
-    selected_players = [player for player in player_data if player_vars[player['Name']].varValue == 1]
-    
-    # Separate into starters and subs based on positions and optimize the lineup
-    starters = []
-    subs = []
-    
-    # Sort selected players into starters and subs
-    gks = [p for p in selected_players if p['Position'] == 'GK']
-    defs = [p for p in selected_players if p['Position'] == 'DEF']
-    mids = [p for p in selected_players if p['Position'] == 'MID']
-    atts = [p for p in selected_players if p['Position'] == 'ATT']
+    # Get the selected bench players
+    bench_players = [i for i in range(len(all_players)) if player_vars[i].varValue == 1]
 
-    # Start with selecting the starters
-    starters += gks[:1]  # 1 starting GK
-    starters += defs[:5]  # 5 starting DEF
-    starters += mids[:5]  # 5 starting MID
-    starters += atts[:3]  # 3 starting ATT
+    return bench_players
 
-    # Now, select substitutes
-    subs += gks[1:2]  # 1 sub GK
-    subs += defs[5:]  # Remaining defenders as subs
-    subs += mids[5:]  # Remaining midfielders as subs
-    subs += atts[3:]  # Remaining attackers as subs
+# Select the starting 11 players, maximizing expected points
+def select_starting_11(all_players, remaining_budget, bench_players):
+    # Remove bench players from the pool
+    prob = pl.LpProblem("Starting11Selection", pl.LpMaximize)
 
-    return starters, subs
+    # Define decision variables for starting 11
+    player_vars = [pl.LpVariable(f"starting_player_{i}", cat='Binary') for i in range(len(all_players))]
 
-# Load player data
-base_dir = "./fake_plur_data"  # Directory where your player data is stored
-players = load_player_data(base_dir)
+    # Objective: Maximize the total expected points for the starting 11
+    prob += pl.lpSum([player_vars[i] * all_players.loc[i, 'expected_points'] for i in range(len(all_players))])
 
-# Build the optimal team
-starters, subs = build_optimal_team(players)
+    # Constraint: Total value of the starting 11 should be within the remaining budget
+    prob += pl.lpSum([player_vars[i] * all_players.loc[i, 'value'] for i in range(len(all_players))]) <= remaining_budget
 
-# Display the selected team
-print("\n--- Starters ---")
-for player in starters:
-    print(f"{player['Name']} ({player['Position']}, {player['Team']}) - Value: {player['Value']}, Expected Points: {player['Expected Points']}")
+    # Constraint: Select exactly 11 starting players
+    prob += pl.lpSum(player_vars) == 11
 
-print("\n--- Substitutes ---")
-for player in subs:
-    print(f"{player['Name']} ({player['Position']}, {player['Team']}) - Value: {player['Value']}, Expected Points: {player['Expected Points']}")
+    # Position constraints for the starting 11
+    prob += pl.lpSum([player_vars[i] for i in range(len(all_players)) if all_players.loc[i, 'position'] == 'GK']) == 1
+    prob += pl.lpSum([player_vars[i] for i in range(len(all_players)) if all_players.loc[i, 'position'] == 'DEF']) >= 3
+    prob += pl.lpSum([player_vars[i] for i in range(len(all_players)) if all_players.loc[i, 'position'] == 'MID']) >= 3
+    prob += pl.lpSum([player_vars[i] for i in range(len(all_players)) if all_players.loc[i, 'position'] == 'ATT']) >= 1
+
+    # Solve the LP problem
+    prob.solve()
+
+    # Get the selected starting players
+    starting_players = [i for i in range(len(all_players)) if player_vars[i].varValue == 1]
+
+    return starting_players
+
+# Main function to build the optimal team
+def build_optimal_team():
+    all_players = load_player_data(base_dir)
+
+    # Phase 1: Select bench players (minimizing their value)
+    bench_players = select_bench_players(all_players)
+
+    # Calculate the total value of the bench players
+    total_bench_value = sum(all_players.loc[i, 'value'] for i in bench_players)
+
+    # Remaining budget for the starting 11
+    remaining_budget = 100 - total_bench_value
+
+    # Phase 2: Select the starting 11 players (maximizing expected points)
+    starting_players = select_starting_11(all_players, remaining_budget, bench_players)
+
+    # Prepare the final team
+    team = {'starting': starting_players, 'subs': bench_players}
+
+    return team
+
+# Print the optimal team
+def print_team(team, all_players):
+    print("Starting 11 players:")
+    for i, player_idx in enumerate(team['starting']):
+        player = all_players.loc[player_idx]
+        print(f"{i+1}. {player['name']} ({player['position']}) - {player['team']} - Value: {player['value']} - Expected Points: {player['expected_points']}")
+
+    print("\nSubstitute players:")
+    for i, player_idx in enumerate(team['subs']):
+        player = all_players.loc[player_idx]
+        print(f"{i+1}. {player['name']} ({player['position']}) - {player['team']} - Value: {player['value']} - Expected Points: {player['expected_points']}")
+
+    # Calculate total values and expected points
+    total_value = sum(all_players.loc[player_idx, 'value'] for player_idx in team['starting']) + sum(all_players.loc[player_idx, 'value'] for player_idx in team['subs'])
+    total_expected_points = sum(all_players.loc[player_idx, 'expected_points'] for player_idx in team['starting'])
+
+    print(f"\nTotal Value: {total_value}")
+    print(f"Total Expected Points (Starting 11 only): {total_expected_points}")
+
+if __name__ == "__main__":
+    optimal_team = build_optimal_team()
+    all_players = load_player_data(base_dir)
+    print_team(optimal_team, all_players)
