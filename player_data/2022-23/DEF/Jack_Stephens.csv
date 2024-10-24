@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jack Stephens,Southampton,Tottenham,2022-08-06,False,Sub,45,0.0,0.0,0.0,0.0,0,0.0,0.0,1.5,0,0,2,0.0,False,0.0,0.0,45.0,0.0,0,0,0,0,0.0,Bournemouth,True,Leeds United,,-0.79
+Jack Stephens,Bournemouth,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,22.5,0.0,0,0,0,0,0.0,Bournemouth,False,Fulham,,1.37
+Jack Stephens,Bournemouth,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,15.0,0.0,0,0,0,0,0.0,Bournemouth,True,Southampton,,-0.38
+Jack Stephens,Bournemouth,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,11.25,0.0,0,0,0,0,0.0,Bournemouth,False,West Ham,,0.14
+Jack Stephens,Bournemouth,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,9.0,0.0,0,0,0,0,1.0,Bournemouth,True,Tottenham,,1.07
+Jack Stephens,Bournemouth,Tottenham,2022-10-29,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,0.0,False,0.0,0.0,7.67,0.0,0,0,0,0,0.0,Bournemouth,False,Leicester City,,-0.05
+Jack Stephens,Bournemouth,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,6.57,0.0,0,0,0,0,6.0,Bournemouth,True,Everton,,0.34
+Jack Stephens,Bournemouth,Everton,2022-11-12,True,DC,90,0.0,0.0,0.0,0.14,6,0.0,1.0,3.2,0,1,0,0.82,True,0.2,0.0,17.0,1.0,0,0,0,0,0.0,Bournemouth,False,Chelsea,,-0.72
+Jack Stephens,Bournemouth,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,15.11,1.0,0,0,0,0,0.0,Bournemouth,True,Crystal Palace,,0.81
+Jack Stephens,Bournemouth,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,13.6,1.0,0,0,0,0,0.0,Bournemouth,False,Manchester United,,-0.1
+Jack Stephens,Bournemouth,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,12.36,1.0,0,0,0,0,1.0,Southampton,True,Leicester City,-2.36,0.83
+Jack Stephens,Southampton,Leicester City,2022-08-13,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,1.2,0.0,11.42,1.0,0,0,0,0,0.0,Bournemouth,False,Brentford,,-0.55
+Jack Stephens,Bournemouth,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,10.54,1.0,0,0,0,0,2.0,Bournemouth,True,Nottingham Forest,,
+Jack Stephens,Bournemouth,Nottingham Forest,2023-01-21,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.1,0,0,1,1.77,True,0.2,0.0,16.21,0.5,0,0,0,0,0.0,Bournemouth,False,Brighton,,-0.39
+Jack Stephens,Bournemouth,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,15.13,0.5,0,0,0,0,1.0,Bournemouth,True,Newcastle United,,0.73
+Jack Stephens,Bournemouth,Newcastle United,2023-02-11,True,DC,90,0.0,0.0,0.0,0.04,1,0.0,1.0,3.5,0,0,1,1.27,True,0.6,0.0,19.81,0.33,0,0,0,0,7.0,Bournemouth,False,Wolverhampton,,-0.46
+Jack Stephens,Bournemouth,Wolverhampton,2023-02-18,False,DC,90,0.0,0.0,0.0,0.0,7,0.0,0.0,4.0,1,1,0,1.16,True,0.8,0.0,23.94,0.5,0,0,0,0,0.0,Bournemouth,True,Manchester City,,-1.17
+Jack Stephens,Bournemouth,Manchester City,2023-02-25,True,DC,90,0.0,0.0,0.0,0.07,0,0.0,1.0,4.4,0,0,4,2.38,True,2.0,0.0,27.61,0.4,0,0,0,0,1.0,Bournemouth,False,Arsenal,,-0.0
+Jack Stephens,Bournemouth,Arsenal,2023-03-04,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.5,0,0,3,2.6,True,2.0,0.0,30.89,0.33,0,0,0,0,6.0,Bournemouth,True,Liverpool,,-0.53
+Jack Stephens,Bournemouth,Liverpool,2023-03-11,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,0.8,0,1,0,1.75,True,1.8,0.0,33.85,0.43,0,0,0,0,0.0,Bournemouth,False,Aston Villa,,0.59
+Jack Stephens,Bournemouth,Aston Villa,2023-03-18,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,3.0,0,0,3,3.2,True,3.0,0.0,36.52,0.38,0,0,0,0,2.0,Bournemouth,True,Fulham,,-0.3
+Jack Stephens,Bournemouth,Fulham,2023-04-01,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,0.84,True,2.8,0.0,38.95,0.33,0,0,0,0,1.0,Bournemouth,True,Brighton,,-0.71
+Jack Stephens,Bournemouth,Brighton,2023-04-04,True,DC,90,0.0,0.07,0.0,0.0,1,1.0,0.0,0.8,0,0,2,2.76,True,1.8,0.0,41.17,0.3,0,0,0,0,0.0,Southampton,False,Leeds United,-2.19,-0.8
+Jack Stephens,Southampton,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.01,39.46,0.3,0,0,0,0,6.0,Bournemouth,False,Leeds United,,-0.8
+Jack Stephens,Bournemouth,Leeds United,2023-04-08,False,DC,90,0.0,0.15,0.0,0.0,6,1.0,0.0,5.9,0,1,0,0.68,True,1.8,0.01,41.48,0.36,0,0,0,0,0.0,Bournemouth,False,Tottenham,,-0.03
+Jack Stephens,Bournemouth,Tottenham,2023-04-15,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.5,0,0,2,2.04,True,1.8,0.04,43.35,0.33,0,0,0,0,0.0,Bournemouth,True,West Ham,,0.63
+Jack Stephens,Bournemouth,West Ham,2023-04-23,True,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.1,0,0,4,2.34,True,1.8,0.04,45.07,0.31,0,0,0,0,0.0,Bournemouth,False,Southampton,,-1.07
+Jack Stephens,Bournemouth,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.04,43.46,0.31,0,0,0,0,0.0,Bournemouth,True,Leicester City,,0.83
+Jack Stephens,Bournemouth,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.03,41.97,0.31,0,0,0,0,0.0,Bournemouth,True,Chelsea,,-0.25
+Jack Stephens,Bournemouth,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.03,40.57,0.31,0,0,0,0,0.0,Bournemouth,False,Crystal Palace,,0.13
+Jack Stephens,Bournemouth,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,39.26,0.31,0,0,0,0,0.0,Bournemouth,True,Manchester United,,0.38
+Jack Stephens,Bournemouth,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,38.03,0.31,0,0,0,0,0.0,Bournemouth,False,Everton,,-0.63
+Jack Stephens,Bournemouth,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,36.88,0.31,0,0,0,0,0.0,Southampton,True,Manchester United,1.12,0.38
+Jack Stephens,Southampton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,35.79,0.31,0,0,0,0,0.0,Southampton,True,Chelsea,-1.74,-0.25
+Jack Stephens,Southampton,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,34.77,0.31,0,0,0,0,0.0,Bournemouth,False,Nottingham Forest,-0.1,
+Jack Stephens,Bournemouth,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,33.81,0.31,0,0,0,0,1.0,Bournemouth,False,Newcastle United,-1.45,-0.34
+Jack Stephens,Bournemouth,Newcastle United,2022-09-17,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,32.92,0.31,0,0,0,0,0.0,Bournemouth,True,Brentford,0.49,0.69
+Jack Stephens,Bournemouth,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,32.05,0.31,0,0,0,0,,Brentford,True,Tottenham,-0.15,1.07

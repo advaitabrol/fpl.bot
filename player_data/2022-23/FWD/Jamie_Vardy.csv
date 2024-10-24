@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jamie Vardy,Leicester,Brentford,2022-08-07,True,FW,90,0.0,0.0,1.0,0.03,5,0.0,1.0,4.1,0,False,0.0,0.0,90.0,15.0,2.0,9.99,1.6,0.07,1.0,Leicester,False,Bournemouth,,0.19
+Jamie Vardy,Leicester,Bournemouth,2022-10-08,False,Sub,23,0.0,0.03,0.0,0.0,1,1.0,0.0,0.5,0,False,5.0,1.0,56.5,15.0,2.0,9.99,1.6,0.07,0.0,Leicester,True,Crystal Palace,-0.43,0.81
+Jamie Vardy,Leicester,Crystal Palace,2022-10-15,True,Sub,25,0.0,0.0,0.0,0.0,0,0.0,0.0,0.7,0,False,3.0,0.52,46.0,15.0,2.0,9.99,1.6,0.07,2.0,Leicester,True,Leicester City,2.25,0.83
+Jamie Vardy,Leicester,Leicester City,2022-10-20,True,FW,63,0.0,0.0,0.0,0.0,2,0.0,0.0,0.5,0,False,2.0,0.34,50.25,15.0,2.0,9.99,1.6,0.07,10.0,Leicester,False,Wolverhampton,3.01,-0.46
+Jamie Vardy,Leicester,Wolverhampton,2022-10-23,False,Sub,29,1.0,0.52,1.0,0.11,10,1.0,1.0,8.6,2,False,2.0,0.26,46.0,15.0,2.0,9.99,1.6,0.07,2.0,Leicester,True,Manchester City,2.25,-1.17
+Jamie Vardy,Leicester,Manchester City,2022-10-29,True,FW,70,0.0,0.0,0.0,0.06,2,0.0,1.0,1.5,0,False,3.6,0.51,50.0,15.0,2.0,9.99,1.6,0.07,1.0,Leicester,False,Everton,1.31,-0.63
+Jamie Vardy,Leicester,Everton,2022-11-05,False,Sub,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,3.0,0.31,45.71,15.0,2.0,9.99,1.6,0.07,1.0,Leicester,False,West Ham,-0.48,0.14
+Jamie Vardy,Leicester,West Ham,2022-11-12,False,Sub,21,0.0,0.08,0.0,0.0,1,1.0,0.0,2.7,0,False,3.0,0.3,42.62,15.0,2.0,9.99,1.6,0.07,1.0,Leicester,True,Newcastle United,2.07,0.73
+Jamie Vardy,Leicester,Newcastle United,2022-12-26,True,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,False,3.2,0.32,42.89,15.0,2.0,9.99,1.6,0.07,2.0,Leicester,False,Liverpool,-0.04,-1.33
+Jamie Vardy,Leicester,Liverpool,2022-12-30,False,Sub,75,0.0,0.02,0.0,0.0,2,1.0,0.0,3.1,0,False,3.0,0.32,46.1,15.0,2.0,9.99,1.6,0.07,2.0,Leicester,True,Fulham,,-0.3
+Jamie Vardy,Leicester,Fulham,2023-01-03,True,FW,90,0.0,0.33,0.0,0.06,2,2.0,1.0,8.2,0,True,1.4,0.02,50.09,15.0,2.0,9.99,1.6,0.07,2.0,Leicester,False,Arsenal,-1.31,-0.0
+Jamie Vardy,Leicester,Arsenal,2022-08-13,False,FW,69,0.0,0.0,0.0,0.42,2,0.0,1.0,2.4,0,False,1.4,0.09,51.67,15.0,2.0,9.99,1.6,0.07,2.0,Leicester,False,Nottingham Forest,,
+Jamie Vardy,Leicester,Nottingham Forest,2023-01-14,False,FW,90,0.0,0.0,0.0,0.03,2,0.0,1.0,1.9,0,True,1.6,0.09,54.62,15.0,2.0,9.99,1.6,0.07,2.0,Leicester,True,Brighton,-0.74,-0.71
+Jamie Vardy,Leicester,Brighton,2023-01-21,True,FW,85,0.0,0.01,0.0,0.0,2,1.0,0.0,1.2,0,True,1.8,0.07,56.79,15.0,2.0,9.99,1.6,0.07,1.0,Leicester,False,Aston Villa,-0.96,0.59
+Jamie Vardy,Leicester,Aston Villa,2023-02-04,False,Sub,23,0.0,0.0,0.0,0.13,1,0.0,1.0,1.3,0,False,2.0,0.07,54.53,15.0,2.0,9.99,1.6,0.07,1.0,Leicester,True,Tottenham,3.95,1.07
+Jamie Vardy,Leicester,Tottenham,2023-02-11,True,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,1.8,0.07,51.94,15.0,2.0,9.99,1.6,0.07,1.0,Leicester,False,Manchester United,0.11,-0.1
+Jamie Vardy,Leicester,Manchester United,2023-02-19,False,Sub,15,0.0,0.0,0.0,0.04,1,0.0,2.0,2.5,0,False,1.6,0.0,49.76,15.0,2.0,9.99,1.6,0.07,1.0,Leicester,True,Arsenal,-1.32,0.36
+Jamie Vardy,Leicester,Arsenal,2023-02-25,True,Sub,28,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,False,1.4,0.0,48.56,15.0,2.0,9.99,1.6,0.07,1.0,Leicester,False,Southampton,-3.27,-1.07
+Jamie Vardy,Leicester,Southampton,2023-03-04,False,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,1.2,0.0,47.16,15.0,2.0,9.99,1.6,0.07,1.0,Leicester,True,Chelsea,-2.98,-0.25
+Jamie Vardy,Leicester,Chelsea,2023-03-11,True,Sub,14,0.0,0.11,0.0,0.0,1,1.0,0.0,0.3,0,False,1.0,0.0,45.5,15.0,2.0,9.99,1.6,0.07,1.0,Leicester,False,Brentford,-4.9,-0.55
+Jamie Vardy,Leicester,Brentford,2023-03-18,False,Sub,24,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,1.0,0.02,44.48,15.0,2.0,9.99,1.6,0.07,0.0,Leicester,False,Crystal Palace,,0.13
+Jamie Vardy,Leicester,Crystal Palace,,False,,0,,,,,0,,,0.0,0,False,1.0,0.02,42.45,15.0,2.0,9.99,1.6,0.07,2.0,Leicester,True,Aston Villa,,0.55
+Jamie Vardy,Leicester,Aston Villa,2023-04-04,True,FW,75,0.0,0.04,0.0,0.0,2,1.0,0.0,0.7,0,True,0.8,0.02,43.87,15.0,2.0,9.99,1.6,0.07,2.0,Leicester,True,Southampton,,-0.38
+Jamie Vardy,Leicester,Southampton,2022-08-20,True,FW,64,0.0,0.02,0.0,0.0,2,1.0,0.0,0.3,0,False,1.0,0.03,44.71,15.0,2.0,9.99,1.6,0.07,1.0,Leicester,True,Bournemouth,,1.46
+Jamie Vardy,Leicester,Bournemouth,2023-04-08,True,FW,57,0.0,0.28,0.0,0.0,1,1.0,0.0,0.9,0,True,1.2,0.03,45.2,15.0,2.0,9.99,1.6,0.07,1.0,Leicester,False,Manchester City,1.46,-1.26
+Jamie Vardy,Leicester,Manchester City,2023-04-15,False,FW,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,True,1.2,0.07,45.19,15.0,2.0,9.99,1.6,0.07,4.0,Leicester,True,Wolverhampton,-1.75,-0.48
+Jamie Vardy,Leicester,Wolverhampton,2023-04-22,True,FW,45,0.0,0.0,0.0,0.58,4,0.0,1.0,2.0,0,True,1.2,0.07,45.19,15.0,2.0,9.99,1.6,0.07,7.0,Leicester,False,Leicester City,1.46,-0.05
+Jamie Vardy,Leicester,Leicester City,2023-04-25,False,Sub,20,1.0,0.31,0.0,0.09,7,1.0,1.0,6.7,2,False,2.0,0.07,44.29,15.0,2.0,9.99,1.6,0.07,6.0,Leicester,True,Everton,4.46,0.34
+Jamie Vardy,Leicester,Everton,2023-05-01,True,FW,90,1.0,2.13,0.0,0.08,6,3.0,1.0,9.2,0,True,3.0,0.12,45.86,15.0,2.0,9.99,1.6,0.07,0.0,Leicester,False,Fulham,,1.37
+Jamie Vardy,Leicester,Fulham,2023-05-08,False,FW,75,0.0,0.88,0.0,0.0,0,3.0,0.0,5.6,0,True,3.8,0.54,46.83,15.0,2.0,9.99,1.6,0.07,2.0,Leicester,True,Liverpool,-0.21,-0.53
+Jamie Vardy,Leicester,Liverpool,2023-05-15,True,FW,90,0.0,0.44,0.0,0.0,2,2.0,0.0,6.3,0,True,3.6,0.66,48.23,15.0,2.0,9.99,1.6,0.07,2.0,Leicester,False,Newcastle United,1.84,-0.34
+Jamie Vardy,Leicester,Newcastle United,2023-05-22,False,FW,62,0.0,0.0,0.0,0.0,2,0.0,0.0,0.5,0,True,3.8,0.75,48.66,15.0,2.0,9.99,1.6,0.07,1.0,Leicester,True,West Ham,-0.48,0.63
+Jamie Vardy,Leicester,West Ham,2023-05-28,True,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,3.4,0.75,47.58,15.0,2.0,9.99,1.6,0.07,5.0,Leicester,False,Chelsea,-5.34,-0.72
+Jamie Vardy,Leicester,Chelsea,2022-08-27,False,FW,90,0.0,1.02,1.0,0.08,5,4.0,1.0,7.5,0,False,2.2,0.69,48.82,15.0,2.0,9.99,1.6,0.07,2.0,Leicester,True,Manchester United,,0.38
+Jamie Vardy,Leicester,Manchester United,2022-09-01,True,FW,86,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0,False,2.0,0.67,49.89,15.0,2.0,9.99,1.6,0.07,1.0,Leicester,False,Brighton,-2.14,-0.39
+Jamie Vardy,Leicester,Brighton,2022-09-04,False,Sub,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,False,2.4,0.49,49.0,15.0,2.0,9.99,1.6,0.07,1.0,Leicester,False,Tottenham,3.38,-0.03
+Jamie Vardy,Leicester,Tottenham,2022-09-17,False,Sub,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,2.2,0.4,48.11,15.0,2.0,9.99,1.6,0.07,5.0,Leicester,True,Nottingham Forest,,
+Jamie Vardy,Leicester,Nottingham Forest,2022-10-03,True,FW,61,0.0,0.42,1.0,0.03,5,4.0,1.0,7.6,0,False,2.0,0.4,48.45,15.0,2.0,9.99,1.6,0.07,,Chelsea,True,Liverpool,,-0.53

@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Diego Llorente,Leeds,Wolverhampton,2022-08-06,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.6,0,0,1,0.0,False,0.0,0.0,90.0,0.0,0,0,0,0,0.0,Leeds,False,Crystal Palace,-1.48,0.13
+Diego Llorente,Leeds,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.0,45.0,0.0,0,0,0,0,0.0,Leeds,True,Arsenal,-2.44,0.36
+Diego Llorente,Leeds,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,30.0,0.0,0,0,0,0,1.0,Leeds,False,Leeds United,,-0.8
+Diego Llorente,Leeds,Leeds United,2022-10-20,False,DC,90,0.0,0.07,0.0,0.0,1,1.0,0.0,3.5,0,0,2,0.0,False,0.67,0.0,45.0,0.0,0,0,0,0,0.0,Leeds,True,Fulham,,-0.3
+Diego Llorente,Leeds,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.75,0.02,36.0,0.0,0,0,0,0,0.0,Leeds,False,Liverpool,1.31,-1.33
+Diego Llorente,Leeds,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.01,30.0,0.0,0,0,0,0,0.0,Leeds,True,Bournemouth,,1.46
+Diego Llorente,Leeds,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.01,25.71,0.0,0,0,0,0,0.0,Leeds,False,Tottenham,0.01,-0.03
+Diego Llorente,Leeds,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.01,22.5,0.0,0,0,0,0,1.0,Leeds,True,Manchester City,2.49,-1.17
+Diego Llorente,Leeds,Manchester City,2022-12-28,True,Sub,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.82,False,0.2,0.01,22.0,0.0,0,0,0,0,0.0,Leeds,False,Newcastle United,-5.11,-0.34
+Diego Llorente,Leeds,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,19.8,0.0,0,0,0,0,0.0,Leeds,True,West Ham,-2.86,0.63
+Diego Llorente,Leeds,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,18.0,0.0,0,0,0,0,1.0,Leeds,False,Southampton,-2.03,-1.07
+Diego Llorente,Leeds,Southampton,2022-08-13,False,DC,90,0.0,0.04,0.0,0.0,1,1.0,0.0,1.4,0,0,2,0.0,False,0.2,0.0,24.0,0.0,0,0,0,0,0.0,Leeds,False,Aston Villa,-1.61,0.59
+Diego Llorente,Leeds,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,22.15,0.0,0,0,0,0,0.0,Leeds,True,Brentford,-0.12,0.69
+Diego Llorente,Leeds,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.01,20.57,0.0,0,0,0,0,0.0,Leeds,False,Nottingham Forest,,
+Diego Llorente,Leeds,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.01,19.2,0.0,0,0,0,0,0.0,Leeds,False,Manchester United,2.58,-0.1
+Diego Llorente,Leeds,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.01,18.0,0.0,0,0,0,0,0.0,Leeds,True,Manchester United,1.66,0.38
+Diego Llorente,Leeds,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.01,16.94,0.0,0,0,0,0,0.0,Leeds,False,Everton,1.15,-0.63
+Diego Llorente,Leeds,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,16.0,0.0,0,0,0,0,0.0,Leeds,True,Southampton,-3.43,-0.38
+Diego Llorente,Leeds,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,15.16,0.0,0,0,0,0,0.0,Leeds,False,Chelsea,-1.33,-0.72
+Diego Llorente,Leeds,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,14.4,0.0,0,0,0,0,0.0,Leeds,True,Brighton,-4.64,-0.71
+Diego Llorente,Leeds,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,13.71,0.0,0,0,0,0,0.0,Leeds,False,Wolverhampton,-3.79,-0.46
+Diego Llorente,Leeds,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,13.09,0.0,0,0,0,0,0.0,Leeds,False,Arsenal,0.14,-0.0
+Diego Llorente,Leeds,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,12.52,0.0,0,0,0,0,0.0,Leeds,True,Nottingham Forest,1.75,
+Diego Llorente,Leeds,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,12.0,0.0,0,0,0,0,8.0,Leeds,True,Chelsea,-0.38,-0.25
+Diego Llorente,Leeds,Chelsea,2022-08-21,True,DC,90,0.0,0.02,0.0,0.0,8,1.0,0.0,1.6,2,1,0,0.0,False,0.0,0.0,15.12,0.25,0,0,0,0,0.0,Leeds,True,Crystal Palace,1.78,0.81
+Diego Llorente,Leeds,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.0,14.54,0.25,0,0,0,0,0.0,Leeds,True,Liverpool,0.62,-0.53
+Diego Llorente,Leeds,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.0,14.0,0.25,0,0,0,0,0.0,Leeds,False,Fulham,,1.37
+Diego Llorente,Leeds,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.0,13.5,0.25,0,0,0,0,0.0,Leeds,True,Leeds United,,-0.79
+Diego Llorente,Leeds,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.0,13.03,0.25,0,0,0,0,0.0,Leeds,False,Bournemouth,0.09,0.19
+Diego Llorente,Leeds,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.0,12.6,0.25,0,0,0,0,0.0,Leeds,False,Manchester City,4.57,-1.26
+Diego Llorente,Leeds,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,12.19,0.25,0,0,0,0,0.0,Leeds,True,Newcastle United,-0.68,0.73
+Diego Llorente,Leeds,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,11.81,0.25,0,0,0,0,0.0,Leeds,False,West Ham,0.82,0.14
+Diego Llorente,Leeds,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,11.45,0.25,0,0,0,0,0.0,Leeds,True,Tottenham,-4.61,1.07
+Diego Llorente,Leeds,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,11.12,0.25,0,0,0,0,2.0,Leeds,False,Brighton,1.41,-0.39
+Diego Llorente,Leeds,Brighton,2022-08-27,False,DC,90,0.0,0.11,0.0,0.0,2,1.0,0.0,2.1,0,0,1,0.0,False,0.0,0.0,13.37,0.2,0,0,0,0,1.0,Leeds,True,Everton,,0.34
+Diego Llorente,Leeds,Everton,2022-08-30,True,DC,90,0.0,0.06,0.0,0.0,1,2.0,0.0,1.9,0,0,1,0.0,False,0.4,0.02,15.5,0.17,0,0,0,0,0.0,Leeds,False,Brentford,-0.35,-0.55
+Diego Llorente,Leeds,Brentford,2022-09-03,False,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.7,0,0,5,0.0,False,0.6,0.03,17.51,0.14,0,0,0,0,0.0,Leeds,True,Aston Villa,,0.55
+Diego Llorente,Leeds,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.03,17.05,0.14,0,0,0,0,,Nott'm Forest,False,Arsenal,4.71,-0.0

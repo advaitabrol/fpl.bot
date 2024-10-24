@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Fabian Schär,Newcastle,Nottingham Forest,2022-08-06,True,DC,90,1.0,0.06,0.0,0.05,15,2.0,1.0,10.6,3,1,0,0.0,False,0.0,0.0,90.0,1.0,0,0,0,0,2,Newcastle,True,Brentford,-2.4,0.69
+Fabian Schär,Newcastle,Brentford,2022-10-08,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0,0,1,0.0,False,15.0,0.06,90.0,0.5,0,0,0,0,8,Newcastle,False,Manchester United,1.2,-0.1
+Fabian Schär,Newcastle,Manchester United,2022-10-16,False,DC,90,0.0,0.0,0.0,0.0,8,0.0,0.0,3.0,2,1,0,0.0,False,8.5,0.03,90.0,0.67,0,0,0,0,5,Newcastle,True,Everton,-5.87,0.34
+Fabian Schär,Newcastle,Everton,2022-10-19,True,DC,90,0.0,0.09,0.0,0.0,5,2.0,0.0,8.3,0,1,0,0.0,False,8.33,0.02,90.0,0.75,0,0,0,0,2,Newcastle,False,Tottenham,4.75,-0.03
+Fabian Schär,Newcastle,Tottenham,2022-10-23,False,DC,90,0.0,0.11,0.0,0.0,2,2.0,0.0,6.6,0,0,1,0.0,False,7.5,0.04,90.0,0.6,0,0,0,0,6,Newcastle,True,Aston Villa,-2.14,0.55
+Fabian Schär,Newcastle,Aston Villa,2022-10-29,True,DC,82,0.0,0.0,0.0,0.03,6,0.0,1.0,2.3,0,1,0,0.0,False,6.4,0.05,88.67,0.67,0,0,0,0,2,Newcastle,False,Southampton,-1.93,-1.07
+Fabian Schär,Newcastle,Southampton,2022-11-06,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.7,0,0,1,0.0,False,4.6,0.04,88.86,0.57,0,0,0,0,7,Newcastle,True,Chelsea,1.87,-0.25
+Fabian Schär,Newcastle,Chelsea,2022-11-12,True,DC,90,0.0,0.06,0.0,0.03,7,1.0,1.0,5.3,1,1,0,0.3,True,4.6,0.04,89.0,0.62,0,0,0,0,6,Newcastle,False,Leeds United,6.23,-0.8
+Fabian Schär,Newcastle,Leeds United,2022-12-26,False,DC,90,0.0,0.1,0.0,0.0,6,1.0,0.0,2.0,0,1,0,0.52,True,4.4,0.05,89.11,0.67,0,0,0,0,6,Newcastle,True,Leicester City,-1.01,0.83
+Fabian Schär,Newcastle,Leicester City,2022-12-31,True,DC,90,0.0,0.58,0.0,0.0,6,3.0,0.0,4.1,0,1,0,0.47,True,4.6,0.05,89.2,0.7,0,0,0,0,6,Newcastle,False,Arsenal,2.9,-0.0
+Fabian Schär,Newcastle,Arsenal,2023-01-03,False,DC,90,0.0,0.32,0.0,0.49,6,3.0,2.0,4.9,0,1,0,1.13,True,5.4,0.15,89.27,0.73,0,0,0,0,5,Newcastle,False,Brighton,-0.9,-0.39
+Fabian Schär,Newcastle,Brighton,2022-08-13,False,DC,90,0.0,0.0,0.0,0.0,5,0.0,0.0,2.1,0,1,0,0.0,False,5.4,0.21,89.33,0.75,0,0,0,0,6,Newcastle,True,Fulham,,-0.3
+Fabian Schär,Newcastle,Fulham,2023-01-15,True,DC,90,0.0,0.05,0.0,0.05,6,1.0,1.0,2.9,0,1,0,1.14,True,6.0,0.21,89.38,0.77,0,0,0,0,6,Newcastle,False,Crystal Palace,-1.13,0.13
+Fabian Schär,Newcastle,Crystal Palace,2023-01-21,False,DC,90,0.0,0.16,0.0,0.06,6,3.0,1.0,7.1,0,1,0,0.3,True,5.8,0.21,89.43,0.79,0,0,0,0,2,Newcastle,True,West Ham,0.49,0.63
+Fabian Schär,Newcastle,West Ham,2023-02-04,True,DC,90,0.0,0.47,0.0,0.0,2,2.0,0.0,2.1,0,0,1,1.01,True,5.8,0.22,89.47,0.73,0,0,0,0,2,Newcastle,False,Bournemouth,,0.19
+Fabian Schär,Newcastle,Bournemouth,2023-02-11,False,DC,90,0.0,0.09,0.0,0.0,2,3.0,0.0,2.3,0,0,1,1.83,True,5.0,0.2,89.5,0.69,0,0,0,0,1,Newcastle,True,Liverpool,1.47,-0.53
+Fabian Schär,Newcastle,Liverpool,2023-02-18,True,DC,90,0.0,0.46,0.0,0.0,1,3.0,0.0,2.5,0,0,2,2.37,True,4.2,0.15,89.53,0.65,0,0,0,0,0,Newcastle,False,Manchester City,4.63,-1.26
+Fabian Schär,Newcastle,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.4,0.25,84.56,0.65,0,0,0,0,2,Newcastle,True,Wolverhampton,-2.98,-0.48
+Fabian Schär,Newcastle,Wolverhampton,2023-03-12,True,DC,90,0.0,0.1,0.0,0.0,2,1.0,0.0,4.1,0,0,1,1.12,True,2.2,0.24,84.84,0.61,0,0,0,0,2,Newcastle,False,Nottingham Forest,,
+Fabian Schär,Newcastle,Nottingham Forest,2023-03-17,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.8,0,0,1,0.38,True,1.4,0.22,85.1,0.58,0,0,0,0,6,Newcastle,True,Manchester United,-0.55,0.38
+Fabian Schär,Newcastle,Manchester United,2023-04-02,True,DC,90,0.0,0.25,0.0,0.0,6,4.0,0.0,2.5,0,1,0,0.43,True,1.4,0.13,85.33,0.6,0,0,0,0,5,Newcastle,False,West Ham,,0.14
+Fabian Schär,Newcastle,West Ham,2023-04-05,False,DC,90,0.0,0.0,1.0,0.58,5,0.0,1.0,4.6,0,0,1,0.81,True,2.2,0.16,85.55,0.57,0,0,0,0,0,Newcastle,True,Manchester City,4.58,-1.17
+Fabian Schär,Newcastle,Manchester City,2022-08-21,True,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.5,0,0,3,0.0,False,3.0,0.27,85.74,0.55,0,0,0,0,2,Newcastle,False,Brentford,,-0.55
+Fabian Schär,Newcastle,Brentford,2023-04-08,False,DC,90,0.0,0.08,0.0,0.05,2,1.0,1.0,3.7,0,0,1,2.65,True,3.0,0.27,85.92,0.52,0,0,0,0,0,Newcastle,False,Aston Villa,3.3,0.59
+Fabian Schär,Newcastle,Aston Villa,2023-04-15,False,DC,90,0.0,0.11,0.0,0.0,0,1.0,0.0,2.3,0,0,3,1.93,True,3.0,0.27,86.08,0.5,0,0,0,0,8,Newcastle,True,Tottenham,-0.29,1.07
+Fabian Schär,Newcastle,Tottenham,2023-04-23,True,DC,73,0.0,0.02,2.0,0.62,8,1.0,2.0,7.2,0,0,1,0.68,True,2.6,0.29,85.58,0.48,0,0,0,0,2,Newcastle,False,Everton,,-0.63
+Fabian Schär,Newcastle,Everton,2023-04-27,False,DC,90,0.0,0.04,0.0,0.0,2,1.0,0.0,0.0,0,0,1,0.66,True,3.0,0.64,85.74,0.46,0,0,0,0,2,Newcastle,True,Southampton,0.18,-0.38
+Fabian Schär,Newcastle,Southampton,2023-04-30,True,DC,90,0.0,0.0,0.0,0.13,2,0.0,1.0,3.2,0,0,1,0.83,True,2.4,0.45,85.89,0.44,0,0,0,0,-2,Newcastle,True,Arsenal,,0.36
+Fabian Schär,Newcastle,Arsenal,2023-05-07,True,DC,90,0.0,0.45,0.0,0.0,-2,2.0,0.0,2.7,0,0,2,1.2,True,2.8,0.45,86.03,0.43,0,0,0,0,1,Newcastle,False,Leicester City,,-0.05
+Fabian Schär,Newcastle,Leicester City,2023-05-13,False,DC,90,0.0,0.22,0.0,0.0,1,4.0,0.0,4.0,0,0,2,2.06,True,2.0,0.52,86.17,0.41,0,0,0,0,1,Newcastle,True,Brighton,,-0.71
+Fabian Schär,Newcastle,Brighton,2023-05-18,True,DC,90,0.0,0.44,0.0,0.0,1,3.0,0.0,6.5,0,0,1,0.49,True,2.2,0.55,86.29,0.4,0,0,0,0,6,Newcastle,True,Leeds United,,-0.79
+Fabian Schär,Newcastle,Leeds United,2023-05-22,True,DC,90,0.0,0.05,0.0,0.1,6,3.0,2.0,6.2,0,1,0,0.07,True,0.8,0.23,86.41,0.42,0,0,0,0,2,Newcastle,False,Chelsea,,-0.72
+Fabian Schär,Newcastle,Chelsea,2023-05-28,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0,0,1,2.21,True,1.6,0.23,86.52,0.41,0,0,0,0,1,Newcastle,False,Wolverhampton,1.1,-0.46
+Fabian Schär,Newcastle,Wolverhampton,2022-08-28,False,DC,90,0.0,0.19,0.0,0.15,1,2.0,3.0,5.5,0,0,1,0.0,False,1.6,0.23,86.62,0.39,0,0,0,0,0,Newcastle,False,Liverpool,0.9,-1.33
+Fabian Schär,Newcastle,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.18,84.14,0.39,0,0,0,0,6,Newcastle,True,Crystal Palace,-0.56,0.81
+Fabian Schär,Newcastle,Crystal Palace,2022-09-03,True,DC,90,0.0,0.53,0.0,0.0,6,3.0,0.0,5.9,0,1,0,0.0,False,2.0,0.14,84.31,0.41,0,0,0,0,2,Newcastle,True,Bournemouth,2.6,1.46
+Fabian Schär,Newcastle,Bournemouth,2022-09-17,True,DC,90,0.0,0.07,0.0,0.04,2,4.0,1.0,7.3,0,0,1,0.0,False,3.0,0.15,84.46,0.4,0,0,0,0,6,Newcastle,False,Fulham,-1.62,1.37
+Fabian Schär,Newcastle,Fulham,2022-10-01,False,DC,82,0.0,0.0,0.0,0.05,6,0.0,1.0,3.1,0,1,0,0.0,False,2.2,0.16,84.39,0.42,0,0,0,0,2,Newcastle,True,Aston Villa,-4.4,0.55

@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Ryan Sessegnon,Spurs,Southampton,2022-08-06,True,DML,65,1.0,0.48,0.0,0.0,7,2.0,0.0,9.4,0,0,1,0.0,False,0.0,0.0,65.0,0.0,0,0,0,0,6,Spurs,False,Brighton,-2.68,-0.39
+Ryan Sessegnon,Spurs,Brighton,2022-10-08,False,DML,90,0.0,0.0,0.0,0.06,6,0.0,1.0,2.7,0,1,0,0.0,False,7.0,0.48,77.5,0.5,0,0,0,0,0,Spurs,True,Everton,-5.21,0.34
+Ryan Sessegnon,Spurs,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,6.5,0.24,51.67,0.5,0,0,0,0,1,Spurs,False,Manchester United,4.8,-0.1
+Ryan Sessegnon,Spurs,Manchester United,2022-10-19,False,Sub,8,0.0,0.02,0.0,0.0,1,1.0,0.0,0.4,0,0,0,0.0,False,4.33,0.16,40.75,0.5,0,0,0,0,0,Spurs,True,Newcastle United,-3.79,0.73
+Ryan Sessegnon,Spurs,Newcastle United,2022-10-23,True,DML,60,0.0,0.1,0.0,0.05,0,2.0,1.0,8.2,0,0,2,0.0,False,3.5,0.12,44.6,0.5,0,0,0,0,6,Spurs,False,Bournemouth,,0.19
+Ryan Sessegnon,Spurs,Bournemouth,2022-10-29,False,DML,83,1.0,0.09,0.0,0.04,6,1.0,1.0,8.0,0,0,2,0.0,False,2.8,0.12,51.0,0.33,0,0,0,0,1,Spurs,True,Liverpool,0.32,-0.53
+Ryan Sessegnon,Spurs,Liverpool,2022-11-06,True,DL,67,0.0,0.09,0.0,0.35,1,3.0,1.0,4.4,0,0,2,0.0,False,2.6,0.04,53.29,0.25,0,0,0,0,0,Spurs,True,Leicester City,-0.2,0.83
+Ryan Sessegnon,Spurs,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.06,46.62,0.25,0,0,0,0,0,Spurs,False,Brentford,1.4,-0.55
+Ryan Sessegnon,Spurs,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.06,41.44,0.25,0,0,0,0,1,Spurs,True,Aston Villa,-0.44,0.55
+Ryan Sessegnon,Spurs,Aston Villa,2023-01-01,True,Sub,27,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,0.75,False,1.4,0.06,40.0,0.25,0,0,0,0,1,Spurs,False,Crystal Palace,7.24,0.13
+Ryan Sessegnon,Spurs,Crystal Palace,2023-01-04,False,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.17,False,1.6,0.04,37.55,0.25,0,0,0,0,1,Spurs,False,Chelsea,3.74,-0.72
+Ryan Sessegnon,Spurs,Chelsea,2022-08-14,False,DML,56,0.0,0.27,0.0,0.0,1,1.0,0.0,2.1,0,0,1,0.0,False,0.6,0.02,39.08,0.25,0,0,0,0,0,Spurs,True,Arsenal,-2.81,0.36
+Ryan Sessegnon,Spurs,Arsenal,2023-01-15,True,DML,75,0.0,0.36,0.0,0.42,0,2.0,1.0,4.6,0,0,2,1.57,True,0.6,0.05,41.85,0.2,0,0,0,0,1,Spurs,False,Manchester City,-2.29,-1.26
+Ryan Sessegnon,Spurs,Manchester City,2023-01-19,False,Sub,21,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,0.51,False,0.6,0.13,40.36,0.2,0,0,0,0,0,Spurs,False,Fulham,,1.37
+Ryan Sessegnon,Spurs,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.13,37.67,0.2,0,0,0,0,1,Spurs,True,Manchester City,-0.19,-1.17
+Ryan Sessegnon,Spurs,Manchester City,2023-02-05,True,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.27,False,0.6,0.13,36.0,0.2,0,0,0,0,0,Spurs,False,Leeds United,1.08,-0.8
+Ryan Sessegnon,Spurs,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.13,33.88,0.2,0,0,0,0,0,Spurs,True,West Ham,-1.58,0.63
+Ryan Sessegnon,Spurs,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.07,32.0,0.2,0,0,0,0,0,Spurs,True,Chelsea,5.76,-0.25
+Ryan Sessegnon,Spurs,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,30.32,0.2,0,0,0,0,0,Spurs,False,Wolverhampton,-1.1,-0.46
+Ryan Sessegnon,Spurs,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,28.8,0.2,0,0,0,0,0,Spurs,True,Nottingham Forest,,
+Ryan Sessegnon,Spurs,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,27.43,0.2,0,0,0,0,0,Spurs,False,Southampton,-0.01,-1.07
+Ryan Sessegnon,Spurs,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,26.18,0.2,0,0,0,0,0,Spurs,False,Everton,-0.37,-0.63
+Ryan Sessegnon,Spurs,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,25.04,0.2,0,0,0,0,1,Spurs,True,Wolverhampton,-0.85,-0.48
+Ryan Sessegnon,Spurs,Wolverhampton,2022-08-20,True,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,0.0,0.0,24.58,0.2,0,0,0,0,0,Spurs,True,Brighton,,-0.71
+Ryan Sessegnon,Spurs,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,23.6,0.2,0,0,0,0,0,Spurs,True,Bournemouth,,1.46
+Ryan Sessegnon,Spurs,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,22.69,0.2,0,0,0,0,0,Spurs,False,Newcastle United,0.79,-0.34
+Ryan Sessegnon,Spurs,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,21.85,0.2,0,0,0,0,0,Spurs,True,Manchester United,5.3,0.38
+Ryan Sessegnon,Spurs,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,21.07,0.2,0,0,0,0,0,Spurs,False,Liverpool,,-1.33
+Ryan Sessegnon,Spurs,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,20.34,0.2,0,0,0,0,0,Spurs,True,Crystal Palace,-3.09,0.81
+Ryan Sessegnon,Spurs,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,19.67,0.2,0,0,0,0,0,Spurs,False,Aston Villa,,0.59
+Ryan Sessegnon,Spurs,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,19.03,0.2,0,0,0,0,0,Spurs,True,Brentford,-3.15,0.69
+Ryan Sessegnon,Spurs,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,18.44,0.2,0,0,0,0,0,Spurs,False,Leicester City,,-0.05
+Ryan Sessegnon,Spurs,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,17.88,0.2,0,0,0,0,1,Spurs,False,Nottingham Forest,-5.2,
+Ryan Sessegnon,Spurs,Nottingham Forest,2022-08-28,False,Sub,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.0,False,0.0,0.0,17.82,0.2,0,0,0,0,0,Spurs,False,West Ham,2.68,0.14
+Ryan Sessegnon,Spurs,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,17.31,0.2,0,0,0,0,5,Spurs,True,Fulham,-1.52,-0.3
+Ryan Sessegnon,Spurs,Fulham,2022-09-03,True,DML,90,0.0,0.71,0.0,0.12,5,6.0,1.0,11.1,0,0,1,0.0,False,0.2,0.0,19.33,0.17,0,0,0,0,1,Spurs,True,Leeds United,-5.34,-0.79
+Ryan Sessegnon,Spurs,Leeds United,2022-09-17,True,DML,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,2,0.0,False,1.2,0.14,21.24,0.14,0,0,0,0,1,Spurs,False,Arsenal,2.45,-0.0
+Ryan Sessegnon,Spurs,Arsenal,2022-10-01,False,Sub,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.0,False,1.4,0.14,21.18,0.14,0,0,0,0,0,Spurs,False,Brentford,0.99,-0.55

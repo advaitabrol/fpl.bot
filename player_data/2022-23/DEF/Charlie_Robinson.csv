@@ -1,0 +1,13 @@
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Charlie Robinson,Fulham,Arsenal,2023-03-12,True,DL,0,0,0.0,0,0.03,0,0,1,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Fulham,False,Bournemouth,,0.19
+Charlie Robinson,Fulham,Bournemouth,2023-04-01,False,DL,0,0,0.02,0,0.03,0,1,1,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Fulham,True,West Ham,,0.63
+Charlie Robinson,Fulham,West Ham,2023-04-08,True,DL,0,0,0.02,0,0.02,0,1,1,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Fulham,False,Everton,,-0.63
+Charlie Robinson,Fulham,Everton,2023-04-15,False,DL,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Fulham,True,Leicester City,,0.83
+Charlie Robinson,Fulham,Leicester City,2023-04-22,True,DL,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Fulham,False,Aston Villa,,0.59
+Charlie Robinson,Fulham,Aston Villa,2023-04-25,False,DL,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Fulham,True,Manchester City,,-1.17
+Charlie Robinson,Fulham,Manchester City,2023-04-30,True,DL,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0.0,False,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Fulham,False,Liverpool,,-1.33
+Charlie Robinson,Fulham,Liverpool,2023-05-03,False,DL,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Fulham,True,Leeds United,,-0.79
+Charlie Robinson,Fulham,Leeds United,2023-05-08,True,DL,0,0,0.0,0,0.04,0,0,1,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Fulham,False,Southampton,,-1.07
+Charlie Robinson,Fulham,Southampton,2023-05-13,False,DL,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Fulham,True,Crystal Palace,,0.81
+Charlie Robinson,Fulham,Crystal Palace,2023-05-20,True,DL,0,0,0.0,0,0.08,0,0,1,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Fulham,False,Manchester United,,-0.1
+Charlie Robinson,Fulham,Manchester United,2023-05-28,False,DL,0,0,0.0,0,0.0,0,0,0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,,Man City,False,Burnley,-1.6,0.0

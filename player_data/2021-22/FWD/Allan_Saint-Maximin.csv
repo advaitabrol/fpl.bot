@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,form,xG&A_form,minutes_per_game
+Allan Saint-Maximin,Newcastle,West Ham,2021-08-15,True,FW,90,0.0,0.0,1.0,0.86,6,0.0,4.0,9.8,1,0.0,0.0,90.0
+Allan Saint-Maximin,Newcastle,Chelsea,2021-10-30,True,FW,90,0.0,0.02,0.0,0.0,2,1.0,0.0,2.4,0,6.0,1.0,90.0
+Allan Saint-Maximin,Newcastle,Brighton,2021-11-06,False,ML,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,4.0,0.51,90.0
+Allan Saint-Maximin,Newcastle,Brentford,2021-11-20,True,FWL,90,1.0,0.5,0.0,0.07,10,7.0,2.0,12.4,2,3.33,0.34,90.0
+Allan Saint-Maximin,Newcastle,Arsenal,2021-11-27,False,ML,90,0.0,0.03,0.0,0.02,2,1.0,1.0,4.7,0,5.0,0.38,90.0
+Allan Saint-Maximin,Newcastle,Norwich,2021-11-30,True,ML,76,0.0,0.1,0.0,0.05,2,1.0,3.0,4.4,0,4.4,0.31,87.67
+Allan Saint-Maximin,Newcastle,Burnley,2021-12-04,True,ML,90,0.0,0.11,0.0,0.19,2,3.0,2.0,8.2,0,3.6,0.13,88.0
+Allan Saint-Maximin,Newcastle,Leeds United,2021-12-12,False,ML,90,0.0,0.09,0.0,0.02,1,3.0,1.0,8.1,0,3.6,0.15,88.25
+Allan Saint-Maximin,Newcastle,Liverpool,2021-12-16,False,FW,78,0.0,0.1,0.0,0.02,2,1.0,1.0,3.6,0,3.4,0.17,87.11
+Allan Saint-Maximin,Newcastle,Manchester City,2021-12-19,True,Sub,45,0.0,0.02,0.0,0.0,1,1.0,0.0,0.7,0,1.8,0.09,82.9
+Allan Saint-Maximin,Newcastle,Manchester United,2021-12-27,True,ML,82,1.0,1.0,0.0,0.0,9,5.0,0.0,13.8,3,1.6,0.08,82.82
+Allan Saint-Maximin,Newcastle,Aston Villa,2021-08-21,False,FW,90,0.0,0.01,0.0,0.0,2,1.0,0.0,2.3,0,3.0,0.26,83.42
+Allan Saint-Maximin,Newcastle,Watford,2022-01-15,True,FWL,85,1.0,0.07,0.0,0.01,9,1.0,1.0,8.5,3,3.0,0.24,83.54
+Allan Saint-Maximin,Newcastle,Leicester City,2022-01-22,False,FWL,90,0.0,0.08,0.0,0.54,1,2.0,4.0,9.4,0,4.6,0.24,84.0
+Allan Saint-Maximin,Newcastle,Everton,2022-02-08,True,FWL,90,0.0,0.8,0.0,0.27,5,2.0,3.0,12.4,0,4.4,0.24,84.4
+Allan Saint-Maximin,Newcastle,Aston Villa,2022-02-13,True,FWL,90,0.0,0.04,0.0,0.13,2,2.0,2.0,6.3,0,5.2,0.39,84.75
+Allan Saint-Maximin,Newcastle,West Ham,,False,,0,,,,,0,,,0.0,0,3.8,0.2,79.76
+Allan Saint-Maximin,Newcastle,Brentford,,False,,0,,,,,0,,,0.0,0,3.4,0.2,75.33
+Allan Saint-Maximin,Newcastle,Brighton,2022-03-05,True,Sub,26,0.0,0.13,0.0,0.0,1,1.0,0.0,2.1,0,1.6,0.18,72.74
+Allan Saint-Maximin,Newcastle,Southampton,,False,,0,,,,,0,,,0.0,0,1.6,0.19,69.1
+Allan Saint-Maximin,Newcastle,Chelsea,2022-03-13,False,Sub,21,0.0,0.0,0.0,0.02,1,0.0,1.0,1.7,0,0.6,0.03,66.81
+Allan Saint-Maximin,Newcastle,Everton,2022-03-17,False,Sub,19,0.0,0.04,0.0,0.04,1,1.0,2.0,3.2,0,0.4,0.03,64.64
+Allan Saint-Maximin,Newcastle,Southampton,2021-08-28,True,FW,90,1.0,0.44,0.0,0.04,6,2.0,2.0,10.9,1,0.6,0.03,65.74
+Allan Saint-Maximin,Newcastle,Tottenham,2022-04-03,False,FWL,90,0.0,0.04,0.0,0.0,1,1.0,0.0,1.7,0,1.8,0.12,66.75
+Allan Saint-Maximin,Newcastle,Wolverhampton,2022-04-08,True,FWL,90,0.0,0.22,0.0,0.0,2,4.0,0.0,4.3,0,1.8,0.1,67.68
+Allan Saint-Maximin,Newcastle,Leeds United,2022-04-17,True,FWL,90,0.0,0.09,0.0,0.04,2,3.0,2.0,4.6,0,2.2,0.15,68.54
+Allan Saint-Maximin,Newcastle,Crystal Palace,2022-04-20,True,FWL,75,0.0,0.07,0.0,0.0,2,1.0,0.0,3.2,0,2.4,0.17,68.78
+Allan Saint-Maximin,Newcastle,Norwich,2022-04-23,False,FWL,90,0.0,0.04,1.0,0.15,4,1.0,3.0,7.6,0,2.6,0.17,69.54
+Allan Saint-Maximin,Newcastle,Liverpool,2022-04-30,True,FWL,90,0.0,0.02,0.0,0.02,2,1.0,1.0,2.9,0,2.2,0.29,70.24
+Allan Saint-Maximin,Newcastle,Manchester City,2022-05-08,False,FWL,90,0.0,0.05,0.0,0.41,2,2.0,2.0,4.4,0,2.4,0.29,70.9
+Allan Saint-Maximin,Newcastle,Arsenal,2022-05-16,True,FWL,76,0.0,0.04,0.0,0.0,2,1.0,0.0,3.5,0,2.4,0.25,71.06
+Allan Saint-Maximin,Newcastle,Burnley,2022-05-22,False,FWL,71,0.0,0.26,1.0,0.61,5,1.0,2.0,0.0,0,2.4,0.24,71.06
+Allan Saint-Maximin,Newcastle,Manchester United,2021-09-11,False,FW,90,0.0,0.04,1.0,0.34,5,3.0,3.0,7.2,0,3.0,0.48,71.64
+Allan Saint-Maximin,Newcastle,Leicester City,2021-09-17,True,FW,90,1.0,0.32,0.0,0.15,8,5.0,2.0,16.5,2,3.2,0.48,72.18
+Allan Saint-Maximin,Newcastle,Watford,2021-09-25,False,FW,90,0.0,0.14,1.0,1.18,8,2.0,5.0,13.9,3,4.4,0.54,72.69
+Allan Saint-Maximin,Newcastle,Wolverhampton,2021-10-02,False,FW,90,0.0,0.61,0.0,0.0,2,1.0,0.0,6.7,0,5.6,0.76,73.17
+Allan Saint-Maximin,Newcastle,Tottenham,2021-10-17,True,MR,90,0.0,0.06,0.0,0.08,2,2.0,1.0,2.0,0,5.6,0.87,73.62
+Allan Saint-Maximin,Newcastle,Crystal Palace,2021-10-23,False,FW,80,0.0,0.04,0.0,0.0,2,1.0,0.0,0.6,0,5.0,0.63,73.79

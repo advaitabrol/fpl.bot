@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Wilfried Zaha,Crystal Palace,Arsenal,2022-08-05,True,AML,90,0.0,0.03,0.0,0.45,2,1.0,2.0,7.6,0,0,2,False,0.0,0.0,90.0,14.0,1.0,10.2,4.89,0.05,5.0,Crystal Palace,True,Leicester City,-0.38,0.83
+Wilfried Zaha,Crystal Palace,Leicester City,2022-10-09,True,FWL,90,0.0,0.24,1.0,0.33,5,4.0,1.0,8.4,0,0,1,False,2.0,0.03,90.0,14.0,1.0,10.2,4.89,0.05,3.0,Crystal Palace,False,Leeds United,2.13,-0.8
+Wilfried Zaha,Crystal Palace,Leeds United,2022-10-15,False,FWL,76,0.0,0.08,0.0,0.02,3,2.0,1.0,3.2,0,1,0,False,3.5,0.64,85.33,14.0,1.0,10.2,4.89,0.05,8.0,Crystal Palace,True,Wolverhampton,-2.67,-0.48
+Wilfried Zaha,Crystal Palace,Wolverhampton,2022-10-18,True,FWL,90,1.0,0.53,0.0,0.06,8,4.0,1.0,12.8,1,0,1,False,3.33,0.45,86.5,14.0,1.0,10.2,4.89,0.05,1.0,Crystal Palace,False,Everton,2.41,-0.63
+Wilfried Zaha,Crystal Palace,Everton,2022-10-22,False,ML,90,0.0,0.02,0.0,0.0,1,1.0,0.0,2.0,0,0,3,False,4.5,0.47,87.2,14.0,1.0,10.2,4.89,0.05,2.0,Crystal Palace,True,Southampton,0.54,-0.38
+Wilfried Zaha,Crystal Palace,Southampton,2022-10-29,True,AML,90,0.0,0.11,0.0,0.02,2,1.0,1.0,5.1,0,1,0,False,3.8,0.38,87.67,14.0,1.0,10.2,4.89,0.05,12.0,Crystal Palace,False,West Ham,0.59,0.14
+Wilfried Zaha,Crystal Palace,West Ham,2022-11-06,False,FW,90,1.0,0.42,1.0,0.05,12,4.0,1.0,11.9,2,0,1,False,3.8,0.4,88.0,14.0,1.0,10.2,4.89,0.05,0.0,Crystal Palace,False,Nottingham Forest,,
+Wilfried Zaha,Crystal Palace,Nottingham Forest,2022-11-12,False,FW,90,0.0,0.91,0.0,0.1,0,3.0,2.0,6.2,0,0,1,True,5.2,0.43,88.25,14.0,1.0,10.2,4.89,0.05,2.0,Crystal Palace,True,Fulham,,-0.3
+Wilfried Zaha,Crystal Palace,Fulham,2022-12-26,True,FW,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.4,0,0,3,True,4.6,0.6,88.44,14.0,1.0,10.2,4.89,0.05,3.0,Crystal Palace,False,Bournemouth,,0.19
+Wilfried Zaha,Crystal Palace,Bournemouth,2022-12-31,False,FW,90,0.0,0.15,0.0,0.72,3,1.0,2.0,5.7,0,1,0,True,3.4,0.49,88.6,14.0,1.0,10.2,4.89,0.05,2.0,Crystal Palace,True,Tottenham,-5.01,1.07
+Wilfried Zaha,Crystal Palace,Tottenham,2023-01-04,True,AML,90,0.0,0.15,0.0,0.11,2,2.0,2.0,6.6,0,0,4,True,3.8,0.52,88.73,14.0,1.0,10.2,4.89,0.05,7.0,Crystal Palace,False,Liverpool,7.24,-1.33
+Wilfried Zaha,Crystal Palace,Liverpool,2022-08-15,False,FW,90,1.0,1.14,0.0,0.02,7,4.0,1.0,10.5,0,0,1,False,3.8,0.53,88.83,14.0,1.0,10.2,4.89,0.05,2.0,Crystal Palace,False,Chelsea,2.77,-0.72
+Wilfried Zaha,Crystal Palace,Chelsea,2023-01-15,False,FW,90,0.0,0.1,0.0,0.0,2,2.0,0.0,5.3,0,0,1,True,2.8,0.47,88.92,14.0,1.0,10.2,4.89,0.05,2.0,Crystal Palace,True,Manchester United,-0.9,0.38
+Wilfried Zaha,Crystal Palace,Manchester United,2023-01-18,True,AML,90,0.0,0.02,0.0,0.0,2,1.0,0.0,2.5,0,0,1,True,3.2,0.31,89.0,14.0,1.0,10.2,4.89,0.05,3.0,Crystal Palace,True,Newcastle United,1.62,0.73
+Wilfried Zaha,Crystal Palace,Newcastle United,2023-01-21,True,AML,64,0.0,0.0,0.0,0.13,3,0.0,2.0,3.3,0,1,0,True,3.2,0.31,87.33,14.0,1.0,10.2,4.89,0.05,0.0,Crystal Palace,False,Manchester United,0.74,-0.1
+Wilfried Zaha,Crystal Palace,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,3.2,0.28,81.88,14.0,1.0,10.2,4.89,0.05,0.0,Crystal Palace,True,Brighton,-0.1,-0.71
+Wilfried Zaha,Crystal Palace,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,2.8,0.25,77.06,14.0,1.0,10.2,4.89,0.05,0.0,Crystal Palace,False,Brentford,1.96,-0.55
+Wilfried Zaha,Crystal Palace,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.02,72.78,14.0,1.0,10.2,4.89,0.05,0.0,Crystal Palace,True,Liverpool,3.6,-0.53
+Wilfried Zaha,Crystal Palace,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,68.95,14.0,1.0,10.2,4.89,0.05,1.0,Crystal Palace,False,Aston Villa,0.99,0.59
+Wilfried Zaha,Crystal Palace,Aston Villa,2023-03-04,False,FW,90,0.0,0.06,0.0,0.0,1,2.0,0.0,0.8,0,0,1,True,0.6,0.0,70.0,14.0,1.0,10.2,4.89,0.05,2.0,Crystal Palace,True,Manchester City,-0.0,-1.17
+Wilfried Zaha,Crystal Palace,Manchester City,2023-03-11,True,FW,90,0.0,0.15,0.0,0.0,2,3.0,0.0,2.7,0,0,1,True,0.2,0.01,70.95,14.0,1.0,10.2,4.89,0.05,2.0,Crystal Palace,False,Brighton,,-0.39
+Wilfried Zaha,Crystal Palace,Brighton,2023-03-15,False,FWL,90,0.0,0.13,0.0,0.06,2,2.0,1.0,4.8,0,0,1,True,0.6,0.04,71.82,14.0,1.0,10.2,4.89,0.05,2.0,Crystal Palace,False,Arsenal,1.99,-0.0
+Wilfried Zaha,Crystal Palace,Arsenal,2023-03-19,False,AML,90,0.0,0.37,0.0,0.06,2,3.0,1.0,6.8,0,0,4,True,1.0,0.07,72.61,14.0,1.0,10.2,4.89,0.05,1.0,Crystal Palace,True,Leeds United,3.21,-0.79
+Wilfried Zaha,Crystal Palace,Leeds United,2023-04-01,True,FWL,45,0.0,0.4,0.0,0.0,1,7.0,0.0,6.4,0,0,0,True,1.4,0.14,71.46,14.0,1.0,10.2,4.89,0.05,12.0,Crystal Palace,True,Aston Villa,0.32,0.55
+Wilfried Zaha,Crystal Palace,Aston Villa,2022-08-20,True,FWL,81,2.0,1.45,0.0,0.32,12,3.0,3.0,15.8,3,0,1,False,1.6,0.22,71.84,14.0,1.0,10.2,4.89,0.05,0.0,Crystal Palace,False,Leicester City,2.85,-0.05
+Wilfried Zaha,Crystal Palace,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,3.8,0.5,69.08,14.0,1.0,10.2,4.89,0.05,0.0,Crystal Palace,False,Southampton,,-1.07
+Wilfried Zaha,Crystal Palace,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,3.4,0.47,66.52,14.0,1.0,10.2,4.89,0.05,0.0,Crystal Palace,True,Everton,-1.9,0.34
+Wilfried Zaha,Crystal Palace,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,3.0,0.44,64.14,14.0,1.0,10.2,4.89,0.05,0.0,Crystal Palace,False,Wolverhampton,,-0.46
+Wilfried Zaha,Crystal Palace,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,2.6,0.37,61.93,14.0,1.0,10.2,4.89,0.05,7.0,Crystal Palace,True,West Ham,,0.63
+Wilfried Zaha,Crystal Palace,West Ham,2023-04-29,True,FWL,83,1.0,0.63,0.0,0.08,7,4.0,1.0,10.2,0,0,3,True,2.4,0.29,62.63,14.0,1.0,10.2,4.89,0.05,1.0,Crystal Palace,False,Tottenham,6.04,-0.03
+Wilfried Zaha,Crystal Palace,Tottenham,2023-05-06,False,FWL,90,0.0,0.07,0.0,0.07,1,2.0,1.0,4.2,0,0,1,True,1.4,0.13,63.52,14.0,1.0,10.2,4.89,0.05,1.0,Crystal Palace,True,Bournemouth,,1.46
+Wilfried Zaha,Crystal Palace,Bournemouth,2023-05-13,True,FWL,50,0.0,0.19,0.0,0.05,1,2.0,1.0,3.9,0,0,0,True,1.6,0.14,63.09,14.0,1.0,10.2,4.89,0.05,0.0,Crystal Palace,False,Fulham,,1.37
+Wilfried Zaha,Crystal Palace,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.18,61.18,14.0,1.0,10.2,4.89,0.05,0.0,Crystal Palace,True,Nottingham Forest,,
+Wilfried Zaha,Crystal Palace,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.18,59.38,14.0,1.0,10.2,4.89,0.05,0.0,Crystal Palace,False,Manchester City,-0.86,-1.26
+Wilfried Zaha,Crystal Palace,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,1.8,0.18,57.69,14.0,1.0,10.2,4.89,0.05,7.0,Crystal Palace,True,Brentford,0.87,0.69
+Wilfried Zaha,Crystal Palace,Brentford,2022-08-30,True,ML,90,1.0,0.3,0.0,0.0,7,4.0,0.0,9.7,0,0,1,False,0.4,0.05,58.58,14.0,1.0,10.2,4.89,0.05,3.0,Crystal Palace,False,Newcastle United,1.9,-0.34
+Wilfried Zaha,Crystal Palace,Newcastle United,2022-09-03,False,FWL,90,0.0,0.08,0.0,0.09,3,3.0,1.0,6.4,0,1,0,False,1.6,0.1,59.43,14.0,1.0,10.2,4.89,0.05,2.0,Crystal Palace,True,Chelsea,1.2,-0.25
+Wilfried Zaha,Crystal Palace,Chelsea,2022-10-01,True,FWL,90,0.0,0.08,0.0,0.04,2,1.0,1.0,6.2,0,0,2,False,2.0,0.08,60.24,14.0,1.0,10.2,4.89,0.05,,Newcastle,True,Aston Villa,-4.4,0.55

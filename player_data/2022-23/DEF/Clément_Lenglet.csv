@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Clément Lenglet,Spurs,Southampton,2022-08-06,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,False,0.0,0.0,4.0,0.0,0,0,0,0,0,Spurs,False,Brighton,-2.68,-0.39
+Clément Lenglet,Spurs,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.0,2.0,0.0,0,0,0,0,0,Spurs,True,Everton,-5.21,0.34
+Clément Lenglet,Spurs,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.5,0.0,1.33,0.0,0,0,0,0,0,Spurs,False,Manchester United,4.8,-0.1
+Clément Lenglet,Spurs,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.33,0.0,1.0,0.0,0,0,0,0,5,Spurs,True,Newcastle United,-3.79,0.73
+Clément Lenglet,Spurs,Newcastle United,2022-10-23,True,DC,80,0.0,0.05,1.0,0.51,5,1.0,1.0,5.0,1,0,2,0.0,False,0.25,0.0,16.8,0.0,0,0,0,0,1,Spurs,False,Bournemouth,,0.19
+Clément Lenglet,Spurs,Bournemouth,2022-10-29,False,DC,90,0.0,0.14,0.0,0.02,1,3.0,1.0,7.4,0,0,2,0.0,False,1.2,0.21,29.0,0.0,0,0,0,0,1,Spurs,True,Liverpool,0.32,-0.53
+Clément Lenglet,Spurs,Liverpool,2022-11-06,True,DC,90,0.0,0.3,0.0,0.0,1,1.0,0.0,1.9,0,0,2,0.0,False,1.2,0.24,37.71,0.0,0,0,0,0,0,Spurs,True,Leicester City,-0.2,0.83
+Clément Lenglet,Spurs,Leicester City,2022-11-12,True,DC,56,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,0,0,2,0.82,True,1.4,0.3,40.0,0.0,0,0,0,0,6,Spurs,False,Brentford,1.4,-0.55
+Clément Lenglet,Spurs,Brentford,2022-12-26,False,DC,90,0.0,0.02,1.0,0.11,6,1.0,2.0,9.2,2,0,2,2.15,True,1.4,0.3,45.56,0.0,0,0,0,0,0,Spurs,True,Aston Villa,-0.44,0.55
+Clément Lenglet,Spurs,Aston Villa,2023-01-01,True,DC,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.1,0,0,2,1.0,True,2.6,0.5,50.0,0.0,0,0,0,0,6,Spurs,False,Crystal Palace,7.24,0.13
+Clément Lenglet,Spurs,Crystal Palace,2023-01-04,False,DC,85,0.0,0.0,0.0,0.0,6,0.0,0.0,2.0,0,1,0,0.79,True,1.6,0.29,53.18,0.17,0,0,0,0,0,Spurs,False,Chelsea,3.74,-0.72
+Clément Lenglet,Spurs,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.6,0.26,48.75,0.17,0,0,0,0,0,Spurs,True,Arsenal,-2.81,0.36
+Clément Lenglet,Spurs,Arsenal,2023-01-15,True,DC,87,0.0,0.0,0.0,0.06,0,0.0,1.0,3.0,0,0,2,1.66,True,2.4,0.2,51.69,0.14,0,0,0,0,1,Spurs,False,Manchester City,-2.29,-1.26
+Clément Lenglet,Spurs,Manchester City,2023-01-19,False,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,0.51,False,2.4,0.2,48.86,0.14,0,0,0,0,0,Spurs,False,Fulham,,1.37
+Clément Lenglet,Spurs,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,45.6,0.14,0,0,0,0,0,Spurs,True,Manchester City,-0.19,-1.17
+Clément Lenglet,Spurs,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.0,42.75,0.14,0,0,0,0,0,Spurs,False,Leeds United,1.08,-0.8
+Clément Lenglet,Spurs,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,40.24,0.14,0,0,0,0,6,Spurs,True,West Ham,-1.58,0.63
+Clément Lenglet,Spurs,West Ham,2023-02-19,True,DC,77,0.0,0.02,0.0,0.0,6,1.0,0.0,1.6,0,1,0,0.3,True,0.2,0.0,42.28,0.25,0,0,0,0,6,Spurs,True,Chelsea,5.76,-0.25
+Clément Lenglet,Spurs,Chelsea,2023-02-26,True,DC,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.4,0,1,0,0.41,True,1.4,0.0,44.79,0.33,0,0,0,0,2,Spurs,False,Wolverhampton,-1.1,-0.46
+Clément Lenglet,Spurs,Wolverhampton,2023-03-04,False,DC,90,0.0,0.22,0.0,0.0,2,1.0,0.0,2.7,0,0,1,0.44,True,2.4,0.0,47.05,0.3,0,0,0,0,2,Spurs,True,Nottingham Forest,,
+Clément Lenglet,Spurs,Nottingham Forest,2023-03-11,True,DC,90,0.0,0.01,0.0,0.0,2,1.0,0.0,3.3,0,0,1,1.57,True,2.8,0.05,49.1,0.27,0,0,0,0,1,Spurs,False,Southampton,-0.01,-1.07
+Clément Lenglet,Spurs,Southampton,2023-03-18,False,DC,90,0.0,0.12,0.0,0.0,1,1.0,0.0,3.3,0,0,3,2.4,True,3.2,0.05,50.95,0.25,0,0,0,0,8,Spurs,False,Everton,-0.37,-0.63
+Clément Lenglet,Spurs,Everton,2023-04-03,False,DC,76,0.0,0.0,0.0,0.01,8,0.0,1.0,2.5,3,1,0,0.73,True,3.4,0.07,52.04,0.31,0,0,0,0,0,Spurs,True,Wolverhampton,-0.85,-0.48
+Clément Lenglet,Spurs,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.8,0.07,49.88,0.31,0,0,0,0,2,Spurs,True,Brighton,,-0.71
+Clément Lenglet,Spurs,Brighton,2023-04-08,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.9,0,0,1,1.43,True,2.6,0.07,51.48,0.29,0,0,0,0,1,Spurs,True,Bournemouth,,1.46
+Clément Lenglet,Spurs,Bournemouth,2023-04-15,True,DC,34,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.24,True,2.6,0.03,50.81,0.29,0,0,0,0,0,Spurs,False,Newcastle United,0.79,-0.34
+Clément Lenglet,Spurs,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.4,0.02,48.93,0.29,0,0,0,0,1,Spurs,True,Manchester United,5.3,0.38
+Clément Lenglet,Spurs,Manchester United,2023-04-27,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,2,2.13,True,2.2,0.0,50.39,0.27,0,0,0,0,0,Spurs,False,Liverpool,,-1.33
+Clément Lenglet,Spurs,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.0,48.66,0.27,0,0,0,0,5,Spurs,True,Crystal Palace,-3.09,0.81
+Clément Lenglet,Spurs,Crystal Palace,2023-05-06,True,DC,87,0.0,0.02,0.0,0.0,5,1.0,0.0,1.8,0,1,0,0.37,True,0.8,0.0,49.93,0.31,0,0,0,0,1,Spurs,False,Aston Villa,,0.59
+Clément Lenglet,Spurs,Aston Villa,2023-05-13,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.2,0,0,2,1.18,True,1.4,0.0,51.23,0.29,0,0,0,0,1,Spurs,True,Brentford,-3.15,0.69
+Clément Lenglet,Spurs,Brentford,2023-05-20,True,DC,90,0.0,0.05,0.0,0.0,1,1.0,0.0,2.9,0,0,3,1.29,True,1.4,0.0,52.44,0.28,0,0,0,0,2,Spurs,False,Leicester City,,-0.05
+Clément Lenglet,Spurs,Leicester City,2023-05-28,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0,0,1,1.5,True,1.6,0.01,53.58,0.26,0,0,0,0,0,Spurs,False,Nottingham Forest,-5.2,
+Clément Lenglet,Spurs,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.01,52.0,0.26,0,0,0,0,0,Spurs,False,West Ham,2.68,0.14
+Clément Lenglet,Spurs,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.01,50.51,0.26,0,0,0,0,2,Spurs,True,Fulham,-1.52,-0.3
+Clément Lenglet,Spurs,Fulham,2022-09-03,True,DC,90,0.0,0.02,0.0,0.0,2,1.0,0.0,2.6,0,0,1,0.0,False,0.8,0.01,51.61,0.25,0,0,0,0,1,Spurs,True,Leeds United,-5.34,-0.79
+Clément Lenglet,Spurs,Leeds United,2022-09-17,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,2,0.0,False,1.0,0.01,52.65,0.24,0,0,0,0,1,Spurs,False,Arsenal,2.45,-0.0
+Clément Lenglet,Spurs,Arsenal,2022-10-01,False,DC,70,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,3,0.0,False,1.0,0.0,53.11,0.23,0,0,0,0,0,Aston Villa,True,Luton,,

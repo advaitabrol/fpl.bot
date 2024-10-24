@@ -1,0 +1,39 @@
+name,position_x,team,bonus,clean_sheets,expected_goals_conceded,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,own_goals,starts,total_points,was_home,goals,shots,xG,time,position_y,date,xA,assists,key_passes,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Max Lowe,DEF,Sheffield Utd,0,0,1.8,1,3.8,2023-08-12,79,Crystal Palace,0,1,2,True,0.0,0.0,0.0,81.0,DML,2023-08-12,0.01,0.0,1.0,0.0,0.0,79.0,0.0,0,0,0,0,0.0,Sheffield Utd,False,Arsenal,,-0.48
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2023-10-28,0,Arsenal,0,0,0,False,,,,,,,,,,2.0,0.0,39.5,0.0,0,0,0,0,0.0,Sheffield Utd,True,Wolverhampton,,0.05
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2023-11-04,0,Wolverhampton,0,0,0,True,,,,,,,,,,1.0,0.0,26.33,0.0,0,0,0,0,0.0,Sheffield Utd,False,Brighton,,-0.6
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2023-11-12,0,Brighton,0,0,0,False,,,,,,,,,,0.67,0.0,19.75,0.0,0,0,0,0,0.0,Sheffield Utd,True,Bournemouth,,1.22
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2023-11-25,0,Bournemouth,0,0,0,True,,,,,,,,,,0.5,0.0,15.8,0.0,0,0,0,0,0.0,Sheffield Utd,False,Burnley,,0.0
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2023-12-02,0,Burnley,0,0,0,False,,,,,,,,,,0.4,0.0,13.17,0.0,0,0,0,0,1.0,Sheffield Utd,True,Liverpool,,0.18
+Max Lowe,DEF,Sheffield Utd,0,0,0.47,1,0.0,2023-12-06,2,Liverpool,0,0,1,True,0.0,0.0,0.0,1.0,Sub,2023-12-06,0.0,0.0,0.0,0.0,0.0,11.57,0.0,0,0,0,0,1.0,Sheffield Utd,True,Brentford,,0.79
+Max Lowe,DEF,Sheffield Utd,0,0,0.18,0,0.7,2023-12-09,17,Brentford,0,0,1,True,0.0,0.0,0.0,14.0,Sub,2023-12-09,0.0,0.0,0.0,0.2,0.0,12.25,0.0,0,0,0,0,0.0,Sheffield Utd,False,Chelsea,,-0.85
+Max Lowe,DEF,Sheffield Utd,0,0,2.75,2,2.1,2023-12-16,90,Chelsea,0,1,0,False,0.0,0.0,0.0,90.0,DL,2023-12-16,0.0,0.0,0.0,0.4,0.0,20.89,0.0,0,0,0,0,1.0,Sheffield Utd,False,Aston Villa,,0.29
+Max Lowe,DEF,Sheffield Utd,0,0,0.45,1,1.0,2023-12-22,32,Aston Villa,0,0,1,False,0.0,0.0,0.0,30.0,Sub,2023-12-22,0.0,0.0,0.0,0.4,0.0,22.0,0.0,0,0,0,0,0.0,Sheffield Utd,True,Luton,,
+Max Lowe,DEF,Sheffield Utd,0,0,0.14,2,1.7,2023-12-26,45,Luton,0,0,0,True,0.0,2.0,0.94,43.0,Sub,2023-12-26,0.0,0.0,0.0,0.6,0.0,24.09,0.0,0,0,0,0,1.0,Sheffield Utd,False,Nottingham Forest,,-0.55
+Max Lowe,DEF,Sheffield Utd,0,0,0.82,1,0.4,2023-08-18,45,Nottingham Forest,0,1,1,False,0.0,0.0,0.0,48.0,DML,2023-08-18,0.0,0.0,0.0,0.6,0.19,25.83,0.0,0,0,0,0,0.0,Sheffield Utd,False,Manchester City,,-1.32
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2023-12-30,0,Manchester City,0,0,0,False,,,,,,,,,,0.6,0.19,23.85,0.0,0,0,0,0,0.0,Sheffield Utd,True,West Ham,,0.49
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-01-21,0,West Ham,0,0,0,True,,,,,,,,,,0.4,0.19,22.14,0.0,0,0,0,0,0.0,Sheffield Utd,False,Crystal Palace,,0.38
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-01-30,0,Crystal Palace,0,0,0,False,,,,,,,,,,0.4,0.19,20.67,0.0,0,0,0,0,0.0,Sheffield Utd,True,Aston Villa,,0.64
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-02-03,0,Aston Villa,0,0,0,True,,,,,,,,,,0.2,0.19,19.38,0.0,0,0,0,0,5.0,Sheffield Utd,False,Luton,,
+Max Lowe,DEF,Sheffield Utd,0,0,1.88,1,4.3,2024-02-10,85,Luton,0,0,5,False,0.0,0.0,0.0,86.0,Sub,2024-02-10,0.0,0.0,0.0,0.2,0.0,23.24,0.0,0,0,0,0,0.0,Sheffield Utd,True,Brighton,,-0.66
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-02-18,0,Brighton,0,0,0,True,,,,,,,,,,1.0,0.0,21.94,0.0,0,0,0,0,0.0,Sheffield Utd,False,Wolverhampton,,-0.52
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-02-25,0,Wolverhampton,0,0,0,False,,,,,,,,,,1.0,0.0,20.79,0.0,0,0,0,0,0.0,Sheffield Utd,True,Arsenal,,-0.11
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-03-04,0,Arsenal,0,0,0,True,,,,,,,,,,1.0,0.0,19.75,0.0,0,0,0,0,0.0,Sheffield Utd,False,Bournemouth,,0.19
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-03-09,0,Bournemouth,0,0,0,False,,,,,,,,,,1.0,0.0,18.81,0.0,0,0,0,0,0.0,Sheffield Utd,True,Manchester City,,-0.96
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2023-08-27,0,Manchester City,0,0,0,True,,,,,,,,,,1.0,0.0,17.95,0.0,0,0,0,0,0.0,Sheffield Utd,True,Fulham,,-0.13
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-03-30,0,Fulham,0,0,0,True,,,,,,,,,,0.0,0.0,17.17,0.0,0,0,0,0,0.0,Sheffield Utd,False,Liverpool,,-1.01
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-04-04,0,Liverpool,0,0,0,False,,,,,,,,,,0.0,0.0,16.46,0.0,0,0,0,0,0.0,Sheffield Utd,True,Chelsea,,-0.25
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-04-07,0,Chelsea,0,0,0,True,,,,,,,,,,0.0,0.0,15.8,0.0,0,0,0,0,0.0,Sheffield Utd,False,Brentford,,-0.53
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-04-13,0,Brentford,0,0,0,False,,,,,,,,,,0.0,0.0,15.19,0.0,0,0,0,0,0.0,Sheffield Utd,True,Burnley,,0.39
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-04-20,0,Burnley,0,0,0,True,,,,,,,,,,0.0,0.0,14.63,0.0,0,0,0,0,0.0,Sheffield Utd,False,Manchester United,,-0.63
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-04-24,0,Manchester United,0,0,0,False,,,,,,,,,,0.0,0.0,14.11,0.0,0,0,0,0,0.0,Sheffield Utd,False,Newcastle United,,-0.41
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-04-27,0,Newcastle United,0,0,0,False,,,,,,,,,,0.0,0.0,13.62,0.0,0,0,0,0,0.0,Sheffield Utd,True,Nottingham Forest,,1.55
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-05-04,0,Nottingham Forest,0,0,0,True,,,,,,,,,,0.0,0.0,13.17,0.0,0,0,0,0,1.0,Sheffield Utd,False,Everton,,-0.24
+Max Lowe,DEF,Sheffield Utd,0,0,0.27,0,0.4,2024-05-11,35,Everton,0,0,1,False,0.0,0.0,0.0,32.0,Sub,2024-05-11,0.0,0.0,0.0,0.0,0.0,13.87,0.0,0,0,0,0,1.0,Sheffield Utd,True,Tottenham,,0.69
+Max Lowe,DEF,Sheffield Utd,0,0,2.34,3,0.8,2024-05-19,68,Tottenham,0,1,1,True,0.0,0.0,0.0,74.0,DL,2024-05-19,0.0,0.0,0.0,0.2,0.0,15.56,0.0,0,0,0,0,0.0,Sheffield Utd,True,Everton,,0.53
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2023-09-02,0,Everton,0,0,0,True,,,,,,,,,,0.4,0.0,15.09,0.0,0,0,0,0,0.0,Sheffield Utd,False,Tottenham,,-0.36
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2023-09-16,0,Tottenham,0,0,0,False,,,,,,,,,,0.4,0.0,14.65,0.0,0,0,0,0,0.0,Sheffield Utd,True,Newcastle United,,0.55
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2023-09-24,0,Newcastle United,0,0,0,True,,,,,,,,,,0.4,0.0,14.23,0.0,0,0,0,0,0.0,Sheffield Utd,False,West Ham,,-0.22
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2023-09-30,0,West Ham,0,0,0,False,,,,,,,,,,0.4,0.0,13.83,0.0,0,0,0,0,0.0,Sheffield Utd,False,Fulham,,0.86
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2023-10-07,0,Fulham,0,0,0,False,,,,,,,,,,0.2,0.0,13.46,0.0,0,0,0,0,0.0,Sheffield Utd,True,Manchester United,,0.38
+Max Lowe,DEF,Sheffield Utd,0,0,0.0,0,0.0,2023-10-21,0,Manchester United,0,0,0,True,,,,,,,,,,0.0,0.0,13.11,0.0,0,0,0,0,,Ipswich,True,Liverpool,,0.18
