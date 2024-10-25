@@ -2,6 +2,12 @@ import os
 import pandas as pd
 import ast
 
+
+"""
+This goes through the files with each teams match specific data in each season and normalizes 
+all of it. Important to do before calculating difficulties. 
+"""
+
 # Function to parse 'ppda' and 'ppda_allowed' fields
 def parse_ppda(ppda_str):
     try:

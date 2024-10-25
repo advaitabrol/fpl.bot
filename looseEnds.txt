@@ -2,12 +2,9 @@ Chronological Hypothetical Road map for fpl.bot
 
 FPL TEAM PARAMS
 2 gk, 1 has to start
-5 def, 3-5 have to starting
-2 mids, 3-5 have to start
+5 def, 3-5 have to start
+5 mids, 2-5 have to start
 3 att, 1-3 have to start
-
-Ok now I want to make an algorithm based on the information within those files. I want to build a team of players which maximizes expected points for the upcoming gameweek. There are also specific details which we must consider. The entire team is made up of 11 starting players and 4 substitutes, one of the substitutes must be a GK. In each team there must be 2 goalkeepers, 5 defenders, 5 midfielders, and 3 attackers. Only the starting 11 contribute towards a teams points, so none of the expected points of the players on the bench contribute to the total expected points of a team. Of the starting 11, there must be one goalkeeper, at least 3 must be defenders, at least 3 must be midfielders, and at least 1 must be an attacker. The total cost of the entire team, starters and bench players, cannot exceed 100. Since the bench players do not contribute points, it is better to allocate the majority of the money to the starters. 
-
 
 Restructure fixture difficulties
     - Have it organized season by season
@@ -24,10 +21,40 @@ Clean data
     - Make it so that when a player is input into the 11 the user wants to rate, their data is easy
     pull and run 
 
-Make algorithm so that 
 
+what we have
+    - data and algo to predict expected points
+    - using that data we have buit an algo to predict optimal team
+        - this also works as our wild card transfer because you would want to 
+          wild card to the optimal team
+    - 
 
+features we still need
+    - reorganize data, get rid of unnecessary data and clean it up a bit
+    - be able to pull current data such as updates on injuries and new stats for players and teams
+    - update team difficulties bi-seasonaly with the most recent games having stronger weights
 
-Algo for optimal team for the week
+    - algo to suggest transfers (could suggest save your transfer)
+        - must choose who to transfer out and who to bring in based on value and expected points
+        - could be a mini version of the optimal team algo except with more constrained parameters
+          and also would need to add the bit where it decides who to transfer out
+    - algo that instead of giving the optimal team, takes a user input team and
+      and outputs the expected points and sugegsted transfer(s)
+    - suggested captain should be easy - player with the highest expected points
+    - add fields in data indicating tranfer/loan and chance of playing based on physical form
+      that field will be 0 when they are injured 
+    - in one website they get your team just by you inputting your team name, 
+      this could be better than them having to input each plur but at the same time 
+      thats not a big deal 
+    - I can't think of any more helpful features that our website could provide
+    - e
 
-Handling Transfer
+Figure out back-end
+    - Code it using Flask
+    - What is the input data going to look like?
+    - How do we host our algorithms so that when a front-end command is chosen the back-end 
+      responds accordingly?
+
+Design UI 
+    - Code it w react
+    - Design layout
