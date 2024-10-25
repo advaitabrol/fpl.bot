@@ -3,6 +3,14 @@ import pandas as pd
 import requests
 from io import StringIO
 
+
+"""
+Fetches the specific fixtures from vaastavs repository. The output is a folder holding files 
+indicating a season. Each file holds all fixtures in order with 
+the names of who played, who was home, who was away and the scores of each team. The files
+are not seperated by team.
+"""
+
 # Define team names and IDs for each season based on alphabetical order
 TEAM_IDS = {
     '2021-22': {

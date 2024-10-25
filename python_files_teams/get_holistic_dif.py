@@ -1,6 +1,12 @@
 import os
 import pandas as pd
 
+"""
+Gets holistic difficulties for each team home and away, how hard their over all difficulties
+home and away using data from every home and away game they have played over the given seasons. 
+Right now it uses incremented data. 
+"""
+
 # Define the seasons for each calculation
 season_sets = {
     "difficulty_2022": ["2019-20", "2020-21", "2021-22"],

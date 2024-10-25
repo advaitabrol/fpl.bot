@@ -3,6 +3,12 @@ import pandas as pd
 import requests
 from io import StringIO
 
+"""
+Goes into vastaavs repository and fetches all data for all matches played by every team in the 
+given seasons. The output is a folder holding files specifying a team and season, and each file
+holds all games for that team during that season with specific stats on each game. 
+Use this to update the match data for new games
+"""
 def fetch_csv_data_from_github(url):
     """Fetch CSV data from a GitHub URL and return it as a pandas DataFrame."""
     response = requests.get(url)

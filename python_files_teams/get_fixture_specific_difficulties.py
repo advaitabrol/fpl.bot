@@ -2,6 +2,14 @@ import os
 import pandas as pd
 import numpy as np
 
+"""
+Calculates fixture specific home and away difficulties for each team against every other team
+they have played. It calculates this difficulty using all games across all seasons they have 
+played eachother. The output is a folder holding files for each team in which there is a list 
+of every other team they have played and their home and away difficulty against them. A lower
+number indicates a less difficult match up. Using incremented data right now. 
+"""
+
 # Function to calculate average difficulty across seasons
 def calculate_average_difficulty(team, opponent, difficulties):
     home_difficulties = [d['Home'] for d in difficulties if d['Home'] is not None]

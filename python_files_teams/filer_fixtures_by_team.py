@@ -1,6 +1,13 @@
 import pandas as pd
 import os
 
+"""
+This file iterates through the files created by fetch_fixture_list.py and separates the 
+fixtures by team. The output is a folder which holds files indicating team and season. 
+Each file has the list of all fixutres in order for the indicated team and season, holding
+home team, away team, home team score, away team score, and goal difference. 
+"""
+
 # List of seasons to iterate through
 seasons = ['2021-22', '2022-23', '2023-24']
 
