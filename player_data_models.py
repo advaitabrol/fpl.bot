@@ -117,10 +117,10 @@ def apply_trained_model(model, features, csv_file):
         print(f"Missing features in {csv_file}: {missing_features}")
 
 # Apply models to prediction data in prediction_data/2024-25 folder
-apply_trained_model(rf_gk_model, goalkeeper_features, 'prediction_data/2024-25/GW7/gk.csv')
-apply_trained_model(rf_def_model, defender_features, 'prediction_data/2024-25/GW7/def.csv')
-apply_trained_model(rf_mid_model, midfielder_features, 'prediction_data/2024-25/GW7/mid.csv')
-apply_trained_model(rf_fwd_model, forward_features, 'prediction_data/2024-25/GW7/fwd.csv')
+apply_trained_model(rf_gk_model, goalkeeper_features, 'prediction_data/2024-25/GW9/gk.csv')
+apply_trained_model(rf_def_model, defender_features, 'prediction_data/2024-25/GW9/def.csv')
+apply_trained_model(rf_mid_model, midfielder_features, 'prediction_data/2024-25/GW9/mid.csv')
+apply_trained_model(rf_fwd_model, forward_features, 'prediction_data/2024-25/GW9/fwd.csv')
 
 # Evaluate model performance on the test sets
 def evaluate_model(model, X_test, y_test, label):

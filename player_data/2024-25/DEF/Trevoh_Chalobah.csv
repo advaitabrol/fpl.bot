@@ -1,8 +1,10 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Trevoh Chalobah,Chelsea,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.36,0.07,15.26,0.3,0.0,Chelsea,False,Wolverhampton,1.62,-0.53
-Trevoh Chalobah,Chelsea,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.36,0.07,15.26,0.3,0.0,Chelsea,True,Crystal Palace,-1.51,0.88
-Trevoh Chalobah,Chelsea,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.36,0.07,15.26,0.3,0.0,Crystal Palace,True,Leicester City,-0.81,0.47
-Trevoh Chalobah,Crystal Palace,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.36,0.07,15.26,0.3,0.0,Crystal Palace,True,Manchester United,-1.44,0.39
-Trevoh Chalobah,Crystal Palace,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.36,0.07,15.26,0.3,0.0,Crystal Palace,False,Everton,2.96,-0.39
-Trevoh Chalobah,Crystal Palace,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.36,0.07,15.26,0.3,2.0,Crystal Palace,True,Liverpool,0.92,0.24
-Trevoh Chalobah,Crystal Palace,Liverpool,2024-10-05,True,DC,87,0.0,0.25,0.0,0.0,2,2.0,0.0,4.3,0,0,1,1.31,True,0.0,0.0,12.43,0.0,0.36,0.07,15.26,0.3,,,,,,
+Trevoh Chalobah,Chelsea,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.36,0.07,15.26,0.3,0.0,Chelsea,False,Wolverhampton,,-0.53
+Trevoh Chalobah,Chelsea,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.36,0.07,15.26,0.3,0.0,Chelsea,True,Crystal Palace,,0.88
+Trevoh Chalobah,Chelsea,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.36,0.07,15.26,0.3,0.0,Crystal Palace,True,Leicester City,,0.47
+Trevoh Chalobah,Crystal Palace,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.36,0.07,15.26,0.3,0.0,Crystal Palace,True,Manchester United,,0.39
+Trevoh Chalobah,Crystal Palace,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.36,0.07,15.26,0.3,0.0,Crystal Palace,False,Everton,,-0.39
+Trevoh Chalobah,Crystal Palace,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.36,0.07,15.26,0.3,2.0,Crystal Palace,True,Liverpool,,0.24
+Trevoh Chalobah,Crystal Palace,Liverpool,2024-10-05,True,DC,87,0.0,0.25,0.0,0.0,2,2.0,0.0,4.3,0,0,1,1.31,True,0.0,0.0,12.43,0.0,0.36,0.07,15.26,0.3,2.0,Crystal Palace,False,Nottingham Forest,,-0.54
+Trevoh Chalobah,Crystal Palace,Nottingham Forest,2024-10-21,False,DC,90,0.0,0.06,0.0,0.05,2,2.0,1.0,5.5,0,0,1,1.62,True,0.4,0.05,22.12,0.0,0.36,0.07,15.26,0.3,8.0,Crystal Palace,True,Tottenham,,0.74
+Trevoh Chalobah,Crystal Palace,Tottenham,2024-10-27,True,DC,90,0.0,0.0,0.0,0.0,8,0.0,0.0,2.0,2,1,0,0.72,True,0.8,0.06,29.67,0.33,0.36,0.07,15.26,0.3,,,,,,

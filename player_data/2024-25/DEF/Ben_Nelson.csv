@@ -1,8 +1,10 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
 Ben Nelson,Leicester,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Leicester,False,Fulham,,0.53
-Ben Nelson,Leicester,Fulham,2024-08-24,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Leicester,True,Aston Villa,-0.34,0.66
-Ben Nelson,Leicester,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Leicester,False,Crystal Palace,2.07,0.2
-Ben Nelson,Leicester,Crystal Palace,2024-09-14,False,Sub,0,0.0,0.15,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Leicester,True,Everton,4.46,0.61
-Ben Nelson,Leicester,Everton,2024-09-21,True,Sub,0,1.0,0.4,0.0,0.08,0,1.0,1.0,0.0,0,0,0,0.0,False,0.0,0.04,0.0,0.0,0,0,0,0,0.0,Leicester,False,Arsenal,-1.31,-0.56
+Ben Nelson,Leicester,Fulham,2024-08-24,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Leicester,True,Aston Villa,,0.66
+Ben Nelson,Leicester,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Leicester,False,Crystal Palace,,0.2
+Ben Nelson,Leicester,Crystal Palace,2024-09-14,False,Sub,0,0.0,0.15,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Leicester,True,Everton,,0.61
+Ben Nelson,Leicester,Everton,2024-09-21,True,Sub,0,1.0,0.4,0.0,0.08,0,1.0,1.0,0.0,0,0,0,0.0,False,0.0,0.04,0.0,0.0,0,0,0,0,0.0,Leicester,False,Arsenal,,-0.56
 Ben Nelson,Leicester,Arsenal,2024-09-28,False,Sub,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,False,0.0,0.11,0.0,0.0,0,0,0,0,0.0,Leicester,True,Bournemouth,,0.84
-Ben Nelson,Leicester,Bournemouth,2024-10-05,True,Sub,0,0.0,0.0,1.0,0.34,0,0.0,1.0,0.0,0,0,0,0.0,False,0.0,0.11,0.0,0.0,0,0,0,0,,,,,,
+Ben Nelson,Leicester,Bournemouth,2024-10-05,True,Sub,0,0.0,0.0,1.0,0.34,0,0.0,1.0,0.0,0,0,0,0.0,False,0.0,0.11,0.0,0.0,0,0,0,0,0.0,Leicester,False,Southampton,,-0.31
+Ben Nelson,Leicester,Southampton,2024-10-19,False,Sub,0,0.0,0.0,0.0,0.04,0,0.0,2.0,0.0,0,0,0,0.0,False,0.0,0.31,0.0,0.0,0,0,0,0,0.0,Leicester,True,Nottingham Forest,,1.2
+Ben Nelson,Leicester,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.31,0.0,0.0,0,0,0,0,,,,,,

@@ -1,8 +1,10 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
 Abdul Fatawu,Leicester,Tottenham,2024-08-19,True,AMR,90,0,0.0,1,0.58,8,0,2,8.0,3,0,1,True,0.0,0.0,90.0,0,0,0,0,0,2.0,Leicester,False,Fulham,,0.53
-Abdul Fatawu,Leicester,Fulham,2024-08-24,False,DMR,90,0,0.07,0,0.0,2,3,0,3.8,0,0,2,True,8.0,1.0,90.0,0,0,0,0,0,2.0,Leicester,True,Aston Villa,-0.34,0.66
-Abdul Fatawu,Leicester,Aston Villa,2024-08-31,True,AMR,67,0,0.02,0,0.0,2,2,0,2.7,0,0,2,True,5.0,0.54,82.33,0,0,0,0,0,1.0,Leicester,False,Crystal Palace,2.07,0.2
-Abdul Fatawu,Leicester,Crystal Palace,2024-09-14,False,Sub,18,0,0.01,0,0.0,1,1,0,0.4,0,0,1,False,4.0,0.36,66.25,0,0,0,0,0,1.0,Leicester,True,Everton,4.46,0.61
-Abdul Fatawu,Leicester,Everton,2024-09-21,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,3.25,0.28,53.2,0,0,0,0,0,1.0,Leicester,False,Arsenal,-1.31,-0.56
+Abdul Fatawu,Leicester,Fulham,2024-08-24,False,DMR,90,0,0.07,0,0.0,2,3,0,3.8,0,0,2,True,8.0,1.0,90.0,0,0,0,0,0,2.0,Leicester,True,Aston Villa,,0.66
+Abdul Fatawu,Leicester,Aston Villa,2024-08-31,True,AMR,67,0,0.02,0,0.0,2,2,0,2.7,0,0,2,True,5.0,0.54,82.33,0,0,0,0,0,1.0,Leicester,False,Crystal Palace,,0.2
+Abdul Fatawu,Leicester,Crystal Palace,2024-09-14,False,Sub,18,0,0.01,0,0.0,1,1,0,0.4,0,0,1,False,4.0,0.36,66.25,0,0,0,0,0,1.0,Leicester,True,Everton,,0.61
+Abdul Fatawu,Leicester,Everton,2024-09-21,True,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,False,3.25,0.28,53.2,0,0,0,0,0,1.0,Leicester,False,Arsenal,,-0.56
 Abdul Fatawu,Leicester,Arsenal,2024-09-28,False,Sub,1,0,0.0,0,0.0,1,0,0,0.0,0,0,1,False,2.8,0.22,44.5,0,0,0,0,0,1.0,Leicester,True,Bournemouth,,0.84
-Abdul Fatawu,Leicester,Bournemouth,2024-10-05,True,Sub,8,0,0.04,0,0.0,1,1,0,0.2,0,0,0,False,1.4,0.02,39.29,0,0,0,0,0,,,,,,
+Abdul Fatawu,Leicester,Bournemouth,2024-10-05,True,Sub,8,0,0.04,0,0.0,1,1,0,0.2,0,0,0,False,1.4,0.02,39.29,0,0,0,0,0,4.0,Leicester,False,Southampton,,-0.31
+Abdul Fatawu,Leicester,Southampton,2024-10-19,False,Sub,31,0,0.22,1,0.77,4,2,1,8.3,0,0,0,False,1.2,0.02,38.25,0,0,0,0,0,2.0,Leicester,True,Nottingham Forest,,1.2
+Abdul Fatawu,Leicester,Nottingham Forest,2024-10-25,True,AMR,90,0,0.01,0,0.03,2,1,1,4.2,0,0,3,True,1.6,0.25,44.0,0,0,0,0,0,,,,,,

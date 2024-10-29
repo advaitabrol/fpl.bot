@@ -57,6 +57,8 @@ def add_price_to_prediction_data(prediction_dir, prices_file, threshold=60):
                 df.to_csv(file_path, index=False)
                 print(f"Updated {file_path} with 'price' column.")
 
+def add_status_data(): 
+    return; 
 # Example usage
 prediction_dir = 'prediction_data/2024-25'
 prices_file = 'current_prices.csv'

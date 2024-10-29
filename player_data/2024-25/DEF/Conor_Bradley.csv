@@ -1,8 +1,10 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Conor Bradley,Liverpool,Ipswich Town,2024-08-17,False,Sub,13,0.0,0.64,0.0,0.0,1,2.0,0.0,4.9,0,0,0,0.04,False,0.0,0.0,13.0,0.0,0.89,1.95,7.47,0.38,1.0,Liverpool,True,Brentford,-2.96,0.54
-Conor Bradley,Liverpool,Brentford,2024-08-25,True,Sub,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.0,False,1.0,0.64,15.5,0.0,0.89,1.95,7.47,0.38,1.0,Liverpool,False,Manchester United,0.18,-0.41
-Conor Bradley,Liverpool,Manchester United,2024-09-01,False,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,0.53,False,1.0,0.32,15.0,0.0,0.89,1.95,7.47,0.38,1.0,Liverpool,True,Nottingham Forest,-1.23,1.2
-Conor Bradley,Liverpool,Nottingham Forest,2024-09-14,True,Sub,30,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,1,0.3,False,1.0,0.21,18.75,0.0,0.89,1.95,7.47,0.38,0.0,Liverpool,True,Bournemouth,-4.12,0.84
-Conor Bradley,Liverpool,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.16,15.0,0.0,0.89,1.95,7.47,0.38,0.0,Liverpool,False,Wolverhampton,1.32,-0.53
-Conor Bradley,Liverpool,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.13,12.5,0.0,0.89,1.95,7.47,0.38,0.0,Liverpool,False,Crystal Palace,0.35,0.2
-Conor Bradley,Liverpool,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,10.71,0.0,0.89,1.95,7.47,0.38,,,,,,
+Conor Bradley,Liverpool,Ipswich Town,2024-08-17,False,Sub,13,0.0,0.64,0.0,0.0,1,2.0,0.0,4.9,0,0,0,0.04,False,0.0,0.0,13.0,0.0,0.89,1.95,7.47,0.38,1.0,Liverpool,True,Brentford,,0.54
+Conor Bradley,Liverpool,Brentford,2024-08-25,True,Sub,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.0,False,1.0,0.64,15.5,0.0,0.89,1.95,7.47,0.38,1.0,Liverpool,False,Manchester United,,-0.41
+Conor Bradley,Liverpool,Manchester United,2024-09-01,False,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,0.53,False,1.0,0.32,15.0,0.0,0.89,1.95,7.47,0.38,1.0,Liverpool,True,Nottingham Forest,,1.2
+Conor Bradley,Liverpool,Nottingham Forest,2024-09-14,True,Sub,30,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,1,0.3,False,1.0,0.21,18.75,0.0,0.89,1.95,7.47,0.38,0.0,Liverpool,True,Bournemouth,,0.84
+Conor Bradley,Liverpool,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.16,15.0,0.0,0.89,1.95,7.47,0.38,0.0,Liverpool,False,Wolverhampton,,-0.53
+Conor Bradley,Liverpool,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.13,12.5,0.0,0.89,1.95,7.47,0.38,0.0,Liverpool,False,Crystal Palace,,0.2
+Conor Bradley,Liverpool,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,10.71,0.0,0.89,1.95,7.47,0.38,0.0,Liverpool,True,Chelsea,,0.0
+Conor Bradley,Liverpool,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,9.38,0.0,0.89,1.95,7.47,0.38,0.0,Liverpool,False,Arsenal,,-0.56
+Conor Bradley,Liverpool,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,8.33,0.0,0.89,1.95,7.47,0.38,,,,,,

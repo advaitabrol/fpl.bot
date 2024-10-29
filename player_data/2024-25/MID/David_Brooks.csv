@@ -1,8 +1,10 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-David Brooks,Bournemouth,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,2.2,0.91,0.08,0.0,Bournemouth,True,Newcastle United,-1.78,0.67
-David Brooks,Bournemouth,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,2.2,0.91,0.08,0.0,Bournemouth,False,Everton,3.85,-0.39
-David Brooks,Bournemouth,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,2.2,0.91,0.08,0.0,Bournemouth,True,Chelsea,-0.01,0.0
-David Brooks,Bournemouth,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,2.2,0.91,0.08,0.0,Bournemouth,False,Liverpool,4.89,-1.08
-David Brooks,Bournemouth,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,2.2,0.91,0.08,0.0,Bournemouth,True,Southampton,2.91,0.24
-David Brooks,Bournemouth,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,2.2,0.91,0.08,1.0,Bournemouth,False,Leicester City,-1.39,-0.22
-David Brooks,Bournemouth,Leicester City,2024-10-05,False,Sub,9,0.0,0.0,0.0,0.14,1,0.0,1.0,2.0,0,0,0,False,0.0,0.0,1.29,1.0,1.0,2.2,0.91,0.08,,,,,,
+David Brooks,Bournemouth,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,2.2,0.91,0.08,0.0,Bournemouth,True,Newcastle United,,0.67
+David Brooks,Bournemouth,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,2.2,0.91,0.08,0.0,Bournemouth,False,Everton,,-0.39
+David Brooks,Bournemouth,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,2.2,0.91,0.08,0.0,Bournemouth,True,Chelsea,,0.0
+David Brooks,Bournemouth,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,2.2,0.91,0.08,0.0,Bournemouth,False,Liverpool,,-1.08
+David Brooks,Bournemouth,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,2.2,0.91,0.08,0.0,Bournemouth,True,Southampton,,0.24
+David Brooks,Bournemouth,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,1.0,2.2,0.91,0.08,1.0,Bournemouth,False,Leicester City,,-0.22
+David Brooks,Bournemouth,Leicester City,2024-10-05,False,Sub,9,0.0,0.0,0.0,0.14,1,0.0,1.0,2.0,0,0,0,False,0.0,0.0,1.29,1.0,1.0,2.2,0.91,0.08,0.0,Bournemouth,True,Arsenal,,-0.32
+David Brooks,Bournemouth,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.12,1.0,1.0,2.2,0.91,0.08,1.0,Bournemouth,False,Aston Villa,,0.11
+David Brooks,Bournemouth,Aston Villa,2024-10-26,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,0.2,0.0,2.0,1.0,1.0,2.2,0.91,0.08,,,,,,

@@ -800,13 +800,12 @@ def process_form_data(merged_data_dir, fixture_difficulties_dir, holistic_diffic
             else:
                 print(f"Position directory {position_dir} does not exist for season {season}.")
 
-def process_forms_default():
+def process_forms_default(seasons=['2022-23', '2023-24', '2024-25']):
     """Helper function to call process_player_data with default directories and mappings."""
     merged_data_dir = 'player_data'
-    fixture_difficulties_dir = 'fixture_difficulties'
-    holistic_difficulties_dir = 'holistic_difficulties'
+    fixture_difficulties_dir = 'fixture_difficulties_incremented'
+    holistic_difficulties_dir = 'holistic_difficulties_incremented'
 
-    seasons = ['2022-23', '2023-24', '2024-25']
     positions = ['GK', 'DEF', 'MID', 'FWD']
 
     team_name_mappings = {
@@ -922,20 +921,20 @@ def clean_footprint(base_dirs=['fpl_gw_data', 'understat_data']):
 
 
 def merge_all(): 
-  #merge_fpl_and_understat_data(); 
-  #process_fwd_data(); 
-  #process_mid_data(); 
-  #process_def_data(); 
-  #process_gk_data();  
+  #merge_fpl_and_understat_data(seasons=['2024-25']); 
+  #process_fwd_data(seasons=['2024-25']); 
+  #process_mid_data(seasons=['2024-25']); 
+  #process_def_data(seasons=['2024-25']); 
+  #process_gk_data(seasons=['2024-25']);  
   ###GET THE FORMS 
-  #form_fwd_mid_data();
-  #form_defender_data();
-  #form_goalkeeper_data(); 
+  #form_fwd_mid_data(seasons=['2024-25']);
+  #form_defender_data(seasons=['2024-25']);
+  #form_goalkeeper_data(seasons=['2024-25']); 
   ###ADD THE NEXT GW PTS 
-  #add_next_gw_pts(); 
+  #add_next_gw_pts(seasons=['2024-25']); 
   ###ADD FORMS 
-  #process_forms_default(); 
-  create_train_data('player_data', 'train_data', ['2022-23', '2023-24']); 
+  process_forms_default(seasons=['2024-25']); 
+  ###create_train_data('player_data', 'train_data', ['2022-23', '2023-24']); 
   clean_footprint();
 
 
