@@ -1,8 +1,10 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Morgan Rogers,Aston Villa,West Ham,2024-08-17,False,AMC,90,0,0.17,0,0.19,2,2,2,5.7,0,0,1,True,0.0,0.0,90.0,3.0,1.0,1.09,0.91,0.06,2.0,Aston Villa,True,Arsenal,0.99,-0.32
-Morgan Rogers,Aston Villa,Arsenal,2024-08-24,True,FW,90,0,0.2,0,0.43,2,3,2,5.3,0,0,2,True,2.0,0.17,90.0,3.0,1.0,1.09,0.91,0.06,2.0,Aston Villa,False,Leicester City,-2.22,-0.22
-Morgan Rogers,Aston Villa,Leicester City,2024-08-31,False,FW,90,0,0.0,0,0.37,2,0,1,2.3,0,0,1,True,2.0,0.18,90.0,3.0,1.0,1.09,0.91,0.06,2.0,Aston Villa,True,Everton,-2.45,0.61
-Morgan Rogers,Aston Villa,Everton,2024-09-14,True,AMC,90,0,0.52,0,0.1,2,4,1,8.9,0,0,2,True,2.0,0.12,90.0,3.0,1.0,1.09,0.91,0.06,10.0,Aston Villa,True,Wolverhampton,0.03,-0.08
+Morgan Rogers,Aston Villa,West Ham,2024-08-17,False,AMC,90,0,0.17,0,0.19,2,2,2,5.7,0,0,1,True,0.0,0.0,90.0,3.0,1.0,1.09,0.91,0.06,2.0,Aston Villa,True,Arsenal,,-0.32
+Morgan Rogers,Aston Villa,Arsenal,2024-08-24,True,FW,90,0,0.2,0,0.43,2,3,2,5.3,0,0,2,True,2.0,0.17,90.0,3.0,1.0,1.09,0.91,0.06,2.0,Aston Villa,False,Leicester City,,-0.22
+Morgan Rogers,Aston Villa,Leicester City,2024-08-31,False,FW,90,0,0.0,0,0.37,2,0,1,2.3,0,0,1,True,2.0,0.19,90.0,3.0,1.0,1.09,0.91,0.06,2.0,Aston Villa,True,Everton,,0.61
+Morgan Rogers,Aston Villa,Everton,2024-09-14,True,AMC,90,0,0.52,0,0.1,2,4,1,8.9,0,0,2,True,2.0,0.12,90.0,3.0,1.0,1.09,0.91,0.06,10.0,Aston Villa,True,Wolverhampton,,-0.08
 Morgan Rogers,Aston Villa,Wolverhampton,2024-09-21,True,AMC,90,0,0.0,2,1.11,10,0,3,9.4,3,0,1,True,2.0,0.22,90.0,3.0,1.0,1.09,0.91,0.06,7.0,Aston Villa,False,Ipswich Town,,
-Morgan Rogers,Aston Villa,Ipswich Town,2024-09-29,False,AMC,63,1,0.38,0,0.0,7,2,0,6.3,0,0,1,True,3.6,0.58,85.5,3.0,1.0,1.09,0.91,0.06,3.0,Aston Villa,True,Manchester United,-0.48,0.39
-Morgan Rogers,Aston Villa,Manchester United,2024-10-06,True,AMC,90,0,0.18,0,0.03,3,2,1,2.8,0,1,0,True,4.6,0.62,86.14,3.0,1.0,1.09,0.91,0.06,,,,,,
+Morgan Rogers,Aston Villa,Ipswich Town,2024-09-29,False,AMC,63,1,0.38,0,0.0,7,2,0,6.3,0,0,1,True,3.6,0.58,85.5,3.0,1.0,1.09,0.91,0.06,3.0,Aston Villa,True,Manchester United,,0.39
+Morgan Rogers,Aston Villa,Manchester United,2024-10-06,True,AMC,90,0,0.18,0,0.03,3,2,1,2.8,0,1,0,True,4.6,0.62,86.14,3.0,1.0,1.09,0.91,0.06,6.0,Aston Villa,False,Fulham,,0.53
+Morgan Rogers,Aston Villa,Fulham,2024-10-19,False,AMC,82,1,0.5,0,0.03,6,3,1,7.2,0,0,1,True,4.8,0.61,85.62,3.0,1.0,1.09,0.91,0.06,1.0,Aston Villa,True,Bournemouth,,0.84
+Morgan Rogers,Aston Villa,Bournemouth,2024-10-26,True,AMC,56,0,0.11,0,0.06,1,1,1,1.9,0,0,0,True,5.6,0.71,82.33,3.0,1.0,1.09,0.91,0.06,,,,,,

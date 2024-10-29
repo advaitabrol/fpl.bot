@@ -1,8 +1,10 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Dan Burn,Newcastle,Southampton,2024-08-17,True,DC,90,0,0.0,0,0.0,5,0,0,1.7,0,1,0,1.77,True,0.0,0.0,90.0,1.0,4.11,1.9,46.22,0.27,1.0,Newcastle,False,Bournemouth,1.83,-0.04
-Dan Burn,Newcastle,Bournemouth,2024-08-25,False,DC,90,0,0.44,0,0.0,1,2,0,5.3,0,0,1,2.23,True,5.0,0.0,90.0,0.5,4.11,1.9,46.22,0.27,0.0,Newcastle,True,Tottenham,-3.04,0.74
-Dan Burn,Newcastle,Tottenham,2024-09-01,True,DC,90,0,0.0,0,0.0,0,0,0,2.0,0,0,1,1.26,True,3.0,0.22,90.0,0.33,4.11,1.9,46.22,0.27,1.0,Newcastle,False,Wolverhampton,0.77,-0.53
-Dan Burn,Newcastle,Wolverhampton,2024-09-15,False,DC,90,0,0.03,0,0.0,1,1,0,2.3,0,0,1,0.99,True,2.0,0.15,90.0,0.25,4.11,1.9,46.22,0.27,1.0,Newcastle,False,Fulham,-1.79,0.53
-Dan Burn,Newcastle,Fulham,2024-09-21,False,DC,90,0,0.0,0,0.0,1,0,0,4.2,0,0,3,2.29,True,1.75,0.12,90.0,0.2,4.11,1.9,46.22,0.27,2.0,Newcastle,True,Manchester City,3.23,-1.18
-Dan Burn,Newcastle,Manchester City,2024-09-28,True,DC,90,0,0.06,0,0.08,2,1,1,3.1,0,0,1,0.91,True,1.6,0.09,90.0,0.17,4.11,1.9,46.22,0.27,8.0,Newcastle,False,Everton,1.08,-0.39
-Dan Burn,Newcastle,Everton,2024-10-05,False,DC,90,0,0.06,0,0.0,8,1,0,2.3,2,1,0,0.67,True,1.0,0.11,90.0,0.29,4.11,1.9,46.22,0.27,,,,,,
+Dan Burn,Newcastle,Southampton,2024-08-17,True,DC,90,0,0.0,0,0.0,5,0,0,1.7,0,1,0,1.77,True,0.0,0.0,90.0,1.0,4.11,1.9,46.22,0.27,1.0,Newcastle,False,Bournemouth,,-0.04
+Dan Burn,Newcastle,Bournemouth,2024-08-25,False,DC,90,0,0.44,0,0.0,1,2,0,5.3,0,0,1,2.23,True,5.0,0.0,90.0,0.5,4.11,1.9,46.22,0.27,0.0,Newcastle,True,Tottenham,,0.74
+Dan Burn,Newcastle,Tottenham,2024-09-01,True,DC,90,0,0.0,0,0.0,0,0,0,2.0,0,0,1,1.26,True,3.0,0.22,90.0,0.33,4.11,1.9,46.22,0.27,1.0,Newcastle,False,Wolverhampton,,-0.53
+Dan Burn,Newcastle,Wolverhampton,2024-09-15,False,DC,90,0,0.03,0,0.0,1,1,0,2.3,0,0,1,0.99,True,2.0,0.15,90.0,0.25,4.11,1.9,46.22,0.27,1.0,Newcastle,False,Fulham,,0.53
+Dan Burn,Newcastle,Fulham,2024-09-21,False,DC,90,0,0.0,0,0.0,1,0,0,4.2,0,0,3,2.29,True,1.75,0.12,90.0,0.2,4.11,1.9,46.22,0.27,2.0,Newcastle,True,Manchester City,,-1.18
+Dan Burn,Newcastle,Manchester City,2024-09-28,True,DC,90,0,0.06,0,0.08,2,1,1,3.1,0,0,1,0.91,True,1.6,0.1,90.0,0.17,4.11,1.9,46.22,0.27,8.0,Newcastle,False,Everton,,-0.39
+Dan Burn,Newcastle,Everton,2024-10-05,False,DC,90,0,0.06,0,0.0,8,1,0,2.3,2,1,0,0.67,True,1.0,0.11,90.0,0.29,4.11,1.9,46.22,0.27,1.0,Newcastle,True,Brighton,,-0.42
+Dan Burn,Newcastle,Brighton,2024-10-19,True,DC,90,0,0.0,0,0.0,1,0,0,2.0,0,0,1,1.12,True,2.4,0.03,90.0,0.25,4.11,1.9,46.22,0.27,1.0,Newcastle,False,Chelsea,,-0.9
+Dan Burn,Newcastle,Chelsea,2024-10-27,False,DC,90,0,0.06,0,0.0,1,1,0,1.6,0,0,2,1.64,True,2.6,0.03,90.0,0.22,4.11,1.9,46.22,0.27,,,,,,

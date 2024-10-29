@@ -1,8 +1,10 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Mikkel Damsgaard,Brentford,Crystal Palace,2024-08-18,True,Sub,16,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,0.0,0.0,16.0,0.0,2.0,0.87,2.28,0.05,1.0,Brentford,False,Liverpool,3.48,-1.08
-Mikkel Damsgaard,Brentford,Liverpool,2024-08-25,False,Sub,24,0,0.0,0,0.0,1,0,0,0.3,0,0,1,False,1.0,0.0,20.0,0.0,2.0,0.87,2.28,0.05,3.0,Brentford,True,Southampton,-4.06,0.24
-Mikkel Damsgaard,Brentford,Southampton,2024-08-31,True,MC,81,0,0.54,0,0.25,3,2,3,10.1,0,1,0,True,1.0,0.0,40.33,0.0,2.0,0.87,2.28,0.05,2.0,Brentford,False,Manchester City,-0.6,-1.51
-Mikkel Damsgaard,Brentford,Manchester City,2024-09-14,False,MC,83,0,0.0,0,0.12,2,0,1,3.9,0,0,2,True,1.67,0.18,51.0,0.0,2.0,0.87,2.28,0.05,2.0,Brentford,False,Tottenham,2.11,-0.3
-Mikkel Damsgaard,Brentford,Tottenham,2024-09-21,False,MC,78,0,0.06,0,0.02,2,1,1,5.1,0,0,2,True,1.75,0.14,56.4,0.0,2.0,0.87,2.28,0.05,3.0,Brentford,True,West Ham,-1.97,0.48
-Mikkel Damsgaard,Brentford,West Ham,2024-09-28,True,MC,90,0,0.0,0,0.08,3,0,1,4.8,1,0,1,True,1.8,0.12,62.0,0.0,2.0,0.87,2.28,0.05,10.0,Brentford,True,Wolverhampton,2.5,-0.08
-Mikkel Damsgaard,Brentford,Wolverhampton,2024-10-05,True,AMC,90,0,0.0,2,1.28,10,0,6,14.4,2,0,2,True,2.2,0.12,66.0,0.0,2.0,0.87,2.28,0.05,,,,,,
+Mikkel Damsgaard,Brentford,Crystal Palace,2024-08-18,True,Sub,16,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,0.0,0.0,16.0,0.0,2.0,0.87,2.28,0.05,1.0,Brentford,False,Liverpool,,-1.08
+Mikkel Damsgaard,Brentford,Liverpool,2024-08-25,False,Sub,24,0,0.0,0,0.0,1,0,0,0.3,0,0,1,False,1.0,0.0,20.0,0.0,2.0,0.87,2.28,0.05,3.0,Brentford,True,Southampton,,0.24
+Mikkel Damsgaard,Brentford,Southampton,2024-08-31,True,MC,81,0,0.54,0,0.25,3,2,3,10.1,0,1,0,True,1.0,0.0,40.33,0.0,2.0,0.87,2.28,0.05,2.0,Brentford,False,Manchester City,,-1.51
+Mikkel Damsgaard,Brentford,Manchester City,2024-09-14,False,MC,83,0,0.0,0,0.12,2,0,1,3.9,0,0,2,True,1.67,0.18,51.0,0.0,2.0,0.87,2.28,0.05,2.0,Brentford,False,Tottenham,,-0.3
+Mikkel Damsgaard,Brentford,Tottenham,2024-09-21,False,MC,78,0,0.06,0,0.02,2,1,1,5.1,0,0,2,True,1.75,0.14,56.4,0.0,2.0,0.87,2.28,0.05,3.0,Brentford,True,West Ham,,0.48
+Mikkel Damsgaard,Brentford,West Ham,2024-09-28,True,MC,90,0,0.0,0,0.08,3,0,1,4.8,1,0,1,True,1.8,0.12,62.0,0.0,2.0,0.87,2.28,0.05,10.0,Brentford,True,Wolverhampton,,-0.08
+Mikkel Damsgaard,Brentford,Wolverhampton,2024-10-05,True,AMC,90,0,0.0,2,1.28,10,0,6,14.4,2,0,2,True,2.2,0.12,66.0,0.0,2.0,0.87,2.28,0.05,5.0,Brentford,False,Manchester United,,-0.41
+Mikkel Damsgaard,Brentford,Manchester United,2024-10-19,False,AMR,90,0,0.07,1,0.5,5,1,1,5.3,0,0,2,True,4.0,0.52,69.0,0.0,2.0,0.87,2.28,0.05,2.0,Brentford,True,Ipswich Town,,
+Mikkel Damsgaard,Brentford,Ipswich Town,2024-10-26,True,AMC,76,0,0.45,0,0.54,2,2,4,8.8,0,0,2,True,4.4,0.62,69.78,0.0,2.0,0.87,2.28,0.05,,,,,,

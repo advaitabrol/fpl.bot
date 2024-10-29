@@ -1,8 +1,10 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Lisandro Martínez,Man Utd,Fulham,2024-08-16,True,DC,90,0.0,0.0,0.0,0.05,7,0.0,1.0,3.1,1,1,0,0.44,True,0.0,0.0,90.0,1.0,0.0,0.05,11.65,0.17,1.0,Man Utd,False,Brighton,0.65,-0.61
-Lisandro Martínez,Man Utd,Brighton,2024-08-24,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,2,2.09,True,7.0,0.0,90.0,0.5,0.0,0.05,11.65,0.17,0.0,Man Utd,True,Liverpool,0.35,0.24
-Lisandro Martínez,Man Utd,Liverpool,2024-09-01,True,DC,90,0.0,0.34,0.0,0.0,0,1.0,0.0,1.5,0,0,3,1.73,True,4.0,0.0,90.0,0.33,0.0,0.05,11.65,0.17,6.0,Man Utd,False,Southampton,-0.99,-0.31
-Lisandro Martínez,Man Utd,Southampton,2024-09-14,False,DC,76,0.0,0.0,0.0,0.0,6,0.0,0.0,1.8,0,1,0,1.12,True,2.67,0.11,86.5,0.5,0.0,0.05,11.65,0.17,5.0,Man Utd,False,Crystal Palace,2.45,0.2
-Lisandro Martínez,Man Utd,Crystal Palace,2024-09-21,False,DC,90,0.0,0.6,0.0,0.0,5,1.0,0.0,5.4,0,1,0,1.01,True,3.5,0.08,87.2,0.6,0.0,0.05,11.65,0.17,0.0,Man Utd,True,Tottenham,-2.02,0.74
-Lisandro Martínez,Man Utd,Tottenham,2024-09-29,True,DC,90,0.0,0.17,0.0,0.04,0,4.0,1.0,5.5,0,0,3,4.59,True,3.8,0.19,87.67,0.5,0.0,0.05,11.65,0.17,0.0,Man Utd,False,Aston Villa,-0.18,0.11
-Lisandro Martínez,Man Utd,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.4,0.22,75.14,0.5,0.0,0.05,11.65,0.17,,,,,,
+Lisandro Martínez,Man Utd,Fulham,2024-08-16,True,DC,90,0.0,0.0,0.0,0.05,7,0.0,1.0,3.1,1,1,0,0.44,True,0.0,0.0,90.0,1.0,0.0,0.05,11.65,0.17,1.0,Man Utd,False,Brighton,,-0.61
+Lisandro Martínez,Man Utd,Brighton,2024-08-24,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,2,2.09,True,7.0,0.0,90.0,0.5,0.0,0.05,11.65,0.17,0.0,Man Utd,True,Liverpool,,0.24
+Lisandro Martínez,Man Utd,Liverpool,2024-09-01,True,DC,90,0.0,0.34,0.0,0.0,0,1.0,0.0,1.5,0,0,3,1.73,True,4.0,0.0,90.0,0.33,0.0,0.05,11.65,0.17,6.0,Man Utd,False,Southampton,,-0.31
+Lisandro Martínez,Man Utd,Southampton,2024-09-14,False,DC,76,0.0,0.0,0.0,0.0,6,0.0,0.0,1.8,0,1,0,1.12,True,2.67,0.11,86.5,0.5,0.0,0.05,11.65,0.17,5.0,Man Utd,False,Crystal Palace,,0.2
+Lisandro Martínez,Man Utd,Crystal Palace,2024-09-21,False,DC,90,0.0,0.6,0.0,0.0,5,1.0,0.0,5.4,0,1,0,1.01,True,3.5,0.09,87.2,0.6,0.0,0.05,11.65,0.17,0.0,Man Utd,True,Tottenham,,0.74
+Lisandro Martínez,Man Utd,Tottenham,2024-09-29,True,DC,90,0.0,0.17,0.0,0.04,0,4.0,1.0,5.5,0,0,3,4.59,True,3.8,0.19,87.67,0.5,0.0,0.05,11.65,0.17,0.0,Man Utd,False,Aston Villa,,0.11
+Lisandro Martínez,Man Utd,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.4,0.22,75.14,0.5,0.0,0.05,11.65,0.17,2.0,Man Utd,True,Brentford,,0.54
+Lisandro Martínez,Man Utd,Brentford,2024-10-19,True,DL,90,0.0,0.02,0.0,0.01,2,1.0,1.0,5.0,0,0,1,0.86,True,2.2,0.22,77.0,0.43,0.0,0.05,11.65,0.17,1.0,Man Utd,False,West Ham,,-0.34
+Lisandro Martínez,Man Utd,West Ham,2024-10-27,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,2,2.98,True,2.6,0.16,78.44,0.38,0.0,0.05,11.65,0.17,,,,,,

@@ -1,8 +1,10 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Tyrick Mitchell,Crystal Palace,Brentford,2024-08-18,False,DML,90,0,0.06,0,0.16,1,1,2,4.7,0,0,2,1.59,True,0.0,0.0,90.0,0.0,2.21,3.62,50.84,0.28,1.0,Crystal Palace,True,West Ham,0.94,0.48
-Tyrick Mitchell,Crystal Palace,West Ham,2024-08-24,True,DML,90,0,0.0,0,0.09,1,0,2,5.5,0,0,2,1.39,True,1.0,0.06,90.0,0.0,2.21,3.62,50.84,0.28,2.0,Crystal Palace,False,Chelsea,2.48,-0.9
-Tyrick Mitchell,Crystal Palace,Chelsea,2024-09-01,False,DML,90,0,0.1,0,0.0,2,1,0,2.0,0,0,1,2.27,True,1.0,0.03,90.0,0.0,2.21,3.62,50.84,0.28,4.0,Crystal Palace,True,Leicester City,-0.81,0.47
-Tyrick Mitchell,Crystal Palace,Leicester City,2024-09-14,True,DML,88,0,0.03,1,1.05,4,1,4,11.6,0,0,2,1.23,True,1.33,0.05,89.5,0.0,2.21,3.62,50.84,0.28,6.0,Crystal Palace,True,Manchester United,-1.44,0.39
-Tyrick Mitchell,Crystal Palace,Manchester United,2024-09-21,True,DML,90,0,0.0,0,0.33,6,0,1,4.6,0,1,0,1.7,True,2.0,0.3,89.6,0.2,2.21,3.62,50.84,0.28,1.0,Crystal Palace,False,Everton,2.96,-0.39
-Tyrick Mitchell,Crystal Palace,Everton,2024-09-28,False,DML,90,0,0.0,0,0.0,1,0,0,2.8,0,0,2,0.89,True,2.8,0.24,89.67,0.17,2.21,3.62,50.84,0.28,1.0,Crystal Palace,True,Liverpool,0.92,0.24
-Tyrick Mitchell,Crystal Palace,Liverpool,2024-10-05,True,DML,59,0,0.0,0,0.0,1,0,0,1.4,0,0,1,0.87,True,2.8,0.23,85.29,0.17,2.21,3.62,50.84,0.28,,,,,,
+Tyrick Mitchell,Crystal Palace,Brentford,2024-08-18,False,DML,90,0,0.06,0,0.16,1,1,2,4.7,0,0,2,1.59,True,0.0,0.0,90.0,0.0,2.21,3.62,50.84,0.28,1.0,Crystal Palace,True,West Ham,,0.48
+Tyrick Mitchell,Crystal Palace,West Ham,2024-08-24,True,DML,90,0,0.0,0,0.09,1,0,2,5.5,0,0,2,1.39,True,1.0,0.06,90.0,0.0,2.21,3.62,50.84,0.28,2.0,Crystal Palace,False,Chelsea,,-0.9
+Tyrick Mitchell,Crystal Palace,Chelsea,2024-09-01,False,DML,90,0,0.1,0,0.0,2,1,0,2.0,0,0,1,2.27,True,1.0,0.03,90.0,0.0,2.21,3.62,50.84,0.28,4.0,Crystal Palace,True,Leicester City,,0.47
+Tyrick Mitchell,Crystal Palace,Leicester City,2024-09-14,True,DML,88,0,0.03,1,1.05,4,1,4,11.6,0,0,2,1.23,True,1.33,0.06,89.5,0.0,2.21,3.62,50.84,0.28,6.0,Crystal Palace,True,Manchester United,,0.39
+Tyrick Mitchell,Crystal Palace,Manchester United,2024-09-21,True,DML,90,0,0.0,0,0.33,6,0,1,4.6,0,1,0,1.7,True,2.0,0.3,89.6,0.2,2.21,3.62,50.84,0.28,1.0,Crystal Palace,False,Everton,,-0.39
+Tyrick Mitchell,Crystal Palace,Everton,2024-09-28,False,DML,90,0,0.0,0,0.0,1,0,0,2.8,0,0,2,0.89,True,2.8,0.24,89.67,0.17,2.21,3.62,50.84,0.28,1.0,Crystal Palace,True,Liverpool,,0.24
+Tyrick Mitchell,Crystal Palace,Liverpool,2024-10-05,True,DML,59,0,0.0,0,0.0,1,0,0,1.4,0,0,1,0.87,True,2.8,0.23,85.29,0.17,2.21,3.62,50.84,0.28,2.0,Crystal Palace,False,Nottingham Forest,,-0.54
+Tyrick Mitchell,Crystal Palace,Nottingham Forest,2024-10-21,False,DML,73,0,0.0,0,0.0,2,0,0,1.0,0,0,1,1.56,True,2.8,0.23,83.75,0.14,2.21,3.62,50.84,0.28,6.0,Crystal Palace,True,Tottenham,,0.74
+Tyrick Mitchell,Crystal Palace,Tottenham,2024-10-27,True,DML,90,0,0.0,0,0.07,6,0,1,2.6,0,1,0,0.72,True,2.8,0.21,84.44,0.25,2.21,3.62,50.84,0.28,,,,,,

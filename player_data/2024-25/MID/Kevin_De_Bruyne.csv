@@ -1,8 +1,10 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
 Kevin De Bruyne,Man City,Chelsea,2024-08-18,False,AMC,90,0.0,0.09,0.0,0.08,3,2.0,1.0,2.4,0,1,0,True,0.0,0.0,90.0,4.0,10.0,2.57,11.96,0.08,12.0,Man City,True,Ipswich Town,,
-Kevin De Bruyne,Man City,Ipswich Town,2024-08-24,True,AMC,89,1.0,0.5,1.0,0.98,12,4.0,4.0,15.0,2,0,1,True,3.0,0.09,89.5,4.0,10.0,2.57,11.96,0.08,1.0,Man City,False,West Ham,-1.27,-0.34
-Kevin De Bruyne,Man City,West Ham,2024-08-31,False,AMC,87,0.0,0.32,0.0,0.73,1,6.0,6.0,15.7,0,0,1,True,7.5,0.8,88.67,4.0,10.0,2.57,11.96,0.08,2.0,Man City,True,Brentford,0.69,0.54
-Kevin De Bruyne,Man City,Brentford,2024-09-14,True,AMC,90,0.0,0.07,0.0,0.34,2,2.0,5.0,9.6,0,0,1,True,5.33,0.64,89.0,4.0,10.0,2.57,11.96,0.08,0.0,Man City,True,Arsenal,-3.0,-0.32
-Kevin De Bruyne,Man City,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,4.5,0.5,71.2,4.0,10.0,2.57,11.96,0.08,0.0,Man City,False,Newcastle United,-1.93,-0.44
-Kevin De Bruyne,Man City,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,3.6,0.4,59.33,4.0,10.0,2.57,11.96,0.08,0.0,Man City,True,Fulham,-1.5,0.27
-Kevin De Bruyne,Man City,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,3.0,0.38,50.86,4.0,10.0,2.57,11.96,0.08,,,,,,
+Kevin De Bruyne,Man City,Ipswich Town,2024-08-24,True,AMC,89,1.0,0.5,1.0,0.98,12,4.0,4.0,15.0,2,0,1,True,3.0,0.09,89.5,4.0,10.0,2.57,11.96,0.08,1.0,Man City,False,West Ham,,-0.34
+Kevin De Bruyne,Man City,West Ham,2024-08-31,False,AMC,87,0.0,0.32,0.0,0.73,1,6.0,6.0,15.7,0,0,1,True,7.5,0.8,88.67,4.0,10.0,2.57,11.96,0.08,2.0,Man City,True,Brentford,,0.54
+Kevin De Bruyne,Man City,Brentford,2024-09-14,True,AMC,90,0.0,0.07,0.0,0.34,2,2.0,5.0,9.6,0,0,1,True,5.33,0.64,89.0,4.0,10.0,2.57,11.96,0.08,0.0,Man City,True,Arsenal,,-0.32
+Kevin De Bruyne,Man City,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,4.5,0.5,71.2,4.0,10.0,2.57,11.96,0.08,0.0,Man City,False,Newcastle United,,-0.44
+Kevin De Bruyne,Man City,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,3.6,0.4,59.33,4.0,10.0,2.57,11.96,0.08,0.0,Man City,True,Fulham,,0.27
+Kevin De Bruyne,Man City,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,3.0,0.38,50.86,4.0,10.0,2.57,11.96,0.08,0.0,Man City,False,Wolverhampton,,-0.53
+Kevin De Bruyne,Man City,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.08,44.5,4.0,10.0,2.57,11.96,0.08,0.0,Man City,True,Southampton,,0.24
+Kevin De Bruyne,Man City,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.01,39.56,4.0,10.0,2.57,11.96,0.08,,,,,,

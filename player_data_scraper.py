@@ -336,11 +336,11 @@ def clean_understat():
 
 def scrape_all(): 
   ###get the FPL GW data
-  download_fpl_gw_csv_files(); #DOWNLOADS WEEK TO WEEK FPL DATA
+  download_fpl_gw_csv_files(seasons=['2023-24', '2024-25']); #DOWNLOADS WEEK TO WEEK FPL DATA
   fpl_gw_to_player(); #CHANGES FPL DATA TO PLAYER FORMAT
   clean_fpl_gw_data(); 
   ###get the understat data
-  download_understat_csv_files(); 
+  download_understat_csv_files(seasons=['2023-24', '2024-25']); 
   clean_understat(); 
     
 if __name__ == "__main__":
