@@ -3,34 +3,29 @@ import pandas as pd
 import requests
 from io import StringIO
 
-
-"""
-Fetches the specific fixtures from vaastavs repository. The output is a folder holding files 
-indicating a season. Each file holds all fixtures in order with 
-the names of who played, who was home, who was away and the scores of each team. The files
-are not seperated by team.
-"""
-
-# Define team names and IDs for each season based on alphabetical order
+# Define team names and IDs for the 2024-25 season
 TEAM_IDS = {
-    '2021-22': {
-        1: 'Arsenal', 2: 'Aston Villa', 3: 'Brentford', 4: 'Brighton', 5: 'Burnley',
-        6: 'Chelsea', 7: 'Crystal Palace', 8: 'Everton', 9: 'Leeds United', 10: 'Leicester City',
-        11: 'Liverpool', 12: 'Manchester City', 13: 'Manchester United', 14: 'Newcastle United', 
-        15: 'Norwich', 16: 'Southampton', 17: 'Tottenham', 18: 'Watford', 19: 'West Ham', 20: 'Wolverhampton'
-    },
-    '2022-23': {
-        1: 'Arsenal', 2: 'Aston Villa', 3: 'Bournemouth', 4: 'Brentford', 5: 'Brighton', 
-        6: 'Chelsea', 7: 'Crystal Palace', 8: 'Everton', 9: 'Fulham', 10: 'Leeds United', 
-        11: 'Leicester City', 12: 'Liverpool', 13: 'Manchester City', 14: 'Manchester United', 
-        15: 'Newcastle United', 16: 'Nottingham Forest', 17: 'Southampton', 18: 'Tottenham', 
-        19: 'West Ham', 20: 'Wolverhampton'
-    },
-    '2023-24': {
-        1: 'Arsenal', 2: 'Aston Villa', 3: 'Bournemouth', 4: 'Brentford', 5: 'Brighton', 6: 'Burnley',
-        7: 'Chelsea', 8: 'Crystal Palace', 9: 'Everton', 10: 'Fulham', 11: 'Liverpool', 
-        12: 'Luton', 13: 'Manchester City', 14: 'Manchester United', 15: 'Newcastle United', 
-        16: 'Nottingham Forest', 17: 'Sheffield', 18: 'Tottenham', 19: 'West Ham', 20: 'Wolverhampton'
+    '2024-25': {
+        1: "Arsenal",
+        2: "Aston Villa",
+        3: "Bournemouth",
+        4: "Brentford",
+        5: "Brighton",
+        6: "Chelsea",
+        7: "Crystal Palace",
+        8: "Everton",
+        9: "Fulham",
+        10: "Ipswich Town",
+        11: "Leicester City",
+        12: "Liverpool",
+        13: "Manchester City",
+        14: "Manchester United",
+        15: "Newcastle United",
+        16: "Nottingham Forest",
+        17: "Southampton",
+        18: "Tottenham",
+        19: "West Ham",
+        20: "Wolverhampton"
     }
 }
 
@@ -79,21 +74,20 @@ def process_fixtures_for_season(season, fixtures_csv_url, output_folder):
         print(f"Error processing data for season {season}: {e}")
 
 def main():
-    # List of seasons to process
-    seasons = ['2021-22', '2022-23', '2023-24']
+    # Only the 2024-25 season to process
+    season = '2024-25'
     
-    # Base URL for fetching files
+    # Base URL for fetching the file
     base_url = "https://raw.githubusercontent.com/vaastav/Fantasy-Premier-League/master/data/"
     
-    # Specify the output folder where the processed CSV files will be saved
+    # URL for fixtures.csv for the 2024-25 season
+    fixtures_csv_url = f"{base_url}{season}/fixtures.csv"
+    
+    # Specify the output folder where the processed CSV file will be saved
     output_folder = 'fpl_fixtures_data'
     
-    for season in seasons:
-        # URL for fixtures.csv for each season
-        fixtures_csv_url = f"{base_url}{season}/fixtures.csv"
-        
-        # Process the fixtures for the season
-        process_fixtures_for_season(season, fixtures_csv_url, output_folder)
+    # Process the fixtures for the 2024-25 season
+    process_fixtures_for_season(season, fixtures_csv_url, output_folder)
 
 if __name__ == "__main__":
     main()

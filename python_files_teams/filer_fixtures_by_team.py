@@ -9,10 +9,10 @@ home team, away team, home team score, away team score, and goal difference.
 """
 
 # List of seasons to iterate through
-seasons = ['2021-22', '2022-23', '2023-24']
+seasons = ['2024-25']
 
 # Directory where your fixture files are stored
-fixtures_dir = './fpl_fixtures_data/'
+fixtures_dir = './fpl_season_fixtures_info/'
 
 # Directory to save the team-specific fixtures
 output_dir = './team_fixtures/'
