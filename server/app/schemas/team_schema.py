@@ -1,0 +1,1 @@
+# Schemas for team-related requests
