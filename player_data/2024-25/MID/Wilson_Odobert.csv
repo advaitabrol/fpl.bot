@@ -1,10 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Wilson Odobert,Spurs,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,3.0,2.0,2.52,4.44,0.04,3.0,Spurs,True,Everton,,0.61
-Wilson Odobert,Spurs,Everton,2024-08-24,True,FWL,65,0.0,0.08,0.0,0.02,3,1.0,1.0,3.7,0,1,0,True,0.0,0.0,32.5,3.0,2.0,2.52,4.44,0.04,2.0,Spurs,False,Newcastle United,,-0.44
-Wilson Odobert,Spurs,Newcastle United,2024-09-01,False,FWR,73,0.0,0.65,0.0,0.02,2,4.0,1.0,3.5,0,0,1,True,1.5,0.04,46.0,3.0,2.0,2.52,4.44,0.04,1.0,Spurs,True,Arsenal,,-0.32
-Wilson Odobert,Spurs,Arsenal,2024-09-15,True,Sub,22,0.0,0.02,0.0,0.02,1,1.0,1.0,2.0,0,0,0,False,1.67,0.24,40.0,3.0,2.0,2.52,4.44,0.04,0.0,Spurs,True,Brentford,,0.54
-Wilson Odobert,Spurs,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,1.5,0.19,32.0,3.0,2.0,2.52,4.44,0.04,0.0,Spurs,False,Manchester United,,-0.41
-Wilson Odobert,Spurs,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.15,26.67,3.0,2.0,2.52,4.44,0.04,0.0,Spurs,False,Brighton,,-0.61
-Wilson Odobert,Spurs,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.15,22.86,3.0,2.0,2.52,4.44,0.04,0.0,Spurs,True,West Ham,,0.48
-Wilson Odobert,Spurs,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.13,20.0,3.0,2.0,2.52,4.44,0.04,0.0,Spurs,False,Crystal Palace,,0.2
-Wilson Odobert,Spurs,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,17.78,3.0,2.0,2.52,4.44,0.04,,,,,,
+Wilson Odobert,Spurs,Leicester City,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,3.0,2.0,2.52,4.44,0.04,3.0,Spurs,True,Everton,,0.61
+Wilson Odobert,Spurs,Everton,2024-08-24,True,FWL,65.0,0.0,0.08,0.0,0.02,3.0,1.0,1.0,3.7,0.0,1.0,0.0,True,0.0,0.0,32.5,3.0,2.0,2.52,4.44,0.04,2.0,Spurs,False,Newcastle United,,-0.44
+Wilson Odobert,Spurs,Newcastle United,2024-09-01,False,FWR,73.0,0.0,0.65,0.0,0.02,2.0,4.0,1.0,3.5,0.0,0.0,1.0,True,1.5,0.04,46.0,3.0,2.0,2.52,4.44,0.04,1.0,Spurs,True,Arsenal,,-0.32
+Wilson Odobert,Spurs,Arsenal,2024-09-15,True,Sub,22.0,0.0,0.02,0.0,0.02,1.0,1.0,1.0,2.0,0.0,0.0,0.0,False,1.67,0.24,40.0,3.0,2.0,2.52,4.44,0.04,0.0,Spurs,True,Brentford,,0.54
+Wilson Odobert,Spurs,Brentford,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,1.5,0.19,32.0,3.0,2.0,2.52,4.44,0.04,0.0,Spurs,False,Manchester United,,-0.41
+Wilson Odobert,Spurs,Manchester United,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,1.2,0.15,26.67,3.0,2.0,2.52,4.44,0.04,0.0,Spurs,False,Brighton,,-0.61
+Wilson Odobert,Spurs,Brighton,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,1.2,0.15,22.86,3.0,2.0,2.52,4.44,0.04,0.0,Spurs,True,West Ham,,0.48
+Wilson Odobert,Spurs,West Ham,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.6,0.13,20.0,3.0,2.0,2.52,4.44,0.04,0.0,Spurs,False,Crystal Palace,,0.2
+Wilson Odobert,Spurs,Crystal Palace,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.2,0.0,17.78,3.0,2.0,2.52,4.44,0.04,,Spurs,False,Wolverhampton,,-0.53
+,Spurs,,,,,,,,,,,,,,,,,,,,,,,,,,,Spurs,True,Fulham,,0.27
+,Spurs,,,,,,,,,,,,,,,,,,,,,,,,,,,Spurs,False,Aston Villa,,0.11

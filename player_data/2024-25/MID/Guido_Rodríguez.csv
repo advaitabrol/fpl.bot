@@ -1,10 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Guido Rodríguez,West Ham,Aston Villa,2024-08-17,True,DMC,84,0,0.02,0,0.0,2,1,0,0.9,0,0,2,True,0.0,0.0,84.0,0,0,0,0,0,3.0,West Ham,False,Crystal Palace,,0.2
-Guido Rodríguez,West Ham,Crystal Palace,2024-08-24,False,DMC,90,0,0.04,0,0.0,3,2,0,1.4,0,1,0,True,2.0,0.02,87.0,0,0,0,0,0,1.0,West Ham,True,Manchester City,,-1.18
-Guido Rodríguez,West Ham,Manchester City,2024-08-31,True,DMC,90,0,0.01,0,0.0,1,1,0,1.2,0,0,3,True,2.5,0.03,88.0,0,0,0,0,0,1.0,West Ham,False,Fulham,,0.53
-Guido Rodríguez,West Ham,Fulham,2024-09-14,False,DMC,69,0,0.0,0,0.0,1,0,0,1.0,0,0,1,True,2.0,0.02,83.25,0,0,0,0,0,1.0,West Ham,True,Chelsea,,0.0
-Guido Rodríguez,West Ham,Chelsea,2024-09-21,True,MC,37,0,0.0,0,0.0,1,0,0,0.6,0,0,2,True,1.75,0.02,74.0,0,0,0,0,0,2.0,West Ham,False,Brentford,,-0.15
-Guido Rodríguez,West Ham,Brentford,2024-09-28,False,DMC,90,0,0.01,0,0.03,2,1,1,3.7,0,0,1,True,1.6,0.01,76.67,0,0,0,0,0,2.0,West Ham,True,Ipswich Town,,
-Guido Rodríguez,West Ham,Ipswich Town,2024-10-05,True,DMC,69,0,0.0,0,0.0,2,0,0,1.5,0,0,1,True,1.6,0.01,75.57,0,0,0,0,0,2.0,West Ham,False,Tottenham,,-0.3
-Guido Rodríguez,West Ham,Tottenham,2024-10-19,False,DMC,69,0,0.0,0,0.0,2,0,0,2.6,0,0,4,True,1.4,0.0,74.75,0,0,0,0,0,2.0,West Ham,True,Manchester United,,0.39
-Guido Rodríguez,West Ham,Manchester United,2024-10-27,True,DMC,90,0,0.0,0,0.0,2,0,0,1.4,0,0,1,True,1.6,0.0,76.44,0,0,0,0,0,,,,,,
+Guido Rodríguez,West Ham,Aston Villa,2024-08-17,True,DMC,84.0,0.0,0.02,0.0,0.0,2.0,1.0,0.0,0.9,0.0,0.0,2.0,True,0.0,0.0,84.0,0.0,0.0,0.0,0.0,0.0,3.0,West Ham,False,Crystal Palace,,0.2
+Guido Rodríguez,West Ham,Crystal Palace,2024-08-24,False,DMC,90.0,0.0,0.04,0.0,0.0,3.0,2.0,0.0,1.4,0.0,1.0,0.0,True,2.0,0.02,87.0,0.0,0.0,0.0,0.0,0.0,1.0,West Ham,True,Manchester City,,-1.18
+Guido Rodríguez,West Ham,Manchester City,2024-08-31,True,DMC,90.0,0.0,0.01,0.0,0.0,1.0,1.0,0.0,1.2,0.0,0.0,3.0,True,2.5,0.03,88.0,0.0,0.0,0.0,0.0,0.0,1.0,West Ham,False,Fulham,,0.53
+Guido Rodríguez,West Ham,Fulham,2024-09-14,False,DMC,69.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,True,2.0,0.02,83.25,0.0,0.0,0.0,0.0,0.0,1.0,West Ham,True,Chelsea,,0.0
+Guido Rodríguez,West Ham,Chelsea,2024-09-21,True,MC,37.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.6,0.0,0.0,2.0,True,1.75,0.02,74.0,0.0,0.0,0.0,0.0,0.0,2.0,West Ham,False,Brentford,,-0.15
+Guido Rodríguez,West Ham,Brentford,2024-09-28,False,DMC,90.0,0.0,0.01,0.0,0.03,2.0,1.0,1.0,3.7,0.0,0.0,1.0,True,1.6,0.01,76.67,0.0,0.0,0.0,0.0,0.0,2.0,West Ham,True,Ipswich Town,,
+Guido Rodríguez,West Ham,Ipswich Town,2024-10-05,True,DMC,69.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.5,0.0,0.0,1.0,True,1.6,0.01,75.57,0.0,0.0,0.0,0.0,0.0,2.0,West Ham,False,Tottenham,,-0.3
+Guido Rodríguez,West Ham,Tottenham,2024-10-19,False,DMC,69.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.6,0.0,0.0,4.0,True,1.4,0.0,74.75,0.0,0.0,0.0,0.0,0.0,2.0,West Ham,True,Manchester United,,0.39
+Guido Rodríguez,West Ham,Manchester United,2024-10-27,True,DMC,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.4,0.0,0.0,1.0,True,1.6,0.0,76.44,0.0,0.0,0.0,0.0,0.0,,West Ham,False,Nottingham Forest,,-0.54
+,West Ham,,,,,,,,,,,,,,,,,,,,,,,,,,,West Ham,True,Everton,,0.61
+,West Ham,,,,,,,,,,,,,,,,,,,,,,,,,,,West Ham,False,Newcastle United,,-0.44

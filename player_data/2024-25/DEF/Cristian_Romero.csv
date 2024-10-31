@@ -1,10 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Cristian Romero,Spurs,Leicester City,2024-08-19,False,DC,90,0,0.1,0,0.0,2,1,0,2.1,0,0,1,1.02,True,0.0,0.0,90.0,0.0,3.98,0.35,52.55,0.23,14.0,Spurs,True,Everton,,0.61
-Cristian Romero,Spurs,Everton,2024-08-24,True,DC,90,1,0.8,0,0.3,14,3,1,13.4,2,1,0,1.0,True,2.0,0.1,90.0,0.5,3.98,0.35,52.55,0.23,1.0,Spurs,False,Newcastle United,,-0.44
-Cristian Romero,Spurs,Newcastle United,2024-09-01,False,DC,90,0,0.0,0,0.0,1,0,0,1.8,0,0,2,1.57,True,8.0,0.45,90.0,0.33,3.98,0.35,52.55,0.23,2.0,Spurs,True,Arsenal,,-0.32
-Cristian Romero,Spurs,Arsenal,2024-09-15,True,DC,90,0,0.05,0,0.02,2,1,1,5.8,0,0,1,0.73,True,5.67,0.3,90.0,0.25,3.98,0.35,52.55,0.23,2.0,Spurs,True,Brentford,,0.54
-Cristian Romero,Spurs,Brentford,2024-09-21,True,DC,90,0,0.03,0,0.0,2,1,0,5.7,0,0,1,0.8,True,4.75,0.24,90.0,0.2,3.98,0.35,52.55,0.23,6.0,Spurs,False,Manchester United,,-0.41
-Cristian Romero,Spurs,Manchester United,2024-09-29,False,DC,90,0,0.07,0,0.0,6,1,0,2.8,0,1,0,0.96,True,4.2,0.2,90.0,0.33,3.98,0.35,52.55,0.23,1.0,Spurs,False,Brighton,,-0.61
-Cristian Romero,Spurs,Brighton,2024-10-06,False,DC,90,0,0.11,0,0.07,1,2,1,3.8,0,0,3,1.82,True,5.0,0.19,90.0,0.29,3.98,0.35,52.55,0.23,2.0,Spurs,True,West Ham,,0.48
-Cristian Romero,Spurs,West Ham,2024-10-19,True,DC,90,0,0.0,0,0.0,2,0,0,3.0,0,0,1,0.78,True,2.4,0.05,90.0,0.25,3.98,0.35,52.55,0.23,2.0,Spurs,False,Crystal Palace,,0.2
-Cristian Romero,Spurs,Crystal Palace,2024-10-27,False,DC,90,0,0.02,0,0.07,2,1,1,4.7,0,0,1,0.83,True,2.6,0.05,90.0,0.22,3.98,0.35,52.55,0.23,,,,,,
+Cristian Romero,Spurs,Leicester City,2024-08-19,False,DC,90.0,0.0,0.1,0.0,0.0,2.0,1.0,0.0,2.1,0.0,0.0,1.0,1.02,True,0.0,0.0,90.0,0.0,3.98,0.35,52.55,0.23,14.0,Spurs,True,Everton,,0.61
+Cristian Romero,Spurs,Everton,2024-08-24,True,DC,90.0,1.0,0.8,0.0,0.3,14.0,3.0,1.0,13.4,2.0,1.0,0.0,1.0,True,2.0,0.1,90.0,0.5,3.98,0.35,52.55,0.23,1.0,Spurs,False,Newcastle United,,-0.44
+Cristian Romero,Spurs,Newcastle United,2024-09-01,False,DC,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.8,0.0,0.0,2.0,1.57,True,8.0,0.45,90.0,0.33,3.98,0.35,52.55,0.23,2.0,Spurs,True,Arsenal,,-0.32
+Cristian Romero,Spurs,Arsenal,2024-09-15,True,DC,90.0,0.0,0.05,0.0,0.02,2.0,1.0,1.0,5.8,0.0,0.0,1.0,0.73,True,5.67,0.3,90.0,0.25,3.98,0.35,52.55,0.23,2.0,Spurs,True,Brentford,,0.54
+Cristian Romero,Spurs,Brentford,2024-09-21,True,DC,90.0,0.0,0.03,0.0,0.0,2.0,1.0,0.0,5.7,0.0,0.0,1.0,0.8,True,4.75,0.24,90.0,0.2,3.98,0.35,52.55,0.23,6.0,Spurs,False,Manchester United,,-0.41
+Cristian Romero,Spurs,Manchester United,2024-09-29,False,DC,90.0,0.0,0.07,0.0,0.0,6.0,1.0,0.0,2.8,0.0,1.0,0.0,0.96,True,4.2,0.2,90.0,0.33,3.98,0.35,52.55,0.23,1.0,Spurs,False,Brighton,,-0.61
+Cristian Romero,Spurs,Brighton,2024-10-06,False,DC,90.0,0.0,0.11,0.0,0.07,1.0,2.0,1.0,3.8,0.0,0.0,3.0,1.82,True,5.0,0.19,90.0,0.29,3.98,0.35,52.55,0.23,2.0,Spurs,True,West Ham,,0.48
+Cristian Romero,Spurs,West Ham,2024-10-19,True,DC,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.0,0.0,0.0,1.0,0.78,True,2.4,0.05,90.0,0.25,3.98,0.35,52.55,0.23,2.0,Spurs,False,Crystal Palace,,0.2
+Cristian Romero,Spurs,Crystal Palace,2024-10-27,False,DC,90.0,0.0,0.02,0.0,0.07,2.0,1.0,1.0,4.7,0.0,0.0,1.0,0.83,True,2.6,0.05,90.0,0.22,3.98,0.35,52.55,0.23,,Spurs,False,Wolverhampton,,-0.53
+,Spurs,,,,,,,,,,,,,,,,,,,,,,,,,,,,Spurs,True,Fulham,,0.27
+,Spurs,,,,,,,,,,,,,,,,,,,,,,,,,,,,Spurs,False,Aston Villa,,0.11

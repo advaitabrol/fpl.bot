@@ -1,10 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-John Stones,Man City,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.75,0.27,12.27,0.45,1.0,Man City,True,Ipswich Town,,
-John Stones,Man City,Ipswich Town,2024-08-24,True,Sub,40,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,0,0.0,False,0.0,0.0,20.0,0.0,0.75,0.27,12.27,0.45,0.0,Man City,False,West Ham,,-0.34
-John Stones,Man City,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.5,0.0,13.33,0.0,0.75,0.27,12.27,0.45,1.0,Man City,True,Brentford,,0.54
-John Stones,Man City,Brentford,2024-09-14,True,DC,83,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,0.92,True,0.33,0.0,30.75,0.0,0.75,0.27,12.27,0.45,7.0,Man City,True,Arsenal,,-0.32
-John Stones,Man City,Arsenal,2024-09-22,True,Sub,12,1.0,0.57,0.0,0.0,7,1.0,0.0,6.6,0,0,0,0.06,False,0.5,0.0,27.0,0.0,0.75,0.27,12.27,0.45,0.0,Man City,False,Newcastle United,,-0.44
-John Stones,Man City,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.11,22.5,0.0,0.75,0.27,12.27,0.45,1.0,Man City,True,Fulham,,0.27
-John Stones,Man City,Fulham,2024-10-05,True,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1,0.22,False,1.8,0.11,21.0,0.0,0.75,0.27,12.27,0.45,9.0,Man City,False,Wolverhampton,,-0.53
-John Stones,Man City,Wolverhampton,2024-10-20,False,DC,90,1.0,0.1,0.0,0.0,9,1.0,0.0,8.9,1,0,1,0.97,True,1.8,0.11,29.62,0.0,0.75,0.27,12.27,0.45,1.0,Man City,True,Southampton,,0.24
-John Stones,Man City,Southampton,2024-10-26,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,False,3.6,0.13,26.44,0.0,0.75,0.27,12.27,0.45,,,,,,
+John Stones,Man City,Chelsea,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.75,0.27,12.27,0.45,1.0,Man City,True,Ipswich Town,,
+John Stones,Man City,Ipswich Town,2024-08-24,True,Sub,40.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.3,0.0,0.0,0.0,0.0,False,0.0,0.0,20.0,0.0,0.75,0.27,12.27,0.45,0.0,Man City,False,West Ham,,-0.34
+John Stones,Man City,West Ham,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.5,0.0,13.33,0.0,0.75,0.27,12.27,0.45,1.0,Man City,True,Brentford,,0.54
+John Stones,Man City,Brentford,2024-09-14,True,DC,83.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,1.0,0.92,True,0.33,0.0,30.75,0.0,0.75,0.27,12.27,0.45,7.0,Man City,True,Arsenal,,-0.32
+John Stones,Man City,Arsenal,2024-09-22,True,Sub,12.0,1.0,0.57,0.0,0.0,7.0,1.0,0.0,6.6,0.0,0.0,0.0,0.06,False,0.5,0.0,27.0,0.0,0.75,0.27,12.27,0.45,0.0,Man City,False,Newcastle United,,-0.44
+John Stones,Man City,Newcastle United,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,1.8,0.11,22.5,0.0,0.75,0.27,12.27,0.45,1.0,Man City,True,Fulham,,0.27
+John Stones,Man City,Fulham,2024-10-05,True,Sub,12.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.0,0.0,1.0,0.22,False,1.8,0.11,21.0,0.0,0.75,0.27,12.27,0.45,9.0,Man City,False,Wolverhampton,,-0.53
+John Stones,Man City,Wolverhampton,2024-10-20,False,DC,90.0,1.0,0.1,0.0,0.0,9.0,1.0,0.0,8.9,1.0,0.0,1.0,0.97,True,1.8,0.11,29.62,0.0,0.75,0.27,12.27,0.45,1.0,Man City,True,Southampton,,0.24
+John Stones,Man City,Southampton,2024-10-26,True,Sub,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,False,3.6,0.13,26.44,0.0,0.75,0.27,12.27,0.45,,Man City,False,Bournemouth,,-0.04
+,Man City,,,,,,,,,,,,,,,,,,,,,,,,,,,,Man City,False,Brighton,,-0.61
+,Man City,,,,,,,,,,,,,,,,,,,,,,,,,,,,Man City,True,Tottenham,,0.74

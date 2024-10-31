@@ -1,10 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jarrad Branthwaite,Everton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.91,0.93,49.43,0.35,0.0,Everton,False,Tottenham,,-0.3
-Jarrad Branthwaite,Everton,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.91,0.93,49.43,0.35,0.0,Everton,True,Bournemouth,,0.84
-Jarrad Branthwaite,Everton,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.91,0.93,49.43,0.35,0.0,Everton,False,Aston Villa,,0.11
-Jarrad Branthwaite,Everton,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.91,0.93,49.43,0.35,0.0,Everton,False,Leicester City,,-0.22
-Jarrad Branthwaite,Everton,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,1.91,0.93,49.43,0.35,2.0,Everton,True,Crystal Palace,,0.88
-Jarrad Branthwaite,Everton,Crystal Palace,2024-09-28,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,1,0.95,True,0.0,0.0,15.0,0.0,1.91,0.93,49.43,0.35,0.0,Everton,True,Newcastle United,,0.67
-Jarrad Branthwaite,Everton,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,12.86,0.0,1.91,0.93,49.43,0.35,0.0,Everton,False,Ipswich Town,,
-Jarrad Branthwaite,Everton,Ipswich Town,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,11.25,0.0,1.91,0.93,49.43,0.35,1.0,Everton,True,Fulham,,0.27
-Jarrad Branthwaite,Everton,Fulham,2024-10-26,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.01,False,0.4,0.0,10.44,0.0,1.91,0.93,49.43,0.35,,,,,,
+Jarrad Branthwaite,Everton,Brighton,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,1.91,0.93,49.43,0.35,0.0,Everton,False,Tottenham,,-0.3
+Jarrad Branthwaite,Everton,Tottenham,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,1.91,0.93,49.43,0.35,0.0,Everton,True,Bournemouth,,0.84
+Jarrad Branthwaite,Everton,Bournemouth,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,1.91,0.93,49.43,0.35,0.0,Everton,False,Aston Villa,,0.11
+Jarrad Branthwaite,Everton,Aston Villa,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,1.91,0.93,49.43,0.35,0.0,Everton,False,Leicester City,,-0.22
+Jarrad Branthwaite,Everton,Leicester City,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,1.91,0.93,49.43,0.35,2.0,Everton,True,Crystal Palace,,0.88
+Jarrad Branthwaite,Everton,Crystal Palace,2024-09-28,True,DC,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,1.0,0.95,True,0.0,0.0,15.0,0.0,1.91,0.93,49.43,0.35,0.0,Everton,True,Newcastle United,,0.67
+Jarrad Branthwaite,Everton,Newcastle United,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.4,0.0,12.86,0.0,1.91,0.93,49.43,0.35,0.0,Everton,False,Ipswich Town,,
+Jarrad Branthwaite,Everton,Ipswich Town,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.4,0.0,11.25,0.0,1.91,0.93,49.43,0.35,1.0,Everton,True,Fulham,,0.27
+Jarrad Branthwaite,Everton,Fulham,2024-10-26,True,Sub,4.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,0.0,0.01,False,0.4,0.0,10.44,0.0,1.91,0.93,49.43,0.35,,Everton,False,Southampton,,-0.31
+,Everton,,,,,,,,,,,,,,,,,,,,,,,,,,,,Everton,False,West Ham,,-0.34
+,Everton,,,,,,,,,,,,,,,,,,,,,,,,,,,,Everton,True,Brentford,,0.54

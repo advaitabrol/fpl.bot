@@ -1,10 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Harry Wilson,Fulham,Manchester United,2024-08-16,False,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,1,False,0.0,0.0,12.0,4.0,6.0,2.83,3.15,0.06,0.0,Fulham,True,Leicester City,,0.47
-Harry Wilson,Fulham,Leicester City,2024-08-24,True,Sub,21,0.0,0.0,0.0,0.0,0,0.0,0.0,0.8,0,0,0,False,1.0,0.0,16.5,4.0,6.0,2.83,3.15,0.06,1.0,Fulham,False,Ipswich Town,,
-Harry Wilson,Fulham,Ipswich Town,2024-08-31,False,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.5,0.0,12.0,4.0,6.0,2.83,3.15,0.06,0.0,Fulham,True,West Ham,,0.48
-Harry Wilson,Fulham,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.67,0.0,9.0,4.0,6.0,2.83,3.15,0.06,0.0,Fulham,True,Newcastle United,,0.67
-Harry Wilson,Fulham,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.5,0.0,7.2,4.0,6.0,2.83,3.15,0.06,0.0,Fulham,False,Nottingham Forest,,-0.54
-Harry Wilson,Fulham,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,6.0,4.0,6.0,2.83,3.15,0.06,0.0,Fulham,False,Manchester City,,-1.51
-Harry Wilson,Fulham,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,5.14,4.0,6.0,2.83,3.15,0.06,1.0,Fulham,True,Aston Villa,,0.66
-Harry Wilson,Fulham,Aston Villa,2024-10-19,True,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.2,0.0,5.75,4.0,6.0,2.83,3.15,0.06,1.0,Fulham,False,Everton,,-0.39
-Harry Wilson,Fulham,Everton,2024-10-26,False,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,False,0.2,0.0,6.33,4.0,6.0,2.83,3.15,0.06,,,,,,
+Harry Wilson,Fulham,Manchester United,2024-08-16,False,Sub,12.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.8,0.0,0.0,1.0,False,0.0,0.0,12.0,4.0,6.0,2.83,3.15,0.06,0.0,Fulham,True,Leicester City,,0.47
+Harry Wilson,Fulham,Leicester City,2024-08-24,True,Sub,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,0.0,0.0,0.0,False,1.0,0.0,16.5,4.0,6.0,2.83,3.15,0.06,1.0,Fulham,False,Ipswich Town,,
+Harry Wilson,Fulham,Ipswich Town,2024-08-31,False,Sub,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,False,0.5,0.0,12.0,4.0,6.0,2.83,3.15,0.06,0.0,Fulham,True,West Ham,,0.48
+Harry Wilson,Fulham,West Ham,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.67,0.0,9.0,4.0,6.0,2.83,3.15,0.06,0.0,Fulham,True,Newcastle United,,0.67
+Harry Wilson,Fulham,Newcastle United,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.5,0.0,7.2,4.0,6.0,2.83,3.15,0.06,0.0,Fulham,False,Nottingham Forest,,-0.54
+Harry Wilson,Fulham,Nottingham Forest,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.4,0.0,6.0,4.0,6.0,2.83,3.15,0.06,0.0,Fulham,False,Manchester City,,-1.51
+Harry Wilson,Fulham,Manchester City,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.2,0.0,5.14,4.0,6.0,2.83,3.15,0.06,1.0,Fulham,True,Aston Villa,,0.66
+Harry Wilson,Fulham,Aston Villa,2024-10-19,True,Sub,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,0.0,False,0.2,0.0,5.75,4.0,6.0,2.83,3.15,0.06,1.0,Fulham,False,Everton,,-0.39
+Harry Wilson,Fulham,Everton,2024-10-26,False,Sub,11.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,0.0,0.0,1.0,False,0.2,0.0,6.33,4.0,6.0,2.83,3.15,0.06,,Fulham,True,Brentford,,0.54
+,Fulham,,,,,,,,,,,,,,,,,,,,,,,,,,,Fulham,False,Crystal Palace,,0.2
+,Fulham,,,,,,,,,,,,,,,,,,,,,,,,,,,Fulham,True,Wolverhampton,,-0.08
