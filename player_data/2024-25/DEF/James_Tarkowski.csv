@@ -1,10 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-James Tarkowski,Everton,Brighton,2024-08-17,True,DC,90,0,0.01,0,0.04,0,1,1,3.2,0,0,3,1.43,True,0.0,0.0,90.0,0.0,3.35,2.95,55.64,0.34,0.0,Everton,False,Tottenham,,-0.3
-James Tarkowski,Everton,Tottenham,2024-08-24,False,DC,90,0,0.13,0,0.12,0,3,1,4.2,0,0,4,2.43,True,0.0,0.01,90.0,0.0,3.35,2.95,55.64,0.34,1.0,Everton,True,Bournemouth,,0.84
-James Tarkowski,Everton,Bournemouth,2024-08-31,True,DC,90,0,0.31,0,0.09,1,1,1,4.3,0,0,3,2.22,True,0.0,0.07,90.0,0.0,3.35,2.95,55.64,0.34,1.0,Everton,False,Aston Villa,,0.11
-James Tarkowski,Everton,Aston Villa,2024-09-14,False,DC,90,0,0.0,0,0.0,1,0,0,2.5,0,0,3,2.12,True,0.33,0.15,90.0,0.0,3.35,2.95,55.64,0.34,2.0,Everton,False,Leicester City,,-0.22
-James Tarkowski,Everton,Leicester City,2024-09-21,False,DC,90,0,0.0,0,0.0,2,0,0,2.1,0,0,1,0.66,True,0.5,0.11,90.0,0.0,3.35,2.95,55.64,0.34,2.0,Everton,True,Crystal Palace,,0.88
-James Tarkowski,Everton,Crystal Palace,2024-09-28,True,DC,90,0,0.14,0,0.0,2,1,0,5.2,0,0,1,0.95,True,0.8,0.09,90.0,0.0,3.35,2.95,55.64,0.34,8.0,Everton,True,Newcastle United,,0.67
-James Tarkowski,Everton,Newcastle United,2024-10-05,True,DC,90,0,0.0,0,0.0,8,0,0,3.1,2,1,0,2.05,True,1.2,0.12,90.0,0.14,3.35,2.95,55.64,0.34,6.0,Everton,False,Ipswich Town,,
-James Tarkowski,Everton,Ipswich Town,2024-10-19,False,DC,90,0,0.0,0,0.0,6,0,0,2.3,0,1,0,1.25,True,2.8,0.09,90.0,0.25,3.35,2.95,55.64,0.34,1.0,Everton,True,Fulham,,0.27
-James Tarkowski,Everton,Fulham,2024-10-26,True,DC,90,0,0.0,0,0.07,1,0,2,5.2,0,0,1,1.26,True,3.8,0.03,90.0,0.22,3.35,2.95,55.64,0.34,,,,,,
+James Tarkowski,Everton,Brighton,2024-08-17,True,DC,90.0,0.0,0.01,0.0,0.04,0.0,1.0,1.0,3.2,0.0,0.0,3.0,1.43,True,0.0,0.0,90.0,0.0,3.35,2.95,55.64,0.34,0.0,Everton,False,Tottenham,,-0.3
+James Tarkowski,Everton,Tottenham,2024-08-24,False,DC,90.0,0.0,0.13,0.0,0.12,0.0,3.0,1.0,4.2,0.0,0.0,4.0,2.43,True,0.0,0.01,90.0,0.0,3.35,2.95,55.64,0.34,1.0,Everton,True,Bournemouth,,0.84
+James Tarkowski,Everton,Bournemouth,2024-08-31,True,DC,90.0,0.0,0.31,0.0,0.09,1.0,1.0,1.0,4.3,0.0,0.0,3.0,2.22,True,0.0,0.07,90.0,0.0,3.35,2.95,55.64,0.34,1.0,Everton,False,Aston Villa,,0.11
+James Tarkowski,Everton,Aston Villa,2024-09-14,False,DC,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.5,0.0,0.0,3.0,2.12,True,0.33,0.15,90.0,0.0,3.35,2.95,55.64,0.34,2.0,Everton,False,Leicester City,,-0.22
+James Tarkowski,Everton,Leicester City,2024-09-21,False,DC,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.1,0.0,0.0,1.0,0.66,True,0.5,0.11,90.0,0.0,3.35,2.95,55.64,0.34,2.0,Everton,True,Crystal Palace,,0.88
+James Tarkowski,Everton,Crystal Palace,2024-09-28,True,DC,90.0,0.0,0.14,0.0,0.0,2.0,1.0,0.0,5.2,0.0,0.0,1.0,0.95,True,0.8,0.09,90.0,0.0,3.35,2.95,55.64,0.34,8.0,Everton,True,Newcastle United,,0.67
+James Tarkowski,Everton,Newcastle United,2024-10-05,True,DC,90.0,0.0,0.0,0.0,0.0,8.0,0.0,0.0,3.1,2.0,1.0,0.0,2.05,True,1.2,0.12,90.0,0.14,3.35,2.95,55.64,0.34,6.0,Everton,False,Ipswich Town,,
+James Tarkowski,Everton,Ipswich Town,2024-10-19,False,DC,90.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,2.3,0.0,1.0,0.0,1.25,True,2.8,0.09,90.0,0.25,3.35,2.95,55.64,0.34,1.0,Everton,True,Fulham,,0.27
+James Tarkowski,Everton,Fulham,2024-10-26,True,DC,90.0,0.0,0.0,0.0,0.07,1.0,0.0,2.0,5.2,0.0,0.0,1.0,1.26,True,3.8,0.03,90.0,0.22,3.35,2.95,55.64,0.34,,Everton,False,Southampton,,-0.31
+,Everton,,,,,,,,,,,,,,,,,,,,,,,,,,,,Everton,False,West Ham,,-0.34
+,Everton,,,,,,,,,,,,,,,,,,,,,,,,,,,,Everton,True,Brentford,,0.54

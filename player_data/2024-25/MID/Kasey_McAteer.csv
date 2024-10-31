@@ -1,10 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Kasey McAteer,Leicester,Tottenham,2024-08-19,True,Sub,4,0.0,0.01,0.0,0.0,1,1.0,0.0,0.8,0,0,0,False,0.0,0.0,4.0,0,0,0,0,0,1.0,Leicester,False,Fulham,,0.53
-Kasey McAteer,Leicester,Fulham,2024-08-24,False,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,1.0,0.01,4.5,0,0,0,0,0,1.0,Leicester,True,Aston Villa,,0.66
-Kasey McAteer,Leicester,Aston Villa,2024-08-31,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,1.0,0.01,3.33,0,0,0,0,0,0.0,Leicester,False,Crystal Palace,,0.2
-Kasey McAteer,Leicester,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,2.5,0,0,0,0,0,0.0,Leicester,True,Everton,,0.61
-Kasey McAteer,Leicester,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.75,0.0,2.0,0,0,0,0,0,0.0,Leicester,False,Arsenal,,-0.56
-Kasey McAteer,Leicester,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,1.67,0,0,0,0,0,0.0,Leicester,True,Bournemouth,,0.84
-Kasey McAteer,Leicester,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,1.43,0,0,0,0,0,0.0,Leicester,False,Southampton,,-0.31
-Kasey McAteer,Leicester,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.25,0,0,0,0,0,0.0,Leicester,True,Nottingham Forest,,1.2
-Kasey McAteer,Leicester,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.11,0,0,0,0,0,,,,,,
+Kasey McAteer,Leicester,Tottenham,2024-08-19,True,Sub,4.0,0.0,0.01,0.0,0.0,1.0,1.0,0.0,0.8,0.0,0.0,0.0,False,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,Leicester,False,Fulham,,0.53
+Kasey McAteer,Leicester,Fulham,2024-08-24,False,Sub,5.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,0.0,0.0,0.0,False,1.0,0.01,4.5,0.0,0.0,0.0,0.0,0.0,1.0,Leicester,True,Aston Villa,,0.66
+Kasey McAteer,Leicester,Aston Villa,2024-08-31,True,Sub,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,0.0,False,1.0,0.01,3.33,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Crystal Palace,,0.2
+Kasey McAteer,Leicester,Crystal Palace,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,1.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Everton,,0.61
+Kasey McAteer,Leicester,Everton,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.75,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Arsenal,,-0.56
+Kasey McAteer,Leicester,Arsenal,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.6,0.0,1.67,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Bournemouth,,0.84
+Kasey McAteer,Leicester,Bournemouth,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.4,0.0,1.43,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Southampton,,-0.31
+Kasey McAteer,Leicester,Southampton,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.2,0.0,1.25,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Nottingham Forest,,1.2
+Kasey McAteer,Leicester,Nottingham Forest,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.0,0.0,1.11,0.0,0.0,0.0,0.0,0.0,,Leicester,False,Ipswich Town,,
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,False,Manchester United,,-0.41
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,Chelsea,,0.0

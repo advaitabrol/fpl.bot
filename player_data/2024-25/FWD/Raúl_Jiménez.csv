@@ -1,10 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Raúl Jiménez,Fulham,Manchester United,2024-08-16,False,Sub,12,0,0.0,0,0.0,1,0,0,0.1,0,False,0.0,0.0,12.0,7.0,0.0,5.98,1.69,0.05,1.0,Fulham,True,Leicester City,,0.47
-Raúl Jiménez,Fulham,Leicester City,2024-08-24,True,Sub,10,0,0.0,0,0.0,1,0,0,0.1,0,False,1.0,0.0,11.0,7.0,0.0,5.98,1.69,0.05,1.0,Fulham,False,Ipswich Town,,
-Raúl Jiménez,Fulham,Ipswich Town,2024-08-31,False,Sub,11,0,0.06,0,0.0,1,1,0,2.3,0,False,1.0,0.0,11.0,7.0,0.0,5.98,1.69,0.05,9.0,Fulham,True,West Ham,,0.48
-Raúl Jiménez,Fulham,West Ham,2024-09-14,True,FW,72,1,0.68,0,0.19,9,2,2,12.1,3,True,1.0,0.02,26.25,7.0,0.0,5.98,1.69,0.05,6.0,Fulham,True,Newcastle United,,0.67
-Raúl Jiménez,Fulham,Newcastle United,2024-09-21,True,FW,73,1,0.82,0,0.02,6,4,1,10.6,0,True,3.0,0.18,35.6,7.0,0.0,5.98,1.69,0.05,9.0,Fulham,False,Nottingham Forest,,-0.54
-Raúl Jiménez,Fulham,Nottingham Forest,2024-09-28,False,FW,82,1,0.97,0,0.0,9,3,0,8.1,3,True,3.6,0.31,43.33,7.0,0.0,5.98,1.69,0.05,5.0,Fulham,False,Manchester City,,-1.51
-Raúl Jiménez,Fulham,Manchester City,2024-10-05,False,FW,76,0,0.42,1,1.43,5,5,3,8.0,0,True,5.2,0.51,48.0,7.0,0.0,5.98,1.69,0.05,7.0,Fulham,True,Aston Villa,,0.66
-Raúl Jiménez,Fulham,Aston Villa,2024-10-19,True,FW,90,1,1.69,0,0.0,7,4,0,9.3,1,True,6.0,0.79,53.25,7.0,0.0,5.98,1.69,0.05,2.0,Fulham,False,Everton,,-0.39
-Raúl Jiménez,Fulham,Everton,2024-10-26,False,FW,90,0,0.26,0,0.88,2,4,3,8.2,0,True,7.2,1.11,57.33,7.0,0.0,5.98,1.69,0.05,,,,,,
+Raúl Jiménez,Fulham,Manchester United,2024-08-16,False,Sub,12.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,0.0,False,0.0,0.0,12.0,7.0,0.0,5.98,1.69,0.05,1.0,Fulham,True,Leicester City,,0.47
+Raúl Jiménez,Fulham,Leicester City,2024-08-24,True,Sub,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,0.0,False,1.0,0.0,11.0,7.0,0.0,5.98,1.69,0.05,1.0,Fulham,False,Ipswich Town,,
+Raúl Jiménez,Fulham,Ipswich Town,2024-08-31,False,Sub,11.0,0.0,0.06,0.0,0.0,1.0,1.0,0.0,2.3,0.0,False,1.0,0.0,11.0,7.0,0.0,5.98,1.69,0.05,9.0,Fulham,True,West Ham,,0.48
+Raúl Jiménez,Fulham,West Ham,2024-09-14,True,FW,72.0,1.0,0.68,0.0,0.19,9.0,2.0,2.0,12.1,3.0,True,1.0,0.02,26.25,7.0,0.0,5.98,1.69,0.05,6.0,Fulham,True,Newcastle United,,0.67
+Raúl Jiménez,Fulham,Newcastle United,2024-09-21,True,FW,73.0,1.0,0.82,0.0,0.02,6.0,4.0,1.0,10.6,0.0,True,3.0,0.18,35.6,7.0,0.0,5.98,1.69,0.05,9.0,Fulham,False,Nottingham Forest,,-0.54
+Raúl Jiménez,Fulham,Nottingham Forest,2024-09-28,False,FW,82.0,1.0,0.97,0.0,0.0,9.0,3.0,0.0,8.1,3.0,True,3.6,0.31,43.33,7.0,0.0,5.98,1.69,0.05,5.0,Fulham,False,Manchester City,,-1.51
+Raúl Jiménez,Fulham,Manchester City,2024-10-05,False,FW,76.0,0.0,0.42,1.0,1.43,5.0,5.0,3.0,8.0,0.0,True,5.2,0.51,48.0,7.0,0.0,5.98,1.69,0.05,7.0,Fulham,True,Aston Villa,,0.66
+Raúl Jiménez,Fulham,Aston Villa,2024-10-19,True,FW,90.0,1.0,1.69,0.0,0.0,7.0,4.0,0.0,9.3,1.0,True,6.0,0.79,53.25,7.0,0.0,5.98,1.69,0.05,2.0,Fulham,False,Everton,,-0.39
+Raúl Jiménez,Fulham,Everton,2024-10-26,False,FW,90.0,0.0,0.26,0.0,0.88,2.0,4.0,3.0,8.2,0.0,True,7.2,1.11,57.33,7.0,0.0,5.98,1.69,0.05,,Fulham,True,Brentford,,0.54
+,Fulham,,,,,,,,,,,,,,,,,,,,,,,,,Fulham,False,Crystal Palace,,0.2
+,Fulham,,,,,,,,,,,,,,,,,,,,,,,,,Fulham,True,Wolverhampton,,-0.08

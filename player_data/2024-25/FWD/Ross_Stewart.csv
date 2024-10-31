@@ -1,10 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Ross Stewart,Southampton,Newcastle United,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Southampton,True,Nottingham Forest,,1.2
-Ross Stewart,Southampton,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Southampton,False,Brentford,,-0.15
-Ross Stewart,Southampton,Brentford,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0,0,0,0,0,1.0,Southampton,True,Manchester United,,0.39
-Ross Stewart,Southampton,Manchester United,2024-09-14,True,Sub,28,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,False,0.0,0.0,7.0,0,0,0,0,0,0.0,Southampton,True,Ipswich Town,,
-Ross Stewart,Southampton,Ipswich Town,2024-09-21,True,Sub,31,0.0,0.07,0.0,0.0,0,1.0,0.0,0.6,0,False,0.25,0.0,11.8,0,0,0,0,0,1.0,Southampton,False,Bournemouth,,-0.04
-Ross Stewart,Southampton,Bournemouth,2024-09-30,False,Sub,45,0.0,0.06,0.0,0.0,1,1.0,0.0,1.4,0,False,0.2,0.01,17.33,0,0,0,0,0,1.0,Southampton,False,Arsenal,,-0.56
-Ross Stewart,Southampton,Arsenal,2024-10-05,False,FW,26,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,True,0.4,0.03,18.57,0,0,0,0,0,0.0,Southampton,True,Leicester City,,0.47
-Ross Stewart,Southampton,Leicester City,,True,,0,,,,,0,,,0.0,0,False,0.6,0.03,16.25,0,0,0,0,0,0.0,Southampton,False,Manchester City,,-1.51
-Ross Stewart,Southampton,Manchester City,,False,,0,,,,,0,,,0.0,0,False,0.6,0.03,14.44,0,0,0,0,0,,,,,,
+Ross Stewart,Southampton,Newcastle United,,False,,0.0,,,,,0.0,,,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Nottingham Forest,,1.2
+Ross Stewart,Southampton,Nottingham Forest,,True,,0.0,,,,,0.0,,,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Brentford,,-0.15
+Ross Stewart,Southampton,Brentford,,False,,0.0,,,,,0.0,,,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Southampton,True,Manchester United,,0.39
+Ross Stewart,Southampton,Manchester United,2024-09-14,True,Sub,28.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,0.0,False,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Ipswich Town,,
+Ross Stewart,Southampton,Ipswich Town,2024-09-21,True,Sub,31.0,0.0,0.07,0.0,0.0,0.0,1.0,0.0,0.6,0.0,False,0.25,0.0,11.8,0.0,0.0,0.0,0.0,0.0,1.0,Southampton,False,Bournemouth,,-0.04
+Ross Stewart,Southampton,Bournemouth,2024-09-30,False,Sub,45.0,0.0,0.06,0.0,0.0,1.0,1.0,0.0,1.4,0.0,False,0.2,0.01,17.33,0.0,0.0,0.0,0.0,0.0,1.0,Southampton,False,Arsenal,,-0.56
+Ross Stewart,Southampton,Arsenal,2024-10-05,False,FW,26.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,True,0.4,0.03,18.57,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Leicester City,,0.47
+Ross Stewart,Southampton,Leicester City,,True,,0.0,,,,,0.0,,,0.0,0.0,False,0.6,0.03,16.25,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Manchester City,,-1.51
+Ross Stewart,Southampton,Manchester City,,False,,0.0,,,,,0.0,,,0.0,0.0,False,0.6,0.03,14.44,0.0,0.0,0.0,0.0,0.0,,Southampton,True,Everton,,0.61
+,Southampton,,,,,,,,,,,,,,,,,,,,,,,,,Southampton,False,Wolverhampton,,-0.53
+,Southampton,,,,,,,,,,,,,,,,,,,,,,,,,Southampton,True,Liverpool,,0.24

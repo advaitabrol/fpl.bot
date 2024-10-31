@@ -3,7 +3,7 @@ import pandas as pd
 import pulp as pl
 
 # Directory containing the player data
-base_dir = './prediction_data/2024-25/GW7/'
+base_dir = './prediction_data/2024-25/GW9/'
 
 # Load player data from CSV files
 def load_player_data(base_dir):

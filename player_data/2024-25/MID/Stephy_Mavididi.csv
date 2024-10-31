@@ -1,10 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Stephy Mavididi,Leicester,Tottenham,2024-08-19,True,Sub,11,0,0.0,0,0.02,1,0,1,2.0,0,0,0,False,0.0,0.0,11.0,0,0,0,0,0,1.0,Leicester,False,Fulham,,0.53
-Stephy Mavididi,Leicester,Fulham,2024-08-24,False,Sub,19,0,0.0,0,0.0,1,0,0,0.3,0,0,0,False,1.0,0.0,15.0,0,0,0,0,0,1.0,Leicester,True,Aston Villa,,0.66
-Stephy Mavididi,Leicester,Aston Villa,2024-08-31,True,Sub,23,0,0.0,0,0.0,1,0,0,1.1,0,0,0,False,1.0,0.0,17.67,0,0,0,0,0,7.0,Leicester,False,Crystal Palace,,0.2
-Stephy Mavididi,Leicester,Crystal Palace,2024-09-14,False,AML,71,1,0.76,0,0.0,7,3,0,6.2,0,0,1,True,1.0,0.0,31.0,0,0,0,0,0,10.0,Leicester,True,Everton,,0.61
-Stephy Mavididi,Leicester,Everton,2024-09-21,True,AML,89,1,0.69,0,0.32,10,3,2,12.8,3,0,1,True,2.5,0.19,42.6,0,0,0,0,0,2.0,Leicester,False,Arsenal,,-0.56
-Stephy Mavididi,Leicester,Arsenal,2024-09-28,False,AML,90,0,0.0,0,0.09,2,0,1,2.4,0,0,2,True,4.0,0.29,50.5,0,0,0,0,0,3.0,Leicester,True,Bournemouth,,0.84
-Stephy Mavididi,Leicester,Bournemouth,2024-10-05,True,AML,81,0,0.0,0,0.0,3,0,0,1.1,0,1,0,True,4.2,0.29,54.86,0,0,0,0,0,2.0,Leicester,False,Southampton,,-0.31
-Stephy Mavididi,Leicester,Southampton,2024-10-19,False,AML,87,0,0.02,0,0.34,2,1,2,5.2,0,0,2,True,4.6,0.29,58.88,0,0,0,0,0,1.0,Leicester,True,Nottingham Forest,,1.2
-Stephy Mavididi,Leicester,Nottingham Forest,2024-10-25,True,AML,67,0,0.04,0,0.03,1,2,2,3.0,0,0,3,True,4.8,0.29,59.78,0,0,0,0,0,,,,,,
+Stephy Mavididi,Leicester,Tottenham,2024-08-19,True,Sub,11.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,2.0,0.0,0.0,0.0,False,0.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,1.0,Leicester,False,Fulham,,0.53
+Stephy Mavididi,Leicester,Fulham,2024-08-24,False,Sub,19.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,0.0,False,1.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,1.0,Leicester,True,Aston Villa,,0.66
+Stephy Mavididi,Leicester,Aston Villa,2024-08-31,True,Sub,23.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.1,0.0,0.0,0.0,False,1.0,0.0,17.67,0.0,0.0,0.0,0.0,0.0,7.0,Leicester,False,Crystal Palace,,0.2
+Stephy Mavididi,Leicester,Crystal Palace,2024-09-14,False,AML,71.0,1.0,0.76,0.0,0.0,7.0,3.0,0.0,6.2,0.0,0.0,1.0,True,1.0,0.0,31.0,0.0,0.0,0.0,0.0,0.0,10.0,Leicester,True,Everton,,0.61
+Stephy Mavididi,Leicester,Everton,2024-09-21,True,AML,89.0,1.0,0.69,0.0,0.32,10.0,3.0,2.0,12.8,3.0,0.0,1.0,True,2.5,0.19,42.6,0.0,0.0,0.0,0.0,0.0,2.0,Leicester,False,Arsenal,,-0.56
+Stephy Mavididi,Leicester,Arsenal,2024-09-28,False,AML,90.0,0.0,0.0,0.0,0.09,2.0,0.0,1.0,2.4,0.0,0.0,2.0,True,4.0,0.29,50.5,0.0,0.0,0.0,0.0,0.0,3.0,Leicester,True,Bournemouth,,0.84
+Stephy Mavididi,Leicester,Bournemouth,2024-10-05,True,AML,81.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,1.1,0.0,1.0,0.0,True,4.2,0.29,54.86,0.0,0.0,0.0,0.0,0.0,2.0,Leicester,False,Southampton,,-0.31
+Stephy Mavididi,Leicester,Southampton,2024-10-19,False,AML,87.0,0.0,0.02,0.0,0.34,2.0,1.0,2.0,5.2,0.0,0.0,2.0,True,4.6,0.29,58.88,0.0,0.0,0.0,0.0,0.0,1.0,Leicester,True,Nottingham Forest,,1.2
+Stephy Mavididi,Leicester,Nottingham Forest,2024-10-25,True,AML,67.0,0.0,0.04,0.0,0.03,1.0,2.0,2.0,3.0,0.0,0.0,3.0,True,4.8,0.29,59.78,0.0,0.0,0.0,0.0,0.0,,Leicester,False,Ipswich Town,,
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,False,Manchester United,,-0.41
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,Chelsea,,0.0

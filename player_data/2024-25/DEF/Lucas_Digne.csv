@@ -1,10 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Lucas Digne,Aston Villa,West Ham,2024-08-17,False,DL,73,0,0.0,0,0.3,2,0,1,3.4,0,0,1,1.39,True,0.0,0.0,73.0,0.0,1.31,2.95,41.65,0.24,2.0,Aston Villa,True,Arsenal,,-0.32
-Lucas Digne,Aston Villa,Arsenal,2024-08-24,True,DL,75,0,0.0,0,0.0,2,0,0,2.0,0,0,1,0.49,True,2.0,0.0,74.0,0.0,1.31,2.95,41.65,0.24,7.0,Aston Villa,False,Leicester City,,-0.22
-Lucas Digne,Aston Villa,Leicester City,2024-08-31,False,DL,90,0,0.0,1,0.38,7,0,1,5.6,2,0,1,0.45,True,2.0,0.0,79.33,0.0,1.31,2.95,41.65,0.24,4.0,Aston Villa,True,Everton,,0.61
-Lucas Digne,Aston Villa,Everton,2024-09-14,True,DL,68,0,0.0,1,1.45,4,0,3,8.7,0,0,2,0.67,True,3.67,0.33,76.5,0.0,1.31,2.95,41.65,0.24,1.0,Aston Villa,True,Wolverhampton,,-0.08
-Lucas Digne,Aston Villa,Wolverhampton,2024-09-21,True,DL,45,0,0.0,0,0.0,1,0,0,0.5,0,0,1,0.51,True,3.75,0.5,70.2,0.0,1.31,2.95,41.65,0.24,0.0,Aston Villa,False,Ipswich Town,,
-Lucas Digne,Aston Villa,Ipswich Town,2024-09-29,False,DL,83,0,0.0,0,0.0,0,0,0,2.3,0,0,2,1.12,True,3.2,0.4,72.33,0.0,1.31,2.95,41.65,0.24,8.0,Aston Villa,True,Manchester United,,0.39
-Lucas Digne,Aston Villa,Manchester United,2024-10-06,True,DL,84,0,0.05,0,0.02,8,1,1,2.9,2,1,0,0.42,True,2.8,0.4,74.0,0.17,1.31,2.95,41.65,0.24,4.0,Aston Villa,False,Fulham,,0.53
-Lucas Digne,Aston Villa,Fulham,2024-10-19,False,DL,90,0,0.19,0,0.0,4,3,0,4.3,0,0,1,1.78,True,4.0,0.41,76.0,0.14,1.31,2.95,41.65,0.24,7.0,Aston Villa,True,Bournemouth,,0.84
-Lucas Digne,Aston Villa,Bournemouth,2024-10-26,True,DL,70,0,0.0,0,0.45,7,0,2,4.1,2,1,0,0.18,True,3.4,0.25,75.33,0.25,1.31,2.95,41.65,0.24,,,,,,
+Lucas Digne,Aston Villa,West Ham,2024-08-17,False,DL,73.0,0.0,0.0,0.0,0.3,2.0,0.0,1.0,3.4,0.0,0.0,1.0,1.39,True,0.0,0.0,73.0,0.0,1.31,2.95,41.65,0.24,2.0,Aston Villa,True,Arsenal,,-0.32
+Lucas Digne,Aston Villa,Arsenal,2024-08-24,True,DL,75.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,1.0,0.49,True,2.0,0.0,74.0,0.0,1.31,2.95,41.65,0.24,7.0,Aston Villa,False,Leicester City,,-0.22
+Lucas Digne,Aston Villa,Leicester City,2024-08-31,False,DL,90.0,0.0,0.0,1.0,0.38,7.0,0.0,1.0,5.6,2.0,0.0,1.0,0.45,True,2.0,0.0,79.33,0.0,1.31,2.95,41.65,0.24,4.0,Aston Villa,True,Everton,,0.61
+Lucas Digne,Aston Villa,Everton,2024-09-14,True,DL,68.0,0.0,0.0,1.0,1.45,4.0,0.0,3.0,8.7,0.0,0.0,2.0,0.67,True,3.67,0.33,76.5,0.0,1.31,2.95,41.65,0.24,1.0,Aston Villa,True,Wolverhampton,,-0.08
+Lucas Digne,Aston Villa,Wolverhampton,2024-09-21,True,DL,45.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.0,0.0,1.0,0.51,True,3.75,0.5,70.2,0.0,1.31,2.95,41.65,0.24,0.0,Aston Villa,False,Ipswich Town,,
+Lucas Digne,Aston Villa,Ipswich Town,2024-09-29,False,DL,83.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3,0.0,0.0,2.0,1.12,True,3.2,0.4,72.33,0.0,1.31,2.95,41.65,0.24,8.0,Aston Villa,True,Manchester United,,0.39
+Lucas Digne,Aston Villa,Manchester United,2024-10-06,True,DL,84.0,0.0,0.05,0.0,0.02,8.0,1.0,1.0,2.9,2.0,1.0,0.0,0.42,True,2.8,0.4,74.0,0.17,1.31,2.95,41.65,0.24,4.0,Aston Villa,False,Fulham,,0.53
+Lucas Digne,Aston Villa,Fulham,2024-10-19,False,DL,90.0,0.0,0.19,0.0,0.0,4.0,3.0,0.0,4.3,0.0,0.0,1.0,1.78,True,4.0,0.41,76.0,0.14,1.31,2.95,41.65,0.24,7.0,Aston Villa,True,Bournemouth,,0.84
+Lucas Digne,Aston Villa,Bournemouth,2024-10-26,True,DL,70.0,0.0,0.0,0.0,0.45,7.0,0.0,2.0,4.1,2.0,1.0,0.0,0.18,True,3.4,0.25,75.33,0.25,1.31,2.95,41.65,0.24,,Aston Villa,False,Tottenham,,-0.3
+,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,False,Liverpool,,-1.08
+,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,True,Crystal Palace,,0.88
