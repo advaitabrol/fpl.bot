@@ -1,8 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Victor Kristiansen,Leicester,Tottenham,2024-08-19,True,DL,90,0,0.0,0,0.0,2,0,0,3.1,0,0,1,1.23,True,0.0,0.0,90.0,0.0,0,0,0,0,0.0,Leicester,False,Fulham,,0.53
-Victor Kristiansen,Leicester,Fulham,2024-08-24,False,DML,84,0,0.0,0,0.0,0,0,0,1.5,0,0,2,1.78,True,2.0,0.0,87.0,0.0,0,0,0,0,1.0,Leicester,True,Aston Villa,-0.34,0.66
-Victor Kristiansen,Leicester,Aston Villa,2024-08-31,True,DL,90,0,0.0,0,0.14,1,0,2,5.4,0,0,2,1.55,True,1.0,0.0,88.0,0.0,0,0,0,0,1.0,Leicester,False,Crystal Palace,2.07,0.2
-Victor Kristiansen,Leicester,Crystal Palace,2024-09-14,False,DL,90,0,0.0,0,0.03,1,0,2,4.8,0,0,2,2.55,True,1.0,0.0,88.5,0.0,0,0,0,0,2.0,Leicester,True,Everton,4.46,0.61
-Victor Kristiansen,Leicester,Everton,2024-09-21,True,DL,90,0,0.0,0,0.0,2,0,0,3.3,0,0,1,1.1,True,1.0,0.0,88.8,0.0,0,0,0,0,0.0,Leicester,False,Arsenal,-1.31,-0.56
-Victor Kristiansen,Leicester,Arsenal,2024-09-28,False,DL,90,0,0.0,0,0.0,0,0,0,3.7,0,0,4,4.6,True,1.2,0.0,89.0,0.0,0,0,0,0,6.0,Leicester,True,Bournemouth,,0.84
-Victor Kristiansen,Leicester,Bournemouth,2024-10-05,True,DL,90,0,0.0,0,0.04,6,0,1,2.7,0,1,0,2.16,True,0.8,0.0,89.14,0.14,0,0,0,0,,,,,,
+Victor Kristiansen,Leicester,Tottenham,2024-08-19,True,DL,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.1,0.0,0.0,1.0,1.23,True,0.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Fulham,,0.53
+Victor Kristiansen,Leicester,Fulham,2024-08-24,False,DML,84.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.5,0.0,0.0,2.0,1.78,True,2.0,0.0,87.0,0.0,0.0,0.0,0.0,0.0,1.0,Leicester,True,Aston Villa,,0.66
+Victor Kristiansen,Leicester,Aston Villa,2024-08-31,True,DL,90.0,0.0,0.0,0.0,0.14,1.0,0.0,2.0,5.4,0.0,0.0,2.0,1.55,True,1.0,0.0,88.0,0.0,0.0,0.0,0.0,0.0,1.0,Leicester,False,Crystal Palace,,0.2
+Victor Kristiansen,Leicester,Crystal Palace,2024-09-14,False,DL,90.0,0.0,0.0,0.0,0.03,1.0,0.0,2.0,4.8,0.0,0.0,2.0,2.55,True,1.0,0.0,88.5,0.0,0.0,0.0,0.0,0.0,2.0,Leicester,True,Everton,,0.61
+Victor Kristiansen,Leicester,Everton,2024-09-21,True,DL,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.3,0.0,0.0,1.0,1.1,True,1.0,0.0,88.8,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Arsenal,,-0.56
+Victor Kristiansen,Leicester,Arsenal,2024-09-28,False,DL,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.7,0.0,0.0,4.0,4.6,True,1.2,0.0,89.0,0.0,0.0,0.0,0.0,0.0,6.0,Leicester,True,Bournemouth,,0.84
+Victor Kristiansen,Leicester,Bournemouth,2024-10-05,True,DL,90.0,0.0,0.0,0.0,0.04,6.0,0.0,1.0,2.7,0.0,1.0,0.0,2.16,True,0.8,0.0,89.14,0.14,0.0,0.0,0.0,0.0,0.0,Leicester,False,Southampton,,-0.31
+Victor Kristiansen,Leicester,Southampton,2024-10-19,False,DL,58.0,0.0,0.0,0.0,0.08,0.0,0.0,2.0,3.8,0.0,0.0,2.0,1.7,True,2.0,0.0,85.25,0.14,0.0,0.0,0.0,0.0,0.0,Leicester,True,Nottingham Forest,,1.2
+Victor Kristiansen,Leicester,Nottingham Forest,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,1.8,0.0,75.78,0.14,0.0,0.0,0.0,0.0,,Leicester,False,Ipswich Town,,
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,False,Manchester United,,-0.41
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,Chelsea,,0.0

@@ -1,8 +1,10 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Scott McTominay,Man Utd,Fulham,2024-08-16,True,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.0,0.0,6.0,7.0,1.0,6.79,1.06,0.05,1.0,Man Utd,False,Brighton,0.65,-0.61
-Scott McTominay,Man Utd,Brighton,2024-08-24,False,Sub,11,0.0,0.13,0.0,0.0,1,1.0,0.0,0.8,0,0,1,False,1.0,0.0,8.5,7.0,1.0,6.79,1.06,0.05,0.0,Man Utd,True,Liverpool,0.35,0.24
-Scott McTominay,Man Utd,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.06,5.67,7.0,1.0,6.79,1.06,0.05,0.0,Man Utd,False,Southampton,-0.99,-0.31
-Scott McTominay,Man Utd,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.67,0.04,4.25,7.0,1.0,6.79,1.06,0.05,0.0,Man Utd,False,Crystal Palace,2.45,0.2
-Scott McTominay,Man Utd,Crystal Palace,2024-09-21,False,AMC,0,0.0,0.01,0.0,0.0,0,1.0,0.0,0.0,0,0,0,False,0.5,0.03,3.4,7.0,1.0,6.79,1.06,0.05,0.0,Man Utd,True,Tottenham,-2.02,0.74
-Scott McTominay,Man Utd,Tottenham,2024-09-29,True,MC,0,0.0,0.25,1.0,0.47,0,3.0,1.0,0.0,0,0,0,False,0.4,0.03,2.83,7.0,1.0,6.79,1.06,0.05,0.0,Man Utd,False,Aston Villa,-0.18,0.11
-Scott McTominay,Man Utd,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.28,2.43,7.0,1.0,6.79,1.06,0.05,,,,,,
+Scott McTominay,Man Utd,Fulham,2024-08-16,True,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.0,0.0,6.0,7.0,1.0,6.79,1.06,0.05,1.0,Man Utd,False,Brighton,,-0.61
+Scott McTominay,Man Utd,Brighton,2024-08-24,False,Sub,11,0.0,0.13,0.0,0.0,1,1.0,0.0,0.8,0,0,1,False,1.0,0.0,8.5,7.0,1.0,6.79,1.06,0.05,0.0,Man Utd,True,Liverpool,,0.24
+Scott McTominay,Man Utd,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.06,5.67,7.0,1.0,6.79,1.06,0.05,0.0,Man Utd,False,Southampton,,-0.31
+Scott McTominay,Man Utd,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.67,0.04,4.25,7.0,1.0,6.79,1.06,0.05,0.0,Man Utd,False,Crystal Palace,,0.2
+Scott McTominay,Man Utd,Crystal Palace,2024-09-21,False,AMC,0,0.0,0.01,0.0,0.0,0,1.0,0.0,0.0,0,0,0,False,0.5,0.03,3.4,7.0,1.0,6.79,1.06,0.05,0.0,Man Utd,True,Tottenham,,0.74
+Scott McTominay,Man Utd,Tottenham,2024-09-29,True,MC,0,0.0,0.25,1.0,0.47,0,3.0,1.0,0.0,0,0,0,False,0.4,0.03,2.83,7.0,1.0,6.79,1.06,0.05,0.0,Man Utd,False,Aston Villa,,0.11
+Scott McTominay,Man Utd,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.28,2.43,7.0,1.0,6.79,1.06,0.05,0.0,Man Utd,True,Brentford,,0.54
+Scott McTominay,Man Utd,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.25,2.12,7.0,1.0,6.79,1.06,0.05,0.0,Man Utd,False,West Ham,,-0.34
+Scott McTominay,Man Utd,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.25,1.89,7.0,1.0,6.79,1.06,0.05,,,,,,

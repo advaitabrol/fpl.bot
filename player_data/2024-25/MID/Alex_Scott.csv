@@ -1,8 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Alex Scott,Bournemouth,Nottingham Forest,2024-08-17,False,DMC,62,0,0.0,0,0.06,2,0,1,3.6,0,0,1,True,0.0,0.0,62.0,1.0,1.0,0.65,2.06,0.04,1.0,Bournemouth,True,Newcastle United,-1.78,0.67
-Alex Scott,Bournemouth,Newcastle United,2024-08-25,True,Sub,26,0,0.01,0,0.0,1,1,0,0.5,0,0,1,False,2.0,0.0,44.0,1.0,1.0,0.65,2.06,0.04,1.0,Bournemouth,False,Everton,3.85,-0.39
-Alex Scott,Bournemouth,Everton,2024-08-31,False,Sub,24,0,0.0,0,0.0,1,0,0,1.5,0,0,0,False,1.5,0.0,37.33,1.0,1.0,0.65,2.06,0.04,1.0,Bournemouth,True,Chelsea,-0.01,0.0
-Alex Scott,Bournemouth,Chelsea,2024-09-14,True,Sub,22,0,0.0,0,0.0,1,0,0,0.3,0,0,1,False,1.33,0.0,33.5,1.0,1.0,0.65,2.06,0.04,1.0,Bournemouth,False,Liverpool,4.89,-1.08
-Alex Scott,Bournemouth,Liverpool,2024-09-21,False,Sub,21,0,0.07,0,0.0,1,2,0,2.0,0,0,0,False,1.25,0.0,31.0,1.0,1.0,0.65,2.06,0.04,1.0,Bournemouth,True,Southampton,2.91,0.24
-Alex Scott,Bournemouth,Southampton,2024-09-30,True,Sub,14,0,0.0,0,0.0,1,0,0,0.4,0,0,0,False,1.2,0.02,28.17,1.0,1.0,0.65,2.06,0.04,1.0,Bournemouth,False,Leicester City,-1.39,-0.22
-Alex Scott,Bournemouth,Leicester City,2024-10-05,False,Sub,27,0,0.0,0,0.07,1,0,2,3.5,0,0,0,False,1.0,0.02,28.0,1.0,1.0,0.65,2.06,0.04,,,,,,
+Alex Scott,Bournemouth,Nottingham Forest,2024-08-17,False,DMC,62.0,0.0,0.0,0.0,0.06,2.0,0.0,1.0,3.6,0.0,0.0,1.0,True,0.0,0.0,62.0,1.0,1.0,0.65,2.06,0.04,1.0,Bournemouth,True,Newcastle United,,0.67
+Alex Scott,Bournemouth,Newcastle United,2024-08-25,True,Sub,26.0,0.0,0.01,0.0,0.0,1.0,1.0,0.0,0.5,0.0,0.0,1.0,False,2.0,0.0,44.0,1.0,1.0,0.65,2.06,0.04,1.0,Bournemouth,False,Everton,,-0.39
+Alex Scott,Bournemouth,Everton,2024-08-31,False,Sub,24.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.5,0.0,0.0,0.0,False,1.5,0.01,37.33,1.0,1.0,0.65,2.06,0.04,1.0,Bournemouth,True,Chelsea,,0.0
+Alex Scott,Bournemouth,Chelsea,2024-09-14,True,Sub,22.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,1.0,False,1.33,0.0,33.5,1.0,1.0,0.65,2.06,0.04,1.0,Bournemouth,False,Liverpool,,-1.08
+Alex Scott,Bournemouth,Liverpool,2024-09-21,False,Sub,21.0,0.0,0.07,0.0,0.0,1.0,2.0,0.0,2.0,0.0,0.0,0.0,False,1.25,0.0,31.0,1.0,1.0,0.65,2.06,0.04,1.0,Bournemouth,True,Southampton,,0.24
+Alex Scott,Bournemouth,Southampton,2024-09-30,True,Sub,14.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.4,0.0,0.0,0.0,False,1.2,0.02,28.17,1.0,1.0,0.65,2.06,0.04,1.0,Bournemouth,False,Leicester City,,-0.22
+Alex Scott,Bournemouth,Leicester City,2024-10-05,False,Sub,27.0,0.0,0.0,0.0,0.07,1.0,0.0,2.0,3.5,0.0,0.0,0.0,False,1.0,0.02,28.0,1.0,1.0,0.65,2.06,0.04,3.0,Bournemouth,True,Arsenal,,-0.32
+Alex Scott,Bournemouth,Arsenal,2024-10-19,True,DMC,62.0,0.0,0.0,0.0,0.11,3.0,0.0,2.0,4.0,0.0,1.0,0.0,True,1.0,0.01,32.25,1.0,1.0,0.65,2.06,0.04,0.0,Bournemouth,False,Aston Villa,,0.11
+Alex Scott,Bournemouth,Aston Villa,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,1.4,0.01,28.67,1.0,1.0,0.65,2.06,0.04,,Bournemouth,True,Manchester City,,-1.18
+,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,False,Brentford,,-0.15
+,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,True,Brighton,,-0.42

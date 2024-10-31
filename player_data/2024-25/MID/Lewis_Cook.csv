@@ -1,8 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Lewis Cook,Bournemouth,Nottingham Forest,2024-08-17,False,DMC,83,0,0.0,0,0.44,1,0,1,2.7,0,0,1,True,0.0,0.0,83.0,0.0,3.0,0.4,3.67,0.03,2.0,Bournemouth,True,Newcastle United,-1.78,0.67
-Lewis Cook,Bournemouth,Newcastle United,2024-08-25,True,DMC,90,0,0.0,0,0.14,2,0,1,3.9,0,0,1,True,1.0,0.0,86.5,0.0,3.0,0.4,3.67,0.03,7.0,Bournemouth,False,Everton,3.85,-0.39
-Lewis Cook,Bournemouth,Everton,2024-08-31,False,DMC,90,1,0.48,0,0.0,7,1,0,9.1,0,0,2,True,1.5,0.0,87.67,0.0,3.0,0.4,3.67,0.03,1.0,Bournemouth,True,Chelsea,-0.01,0.0
-Lewis Cook,Bournemouth,Chelsea,2024-09-14,True,DMC,90,0,0.05,0,0.02,1,3,1,2.6,0,0,1,True,3.33,0.16,88.25,0.0,3.0,0.4,3.67,0.03,1.0,Bournemouth,False,Liverpool,4.89,-1.08
-Lewis Cook,Bournemouth,Liverpool,2024-09-21,False,DMC,90,0,0.0,0,0.14,1,0,2,5.2,0,0,3,True,2.75,0.13,88.6,0.0,3.0,0.4,3.67,0.03,10.0,Bournemouth,True,Southampton,2.91,0.24
-Lewis Cook,Bournemouth,Southampton,2024-09-30,True,DMC,90,0,0.09,2,0.42,10,1,4,10.8,2,0,1,True,2.4,0.11,88.83,0.0,3.0,0.4,3.67,0.03,2.0,Bournemouth,False,Leicester City,-1.39,-0.22
-Lewis Cook,Bournemouth,Leicester City,2024-10-05,False,DMC,90,0,0.0,0,0.74,2,0,4,8.2,0,0,1,True,4.2,0.52,89.0,0.0,3.0,0.4,3.67,0.03,,,,,,
+Lewis Cook,Bournemouth,Nottingham Forest,2024-08-17,False,DMC,83.0,0.0,0.0,0.0,0.44,1.0,0.0,1.0,2.7,0.0,0.0,1.0,True,0.0,0.0,83.0,0.0,3.0,0.4,3.67,0.03,2.0,Bournemouth,True,Newcastle United,,0.67
+Lewis Cook,Bournemouth,Newcastle United,2024-08-25,True,DMC,90.0,0.0,0.0,0.0,0.14,2.0,0.0,1.0,3.9,0.0,0.0,1.0,True,1.0,0.0,86.5,0.0,3.0,0.4,3.67,0.03,7.0,Bournemouth,False,Everton,,-0.39
+Lewis Cook,Bournemouth,Everton,2024-08-31,False,DMC,90.0,1.0,0.48,0.0,0.0,7.0,1.0,0.0,9.1,0.0,0.0,2.0,True,1.5,0.0,87.67,0.0,3.0,0.4,3.67,0.03,1.0,Bournemouth,True,Chelsea,,0.0
+Lewis Cook,Bournemouth,Chelsea,2024-09-14,True,DMC,90.0,0.0,0.05,0.0,0.02,1.0,3.0,1.0,2.6,0.0,0.0,1.0,True,3.33,0.16,88.25,0.0,3.0,0.4,3.67,0.03,1.0,Bournemouth,False,Liverpool,,-1.08
+Lewis Cook,Bournemouth,Liverpool,2024-09-21,False,DMC,90.0,0.0,0.0,0.0,0.14,1.0,0.0,2.0,5.2,0.0,0.0,3.0,True,2.75,0.13,88.6,0.0,3.0,0.4,3.67,0.03,10.0,Bournemouth,True,Southampton,,0.24
+Lewis Cook,Bournemouth,Southampton,2024-09-30,True,DMC,90.0,0.0,0.09,2.0,0.42,10.0,1.0,4.0,10.8,2.0,0.0,1.0,True,2.4,0.11,88.83,0.0,3.0,0.4,3.67,0.03,2.0,Bournemouth,False,Leicester City,,-0.22
+Lewis Cook,Bournemouth,Leicester City,2024-10-05,False,DMC,90.0,0.0,0.0,0.0,0.74,2.0,0.0,4.0,8.2,0.0,0.0,1.0,True,4.2,0.53,89.0,0.0,3.0,0.4,3.67,0.03,3.0,Bournemouth,True,Arsenal,,-0.32
+Lewis Cook,Bournemouth,Arsenal,2024-10-19,True,DMC,90.0,0.0,0.0,0.0,0.08,3.0,0.0,2.0,4.2,0.0,1.0,0.0,True,4.2,0.53,89.12,0.0,3.0,0.4,3.67,0.03,2.0,Bournemouth,False,Aston Villa,,0.11
+Lewis Cook,Bournemouth,Aston Villa,2024-10-26,False,DMC,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.3,0.0,0.0,1.0,True,3.4,0.43,89.22,0.0,3.0,0.4,3.67,0.03,,Bournemouth,True,Manchester City,,-1.18
+,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,False,Brentford,,-0.15
+,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,True,Brighton,,-0.42

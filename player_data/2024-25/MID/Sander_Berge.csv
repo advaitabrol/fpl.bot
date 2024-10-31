@@ -1,7 +1,11 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Sander Berge,Fulham,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,2.0,2.12,3.19,0.02,1.0,Fulham,False,Ipswich Town,,
-Sander Berge,Fulham,Ipswich Town,2024-08-31,False,Sub,18,0.0,0.0,0.0,0.1,1,0.0,2.0,2.8,0,0,0,False,0.0,0.0,9.0,1.0,2.0,2.12,3.19,0.02,1.0,Fulham,True,West Ham,-0.79,0.48
-Sander Berge,Fulham,West Ham,2024-09-14,True,Sub,24,0.0,0.0,0.0,0.06,1,0.0,1.0,1.6,0,0,1,False,0.5,0.0,14.0,1.0,2.0,2.12,3.19,0.02,1.0,Fulham,True,Newcastle United,3.13,0.67
-Sander Berge,Fulham,Newcastle United,2024-09-21,True,Sub,45,0.0,0.0,0.0,0.02,1,0.0,1.0,2.4,0,0,1,False,0.67,0.0,21.75,1.0,2.0,2.12,3.19,0.02,1.0,Fulham,False,Nottingham Forest,1.93,-0.54
-Sander Berge,Fulham,Nottingham Forest,2024-09-28,False,Sub,21,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,False,0.75,0.0,21.6,1.0,2.0,2.12,3.19,0.02,2.0,Fulham,False,Manchester City,1.5,-1.51
-Sander Berge,Fulham,Manchester City,2024-10-05,False,MC,64,0.0,0.0,0.0,0.0,2,0.0,0.0,1.0,0,0,2,True,0.8,0.0,28.67,1.0,2.0,2.12,3.19,0.02,,,,,,
+Sander Berge,Fulham,Leicester City,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,1.0,2.0,2.12,3.19,0.02,1.0,Fulham,False,Ipswich Town,,
+Sander Berge,Fulham,Ipswich Town,2024-08-31,False,Sub,18.0,0.0,0.0,0.0,0.1,1.0,0.0,2.0,2.8,0.0,0.0,0.0,False,0.0,0.0,9.0,1.0,2.0,2.12,3.19,0.02,1.0,Fulham,True,West Ham,,0.48
+Sander Berge,Fulham,West Ham,2024-09-14,True,Sub,24.0,0.0,0.0,0.0,0.06,1.0,0.0,1.0,1.6,0.0,0.0,1.0,False,0.5,0.0,14.0,1.0,2.0,2.12,3.19,0.02,1.0,Fulham,True,Newcastle United,,0.67
+Sander Berge,Fulham,Newcastle United,2024-09-21,True,Sub,45.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,2.4,0.0,0.0,1.0,False,0.67,0.0,21.75,1.0,2.0,2.12,3.19,0.02,1.0,Fulham,False,Nottingham Forest,,-0.54
+Sander Berge,Fulham,Nottingham Forest,2024-09-28,False,Sub,21.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.8,0.0,0.0,0.0,False,0.75,0.0,21.6,1.0,2.0,2.12,3.19,0.02,2.0,Fulham,False,Manchester City,,-1.51
+Sander Berge,Fulham,Manchester City,2024-10-05,False,MC,64.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,2.0,True,0.8,0.0,28.67,1.0,2.0,2.12,3.19,0.02,2.0,Fulham,True,Aston Villa,,0.66
+Sander Berge,Fulham,Aston Villa,2024-10-19,True,DMC,79.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.4,0.0,0.0,3.0,True,1.2,0.0,35.86,1.0,2.0,2.12,3.19,0.02,2.0,Fulham,False,Everton,,-0.39
+Sander Berge,Fulham,Everton,2024-10-26,False,DMC,90.0,0.0,0.0,0.0,0.02,2.0,0.0,1.0,3.0,0.0,0.0,1.0,True,1.4,0.0,42.62,1.0,2.0,2.12,3.19,0.02,,Fulham,True,Brentford,,0.54
+,Fulham,,,,,,,,,,,,,,,,,,,,,,,,,,,Fulham,False,Crystal Palace,,0.2
+,Fulham,,,,,,,,,,,,,,,,,,,,,,,,,,,Fulham,True,Wolverhampton,,-0.08

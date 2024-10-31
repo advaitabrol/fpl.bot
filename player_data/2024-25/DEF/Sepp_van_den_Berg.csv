@@ -1,8 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Sepp van den Berg,Liverpool,Ipswich Town,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Brentford,False,Liverpool,3.48,-1.08
-Sepp van den Berg,Brentford,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1.0,Brentford,True,Southampton,-4.06,0.24
-Sepp van den Berg,Brentford,Southampton,2024-08-31,True,Sub,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,0.53,False,0.0,0.0,5.0,0.0,0,0,0,0,1.0,Brentford,False,Manchester City,-0.6,-1.51
-Sepp van den Berg,Brentford,Manchester City,2024-09-14,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,2,2.17,True,0.33,0.0,26.25,0.0,0,0,0,0,1.0,Brentford,False,Tottenham,2.11,-0.3
-Sepp van den Berg,Brentford,Tottenham,2024-09-21,False,DC,90,0.0,0.0,0.0,0.05,1,0.0,1.0,3.9,0,0,3,3.52,True,0.5,0.0,39.0,0.0,0,0,0,0,2.0,Brentford,True,West Ham,-1.97,0.48
-Sepp van den Berg,Brentford,West Ham,2024-09-28,True,DR,90,0.0,0.07,0.0,0.0,2,1.0,0.0,2.9,0,0,1,0.99,True,0.6,0.0,47.5,0.0,0,0,0,0,1.0,Brentford,True,Wolverhampton,2.5,-0.08
-Sepp van den Berg,Brentford,Wolverhampton,2024-10-05,True,DR,90,0.0,0.33,0.0,0.02,1,2.0,1.0,5.6,0,0,3,1.05,True,1.0,0.01,53.57,0.0,0,0,0,0,,,,,,
+Sepp van den Berg,Liverpool,Ipswich Town,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,False,Liverpool,,-1.08
+Sepp van den Berg,Brentford,Liverpool,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Brentford,True,Southampton,,0.24
+Sepp van den Berg,Brentford,Southampton,2024-08-31,True,Sub,15.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,0.0,0.0,1.0,0.53,False,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,1.0,Brentford,False,Manchester City,,-1.51
+Sepp van den Berg,Brentford,Manchester City,2024-09-14,False,DC,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.8,0.0,0.0,2.0,2.17,True,0.33,0.0,26.25,0.0,0.0,0.0,0.0,0.0,1.0,Brentford,False,Tottenham,,-0.3
+Sepp van den Berg,Brentford,Tottenham,2024-09-21,False,DC,90.0,0.0,0.0,0.0,0.05,1.0,0.0,1.0,3.9,0.0,0.0,3.0,3.52,True,0.5,0.0,39.0,0.0,0.0,0.0,0.0,0.0,2.0,Brentford,True,West Ham,,0.48
+Sepp van den Berg,Brentford,West Ham,2024-09-28,True,DR,90.0,0.0,0.07,0.0,0.0,2.0,1.0,0.0,2.9,0.0,0.0,1.0,0.99,True,0.6,0.0,47.5,0.0,0.0,0.0,0.0,0.0,1.0,Brentford,True,Wolverhampton,,-0.08
+Sepp van den Berg,Brentford,Wolverhampton,2024-10-05,True,DR,90.0,0.0,0.33,0.0,0.02,1.0,2.0,1.0,5.6,0.0,0.0,3.0,1.05,True,1.0,0.01,53.57,0.0,0.0,0.0,0.0,0.0,1.0,Brentford,False,Manchester United,,-0.41
+Sepp van den Berg,Brentford,Manchester United,2024-10-19,False,DR,86.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.2,0.0,0.0,2.0,1.27,True,1.2,0.08,57.62,0.0,0.0,0.0,0.0,0.0,1.0,Brentford,True,Ipswich Town,,
+Sepp van den Berg,Brentford,Ipswich Town,2024-10-26,True,DL,90.0,0.0,0.08,0.0,0.0,1.0,2.0,0.0,6.3,0.0,0.0,3.0,1.3,True,1.2,0.08,61.22,0.0,0.0,0.0,0.0,0.0,,Brentford,True,Brighton,,-0.42
+,Brentford,,,,,,,,,,,,,,,,,,,,,,,,,,,,Brentford,True,Aston Villa,,0.66
+,Brentford,,,,,,,,,,,,,,,,,,,,,,,,,,,,Brentford,False,Southampton,,-0.31

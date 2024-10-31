@@ -1,8 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Martin Ødegaard,Arsenal,Wolverhampton,2024-08-17,True,MC,90,0.0,0.02,0.0,0.1,3,1.0,2.0,5.4,0,1,0,True,0.0,0.0,90.0,8.0,10.0,7.67,11.59,0.06,2.0,Arsenal,False,Aston Villa,-0.83,0.11
-Martin Ødegaard,Arsenal,Aston Villa,2024-08-24,False,MC,90,0.0,0.48,0.0,0.11,2,1.0,2.0,6.4,0,1,0,True,3.0,0.02,90.0,8.0,10.0,7.67,11.59,0.06,2.0,Arsenal,True,Brighton,0.58,-0.42
-Martin Ødegaard,Arsenal,Brighton,2024-08-31,True,MC,73,0.0,0.31,0.0,0.36,2,1.0,1.0,5.2,0,0,1,True,2.5,0.25,84.33,8.0,10.0,7.67,11.59,0.06,0.0,Arsenal,False,Tottenham,0.46,-0.3
-Martin Ødegaard,Arsenal,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,2.33,0.27,63.25,8.0,10.0,7.67,11.59,0.06,0.0,Arsenal,False,Manchester City,2.4,-1.51
-Martin Ødegaard,Arsenal,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,False,1.75,0.2,50.6,8.0,10.0,7.67,11.59,0.06,0.0,Arsenal,True,Leicester City,-3.26,0.47
-Martin Ødegaard,Arsenal,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.16,42.17,8.0,10.0,7.67,11.59,0.06,0.0,Arsenal,True,Southampton,-0.96,0.24
-Martin Ødegaard,Arsenal,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.16,36.14,8.0,10.0,7.67,11.59,0.06,,,,,,
+Martin Ødegaard,Arsenal,Wolverhampton,2024-08-17,True,MC,90.0,0.0,0.02,0.0,0.1,3.0,1.0,2.0,5.4,0.0,1.0,0.0,True,0.0,0.0,90.0,8.0,10.0,7.67,11.59,0.06,2.0,Arsenal,False,Aston Villa,,0.11
+Martin Ødegaard,Arsenal,Aston Villa,2024-08-24,False,MC,90.0,0.0,0.48,0.0,0.11,2.0,1.0,2.0,6.4,0.0,1.0,0.0,True,3.0,0.02,90.0,8.0,10.0,7.67,11.59,0.06,2.0,Arsenal,True,Brighton,,-0.42
+Martin Ødegaard,Arsenal,Brighton,2024-08-31,True,MC,73.0,0.0,0.31,0.0,0.36,2.0,1.0,1.0,5.2,0.0,0.0,1.0,True,2.5,0.25,84.33,8.0,10.0,7.67,11.59,0.06,0.0,Arsenal,False,Tottenham,,-0.3
+Martin Ødegaard,Arsenal,Tottenham,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,2.33,0.27,63.25,8.0,10.0,7.67,11.59,0.06,0.0,Arsenal,False,Manchester City,,-1.51
+Martin Ødegaard,Arsenal,Manchester City,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,1.75,0.2,50.6,8.0,10.0,7.67,11.59,0.06,0.0,Arsenal,True,Leicester City,,0.47
+Martin Ødegaard,Arsenal,Leicester City,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,1.4,0.16,42.17,8.0,10.0,7.67,11.59,0.06,0.0,Arsenal,True,Southampton,,0.24
+Martin Ødegaard,Arsenal,Southampton,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.8,0.16,36.14,8.0,10.0,7.67,11.59,0.06,0.0,Arsenal,False,Bournemouth,,-0.04
+Martin Ødegaard,Arsenal,Bournemouth,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.4,0.06,31.62,8.0,10.0,7.67,11.59,0.06,0.0,Arsenal,True,Liverpool,,0.24
+Martin Ødegaard,Arsenal,Liverpool,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.0,0.0,28.11,8.0,10.0,7.67,11.59,0.06,,Arsenal,False,Newcastle United,,-0.44
+,Arsenal,,,,,,,,,,,,,,,,,,,,,,,,,,,Arsenal,False,Chelsea,,-0.9
+,Arsenal,,,,,,,,,,,,,,,,,,,,,,,,,,,Arsenal,True,Nottingham Forest,,1.2

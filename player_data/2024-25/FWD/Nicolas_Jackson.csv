@@ -1,8 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Nicolas Jackson,Chelsea,Manchester City,2024-08-18,True,FW,65,0,0.55,0,0.2,2,1,2,5.1,0,True,0.0,0.0,65.0,14.0,5.0,19.87,5.29,0.05,10.0,Chelsea,False,Wolverhampton,1.62,-0.53
-Nicolas Jackson,Chelsea,Wolverhampton,2024-08-25,False,FW,67,1,0.31,1,0.15,10,1,2,11.5,1,True,2.0,0.55,66.0,14.0,5.0,19.87,5.29,0.05,6.0,Chelsea,True,Crystal Palace,-1.51,0.88
-Nicolas Jackson,Chelsea,Crystal Palace,2024-09-01,True,FW,90,1,1.5,0,0.0,6,4,0,11.5,1,True,6.0,0.93,74.0,14.0,5.0,19.87,5.29,0.05,1.0,Chelsea,False,Bournemouth,-1.53,-0.04
-Nicolas Jackson,Chelsea,Bournemouth,2024-09-14,False,FW,78,0,0.25,0,0.0,1,3,0,3.3,0,True,6.0,1.12,75.0,14.0,5.0,19.87,5.29,0.05,16.0,Chelsea,False,West Ham,2.89,-0.34
-Nicolas Jackson,Chelsea,West Ham,2024-09-21,False,FW,63,2,0.76,1,0.39,16,4,2,15.8,3,True,4.75,0.9,72.6,14.0,5.0,19.87,5.29,0.05,5.0,Chelsea,True,Brighton,-0.67,-0.42
-Nicolas Jackson,Chelsea,Brighton,2024-09-28,True,FW,78,0,1.36,1,0.35,5,5,1,7.5,0,True,7.0,1.07,73.5,14.0,5.0,19.87,5.29,0.05,2.0,Chelsea,True,Nottingham Forest,1.3,1.2
-Nicolas Jackson,Chelsea,Nottingham Forest,2024-10-06,True,FW,80,0,0.54,0,0.0,2,1,0,5.2,0,True,7.6,1.44,74.43,14.0,5.0,19.87,5.29,0.05,,,,,,
+Nicolas Jackson,Chelsea,Manchester City,2024-08-18,True,FW,65.0,0.0,0.55,0.0,0.2,2.0,1.0,2.0,5.1,0.0,True,0.0,0.0,65.0,14.0,5.0,19.87,5.29,0.05,10.0,Chelsea,False,Wolverhampton,,-0.53
+Nicolas Jackson,Chelsea,Wolverhampton,2024-08-25,False,FW,67.0,1.0,0.31,1.0,0.15,10.0,1.0,2.0,11.5,1.0,True,2.0,0.55,66.0,14.0,5.0,19.87,5.29,0.05,6.0,Chelsea,True,Crystal Palace,,0.88
+Nicolas Jackson,Chelsea,Crystal Palace,2024-09-01,True,FW,90.0,1.0,1.5,0.0,0.0,6.0,4.0,0.0,11.5,1.0,True,6.0,0.93,74.0,14.0,5.0,19.87,5.29,0.05,1.0,Chelsea,False,Bournemouth,,-0.04
+Nicolas Jackson,Chelsea,Bournemouth,2024-09-14,False,FW,78.0,0.0,0.25,0.0,0.0,1.0,3.0,0.0,3.3,0.0,True,6.0,1.12,75.0,14.0,5.0,19.87,5.29,0.05,16.0,Chelsea,False,West Ham,,-0.34
+Nicolas Jackson,Chelsea,West Ham,2024-09-21,False,FW,63.0,2.0,0.76,1.0,0.39,16.0,4.0,2.0,15.8,3.0,True,4.75,0.9,72.6,14.0,5.0,19.87,5.29,0.05,5.0,Chelsea,True,Brighton,,-0.42
+Nicolas Jackson,Chelsea,Brighton,2024-09-28,True,FW,78.0,0.0,1.36,1.0,0.35,5.0,5.0,1.0,7.5,0.0,True,7.0,1.07,73.5,14.0,5.0,19.87,5.29,0.05,2.0,Chelsea,True,Nottingham Forest,,1.2
+Nicolas Jackson,Chelsea,Nottingham Forest,2024-10-06,True,FW,80.0,0.0,0.54,0.0,0.0,2.0,1.0,0.0,5.2,0.0,True,7.6,1.44,74.43,14.0,5.0,19.87,5.29,0.05,6.0,Chelsea,False,Liverpool,,-1.08
+Nicolas Jackson,Chelsea,Liverpool,2024-10-20,False,FW,90.0,1.0,0.43,0.0,0.0,6.0,2.0,0.0,5.5,1.0,True,6.0,1.28,76.38,14.0,5.0,19.87,5.29,0.05,9.0,Chelsea,True,Newcastle United,,0.67
+Nicolas Jackson,Chelsea,Newcastle United,2024-10-27,True,FW,77.0,1.0,0.59,0.0,0.19,9.0,1.0,3.0,8.6,3.0,True,6.0,1.07,76.44,14.0,5.0,19.87,5.29,0.05,,Chelsea,False,Manchester United,,-0.41
+,Chelsea,,,,,,,,,,,,,,,,,,,,,,,,,Chelsea,True,Arsenal,,-0.32
+,Chelsea,,,,,,,,,,,,,,,,,,,,,,,,,Chelsea,False,Leicester City,,-0.22

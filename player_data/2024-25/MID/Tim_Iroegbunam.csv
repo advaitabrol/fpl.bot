@@ -1,8 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Tim Iroegbunam,Everton,Brighton,2024-08-17,True,DMC,90,0.0,0.1,0.0,0.0,2,2.0,0.0,3.1,0,0,3,True,0.0,0.0,90.0,0.0,0.0,0.0,0.0,0.06,2.0,Everton,False,Tottenham,2.99,-0.3
-Tim Iroegbunam,Everton,Tottenham,2024-08-24,False,DMC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.5,0,0,4,True,2.0,0.1,90.0,0.0,0.0,0.0,0.0,0.06,1.0,Everton,True,Bournemouth,-4.02,0.84
-Tim Iroegbunam,Everton,Bournemouth,2024-08-31,True,DMC,90,0.0,0.09,0.0,0.1,1,2.0,2.0,5.1,0,0,3,True,2.0,0.05,90.0,0.0,0.0,0.0,0.0,0.06,1.0,Everton,False,Aston Villa,3.22,0.11
-Tim Iroegbunam,Everton,Aston Villa,2024-09-14,False,DMC,80,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,3,True,1.67,0.06,87.5,0.0,0.0,0.0,0.0,0.06,1.0,Everton,False,Leicester City,-1.63,-0.22
-Tim Iroegbunam,Everton,Leicester City,2024-09-21,False,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,1.5,0.05,71.8,0.0,0.0,0.0,0.0,0.06,0.0,Everton,True,Crystal Palace,-1.89,0.88
-Tim Iroegbunam,Everton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,1.4,0.04,59.83,0.0,0.0,0.0,0.0,0.06,1.0,Everton,True,Newcastle United,-0.27,0.67
-Tim Iroegbunam,Everton,Newcastle United,2024-10-05,True,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,1.0,0.02,54.43,0.0,0.0,0.0,0.0,0.06,,,,,,
+Tim Iroegbunam,Everton,Brighton,2024-08-17,True,DMC,90.0,0.0,0.1,0.0,0.0,2.0,2.0,0.0,3.1,0.0,0.0,3.0,True,0.0,0.0,90.0,0.0,0.0,0.0,0.0,0.06,2.0,Everton,False,Tottenham,,-0.3
+Tim Iroegbunam,Everton,Tottenham,2024-08-24,False,DMC,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.5,0.0,0.0,4.0,True,2.0,0.1,90.0,0.0,0.0,0.0,0.0,0.06,1.0,Everton,True,Bournemouth,,0.84
+Tim Iroegbunam,Everton,Bournemouth,2024-08-31,True,DMC,90.0,0.0,0.09,0.0,0.1,1.0,2.0,2.0,5.1,0.0,0.0,3.0,True,2.0,0.05,90.0,0.0,0.0,0.0,0.0,0.06,1.0,Everton,False,Aston Villa,,0.11
+Tim Iroegbunam,Everton,Aston Villa,2024-09-14,False,DMC,80.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.8,0.0,0.0,3.0,True,1.67,0.06,87.5,0.0,0.0,0.0,0.0,0.06,1.0,Everton,False,Leicester City,,-0.22
+Tim Iroegbunam,Everton,Leicester City,2024-09-21,False,Sub,9.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.0,0.0,0.0,False,1.5,0.05,71.8,0.0,0.0,0.0,0.0,0.06,0.0,Everton,True,Crystal Palace,,0.88
+Tim Iroegbunam,Everton,Crystal Palace,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,1.4,0.04,59.83,0.0,0.0,0.0,0.0,0.06,1.0,Everton,True,Newcastle United,,0.67
+Tim Iroegbunam,Everton,Newcastle United,2024-10-05,True,Sub,22.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.4,0.0,0.0,0.0,False,1.0,0.02,54.43,0.0,0.0,0.0,0.0,0.06,0.0,Everton,False,Ipswich Town,,
+Tim Iroegbunam,Everton,Ipswich Town,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.8,0.02,47.62,0.0,0.0,0.0,0.0,0.06,0.0,Everton,True,Fulham,,0.27
+Tim Iroegbunam,Everton,Fulham,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.6,0.0,42.33,0.0,0.0,0.0,0.0,0.06,,Everton,False,Southampton,,-0.31
+,Everton,,,,,,,,,,,,,,,,,,,,,,,,,,,Everton,False,West Ham,,-0.34
+,Everton,,,,,,,,,,,,,,,,,,,,,,,,,,,Everton,True,Brentford,,0.54

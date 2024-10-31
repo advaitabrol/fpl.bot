@@ -1,8 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Tyler Dibling,Southampton,Newcastle United,2024-08-17,False,Sub,20,0,0.0,0,0.03,1,0,1,1.5,0,0,0,False,0.0,0.0,20.0,0,0,0,0,0,1.0,Southampton,True,Nottingham Forest,3.03,1.2
-Tyler Dibling,Southampton,Nottingham Forest,2024-08-24,True,Sub,6,0,0.0,0,0.0,1,0,0,0.7,0,0,0,False,1.0,0.0,13.0,0,0,0,0,0,1.0,Southampton,False,Brentford,4.79,-0.15
-Tyler Dibling,Southampton,Brentford,2024-08-31,False,Sub,34,0,0.04,0,0.12,1,2,2,5.7,0,0,2,False,1.0,0.0,20.0,0,0,0,0,0,2.0,Southampton,True,Manchester United,1.12,0.39
-Tyler Dibling,Southampton,Manchester United,2024-09-14,True,AMR,62,0,0.04,0,0.03,2,1,1,3.7,0,0,2,True,1.0,0.01,30.5,0,0,0,0,0,11.0,Southampton,True,Ipswich Town,,
-Tyler Dibling,Southampton,Ipswich Town,2024-09-21,True,AMR,81,1,0.48,0,0.7,11,1,1,8.2,3,1,0,True,1.25,0.02,40.6,0,0,0,0,0,1.0,Southampton,False,Bournemouth,-0.76,-0.04
-Tyler Dibling,Southampton,Bournemouth,2024-09-30,False,FW,75,0,0.05,0,0.05,1,1,1,2.7,0,0,3,True,3.2,0.11,46.33,0,0,0,0,0,1.0,Southampton,False,Arsenal,0.71,-0.56
-Tyler Dibling,Southampton,Arsenal,2024-10-05,False,MR,90,0,0.09,0,0.08,1,2,1,2.9,0,0,3,True,3.2,0.12,52.57,0,0,0,0,0,,,,,,
+Tyler Dibling,Southampton,Newcastle United,2024-08-17,False,Sub,20.0,0.0,0.0,0.0,0.03,1.0,0.0,1.0,1.5,0.0,0.0,0.0,False,0.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,1.0,Southampton,True,Nottingham Forest,,1.2
+Tyler Dibling,Southampton,Nottingham Forest,2024-08-24,True,Sub,6.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.7,0.0,0.0,0.0,False,1.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,1.0,Southampton,False,Brentford,,-0.15
+Tyler Dibling,Southampton,Brentford,2024-08-31,False,Sub,34.0,0.0,0.04,0.0,0.12,1.0,2.0,2.0,5.7,0.0,0.0,2.0,False,1.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,2.0,Southampton,True,Manchester United,,0.39
+Tyler Dibling,Southampton,Manchester United,2024-09-14,True,AMR,62.0,0.0,0.04,0.0,0.03,2.0,1.0,1.0,3.7,0.0,0.0,2.0,True,1.0,0.01,30.5,0.0,0.0,0.0,0.0,0.0,11.0,Southampton,True,Ipswich Town,,
+Tyler Dibling,Southampton,Ipswich Town,2024-09-21,True,AMR,81.0,1.0,0.48,0.0,0.7,11.0,1.0,1.0,8.2,3.0,1.0,0.0,True,1.25,0.02,40.6,0.0,0.0,0.0,0.0,0.0,1.0,Southampton,False,Bournemouth,,-0.04
+Tyler Dibling,Southampton,Bournemouth,2024-09-30,False,FW,75.0,0.0,0.05,0.0,0.05,1.0,1.0,1.0,2.7,0.0,0.0,3.0,True,3.2,0.11,46.33,0.0,0.0,0.0,0.0,0.0,1.0,Southampton,False,Arsenal,,-0.56
+Tyler Dibling,Southampton,Arsenal,2024-10-05,False,MR,90.0,0.0,0.09,0.0,0.08,1.0,2.0,1.0,2.9,0.0,0.0,3.0,True,3.2,0.12,52.57,0.0,0.0,0.0,0.0,0.0,1.0,Southampton,True,Leicester City,,0.47
+Tyler Dibling,Southampton,Leicester City,2024-10-19,True,MR,77.0,0.0,0.07,0.0,0.0,1.0,1.0,0.0,3.3,0.0,0.0,2.0,True,3.2,0.14,55.62,0.0,0.0,0.0,0.0,0.0,1.0,Southampton,False,Manchester City,,-1.51
+Tyler Dibling,Southampton,Manchester City,2024-10-26,False,MR,45.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.0,0.0,1.0,True,3.2,0.14,54.44,0.0,0.0,0.0,0.0,0.0,,Southampton,True,Everton,,0.61
+,Southampton,,,,,,,,,,,,,,,,,,,,,,,,,,,Southampton,False,Wolverhampton,,-0.53
+,Southampton,,,,,,,,,,,,,,,,,,,,,,,,,,,Southampton,True,Liverpool,,0.24

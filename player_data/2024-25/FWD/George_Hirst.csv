@@ -1,8 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-George Hirst,Ipswich,Liverpool,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Ipswich,False,Manchester City,,-1.51
-George Hirst,Ipswich,Manchester City,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Ipswich,True,Fulham,,0.27
-George Hirst,Ipswich,Fulham,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0,0,0,0,0,1.0,Ipswich,False,Brighton,,-0.61
-George Hirst,Ipswich,Brighton,2024-09-14,False,Sub,31,0.0,0.0,0.0,0.02,1,0.0,1.0,1.4,0,False,0.0,0.0,7.75,0,0,0,0,0,1.0,Ipswich,False,Southampton,,-0.31
-George Hirst,Ipswich,Southampton,2024-09-21,False,Sub,17,0.0,0.52,0.0,0.0,1,2.0,0.0,4.2,0,False,0.25,0.0,9.6,0,0,0,0,0,1.0,Ipswich,True,Aston Villa,,0.66
-George Hirst,Ipswich,Aston Villa,2024-09-29,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,0.4,0.1,8.17,0,0,0,0,0,1.0,Ipswich,False,West Ham,,-0.34
-George Hirst,Ipswich,West Ham,2024-10-05,False,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,0.6,0.1,8.0,0,0,0,0,0,,,,,,
+George Hirst,Ipswich,Liverpool,,True,,0.0,,,,,0.0,,,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,Manchester City,,-1.51
+George Hirst,Ipswich,Manchester City,,False,,0.0,,,,,0.0,,,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,True,Fulham,,0.27
+George Hirst,Ipswich,Fulham,,True,,0.0,,,,,0.0,,,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Ipswich,False,Brighton,,-0.61
+George Hirst,Ipswich,Brighton,2024-09-14,False,Sub,31.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,1.4,0.0,False,0.0,0.0,7.75,0.0,0.0,0.0,0.0,0.0,1.0,Ipswich,False,Southampton,,-0.31
+George Hirst,Ipswich,Southampton,2024-09-21,False,Sub,17.0,0.0,0.52,0.0,0.0,1.0,2.0,0.0,4.2,0.0,False,0.25,0.0,9.6,0.0,0.0,0.0,0.0,0.0,1.0,Ipswich,True,Aston Villa,,0.66
+George Hirst,Ipswich,Aston Villa,2024-09-29,True,Sub,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,False,0.4,0.1,8.17,0.0,0.0,0.0,0.0,0.0,1.0,Ipswich,False,West Ham,,-0.34
+George Hirst,Ipswich,West Ham,2024-10-05,False,Sub,7.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,False,0.6,0.1,8.0,0.0,0.0,0.0,0.0,0.0,1.0,Ipswich,True,Everton,,0.61
+George Hirst,Ipswich,Everton,2024-10-19,True,Sub,11.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,False,0.8,0.1,8.38,0.0,0.0,0.0,0.0,0.0,11.0,Ipswich,False,Brentford,,-0.15
+George Hirst,Ipswich,Brentford,2024-10-26,False,FW,72.0,1.0,0.34,1.0,0.32,11.0,1.0,2.0,9.7,2.0,True,1.0,0.1,15.44,0.0,0.0,0.0,0.0,0.0,,Ipswich,True,Leicester City,,0.47
+,Ipswich,,,,,,,,,,,,,,,,,,,,,,,,,Ipswich,False,Tottenham,,-0.3
+,Ipswich,,,,,,,,,,,,,,,,,,,,,,,,,Ipswich,True,Manchester United,,0.39

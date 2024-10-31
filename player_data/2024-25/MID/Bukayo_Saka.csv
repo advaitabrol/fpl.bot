@@ -1,8 +1,12 @@
 name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Bukayo Saka,Arsenal,Wolverhampton,2024-08-17,True,FWR,79,1,0.52,1,0.58,12,5,5,20.4,2,1,0,True,0.0,0.0,79.0,16.0,8.0,16.8,11.3,0.08,6.0,Arsenal,False,Aston Villa,-0.83,0.11
-Bukayo Saka,Arsenal,Aston Villa,2024-08-24,False,FWR,87,0,0.07,1,0.08,6,1,2,8.2,0,1,0,True,12.0,1.52,83.0,16.0,8.0,16.8,11.3,0.08,6.0,Arsenal,True,Brighton,0.58,-0.42
-Bukayo Saka,Arsenal,Brighton,2024-08-31,True,FWR,90,0,1.19,1,0.45,6,4,1,14.4,1,0,1,True,9.0,1.3,85.33,16.0,8.0,16.8,11.3,0.08,7.0,Arsenal,False,Tottenham,0.46,-0.3
-Bukayo Saka,Arsenal,Tottenham,2024-09-15,False,FWR,85,0,0.09,1,0.55,7,1,2,7.5,1,1,0,True,8.0,1.59,85.25,16.0,8.0,16.8,11.3,0.08,4.0,Arsenal,False,Manchester City,2.4,-1.51
-Bukayo Saka,Arsenal,Manchester City,2024-09-22,False,MR,45,0,0.0,1,1.08,4,0,2,4.7,0,0,1,True,7.75,1.47,77.2,16.0,8.0,16.8,11.3,0.08,3.0,Arsenal,True,Leicester City,-3.26,0.47
-Bukayo Saka,Arsenal,Leicester City,2024-09-28,True,MR,90,0,0.38,0,1.57,3,7,8,21.5,1,0,2,True,7.0,1.37,79.33,16.0,8.0,16.8,11.3,0.08,16.0,Arsenal,True,Southampton,-0.96,0.24
-Bukayo Saka,Arsenal,Southampton,2024-10-05,True,MR,90,1,0.47,2,1.77,16,7,7,24.7,3,0,1,True,5.2,1.15,80.86,16.0,8.0,16.8,11.3,0.08,,,,,,
+Bukayo Saka,Arsenal,Wolverhampton,2024-08-17,True,FWR,79.0,1.0,0.52,1.0,0.58,12.0,5.0,5.0,20.4,2.0,1.0,0.0,True,0.0,0.0,79.0,16.0,8.0,16.8,11.3,0.08,6.0,Arsenal,False,Aston Villa,,0.11
+Bukayo Saka,Arsenal,Aston Villa,2024-08-24,False,FWR,87.0,0.0,0.07,1.0,0.08,6.0,1.0,2.0,8.2,0.0,1.0,0.0,True,12.0,1.52,83.0,16.0,8.0,16.8,11.3,0.08,6.0,Arsenal,True,Brighton,,-0.42
+Bukayo Saka,Arsenal,Brighton,2024-08-31,True,FWR,90.0,0.0,1.19,1.0,0.45,6.0,4.0,1.0,14.4,1.0,0.0,1.0,True,9.0,1.29,85.33,16.0,8.0,16.8,11.3,0.08,7.0,Arsenal,False,Tottenham,,-0.3
+Bukayo Saka,Arsenal,Tottenham,2024-09-15,False,FWR,85.0,0.0,0.09,1.0,0.55,7.0,1.0,2.0,7.5,1.0,1.0,0.0,True,8.0,1.59,85.25,16.0,8.0,16.8,11.3,0.08,4.0,Arsenal,False,Manchester City,,-1.51
+Bukayo Saka,Arsenal,Manchester City,2024-09-22,False,MR,45.0,0.0,0.0,1.0,1.08,4.0,0.0,2.0,4.7,0.0,0.0,1.0,True,7.75,1.47,77.2,16.0,8.0,16.8,11.3,0.08,3.0,Arsenal,True,Leicester City,,0.47
+Bukayo Saka,Arsenal,Leicester City,2024-09-28,True,MR,90.0,0.0,0.38,0.0,1.57,3.0,7.0,8.0,21.5,1.0,0.0,2.0,True,7.0,1.37,79.33,16.0,8.0,16.8,11.3,0.08,16.0,Arsenal,True,Southampton,,0.24
+Bukayo Saka,Arsenal,Southampton,2024-10-05,True,MR,90.0,1.0,0.47,2.0,1.77,16.0,7.0,7.0,24.7,3.0,0.0,1.0,True,5.2,1.14,80.86,16.0,8.0,16.8,11.3,0.08,0.0,Arsenal,False,Bournemouth,,-0.04
+Bukayo Saka,Arsenal,Bournemouth,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,7.2,1.43,70.75,16.0,8.0,16.8,11.3,0.08,9.0,Arsenal,True,Liverpool,,0.24
+Bukayo Saka,Arsenal,Liverpool,2024-10-27,True,MR,84.0,1.0,0.29,0.0,0.0,9.0,2.0,0.0,5.9,2.0,0.0,2.0,True,6.0,0.99,72.22,16.0,8.0,16.8,11.3,0.08,,Arsenal,False,Newcastle United,,-0.44
+,Arsenal,,,,,,,,,,,,,,,,,,,,,,,,,,,Arsenal,False,Chelsea,,-0.9
+,Arsenal,,,,,,,,,,,,,,,,,,,,,,,,,,,Arsenal,True,Nottingham Forest,,1.2
