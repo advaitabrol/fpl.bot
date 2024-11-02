@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Michail Antonio,West Ham,Manchester City,2022-08-07,True,FW,56,0.0,0.11,0.0,0.0,1,2.0,0.0,2.0,0,False,0.0,0.0,56.0,10.0,8.0,12.77,5.77,0.05,8,West Ham,True,Fulham,,-0.3
-Michail Antonio,West Ham,Fulham,2022-10-09,True,Sub,10,1.0,0.5,0.0,0.0,8,2.0,0.0,6.8,3,False,1.0,0.11,33.0,10.0,8.0,12.77,5.77,0.05,1,West Ham,False,Southampton,0.96,-1.07
-Michail Antonio,West Ham,Southampton,2022-10-16,False,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,4.5,0.3,23.0,10.0,8.0,12.77,5.77,0.05,1,West Ham,False,Liverpool,0.66,-1.33
-Michail Antonio,West Ham,Liverpool,2022-10-19,False,Sub,16,0.0,0.0,0.0,0.06,1,0.0,1.0,1.4,0,False,3.33,0.2,21.25,10.0,8.0,12.77,5.77,0.05,1,West Ham,True,Bournemouth,,1.46
-Michail Antonio,West Ham,Bournemouth,2022-10-24,True,Sub,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,2.75,0.15,20.2,10.0,8.0,12.77,5.77,0.05,1,West Ham,False,Manchester United,2.8,-0.1
-Michail Antonio,West Ham,Manchester United,2022-10-30,False,Sub,33,0.0,0.02,0.0,0.03,1,1.0,1.0,2.4,0,False,2.4,0.12,22.33,10.0,8.0,12.77,5.77,0.05,1,West Ham,True,Crystal Palace,2.25,0.81
-Michail Antonio,West Ham,Crystal Palace,2022-11-06,True,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,False,2.4,0.1,25.57,10.0,8.0,12.77,5.77,0.05,0,West Ham,True,Leeds United,-5.24,-0.79
-Michail Antonio,West Ham,Leeds United,,True,,0,,,,,0,,,0.0,0,False,1.0,0.0,22.38,10.0,8.0,12.77,5.77,0.05,2,West Ham,False,Arsenal,4.81,-0.0
-Michail Antonio,West Ham,Arsenal,2022-12-26,False,FW,86,0.0,0.13,0.0,0.0,2,2.0,0.0,2.6,0,True,0.8,0.0,29.44,10.0,8.0,12.77,5.77,0.05,1,West Ham,True,Brentford,3.83,0.69
-Michail Antonio,West Ham,Brentford,2022-12-30,True,Sub,26,0.0,0.14,0.0,0.0,1,2.0,0.0,2.3,0,False,1.0,0.03,29.1,10.0,8.0,12.77,5.77,0.05,1,West Ham,False,Leicester City,-1.82,-0.05
-Michail Antonio,West Ham,Leicester City,2023-01-04,False,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,False,1.0,0.06,28.45,10.0,8.0,12.77,5.77,0.05,2,West Ham,False,Nottingham Forest,,
-Michail Antonio,West Ham,Nottingham Forest,2022-08-14,False,FW,68,0.0,0.23,0.0,0.04,2,2.0,2.0,4.3,0,False,1.0,0.05,31.75,10.0,8.0,12.77,5.77,0.05,2,West Ham,False,Wolverhampton,4.02,-0.46
-Michail Antonio,West Ham,Wolverhampton,2023-01-14,False,FW,90,0.0,0.08,0.0,0.05,2,2.0,1.0,3.5,0,True,1.2,0.1,36.23,10.0,8.0,12.77,5.77,0.05,5,West Ham,True,Everton,-1.75,0.34
-Michail Antonio,West Ham,Everton,2023-01-21,True,FW,71,0.0,0.06,1.0,0.65,5,1.0,2.0,6.3,0,True,1.6,0.12,38.71,10.0,8.0,12.77,5.77,0.05,2,West Ham,False,Newcastle United,-0.75,-0.34
-Michail Antonio,West Ham,Newcastle United,2023-02-04,False,FW,80,0.0,0.05,0.0,0.0,2,1.0,0.0,1.3,0,True,2.2,0.3,41.47,10.0,8.0,12.77,5.77,0.05,2,West Ham,True,Chelsea,-1.67,-0.25
-Michail Antonio,West Ham,Chelsea,2023-02-11,True,FW,66,0.0,0.29,0.0,0.06,2,2.0,1.0,7.2,0,True,2.4,0.28,43.0,10.0,8.0,12.77,5.77,0.05,1,West Ham,False,Tottenham,5.86,-0.03
-Michail Antonio,West Ham,Tottenham,2023-02-19,False,FW,71,0.0,0.0,0.0,0.06,1,0.0,1.0,1.8,0,True,2.6,0.34,44.65,10.0,8.0,12.77,5.77,0.05,5,West Ham,True,Nottingham Forest,,
-Michail Antonio,West Ham,Nottingham Forest,2023-02-25,True,Sub,6,1.0,0.61,0.0,0.0,5,1.0,0.0,6.6,0,False,2.4,0.3,42.5,10.0,8.0,12.77,5.77,0.05,0,West Ham,False,Brighton,4.06,-0.39
-Michail Antonio,West Ham,Brighton,,False,,0,,,,,0,,,0.0,0,False,3.0,0.4,40.26,10.0,8.0,12.77,5.77,0.05,0,West Ham,True,Aston Villa,-0.6,0.55
-Michail Antonio,West Ham,Aston Villa,,True,,0,,,,,0,,,0.0,0,False,2.0,0.19,38.25,10.0,8.0,12.77,5.77,0.05,1,West Ham,True,Southampton,3.84,-0.38
-Michail Antonio,West Ham,Southampton,2023-04-02,True,Sub,25,0.0,0.14,0.0,0.0,1,1.0,0.0,1.7,0,False,1.6,0.18,37.62,10.0,8.0,12.77,5.77,0.05,2,West Ham,True,Newcastle United,,0.73
-Michail Antonio,West Ham,Newcastle United,2023-04-05,True,FW,62,0.0,0.12,0.0,0.0,2,1.0,0.0,1.3,0,True,1.4,0.15,38.73,10.0,8.0,12.77,5.77,0.05,2,West Ham,True,Brighton,1.39,-0.71
-Michail Antonio,West Ham,Brighton,2022-08-21,True,FW,74,0.0,0.0,0.0,0.04,2,0.0,1.0,1.9,0,False,1.6,0.17,40.26,10.0,8.0,12.77,5.77,0.05,2,West Ham,False,Fulham,,1.37
-Michail Antonio,West Ham,Fulham,2023-04-08,False,FW,89,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,True,1.0,0.05,42.29,10.0,8.0,12.77,5.77,0.05,2,West Ham,True,Arsenal,,0.36
-Michail Antonio,West Ham,Arsenal,2023-04-16,True,FW,87,0.0,0.32,0.0,0.0,2,2.0,0.0,3.7,0,True,1.4,0.05,44.08,10.0,8.0,12.77,5.77,0.05,6,West Ham,False,Bournemouth,,0.19
-Michail Antonio,West Ham,Bournemouth,2023-04-23,False,FW,64,1.0,0.6,0.0,0.1,6,2.0,1.0,8.5,0,True,1.8,0.12,44.85,10.0,8.0,12.77,5.77,0.05,5,West Ham,True,Liverpool,-1.96,-0.53
-Michail Antonio,West Ham,Liverpool,2023-04-26,True,FW,69,0.0,0.57,1.0,0.02,5,1.0,1.0,3.7,0,True,2.8,0.21,45.74,10.0,8.0,12.77,5.77,0.05,7,West Ham,False,Crystal Palace,,0.13
-Michail Antonio,West Ham,Crystal Palace,2023-04-29,False,FW,88,1.0,0.59,0.0,0.0,7,2.0,0.0,8.4,1,True,3.4,0.5,47.25,10.0,8.0,12.77,5.77,0.05,2,West Ham,False,Manchester City,3.95,-1.26
-Michail Antonio,West Ham,Manchester City,2023-05-03,False,FW,67,0.0,0.0,0.0,0.0,2,0.0,0.0,0.8,0,True,4.4,0.62,47.93,10.0,8.0,12.77,5.77,0.05,2,West Ham,True,Manchester United,2.79,0.38
-Michail Antonio,West Ham,Manchester United,2023-05-07,True,FW,90,0.0,1.2,0.0,0.03,2,3.0,1.0,3.6,0,True,4.4,0.62,49.33,10.0,8.0,12.77,5.77,0.05,0,West Ham,False,Brentford,,-0.55
-Michail Antonio,West Ham,Brentford,,False,,0,,,,,0,,,0.0,0,False,4.4,0.79,47.74,10.0,8.0,12.77,5.77,0.05,0,West Ham,True,Leicester City,,0.83
-Michail Antonio,West Ham,Leicester City,,True,,0,,,,,0,,,0.0,0,False,3.2,0.67,46.25,10.0,8.0,12.77,5.77,0.05,2,West Ham,False,Leeds United,,-0.8
-Michail Antonio,West Ham,Leeds United,2023-05-28,False,FW,61,0.0,0.1,0.0,0.0,2,2.0,0.0,0.0,0,True,2.2,0.36,46.7,10.0,8.0,12.77,5.77,0.05,1,West Ham,False,Aston Villa,-2.62,0.59
-Michail Antonio,West Ham,Aston Villa,2022-08-28,False,Sub,25,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,False,1.2,0.26,46.06,10.0,8.0,12.77,5.77,0.05,5,West Ham,True,Tottenham,-2.08,1.07
-Michail Antonio,West Ham,Tottenham,2022-08-31,True,FW,90,0.0,0.05,1.0,0.43,5,1.0,1.0,3.7,0,False,1.0,0.26,47.31,10.0,8.0,12.77,5.77,0.05,5,West Ham,False,Chelsea,-1.22,-0.72
-Michail Antonio,West Ham,Chelsea,2022-09-03,False,FW,73,1.0,0.94,0.0,0.0,5,1.0,0.0,7.4,0,False,1.6,0.23,48.03,10.0,8.0,12.77,5.77,0.05,2,West Ham,False,Everton,-0.01,-0.63
-Michail Antonio,West Ham,Everton,2022-09-18,False,FW,69,0.0,0.1,0.0,0.07,2,2.0,1.0,5.6,0,False,2.6,0.42,48.59,10.0,8.0,12.77,5.77,0.05,1,West Ham,True,Wolverhampton,-3.77,-0.48
-Michail Antonio,West Ham,Wolverhampton,2022-10-01,True,Sub,24,0.0,0.27,0.0,0.0,1,3.0,0.0,5.9,0,False,3.0,0.44,47.95,10.0,8.0,12.77,5.77,0.05,1,West Ham,False,Bournemouth,,0.19
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Michail Antonio,West Ham,Manchester City,2022-08-07,True,56,0.0,0.11,0.0,0.0,1,2.0,0.0,2.0,0,0,1.0,0.11,56.0,10.0,8.0,12.79,5.77,0.05,2.0
+Michail Antonio,West Ham,Nottingham Forest,2022-08-14,False,68,0.0,0.23,0.0,0.04,2,2.0,2.0,4.3,0,0,1.5,0.17,62.0,10.0,8.0,12.79,5.77,0.05,2.0
+Michail Antonio,West Ham,Brighton,2022-08-21,True,74,0.0,0.0,0.0,0.04,2,0.0,1.0,1.9,0,0,1.67,0.11,66.0,10.0,8.0,12.79,5.77,0.05,1.0
+Michail Antonio,West Ham,Aston Villa,2022-08-28,False,25,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1.5,0.08,55.75,10.0,8.0,12.79,5.77,0.05,5.0
+Michail Antonio,West Ham,Tottenham,2022-08-31,True,90,0.0,0.05,1.0,0.43,5,1.0,1.0,3.7,0,0,2.2,0.28,62.6,10.0,8.0,12.79,5.77,0.05,5.0
+Michail Antonio,West Ham,Chelsea,2022-09-03,False,73,1.0,0.94,0.0,0.0,5,1.0,0.0,7.4,0,0,3.0,0.44,64.33,10.0,8.0,12.79,5.77,0.05,2.0
+Michail Antonio,West Ham,Everton,2022-09-18,False,69,0.0,0.1,0.0,0.07,2,2.0,1.0,5.6,0,0,3.0,0.42,65.0,10.0,8.0,12.79,5.77,0.05,1.0
+Michail Antonio,West Ham,Wolverhampton,2022-10-01,True,24,0.0,0.27,0.0,0.0,1,3.0,0.0,5.9,0,0,2.8,0.47,59.88,10.0,8.0,12.79,5.77,0.05,8.0
+Michail Antonio,West Ham,Fulham,2022-10-09,True,10,1.0,0.5,0.0,0.0,8,2.0,0.0,6.8,3,0,4.2,0.57,54.33,10.0,8.0,12.79,5.77,0.05,1.0
+Michail Antonio,West Ham,Southampton,2022-10-16,False,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,3.4,0.36,49.2,10.0,8.0,12.79,5.77,0.05,1.0
+Michail Antonio,West Ham,Liverpool,2022-10-19,False,16,0.0,0.0,0.0,0.06,1,0.0,1.0,1.4,0,0,2.6,0.17,46.18,10.0,8.0,12.79,5.77,0.05,1.0
+Michail Antonio,West Ham,Bournemouth,2022-10-24,True,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,2.4,0.15,43.67,10.0,8.0,12.79,5.77,0.05,1.0
+Michail Antonio,West Ham,Manchester United,2022-10-30,False,33,0.0,0.02,0.0,0.03,1,1.0,1.0,2.4,0,0,2.4,0.1,42.85,10.0,8.0,12.79,5.77,0.05,1.0
+Michail Antonio,West Ham,Crystal Palace,2022-11-06,True,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1.0,0.0,43.0,10.0,8.0,12.79,5.77,0.05,0.0
+Michail Antonio,West Ham,Leeds United,,True,0,,,,,0,,,0.0,0,0,0.8,0.0,40.13,10.0,8.0,12.79,5.77,0.05,2.0
+Michail Antonio,West Ham,Arsenal,2022-12-26,False,86,0.0,0.13,0.0,0.0,2,2.0,0.0,2.6,0,1,1.0,0.03,43.0,10.0,8.0,12.79,5.77,0.05,1.0
+Michail Antonio,West Ham,Brentford,2022-12-30,True,26,0.0,0.14,0.0,0.0,1,2.0,0.0,2.3,0,0,1.0,0.06,42.0,10.0,8.0,12.79,5.77,0.05,1.0
+Michail Antonio,West Ham,Leicester City,2023-01-04,False,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1.0,0.05,40.89,10.0,8.0,12.79,5.77,0.05,2.0
+Michail Antonio,West Ham,Wolverhampton,2023-01-14,False,90,0.0,0.08,0.0,0.05,2,2.0,1.0,3.5,0,1,1.2,0.07,43.47,10.0,8.0,12.79,5.77,0.05,5.0
+Michail Antonio,West Ham,Everton,2023-01-21,True,71,0.0,0.06,1.0,0.65,5,1.0,2.0,6.3,0,1,2.2,0.28,44.85,10.0,8.0,12.79,5.77,0.05,2.0
+Michail Antonio,West Ham,Newcastle United,2023-02-04,False,80,0.0,0.05,0.0,0.0,2,1.0,0.0,1.3,0,1,2.2,0.26,46.52,10.0,8.0,12.79,5.77,0.05,2.0
+Michail Antonio,West Ham,Chelsea,2023-02-11,True,66,0.0,0.29,0.0,0.06,2,2.0,1.0,7.2,0,1,2.4,0.3,47.41,10.0,8.0,12.79,5.77,0.05,1.0
+Michail Antonio,West Ham,Tottenham,2023-02-19,False,71,0.0,0.0,0.0,0.06,1,0.0,1.0,1.8,0,1,2.4,0.3,48.43,10.0,8.0,12.79,5.77,0.05,5.0
+Michail Antonio,West Ham,Nottingham Forest,2023-02-25,True,6,1.0,0.61,0.0,0.0,5,1.0,0.0,6.6,0,0,3.0,0.4,46.67,10.0,8.0,12.79,5.77,0.05,0.0
+Michail Antonio,West Ham,Brighton,,False,0,,,,,0,,,0.0,0,0,2.0,0.19,44.8,10.0,8.0,12.79,5.77,0.05,0.0
+Michail Antonio,West Ham,Aston Villa,,True,0,,,,,0,,,0.0,0,0,1.6,0.18,43.08,10.0,8.0,12.79,5.77,0.05,1.0
+Michail Antonio,West Ham,Southampton,2023-04-02,True,25,0.0,0.14,0.0,0.0,1,1.0,0.0,1.7,0,0,1.4,0.15,42.41,10.0,8.0,12.79,5.77,0.05,2.0
+Michail Antonio,West Ham,Newcastle United,2023-04-05,True,62,0.0,0.12,0.0,0.0,2,1.0,0.0,1.3,0,1,1.6,0.17,43.11,10.0,8.0,12.79,5.77,0.05,2.0
+Michail Antonio,West Ham,Fulham,2023-04-08,False,89,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,1,1.0,0.05,44.69,10.0,8.0,12.79,5.77,0.05,2.0
+Michail Antonio,West Ham,Arsenal,2023-04-16,True,87,0.0,0.32,0.0,0.0,2,2.0,0.0,3.7,0,1,1.4,0.12,46.1,10.0,8.0,12.79,5.77,0.05,6.0
+Michail Antonio,West Ham,Bournemouth,2023-04-23,False,64,1.0,0.6,0.0,0.1,6,2.0,1.0,8.5,0,1,2.6,0.24,46.68,10.0,8.0,12.79,5.77,0.05,5.0
+Michail Antonio,West Ham,Liverpool,2023-04-26,True,69,0.0,0.57,1.0,0.02,5,1.0,1.0,3.7,0,1,3.4,0.52,47.38,10.0,8.0,12.79,5.77,0.05,7.0
+Michail Antonio,West Ham,Crystal Palace,2023-04-29,False,88,1.0,0.59,0.0,0.0,7,2.0,0.0,8.4,1,1,4.4,0.62,48.61,10.0,8.0,12.79,5.77,0.05,2.0
+Michail Antonio,West Ham,Manchester City,2023-05-03,False,67,0.0,0.0,0.0,0.0,2,0.0,0.0,0.8,0,1,4.4,0.62,49.15,10.0,8.0,12.79,5.77,0.05,2.0
+Michail Antonio,West Ham,Manchester United,2023-05-07,True,90,0.0,1.2,0.0,0.03,2,3.0,1.0,3.6,0,1,4.4,0.79,50.31,10.0,8.0,12.79,5.77,0.05,0.0
+Michail Antonio,West Ham,Brentford,,False,0,,,,,0,,,0.0,0,0,3.2,0.67,48.92,10.0,8.0,12.79,5.77,0.05,0.0
+Michail Antonio,West Ham,Leicester City,,True,0,,,,,0,,,0.0,0,0,2.2,0.36,47.59,10.0,8.0,12.79,5.77,0.05,2.0
+Michail Antonio,West Ham,Leeds United,2023-05-28,False,61,0.0,0.1,0.0,0.0,2,2.0,0.0,0.0,0,1,1.2,0.26,47.95,10.0,8.0,12.79,5.77,0.05,1.0

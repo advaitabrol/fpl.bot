@@ -1,15 +1,15 @@
-name,position_x,team,bonus,clean_sheets,expected_goals_conceded,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,own_goals,starts,total_points,was_home,goals,shots,xG,time,position_y,date,xA,assists,key_passes,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-James Sweet,DEF,Arsenal,0,0,0.0,0,0.0,2024-02-17,0,Burnley,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Arsenal,True,Newcastle United,-1.37,0.55
-James Sweet,DEF,Arsenal,0,0,0.0,0,0.0,2024-02-24,0,Newcastle United,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Arsenal,False,Sheffield,,-0.61
-James Sweet,DEF,Arsenal,0,0,0.0,0,0.0,2024-03-04,0,Sheffield,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Arsenal,True,Brentford,-0.34,0.79
-James Sweet,DEF,Arsenal,0,0,0.0,0,0.0,2024-03-09,0,Brentford,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Arsenal,False,Manchester City,3.79,-1.32
-James Sweet,DEF,Arsenal,0,0,0.0,0,0.0,2024-03-31,0,Manchester City,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Arsenal,True,Luton,,
-James Sweet,DEF,Arsenal,0,0,0.0,0,0.0,2024-04-03,0,Luton,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Arsenal,False,Brighton,-3.3,-0.6
-James Sweet,DEF,Arsenal,0,0,0.0,0,0.0,2024-04-06,0,Brighton,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Arsenal,True,Aston Villa,-2.64,0.64
-James Sweet,DEF,Arsenal,0,0,0.0,0,0.0,2024-04-14,0,Aston Villa,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Arsenal,False,Wolverhampton,-2.71,-0.52
-James Sweet,DEF,Arsenal,0,0,0.0,0,0.0,2024-04-20,0,Wolverhampton,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Arsenal,True,Chelsea,-0.63,-0.25
-James Sweet,DEF,Arsenal,0,0,0.0,0,0.0,2024-04-23,0,Chelsea,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Arsenal,False,Tottenham,0.15,-0.36
-James Sweet,DEF,Arsenal,0,0,0.0,0,0.0,2024-04-28,0,Tottenham,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Arsenal,True,Bournemouth,0.81,1.22
-James Sweet,DEF,Arsenal,0,0,0.0,0,0.0,2024-05-04,0,Bournemouth,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Arsenal,False,Manchester United,2.33,-0.63
-James Sweet,DEF,Arsenal,0,0,0.0,0,0.0,2024-05-12,0,Manchester United,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Arsenal,True,Everton,-4.22,0.53
-James Sweet,DEF,Arsenal,0,0,0.0,0,0.0,2024-05-19,0,Everton,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,,Chelsea,True,Manchester City,0.82,-0.96
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points
+James Sweet,Arsenal,Burnley,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0
+James Sweet,Arsenal,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0
+James Sweet,Arsenal,Sheffield,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0
+James Sweet,Arsenal,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0
+James Sweet,Arsenal,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0
+James Sweet,Arsenal,Luton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0
+James Sweet,Arsenal,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0
+James Sweet,Arsenal,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0
+James Sweet,Arsenal,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0
+James Sweet,Arsenal,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0
+James Sweet,Arsenal,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0
+James Sweet,Arsenal,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0
+James Sweet,Arsenal,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0
+James Sweet,Arsenal,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,

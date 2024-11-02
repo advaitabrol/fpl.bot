@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,form,xG&A_form,minutes_per_game
-Shane Long,Southampton,Everton,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
-Shane Long,Southampton,Watford,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
-Shane Long,Southampton,Aston Villa,,True,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
-Shane Long,Southampton,Norwich,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
-Shane Long,Southampton,Liverpool,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
-Shane Long,Southampton,Leeds United,,True,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
-Shane Long,Southampton,Brighton,,True,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
-Shane Long,Southampton,Arsenal,,False,,0,,,,,0,,,0.0,0,0.0,0.0,0.0
-Shane Long,Southampton,Crystal Palace,2021-12-15,False,Sub,20,0.0,0.08,0.0,0.0,1,1.0,0.0,2.4,0,0.0,0.0,2.22
-Shane Long,Southampton,West Ham,,False,,0,,,,,0,,,0.0,0,0.2,0.02,2.0
-Shane Long,Southampton,Manchester United,,True,,0,,,,,0,,,0.0,0,0.2,0.02,1.82
-Shane Long,Southampton,Tottenham,2021-12-28,True,FW,70,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,0.2,0.02,7.5
-Shane Long,Southampton,Brentford,,True,,0,,,,,0,,,0.0,0,0.6,0.02,6.92
-Shane Long,Southampton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0.6,0.02,6.43
-Shane Long,Southampton,Manchester City,,True,,0,,,,,0,,,0.0,0,0.4,0.0,6.0
-Shane Long,Southampton,Tottenham,2022-02-09,False,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0.4,0.0,5.75
-Shane Long,Southampton,Manchester United,,False,,0,,,,,0,,,0.0,0,0.6,0.0,5.41
-Shane Long,Southampton,Everton,2022-02-19,True,Sub,7,1.0,0.45,0.0,0.0,5,1.0,0.0,6.6,0,0.2,0.0,5.5
-Shane Long,Southampton,Norwich,2022-02-25,True,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,1.2,0.09,5.58
-Shane Long,Southampton,Aston Villa,,False,,0,,,,,0,,,0.0,0,1.4,0.09,5.3
-Shane Long,Southampton,Newcastle United,2022-03-10,True,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,1.4,0.09,5.57
-Shane Long,Southampton,Watford,2022-03-13,True,Sub,1,0.0,0.0,0.0,0.04,1,0.0,1.0,1.2,0,1.4,0.09,5.36
-Shane Long,Southampton,Newcastle United,,False,,0,,,,,0,,,0.0,0,1.6,0.09,5.13
-Shane Long,Southampton,Leicester City,2022-04-02,False,Sub,1,0.0,0.07,0.0,0.0,1,1.0,0.0,1.8,0,0.6,0.0,4.96
-Shane Long,Southampton,Chelsea,,True,,0,,,,,0,,,0.0,0,0.6,0.01,4.76
-Shane Long,Southampton,Arsenal,2022-04-16,True,Sub,16,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.6,0.01,5.19
-Shane Long,Southampton,Burnley,,False,,0,,,,,0,,,0.0,0,0.4,0.01,5.0
-Shane Long,Southampton,Brighton,2022-04-24,False,FW,78,0.0,0.31,0.0,0.0,2,4.0,0.0,6.1,0,0.2,0.01,7.61
-Shane Long,Southampton,Crystal Palace,2022-04-30,True,FW,64,0.0,0.13,0.0,0.09,2,1.0,1.0,3.8,0,0.6,0.08,9.55
-Shane Long,Southampton,Brentford,,False,,0,,,,,0,,,0.0,0,0.8,0.09,9.23
-Shane Long,Southampton,Liverpool,,True,,0,,,,,0,,,0.0,0,0.8,0.09,8.94
-Shane Long,Southampton,Leeds United,2022-05-22,False,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0.8,0.09,8.88
-Shane Long,Southampton,West Ham,,True,,0,,,,,0,,,0.0,0,1.0,0.09,8.61
-Shane Long,Southampton,Manchester City,,False,,0,,,,,0,,,0.0,0,0.6,0.03,8.35
-Shane Long,Southampton,Wolverhampton,2021-09-26,True,Sub,16,0.0,0.13,0.0,0.0,1,1.0,0.0,2.4,0,0.2,0.0,8.57
-Shane Long,Southampton,Chelsea,,False,,0,,,,,0,,,0.0,0,0.4,0.03,8.33
-Shane Long,Southampton,Leicester City,,True,,0,,,,,0,,,0.0,0,0.4,0.03,8.11
-Shane Long,Southampton,Burnley,,True,,0,,,,,0,,,0.0,0,0.2,0.03,7.89
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus
+Shane Long,Southampton,Everton,,False,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Manchester United,,True,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Newcastle United,,False,0,,,,,0,,,0.0,0
+Shane Long,Southampton,West Ham,,True,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Manchester City,,False,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Wolverhampton,2021-09-26,True,16,0.0,0.1268120408058166,0.0,0.0,1,1.0,0.0,2.4,0
+Shane Long,Southampton,Chelsea,,False,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Leicester City,,True,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Burnley,,True,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Watford,,False,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Aston Villa,,True,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Norwich,,False,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Liverpool,,False,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Leeds United,,True,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Brighton,,True,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Arsenal,,False,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Crystal Palace,2021-12-15,False,20,0.0,0.0815212577581405,0.0,0.0,1,1.0,0.0,2.4,0
+Shane Long,Southampton,West Ham,,False,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Tottenham,2021-12-28,True,70,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0
+Shane Long,Southampton,Brentford,,True,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Wolverhampton,,False,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Manchester City,,True,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Tottenham,2022-02-09,False,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0
+Shane Long,Southampton,Manchester United,,False,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Everton,2022-02-19,True,7,1.0,0.4452222287654876,0.0,0.0,5,1.0,0.0,6.6,0
+Shane Long,Southampton,Norwich,2022-02-25,True,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0
+Shane Long,Southampton,Aston Villa,,False,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Newcastle United,2022-03-10,True,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0
+Shane Long,Southampton,Watford,2022-03-13,True,1,0.0,0.0,0.0,0.0402539931237697,1,0.0,1.0,1.2,0
+Shane Long,Southampton,Leicester City,2022-04-02,False,1,0.0,0.0698229745030403,0.0,0.0,1,1.0,0.0,1.8,0
+Shane Long,Southampton,Chelsea,,True,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Arsenal,2022-04-16,True,16,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0
+Shane Long,Southampton,Burnley,,False,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Brighton,2022-04-24,False,78,0.0,0.3133454918861389,0.0,0.0,2,4.0,0.0,6.1,0
+Shane Long,Southampton,Crystal Palace,2022-04-30,True,64,0.0,0.1336368024349212,0.0,0.0888414159417152,2,1.0,1.0,3.8,0
+Shane Long,Southampton,Brentford,,False,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Liverpool,,True,0,,,,,0,,,0.0,0
+Shane Long,Southampton,Leeds United,2022-05-22,False,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0

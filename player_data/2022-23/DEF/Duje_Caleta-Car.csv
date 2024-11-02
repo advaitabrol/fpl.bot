@@ -1,34 +1,34 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Duje Caleta-Car,Southampton,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,1.0,Southampton,True,West Ham,-1.04,0.63
-Duje Caleta-Car,Southampton,West Ham,2022-10-16,True,Sub,48,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,1,0.0,False,0.0,0.0,24.0,0.0,0,0,0,0,8.0,Southampton,False,Bournemouth,,0.19
-Duje Caleta-Car,Southampton,Bournemouth,2022-10-19,False,DC,90,0.0,0.0,0.0,0.0,8,0.0,0.0,1.9,2,1,0,0.0,False,0.5,0.0,46.0,1.0,0,0,0,0,2.0,Southampton,True,Arsenal,-3.58,0.36
-Duje Caleta-Car,Southampton,Arsenal,2022-10-23,True,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.6,0,0,1,0.0,False,3.0,0.0,57.0,0.5,0,0,0,0,2.0,Southampton,False,Crystal Palace,-0.36,0.13
-Duje Caleta-Car,Southampton,Crystal Palace,2022-10-29,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.4,0,0,1,0.0,False,2.75,0.0,63.6,0.33,0,0,0,0,1.0,Southampton,True,Newcastle United,0.8,0.73
-Duje Caleta-Car,Southampton,Newcastle United,2022-11-06,True,Sub,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,0.0,False,2.6,0.0,56.0,0.33,0,0,0,0,-1.0,Southampton,False,Liverpool,2.85,-1.33
-Duje Caleta-Car,Southampton,Liverpool,2022-11-12,False,DC,58,0.0,0.0,0.0,0.0,-1,0.0,0.0,0.2,0,0,3,1.67,True,2.8,0.0,56.29,0.33,0,0,0,0,0.0,Southampton,True,Brighton,-0.05,-0.71
-Duje Caleta-Car,Southampton,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.4,0.0,49.25,0.33,0,0,0,0,0.0,Southampton,False,Fulham,,1.37
-Duje Caleta-Car,Southampton,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.0,43.78,0.33,0,0,0,0,1.0,Southampton,True,Nottingham Forest,,
-Duje Caleta-Car,Southampton,Nottingham Forest,2023-01-04,True,Sub,56,0.0,0.04,0.0,0.0,1,1.0,0.0,1.5,0,0,0,0.17,False,0.4,0.0,45.0,0.33,0,0,0,0,2.0,Southampton,False,Everton,3.31,-0.63
-Duje Caleta-Car,Southampton,Everton,2023-01-14,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.1,0,0,1,1.41,True,0.2,0.01,49.09,0.25,0,0,0,0,2.0,Southampton,True,Aston Villa,-1.21,0.55
-Duje Caleta-Car,Southampton,Aston Villa,2023-01-21,True,DC,83,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,0,1,1.42,True,0.4,0.01,51.92,0.2,0,0,0,0,0.0,Southampton,False,Brentford,3.85,-0.55
-Duje Caleta-Car,Southampton,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.01,47.92,0.2,0,0,0,0,0.0,Southampton,True,Wolverhampton,3.38,-0.48
-Duje Caleta-Car,Southampton,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.01,44.5,0.2,0,0,0,0,0.0,Southampton,False,Chelsea,1.8,-0.72
-Duje Caleta-Car,Southampton,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.01,41.53,0.2,0,0,0,0,0.0,Southampton,False,Leicester City,-2.53,-0.05
-Duje Caleta-Car,Southampton,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.0,38.94,0.2,0,0,0,0,0.0,Southampton,True,Leeds United,-0.35,-0.79
-Duje Caleta-Car,Southampton,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,36.65,0.2,0,0,0,0,0.0,Southampton,False,Manchester United,1.62,-0.1
-Duje Caleta-Car,Southampton,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,34.61,0.2,0,0,0,0,0.0,Southampton,True,Brentford,-5.16,0.69
-Duje Caleta-Car,Southampton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,32.79,0.2,0,0,0,0,0.0,Southampton,True,Tottenham,0.15,1.07
-Duje Caleta-Car,Southampton,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,31.15,0.2,0,0,0,0,1.0,Southampton,False,West Ham,-2.95,0.14
-Duje Caleta-Car,Southampton,West Ham,2023-04-02,False,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.3,0,0,1,1.36,True,0.0,0.0,33.95,0.17,0,0,0,0,0.0,Southampton,True,Manchester City,,-1.17
-Duje Caleta-Car,Southampton,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,32.41,0.17,0,0,0,0,0.0,Southampton,True,Crystal Palace,,0.81
-Duje Caleta-Car,Southampton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,31.0,0.17,0,0,0,0,6.0,Southampton,False,Arsenal,2.91,-0.0
-Duje Caleta-Car,Southampton,Arsenal,2023-04-21,False,Sub,49,1.0,0.56,0.0,0.0,6,1.0,0.0,8.5,0,0,2,2.27,False,0.2,0.0,31.75,0.17,0,0,0,0,2.0,Southampton,True,Bournemouth,,1.46
-Duje Caleta-Car,Southampton,Bournemouth,2023-04-27,True,DC,90,0.0,0.02,0.0,0.0,2,1.0,0.0,0.0,0,0,1,1.0,True,1.4,0.11,34.08,0.14,0,0,0,0,0.0,Southampton,False,Newcastle United,-1.73,-0.34
-Duje Caleta-Car,Southampton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.8,0.12,32.77,0.14,0,0,0,0,0.0,Southampton,False,Nottingham Forest,,
-Duje Caleta-Car,Southampton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.12,31.56,0.14,0,0,0,0,0.0,Southampton,True,Fulham,,-0.3
-Duje Caleta-Car,Southampton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.12,30.43,0.14,0,0,0,0,0.0,Southampton,False,Brighton,,-0.39
-Duje Caleta-Car,Southampton,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.12,29.38,0.14,0,0,0,0,0.0,Southampton,True,Liverpool,,-0.53
-Duje Caleta-Car,Southampton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,28.4,0.14,0,0,0,0,0.0,Southampton,False,Wolverhampton,2.96,-0.46
-Duje Caleta-Car,Southampton,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,27.48,0.14,0,0,0,0,0.0,Southampton,False,Aston Villa,2.17,0.59
-Duje Caleta-Car,Southampton,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,26.62,0.14,0,0,0,0,1.0,Southampton,True,Everton,3.9,0.34
-Duje Caleta-Car,Southampton,Everton,2022-10-01,True,DC,90,0.0,0.46,0.0,0.04,1,2.0,1.0,5.7,0,0,2,0.0,False,0.0,0.0,28.55,0.12,0,0,0,0,,Nott'm Forest,False,Arsenal,4.71,-0.0
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points
+Duje Caleta-Car,Southampton,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0
+Duje Caleta-Car,Southampton,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,1.0
+Duje Caleta-Car,Southampton,Everton,2022-10-01,True,90,0.0,0.46,0.0,0.04,1,2.0,1.0,5.7,0,0,2,0.0,0,0.33,0.15,30.0,0.0,0.0
+Duje Caleta-Car,Southampton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.25,0.12,22.5,0.0,1.0
+Duje Caleta-Car,Southampton,West Ham,2022-10-16,True,48,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,1,0.0,0,0.4,0.09,27.6,0.0,8.0
+Duje Caleta-Car,Southampton,Bournemouth,2022-10-19,False,90,0.0,0.0,0.0,0.0,8,0.0,0.0,1.9,2,1,0,0.0,0,2.0,0.09,38.0,0.33,2.0
+Duje Caleta-Car,Southampton,Arsenal,2022-10-23,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.6,0,0,1,0.0,0,2.4,0.09,45.43,0.25,2.0
+Duje Caleta-Car,Southampton,Crystal Palace,2022-10-29,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.4,0,0,1,0.0,0,2.6,0.0,51.0,0.2,1.0
+Duje Caleta-Car,Southampton,Newcastle United,2022-11-06,True,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,0.0,0,2.8,0.0,47.33,0.17,-1.0
+Duje Caleta-Car,Southampton,Liverpool,2022-11-12,False,58,0.0,0.0,0.0,0.0,-1,0.0,0.0,0.2,0,0,3,1.67,1,2.4,0.0,48.4,0.14,0.0
+Duje Caleta-Car,Southampton,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.0,44.0,0.14,0.0
+Duje Caleta-Car,Southampton,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,40.33,0.14,1.0
+Duje Caleta-Car,Southampton,Nottingham Forest,2023-01-04,True,56,0.0,0.04,0.0,0.0,1,1.0,0.0,1.5,0,0,0,0.17,0,0.2,0.01,41.54,0.12,2.0
+Duje Caleta-Car,Southampton,Everton,2023-01-14,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.1,0,0,1,1.41,1,0.4,0.01,45.0,0.11,2.0
+Duje Caleta-Car,Southampton,Aston Villa,2023-01-21,True,83,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,0,1,1.42,1,1.0,0.01,47.53,0.1,0.0
+Duje Caleta-Car,Southampton,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.0,0.01,44.56,0.1,0.0
+Duje Caleta-Car,Southampton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.0,0.01,41.94,0.1,0.0
+Duje Caleta-Car,Southampton,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.0,39.61,0.1,0.0
+Duje Caleta-Car,Southampton,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,37.53,0.1,0.0
+Duje Caleta-Car,Southampton,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,35.65,0.1,0.0
+Duje Caleta-Car,Southampton,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,33.95,0.1,0.0
+Duje Caleta-Car,Southampton,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,32.41,0.1,0.0
+Duje Caleta-Car,Southampton,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,31.0,0.1,1.0
+Duje Caleta-Car,Southampton,West Ham,2023-04-02,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.3,0,0,1,1.36,1,0.2,0.0,33.46,0.09,0.0
+Duje Caleta-Car,Southampton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,32.12,0.09,0.0
+Duje Caleta-Car,Southampton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,30.88,0.09,6.0
+Duje Caleta-Car,Southampton,Arsenal,2023-04-21,False,49,1.0,0.56,0.0,0.0,6,1.0,0.0,8.5,0,0,2,2.27,0,1.4,0.11,31.56,0.08,2.0
+Duje Caleta-Car,Southampton,Bournemouth,2023-04-27,True,90,0.0,0.02,0.0,0.0,2,1.0,0.0,0.0,0,0,1,1.0,1,1.8,0.12,33.64,0.08,0.0
+Duje Caleta-Car,Southampton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.6,0.12,32.48,0.08,0.0
+Duje Caleta-Car,Southampton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.6,0.12,31.4,0.08,0.0
+Duje Caleta-Car,Southampton,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.6,0.12,30.39,0.08,0.0
+Duje Caleta-Car,Southampton,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,29.44,0.08,0.0
+Duje Caleta-Car,Southampton,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,28.55,0.08,

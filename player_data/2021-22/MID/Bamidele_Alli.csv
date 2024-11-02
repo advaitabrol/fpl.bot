@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
-Bamidele Alli,Spurs,Manchester City,,True,,90,,,,,3,,,1.5,0,1,0,0.0,0.0,90.0
-Bamidele Alli,Spurs,Manchester United,,True,,17,,,,,1,,,0.5,0,0,1,3.0,0.0,53.5
-Bamidele Alli,Spurs,Everton,,False,,0,,,,,0,,,0.0,0,0,0,2.0,0.0,35.67
-Bamidele Alli,Spurs,Leicester City,,True,,2,,,,,1,,,0.0,0,0,0,1.33,0.0,27.25
-Bamidele Alli,Spurs,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,1.25,0.0,21.8
-Bamidele Alli,Spurs,Norwich,2021-12-05,True,DC,0,0.0,0.09,0.0,0.0,0,1.0,0.0,0.0,0,0,0,1.0,0.0,18.17
-Bamidele Alli,Spurs,Liverpool,,True,,80,,,,,2,,,4.9,0,0,2,0.4,0.02,27.0
-Bamidele Alli,Spurs,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.6,0.02,23.62
-Bamidele Alli,Spurs,Wolverhampton,,False,,90,,,,,9,,,8.5,1,1,0,0.6,0.02,31.0
-Bamidele Alli,Spurs,Southampton,,False,,61,,,,,2,,,2.4,0,0,1,2.2,0.02,34.0
-Bamidele Alli,Spurs,Watford,,False,,0,,,,,0,,,0.0,0,0,0,2.6,0.02,30.91
-Bamidele Alli,Spurs,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,2.6,0.0,28.33
-Bamidele Alli,Spurs,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,2.2,0.0,26.15
-Bamidele Alli,Everton,Newcastle United,,False,,65,,,,,2,,,6.5,0,0,3,2.2,0.0,28.93
-Bamidele Alli,Everton,Leicester City,,True,,18,,,,,1,,,3.2,0,0,0,0.8,0.0,28.2
-Bamidele Alli,Everton,Southampton,,False,,15,,,,,1,,,1.4,0,0,1,0.6,0.0,27.38
-Bamidele Alli,Everton,Manchester City,,True,,19,,,,,0,,,2.1,0,0,1,0.8,0.0,26.88
-Bamidele Alli,Everton,Tottenham,,False,,21,,,,,1,,,1.0,0,0,0,0.8,0.0,26.56
-Bamidele Alli,Everton,Wolverhampton,,True,,31,,,,,1,,,0.0,0,0,0,1.0,0.0,26.79
-Bamidele Alli,Everton,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.8,0.0,25.45
-Bamidele Alli,Spurs,Watford,,True,,90,,,,,2,,,3.3,0,1,0,0.6,0.0,28.52
-Bamidele Alli,Everton,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.8,0.0,27.23
-Bamidele Alli,Everton,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.8,0.0,26.04
-Bamidele Alli,Everton,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.6,0.0,24.96
-Bamidele Alli,Everton,Leeds United,,True,,32,,,,,0,,,0.8,0,0,0,0.4,0.0,25.24
-Bamidele Alli,Everton,Liverpool,,False,,17,,,,,0,,,0.6,0,0,1,0.4,0.0,24.92
-Bamidele Alli,Everton,Chelsea,,True,,1,,,,,1,,,0.2,0,0,0,0.0,0.0,24.04
-Bamidele Alli,Everton,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,23.18
-Bamidele Alli,Everton,Watford,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,22.38
-Bamidele Alli,Everton,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,21.63
-Bamidele Alli,Everton,Crystal Palace,,True,,45,,,,,1,,,2.1,0,0,0,0.2,0.0,22.39
-Bamidele Alli,Everton,Arsenal,,False,,66,,,,,2,,,0.0,0,0,4,0.4,0.0,23.75
-Bamidele Alli,Spurs,Crystal Palace,2021-09-11,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0,0,3,0.6,0.0,25.76
-Bamidele Alli,Spurs,Chelsea,,True,,90,,,,,2,,,2.7,0,0,3,1.0,0.0,27.65
-Bamidele Alli,Spurs,Arsenal,,False,,45,,,,,1,,,0.5,0,0,3,1.4,0.0,28.14
-Bamidele Alli,Spurs,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,1.6,0.0,27.36
-Bamidele Alli,Spurs,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,1.4,0.0,26.62
-Bamidele Alli,Spurs,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,1.0,0.0,25.92
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus
+Bamidele Alli,Spurs,Manchester City,,True,90,,,,,3,,,1.5,0
+Bamidele Alli,Spurs,Wolverhampton,,False,90,,,,,9,,,8.5,1
+Bamidele Alli,Spurs,Watford,,True,90,,,,,2,,,3.3,0
+Bamidele Alli,Spurs,Crystal Palace,2021-09-11,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0
+Bamidele Alli,Spurs,Chelsea,,True,90,,,,,2,,,2.7,0
+Bamidele Alli,Spurs,Arsenal,,False,45,,,,,1,,,0.5,0
+Bamidele Alli,Spurs,Aston Villa,,True,0,,,,,0,,,0.0,0
+Bamidele Alli,Spurs,Newcastle United,,False,0,,,,,0,,,0.0,0
+Bamidele Alli,Spurs,West Ham,,False,0,,,,,0,,,0.0,0
+Bamidele Alli,Spurs,Manchester United,,True,17,,,,,1,,,0.5,0
+Bamidele Alli,Spurs,Everton,,False,0,,,,,0,,,0.0,0
+Bamidele Alli,Spurs,Leicester City,,True,2,,,,,1,,,0.0,0
+Bamidele Alli,Spurs,Brentford,,True,0,,,,,0,,,0.0,0
+Bamidele Alli,Spurs,Norwich,2021-12-05,True,0,0.0,0.0899224728345871,0.0,0.0,0,1.0,0.0,0.0,0
+Bamidele Alli,Spurs,Liverpool,,True,80,,,,,2,,,4.9,0
+Bamidele Alli,Spurs,Crystal Palace,,True,0,,,,,0,,,0.0,0
+Bamidele Alli,Spurs,Southampton,,False,61,,,,,2,,,2.4,0
+Bamidele Alli,Spurs,Watford,,False,0,,,,,0,,,0.0,0
+Bamidele Alli,Spurs,Leeds United,,False,0,,,,,0,,,0.0,0
+Bamidele Alli,Spurs,Chelsea,,False,0,,,,,0,,,0.0,0
+Bamidele Alli,Everton,Newcastle United,,False,65,,,,,2,,,6.5,0
+Bamidele Alli,Everton,Leicester City,,True,18,,,,,1,,,3.2,0
+Bamidele Alli,Everton,Southampton,,False,15,,,,,1,,,1.4,0
+Bamidele Alli,Everton,Manchester City,,True,19,,,,,0,,,2.1,0
+Bamidele Alli,Everton,Tottenham,,False,21,,,,,1,,,1.0,0
+Bamidele Alli,Everton,Wolverhampton,,True,31,,,,,1,,,0.0,0
+Bamidele Alli,Everton,Newcastle United,,True,0,,,,,0,,,0.0,0
+Bamidele Alli,Everton,West Ham,,False,0,,,,,0,,,0.0,0
+Bamidele Alli,Everton,Burnley,,False,0,,,,,0,,,0.0,0
+Bamidele Alli,Everton,Manchester United,,True,0,,,,,0,,,0.0,0
+Bamidele Alli,Everton,Leeds United,,True,32,,,,,0,,,0.8,0
+Bamidele Alli,Everton,Liverpool,,False,17,,,,,0,,,0.6,0
+Bamidele Alli,Everton,Chelsea,,True,1,,,,,1,,,0.2,0
+Bamidele Alli,Everton,Leeds United,,False,0,,,,,0,,,0.0,0
+Bamidele Alli,Everton,Watford,,False,0,,,,,0,,,0.0,0
+Bamidele Alli,Everton,Brentford,,True,0,,,,,0,,,0.0,0
+Bamidele Alli,Everton,Crystal Palace,,True,45,,,,,1,,,2.1,0
+Bamidele Alli,Everton,Arsenal,,False,66,,,,,2,,,0.0,0

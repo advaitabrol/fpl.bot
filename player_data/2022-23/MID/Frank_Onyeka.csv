@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Frank Onyeka,Brentford,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.75,0.16,0.03,1,Brentford,False,Newcastle United,0.38,-0.34
-Frank Onyeka,Brentford,Newcastle United,2022-10-08,False,Sub,27,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,2,False,0.0,0.0,13.5,0.0,0.0,0.75,0.16,0.03,6,Brentford,True,Brighton,0.05,-0.71
-Frank Onyeka,Brentford,Brighton,2022-10-14,True,MC,70,0.0,0.37,1.0,0.59,6,1.0,1.0,3.9,0,1,0,False,0.5,0.0,32.33,0.0,0.0,0.75,0.16,0.03,1,Brentford,True,Chelsea,1.02,-0.25
-Frank Onyeka,Brentford,Chelsea,2022-10-19,True,MC,59,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,False,2.33,0.46,39.0,0.0,0.0,0.75,0.16,0.03,1,Brentford,False,Aston Villa,0.66,0.59
-Frank Onyeka,Brentford,Aston Villa,2022-10-23,False,MC,45,0.0,0.03,0.0,0.05,1,1.0,2.0,5.2,0,0,3,False,2.0,0.34,40.2,0.0,0.0,0.75,0.16,0.03,1,Brentford,True,Wolverhampton,1.93,-0.48
-Frank Onyeka,Brentford,Wolverhampton,2022-10-29,True,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0,False,1.8,0.28,34.67,0.0,0.0,0.75,0.16,0.03,1,Brentford,False,Nottingham Forest,,
-Frank Onyeka,Brentford,Nottingham Forest,2022-11-05,False,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,1,False,2.0,0.28,36.14,0.0,0.0,0.75,0.16,0.03,2,Brentford,False,Manchester City,1.7,-1.26
-Frank Onyeka,Brentford,Manchester City,2022-11-12,False,MC,86,0.0,0.34,0.0,0.08,2,1.0,1.0,4.2,0,0,1,True,2.0,0.28,42.38,0.0,0.0,0.75,0.16,0.03,0,Brentford,True,Tottenham,-0.82,1.07
-Frank Onyeka,Brentford,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.07,37.67,0.0,0.0,0.75,0.16,0.03,0,Brentford,False,West Ham,-2.82,0.14
-Frank Onyeka,Brentford,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.07,33.9,0.0,0.0,0.75,0.16,0.03,0,Brentford,True,Liverpool,-3.03,-0.53
-Frank Onyeka,Brentford,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.07,30.82,0.0,0.0,0.75,0.16,0.03,1,Brentford,True,Manchester United,2.88,0.38
-Frank Onyeka,Brentford,Manchester United,2022-08-13,True,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.6,0.07,29.08,0.0,0.0,0.75,0.16,0.03,0,Brentford,True,Bournemouth,,1.46
-Frank Onyeka,Brentford,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.07,26.85,0.0,0.0,0.75,0.16,0.03,0,Brentford,False,Leicester City,-0.7,-0.05
-Frank Onyeka,Brentford,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,24.93,0.0,0.0,0.75,0.16,0.03,0,Brentford,True,Southampton,-5.29,-0.38
-Frank Onyeka,Brentford,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,23.27,0.0,0.0,0.75,0.16,0.03,0,Brentford,False,Arsenal,1.21,-0.0
-Frank Onyeka,Brentford,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,21.81,0.0,0.0,0.75,0.16,0.03,0,Brentford,True,Crystal Palace,-1.39,0.81
-Frank Onyeka,Brentford,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,20.53,0.0,0.0,0.75,0.16,0.03,0,Brentford,True,Fulham,,-0.3
-Frank Onyeka,Brentford,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,19.39,0.0,0.0,0.75,0.16,0.03,1,Brentford,False,Everton,1.61,-0.63
-Frank Onyeka,Brentford,Everton,2023-03-11,False,Sub,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,0.0,0.0,19.21,0.0,0.0,0.75,0.16,0.03,1,Brentford,False,Southampton,4.95,-1.07
-Frank Onyeka,Brentford,Southampton,2023-03-15,False,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,False,0.2,0.0,20.5,0.0,0.0,0.75,0.16,0.03,0,Brentford,True,Leeds United,2.58,-0.79
-Frank Onyeka,Brentford,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,19.52,0.0,0.0,0.75,0.16,0.03,0,Brentford,False,Brighton,2.12,-0.39
-Frank Onyeka,Brentford,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,18.64,0.0,0.0,0.75,0.16,0.03,0,Brentford,False,Manchester United,,-0.1
-Frank Onyeka,Brentford,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,17.83,0.0,0.0,0.75,0.16,0.03,0,Brentford,False,Fulham,3.1,1.37
-Frank Onyeka,Brentford,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,17.08,0.0,0.0,0.75,0.16,0.03,0,Brentford,True,Newcastle United,,0.73
-Frank Onyeka,Brentford,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,16.4,0.0,0.0,0.75,0.16,0.03,0,Brentford,False,Wolverhampton,-3.56,-0.46
-Frank Onyeka,Brentford,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,15.77,0.0,0.0,0.75,0.16,0.03,1,Brentford,True,Aston Villa,-0.66,0.55
-Frank Onyeka,Brentford,Aston Villa,2023-04-22,True,Sub,45,0.0,0.4,0.0,0.0,1,2.0,0.0,2.6,0,0,1,False,0.0,0.0,16.85,0.0,0.0,0.75,0.16,0.03,3,Brentford,False,Chelsea,,-0.72
-Frank Onyeka,Brentford,Chelsea,2023-04-26,False,MC,61,0.0,0.0,0.0,0.0,3,0.0,0.0,0.8,0,1,0,True,0.2,0.08,18.43,0.0,0.0,0.75,0.16,0.03,7,Brentford,True,Nottingham Forest,,
-Frank Onyeka,Brentford,Nottingham Forest,2023-04-29,True,Sub,19,0.0,0.03,1.0,0.03,7,1.0,1.0,4.2,0,0,0,False,0.8,0.08,18.45,0.0,0.0,0.75,0.16,0.03,2,Brentford,False,Liverpool,,-1.33
-Frank Onyeka,Brentford,Liverpool,2023-05-06,False,MC,71,0.0,0.03,0.0,0.0,2,1.0,0.0,0.6,0,0,1,True,2.2,0.29,20.2,0.0,0.0,0.75,0.16,0.03,1,Brentford,True,West Ham,,0.63
-Frank Onyeka,Brentford,West Ham,2023-05-14,True,Sub,20,0.0,0.09,0.0,0.0,1,1.0,0.0,2.2,0,0,0,False,2.6,0.29,20.19,0.0,0.0,0.75,0.16,0.03,1,Brentford,False,Tottenham,4.55,-0.03
-Frank Onyeka,Brentford,Tottenham,2023-05-20,False,MC,45,0.0,0.0,0.0,0.02,1,0.0,1.0,2.0,0,0,1,True,2.8,0.31,20.97,0.0,0.0,0.75,0.16,0.03,3,Brentford,True,Manchester City,0.85,-1.17
-Frank Onyeka,Brentford,Manchester City,2023-05-28,True,MC,80,0.0,0.01,0.0,0.0,3,1.0,0.0,0.0,0,1,0,True,2.8,0.23,22.76,0.0,0.0,0.75,0.16,0.03,0,Brentford,True,Everton,-0.64,0.34
-Frank Onyeka,Brentford,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,2.8,0.23,22.09,0.0,0.0,0.75,0.16,0.03,1,Brentford,False,Crystal Palace,0.48,0.13
-Frank Onyeka,Brentford,Crystal Palace,2022-08-30,False,Sub,22,0.0,0.0,0.0,0.13,1,0.0,1.0,1.9,0,0,0,False,1.4,0.03,22.09,0.0,0.0,0.75,0.16,0.03,1,Brentford,True,Leicester City,-3.59,0.83
-Frank Onyeka,Brentford,Leicester City,2022-09-03,True,Sub,31,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,False,1.2,0.02,22.33,0.0,0.0,0.75,0.16,0.03,1,Brentford,True,Arsenal,-0.45,0.36
-Frank Onyeka,Brentford,Arsenal,2022-09-18,True,Sub,27,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,1.2,0.0,22.46,0.0,0.0,0.75,0.16,0.03,1,Brentford,False,Bournemouth,2.35,0.19
-Frank Onyeka,Brentford,Bournemouth,2022-10-01,False,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,1.2,0.0,22.03,0.0,0.0,0.75,0.16,0.03,0,Brentford,True,Tottenham,-0.15,1.07
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Frank Onyeka,Brentford,Leeds United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.77,0.16,0.03,1.0
+Frank Onyeka,Brentford,Manchester United,2022-08-13,True,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0.5,0.0,5.0,0.0,0.0,0.77,0.16,0.03,0.0
+Frank Onyeka,Brentford,Fulham,,False,0,,,,,0,,,0.0,0,0,0.33,0.0,3.33,0.0,0.0,0.77,0.16,0.03,0.0
+Frank Onyeka,Brentford,Everton,,True,0,,,,,0,,,0.0,0,0,0.25,0.0,2.5,0.0,0.0,0.77,0.16,0.03,1.0
+Frank Onyeka,Brentford,Crystal Palace,2022-08-30,False,22,0.0,0.0,0.0,0.13,1,0.0,1.0,1.9,0,0,0.4,0.0,6.4,0.0,0.0,0.77,0.16,0.03,1.0
+Frank Onyeka,Brentford,Leicester City,2022-09-03,True,31,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0.6,0.0,10.5,0.0,0.0,0.77,0.16,0.03,1.0
+Frank Onyeka,Brentford,Arsenal,2022-09-18,True,27,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0.6,0.0,12.86,0.0,0.0,0.77,0.16,0.03,1.0
+Frank Onyeka,Brentford,Bournemouth,2022-10-01,False,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.8,0.0,12.0,0.0,0.0,0.77,0.16,0.03,1.0
+Frank Onyeka,Brentford,Newcastle United,2022-10-08,False,27,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1.0,0.0,13.67,0.0,0.0,0.77,0.16,0.03,6.0
+Frank Onyeka,Brentford,Brighton,2022-10-14,True,70,0.0,0.37,1.0,0.59,6,1.0,1.0,3.9,0,0,2.0,0.27,19.3,0.0,0.0,0.77,0.16,0.03,1.0
+Frank Onyeka,Brentford,Chelsea,2022-10-19,True,59,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,2.0,0.27,22.91,0.0,0.0,0.77,0.16,0.03,1.0
+Frank Onyeka,Brentford,Aston Villa,2022-10-23,False,45,0.0,0.03,0.0,0.05,1,1.0,2.0,5.2,0,0,2.0,0.28,24.75,0.0,0.0,0.77,0.16,0.03,1.0
+Frank Onyeka,Brentford,Wolverhampton,2022-10-29,True,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,2.0,0.28,23.38,0.0,0.0,0.77,0.16,0.03,1.0
+Frank Onyeka,Brentford,Nottingham Forest,2022-11-05,False,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,2.0,0.28,24.93,0.0,0.0,0.77,0.16,0.03,2.0
+Frank Onyeka,Brentford,Manchester City,2022-11-12,False,86,0.0,0.34,0.0,0.08,2,1.0,1.0,4.2,0,1,1.2,0.07,29.0,0.0,0.0,0.77,0.16,0.03,0.0
+Frank Onyeka,Brentford,Tottenham,,True,0,,,,,0,,,0.0,0,0,1.0,0.07,27.19,0.0,0.0,0.77,0.16,0.03,0.0
+Frank Onyeka,Brentford,West Ham,,False,0,,,,,0,,,0.0,0,0,0.8,0.07,25.59,0.0,0.0,0.77,0.16,0.03,0.0
+Frank Onyeka,Brentford,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.6,0.07,24.17,0.0,0.0,0.77,0.16,0.03,0.0
+Frank Onyeka,Brentford,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.4,0.07,22.89,0.0,0.0,0.77,0.16,0.03,0.0
+Frank Onyeka,Brentford,Leicester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,21.75,0.0,0.0,0.77,0.16,0.03,0.0
+Frank Onyeka,Brentford,Southampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,20.71,0.0,0.0,0.77,0.16,0.03,0.0
+Frank Onyeka,Brentford,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,19.77,0.0,0.0,0.77,0.16,0.03,0.0
+Frank Onyeka,Brentford,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,18.91,0.0,0.0,0.77,0.16,0.03,0.0
+Frank Onyeka,Brentford,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,18.12,0.0,0.0,0.77,0.16,0.03,1.0
+Frank Onyeka,Brentford,Everton,2023-03-11,False,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0.2,0.0,18.04,0.0,0.0,0.77,0.16,0.03,1.0
+Frank Onyeka,Brentford,Southampton,2023-03-15,False,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0.4,0.0,19.08,0.0,0.0,0.77,0.16,0.03,0.0
+Frank Onyeka,Brentford,Leeds United,,True,0,,,,,0,,,0.0,0,0,0.4,0.0,18.37,0.0,0.0,0.77,0.16,0.03,0.0
+Frank Onyeka,Brentford,Brighton,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,17.71,0.0,0.0,0.77,0.16,0.03,0.0
+Frank Onyeka,Brentford,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,17.1,0.0,0.0,0.77,0.16,0.03,0.0
+Frank Onyeka,Brentford,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,16.53,0.0,0.0,0.77,0.16,0.03,0.0
+Frank Onyeka,Brentford,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,16.0,0.0,0.0,0.77,0.16,0.03,1.0
+Frank Onyeka,Brentford,Aston Villa,2023-04-22,True,45,0.0,0.4,0.0,0.0,1,2.0,0.0,2.6,0,0,0.2,0.08,16.91,0.0,0.0,0.77,0.16,0.03,3.0
+Frank Onyeka,Brentford,Chelsea,2023-04-26,False,61,0.0,0.0,0.0,0.0,3,0.0,0.0,0.8,0,1,0.8,0.08,18.24,0.0,0.0,0.77,0.16,0.03,7.0
+Frank Onyeka,Brentford,Nottingham Forest,2023-04-29,True,19,0.0,0.03,1.0,0.03,7,1.0,1.0,4.2,0,0,2.2,0.29,18.26,0.0,0.0,0.77,0.16,0.03,2.0
+Frank Onyeka,Brentford,Liverpool,2023-05-06,False,71,0.0,0.03,0.0,0.0,2,1.0,0.0,0.6,0,1,2.6,0.29,19.77,0.0,0.0,0.77,0.16,0.03,1.0
+Frank Onyeka,Brentford,West Ham,2023-05-14,True,20,0.0,0.09,0.0,0.0,1,1.0,0.0,2.2,0,0,2.8,0.31,19.78,0.0,0.0,0.77,0.16,0.03,1.0
+Frank Onyeka,Brentford,Tottenham,2023-05-20,False,45,0.0,0.0,0.0,0.02,1,0.0,1.0,2.0,0,1,2.8,0.23,20.46,0.0,0.0,0.77,0.16,0.03,3.0
+Frank Onyeka,Brentford,Manchester City,2023-05-28,True,80,0.0,0.01,0.0,0.0,3,1.0,0.0,0.0,0,1,2.8,0.23,22.03,0.0,0.0,0.77,0.16,0.03,0.0

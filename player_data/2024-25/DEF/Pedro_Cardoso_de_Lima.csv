@@ -1,10 +1,10 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Pedro Cardoso de Lima,Wolves,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Wolves,True,Chelsea,,0.0
-Pedro Cardoso de Lima,Wolves,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Wolves,False,Nottingham Forest,,-0.54
-Pedro Cardoso de Lima,Wolves,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Wolves,True,Newcastle United,,0.67
-Pedro Cardoso de Lima,Wolves,Newcastle United,2024-09-15,True,DR,0,0.0,0.0,0.0,0.23,0,0.0,4.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Wolves,False,Aston Villa,,0.11
-Pedro Cardoso de Lima,Wolves,Aston Villa,2024-09-21,False,DR,0,0.0,0.02,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Wolves,True,Liverpool,,0.24
-Pedro Cardoso de Lima,Wolves,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Wolves,False,Brentford,,-0.15
-Pedro Cardoso de Lima,Wolves,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Wolves,True,Manchester City,,-1.18
-Pedro Cardoso de Lima,Wolves,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Wolves,False,Brighton,,-0.61
-Pedro Cardoso de Lima,Wolves,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0,0,0,0,,,,,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Pedro Cardoso de Lima,Wolves,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Wolves,True,Chelsea,-2.49,0.0
+Pedro Cardoso de Lima,Wolves,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Wolves,False,Nottingham Forest,0.01,-0.54
+Pedro Cardoso de Lima,Wolves,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Wolves,True,Newcastle United,-0.98,0.67
+Pedro Cardoso de Lima,Wolves,Newcastle United,2024-09-15,True,0,0.0,0.0,0.0,0.23,0,0.0,4.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Wolves,False,Aston Villa,-0.08,0.11
+Pedro Cardoso de Lima,Wolves,Aston Villa,2024-09-21,False,0,0.0,0.02,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Wolves,True,Liverpool,-2.02,0.24
+Pedro Cardoso de Lima,Wolves,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Wolves,False,Brentford,-2.66,-0.15
+Pedro Cardoso de Lima,Wolves,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Wolves,True,Manchester City,1.61,-1.18
+Pedro Cardoso de Lima,Wolves,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Wolves,False,Brighton,0.59,-0.61
+Pedro Cardoso de Lima,Wolves,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,,,,,,

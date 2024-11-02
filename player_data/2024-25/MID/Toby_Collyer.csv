@@ -1,10 +1,10 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Toby Collyer,Man Utd,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man Utd,False,Brighton,,-0.61
-Toby Collyer,Man Utd,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,1.0,Man Utd,True,Liverpool,,0.24
-Toby Collyer,Man Utd,Liverpool,2024-09-01,True,Sub,45,0.0,0.0,0.0,0.02,1,0.0,1.0,2.9,0,0,1,False,0.0,0.0,15.0,0,0,0,0,0,0.0,Man Utd,False,Southampton,,-0.31
-Toby Collyer,Man Utd,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.33,0.0,11.25,0,0,0,0,0,0.0,Man Utd,False,Crystal Palace,,0.2
-Toby Collyer,Man Utd,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.25,0.0,9.0,0,0,0,0,0,0.0,Man Utd,True,Tottenham,,0.74
-Toby Collyer,Man Utd,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,7.5,0,0,0,0,0,0.0,Man Utd,False,Aston Villa,,0.11
-Toby Collyer,Man Utd,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,6.43,0,0,0,0,0,0.0,Man Utd,True,Brentford,,0.54
-Toby Collyer,Man Utd,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,5.62,0,0,0,0,0,0.0,Man Utd,False,West Ham,,-0.34
-Toby Collyer,Man Utd,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,5.0,0,0,0,0,0,,,,,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Toby Collyer,Man Utd,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,Man Utd,False,Brighton,0.65,-0.61
+Toby Collyer,Man Utd,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1.0,Man Utd,True,Liverpool,0.35,0.24
+Toby Collyer,Man Utd,Liverpool,2024-09-01,True,45,0.0,0.0,0.0,0.02,1,0.0,1.0,2.9,0,0,0.33,0.0,15.0,0.0,0.0,0.0,0.0,0,0.0,Man Utd,False,Southampton,-0.99,-0.31
+Toby Collyer,Man Utd,Southampton,,False,0,,,,,0,,,0.0,0,0,0.25,0.0,11.25,0.0,0.0,0.0,0.0,0,0.0,Man Utd,False,Crystal Palace,2.45,0.2
+Toby Collyer,Man Utd,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,9.0,0.0,0.0,0.0,0.0,0,0.0,Man Utd,True,Tottenham,-2.02,0.74
+Toby Collyer,Man Utd,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,7.5,0.0,0.0,0.0,0.0,0,0.0,Man Utd,False,Aston Villa,-0.18,0.11
+Toby Collyer,Man Utd,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,6.43,0.0,0.0,0.0,0.0,0,0.0,Man Utd,True,Brentford,-1.08,0.54
+Toby Collyer,Man Utd,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,5.62,0.0,0.0,0.0,0.0,0,0.0,Man Utd,False,West Ham,2.3,-0.34
+Toby Collyer,Man Utd,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0,,,,,,

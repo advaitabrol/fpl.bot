@@ -1,12 +1,13 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jarell Quansah,Liverpool,Ipswich Town,2024-08-17,False,DC,45.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.6,0.0,0.0,0.0,0.31,True,0.0,0.0,45.0,0.0,1.42,0.08,14.28,0.17,0.0,Liverpool,True,Brentford,,0.54
-Jarell Quansah,Liverpool,Brentford,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,1.0,0.0,22.5,0.0,1.42,0.08,14.28,0.17,0.0,Liverpool,False,Manchester United,,-0.41
-Jarell Quansah,Liverpool,Manchester United,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.5,0.0,15.0,0.0,1.42,0.08,14.28,0.17,0.0,Liverpool,True,Nottingham Forest,,1.2
-Jarell Quansah,Liverpool,Nottingham Forest,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.33,0.0,11.25,0.0,1.42,0.08,14.28,0.17,0.0,Liverpool,True,Bournemouth,,0.84
-Jarell Quansah,Liverpool,Bournemouth,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.25,0.0,9.0,0.0,1.42,0.08,14.28,0.17,0.0,Liverpool,False,Wolverhampton,,-0.53
-Jarell Quansah,Liverpool,Wolverhampton,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.2,0.0,7.5,0.0,1.42,0.08,14.28,0.17,0.0,Liverpool,False,Crystal Palace,,0.2
-Jarell Quansah,Liverpool,Crystal Palace,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.0,0.0,6.43,0.0,1.42,0.08,14.28,0.17,0.0,Liverpool,True,Chelsea,,0.0
-Jarell Quansah,Liverpool,Chelsea,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.0,0.0,5.62,0.0,1.42,0.08,14.28,0.17,0.0,Liverpool,False,Arsenal,,-0.56
-Jarell Quansah,Liverpool,Arsenal,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.0,0.0,5.0,0.0,1.42,0.08,14.28,0.17,,Liverpool,True,Brighton,,-0.42
-,Liverpool,,,,,,,,,,,,,,,,,,,,,,,,,,,,Liverpool,True,Aston Villa,,0.66
-,Liverpool,,,,,,,,,,,,,,,,,,,,,,,,,,,,Liverpool,False,Southampton,,-0.31
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jarell Quansah,Liverpool,Ipswich Town,2024-08-17,False,45.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.6,0.0,0.0,0.0,0.31,1.0,1.0,0.0,45.0,0.0,1.42,0.08,0.17,14.28,0.0,Liverpool,True,Brentford,-2.96,0.54
+Jarell Quansah,Liverpool,Brentford,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,22.5,0.0,1.42,0.08,0.17,14.28,0.0,Liverpool,False,Manchester United,0.18,-0.41
+Jarell Quansah,Liverpool,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.33,0.0,15.0,0.0,1.42,0.08,0.17,14.28,0.0,Liverpool,True,Nottingham Forest,-1.23,1.2
+Jarell Quansah,Liverpool,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,11.25,0.0,1.42,0.08,0.17,14.28,0.0,Liverpool,True,Bournemouth,-4.12,0.84
+Jarell Quansah,Liverpool,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,9.0,0.0,1.42,0.08,0.17,14.28,0.0,Liverpool,False,Wolverhampton,1.32,-0.53
+Jarell Quansah,Liverpool,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.5,0.0,1.42,0.08,0.17,14.28,0.0,Liverpool,False,Crystal Palace,0.35,0.2
+Jarell Quansah,Liverpool,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.43,0.0,1.42,0.08,0.17,14.28,0.0,Liverpool,True,Chelsea,-1.38,0.0
+Jarell Quansah,Liverpool,Chelsea,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.62,0.0,1.42,0.08,0.17,14.28,0.0,Liverpool,False,Arsenal,2.26,-0.56
+Jarell Quansah,Liverpool,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,1.42,0.08,0.17,14.28,,,,,,
+,Liverpool,,,,,,,,,,,,,,,,,,,,,,,,,,,Liverpool,True,Brighton,1.7,-0.42
+,Liverpool,,,,,,,,,,,,,,,,,,,,,,,,,,,Liverpool,True,Aston Villa,-0.35,0.66
+,Liverpool,,,,,,,,,,,,,,,,,,,,,,,,,,,Liverpool,False,Southampton,2.18,-0.31

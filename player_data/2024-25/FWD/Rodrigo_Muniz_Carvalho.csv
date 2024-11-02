@@ -1,12 +1,13 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Rodrigo Muniz Carvalho,Fulham,Manchester United,2024-08-16,False,FW,77.0,0.0,0.08,0.0,0.07,2.0,2.0,2.0,5.8,0.0,True,0.0,0.0,77.0,9.0,1.0,8.48,1.38,0.06,2.0,Fulham,True,Leicester City,,0.47
-Rodrigo Muniz Carvalho,Fulham,Leicester City,2024-08-24,True,FW,79.0,0.0,0.45,0.0,0.15,2.0,7.0,2.0,10.0,0.0,True,2.0,0.08,78.0,9.0,1.0,8.48,1.38,0.06,2.0,Fulham,False,Ipswich Town,,
-Rodrigo Muniz Carvalho,Fulham,Ipswich Town,2024-08-31,False,FW,78.0,0.0,0.45,0.0,0.0,2.0,2.0,0.0,2.4,0.0,True,2.0,0.27,78.0,9.0,1.0,8.48,1.38,0.06,1.0,Fulham,True,West Ham,,0.48
-Rodrigo Muniz Carvalho,Fulham,West Ham,2024-09-14,True,Sub,17.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,False,2.0,0.33,62.75,9.0,1.0,8.48,1.38,0.06,4.0,Fulham,True,Newcastle United,,0.67
-Rodrigo Muniz Carvalho,Fulham,Newcastle United,2024-09-21,True,Sub,16.0,0.0,0.14,1.0,0.4,4.0,2.0,1.0,4.8,0.0,False,1.75,0.24,53.4,9.0,1.0,8.48,1.38,0.06,1.0,Fulham,False,Nottingham Forest,,-0.54
-Rodrigo Muniz Carvalho,Fulham,Nottingham Forest,2024-09-28,False,Sub,7.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,0.0,False,2.2,0.42,45.67,9.0,1.0,8.48,1.38,0.06,6.0,Fulham,False,Manchester City,,-1.51
-Rodrigo Muniz Carvalho,Fulham,Manchester City,2024-10-05,False,Sub,13.0,1.0,0.34,0.0,0.0,6.0,1.0,0.0,5.0,1.0,False,2.0,0.41,41.0,9.0,1.0,8.48,1.38,0.06,0.0,Fulham,True,Aston Villa,,0.66
-Rodrigo Muniz Carvalho,Fulham,Aston Villa,,True,,0.0,,,,,0.0,,,0.0,0.0,False,2.8,0.38,35.88,9.0,1.0,8.48,1.38,0.06,1.0,Fulham,False,Everton,,-0.39
-Rodrigo Muniz Carvalho,Fulham,Everton,2024-10-26,False,Sub,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,False,2.4,0.3,32.0,9.0,1.0,8.48,1.38,0.06,,Fulham,True,Brentford,,0.54
-,Fulham,,,,,,,,,,,,,,,,,,,,,,,,,Fulham,False,Crystal Palace,,0.2
-,Fulham,,,,,,,,,,,,,,,,,,,,,,,,,Fulham,True,Wolverhampton,,-0.08
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Rodrigo Muniz Carvalho,Fulham,Manchester United,2024-08-16,False,77.0,0.0,0.08,0.0,0.07,2.0,2.0,2.0,5.8,0.0,1.0,2.0,0.08,77.0,9.0,1.0,8.48,1.38,0.06,2.0,Fulham,True,Leicester City,-2.18,0.47
+Rodrigo Muniz Carvalho,Fulham,Leicester City,2024-08-24,True,79.0,0.0,0.45,0.0,0.15,2.0,7.0,2.0,10.0,0.0,1.0,2.0,0.27,78.0,9.0,1.0,8.48,1.38,0.06,2.0,Fulham,False,Ipswich Town,,
+Rodrigo Muniz Carvalho,Fulham,Ipswich Town,2024-08-31,False,78.0,0.0,0.45,0.0,0.0,2.0,2.0,0.0,2.4,0.0,1.0,2.0,0.33,78.0,9.0,1.0,8.48,1.38,0.06,1.0,Fulham,True,West Ham,-0.79,0.48
+Rodrigo Muniz Carvalho,Fulham,West Ham,2024-09-14,True,17.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,1.75,0.24,62.75,9.0,1.0,8.48,1.38,0.06,4.0,Fulham,True,Newcastle United,3.13,0.67
+Rodrigo Muniz Carvalho,Fulham,Newcastle United,2024-09-21,True,16.0,0.0,0.14,1.0,0.4,4.0,2.0,1.0,4.8,0.0,0.0,2.2,0.42,53.4,9.0,1.0,8.48,1.38,0.06,1.0,Fulham,False,Nottingham Forest,1.93,-0.54
+Rodrigo Muniz Carvalho,Fulham,Nottingham Forest,2024-09-28,False,7.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,0.0,0.0,2.0,0.41,45.67,9.0,1.0,8.48,1.38,0.06,6.0,Fulham,False,Manchester City,1.5,-1.51
+Rodrigo Muniz Carvalho,Fulham,Manchester City,2024-10-05,False,13.0,1.0,0.34,0.0,0.0,6.0,1.0,0.0,5.0,1.0,0.0,2.8,0.38,41.0,9.0,1.0,8.48,1.38,0.06,0.0,Fulham,True,Aston Villa,-0.63,0.66
+Rodrigo Muniz Carvalho,Fulham,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,2.4,0.3,35.88,9.0,1.0,8.48,1.38,0.06,1.0,Fulham,False,Everton,-0.93,-0.39
+Rodrigo Muniz Carvalho,Fulham,Everton,2024-10-26,False,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.4,0.3,32.0,9.0,1.0,8.48,1.38,0.06,,,,,,
+,Fulham,,,,,,,,,,,,,,,,,,,,,,,,Fulham,True,Brentford,1.56,0.54
+,Fulham,,,,,,,,,,,,,,,,,,,,,,,,Fulham,False,Crystal Palace,-1.05,0.2
+,Fulham,,,,,,,,,,,,,,,,,,,,,,,,Fulham,True,Wolverhampton,0.52,-0.08

@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
-Anthony Gordon,Everton,Southampton,2021-08-14,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,0.0,1.0
-Anthony Gordon,Everton,Wolverhampton,2021-11-01,False,Sub,12,0.0,0.05,0.0,0.0,1,1.0,0.0,4.7,0,0,0,1.0,0.0,6.5
-Anthony Gordon,Everton,Tottenham,2021-11-07,True,MR,90,0.0,0.08,0.0,0.12,3,2.0,1.0,5.0,0,1,0,1.0,0.02,34.33
-Anthony Gordon,Everton,Manchester City,2021-11-21,False,MR,90,0.0,0.07,0.0,0.0,2,1.0,0.0,3.9,0,0,3,1.67,0.04,48.25
-Anthony Gordon,Everton,Brentford,2021-11-28,False,ML,90,0.0,0.05,0.0,0.0,2,1.0,0.0,4.4,0,0,1,1.75,0.05,56.6
-Anthony Gordon,Everton,Liverpool,2021-12-01,True,Sub,31,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,2,1.8,0.05,52.33
-Anthony Gordon,Everton,Arsenal,2021-12-06,True,MR,86,0.0,0.08,0.0,0.0,2,1.0,0.0,2.9,0,0,1,1.8,0.05,57.14
-Anthony Gordon,Everton,Crystal Palace,2021-12-12,False,Sub,32,0.0,0.31,0.0,0.0,1,1.0,0.0,2.1,0,0,2,2.0,0.06,54.0
-Anthony Gordon,Everton,Chelsea,2021-12-16,False,ML,90,0.0,0.01,1.0,0.56,5,1.0,1.0,5.6,0,0,1,1.6,0.1,58.0
-Anthony Gordon,Everton,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,2.2,0.29,52.2
-Anthony Gordon,Everton,Brighton,2022-01-02,True,MR,90,2.0,0.28,0.0,0.03,14,5.0,1.0,14.8,2,0,3,1.8,0.28,55.64
-Anthony Gordon,Everton,Norwich,2022-01-15,False,MR,90,0.0,0.11,0.0,0.04,2,1.0,1.0,4.7,0,0,2,4.4,0.34,58.5
-Anthony Gordon,Everton,Aston Villa,2022-01-22,True,Sub,34,0.0,0.05,0.0,0.66,1,1.0,4.0,8.2,0,0,0,4.4,0.34,56.62
-Anthony Gordon,Everton,Newcastle United,2022-02-08,False,AMC,90,0.0,0.05,0.0,0.04,2,2.0,1.0,5.0,0,0,3,4.4,0.29,59.0
-Anthony Gordon,Everton,Leicester City,2022-02-12,True,MR,80,1.0,0.54,1.0,0.09,14,5.0,2.0,17.2,3,1,0,3.8,0.1,60.4
-Anthony Gordon,Everton,Southampton,2022-02-19,False,ML,74,0.0,0.0,0.0,0.02,2,0.0,1.0,3.2,0,0,1,6.6,0.41,61.25
-Anthony Gordon,Everton,Manchester City,2022-02-26,True,AML,76,0.0,0.15,0.0,0.0,3,3.0,0.0,1.6,0,1,0,4.2,0.35,62.12
-Anthony Gordon,Everton,Tottenham,2022-03-07,False,DMR,90,0.0,0.04,0.0,0.06,2,1.0,2.0,6.1,0,0,5,4.4,0.36,63.67
-Anthony Gordon,Everton,Wolverhampton,2022-03-13,True,FWR,90,0.0,0.0,0.0,0.09,2,0.0,2.0,3.0,0,0,1,4.6,0.36,65.05
-Anthony Gordon,Everton,Newcastle United,2022-03-17,True,AMC,90,0.0,0.11,0.0,0.04,2,2.0,1.0,4.5,0,1,0,4.6,0.35,66.3
-Anthony Gordon,Everton,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,2.2,0.06,63.14
-Anthony Gordon,Everton,West Ham,2022-04-03,False,Sub,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,1.8,0.06,60.82
-Anthony Gordon,Everton,Burnley,2022-04-06,False,FWR,72,0.0,0.18,0.0,0.11,5,3.0,2.0,9.4,0,0,2,1.4,0.03,61.3
-Anthony Gordon,Everton,Manchester United,2022-04-09,True,FWR,90,1.0,0.14,0.0,0.12,10,2.0,2.0,10.1,3,1,0,2.0,0.06,62.5
-Anthony Gordon,Everton,Leeds United,2022-04-20,True,FWR,90,0.0,0.0,0.0,1.13,3,0.0,4.0,7.4,1,0,1,3.6,0.09,63.6
-Anthony Gordon,Everton,Liverpool,2022-04-24,False,FWL,90,0.0,0.04,0.0,0.0,1,1.0,0.0,1.6,0,0,2,3.8,0.06,64.62
-Anthony Gordon,Everton,Chelsea,2022-05-01,True,MR,90,0.0,0.19,0.0,0.0,3,3.0,0.0,3.6,0,1,0,4.0,0.07,65.56
-Anthony Gordon,Everton,Leeds United,2022-05-08,False,MR,90,0.0,0.12,0.0,0.17,2,1.0,2.0,5.3,0,0,1,4.4,0.11,66.43
-Anthony Gordon,Everton,Watford,2022-05-11,False,MR,90,0.0,0.11,0.0,0.0,3,2.0,0.0,3.7,0,1,0,3.8,0.1,67.24
-Anthony Gordon,Everton,Brentford,2022-05-15,True,FWR,71,0.0,0.36,0.0,0.09,2,1.0,2.0,6.0,0,0,3,2.4,0.09,67.37
-Anthony Gordon,Everton,Crystal Palace,2022-05-19,True,AMC,60,0.0,0.0,0.0,0.06,2,0.0,2.0,4.1,0,0,2,2.2,0.16,67.13
-Anthony Gordon,Everton,Arsenal,2022-05-22,False,Sub,23,0.0,0.0,0.0,0.02,1,0.0,1.0,0.0,0,0,1,2.4,0.16,65.75
-Anthony Gordon,Everton,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,2.0,0.12,63.76
-Anthony Gordon,Everton,Aston Villa,2021-09-18,False,Sub,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,1.6,0.09,62.41
-Anthony Gordon,Everton,Norwich,2021-09-25,True,Sub,14,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,0,0,1.2,0.07,61.03
-Anthony Gordon,Everton,Manchester United,2021-10-02,False,ML,71,0.0,0.0,0.0,0.19,2,0.0,2.0,4.1,0,0,1,0.8,0.0,61.31
-Anthony Gordon,Everton,West Ham,2021-10-17,True,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.8,0.0,59.95
-Anthony Gordon,Everton,Watford,2021-10-23,True,ML,59,0.0,0.33,0.0,0.13,1,3.0,2.0,7.3,0,0,1,0.8,0.0,59.92
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus
+Anthony Gordon,Everton,Southampton,2021-08-14,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0
+Anthony Gordon,Everton,Leicester City,,False,0,,,,,0,,,0.0,0
+Anthony Gordon,Everton,Brighton,,False,0,,,,,0,,,0.0,0
+Anthony Gordon,Everton,Burnley,,True,0,,,,,0,,,0.0,0
+Anthony Gordon,Everton,Aston Villa,2021-09-18,False,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0
+Anthony Gordon,Everton,Norwich,2021-09-25,True,14,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0
+Anthony Gordon,Everton,Manchester United,2021-10-02,False,71,0.0,0.0,0.0,0.1898788958787918,2,0.0,2.0,4.1,0
+Anthony Gordon,Everton,West Ham,2021-10-17,True,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0
+Anthony Gordon,Everton,Watford,2021-10-23,True,59,0.0,0.3269891738891601,0.0,0.1323101669549942,1,3.0,2.0,7.3,0
+Anthony Gordon,Everton,Wolverhampton,2021-11-01,False,12,0.0,0.0500504858791828,0.0,0.0,1,1.0,0.0,4.7,0
+Anthony Gordon,Everton,Tottenham,2021-11-07,True,90,0.0,0.0771275982260704,0.0,0.1183353811502456,3,2.0,1.0,5.0,0
+Anthony Gordon,Everton,Manchester City,2021-11-21,False,90,0.0,0.0676092430949211,0.0,0.0,2,1.0,0.0,3.9,0
+Anthony Gordon,Everton,Brentford,2021-11-28,False,90,0.0,0.0533064156770706,0.0,0.0,2,1.0,0.0,4.4,0
+Anthony Gordon,Everton,Liverpool,2021-12-01,True,31,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0
+Anthony Gordon,Everton,Arsenal,2021-12-06,True,86,0.0,0.0768010094761848,0.0,0.0,2,1.0,0.0,2.9,0
+Anthony Gordon,Everton,Crystal Palace,2021-12-12,False,32,0.0,0.3071659207344055,0.0,0.0,1,1.0,0.0,2.1,0
+Anthony Gordon,Everton,Chelsea,2021-12-16,False,90,0.0,0.0123005341738462,1.0,0.5619036555290222,5,1.0,1.0,5.6,0
+Anthony Gordon,Everton,Brighton,2022-01-02,True,90,2.0,0.2822877764701843,0.0,0.0259296689182519,14,5.0,1.0,14.8,2
+Anthony Gordon,Everton,Norwich,2022-01-15,False,90,0.0,0.1117921695113182,0.0,0.0403943508863449,2,1.0,1.0,4.7,0
+Anthony Gordon,Everton,Aston Villa,2022-01-22,True,34,0.0,0.0485231280326843,0.0,0.6635270118713379,1,1.0,4.0,8.2,0
+Anthony Gordon,Everton,Newcastle United,2022-02-08,False,90,0.0,0.0527516417205333,0.0,0.0425403006374836,2,2.0,1.0,5.0,0
+Anthony Gordon,Everton,Leicester City,2022-02-12,True,80,1.0,0.5439012050628662,1.0,0.0888922736048698,14,5.0,2.0,17.2,3
+Anthony Gordon,Everton,Southampton,2022-02-19,False,74,0.0,0.0,0.0,0.0219538062810897,2,0.0,1.0,3.2,0
+Anthony Gordon,Everton,Manchester City,2022-02-26,True,76,0.0,0.148144781589508,0.0,0.0,3,3.0,0.0,1.6,0
+Anthony Gordon,Everton,Tottenham,2022-03-07,False,90,0.0,0.0446796938776969,0.0,0.0648082494735717,2,1.0,2.0,6.1,0
+Anthony Gordon,Everton,Wolverhampton,2022-03-13,True,90,0.0,0.0,0.0,0.0859372019767761,2,0.0,2.0,3.0,0
+Anthony Gordon,Everton,Newcastle United,2022-03-17,True,90,0.0,0.1107538044452667,0.0,0.0370843634009361,2,2.0,1.0,4.5,0
+Anthony Gordon,Everton,West Ham,2022-04-03,False,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0
+Anthony Gordon,Everton,Burnley,2022-04-06,False,72,0.0,0.183599516749382,0.0,0.1110224872827529,5,3.0,2.0,9.4,0
+Anthony Gordon,Everton,Manchester United,2022-04-09,True,90,1.0,0.1379743367433548,0.0,0.120716281235218,10,2.0,2.0,10.1,3
+Anthony Gordon,Everton,Leeds United,2022-04-20,True,90,0.0,0.0,0.0,1.1280304193496704,3,0.0,4.0,7.4,1
+Anthony Gordon,Everton,Liverpool,2022-04-24,False,90,0.0,0.0429350659251213,0.0,0.0,1,1.0,0.0,1.6,0
+Anthony Gordon,Everton,Chelsea,2022-05-01,True,90,0.0,0.193815067410469,0.0,0.0,3,3.0,0.0,3.6,0
+Anthony Gordon,Everton,Leeds United,2022-05-08,False,90,0.0,0.1207095459103584,0.0,0.1712438315153122,2,1.0,2.0,5.3,0
+Anthony Gordon,Everton,Watford,2022-05-11,False,90,0.0,0.1068187281489372,0.0,0.0,3,2.0,0.0,3.7,0
+Anthony Gordon,Everton,Brentford,2022-05-15,True,71,0.0,0.3602771759033203,0.0,0.0937961563467979,2,1.0,2.0,6.0,0
+Anthony Gordon,Everton,Crystal Palace,2022-05-19,True,60,0.0,0.0,0.0,0.0626946538686752,2,0.0,2.0,4.1,0
+Anthony Gordon,Everton,Arsenal,2022-05-22,False,23,0.0,0.0,0.0,0.0158892162144184,1,0.0,1.0,0.0,0

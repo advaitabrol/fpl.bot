@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game,clean_sheet_probability
-Paul Dummett,Newcastle,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
-Paul Dummett,Newcastle,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
-Paul Dummett,Newcastle,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
-Paul Dummett,Newcastle,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
-Paul Dummett,Newcastle,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
-Paul Dummett,Newcastle,Norwich,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
-Paul Dummett,Newcastle,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
-Paul Dummett,Newcastle,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
-Paul Dummett,Newcastle,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
-Paul Dummett,Newcastle,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
-Paul Dummett,Newcastle,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
-Paul Dummett,Newcastle,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0
-Paul Dummett,Newcastle,Watford,2022-01-15,True,DL,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,1,0.0,0.0,6.92,0.0
-Paul Dummett,Newcastle,Leicester City,2022-01-22,False,DL,62,0.0,0.0,0.0,0.0,5,0.0,0.0,1.1,0,1,0,0.2,0.0,10.86,0.5
-Paul Dummett,Newcastle,Everton,,True,,0,,,,,0,,,0.0,0,0,0,1.2,0.0,10.13,0.5
-Paul Dummett,Newcastle,Aston Villa,2022-02-13,True,Sub,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,1.2,0.0,12.31,0.5
-Paul Dummett,Newcastle,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,1.4,0.0,11.59,0.5
-Paul Dummett,Newcastle,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,1.4,0.0,10.94,0.5
-Paul Dummett,Newcastle,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,1.2,0.0,10.37,0.5
-Paul Dummett,Newcastle,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,9.85,0.5
-Paul Dummett,Newcastle,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,9.38,0.5
-Paul Dummett,Newcastle,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,8.95,0.5
-Paul Dummett,Newcastle,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,8.57,0.5
-Paul Dummett,Newcastle,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,8.21,0.5
-Paul Dummett,Newcastle,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,7.88,0.5
-Paul Dummett,Newcastle,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,7.58,0.5
-Paul Dummett,Newcastle,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,7.3,0.5
-Paul Dummett,Newcastle,Norwich,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,7.04,0.5
-Paul Dummett,Newcastle,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,6.79,0.5
-Paul Dummett,Newcastle,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,6.57,0.5
-Paul Dummett,Newcastle,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,6.35,0.5
-Paul Dummett,Newcastle,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,6.16,0.5
-Paul Dummett,Newcastle,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,5.97,0.5
-Paul Dummett,Newcastle,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,5.79,0.5
-Paul Dummett,Newcastle,Watford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,5.63,0.5
-Paul Dummett,Newcastle,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,5.47,0.5
-Paul Dummett,Newcastle,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,5.32,0.5
-Paul Dummett,Newcastle,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,5.18,0.5
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded
+Paul Dummett,Newcastle,West Ham,,True,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Southampton,,True,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Manchester United,,False,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Leicester City,,True,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Watford,,False,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Tottenham,,True,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Chelsea,,True,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Brighton,,False,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Brentford,,True,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Arsenal,,False,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Norwich,,True,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Burnley,,True,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Leeds United,,False,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Liverpool,,False,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Manchester City,,True,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Manchester United,,True,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Watford,2022-01-15,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,1
+Paul Dummett,Newcastle,Leicester City,2022-01-22,False,62,0.0,0.0,0.0,0.0,5,0.0,0.0,1.1,0,1,0
+Paul Dummett,Newcastle,Everton,,True,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Aston Villa,2022-02-13,True,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0
+Paul Dummett,Newcastle,West Ham,,False,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Brentford,,False,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Brighton,,True,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Southampton,,False,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Chelsea,,False,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Everton,,False,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Tottenham,,False,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Leeds United,,True,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Norwich,,False,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Liverpool,,True,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Manchester City,,False,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Arsenal,,True,0,,,,,0,,,0.0,0,0,0
+Paul Dummett,Newcastle,Burnley,,False,0,,,,,0,,,0.0,0,0,0

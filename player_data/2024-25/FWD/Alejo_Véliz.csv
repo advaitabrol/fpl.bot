@@ -1,12 +1,10 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Alejo Véliz,Spurs,Leicester City,,False,,0.0,,,,,0.0,,,0.0,0.0,False,0.0,0.0,0.0,1.0,0.0,0.7,0.0,0.24,0.0,Spurs,True,Everton,,0.61
-Alejo Véliz,Spurs,Everton,,True,,0.0,,,,,0.0,,,0.0,0.0,False,0.0,0.0,0.0,1.0,0.0,0.7,0.0,0.24,0.0,Spurs,False,Newcastle United,,-0.44
-Alejo Véliz,Spurs,Newcastle United,,False,,0.0,,,,,0.0,,,0.0,0.0,False,0.0,0.0,0.0,1.0,0.0,0.7,0.0,0.24,0.0,Spurs,True,Arsenal,,-0.32
-Alejo Véliz,Spurs,Arsenal,,True,,0.0,,,,,0.0,,,0.0,0.0,False,0.0,0.0,0.0,1.0,0.0,0.7,0.0,0.24,0.0,Spurs,True,Brentford,,0.54
-Alejo Véliz,Spurs,Brentford,,True,,0.0,,,,,0.0,,,0.0,0.0,False,0.0,0.0,0.0,1.0,0.0,0.7,0.0,0.24,0.0,Spurs,False,Manchester United,,-0.41
-Alejo Véliz,Spurs,Manchester United,,False,,0.0,,,,,0.0,,,0.0,0.0,False,0.0,0.0,0.0,1.0,0.0,0.7,0.0,0.24,0.0,Spurs,False,Brighton,,-0.61
-Alejo Véliz,Spurs,Brighton,,False,,0.0,,,,,0.0,,,0.0,0.0,False,0.0,0.0,0.0,1.0,0.0,0.7,0.0,0.24,0.0,Spurs,True,West Ham,,0.48
-Alejo Véliz,Spurs,West Ham,,True,,0.0,,,,,0.0,,,0.0,0.0,False,0.0,0.0,0.0,1.0,0.0,0.7,0.0,0.24,0.0,Spurs,False,Crystal Palace,,0.2
-Alejo Véliz,Spurs,Crystal Palace,,False,,0.0,,,,,0.0,,,0.0,0.0,False,0.0,0.0,0.0,1.0,0.0,0.7,0.0,0.24,,Spurs,False,Wolverhampton,,-0.53
-,Spurs,,,,,,,,,,,,,,,,,,,,,,,,,Spurs,True,Fulham,,0.27
-,Spurs,,,,,,,,,,,,,,,,,,,,,,,,,Spurs,False,Aston Villa,,0.11
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Alejo Véliz,Spurs,Leicester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,1.0,0.0,0.7,0.0,0.24,0.0,Spurs,True,Everton,-2.75,0.61
+Alejo Véliz,Spurs,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,1.0,0.0,0.7,0.0,0.24,0.0,Spurs,False,Newcastle United,4.3,-0.44
+Alejo Véliz,Spurs,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,1.0,0.0,0.7,0.0,0.24,0.0,Spurs,True,Arsenal,-0.34,-0.32
+Alejo Véliz,Spurs,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,1.0,0.0,0.7,0.0,0.24,0.0,Spurs,True,Brentford,-1.31,0.54
+Alejo Véliz,Spurs,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,1.0,0.0,0.7,0.0,0.24,0.0,Spurs,False,Manchester United,2.48,-0.41
+Alejo Véliz,Spurs,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,1.0,0.0,0.7,0.0,0.24,0.0,Spurs,False,Brighton,0.26,-0.61
+Alejo Véliz,Spurs,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,1.0,0.0,0.7,0.0,0.24,0.0,Spurs,True,West Ham,0.26,0.48
+Alejo Véliz,Spurs,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,1.0,0.0,0.7,0.0,0.24,0.0,Spurs,False,Crystal Palace,0.96,0.2
+Alejo Véliz,Spurs,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,1.0,0.0,0.7,0.0,0.24,,,,,,

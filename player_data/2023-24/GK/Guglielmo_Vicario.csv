@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,saves_per_game,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,last_season_total_saves,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Guglielmo Vicario,Spurs,Brentford,2023-08-13,False,90,2,2.02,4,0,1,0,False,0.0,True,0.0,0.0,4.0,0,0,0,0,3,Spurs,False,Crystal Palace,1.4,0.38
-Guglielmo Vicario,Spurs,Crystal Palace,2023-10-27,False,90,1,0.64,2,0,3,1,False,0.0,True,1.0,0.0,3.0,0,0,0,0,1,Spurs,True,Chelsea,1.57,-0.25
-Guglielmo Vicario,Spurs,Chelsea,2023-11-06,True,90,4,4.04,3,0,1,0,False,0.0,True,2.0,0.0,3.0,0,0,0,0,1,Spurs,False,Wolverhampton,0.08,-0.52
-Guglielmo Vicario,Spurs,Wolverhampton,2023-11-11,False,90,2,2.15,2,0,1,0,False,0.0,True,1.67,0.0,2.75,0,0,0,0,2,Spurs,True,Aston Villa,1.17,0.64
-Guglielmo Vicario,Spurs,Aston Villa,2023-11-26,True,90,2,1.77,3,0,2,0,False,0.0,True,1.5,0.0,2.8,0,0,0,0,1,Spurs,False,Manchester City,-0.49,-1.32
-Guglielmo Vicario,Spurs,Manchester City,2023-12-03,False,90,3,2.64,2,0,1,0,False,0.0,True,1.6,0.0,2.67,0,0,0,0,2,Spurs,True,West Ham,-1.74,0.49
-Guglielmo Vicario,Spurs,West Ham,2023-12-07,True,90,2,2.07,3,0,2,0,False,0.0,True,1.6,0.0,2.71,0,0,0,0,2,Spurs,True,Newcastle United,-1.88,0.55
-Guglielmo Vicario,Spurs,Newcastle United,2023-12-10,True,90,1,1.69,2,0,2,0,False,0.0,True,1.4,0.0,2.62,0,0,0,0,6,Spurs,False,Nottingham Forest,-5.2,-0.55
-Guglielmo Vicario,Spurs,Nottingham Forest,2023-12-15,False,90,0,1.5,1,0,6,0,True,0.0,True,1.6,0.11,2.44,0,0,0,0,6,Spurs,True,Everton,-3.67,0.53
-Guglielmo Vicario,Spurs,Everton,2023-12-23,True,90,1,1.95,7,0,6,2,False,0.0,True,2.6,0.1,2.9,0,0,0,0,1,Spurs,False,Brighton,-2.31,-0.6
-Guglielmo Vicario,Spurs,Brighton,2023-12-28,False,90,4,3.7,5,0,1,0,False,0.0,True,3.4,0.09,3.09,0,0,0,0,11,Spurs,True,Manchester United,1.18,0.38
-Guglielmo Vicario,Spurs,Manchester United,2023-08-19,True,90,0,1.99,6,0,11,3,True,0.0,True,3.4,0.17,3.33,0,0,0,0,3,Spurs,True,Bournemouth,-0.25,1.22
-Guglielmo Vicario,Spurs,Bournemouth,2023-12-31,True,90,1,1.6,3,0,3,0,False,0.0,True,5.2,0.15,3.31,0,0,0,0,1,Spurs,False,Manchester United,3.47,-0.63
-Guglielmo Vicario,Spurs,Manchester United,2024-01-14,False,90,2,0.84,0,0,1,0,False,0.0,True,5.4,0.14,3.07,0,0,0,0,2,Spurs,True,Brentford,-1.06,0.79
-Guglielmo Vicario,Spurs,Brentford,2024-01-31,True,90,2,1.66,3,0,2,0,False,0.0,True,4.4,0.13,3.07,0,0,0,0,1,Spurs,False,Everton,-0.31,-0.24
-Guglielmo Vicario,Spurs,Everton,2024-02-03,False,90,2,2.62,2,0,1,0,False,0.0,True,3.6,0.12,3.0,0,0,0,0,2,Spurs,True,Brighton,0.56,-0.66
-Guglielmo Vicario,Spurs,Brighton,2024-02-10,True,90,1,1.21,2,0,2,0,False,0.0,True,3.6,0.12,2.94,0,0,0,0,3,Spurs,True,Wolverhampton,2.48,0.05
-Guglielmo Vicario,Spurs,Wolverhampton,2024-02-17,True,90,2,1.51,5,0,3,1,False,0.0,True,1.8,0.11,3.06,0,0,0,0,2,Spurs,True,Crystal Palace,-2.5,0.88
-Guglielmo Vicario,Spurs,Crystal Palace,2024-03-02,True,90,1,0.29,0,0,2,0,False,0.0,True,1.8,0.11,2.89,0,0,0,0,6,Spurs,False,Aston Villa,-1.56,0.29
-Guglielmo Vicario,Spurs,Aston Villa,2024-03-10,False,90,0,0.97,1,0,6,0,True,0.0,True,2.0,0.15,2.8,0,0,0,0,2,Spurs,False,Fulham,-1.25,0.86
-Guglielmo Vicario,Spurs,Fulham,2024-03-16,False,90,3,2.79,4,0,2,0,False,0.0,True,2.8,0.14,2.86,0,0,0,0,7,Spurs,False,Bournemouth,-2.08,0.19
-Guglielmo Vicario,Spurs,Bournemouth,2023-08-26,False,90,0,0.67,3,0,7,0,True,0.0,True,3.0,0.18,2.86,0,0,0,0,2,Spurs,True,Luton,,
-Guglielmo Vicario,Spurs,Luton,2024-03-30,True,90,1,0.39,2,0,2,0,False,0.0,True,4.0,0.17,2.83,0,0,0,0,3,Spurs,False,West Ham,2.68,-0.22
-Guglielmo Vicario,Spurs,West Ham,2024-04-02,False,90,1,1.16,3,0,3,0,False,0.0,True,3.8,0.17,2.83,0,0,0,0,4,Spurs,True,Nottingham Forest,,1.55
-Guglielmo Vicario,Spurs,Nottingham Forest,2024-04-07,True,90,1,1.56,5,0,4,1,False,0.0,True,4.0,0.16,2.92,0,0,0,0,0,Spurs,False,Newcastle United,0.79,-0.41
-Guglielmo Vicario,Spurs,Newcastle United,2024-04-13,False,90,4,2.86,1,0,0,0,False,0.0,True,3.6,0.15,2.85,0,0,0,0,1,Spurs,True,Arsenal,0.83,-0.11
-Guglielmo Vicario,Spurs,Arsenal,2024-04-28,True,90,3,1.08,1,0,1,0,False,0.0,True,3.2,0.15,2.78,0,0,0,0,1,Spurs,False,Chelsea,-2.17,-0.85
-Guglielmo Vicario,Spurs,Chelsea,2024-05-02,False,90,2,1.94,2,0,1,0,False,0.0,True,2.0,0.14,2.75,0,0,0,0,2,Spurs,False,Liverpool,,-1.01
-Guglielmo Vicario,Spurs,Liverpool,2024-05-05,False,90,4,3.22,8,0,2,0,False,0.0,True,1.8,0.14,2.93,0,0,0,0,2,Spurs,True,Burnley,,0.39
-Guglielmo Vicario,Spurs,Burnley,2024-05-11,True,90,1,0.75,2,0,2,0,False,0.0,True,1.6,0.13,2.9,0,0,0,0,2,Spurs,True,Manchester City,-0.19,-0.96
-Guglielmo Vicario,Spurs,Manchester City,2024-05-14,True,90,2,2.4,3,0,2,0,False,0.0,True,1.2,0.13,2.9,0,0,0,0,6,Spurs,False,Sheffield,,-0.61
-Guglielmo Vicario,Spurs,Sheffield,2024-05-19,False,90,0,0.7,1,0,6,0,True,0.0,True,1.6,0.16,2.84,0,0,0,0,2,Spurs,False,Burnley,-3.2,0.0
-Guglielmo Vicario,Spurs,Burnley,2023-09-02,False,90,2,1.35,3,0,2,0,False,0.0,True,2.6,0.15,2.85,0,0,0,0,3,Spurs,True,Sheffield,-0.02,0.68
-Guglielmo Vicario,Spurs,Sheffield,2023-09-16,True,90,1,0.58,4,0,3,0,False,0.0,True,2.8,0.15,2.88,0,0,0,0,2,Spurs,False,Arsenal,1.92,-0.48
-Guglielmo Vicario,Spurs,Arsenal,2023-09-24,False,90,2,2.08,4,0,2,0,False,0.0,True,3.0,0.14,2.91,0,0,0,0,3,Spurs,True,Liverpool,-0.19,0.18
-Guglielmo Vicario,Spurs,Liverpool,2023-09-30,True,90,1,1.34,3,0,3,0,False,0.0,True,3.0,0.14,2.92,0,0,0,0,7,Spurs,False,Luton,-1.24,
-Guglielmo Vicario,Spurs,Luton,2023-10-07,False,90,0,0.82,2,0,7,1,True,0.0,True,3.2,0.16,2.89,0,0,0,0,6,Spurs,True,Fulham,-2.03,-0.13
-Guglielmo Vicario,Spurs,Fulham,2023-10-23,True,90,0,1.03,3,0,6,0,True,0.0,True,3.4,0.18,2.89,0,0,0,0,2,Spurs,False,Leicester City,,-0.22
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points
+Guglielmo Vicario,Spurs,Brentford,2023-08-13,False,90,2,2.02,4,0,1,0,0,0.0,1,1.0,0,90.0,0.0,4.0,11.0
+Guglielmo Vicario,Spurs,Manchester United,2023-08-19,True,90,0,1.99,6,0,11,3,1,0.0,1,6.0,0,90.0,0.5,5.0,7.0
+Guglielmo Vicario,Spurs,Bournemouth,2023-08-26,False,90,0,0.67,3,0,7,0,1,0.0,1,6.33,0,90.0,0.67,4.33,2.0
+Guglielmo Vicario,Spurs,Burnley,2023-09-02,False,90,2,1.35,3,0,2,0,0,0.0,1,5.25,0,90.0,0.5,4.0,3.0
+Guglielmo Vicario,Spurs,Sheffield,2023-09-16,True,90,1,0.58,4,0,3,0,0,0.0,1,4.8,0,90.0,0.4,4.0,2.0
+Guglielmo Vicario,Spurs,Arsenal,2023-09-24,False,90,2,2.08,4,0,2,0,0,0.0,1,5.0,0,90.0,0.33,4.0,3.0
+Guglielmo Vicario,Spurs,Liverpool,2023-09-30,True,90,1,1.34,3,0,3,0,0,0.0,1,3.4,0,90.0,0.29,3.86,7.0
+Guglielmo Vicario,Spurs,Luton,2023-10-07,False,90,0,0.82,2,0,7,1,1,0.0,1,3.4,0,90.0,0.38,3.62,6.0
+Guglielmo Vicario,Spurs,Fulham,2023-10-23,True,90,0,1.03,3,0,6,0,1,0.0,1,4.2,0,90.0,0.44,3.56,3.0
+Guglielmo Vicario,Spurs,Crystal Palace,2023-10-27,False,90,1,0.64,2,0,3,1,0,0.0,1,4.2,0,90.0,0.4,3.4,1.0
+Guglielmo Vicario,Spurs,Chelsea,2023-11-06,True,90,4,4.04,3,0,1,0,0,0.0,1,4.0,0,90.0,0.36,3.36,1.0
+Guglielmo Vicario,Spurs,Wolverhampton,2023-11-11,False,90,2,2.15,2,0,1,0,0,0.0,1,3.6,0,90.0,0.33,3.25,2.0
+Guglielmo Vicario,Spurs,Aston Villa,2023-11-26,True,90,2,1.77,3,0,2,0,0,0.0,1,2.6,0,90.0,0.31,3.23,1.0
+Guglielmo Vicario,Spurs,Manchester City,2023-12-03,False,90,3,2.64,2,0,1,0,0,0.0,1,1.6,0,90.0,0.29,3.14,2.0
+Guglielmo Vicario,Spurs,West Ham,2023-12-07,True,90,2,2.07,3,0,2,0,0,0.0,1,1.4,0,90.0,0.27,3.13,2.0
+Guglielmo Vicario,Spurs,Newcastle United,2023-12-10,True,90,1,1.69,2,0,2,0,0,0.0,1,1.6,0,90.0,0.25,3.06,6.0
+Guglielmo Vicario,Spurs,Nottingham Forest,2023-12-15,False,90,0,1.5,1,0,6,0,1,0.0,1,2.6,0,90.0,0.29,2.94,6.0
+Guglielmo Vicario,Spurs,Everton,2023-12-23,True,90,1,1.95,7,0,6,2,0,0.0,1,3.4,0,90.0,0.28,3.17,1.0
+Guglielmo Vicario,Spurs,Brighton,2023-12-28,False,90,4,3.7,5,0,1,0,0,0.0,1,3.4,0,90.0,0.26,3.26,3.0
+Guglielmo Vicario,Spurs,Bournemouth,2023-12-31,True,90,1,1.6,3,0,3,0,0,0.0,1,3.6,0,90.0,0.25,3.25,1.0
+Guglielmo Vicario,Spurs,Manchester United,2024-01-14,False,90,2,0.84,0,0,1,0,0,0.0,1,3.4,0,90.0,0.24,3.1,2.0
+Guglielmo Vicario,Spurs,Brentford,2024-01-31,True,90,2,1.66,3,0,2,0,0,0.0,1,2.6,0,90.0,0.23,3.09,1.0
+Guglielmo Vicario,Spurs,Everton,2024-02-03,False,90,2,2.62,2,0,1,0,0,0.0,1,1.6,0,90.0,0.22,3.04,2.0
+Guglielmo Vicario,Spurs,Brighton,2024-02-10,True,90,1,1.21,2,0,2,0,0,0.0,1,1.8,0,90.0,0.21,3.0,3.0
+Guglielmo Vicario,Spurs,Wolverhampton,2024-02-17,True,90,2,1.51,5,0,3,1,0,0.0,1,1.8,0,90.0,0.2,3.08,2.0
+Guglielmo Vicario,Spurs,Crystal Palace,2024-03-02,True,90,1,0.29,0,0,2,0,0,0.0,1,2.0,0,90.0,0.19,2.96,6.0
+Guglielmo Vicario,Spurs,Aston Villa,2024-03-10,False,90,0,0.97,1,0,6,0,1,0.0,1,2.8,0,90.0,0.22,2.89,2.0
+Guglielmo Vicario,Spurs,Fulham,2024-03-16,False,90,3,2.79,4,0,2,0,0,0.0,1,3.0,0,90.0,0.21,2.93,2.0
+Guglielmo Vicario,Spurs,Luton,2024-03-30,True,90,1,0.39,2,0,2,0,0,0.0,1,3.0,0,90.0,0.21,2.9,3.0
+Guglielmo Vicario,Spurs,West Ham,2024-04-02,False,90,1,1.16,3,0,3,0,0,0.0,1,3.0,0,90.0,0.2,2.9,4.0
+Guglielmo Vicario,Spurs,Nottingham Forest,2024-04-07,True,90,1,1.56,5,0,4,1,0,0.0,1,3.4,0,90.0,0.19,2.97,0.0
+Guglielmo Vicario,Spurs,Newcastle United,2024-04-13,False,90,4,2.86,1,0,0,0,0,0.0,1,2.2,0,90.0,0.19,2.91,1.0
+Guglielmo Vicario,Spurs,Arsenal,2024-04-28,True,90,3,1.08,1,0,1,0,0,0.0,1,2.0,0,90.0,0.18,2.85,1.0
+Guglielmo Vicario,Spurs,Chelsea,2024-05-02,False,90,2,1.94,2,0,1,0,0,0.0,1,1.8,0,90.0,0.18,2.82,2.0
+Guglielmo Vicario,Spurs,Liverpool,2024-05-05,False,90,4,3.22,8,0,2,0,0,0.0,1,1.6,0,90.0,0.17,2.97,2.0
+Guglielmo Vicario,Spurs,Burnley,2024-05-11,True,90,1,0.75,2,0,2,0,0,0.0,1,1.2,0,90.0,0.17,2.94,2.0
+Guglielmo Vicario,Spurs,Manchester City,2024-05-14,True,90,2,2.4,3,0,2,0,0,0.0,1,1.6,0,90.0,0.16,2.95,6.0
+Guglielmo Vicario,Spurs,Sheffield,2024-05-19,False,90,0,0.7,1,0,6,0,1,0.0,1,2.6,0,90.0,0.18,2.89,2.0

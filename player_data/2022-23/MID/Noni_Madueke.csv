@@ -1,19 +1,19 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Noni Madueke,Chelsea,Fulham,2023-02-03,True,Sub,45,0.0,0.0,0.0,0.07,1,0.0,1.0,3.4,0,0,0,False,0.0,0.0,45.0,0,0,0,0,0,2,Chelsea,False,West Ham,4.47,0.14
-Noni Madueke,Chelsea,West Ham,2023-02-11,False,AMR,67,0.0,0.1,0.0,0.0,2,2.0,0.0,4.2,0,0,1,True,1.0,0.0,56.0,0,0,0,0,0,2,Chelsea,True,Southampton,-1.13,-0.38
-Noni Madueke,Chelsea,Southampton,2023-02-18,True,AMR,63,0.0,0.04,0.0,0.05,2,1.0,2.0,5.2,0,0,1,True,1.5,0.05,58.33,0,0,0,0,0,0,Chelsea,False,Tottenham,-1.69,-0.03
-Noni Madueke,Chelsea,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,1.67,0.05,43.75,0,0,0,0,0,1,Chelsea,True,Leicester City,1.12,0.83
-Noni Madueke,Chelsea,Leicester City,2023-03-04,True,Sub,6,0.0,0.0,0.0,0.05,1,0.0,1.0,1.3,0,0,0,False,1.25,0.04,36.2,0,0,0,0,0,0,Chelsea,False,Leeds United,-3.0,-0.8
-Noni Madueke,Chelsea,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.03,30.17,0,0,0,0,0,0,Chelsea,True,Everton,1.01,0.34
-Noni Madueke,Chelsea,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.03,25.86,0,0,0,0,0,1,Chelsea,True,Aston Villa,-2.49,0.55
-Noni Madueke,Chelsea,Aston Villa,2023-04-01,True,Sub,33,0.0,0.06,0.0,0.14,1,1.0,2.0,4.1,0,0,0,False,0.6,0.01,26.75,0,0,0,0,0,0,Chelsea,True,Liverpool,2.38,-0.53
-Noni Madueke,Chelsea,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.01,23.78,0,0,0,0,0,0,Chelsea,False,Wolverhampton,0.77,-0.46
-Noni Madueke,Chelsea,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.01,21.4,0,0,0,0,0,0,Chelsea,True,Brighton,0.37,-0.71
-Noni Madueke,Chelsea,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.01,19.45,0,0,0,0,0,1,Chelsea,True,Brentford,6.68,0.69
-Noni Madueke,Chelsea,Brentford,2023-04-26,True,Sub,11,0.0,0.12,0.0,0.0,1,1.0,0.0,0.9,0,0,0,False,0.2,0.01,18.75,0,0,0,0,0,8,Chelsea,False,Arsenal,-1.77,-0.0
-Noni Madueke,Chelsea,Arsenal,2023-05-02,False,FWR,78,1.0,0.28,0.0,0.0,8,1.0,0.0,7.1,1,0,3,True,0.4,0.04,23.31,0,0,0,0,0,2,Chelsea,False,Bournemouth,,0.19
-Noni Madueke,Chelsea,Bournemouth,2023-05-06,False,FWR,75,0.0,0.25,0.0,0.0,2,3.0,0.0,6.9,0,0,1,True,1.8,0.08,27.0,0,0,0,0,0,2,Chelsea,True,Nottingham Forest,,
-Noni Madueke,Chelsea,Nottingham Forest,2023-05-13,True,FWR,72,0.0,0.0,0.0,0.0,2,0.0,0.0,3.1,0,0,2,True,2.2,0.13,30.0,0,0,0,0,0,1,Chelsea,False,Manchester City,0.4,-1.26
-Noni Madueke,Chelsea,Manchester City,2023-05-21,False,Sub,21,0.0,0.0,0.0,0.1,1,0.0,2.0,3.3,0,0,0,False,2.6,0.13,29.44,0,0,0,0,0,2,Chelsea,False,Manchester United,0.01,-0.1
-Noni Madueke,Chelsea,Manchester United,2023-05-25,False,FWR,81,0.0,0.0,0.0,0.03,2,0.0,1.0,5.1,0,0,4,True,2.8,0.13,32.47,0,0,0,0,0,3,Chelsea,True,Newcastle United,-0.51,0.73
-Noni Madueke,Chelsea,Newcastle United,2023-05-28,True,AMR,87,0.0,0.14,0.0,0.07,3,3.0,3.0,0.0,1,0,1,True,3.0,0.11,35.5,0,0,0,0,0,0,Chelsea,True,Liverpool,2.38,-0.53
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
+Noni Madueke,Chelsea,Fulham,2023-02-03,True,45,0.0,0.0,0.0,0.07,1,0.0,1.0,3.4,0,0,1.0,0.0,45.0,2.0
+Noni Madueke,Chelsea,West Ham,2023-02-11,False,67,0.0,0.1,0.0,0.0,2,2.0,0.0,4.2,0,1,1.5,0.05,56.0,2.0
+Noni Madueke,Chelsea,Southampton,2023-02-18,True,63,0.0,0.04,0.0,0.05,2,1.0,2.0,5.2,0,1,1.67,0.05,58.33,0.0
+Noni Madueke,Chelsea,Tottenham,,False,0,,,,,0,,,0.0,0,0,1.25,0.03,43.75,1.0
+Noni Madueke,Chelsea,Leicester City,2023-03-04,True,6,0.0,0.0,0.0,0.05,1,0.0,1.0,1.3,0,0,1.2,0.03,36.2,0.0
+Noni Madueke,Chelsea,Leeds United,,False,0,,,,,0,,,0.0,0,0,1.0,0.03,30.17,0.0
+Noni Madueke,Chelsea,Everton,,True,0,,,,,0,,,0.0,0,0,0.6,0.01,25.86,1.0
+Noni Madueke,Chelsea,Aston Villa,2023-04-01,True,33,0.0,0.06,0.0,0.14,1,1.0,2.0,4.1,0,0,0.4,0.01,26.75,0.0
+Noni Madueke,Chelsea,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.4,0.01,23.78,0.0
+Noni Madueke,Chelsea,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.2,0.01,21.4,0.0
+Noni Madueke,Chelsea,Brighton,,True,0,,,,,0,,,0.0,0,0,0.2,0.01,19.45,1.0
+Noni Madueke,Chelsea,Brentford,2023-04-26,True,11,0.0,0.12,0.0,0.0,1,1.0,0.0,0.9,0,0,0.4,0.03,18.75,8.0
+Noni Madueke,Chelsea,Arsenal,2023-05-02,False,78,1.0,0.28,0.0,0.0,8,1.0,0.0,7.1,1,1,1.8,0.08,23.31,2.0
+Noni Madueke,Chelsea,Bournemouth,2023-05-06,False,75,0.0,0.25,0.0,0.0,2,3.0,0.0,6.9,0,1,2.2,0.13,27.0,2.0
+Noni Madueke,Chelsea,Nottingham Forest,2023-05-13,True,72,0.0,0.0,0.0,0.0,2,0.0,0.0,3.1,0,1,2.6,0.13,30.0,1.0
+Noni Madueke,Chelsea,Manchester City,2023-05-21,False,21,0.0,0.0,0.0,0.1,1,0.0,2.0,3.3,0,0,2.8,0.13,29.44,2.0
+Noni Madueke,Chelsea,Manchester United,2023-05-25,False,81,0.0,0.0,0.0,0.03,2,0.0,1.0,5.1,0,1,3.0,0.11,32.47,3.0
+Noni Madueke,Chelsea,Newcastle United,2023-05-28,True,87,0.0,0.14,0.0,0.07,3,3.0,3.0,0.0,1,1,2.0,0.08,35.5,0.0

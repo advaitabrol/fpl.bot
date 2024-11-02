@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
-Todd Cantwell,Norwich,Liverpool,2021-08-14,True,MR,85,0.0,0.01,0.0,0.31,1,1.0,1.0,4.5,0,0,3,0.0,0.0,85.0
-Todd Cantwell,Norwich,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,1.0,0.01,42.5
-Todd Cantwell,Norwich,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.5,0.0,28.33
-Todd Cantwell,Norwich,Southampton,2021-11-20,True,FWL,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1,0.33,0.0,32.5
-Todd Cantwell,Norwich,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.5,0.0,26.0
-Todd Cantwell,Norwich,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,21.67
-Todd Cantwell,Norwich,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,18.57
-Todd Cantwell,Norwich,Manchester United,2021-12-11,True,Sub,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1,0.2,0.0,18.75
-Todd Cantwell,Norwich,Aston Villa,2021-12-14,True,FWL,60,0.0,0.05,0.0,0.0,2,1.0,0.0,1.4,0,0,1,0.4,0.0,23.33
-Todd Cantwell,Norwich,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.6,0.01,21.0
-Todd Cantwell,Norwich,Manchester City,2021-08-21,False,FWR,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,0,5,0.6,0.01,27.27
-Todd Cantwell,Norwich,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,1.0,0.01,25.0
-Todd Cantwell,Norwich,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,1.0,0.01,23.08
-Todd Cantwell,Norwich,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.8,0.01,21.43
-Todd Cantwell,Norwich,Watford,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,20.0
-Todd Cantwell,Norwich,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,18.75
-Todd Cantwell,Norwich,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,17.65
-Todd Cantwell,Norwich,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,16.67
-Todd Cantwell,Norwich,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,15.79
-Todd Cantwell,Norwich,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,15.0
-Todd Cantwell,Norwich,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,14.29
-Todd Cantwell,Norwich,Leicester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,13.64
-Todd Cantwell,Norwich,Leeds United,2021-08-28,True,FWR,90,0.0,0.06,0.0,0.0,1,3.0,0.0,1.3,0,0,2,0.0,0.0,16.96
-Todd Cantwell,Norwich,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.01,16.25
-Todd Cantwell,Norwich,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.01,15.6
-Todd Cantwell,Norwich,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.01,15.0
-Todd Cantwell,Norwich,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.01,14.44
-Todd Cantwell,Norwich,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.01,13.93
-Todd Cantwell,Norwich,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,13.45
-Todd Cantwell,Norwich,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,13.0
-Todd Cantwell,Norwich,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,12.58
-Todd Cantwell,Norwich,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,12.19
-Todd Cantwell,Norwich,Arsenal,2021-09-11,False,Sub,28,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,0.0,0.0,12.67
-Todd Cantwell,Norwich,Watford,2021-09-18,True,Sub,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1,0.2,0.0,12.88
-Todd Cantwell,Norwich,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,12.51
-Todd Cantwell,Norwich,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,12.17
-Todd Cantwell,Norwich,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,11.84
-Todd Cantwell,Norwich,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.0,11.53
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus
+Todd Cantwell,Norwich,Liverpool,2021-08-14,True,85,0.0,0.0072125410661101,0.0,0.3090212047100067,1,1.0,1.0,4.5,0
+Todd Cantwell,Norwich,Manchester City,2021-08-21,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0
+Todd Cantwell,Norwich,Leeds United,2021-08-28,True,90,0.0,0.0593067482113838,0.0,0.0,1,3.0,0.0,1.3,0
+Todd Cantwell,Norwich,Arsenal,2021-09-11,False,28,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0
+Todd Cantwell,Norwich,Watford,2021-09-18,True,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0
+Todd Cantwell,Norwich,Everton,,False,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Burnley,,False,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Brighton,,True,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Chelsea,,False,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Leicester City,,True,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Brentford,,False,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Southampton,2021-11-20,True,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0
+Todd Cantwell,Norwich,Wolverhampton,,True,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Newcastle United,,False,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Tottenham,,False,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Manchester United,2021-12-11,True,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0
+Todd Cantwell,Norwich,Aston Villa,2021-12-14,True,60,0.0,0.0535644255578517,0.0,0.0,2,1.0,0.0,1.4,0
+Todd Cantwell,Norwich,Arsenal,,True,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Crystal Palace,,False,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,West Ham,,False,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Everton,,True,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Watford,,False,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Crystal Palace,,True,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Manchester City,,True,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Liverpool,,False,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Southampton,,False,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Brentford,,True,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Chelsea,,True,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Leicester City,,False,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Brighton,,False,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Burnley,,True,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Manchester United,,False,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Newcastle United,,True,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Aston Villa,,False,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,West Ham,,True,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Leeds United,,False,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Wolverhampton,,False,0,,,,,0,,,0.0,0
+Todd Cantwell,Norwich,Tottenham,,True,0,,,,,0,,,0.0,0

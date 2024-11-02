@@ -1,9 +1,9 @@
-name,position_x,team,bonus,clean_sheets,expected_goals_conceded,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,own_goals,starts,total_points,was_home,goals,shots,xG,time,position_y,date,xA,assists,key_passes,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Christian Chigozie,DEF,Luton,0,0,0.0,0,0.0,2024-04-03,0,Arsenal,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Luton,True,Bournemouth,,1.22
-Christian Chigozie,DEF,Luton,0,0,0.0,0,0.0,2024-04-06,0,Bournemouth,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Luton,False,Manchester City,,-1.32
-Christian Chigozie,DEF,Luton,0,0,0.0,0,0.0,2024-04-13,0,Manchester City,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Luton,True,Brentford,,0.79
-Christian Chigozie,DEF,Luton,0,0,0.0,0,0.0,2024-04-20,0,Brentford,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Luton,False,Wolverhampton,,-0.52
-Christian Chigozie,DEF,Luton,0,0,0.0,0,0.0,2024-04-27,0,Wolverhampton,0,0,0,False,0.0,1.0,0.07,83.0,DMC,2024-04-27,0.23,0.0,4.0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Luton,True,Everton,,0.53
-Christian Chigozie,DEF,Luton,0,0,0.0,0,0.0,2024-05-03,0,Everton,0,0,0,True,,,,,,,,,,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Luton,False,West Ham,,-0.22
-Christian Chigozie,DEF,Luton,0,0,0.0,0,0.0,2024-05-11,0,West Ham,0,0,0,False,,,,,,,,,,0.0,0.01,0.0,0.0,0,0,0,0,0.0,Luton,True,Fulham,,-0.13
-Christian Chigozie,DEF,Luton,0,0,0.0,0,0.0,2024-05-19,0,Fulham,0,0,0,True,0.0,0.0,0.0,14.0,Sub,2024-05-19,0.1,1.0,1.0,0.0,0.01,0.0,0.0,0,0,0,0,,Man City,False,Chelsea,-2.15,-0.85
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points
+Christian Chigozie,Luton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0
+Christian Chigozie,Luton,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0
+Christian Chigozie,Luton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0
+Christian Chigozie,Luton,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0
+Christian Chigozie,Luton,Wolverhampton,2024-04-27,False,0,0.0,0.07,0.0,0.23,0,1.0,4.0,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0
+Christian Chigozie,Luton,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0
+Christian Chigozie,Luton,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0
+Christian Chigozie,Luton,Fulham,2024-05-19,True,0,0.0,0.0,1.0,0.1,0,0.0,1.0,0.0,0,0,0,0.0,0,0.0,0.21,0.0,0,

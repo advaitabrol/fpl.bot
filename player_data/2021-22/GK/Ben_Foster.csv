@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,form,clean_sheet_probability,saves_per_game
-Ben Foster,Watford,Aston Villa,,True,0,0,0,0,0,0,False,,0.0,0.0,0.0
-Ben Foster,Watford,Southampton,2021-10-30,True,90,1,0,0,2,0,False,0.0,0.0,0.0,0.0
-Ben Foster,Watford,Arsenal,2021-11-07,False,90,1,5,1,11,3,False,0.0,1.0,0.0,1.67
-Ben Foster,Watford,Manchester United,2021-11-20,True,90,1,2,0,5,0,False,0.07,4.33,0.0,1.75
-Ben Foster,Watford,Leeds United,,False,0,0,0,0,0,0,False,,4.5,0.0,1.4
-Ben Foster,Watford,Chelsea,,True,0,0,0,0,0,0,False,,3.6,0.0,1.17
-Ben Foster,Watford,Manchester City,,True,0,0,0,0,0,0,False,,3.6,0.0,1.0
-Ben Foster,Watford,Brentford,,False,0,0,0,0,0,0,False,,3.2,0.0,0.88
-Ben Foster,Watford,Brighton,,False,0,0,0,0,0,0,False,,1.0,0.0,0.78
-Ben Foster,Watford,West Ham,,True,0,0,0,0,0,0,False,,0.0,0.0,0.7
-Ben Foster,Watford,Tottenham,,True,0,0,0,0,0,0,False,,0.0,0.0,0.64
-Ben Foster,Watford,Newcastle United,2022-01-15,False,90,1,0,0,2,0,False,0.0,0.0,0.0,0.58
-Ben Foster,Watford,Norwich,,True,0,0,0,0,0,0,False,,0.4,0.0,0.54
-Ben Foster,Watford,Burnley,2022-02-05,False,90,0,2,0,6,0,True,0.0,0.4,0.2,0.64
-Ben Foster,Watford,West Ham,2022-02-08,False,90,1,1,0,2,0,False,0.0,1.6,0.17,0.67
-Ben Foster,Watford,Brighton,2022-02-12,True,90,2,3,0,2,0,False,0.0,2.0,0.14,0.81
-Ben Foster,Watford,Aston Villa,2022-02-19,False,90,0,1,0,6,0,True,0.0,2.4,0.25,0.82
-Ben Foster,Watford,Crystal Palace,2022-02-23,True,90,4,1,0,0,0,False,0.0,3.2,0.22,0.83
-Ben Foster,Watford,Manchester United,2022-02-26,False,90,0,3,0,10,3,True,0.0,3.2,0.3,0.95
-Ben Foster,Watford,Arsenal,2022-03-06,True,90,3,1,0,1,0,False,0.0,4.0,0.27,0.95
-Ben Foster,Watford,Wolverhampton,2022-03-10,False,90,4,2,0,0,0,False,0.0,3.8,0.25,1.0
-Ben Foster,Watford,Southampton,2022-03-13,False,90,1,5,0,3,0,False,0.0,3.4,0.23,1.18
-Ben Foster,Watford,Tottenham,,False,0,0,0,0,0,0,False,,2.8,0.23,1.13
-Ben Foster,Watford,Liverpool,2022-04-02,False,90,2,1,0,1,0,False,0.0,2.8,0.21,1.12
-Ben Foster,Watford,Leicester City,2022-04-09,True,90,3,2,0,1,0,False,0.0,1.0,0.2,1.16
-Ben Foster,Watford,Brentford,2022-04-16,True,90,2,3,0,2,0,False,0.0,1.0,0.19,1.23
-Ben Foster,Watford,Manchester City,2022-04-23,False,90,5,4,0,1,0,False,0.0,1.4,0.18,1.33
-Ben Foster,Watford,Burnley,2022-04-30,True,90,2,4,0,2,0,False,0.0,1.0,0.17,1.43
-Ben Foster,Watford,Crystal Palace,2022-05-07,False,90,1,6,0,4,0,False,0.0,1.4,0.16,1.59
-Ben Foster,Watford,Everton,2022-05-11,True,90,0,5,0,10,3,True,0.0,2.0,0.2,1.7
-Ben Foster,Watford,Leeds United,2022-05-15,True,90,5,2,0,0,0,False,0.0,3.8,0.19,1.71
-Ben Foster,Watford,Chelsea,,False,0,0,0,0,0,0,False,,3.4,0.19,1.66
-Ben Foster,Watford,Wolverhampton,,True,0,0,0,0,0,0,False,,3.2,0.19,1.61
-Ben Foster,Watford,Norwich,2021-09-18,False,90,1,4,0,3,0,False,0.0,2.8,0.18,1.68
-Ben Foster,Watford,Newcastle United,2021-09-25,True,90,1,5,0,3,0,False,0.0,2.6,0.17,1.77
-Ben Foster,Watford,Leicester City,2021-10-02,False,90,1,2,0,2,0,False,0.0,1.2,0.17,1.78
-Ben Foster,Watford,Liverpool,2021-10-16,True,90,5,4,0,1,0,False,0.0,1.6,0.16,1.84
-Ben Foster,Watford,Everton,2021-10-23,False,90,2,2,0,1,0,False,0.0,1.8,0.15,1.84
+name,team,opponent_team,date,was_home,minutes,goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA
+Ben Foster,Watford,Aston Villa,,True,0,0,0,0,0,0,0,
+Ben Foster,Watford,Brighton,,False,0,0,0,0,0,0,0,
+Ben Foster,Watford,Tottenham,,False,0,0,0,0,0,0,0,
+Ben Foster,Watford,Wolverhampton,,True,0,0,0,0,0,0,0,
+Ben Foster,Watford,Norwich,2021-09-18,False,90,1,4,0,3,0,0,0.0
+Ben Foster,Watford,Newcastle United,2021-09-25,True,90,1,5,0,3,0,0,0.0
+Ben Foster,Watford,Leicester City,2021-10-02,False,90,1,2,0,2,0,0,0.0
+Ben Foster,Watford,Liverpool,2021-10-16,True,90,5,4,0,1,0,0,0.0
+Ben Foster,Watford,Everton,2021-10-23,False,90,2,2,0,1,0,0,0.0
+Ben Foster,Watford,Southampton,2021-10-30,True,90,1,0,0,2,0,0,0.0
+Ben Foster,Watford,Arsenal,2021-11-07,False,90,1,5,1,11,3,0,0.0
+Ben Foster,Watford,Manchester United,2021-11-20,True,90,1,2,0,5,0,0,0.0675887167453765
+Ben Foster,Watford,Leeds United,,False,0,0,0,0,0,0,0,
+Ben Foster,Watford,Chelsea,,True,0,0,0,0,0,0,0,
+Ben Foster,Watford,Manchester City,,True,0,0,0,0,0,0,0,
+Ben Foster,Watford,Brentford,,False,0,0,0,0,0,0,0,
+Ben Foster,Watford,West Ham,,True,0,0,0,0,0,0,0,
+Ben Foster,Watford,Tottenham,,True,0,0,0,0,0,0,0,
+Ben Foster,Watford,Newcastle United,2022-01-15,False,90,1,0,0,2,0,0,0.0
+Ben Foster,Watford,Norwich,,True,0,0,0,0,0,0,0,
+Ben Foster,Watford,Burnley,2022-02-05,False,90,0,2,0,6,0,1,0.0
+Ben Foster,Watford,West Ham,2022-02-08,False,90,1,1,0,2,0,0,0.0
+Ben Foster,Watford,Brighton,2022-02-12,True,90,2,3,0,2,0,0,0.0
+Ben Foster,Watford,Aston Villa,2022-02-19,False,90,0,1,0,6,0,1,0.0
+Ben Foster,Watford,Crystal Palace,2022-02-23,True,90,4,1,0,0,0,0,0.0
+Ben Foster,Watford,Manchester United,2022-02-26,False,90,0,3,0,10,3,1,0.0
+Ben Foster,Watford,Arsenal,2022-03-06,True,90,3,1,0,1,0,0,0.0
+Ben Foster,Watford,Wolverhampton,2022-03-10,False,90,4,2,0,0,0,0,0.0
+Ben Foster,Watford,Southampton,2022-03-13,False,90,1,5,0,3,0,0,0.0
+Ben Foster,Watford,Liverpool,2022-04-02,False,90,2,1,0,1,0,0,0.0
+Ben Foster,Watford,Leicester City,2022-04-09,True,90,3,2,0,1,0,0,0.0
+Ben Foster,Watford,Brentford,2022-04-16,True,90,2,3,0,2,0,0,0.0
+Ben Foster,Watford,Manchester City,2022-04-23,False,90,5,4,0,1,0,0,0.0
+Ben Foster,Watford,Burnley,2022-04-30,True,90,2,4,0,2,0,0,0.0
+Ben Foster,Watford,Crystal Palace,2022-05-07,False,90,1,6,0,4,0,0,0.0
+Ben Foster,Watford,Everton,2022-05-11,True,90,0,5,0,10,3,1,0.0
+Ben Foster,Watford,Leeds United,2022-05-15,True,90,5,2,0,0,0,0,0.0
+Ben Foster,Watford,Chelsea,,False,0,0,0,0,0,0,0,

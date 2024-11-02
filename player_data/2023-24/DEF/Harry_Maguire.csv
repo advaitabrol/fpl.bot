@@ -1,39 +1,39 @@
-name,position_x,team,bonus,clean_sheets,expected_goals_conceded,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,own_goals,starts,total_points,was_home,goals,shots,xG,time,position_y,date,xA,assists,key_passes,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Harry Maguire,DEF,Man Utd,0,0,0.0,0,0.0,2023-08-14,0,Wolverhampton,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0.15,0.38,6.41,0.62,1,Man Utd,True,Manchester City,-1.29,-0.96
-Harry Maguire,DEF,Man Utd,0,0,3.94,3,2.2,2023-10-29,90,Manchester City,0,1,1,True,0.0,1.0,0.02,90.0,DC,2023-10-29,0.0,0.0,0.0,0.0,0.0,45.0,0.0,0.15,0.38,6.41,0.62,7,Man Utd,False,Fulham,-3.44,0.86
-Harry Maguire,DEF,Man Utd,1,1,1.01,0,3.6,2023-11-04,90,Fulham,0,1,7,False,0.0,0.0,0.0,90.0,DC,2023-11-04,0.0,0.0,0.0,0.5,0.01,60.0,0.5,0.15,0.38,6.41,0.62,6,Man Utd,True,Luton,,
-Harry Maguire,DEF,Man Utd,0,1,0.42,0,4.5,2023-11-11,90,Luton,0,1,6,True,0.0,0.0,0.0,90.0,DC,2023-11-11,0.06,0.0,1.0,2.67,0.01,67.5,0.67,0.15,0.38,6.41,0.62,6,Man Utd,False,Everton,0.29,-0.24
-Harry Maguire,DEF,Man Utd,0,1,2.73,0,2.7,2023-11-26,90,Everton,0,1,6,False,0.0,1.0,0.06,90.0,DC,2023-11-26,0.0,0.0,0.0,3.5,0.0,72.0,0.75,0.15,0.38,6.41,0.62,1,Man Utd,False,Newcastle United,1.53,-0.41
-Harry Maguire,DEF,Man Utd,0,0,2.65,1,3.9,2023-12-02,90,Newcastle United,0,1,1,False,0.0,2.0,0.11,90.0,DC,2023-12-02,0.0,0.0,0.0,4.0,0.02,75.0,0.6,0.15,0.38,6.41,0.62,5,Man Utd,True,Chelsea,-2.84,-0.25
-Harry Maguire,DEF,Man Utd,0,0,1.4,1,1.7,2023-12-06,90,Chelsea,0,1,5,True,0.0,1.0,0.13,90.0,DC,2023-12-06,0.0,0.0,0.0,4.2,0.04,77.14,0.5,0.15,0.38,6.41,0.62,1,Man Utd,True,Bournemouth,-3.39,1.22
-Harry Maguire,DEF,Man Utd,0,0,1.48,3,5.1,2023-12-09,90,Bournemouth,0,1,1,True,0.0,2.0,0.04,90.0,DC,2023-12-09,0.0,0.0,0.0,5.0,0.06,78.75,0.43,0.15,0.38,6.41,0.62,0,Man Utd,False,Liverpool,4.73,-1.01
-Harry Maguire,DEF,Man Utd,0,0,0.0,0,0.0,2023-12-17,0,Liverpool,0,0,0,False,,,,,,,,,,3.8,0.07,70.0,0.43,0.15,0.38,6.41,0.62,0,Man Utd,False,West Ham,1.21,-0.22
-Harry Maguire,DEF,Man Utd,0,0,0.0,0,0.0,2023-12-23,0,West Ham,0,0,0,False,,,,,,,,,,2.6,0.07,63.0,0.43,0.15,0.38,6.41,0.62,0,Man Utd,True,Aston Villa,-0.0,0.64
-Harry Maguire,DEF,Man Utd,0,0,0.0,0,0.0,2023-12-26,0,Aston Villa,0,0,0,True,,,,,,,,,,1.4,0.06,57.27,0.43,0.15,0.38,6.41,0.62,0,Man Utd,False,Tottenham,-1.07,-0.36
-Harry Maguire,DEF,Man Utd,0,0,0.0,0,0.0,2023-08-19,0,Tottenham,0,0,0,False,,,,,,,,,,1.2,0.03,52.5,0.43,0.15,0.38,6.41,0.62,0,Man Utd,False,Nottingham Forest,-2.13,-0.55
-Harry Maguire,DEF,Man Utd,0,0,0.0,0,0.0,2023-12-30,0,Nottingham Forest,0,0,0,False,,,,,,,,,,0.2,0.01,48.46,0.43,0.15,0.38,6.41,0.62,0,Man Utd,True,Tottenham,-2.65,0.69
-Harry Maguire,DEF,Man Utd,0,0,0.0,0,0.0,2024-01-14,0,Tottenham,0,0,0,True,,,,,,,,,,0.0,0.0,45.0,0.43,0.15,0.38,6.41,0.62,1,Man Utd,False,Wolverhampton,-0.28,-0.52
-Harry Maguire,DEF,Man Utd,0,0,0.13,1,0.2,2024-02-01,4,Wolverhampton,0,0,1,False,0.0,0.0,0.0,1.0,Sub,2024-02-01,0.0,0.0,0.0,0.0,0.0,42.27,0.43,0.15,0.38,6.41,0.62,6,Man Utd,True,West Ham,-1.53,0.49
-Harry Maguire,DEF,Man Utd,0,1,1.69,0,2.4,2024-02-04,90,West Ham,0,1,6,True,0.0,0.0,0.0,90.0,DC,2024-02-04,0.0,0.0,0.0,0.2,0.0,45.25,0.5,0.15,0.38,6.41,0.62,7,Man Utd,False,Aston Villa,0.57,0.29
-Harry Maguire,DEF,Man Utd,2,0,2.49,1,6.1,2024-02-11,90,Aston Villa,0,1,7,False,0.0,2.0,0.1,90.0,DC,2024-02-11,0.63,1.0,1.0,1.4,0.0,47.88,0.44,0.15,0.38,6.41,0.62,0,Man Utd,False,Luton,,
-Harry Maguire,DEF,Man Utd,0,0,1.13,1,1.3,2024-02-18,45,Luton,0,1,0,False,0.0,0.0,0.0,50.0,DC,2024-02-18,0.09,0.0,1.0,2.8,0.22,47.72,0.44,0.15,0.38,6.41,0.62,6,Man Utd,True,Fulham,-0.98,-0.13
-Harry Maguire,DEF,Man Utd,0,0,1.11,2,13.8,2024-02-24,90,Fulham,0,1,6,True,1.0,4.0,1.32,90.0,DC,2024-02-24,0.11,0.0,2.0,2.8,0.22,49.95,0.4,0.15,0.38,6.41,0.62,0,Man Utd,False,Manchester City,1.52,-1.32
-Harry Maguire,DEF,Man Utd,0,0,0.0,0,0.0,2024-03-03,0,Manchester City,0,0,0,False,,,,,,,,,,4.0,0.48,47.45,0.4,0.15,0.38,6.41,0.62,0,Man Utd,True,Everton,-0.73,0.53
-Harry Maguire,DEF,Man Utd,0,0,0.0,0,0.0,2024-03-09,0,Everton,0,0,0,True,,,,,,,,,,3.8,0.48,45.19,0.4,0.15,0.38,6.41,0.62,0,Man Utd,True,Nottingham Forest,-0.7,1.55
-Harry Maguire,DEF,Man Utd,0,0,0.0,0,0.0,2023-08-26,0,Nottingham Forest,0,0,0,True,,,,,,,,,,2.6,0.48,43.14,0.4,0.15,0.38,6.41,0.62,1,Man Utd,False,Brentford,5.05,-0.53
-Harry Maguire,DEF,Man Utd,0,0,1.76,1,1.9,2024-03-30,45,Brentford,0,0,1,False,0.0,1.0,0.11,43.0,Sub,2024-03-30,0.0,0.0,0.0,1.2,0.26,43.22,0.4,0.15,0.38,6.41,0.62,0,Man Utd,False,Chelsea,0.38,-0.85
-Harry Maguire,DEF,Man Utd,0,0,3.04,4,2.1,2024-04-04,90,Chelsea,0,1,0,False,0.0,3.0,0.13,90.0,DC,2024-04-04,0.0,0.0,0.0,1.4,0.29,45.17,0.36,0.15,0.38,6.41,0.62,1,Man Utd,True,Liverpool,0.14,0.18
-Harry Maguire,DEF,Man Utd,0,0,3.59,2,3.2,2024-04-07,90,Liverpool,0,1,1,True,0.0,1.0,0.02,90.0,DC,2024-04-07,0.0,0.0,0.0,0.2,0.05,46.96,0.33,0.15,0.38,6.41,0.62,1,Man Utd,False,Bournemouth,,0.19
-Harry Maguire,DEF,Man Utd,0,0,1.75,2,3.0,2024-04-13,90,Bournemouth,0,1,1,False,0.0,1.0,0.01,90.0,DC,2024-04-13,0.0,0.0,0.0,0.4,0.05,48.62,0.31,0.15,0.38,6.41,0.62,12,Man Utd,True,Sheffield,,0.68
-Harry Maguire,DEF,Man Utd,2,0,0.77,2,9.6,2024-04-24,90,Sheffield,0,1,12,True,1.0,1.0,0.09,90.0,DC,2024-04-24,0.0,0.0,0.0,0.6,0.05,50.15,0.29,0.15,0.38,6.41,0.62,2,Man Utd,True,Burnley,-3.36,0.39
-Harry Maguire,DEF,Man Utd,0,0,2.06,1,2.1,2024-04-27,90,Burnley,0,1,2,True,0.0,0.0,0.0,90.0,DC,2024-04-27,0.0,0.0,0.0,3.0,0.07,51.57,0.27,0.15,0.38,6.41,0.62,0,Man Utd,False,Crystal Palace,-0.01,0.38
-Harry Maguire,DEF,Man Utd,0,0,0.0,0,0.0,2024-05-06,0,Crystal Palace,0,0,0,False,,,,,,,,,,3.2,0.05,49.79,0.27,0.15,0.38,6.41,0.62,0,Man Utd,True,Arsenal,-3.39,-0.11
-Harry Maguire,DEF,Man Utd,0,0,0.0,0,0.0,2024-05-12,0,Arsenal,0,0,0,True,,,,,,,,,,3.2,0.02,48.13,0.27,0.15,0.38,6.41,0.62,0,Man Utd,True,Newcastle United,-1.49,0.55
-Harry Maguire,DEF,Man Utd,0,0,0.0,0,0.0,2024-05-15,0,Newcastle United,0,0,0,True,,,,,,,,,,3.0,0.02,46.58,0.27,0.15,0.38,6.41,0.62,0,Man Utd,False,Brighton,,-0.6
-Harry Maguire,DEF,Man Utd,0,0,0.0,0,0.0,2024-05-19,0,Brighton,0,0,0,False,,,,,,,,,,2.8,0.02,45.12,0.27,0.15,0.38,6.41,0.62,0,Man Utd,False,Arsenal,2.23,-0.48
-Harry Maguire,DEF,Man Utd,0,0,1.2,2,0.2,2023-09-03,23,Arsenal,0,0,0,False,0.0,0.0,0.0,20.0,Sub,2023-09-03,0.0,0.0,0.0,0.4,0.0,44.45,0.27,0.15,0.38,6.41,0.62,0,Man Utd,True,Brighton,1.76,-0.66
-Harry Maguire,DEF,Man Utd,0,0,0.0,0,0.0,2023-09-16,0,Brighton,0,0,0,True,,,,,,,,,,0.0,0.0,43.15,0.27,0.15,0.38,6.41,0.62,0,Man Utd,False,Burnley,-1.02,0.0
-Harry Maguire,DEF,Man Utd,0,0,0.0,0,0.0,2023-09-23,0,Burnley,0,0,0,False,,,,,,,,,,0.0,0.0,41.91,0.27,0.15,0.38,6.41,0.62,1,Man Utd,True,Crystal Palace,2.24,0.88
-Harry Maguire,DEF,Man Utd,0,0,0.0,0,0.3,2023-09-30,3,Crystal Palace,0,0,1,True,0.0,0.0,0.0,1.0,Sub,2023-09-30,0.0,0.0,0.0,0.0,0.0,40.83,0.27,0.15,0.38,6.41,0.62,6,Man Utd,True,Brentford,0.07,0.79
-Harry Maguire,DEF,Man Utd,1,0,0.95,1,4.8,2023-10-07,90,Brentford,0,1,6,True,0.0,0.0,0.0,90.0,DC,2023-10-07,0.42,1.0,1.0,0.2,0.0,42.16,0.25,0.15,0.38,6.41,0.62,2,Man Utd,False,Sheffield,-1.0,-0.61
-Harry Maguire,DEF,Man Utd,0,0,1.38,1,3.0,2023-10-21,90,Sheffield,0,1,2,False,0.0,0.0,0.0,90.0,DC,2023-10-21,0.0,0.0,0.0,1.4,0.2,43.42,0.24,0.15,0.38,6.41,0.62,5,Man Utd,True,Fulham,,-0.13
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points
+Harry Maguire,Man Utd,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.15,0.38,0.62,6.41,0.0
+Harry Maguire,Man Utd,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.15,0.38,0.62,6.41,0.0
+Harry Maguire,Man Utd,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.15,0.38,0.62,6.41,0.0
+Harry Maguire,Man Utd,Arsenal,2023-09-03,False,23,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,0,2,1.2,0,0.0,0.0,5.75,0.0,0.15,0.38,0.62,6.41,0.0
+Harry Maguire,Man Utd,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,4.6,0.0,0.15,0.38,0.62,6.41,0.0
+Harry Maguire,Man Utd,Burnley,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,3.83,0.0,0.15,0.38,0.62,6.41,1.0
+Harry Maguire,Man Utd,Crystal Palace,2023-09-30,True,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,0,0.2,0.0,3.71,0.0,0.15,0.38,0.62,6.41,6.0
+Harry Maguire,Man Utd,Brentford,2023-10-07,True,90,0.0,0.0,1.0,0.42,6,0.0,1.0,4.8,1,0,1,0.95,1,1.4,0.2,14.5,0.0,0.15,0.38,0.62,6.41,2.0
+Harry Maguire,Man Utd,Sheffield,2023-10-21,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.0,0,0,1,1.38,1,1.8,0.2,22.89,0.0,0.15,0.38,0.62,6.41,1.0
+Harry Maguire,Man Utd,Manchester City,2023-10-29,True,90,0.0,0.02,0.0,0.0,1,1.0,0.0,2.2,0,0,3,3.94,1,2.0,0.2,29.6,0.0,0.15,0.38,0.62,6.41,7.0
+Harry Maguire,Man Utd,Fulham,2023-11-04,False,90,0.0,0.0,0.0,0.0,7,0.0,0.0,3.6,1,1,0,1.01,1,3.4,0.2,35.09,0.17,0.15,0.38,0.62,6.41,6.0
+Harry Maguire,Man Utd,Luton,2023-11-11,True,90,0.0,0.0,0.0,0.06,6,0.0,1.0,4.5,0,1,0,0.42,1,4.4,0.2,39.67,0.29,0.15,0.38,0.62,6.41,6.0
+Harry Maguire,Man Utd,Everton,2023-11-26,False,90,0.0,0.06,0.0,0.0,6,1.0,0.0,2.7,0,1,0,2.73,1,4.4,0.02,43.54,0.38,0.15,0.38,0.62,6.41,1.0
+Harry Maguire,Man Utd,Newcastle United,2023-12-02,False,90,0.0,0.11,0.0,0.0,1,2.0,0.0,3.9,0,0,1,2.65,1,4.2,0.04,46.86,0.33,0.15,0.38,0.62,6.41,5.0
+Harry Maguire,Man Utd,Chelsea,2023-12-06,True,90,0.0,0.13,0.0,0.0,5,1.0,0.0,1.7,0,0,1,1.4,1,5.0,0.06,49.73,0.3,0.15,0.38,0.62,6.41,1.0
+Harry Maguire,Man Utd,Bournemouth,2023-12-09,True,90,0.0,0.04,0.0,0.0,1,2.0,0.0,5.1,0,0,3,1.48,1,3.8,0.07,52.25,0.27,0.15,0.38,0.62,6.41,0.0
+Harry Maguire,Man Utd,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.6,0.07,49.18,0.27,0.15,0.38,0.62,6.41,0.0
+Harry Maguire,Man Utd,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.4,0.06,46.44,0.27,0.15,0.38,0.62,6.41,0.0
+Harry Maguire,Man Utd,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.2,0.03,44.0,0.27,0.15,0.38,0.62,6.41,0.0
+Harry Maguire,Man Utd,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.01,41.8,0.27,0.15,0.38,0.62,6.41,0.0
+Harry Maguire,Man Utd,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,39.81,0.27,0.15,0.38,0.62,6.41,1.0
+Harry Maguire,Man Utd,Wolverhampton,2024-02-01,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,0.13,0,0.2,0.0,38.18,0.25,0.15,0.38,0.62,6.41,6.0
+Harry Maguire,Man Utd,West Ham,2024-02-04,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.4,0,1,0,1.69,1,1.4,0.0,40.43,0.31,0.15,0.38,0.62,6.41,7.0
+Harry Maguire,Man Utd,Aston Villa,2024-02-11,False,90,0.0,0.1,1.0,0.63,7,2.0,1.0,6.1,2,0,1,2.49,1,2.8,0.22,42.5,0.29,0.15,0.38,0.62,6.41,0.0
+Harry Maguire,Man Utd,Luton,2024-02-18,False,45,0.0,0.0,0.0,0.09,0,0.0,1.0,1.3,0,0,1,1.13,1,2.8,0.22,42.6,0.27,0.15,0.38,0.62,6.41,6.0
+Harry Maguire,Man Utd,Fulham,2024-02-24,True,90,1.0,1.32,0.0,0.11,6,4.0,2.0,13.8,0,0,2,1.11,1,4.0,0.48,44.42,0.25,0.15,0.38,0.62,6.41,0.0
+Harry Maguire,Man Utd,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3.8,0.48,42.78,0.25,0.15,0.38,0.62,6.41,0.0
+Harry Maguire,Man Utd,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.6,0.48,41.25,0.25,0.15,0.38,0.62,6.41,1.0
+Harry Maguire,Man Utd,Brentford,2024-03-30,False,45,0.0,0.11,0.0,0.0,1,1.0,0.0,1.9,0,0,1,1.76,0,1.4,0.29,41.38,0.24,0.15,0.38,0.62,6.41,0.0
+Harry Maguire,Man Utd,Chelsea,2024-04-04,False,90,0.0,0.13,0.0,0.0,0,3.0,0.0,2.1,0,0,4,3.04,1,1.4,0.31,43.0,0.22,0.15,0.38,0.62,6.41,1.0
+Harry Maguire,Man Utd,Liverpool,2024-04-07,True,90,0.0,0.02,0.0,0.0,1,1.0,0.0,3.2,0,0,2,3.59,1,0.4,0.05,44.52,0.21,0.15,0.38,0.62,6.41,1.0
+Harry Maguire,Man Utd,Bournemouth,2024-04-13,False,90,0.0,0.01,0.0,0.0,1,1.0,0.0,3.0,0,0,2,1.75,1,0.6,0.05,45.94,0.2,0.15,0.38,0.62,6.41,12.0
+Harry Maguire,Man Utd,Sheffield,2024-04-24,True,90,1.0,0.09,0.0,0.0,12,1.0,0.0,9.6,2,0,2,0.77,1,3.0,0.07,47.27,0.19,0.15,0.38,0.62,6.41,2.0
+Harry Maguire,Man Utd,Burnley,2024-04-27,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.1,0,0,1,2.06,1,3.2,0.05,48.53,0.18,0.15,0.38,0.62,6.41,0.0
+Harry Maguire,Man Utd,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3.2,0.02,47.14,0.18,0.15,0.38,0.62,6.41,0.0
+Harry Maguire,Man Utd,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3.0,0.02,45.83,0.18,0.15,0.38,0.62,6.41,0.0
+Harry Maguire,Man Utd,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.8,0.02,44.59,0.18,0.15,0.38,0.62,6.41,0.0
+Harry Maguire,Man Utd,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,43.42,0.18,0.15,0.38,0.62,6.41,

@@ -1,10 +1,10 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Craig Dawson,Wolves,Arsenal,2024-08-17,False,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,0.0,0.0,6.0,0.0,1.35,1.35,38.47,0.24,1.0,Wolves,True,Chelsea,,0.0
-Craig Dawson,Wolves,Chelsea,2024-08-25,True,Sub,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,0.32,False,1.0,0.0,14.5,0.0,1.35,1.35,38.47,0.24,2.0,Wolves,False,Nottingham Forest,,-0.54
-Craig Dawson,Wolves,Nottingham Forest,2024-08-31,False,DC,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.1,0,0,1,1.04,True,1.0,0.0,39.67,0.0,1.35,1.35,38.47,0.24,1.0,Wolves,True,Newcastle United,,0.67
-Craig Dawson,Wolves,Newcastle United,2024-09-15,True,DC,90,0.0,0.0,0.0,0.01,1,0.0,1.0,3.7,0,0,2,1.21,True,1.33,0.0,52.25,0.0,1.35,1.35,38.47,0.24,1.0,Wolves,False,Aston Villa,,0.11
-Craig Dawson,Wolves,Aston Villa,2024-09-21,False,DC,90,0.0,0.05,0.0,0.06,1,1.0,1.0,3.3,0,0,3,1.73,True,1.25,0.0,59.8,0.0,1.35,1.35,38.47,0.24,0.0,Wolves,True,Liverpool,,0.24
-Craig Dawson,Wolves,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.2,0.01,49.83,0.0,1.35,1.35,38.47,0.24,-1.0,Wolves,False,Brentford,,-0.15
-Craig Dawson,Wolves,Brentford,2024-10-05,False,DC,90,0.0,0.06,0.0,0.0,-1,1.0,0.0,3.5,0,0,5,4.25,True,1.0,0.01,55.57,0.0,1.35,1.35,38.47,0.24,1.0,Wolves,True,Manchester City,,-1.18
-Craig Dawson,Wolves,Manchester City,2024-10-20,True,DC,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,2,1.62,True,0.6,0.02,59.88,0.0,1.35,1.35,38.47,0.24,4.0,Wolves,False,Brighton,,-0.61
-Craig Dawson,Wolves,Brighton,2024-10-26,False,DC,90,0.0,0.27,0.0,0.0,4,2.0,0.0,4.9,0,0,2,1.31,True,0.4,0.02,63.22,0.0,1.35,1.35,38.47,0.24,,,,,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Craig Dawson,Wolves,Arsenal,2024-08-17,False,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,0,1.0,0.0,6.0,0.0,1.35,1.35,0.24,38.47,1.0,Wolves,True,Chelsea,-2.49,0.0
+Craig Dawson,Wolves,Chelsea,2024-08-25,True,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,0.32,0,1.0,0.0,14.5,0.0,1.35,1.35,0.24,38.47,2.0,Wolves,False,Nottingham Forest,0.01,-0.54
+Craig Dawson,Wolves,Nottingham Forest,2024-08-31,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.1,0,0,1,1.04,1,1.33,0.0,39.67,0.0,1.35,1.35,0.24,38.47,1.0,Wolves,True,Newcastle United,-0.98,0.67
+Craig Dawson,Wolves,Newcastle United,2024-09-15,True,90,0.0,0.0,0.0,0.01,1,0.0,1.0,3.7,0,0,2,1.21,1,1.25,0.0,52.25,0.0,1.35,1.35,0.24,38.47,1.0,Wolves,False,Aston Villa,-0.08,0.11
+Craig Dawson,Wolves,Aston Villa,2024-09-21,False,90,0.0,0.05,0.0,0.06,1,1.0,1.0,3.3,0,0,3,1.73,1,1.2,0.01,59.8,0.0,1.35,1.35,0.24,38.47,0.0,Wolves,True,Liverpool,-2.02,0.24
+Craig Dawson,Wolves,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.0,0.01,49.83,0.0,1.35,1.35,0.24,38.47,-1.0,Wolves,False,Brentford,-2.66,-0.15
+Craig Dawson,Wolves,Brentford,2024-10-05,False,90,0.0,0.06,0.0,0.0,-1,1.0,0.0,3.5,0,0,5,4.25,1,0.6,0.02,55.57,0.0,1.35,1.35,0.24,38.47,1.0,Wolves,True,Manchester City,1.61,-1.18
+Craig Dawson,Wolves,Manchester City,2024-10-20,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,2,1.62,1,0.4,0.02,59.88,0.0,1.35,1.35,0.24,38.47,4.0,Wolves,False,Brighton,0.59,-0.61
+Craig Dawson,Wolves,Brighton,2024-10-26,False,90,0.0,0.27,0.0,0.0,4,2.0,0.0,4.9,0,0,2,1.31,1,1.0,0.08,63.22,0.0,1.35,1.35,0.24,38.47,,,,,,

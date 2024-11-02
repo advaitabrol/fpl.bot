@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Sandro Tonali,Newcastle,Aston Villa,2023-08-12,True,MC,90,1.0,0.84,0.0,0.09,6,2.0,1.0,0.0,0,0,1,True,0.0,0.0,90.0,0,0,0,0,0,0,Newcastle,False,Wolverhampton,1.1,-0.52
-Sandro Tonali,Newcastle,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,6.0,0.84,45.0,0,0,0,0,0,0,Newcastle,True,Arsenal,0.14,-0.11
-Sandro Tonali,Newcastle,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,3.0,0.42,30.0,0,0,0,0,0,0,Newcastle,False,Bournemouth,1.71,0.19
-Sandro Tonali,Newcastle,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.28,22.5,0,0,0,0,0,0,Newcastle,True,Chelsea,0.4,-0.25
-Sandro Tonali,Newcastle,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,1.5,0.21,18.0,0,0,0,0,0,0,Newcastle,True,Manchester United,-2.03,0.38
-Sandro Tonali,Newcastle,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.17,15.0,0,0,0,0,0,0,Newcastle,False,Everton,0.0,-0.24
-Sandro Tonali,Newcastle,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,12.86,0,0,0,0,0,0,Newcastle,False,Tottenham,2.46,-0.36
-Sandro Tonali,Newcastle,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,11.25,0,0,0,0,0,0,Newcastle,True,Fulham,-0.08,-0.13
-Sandro Tonali,Newcastle,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,10.0,0,0,0,0,0,0,Newcastle,False,Luton,,
-Sandro Tonali,Newcastle,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,9.0,0,0,0,0,0,0,Newcastle,True,Nottingham Forest,-0.46,1.55
-Sandro Tonali,Newcastle,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.18,0,0,0,0,0,1,Newcastle,False,Manchester City,3.85,-1.32
-Sandro Tonali,Newcastle,Manchester City,2023-08-19,False,MC,66,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1,True,0.0,0.0,13.0,0,0,0,0,0,0,Newcastle,False,Liverpool,0.9,-1.01
-Sandro Tonali,Newcastle,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,12.0,0,0,0,0,0,0,Newcastle,True,Manchester City,4.58,-0.96
-Sandro Tonali,Newcastle,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,11.14,0,0,0,0,0,0,Newcastle,False,Aston Villa,4.29,0.29
-Sandro Tonali,Newcastle,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,10.4,0,0,0,0,0,0,Newcastle,True,Luton,,
-Sandro Tonali,Newcastle,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,9.75,0,0,0,0,0,0,Newcastle,False,Nottingham Forest,-0.04,-0.55
-Sandro Tonali,Newcastle,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,9.18,0,0,0,0,0,0,Newcastle,True,Bournemouth,2.6,1.22
-Sandro Tonali,Newcastle,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.67,0,0,0,0,0,0,Newcastle,False,Arsenal,0.96,-0.48
-Sandro Tonali,Newcastle,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.21,0,0,0,0,0,0,Newcastle,True,Wolverhampton,-1.62,0.05
-Sandro Tonali,Newcastle,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.8,0,0,0,0,0,0,Newcastle,False,Chelsea,-0.14,-0.85
-Sandro Tonali,Newcastle,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.43,0,0,0,0,0,3,Newcastle,True,Liverpool,1.61,0.18
-Sandro Tonali,Newcastle,Liverpool,2023-08-27,True,MC,71,0.0,0.02,0.0,0.0,3,1.0,0.0,1.5,0,1,0,True,0.0,0.0,10.32,0,0,0,0,0,0,Newcastle,True,West Ham,0.49,0.49
-Sandro Tonali,Newcastle,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,9.87,0,0,0,0,0,0,Newcastle,True,Everton,-1.47,0.53
-Sandro Tonali,Newcastle,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,9.46,0,0,0,0,0,0,Newcastle,False,Fulham,-1.62,0.86
-Sandro Tonali,Newcastle,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,9.08,0,0,0,0,0,0,Newcastle,True,Tottenham,-0.29,0.69
-Sandro Tonali,Newcastle,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,8.73,0,0,0,0,0,0,Newcastle,False,Crystal Palace,-1.13,0.38
-Sandro Tonali,Newcastle,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,8.41,0,0,0,0,0,0,Newcastle,True,Sheffield,,0.68
-Sandro Tonali,Newcastle,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,8.11,0,0,0,0,0,0,Newcastle,False,Burnley,,0.0
-Sandro Tonali,Newcastle,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.83,0,0,0,0,0,0,Newcastle,True,Brighton,,-0.66
-Sandro Tonali,Newcastle,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.57,0,0,0,0,0,0,Newcastle,False,Manchester United,0.66,-0.63
-Sandro Tonali,Newcastle,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.32,0,0,0,0,0,0,Newcastle,False,Brentford,,-0.53
-Sandro Tonali,Newcastle,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,7.09,0,0,0,0,0,1,Newcastle,False,Brighton,0.38,-0.6
-Sandro Tonali,Newcastle,Brighton,2023-09-02,False,MC,57,0.0,0.0,0.0,0.17,1,0.0,2.0,4.5,0,0,1,True,0.0,0.0,8.61,0,0,0,0,0,0,Newcastle,True,Brentford,-2.07,0.79
-Sandro Tonali,Newcastle,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,8.35,0,0,0,0,0,1,Newcastle,False,Sheffield,-6.83,-0.61
-Sandro Tonali,Newcastle,Sheffield,2023-09-24,False,Sub,20,0.0,0.0,0.0,0.16,1,0.0,2.0,3.9,0,0,0,False,0.2,0.0,8.69,0,0,0,0,0,1,Newcastle,True,Burnley,-2.77,0.39
-Sandro Tonali,Newcastle,Burnley,2023-09-30,True,Sub,22,0.0,0.0,0.0,0.11,1,0.0,1.0,1.7,0,0,0,False,0.4,0.0,9.06,0,0,0,0,0,2,Newcastle,False,West Ham,2.29,-0.22
-Sandro Tonali,Newcastle,West Ham,2023-10-08,False,MC,90,0.0,0.0,0.0,0.02,2,0.0,1.0,2.0,0,0,2,True,0.6,0.0,11.24,0,0,0,0,0,1,Newcastle,True,Crystal Palace,-2.15,0.88
-Sandro Tonali,Newcastle,Crystal Palace,2023-10-21,True,Sub,21,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,False,1.0,0.0,11.5,0,0,0,0,0,0,Newcastle,True,Southampton,0.18,0.24
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
+Sandro Tonali,Newcastle,Aston Villa,2023-08-12,True,90,1.0,0.84,0.0,0.09,6,2.0,1.0,0.0,0,1,6.0,0.84,90.0,1.0
+Sandro Tonali,Newcastle,Manchester City,2023-08-19,False,66,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,1,3.5,0.42,78.0,3.0
+Sandro Tonali,Newcastle,Liverpool,2023-08-27,True,71,0.0,0.02,0.0,0.0,3,1.0,0.0,1.5,0,1,3.33,0.29,75.67,1.0
+Sandro Tonali,Newcastle,Brighton,2023-09-02,False,57,0.0,0.0,0.0,0.17,1,0.0,2.0,4.5,0,1,2.75,0.21,71.0,0.0
+Sandro Tonali,Newcastle,Brentford,,True,0,,,,,0,,,0.0,0,0,2.2,0.17,56.8,1.0
+Sandro Tonali,Newcastle,Sheffield,2023-09-24,False,20,0.0,0.0,0.0,0.16,1,0.0,2.0,3.9,0,0,1.2,0.0,50.67,1.0
+Sandro Tonali,Newcastle,Burnley,2023-09-30,True,22,0.0,0.0,0.0,0.11,1,0.0,1.0,1.7,0,0,1.2,0.0,46.57,2.0
+Sandro Tonali,Newcastle,West Ham,2023-10-08,False,90,0.0,0.0,0.0,0.02,2,0.0,1.0,2.0,0,1,1.0,0.0,52.0,1.0
+Sandro Tonali,Newcastle,Crystal Palace,2023-10-21,True,21,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1.0,0.0,48.56,0.0
+Sandro Tonali,Newcastle,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,1.0,0.0,43.7,0.0
+Sandro Tonali,Newcastle,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.8,0.0,39.73,0.0
+Sandro Tonali,Newcastle,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.6,0.0,36.42,0.0
+Sandro Tonali,Newcastle,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,33.62,0.0
+Sandro Tonali,Newcastle,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,31.21,0.0
+Sandro Tonali,Newcastle,Everton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,29.13,0.0
+Sandro Tonali,Newcastle,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,27.31,0.0
+Sandro Tonali,Newcastle,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,25.71,0.0
+Sandro Tonali,Newcastle,Luton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,24.28,0.0
+Sandro Tonali,Newcastle,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,23.0,0.0
+Sandro Tonali,Newcastle,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,21.85,0.0
+Sandro Tonali,Newcastle,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,20.81,0.0
+Sandro Tonali,Newcastle,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,19.86,0.0
+Sandro Tonali,Newcastle,Luton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,19.0,0.0
+Sandro Tonali,Newcastle,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,18.21,0.0
+Sandro Tonali,Newcastle,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,17.48,0.0
+Sandro Tonali,Newcastle,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,16.81,0.0
+Sandro Tonali,Newcastle,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,16.19,0.0
+Sandro Tonali,Newcastle,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,15.61,0.0
+Sandro Tonali,Newcastle,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,15.07,0.0
+Sandro Tonali,Newcastle,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,14.57,0.0
+Sandro Tonali,Newcastle,Fulham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,14.1,0.0
+Sandro Tonali,Newcastle,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,13.66,0.0
+Sandro Tonali,Newcastle,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,13.24,0.0
+Sandro Tonali,Newcastle,Sheffield,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,12.85,0.0
+Sandro Tonali,Newcastle,Burnley,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,12.49,0.0
+Sandro Tonali,Newcastle,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,12.14,0.0
+Sandro Tonali,Newcastle,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,11.81,0.0
+Sandro Tonali,Newcastle,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,11.5,

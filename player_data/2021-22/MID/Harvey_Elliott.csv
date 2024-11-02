@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
-Harvey Elliott,Liverpool,Norwich,2021-08-14,False,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,0.0,7.0
-Harvey Elliott,Liverpool,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,1.0,0.0,3.5
-Harvey Elliott,Liverpool,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.5,0.0,2.33
-Harvey Elliott,Liverpool,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.33,0.0,1.75
-Harvey Elliott,Liverpool,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.25,0.0,1.4
-Harvey Elliott,Liverpool,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,1.17
-Harvey Elliott,Liverpool,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,1.0
-Harvey Elliott,Liverpool,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.88
-Harvey Elliott,Liverpool,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.78
-Harvey Elliott,Liverpool,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.7
-Harvey Elliott,Liverpool,Burnley,2021-08-21,True,MC,90,0.0,0.17,0.0,0.25,3,2.0,3.0,8.0,0,1,0,0.0,0.0,8.82
-Harvey Elliott,Liverpool,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.6,0.03,8.08
-Harvey Elliott,Liverpool,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.6,0.03,7.46
-Harvey Elliott,Liverpool,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.6,0.03,6.93
-Harvey Elliott,Liverpool,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.6,0.03,6.47
-Harvey Elliott,Liverpool,Leeds United,2022-02-10,True,Sub,31,0.0,0.0,0.0,0.07,1,0.0,1.0,2.3,0,0,0,0.6,0.03,8.0
-Harvey Elliott,Liverpool,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,7.53
-Harvey Elliott,Liverpool,Norwich,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,7.11
-Harvey Elliott,Liverpool,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,6.74
-Harvey Elliott,Liverpool,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,6.4
-Harvey Elliott,Liverpool,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.2,0.0,6.1
-Harvey Elliott,Liverpool,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,5.82
-Harvey Elliott,Liverpool,Chelsea,2021-08-28,True,MC,90,0.0,0.09,0.0,0.05,2,2.0,1.0,4.6,0,0,1,0.0,0.0,9.48
-Harvey Elliott,Liverpool,Watford,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.02,9.08
-Harvey Elliott,Liverpool,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.02,8.72
-Harvey Elliott,Liverpool,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.02,8.38
-Harvey Elliott,Liverpool,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.02,8.07
-Harvey Elliott,Liverpool,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.4,0.02,7.79
-Harvey Elliott,Liverpool,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,7.52
-Harvey Elliott,Liverpool,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,7.27
-Harvey Elliott,Liverpool,Southampton,2022-05-17,False,MC,64,0.0,0.13,0.0,0.09,2,3.0,3.0,7.1,0,0,1,0.0,0.0,9.1
-Harvey Elliott,Liverpool,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.4,0.03,8.81
-Harvey Elliott,Liverpool,Leicester City,2021-09-12,False,MC,62,0.0,0.22,0.0,0.06,3,3.0,1.0,5.6,0,1,0,0.4,0.03,10.42
-Harvey Elliott,Liverpool,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,1.0,0.07,10.12
-Harvey Elliott,Liverpool,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,1.0,0.07,9.83
-Harvey Elliott,Liverpool,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,1.0,0.07,9.56
-Harvey Elliott,Liverpool,Watford,,False,,0,,,,,0,,,0.0,0,0,0,0.6,0.04,9.3
-Harvey Elliott,Liverpool,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.6,0.04,9.05
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus
+Harvey Elliott,Liverpool,Norwich,2021-08-14,False,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0
+Harvey Elliott,Liverpool,Burnley,2021-08-21,True,90,0.0,0.1664916276931762,0.0,0.2504730820655823,3,2.0,3.0,8.0,0
+Harvey Elliott,Liverpool,Chelsea,2021-08-28,True,90,0.0,0.0916356593370437,0.0,0.0475510582327842,2,2.0,1.0,4.6,0
+Harvey Elliott,Liverpool,Leicester City,2021-09-12,False,62,0.0,0.2226935178041458,0.0,0.0635284483432769,3,3.0,1.0,5.6,0
+Harvey Elliott,Liverpool,Crystal Palace,,True,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Brentford,,False,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Manchester City,,True,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Watford,,False,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Manchester United,,False,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Brighton,,True,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,West Ham,,False,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Arsenal,,True,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Southampton,,True,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Everton,,False,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Wolverhampton,,False,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Aston Villa,,True,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Newcastle United,,True,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Tottenham,,False,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Leeds United,,False,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Chelsea,,False,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Brentford,,True,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Crystal Palace,,False,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Leeds United,2022-02-10,True,31,0.0,0.0,0.0,0.0673624947667121,1,0.0,1.0,2.3,0
+Harvey Elliott,Liverpool,Burnley,,False,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Norwich,,True,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Leicester City,,True,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,West Ham,,True,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Brighton,,False,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Arsenal,,False,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Watford,,True,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Manchester City,,False,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Manchester United,,True,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Everton,,True,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Newcastle United,,False,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Tottenham,,True,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Aston Villa,,False,0,,,,,0,,,0.0,0
+Harvey Elliott,Liverpool,Southampton,2022-05-17,False,64,0.0,0.1331197470426559,0.0,0.090797945857048,2,3.0,3.0,7.1,0
+Harvey Elliott,Liverpool,Wolverhampton,,True,0,,,,,0,,,0.0,0

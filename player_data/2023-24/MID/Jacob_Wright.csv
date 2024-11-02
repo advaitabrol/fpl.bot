@@ -1,17 +1,17 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jacob Wright,Man City,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,True,Chelsea,-0.88,-0.25
-Jacob Wright,Man City,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,True,Brentford,1.93,0.79
-Jacob Wright,Man City,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,False,Bournemouth,-1.59,0.19
-Jacob Wright,Man City,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,True,Manchester United,-1.84,0.38
-Jacob Wright,Man City,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,False,Liverpool,1.42,-1.01
-Jacob Wright,Man City,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,True,Arsenal,-3.84,-0.11
-Jacob Wright,Man City,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,True,Aston Villa,-1.19,0.64
-Jacob Wright,Man City,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,False,Crystal Palace,-1.04,0.38
-Jacob Wright,Man City,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,True,Luton,,
-Jacob Wright,Man City,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,False,Brighton,-2.33,-0.6
-Jacob Wright,Man City,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,False,Nottingham Forest,2.0,-0.55
-Jacob Wright,Man City,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,True,Wolverhampton,-2.88,0.05
-Jacob Wright,Man City,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,False,Fulham,-0.69,0.86
-Jacob Wright,Man City,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,False,Tottenham,1.8,-0.36
-Jacob Wright,Man City,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,0.0,Man City,True,West Ham,-2.38,0.49
-Jacob Wright,Man City,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0,0,0,0,0,,Spurs,False,Leicester City,-4.57,-0.22
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
+Jacob Wright,Man City,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
+Jacob Wright,Man City,Chelsea,2024-02-17,True,0,0.0,0.06,0.0,0.05,0,1.0,1.0,0.0,0,0,0.0,0.03,0.0,0.0
+Jacob Wright,Man City,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.02,0.0,0.0
+Jacob Wright,Man City,Bournemouth,2024-02-24,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.01,0.0,0.0
+Jacob Wright,Man City,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.01,0.0,0.0
+Jacob Wright,Man City,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.01,0.0,0.0
+Jacob Wright,Man City,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
+Jacob Wright,Man City,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
+Jacob Wright,Man City,Crystal Palace,2024-04-06,False,0,0.0,0.07,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.01,0.0,0.0
+Jacob Wright,Man City,Luton,2024-04-13,True,0,0.0,0.0,0.0,0.04,0,0.0,1.0,0.0,0,0,0.0,0.01,0.0,0.0
+Jacob Wright,Man City,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.01,0.0,0.0
+Jacob Wright,Man City,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.01,0.0,0.0
+Jacob Wright,Man City,Wolverhampton,2024-05-04,True,0,0.0,0.13,2.0,1.35,0,2.0,6.0,0.0,0,0,0.0,0.44,0.0,0.0
+Jacob Wright,Man City,Fulham,2024-05-11,False,0,0.0,0.03,0.0,0.09,0,2.0,2.0,0.0,0,0,0.0,0.43,0.0,0.0
+Jacob Wright,Man City,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.43,0.0,0.0
+Jacob Wright,Man City,West Ham,2024-05-19,True,0,1.0,0.62,0.0,0.0,0,4.0,0.0,0.0,0,0,0.0,0.56,0.0,

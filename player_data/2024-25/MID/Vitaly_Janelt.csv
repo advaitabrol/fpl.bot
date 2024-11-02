@@ -1,12 +1,13 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Vitaly Janelt,Brentford,Crystal Palace,2024-08-18,True,MC,73.0,0.0,0.06,0.0,0.01,2.0,2.0,1.0,3.1,0.0,0.0,1.0,True,0.0,0.0,73.0,1.0,3.0,2.02,4.34,0.03,2.0,Brentford,False,Liverpool,,-1.08
-Vitaly Janelt,Brentford,Liverpool,2024-08-25,False,MC,72.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.8,0.0,0.0,2.0,True,2.0,0.06,72.5,1.0,3.0,2.02,4.34,0.03,3.0,Brentford,True,Southampton,,0.24
-Vitaly Janelt,Brentford,Southampton,2024-08-31,True,DL,74.0,0.0,0.0,0.0,0.04,3.0,0.0,1.0,2.5,0.0,1.0,0.0,True,2.0,0.03,73.0,1.0,3.0,2.02,4.34,0.03,2.0,Brentford,False,Manchester City,,-1.51
-Vitaly Janelt,Brentford,Manchester City,2024-09-14,False,MC,71.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.7,0.0,0.0,2.0,True,2.33,0.02,72.5,1.0,3.0,2.02,4.34,0.03,2.0,Brentford,False,Tottenham,,-0.3
-Vitaly Janelt,Brentford,Tottenham,2024-09-21,False,MC,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.6,0.0,0.0,3.0,True,2.25,0.02,76.0,1.0,3.0,2.02,4.34,0.03,2.0,Brentford,True,West Ham,,0.48
-Vitaly Janelt,Brentford,West Ham,2024-09-28,True,MC,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.8,0.0,0.0,1.0,True,2.2,0.01,78.33,1.0,3.0,2.02,4.34,0.03,4.0,Brentford,True,Wolverhampton,,-0.08
-Vitaly Janelt,Brentford,Wolverhampton,2024-10-05,True,DMC,90.0,0.0,0.07,1.0,0.55,4.0,2.0,2.0,8.6,0.0,0.0,3.0,True,2.2,0.0,80.0,1.0,3.0,2.02,4.34,0.03,2.0,Brentford,False,Manchester United,,-0.41
-Vitaly Janelt,Brentford,Manchester United,2024-10-19,False,DMC,74.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,2.0,True,2.6,0.21,79.25,1.0,3.0,2.02,4.34,0.03,5.0,Brentford,True,Ipswich Town,,
-Vitaly Janelt,Brentford,Ipswich Town,2024-10-26,True,DMC,90.0,0.0,0.0,1.0,0.65,5.0,0.0,2.0,5.8,0.0,0.0,3.0,True,2.4,0.21,80.44,1.0,3.0,2.02,4.34,0.03,,Brentford,False,Fulham,,0.53
-,Brentford,,,,,,,,,,,,,,,,,,,,,,,,,,,Brentford,True,Bournemouth,,0.84
-,Brentford,,,,,,,,,,,,,,,,,,,,,,,,,,,Brentford,False,Everton,,-0.39
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Vitaly Janelt,Brentford,Crystal Palace,2024-08-18,True,73.0,0.0,0.06,0.0,0.01,2.0,2.0,1.0,3.1,0.0,1.0,2.0,0.06,73.0,1.0,3.0,2.02,4.34,0.03,2.0,Brentford,False,Liverpool,3.48,-1.08
+Vitaly Janelt,Brentford,Liverpool,2024-08-25,False,72.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.8,0.0,1.0,2.0,0.03,72.5,1.0,3.0,2.02,4.34,0.03,3.0,Brentford,True,Southampton,-4.06,0.24
+Vitaly Janelt,Brentford,Southampton,2024-08-31,True,74.0,0.0,0.0,0.0,0.04,3.0,0.0,1.0,2.5,0.0,1.0,2.33,0.02,73.0,1.0,3.0,2.02,4.34,0.03,2.0,Brentford,False,Manchester City,-0.6,-1.51
+Vitaly Janelt,Brentford,Manchester City,2024-09-14,False,71.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.7,0.0,1.0,2.25,0.02,72.5,1.0,3.0,2.02,4.34,0.03,2.0,Brentford,False,Tottenham,2.11,-0.3
+Vitaly Janelt,Brentford,Tottenham,2024-09-21,False,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.6,0.0,1.0,2.2,0.01,76.0,1.0,3.0,2.02,4.34,0.03,2.0,Brentford,True,West Ham,-1.97,0.48
+Vitaly Janelt,Brentford,West Ham,2024-09-28,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.8,0.0,1.0,2.2,0.0,78.33,1.0,3.0,2.02,4.34,0.03,4.0,Brentford,True,Wolverhampton,2.5,-0.08
+Vitaly Janelt,Brentford,Wolverhampton,2024-10-05,True,90.0,0.0,0.07,1.0,0.55,4.0,2.0,2.0,8.6,0.0,1.0,2.6,0.21,80.0,1.0,3.0,2.02,4.34,0.03,2.0,Brentford,False,Manchester United,1.62,-0.41
+Vitaly Janelt,Brentford,Manchester United,2024-10-19,False,74.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,1.0,2.4,0.21,79.25,1.0,3.0,2.02,4.34,0.03,5.0,Brentford,True,Ipswich Town,,
+Vitaly Janelt,Brentford,Ipswich Town,2024-10-26,True,90.0,0.0,0.0,1.0,0.65,5.0,0.0,2.0,5.8,0.0,1.0,3.0,0.41,80.44,1.0,3.0,2.02,4.34,0.03,,,,,,
+,Brentford,,,,,,,,,,,,,,,,,,,,,,,,Brentford,False,Fulham,-1.2,0.53
+,Brentford,,,,,,,,,,,,,,,,,,,,,,,,Brentford,True,Bournemouth,-0.5,0.84
+,Brentford,,,,,,,,,,,,,,,,,,,,,,,,Brentford,False,Everton,2.1,-0.39

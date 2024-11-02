@@ -1,10 +1,10 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Christian Eriksen,Man Utd,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,2.0,0.69,2.34,0.04,0.0,Man Utd,False,Brighton,,-0.61
-Christian Eriksen,Man Utd,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,1.0,2.0,0.69,2.34,0.04,1.0,Man Utd,True,Liverpool,,0.24
-Christian Eriksen,Man Utd,Liverpool,2024-09-01,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,0.0,0.0,1.33,1.0,2.0,0.69,2.34,0.04,2.0,Man Utd,False,Southampton,,-0.31
-Christian Eriksen,Man Utd,Southampton,2024-09-14,False,DMC,72,0.0,0.0,0.0,0.77,2,0.0,2.0,4.4,0,1,0,True,0.33,0.0,19.0,1.0,2.0,0.69,2.34,0.04,3.0,Man Utd,False,Crystal Palace,,0.2
-Christian Eriksen,Man Utd,Crystal Palace,2024-09-21,False,DMC,75,0.0,0.0,0.0,0.52,3,0.0,3.0,6.2,0,1,0,True,0.75,0.0,30.2,1.0,2.0,0.69,2.34,0.04,1.0,Man Utd,True,Tottenham,,0.74
-Christian Eriksen,Man Utd,Tottenham,2024-09-29,True,Sub,18,0.0,0.0,0.0,0.06,1,0.0,1.0,3.1,0,0,1,False,1.2,0.0,28.17,1.0,2.0,0.69,2.34,0.04,2.0,Man Utd,False,Aston Villa,,0.11
-Christian Eriksen,Man Utd,Aston Villa,2024-10-06,False,DMC,90,0.0,0.0,0.0,0.07,2,0.0,2.0,4.0,0,1,0,True,1.4,0.0,37.0,1.0,2.0,0.69,2.34,0.04,2.0,Man Utd,True,Brentford,,0.54
-Christian Eriksen,Man Utd,Brentford,2024-10-19,True,DMC,90,0.0,0.11,0.0,0.12,2,1.0,4.0,8.2,0,0,1,True,1.8,0.0,43.62,1.0,2.0,0.69,2.34,0.04,2.0,Man Utd,False,West Ham,,-0.34
-Christian Eriksen,Man Utd,West Ham,2024-10-27,False,DMC,78,0.0,0.02,0.0,0.06,2,1.0,1.0,3.0,0,0,1,True,2.0,0.02,47.44,1.0,2.0,0.69,2.34,0.04,,,,,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Christian Eriksen,Man Utd,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,1.0,2.0,0.69,2.34,0.04,0.0,Man Utd,False,Brighton,0.65,-0.61
+Christian Eriksen,Man Utd,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,1.0,2.0,0.69,2.34,0.04,1.0,Man Utd,True,Liverpool,0.35,0.24
+Christian Eriksen,Man Utd,Liverpool,2024-09-01,True,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0.33,0.0,1.33,1.0,2.0,0.69,2.34,0.04,2.0,Man Utd,False,Southampton,-0.99,-0.31
+Christian Eriksen,Man Utd,Southampton,2024-09-14,False,72,0.0,0.0,0.0,0.77,2,0.0,2.0,4.4,0,1,0.75,0.0,19.0,1.0,2.0,0.69,2.34,0.04,3.0,Man Utd,False,Crystal Palace,2.45,0.2
+Christian Eriksen,Man Utd,Crystal Palace,2024-09-21,False,75,0.0,0.0,0.0,0.52,3,0.0,3.0,6.2,0,1,1.2,0.0,30.2,1.0,2.0,0.69,2.34,0.04,1.0,Man Utd,True,Tottenham,-2.02,0.74
+Christian Eriksen,Man Utd,Tottenham,2024-09-29,True,18,0.0,0.0,0.0,0.06,1,0.0,1.0,3.1,0,0,1.4,0.0,28.17,1.0,2.0,0.69,2.34,0.04,2.0,Man Utd,False,Aston Villa,-0.18,0.11
+Christian Eriksen,Man Utd,Aston Villa,2024-10-06,False,90,0.0,0.0,0.0,0.07,2,0.0,2.0,4.0,0,1,1.8,0.0,37.0,1.0,2.0,0.69,2.34,0.04,2.0,Man Utd,True,Brentford,-1.08,0.54
+Christian Eriksen,Man Utd,Brentford,2024-10-19,True,90,0.0,0.11,0.0,0.12,2,1.0,4.0,8.2,0,1,2.0,0.02,43.62,1.0,2.0,0.69,2.34,0.04,2.0,Man Utd,False,West Ham,2.3,-0.34
+Christian Eriksen,Man Utd,West Ham,2024-10-27,False,78,0.0,0.02,0.0,0.06,2,1.0,1.0,3.0,0,1,2.0,0.03,47.44,1.0,2.0,0.69,2.34,0.04,,,,,,

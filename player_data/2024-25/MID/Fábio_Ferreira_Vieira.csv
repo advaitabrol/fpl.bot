@@ -1,12 +1,13 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Fábio Ferreira Vieira,Arsenal,Wolverhampton,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,False,Aston Villa,,0.11
-Fábio Ferreira Vieira,Arsenal,Aston Villa,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,True,Brighton,,-0.42
-Fábio Ferreira Vieira,Arsenal,Brighton,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,False,Tottenham,,-0.3
-Fábio Ferreira Vieira,Arsenal,Tottenham,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,False,Manchester City,,-1.51
-Fábio Ferreira Vieira,Arsenal,Manchester City,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,True,Leicester City,,0.47
-Fábio Ferreira Vieira,Arsenal,Leicester City,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,True,Southampton,,0.24
-Fábio Ferreira Vieira,Arsenal,Southampton,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,False,Bournemouth,,-0.04
-Fábio Ferreira Vieira,Arsenal,Bournemouth,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,True,Liverpool,,0.24
-Fábio Ferreira Vieira,Arsenal,Liverpool,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Arsenal,False,Newcastle United,,-0.44
-,Arsenal,,,,,,,,,,,,,,,,,,,,,,,,,,,Arsenal,False,Chelsea,,-0.9
-,Arsenal,,,,,,,,,,,,,,,,,,,,,,,,,,,Arsenal,True,Nottingham Forest,,1.2
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Fábio Ferreira Vieira,Arsenal,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.16,1.31,0.08,0.0,Arsenal,False,Aston Villa,-0.83,0.11
+Fábio Ferreira Vieira,Arsenal,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.16,1.31,0.08,0.0,Arsenal,True,Brighton,0.58,-0.42
+Fábio Ferreira Vieira,Arsenal,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.16,1.31,0.08,0.0,Arsenal,False,Tottenham,0.46,-0.3
+Fábio Ferreira Vieira,Arsenal,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.16,1.31,0.08,0.0,Arsenal,False,Manchester City,2.4,-1.51
+Fábio Ferreira Vieira,Arsenal,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.16,1.31,0.08,0.0,Arsenal,True,Leicester City,-3.26,0.47
+Fábio Ferreira Vieira,Arsenal,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.16,1.31,0.08,0.0,Arsenal,True,Southampton,-0.96,0.24
+Fábio Ferreira Vieira,Arsenal,Southampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.16,1.31,0.08,0.0,Arsenal,False,Bournemouth,-5.08,-0.04
+Fábio Ferreira Vieira,Arsenal,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.16,1.31,0.08,0.0,Arsenal,True,Liverpool,-1.54,0.24
+Fábio Ferreira Vieira,Arsenal,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0,1.16,1.31,0.08,,,,,,
+,Arsenal,,,,,,,,,,,,,,,,,,,,,,,,Arsenal,False,Newcastle United,0.23,-0.44
+,Arsenal,,,,,,,,,,,,,,,,,,,,,,,,Arsenal,False,Chelsea,-1.61,-0.9
+,Arsenal,,,,,,,,,,,,,,,,,,,,,,,,Arsenal,True,Nottingham Forest,-1.27,1.2

@@ -1,10 +1,10 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Victor Lindelöf,Man Utd,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.43,0.29,25.99,0.38,0.0,Man Utd,False,Brighton,,-0.61
-Victor Lindelöf,Man Utd,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.43,0.29,25.99,0.38,0.0,Man Utd,True,Liverpool,,0.24
-Victor Lindelöf,Man Utd,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.43,0.29,25.99,0.38,0.0,Man Utd,False,Southampton,,-0.31
-Victor Lindelöf,Man Utd,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.43,0.29,25.99,0.38,0.0,Man Utd,False,Crystal Palace,,0.2
-Victor Lindelöf,Man Utd,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.43,0.29,25.99,0.38,0.0,Man Utd,True,Tottenham,,0.74
-Victor Lindelöf,Man Utd,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,0.0,0.0,0.43,0.29,25.99,0.38,0.0,Man Utd,False,Aston Villa,,0.11
-Victor Lindelöf,Man Utd,Aston Villa,2024-10-06,False,Sub,45,0.0,0.0,0.0,0.0,0,0.0,0.0,1.5,0,0,0,0.26,False,0.0,0.0,6.43,0.0,0.43,0.29,25.99,0.38,1.0,Man Utd,True,Brentford,,0.54
-Victor Lindelöf,Man Utd,Brentford,2024-10-19,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.13,False,0.0,0.0,5.75,0.0,0.43,0.29,25.99,0.38,1.0,Man Utd,False,West Ham,,-0.34
-Victor Lindelöf,Man Utd,West Ham,2024-10-27,False,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,1,0.97,False,0.2,0.0,5.78,0.0,0.43,0.29,25.99,0.38,,,,,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Victor Lindelöf,Man Utd,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.43,0.29,0.38,25.99,0.0,Man Utd,False,Brighton,0.65,-0.61
+Victor Lindelöf,Man Utd,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.43,0.29,0.38,25.99,0.0,Man Utd,True,Liverpool,0.35,0.24
+Victor Lindelöf,Man Utd,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.43,0.29,0.38,25.99,0.0,Man Utd,False,Southampton,-0.99,-0.31
+Victor Lindelöf,Man Utd,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.43,0.29,0.38,25.99,0.0,Man Utd,False,Crystal Palace,2.45,0.2
+Victor Lindelöf,Man Utd,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.43,0.29,0.38,25.99,0.0,Man Utd,True,Tottenham,-2.02,0.74
+Victor Lindelöf,Man Utd,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.43,0.29,0.38,25.99,0.0,Man Utd,False,Aston Villa,-0.18,0.11
+Victor Lindelöf,Man Utd,Aston Villa,2024-10-06,False,45,0.0,0.0,0.0,0.0,0,0.0,0.0,1.5,0,0,0,0.26,0,0.0,0.0,6.43,0.0,0.43,0.29,0.38,25.99,1.0,Man Utd,True,Brentford,-1.08,0.54
+Victor Lindelöf,Man Utd,Brentford,2024-10-19,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.13,0,0.2,0.0,5.75,0.0,0.43,0.29,0.38,25.99,1.0,Man Utd,False,West Ham,2.3,-0.34
+Victor Lindelöf,Man Utd,West Ham,2024-10-27,False,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,1,0.97,0,0.4,0.0,5.78,0.0,0.43,0.29,0.38,25.99,,,,,,
