@@ -1,10 +1,11 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Asher Agbinone,Crystal Palace,Chelsea,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace,True,Leicester City,,0.47
-Asher Agbinone,Crystal Palace,Leicester City,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace,True,Manchester United,,0.39
-Asher Agbinone,Crystal Palace,Manchester United,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace,False,Everton,,-0.39
-Asher Agbinone,Crystal Palace,Everton,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace,True,Liverpool,,0.24
-Asher Agbinone,Crystal Palace,Liverpool,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Crystal Palace,False,Nottingham Forest,,-0.54
-Asher Agbinone,Crystal Palace,Nottingham Forest,2024-10-21,False,Sub,2.0,0.0,0.02,0.0,0.02,1.0,1.0,1.0,1.1,0.0,0.0,0.0,False,0.0,0.0,0.33,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace,True,Tottenham,,0.74
-Asher Agbinone,Crystal Palace,Tottenham,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.2,0.0,0.29,0.0,0.0,0.0,0.0,0.0,,Crystal Palace,False,Wolverhampton,,-0.53
-,Crystal Palace,,,,,,,,,,,,,,,,,,,,,,,,,,,Crystal Palace,True,Fulham,,0.27
-,Crystal Palace,,,,,,,,,,,,,,,,,,,,,,,,,,,Crystal Palace,False,Aston Villa,,0.11
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Asher Agbinone,Crystal Palace,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace,True,Leicester City,-0.81,0.47
+Asher Agbinone,Crystal Palace,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace,True,Manchester United,-1.44,0.39
+Asher Agbinone,Crystal Palace,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace,False,Everton,2.96,-0.39
+Asher Agbinone,Crystal Palace,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace,True,Liverpool,0.92,0.24
+Asher Agbinone,Crystal Palace,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Crystal Palace,False,Nottingham Forest,1.76,-0.54
+Asher Agbinone,Crystal Palace,Nottingham Forest,2024-10-21,False,2.0,0.0,0.02,0.0,0.02,1.0,1.0,1.0,1.1,0.0,0.0,0.2,0.0,0.33,0.0,Crystal Palace,True,Tottenham,0.68,0.74
+Asher Agbinone,Crystal Palace,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.2,0.0,0.29,,,,,,
+,Crystal Palace,,,,,,,,,,,,,,,,,,,Crystal Palace,False,Wolverhampton,-0.93,-0.53
+,Crystal Palace,,,,,,,,,,,,,,,,,,,Crystal Palace,True,Fulham,2.42,0.27
+,Crystal Palace,,,,,,,,,,,,,,,,,,,Crystal Palace,False,Aston Villa,1.69,0.11

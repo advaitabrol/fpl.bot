@@ -1,39 +1,39 @@
-name,position_x,team,bonus,clean_sheets,expected_goals_conceded,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,own_goals,starts,total_points,was_home,goals,shots,xG,time,position_y,date,xA,assists,key_passes,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2023-08-11,0,Burnley,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0.32,0.44,3.92,0.5,0.0,Man City,False,Manchester United,0.81,-0.63
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2023-10-29,0,Manchester United,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0.32,0.44,3.92,0.5,0.0,Man City,True,Bournemouth,-2.34,1.22
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2023-11-04,0,Bournemouth,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0.32,0.44,3.92,0.5,0.0,Man City,False,Chelsea,-2.15,-0.85
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2023-11-12,0,Chelsea,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0.32,0.44,3.92,0.5,0.0,Man City,True,Liverpool,-1.11,0.18
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2023-11-25,0,Liverpool,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0.32,0.44,3.92,0.5,0.0,Man City,True,Tottenham,2.78,0.69
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2023-12-03,0,Tottenham,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0.32,0.44,3.92,0.5,0.0,Man City,False,Aston Villa,0.45,0.29
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2023-12-06,0,Aston Villa,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0.32,0.44,3.92,0.5,0.0,Man City,False,Luton,,
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2023-12-10,0,Luton,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0.32,0.44,3.92,0.5,0.0,Man City,True,Crystal Palace,2.59,0.88
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2023-12-16,0,Crystal Palace,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0.32,0.44,3.92,0.5,0.0,Man City,False,Everton,-1.97,-0.24
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2023-12-27,0,Everton,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0.32,0.44,3.92,0.5,0.0,Man City,True,Newcastle United,-3.63,0.55
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2023-08-19,0,Newcastle United,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0.32,0.44,3.92,0.5,0.0,Man City,True,Sheffield,,0.68
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2023-12-30,0,Sheffield,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0.32,0.44,3.92,0.5,0.0,Man City,False,Newcastle United,-2.55,-0.41
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2024-01-13,0,Newcastle United,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0.32,0.44,3.92,0.5,1.0,Man City,True,Burnley,-1.82,0.39
-Sergio Gómez,DEF,Man City,0,0,0.96,1,0.1,2024-01-31,3,Burnley,0,0,1,True,0.0,0.0,0.0,1.0,Sub,2024-01-31,0.0,0.0,0.0,0.0,0.0,0.21,0.0,0.32,0.44,3.92,0.5,0.0,Man City,False,Brentford,-0.65,-0.53
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2024-02-05,0,Brentford,0,0,0,False,,,,,,,,,,0.2,0.0,0.2,0.0,0.32,0.44,3.92,0.5,0.0,Man City,True,Everton,-0.65,0.53
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2024-02-10,0,Everton,0,0,0,True,,,,,,,,,,0.2,0.0,0.19,0.0,0.32,0.44,3.92,0.5,0.0,Man City,True,Chelsea,-0.88,-0.25
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2024-02-17,0,Chelsea,0,0,0,True,,,,,,,,,,0.2,0.0,0.18,0.0,0.32,0.44,3.92,0.5,0.0,Man City,True,Brentford,1.93,0.79
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2024-02-20,0,Brentford,0,0,0,True,,,,,,,,,,0.2,0.0,0.17,0.0,0.32,0.44,3.92,0.5,0.0,Man City,False,Bournemouth,-1.59,0.19
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2024-02-24,0,Bournemouth,0,0,0,False,,,,,,,,,,0.2,0.0,0.16,0.0,0.32,0.44,3.92,0.5,0.0,Man City,True,Manchester United,-1.84,0.38
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2024-03-03,0,Manchester United,0,0,0,True,,,,,,,,,,0.0,0.0,0.15,0.0,0.32,0.44,3.92,0.5,0.0,Man City,False,Liverpool,1.42,-1.01
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2024-03-10,0,Liverpool,0,0,0,False,,,,,,,,,,0.0,0.0,0.14,0.0,0.32,0.44,3.92,0.5,0.0,Man City,False,Sheffield,-1.37,-0.61
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2023-08-27,0,Sheffield,0,0,0,False,,,,,,,,,,0.0,0.0,0.14,0.0,0.32,0.44,3.92,0.5,0.0,Man City,True,Arsenal,-4.53,-0.11
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2024-03-31,0,Arsenal,0,0,0,True,,,,,,,,,,0.0,0.0,0.13,0.0,0.32,0.44,3.92,0.5,1.0,Man City,True,Aston Villa,,0.64
-Sergio Gómez,DEF,Man City,0,0,0.04,0,0.6,2024-04-03,10,Aston Villa,0,0,1,True,0.0,1.0,0.54,5.0,Sub,2024-04-03,0.0,0.0,0.0,0.0,0.0,0.54,0.0,0.32,0.44,3.92,0.5,0.0,Man City,False,Crystal Palace,,0.38
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2024-04-06,0,Crystal Palace,0,0,0,False,,,,,,,,,,0.2,0.11,0.52,0.0,0.32,0.44,3.92,0.5,1.0,Man City,True,Luton,,
-Sergio Gómez,DEF,Man City,0,0,0.17,1,1.0,2024-04-13,9,Luton,0,0,1,True,0.0,1.0,0.08,7.0,Sub,2024-04-13,0.0,0.0,0.0,0.2,0.11,0.85,0.0,0.32,0.44,3.92,0.5,1.0,Man City,False,Brighton,-5.24,-0.6
-Sergio Gómez,DEF,Man City,0,0,0.23,0,0.1,2024-04-25,11,Brighton,0,0,1,False,0.0,0.0,0.0,8.0,Sub,2024-04-25,0.0,0.0,0.0,0.4,0.12,1.22,0.0,0.32,0.44,3.92,0.5,0.0,Man City,False,Nottingham Forest,,-0.55
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2024-04-28,0,Nottingham Forest,0,0,0,False,,,,,,,,,,0.6,0.12,1.18,0.0,0.32,0.44,3.92,0.5,0.0,Man City,True,Wolverhampton,-0.23,0.05
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2024-05-04,0,Wolverhampton,0,0,0,True,,,,,,,,,,0.6,0.12,1.14,0.0,0.32,0.44,3.92,0.5,0.0,Man City,False,Fulham,,0.86
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2024-05-11,0,Fulham,0,0,0,False,,,,,,,,,,0.4,0.02,1.1,0.0,0.32,0.44,3.92,0.5,0.0,Man City,False,Tottenham,0.63,-0.36
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2024-05-14,0,Tottenham,0,0,0,False,,,,,,,,,,0.4,0.02,1.06,0.0,0.32,0.44,3.92,0.5,0.0,Man City,True,West Ham,-2.19,0.49
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2024-05-19,0,West Ham,0,0,0,True,,,,,,,,,,0.2,0.0,1.03,0.0,0.32,0.44,3.92,0.5,4.0,Man City,True,Fulham,-1.5,-0.13
-Sergio Gómez,DEF,Man City,0,0,0.0,0,3.6,2023-09-02,14,Fulham,0,0,4,True,0.0,0.0,0.0,7.0,Sub,2023-09-02,0.13,1.0,1.0,0.0,0.0,1.42,0.0,0.32,0.44,3.92,0.5,1.0,Man City,False,West Ham,-3.36,-0.22
-Sergio Gómez,DEF,Man City,0,0,0.02,0,0.2,2023-09-16,1,West Ham,0,0,1,False,0.0,0.0,0.0,1.0,Sub,2023-09-16,0.0,0.0,0.0,0.8,0.2,1.41,0.0,0.32,0.44,3.92,0.5,0.0,Man City,True,Nottingham Forest,-4.8,1.55
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2023-09-23,0,Nottingham Forest,0,0,0,True,,,,,,,,,,1.0,0.2,1.37,0.0,0.32,0.44,3.92,0.5,0.0,Man City,False,Wolverhampton,-0.51,-0.52
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2023-09-30,0,Wolverhampton,0,0,0,False,,,,,,,,,,1.0,0.2,1.33,0.0,0.32,0.44,3.92,0.5,0.0,Man City,False,Arsenal,-1.42,-0.48
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2023-10-08,0,Arsenal,0,0,0,False,,,,,,,,,,1.0,0.2,1.3,0.0,0.32,0.44,3.92,0.5,0.0,Man City,True,Brighton,-1.58,-0.66
-Sergio Gómez,DEF,Man City,0,0,0.0,0,0.0,2023-10-21,0,Brighton,0,0,0,True,,,,,,,,,,1.0,0.2,1.26,0.0,0.32,0.44,3.92,0.5,,Chelsea,True,Manchester City,0.19,-0.96
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points
+Sergio Gómez,Man City,Burnley,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Sheffield,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.32,0.44,0.5,3.92,4.0
+Sergio Gómez,Man City,Fulham,2023-09-02,True,14,0.0,0.0,1.0,0.13,4,0.0,1.0,3.6,0,0,0,0.0,0,1.0,0.25,3.5,0.0,0.32,0.44,0.5,3.92,1.0
+Sergio Gómez,Man City,West Ham,2023-09-16,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.02,0,1.0,0.2,3.0,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.0,0.2,2.5,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.0,0.2,2.14,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.0,0.2,1.88,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,1.67,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,1.5,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,1.36,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,1.25,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,1.15,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,1.07,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,1.0,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Luton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.94,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.88,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.83,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Sheffield,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.79,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.75,0.0,0.32,0.44,0.5,3.92,1.0
+Sergio Gómez,Man City,Burnley,2024-01-31,True,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,0.96,0,0.2,0.0,0.86,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,0.82,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,0.78,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,0.75,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,0.72,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.69,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.67,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.64,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.62,0.0,0.32,0.44,0.5,3.92,1.0
+Sergio Gómez,Man City,Aston Villa,2024-04-03,True,10,0.0,0.54,0.0,0.0,1,1.0,0.0,0.6,0,0,0,0.04,0,0.2,0.11,0.93,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.11,0.9,0.0,0.32,0.44,0.5,3.92,1.0
+Sergio Gómez,Man City,Luton,2024-04-13,True,9,0.0,0.08,0.0,0.0,1,1.0,0.0,1.0,0,0,1,0.17,0,0.4,0.12,1.16,0.0,0.32,0.44,0.5,3.92,1.0
+Sergio Gómez,Man City,Brighton,2024-04-25,False,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.23,0,0.6,0.12,1.45,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.12,1.41,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.02,1.37,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.02,1.33,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,1.3,0.0,0.32,0.44,0.5,3.92,0.0
+Sergio Gómez,Man City,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,1.26,0.0,0.32,0.44,0.5,3.92,

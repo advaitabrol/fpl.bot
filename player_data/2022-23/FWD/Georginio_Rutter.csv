@@ -1,21 +1,21 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Georginio Rutter,Leeds,Brentford,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0,0,0,0,0,1.0,Leeds,False,Nottingham Forest,,
-Georginio Rutter,Leeds,Nottingham Forest,2023-02-05,False,Sub,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,False,0.0,0.0,11.5,0,0,0,0,0,1.0,Leeds,False,Manchester United,2.58,-0.1
-Georginio Rutter,Leeds,Manchester United,2023-02-08,False,Sub,27,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,False,0.5,0.0,16.67,0,0,0,0,0,1.0,Leeds,True,Manchester United,1.66,0.38
-Georginio Rutter,Leeds,Manchester United,2023-02-12,True,Sub,32,0.0,0.0,0.0,0.12,1,0.0,1.0,1.4,0,False,0.67,0.0,20.5,0,0,0,0,0,1.0,Leeds,False,Everton,1.15,-0.63
-Georginio Rutter,Leeds,Everton,2023-02-18,False,Sub,12,0.0,0.06,0.0,0.0,1,1.0,0.0,0.5,0,False,0.75,0.0,18.8,0,0,0,0,0,1.0,Leeds,True,Southampton,-3.43,-0.38
-Georginio Rutter,Leeds,Southampton,2023-02-25,True,Sub,15,0.0,0.0,0.0,0.08,1,0.0,1.0,1.2,0,False,0.8,0.01,18.17,0,0,0,0,0,2.0,Leeds,False,Chelsea,-1.33,-0.72
-Georginio Rutter,Leeds,Chelsea,2023-03-04,False,FW,67,0.0,0.15,0.0,0.08,2,2.0,1.0,3.5,0,True,1.0,0.01,25.14,0,0,0,0,0,1.0,Leeds,True,Brighton,-4.64,-0.71
-Georginio Rutter,Leeds,Brighton,2023-03-11,True,Sub,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,False,1.2,0.04,22.75,0,0,0,0,0,0.0,Leeds,False,Wolverhampton,3.26,-0.46
-Georginio Rutter,Leeds,Wolverhampton,,False,,0,,,,,0,,,0.0,0,False,1.2,0.04,20.22,0,0,0,0,0,1.0,Leeds,False,Arsenal,4.38,-0.0
-Georginio Rutter,Leeds,Arsenal,2023-04-01,False,Sub,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,False,1.0,0.04,19.8,0,0,0,0,0,0.0,Leeds,True,Nottingham Forest,,
-Georginio Rutter,Leeds,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,False,1.0,0.03,18.0,0,0,0,0,0,1.0,Leeds,True,Crystal Palace,-4.62,0.81
-Georginio Rutter,Leeds,Crystal Palace,2023-04-09,True,Sub,11,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,False,0.8,0.03,17.42,0,0,0,0,0,1.0,Leeds,True,Liverpool,0.62,-0.53
-Georginio Rutter,Leeds,Liverpool,2023-04-17,True,Sub,24,0.0,0.0,0.0,0.07,1,0.0,1.0,1.5,0,False,0.6,0.0,17.92,0,0,0,0,0,0.0,Leeds,False,Fulham,,1.37
-Georginio Rutter,Leeds,Fulham,,False,,0,,,,,0,,,0.0,0,False,0.6,0.0,16.64,0,0,0,0,0,0.0,Leeds,True,Leeds United,,-0.79
-Georginio Rutter,Leeds,Leeds United,,True,,0,,,,,0,,,0.0,0,False,0.6,0.0,15.53,0,0,0,0,0,0.0,Leeds,False,Bournemouth,,0.19
-Georginio Rutter,Leeds,Bournemouth,,False,,0,,,,,0,,,0.0,0,False,0.4,0.0,14.56,0,0,0,0,0,0.0,Leeds,False,Manchester City,4.57,-1.26
-Georginio Rutter,Leeds,Manchester City,,False,,0,,,,,0,,,0.0,0,False,0.4,0.0,13.71,0,0,0,0,0,0.0,Leeds,True,Newcastle United,-2.4,0.73
-Georginio Rutter,Leeds,Newcastle United,,True,,0,,,,,0,,,0.0,0,False,0.2,0.0,12.94,0,0,0,0,0,0.0,Leeds,False,West Ham,-0.49,0.14
-Georginio Rutter,Leeds,West Ham,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,12.26,0,0,0,0,0,4.0,Leeds,True,Tottenham,-4.61,1.07
-Georginio Rutter,Leeds,Tottenham,2023-05-28,True,Sub,30,0.0,0.05,1.0,0.07,4,1.0,1.0,0.0,0,False,0.0,0.0,13.15,0,0,0,0,0,,Fulham,False,Everton,,-0.63
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
+Georginio Rutter,Leeds,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,1.0
+Georginio Rutter,Leeds,Nottingham Forest,2023-02-05,False,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0.5,0.0,11.5,1.0
+Georginio Rutter,Leeds,Manchester United,2023-02-08,False,27,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,0.67,0.0,16.67,1.0
+Georginio Rutter,Leeds,Manchester United,2023-02-12,True,32,0.0,0.0,0.0,0.12,1,0.0,1.0,1.4,0,0,0.75,0.0,20.5,1.0
+Georginio Rutter,Leeds,Everton,2023-02-18,False,12,0.0,0.06,0.0,0.0,1,1.0,0.0,0.5,0,0,0.8,0.01,18.8,1.0
+Georginio Rutter,Leeds,Southampton,2023-02-25,True,15,0.0,0.0,0.0,0.08,1,0.0,1.0,1.2,0,0,1.0,0.01,18.17,2.0
+Georginio Rutter,Leeds,Chelsea,2023-03-04,False,67,0.0,0.15,0.0,0.08,2,2.0,1.0,3.5,0,1,1.2,0.04,25.14,1.0
+Georginio Rutter,Leeds,Brighton,2023-03-11,True,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1.2,0.04,22.75,0.0
+Georginio Rutter,Leeds,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,1.0,0.04,20.22,1.0
+Georginio Rutter,Leeds,Arsenal,2023-04-01,False,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1.0,0.03,19.8,0.0
+Georginio Rutter,Leeds,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.8,0.03,18.0,1.0
+Georginio Rutter,Leeds,Crystal Palace,2023-04-09,True,11,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,0.6,0.0,17.42,1.0
+Georginio Rutter,Leeds,Liverpool,2023-04-17,True,24,0.0,0.0,0.0,0.07,1,0.0,1.0,1.5,0,0,0.6,0.0,17.92,0.0
+Georginio Rutter,Leeds,Fulham,,False,0,,,,,0,,,0.0,0,0,0.6,0.0,16.64,0.0
+Georginio Rutter,Leeds,Leeds United,,True,0,,,,,0,,,0.0,0,0,0.4,0.0,15.53,0.0
+Georginio Rutter,Leeds,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,14.56,0.0
+Georginio Rutter,Leeds,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,13.71,0.0
+Georginio Rutter,Leeds,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,12.94,0.0
+Georginio Rutter,Leeds,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,12.26,4.0
+Georginio Rutter,Leeds,Tottenham,2023-05-28,True,30,0.0,0.05,1.0,0.07,4,1.0,1.0,0.0,0,0,0.8,0.21,13.15,

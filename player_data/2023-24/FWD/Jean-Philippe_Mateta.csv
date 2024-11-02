@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jean-Philippe Mateta,Crystal Palace,Sheffield,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,2.0,0.0,3.29,0.41,0.05,1,Crystal Palace,True,Tottenham,0.96,0.69
-Jean-Philippe Mateta,Crystal Palace,Tottenham,2023-10-27,True,Sub,11,0.0,0.0,0.0,0.07,1,0.0,1.0,1.8,0,False,0.0,0.0,5.5,2.0,0.0,3.29,0.41,0.05,0,Crystal Palace,False,Burnley,1.63,0.0
-Jean-Philippe Mateta,Crystal Palace,Burnley,,False,,0,,,,,0,,,0.0,0,False,0.5,0.0,3.67,2.0,0.0,3.29,0.41,0.05,1,Crystal Palace,True,Everton,-0.5,0.53
-Jean-Philippe Mateta,Crystal Palace,Everton,2023-11-11,True,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,0.33,0.0,4.5,2.0,0.0,3.29,0.41,0.05,1,Crystal Palace,False,Luton,,
-Jean-Philippe Mateta,Crystal Palace,Luton,2023-11-25,False,Sub,10,0.0,0.07,0.0,0.16,1,1.0,3.0,6.3,0,False,0.5,0.0,5.6,2.0,0.0,3.29,0.41,0.05,1,Crystal Palace,False,West Ham,0.28,-0.22
-Jean-Philippe Mateta,Crystal Palace,West Ham,2023-12-03,False,Sub,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,False,0.6,0.01,5.17,2.0,0.0,3.29,0.41,0.05,1,Crystal Palace,True,Bournemouth,-1.71,1.22
-Jean-Philippe Mateta,Crystal Palace,Bournemouth,2023-12-06,True,Sub,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,False,0.8,0.01,5.0,2.0,0.0,3.29,0.41,0.05,7,Crystal Palace,True,Liverpool,1.86,0.18
-Jean-Philippe Mateta,Crystal Palace,Liverpool,2023-12-09,True,Sub,45,1.0,0.82,0.0,0.04,7,2.0,1.0,6.8,2,False,0.8,0.01,10.0,2.0,0.0,3.29,0.41,0.05,12,Crystal Palace,False,Manchester City,-0.86,-1.32
-Jean-Philippe Mateta,Crystal Palace,Manchester City,2023-12-16,False,FW,90,1.0,0.74,0.0,0.0,12,1.0,0.0,7.4,3,True,2.2,0.18,18.89,2.0,0.0,3.29,0.41,0.05,1,Crystal Palace,True,Brighton,0.52,-0.66
-Jean-Philippe Mateta,Crystal Palace,Brighton,2023-12-21,True,FW,90,0.0,0.28,0.0,0.6,1,4.0,3.0,7.3,0,True,4.4,0.33,26.0,2.0,0.0,3.29,0.41,0.05,2,Crystal Palace,False,Chelsea,2.53,-0.85
-Jean-Philippe Mateta,Crystal Palace,Chelsea,2023-12-27,False,FW,90,0.0,0.07,0.0,0.15,2,1.0,2.0,5.8,0,True,4.4,0.37,31.82,2.0,0.0,3.29,0.41,0.05,0,Crystal Palace,True,Arsenal,-1.01,-0.11
-Jean-Philippe Mateta,Crystal Palace,Arsenal,,True,,0,,,,,0,,,0.0,0,False,4.6,0.38,29.17,2.0,0.0,3.29,0.41,0.05,2,Crystal Palace,True,Brentford,0.87,0.79
-Jean-Philippe Mateta,Crystal Palace,Brentford,2023-12-30,True,FW,85,0.0,0.0,0.0,0.15,2,0.0,3.0,6.0,0,True,4.4,0.38,33.46,2.0,0.0,3.29,0.41,0.05,2,Crystal Palace,False,Arsenal,3.15,-0.48
-Jean-Philippe Mateta,Crystal Palace,Arsenal,2024-01-20,False,FW,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0,True,3.4,0.22,37.5,2.0,0.0,3.29,0.41,0.05,2,Crystal Palace,True,Sheffield,,0.68
-Jean-Philippe Mateta,Crystal Palace,Sheffield,2024-01-30,True,FW,90,0.0,0.12,0.0,0.0,2,1.0,0.0,2.2,0,True,1.4,0.07,41.0,2.0,0.0,3.29,0.41,0.05,6,Crystal Palace,False,Brighton,1.23,-0.6
-Jean-Philippe Mateta,Crystal Palace,Brighton,2024-02-03,False,FW,79,1.0,0.06,0.0,0.0,6,1.0,0.0,5.4,0,True,1.6,0.04,43.38,2.0,0.0,3.29,0.41,0.05,2,Crystal Palace,True,Chelsea,1.43,-0.25
-Jean-Philippe Mateta,Crystal Palace,Chelsea,2024-02-12,True,FW,90,0.0,0.18,0.0,0.05,2,2.0,1.0,5.2,0,True,2.4,0.04,46.12,2.0,0.0,3.29,0.41,0.05,5,Crystal Palace,False,Everton,4.13,-0.24
-Jean-Philippe Mateta,Crystal Palace,Everton,2024-02-19,False,FW,90,0.0,0.08,1.0,0.36,5,2.0,3.0,6.6,0,True,2.8,0.07,48.56,2.0,0.0,3.29,0.41,0.05,6,Crystal Palace,True,Burnley,0.4,0.39
-Jean-Philippe Mateta,Crystal Palace,Burnley,2024-02-24,True,FW,90,1.0,0.84,0.0,0.0,6,2.0,0.0,6.2,0,True,3.4,0.29,50.74,2.0,0.0,3.29,0.41,0.05,2,Crystal Palace,False,Tottenham,4.49,-0.36
-Jean-Philippe Mateta,Crystal Palace,Tottenham,2024-03-02,False,FW,90,0.0,0.08,0.0,0.0,2,1.0,0.0,1.3,0,True,4.2,0.46,52.7,2.0,0.0,3.29,0.41,0.05,8,Crystal Palace,True,Luton,,
-Jean-Philippe Mateta,Crystal Palace,Luton,2024-03-09,True,FW,80,1.0,1.49,0.0,0.15,8,4.0,2.0,13.7,2,True,4.2,0.45,54.0,2.0,0.0,3.29,0.41,0.05,1,Crystal Palace,False,Brentford,-0.07,-0.53
-Jean-Philippe Mateta,Crystal Palace,Brentford,2023-08-26,False,Sub,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,False,4.6,0.73,52.41,2.0,0.0,3.29,0.41,0.05,9,Crystal Palace,False,Nottingham Forest,3.46,-0.55
-Jean-Philippe Mateta,Crystal Palace,Nottingham Forest,2024-03-30,False,FW,90,1.0,0.22,0.0,0.0,9,2.0,0.0,8.2,3,True,4.4,0.7,54.04,2.0,0.0,3.29,0.41,0.05,2,Crystal Palace,False,Bournemouth,-2.19,0.19
-Jean-Philippe Mateta,Crystal Palace,Bournemouth,2024-04-02,False,FW,90,0.0,0.1,0.0,0.0,2,1.0,0.0,4.3,0,True,5.2,0.53,55.54,2.0,0.0,3.29,0.41,0.05,5,Crystal Palace,True,Manchester City,,-0.96
-Jean-Philippe Mateta,Crystal Palace,Manchester City,2024-04-06,True,FW,73,1.0,0.48,0.0,0.0,5,1.0,0.0,5.1,0,True,4.4,0.38,56.24,2.0,0.0,3.29,0.41,0.05,2,Crystal Palace,False,Liverpool,2.57,-1.01
-Jean-Philippe Mateta,Crystal Palace,Liverpool,2024-04-14,False,FW,89,0.0,1.44,0.0,0.04,2,3.0,1.0,6.1,0,True,5.0,0.46,57.5,2.0,0.0,3.29,0.41,0.05,16,Crystal Palace,True,West Ham,,0.49
-Jean-Philippe Mateta,Crystal Palace,West Ham,2024-04-21,True,FW,67,2.0,1.2,0.0,0.06,16,3.0,2.0,15.2,3,True,3.8,0.45,57.85,2.0,0.0,3.29,0.41,0.05,13,Crystal Palace,True,Newcastle United,1.62,0.55
-Jean-Philippe Mateta,Crystal Palace,Newcastle United,2024-04-24,True,FW,90,2.0,0.78,0.0,0.06,13,4.0,1.0,14.5,3,True,6.8,0.69,59.0,2.0,0.0,3.29,0.41,0.05,2,Crystal Palace,False,Fulham,,0.86
-Jean-Philippe Mateta,Crystal Palace,Fulham,2024-04-27,False,FW,68,0.0,0.33,0.0,0.0,2,1.0,0.0,1.0,0,True,7.6,0.8,59.31,2.0,0.0,3.29,0.41,0.05,6,Crystal Palace,True,Manchester United,0.71,0.38
-Jean-Philippe Mateta,Crystal Palace,Manchester United,2024-05-06,True,FW,67,1.0,0.34,0.0,0.0,6,1.0,0.0,5.5,0,True,7.6,0.85,59.57,2.0,0.0,3.29,0.41,0.05,9,Crystal Palace,False,Wolverhampton,,-0.52
-Jean-Philippe Mateta,Crystal Palace,Wolverhampton,2024-05-11,False,FW,68,1.0,0.64,0.0,0.36,9,1.0,2.0,10.4,3,True,7.8,0.82,59.84,2.0,0.0,3.29,0.41,0.05,20,Crystal Palace,True,Aston Villa,0.32,0.64
-Jean-Philippe Mateta,Crystal Palace,Aston Villa,2024-05-19,True,FW,75,3.0,1.33,1.0,0.16,20,3.0,2.0,19.5,3,True,9.2,0.66,60.31,2.0,0.0,3.29,0.41,0.05,7,Crystal Palace,True,Wolverhampton,-1.42,0.05
-Jean-Philippe Mateta,Crystal Palace,Wolverhampton,2023-09-03,True,Sub,19,0.0,0.0,2.0,0.6,7,0.0,2.0,5.7,0,False,10.0,0.88,59.06,2.0,0.0,3.29,0.41,0.05,5,Crystal Palace,False,Aston Villa,2.48,0.29
-Jean-Philippe Mateta,Crystal Palace,Aston Villa,2023-09-16,False,Sub,65,0.0,0.0,1.0,0.3,5,0.0,1.0,3.2,0,False,8.8,1.13,59.24,2.0,0.0,3.29,0.41,0.05,1,Crystal Palace,True,Fulham,2.42,-0.13
-Jean-Philippe Mateta,Crystal Palace,Fulham,2023-09-23,True,Sub,20,0.0,0.12,0.0,0.0,1,1.0,0.0,2.5,0,False,9.4,1.26,58.11,2.0,0.0,3.29,0.41,0.05,2,Crystal Palace,False,Manchester United,-1.2,-0.63
-Jean-Philippe Mateta,Crystal Palace,Manchester United,2023-09-30,False,FW,90,0.0,0.0,0.0,0.21,2,0.0,2.0,3.2,0,True,8.4,1.22,59.0,2.0,0.0,3.29,0.41,0.05,2,Crystal Palace,True,Nottingham Forest,-0.17,1.55
-Jean-Philippe Mateta,Crystal Palace,Nottingham Forest,2023-10-07,True,FW,90,0.0,0.34,0.0,0.0,2,2.0,0.0,3.0,0,True,7.0,1.09,59.84,2.0,0.0,3.29,0.41,0.05,1,Crystal Palace,False,Newcastle United,3.9,-0.41
-Jean-Philippe Mateta,Crystal Palace,Newcastle United,2023-10-21,False,FW,60,0.0,0.11,0.0,0.0,1,1.0,0.0,0.7,0,True,3.4,0.69,59.84,2.0,0.0,3.29,0.41,0.05,1,Crystal Palace,False,Brentford,-0.07,-0.53
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Jean-Philippe Mateta,Crystal Palace,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,0.0,3.29,0.41,0.05,0.0
+Jean-Philippe Mateta,Crystal Palace,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,0.0,3.29,0.41,0.05,1.0
+Jean-Philippe Mateta,Crystal Palace,Brentford,2023-08-26,False,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.33,0.0,6.33,2.0,0.0,3.29,0.41,0.05,7.0
+Jean-Philippe Mateta,Crystal Palace,Wolverhampton,2023-09-03,True,19,0.0,0.0,2.0,0.6,7,0.0,2.0,5.7,0,0,2.0,0.5,9.5,2.0,0.0,3.29,0.41,0.05,5.0
+Jean-Philippe Mateta,Crystal Palace,Aston Villa,2023-09-16,False,65,0.0,0.0,1.0,0.3,5,0.0,1.0,3.2,0,0,2.6,0.6,20.6,2.0,0.0,3.29,0.41,0.05,1.0
+Jean-Philippe Mateta,Crystal Palace,Fulham,2023-09-23,True,20,0.0,0.12,0.0,0.0,1,1.0,0.0,2.5,0,0,2.8,0.62,20.5,2.0,0.0,3.29,0.41,0.05,2.0
+Jean-Philippe Mateta,Crystal Palace,Manchester United,2023-09-30,False,90,0.0,0.0,0.0,0.21,2,0.0,2.0,3.2,0,1,3.2,0.62,30.43,2.0,0.0,3.29,0.41,0.05,2.0
+Jean-Philippe Mateta,Crystal Palace,Nottingham Forest,2023-10-07,True,90,0.0,0.34,0.0,0.0,2,2.0,0.0,3.0,0,1,3.4,0.69,37.88,2.0,0.0,3.29,0.41,0.05,1.0
+Jean-Philippe Mateta,Crystal Palace,Newcastle United,2023-10-21,False,60,0.0,0.11,0.0,0.0,1,1.0,0.0,0.7,0,1,2.2,0.32,40.33,2.0,0.0,3.29,0.41,0.05,1.0
+Jean-Philippe Mateta,Crystal Palace,Tottenham,2023-10-27,True,11,0.0,0.0,0.0,0.07,1,0.0,1.0,1.8,0,0,1.4,0.12,37.4,2.0,0.0,3.29,0.41,0.05,0.0
+Jean-Philippe Mateta,Crystal Palace,Burnley,,False,0,,,,,0,,,0.0,0,0,1.2,0.09,34.0,2.0,0.0,3.29,0.41,0.05,1.0
+Jean-Philippe Mateta,Crystal Palace,Everton,2023-11-11,True,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1.0,0.09,31.75,2.0,0.0,3.29,0.41,0.05,1.0
+Jean-Philippe Mateta,Crystal Palace,Luton,2023-11-25,False,10,0.0,0.07,0.0,0.16,1,1.0,3.0,6.3,0,0,0.8,0.04,30.08,2.0,0.0,3.29,0.41,0.05,1.0
+Jean-Philippe Mateta,Crystal Palace,West Ham,2023-12-03,False,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0.8,0.01,28.14,2.0,0.0,3.29,0.41,0.05,1.0
+Jean-Philippe Mateta,Crystal Palace,Bournemouth,2023-12-06,True,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0.8,0.01,26.53,2.0,0.0,3.29,0.41,0.05,7.0
+Jean-Philippe Mateta,Crystal Palace,Liverpool,2023-12-09,True,45,1.0,0.82,0.0,0.04,7,2.0,1.0,6.8,2,0,2.2,0.18,27.69,2.0,0.0,3.29,0.41,0.05,12.0
+Jean-Philippe Mateta,Crystal Palace,Manchester City,2023-12-16,False,90,1.0,0.74,0.0,0.0,12,1.0,0.0,7.4,3,1,4.4,0.33,31.35,2.0,0.0,3.29,0.41,0.05,1.0
+Jean-Philippe Mateta,Crystal Palace,Brighton,2023-12-21,True,90,0.0,0.28,0.0,0.6,1,4.0,3.0,7.3,0,1,4.4,0.37,34.61,2.0,0.0,3.29,0.41,0.05,2.0
+Jean-Philippe Mateta,Crystal Palace,Chelsea,2023-12-27,False,90,0.0,0.07,0.0,0.15,2,1.0,2.0,5.8,0,1,4.6,0.38,37.53,2.0,0.0,3.29,0.41,0.05,2.0
+Jean-Philippe Mateta,Crystal Palace,Brentford,2023-12-30,True,85,0.0,0.0,0.0,0.15,2,0.0,3.0,6.0,0,1,4.8,0.38,39.9,2.0,0.0,3.29,0.41,0.05,2.0
+Jean-Philippe Mateta,Crystal Palace,Arsenal,2024-01-20,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0,1,3.8,0.22,42.29,2.0,0.0,3.29,0.41,0.05,2.0
+Jean-Philippe Mateta,Crystal Palace,Sheffield,2024-01-30,True,90,0.0,0.12,0.0,0.0,2,1.0,0.0,2.2,0,1,1.8,0.1,44.45,2.0,0.0,3.29,0.41,0.05,6.0
+Jean-Philippe Mateta,Crystal Palace,Brighton,2024-02-03,False,79,1.0,0.06,0.0,0.0,6,1.0,0.0,5.4,0,1,2.8,0.05,45.96,2.0,0.0,3.29,0.41,0.05,2.0
+Jean-Philippe Mateta,Crystal Palace,Chelsea,2024-02-12,True,90,0.0,0.18,0.0,0.05,2,2.0,1.0,5.2,0,1,2.8,0.07,47.79,2.0,0.0,3.29,0.41,0.05,5.0
+Jean-Philippe Mateta,Crystal Palace,Everton,2024-02-19,False,90,0.0,0.08,1.0,0.36,5,2.0,3.0,6.6,0,1,3.4,0.29,49.48,2.0,0.0,3.29,0.41,0.05,6.0
+Jean-Philippe Mateta,Crystal Palace,Burnley,2024-02-24,True,90,1.0,0.84,0.0,0.0,6,2.0,0.0,6.2,0,1,4.2,0.46,51.04,2.0,0.0,3.29,0.41,0.05,2.0
+Jean-Philippe Mateta,Crystal Palace,Tottenham,2024-03-02,False,90,0.0,0.08,0.0,0.0,2,1.0,0.0,1.3,0,1,4.2,0.45,52.48,2.0,0.0,3.29,0.41,0.05,8.0
+Jean-Philippe Mateta,Crystal Palace,Luton,2024-03-09,True,80,1.0,1.49,0.0,0.15,8,4.0,2.0,13.7,2,1,4.6,0.73,53.46,2.0,0.0,3.29,0.41,0.05,9.0
+Jean-Philippe Mateta,Crystal Palace,Nottingham Forest,2024-03-30,False,90,1.0,0.22,0.0,0.0,9,2.0,0.0,8.2,3,1,6.0,0.74,54.72,2.0,0.0,3.29,0.41,0.05,2.0
+Jean-Philippe Mateta,Crystal Palace,Bournemouth,2024-04-02,False,90,0.0,0.1,0.0,0.0,2,1.0,0.0,4.3,0,1,5.4,0.55,55.9,2.0,0.0,3.29,0.41,0.05,5.0
+Jean-Philippe Mateta,Crystal Palace,Manchester City,2024-04-06,True,73,1.0,0.48,0.0,0.0,5,1.0,0.0,5.1,0,1,5.2,0.47,56.45,2.0,0.0,3.29,0.41,0.05,2.0
+Jean-Philippe Mateta,Crystal Palace,Liverpool,2024-04-14,False,89,0.0,1.44,0.0,0.04,2,3.0,1.0,6.1,0,1,5.2,0.75,57.47,2.0,0.0,3.29,0.41,0.05,16.0
+Jean-Philippe Mateta,Crystal Palace,West Ham,2024-04-21,True,67,2.0,1.2,0.0,0.06,16,3.0,2.0,15.2,3,1,6.8,0.69,57.76,2.0,0.0,3.29,0.41,0.05,13.0
+Jean-Philippe Mateta,Crystal Palace,Newcastle United,2024-04-24,True,90,2.0,0.78,0.0,0.06,13,4.0,1.0,14.5,3,1,7.6,0.8,58.71,2.0,0.0,3.29,0.41,0.05,2.0
+Jean-Philippe Mateta,Crystal Palace,Fulham,2024-04-27,False,68,0.0,0.33,0.0,0.0,2,1.0,0.0,1.0,0,1,7.6,0.85,58.97,2.0,0.0,3.29,0.41,0.05,6.0
+Jean-Philippe Mateta,Crystal Palace,Manchester United,2024-05-06,True,67,1.0,0.34,0.0,0.0,6,1.0,0.0,5.5,0,1,7.8,0.82,59.19,2.0,0.0,3.29,0.41,0.05,9.0
+Jean-Philippe Mateta,Crystal Palace,Wolverhampton,2024-05-11,False,68,1.0,0.64,0.0,0.36,9,1.0,2.0,10.4,3,1,9.2,0.66,59.43,2.0,0.0,3.29,0.41,0.05,20.0
+Jean-Philippe Mateta,Crystal Palace,Aston Villa,2024-05-19,True,75,3.0,1.33,1.0,0.16,20,3.0,2.0,19.5,3,1,10.0,0.88,59.84,2.0,0.0,3.29,0.41,0.05,1.0

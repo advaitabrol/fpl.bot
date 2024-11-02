@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Dennis Praet,Leicester,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,Leicester,False,Bournemouth,,0.19
-Dennis Praet,Leicester,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1.0,Leicester,True,Crystal Palace,-0.43,0.81
-Dennis Praet,Leicester,Crystal Palace,2022-10-15,True,Sub,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,0.0,0.0,2.67,0.0,0.0,0.0,0.0,0,6.0,Leicester,True,Leicester City,2.25,0.83
-Dennis Praet,Leicester,Leicester City,2022-10-20,True,MR,69,0.0,0.11,0.0,0.0,6,1.0,0.0,1.4,0,1,0,False,0.33,0.0,19.25,0.0,0.0,0.0,0.0,0,1.0,Leicester,False,Wolverhampton,3.01,-0.46
-Dennis Praet,Leicester,Wolverhampton,2022-10-23,False,Sub,28,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,False,1.75,0.03,21.0,0.0,0.0,0.0,0.0,0,0.0,Leicester,True,Manchester City,2.25,-1.17
-Dennis Praet,Leicester,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.02,17.5,0.0,0.0,0.0,0.0,0,0.0,Leicester,False,Everton,1.31,-0.63
-Dennis Praet,Leicester,Everton,,False,,0,,,,,0,,,0.0,0,0,0,False,1.6,0.02,15.0,0.0,0.0,0.0,0.0,0,3.0,Leicester,False,West Ham,-0.48,0.14
-Dennis Praet,Leicester,West Ham,2022-11-12,False,Sub,65,0.0,0.0,0.0,0.0,3,0.0,0.0,0.6,0,1,0,False,1.6,0.02,21.25,0.0,0.0,0.0,0.0,0,1.0,Leicester,True,Newcastle United,2.07,0.73
-Dennis Praet,Leicester,Newcastle United,2022-12-26,True,AMR,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,2,True,2.0,0.02,20.67,0.0,0.0,0.0,0.0,0,0.0,Leicester,False,Liverpool,-0.04,-1.33
-Dennis Praet,Leicester,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,18.6,0.0,0.0,0.0,0.0,0,0.0,Leicester,True,Fulham,,-0.3
-Dennis Praet,Leicester,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.0,16.91,0.0,0.0,0.0,0.0,0,1.0,Leicester,False,Arsenal,-1.31,-0.0
-Dennis Praet,Leicester,Arsenal,2022-08-13,False,Sub,27,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,False,0.8,0.0,17.75,0.0,0.0,0.0,0.0,0,1.0,Leicester,False,Nottingham Forest,,
-Dennis Praet,Leicester,Nottingham Forest,2023-01-14,False,Sub,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1,False,1.0,0.0,18.08,0.0,0.0,0.0,0.0,0,1.0,Leicester,True,Brighton,-0.74,-0.71
-Dennis Praet,Leicester,Brighton,2023-01-21,True,MR,34,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,True,0.6,0.0,19.21,0.0,0.0,0.0,0.0,0,6.0,Leicester,False,Aston Villa,-0.96,0.59
-Dennis Praet,Leicester,Aston Villa,2023-02-04,False,Sub,23,1.0,0.33,0.0,0.0,6,1.0,0.0,5.8,0,0,0,False,0.6,0.0,19.47,0.0,0.0,0.0,0.0,0,1.0,Leicester,True,Tottenham,3.95,1.07
-Dennis Praet,Leicester,Tottenham,2023-02-11,True,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,1.8,0.07,19.06,0.0,0.0,0.0,0.0,0,1.0,Leicester,False,Manchester United,0.11,-0.1
-Dennis Praet,Leicester,Manchester United,2023-02-19,False,Sub,15,0.0,0.04,0.0,0.0,1,1.0,0.0,1.2,0,0,0,False,2.0,0.07,18.82,0.0,0.0,0.0,0.0,0,2.0,Leicester,True,Arsenal,-1.32,0.36
-Dennis Praet,Leicester,Arsenal,2023-02-25,True,MC,76,0.0,0.0,0.0,0.0,2,0.0,0.0,0.8,0,0,1,True,2.0,0.07,22.0,0.0,0.0,0.0,0.0,0,1.0,Leicester,False,Southampton,-3.27,-1.07
-Dennis Praet,Leicester,Southampton,2023-03-04,False,Sub,45,0.0,0.0,0.0,0.37,1,0.0,2.0,4.7,0,0,0,False,2.2,0.07,23.21,0.0,0.0,0.0,0.0,0,0.0,Leicester,True,Chelsea,-2.98,-0.25
-Dennis Praet,Leicester,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,2.2,0.07,22.05,0.0,0.0,0.0,0.0,0,1.0,Leicester,False,Brentford,-4.9,-0.55
-Dennis Praet,Leicester,Brentford,2023-03-18,False,Sub,24,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,False,1.0,0.01,22.14,0.0,0.0,0.0,0.0,0,0.0,Leicester,False,Crystal Palace,,0.13
-Dennis Praet,Leicester,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.01,21.14,0.0,0.0,0.0,0.0,0,0.0,Leicester,True,Aston Villa,,0.55
-Dennis Praet,Leicester,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.0,20.22,0.0,0.0,0.0,0.0,0,0.0,Leicester,True,Southampton,,-0.38
-Dennis Praet,Leicester,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,19.38,0.0,0.0,0.0,0.0,0,1.0,Leicester,True,Bournemouth,,1.46
-Dennis Praet,Leicester,Bournemouth,2023-04-08,True,Sub,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.2,0.0,18.96,0.0,0.0,0.0,0.0,0,1.0,Leicester,False,Manchester City,1.46,-1.26
-Dennis Praet,Leicester,Manchester City,2023-04-15,False,Sub,28,0.0,0.32,0.0,0.0,1,1.0,0.0,2.1,0,0,0,False,0.4,0.0,19.31,0.0,0.0,0.0,0.0,0,1.0,Leicester,True,Wolverhampton,-1.75,-0.48
-Dennis Praet,Leicester,Wolverhampton,2023-04-22,True,Sub,14,0.0,0.0,0.0,0.13,1,0.0,1.0,1.8,0,0,0,False,0.4,0.06,19.11,0.0,0.0,0.0,0.0,0,1.0,Leicester,False,Leicester City,1.46,-0.05
-Dennis Praet,Leicester,Leicester City,2023-04-25,False,Sub,8,0.0,0.1,0.0,0.0,1,1.0,0.0,0.7,0,0,0,False,0.6,0.06,18.71,0.0,0.0,0.0,0.0,0,1.0,Leicester,True,Everton,4.46,0.34
-Dennis Praet,Leicester,Everton,2023-05-01,True,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.8,0.08,18.14,0.0,0.0,0.0,0.0,0,1.0,Leicester,False,Fulham,,1.37
-Dennis Praet,Leicester,Fulham,2023-05-08,False,AMR,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,3,True,1.0,0.08,19.03,0.0,0.0,0.0,0.0,0,0.0,Leicester,True,Liverpool,-0.21,-0.53
-Dennis Praet,Leicester,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.08,18.42,0.0,0.0,0.0,0.0,0,0.0,Leicester,False,Newcastle United,1.84,-0.34
-Dennis Praet,Leicester,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.02,17.84,0.0,0.0,0.0,0.0,0,0.0,Leicester,True,West Ham,-0.48,0.63
-Dennis Praet,Leicester,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.02,17.3,0.0,0.0,0.0,0.0,0,0.0,Leicester,False,Chelsea,-5.34,-0.72
-Dennis Praet,Leicester,Chelsea,2022-08-27,False,MR,54,0.0,0.0,0.0,0.0,0,0.0,0.0,0.8,0,0,1,False,0.4,0.0,18.38,0.0,0.0,0.0,0.0,0,0.0,Leicester,True,Manchester United,,0.38
-Dennis Praet,Leicester,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,17.86,0.0,0.0,0.0,0.0,0,0.0,Leicester,False,Brighton,-2.14,-0.39
-Dennis Praet,Leicester,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,17.36,0.0,0.0,0.0,0.0,0,0.0,Leicester,False,Tottenham,3.38,-0.03
-Dennis Praet,Leicester,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,16.89,0.0,0.0,0.0,0.0,0,1.0,Leicester,True,Nottingham Forest,,
-Dennis Praet,Leicester,Nottingham Forest,2022-10-03,True,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,16.71,0.0,0.0,0.0,0.0,0,,Spurs,False,Brentford,0.99,-0.55
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Dennis Praet,Leicester,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1.0
+Dennis Praet,Leicester,Arsenal,2022-08-13,False,27,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0.5,0.0,13.5,0.0,0.0,0.0,0.0,0,0.0
+Dennis Praet,Leicester,Southampton,,True,0,,,,,0,,,0.0,0,0,0.33,0.0,9.0,0.0,0.0,0.0,0.0,0,0.0
+Dennis Praet,Leicester,Chelsea,2022-08-27,False,54,0.0,0.0,0.0,0.0,0,0.0,0.0,0.8,0,0,0.25,0.0,20.25,0.0,0.0,0.0,0.0,0,0.0
+Dennis Praet,Leicester,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,16.2,0.0,0.0,0.0,0.0,0,0.0
+Dennis Praet,Leicester,Brighton,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,13.5,0.0,0.0,0.0,0.0,0,0.0
+Dennis Praet,Leicester,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,11.57,0.0,0.0,0.0,0.0,0,1.0
+Dennis Praet,Leicester,Nottingham Forest,2022-10-03,True,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.2,0.0,11.38,0.0,0.0,0.0,0.0,0,0.0
+Dennis Praet,Leicester,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,10.11,0.0,0.0,0.0,0.0,0,1.0
+Dennis Praet,Leicester,Crystal Palace,2022-10-15,True,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0.4,0.0,9.9,0.0,0.0,0.0,0.0,0,6.0
+Dennis Praet,Leicester,Leicester City,2022-10-20,True,69,0.0,0.11,0.0,0.0,6,1.0,0.0,1.4,0,0,1.6,0.02,15.27,0.0,0.0,0.0,0.0,0,1.0
+Dennis Praet,Leicester,Wolverhampton,2022-10-23,False,28,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,1.8,0.02,16.33,0.0,0.0,0.0,0.0,0,0.0
+Dennis Praet,Leicester,Manchester City,,True,0,,,,,0,,,0.0,0,0,1.6,0.02,15.08,0.0,0.0,0.0,0.0,0,0.0
+Dennis Praet,Leicester,Everton,,False,0,,,,,0,,,0.0,0,0,1.6,0.02,14.0,0.0,0.0,0.0,0.0,0,3.0
+Dennis Praet,Leicester,West Ham,2022-11-12,False,65,0.0,0.0,0.0,0.0,3,0.0,0.0,0.6,0,0,2.0,0.02,17.4,0.0,0.0,0.0,0.0,0,1.0
+Dennis Praet,Leicester,Newcastle United,2022-12-26,True,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,1,1.0,0.0,17.31,0.0,0.0,0.0,0.0,0,0.0
+Dennis Praet,Leicester,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.8,0.0,16.29,0.0,0.0,0.0,0.0,0,0.0
+Dennis Praet,Leicester,Fulham,,True,0,,,,,0,,,0.0,0,0,0.8,0.0,15.39,0.0,0.0,0.0,0.0,0,1.0
+Dennis Praet,Leicester,Nottingham Forest,2023-01-14,False,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1.0,0.0,15.74,0.0,0.0,0.0,0.0,0,1.0
+Dennis Praet,Leicester,Brighton,2023-01-21,True,34,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,1,0.6,0.0,16.65,0.0,0.0,0.0,0.0,0,6.0
+Dennis Praet,Leicester,Aston Villa,2023-02-04,False,23,1.0,0.33,0.0,0.0,6,1.0,0.0,5.8,0,0,1.6,0.07,16.95,0.0,0.0,0.0,0.0,0,1.0
+Dennis Praet,Leicester,Tottenham,2023-02-11,True,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1.8,0.07,16.77,0.0,0.0,0.0,0.0,0,1.0
+Dennis Praet,Leicester,Manchester United,2023-02-19,False,15,0.0,0.04,0.0,0.0,1,1.0,0.0,1.2,0,0,2.0,0.07,16.7,0.0,0.0,0.0,0.0,0,2.0
+Dennis Praet,Leicester,Arsenal,2023-02-25,True,76,0.0,0.0,0.0,0.0,2,0.0,0.0,0.8,0,1,2.2,0.07,19.17,0.0,0.0,0.0,0.0,0,1.0
+Dennis Praet,Leicester,Southampton,2023-03-04,False,45,0.0,0.0,0.0,0.37,1,0.0,2.0,4.7,0,0,2.2,0.07,20.2,0.0,0.0,0.0,0.0,0,0.0
+Dennis Praet,Leicester,Chelsea,,True,0,,,,,0,,,0.0,0,0,1.0,0.01,19.42,0.0,0.0,0.0,0.0,0,1.0
+Dennis Praet,Leicester,Brentford,2023-03-18,False,24,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1.0,0.01,19.59,0.0,0.0,0.0,0.0,0,0.0
+Dennis Praet,Leicester,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.8,0.0,18.89,0.0,0.0,0.0,0.0,0,0.0
+Dennis Praet,Leicester,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.4,0.0,18.24,0.0,0.0,0.0,0.0,0,1.0
+Dennis Praet,Leicester,Bournemouth,2023-04-08,True,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.4,0.0,17.93,0.0,0.0,0.0,0.0,0,1.0
+Dennis Praet,Leicester,Manchester City,2023-04-15,False,28,0.0,0.32,0.0,0.0,1,1.0,0.0,2.1,0,0,0.6,0.06,18.26,0.0,0.0,0.0,0.0,0,1.0
+Dennis Praet,Leicester,Wolverhampton,2023-04-22,True,14,0.0,0.0,0.0,0.13,1,0.0,1.0,1.8,0,0,0.6,0.06,18.12,0.0,0.0,0.0,0.0,0,1.0
+Dennis Praet,Leicester,Leicester City,2023-04-25,False,8,0.0,0.1,0.0,0.0,1,1.0,0.0,0.7,0,0,0.8,0.08,17.82,0.0,0.0,0.0,0.0,0,1.0
+Dennis Praet,Leicester,Everton,2023-05-01,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1.0,0.08,17.35,0.0,0.0,0.0,0.0,0,1.0
+Dennis Praet,Leicester,Fulham,2023-05-08,False,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,1,1.0,0.08,18.14,0.0,0.0,0.0,0.0,0,0.0
+Dennis Praet,Leicester,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.8,0.02,17.64,0.0,0.0,0.0,0.0,0,0.0
+Dennis Praet,Leicester,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.6,0.02,17.16,0.0,0.0,0.0,0.0,0,0.0
+Dennis Praet,Leicester,West Ham,,True,0,,,,,0,,,0.0,0,0,0.4,0.0,16.71,0.0,0.0,0.0,0.0,0,

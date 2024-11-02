@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Reece James,Chelsea,Everton,2022-08-06,False,DMR,90,0.0,0.09,0.0,0.15,7,2.0,3.0,8.6,2,1,0,0.0,False,0.0,0.0,90.0,1.0,0,0,0,0,1,Chelsea,True,Wolverhampton,2.42,-0.48
-Reece James,Chelsea,Wolverhampton,2022-10-08,True,Sub,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.0,False,7.0,0.09,54.0,1.0,0,0,0,0,0,Chelsea,False,Aston Villa,-1.51,0.59
-Reece James,Chelsea,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,4.0,0.04,36.0,1.0,0,0,0,0,0,Chelsea,False,Brentford,-0.66,-0.55
-Reece James,Chelsea,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.67,0.03,27.0,1.0,0,0,0,0,0,Chelsea,True,Manchester United,-0.06,0.38
-Reece James,Chelsea,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.02,21.6,1.0,0,0,0,0,0,Chelsea,False,Brighton,0.05,-0.39
-Reece James,Chelsea,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.02,18.0,1.0,0,0,0,0,0,Chelsea,True,Arsenal,5.81,0.36
-Reece James,Chelsea,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,15.43,1.0,0,0,0,0,0,Chelsea,False,Newcastle United,-1.55,-0.34
-Reece James,Chelsea,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,13.5,1.0,0,0,0,0,1,Chelsea,True,Bournemouth,,1.46
-Reece James,Chelsea,Bournemouth,2022-12-27,True,DR,52,0.0,0.14,0.0,0.0,1,2.0,0.0,4.0,0,0,0,0.03,True,0.0,0.0,17.78,1.0,0,0,0,0,0,Chelsea,False,Nottingham Forest,,
-Reece James,Chelsea,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.03,16.0,1.0,0,0,0,0,0,Chelsea,True,Manchester City,1.05,-1.17
-Reece James,Chelsea,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.03,14.55,1.0,0,0,0,0,0,Chelsea,False,Fulham,,1.37
-Reece James,Chelsea,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.03,13.33,1.0,0,0,0,0,7,Chelsea,True,Tottenham,-1.77,1.07
-Reece James,Chelsea,Tottenham,2022-08-14,True,DC,90,1.0,0.47,0.0,0.49,7,2.0,1.0,9.4,1,0,2,0.0,False,0.2,0.03,19.23,0.5,0,0,0,0,0,Chelsea,True,Crystal Palace,0.31,0.81
-Reece James,Chelsea,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.6,0.12,17.86,0.5,0,0,0,0,0,Chelsea,False,Liverpool,0.32,-1.33
-Reece James,Chelsea,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.09,16.67,0.5,0,0,0,0,1,Chelsea,True,Fulham,,-0.3
-Reece James,Chelsea,Fulham,2023-02-03,True,DR,59,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.41,True,1.4,0.09,19.31,0.5,0,0,0,0,2,Chelsea,False,West Ham,4.47,0.14
-Reece James,Chelsea,West Ham,2023-02-11,False,DR,90,0.0,0.04,0.0,0.1,2,1.0,2.0,6.2,0,0,1,1.29,True,1.6,0.09,23.47,0.33,0,0,0,0,0,Chelsea,True,Southampton,-1.13,-0.38
-Reece James,Chelsea,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.1,22.17,0.33,0,0,0,0,1,Chelsea,False,Tottenham,-1.69,-0.03
-Reece James,Chelsea,Tottenham,2023-02-26,False,DR,90,0.0,0.01,0.0,0.0,1,1.0,0.0,2.0,0,0,2,0.71,True,0.6,0.01,25.74,0.25,0,0,0,0,0,Chelsea,True,Leicester City,1.12,0.83
-Reece James,Chelsea,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.01,24.45,0.25,0,0,0,0,0,Chelsea,False,Leeds United,-3.0,-0.8
-Reece James,Chelsea,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.01,23.29,0.25,0,0,0,0,3,Chelsea,True,Everton,1.01,0.34
-Reece James,Chelsea,Everton,2023-03-18,True,DMR,90,0.0,0.15,0.0,0.17,3,2.0,2.0,7.6,0,0,2,1.43,True,0.6,0.01,26.32,0.2,0,0,0,0,1,Chelsea,True,Aston Villa,-2.49,0.55
-Reece James,Chelsea,Aston Villa,2023-04-01,True,DC,90,0.0,0.02,0.0,0.61,1,1.0,2.0,6.2,0,0,2,0.81,True,0.8,0.03,29.09,0.17,0,0,0,0,6,Chelsea,True,Liverpool,,-0.53
-Reece James,Chelsea,Liverpool,2023-04-04,True,DMR,90,0.0,0.02,0.0,0.15,6,1.0,1.0,2.7,0,1,0,0.35,True,1.0,0.04,31.62,0.29,0,0,0,0,1,Chelsea,False,Leicester City,5.06,-0.05
-Reece James,Chelsea,Leicester City,2022-08-21,False,DC,90,0.0,0.01,0.0,0.05,1,1.0,1.0,4.5,0,0,3,0.0,False,2.0,0.04,33.96,0.25,0,0,0,0,2,Chelsea,False,Wolverhampton,0.77,-0.46
-Reece James,Chelsea,Wolverhampton,2023-04-08,False,DR,90,0.0,0.02,0.0,0.45,2,1.0,5.0,11.3,0,0,1,0.56,True,2.2,0.04,36.12,0.22,0,0,0,0,1,Chelsea,True,Brighton,,-0.71
-Reece James,Chelsea,Brighton,2023-04-15,True,Sub,33,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,1,0.49,False,2.6,0.04,36.0,0.22,0,0,0,0,0,Chelsea,True,Brentford,,0.69
-Reece James,Chelsea,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.2,0.01,34.71,0.22,0,0,0,0,0,Chelsea,False,Arsenal,-1.77,-0.0
-Reece James,Chelsea,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.01,33.52,0.22,0,0,0,0,0,Chelsea,False,Bournemouth,,0.19
-Reece James,Chelsea,Bournemouth,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.8,0.01,32.4,0.22,0,0,0,0,0,Chelsea,True,Nottingham Forest,,
-Reece James,Chelsea,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.6,0.0,31.35,0.22,0,0,0,0,0,Chelsea,False,Manchester City,,-1.26
-Reece James,Chelsea,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,30.38,0.22,0,0,0,0,0,Chelsea,False,Manchester United,,-0.1
-Reece James,Chelsea,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,29.45,0.22,0,0,0,0,0,Chelsea,True,Newcastle United,,0.73
-Reece James,Chelsea,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.0,0.0,28.59,0.22,0,0,0,0,7,Chelsea,True,Leeds United,-3.8,-0.79
-Reece James,Chelsea,Leeds United,2022-08-27,True,DR,90,0.0,0.04,1.0,0.74,7,2.0,2.0,8.0,2,0,1,0.0,False,0.0,0.0,30.34,0.2,0,0,0,0,0,Chelsea,False,Southampton,0.63,-1.07
-Reece James,Chelsea,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.21,29.5,0.2,0,0,0,0,1,Chelsea,True,West Ham,-1.25,0.63
-Reece James,Chelsea,West Ham,2022-09-03,True,MR,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.6,0,0,1,0.0,False,1.4,0.21,31.14,0.18,0,0,0,0,2,Chelsea,False,Crystal Palace,-1.84,0.13
-Reece James,Chelsea,Crystal Palace,2022-10-01,False,DR,90,0.0,0.0,0.0,0.14,2,0.0,2.0,5.2,0,0,1,0.0,False,1.6,0.21,32.68,0.17,0,0,0,0,2,Chelsea,True,Liverpool,,-0.53
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points
+Reece James,Chelsea,Everton,2022-08-06,False,90,0.0,0.09,0.0,0.15,7,2.0,3.0,8.6,2,1,0,0.0,0,7.0,0.09,90.0,1.0,2.54,7.03,0.37,0,7.0
+Reece James,Chelsea,Tottenham,2022-08-14,True,90,1.0,0.47,0.0,0.49,7,2.0,1.0,9.4,1,0,2,0.0,0,7.0,0.28,90.0,0.5,2.54,7.03,0.37,0,1.0
+Reece James,Chelsea,Leicester City,2022-08-21,False,90,0.0,0.01,0.0,0.05,1,1.0,1.0,4.5,0,0,3,0.0,0,5.0,0.19,90.0,0.33,2.54,7.03,0.37,0,7.0
+Reece James,Chelsea,Leeds United,2022-08-27,True,90,0.0,0.04,1.0,0.74,7,2.0,2.0,8.0,2,0,1,0.0,0,5.5,0.4,90.0,0.25,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4.4,0.32,72.0,0.25,2.54,7.03,0.37,0,1.0
+Reece James,Chelsea,West Ham,2022-09-03,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.6,0,0,1,0.0,0,3.2,0.3,75.0,0.2,2.54,7.03,0.37,0,2.0
+Reece James,Chelsea,Crystal Palace,2022-10-01,False,90,0.0,0.0,0.0,0.14,2,0.0,2.0,5.2,0,0,1,0.0,0,2.2,0.21,77.14,0.17,2.54,7.03,0.37,0,1.0
+Reece James,Chelsea,Wolverhampton,2022-10-08,True,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.0,0,2.2,0.21,69.75,0.14,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.0,62.0,0.14,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.0,55.8,0.14,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.0,50.73,0.14,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,46.5,0.14,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,42.92,0.14,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,39.86,0.14,2.54,7.03,0.37,0,1.0
+Reece James,Chelsea,Bournemouth,2022-12-27,True,52,0.0,0.14,0.0,0.0,1,2.0,0.0,4.0,0,0,0,0.03,1,0.2,0.03,40.67,0.12,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.03,38.12,0.12,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.03,35.88,0.12,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.03,33.89,0.12,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.03,32.11,0.12,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,30.5,0.12,2.54,7.03,0.37,0,1.0
+Reece James,Chelsea,Fulham,2023-02-03,True,59,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.41,1,0.2,0.0,31.86,0.11,2.54,7.03,0.37,0,2.0
+Reece James,Chelsea,West Ham,2023-02-11,False,90,0.0,0.04,0.0,0.1,2,1.0,2.0,6.2,0,0,1,1.29,1,0.6,0.01,34.5,0.1,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.01,33.0,0.1,2.54,7.03,0.37,0,1.0
+Reece James,Chelsea,Tottenham,2023-02-26,False,90,0.0,0.01,0.0,0.0,1,1.0,0.0,2.0,0,0,2,0.71,1,0.8,0.01,35.38,0.09,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.01,33.96,0.09,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.01,32.65,0.09,2.54,7.03,0.37,0,3.0
+Reece James,Chelsea,Everton,2023-03-18,True,90,0.0,0.15,0.0,0.17,3,2.0,2.0,7.6,0,0,2,1.43,1,0.8,0.03,34.78,0.08,2.54,7.03,0.37,0,1.0
+Reece James,Chelsea,Aston Villa,2023-04-01,True,90,0.0,0.02,0.0,0.61,1,1.0,2.0,6.2,0,0,2,0.81,1,1.0,0.04,36.75,0.08,2.54,7.03,0.37,0,6.0
+Reece James,Chelsea,Liverpool,2023-04-04,True,90,0.0,0.02,0.0,0.15,6,1.0,1.0,2.7,0,1,0,0.35,1,2.0,0.04,38.59,0.14,2.54,7.03,0.37,0,2.0
+Reece James,Chelsea,Wolverhampton,2023-04-08,False,90,0.0,0.02,0.0,0.45,2,1.0,5.0,11.3,0,0,1,0.56,1,2.4,0.04,40.3,0.13,2.54,7.03,0.37,0,1.0
+Reece James,Chelsea,Brighton,2023-04-15,True,33,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,1,0.49,0,2.6,0.04,40.06,0.12,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.0,0.01,38.81,0.12,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.8,0.01,37.64,0.12,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.0,36.53,0.12,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,35.49,0.12,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,34.5,0.12,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,33.57,0.12,2.54,7.03,0.37,0,0.0
+Reece James,Chelsea,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,32.68,0.12,2.54,7.03,0.37,0,

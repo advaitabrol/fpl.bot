@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Romain Perraud,Southampton,Tottenham,2022-08-06,False,Sub,18,0.0,0.03,0.0,0.0,1,1.0,0.0,2.5,0,0,0,0.0,False,0.0,0.0,18.0,0.0,0,0,0,0,0.0,Southampton,False,Manchester City,0.3,-1.26
-Romain Perraud,Southampton,Manchester City,2022-10-08,False,DL,90,0.0,0.06,0.0,0.0,0,3.0,0.0,2.6,0,0,4,0.0,False,1.0,0.03,54.0,0.0,0,0,0,0,8.0,Southampton,True,West Ham,-1.04,0.63
-Romain Perraud,Southampton,West Ham,2022-10-16,True,DL,90,1.0,0.01,0.0,0.0,8,1.0,0.0,5.5,0,0,1,0.0,False,0.5,0.04,66.0,0.0,0,0,0,0,11.0,Southampton,False,Bournemouth,,0.19
-Romain Perraud,Southampton,Bournemouth,2022-10-19,False,DL,87,0.0,0.08,1.0,0.26,11,1.0,2.0,8.0,3,1,0,0.0,False,3.0,0.03,71.25,0.33,0,0,0,0,2.0,Southampton,True,Arsenal,-3.58,0.36
-Romain Perraud,Southampton,Arsenal,2022-10-23,True,DL,90,0.0,0.07,0.0,0.08,2,3.0,2.0,4.3,0,0,1,0.0,False,5.0,0.3,75.0,0.25,0,0,0,0,2.0,Southampton,False,Crystal Palace,-0.36,0.13
-Romain Perraud,Southampton,Crystal Palace,2022-10-29,False,DL,73,0.0,0.03,0.0,0.34,2,2.0,1.0,4.8,0,0,1,0.0,False,4.4,0.25,74.67,0.2,0,0,0,0,6.0,Southampton,True,Newcastle United,0.8,0.73
-Romain Perraud,Southampton,Newcastle United,2022-11-06,True,DL,90,1.0,0.53,0.0,0.0,6,5.0,0.0,10.7,0,0,4,0.0,False,4.6,0.25,76.86,0.17,0,0,0,0,1.0,Southampton,False,Liverpool,2.85,-1.33
-Romain Perraud,Southampton,Liverpool,2022-11-12,False,DL,90,0.0,0.02,0.0,0.31,1,1.0,2.0,5.8,0,0,3,1.99,True,5.8,0.34,78.5,0.14,0,0,0,0,-2.0,Southampton,True,Brighton,-0.05,-0.71
-Romain Perraud,Southampton,Brighton,2022-12-26,True,DL,53,0.0,0.0,0.0,0.0,-2,0.0,0.0,0.0,0,0,2,0.38,True,4.4,0.35,75.67,0.14,0,0,0,0,1.0,Southampton,False,Fulham,,1.37
-Romain Perraud,Southampton,Fulham,2022-12-31,False,Sub,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,1.03,False,1.8,0.13,69.4,0.14,0,0,0,0,1.0,Southampton,True,Nottingham Forest,,
-Romain Perraud,Southampton,Nottingham Forest,2023-01-04,True,ML,63,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,1,1.28,True,1.6,0.12,68.82,0.12,0,0,0,0,0.0,Southampton,True,Leicester City,-2.36,0.83
-Romain Perraud,Southampton,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.4,0.11,63.08,0.12,0,0,0,0,1.0,Southampton,False,Everton,3.31,-0.63
-Romain Perraud,Southampton,Everton,2023-01-14,False,Sub,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.12,False,0.2,0.0,58.62,0.12,0,0,0,0,1.0,Southampton,True,Aston Villa,-1.21,0.55
-Romain Perraud,Southampton,Aston Villa,2023-01-21,True,Sub,28,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,0.4,False,0.2,0.0,56.43,0.12,0,0,0,0,1.0,Southampton,False,Brentford,3.85,-0.55
-Romain Perraud,Southampton,Brentford,2023-02-04,False,DL,90,0.0,0.02,0.0,0.0,1,1.0,0.0,3.9,0,0,3,2.13,True,0.8,0.0,58.67,0.11,0,0,0,0,2.0,Southampton,True,Wolverhampton,3.38,-0.48
-Romain Perraud,Southampton,Wolverhampton,2023-02-11,True,DL,73,0.0,0.12,0.0,0.02,2,2.0,1.0,2.4,0,0,1,0.55,True,0.8,0.0,59.56,0.1,0,0,0,0,5.0,Southampton,False,Chelsea,1.8,-0.72
-Romain Perraud,Southampton,Chelsea,2023-02-18,False,DL,90,0.0,0.01,0.0,0.0,5,1.0,0.0,1.6,0,1,0,1.55,True,1.0,0.03,61.35,0.18,0,0,0,0,6.0,Southampton,False,Leicester City,-2.53,-0.05
-Romain Perraud,Southampton,Leicester City,2023-02-25,False,DL,70,0.0,0.0,0.0,0.0,6,0.0,0.0,0.4,0,1,0,0.52,True,2.0,0.03,61.83,0.25,0,0,0,0,0.0,Southampton,True,Leeds United,-0.35,-0.79
-Romain Perraud,Southampton,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,3.0,0.03,58.58,0.25,0,0,0,0,6.0,Southampton,False,Manchester United,1.62,-0.1
-Romain Perraud,Southampton,Manchester United,2023-03-12,False,DL,90,0.0,0.05,0.0,0.09,6,1.0,1.0,4.0,0,1,0,0.84,True,2.8,0.03,60.15,0.31,0,0,0,0,1.0,Southampton,True,Brentford,-5.16,0.69
-Romain Perraud,Southampton,Brentford,2023-03-15,True,DL,90,0.0,0.03,0.0,0.0,1,1.0,0.0,2.6,0,0,2,2.01,True,3.8,0.04,61.57,0.29,0,0,0,0,1.0,Southampton,True,Tottenham,0.15,1.07
-Romain Perraud,Southampton,Tottenham,2023-03-18,True,DL,90,0.0,0.02,0.0,0.1,1,1.0,1.0,3.8,0,0,3,2.26,True,3.6,0.02,62.86,0.27,0,0,0,0,2.0,Southampton,False,West Ham,-2.95,0.14
-Romain Perraud,Southampton,West Ham,2023-04-02,False,DL,90,0.0,0.06,0.0,0.0,2,2.0,0.0,5.4,0,0,1,1.36,True,2.8,0.02,64.04,0.25,0,0,0,0,0.0,Southampton,False,Leeds United,-2.19,-0.8
-Romain Perraud,Southampton,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,2.0,0.03,61.38,0.25,0,0,0,0,1.0,Southampton,True,Manchester City,,-1.17
-Romain Perraud,Southampton,Manchester City,2023-04-08,True,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,False,2.0,0.03,59.32,0.25,0,0,0,0,0.0,Southampton,True,Crystal Palace,,0.81
-Romain Perraud,Southampton,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,1.0,0.02,57.04,0.25,0,0,0,0,0.0,Southampton,False,Arsenal,2.91,-0.0
-Romain Perraud,Southampton,Arsenal,2023-04-21,False,DL,90,0.0,0.0,0.0,0.07,0,0.0,1.0,3.7,0,0,3,2.81,True,0.8,0.02,58.26,0.24,0,0,0,0,1.0,Southampton,True,Bournemouth,,1.46
-Romain Perraud,Southampton,Bournemouth,2023-04-27,True,DL,35,0.0,0.02,0.0,0.0,1,1.0,0.0,0.0,0,0,0,0.38,True,0.6,0.01,57.43,0.24,0,0,0,0,0.0,Southampton,False,Newcastle United,-1.73,-0.34
-Romain Perraud,Southampton,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,55.45,0.24,0,0,0,0,0.0,Southampton,False,Nottingham Forest,,
-Romain Perraud,Southampton,Nottingham Forest,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.4,0.0,53.6,0.24,0,0,0,0,0.0,Southampton,True,Fulham,,-0.3
-Romain Perraud,Southampton,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,51.87,0.24,0,0,0,0,0.0,Southampton,False,Brighton,,-0.39
-Romain Perraud,Southampton,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,50.25,0.24,0,0,0,0,0.0,Southampton,True,Liverpool,,-0.53
-Romain Perraud,Southampton,Liverpool,,True,,0,,,,,0,,,0.0,0,0,0,0.0,False,0.2,0.0,48.73,0.24,0,0,0,0,1.0,Southampton,True,Manchester United,1.12,0.38
-Romain Perraud,Southampton,Manchester United,2022-08-27,True,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,False,0.0,0.0,47.32,0.24,0,0,0,0,7.0,Southampton,True,Chelsea,-1.74,-0.25
-Romain Perraud,Southampton,Chelsea,2022-08-30,True,DL,72,0.0,0.01,1.0,0.91,7,1.0,2.0,6.5,2,0,1,0.0,False,0.2,0.0,48.03,0.22,0,0,0,0,2.0,Southampton,False,Wolverhampton,2.96,-0.46
-Romain Perraud,Southampton,Wolverhampton,2022-09-03,False,DL,72,0.0,0.0,0.0,0.0,2,0.0,0.0,2.6,0,0,1,0.0,False,1.6,0.2,48.69,0.21,0,0,0,0,1.0,Southampton,False,Aston Villa,2.17,0.59
-Romain Perraud,Southampton,Aston Villa,2022-09-16,False,DL,45,0.0,0.0,0.0,0.05,1,0.0,1.0,3.2,0,0,1,0.0,False,2.0,0.2,48.59,0.21,0,0,0,0,1.0,Southampton,True,Everton,3.9,0.34
-Romain Perraud,Southampton,Everton,2022-10-01,True,Sub,30,0.0,0.04,0.0,0.03,1,1.0,1.0,2.9,0,0,0,0.0,False,2.2,0.2,48.11,0.21,0,0,0,0,,Nott'm Forest,False,Arsenal,4.71,-0.0
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points
+Romain Perraud,Southampton,Tottenham,2022-08-06,False,18,0.0,0.03,0.0,0.0,1,1.0,0.0,2.5,0,0,0,0.0,0,1.0,0.03,18.0,0.0,0.73,0.4,0.18,0,0.0
+Romain Perraud,Southampton,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.5,0.02,9.0,0.0,0.73,0.4,0.18,0,0.0
+Romain Perraud,Southampton,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.33,0.01,6.0,0.0,0.73,0.4,0.18,0,1.0
+Romain Perraud,Southampton,Manchester United,2022-08-27,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,0,0.5,0.01,4.75,0.0,0.73,0.4,0.18,0,7.0
+Romain Perraud,Southampton,Chelsea,2022-08-30,True,72,0.0,0.01,1.0,0.91,7,1.0,2.0,6.5,2,0,1,0.0,0,1.8,0.21,18.2,0.0,0.73,0.4,0.18,0,2.0
+Romain Perraud,Southampton,Wolverhampton,2022-09-03,False,72,0.0,0.0,0.0,0.0,2,0.0,0.0,2.6,0,0,1,0.0,0,2.0,0.2,27.17,0.0,0.73,0.4,0.18,0,1.0
+Romain Perraud,Southampton,Aston Villa,2022-09-16,False,45,0.0,0.0,0.0,0.05,1,0.0,1.0,3.2,0,0,1,0.0,0,2.2,0.2,29.71,0.0,0.73,0.4,0.18,0,1.0
+Romain Perraud,Southampton,Everton,2022-10-01,True,30,0.0,0.04,0.0,0.03,1,1.0,1.0,2.9,0,0,0,0.0,0,2.4,0.21,29.75,0.0,0.73,0.4,0.18,0,0.0
+Romain Perraud,Southampton,Manchester City,2022-10-08,False,90,0.0,0.06,0.0,0.0,0,3.0,0.0,2.6,0,0,4,0.0,0,2.2,0.22,36.44,0.0,0.73,0.4,0.18,0,8.0
+Romain Perraud,Southampton,West Ham,2022-10-16,True,90,1.0,0.01,0.0,0.0,8,1.0,0.0,5.5,0,0,1,0.0,0,2.4,0.02,41.8,0.0,0.73,0.4,0.18,0,11.0
+Romain Perraud,Southampton,Bournemouth,2022-10-19,False,87,0.0,0.08,1.0,0.26,11,1.0,2.0,8.0,3,1,0,0.0,0,4.2,0.24,45.91,0.11,0.73,0.4,0.18,0,2.0
+Romain Perraud,Southampton,Arsenal,2022-10-23,True,90,0.0,0.07,0.0,0.08,2,3.0,2.0,4.3,0,0,1,0.0,0,4.4,0.25,49.58,0.1,0.73,0.4,0.18,0,2.0
+Romain Perraud,Southampton,Crystal Palace,2022-10-29,False,73,0.0,0.03,0.0,0.34,2,2.0,1.0,4.8,0,0,1,0.0,0,4.6,0.25,51.38,0.09,0.73,0.4,0.18,0,6.0
+Romain Perraud,Southampton,Newcastle United,2022-11-06,True,90,1.0,0.53,0.0,0.0,6,5.0,0.0,10.7,0,0,4,0.0,0,5.8,0.34,54.14,0.08,0.73,0.4,0.18,0,1.0
+Romain Perraud,Southampton,Liverpool,2022-11-12,False,90,0.0,0.02,0.0,0.31,1,1.0,2.0,5.8,0,0,3,1.99,1,4.4,0.35,56.53,0.08,0.73,0.4,0.18,0,-2.0
+Romain Perraud,Southampton,Brighton,2022-12-26,True,53,0.0,0.0,0.0,0.0,-2,0.0,0.0,0.0,0,0,2,0.38,1,1.8,0.13,56.31,0.07,0.73,0.4,0.18,0,1.0
+Romain Perraud,Southampton,Fulham,2022-12-31,False,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,1.03,0,1.6,0.12,53.76,0.07,0.73,0.4,0.18,0,1.0
+Romain Perraud,Southampton,Nottingham Forest,2023-01-04,True,63,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,1,1.28,1,1.4,0.11,54.28,0.06,0.73,0.4,0.18,0,1.0
+Romain Perraud,Southampton,Everton,2023-01-14,False,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.12,0,0.4,0.0,51.68,0.06,0.73,0.4,0.18,0,1.0
+Romain Perraud,Southampton,Aston Villa,2023-01-21,True,28,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,0.4,0,0.4,0.0,50.5,0.06,0.73,0.4,0.18,0,1.0
+Romain Perraud,Southampton,Brentford,2023-02-04,False,90,0.0,0.02,0.0,0.0,1,1.0,0.0,3.9,0,0,3,2.13,1,1.0,0.0,52.38,0.05,0.73,0.4,0.18,0,2.0
+Romain Perraud,Southampton,Wolverhampton,2023-02-11,True,73,0.0,0.12,0.0,0.02,2,2.0,1.0,2.4,0,0,1,0.55,1,1.2,0.03,53.32,0.05,0.73,0.4,0.18,0,5.0
+Romain Perraud,Southampton,Chelsea,2023-02-18,False,90,0.0,0.01,0.0,0.0,5,1.0,0.0,1.6,0,1,0,1.55,1,2.0,0.03,54.91,0.1,0.73,0.4,0.18,0,6.0
+Romain Perraud,Southampton,Leicester City,2023-02-25,False,70,0.0,0.0,0.0,0.0,6,0.0,0.0,0.4,0,1,0,0.52,1,3.0,0.03,55.54,0.14,0.73,0.4,0.18,0,0.0
+Romain Perraud,Southampton,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.8,0.03,53.32,0.14,0.73,0.4,0.18,0,6.0
+Romain Perraud,Southampton,Manchester United,2023-03-12,False,90,0.0,0.05,0.0,0.09,6,1.0,1.0,4.0,0,1,0,0.84,1,3.8,0.04,54.73,0.17,0.73,0.4,0.18,0,1.0
+Romain Perraud,Southampton,Brentford,2023-03-15,True,90,0.0,0.03,0.0,0.0,1,1.0,0.0,2.6,0,0,2,2.01,1,3.6,0.02,56.04,0.17,0.73,0.4,0.18,0,1.0
+Romain Perraud,Southampton,Tottenham,2023-03-18,True,90,0.0,0.02,0.0,0.1,1,1.0,1.0,3.8,0,0,3,2.26,1,2.8,0.02,57.25,0.16,0.73,0.4,0.18,0,2.0
+Romain Perraud,Southampton,West Ham,2023-04-02,False,90,0.0,0.06,0.0,0.0,2,2.0,0.0,5.4,0,0,1,1.36,1,2.0,0.03,58.38,0.15,0.73,0.4,0.18,0,1.0
+Romain Perraud,Southampton,Manchester City,2023-04-08,True,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,0,2.2,0.03,56.77,0.15,0.73,0.4,0.18,0,0.0
+Romain Perraud,Southampton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.0,0.02,54.94,0.15,0.73,0.4,0.18,0,0.0
+Romain Perraud,Southampton,Arsenal,2023-04-21,False,90,0.0,0.0,0.0,0.07,0,0.0,1.0,3.7,0,0,3,2.81,1,0.8,0.02,56.03,0.14,0.73,0.4,0.18,0,1.0
+Romain Perraud,Southampton,Bournemouth,2023-04-27,True,35,0.0,0.02,0.0,0.0,1,1.0,0.0,0.0,0,0,0,0.38,1,0.8,0.02,55.39,0.14,0.73,0.4,0.18,0,0.0
+Romain Perraud,Southampton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,53.76,0.14,0.73,0.4,0.18,0,0.0
+Romain Perraud,Southampton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,52.23,0.14,0.73,0.4,0.18,0,0.0
+Romain Perraud,Southampton,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,50.78,0.14,0.73,0.4,0.18,0,0.0
+Romain Perraud,Southampton,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,49.41,0.14,0.73,0.4,0.18,0,0.0
+Romain Perraud,Southampton,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,48.11,0.14,0.73,0.4,0.18,0,

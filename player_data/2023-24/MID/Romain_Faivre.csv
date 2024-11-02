@@ -1,19 +1,19 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Romain Faivre,Bournemouth,West Ham,2024-02-01,False,Sub,1,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,0,0,False,0.0,0.0,1.0,0,0,0,0,0,0,Bournemouth,True,Nottingham Forest,0.51,1.55
-Romain Faivre,Bournemouth,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.5,0,0,0,0,0,1,Bournemouth,False,Fulham,-1.43,0.86
-Romain Faivre,Bournemouth,Fulham,2024-02-10,False,Sub,5,0.0,0.09,0.0,0.0,1,1.0,0.0,1.1,0,0,0,False,0.0,0.0,2.0,0,0,0,0,0,0,Bournemouth,False,Newcastle United,-1.45,-0.41
-Romain Faivre,Bournemouth,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.33,0.03,1.5,0,0,0,0,0,1,Bournemouth,True,Manchester City,1.02,-0.96
-Romain Faivre,Bournemouth,Manchester City,2024-02-24,True,Sub,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.25,0.02,3.2,0,0,0,0,0,0,Bournemouth,False,Burnley,,0.0
-Romain Faivre,Bournemouth,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.02,2.67,0,0,0,0,0,0,Bournemouth,True,Sheffield,,0.68
-Romain Faivre,Bournemouth,Sheffield,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.02,2.29,0,0,0,0,0,0,Bournemouth,True,Luton,,
-Romain Faivre,Bournemouth,Luton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.02,2.0,0,0,0,0,0,0,Bournemouth,True,Everton,-5.04,0.53
-Romain Faivre,Bournemouth,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.78,0,0,0,0,0,0,Bournemouth,True,Crystal Palace,3.26,0.88
-Romain Faivre,Bournemouth,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,1.6,0,0,0,0,0,0,Bournemouth,False,Luton,,
-Romain Faivre,Bournemouth,Luton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,1.45,0,0,0,0,0,1,Bournemouth,True,Manchester United,2.37,0.38
-Romain Faivre,Bournemouth,Manchester United,2024-04-13,True,Sub,20,0.0,0.04,0.0,0.0,1,1.0,0.0,0.4,0,0,0,False,0.0,0.0,3.0,0,0,0,0,0,0,Bournemouth,False,Aston Villa,3.96,0.29
-Romain Faivre,Bournemouth,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.01,2.77,0,0,0,0,0,0,Bournemouth,False,Wolverhampton,-2.03,-0.52
-Romain Faivre,Bournemouth,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.01,2.57,0,0,0,0,0,0,Bournemouth,True,Brighton,3.02,-0.66
-Romain Faivre,Bournemouth,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.01,2.4,0,0,0,0,0,1,Bournemouth,False,Arsenal,-2.81,-0.48
-Romain Faivre,Bournemouth,Arsenal,2024-05-04,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,False,0.2,0.01,2.31,0,0,0,0,0,0,Bournemouth,True,Brentford,0.49,0.79
-Romain Faivre,Bournemouth,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.01,2.18,0,0,0,0,0,0,Bournemouth,False,Chelsea,2.82,-0.85
-Romain Faivre,Bournemouth,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,2.06,0,0,0,0,0,0,Bournemouth,False,Nottingham Forest,-0.1,-0.55
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
+Romain Faivre,Bournemouth,West Ham,2024-02-01,False,1,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,0,0.0,0.0,1.0,0.0
+Romain Faivre,Bournemouth,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.5,1.0
+Romain Faivre,Bournemouth,Fulham,2024-02-10,False,5,0.0,0.09,0.0,0.0,1,1.0,0.0,1.1,0,0,0.33,0.03,2.0,0.0
+Romain Faivre,Bournemouth,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.25,0.02,1.5,1.0
+Romain Faivre,Bournemouth,Manchester City,2024-02-24,True,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.4,0.02,3.2,0.0
+Romain Faivre,Bournemouth,Burnley,,False,0,,,,,0,,,0.0,0,0,0.4,0.02,2.67,0.0
+Romain Faivre,Bournemouth,Sheffield,,True,0,,,,,0,,,0.0,0,0,0.4,0.02,2.29,0.0
+Romain Faivre,Bournemouth,Luton,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,2.0,0.0
+Romain Faivre,Bournemouth,Everton,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,1.78,0.0
+Romain Faivre,Bournemouth,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.6,0.0
+Romain Faivre,Bournemouth,Luton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.45,1.0
+Romain Faivre,Bournemouth,Manchester United,2024-04-13,True,20,0.0,0.04,0.0,0.0,1,1.0,0.0,0.4,0,0,0.2,0.01,3.0,0.0
+Romain Faivre,Bournemouth,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.2,0.01,2.77,0.0
+Romain Faivre,Bournemouth,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.2,0.01,2.57,0.0
+Romain Faivre,Bournemouth,Brighton,,True,0,,,,,0,,,0.0,0,0,0.2,0.01,2.4,1.0
+Romain Faivre,Bournemouth,Arsenal,2024-05-04,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0.4,0.01,2.31,0.0
+Romain Faivre,Bournemouth,Brentford,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,2.18,0.0
+Romain Faivre,Bournemouth,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,2.06,

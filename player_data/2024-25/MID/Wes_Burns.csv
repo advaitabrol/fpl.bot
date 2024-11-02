@@ -1,12 +1,13 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Wes Burns,Ipswich,Liverpool,2024-08-17,True,AMR,56.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,True,0.0,0.0,56.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,Manchester City,,-1.51
-Wes Burns,Ipswich,Manchester City,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.0,0.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,True,Fulham,,0.27
-Wes Burns,Ipswich,Fulham,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.0,0.0,18.67,0.0,0.0,0.0,0.0,0.0,1.0,Ipswich,False,Brighton,,-0.61
-Wes Burns,Ipswich,Brighton,2024-09-14,False,AMR,58.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.6,0.0,0.0,0.0,True,0.0,0.0,28.5,0.0,0.0,0.0,0.0,0.0,2.0,Ipswich,False,Southampton,,-0.31
-Wes Burns,Ipswich,Southampton,2024-09-21,False,AMR,73.0,0.0,0.0,0.0,0.71,2.0,0.0,2.0,4.4,0.0,0.0,1.0,True,0.25,0.0,37.4,0.0,0.0,0.0,0.0,0.0,1.0,Ipswich,True,Aston Villa,,0.66
-Wes Burns,Ipswich,Aston Villa,2024-09-29,True,Sub,21.0,0.0,0.12,0.0,0.0,1.0,1.0,0.0,0.6,0.0,0.0,0.0,False,0.6,0.0,34.67,0.0,0.0,0.0,0.0,0.0,2.0,Ipswich,False,West Ham,,-0.34
-Wes Burns,Ipswich,West Ham,2024-10-05,False,AMR,72.0,0.0,0.02,0.0,0.31,2.0,1.0,1.0,2.4,0.0,0.0,4.0,True,0.8,0.02,40.0,0.0,0.0,0.0,0.0,0.0,2.0,Ipswich,True,Everton,,0.61
-Wes Burns,Ipswich,Everton,2024-10-19,True,AMR,62.0,0.0,0.0,0.0,0.37,2.0,0.0,1.0,1.0,0.0,0.0,2.0,True,1.2,0.03,42.75,0.0,0.0,0.0,0.0,0.0,1.0,Ipswich,False,Brentford,,-0.15
-Wes Burns,Ipswich,Brentford,2024-10-26,False,Sub,55.0,0.0,0.06,0.0,0.0,1.0,1.0,0.0,1.5,0.0,0.0,4.0,False,1.6,0.03,44.11,0.0,0.0,0.0,0.0,0.0,,Ipswich,True,Leicester City,,0.47
-,Ipswich,,,,,,,,,,,,,,,,,,,,,,,,,,,Ipswich,False,Tottenham,,-0.3
-,Ipswich,,,,,,,,,,,,,,,,,,,,,,,,,,,Ipswich,True,Manchester United,,0.39
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Wes Burns,Ipswich,Liverpool,2024-08-17,True,56.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,56.0,0.0,Ipswich,False,Manchester City,,-1.51
+Wes Burns,Ipswich,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,28.0,0.0,Ipswich,True,Fulham,,0.27
+Wes Burns,Ipswich,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,18.67,1.0,Ipswich,False,Brighton,,-0.61
+Wes Burns,Ipswich,Brighton,2024-09-14,False,58.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.6,0.0,1.0,0.25,0.0,28.5,2.0,Ipswich,False,Southampton,,-0.31
+Wes Burns,Ipswich,Southampton,2024-09-21,False,73.0,0.0,0.0,0.0,0.71,2.0,0.0,2.0,4.4,0.0,1.0,0.6,0.0,37.4,1.0,Ipswich,True,Aston Villa,,0.66
+Wes Burns,Ipswich,Aston Villa,2024-09-29,True,21.0,0.0,0.12,0.0,0.0,1.0,1.0,0.0,0.6,0.0,0.0,0.8,0.02,34.67,2.0,Ipswich,False,West Ham,,-0.34
+Wes Burns,Ipswich,West Ham,2024-10-05,False,72.0,0.0,0.02,0.0,0.31,2.0,1.0,1.0,2.4,0.0,1.0,1.2,0.03,40.0,2.0,Ipswich,True,Everton,,0.61
+Wes Burns,Ipswich,Everton,2024-10-19,True,62.0,0.0,0.0,0.0,0.37,2.0,0.0,1.0,1.0,0.0,1.0,1.6,0.03,42.75,1.0,Ipswich,False,Brentford,,-0.15
+Wes Burns,Ipswich,Brentford,2024-10-26,False,55.0,0.0,0.06,0.0,0.0,1.0,1.0,0.0,1.5,0.0,0.0,1.6,0.04,44.11,,,,,,
+,Ipswich,,,,,,,,,,,,,,,,,,,Ipswich,True,Leicester City,,0.47
+,Ipswich,,,,,,,,,,,,,,,,,,,Ipswich,False,Tottenham,,-0.3
+,Ipswich,,,,,,,,,,,,,,,,,,,Ipswich,True,Manchester United,,0.39

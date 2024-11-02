@@ -1,12 +1,10 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Pedro Porro,Spurs,Leicester City,2024-08-19,False,DR,90.0,1.0,0.14,0.0,0.26,9.0,1.0,4.0,13.0,1.0,0.0,1.0,0.96,True,0.0,0.0,90.0,0.0,2.82,7.28,58.42,0.21,6.0,Spurs,True,Everton,,0.61
-Pedro Porro,Spurs,Everton,2024-08-24,True,DR,90.0,0.0,0.02,0.0,0.08,6.0,1.0,1.0,4.8,0.0,1.0,0.0,1.0,True,9.0,0.14,90.0,0.5,2.82,7.28,58.42,0.21,1.0,Spurs,False,Newcastle United,,-0.44
-Pedro Porro,Spurs,Newcastle United,2024-09-01,False,DR,90.0,0.0,0.2,0.0,0.06,1.0,6.0,1.0,5.5,0.0,0.0,2.0,1.57,True,7.5,0.08,90.0,0.33,2.82,7.28,58.42,0.21,2.0,Spurs,True,Arsenal,,-0.32
-Pedro Porro,Spurs,Arsenal,2024-09-15,True,DR,90.0,0.0,0.0,0.0,0.23,2.0,0.0,4.0,9.7,0.0,0.0,1.0,0.73,True,5.33,0.12,90.0,0.25,2.82,7.28,58.42,0.21,2.0,Spurs,True,Brentford,,0.54
-Pedro Porro,Spurs,Brentford,2024-09-21,True,DR,87.0,0.0,0.02,0.0,0.0,2.0,2.0,0.0,2.8,0.0,0.0,1.0,0.8,True,4.5,0.09,89.4,0.2,2.82,7.28,58.42,0.21,5.0,Spurs,False,Manchester United,,-0.41
-Pedro Porro,Spurs,Manchester United,2024-09-29,False,DR,90.0,0.0,0.12,0.0,0.37,5.0,1.0,2.0,6.7,0.0,1.0,0.0,0.96,True,4.0,0.08,89.5,0.33,2.82,7.28,58.42,0.21,1.0,Spurs,False,Brighton,,-0.61
-Pedro Porro,Spurs,Brighton,2024-10-06,False,DR,90.0,0.0,0.02,0.0,0.09,1.0,1.0,1.0,4.3,0.0,0.0,3.0,1.82,True,3.2,0.07,89.57,0.29,2.82,7.28,58.42,0.21,2.0,Spurs,True,West Ham,,0.48
-Pedro Porro,Spurs,West Ham,2024-10-19,True,DR,90.0,0.0,0.16,0.0,0.08,2.0,4.0,2.0,7.9,0.0,0.0,1.0,0.78,True,2.2,0.07,89.62,0.25,2.82,7.28,58.42,0.21,2.0,Spurs,False,Crystal Palace,,0.2
-Pedro Porro,Spurs,Crystal Palace,2024-10-27,False,DR,90.0,0.0,0.03,0.0,0.05,2.0,1.0,1.0,4.1,0.0,0.0,1.0,0.83,True,2.4,0.06,89.67,0.22,2.82,7.28,58.42,0.21,,Spurs,False,Wolverhampton,,-0.53
-,Spurs,,,,,,,,,,,,,,,,,,,,,,,,,,,,Spurs,True,Fulham,,0.27
-,Spurs,,,,,,,,,,,,,,,,,,,,,,,,,,,,Spurs,False,Aston Villa,,0.11
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Pedro Porro,Spurs,Leicester City,2024-08-19,False,90,1,0.14,0,0.26,9,1,4,13.0,1,0,1,0.96,1,9.0,0.14,90.0,0.0,2.82,7.28,0.21,58.42,6.0,Spurs,True,Everton,-2.75,0.61
+Pedro Porro,Spurs,Everton,2024-08-24,True,90,0,0.02,0,0.08,6,1,1,4.8,0,1,0,1.0,1,7.5,0.08,90.0,0.5,2.82,7.28,0.21,58.42,1.0,Spurs,False,Newcastle United,4.3,-0.44
+Pedro Porro,Spurs,Newcastle United,2024-09-01,False,90,0,0.2,0,0.06,1,6,1,5.5,0,0,2,1.57,1,5.33,0.12,90.0,0.33,2.82,7.28,0.21,58.42,2.0,Spurs,True,Arsenal,-0.34,-0.32
+Pedro Porro,Spurs,Arsenal,2024-09-15,True,90,0,0.0,0,0.23,2,0,4,9.7,0,0,1,0.73,1,4.5,0.09,90.0,0.25,2.82,7.28,0.21,58.42,2.0,Spurs,True,Brentford,-1.31,0.54
+Pedro Porro,Spurs,Brentford,2024-09-21,True,87,0,0.02,0,0.0,2,2,0,2.8,0,0,1,0.8,1,4.0,0.08,89.4,0.2,2.82,7.28,0.21,58.42,5.0,Spurs,False,Manchester United,2.48,-0.41
+Pedro Porro,Spurs,Manchester United,2024-09-29,False,90,0,0.12,0,0.37,5,1,2,6.7,0,1,0,0.96,1,3.2,0.07,89.5,0.33,2.82,7.28,0.21,58.42,1.0,Spurs,False,Brighton,0.26,-0.61
+Pedro Porro,Spurs,Brighton,2024-10-06,False,90,0,0.02,0,0.09,1,1,1,4.3,0,0,3,1.82,1,2.2,0.07,89.57,0.29,2.82,7.28,0.21,58.42,2.0,Spurs,True,West Ham,0.26,0.48
+Pedro Porro,Spurs,West Ham,2024-10-19,True,90,0,0.16,0,0.08,2,4,2,7.9,0,0,1,0.78,1,2.4,0.06,89.62,0.25,2.82,7.28,0.21,58.42,2.0,Spurs,False,Crystal Palace,0.96,0.2
+Pedro Porro,Spurs,Crystal Palace,2024-10-27,False,90,0,0.03,0,0.05,2,1,1,4.1,0,0,1,0.83,1,2.4,0.07,89.67,0.22,2.82,7.28,0.21,58.42,,,,,,

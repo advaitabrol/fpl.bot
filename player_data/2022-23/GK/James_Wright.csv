@@ -1,12 +1,12 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,saves_per_game,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,last_season_total_saves,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-James Wright,Aston Villa,Chelsea,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0,Aston Villa,False,Leeds United,-2.15,-0.8
-James Wright,Aston Villa,Leeds United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0,Aston Villa,True,Nottingham Forest,,
-James Wright,Aston Villa,Nottingham Forest,2023-04-08,True,0,0,0.0,0,0,0,0,False,0.11,False,0.0,0.0,0.0,0,0,0,0,0,Aston Villa,True,Newcastle United,-3.47,0.73
-James Wright,Aston Villa,Newcastle United,2023-04-15,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0.0,0,0,0,0,0,Aston Villa,False,Brentford,0.38,-0.55
-James Wright,Aston Villa,Brentford,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0,Aston Villa,True,Fulham,,-0.3
-James Wright,Aston Villa,Fulham,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0,Aston Villa,False,Manchester United,-1.29,-0.1
-James Wright,Aston Villa,Manchester United,2023-04-30,False,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0.0,0,0,0,0,0,Aston Villa,False,Wolverhampton,1.31,-0.46
-James Wright,Aston Villa,Wolverhampton,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0,Aston Villa,True,Tottenham,5.76,1.07
-James Wright,Aston Villa,Tottenham,2023-05-13,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0.0,0,0,0,0,0,Aston Villa,False,Liverpool,0.83,-1.33
-James Wright,Aston Villa,Liverpool,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0,Aston Villa,True,Brighton,-3.72,-0.71
-James Wright,Aston Villa,Brighton,2023-05-28,True,0,0,0.0,0,0,0,0,False,0.0,False,0.0,0.0,0.0,0,0,0,0,0,Aston Villa,False,Everton,-0.42,-0.63
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points
+James Wright,Aston Villa,Chelsea,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
+James Wright,Aston Villa,Leeds United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
+James Wright,Aston Villa,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
+James Wright,Aston Villa,Newcastle United,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
+James Wright,Aston Villa,Brentford,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
+James Wright,Aston Villa,Fulham,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
+James Wright,Aston Villa,Manchester United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
+James Wright,Aston Villa,Wolverhampton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
+James Wright,Aston Villa,Tottenham,2023-05-13,True,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0.0
+James Wright,Aston Villa,Liverpool,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
+James Wright,Aston Villa,Brighton,2023-05-28,True,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0.0

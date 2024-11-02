@@ -1,12 +1,13 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Tom Cairney,Fulham,Manchester United,2024-08-16,False,Sub,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,False,0.0,0.0,26.0,1.0,4.0,1.02,3.11,0.05,0.0,Fulham,True,Leicester City,,0.47
-Tom Cairney,Fulham,Leicester City,2024-08-24,True,Sub,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,False,0.0,0.0,23.5,1.0,4.0,1.02,3.11,0.05,1.0,Fulham,False,Ipswich Town,,
-Tom Cairney,Fulham,Ipswich Town,2024-08-31,False,Sub,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,0.0,0.0,0.0,False,0.0,0.0,16.67,1.0,4.0,1.02,3.11,0.05,1.0,Fulham,True,West Ham,,0.48
-Tom Cairney,Fulham,West Ham,2024-09-14,True,Sub,17.0,0.0,0.0,0.0,0.36,1.0,0.0,1.0,2.1,0.0,0.0,1.0,False,0.33,0.0,16.75,1.0,4.0,1.02,3.11,0.05,0.0,Fulham,True,Newcastle United,,0.67
-Tom Cairney,Fulham,Newcastle United,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.5,0.0,13.4,1.0,4.0,1.02,3.11,0.05,0.0,Fulham,False,Nottingham Forest,,-0.54
-Tom Cairney,Fulham,Nottingham Forest,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.4,0.0,11.17,1.0,4.0,1.02,3.11,0.05,1.0,Fulham,False,Manchester City,,-1.51
-Tom Cairney,Fulham,Manchester City,2024-10-05,False,Sub,25.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.3,0.0,0.0,1.0,False,0.4,0.0,13.14,1.0,4.0,1.02,3.11,0.05,1.0,Fulham,True,Aston Villa,,0.66
-Tom Cairney,Fulham,Aston Villa,2024-10-19,True,Sub,10.0,0.0,0.0,0.0,0.6,1.0,0.0,1.0,2.2,0.0,0.0,0.0,False,0.6,0.0,12.75,1.0,4.0,1.02,3.11,0.05,0.0,Fulham,False,Everton,,-0.39
-Tom Cairney,Fulham,Everton,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.6,0.0,11.33,1.0,4.0,1.02,3.11,0.05,,Fulham,True,Brentford,,0.54
-,Fulham,,,,,,,,,,,,,,,,,,,,,,,,,,,Fulham,False,Crystal Palace,,0.2
-,Fulham,,,,,,,,,,,,,,,,,,,,,,,,,,,Fulham,True,Wolverhampton,,-0.08
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Tom Cairney,Fulham,Manchester United,2024-08-16,False,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,26.0,1.0,4.0,1.02,3.11,0.05,0.0,Fulham,True,Leicester City,-2.18,0.47
+Tom Cairney,Fulham,Leicester City,2024-08-24,True,21.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,23.5,1.0,4.0,1.02,3.11,0.05,1.0,Fulham,False,Ipswich Town,,
+Tom Cairney,Fulham,Ipswich Town,2024-08-31,False,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,0.0,0.0,0.33,0.0,16.67,1.0,4.0,1.02,3.11,0.05,1.0,Fulham,True,West Ham,-0.79,0.48
+Tom Cairney,Fulham,West Ham,2024-09-14,True,17.0,0.0,0.0,0.0,0.36,1.0,0.0,1.0,2.1,0.0,0.0,0.5,0.0,16.75,1.0,4.0,1.02,3.11,0.05,0.0,Fulham,True,Newcastle United,3.13,0.67
+Tom Cairney,Fulham,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.4,0.0,13.4,1.0,4.0,1.02,3.11,0.05,0.0,Fulham,False,Nottingham Forest,1.93,-0.54
+Tom Cairney,Fulham,Nottingham Forest,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.4,0.0,11.17,1.0,4.0,1.02,3.11,0.05,1.0,Fulham,False,Manchester City,1.5,-1.51
+Tom Cairney,Fulham,Manchester City,2024-10-05,False,25.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.3,0.0,0.0,0.6,0.0,13.14,1.0,4.0,1.02,3.11,0.05,1.0,Fulham,True,Aston Villa,-0.63,0.66
+Tom Cairney,Fulham,Aston Villa,2024-10-19,True,10.0,0.0,0.0,0.0,0.6,1.0,0.0,1.0,2.2,0.0,0.0,0.6,0.0,12.75,1.0,4.0,1.02,3.11,0.05,0.0,Fulham,False,Everton,-0.93,-0.39
+Tom Cairney,Fulham,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.4,0.0,11.33,1.0,4.0,1.02,3.11,0.05,,,,,,
+,Fulham,,,,,,,,,,,,,,,,,,,,,,,,Fulham,True,Brentford,1.56,0.54
+,Fulham,,,,,,,,,,,,,,,,,,,,,,,,Fulham,False,Crystal Palace,-1.05,0.2
+,Fulham,,,,,,,,,,,,,,,,,,,,,,,,Fulham,True,Wolverhampton,0.52,-0.08

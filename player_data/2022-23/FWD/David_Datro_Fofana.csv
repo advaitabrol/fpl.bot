@@ -1,23 +1,23 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-David Datro Fofana,Chelsea,Manchester City,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Chelsea,False,Fulham,,1.37
-David Datro Fofana,Chelsea,Fulham,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Chelsea,True,Crystal Palace,0.31,0.81
-David Datro Fofana,Chelsea,Crystal Palace,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0,0,0,0,0,0,Chelsea,False,Liverpool,0.32,-1.33
-David Datro Fofana,Chelsea,Liverpool,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,0.0,0,0,0,0,0,1,Chelsea,True,Fulham,,-0.3
-David Datro Fofana,Chelsea,Fulham,2023-02-03,True,Sub,15,0.0,0.27,0.0,0.0,1,1.0,0.0,1.4,0,False,0.0,0.0,3.0,0,0,0,0,0,0,Chelsea,False,West Ham,4.47,0.14
-David Datro Fofana,Chelsea,West Ham,,False,,0,,,,,0,,,0.0,0,False,0.2,0.05,2.5,0,0,0,0,0,1,Chelsea,True,Southampton,-1.13,-0.38
-David Datro Fofana,Chelsea,Southampton,2023-02-18,True,FW,45,0.0,0.06,0.0,0.08,1,2.0,2.0,4.7,0,True,0.2,0.05,8.57,0,0,0,0,0,0,Chelsea,False,Tottenham,-1.69,-0.03
-David Datro Fofana,Chelsea,Tottenham,,False,,0,,,,,0,,,0.0,0,False,0.4,0.07,7.5,0,0,0,0,0,0,Chelsea,True,Leicester City,1.12,0.83
-David Datro Fofana,Chelsea,Leicester City,,True,,0,,,,,0,,,0.0,0,False,0.4,0.07,6.67,0,0,0,0,0,0,Chelsea,False,Leeds United,-3.0,-0.8
-David Datro Fofana,Chelsea,Leeds United,,False,,0,,,,,0,,,0.0,0,False,0.4,0.07,6.0,0,0,0,0,0,0,Chelsea,True,Everton,1.01,0.34
-David Datro Fofana,Chelsea,Everton,,True,,0,,,,,0,,,0.0,0,False,0.2,0.01,5.45,0,0,0,0,0,0,Chelsea,True,Aston Villa,-2.49,0.55
-David Datro Fofana,Chelsea,Aston Villa,,True,,0,,,,,0,,,0.0,0,False,0.2,0.01,5.0,0,0,0,0,0,0,Chelsea,True,Liverpool,2.38,-0.53
-David Datro Fofana,Chelsea,Liverpool,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,4.62,0,0,0,0,0,0,Chelsea,False,Wolverhampton,0.77,-0.46
-David Datro Fofana,Chelsea,Wolverhampton,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,4.29,0,0,0,0,0,0,Chelsea,True,Brighton,0.37,-0.71
-David Datro Fofana,Chelsea,Brighton,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,4.0,0,0,0,0,0,0,Chelsea,True,Brentford,6.68,0.69
-David Datro Fofana,Chelsea,Brentford,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,3.75,0,0,0,0,0,0,Chelsea,False,Arsenal,-1.77,-0.0
-David Datro Fofana,Chelsea,Arsenal,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,3.53,0,0,0,0,0,0,Chelsea,False,Bournemouth,,0.19
-David Datro Fofana,Chelsea,Bournemouth,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,3.33,0,0,0,0,0,0,Chelsea,True,Nottingham Forest,,
-David Datro Fofana,Chelsea,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,False,0.0,0.0,3.16,0,0,0,0,0,0,Chelsea,False,Manchester City,0.4,-1.26
-David Datro Fofana,Chelsea,Manchester City,,False,,0,,,,,0,,,0.0,0,False,0.0,0.0,3.0,0,0,0,0,0,1,Chelsea,False,Manchester United,0.01,-0.1
-David Datro Fofana,Chelsea,Manchester United,2023-05-25,False,Sub,8,0.0,0.0,0.0,0.01,1,0.0,1.0,1.9,0,False,0.0,0.0,3.24,0,0,0,0,0,0,Chelsea,True,Newcastle United,,0.73
-David Datro Fofana,Chelsea,Newcastle United,,True,,0,,,,,0,,,0.0,0,False,0.2,0.0,3.09,0,0,0,0,0,0,Chelsea,True,Liverpool,,-0.53
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
+David Datro Fofana,Chelsea,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
+David Datro Fofana,Chelsea,Fulham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
+David Datro Fofana,Chelsea,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
+David Datro Fofana,Chelsea,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,1.0
+David Datro Fofana,Chelsea,Fulham,2023-02-03,True,15,0.0,0.27,0.0,0.0,1,1.0,0.0,1.4,0,0,0.2,0.05,3.0,0.0
+David Datro Fofana,Chelsea,West Ham,,False,0,,,,,0,,,0.0,0,0,0.2,0.05,2.5,1.0
+David Datro Fofana,Chelsea,Southampton,2023-02-18,True,45,0.0,0.06,0.0,0.08,1,2.0,2.0,4.7,0,1,0.4,0.07,8.57,0.0
+David Datro Fofana,Chelsea,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.4,0.07,7.5,0.0
+David Datro Fofana,Chelsea,Leicester City,,True,0,,,,,0,,,0.0,0,0,0.4,0.07,6.67,0.0
+David Datro Fofana,Chelsea,Leeds United,,False,0,,,,,0,,,0.0,0,0,0.2,0.01,6.0,0.0
+David Datro Fofana,Chelsea,Everton,,True,0,,,,,0,,,0.0,0,0,0.2,0.01,5.45,0.0
+David Datro Fofana,Chelsea,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,5.0,0.0
+David Datro Fofana,Chelsea,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,4.62,0.0
+David Datro Fofana,Chelsea,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,4.29,0.0
+David Datro Fofana,Chelsea,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,4.0,0.0
+David Datro Fofana,Chelsea,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,3.75,0.0
+David Datro Fofana,Chelsea,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,3.53,0.0
+David Datro Fofana,Chelsea,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,3.33,0.0
+David Datro Fofana,Chelsea,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,3.16,0.0
+David Datro Fofana,Chelsea,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,3.0,1.0
+David Datro Fofana,Chelsea,Manchester United,2023-05-25,False,8,0.0,0.0,0.0,0.01,1,0.0,1.0,1.9,0,0,0.2,0.0,3.24,0.0
+David Datro Fofana,Chelsea,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,3.09,

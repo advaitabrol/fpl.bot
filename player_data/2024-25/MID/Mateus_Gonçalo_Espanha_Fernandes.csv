@@ -1,11 +1,12 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Mateus Gonçalo Espanha Fernandes,Southampton,Nottingham Forest,2024-08-24,True,FW,14.0,0.0,0.09,0.0,0.62,1.0,1.0,3.0,0.9,0.0,0.0,0.0,False,0.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,1.0,Southampton,False,Brentford,,-0.15
-Mateus Gonçalo Espanha Fernandes,Southampton,Brentford,,False,,45.0,,,,,1.0,,,5.6,0.0,0.0,2.0,False,1.0,0.09,29.5,0.0,0.0,0.0,0.0,0.0,2.0,Southampton,True,Manchester United,,0.39
-Mateus Gonçalo Espanha Fernandes,Southampton,Manchester United,2024-09-14,True,AMC,80.0,0.0,0.27,1.0,0.37,2.0,5.0,1.0,1.2,0.0,0.0,2.0,True,1.0,0.04,46.33,0.0,0.0,0.0,0.0,0.0,3.0,Southampton,True,Ipswich Town,,
-Mateus Gonçalo Espanha Fernandes,Southampton,Ipswich Town,2024-09-21,True,AMC,90.0,0.0,0.46,0.0,0.06,3.0,4.0,2.0,6.4,0.0,1.0,0.0,True,1.33,0.45,57.25,0.0,0.0,0.0,0.0,0.0,1.0,Southampton,False,Bournemouth,,-0.04
-Mateus Gonçalo Espanha Fernandes,Southampton,Bournemouth,,False,,69.0,,,,,1.0,,,2.5,0.0,0.0,3.0,True,1.75,0.45,59.6,0.0,0.0,0.0,0.0,0.0,5.0,Southampton,False,Arsenal,,-0.56
-Mateus Gonçalo Espanha Fernandes,Southampton,Arsenal,,False,,73.0,,,,,5.0,,,4.2,0.0,0.0,2.0,True,1.6,0.36,61.83,0.0,0.0,0.0,0.0,0.0,1.0,Southampton,True,Leicester City,,0.47
-Mateus Gonçalo Espanha Fernandes,Southampton,Leicester City,2024-10-19,True,AMC,67.0,0.0,0.24,1.0,0.35,1.0,5.0,2.0,1.9,0.0,0.0,1.0,True,2.4,0.35,62.57,0.0,0.0,0.0,0.0,0.0,2.0,Southampton,False,Manchester City,,-1.51
-Mateus Gonçalo Espanha Fernandes,Southampton,Manchester City,,False,,90.0,,,,,2.0,,,3.9,0.0,0.0,1.0,True,2.4,0.59,66.0,0.0,0.0,0.0,0.0,0.0,,Southampton,True,Everton,,0.61
-,Southampton,,,,,,,,,,,,,,,,,,,,,,,,,,,Southampton,False,Wolverhampton,,-0.53
-,Southampton,,,,,,,,,,,,,,,,,,,,,,,,,,,Southampton,True,Liverpool,,0.24
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Mateus Gonçalo Espanha Fernandes,Southampton,Nottingham Forest,2024-08-24,True,14.0,0.0,0.09,0.0,0.62,1.0,1.0,3.0,0.9,0.0,0.0,1.0,0.09,14.0,1.0,Southampton,False,Brentford,4.79,-0.15
+Mateus Gonçalo Espanha Fernandes,Southampton,Brentford,,False,45.0,,,,,1.0,,,5.6,0.0,0.0,1.0,0.04,29.5,2.0,Southampton,True,Manchester United,1.12,0.39
+Mateus Gonçalo Espanha Fernandes,Southampton,Manchester United,2024-09-14,True,80.0,0.0,0.27,1.0,0.37,2.0,5.0,1.0,1.2,0.0,1.0,1.33,0.45,46.33,3.0,Southampton,True,Ipswich Town,,
+Mateus Gonçalo Espanha Fernandes,Southampton,Ipswich Town,2024-09-21,True,90.0,0.0,0.46,0.0,0.06,3.0,4.0,2.0,6.4,0.0,1.0,1.75,0.45,57.25,1.0,Southampton,False,Bournemouth,-0.76,-0.04
+Mateus Gonçalo Espanha Fernandes,Southampton,Bournemouth,,False,69.0,,,,,1.0,,,2.5,0.0,1.0,1.6,0.36,59.6,5.0,Southampton,False,Arsenal,0.71,-0.56
+Mateus Gonçalo Espanha Fernandes,Southampton,Arsenal,,False,73.0,,,,,5.0,,,4.2,0.0,1.0,2.4,0.35,61.83,1.0,Southampton,True,Leicester City,-1.16,0.47
+Mateus Gonçalo Espanha Fernandes,Southampton,Leicester City,2024-10-19,True,67.0,0.0,0.24,1.0,0.35,1.0,5.0,2.0,1.9,0.0,1.0,2.4,0.59,62.57,2.0,Southampton,False,Manchester City,3.44,-1.51
+Mateus Gonçalo Espanha Fernandes,Southampton,Manchester City,,False,90.0,,,,,2.0,,,3.9,0.0,1.0,2.4,0.34,66.0,,,,,,
+,Southampton,,,,,,,,,,,,,,,,,,,Southampton,True,Everton,0.11,0.61
+,Southampton,,,,,,,,,,,,,,,,,,,Southampton,False,Wolverhampton,2.86,-0.53
+,Southampton,,,,,,,,,,,,,,,,,,,Southampton,True,Liverpool,-0.47,0.24

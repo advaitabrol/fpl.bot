@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,form,xG&A_form,minutes_per_game
-Xherdan Shaqiri,Liverpool,Norwich,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Everton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Aston Villa,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Newcastle United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Tottenham,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Burnley,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Leeds United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Burnley,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Norwich,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,West Ham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Watford,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Manchester City,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Everton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Newcastle United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Tottenham,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Southampton,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Leicester City,2021-09-12,False,AMR,0,0.0,0.0,1.0,0.52,0,0.0,4.0,0.0,0,0,0,0.0,0.0,0.0
-Xherdan Shaqiri,Liverpool,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.2,0.0
-Xherdan Shaqiri,Liverpool,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.2,0.0
-Xherdan Shaqiri,Liverpool,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,0.0,0.2,0.0
-Xherdan Shaqiri,Liverpool,Watford,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.2,0.0
-Xherdan Shaqiri,Liverpool,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,0.0,0.2,0.0
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus
+Xherdan Shaqiri,Liverpool,Norwich,,False,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Burnley,,True,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Chelsea,,True,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Leicester City,2021-09-12,False,0,0.0,0.0,1.0,0.5153281688690186,0,0.0,4.0,0.0,0
+Xherdan Shaqiri,Liverpool,Crystal Palace,,True,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Brentford,,False,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Manchester City,,True,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Watford,,False,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Manchester United,,False,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Brighton,,True,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,West Ham,,False,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Arsenal,,True,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Southampton,,True,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Everton,,False,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Wolverhampton,,False,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Aston Villa,,True,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Newcastle United,,True,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Tottenham,,False,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Leeds United,,False,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Chelsea,,False,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Brentford,,True,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Crystal Palace,,False,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Leeds United,,True,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Burnley,,False,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Norwich,,True,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Leicester City,,True,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,West Ham,,True,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Brighton,,False,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Arsenal,,False,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Watford,,True,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Manchester City,,False,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Manchester United,,True,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Everton,,True,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Newcastle United,,False,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Tottenham,,True,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Aston Villa,,False,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Southampton,,False,0,,,,,0,,,0.0,0
+Xherdan Shaqiri,Liverpool,Wolverhampton,,True,0,,,,,0,,,0.0,0

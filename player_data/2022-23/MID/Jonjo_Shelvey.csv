@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jonjo Shelvey,Newcastle,Nottingham Forest,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,1.0,0.88,1.04,0.03,0,Newcastle,True,Brentford,-2.4,0.69
-Jonjo Shelvey,Newcastle,Brentford,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,1.0,0.88,1.04,0.03,0,Newcastle,False,Manchester United,1.2,-0.1
-Jonjo Shelvey,Newcastle,Manchester United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,1.0,0.88,1.04,0.03,0,Newcastle,True,Everton,-5.87,0.34
-Jonjo Shelvey,Newcastle,Everton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,0.0,2.0,1.0,0.88,1.04,0.03,1,Newcastle,False,Tottenham,4.75,-0.03
-Jonjo Shelvey,Newcastle,Tottenham,2022-10-23,False,Sub,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,False,0.0,0.0,0.2,2.0,1.0,0.88,1.04,0.03,1,Newcastle,True,Aston Villa,-2.14,0.55
-Jonjo Shelvey,Newcastle,Aston Villa,2022-10-29,True,Sub,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,False,0.2,0.0,1.33,2.0,1.0,0.88,1.04,0.03,1,Newcastle,False,Southampton,-1.93,-1.07
-Jonjo Shelvey,Newcastle,Southampton,2022-11-06,False,Sub,26,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,False,0.4,0.0,4.86,2.0,1.0,0.88,1.04,0.03,0,Newcastle,True,Chelsea,1.87,-0.25
-Jonjo Shelvey,Newcastle,Chelsea,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,4.25,2.0,1.0,0.88,1.04,0.03,0,Newcastle,False,Leeds United,6.23,-0.8
-Jonjo Shelvey,Newcastle,Leeds United,,False,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,3.78,2.0,1.0,0.88,1.04,0.03,0,Newcastle,True,Leicester City,-1.01,0.83
-Jonjo Shelvey,Newcastle,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.0,3.4,2.0,1.0,0.88,1.04,0.03,0,Newcastle,False,Arsenal,2.9,-0.0
-Jonjo Shelvey,Newcastle,Arsenal,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,3.09,2.0,1.0,0.88,1.04,0.03,0,Newcastle,False,Brighton,-0.9,-0.39
-Jonjo Shelvey,Newcastle,Brighton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,2.83,2.0,1.0,0.88,1.04,0.03,0,Newcastle,True,Fulham,,-0.3
-Jonjo Shelvey,Newcastle,Fulham,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.62,2.0,1.0,0.88,1.04,0.03,0,Newcastle,False,Crystal Palace,-1.13,0.13
-Jonjo Shelvey,Newcastle,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.43,2.0,1.0,0.88,1.04,0.03,0,Nott'm Forest,True,Leicester City,,0.83
-Jonjo Shelvey,Nott'm Forest,Leicester City,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,2.27,2.0,1.0,0.88,1.04,0.03,1,Nott'm Forest,False,Fulham,,1.37
-Jonjo Shelvey,Nott'm Forest,Fulham,2023-02-11,False,Sub,34,0.0,0.0,0.0,0.25,1,0.0,2.0,3.4,0,0,1,False,0.0,0.0,4.25,2.0,1.0,0.88,1.04,0.03,2,Nott'm Forest,True,Manchester City,,-1.17
-Jonjo Shelvey,Nott'm Forest,Manchester City,2023-02-18,True,MC,71,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,0,1,True,0.2,0.0,8.18,2.0,1.0,0.88,1.04,0.03,3,Nott'm Forest,False,West Ham,,0.14
-Jonjo Shelvey,Nott'm Forest,West Ham,2023-02-25,False,MC,66,0.0,0.0,0.0,0.05,3,0.0,2.0,4.6,0,1,0,True,0.6,0.0,11.39,2.0,1.0,0.88,1.04,0.03,2,Nott'm Forest,True,Everton,,0.34
-Jonjo Shelvey,Nott'm Forest,Everton,2023-03-05,True,MC,90,0.0,0.02,0.0,0.0,2,1.0,0.0,1.0,0,0,2,True,1.2,0.0,15.53,2.0,1.0,0.88,1.04,0.03,2,Nott'm Forest,False,Tottenham,,-0.03
-Jonjo Shelvey,Nott'm Forest,Tottenham,2023-03-11,False,MC,90,0.0,0.05,0.0,0.02,2,2.0,1.0,2.9,0,0,3,True,1.6,0.0,19.25,2.0,1.0,0.88,1.04,0.03,1,Nott'm Forest,True,Newcastle United,,0.73
-Jonjo Shelvey,Nott'm Forest,Newcastle United,2023-03-17,True,DMC,90,0.0,0.08,0.0,0.0,1,2.0,0.0,0.0,0,0,2,True,2.0,0.01,22.62,2.0,1.0,0.88,1.04,0.03,0,Nott'm Forest,True,Wolverhampton,,-0.48
-Jonjo Shelvey,Nott'm Forest,Wolverhampton,,True,,0,,,,,0,,,0.0,0,0,0,False,2.0,0.03,21.59,2.0,1.0,0.88,1.04,0.03,1,Nott'm Forest,False,Leicester City,,-0.05
-Jonjo Shelvey,Nott'm Forest,Leicester City,2023-04-04,False,Sub,34,0.0,0.01,0.0,0.03,1,1.0,1.0,2.8,0,0,0,False,1.6,0.03,22.13,2.0,1.0,0.88,1.04,0.03,0,Newcastle,True,Manchester City,4.58,-1.17
-Jonjo Shelvey,Newcastle,Manchester City,,True,,0,,,,,0,,,0.0,0,0,0,False,1.2,0.03,21.21,2.0,1.0,0.88,1.04,0.03,1,Nott'm Forest,False,Aston Villa,,0.59
-Jonjo Shelvey,Nott'm Forest,Aston Villa,2023-04-08,False,MC,64,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,True,0.8,0.03,22.92,2.0,1.0,0.88,1.04,0.03,0,Nott'm Forest,True,Manchester United,,0.38
-Jonjo Shelvey,Nott'm Forest,Manchester United,,True,,0,,,,,0,,,0.0,0,0,0,False,0.6,0.02,22.04,2.0,1.0,0.88,1.04,0.03,0,Nott'm Forest,False,Liverpool,,-1.33
-Jonjo Shelvey,Nott'm Forest,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,21.22,2.0,1.0,0.88,1.04,0.03,0,Nott'm Forest,True,Brighton,,-0.71
-Jonjo Shelvey,Nott'm Forest,Brighton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.4,0.0,20.46,2.0,1.0,0.88,1.04,0.03,0,Nott'm Forest,False,Brentford,,-0.55
-Jonjo Shelvey,Nott'm Forest,Brentford,,False,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,19.76,2.0,1.0,0.88,1.04,0.03,0,Nott'm Forest,True,Southampton,,-0.38
-Jonjo Shelvey,Nott'm Forest,Southampton,,True,,0,,,,,0,,,0.0,0,0,0,False,0.2,0.0,19.1,2.0,1.0,0.88,1.04,0.03,0,Nott'm Forest,False,Chelsea,,-0.72
-Jonjo Shelvey,Nott'm Forest,Chelsea,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,18.48,2.0,1.0,0.88,1.04,0.03,0,Nott'm Forest,True,Arsenal,,0.36
-Jonjo Shelvey,Nott'm Forest,Arsenal,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,17.91,2.0,1.0,0.88,1.04,0.03,0,Nott'm Forest,False,Crystal Palace,,0.13
-Jonjo Shelvey,Nott'm Forest,Crystal Palace,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,17.36,2.0,1.0,0.88,1.04,0.03,0,Newcastle,False,Wolverhampton,1.1,-0.46
-Jonjo Shelvey,Newcastle,Wolverhampton,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,16.85,2.0,1.0,0.88,1.04,0.03,0,Newcastle,False,Liverpool,0.9,-1.33
-Jonjo Shelvey,Newcastle,Liverpool,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,16.37,2.0,1.0,0.88,1.04,0.03,0,Newcastle,True,Crystal Palace,-0.56,0.81
-Jonjo Shelvey,Newcastle,Crystal Palace,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,15.92,2.0,1.0,0.88,1.04,0.03,0,Newcastle,True,Bournemouth,2.6,1.46
-Jonjo Shelvey,Newcastle,Bournemouth,,True,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,15.49,2.0,1.0,0.88,1.04,0.03,0,Newcastle,False,Fulham,-1.62,1.37
-Jonjo Shelvey,Newcastle,Fulham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.0,0.0,15.08,2.0,1.0,0.88,1.04,0.03,0,Nott'm Forest,False,Arsenal,4.71,-0.0
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
+Jonjo Shelvey,Newcastle,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Newcastle,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Newcastle,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Newcastle,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Newcastle,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Newcastle,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Newcastle,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Newcastle,Fulham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Newcastle,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Newcastle,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Newcastle,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,1.0,0.88,1.06,0.03,1.0
+Jonjo Shelvey,Newcastle,Tottenham,2022-10-23,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.2,0.0,0.08,2.0,1.0,0.88,1.06,0.03,1.0
+Jonjo Shelvey,Newcastle,Aston Villa,2022-10-29,True,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0.4,0.0,0.62,2.0,1.0,0.88,1.06,0.03,1.0
+Jonjo Shelvey,Newcastle,Southampton,2022-11-06,False,26,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0.6,0.0,2.43,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Newcastle,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.6,0.0,2.27,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Newcastle,Leeds United,,False,0,,,,,0,,,0.0,0,0,0.6,0.0,2.12,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Newcastle,Leicester City,,True,0,,,,,0,,,0.0,0,0,0.4,0.0,2.0,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Newcastle,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,1.89,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Newcastle,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.79,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Newcastle,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.7,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Nott'm Forest,Leicester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.62,2.0,1.0,0.88,1.06,0.03,1.0
+Jonjo Shelvey,Nott'm Forest,Fulham,2023-02-11,False,34,0.0,0.0,0.0,0.25,1,0.0,2.0,3.4,0,0,0.2,0.0,3.09,2.0,1.0,0.88,1.06,0.03,2.0
+Jonjo Shelvey,Nott'm Forest,Manchester City,2023-02-18,True,71,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,1,0.6,0.0,6.04,2.0,1.0,0.88,1.06,0.03,3.0
+Jonjo Shelvey,Nott'm Forest,West Ham,2023-02-25,False,66,0.0,0.0,0.0,0.05,3,0.0,2.0,4.6,0,1,1.2,0.0,8.54,2.0,1.0,0.88,1.06,0.03,2.0
+Jonjo Shelvey,Nott'm Forest,Everton,2023-03-05,True,90,0.0,0.02,0.0,0.0,2,1.0,0.0,1.0,0,1,1.6,0.0,11.8,2.0,1.0,0.88,1.06,0.03,2.0
+Jonjo Shelvey,Nott'm Forest,Tottenham,2023-03-11,False,90,0.0,0.05,0.0,0.02,2,2.0,1.0,2.9,0,1,2.0,0.01,14.81,2.0,1.0,0.88,1.06,0.03,1.0
+Jonjo Shelvey,Nott'm Forest,Newcastle United,2023-03-17,True,90,0.0,0.08,0.0,0.0,1,2.0,0.0,0.0,0,1,2.0,0.03,17.59,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Nott'm Forest,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,1.6,0.03,16.96,2.0,1.0,0.88,1.06,0.03,1.0
+Jonjo Shelvey,Nott'm Forest,Leicester City,2023-04-04,False,34,0.0,0.01,0.0,0.03,1,1.0,1.0,2.8,0,0,1.2,0.03,17.55,2.0,1.0,0.88,1.06,0.03,1.0
+Jonjo Shelvey,Nott'm Forest,Aston Villa,2023-04-08,False,64,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,1,1.0,0.03,19.1,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Nott'm Forest,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.6,0.02,18.48,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Nott'm Forest,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,17.91,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Nott'm Forest,Brighton,,True,0,,,,,0,,,0.0,0,0,0.4,0.0,17.36,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Nott'm Forest,Brentford,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,16.85,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Nott'm Forest,Southampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,16.37,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Nott'm Forest,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,15.92,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Nott'm Forest,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,15.49,2.0,1.0,0.88,1.06,0.03,0.0
+Jonjo Shelvey,Nott'm Forest,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,15.08,2.0,1.0,0.88,1.06,0.03,

@@ -1,12 +1,13 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Lewis Hall,Newcastle,Southampton,2024-08-17,True,DL,69.0,0.0,0.0,0.0,0.04,5.0,0.0,1.0,3.1,0.0,1.0,0.0,1.33,True,0.0,0.0,69.0,1.0,0.42,0.3,13.1,0.29,1.0,Newcastle,False,Bournemouth,,-0.04
-Lewis Hall,Newcastle,Bournemouth,2024-08-25,False,Sub,21.0,0.0,0.0,0.0,0.07,1.0,0.0,1.0,3.5,0.0,0.0,0.0,0.42,False,5.0,0.0,45.0,1.0,0.42,0.3,13.1,0.29,1.0,Newcastle,True,Tottenham,,0.74
-Lewis Hall,Newcastle,Tottenham,2024-09-01,True,Sub,22.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.6,0.0,0.0,0.0,0.27,False,3.0,0.0,37.33,1.0,0.42,0.3,13.1,0.29,2.0,Newcastle,False,Wolverhampton,,-0.53
-Lewis Hall,Newcastle,Wolverhampton,2024-09-15,False,DL,90.0,0.0,0.0,0.0,0.32,2.0,0.0,1.0,3.6,0.0,0.0,1.0,0.99,True,2.33,0.0,50.5,0.5,0.42,0.3,13.1,0.29,1.0,Newcastle,False,Fulham,,0.53
-Lewis Hall,Newcastle,Fulham,2024-09-21,False,Sub,45.0,0.0,0.0,0.0,0.05,1.0,0.0,1.0,2.5,0.0,0.0,1.0,1.01,False,2.25,0.0,49.4,0.5,0.42,0.3,13.1,0.29,2.0,Newcastle,True,Manchester City,,-1.18
-Lewis Hall,Newcastle,Manchester City,2024-09-28,True,DL,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.9,0.0,0.0,1.0,0.91,True,2.0,0.0,56.17,0.33,0.42,0.3,13.1,0.29,5.0,Newcastle,False,Everton,,-0.39
-Lewis Hall,Newcastle,Everton,2024-10-05,False,DL,90.0,0.0,0.0,0.0,0.08,5.0,0.0,1.0,4.2,0.0,1.0,0.0,0.67,True,1.4,0.0,61.0,0.5,0.42,0.3,13.1,0.29,1.0,Newcastle,True,Brighton,,-0.42
-Lewis Hall,Newcastle,Brighton,2024-10-19,True,DL,90.0,0.0,0.0,0.0,0.12,1.0,0.0,3.0,6.8,0.0,0.0,1.0,1.11,True,2.2,0.0,64.62,0.4,0.42,0.3,13.1,0.29,4.0,Newcastle,False,Chelsea,,-0.9
-Lewis Hall,Newcastle,Chelsea,2024-10-27,False,DL,88.0,0.0,0.0,1.0,1.09,4.0,0.0,4.0,10.4,0.0,0.0,2.0,1.64,True,2.2,0.0,67.22,0.33,0.42,0.3,13.1,0.29,,Newcastle,True,Arsenal,,-0.32
-,Newcastle,,,,,,,,,,,,,,,,,,,,,,,,,,,,Newcastle,False,Nottingham Forest,,-0.54
-,Newcastle,,,,,,,,,,,,,,,,,,,,,,,,,,,,Newcastle,True,West Ham,,0.48
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Lewis Hall,Newcastle,Southampton,2024-08-17,True,69.0,0.0,0.0,0.0,0.04,5.0,0.0,1.0,3.1,0.0,1.0,0.0,1.33,1.0,5.0,0.0,69.0,1.0,0.42,0.3,0.29,13.1,1.0,Newcastle,False,Bournemouth,1.83,-0.04
+Lewis Hall,Newcastle,Bournemouth,2024-08-25,False,21.0,0.0,0.0,0.0,0.07,1.0,0.0,1.0,3.5,0.0,0.0,0.0,0.42,0.0,3.0,0.0,45.0,0.5,0.42,0.3,0.29,13.1,1.0,Newcastle,True,Tottenham,-3.04,0.74
+Lewis Hall,Newcastle,Tottenham,2024-09-01,True,22.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.6,0.0,0.0,0.0,0.27,0.0,2.33,0.0,37.33,0.33,0.42,0.3,0.29,13.1,2.0,Newcastle,False,Wolverhampton,0.77,-0.53
+Lewis Hall,Newcastle,Wolverhampton,2024-09-15,False,90.0,0.0,0.0,0.0,0.32,2.0,0.0,1.0,3.6,0.0,0.0,1.0,0.99,1.0,2.25,0.0,50.5,0.25,0.42,0.3,0.29,13.1,1.0,Newcastle,False,Fulham,-1.79,0.53
+Lewis Hall,Newcastle,Fulham,2024-09-21,False,45.0,0.0,0.0,0.0,0.05,1.0,0.0,1.0,2.5,0.0,0.0,1.0,1.01,0.0,2.0,0.0,49.4,0.2,0.42,0.3,0.29,13.1,2.0,Newcastle,True,Manchester City,3.23,-1.18
+Lewis Hall,Newcastle,Manchester City,2024-09-28,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.9,0.0,0.0,1.0,0.91,1.0,1.4,0.0,56.17,0.17,0.42,0.3,0.29,13.1,5.0,Newcastle,False,Everton,1.08,-0.39
+Lewis Hall,Newcastle,Everton,2024-10-05,False,90.0,0.0,0.0,0.0,0.08,5.0,0.0,1.0,4.2,0.0,1.0,0.0,0.67,1.0,2.2,0.0,61.0,0.29,0.42,0.3,0.29,13.1,1.0,Newcastle,True,Brighton,-2.35,-0.42
+Lewis Hall,Newcastle,Brighton,2024-10-19,True,90.0,0.0,0.0,0.0,0.12,1.0,0.0,3.0,6.8,0.0,0.0,1.0,1.11,1.0,2.2,0.0,64.62,0.25,0.42,0.3,0.29,13.1,4.0,Newcastle,False,Chelsea,0.97,-0.9
+Lewis Hall,Newcastle,Chelsea,2024-10-27,False,88.0,0.0,0.0,1.0,1.09,4.0,0.0,4.0,10.4,0.0,0.0,2.0,1.64,1.0,2.6,0.2,67.22,0.22,0.42,0.3,0.29,13.1,,,,,,
+,Newcastle,,,,,,,,,,,,,,,,,,,,,,,,,,,Newcastle,True,Arsenal,-0.34,-0.32
+,Newcastle,,,,,,,,,,,,,,,,,,,,,,,,,,,Newcastle,False,Nottingham Forest,0.98,-0.54
+,Newcastle,,,,,,,,,,,,,,,,,,,,,,,,,,,Newcastle,True,West Ham,0.92,0.48

@@ -1,39 +1,39 @@
-name,position_x,team,bonus,clean_sheets,expected_goals_conceded,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,own_goals,starts,total_points,was_home,goals,shots,xG,time,position_y,date,xA,assists,key_passes,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Chris Richards,DEF,Crystal Palace,0,0,0.0,0,0.0,2023-08-12,0,Sheffield,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0.69,0.45,9.1,0.25,0,Crystal Palace,True,Tottenham,0.96,0.69
-Chris Richards,DEF,Crystal Palace,0,0,0.0,0,0.0,2023-10-27,0,Tottenham,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0.69,0.45,9.1,0.25,1,Crystal Palace,False,Burnley,1.63,0.0
-Chris Richards,DEF,Crystal Palace,0,0,0.36,0,0.0,2023-11-04,4,Burnley,0,0,1,False,0.0,0.0,0.0,2.0,Sub,2023-11-04,0.0,0.0,0.0,0.0,0.0,1.33,0.0,0.69,0.45,9.1,0.25,0,Crystal Palace,True,Everton,-0.5,0.53
-Chris Richards,DEF,Crystal Palace,0,0,0.0,0,0.0,2023-11-11,0,Everton,0,0,0,True,,,,,,,,,,0.33,0.0,1.0,0.0,0.69,0.45,9.1,0.25,0,Crystal Palace,False,Luton,,
-Chris Richards,DEF,Crystal Palace,0,0,0.0,0,0.0,2023-11-25,0,Luton,0,0,0,False,,,,,,,,,,0.25,0.0,0.8,0.0,0.69,0.45,9.1,0.25,2,Crystal Palace,False,West Ham,0.28,-0.22
-Chris Richards,DEF,Crystal Palace,0,0,1.26,1,2.9,2023-12-03,90,West Ham,0,1,2,False,0.0,0.0,0.0,90.0,DMC,2023-12-03,0.0,0.0,0.0,0.2,0.0,15.67,0.0,0.69,0.45,9.1,0.25,1,Crystal Palace,True,Bournemouth,-1.71,1.22
-Chris Richards,DEF,Crystal Palace,0,0,1.74,2,3.0,2023-12-06,90,Bournemouth,0,1,1,True,0.0,0.0,0.0,90.0,DMC,2023-12-06,0.06,0.0,1.0,0.6,0.0,26.29,0.0,0.69,0.45,9.1,0.25,0,Crystal Palace,True,Liverpool,1.86,0.18
-Chris Richards,DEF,Crystal Palace,0,0,1.25,2,2.4,2023-12-09,90,Liverpool,0,1,0,True,0.0,0.0,0.0,90.0,MC,2023-12-09,0.0,0.0,0.0,0.8,0.0,34.25,0.0,0.69,0.45,9.1,0.25,1,Crystal Palace,False,Manchester City,-0.86,-1.32
-Chris Richards,DEF,Crystal Palace,0,0,1.61,2,1.9,2023-12-16,90,Manchester City,0,1,1,False,0.0,0.0,0.0,90.0,MC,2023-12-16,0.0,0.0,0.0,0.6,0.0,40.44,0.0,0.69,0.45,9.1,0.25,2,Crystal Palace,True,Brighton,0.52,-0.66
-Chris Richards,DEF,Crystal Palace,0,0,1.14,1,1.9,2023-12-21,90,Brighton,0,1,2,True,0.0,0.0,0.0,90.0,MC,2023-12-21,0.0,0.0,0.0,0.8,0.0,45.4,0.0,0.69,0.45,9.1,0.25,0,Crystal Palace,False,Chelsea,2.53,-0.85
-Chris Richards,DEF,Crystal Palace,0,0,2.74,2,2.0,2023-12-27,90,Chelsea,0,1,0,False,0.0,0.0,0.0,90.0,MC,2023-12-27,0.01,0.0,1.0,1.2,0.0,49.45,0.0,0.69,0.45,9.1,0.25,0,Crystal Palace,True,Arsenal,-1.01,-0.11
-Chris Richards,DEF,Crystal Palace,0,0,0.0,0,0.0,2023-08-21,0,Arsenal,0,0,0,True,,,,,,,,,,0.8,0.0,45.33,0.0,0.69,0.45,9.1,0.25,2,Crystal Palace,True,Brentford,0.87,0.79
-Chris Richards,DEF,Crystal Palace,0,0,1.4,1,1.6,2023-12-30,90,Brentford,0,1,2,True,0.0,0.0,0.0,90.0,MC,2023-12-30,0.0,0.0,0.0,0.6,0.0,48.77,0.0,0.69,0.45,9.1,0.25,0,Crystal Palace,False,Arsenal,3.15,-0.48
-Chris Richards,DEF,Crystal Palace,0,0,3.31,5,1.6,2024-01-20,90,Arsenal,0,1,0,False,0.0,1.0,0.03,90.0,DC,2024-01-20,0.0,0.0,0.0,1.0,0.0,51.71,0.0,0.69,0.45,9.1,0.25,1,Crystal Palace,True,Sheffield,,0.68
-Chris Richards,DEF,Crystal Palace,0,0,0.78,2,2.2,2024-01-30,90,Sheffield,0,1,1,True,0.0,0.0,0.0,90.0,DR,2024-01-30,0.0,0.0,0.0,0.8,0.01,54.27,0.0,0.69,0.45,9.1,0.25,0,Crystal Palace,False,Brighton,1.23,-0.6
-Chris Richards,DEF,Crystal Palace,0,0,1.53,4,1.1,2024-02-03,90,Brighton,0,1,0,False,0.0,0.0,0.0,90.0,MC,2024-02-03,0.0,0.0,0.0,0.6,0.01,56.5,0.0,0.69,0.45,9.1,0.25,1,Crystal Palace,True,Chelsea,1.43,-0.25
-Chris Richards,DEF,Crystal Palace,0,0,1.21,3,3.1,2024-02-12,90,Chelsea,0,1,1,True,0.0,1.0,0.09,90.0,DC,2024-02-12,0.0,0.0,0.0,0.6,0.01,58.47,0.0,0.69,0.45,9.1,0.25,2,Crystal Palace,False,Everton,4.13,-0.24
-Chris Richards,DEF,Crystal Palace,0,0,1.66,1,4.9,2024-02-19,90,Everton,0,1,2,False,0.0,3.0,0.08,90.0,DC,2024-02-19,0.12,0.0,1.0,0.8,0.02,60.22,0.0,0.69,0.45,9.1,0.25,14,Crystal Palace,True,Burnley,0.4,0.39
-Chris Richards,DEF,Crystal Palace,2,1,0.1,0,6.8,2024-02-24,90,Burnley,0,1,14,True,1.0,1.0,0.21,90.0,DC,2024-02-24,0.0,0.0,0.0,0.8,0.04,61.79,0.08,0.69,0.45,9.1,0.25,1,Crystal Palace,False,Tottenham,4.49,-0.36
-Chris Richards,DEF,Crystal Palace,0,0,1.87,3,2.1,2024-03-02,90,Tottenham,0,1,1,False,0.0,0.0,0.0,90.0,DC,2024-03-02,0.0,0.0,0.0,3.6,0.08,63.2,0.07,0.69,0.45,9.1,0.25,2,Crystal Palace,True,Luton,,
-Chris Richards,DEF,Crystal Palace,0,0,0.83,1,2.2,2024-03-09,90,Luton,0,1,2,True,0.0,0.0,0.0,90.0,DC,2024-03-09,0.0,0.0,0.0,3.6,0.08,64.48,0.07,0.69,0.45,9.1,0.25,0,Crystal Palace,False,Brentford,-0.07,-0.53
-Chris Richards,DEF,Crystal Palace,0,0,0.0,0,0.0,2023-08-26,0,Brentford,0,0,0,False,,,,,,,,,,4.0,0.08,61.55,0.07,0.69,0.45,9.1,0.25,2,Crystal Palace,False,Nottingham Forest,3.46,-0.55
-Chris Richards,DEF,Crystal Palace,0,0,0.92,1,1.9,2024-03-30,90,Nottingham Forest,0,1,2,False,0.0,0.0,0.0,90.0,DC,2024-03-30,0.0,0.0,0.0,3.8,0.06,62.78,0.06,0.69,0.45,9.1,0.25,0,Crystal Palace,False,Bournemouth,-2.19,0.19
-Chris Richards,DEF,Crystal Palace,0,0,0.0,0,0.0,2024-04-02,0,Bournemouth,0,0,0,False,,,,,,,,,,3.8,0.04,60.17,0.06,0.69,0.45,9.1,0.25,0,Crystal Palace,True,Manchester City,,-0.96
-Chris Richards,DEF,Crystal Palace,0,0,0.0,0,0.0,2024-04-06,0,Manchester City,0,0,0,True,,,,,,,,,,1.0,0.0,57.76,0.06,0.69,0.45,9.1,0.25,0,Crystal Palace,False,Liverpool,2.57,-1.01
-Chris Richards,DEF,Crystal Palace,0,0,0.0,0,0.0,2024-04-14,0,Liverpool,0,0,0,False,,,,,,,,,,0.8,0.0,55.54,0.06,0.69,0.45,9.1,0.25,1,Crystal Palace,True,West Ham,,0.49
-Chris Richards,DEF,Crystal Palace,0,0,1.27,2,1.2,2024-04-21,90,West Ham,0,1,1,True,0.0,0.0,0.0,90.0,DC,2024-04-21,0.0,0.0,0.0,0.4,0.0,56.81,0.06,0.69,0.45,9.1,0.25,5,Crystal Palace,True,Newcastle United,1.62,0.55
-Chris Richards,DEF,Crystal Palace,0,1,0.42,0,5.0,2024-04-24,90,Newcastle United,0,1,5,True,0.0,1.0,0.04,90.0,DC,2024-04-24,0.08,0.0,1.0,0.6,0.0,58.0,0.11,0.69,0.45,9.1,0.25,2,Crystal Palace,False,Fulham,,0.86
-Chris Richards,DEF,Crystal Palace,0,0,1.14,1,3.1,2024-04-27,90,Fulham,0,1,2,False,0.0,1.0,0.05,90.0,DC,2024-04-27,0.0,0.0,0.0,1.2,0.01,59.1,0.11,0.69,0.45,9.1,0.25,11,Crystal Palace,True,Manchester United,0.71,0.38
-Chris Richards,DEF,Crystal Palace,2,1,0.35,0,7.5,2024-05-06,90,Manchester United,0,1,11,True,0.0,2.0,0.09,90.0,DC,2024-05-06,0.34,1.0,1.0,1.6,0.02,60.13,0.15,0.69,0.45,9.1,0.25,2,Crystal Palace,False,Wolverhampton,,-0.52
-Chris Richards,DEF,Crystal Palace,0,0,1.57,1,2.3,2024-05-11,90,Wolverhampton,0,1,2,False,0.0,1.0,0.04,90.0,DC,2024-05-11,0.0,0.0,0.0,3.8,0.24,61.1,0.14,0.69,0.45,9.1,0.25,6,Crystal Palace,True,Aston Villa,0.32,0.64
-Chris Richards,DEF,Crystal Palace,0,1,1.08,0,2.3,2024-05-19,90,Aston Villa,0,1,6,True,0.0,0.0,0.0,90.0,DC,2024-05-19,0.06,0.0,1.0,4.2,0.24,62.0,0.18,0.69,0.45,9.1,0.25,0,Crystal Palace,True,Wolverhampton,-1.42,0.05
-Chris Richards,DEF,Crystal Palace,0,0,0.0,0,0.0,2023-09-03,0,Wolverhampton,0,0,0,True,,,,,,,,,,5.2,0.24,60.12,0.18,0.69,0.45,9.1,0.25,1,Crystal Palace,False,Aston Villa,2.48,0.29
-Chris Richards,DEF,Crystal Palace,0,0,3.21,3,1.8,2023-09-16,90,Aston Villa,0,1,1,False,0.0,0.0,0.0,90.0,DC,2023-09-16,0.0,0.0,0.0,4.2,0.24,61.0,0.17,0.69,0.45,9.1,0.25,0,Crystal Palace,True,Fulham,2.42,-0.13
-Chris Richards,DEF,Crystal Palace,0,0,0.0,0,0.0,2023-09-23,0,Fulham,0,0,0,True,,,,,,,,,,4.0,0.23,59.26,0.17,0.69,0.45,9.1,0.25,1,Crystal Palace,False,Manchester United,-1.2,-0.63
-Chris Richards,DEF,Crystal Palace,0,0,0.23,0,0.1,2023-09-30,2,Manchester United,0,0,1,False,0.0,0.0,0.0,1.0,Sub,2023-09-30,0.0,0.0,0.0,1.8,0.01,57.67,0.17,0.69,0.45,9.1,0.25,1,Crystal Palace,True,Nottingham Forest,-0.17,1.55
-Chris Richards,DEF,Crystal Palace,0,0,0.18,0,0.3,2023-10-07,15,Nottingham Forest,0,0,1,True,0.0,0.0,0.0,12.0,Sub,2023-10-07,0.0,0.0,0.0,1.6,0.0,56.51,0.17,0.69,0.45,9.1,0.25,0,Crystal Palace,False,Newcastle United,3.9,-0.41
-Chris Richards,DEF,Crystal Palace,0,0,0.0,0,0.0,2023-10-21,0,Newcastle United,0,0,0,False,,,,,,,,,,0.6,0.0,55.03,0.17,0.69,0.45,9.1,0.25,0,Crystal Palace,False,Brentford,-0.07,-0.53
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points
+Chris Richards,Crystal Palace,Sheffield,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.69,0.45,0.25,9.1,0.0
+Chris Richards,Crystal Palace,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.69,0.45,0.25,9.1,0.0
+Chris Richards,Crystal Palace,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.69,0.45,0.25,9.1,0.0
+Chris Richards,Crystal Palace,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.69,0.45,0.25,9.1,1.0
+Chris Richards,Crystal Palace,Aston Villa,2023-09-16,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,3,3.21,1,0.2,0.0,18.0,0.0,0.69,0.45,0.25,9.1,0.0
+Chris Richards,Crystal Palace,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,15.0,0.0,0.69,0.45,0.25,9.1,1.0
+Chris Richards,Crystal Palace,Manchester United,2023-09-30,False,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.23,0,0.4,0.0,13.14,0.0,0.69,0.45,0.25,9.1,1.0
+Chris Richards,Crystal Palace,Nottingham Forest,2023-10-07,True,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.18,0,0.6,0.0,13.38,0.0,0.69,0.45,0.25,9.1,0.0
+Chris Richards,Crystal Palace,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.0,11.89,0.0,0.69,0.45,0.25,9.1,0.0
+Chris Richards,Crystal Palace,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,10.7,0.0,0.69,0.45,0.25,9.1,1.0
+Chris Richards,Crystal Palace,Burnley,2023-11-04,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.36,0,0.6,0.0,10.09,0.0,0.69,0.45,0.25,9.1,0.0
+Chris Richards,Crystal Palace,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,9.25,0.0,0.69,0.45,0.25,9.1,0.0
+Chris Richards,Crystal Palace,Luton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,8.54,0.0,0.69,0.45,0.25,9.1,2.0
+Chris Richards,Crystal Palace,West Ham,2023-12-03,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.9,0,0,1,1.26,1,0.6,0.0,14.36,0.0,0.69,0.45,0.25,9.1,1.0
+Chris Richards,Crystal Palace,Bournemouth,2023-12-06,True,90,0.0,0.0,0.0,0.06,1,0.0,1.0,3.0,0,0,2,1.74,1,0.8,0.0,19.4,0.0,0.69,0.45,0.25,9.1,0.0
+Chris Richards,Crystal Palace,Liverpool,2023-12-09,True,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.4,0,0,2,1.25,1,0.6,0.0,23.81,0.0,0.69,0.45,0.25,9.1,1.0
+Chris Richards,Crystal Palace,Manchester City,2023-12-16,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,2,1.61,1,0.8,0.0,27.71,0.0,0.69,0.45,0.25,9.1,2.0
+Chris Richards,Crystal Palace,Brighton,2023-12-21,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,1.14,1,1.2,0.0,31.17,0.0,0.69,0.45,0.25,9.1,0.0
+Chris Richards,Crystal Palace,Chelsea,2023-12-27,False,90,0.0,0.0,0.0,0.01,0,0.0,1.0,2.0,0,0,2,2.74,1,0.8,0.0,34.26,0.0,0.69,0.45,0.25,9.1,2.0
+Chris Richards,Crystal Palace,Brentford,2023-12-30,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.6,0,0,1,1.4,1,1.0,0.0,37.05,0.0,0.69,0.45,0.25,9.1,0.0
+Chris Richards,Crystal Palace,Arsenal,2024-01-20,False,90,0.0,0.03,0.0,0.0,0,1.0,0.0,1.6,0,0,5,3.31,1,1.0,0.01,39.57,0.0,0.69,0.45,0.25,9.1,1.0
+Chris Richards,Crystal Palace,Sheffield,2024-01-30,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,2,0.78,1,1.0,0.01,41.86,0.0,0.69,0.45,0.25,9.1,0.0
+Chris Richards,Crystal Palace,Brighton,2024-02-03,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.1,0,0,4,1.53,1,0.6,0.01,43.96,0.0,0.69,0.45,0.25,9.1,1.0
+Chris Richards,Crystal Palace,Chelsea,2024-02-12,True,90,0.0,0.09,0.0,0.0,1,1.0,0.0,3.1,0,0,3,1.21,1,0.8,0.02,45.88,0.0,0.69,0.45,0.25,9.1,2.0
+Chris Richards,Crystal Palace,Everton,2024-02-19,False,90,0.0,0.08,0.0,0.12,2,3.0,1.0,4.9,0,0,1,1.66,1,0.8,0.04,47.64,0.0,0.69,0.45,0.25,9.1,14.0
+Chris Richards,Crystal Palace,Burnley,2024-02-24,True,90,1.0,0.21,0.0,0.0,14,1.0,0.0,6.8,2,1,0,0.1,1,3.6,0.08,49.27,0.06,0.69,0.45,0.25,9.1,1.0
+Chris Richards,Crystal Palace,Tottenham,2024-03-02,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.1,0,0,3,1.87,1,3.6,0.08,50.78,0.06,0.69,0.45,0.25,9.1,2.0
+Chris Richards,Crystal Palace,Luton,2024-03-09,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,0,1,0.83,1,4.0,0.08,52.18,0.05,0.69,0.45,0.25,9.1,2.0
+Chris Richards,Crystal Palace,Nottingham Forest,2024-03-30,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,0.92,1,4.2,0.06,53.48,0.05,0.69,0.45,0.25,9.1,0.0
+Chris Richards,Crystal Palace,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3.8,0.04,51.7,0.05,0.69,0.45,0.25,9.1,0.0
+Chris Richards,Crystal Palace,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.0,0.0,50.03,0.05,0.69,0.45,0.25,9.1,0.0
+Chris Richards,Crystal Palace,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.0,48.47,0.05,0.69,0.45,0.25,9.1,1.0
+Chris Richards,Crystal Palace,West Ham,2024-04-21,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,2,1.27,1,0.6,0.0,49.73,0.05,0.69,0.45,0.25,9.1,5.0
+Chris Richards,Crystal Palace,Newcastle United,2024-04-24,True,90,0.0,0.04,0.0,0.08,5,1.0,1.0,5.0,0,1,0,0.42,1,1.2,0.01,50.91,0.09,0.69,0.45,0.25,9.1,2.0
+Chris Richards,Crystal Palace,Fulham,2024-04-27,False,90,0.0,0.05,0.0,0.0,2,1.0,0.0,3.1,0,0,1,1.14,1,1.6,0.02,52.03,0.09,0.69,0.45,0.25,9.1,11.0
+Chris Richards,Crystal Palace,Manchester United,2024-05-06,True,90,0.0,0.09,1.0,0.34,11,2.0,1.0,7.5,2,1,0,0.35,1,3.8,0.24,53.08,0.12,0.69,0.45,0.25,9.1,2.0
+Chris Richards,Crystal Palace,Wolverhampton,2024-05-11,False,90,0.0,0.04,0.0,0.0,2,1.0,0.0,2.3,0,0,1,1.57,1,4.2,0.25,54.08,0.12,0.69,0.45,0.25,9.1,6.0
+Chris Richards,Crystal Palace,Aston Villa,2024-05-19,True,90,0.0,0.0,0.0,0.06,6,0.0,1.0,2.3,0,1,0,1.08,1,5.2,0.25,55.03,0.15,0.69,0.45,0.25,9.1,0.0

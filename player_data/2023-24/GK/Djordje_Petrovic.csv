@@ -1,18 +1,18 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,clean_sheet_probability,saves_per_game,last_season_penalties_saved,last_season_expected_goals_conceded,last_season_clean_sheet_probability,last_season_total_saves,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Djordje Petrovic,Chelsea,Brentford,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Chelsea,False,Tottenham,0.52,-0.36
-Djordje Petrovic,Chelsea,Tottenham,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Chelsea,True,Manchester City,0.82,-0.96
-Djordje Petrovic,Chelsea,Manchester City,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Chelsea,False,Newcastle United,-0.48,-0.41
-Djordje Petrovic,Chelsea,Newcastle United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Chelsea,True,Brighton,0.38,-0.66
-Djordje Petrovic,Chelsea,Brighton,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,0.0,Chelsea,False,Manchester United,1.57,-0.63
-Djordje Petrovic,Chelsea,Manchester United,,False,0,0,0.0,0,0,0,0,False,,False,0.0,0.0,0.0,0,0,0,0,1.0,Chelsea,False,Everton,-0.36,-0.24
-Djordje Petrovic,Chelsea,Everton,2023-12-10,False,6,1,0.08,0,0,1,0,False,0.0,False,0.0,0.0,0.0,0,0,0,0,6.0,Chelsea,True,Sheffield,,0.68
-Djordje Petrovic,Chelsea,Sheffield,2023-12-16,True,90,0,0.37,1,0,6,0,True,0.0,True,0.2,1.0,0.12,0,0,0,0,2.0,Chelsea,False,Wolverhampton,1.13,-0.52
-Djordje Petrovic,Chelsea,Wolverhampton,2023-12-24,False,90,2,1.31,4,0,2,0,False,0.0,True,1.4,0.5,0.56,0,0,0,0,3.0,Chelsea,True,Crystal Palace,-1.42,0.88
-Djordje Petrovic,Chelsea,Crystal Palace,2023-12-27,True,90,1,1.08,4,0,3,0,False,0.0,True,1.8,0.33,0.9,0,0,0,0,2.0,Chelsea,False,Luton,,
-Djordje Petrovic,Chelsea,Luton,2023-12-30,False,90,2,2.53,4,0,2,0,False,0.0,True,2.4,0.25,1.18,0,0,0,0,0.0,Chelsea,True,Nottingham Forest,0.4,1.55
-Djordje Petrovic,Chelsea,Nottingham Forest,,True,0,0,0.0,0,0,0,0,False,,False,2.8,0.25,1.08,0,0,0,0,0.0,Chelsea,False,Bournemouth,-4.32,0.19
-Djordje Petrovic,Chelsea,Bournemouth,,False,0,0,0.0,0,0,0,0,False,,False,2.6,0.25,1.0,0,0,0,0,0.0,Chelsea,True,Aston Villa,-0.21,0.64
-Djordje Petrovic,Chelsea,Aston Villa,,True,0,0,0.0,0,0,0,0,False,,False,1.4,0.25,0.93,0,0,0,0,0.0,Chelsea,False,Fulham,-1.33,0.86
-Djordje Petrovic,Chelsea,Fulham,,False,0,0,0.0,0,0,0,0,False,,False,1.0,0.25,0.87,0,0,0,0,0.0,Chelsea,False,Burnley,-3.59,0.0
-Djordje Petrovic,Chelsea,Burnley,,False,0,0,0.0,0,0,0,0,False,,False,0.4,0.25,0.81,0,0,0,0,0.0,Chelsea,True,Arsenal,4.02,-0.11
-Djordje Petrovic,Chelsea,Arsenal,,True,0,0,0.0,0,0,0,0,False,,False,0.0,0.25,0.76,0,0,0,0,,Nott'm Forest,True,Bournemouth,0.55,1.22
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points
+Djordje Petrovic,Chelsea,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0
+Djordje Petrovic,Chelsea,Bournemouth,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0
+Djordje Petrovic,Chelsea,Aston Villa,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0
+Djordje Petrovic,Chelsea,Fulham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0
+Djordje Petrovic,Chelsea,Burnley,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0
+Djordje Petrovic,Chelsea,Arsenal,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0
+Djordje Petrovic,Chelsea,Brentford,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0
+Djordje Petrovic,Chelsea,Tottenham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0
+Djordje Petrovic,Chelsea,Manchester City,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0
+Djordje Petrovic,Chelsea,Newcastle United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0
+Djordje Petrovic,Chelsea,Brighton,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0
+Djordje Petrovic,Chelsea,Manchester United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,1.0
+Djordje Petrovic,Chelsea,Everton,2023-12-10,False,6,1,0.08,0,0,1,0,0,0.0,0,0.2,0,0.46,0.0,0.0,6.0
+Djordje Petrovic,Chelsea,Sheffield,2023-12-16,True,90,0,0.37,1,0,6,0,1,0.0,1,1.4,0,6.86,0.5,0.5,2.0
+Djordje Petrovic,Chelsea,Wolverhampton,2023-12-24,False,90,2,1.31,4,0,2,0,0,0.0,1,1.8,0,12.4,0.33,1.67,3.0
+Djordje Petrovic,Chelsea,Crystal Palace,2023-12-27,True,90,1,1.08,4,0,3,0,0,0.0,1,2.4,0,17.25,0.25,2.25,2.0
+Djordje Petrovic,Chelsea,Luton,2023-12-30,False,90,2,2.53,4,0,2,0,0,0.0,1,2.8,0,21.53,0.2,2.6,

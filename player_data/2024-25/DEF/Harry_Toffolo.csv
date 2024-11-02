@@ -1,12 +1,13 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Harry Toffolo,Nott'm Forest,Bournemouth,2024-08-17,True,Sub,36.0,0.0,0.02,0.0,0.0,1.0,1.0,0.0,1.9,0.0,0.0,1.0,0.67,False,0.0,0.0,36.0,0.0,1.41,1.48,23.83,0.13,0.0,Nott'm Forest,False,Southampton,,-0.31
-Harry Toffolo,Nott'm Forest,Southampton,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,1.0,0.02,18.0,0.0,1.41,1.48,23.83,0.13,0.0,Nott'm Forest,True,Wolverhampton,,-0.08
-Harry Toffolo,Nott'm Forest,Wolverhampton,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.5,0.01,12.0,0.0,1.41,1.48,23.83,0.13,0.0,Nott'm Forest,False,Liverpool,,-1.08
-Harry Toffolo,Nott'm Forest,Liverpool,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.33,0.01,9.0,0.0,1.41,1.48,23.83,0.13,0.0,Nott'm Forest,False,Brighton,,-0.61
-Harry Toffolo,Nott'm Forest,Brighton,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.25,0.01,7.2,0.0,1.41,1.48,23.83,0.13,0.0,Nott'm Forest,True,Fulham,,0.27
-Harry Toffolo,Nott'm Forest,Fulham,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.2,0.0,6.0,0.0,1.41,1.48,23.83,0.13,0.0,Nott'm Forest,False,Chelsea,,-0.9
-Harry Toffolo,Nott'm Forest,Chelsea,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.0,0.0,5.14,0.0,1.41,1.48,23.83,0.13,0.0,Nott'm Forest,True,Crystal Palace,,0.88
-Harry Toffolo,Nott'm Forest,Crystal Palace,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.0,0.0,4.5,0.0,1.41,1.48,23.83,0.13,0.0,Nott'm Forest,False,Leicester City,,-0.22
-Harry Toffolo,Nott'm Forest,Leicester City,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,False,0.0,0.0,4.0,0.0,1.41,1.48,23.83,0.13,,Nott'm Forest,True,West Ham,,0.48
-,Nott'm Forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nott'm Forest,True,Newcastle United,,0.67
-,Nott'm Forest,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nott'm Forest,False,Arsenal,,-0.56
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Harry Toffolo,Nott'm Forest,Bournemouth,2024-08-17,True,36.0,0.0,0.02,0.0,0.0,1.0,1.0,0.0,1.9,0.0,0.0,1.0,0.67,0.0,1.0,0.02,36.0,0.0,1.41,1.48,0.13,23.83,0.0,Nott'm Forest,False,Southampton,-1.72,-0.31
+Harry Toffolo,Nott'm Forest,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.01,18.0,0.0,1.41,1.48,0.13,23.83,0.0,Nott'm Forest,True,Wolverhampton,-0.63,-0.08
+Harry Toffolo,Nott'm Forest,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.33,0.01,12.0,0.0,1.41,1.48,0.13,23.83,0.0,Nott'm Forest,False,Liverpool,2.76,-1.08
+Harry Toffolo,Nott'm Forest,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.01,9.0,0.0,1.41,1.48,0.13,23.83,0.0,Nott'm Forest,False,Brighton,1.21,-0.61
+Harry Toffolo,Nott'm Forest,Brighton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,7.2,0.0,1.41,1.48,0.13,23.83,0.0,Nott'm Forest,True,Fulham,-2.25,0.27
+Harry Toffolo,Nott'm Forest,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,1.41,1.48,0.13,23.83,0.0,Nott'm Forest,False,Chelsea,-2.46,-0.9
+Harry Toffolo,Nott'm Forest,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.14,0.0,1.41,1.48,0.13,23.83,0.0,Nott'm Forest,True,Crystal Palace,-0.57,0.88
+Harry Toffolo,Nott'm Forest,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.5,0.0,1.41,1.48,0.13,23.83,0.0,Nott'm Forest,False,Leicester City,1.63,-0.22
+Harry Toffolo,Nott'm Forest,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,1.41,1.48,0.13,23.83,,,,,,
+,Nott'm Forest,,,,,,,,,,,,,,,,,,,,,,,,,,,Nott'm Forest,True,West Ham,-2.72,0.48
+,Nott'm Forest,,,,,,,,,,,,,,,,,,,,,,,,,,,Nott'm Forest,True,Newcastle United,0.52,0.67
+,Nott'm Forest,,,,,,,,,,,,,,,,,,,,,,,,,,,Nott'm Forest,False,Arsenal,1.87,-0.56

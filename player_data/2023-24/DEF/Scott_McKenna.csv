@@ -1,39 +1,39 @@
-name,position_x,team,bonus,clean_sheets,expected_goals_conceded,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,own_goals,starts,total_points,was_home,goals,shots,xG,time,position_y,date,xA,assists,key_passes,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Scott McKenna,DEF,Nott'm Forest,0,0,0.83,2,1.2,2023-08-12,90,Arsenal,0,1,1,False,0.0,0.0,0.0,90.0,DC,2023-08-12,0.0,0.0,0.0,0.0,0.0,90.0,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,False,Liverpool,1.21,-1.01
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2023-10-29,0,Liverpool,0,0,0,False,,,,,,,,,,1.0,0.0,45.0,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,True,Aston Villa,-1.24,0.64
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2023-11-05,0,Aston Villa,0,0,0,True,,,,,,,,,,0.5,0.0,30.0,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,False,West Ham,5.53,-0.22
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2023-11-12,0,West Ham,0,0,0,False,,,,,,,,,,0.33,0.0,22.5,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,True,Brighton,-4.68,-0.66
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2023-11-25,0,Brighton,0,0,0,True,,,,,,,,,,0.25,0.0,18.0,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,True,Everton,0.17,0.53
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2023-12-02,0,Everton,0,0,0,True,,,,,,,,,,0.2,0.0,15.0,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,False,Fulham,3.69,0.86
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2023-12-06,0,Fulham,0,0,0,False,,,,,,,,,,0.0,0.0,12.86,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,False,Wolverhampton,1.27,-0.52
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2023-12-09,0,Wolverhampton,0,0,0,False,,,,,,,,,,0.0,0.0,11.25,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,True,Tottenham,5.64,0.69
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2023-12-15,0,Tottenham,0,0,0,True,,,,,,,,,,0.0,0.0,10.0,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,True,Bournemouth,0.55,1.22
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2023-12-23,0,Bournemouth,0,0,0,True,,,,,,,,,,0.0,0.0,9.0,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,False,Newcastle United,1.35,-0.41
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2023-12-26,0,Newcastle United,0,0,0,False,,,,,,,,,,0.0,0.0,8.18,0.0,0.07,0.87,5.56,0.29,2.0,Nott'm Forest,True,Sheffield,,0.68
-Scott McKenna,DEF,Nott'm Forest,0,0,0.51,1,2.5,2023-08-18,90,Sheffield,0,1,2,True,0.0,1.0,0.11,90.0,DC,2023-08-18,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,True,Manchester United,2.69,0.38
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2023-12-30,0,Manchester United,0,0,0,True,,,,,,,,,,0.4,0.02,13.85,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,False,Brentford,1.0,-0.53
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2024-01-20,0,Brentford,0,0,0,False,,,,,,,,,,0.4,0.02,12.86,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,True,Arsenal,-2.77,-0.11
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2024-01-30,0,Arsenal,0,0,0,True,,,,,,,,,,0.4,0.02,12.0,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,False,Bournemouth,1.05,0.19
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2024-02-04,0,Bournemouth,0,0,0,False,,,,,,,,,,0.4,0.02,11.25,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,True,Newcastle United,1.26,0.55
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2024-02-10,0,Newcastle United,0,0,0,True,,,,,,,,,,0.4,0.02,10.59,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,True,West Ham,-1.34,0.49
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2024-02-17,0,West Ham,0,0,0,True,,,,,,,,,,0.0,0.0,10.0,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,False,Aston Villa,2.3,0.29
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2024-02-24,0,Aston Villa,0,0,0,False,,,,,,,,,,0.0,0.0,9.47,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,True,Liverpool,-3.15,0.18
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2024-03-02,0,Liverpool,0,0,0,True,,,,,,,,,,0.0,0.0,9.0,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,False,Brighton,0.45,-0.6
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2024-03-10,0,Brighton,0,0,0,False,,,,,,,,,,0.0,0.0,8.57,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,False,Luton,,
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2024-03-16,0,Luton,0,0,0,False,,,,,,,,,,0.0,0.0,8.18,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,False,Manchester United,1.16,-0.63
-Scott McKenna,DEF,Nott'm Forest,0,0,1.61,2,2.0,2023-08-26,56,Manchester United,0,1,0,False,0.0,0.0,0.0,60.0,DC,2023-08-26,0.0,0.0,0.0,0.0,0.0,10.26,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,True,Crystal Palace,-1.59,0.88
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2024-03-30,0,Crystal Palace,0,0,0,True,,,,,,,,,,0.0,0.0,9.83,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,True,Fulham,0.28,-0.13
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2024-04-02,0,Fulham,0,0,0,True,,,,,,,,,,0.0,0.0,9.44,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,False,Tottenham,,-0.36
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2024-04-07,0,Tottenham,0,0,0,False,,,,,,,,,,0.0,0.0,9.08,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,True,Wolverhampton,,0.05
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2024-04-13,0,Wolverhampton,0,0,0,True,,,,,,,,,,0.0,0.0,8.74,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,False,Everton,0.64,-0.24
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2024-04-21,0,Everton,0,0,0,False,,,,,,,,,,0.0,0.0,8.43,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,True,Manchester City,,-0.96
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2024-04-28,0,Manchester City,0,0,0,True,,,,,,,,,,0.0,0.0,8.14,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,False,Sheffield,,-0.61
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2024-05-04,0,Sheffield,0,0,0,False,,,,,,,,,,0.0,0.0,7.87,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,True,Chelsea,0.67,-0.25
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2024-05-11,0,Chelsea,0,0,0,True,,,,,,,,,,0.0,0.0,7.61,0.0,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,False,Burnley,,0.0
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2024-05-19,0,Burnley,0,0,0,False,,,,,,,,,,0.0,0.0,7.38,0.0,0.07,0.87,5.56,0.29,7.0,Nott'm Forest,False,Chelsea,-1.91,-0.85
-Scott McKenna,DEF,Nott'm Forest,1,1,2.13,0,4.6,2023-09-02,90,Chelsea,0,1,7,False,0.0,0.0,0.0,90.0,DC,2023-09-02,0.15,0.0,2.0,0.0,0.0,9.88,0.33,0.07,0.87,5.56,0.29,2.0,Nott'm Forest,True,Burnley,1.01,0.39
-Scott McKenna,DEF,Nott'm Forest,0,0,0.56,1,3.5,2023-09-18,90,Burnley,0,1,2,True,0.0,1.0,0.06,90.0,DC,2023-09-18,0.04,0.0,1.0,1.4,0.0,12.24,0.25,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,False,Manchester City,4.87,-1.32
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2023-09-23,0,Manchester City,0,0,0,False,,,,,,,,,,1.8,0.01,11.89,0.25,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,True,Brentford,0.39,0.79
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2023-10-01,0,Brentford,0,0,0,True,,,,,,,,,,1.8,0.01,11.56,0.25,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,False,Crystal Palace,2.44,0.38
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2023-10-07,0,Crystal Palace,0,0,0,False,,,,,,,,,,1.8,0.01,11.24,0.25,0.07,0.87,5.56,0.29,0.0,Nott'm Forest,True,Luton,-1.73,
-Scott McKenna,DEF,Nott'm Forest,0,0,0.0,0,0.0,2023-10-21,0,Luton,0,0,0,True,,,,,,,,,,1.8,0.01,10.95,0.25,0.07,0.87,5.56,0.29,,Brentford,True,Crystal Palace,0.84,0.88
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points
+Scott McKenna,Nott'm Forest,Arsenal,2023-08-12,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,2,0.83,1,1.0,0.0,90.0,0.0,0.07,0.87,0.29,5.56,2.0
+Scott McKenna,Nott'm Forest,Sheffield,2023-08-18,True,90,0.0,0.11,0.0,0.0,2,1.0,0.0,2.5,0,0,1,0.51,1,1.5,0.05,90.0,0.0,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Manchester United,2023-08-26,False,56,0.0,0.0,0.0,0.0,0,0.0,0.0,2.0,0,0,2,1.61,1,1.0,0.04,78.67,0.0,0.07,0.87,0.29,5.56,7.0
+Scott McKenna,Nott'm Forest,Chelsea,2023-09-02,False,90,0.0,0.0,0.0,0.15,7,0.0,2.0,4.6,1,1,0,2.13,1,2.5,0.03,81.5,0.25,0.07,0.87,0.29,5.56,2.0
+Scott McKenna,Nott'm Forest,Burnley,2023-09-18,True,90,0.0,0.06,0.0,0.04,2,1.0,1.0,3.5,0,0,1,0.56,1,2.4,0.03,83.2,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.2,0.03,69.33,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.8,0.01,59.43,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.8,0.01,52.0,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Luton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.01,46.22,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,41.6,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,37.82,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,34.67,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,32.0,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,29.71,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,27.73,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,26.0,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,24.47,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,23.11,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,21.89,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,20.8,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,19.81,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,18.91,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,18.09,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,17.33,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,16.64,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,16.0,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,15.41,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,14.86,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Luton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,14.34,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,13.87,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,13.42,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,13.0,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,12.61,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,12.24,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,11.89,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Sheffield,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,11.56,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,11.24,0.2,0.07,0.87,0.29,5.56,0.0
+Scott McKenna,Nott'm Forest,Burnley,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,10.95,0.2,0.07,0.87,0.29,5.56,

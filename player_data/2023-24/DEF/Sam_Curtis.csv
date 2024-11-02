@@ -1,14 +1,14 @@
-name,position_x,team,bonus,clean_sheets,expected_goals_conceded,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,own_goals,starts,total_points,was_home,goals,shots,xG,time,position_y,date,xA,assists,key_passes,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Sam Curtis,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-02-25,0,Wolverhampton,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Sheffield Utd,True,Arsenal,,-0.11
-Sam Curtis,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-03-04,0,Arsenal,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Sheffield Utd,False,Bournemouth,,0.19
-Sam Curtis,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-03-09,0,Bournemouth,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Sheffield Utd,True,Fulham,,-0.13
-Sam Curtis,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-03-30,0,Fulham,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Sheffield Utd,False,Liverpool,,-1.01
-Sam Curtis,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-04-04,0,Liverpool,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Sheffield Utd,True,Chelsea,,-0.25
-Sam Curtis,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-04-07,0,Chelsea,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Sheffield Utd,False,Brentford,,-0.53
-Sam Curtis,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-04-13,0,Brentford,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Sheffield Utd,True,Burnley,,0.39
-Sam Curtis,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-04-20,0,Burnley,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Sheffield Utd,False,Manchester United,,-0.63
-Sam Curtis,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-04-24,0,Manchester United,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Sheffield Utd,False,Newcastle United,,-0.41
-Sam Curtis,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-04-27,0,Newcastle United,0,0,0,False,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Sheffield Utd,True,Nottingham Forest,,1.55
-Sam Curtis,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-05-04,0,Nottingham Forest,0,0,0,True,,,,,,,,,,0.0,0.0,0.0,0.0,0,0,0,0,1.0,Sheffield Utd,False,Everton,,-0.24
-Sam Curtis,DEF,Sheffield Utd,0,0,0.27,0,0.3,2024-05-11,27,Everton,0,0,1,False,0.0,0.0,0.0,24.0,Sub,2024-05-11,0.0,0.0,0.0,0.0,0.0,2.25,0.0,0,0,0,0,0.0,Sheffield Utd,True,Tottenham,,0.69
-Sam Curtis,DEF,Sheffield Utd,0,0,0.0,0,0.0,2024-05-19,0,Tottenham,0,0,0,True,,,,,,,,,,0.2,0.0,2.08,0.0,0,0,0,0,,Everton,True,Brighton,2.15,-0.66
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points
+Sam Curtis,Sheffield Utd,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0
+Sam Curtis,Sheffield Utd,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0
+Sam Curtis,Sheffield Utd,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0
+Sam Curtis,Sheffield Utd,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0
+Sam Curtis,Sheffield Utd,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0
+Sam Curtis,Sheffield Utd,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0
+Sam Curtis,Sheffield Utd,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0
+Sam Curtis,Sheffield Utd,Burnley,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0
+Sam Curtis,Sheffield Utd,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0
+Sam Curtis,Sheffield Utd,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0
+Sam Curtis,Sheffield Utd,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,1.0
+Sam Curtis,Sheffield Utd,Everton,2024-05-11,False,27,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.27,0,0.2,0.0,2.25,0.0,0.0
+Sam Curtis,Sheffield Utd,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,2.08,0.0,

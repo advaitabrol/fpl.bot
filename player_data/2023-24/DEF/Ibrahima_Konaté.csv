@@ -1,39 +1,39 @@
-name,position_x,team,bonus,clean_sheets,expected_goals_conceded,goals_conceded,ict_index,kickoff_time,minutes,opponent_team,own_goals,starts,total_points,was_home,goals,shots,xG,time,position_y,date,xA,assists,key_passes,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Ibrahima Konaté,DEF,Liverpool,0,0,1.28,1,2.7,2023-08-13,90,Chelsea,0,1,2,False,0.0,0.0,0.0,90.0,DC,2023-08-13,0.0,0.0,0.0,0.0,0.0,90.0,0.0,1.56,0.27,21.92,0.41,6,Liverpool,True,Nottingham Forest,0.91,1.55
-Ibrahima Konaté,DEF,Liverpool,0,1,0.45,0,4.3,2023-10-29,90,Nottingham Forest,0,1,6,True,0.0,0.0,0.0,90.0,DC,2023-10-29,0.02,0.0,1.0,2.0,0.0,90.0,0.5,1.56,0.27,21.92,0.41,2,Liverpool,False,Luton,,
-Ibrahima Konaté,DEF,Liverpool,0,0,0.81,1,3.0,2023-11-05,90,Luton,0,1,2,False,0.0,1.0,0.01,90.0,DC,2023-11-05,0.0,0.0,0.0,4.0,0.0,90.0,0.33,1.56,0.27,21.92,0.41,0,Liverpool,True,Brentford,-2.91,0.79
-Ibrahima Konaté,DEF,Liverpool,0,0,0.0,0,0.0,2023-11-12,0,Brentford,0,0,0,True,,,,,,,,,,3.33,0.0,67.5,0.33,1.56,0.27,21.92,0.41,0,Liverpool,False,Manchester City,1.92,-1.32
-Ibrahima Konaté,DEF,Liverpool,0,0,0.0,0,0.0,2023-11-25,0,Manchester City,0,0,0,False,,,,,,,,,,2.5,0.0,54.0,0.33,1.56,0.27,21.92,0.41,1,Liverpool,True,Fulham,0.11,-0.13
-Ibrahima Konaté,DEF,Liverpool,0,0,0.22,1,0.6,2023-12-03,21,Fulham,0,0,1,True,0.0,0.0,0.0,10.0,Sub,2023-12-03,0.0,0.0,0.0,2.0,0.0,48.5,0.33,1.56,0.27,21.92,0.41,5,Liverpool,False,Sheffield,,-0.61
-Ibrahima Konaté,DEF,Liverpool,0,1,0.66,0,5.4,2023-12-06,90,Sheffield,0,1,5,False,0.0,1.0,0.04,90.0,DC,2023-12-06,0.0,0.0,0.0,1.8,0.0,54.43,0.5,1.56,0.27,21.92,0.41,1,Liverpool,False,Crystal Palace,-0.31,0.38
-Ibrahima Konaté,DEF,Liverpool,0,0,1.21,1,0.7,2023-12-09,33,Crystal Palace,0,0,1,False,0.0,0.0,0.0,28.0,Sub,2023-12-09,0.0,0.0,0.0,1.6,0.01,51.75,0.5,1.56,0.27,21.92,0.41,6,Liverpool,True,Manchester United,-4.17,0.38
-Ibrahima Konaté,DEF,Liverpool,0,1,0.63,0,5.8,2023-12-17,90,Manchester United,0,1,6,True,0.0,4.0,0.23,90.0,DC,2023-12-17,0.02,0.0,1.0,1.4,0.01,56.0,0.6,1.56,0.27,21.92,0.41,2,Liverpool,True,Arsenal,-1.17,-0.11
-Ibrahima Konaté,DEF,Liverpool,0,0,0.8,1,3.5,2023-12-23,90,Arsenal,0,1,2,True,0.0,0.0,0.0,90.0,DC,2023-12-23,0.02,0.0,1.0,2.6,0.05,59.4,0.5,1.56,0.27,21.92,0.41,0,Liverpool,False,Burnley,-0.79,0.0
-Ibrahima Konaté,DEF,Liverpool,0,0,0.0,0,0.0,2023-12-26,0,Burnley,0,0,0,False,,,,,,,,,,3.0,0.05,54.0,0.5,1.56,0.27,21.92,0.41,2,Liverpool,True,Bournemouth,-5.88,1.22
-Ibrahima Konaté,DEF,Liverpool,0,0,1.29,1,2.3,2023-08-19,90,Bournemouth,0,1,2,True,0.0,1.0,0.03,90.0,DC,2023-08-19,0.0,0.0,0.0,2.8,0.05,57.0,0.43,1.56,0.27,21.92,0.41,1,Liverpool,True,Newcastle United,0.08,0.55
-Ibrahima Konaté,DEF,Liverpool,0,0,0.59,2,3.7,2024-01-01,90,Newcastle United,0,1,1,True,0.0,1.0,0.05,90.0,DC,2024-01-01,0.06,0.0,1.0,2.2,0.05,59.54,0.38,1.56,0.27,21.92,0.41,6,Liverpool,False,Bournemouth,2.9,0.19
-Ibrahima Konaté,DEF,Liverpool,0,1,1.39,0,4.4,2024-01-21,90,Bournemouth,0,1,6,False,0.0,0.0,0.0,90.0,DC,2024-01-21,0.02,0.0,1.0,2.2,0.06,61.71,0.44,1.56,0.27,21.92,0.41,1,Liverpool,True,Chelsea,0.25,-0.25
-Ibrahima Konaté,DEF,Liverpool,0,0,0.56,1,2.8,2024-01-31,90,Chelsea,0,1,1,True,0.0,0.0,0.0,90.0,DC,2024-01-31,0.05,0.0,1.0,2.2,0.02,63.6,0.4,1.56,0.27,21.92,0.41,-2,Liverpool,False,Arsenal,0.56,-0.48
-Ibrahima Konaté,DEF,Liverpool,0,0,3.55,3,3.4,2024-02-04,87,Arsenal,0,1,-2,False,0.0,0.0,0.0,90.0,DC,2024-02-04,0.02,0.0,1.0,2.0,0.02,65.06,0.36,1.56,0.27,21.92,0.41,0,Liverpool,True,Burnley,-2.64,0.39
-Ibrahima Konaté,DEF,Liverpool,0,0,0.0,0,0.0,2024-02-10,0,Burnley,0,0,0,True,,,,,,,,,,1.6,0.02,61.24,0.36,1.56,0.27,21.92,0.41,2,Liverpool,False,Brentford,5.51,-0.53
-Ibrahima Konaté,DEF,Liverpool,0,0,1.69,1,1.1,2024-02-17,90,Brentford,0,1,2,False,0.0,0.0,0.0,90.0,DC,2024-02-17,0.0,0.0,0.0,1.2,0.01,62.83,0.33,1.56,0.27,21.92,0.41,0,Liverpool,True,Luton,,
-Ibrahima Konaté,DEF,Liverpool,0,0,0.0,0,0.0,2024-02-21,0,Luton,0,0,0,True,,,,,,,,,,1.4,0.0,59.53,0.33,1.56,0.27,21.92,0.41,8,Liverpool,False,Nottingham Forest,3.7,-0.55
-Ibrahima Konaté,DEF,Liverpool,2,1,1.05,0,3.7,2024-03-02,90,Nottingham Forest,0,1,8,False,0.0,0.0,0.0,90.0,DC,2024-03-02,0.0,0.0,0.0,0.2,0.0,61.05,0.38,1.56,0.27,21.92,0.41,0,Liverpool,True,Manchester City,-1.69,-0.96
-Ibrahima Konaté,DEF,Liverpool,0,0,0.0,0,0.0,2024-03-10,0,Manchester City,0,0,0,True,,,,,,,,,,1.6,0.0,58.14,0.38,1.56,0.27,21.92,0.41,0,Liverpool,False,Newcastle United,-0.74,-0.41
-Ibrahima Konaté,DEF,Liverpool,0,0,0.0,0,0.0,2023-08-27,0,Newcastle United,0,0,0,False,,,,,,,,,,2.0,0.0,55.5,0.38,1.56,0.27,21.92,0.41,0,Liverpool,True,Brighton,2.85,-0.66
-Ibrahima Konaté,DEF,Liverpool,0,0,0.0,0,0.0,2024-03-31,0,Brighton,0,0,0,True,,,,,,,,,,2.0,0.0,53.09,0.38,1.56,0.27,21.92,0.41,2,Liverpool,True,Sheffield,,0.68
-Ibrahima Konaté,DEF,Liverpool,0,0,0.59,1,1.9,2024-04-04,90,Sheffield,0,1,2,True,0.0,1.0,0.03,90.0,DC,2024-04-04,0.0,0.0,0.0,1.6,0.0,54.62,0.36,1.56,0.27,21.92,0.41,0,Liverpool,False,Manchester United,-0.0,-0.63
-Ibrahima Konaté,DEF,Liverpool,0,0,0.0,0,0.0,2024-04-07,0,Manchester United,0,0,0,False,,,,,,,,,,2.0,0.01,52.44,0.36,1.56,0.27,21.92,0.41,2,Liverpool,True,Crystal Palace,0.33,0.88
-Ibrahima Konaté,DEF,Liverpool,0,0,1.87,1,3.9,2024-04-14,90,Crystal Palace,0,1,2,True,0.0,2.0,0.15,90.0,DC,2024-04-14,0.0,0.0,0.0,0.4,0.01,53.88,0.33,1.56,0.27,21.92,0.41,0,Liverpool,False,Fulham,1.98,0.86
-Ibrahima Konaté,DEF,Liverpool,0,0,0.0,0,0.0,2024-04-21,0,Fulham,0,0,0,False,,,,,,,,,,0.8,0.04,51.89,0.33,1.56,0.27,21.92,0.41,1,Liverpool,False,Everton,-0.44,-0.24
-Ibrahima Konaté,DEF,Liverpool,0,0,0.76,2,1.3,2024-04-24,62,Everton,0,1,1,False,0.0,0.0,0.0,69.0,DC,2024-04-24,0.0,0.0,0.0,0.8,0.04,52.25,0.31,1.56,0.27,21.92,0.41,0,Liverpool,False,West Ham,4.92,-0.22
-Ibrahima Konaté,DEF,Liverpool,0,0,0.0,0,0.0,2024-04-27,0,West Ham,0,0,0,False,,,,,,,,,,1.0,0.04,50.45,0.31,1.56,0.27,21.92,0.41,0,Liverpool,True,Tottenham,,0.69
-Ibrahima Konaté,DEF,Liverpool,0,0,0.0,0,0.0,2024-05-05,0,Tottenham,0,0,0,True,,,,,,,,,,0.6,0.03,48.77,0.31,1.56,0.27,21.92,0.41,0,Liverpool,False,Aston Villa,-0.35,0.29
-Ibrahima Konaté,DEF,Liverpool,0,0,0.0,0,0.0,2024-05-13,0,Aston Villa,0,0,0,False,,,,,,,,,,0.6,0.03,47.19,0.31,1.56,0.27,21.92,0.41,0,Liverpool,True,Wolverhampton,,0.05
-Ibrahima Konaté,DEF,Liverpool,0,0,0.0,0,0.0,2024-05-19,0,Wolverhampton,0,0,0,True,,,,,,,,,,0.2,0.0,45.72,0.31,1.56,0.27,21.92,0.41,0,Liverpool,True,Aston Villa,-1.74,0.64
-Ibrahima Konaté,DEF,Liverpool,0,0,0.0,0,0.0,2023-09-03,0,Aston Villa,0,0,0,True,,,,,,,,,,0.2,0.0,44.33,0.31,1.56,0.27,21.92,0.41,1,Liverpool,False,Wolverhampton,-1.44,-0.52
-Ibrahima Konaté,DEF,Liverpool,0,0,0.12,0,1.8,2023-09-16,7,Wolverhampton,0,0,1,False,0.0,0.0,0.0,5.0,Sub,2023-09-16,0.3,0.0,1.0,0.0,0.0,43.24,0.31,1.56,0.27,21.92,0.41,0,Liverpool,True,West Ham,-0.06,0.49
-Ibrahima Konaté,DEF,Liverpool,0,0,0.0,0,0.0,2023-09-24,0,West Ham,0,0,0,True,,,,,,,,,,0.2,0.0,42.0,0.31,1.56,0.27,21.92,0.41,1,Liverpool,False,Tottenham,1.56,-0.36
-Ibrahima Konaté,DEF,Liverpool,0,0,0.66,1,0.5,2023-09-30,17,Tottenham,0,0,1,False,0.0,0.0,0.0,10.0,Sub,2023-09-30,0.0,0.0,0.0,0.2,0.0,41.31,0.31,1.56,0.27,21.92,0.41,1,Liverpool,False,Brighton,3.13,-0.6
-Ibrahima Konaté,DEF,Liverpool,0,0,1.14,1,0.0,2023-10-08,17,Brighton,0,0,1,False,0.0,0.0,0.0,14.0,Sub,2023-10-08,0.0,0.0,0.0,0.4,0.0,40.65,0.31,1.56,0.27,21.92,0.41,5,Liverpool,True,Everton,-2.18,0.53
-Ibrahima Konaté,DEF,Liverpool,0,1,0.1,0,1.7,2023-10-21,66,Everton,0,1,5,True,0.0,0.0,0.0,69.0,DC,2023-10-21,0.0,0.0,0.0,0.6,0.0,41.32,0.35,1.56,0.27,21.92,0.41,1,Liverpool,False,Ipswich Town,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points
+Ibrahima Konaté,Liverpool,Chelsea,2023-08-13,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.7,0,0,1,1.28,1,2.0,0.0,90.0,0.0,1.56,0.27,0.41,21.92,2.0
+Ibrahima Konaté,Liverpool,Bournemouth,2023-08-19,True,90,0.0,0.03,0.0,0.0,2,1.0,0.0,2.3,0,0,1,1.29,1,2.0,0.01,90.0,0.0,1.56,0.27,0.41,21.92,0.0
+Ibrahima Konaté,Liverpool,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.33,0.01,60.0,0.0,1.56,0.27,0.41,21.92,0.0
+Ibrahima Konaté,Liverpool,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.0,0.01,45.0,0.0,1.56,0.27,0.41,21.92,1.0
+Ibrahima Konaté,Liverpool,Wolverhampton,2023-09-16,False,7,0.0,0.0,0.0,0.3,1,0.0,1.0,1.8,0,0,0,0.12,0,1.0,0.01,37.4,0.0,1.56,0.27,0.41,21.92,0.0
+Ibrahima Konaté,Liverpool,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.01,31.17,0.0,1.56,0.27,0.41,21.92,1.0
+Ibrahima Konaté,Liverpool,Tottenham,2023-09-30,False,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1,0.66,0,0.4,0.0,29.14,0.0,1.56,0.27,0.41,21.92,1.0
+Ibrahima Konaté,Liverpool,Brighton,2023-10-08,False,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,1.14,0,0.6,0.0,27.62,0.0,1.56,0.27,0.41,21.92,5.0
+Ibrahima Konaté,Liverpool,Everton,2023-10-21,True,66,0.0,0.0,0.0,0.0,5,0.0,0.0,1.7,0,1,0,0.1,1,1.6,0.0,31.89,0.17,1.56,0.27,0.41,21.92,6.0
+Ibrahima Konaté,Liverpool,Nottingham Forest,2023-10-29,True,90,0.0,0.0,0.0,0.02,6,0.0,1.0,4.3,0,1,0,0.45,1,2.6,0.0,37.7,0.29,1.56,0.27,0.41,21.92,2.0
+Ibrahima Konaté,Liverpool,Luton,2023-11-05,False,90,0.0,0.01,0.0,0.0,2,1.0,0.0,3.0,0,0,1,0.81,1,3.0,0.0,42.45,0.25,1.56,0.27,0.41,21.92,0.0
+Ibrahima Konaté,Liverpool,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.8,0.0,38.92,0.25,1.56,0.27,0.41,21.92,0.0
+Ibrahima Konaté,Liverpool,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.6,0.0,35.92,0.25,1.56,0.27,0.41,21.92,1.0
+Ibrahima Konaté,Liverpool,Fulham,2023-12-03,True,21,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,0.22,0,1.8,0.0,34.86,0.22,1.56,0.27,0.41,21.92,5.0
+Ibrahima Konaté,Liverpool,Sheffield,2023-12-06,False,90,0.0,0.04,0.0,0.0,5,1.0,0.0,5.4,0,1,0,0.66,1,1.6,0.01,38.53,0.3,1.56,0.27,0.41,21.92,1.0
+Ibrahima Konaté,Liverpool,Crystal Palace,2023-12-09,False,33,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,1,1.21,0,1.4,0.01,38.19,0.27,1.56,0.27,0.41,21.92,6.0
+Ibrahima Konaté,Liverpool,Manchester United,2023-12-17,True,90,0.0,0.23,0.0,0.02,6,4.0,1.0,5.8,0,1,0,0.63,1,2.6,0.05,41.24,0.33,1.56,0.27,0.41,21.92,2.0
+Ibrahima Konaté,Liverpool,Arsenal,2023-12-23,True,90,0.0,0.0,0.0,0.02,2,0.0,1.0,3.5,0,0,1,0.8,1,3.0,0.05,43.94,0.31,1.56,0.27,0.41,21.92,0.0
+Ibrahima Konaté,Liverpool,Burnley,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.8,0.05,41.63,0.31,1.56,0.27,0.41,21.92,1.0
+Ibrahima Konaté,Liverpool,Newcastle United,2024-01-01,True,90,0.0,0.05,0.0,0.06,1,1.0,1.0,3.7,0,0,2,0.59,1,2.0,0.06,44.05,0.29,1.56,0.27,0.41,21.92,6.0
+Ibrahima Konaté,Liverpool,Bournemouth,2024-01-21,False,90,0.0,0.0,0.0,0.02,6,0.0,1.0,4.4,0,1,0,1.39,1,3.0,0.06,46.24,0.33,1.56,0.27,0.41,21.92,1.0
+Ibrahima Konaté,Liverpool,Chelsea,2024-01-31,True,90,0.0,0.0,0.0,0.05,1,0.0,1.0,2.8,0,0,1,0.56,1,2.0,0.01,48.23,0.31,1.56,0.27,0.41,21.92,-2.0
+Ibrahima Konaté,Liverpool,Arsenal,2024-02-04,False,87,0.0,0.0,0.0,0.02,-2,0.0,1.0,3.4,0,0,3,3.55,1,1.2,0.01,49.91,0.29,1.56,0.27,0.41,21.92,0.0
+Ibrahima Konaté,Liverpool,Burnley,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.2,0.01,47.83,0.29,1.56,0.27,0.41,21.92,2.0
+Ibrahima Konaté,Liverpool,Brentford,2024-02-17,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,0,1,1.69,1,1.4,0.0,49.52,0.28,1.56,0.27,0.41,21.92,0.0
+Ibrahima Konaté,Liverpool,Luton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,47.62,0.28,1.56,0.27,0.41,21.92,8.0
+Ibrahima Konaté,Liverpool,Nottingham Forest,2024-03-02,False,90,0.0,0.0,0.0,0.0,8,0.0,0.0,3.7,2,1,0,1.05,1,1.6,0.0,49.19,0.32,1.56,0.27,0.41,21.92,0.0
+Ibrahima Konaté,Liverpool,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.0,0.0,47.43,0.32,1.56,0.27,0.41,21.92,0.0
+Ibrahima Konaté,Liverpool,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.0,0.0,45.79,0.32,1.56,0.27,0.41,21.92,2.0
+Ibrahima Konaté,Liverpool,Sheffield,2024-04-04,True,90,0.0,0.03,0.0,0.0,2,1.0,0.0,1.9,0,0,1,0.59,1,2.0,0.01,47.27,0.3,1.56,0.27,0.41,21.92,0.0
+Ibrahima Konaté,Liverpool,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.0,0.01,45.74,0.3,1.56,0.27,0.41,21.92,2.0
+Ibrahima Konaté,Liverpool,Crystal Palace,2024-04-14,True,90,0.0,0.15,0.0,0.0,2,2.0,0.0,3.9,0,0,1,1.87,1,0.8,0.04,47.12,0.29,1.56,0.27,0.41,21.92,0.0
+Ibrahima Konaté,Liverpool,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.04,45.7,0.29,1.56,0.27,0.41,21.92,1.0
+Ibrahima Konaté,Liverpool,Everton,2024-04-24,False,62,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,2,0.76,1,1.0,0.04,46.18,0.27,1.56,0.27,0.41,21.92,0.0
+Ibrahima Konaté,Liverpool,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.03,44.86,0.27,1.56,0.27,0.41,21.92,0.0
+Ibrahima Konaté,Liverpool,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.03,43.61,0.27,1.56,0.27,0.41,21.92,0.0
+Ibrahima Konaté,Liverpool,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,42.43,0.27,1.56,0.27,0.41,21.92,0.0
+Ibrahima Konaté,Liverpool,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,41.32,0.27,1.56,0.27,0.41,21.92,

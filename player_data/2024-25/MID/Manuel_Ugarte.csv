@@ -1,7 +1,7 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Manuel Ugarte,Man Utd,Southampton,2024-09-14,False,Sub,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,False,0.0,0.0,17.0,0,0,0,0,0,1.0,Man Utd,False,Crystal Palace,,0.2
-Manuel Ugarte,Man Utd,Crystal Palace,2024-09-21,False,Sub,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,False,1.0,0.0,15.5,0,0,0,0,0,1.0,Man Utd,True,Tottenham,,0.74
-Manuel Ugarte,Man Utd,Tottenham,2024-09-29,True,DMC,71,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,2,True,1.0,0.0,34.0,0,0,0,0,0,0.0,Man Utd,False,Aston Villa,,0.11
-Manuel Ugarte,Man Utd,Aston Villa,,False,,0,,,,,0,,,0.0,0,0,0,False,1.0,0.0,25.5,0,0,0,0,0,1.0,Man Utd,True,Brentford,,0.54
-Manuel Ugarte,Man Utd,Brentford,2024-10-19,True,Sub,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,False,0.75,0.0,20.8,0,0,0,0,0,0.0,Man Utd,False,West Ham,,-0.34
-Manuel Ugarte,Man Utd,West Ham,,False,,0,,,,,0,,,0.0,0,0,0,False,0.8,0.0,17.33,0,0,0,0,0,,,,,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Manuel Ugarte,Man Utd,Southampton,2024-09-14,False,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,1.0,0.0,17.0,1.0,Man Utd,False,Crystal Palace,2.45,0.2
+Manuel Ugarte,Man Utd,Crystal Palace,2024-09-21,False,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1.0,0.0,15.5,1.0,Man Utd,True,Tottenham,-2.02,0.74
+Manuel Ugarte,Man Utd,Tottenham,2024-09-29,True,71,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,1,1.0,0.0,34.0,0.0,Man Utd,False,Aston Villa,-0.18,0.11
+Manuel Ugarte,Man Utd,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.75,0.0,25.5,1.0,Man Utd,True,Brentford,-1.08,0.54
+Manuel Ugarte,Man Utd,Brentford,2024-10-19,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0.8,0.0,20.8,0.0,Man Utd,False,West Ham,2.3,-0.34
+Manuel Ugarte,Man Utd,West Ham,,False,0,,,,,0,,,0.0,0,0,0.6,0.0,17.33,,,,,,

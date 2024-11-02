@@ -1,10 +1,11 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Bilal El Khannouss,Leicester,Aston Villa,2024-08-31,True,Sub,22.0,0.0,0.05,0.0,0.0,1.0,1.0,0.0,0.5,0.0,0.0,0.0,False,0.0,0.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Crystal Palace,,0.2
-Bilal El Khannouss,Leicester,Crystal Palace,,False,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,1.0,0.05,11.0,0.0,0.0,0.0,0.0,0.0,1.0,Leicester,True,Everton,,0.61
-Bilal El Khannouss,Leicester,Everton,2024-09-21,True,AMC,55.0,0.0,0.0,0.0,0.08,1.0,0.0,2.0,3.1,0.0,0.0,1.0,True,0.5,0.02,25.67,0.0,0.0,0.0,0.0,0.0,1.0,Leicester,False,Arsenal,,-0.56
-Bilal El Khannouss,Leicester,Arsenal,2024-09-28,False,Sub,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.0,False,0.67,0.02,19.5,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Bournemouth,,0.84
-Bilal El Khannouss,Leicester,Bournemouth,,True,,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,False,0.75,0.01,15.6,0.0,0.0,0.0,0.0,0.0,2.0,Leicester,False,Southampton,,-0.31
-Bilal El Khannouss,Leicester,Southampton,2024-10-19,False,AMC,67.0,0.0,0.07,0.0,0.45,2.0,1.0,2.0,4.6,0.0,0.0,2.0,True,0.6,0.01,24.17,0.0,0.0,0.0,0.0,0.0,1.0,Leicester,True,Nottingham Forest,,1.2
-Bilal El Khannouss,Leicester,Nottingham Forest,2024-10-25,True,Sub,22.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.0,0.0,0.0,False,0.8,0.01,23.86,0.0,0.0,0.0,0.0,0.0,,Leicester,False,Ipswich Town,,
-,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,False,Manchester United,,-0.41
-,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,Chelsea,,0.0
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Bilal El Khannouss,Leicester,Aston Villa,2024-08-31,True,22.0,0.0,0.05,0.0,0.0,1.0,1.0,0.0,0.5,0.0,0.0,1.0,0.05,22.0,0.0,Leicester,False,Crystal Palace,2.07,0.2
+Bilal El Khannouss,Leicester,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.5,0.02,11.0,1.0,Leicester,True,Everton,4.46,0.61
+Bilal El Khannouss,Leicester,Everton,2024-09-21,True,55.0,0.0,0.0,0.0,0.08,1.0,0.0,2.0,3.1,0.0,1.0,0.67,0.02,25.67,1.0,Leicester,False,Arsenal,-1.31,-0.56
+Bilal El Khannouss,Leicester,Arsenal,2024-09-28,False,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.75,0.01,19.5,0.0,Leicester,True,Bournemouth,,0.84
+Bilal El Khannouss,Leicester,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.6,0.01,15.6,2.0,Leicester,False,Southampton,-3.27,-0.31
+Bilal El Khannouss,Leicester,Southampton,2024-10-19,False,67.0,0.0,0.07,0.0,0.45,2.0,1.0,2.0,4.6,0.0,1.0,0.8,0.01,24.17,1.0,Leicester,True,Nottingham Forest,,1.2
+Bilal El Khannouss,Leicester,Nottingham Forest,2024-10-25,True,22.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.0,0.0,1.0,0.01,23.86,,,,,,
+,Leicester,,,,,,,,,,,,,,,,,,,Leicester,False,Ipswich Town,,
+,Leicester,,,,,,,,,,,,,,,,,,,Leicester,False,Manchester United,0.11,-0.41
+,Leicester,,,,,,,,,,,,,,,,,,,Leicester,True,Chelsea,-2.98,0.0

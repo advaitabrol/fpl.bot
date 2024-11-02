@@ -1,12 +1,13 @@
-name,team,opponent_team,date,was_home,position,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_expected_goals_conceded,last_season_clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Taylor Harwood-Bellis,Southampton,Newcastle United,2024-08-17,False,DC,90.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,3.8,0.0,0.0,1.0,0.25,True,0.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,2.0,Southampton,True,Nottingham Forest,,1.2
-Taylor Harwood-Bellis,Southampton,Nottingham Forest,2024-08-24,True,DC,75.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.9,0.0,0.0,1.0,2.26,True,1.0,0.0,82.5,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Brentford,,-0.15
-Taylor Harwood-Bellis,Southampton,Brentford,2024-08-31,False,DC,55.0,0.0,0.0,0.0,0.12,0.0,0.0,1.0,2.7,0.0,0.0,1.0,1.21,True,1.5,0.0,73.33,0.0,0.0,0.0,0.0,0.0,1.0,Southampton,True,Manchester United,,0.39
-Taylor Harwood-Bellis,Southampton,Manchester United,2024-09-14,True,Sub,9.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.6,0.0,0.0,1.0,0.77,False,1.0,0.0,57.25,0.0,0.0,0.0,0.0,0.0,2.0,Southampton,True,Ipswich Town,,
-Taylor Harwood-Bellis,Southampton,Ipswich Town,2024-09-21,True,DC,90.0,0.0,0.09,0.0,0.07,2.0,1.0,1.0,5.5,0.0,0.0,1.0,1.69,True,1.0,0.0,63.8,0.0,0.0,0.0,0.0,0.0,7.0,Southampton,False,Bournemouth,,-0.04
-Taylor Harwood-Bellis,Southampton,Bournemouth,2024-09-30,False,DC,90.0,1.0,0.4,0.0,0.0,7.0,2.0,0.0,8.4,0.0,0.0,3.0,1.38,True,1.2,0.02,68.17,0.0,0.0,0.0,0.0,0.0,1.0,Southampton,False,Arsenal,,-0.56
-Taylor Harwood-Bellis,Southampton,Arsenal,2024-10-05,False,DC,90.0,0.0,0.54,0.0,0.07,1.0,1.0,1.0,3.8,0.0,0.0,3.0,2.83,True,2.4,0.1,71.29,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Leicester City,,0.47
-Taylor Harwood-Bellis,Southampton,Leicester City,2024-10-19,True,DC,90.0,0.0,0.13,0.0,0.61,0.0,2.0,2.0,6.0,0.0,0.0,3.0,3.21,True,2.2,0.21,73.62,0.0,0.0,0.0,0.0,0.0,2.0,Southampton,False,Manchester City,,-1.51
-Taylor Harwood-Bellis,Southampton,Manchester City,2024-10-26,False,DC,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,4.4,0.0,0.0,1.0,2.95,True,2.2,0.23,75.44,0.0,0.0,0.0,0.0,0.0,,Southampton,True,Everton,,0.61
-,Southampton,,,,,,,,,,,,,,,,,,,,,,,,,,,,Southampton,False,Wolverhampton,,-0.53
-,Southampton,,,,,,,,,,,,,,,,,,,,,,,,,,,,Southampton,True,Liverpool,,0.24
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Taylor Harwood-Bellis,Southampton,Newcastle United,2024-08-17,False,90.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,3.8,0.0,0.0,1.0,0.25,1.0,1.0,0.0,90.0,0.0,2.0,Southampton,True,Nottingham Forest,3.03,1.2
+Taylor Harwood-Bellis,Southampton,Nottingham Forest,2024-08-24,True,75.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.9,0.0,0.0,1.0,2.26,1.0,1.5,0.0,82.5,0.0,0.0,Southampton,False,Brentford,4.79,-0.15
+Taylor Harwood-Bellis,Southampton,Brentford,2024-08-31,False,55.0,0.0,0.0,0.0,0.12,0.0,0.0,1.0,2.7,0.0,0.0,1.0,1.21,1.0,1.0,0.0,73.33,0.0,1.0,Southampton,True,Manchester United,1.12,0.39
+Taylor Harwood-Bellis,Southampton,Manchester United,2024-09-14,True,9.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.6,0.0,0.0,1.0,0.77,0.0,1.0,0.0,57.25,0.0,2.0,Southampton,True,Ipswich Town,,
+Taylor Harwood-Bellis,Southampton,Ipswich Town,2024-09-21,True,90.0,0.0,0.09,0.0,0.07,2.0,1.0,1.0,5.5,0.0,0.0,1.0,1.69,1.0,1.2,0.02,63.8,0.0,7.0,Southampton,False,Bournemouth,-0.76,-0.04
+Taylor Harwood-Bellis,Southampton,Bournemouth,2024-09-30,False,90.0,1.0,0.4,0.0,0.0,7.0,2.0,0.0,8.4,0.0,0.0,3.0,1.38,1.0,2.4,0.1,68.17,0.0,1.0,Southampton,False,Arsenal,0.71,-0.56
+Taylor Harwood-Bellis,Southampton,Arsenal,2024-10-05,False,90.0,0.0,0.54,0.0,0.07,1.0,1.0,1.0,3.8,0.0,0.0,3.0,2.83,1.0,2.2,0.21,71.29,0.0,0.0,Southampton,True,Leicester City,-1.16,0.47
+Taylor Harwood-Bellis,Southampton,Leicester City,2024-10-19,True,90.0,0.0,0.13,0.0,0.61,0.0,2.0,2.0,6.0,0.0,0.0,3.0,3.21,1.0,2.2,0.23,73.62,0.0,2.0,Southampton,False,Manchester City,3.44,-1.51
+Taylor Harwood-Bellis,Southampton,Manchester City,2024-10-26,False,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,4.4,0.0,0.0,1.0,2.95,1.0,2.4,0.23,75.44,0.0,,,,,,
+,Southampton,,,,,,,,,,,,,,,,,,,,,,,Southampton,True,Everton,0.11,0.61
+,Southampton,,,,,,,,,,,,,,,,,,,,,,,Southampton,False,Wolverhampton,2.86,-0.53
+,Southampton,,,,,,,,,,,,,,,,,,,,,,,Southampton,True,Liverpool,-0.47,0.24
