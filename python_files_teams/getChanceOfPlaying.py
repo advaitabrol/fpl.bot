@@ -40,3 +40,11 @@ schedule.every().friday.at("02:00").do(fetch_fpl_data)
 while True:
     schedule.run_pending()
     time.sleep(100)
+
+
+input_team = [
+        "Emiliano Martínez Romero", "Trent Alexander-Arnold", "Diogo Dalot Teixeira", 
+        "Micky van de Ven", "Brennan Johnson", "Cole Palmer", "James Maddison", 
+        "Ross Barkley", "Nicolas Jackson", "Jhon Durán", "Erling Haaland", 
+        "Łukasz Fabiański", "Nathan Wood-Gordon", "Harry Winks", "Sepp van den Berg"
+    ]
