@@ -24,30 +24,19 @@ Clean data
 
 what we have
     - data and algo to predict expected points
-    - using that data we have buit an algo to predict optimal team
+    - using that data we have buit an algo to predict optimal team for the following 3 weeks
         - this also works as our wild card transfer because you would want to 
           wild card to the optimal team
-    - 
+    - We have made the transfer suggestions algo
 
 features we still need
     - reorganize data, get rid of unnecessary data and clean it up a bit
     - be able to pull current data such as updates on injuries and new stats for players and teams
+        - We need to organize the scheduling for re-calling the function to get the availability,
+          also need to organize where this info saves to so that the algo getting predicted points
+          can easily read it
     - update team difficulties bi-seasonaly with the most recent games having stronger weights
-
-    - algo to suggest transfers (could suggest save your transfer)
-        - must choose who to transfer out and who to bring in based on value and expected points
-        - could be a mini version of the optimal team algo except with more constrained parameters
-          and also would need to add the bit where it decides who to transfer out
-    - algo that instead of giving the optimal team, takes a user input team and
-      and outputs the expected points and sugegsted transfer(s)
-    - suggested captain should be easy - player with the highest expected points
-    - add fields in data indicating tranfer/loan and chance of playing based on physical form
-      that field will be 0 when they are injured 
-    - in one website they get your team just by you inputting your team name, 
-      this could be better than them having to input each plur but at the same time 
-      thats not a big deal 
-    - I can't think of any more helpful features that our website could provide
-    - e
+    - update player prices every...?
 
 Figure out back-end
     - Code it using Flask

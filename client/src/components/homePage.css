@@ -1,0 +1,23 @@
+/* src/components/HomePage.css */
+
+.homepage {
+    text-align: center;
+    padding: 50px;
+}
+
+.navigation-links {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.navigation-links a {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.navigation-links a:hover {
+    text-decoration: underline;
+}
