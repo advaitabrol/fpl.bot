@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Emerson Leite de Souza Junior,Spurs,Brentford,2023-08-13,False,90,1.0,0.03,0.0,0.0,8,1.0,0.0,7.2,1,0,2,2.02,1,8.0,0.03,90.0,0.0,1.75,0.48,0.37,11.03,1.0,Spurs,True,Manchester United,1.18,0.38
-Emerson Leite de Souza Junior,Spurs,Manchester United,2023-08-19,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.26,0,4.5,0.02,46.0,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,False,Bournemouth,-1.68,0.19
-Emerson Leite de Souza Junior,Spurs,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3.0,0.01,30.67,0.0,1.75,0.48,0.37,11.03,1.0,Spurs,False,Burnley,3.87,0.0
-Emerson Leite de Souza Junior,Spurs,Burnley,2023-09-02,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1,0.12,0,2.5,0.01,24.0,0.0,1.75,0.48,0.37,11.03,1.0,Spurs,True,Sheffield,,0.68
-Emerson Leite de Souza Junior,Spurs,Sheffield,2023-09-16,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.01,0,2.2,0.01,19.4,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,False,Arsenal,2.45,-0.48
-Emerson Leite de Souza Junior,Spurs,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.0,16.17,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,True,Liverpool,-0.03,0.18
-Emerson Leite de Souza Junior,Spurs,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,13.86,0.0,1.75,0.48,0.37,11.03,1.0,Spurs,False,Luton,,
-Emerson Leite de Souza Junior,Spurs,Luton,2023-10-07,False,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,0.13,0,0.6,0.0,13.88,0.0,1.75,0.48,0.37,11.03,1.0,Spurs,True,Fulham,-1.52,-0.13
-Emerson Leite de Souza Junior,Spurs,Fulham,2023-10-23,True,34,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,0,0.86,0,0.6,0.0,16.11,0.0,1.75,0.48,0.37,11.03,1.0,Spurs,False,Crystal Palace,1.4,0.38
-Emerson Leite de Souza Junior,Spurs,Crystal Palace,2023-10-27,False,45,0.0,0.02,0.0,0.0,1,1.0,0.0,1.7,0,0,1,0.37,0,0.6,0.0,19.0,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,True,Chelsea,1.57,-0.25
-Emerson Leite de Souza Junior,Spurs,Chelsea,2023-11-06,True,45,0.0,0.0,0.0,0.0,0,0.0,0.0,2.2,0,0,3,2.94,0,0.6,0.0,21.36,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,False,Wolverhampton,0.08,-0.52
-Emerson Leite de Souza Junior,Spurs,Wolverhampton,2023-11-11,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.9,0,0,2,2.15,1,0.6,0.0,27.08,0.0,1.75,0.48,0.37,11.03,1.0,Spurs,True,Aston Villa,1.17,0.64
-Emerson Leite de Souza Junior,Spurs,Aston Villa,2023-11-26,True,90,0.0,0.02,0.0,0.0,1,1.0,0.0,2.1,0,0,2,1.77,1,0.6,0.01,31.92,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,False,Manchester City,-0.49,-1.32
-Emerson Leite de Souza Junior,Spurs,Manchester City,2023-12-03,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.3,0,0,3,2.64,1,0.4,0.01,36.07,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,True,West Ham,-1.74,0.49
-Emerson Leite de Souza Junior,Spurs,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,33.67,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,True,Newcastle United,-1.88,0.55
-Emerson Leite de Souza Junior,Spurs,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,31.56,0.0,1.75,0.48,0.37,11.03,1.0,Spurs,False,Nottingham Forest,-5.2,-0.55
-Emerson Leite de Souza Junior,Spurs,Nottingham Forest,2023-12-15,False,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.58,0,0.4,0.0,29.82,0.0,1.75,0.48,0.37,11.03,5.0,Spurs,True,Everton,-3.67,0.53
-Emerson Leite de Souza Junior,Spurs,Everton,2023-12-23,True,90,0.0,0.0,0.0,0.38,5,0.0,1.0,5.2,3,0,1,1.95,1,1.2,0.0,33.17,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,False,Brighton,-2.31,-0.6
-Emerson Leite de Souza Junior,Spurs,Brighton,2023-12-28,False,90,0.0,0.0,0.0,0.02,0,0.0,1.0,3.6,0,0,4,3.7,1,1.2,0.0,36.16,0.0,1.75,0.48,0.37,11.03,1.0,Spurs,True,Bournemouth,-0.25,1.22
-Emerson Leite de Souza Junior,Spurs,Bournemouth,2023-12-31,True,90,0.0,0.03,0.0,0.0,1,1.0,0.0,3.2,0,0,1,1.6,1,1.4,0.01,38.85,0.0,1.75,0.48,0.37,11.03,1.0,Spurs,False,Manchester United,3.47,-0.63
-Emerson Leite de Souza Junior,Spurs,Manchester United,2024-01-14,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.41,0,1.6,0.01,37.05,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,True,Brentford,-3.15,0.79
-Emerson Leite de Souza Junior,Spurs,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.4,0.01,35.36,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,False,Everton,-0.37,-0.24
-Emerson Leite de Souza Junior,Spurs,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.01,33.83,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,True,Brighton,,-0.66
-Emerson Leite de Souza Junior,Spurs,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.01,32.42,0.0,1.75,0.48,0.37,11.03,1.0,Spurs,True,Wolverhampton,-0.85,0.05
-Emerson Leite de Souza Junior,Spurs,Wolverhampton,2024-02-17,True,84,0.0,0.05,0.0,0.0,1,1.0,0.0,4.5,0,0,2,1.39,1,0.4,0.01,34.48,0.0,1.75,0.48,0.37,11.03,2.0,Spurs,True,Crystal Palace,-3.09,0.88
-Emerson Leite de Souza Junior,Spurs,Crystal Palace,2024-03-02,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,4.0,0,0,1,0.29,1,0.6,0.01,36.62,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,False,Aston Villa,,0.29
-Emerson Leite de Souza Junior,Spurs,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.01,35.26,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,False,Fulham,,0.86
-Emerson Leite de Souza Junior,Spurs,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.01,34.0,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,True,Luton,,
-Emerson Leite de Souza Junior,Spurs,Luton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.01,32.83,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,False,West Ham,2.68,-0.22
-Emerson Leite de Souza Junior,Spurs,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,31.73,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,True,Nottingham Forest,,1.55
-Emerson Leite de Souza Junior,Spurs,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,30.71,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,False,Newcastle United,0.79,-0.41
-Emerson Leite de Souza Junior,Spurs,Newcastle United,2024-04-13,False,41,0.0,0.0,0.0,0.0,0,0.0,0.0,1.5,0,0,2,1.0,0,0.0,0.0,31.03,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,True,Arsenal,0.83,-0.11
-Emerson Leite de Souza Junior,Spurs,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,30.09,0.0,1.75,0.48,0.37,11.03,1.0,Spurs,False,Chelsea,-2.17,-0.85
-Emerson Leite de Souza Junior,Spurs,Chelsea,2024-05-02,False,85,0.0,0.02,0.0,0.01,1,1.0,1.0,2.6,0,0,2,1.91,1,0.2,0.0,31.71,0.0,1.75,0.48,0.37,11.03,-1.0,Spurs,False,Liverpool,,-1.01
-Emerson Leite de Souza Junior,Spurs,Liverpool,2024-05-05,False,60,0.0,0.0,0.0,0.0,-1,0.0,0.0,2.4,0,0,4,2.55,1,0.0,0.0,32.51,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,True,Burnley,,0.39
-Emerson Leite de Souza Junior,Spurs,Burnley,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,31.61,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,True,Manchester City,-0.19,-0.96
-Emerson Leite de Souza Junior,Spurs,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,30.76,0.0,1.75,0.48,0.37,11.03,1.0,Spurs,False,Sheffield,,-0.61
-Emerson Leite de Souza Junior,Spurs,Sheffield,2024-05-19,False,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.06,0,0.2,0.0,30.32,0.0,1.75,0.48,0.37,11.03,0.0,Spurs,False,Leicester City,,-0.22
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Emerson Leite de Souza Junior,Spurs,Brentford,2023-08-13,False,90,1.0,0.03,0.0,0.0,8,1.0,0.0,7.2,1,0,2,2.02,1,8.0,0.03,90.0,0.0,1.0,Spurs,True,Manchester United,1.18,0.38
+Emerson Leite de Souza Junior,Spurs,Manchester United,2023-08-19,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.26,0,4.5,0.02,46.0,0.0,0.0,Spurs,False,Bournemouth,-1.68,0.19
+Emerson Leite de Souza Junior,Spurs,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3.0,0.01,30.67,0.0,1.0,Spurs,False,Burnley,3.87,0.0
+Emerson Leite de Souza Junior,Spurs,Burnley,2023-09-02,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1,0.12,0,2.5,0.01,24.0,0.0,1.0,Spurs,True,Sheffield,,0.68
+Emerson Leite de Souza Junior,Spurs,Sheffield,2023-09-16,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.01,0,2.2,0.01,19.4,0.0,0.0,Spurs,False,Arsenal,2.45,-0.48
+Emerson Leite de Souza Junior,Spurs,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.0,16.17,0.0,0.0,Spurs,True,Liverpool,-0.03,0.18
+Emerson Leite de Souza Junior,Spurs,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,13.86,0.0,1.0,Spurs,False,Luton,,
+Emerson Leite de Souza Junior,Spurs,Luton,2023-10-07,False,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,0.13,0,0.6,0.0,13.88,0.0,1.0,Spurs,True,Fulham,-1.52,-0.13
+Emerson Leite de Souza Junior,Spurs,Fulham,2023-10-23,True,34,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,0,0.86,0,0.6,0.0,16.11,0.0,1.0,Spurs,False,Crystal Palace,1.4,0.38
+Emerson Leite de Souza Junior,Spurs,Crystal Palace,2023-10-27,False,45,0.0,0.02,0.0,0.0,1,1.0,0.0,1.7,0,0,1,0.37,0,0.6,0.0,19.0,0.0,0.0,Spurs,True,Chelsea,1.57,-0.25
+Emerson Leite de Souza Junior,Spurs,Chelsea,2023-11-06,True,45,0.0,0.0,0.0,0.0,0,0.0,0.0,2.2,0,0,3,2.94,0,0.6,0.0,21.36,0.0,0.0,Spurs,False,Wolverhampton,0.08,-0.52
+Emerson Leite de Souza Junior,Spurs,Wolverhampton,2023-11-11,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.9,0,0,2,2.15,1,0.6,0.0,27.08,0.0,1.0,Spurs,True,Aston Villa,1.17,0.64
+Emerson Leite de Souza Junior,Spurs,Aston Villa,2023-11-26,True,90,0.0,0.02,0.0,0.0,1,1.0,0.0,2.1,0,0,2,1.77,1,0.6,0.01,31.92,0.0,0.0,Spurs,False,Manchester City,-0.49,-1.32
+Emerson Leite de Souza Junior,Spurs,Manchester City,2023-12-03,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.3,0,0,3,2.64,1,0.4,0.01,36.07,0.0,0.0,Spurs,True,West Ham,-1.74,0.49
+Emerson Leite de Souza Junior,Spurs,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,33.67,0.0,0.0,Spurs,True,Newcastle United,-1.88,0.55
+Emerson Leite de Souza Junior,Spurs,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,31.56,0.0,1.0,Spurs,False,Nottingham Forest,-5.2,-0.55
+Emerson Leite de Souza Junior,Spurs,Nottingham Forest,2023-12-15,False,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.58,0,0.4,0.0,29.82,0.0,5.0,Spurs,True,Everton,-3.67,0.53
+Emerson Leite de Souza Junior,Spurs,Everton,2023-12-23,True,90,0.0,0.0,0.0,0.38,5,0.0,1.0,5.2,3,0,1,1.95,1,1.2,0.0,33.17,0.0,0.0,Spurs,False,Brighton,-2.31,-0.6
+Emerson Leite de Souza Junior,Spurs,Brighton,2023-12-28,False,90,0.0,0.0,0.0,0.02,0,0.0,1.0,3.6,0,0,4,3.7,1,1.2,0.0,36.16,0.0,1.0,Spurs,True,Bournemouth,-0.25,1.22
+Emerson Leite de Souza Junior,Spurs,Bournemouth,2023-12-31,True,90,0.0,0.03,0.0,0.0,1,1.0,0.0,3.2,0,0,1,1.6,1,1.4,0.01,38.85,0.0,1.0,Spurs,False,Manchester United,3.47,-0.63
+Emerson Leite de Souza Junior,Spurs,Manchester United,2024-01-14,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.41,0,1.6,0.01,37.05,0.0,0.0,Spurs,True,Brentford,-3.15,0.79
+Emerson Leite de Souza Junior,Spurs,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.4,0.01,35.36,0.0,0.0,Spurs,False,Everton,-0.37,-0.24
+Emerson Leite de Souza Junior,Spurs,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.01,33.83,0.0,0.0,Spurs,True,Brighton,,-0.66
+Emerson Leite de Souza Junior,Spurs,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.01,32.42,0.0,1.0,Spurs,True,Wolverhampton,-0.85,0.05
+Emerson Leite de Souza Junior,Spurs,Wolverhampton,2024-02-17,True,84,0.0,0.05,0.0,0.0,1,1.0,0.0,4.5,0,0,2,1.39,1,0.4,0.01,34.48,0.0,2.0,Spurs,True,Crystal Palace,-3.09,0.88
+Emerson Leite de Souza Junior,Spurs,Crystal Palace,2024-03-02,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,4.0,0,0,1,0.29,1,0.6,0.01,36.62,0.0,0.0,Spurs,False,Aston Villa,,0.29
+Emerson Leite de Souza Junior,Spurs,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.01,35.26,0.0,0.0,Spurs,False,Fulham,,0.86
+Emerson Leite de Souza Junior,Spurs,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.01,34.0,0.0,0.0,Spurs,True,Luton,,
+Emerson Leite de Souza Junior,Spurs,Luton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.01,32.83,0.0,0.0,Spurs,False,West Ham,2.68,-0.22
+Emerson Leite de Souza Junior,Spurs,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,31.73,0.0,0.0,Spurs,True,Nottingham Forest,,1.55
+Emerson Leite de Souza Junior,Spurs,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,30.71,0.0,0.0,Spurs,False,Newcastle United,0.79,-0.41
+Emerson Leite de Souza Junior,Spurs,Newcastle United,2024-04-13,False,41,0.0,0.0,0.0,0.0,0,0.0,0.0,1.5,0,0,2,1.0,0,0.0,0.0,31.03,0.0,0.0,Spurs,True,Arsenal,0.83,-0.11
+Emerson Leite de Souza Junior,Spurs,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,30.09,0.0,1.0,Spurs,False,Chelsea,-2.17,-0.85
+Emerson Leite de Souza Junior,Spurs,Chelsea,2024-05-02,False,85,0.0,0.02,0.0,0.01,1,1.0,1.0,2.6,0,0,2,1.91,1,0.2,0.0,31.71,0.0,-1.0,Spurs,False,Liverpool,,-1.01
+Emerson Leite de Souza Junior,Spurs,Liverpool,2024-05-05,False,60,0.0,0.0,0.0,0.0,-1,0.0,0.0,2.4,0,0,4,2.55,1,0.0,0.0,32.51,0.0,0.0,Spurs,True,Burnley,,0.39
+Emerson Leite de Souza Junior,Spurs,Burnley,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,31.61,0.0,0.0,Spurs,True,Manchester City,-0.19,-0.96
+Emerson Leite de Souza Junior,Spurs,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,30.76,0.0,1.0,Spurs,False,Sheffield,,-0.61
+Emerson Leite de Souza Junior,Spurs,Sheffield,2024-05-19,False,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.06,0,0.2,0.0,30.32,0.0,0.0,Spurs,False,Leicester City,,-0.22

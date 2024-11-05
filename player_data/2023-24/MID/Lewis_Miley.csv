@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Lewis Miley,Newcastle,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,False,Manchester City,3.85,-1.32
-Lewis Miley,Newcastle,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,True,Liverpool,1.51,0.18
-Lewis Miley,Newcastle,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,False,Brighton,-0.84,-0.6
-Lewis Miley,Newcastle,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,True,Brentford,-2.67,0.79
-Lewis Miley,Newcastle,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,False,Sheffield,,-0.61
-Lewis Miley,Newcastle,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,True,Burnley,-3.46,0.39
-Lewis Miley,Newcastle,Burnley,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,False,West Ham,-0.73,-0.22
-Lewis Miley,Newcastle,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,True,Crystal Palace,-1.3,0.88
-Lewis Miley,Newcastle,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,False,Wolverhampton,1.1,-0.52
-Lewis Miley,Newcastle,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,True,Arsenal,0.14,-0.11
-Lewis Miley,Newcastle,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.07,2.0,Newcastle,False,Bournemouth,1.71,0.19
-Lewis Miley,Newcastle,Bournemouth,2023-11-11,False,65,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,1,0.4,0.0,5.42,0.0,0.0,0.06,0.0,0.07,6.0,Newcastle,True,Chelsea,0.4,-0.25
-Lewis Miley,Newcastle,Chelsea,2023-11-25,True,90,0.0,0.02,1.0,0.44,6,1.0,1.0,4.5,1,1,1.6,0.2,11.92,0.0,0.0,0.06,0.0,0.07,3.0,Newcastle,True,Manchester United,-2.03,0.38
-Lewis Miley,Newcastle,Manchester United,2023-12-02,True,90,0.0,0.15,0.0,0.0,3,1.0,0.0,2.7,0,1,2.2,0.23,17.5,0.0,0.0,0.06,0.0,0.07,2.0,Newcastle,False,Everton,0.0,-0.24
-Lewis Miley,Newcastle,Everton,2023-12-07,False,89,0.0,0.09,0.0,0.54,2,2.0,2.0,4.7,0,1,2.6,0.25,22.27,0.0,0.0,0.06,0.0,0.07,2.0,Newcastle,False,Tottenham,2.46,-0.36
-Lewis Miley,Newcastle,Tottenham,2023-12-10,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,1,3.0,0.25,26.5,0.0,0.0,0.06,0.0,0.07,6.0,Newcastle,True,Fulham,-0.08,-0.13
-Lewis Miley,Newcastle,Fulham,2023-12-16,True,54,1.0,0.38,0.0,0.15,6,2.0,2.0,10.3,0,0,3.8,0.33,28.12,0.0,0.0,0.06,0.0,0.07,1.0,Newcastle,False,Luton,,
-Lewis Miley,Newcastle,Luton,2023-12-23,False,37,0.0,0.13,0.0,0.0,1,1.0,0.0,0.8,0,1,2.8,0.15,28.61,0.0,0.0,0.06,0.0,0.07,2.0,Newcastle,True,Nottingham Forest,-0.46,1.55
-Lewis Miley,Newcastle,Nottingham Forest,2023-12-26,True,90,0.0,0.26,0.0,0.07,2,5.0,1.0,6.5,0,1,2.6,0.17,31.84,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,False,Liverpool,0.9,-1.01
-Lewis Miley,Newcastle,Liverpool,2024-01-01,False,53,0.0,0.08,0.0,0.0,0,1.0,0.0,1.1,0,1,2.2,0.17,32.9,0.0,0.0,0.06,0.0,0.07,2.0,Newcastle,True,Manchester City,4.58,-0.96
-Lewis Miley,Newcastle,Manchester City,2024-01-13,True,90,0.0,0.0,0.0,0.1,2,0.0,1.0,3.4,0,1,2.2,0.17,35.62,0.0,0.0,0.06,0.0,0.07,2.0,Newcastle,False,Aston Villa,3.3,0.29
-Lewis Miley,Newcastle,Aston Villa,2024-01-30,False,74,0.0,0.0,0.0,0.05,2,0.0,1.0,2.6,0,1,1.4,0.09,37.36,0.0,0.0,0.06,0.0,0.07,5.0,Newcastle,True,Luton,,
-Lewis Miley,Newcastle,Luton,2024-02-03,True,90,0.0,0.0,1.0,0.08,5,0.0,2.0,5.9,0,1,2.2,0.27,39.65,0.0,0.0,0.06,0.0,0.07,2.0,Newcastle,False,Nottingham Forest,,-0.55
-Lewis Miley,Newcastle,Nottingham Forest,2024-02-10,False,81,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,1,2.2,0.22,41.38,0.0,0.0,0.06,0.0,0.07,2.0,Newcastle,True,Bournemouth,2.6,1.22
-Lewis Miley,Newcastle,Bournemouth,2024-02-17,True,90,0.0,0.0,0.0,0.05,2,0.0,1.0,3.9,0,1,2.6,0.2,43.32,0.0,0.0,0.06,0.0,0.07,2.0,Newcastle,False,Arsenal,0.96,-0.48
-Lewis Miley,Newcastle,Arsenal,2024-02-24,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.6,0,1,2.6,0.2,45.12,0.0,0.0,0.06,0.0,0.07,1.0,Newcastle,True,Wolverhampton,,0.05
-Lewis Miley,Newcastle,Wolverhampton,2024-03-02,True,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,2.4,0.2,44.19,0.0,0.0,0.06,0.0,0.07,4.0,Newcastle,False,Chelsea,,-0.85
-Lewis Miley,Newcastle,Chelsea,2024-03-11,False,10,0.0,0.0,1.0,0.06,4,0.0,1.0,3.0,0,0,2.2,0.2,42.96,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,True,West Ham,0.49,0.49
-Lewis Miley,Newcastle,West Ham,,True,0,,,,,0,,,0.0,0,0,1.8,0.2,41.48,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,True,Everton,-1.47,0.53
-Lewis Miley,Newcastle,Everton,,True,0,,,,,0,,,0.0,0,0,1.4,0.2,40.1,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,False,Fulham,-1.62,0.86
-Lewis Miley,Newcastle,Fulham,,False,0,,,,,0,,,0.0,0,0,1.0,0.2,38.81,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,True,Tottenham,-0.29,0.69
-Lewis Miley,Newcastle,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.8,0.2,37.59,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,False,Crystal Palace,-1.13,0.38
-Lewis Miley,Newcastle,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,36.45,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,True,Sheffield,,0.68
-Lewis Miley,Newcastle,Sheffield,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,35.38,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,False,Burnley,,0.0
-Lewis Miley,Newcastle,Burnley,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,34.37,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,True,Brighton,,-0.66
-Lewis Miley,Newcastle,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,33.42,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,False,Manchester United,0.66,-0.63
-Lewis Miley,Newcastle,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,32.51,0.0,0.0,0.06,0.0,0.07,0.0,Newcastle,False,Brentford,,-0.53
-Lewis Miley,Newcastle,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,31.66,0.0,0.0,0.06,0.0,0.07,,Newcastle,True,Southampton,0.18,0.24
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Lewis Miley,Newcastle,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Newcastle,False,Manchester City,3.85,-1.32
+Lewis Miley,Newcastle,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Newcastle,True,Liverpool,1.51,0.18
+Lewis Miley,Newcastle,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Newcastle,False,Brighton,-0.84,-0.6
+Lewis Miley,Newcastle,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Newcastle,True,Brentford,-2.67,0.79
+Lewis Miley,Newcastle,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Newcastle,False,Sheffield,,-0.61
+Lewis Miley,Newcastle,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Newcastle,True,Burnley,-3.46,0.39
+Lewis Miley,Newcastle,Burnley,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Newcastle,False,West Ham,-0.73,-0.22
+Lewis Miley,Newcastle,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Newcastle,True,Crystal Palace,-1.3,0.88
+Lewis Miley,Newcastle,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Newcastle,False,Wolverhampton,1.1,-0.52
+Lewis Miley,Newcastle,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Newcastle,True,Arsenal,0.14,-0.11
+Lewis Miley,Newcastle,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,Newcastle,False,Bournemouth,1.71,0.19
+Lewis Miley,Newcastle,Bournemouth,2023-11-11,False,65,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,1,0.4,0.0,5.42,6.0,Newcastle,True,Chelsea,0.4,-0.25
+Lewis Miley,Newcastle,Chelsea,2023-11-25,True,90,0.0,0.02,1.0,0.44,6,1.0,1.0,4.5,1,1,1.6,0.2,11.92,3.0,Newcastle,True,Manchester United,-2.03,0.38
+Lewis Miley,Newcastle,Manchester United,2023-12-02,True,90,0.0,0.15,0.0,0.0,3,1.0,0.0,2.7,0,1,2.2,0.23,17.5,2.0,Newcastle,False,Everton,0.0,-0.24
+Lewis Miley,Newcastle,Everton,2023-12-07,False,89,0.0,0.09,0.0,0.54,2,2.0,2.0,4.7,0,1,2.6,0.25,22.27,2.0,Newcastle,False,Tottenham,2.46,-0.36
+Lewis Miley,Newcastle,Tottenham,2023-12-10,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,1,3.0,0.25,26.5,6.0,Newcastle,True,Fulham,-0.08,-0.13
+Lewis Miley,Newcastle,Fulham,2023-12-16,True,54,1.0,0.38,0.0,0.15,6,2.0,2.0,10.3,0,0,3.8,0.33,28.12,1.0,Newcastle,False,Luton,,
+Lewis Miley,Newcastle,Luton,2023-12-23,False,37,0.0,0.13,0.0,0.0,1,1.0,0.0,0.8,0,1,2.8,0.15,28.61,2.0,Newcastle,True,Nottingham Forest,-0.46,1.55
+Lewis Miley,Newcastle,Nottingham Forest,2023-12-26,True,90,0.0,0.26,0.0,0.07,2,5.0,1.0,6.5,0,1,2.6,0.17,31.84,0.0,Newcastle,False,Liverpool,0.9,-1.01
+Lewis Miley,Newcastle,Liverpool,2024-01-01,False,53,0.0,0.08,0.0,0.0,0,1.0,0.0,1.1,0,1,2.2,0.17,32.9,2.0,Newcastle,True,Manchester City,4.58,-0.96
+Lewis Miley,Newcastle,Manchester City,2024-01-13,True,90,0.0,0.0,0.0,0.1,2,0.0,1.0,3.4,0,1,2.2,0.17,35.62,2.0,Newcastle,False,Aston Villa,3.3,0.29
+Lewis Miley,Newcastle,Aston Villa,2024-01-30,False,74,0.0,0.0,0.0,0.05,2,0.0,1.0,2.6,0,1,1.4,0.09,37.36,5.0,Newcastle,True,Luton,,
+Lewis Miley,Newcastle,Luton,2024-02-03,True,90,0.0,0.0,1.0,0.08,5,0.0,2.0,5.9,0,1,2.2,0.27,39.65,2.0,Newcastle,False,Nottingham Forest,,-0.55
+Lewis Miley,Newcastle,Nottingham Forest,2024-02-10,False,81,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,1,2.2,0.22,41.38,2.0,Newcastle,True,Bournemouth,2.6,1.22
+Lewis Miley,Newcastle,Bournemouth,2024-02-17,True,90,0.0,0.0,0.0,0.05,2,0.0,1.0,3.9,0,1,2.6,0.2,43.32,2.0,Newcastle,False,Arsenal,0.96,-0.48
+Lewis Miley,Newcastle,Arsenal,2024-02-24,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.6,0,1,2.6,0.2,45.12,1.0,Newcastle,True,Wolverhampton,,0.05
+Lewis Miley,Newcastle,Wolverhampton,2024-03-02,True,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,2.4,0.2,44.19,4.0,Newcastle,False,Chelsea,,-0.85
+Lewis Miley,Newcastle,Chelsea,2024-03-11,False,10,0.0,0.0,1.0,0.06,4,0.0,1.0,3.0,0,0,2.2,0.2,42.96,0.0,Newcastle,True,West Ham,0.49,0.49
+Lewis Miley,Newcastle,West Ham,,True,0,,,,,0,,,0.0,0,0,1.8,0.2,41.48,0.0,Newcastle,True,Everton,-1.47,0.53
+Lewis Miley,Newcastle,Everton,,True,0,,,,,0,,,0.0,0,0,1.4,0.2,40.1,0.0,Newcastle,False,Fulham,-1.62,0.86
+Lewis Miley,Newcastle,Fulham,,False,0,,,,,0,,,0.0,0,0,1.0,0.2,38.81,0.0,Newcastle,True,Tottenham,-0.29,0.69
+Lewis Miley,Newcastle,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.8,0.2,37.59,0.0,Newcastle,False,Crystal Palace,-1.13,0.38
+Lewis Miley,Newcastle,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,36.45,0.0,Newcastle,True,Sheffield,,0.68
+Lewis Miley,Newcastle,Sheffield,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,35.38,0.0,Newcastle,False,Burnley,,0.0
+Lewis Miley,Newcastle,Burnley,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,34.37,0.0,Newcastle,True,Brighton,,-0.66
+Lewis Miley,Newcastle,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,33.42,0.0,Newcastle,False,Manchester United,0.66,-0.63
+Lewis Miley,Newcastle,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,32.51,0.0,Newcastle,False,Brentford,,-0.53
+Lewis Miley,Newcastle,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,31.66,,Newcastle,True,Southampton,0.18,0.24

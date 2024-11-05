@@ -101,7 +101,7 @@ def adjust_predictions_by_availability(prediction_csv):
     Adjust the 'predicted_next_week_points' in the prediction CSV based on player availability.
     """
     # Load current availability data
-    availability_df = pd.read_csv('current_availability.csv')
+    availability_df = pd.read_csv('player_scripts/current_availability.csv')
 
     # Ensure required columns are present
     if 'full_name' not in availability_df.columns or 'chance_of_playing_next_round' not in availability_df.columns or 'status' not in availability_df.columns:

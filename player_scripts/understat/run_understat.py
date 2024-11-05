@@ -1,7 +1,7 @@
-from scrape import download_understat_csv_files
-from clean import clean_understat_data
+from understat.scrape import download_understat_csv_files
+from understat.clean import clean_understat_data
 
 
-if __name__ == "__main__": 
-    download_understat_csv_files(); 
+def main(seasons): 
+    download_understat_csv_files(seasons=seasons); 
     clean_understat_data();  

@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Dwight McNeil,Everton,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,7.0,3.0,3.85,7.44,0.05,0.0,Everton,False,Aston Villa,1.9,0.29
-Dwight McNeil,Everton,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,7.0,3.0,3.85,7.44,0.05,0.0,Everton,True,Wolverhampton,1.66,0.05
-Dwight McNeil,Everton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,7.0,3.0,3.85,7.44,0.05,1.0,Everton,False,Sheffield,,-0.61
-Dwight McNeil,Everton,Sheffield,2023-09-02,False,15,0.0,0.02,0.0,0.0,1,1.0,0.0,0.5,0,0,0.25,0.01,3.75,7.0,3.0,3.85,7.44,0.05,2.0,Everton,True,Arsenal,-3.25,-0.11
-Dwight McNeil,Everton,Arsenal,2023-09-17,True,87,0.0,0.06,0.0,0.0,2,2.0,0.0,1.1,0,1,0.6,0.02,20.4,7.0,3.0,3.85,7.44,0.05,5.0,Everton,False,Brentford,1.71,-0.53
-Dwight McNeil,Everton,Brentford,2023-09-23,False,90,0.0,0.16,1.0,0.51,5,3.0,1.0,6.1,0,1,1.6,0.25,32.0,7.0,3.0,3.85,7.44,0.05,2.0,Everton,True,Luton,,
-Dwight McNeil,Everton,Luton,2023-09-30,True,83,0.0,0.11,0.0,0.65,2,3.0,2.0,6.2,0,1,2.0,0.27,39.29,7.0,3.0,3.85,7.44,0.05,3.0,Everton,True,Bournemouth,-1.77,1.22
-Dwight McNeil,Everton,Bournemouth,2023-10-07,True,90,0.0,0.22,0.0,1.18,3,2.0,6.0,14.0,0,1,2.6,0.31,45.62,7.0,3.0,3.85,7.44,0.05,1.0,Everton,False,Liverpool,1.89,-1.01
-Dwight McNeil,Everton,Liverpool,2023-10-21,False,45,0.0,0.01,0.0,0.05,1,1.0,1.0,2.4,0,1,2.6,0.31,45.56,7.0,3.0,3.85,7.44,0.05,3.0,Everton,False,West Ham,4.39,-0.22
-Dwight McNeil,Everton,West Ham,2023-10-29,False,90,0.0,0.07,0.0,0.13,3,2.0,3.0,8.8,0,1,2.8,0.31,50.0,7.0,3.0,3.85,7.44,0.05,2.0,Everton,True,Brighton,2.15,-0.66
-Dwight McNeil,Everton,Brighton,2023-11-04,True,90,0.0,0.06,0.0,0.06,2,1.0,1.0,2.9,0,1,2.2,0.09,53.64,7.0,3.0,3.85,7.44,0.05,2.0,Everton,False,Crystal Palace,0.85,0.38
-Dwight McNeil,Everton,Crystal Palace,2023-11-11,False,90,0.0,0.03,0.0,0.0,2,1.0,0.0,4.7,0,1,2.2,0.08,56.67,7.0,3.0,3.85,7.44,0.05,2.0,Everton,True,Manchester United,-0.7,0.38
-Dwight McNeil,Everton,Manchester United,2023-11-26,True,72,0.0,0.5,0.0,0.08,2,2.0,1.0,6.4,0,1,2.0,0.13,57.85,7.0,3.0,3.85,7.44,0.05,8.0,Everton,False,Nottingham Forest,1.05,-0.55
-Dwight McNeil,Everton,Nottingham Forest,2023-12-02,False,90,1.0,0.32,0.0,0.0,8,4.0,0.0,7.4,0,1,3.4,0.2,60.14,7.0,3.0,3.85,7.44,0.05,14.0,Everton,True,Newcastle United,1.57,0.55
-Dwight McNeil,Everton,Newcastle United,2023-12-07,True,90,1.0,0.17,1.0,0.77,14,2.0,4.0,15.0,3,1,5.6,0.42,62.13,7.0,3.0,3.85,7.44,0.05,3.0,Everton,True,Chelsea,-0.66,-0.25
-Dwight McNeil,Everton,Chelsea,2023-12-10,True,90,0.0,0.07,0.0,0.58,3,1.0,1.0,4.7,0,1,5.8,0.42,63.88,7.0,3.0,3.85,7.44,0.05,6.0,Everton,False,Burnley,-1.91,0.0
-Dwight McNeil,Everton,Burnley,2023-12-16,False,90,0.0,0.07,1.0,0.53,6,2.0,1.0,5.2,0,1,6.6,0.63,65.41,7.0,3.0,3.85,7.44,0.05,2.0,Everton,False,Tottenham,4.06,-0.36
-Dwight McNeil,Everton,Tottenham,2023-12-23,False,90,0.0,0.07,0.0,0.47,2,1.0,3.0,5.6,0,1,6.6,0.54,66.78,7.0,3.0,3.85,7.44,0.05,5.0,Everton,True,Manchester City,1.82,-0.96
-Dwight McNeil,Everton,Manchester City,2023-12-27,True,90,0.0,0.0,1.0,0.67,5,0.0,2.0,5.5,0,1,6.0,0.68,68.0,7.0,3.0,3.85,7.44,0.05,1.0,Everton,False,Wolverhampton,0.11,-0.52
-Dwight McNeil,Everton,Wolverhampton,2023-12-30,False,73,0.0,0.09,0.0,0.08,1,3.0,1.0,2.3,0,1,3.4,0.46,68.25,7.0,3.0,3.85,7.44,0.05,1.0,Everton,True,Aston Villa,2.11,0.64
-Dwight McNeil,Everton,Aston Villa,2024-01-14,True,27,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,3.0,0.45,66.29,7.0,3.0,3.85,7.44,0.05,3.0,Everton,False,Fulham,-1.22,0.86
-Dwight McNeil,Everton,Fulham,2024-01-30,False,90,0.0,0.0,0.0,0.02,3,0.0,1.0,3.4,0,1,2.4,0.23,67.36,7.0,3.0,3.85,7.44,0.05,2.0,Everton,True,Tottenham,1.66,0.69
-Dwight McNeil,Everton,Tottenham,2024-02-03,True,84,0.0,0.01,0.0,0.09,2,1.0,2.0,4.7,0,1,2.4,0.22,68.09,7.0,3.0,3.85,7.44,0.05,2.0,Everton,False,Manchester City,0.21,-1.32
-Dwight McNeil,Everton,Manchester City,2024-02-10,False,87,0.0,0.02,0.0,0.09,2,1.0,1.0,4.3,0,1,1.8,0.02,68.88,7.0,3.0,3.85,7.44,0.05,8.0,Everton,True,Crystal Palace,-3.81,0.88
-Dwight McNeil,Everton,Crystal Palace,2024-02-19,True,90,0.0,0.0,1.0,1.41,8,0.0,5.0,11.9,3,1,3.2,0.21,69.72,7.0,3.0,3.85,7.44,0.05,2.0,Everton,False,Brighton,-5.19,-0.6
-Dwight McNeil,Everton,Brighton,2024-02-24,False,90,0.0,0.0,0.0,0.04,2,0.0,1.0,4.1,0,1,3.4,0.21,70.5,7.0,3.0,3.85,7.44,0.05,2.0,Everton,True,West Ham,0.7,0.49
-Dwight McNeil,Everton,West Ham,2024-03-02,True,90,0.0,0.69,0.0,0.52,2,5.0,4.0,11.2,0,1,3.2,0.34,71.22,7.0,3.0,3.85,7.44,0.05,2.0,Everton,False,Manchester United,-2.79,-0.63
-Dwight McNeil,Everton,Manchester United,2024-03-09,False,90,0.0,0.26,0.0,0.27,2,5.0,6.0,13.8,0,1,3.2,0.39,71.89,7.0,3.0,3.85,7.44,0.05,5.0,Everton,False,Bournemouth,6.99,0.19
-Dwight McNeil,Everton,Bournemouth,2024-03-30,False,90,0.0,0.04,0.0,0.02,5,1.0,1.0,3.5,0,1,3.8,0.4,72.52,7.0,3.0,3.85,7.44,0.05,1.0,Everton,False,Newcastle United,2.12,-0.41
-Dwight McNeil,Everton,Newcastle United,2024-04-02,False,90,0.0,0.06,0.0,0.61,1,1.0,2.0,4.9,0,1,2.4,0.21,73.1,7.0,3.0,3.85,7.44,0.05,3.0,Everton,True,Burnley,-3.47,0.39
-Dwight McNeil,Everton,Burnley,2024-04-06,True,90,0.0,0.04,0.0,0.09,3,2.0,1.0,3.2,0,1,2.6,0.22,73.65,7.0,3.0,3.85,7.44,0.05,2.0,Everton,False,Chelsea,-1.5,-0.85
-Dwight McNeil,Everton,Chelsea,2024-04-15,False,90,0.0,0.0,0.0,0.17,2,0.0,4.0,8.1,0,1,2.6,0.08,74.16,7.0,3.0,3.85,7.44,0.05,10.0,Everton,True,Nottingham Forest,1.11,1.55
-Dwight McNeil,Everton,Nottingham Forest,2024-04-21,True,90,1.0,0.11,0.0,0.19,10,2.0,2.0,10.5,2,1,4.2,0.05,74.64,7.0,3.0,3.85,7.44,0.05,6.0,Everton,True,Liverpool,0.76,0.18
-Dwight McNeil,Everton,Liverpool,2024-04-24,True,90,0.0,0.16,1.0,0.57,6,3.0,5.0,12.8,0,1,4.4,0.27,75.09,7.0,3.0,3.85,7.44,0.05,3.0,Everton,True,Brentford,,0.79
-Dwight McNeil,Everton,Brentford,2024-04-27,True,90,0.0,0.21,0.0,0.2,3,5.0,3.0,8.8,0,1,4.8,0.3,75.51,7.0,3.0,3.85,7.44,0.05,2.0,Everton,False,Luton,,
-Dwight McNeil,Everton,Luton,2024-05-03,False,90,0.0,0.0,0.0,0.14,2,0.0,1.0,2.2,0,1,4.6,0.3,75.92,7.0,3.0,3.85,7.44,0.05,3.0,Everton,True,Sheffield,,0.68
-Dwight McNeil,Everton,Sheffield,2024-05-11,True,68,0.0,0.0,0.0,0.13,3,0.0,3.0,5.0,0,1,4.8,0.3,75.7,7.0,3.0,3.85,7.44,0.05,5.0,Everton,False,Arsenal,,-0.48
-Dwight McNeil,Everton,Arsenal,2024-05-19,False,90,0.0,0.0,0.0,0.0,5,0.0,0.0,1.4,0,1,3.8,0.27,76.08,7.0,3.0,3.85,7.44,0.05,2.0,Everton,True,Brighton,0.33,-0.66
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Dwight McNeil,Everton,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Everton,False,Aston Villa,1.9,0.29
+Dwight McNeil,Everton,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Everton,True,Wolverhampton,1.66,0.05
+Dwight McNeil,Everton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,1.0,Everton,False,Sheffield,,-0.61
+Dwight McNeil,Everton,Sheffield,2023-09-02,False,15,0.0,0.02,0.0,0.0,1,1.0,0.0,0.5,0,0,0.25,0.01,3.75,2.0,Everton,True,Arsenal,-3.25,-0.11
+Dwight McNeil,Everton,Arsenal,2023-09-17,True,87,0.0,0.06,0.0,0.0,2,2.0,0.0,1.1,0,1,0.6,0.02,20.4,5.0,Everton,False,Brentford,1.71,-0.53
+Dwight McNeil,Everton,Brentford,2023-09-23,False,90,0.0,0.16,1.0,0.51,5,3.0,1.0,6.1,0,1,1.6,0.25,32.0,2.0,Everton,True,Luton,,
+Dwight McNeil,Everton,Luton,2023-09-30,True,83,0.0,0.11,0.0,0.65,2,3.0,2.0,6.2,0,1,2.0,0.27,39.29,3.0,Everton,True,Bournemouth,-1.77,1.22
+Dwight McNeil,Everton,Bournemouth,2023-10-07,True,90,0.0,0.22,0.0,1.18,3,2.0,6.0,14.0,0,1,2.6,0.31,45.62,1.0,Everton,False,Liverpool,1.89,-1.01
+Dwight McNeil,Everton,Liverpool,2023-10-21,False,45,0.0,0.01,0.0,0.05,1,1.0,1.0,2.4,0,1,2.6,0.31,45.56,3.0,Everton,False,West Ham,4.39,-0.22
+Dwight McNeil,Everton,West Ham,2023-10-29,False,90,0.0,0.07,0.0,0.13,3,2.0,3.0,8.8,0,1,2.8,0.31,50.0,2.0,Everton,True,Brighton,2.15,-0.66
+Dwight McNeil,Everton,Brighton,2023-11-04,True,90,0.0,0.06,0.0,0.06,2,1.0,1.0,2.9,0,1,2.2,0.09,53.64,2.0,Everton,False,Crystal Palace,0.85,0.38
+Dwight McNeil,Everton,Crystal Palace,2023-11-11,False,90,0.0,0.03,0.0,0.0,2,1.0,0.0,4.7,0,1,2.2,0.08,56.67,2.0,Everton,True,Manchester United,-0.7,0.38
+Dwight McNeil,Everton,Manchester United,2023-11-26,True,72,0.0,0.5,0.0,0.08,2,2.0,1.0,6.4,0,1,2.0,0.13,57.85,8.0,Everton,False,Nottingham Forest,1.05,-0.55
+Dwight McNeil,Everton,Nottingham Forest,2023-12-02,False,90,1.0,0.32,0.0,0.0,8,4.0,0.0,7.4,0,1,3.4,0.2,60.14,14.0,Everton,True,Newcastle United,1.57,0.55
+Dwight McNeil,Everton,Newcastle United,2023-12-07,True,90,1.0,0.17,1.0,0.77,14,2.0,4.0,15.0,3,1,5.6,0.42,62.13,3.0,Everton,True,Chelsea,-0.66,-0.25
+Dwight McNeil,Everton,Chelsea,2023-12-10,True,90,0.0,0.07,0.0,0.58,3,1.0,1.0,4.7,0,1,5.8,0.42,63.88,6.0,Everton,False,Burnley,-1.91,0.0
+Dwight McNeil,Everton,Burnley,2023-12-16,False,90,0.0,0.07,1.0,0.53,6,2.0,1.0,5.2,0,1,6.6,0.63,65.41,2.0,Everton,False,Tottenham,4.06,-0.36
+Dwight McNeil,Everton,Tottenham,2023-12-23,False,90,0.0,0.07,0.0,0.47,2,1.0,3.0,5.6,0,1,6.6,0.54,66.78,5.0,Everton,True,Manchester City,1.82,-0.96
+Dwight McNeil,Everton,Manchester City,2023-12-27,True,90,0.0,0.0,1.0,0.67,5,0.0,2.0,5.5,0,1,6.0,0.68,68.0,1.0,Everton,False,Wolverhampton,0.11,-0.52
+Dwight McNeil,Everton,Wolverhampton,2023-12-30,False,73,0.0,0.09,0.0,0.08,1,3.0,1.0,2.3,0,1,3.4,0.46,68.25,1.0,Everton,True,Aston Villa,2.11,0.64
+Dwight McNeil,Everton,Aston Villa,2024-01-14,True,27,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,3.0,0.45,66.29,3.0,Everton,False,Fulham,-1.22,0.86
+Dwight McNeil,Everton,Fulham,2024-01-30,False,90,0.0,0.0,0.0,0.02,3,0.0,1.0,3.4,0,1,2.4,0.23,67.36,2.0,Everton,True,Tottenham,1.66,0.69
+Dwight McNeil,Everton,Tottenham,2024-02-03,True,84,0.0,0.01,0.0,0.09,2,1.0,2.0,4.7,0,1,2.4,0.22,68.09,2.0,Everton,False,Manchester City,0.21,-1.32
+Dwight McNeil,Everton,Manchester City,2024-02-10,False,87,0.0,0.02,0.0,0.09,2,1.0,1.0,4.3,0,1,1.8,0.02,68.88,8.0,Everton,True,Crystal Palace,-3.81,0.88
+Dwight McNeil,Everton,Crystal Palace,2024-02-19,True,90,0.0,0.0,1.0,1.41,8,0.0,5.0,11.9,3,1,3.2,0.21,69.72,2.0,Everton,False,Brighton,-5.19,-0.6
+Dwight McNeil,Everton,Brighton,2024-02-24,False,90,0.0,0.0,0.0,0.04,2,0.0,1.0,4.1,0,1,3.4,0.21,70.5,2.0,Everton,True,West Ham,0.7,0.49
+Dwight McNeil,Everton,West Ham,2024-03-02,True,90,0.0,0.69,0.0,0.52,2,5.0,4.0,11.2,0,1,3.2,0.34,71.22,2.0,Everton,False,Manchester United,-2.79,-0.63
+Dwight McNeil,Everton,Manchester United,2024-03-09,False,90,0.0,0.26,0.0,0.27,2,5.0,6.0,13.8,0,1,3.2,0.39,71.89,5.0,Everton,False,Bournemouth,6.99,0.19
+Dwight McNeil,Everton,Bournemouth,2024-03-30,False,90,0.0,0.04,0.0,0.02,5,1.0,1.0,3.5,0,1,3.8,0.4,72.52,1.0,Everton,False,Newcastle United,2.12,-0.41
+Dwight McNeil,Everton,Newcastle United,2024-04-02,False,90,0.0,0.06,0.0,0.61,1,1.0,2.0,4.9,0,1,2.4,0.21,73.1,3.0,Everton,True,Burnley,-3.47,0.39
+Dwight McNeil,Everton,Burnley,2024-04-06,True,90,0.0,0.04,0.0,0.09,3,2.0,1.0,3.2,0,1,2.6,0.22,73.65,2.0,Everton,False,Chelsea,-1.5,-0.85
+Dwight McNeil,Everton,Chelsea,2024-04-15,False,90,0.0,0.0,0.0,0.17,2,0.0,4.0,8.1,0,1,2.6,0.08,74.16,10.0,Everton,True,Nottingham Forest,1.11,1.55
+Dwight McNeil,Everton,Nottingham Forest,2024-04-21,True,90,1.0,0.11,0.0,0.19,10,2.0,2.0,10.5,2,1,4.2,0.05,74.64,6.0,Everton,True,Liverpool,0.76,0.18
+Dwight McNeil,Everton,Liverpool,2024-04-24,True,90,0.0,0.16,1.0,0.57,6,3.0,5.0,12.8,0,1,4.4,0.27,75.09,3.0,Everton,True,Brentford,,0.79
+Dwight McNeil,Everton,Brentford,2024-04-27,True,90,0.0,0.21,0.0,0.2,3,5.0,3.0,8.8,0,1,4.8,0.3,75.51,2.0,Everton,False,Luton,,
+Dwight McNeil,Everton,Luton,2024-05-03,False,90,0.0,0.0,0.0,0.14,2,0.0,1.0,2.2,0,1,4.6,0.3,75.92,3.0,Everton,True,Sheffield,,0.68
+Dwight McNeil,Everton,Sheffield,2024-05-11,True,68,0.0,0.0,0.0,0.13,3,0.0,3.0,5.0,0,1,4.8,0.3,75.7,5.0,Everton,False,Arsenal,,-0.48
+Dwight McNeil,Everton,Arsenal,2024-05-19,False,90,0.0,0.0,0.0,0.0,5,0.0,0.0,1.4,0,1,3.8,0.27,76.08,2.0,Everton,True,Brighton,0.33,-0.66

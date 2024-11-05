@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Aaron Ramsdale,Arsenal,Nottingham Forest,2023-08-12,True,90,1,1.18,1,0,2,0,0,0.0,1,2.0,0,90.0,0.0,1.0,0.37,94,30.86,6.0,Arsenal,False,Crystal Palace,0.57,0.38
-Aaron Ramsdale,Arsenal,Crystal Palace,2023-08-21,False,90,0,1.06,2,0,6,0,1,0.0,1,4.0,0,90.0,0.5,1.5,0.37,94,30.86,1.0,Arsenal,True,Fulham,-0.83,-0.13
-Aaron Ramsdale,Arsenal,Fulham,2023-08-26,True,90,2,0.53,1,0,1,0,0,0.0,1,3.0,0,90.0,0.33,1.33,0.37,94,30.86,2.0,Arsenal,True,Manchester United,-2.3,0.38
-Aaron Ramsdale,Arsenal,Manchester United,2023-09-03,True,90,1,0.96,1,0,2,0,0,0.0,1,2.75,0,90.0,0.25,1.25,0.37,94,30.86,0.0,Arsenal,False,Everton,2.37,-0.24
-Aaron Ramsdale,Arsenal,Everton,,False,0,0,0.0,0,0,0,0,0,,0,2.2,0,72.0,0.25,1.25,0.37,94,30.86,0.0,Arsenal,True,Tottenham,-2.27,0.69
-Aaron Ramsdale,Arsenal,Tottenham,,True,0,0,0.0,0,0,0,0,0,,0,1.8,0,60.0,0.25,1.25,0.37,94,30.86,0.0,Arsenal,False,Bournemouth,-3.74,0.19
-Aaron Ramsdale,Arsenal,Bournemouth,,False,0,0,0.0,0,0,0,0,0,,0,0.6,0,51.43,0.25,1.25,0.37,94,30.86,0.0,Arsenal,True,Manchester City,1.6,-0.96
-Aaron Ramsdale,Arsenal,Manchester City,,True,0,0,0.0,0,0,0,0,0,,0,0.4,0,45.0,0.25,1.25,0.37,94,30.86,0.0,Arsenal,False,Chelsea,-3.72,-0.85
-Aaron Ramsdale,Arsenal,Chelsea,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,40.0,0.25,1.25,0.37,94,30.86,0.0,Arsenal,True,Sheffield,,0.68
-Aaron Ramsdale,Arsenal,Sheffield,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,36.0,0.25,1.25,0.37,94,30.86,0.0,Arsenal,False,Newcastle United,-0.61,-0.41
-Aaron Ramsdale,Arsenal,Newcastle United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,32.73,0.25,1.25,0.37,94,30.86,0.0,Arsenal,True,Burnley,0.55,0.39
-Aaron Ramsdale,Arsenal,Burnley,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,30.0,0.25,1.25,0.37,94,30.86,6.0,Arsenal,False,Brentford,-0.38,-0.53
-Aaron Ramsdale,Arsenal,Brentford,2023-11-25,False,90,0,1.11,1,0,6,0,1,0.0,1,1.2,0,34.62,0.4,1.2,0.37,94,30.86,0.0,Arsenal,True,Wolverhampton,-3.77,0.05
-Aaron Ramsdale,Arsenal,Wolverhampton,,True,0,0,0.0,0,0,0,0,0,,0,1.2,0,32.14,0.4,1.2,0.37,94,30.86,0.0,Arsenal,False,Luton,,
-Aaron Ramsdale,Arsenal,Luton,,False,0,0,0.0,0,0,0,0,0,,0,1.2,0,30.0,0.4,1.2,0.37,94,30.86,0.0,Arsenal,False,Aston Villa,-1.92,0.29
-Aaron Ramsdale,Arsenal,Aston Villa,,False,0,0,0.0,0,0,0,0,0,,0,1.2,0,28.12,0.4,1.2,0.37,94,30.86,0.0,Arsenal,True,Brighton,2.17,-0.66
-Aaron Ramsdale,Arsenal,Brighton,,True,0,0,0.0,0,0,0,0,0,,0,1.2,0,26.47,0.4,1.2,0.37,94,30.86,0.0,Arsenal,False,Liverpool,1.55,-1.01
-Aaron Ramsdale,Arsenal,Liverpool,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,25.0,0.4,1.2,0.37,94,30.86,0.0,Arsenal,True,West Ham,-1.81,0.49
-Aaron Ramsdale,Arsenal,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,23.68,0.4,1.2,0.37,94,30.86,0.0,Arsenal,False,Fulham,-4.27,0.86
-Aaron Ramsdale,Arsenal,Fulham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,22.5,0.4,1.2,0.37,94,30.86,0.0,Arsenal,True,Crystal Palace,-1.66,0.88
-Aaron Ramsdale,Arsenal,Crystal Palace,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,21.43,0.4,1.2,0.37,94,30.86,0.0,Arsenal,False,Nottingham Forest,,-0.55
-Aaron Ramsdale,Arsenal,Nottingham Forest,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,20.45,0.4,1.2,0.37,94,30.86,0.0,Arsenal,True,Liverpool,-3.61,0.18
-Aaron Ramsdale,Arsenal,Liverpool,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,19.57,0.4,1.2,0.37,94,30.86,0.0,Arsenal,False,West Ham,,-0.22
-Aaron Ramsdale,Arsenal,West Ham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,18.75,0.4,1.2,0.37,94,30.86,0.0,Arsenal,False,Burnley,-1.51,0.0
-Aaron Ramsdale,Arsenal,Burnley,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,18.0,0.4,1.2,0.37,94,30.86,0.0,Arsenal,True,Newcastle United,-1.37,0.55
-Aaron Ramsdale,Arsenal,Newcastle United,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,17.31,0.4,1.2,0.37,94,30.86,0.0,Arsenal,False,Sheffield,,-0.61
-Aaron Ramsdale,Arsenal,Sheffield,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,16.67,0.4,1.2,0.37,94,30.86,3.0,Arsenal,True,Brentford,,0.79
-Aaron Ramsdale,Arsenal,Brentford,2024-03-09,True,90,1,0.97,3,0,3,0,0,0.0,1,0.6,0,19.29,0.33,1.5,0.37,94,30.86,0.0,Arsenal,False,Manchester City,4.53,-1.32
-Aaron Ramsdale,Arsenal,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,0.6,0,18.62,0.33,1.5,0.37,94,30.86,0.0,Arsenal,True,Luton,,
-Aaron Ramsdale,Arsenal,Luton,,True,0,0,0.0,0,0,0,0,0,,0,0.6,0,18.0,0.33,1.5,0.37,94,30.86,0.0,Arsenal,False,Brighton,-3.3,-0.6
-Aaron Ramsdale,Arsenal,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,0.6,0,17.42,0.33,1.5,0.37,94,30.86,0.0,Arsenal,True,Aston Villa,-2.64,0.64
-Aaron Ramsdale,Arsenal,Aston Villa,,True,0,0,0.0,0,0,0,0,0,,0,0.6,0,16.88,0.33,1.5,0.37,94,30.86,0.0,Arsenal,False,Wolverhampton,-4.1,-0.52
-Aaron Ramsdale,Arsenal,Wolverhampton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,16.36,0.33,1.5,0.37,94,30.86,0.0,Arsenal,True,Chelsea,2.07,-0.25
-Aaron Ramsdale,Arsenal,Chelsea,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,15.88,0.33,1.5,0.37,94,30.86,0.0,Arsenal,False,Tottenham,-3.15,-0.36
-Aaron Ramsdale,Arsenal,Tottenham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,15.43,0.33,1.5,0.37,94,30.86,0.0,Arsenal,True,Bournemouth,,1.22
-Aaron Ramsdale,Arsenal,Bournemouth,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,15.0,0.33,1.5,0.37,94,30.86,0.0,Arsenal,False,Manchester United,2.33,-0.63
-Aaron Ramsdale,Arsenal,Manchester United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,14.59,0.33,1.5,0.37,94,30.86,0.0,Arsenal,True,Everton,,0.53
-Aaron Ramsdale,Arsenal,Everton,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,14.21,0.33,1.5,0.37,94,30.86,,Arsenal,True,Wolverhampton,-0.27,0.05
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Aaron Ramsdale,Arsenal,Nottingham Forest,2023-08-12,True,90,1,1.18,1,0,2,0,0,0.0,1,2.0,0,90.0,0.0,1.0,6.0,Arsenal,False,Crystal Palace,0.57,0.38
+Aaron Ramsdale,Arsenal,Crystal Palace,2023-08-21,False,90,0,1.06,2,0,6,0,1,0.0,1,4.0,0,90.0,0.5,1.5,1.0,Arsenal,True,Fulham,-0.83,-0.13
+Aaron Ramsdale,Arsenal,Fulham,2023-08-26,True,90,2,0.53,1,0,1,0,0,0.0,1,3.0,0,90.0,0.33,1.33,2.0,Arsenal,True,Manchester United,-2.3,0.38
+Aaron Ramsdale,Arsenal,Manchester United,2023-09-03,True,90,1,0.96,1,0,2,0,0,0.0,1,2.75,0,90.0,0.25,1.25,0.0,Arsenal,False,Everton,2.37,-0.24
+Aaron Ramsdale,Arsenal,Everton,,False,0,0,0.0,0,0,0,0,0,,0,2.2,0,72.0,0.25,1.25,0.0,Arsenal,True,Tottenham,-2.27,0.69
+Aaron Ramsdale,Arsenal,Tottenham,,True,0,0,0.0,0,0,0,0,0,,0,1.8,0,60.0,0.25,1.25,0.0,Arsenal,False,Bournemouth,-3.74,0.19
+Aaron Ramsdale,Arsenal,Bournemouth,,False,0,0,0.0,0,0,0,0,0,,0,0.6,0,51.43,0.25,1.25,0.0,Arsenal,True,Manchester City,1.6,-0.96
+Aaron Ramsdale,Arsenal,Manchester City,,True,0,0,0.0,0,0,0,0,0,,0,0.4,0,45.0,0.25,1.25,0.0,Arsenal,False,Chelsea,-3.72,-0.85
+Aaron Ramsdale,Arsenal,Chelsea,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,40.0,0.25,1.25,0.0,Arsenal,True,Sheffield,,0.68
+Aaron Ramsdale,Arsenal,Sheffield,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,36.0,0.25,1.25,0.0,Arsenal,False,Newcastle United,-0.61,-0.41
+Aaron Ramsdale,Arsenal,Newcastle United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,32.73,0.25,1.25,0.0,Arsenal,True,Burnley,0.55,0.39
+Aaron Ramsdale,Arsenal,Burnley,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,30.0,0.25,1.25,6.0,Arsenal,False,Brentford,-0.38,-0.53
+Aaron Ramsdale,Arsenal,Brentford,2023-11-25,False,90,0,1.11,1,0,6,0,1,0.0,1,1.2,0,34.62,0.4,1.2,0.0,Arsenal,True,Wolverhampton,-3.77,0.05
+Aaron Ramsdale,Arsenal,Wolverhampton,,True,0,0,0.0,0,0,0,0,0,,0,1.2,0,32.14,0.4,1.2,0.0,Arsenal,False,Luton,,
+Aaron Ramsdale,Arsenal,Luton,,False,0,0,0.0,0,0,0,0,0,,0,1.2,0,30.0,0.4,1.2,0.0,Arsenal,False,Aston Villa,-1.92,0.29
+Aaron Ramsdale,Arsenal,Aston Villa,,False,0,0,0.0,0,0,0,0,0,,0,1.2,0,28.12,0.4,1.2,0.0,Arsenal,True,Brighton,2.17,-0.66
+Aaron Ramsdale,Arsenal,Brighton,,True,0,0,0.0,0,0,0,0,0,,0,1.2,0,26.47,0.4,1.2,0.0,Arsenal,False,Liverpool,1.55,-1.01
+Aaron Ramsdale,Arsenal,Liverpool,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,25.0,0.4,1.2,0.0,Arsenal,True,West Ham,-1.81,0.49
+Aaron Ramsdale,Arsenal,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,23.68,0.4,1.2,0.0,Arsenal,False,Fulham,-4.27,0.86
+Aaron Ramsdale,Arsenal,Fulham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,22.5,0.4,1.2,0.0,Arsenal,True,Crystal Palace,-1.66,0.88
+Aaron Ramsdale,Arsenal,Crystal Palace,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,21.43,0.4,1.2,0.0,Arsenal,False,Nottingham Forest,,-0.55
+Aaron Ramsdale,Arsenal,Nottingham Forest,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,20.45,0.4,1.2,0.0,Arsenal,True,Liverpool,-3.61,0.18
+Aaron Ramsdale,Arsenal,Liverpool,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,19.57,0.4,1.2,0.0,Arsenal,False,West Ham,,-0.22
+Aaron Ramsdale,Arsenal,West Ham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,18.75,0.4,1.2,0.0,Arsenal,False,Burnley,-1.51,0.0
+Aaron Ramsdale,Arsenal,Burnley,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,18.0,0.4,1.2,0.0,Arsenal,True,Newcastle United,-1.37,0.55
+Aaron Ramsdale,Arsenal,Newcastle United,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,17.31,0.4,1.2,0.0,Arsenal,False,Sheffield,,-0.61
+Aaron Ramsdale,Arsenal,Sheffield,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,16.67,0.4,1.2,3.0,Arsenal,True,Brentford,,0.79
+Aaron Ramsdale,Arsenal,Brentford,2024-03-09,True,90,1,0.97,3,0,3,0,0,0.0,1,0.6,0,19.29,0.33,1.5,0.0,Arsenal,False,Manchester City,4.53,-1.32
+Aaron Ramsdale,Arsenal,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,0.6,0,18.62,0.33,1.5,0.0,Arsenal,True,Luton,,
+Aaron Ramsdale,Arsenal,Luton,,True,0,0,0.0,0,0,0,0,0,,0,0.6,0,18.0,0.33,1.5,0.0,Arsenal,False,Brighton,-3.3,-0.6
+Aaron Ramsdale,Arsenal,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,0.6,0,17.42,0.33,1.5,0.0,Arsenal,True,Aston Villa,-2.64,0.64
+Aaron Ramsdale,Arsenal,Aston Villa,,True,0,0,0.0,0,0,0,0,0,,0,0.6,0,16.88,0.33,1.5,0.0,Arsenal,False,Wolverhampton,-4.1,-0.52
+Aaron Ramsdale,Arsenal,Wolverhampton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,16.36,0.33,1.5,0.0,Arsenal,True,Chelsea,2.07,-0.25
+Aaron Ramsdale,Arsenal,Chelsea,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,15.88,0.33,1.5,0.0,Arsenal,False,Tottenham,-3.15,-0.36
+Aaron Ramsdale,Arsenal,Tottenham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,15.43,0.33,1.5,0.0,Arsenal,True,Bournemouth,,1.22
+Aaron Ramsdale,Arsenal,Bournemouth,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,15.0,0.33,1.5,0.0,Arsenal,False,Manchester United,2.33,-0.63
+Aaron Ramsdale,Arsenal,Manchester United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,14.59,0.33,1.5,0.0,Arsenal,True,Everton,,0.53
+Aaron Ramsdale,Arsenal,Everton,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,14.21,0.33,1.5,,Arsenal,True,Wolverhampton,-0.27,0.05

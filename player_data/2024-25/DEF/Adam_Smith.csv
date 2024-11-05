@@ -1,12 +1,12 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Adam Smith,Bournemouth,Nottingham Forest,2024-08-17,False,62.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.2,0.0,0.0,1.0,1.02,1.0,2.0,0.0,62.0,0.0,0.04,1.46,0.33,33.02,1.0,Bournemouth,True,Newcastle United,-1.78,0.67
-Adam Smith,Bournemouth,Newcastle United,2024-08-25,True,4.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,0.0,0.06,0.0,1.5,0.0,33.0,0.0,0.04,1.46,0.33,33.02,1.0,Bournemouth,False,Everton,3.85,-0.39
-Adam Smith,Bournemouth,Everton,2024-08-31,False,13.0,0.0,0.0,0.0,0.07,1.0,0.0,1.0,1.5,0.0,0.0,0.0,0.08,0.0,1.33,0.0,26.33,0.0,0.04,1.46,0.33,33.02,5.0,Bournemouth,True,Chelsea,-0.01,0.0
-Adam Smith,Bournemouth,Chelsea,2024-09-14,True,74.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,1.1,0.0,1.0,0.0,0.47,1.0,2.25,0.0,38.25,0.25,0.04,1.46,0.33,33.02,1.0,Bournemouth,False,Liverpool,4.89,-1.08
-Adam Smith,Bournemouth,Liverpool,2024-09-21,False,21.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.0,0.0,0.0,0.4,0.0,2.0,0.0,34.8,0.2,0.04,1.46,0.33,33.02,2.0,Bournemouth,True,Southampton,2.91,0.24
-Adam Smith,Bournemouth,Southampton,2024-09-30,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.8,0.0,0.0,1.0,0.6,1.0,2.0,0.0,44.0,0.17,0.04,1.46,0.33,33.02,2.0,Bournemouth,False,Leicester City,-1.39,-0.22
-Adam Smith,Bournemouth,Leicester City,2024-10-05,False,62.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.8,0.0,0.0,1.0,0.76,1.0,2.2,0.0,46.57,0.14,0.04,1.46,0.33,33.02,1.0,Bournemouth,True,Arsenal,4.06,-0.32
-Adam Smith,Bournemouth,Arsenal,2024-10-19,True,45.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.4,0.0,0.0,0.0,0.46,0.0,2.2,0.0,46.38,0.12,0.04,1.46,0.33,33.02,1.0,Bournemouth,False,Aston Villa,2.29,0.11
-Adam Smith,Bournemouth,Aston Villa,2024-10-26,False,60.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,1.7,0.0,0.0,1.0,1.15,0.0,1.4,0.0,47.89,0.11,0.04,1.46,0.33,33.02,,Bournemouth,True,Manchester City,1.44,-1.18
+Adam Smith,Bournemouth,,2024-08-17,False,62.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.2,0.0,0.0,1.0,1.02,1.0,2.0,0.0,62.0,0.0,0.04,1.46,0.33,33.02,1.0,Bournemouth,True,,,
+Adam Smith,Bournemouth,,2024-08-25,True,4.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,0.0,0.06,0.0,1.5,0.0,33.0,0.0,0.04,1.46,0.33,33.02,1.0,Bournemouth,False,,,
+Adam Smith,Bournemouth,,2024-08-31,False,13.0,0.0,0.0,0.0,0.07,1.0,0.0,1.0,1.5,0.0,0.0,0.0,0.08,0.0,1.33,0.0,26.33,0.0,0.04,1.46,0.33,33.02,5.0,Bournemouth,True,,,
+Adam Smith,Bournemouth,,2024-09-14,True,74.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,1.1,0.0,1.0,0.0,0.47,1.0,2.25,0.0,38.25,0.25,0.04,1.46,0.33,33.02,1.0,Bournemouth,False,,,
+Adam Smith,Bournemouth,,2024-09-21,False,21.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.0,0.0,0.0,0.4,0.0,2.0,0.0,34.8,0.2,0.04,1.46,0.33,33.02,2.0,Bournemouth,True,,,
+Adam Smith,Bournemouth,,2024-09-30,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.8,0.0,0.0,1.0,0.6,1.0,2.0,0.0,44.0,0.17,0.04,1.46,0.33,33.02,2.0,Bournemouth,False,,,
+Adam Smith,Bournemouth,,2024-10-05,False,62.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.8,0.0,0.0,1.0,0.76,1.0,2.2,0.0,46.57,0.14,0.04,1.46,0.33,33.02,1.0,Bournemouth,True,,,
+Adam Smith,Bournemouth,,2024-10-19,True,45.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.4,0.0,0.0,0.0,0.46,0.0,2.2,0.0,46.38,0.12,0.04,1.46,0.33,33.02,1.0,Bournemouth,False,,,
+Adam Smith,Bournemouth,,2024-10-26,False,60.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,1.7,0.0,0.0,1.0,1.15,0.0,1.4,0.0,47.89,0.11,0.04,1.46,0.33,33.02,,Bournemouth,True,Manchester City,1.44,-1.18
 ,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,False,Brentford,0.82,-0.15
 ,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,True,Brighton,-1.19,-0.42

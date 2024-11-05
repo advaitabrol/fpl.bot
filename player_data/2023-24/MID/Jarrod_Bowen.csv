@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jarrod Bowen,West Ham,Bournemouth,2023-08-12,False,90,1.0,0.39,0.0,0.64,9,6.0,3.0,11.7,3,1,9.0,0.39,90.0,6,5,10.01,6.91,0.04,2.0,West Ham,True,Chelsea,-1.89,-0.25
-Jarrod Bowen,West Ham,Chelsea,2023-08-20,True,90,0.0,0.17,0.0,0.0,2,2.0,0.0,5.5,0,1,5.5,0.28,90.0,6,5,10.01,6.91,0.04,12.0,West Ham,False,Brighton,4.55,-0.6
-Jarrod Bowen,West Ham,Brighton,2023-08-26,False,90,1.0,0.75,1.0,0.17,12,3.0,1.0,11.8,2,1,7.67,0.77,90.0,6,5,10.01,6.91,0.04,7.0,West Ham,False,Luton,,
-Jarrod Bowen,West Ham,Luton,2023-09-01,False,90,1.0,0.55,0.0,0.0,7,2.0,0.0,9.5,0,1,7.5,0.71,90.0,6,5,10.01,6.91,0.04,2.0,West Ham,True,Manchester City,0.78,-0.96
-Jarrod Bowen,West Ham,Manchester City,2023-09-16,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.0,0,1,6.4,0.57,90.0,6,5,10.01,6.91,0.04,7.0,West Ham,False,Liverpool,-0.21,-1.01
-Jarrod Bowen,West Ham,Liverpool,2023-09-24,False,90,1.0,0.74,0.0,0.0,7,3.0,0.0,11.3,0,1,6.0,0.64,90.0,6,5,10.01,6.91,0.04,9.0,West Ham,True,Sheffield,,0.68
-Jarrod Bowen,West Ham,Sheffield,2023-09-30,True,90,1.0,1.26,0.0,0.45,9,6.0,1.0,13.3,1,1,7.4,0.86,90.0,6,5,10.01,6.91,0.04,2.0,West Ham,True,Newcastle United,1.95,0.55
-Jarrod Bowen,West Ham,Newcastle United,2023-10-08,True,90,0.0,0.05,0.0,0.0,2,1.0,0.0,2.8,0,1,5.4,0.52,90.0,6,5,10.01,6.91,0.04,8.0,West Ham,False,Aston Villa,-2.62,0.29
-Jarrod Bowen,West Ham,Aston Villa,2023-10-22,False,90,1.0,0.07,0.0,0.0,8,3.0,0.0,6.7,1,1,5.6,0.42,90.0,6,5,10.01,6.91,0.04,2.0,West Ham,True,Everton,-3.49,0.53
-Jarrod Bowen,West Ham,Everton,2023-10-29,True,90,0.0,0.41,0.0,0.02,2,4.0,1.0,5.6,0,1,5.6,0.51,90.0,6,5,10.01,6.91,0.04,7.0,West Ham,False,Brentford,4.68,-0.53
-Jarrod Bowen,West Ham,Brentford,2023-11-04,False,90,1.0,0.62,0.0,0.63,7,2.0,2.0,10.4,0,1,5.6,0.48,90.0,6,5,10.01,6.91,0.04,8.0,West Ham,True,Nottingham Forest,-5.45,1.55
-Jarrod Bowen,West Ham,Nottingham Forest,2023-11-12,True,90,1.0,0.48,0.0,0.03,8,1.0,1.0,9.7,1,1,5.4,0.33,90.0,6,5,10.01,6.91,0.04,0.0,West Ham,False,Burnley,0.79,0.0
-Jarrod Bowen,West Ham,Burnley,,False,0,,,,,0,,,0.0,0,0,5.0,0.32,83.08,6,5,10.01,6.91,0.04,2.0,West Ham,True,Crystal Palace,1.83,0.88
-Jarrod Bowen,West Ham,Crystal Palace,2023-12-03,True,90,0.0,0.46,0.0,0.0,2,2.0,0.0,4.8,0,1,3.8,0.39,83.57,6,5,10.01,6.91,0.04,7.0,West Ham,False,Tottenham,3.93,-0.36
-Jarrod Bowen,West Ham,Tottenham,2023-12-07,False,90,1.0,0.48,0.0,0.02,7,1.0,1.0,7.8,0,1,4.8,0.41,84.0,6,5,10.01,6.91,0.04,2.0,West Ham,False,Fulham,-3.42,0.86
-Jarrod Bowen,West Ham,Fulham,2023-12-10,False,90,0.0,0.53,0.0,0.32,2,4.0,1.0,7.1,0,1,3.8,0.39,84.38,6,5,10.01,6.91,0.04,8.0,West Ham,True,Wolverhampton,-1.49,0.05
-Jarrod Bowen,West Ham,Wolverhampton,2023-12-17,True,90,1.0,0.27,0.0,0.0,8,3.0,0.0,7.5,0,1,3.8,0.35,84.71,6,5,10.01,6.91,0.04,8.0,West Ham,True,Manchester United,-1.13,0.38
-Jarrod Bowen,West Ham,Manchester United,2023-12-23,True,87,1.0,1.08,0.0,0.0,8,4.0,0.0,13.0,0,1,5.4,0.56,84.83,6,5,10.01,6.91,0.04,6.0,West Ham,False,Arsenal,2.21,-0.48
-Jarrod Bowen,West Ham,Arsenal,2023-12-28,False,90,0.0,0.0,1.0,0.62,6,0.0,1.0,3.5,0,1,6.2,0.67,85.11,6,5,10.01,6.91,0.04,3.0,West Ham,True,Brighton,1.39,-0.66
-Jarrod Bowen,West Ham,Brighton,2024-01-02,True,90,0.0,0.0,0.0,0.25,3,0.0,2.0,5.1,0,1,5.4,0.58,85.35,6,5,10.01,6.91,0.04,2.0,West Ham,False,Sheffield,,-0.61
-Jarrod Bowen,West Ham,Sheffield,2024-01-21,False,90,0.0,0.35,0.0,0.0,2,4.0,0.0,2.6,0,1,5.4,0.54,85.57,6,5,10.01,6.91,0.04,1.0,West Ham,True,Bournemouth,-2.69,1.22
-Jarrod Bowen,West Ham,Bournemouth,2024-02-01,True,90,0.0,0.38,0.0,0.0,1,3.0,0.0,4.1,0,1,4.0,0.56,85.77,6,5,10.01,6.91,0.04,2.0,West Ham,False,Manchester United,1.28,-0.63
-Jarrod Bowen,West Ham,Manchester United,2024-02-04,False,90,0.0,0.12,0.0,0.08,2,2.0,1.0,4.4,0,1,2.8,0.37,85.96,6,5,10.01,6.91,0.04,2.0,West Ham,True,Arsenal,,-0.11
-Jarrod Bowen,West Ham,Arsenal,2024-02-11,True,90,0.0,0.06,0.0,0.11,2,2.0,1.0,3.1,0,1,2.0,0.18,86.12,6,5,10.01,6.91,0.04,2.0,West Ham,False,Nottingham Forest,1.5,-0.55
-Jarrod Bowen,West Ham,Nottingham Forest,2024-02-17,False,90,0.0,0.1,0.0,0.08,2,2.0,1.0,5.2,0,1,1.8,0.2,86.28,6,5,10.01,6.91,0.04,20.0,West Ham,True,Brentford,3.72,0.79
-Jarrod Bowen,West Ham,Brentford,2024-02-26,True,90,3.0,1.22,0.0,0.0,20,3.0,0.0,18.5,3,1,5.4,0.38,86.42,6,5,10.01,6.91,0.04,5.0,West Ham,False,Everton,-0.01,-0.24
-Jarrod Bowen,West Ham,Everton,2024-03-02,False,90,0.0,0.0,1.0,0.63,5,0.0,1.0,3.2,0,1,6.2,0.5,86.56,6,5,10.01,6.91,0.04,2.0,West Ham,True,Burnley,,0.39
-Jarrod Bowen,West Ham,Burnley,2024-03-10,True,90,0.0,0.09,0.0,0.45,2,2.0,2.0,5.4,0,1,6.2,0.49,86.68,6,5,10.01,6.91,0.04,2.0,West Ham,True,Aston Villa,,0.64
-Jarrod Bowen,West Ham,Aston Villa,2024-03-17,True,90,0.0,0.0,0.0,0.16,2,0.0,3.0,6.2,0,1,6.2,0.48,86.79,6,5,10.01,6.91,0.04,10.0,West Ham,False,Newcastle United,-0.75,-0.41
-Jarrod Bowen,West Ham,Newcastle United,2024-03-30,False,90,1.0,0.49,1.0,0.08,10,4.0,1.0,12.0,0,1,7.8,0.76,86.9,6,5,10.01,6.91,0.04,5.0,West Ham,True,Tottenham,-2.08,0.69
-Jarrod Bowen,West Ham,Tottenham,2024-04-02,True,90,0.0,0.15,1.0,0.64,5,2.0,3.0,8.6,0,1,4.8,0.75,87.0,6,5,10.01,6.91,0.04,1.0,West Ham,False,Wolverhampton,2.78,-0.52
-Jarrod Bowen,West Ham,Wolverhampton,2024-04-06,False,53,0.0,0.0,0.0,0.0,1,0.0,1.0,1.8,0,1,4.0,0.55,85.94,6,5,10.01,6.91,0.04,0.0,West Ham,True,Fulham,-5.99,-0.13
-Jarrod Bowen,West Ham,Fulham,,True,0,,,,,0,,,0.0,0,0,3.6,0.53,83.33,6,5,10.01,6.91,0.04,0.0,West Ham,False,Crystal Palace,,0.38
-Jarrod Bowen,West Ham,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,3.2,0.53,80.88,6,5,10.01,6.91,0.04,13.0,West Ham,True,Liverpool,-1.96,0.18
-Jarrod Bowen,West Ham,Liverpool,2024-04-27,True,90,1.0,0.17,1.0,0.35,13,3.0,1.0,11.6,3,1,3.8,0.47,81.14,6,5,10.01,6.91,0.04,2.0,West Ham,False,Chelsea,-1.22,-0.85
-Jarrod Bowen,West Ham,Chelsea,2024-05-05,False,90,0.0,0.3,0.0,0.0,2,4.0,0.0,1.9,0,1,3.2,0.29,81.39,6,5,10.01,6.91,0.04,2.0,West Ham,True,Luton,,
-Jarrod Bowen,West Ham,Luton,2024-05-11,True,90,0.0,1.76,0.0,0.71,2,7.0,3.0,11.1,0,1,3.4,0.65,81.62,6,5,10.01,6.91,0.04,0.0,West Ham,False,Manchester City,3.95,-1.32
-Jarrod Bowen,West Ham,Manchester City,,False,0,,,,,0,,,0.0,0,0,3.4,0.65,79.47,6,5,10.01,6.91,0.04,,West Ham,True,Aston Villa,,0.64
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jarrod Bowen,West Ham,Bournemouth,2023-08-12,False,90,1.0,0.39,0.0,0.64,9,6.0,3.0,11.7,3,1,9.0,0.39,90.0,2.0,West Ham,True,Chelsea,-1.89,-0.25
+Jarrod Bowen,West Ham,Chelsea,2023-08-20,True,90,0.0,0.17,0.0,0.0,2,2.0,0.0,5.5,0,1,5.5,0.28,90.0,12.0,West Ham,False,Brighton,4.55,-0.6
+Jarrod Bowen,West Ham,Brighton,2023-08-26,False,90,1.0,0.75,1.0,0.17,12,3.0,1.0,11.8,2,1,7.67,0.77,90.0,7.0,West Ham,False,Luton,,
+Jarrod Bowen,West Ham,Luton,2023-09-01,False,90,1.0,0.55,0.0,0.0,7,2.0,0.0,9.5,0,1,7.5,0.71,90.0,2.0,West Ham,True,Manchester City,0.78,-0.96
+Jarrod Bowen,West Ham,Manchester City,2023-09-16,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.0,0,1,6.4,0.57,90.0,7.0,West Ham,False,Liverpool,-0.21,-1.01
+Jarrod Bowen,West Ham,Liverpool,2023-09-24,False,90,1.0,0.74,0.0,0.0,7,3.0,0.0,11.3,0,1,6.0,0.64,90.0,9.0,West Ham,True,Sheffield,,0.68
+Jarrod Bowen,West Ham,Sheffield,2023-09-30,True,90,1.0,1.26,0.0,0.45,9,6.0,1.0,13.3,1,1,7.4,0.86,90.0,2.0,West Ham,True,Newcastle United,1.95,0.55
+Jarrod Bowen,West Ham,Newcastle United,2023-10-08,True,90,0.0,0.05,0.0,0.0,2,1.0,0.0,2.8,0,1,5.4,0.52,90.0,8.0,West Ham,False,Aston Villa,-2.62,0.29
+Jarrod Bowen,West Ham,Aston Villa,2023-10-22,False,90,1.0,0.07,0.0,0.0,8,3.0,0.0,6.7,1,1,5.6,0.42,90.0,2.0,West Ham,True,Everton,-3.49,0.53
+Jarrod Bowen,West Ham,Everton,2023-10-29,True,90,0.0,0.41,0.0,0.02,2,4.0,1.0,5.6,0,1,5.6,0.51,90.0,7.0,West Ham,False,Brentford,4.68,-0.53
+Jarrod Bowen,West Ham,Brentford,2023-11-04,False,90,1.0,0.62,0.0,0.63,7,2.0,2.0,10.4,0,1,5.6,0.48,90.0,8.0,West Ham,True,Nottingham Forest,-5.45,1.55
+Jarrod Bowen,West Ham,Nottingham Forest,2023-11-12,True,90,1.0,0.48,0.0,0.03,8,1.0,1.0,9.7,1,1,5.4,0.33,90.0,0.0,West Ham,False,Burnley,0.79,0.0
+Jarrod Bowen,West Ham,Burnley,,False,0,,,,,0,,,0.0,0,0,5.0,0.32,83.08,2.0,West Ham,True,Crystal Palace,1.83,0.88
+Jarrod Bowen,West Ham,Crystal Palace,2023-12-03,True,90,0.0,0.46,0.0,0.0,2,2.0,0.0,4.8,0,1,3.8,0.39,83.57,7.0,West Ham,False,Tottenham,3.93,-0.36
+Jarrod Bowen,West Ham,Tottenham,2023-12-07,False,90,1.0,0.48,0.0,0.02,7,1.0,1.0,7.8,0,1,4.8,0.41,84.0,2.0,West Ham,False,Fulham,-3.42,0.86
+Jarrod Bowen,West Ham,Fulham,2023-12-10,False,90,0.0,0.53,0.0,0.32,2,4.0,1.0,7.1,0,1,3.8,0.39,84.38,8.0,West Ham,True,Wolverhampton,-1.49,0.05
+Jarrod Bowen,West Ham,Wolverhampton,2023-12-17,True,90,1.0,0.27,0.0,0.0,8,3.0,0.0,7.5,0,1,3.8,0.35,84.71,8.0,West Ham,True,Manchester United,-1.13,0.38
+Jarrod Bowen,West Ham,Manchester United,2023-12-23,True,87,1.0,1.08,0.0,0.0,8,4.0,0.0,13.0,0,1,5.4,0.56,84.83,6.0,West Ham,False,Arsenal,2.21,-0.48
+Jarrod Bowen,West Ham,Arsenal,2023-12-28,False,90,0.0,0.0,1.0,0.62,6,0.0,1.0,3.5,0,1,6.2,0.67,85.11,3.0,West Ham,True,Brighton,1.39,-0.66
+Jarrod Bowen,West Ham,Brighton,2024-01-02,True,90,0.0,0.0,0.0,0.25,3,0.0,2.0,5.1,0,1,5.4,0.58,85.35,2.0,West Ham,False,Sheffield,,-0.61
+Jarrod Bowen,West Ham,Sheffield,2024-01-21,False,90,0.0,0.35,0.0,0.0,2,4.0,0.0,2.6,0,1,5.4,0.54,85.57,1.0,West Ham,True,Bournemouth,-2.69,1.22
+Jarrod Bowen,West Ham,Bournemouth,2024-02-01,True,90,0.0,0.38,0.0,0.0,1,3.0,0.0,4.1,0,1,4.0,0.56,85.77,2.0,West Ham,False,Manchester United,1.28,-0.63
+Jarrod Bowen,West Ham,Manchester United,2024-02-04,False,90,0.0,0.12,0.0,0.08,2,2.0,1.0,4.4,0,1,2.8,0.37,85.96,2.0,West Ham,True,Arsenal,,-0.11
+Jarrod Bowen,West Ham,Arsenal,2024-02-11,True,90,0.0,0.06,0.0,0.11,2,2.0,1.0,3.1,0,1,2.0,0.18,86.12,2.0,West Ham,False,Nottingham Forest,1.5,-0.55
+Jarrod Bowen,West Ham,Nottingham Forest,2024-02-17,False,90,0.0,0.1,0.0,0.08,2,2.0,1.0,5.2,0,1,1.8,0.2,86.28,20.0,West Ham,True,Brentford,3.72,0.79
+Jarrod Bowen,West Ham,Brentford,2024-02-26,True,90,3.0,1.22,0.0,0.0,20,3.0,0.0,18.5,3,1,5.4,0.38,86.42,5.0,West Ham,False,Everton,-0.01,-0.24
+Jarrod Bowen,West Ham,Everton,2024-03-02,False,90,0.0,0.0,1.0,0.63,5,0.0,1.0,3.2,0,1,6.2,0.5,86.56,2.0,West Ham,True,Burnley,,0.39
+Jarrod Bowen,West Ham,Burnley,2024-03-10,True,90,0.0,0.09,0.0,0.45,2,2.0,2.0,5.4,0,1,6.2,0.49,86.68,2.0,West Ham,True,Aston Villa,,0.64
+Jarrod Bowen,West Ham,Aston Villa,2024-03-17,True,90,0.0,0.0,0.0,0.16,2,0.0,3.0,6.2,0,1,6.2,0.48,86.79,10.0,West Ham,False,Newcastle United,-0.75,-0.41
+Jarrod Bowen,West Ham,Newcastle United,2024-03-30,False,90,1.0,0.49,1.0,0.08,10,4.0,1.0,12.0,0,1,7.8,0.76,86.9,5.0,West Ham,True,Tottenham,-2.08,0.69
+Jarrod Bowen,West Ham,Tottenham,2024-04-02,True,90,0.0,0.15,1.0,0.64,5,2.0,3.0,8.6,0,1,4.8,0.75,87.0,1.0,West Ham,False,Wolverhampton,2.78,-0.52
+Jarrod Bowen,West Ham,Wolverhampton,2024-04-06,False,53,0.0,0.0,0.0,0.0,1,0.0,1.0,1.8,0,1,4.0,0.55,85.94,0.0,West Ham,True,Fulham,-5.99,-0.13
+Jarrod Bowen,West Ham,Fulham,,True,0,,,,,0,,,0.0,0,0,3.6,0.53,83.33,0.0,West Ham,False,Crystal Palace,,0.38
+Jarrod Bowen,West Ham,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,3.2,0.53,80.88,13.0,West Ham,True,Liverpool,-1.96,0.18
+Jarrod Bowen,West Ham,Liverpool,2024-04-27,True,90,1.0,0.17,1.0,0.35,13,3.0,1.0,11.6,3,1,3.8,0.47,81.14,2.0,West Ham,False,Chelsea,-1.22,-0.85
+Jarrod Bowen,West Ham,Chelsea,2024-05-05,False,90,0.0,0.3,0.0,0.0,2,4.0,0.0,1.9,0,1,3.2,0.29,81.39,2.0,West Ham,True,Luton,,
+Jarrod Bowen,West Ham,Luton,2024-05-11,True,90,0.0,1.76,0.0,0.71,2,7.0,3.0,11.1,0,1,3.4,0.65,81.62,0.0,West Ham,False,Manchester City,3.95,-1.32
+Jarrod Bowen,West Ham,Manchester City,,False,0,,,,,0,,,0.0,0,0,3.4,0.65,79.47,,West Ham,True,Aston Villa,,0.64
