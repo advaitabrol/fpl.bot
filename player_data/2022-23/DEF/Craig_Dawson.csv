@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points
-Craig Dawson,West Ham,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,2.94,1.04,0.19,0,0.0
-Craig Dawson,West Ham,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,2.94,1.04,0.19,0,0.0
-Craig Dawson,West Ham,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,2.94,1.04,0.19,0,0.0
-Craig Dawson,West Ham,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,2.94,1.04,0.19,0,0.0
-Craig Dawson,West Ham,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,2.94,1.04,0.19,0,0.0
-Craig Dawson,West Ham,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,2.94,1.04,0.19,0,0.0
-Craig Dawson,West Ham,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,2.94,1.04,0.19,0,6.0
-Craig Dawson,West Ham,Wolverhampton,2022-10-01,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,0.6,0,1,0,0.0,0,1.2,0.0,11.25,1.0,2.94,1.04,0.19,0,5.0
-Craig Dawson,West Ham,Fulham,2022-10-09,True,90,0.0,0.0,0.0,0.0,5,0.0,0.0,1.6,0,0,1,0.0,0,2.2,0.0,20.0,0.5,2.94,1.04,0.19,0,0.0
-Craig Dawson,West Ham,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.2,0.0,18.0,0.5,2.94,1.04,0.19,0,0.0
-Craig Dawson,West Ham,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.2,0.0,16.36,0.5,2.94,1.04,0.19,0,0.0
-Craig Dawson,West Ham,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.2,0.0,15.0,0.5,2.94,1.04,0.19,0,2.0
-Craig Dawson,West Ham,Manchester United,2022-10-30,False,90,0.0,0.03,0.0,0.09,2,1.0,1.0,3.9,0,0,1,0.0,0,1.4,0.01,20.77,0.33,2.94,1.04,0.19,0,0.0
-Craig Dawson,West Ham,Crystal Palace,2022-11-06,True,90,0.0,0.05,0.0,0.0,0,1.0,0.0,3.0,0,0,2,0.0,0,0.4,0.02,25.71,0.25,2.94,1.04,0.19,0,0.0
-Craig Dawson,West Ham,Leeds United,2022-11-12,True,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.4,0,0,2,1.78,1,0.4,0.02,30.0,0.2,2.94,1.04,0.19,0,1.0
-Craig Dawson,West Ham,Arsenal,2022-12-26,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.5,0,0,3,2.1,1,0.6,0.02,33.75,0.17,2.94,1.04,0.19,0,1.0
-Craig Dawson,West Ham,Brentford,2022-12-30,True,90,0.0,0.29,0.0,0.0,1,4.0,0.0,4.6,0,0,2,1.63,1,0.8,0.07,37.06,0.14,2.94,1.04,0.19,0,1.0
-Craig Dawson,West Ham,Leicester City,2023-01-04,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,2,1.48,1,0.6,0.07,40.0,0.12,2.94,1.04,0.19,0,0.0
-Craig Dawson,West Ham,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.06,37.89,0.12,2.94,1.04,0.19,0,0.0
-Craig Dawson,West Ham,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.06,36.0,0.12,2.94,1.04,0.19,0,12.0
-Craig Dawson,Wolves,Liverpool,2023-02-04,True,90,1.0,0.65,0.0,0.02,12,2.0,1.0,8.5,1,1,0,1.91,1,2.8,0.19,38.57,0.22,2.94,1.04,0.19,0,3.0
-Craig Dawson,Wolves,Southampton,2023-02-11,False,90,0.0,0.0,0.0,0.0,3,0.0,0.0,3.1,1,0,1,1.14,1,3.2,0.13,40.91,0.2,2.94,1.04,0.19,0,2.0
-Craig Dawson,Wolves,Bournemouth,2023-02-18,True,90,0.0,0.05,0.0,0.0,2,2.0,0.0,4.8,0,0,1,1.01,1,3.4,0.14,43.04,0.18,2.94,1.04,0.19,0,2.0
-Craig Dawson,Wolves,Fulham,2023-02-24,False,90,0.0,0.08,0.0,0.0,2,1.0,0.0,1.9,0,0,1,0.47,1,3.8,0.16,45.0,0.17,2.94,1.04,0.19,0,1.0
-Craig Dawson,Wolves,Liverpool,2023-03-01,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.0,0,0,2,2.51,1,4.0,0.16,46.8,0.15,2.94,1.04,0.19,0,8.0
-Craig Dawson,Wolves,Tottenham,2023-03-04,True,90,0.0,0.0,0.0,0.0,8,0.0,0.0,2.7,2,1,0,1.34,1,3.2,0.03,48.46,0.21,2.94,1.04,0.19,0,1.0
-Craig Dawson,Wolves,Newcastle United,2023-03-12,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.9,0,0,2,1.98,1,2.8,0.03,50.0,0.2,2.94,1.04,0.19,0,0.0
-Craig Dawson,Wolves,Leicester City,2023-03-18,True,45,0.0,0.11,0.0,0.0,0,1.0,0.0,1.9,0,0,1,0.33,1,2.4,0.04,49.82,0.19,2.94,1.04,0.19,0,2.0
-Craig Dawson,Wolves,Nottingham Forest,2023-04-01,False,64,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,0,1,0.94,1,2.4,0.02,50.31,0.18,2.94,1.04,0.19,0,6.0
-Craig Dawson,Wolves,Chelsea,2023-04-08,True,90,0.0,0.03,0.0,0.0,6,1.0,0.0,2.6,0,1,0,1.05,1,3.4,0.03,51.63,0.22,2.94,1.04,0.19,0,8.0
-Craig Dawson,Wolves,Brentford,2023-04-15,True,90,0.0,0.0,0.0,0.0,8,0.0,0.0,2.4,2,1,0,1.18,1,3.4,0.03,52.87,0.26,2.94,1.04,0.19,0,1.0
-Craig Dawson,Wolves,Leeds United,2023-04-22,False,90,0.0,0.11,0.0,0.0,1,2.0,0.0,1.9,0,0,2,2.42,1,3.4,0.05,54.03,0.25,2.94,1.04,0.19,0,6.0
-Craig Dawson,Wolves,Crystal Palace,2023-04-25,True,90,0.0,0.06,0.0,0.0,6,1.0,0.0,2.5,0,1,0,0.75,1,4.6,0.04,55.12,0.29,2.94,1.04,0.19,0,-1.0
-Craig Dawson,Wolves,Brighton,2023-04-29,False,45,0.0,0.0,0.0,0.0,-1,0.0,0.0,0.6,0,0,4,1.88,1,4.0,0.04,54.82,0.27,2.94,1.04,0.19,0,7.0
-Craig Dawson,Wolves,Aston Villa,2023-05-06,True,90,0.0,0.0,0.0,0.0,7,0.0,0.0,2.1,1,1,0,1.57,1,4.2,0.03,55.83,0.3,2.94,1.04,0.19,0,0.0
-Craig Dawson,Wolves,Manchester United,2023-05-13,False,90,0.0,0.05,0.0,0.0,0,1.0,0.0,1.8,0,0,2,2.68,1,2.6,0.04,56.78,0.29,2.94,1.04,0.19,0,1.0
-Craig Dawson,Wolves,Everton,2023-05-20,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.7,0,0,1,1.98,1,2.6,0.02,57.68,0.28,2.94,1.04,0.19,0,0.0
-Craig Dawson,Wolves,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.4,0.01,56.16,0.28,2.94,1.04,0.19,0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Craig Dawson,West Ham,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,2.94,1.04,0.19,0,0.0,West Ham,False,Nottingham Forest,,
+Craig Dawson,West Ham,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,2.94,1.04,0.19,0,0.0,West Ham,True,Brighton,-0.14,-0.71
+Craig Dawson,West Ham,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,2.94,1.04,0.19,0,0.0,West Ham,False,Aston Villa,-3.76,0.59
+Craig Dawson,West Ham,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,2.94,1.04,0.19,0,0.0,West Ham,True,Tottenham,-2.12,1.07
+Craig Dawson,West Ham,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,2.94,1.04,0.19,0,0.0,West Ham,False,Chelsea,2.29,-0.72
+Craig Dawson,West Ham,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,2.94,1.04,0.19,0,0.0,West Ham,False,Everton,-1.23,-0.63
+Craig Dawson,West Ham,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,2.94,1.04,0.19,0,6.0,West Ham,True,Wolverhampton,0.78,-0.48
+Craig Dawson,West Ham,Wolverhampton,2022-10-01,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,0.6,0,1,0,0.0,0,1.2,0.0,11.25,1.0,2.94,1.04,0.19,0,5.0,West Ham,True,Fulham,,-0.3
+Craig Dawson,West Ham,Fulham,2022-10-09,True,90,0.0,0.0,0.0,0.0,5,0.0,0.0,1.6,0,0,1,0.0,0,2.2,0.0,20.0,0.5,2.94,1.04,0.19,0,0.0,West Ham,False,Southampton,0.96,-1.07
+Craig Dawson,West Ham,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.2,0.0,18.0,0.5,2.94,1.04,0.19,0,0.0,West Ham,False,Liverpool,0.66,-1.33
+Craig Dawson,West Ham,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.2,0.0,16.36,0.5,2.94,1.04,0.19,0,0.0,West Ham,True,Bournemouth,,1.46
+Craig Dawson,West Ham,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.2,0.0,15.0,0.5,2.94,1.04,0.19,0,2.0,West Ham,False,Manchester United,2.8,-0.1
+Craig Dawson,West Ham,Manchester United,2022-10-30,False,90,0.0,0.03,0.0,0.09,2,1.0,1.0,3.9,0,0,1,0.0,0,1.4,0.01,20.77,0.33,2.94,1.04,0.19,0,0.0,West Ham,True,Crystal Palace,2.25,0.81
+Craig Dawson,West Ham,Crystal Palace,2022-11-06,True,90,0.0,0.05,0.0,0.0,0,1.0,0.0,3.0,0,0,2,0.0,0,0.4,0.02,25.71,0.25,2.94,1.04,0.19,0,0.0,West Ham,True,Leeds United,-5.24,-0.79
+Craig Dawson,West Ham,Leeds United,2022-11-12,True,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.4,0,0,2,1.78,1,0.4,0.02,30.0,0.2,2.94,1.04,0.19,0,1.0,West Ham,False,Arsenal,4.81,-0.0
+Craig Dawson,West Ham,Arsenal,2022-12-26,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.5,0,0,3,2.1,1,0.6,0.02,33.75,0.17,2.94,1.04,0.19,0,1.0,West Ham,True,Brentford,3.83,0.69
+Craig Dawson,West Ham,Brentford,2022-12-30,True,90,0.0,0.29,0.0,0.0,1,4.0,0.0,4.6,0,0,2,1.63,1,0.8,0.07,37.06,0.14,2.94,1.04,0.19,0,1.0,West Ham,False,Leicester City,-1.82,-0.05
+Craig Dawson,West Ham,Leicester City,2023-01-04,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,2,1.48,1,0.6,0.07,40.0,0.12,2.94,1.04,0.19,0,0.0,West Ham,False,Wolverhampton,4.02,-0.46
+Craig Dawson,West Ham,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.06,37.89,0.12,2.94,1.04,0.19,0,0.0,West Ham,True,Everton,-1.75,0.34
+Craig Dawson,West Ham,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.06,36.0,0.12,2.94,1.04,0.19,0,12.0,Wolves,True,Liverpool,0.37,-0.53
+Craig Dawson,Wolves,Liverpool,2023-02-04,True,90,1.0,0.65,0.0,0.02,12,2.0,1.0,8.5,1,1,0,1.91,1,2.8,0.19,38.57,0.22,2.94,1.04,0.19,0,3.0,Wolves,False,Southampton,-2.8,-1.07
+Craig Dawson,Wolves,Southampton,2023-02-11,False,90,0.0,0.0,0.0,0.0,3,0.0,0.0,3.1,1,0,1,1.14,1,3.2,0.13,40.91,0.2,2.94,1.04,0.19,0,2.0,Wolves,True,Bournemouth,,1.46
+Craig Dawson,Wolves,Bournemouth,2023-02-18,True,90,0.0,0.05,0.0,0.0,2,2.0,0.0,4.8,0,0,1,1.01,1,3.4,0.14,43.04,0.18,2.94,1.04,0.19,0,2.0,Wolves,False,Fulham,,1.37
+Craig Dawson,Wolves,Fulham,2023-02-24,False,90,0.0,0.08,0.0,0.0,2,1.0,0.0,1.9,0,0,1,0.47,1,3.8,0.16,45.0,0.17,2.94,1.04,0.19,0,1.0,Wolves,False,Liverpool,,-1.33
+Craig Dawson,Wolves,Liverpool,2023-03-01,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.0,0,0,2,2.51,1,4.0,0.16,46.8,0.15,2.94,1.04,0.19,0,8.0,Wolves,True,Tottenham,2.05,1.07
+Craig Dawson,Wolves,Tottenham,2023-03-04,True,90,0.0,0.0,0.0,0.0,8,0.0,0.0,2.7,2,1,0,1.34,1,3.2,0.03,48.46,0.21,2.94,1.04,0.19,0,1.0,Wolves,False,Newcastle United,,-0.34
+Craig Dawson,Wolves,Newcastle United,2023-03-12,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.9,0,0,2,1.98,1,2.8,0.03,50.0,0.2,2.94,1.04,0.19,0,0.0,Wolves,True,Leicester City,,0.83
+Craig Dawson,Wolves,Leicester City,2023-03-18,True,45,0.0,0.11,0.0,0.0,0,1.0,0.0,1.9,0,0,1,0.33,1,2.4,0.04,49.82,0.19,2.94,1.04,0.19,0,2.0,Wolves,False,Nottingham Forest,,
+Craig Dawson,Wolves,Nottingham Forest,2023-04-01,False,64,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,0,1,0.94,1,2.4,0.02,50.31,0.18,2.94,1.04,0.19,0,6.0,Wolves,True,Chelsea,-1.03,-0.25
+Craig Dawson,Wolves,Chelsea,2023-04-08,True,90,0.0,0.03,0.0,0.0,6,1.0,0.0,2.6,0,1,0,1.05,1,3.4,0.03,51.63,0.22,2.94,1.04,0.19,0,8.0,Wolves,True,Brentford,3.23,0.69
+Craig Dawson,Wolves,Brentford,2023-04-15,True,90,0.0,0.0,0.0,0.0,8,0.0,0.0,2.4,2,1,0,1.18,1,3.4,0.03,52.87,0.26,2.94,1.04,0.19,0,1.0,Wolves,False,Leeds United,0.21,-0.8
+Craig Dawson,Wolves,Leeds United,2023-04-22,False,90,0.0,0.11,0.0,0.0,1,2.0,0.0,1.9,0,0,2,2.42,1,3.4,0.05,54.03,0.25,2.94,1.04,0.19,0,6.0,Wolves,True,Crystal Palace,,0.81
+Craig Dawson,Wolves,Crystal Palace,2023-04-25,True,90,0.0,0.06,0.0,0.0,6,1.0,0.0,2.5,0,1,0,0.75,1,4.6,0.04,55.12,0.29,2.94,1.04,0.19,0,-1.0,Wolves,False,Brighton,-1.83,-0.39
+Craig Dawson,Wolves,Brighton,2023-04-29,False,45,0.0,0.0,0.0,0.0,-1,0.0,0.0,0.6,0,0,4,1.88,1,4.0,0.04,54.82,0.27,2.94,1.04,0.19,0,7.0,Wolves,True,Aston Villa,,0.55
+Craig Dawson,Wolves,Aston Villa,2023-05-06,True,90,0.0,0.0,0.0,0.0,7,0.0,0.0,2.1,1,1,0,1.57,1,4.2,0.03,55.83,0.3,2.94,1.04,0.19,0,0.0,Wolves,False,Manchester United,-0.63,-0.1
+Craig Dawson,Wolves,Manchester United,2023-05-13,False,90,0.0,0.05,0.0,0.0,0,1.0,0.0,1.8,0,0,2,2.68,1,2.6,0.04,56.78,0.29,2.94,1.04,0.19,0,1.0,Wolves,True,Everton,-1.31,0.34
+Craig Dawson,Wolves,Everton,2023-05-20,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.7,0,0,1,1.98,1,2.6,0.02,57.68,0.28,2.94,1.04,0.19,0,0.0,Wolves,False,Arsenal,,-0.0
+Craig Dawson,Wolves,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.4,0.01,56.16,0.28,2.94,1.04,0.19,0,,Wolves,False,Manchester United,-0.63,-0.1

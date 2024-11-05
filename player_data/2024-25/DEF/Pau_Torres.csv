@@ -1,13 +1,12 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Pau Torres,Aston Villa,West Ham,2024-08-17,False,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.1,0.0,0.0,1.0,2.46,1.0,2.0,0.0,90.0,0.0,1.53,0.62,0.23,40.0,1.0,Aston Villa,True,Arsenal,0.99,-0.32
-Pau Torres,Aston Villa,Arsenal,2024-08-24,True,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.9,0.0,0.0,2.0,0.87,1.0,1.5,0.0,90.0,0.0,1.53,0.62,0.23,40.0,2.0,Aston Villa,False,Leicester City,-2.22,-0.22
-Pau Torres,Aston Villa,Leicester City,2024-08-31,False,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,1.0,0.45,1.0,1.67,0.0,90.0,0.0,1.53,0.62,0.23,40.0,1.0,Aston Villa,True,Everton,-2.45,0.61
-Pau Torres,Aston Villa,Everton,2024-09-14,True,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.1,0.0,0.0,2.0,0.9,1.0,1.5,0.0,90.0,0.0,1.53,0.62,0.23,40.0,1.0,Aston Villa,True,Wolverhampton,0.03,-0.08
-Pau Torres,Aston Villa,Wolverhampton,2024-09-21,True,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.51,1.0,1.4,0.0,90.0,0.0,1.53,0.62,0.23,40.0,1.0,Aston Villa,False,Ipswich Town,,
-Pau Torres,Aston Villa,Ipswich Town,2024-09-29,False,90.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,3.8,0.0,0.0,2.0,1.18,1.0,1.2,0.0,90.0,0.0,1.53,0.62,0.23,40.0,6.0,Aston Villa,True,Manchester United,-0.48,0.39
-Pau Torres,Aston Villa,Manchester United,2024-10-06,True,90.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.7,0.0,1.0,0.0,0.52,1.0,2.2,0.0,90.0,0.14,1.53,0.62,0.23,40.0,2.0,Aston Villa,False,Fulham,1.52,0.53
-Pau Torres,Aston Villa,Fulham,2024-10-19,False,90.0,0.0,0.1,0.0,0.0,2.0,1.0,0.0,1.9,0.0,0.0,1.0,1.78,1.0,2.2,0.02,90.0,0.12,1.53,0.62,0.23,40.0,2.0,Aston Villa,True,Bournemouth,-2.54,0.84
-Pau Torres,Aston Villa,Bournemouth,2024-10-26,True,90.0,0.0,0.04,0.0,0.0,2.0,2.0,0.0,3.3,0.0,0.0,1.0,0.31,1.0,2.4,0.03,90.0,0.11,1.53,0.62,0.23,40.0,,,,,,
-,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,False,Tottenham,-1.04,-0.3
+Pau Torres,Aston Villa,,2024-08-17,False,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.1,0.0,0.0,1.0,2.46,1.0,2.0,0.0,90.0,0.0,1.53,0.62,0.23,40.0,1.0,Aston Villa,True,,,
+Pau Torres,Aston Villa,,2024-08-24,True,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.9,0.0,0.0,2.0,0.87,1.0,1.5,0.0,90.0,0.0,1.53,0.62,0.23,40.0,2.0,Aston Villa,False,,,
+Pau Torres,Aston Villa,,2024-08-31,False,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,1.0,0.45,1.0,1.67,0.0,90.0,0.0,1.53,0.62,0.23,40.0,1.0,Aston Villa,True,,,
+Pau Torres,Aston Villa,,2024-09-14,True,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.1,0.0,0.0,2.0,0.9,1.0,1.5,0.0,90.0,0.0,1.53,0.62,0.23,40.0,1.0,Aston Villa,True,,,
+Pau Torres,Aston Villa,,2024-09-21,True,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.51,1.0,1.4,0.0,90.0,0.0,1.53,0.62,0.23,40.0,1.0,Aston Villa,False,,,
+Pau Torres,Aston Villa,,2024-09-29,False,90.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,3.8,0.0,0.0,2.0,1.18,1.0,1.2,0.0,90.0,0.0,1.53,0.62,0.23,40.0,6.0,Aston Villa,True,,,
+Pau Torres,Aston Villa,,2024-10-06,True,90.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.7,0.0,1.0,0.0,0.52,1.0,2.2,0.0,90.0,0.14,1.53,0.62,0.23,40.0,2.0,Aston Villa,False,,,
+Pau Torres,Aston Villa,,2024-10-19,False,90.0,0.0,0.1,0.0,0.0,2.0,1.0,0.0,1.9,0.0,0.0,1.0,1.78,1.0,2.2,0.02,90.0,0.12,1.53,0.62,0.23,40.0,2.0,Aston Villa,True,,,
+Pau Torres,Aston Villa,,2024-10-26,True,90.0,0.0,0.04,0.0,0.0,2.0,2.0,0.0,3.3,0.0,0.0,1.0,0.31,1.0,2.4,0.03,90.0,0.11,1.53,0.62,0.23,40.0,,Aston Villa,False,Tottenham,-1.04,-0.3
 ,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,False,Liverpool,0.36,-1.08
 ,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,True,Crystal Palace,-0.78,0.88

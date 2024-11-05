@@ -1,18 +1,18 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points
-Oliwier Zych,Aston Villa,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
-Oliwier Zych,Aston Villa,Arsenal,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
-Oliwier Zych,Aston Villa,Everton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
-Oliwier Zych,Aston Villa,Crystal Palace,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
-Oliwier Zych,Aston Villa,West Ham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
-Oliwier Zych,Aston Villa,Bournemouth,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
-Oliwier Zych,Aston Villa,Chelsea,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
-Oliwier Zych,Aston Villa,Leeds United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
-Oliwier Zych,Aston Villa,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
-Oliwier Zych,Aston Villa,Newcastle United,2023-04-15,True,0,0,0.0,0,0,0,0,0,0.1,0,0.0,0,0.0,0,0,0.0
-Oliwier Zych,Aston Villa,Brentford,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
-Oliwier Zych,Aston Villa,Fulham,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
-Oliwier Zych,Aston Villa,Manchester United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
-Oliwier Zych,Aston Villa,Wolverhampton,2023-05-06,False,0,0,0.0,0,0,0,0,0,0.5,0,0.0,0,0.0,0,0,0.0
-Oliwier Zych,Aston Villa,Tottenham,2023-05-13,True,0,0,0.0,0,0,0,0,0,0.03,0,0.0,0,0.0,0,0,0.0
-Oliwier Zych,Aston Villa,Liverpool,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0
-Oliwier Zych,Aston Villa,Brighton,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Oliwier Zych,Aston Villa,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Aston Villa,True,Arsenal,0.71,0.36
+Oliwier Zych,Aston Villa,Arsenal,2023-02-18,True,0,0,0.0,0,0,0,0,0,0.6,0,0.0,0,0.0,0,0,0.0,Aston Villa,False,Everton,-0.42,-0.63
+Oliwier Zych,Aston Villa,Everton,2023-02-25,False,0,0,0.0,0,0,0,0,0,0.21,0,0.0,0,0.0,0,0,0.0,Aston Villa,True,Crystal Palace,-0.13,0.81
+Oliwier Zych,Aston Villa,Crystal Palace,2023-03-04,True,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0.0,Aston Villa,False,West Ham,1.86,0.14
+Oliwier Zych,Aston Villa,West Ham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Aston Villa,True,Bournemouth,,1.46
+Oliwier Zych,Aston Villa,Bournemouth,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Aston Villa,False,Chelsea,4.06,-0.72
+Oliwier Zych,Aston Villa,Chelsea,2023-04-01,False,0,0,0.0,0,0,0,0,0,0.11,0,0.0,0,0.0,0,0,0.0,Aston Villa,False,Leeds United,-2.15,-0.8
+Oliwier Zych,Aston Villa,Leeds United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Aston Villa,True,Nottingham Forest,,
+Oliwier Zych,Aston Villa,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Aston Villa,True,Newcastle United,-3.47,0.73
+Oliwier Zych,Aston Villa,Newcastle United,2023-04-15,True,0,0,0.0,0,0,0,0,0,0.13,0,0.0,0,0.0,0,0,0.0,Aston Villa,False,Brentford,0.38,-0.55
+Oliwier Zych,Aston Villa,Brentford,2023-04-22,False,0,0,0.0,0,0,0,0,0,0.07,0,0.0,0,0.0,0,0,0.0,Aston Villa,True,Fulham,,-0.3
+Oliwier Zych,Aston Villa,Fulham,2023-04-25,True,0,0,0.0,0,0,0,0,0,0.06,0,0.0,0,0.0,0,0,0.0,Aston Villa,False,Manchester United,-1.29,-0.1
+Oliwier Zych,Aston Villa,Manchester United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Aston Villa,False,Wolverhampton,1.31,-0.46
+Oliwier Zych,Aston Villa,Wolverhampton,2023-05-06,False,0,0,0.0,0,0,0,0,0,0.09,0,0.0,0,0.0,0,0,0.0,Aston Villa,True,Tottenham,5.76,1.07
+Oliwier Zych,Aston Villa,Tottenham,2023-05-13,True,0,0,0.0,0,0,0,0,0,0.29,0,0.0,0,0.0,0,0,0.0,Aston Villa,False,Liverpool,0.83,-1.33
+Oliwier Zych,Aston Villa,Liverpool,2023-05-20,False,0,0,0.0,0,0,0,0,0,0.03,0,0.0,0,0.0,0,0,0.0,Aston Villa,True,Brighton,-3.72,-0.71
+Oliwier Zych,Aston Villa,Brighton,2023-05-28,True,0,0,0.0,0,0,0,0,0,0.57,0,0.0,0,0.0,0,0,0.0,Aston Villa,False,Burnley,-3.46,0.0

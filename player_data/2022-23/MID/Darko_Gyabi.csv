@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
-Darko Gyabi,Leeds,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Darko Gyabi,Leeds,Southampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Darko Gyabi,Leeds,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Darko Gyabi,Leeds,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Darko Gyabi,Leeds,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Darko Gyabi,Leeds,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Darko Gyabi,Leeds,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Darko Gyabi,Leeds,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Darko Gyabi,Leeds,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Darko Gyabi,Leeds,Leeds United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Darko Gyabi,Leeds,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Darko Gyabi,Leeds,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Darko Gyabi,Leeds,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Darko Gyabi,Leeds,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,1.0
-Darko Gyabi,Leeds,Manchester City,2022-12-28,True,7,0.0,0.07,0.0,0.0,1,1.0,0.0,2.5,0,0,0.2,0.01,0.47,0.0
-Darko Gyabi,Leeds,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.2,0.01,0.44,0.0
-Darko Gyabi,Leeds,West Ham,,True,0,,,,,0,,,0.0,0,0,0.2,0.01,0.41,0.0
-Darko Gyabi,Leeds,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.2,0.01,0.39,0.0
-Darko Gyabi,Leeds,Brentford,,True,0,,,,,0,,,0.0,0,0,0.2,0.01,0.37,0.0
-Darko Gyabi,Leeds,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.35,0.0
-Darko Gyabi,Leeds,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.33,0.0
-Darko Gyabi,Leeds,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.32,0.0
-Darko Gyabi,Leeds,Everton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.3,0.0
-Darko Gyabi,Leeds,Southampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.29,0.0
-Darko Gyabi,Leeds,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.28,0.0
-Darko Gyabi,Leeds,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.27,0.0
-Darko Gyabi,Leeds,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.26,0.0
-Darko Gyabi,Leeds,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.25,0.0
-Darko Gyabi,Leeds,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.24,0.0
-Darko Gyabi,Leeds,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.23,0.0
-Darko Gyabi,Leeds,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.23,0.0
-Darko Gyabi,Leeds,Fulham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.22,0.0
-Darko Gyabi,Leeds,Leeds United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.21,0.0
-Darko Gyabi,Leeds,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.21,0.0
-Darko Gyabi,Leeds,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.2,0.0
-Darko Gyabi,Leeds,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.19,0.0
-Darko Gyabi,Leeds,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.19,0.0
-Darko Gyabi,Leeds,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.18,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Darko Gyabi,Leeds,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leeds,False,Southampton,-2.03,-1.07
+Darko Gyabi,Leeds,Southampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leeds,True,Chelsea,-0.38,-0.25
+Darko Gyabi,Leeds,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leeds,False,Brighton,-0.04,-0.39
+Darko Gyabi,Leeds,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leeds,True,Everton,2.73,0.34
+Darko Gyabi,Leeds,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leeds,False,Brentford,-0.35,-0.55
+Darko Gyabi,Leeds,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leeds,True,Aston Villa,-4.91,0.55
+Darko Gyabi,Leeds,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leeds,False,Crystal Palace,-1.48,0.13
+Darko Gyabi,Leeds,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leeds,True,Arsenal,-2.44,0.36
+Darko Gyabi,Leeds,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leeds,False,Leeds United,,-0.8
+Darko Gyabi,Leeds,Leeds United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leeds,True,Fulham,,-0.3
+Darko Gyabi,Leeds,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leeds,False,Liverpool,1.31,-1.33
+Darko Gyabi,Leeds,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leeds,True,Bournemouth,,1.46
+Darko Gyabi,Leeds,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leeds,False,Tottenham,0.01,-0.03
+Darko Gyabi,Leeds,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,1.0,Leeds,True,Manchester City,2.49,-1.17
+Darko Gyabi,Leeds,Manchester City,2022-12-28,True,7,0.0,0.07,0.0,0.0,1,1.0,0.0,2.5,0,0,0.2,0.01,0.47,0.0,Leeds,False,Newcastle United,-5.11,-0.34
+Darko Gyabi,Leeds,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.2,0.01,0.44,0.0,Leeds,True,West Ham,-2.86,0.63
+Darko Gyabi,Leeds,West Ham,,True,0,,,,,0,,,0.0,0,0,0.2,0.01,0.41,0.0,Leeds,False,Aston Villa,-1.61,0.59
+Darko Gyabi,Leeds,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.2,0.01,0.39,0.0,Leeds,True,Brentford,-0.12,0.69
+Darko Gyabi,Leeds,Brentford,,True,0,,,,,0,,,0.0,0,0,0.2,0.01,0.37,0.0,Leeds,False,Nottingham Forest,,
+Darko Gyabi,Leeds,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.35,0.0,Leeds,False,Manchester United,2.58,-0.1
+Darko Gyabi,Leeds,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.33,0.0,Leeds,True,Manchester United,1.7,0.38
+Darko Gyabi,Leeds,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.32,0.0,Leeds,False,Everton,0.25,-0.63
+Darko Gyabi,Leeds,Everton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.3,0.0,Leeds,True,Southampton,-6.93,-0.38
+Darko Gyabi,Leeds,Southampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.29,0.0,Leeds,False,Chelsea,1.91,-0.72
+Darko Gyabi,Leeds,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.28,0.0,Leeds,True,Brighton,,-0.71
+Darko Gyabi,Leeds,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.27,0.0,Leeds,False,Wolverhampton,-3.79,-0.46
+Darko Gyabi,Leeds,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.26,0.0,Leeds,False,Arsenal,0.14,-0.0
+Darko Gyabi,Leeds,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.25,0.0,Leeds,True,Nottingham Forest,1.75,
+Darko Gyabi,Leeds,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.24,0.0,Leeds,True,Crystal Palace,1.78,0.81
+Darko Gyabi,Leeds,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.23,0.0,Leeds,True,Liverpool,0.62,-0.53
+Darko Gyabi,Leeds,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.23,0.0,Leeds,False,Fulham,,1.37
+Darko Gyabi,Leeds,Fulham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.22,0.0,Leeds,True,Leeds United,,-0.79
+Darko Gyabi,Leeds,Leeds United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.21,0.0,Leeds,False,Bournemouth,0.09,0.19
+Darko Gyabi,Leeds,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.21,0.0,Leeds,False,Manchester City,4.57,-1.26
+Darko Gyabi,Leeds,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.2,0.0,Leeds,True,Newcastle United,-0.68,0.73
+Darko Gyabi,Leeds,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.19,0.0,Leeds,False,West Ham,0.82,0.14
+Darko Gyabi,Leeds,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.19,0.0,Leeds,True,Tottenham,-4.61,1.07
+Darko Gyabi,Leeds,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.18,,Wolves,False,Manchester United,-0.63,-0.1

@@ -1,23 +1,23 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Isaac Price,Everton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,Brighton,2023-01-03,True,32,0.0,0.0,0.0,0.03,0,0.0,1.0,2.5,0,0,0.0,0.0,16.0,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,Southampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,10.67,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,8.0,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,6.4,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,5.33,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,Leicester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,4.57,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,4.0,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,3.56,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,3.2,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.91,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,2.67,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.46,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,2.29,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.13,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,2.0,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.88,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,Leeds United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.78,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.68,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.6,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.52,0.0,0.0,0.27,0.0,0.08,0.0
-Isaac Price,Everton,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.45,0.0,0.0,0.27,0.0,0.08,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Isaac Price,Everton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.27,0.0,0.08,0.0,Everton,True,Brighton,-1.26,-0.71
+Isaac Price,Everton,Brighton,2023-01-03,True,32,0.0,0.0,0.0,0.03,0,0.0,1.0,2.5,0,0,0.0,0.0,16.0,0.0,0.0,0.27,0.0,0.08,0.0,Everton,True,Southampton,-6.12,-0.38
+Isaac Price,Everton,Southampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,10.67,0.0,0.0,0.27,0.0,0.08,0.0,Everton,False,West Ham,2.96,0.14
+Isaac Price,Everton,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,8.0,0.0,0.0,0.27,0.0,0.08,0.0,Everton,True,Arsenal,-2.74,0.36
+Isaac Price,Everton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,6.4,0.0,0.0,0.27,0.0,0.08,0.0,Everton,False,Liverpool,0.23,-1.33
+Isaac Price,Everton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,5.33,0.0,0.0,0.27,0.0,0.08,0.0,Everton,True,Leicester City,-6.39,0.83
+Isaac Price,Everton,Leicester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,4.57,0.0,0.0,0.27,0.0,0.08,0.0,Everton,True,Aston Villa,0.09,0.55
+Isaac Price,Everton,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,4.0,0.0,0.0,0.27,0.0,0.08,0.0,Everton,False,Arsenal,3.18,-0.0
+Isaac Price,Everton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,3.56,0.0,0.0,0.27,0.0,0.08,0.0,Everton,False,Nottingham Forest,,
+Isaac Price,Everton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,3.2,0.0,0.0,0.27,0.0,0.08,0.0,Everton,True,Brentford,-2.68,0.69
+Isaac Price,Everton,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.91,0.0,0.0,0.27,0.0,0.08,0.0,Everton,False,Chelsea,-1.5,-0.72
+Isaac Price,Everton,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,2.67,0.0,0.0,0.27,0.0,0.08,0.0,Everton,True,Tottenham,1.66,1.07
+Isaac Price,Everton,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.46,0.0,0.0,0.27,0.0,0.08,0.0,Everton,False,Manchester United,-2.79,-0.1
+Isaac Price,Everton,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,2.29,0.0,0.0,0.27,0.0,0.08,0.0,Everton,True,Fulham,,-0.3
+Isaac Price,Everton,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.13,0.0,0.0,0.27,0.0,0.08,0.0,Everton,False,Crystal Palace,1.58,0.13
+Isaac Price,Everton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,2.0,0.0,0.0,0.27,0.0,0.08,0.0,Everton,True,Newcastle United,-2.32,0.73
+Isaac Price,Everton,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.88,0.0,0.0,0.27,0.0,0.08,0.0,Everton,False,Leeds United,-3.91,-0.8
+Isaac Price,Everton,Leeds United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.78,0.0,0.0,0.27,0.0,0.08,0.0,Everton,False,Brighton,-5.19,-0.39
+Isaac Price,Everton,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.68,0.0,0.0,0.27,0.0,0.08,0.0,Everton,True,Manchester City,1.16,-1.17
+Isaac Price,Everton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.6,0.0,0.0,0.27,0.0,0.08,0.0,Everton,False,Wolverhampton,0.33,-0.46
+Isaac Price,Everton,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.52,0.0,0.0,0.27,0.0,0.08,0.0,Everton,True,Bournemouth,,1.46
+Isaac Price,Everton,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.45,0.0,0.0,0.27,0.0,0.08,,Wolves,False,Manchester United,-0.63,-0.1

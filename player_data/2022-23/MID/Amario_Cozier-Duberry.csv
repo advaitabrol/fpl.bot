@@ -1,25 +1,25 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
-Amario Cozier-Duberry,Arsenal,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Everton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Aston Villa,2023-02-18,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Leeds United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Fulham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Leicester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Southampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Amario Cozier-Duberry,Arsenal,Wolverhampton,2023-05-28,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Amario Cozier-Duberry,Arsenal,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Brighton,-0.75,-0.39
+Amario Cozier-Duberry,Arsenal,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Newcastle United,-2.77,0.73
+Amario Cozier-Duberry,Arsenal,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Tottenham,3.44,-0.03
+Amario Cozier-Duberry,Arsenal,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Manchester United,-1.99,0.38
+Amario Cozier-Duberry,Arsenal,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Everton,1.42,-0.63
+Amario Cozier-Duberry,Arsenal,Everton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Brentford,-1.07,0.69
+Amario Cozier-Duberry,Arsenal,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Manchester City,0.98,-1.17
+Amario Cozier-Duberry,Arsenal,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Aston Villa,-0.61,0.59
+Amario Cozier-Duberry,Arsenal,Aston Villa,2023-02-18,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Leeds United,-2.61,-0.8
+Amario Cozier-Duberry,Arsenal,Leeds United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Everton,-3.92,0.34
+Amario Cozier-Duberry,Arsenal,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Bournemouth,,1.46
+Amario Cozier-Duberry,Arsenal,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Fulham,,1.37
+Amario Cozier-Duberry,Arsenal,Fulham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Crystal Palace,-0.14,0.81
+Amario Cozier-Duberry,Arsenal,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Leicester City,-1.05,0.83
+Amario Cozier-Duberry,Arsenal,Leicester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Liverpool,4.27,-1.33
+Amario Cozier-Duberry,Arsenal,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,West Ham,-1.3,0.14
+Amario Cozier-Duberry,Arsenal,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Southampton,-3.78,-0.38
+Amario Cozier-Duberry,Arsenal,Southampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Manchester City,4.53,-1.26
+Amario Cozier-Duberry,Arsenal,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Chelsea,2.07,-0.25
+Amario Cozier-Duberry,Arsenal,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Newcastle United,2.11,-0.34
+Amario Cozier-Duberry,Arsenal,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Brighton,,-0.71
+Amario Cozier-Duberry,Arsenal,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Nottingham Forest,,
+Amario Cozier-Duberry,Arsenal,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Wolverhampton,,-0.48
+Amario Cozier-Duberry,Arsenal,Wolverhampton,2023-05-28,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,,Nott'm Forest,False,Arsenal,4.71,-0.0

@@ -1,29 +1,29 @@
-name,team,opponent_team,date,was_home,position,minutes,xG,total_points,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points
-Joe Wormleighton,Leicester,Leicester City,,True,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Wolverhampton,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Manchester City,2022-10-29,True,DEF,0,2.88,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Everton,2022-11-05,False,DEF,0,1.87,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,West Ham,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Newcastle United,2022-12-26,True,DEF,0,1.01,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Liverpool,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Fulham,2023-01-03,True,DEF,0,2.51,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Nottingham Forest,2023-01-14,False,DEF,0,2.4,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Brighton,2023-01-21,True,DEF,0,1.94,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Aston Villa,2023-02-04,False,DEF,0,2.56,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Tottenham,2023-02-11,True,DEF,0,2.65,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Manchester United,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Arsenal,,True,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Southampton,2023-03-04,False,DEF,0,3.5,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Chelsea,2023-03-11,True,DEF,0,1.51,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Brentford,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Crystal Palace,2023-04-01,False,DEF,0,3.82,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Aston Villa,2023-04-04,True,DEF,0,2.63,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Bournemouth,2023-04-08,True,DEF,0,1.48,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Manchester City,2023-04-15,False,DEF,0,2.52,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Wolverhampton,,True,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Leicester City,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Everton,,True,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Fulham,2023-05-08,False,DEF,0,3.24,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Liverpool,,True,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,Newcastle United,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0
-Joe Wormleighton,Leicester,West Ham,2023-05-28,True,DEF,0,1.23,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,
+name,team,opponent_team,date,was_home,position,minutes,xG,total_points,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Joe Wormleighton,Leicester,Leicester City,,True,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,False,Wolverhampton,3.01,-0.46
+Joe Wormleighton,Leicester,Wolverhampton,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,True,Manchester City,2.25,-1.17
+Joe Wormleighton,Leicester,Manchester City,2022-10-29,True,DEF,0,2.88,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,False,Everton,1.31,-0.63
+Joe Wormleighton,Leicester,Everton,2022-11-05,False,DEF,0,1.87,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,False,West Ham,-0.48,0.14
+Joe Wormleighton,Leicester,West Ham,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,True,Newcastle United,2.07,0.73
+Joe Wormleighton,Leicester,Newcastle United,2022-12-26,True,DEF,0,1.01,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,False,Liverpool,-0.04,-1.33
+Joe Wormleighton,Leicester,Liverpool,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,True,Fulham,,-0.3
+Joe Wormleighton,Leicester,Fulham,2023-01-03,True,DEF,0,2.51,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,False,Nottingham Forest,,
+Joe Wormleighton,Leicester,Nottingham Forest,2023-01-14,False,DEF,0,2.4,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,True,Brighton,-0.74,-0.71
+Joe Wormleighton,Leicester,Brighton,2023-01-21,True,DEF,0,1.94,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,False,Aston Villa,-0.96,0.59
+Joe Wormleighton,Leicester,Aston Villa,2023-02-04,False,DEF,0,2.56,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,True,Tottenham,3.95,1.07
+Joe Wormleighton,Leicester,Tottenham,2023-02-11,True,DEF,0,2.65,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,False,Manchester United,0.11,-0.1
+Joe Wormleighton,Leicester,Manchester United,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,True,Arsenal,-1.32,0.36
+Joe Wormleighton,Leicester,Arsenal,,True,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,False,Southampton,-3.27,-1.07
+Joe Wormleighton,Leicester,Southampton,2023-03-04,False,DEF,0,3.5,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,True,Chelsea,-2.98,-0.25
+Joe Wormleighton,Leicester,Chelsea,2023-03-11,True,DEF,0,1.51,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,False,Brentford,-4.9,-0.55
+Joe Wormleighton,Leicester,Brentford,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,False,Crystal Palace,2.07,0.13
+Joe Wormleighton,Leicester,Crystal Palace,2023-04-01,False,DEF,0,3.82,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,True,Aston Villa,-0.34,0.55
+Joe Wormleighton,Leicester,Aston Villa,2023-04-04,True,DEF,0,2.63,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,True,Bournemouth,,1.46
+Joe Wormleighton,Leicester,Bournemouth,2023-04-08,True,DEF,0,1.48,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,False,Manchester City,1.46,-1.26
+Joe Wormleighton,Leicester,Manchester City,2023-04-15,False,DEF,0,2.52,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,True,Wolverhampton,-1.75,-0.48
+Joe Wormleighton,Leicester,Wolverhampton,,True,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,False,Leicester City,1.46,-0.05
+Joe Wormleighton,Leicester,Leicester City,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,True,Everton,4.46,0.34
+Joe Wormleighton,Leicester,Everton,,True,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,False,Fulham,,1.37
+Joe Wormleighton,Leicester,Fulham,2023-05-08,False,DEF,0,3.24,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,True,Liverpool,-0.21,-0.53
+Joe Wormleighton,Leicester,Liverpool,,True,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,False,Newcastle United,1.84,-0.34
+Joe Wormleighton,Leicester,Newcastle United,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,0.0,Leicester,True,West Ham,-0.48,0.63
+Joe Wormleighton,Leicester,West Ham,2023-05-28,True,DEF,0,1.23,0,0.0,0,0,0,0.0,0,0.0,0,0.0,0,,Man City,False,Burnley,,0.0

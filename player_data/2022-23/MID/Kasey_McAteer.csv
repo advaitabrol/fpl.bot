@@ -1,22 +1,22 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Kasey McAteer,Leicester,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
-Kasey McAteer,Leicester,Nottingham Forest,2023-01-14,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
-Kasey McAteer,Leicester,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
-Kasey McAteer,Leicester,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
-Kasey McAteer,Leicester,Tottenham,2023-02-11,True,0,0.0,0.0,0.0,0.02,0,0.0,1.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
-Kasey McAteer,Leicester,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
-Kasey McAteer,Leicester,Arsenal,2023-02-25,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
-Kasey McAteer,Leicester,Southampton,2023-03-04,False,0,0.0,0.0,0.0,0.11,0,0.0,1.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
-Kasey McAteer,Leicester,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
-Kasey McAteer,Leicester,Brentford,2023-03-18,False,0,0.0,0.01,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
-Kasey McAteer,Leicester,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
-Kasey McAteer,Leicester,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
-Kasey McAteer,Leicester,Bournemouth,2023-04-08,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
-Kasey McAteer,Leicester,Manchester City,2023-04-15,False,0,0.0,0.0,0.0,0.01,0,0.0,1.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
-Kasey McAteer,Leicester,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
-Kasey McAteer,Leicester,Leicester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
-Kasey McAteer,Leicester,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
-Kasey McAteer,Leicester,Fulham,2023-05-08,False,0,0.0,0.0,0.0,0.05,0,0.0,2.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
-Kasey McAteer,Leicester,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
-Kasey McAteer,Leicester,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
-Kasey McAteer,Leicester,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Kasey McAteer,Leicester,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,Leicester,False,Nottingham Forest,,
+Kasey McAteer,Leicester,Nottingham Forest,2023-01-14,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,Leicester,True,Brighton,-0.74,-0.71
+Kasey McAteer,Leicester,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,Leicester,False,Aston Villa,-0.96,0.59
+Kasey McAteer,Leicester,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,Leicester,True,Tottenham,3.95,1.07
+Kasey McAteer,Leicester,Tottenham,2023-02-11,True,0,0.0,0.0,0.0,0.02,0,0.0,1.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,Leicester,False,Manchester United,0.11,-0.1
+Kasey McAteer,Leicester,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,Leicester,True,Arsenal,-1.32,0.36
+Kasey McAteer,Leicester,Arsenal,2023-02-25,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,Leicester,False,Southampton,-3.27,-1.07
+Kasey McAteer,Leicester,Southampton,2023-03-04,False,0,0.0,0.0,0.0,0.11,0,0.0,1.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,Leicester,True,Chelsea,-2.98,-0.25
+Kasey McAteer,Leicester,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,Leicester,False,Brentford,-4.9,-0.55
+Kasey McAteer,Leicester,Brentford,2023-03-18,False,0,0.0,0.01,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,Leicester,False,Crystal Palace,2.07,0.13
+Kasey McAteer,Leicester,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,Leicester,True,Aston Villa,-0.34,0.55
+Kasey McAteer,Leicester,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,Leicester,True,Bournemouth,,1.46
+Kasey McAteer,Leicester,Bournemouth,2023-04-08,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,Leicester,False,Manchester City,1.46,-1.26
+Kasey McAteer,Leicester,Manchester City,2023-04-15,False,0,0.0,0.0,0.0,0.01,0,0.0,1.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,Leicester,True,Wolverhampton,-1.75,-0.48
+Kasey McAteer,Leicester,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,Leicester,False,Leicester City,1.46,-0.05
+Kasey McAteer,Leicester,Leicester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,Leicester,True,Everton,4.46,0.34
+Kasey McAteer,Leicester,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,Leicester,False,Fulham,,1.37
+Kasey McAteer,Leicester,Fulham,2023-05-08,False,0,0.0,0.0,0.0,0.05,0,0.0,2.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,Leicester,True,Liverpool,-0.21,-0.53
+Kasey McAteer,Leicester,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,Leicester,False,Newcastle United,1.84,-0.34
+Kasey McAteer,Leicester,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,Leicester,True,West Ham,-0.48,0.63
+Kasey McAteer,Leicester,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,,Wolves,False,Manchester United,-0.63,-0.1

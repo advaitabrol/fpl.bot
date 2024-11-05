@@ -1,19 +1,19 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
-Antoine Semenyo,Bournemouth,Brighton,2023-02-04,False,90,0.0,0.23,0.0,0.0,2,1.0,0.0,1.3,0,1,2.0,0.23,90.0,1.0
-Antoine Semenyo,Bournemouth,Newcastle United,2023-02-11,True,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1.5,0.11,50.5,1.0
-Antoine Semenyo,Bournemouth,Wolverhampton,2023-02-18,False,32,0.0,0.0,0.0,0.04,1,0.0,1.0,1.3,0,0,1.33,0.08,44.33,0.0
-Antoine Semenyo,Bournemouth,Manchester City,,True,0,,,,,0,,,0.0,0,0,1.0,0.06,33.25,2.0
-Antoine Semenyo,Bournemouth,Arsenal,2023-03-04,False,63,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,1,1.2,0.05,39.2,1.0
-Antoine Semenyo,Bournemouth,Liverpool,2023-03-11,True,2,0.0,0.05,0.0,0.0,1,1.0,0.0,0.5,0,0,1.0,0.01,33.0,1.0
-Antoine Semenyo,Bournemouth,Aston Villa,2023-03-18,False,31,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1.0,0.01,32.71,1.0
-Antoine Semenyo,Bournemouth,Fulham,2023-04-01,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1.0,0.01,28.75,1.0
-Antoine Semenyo,Bournemouth,Brighton,2023-04-04,True,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1.2,0.01,26.11,1.0
-Antoine Semenyo,Bournemouth,Leeds United,2023-04-08,False,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1.0,0.01,23.7,0.0
-Antoine Semenyo,Bournemouth,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.8,0.0,21.55,0.0
-Antoine Semenyo,Bournemouth,West Ham,,True,0,,,,,0,,,0.0,0,0,0.6,0.0,19.75,0.0
-Antoine Semenyo,Bournemouth,Southampton,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,18.23,6.0
-Antoine Semenyo,Bournemouth,Leicester City,2023-04-30,True,7,1.0,0.09,0.0,0.0,6,1.0,0.0,5.0,1,0,1.4,0.02,17.43,1.0
-Antoine Semenyo,Bournemouth,Chelsea,2023-05-06,True,6,0.0,0.0,0.0,0.04,1,0.0,1.0,1.3,0,0,1.4,0.02,16.67,0.0
-Antoine Semenyo,Bournemouth,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,1.4,0.02,15.62,0.0
-Antoine Semenyo,Bournemouth,Manchester United,,True,0,,,,,0,,,0.0,0,0,1.4,0.02,14.71,0.0
-Antoine Semenyo,Bournemouth,Everton,,False,0,,,,,0,,,0.0,0,0,1.4,0.02,13.89,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Antoine Semenyo,Bournemouth,Brighton,2023-02-04,False,90,0.0,0.23,0.0,0.0,2,1.0,0.0,1.3,0,1,2.0,0.23,90.0,1.0,Bournemouth,True,Newcastle United,,0.73
+Antoine Semenyo,Bournemouth,Newcastle United,2023-02-11,True,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1.5,0.11,50.5,1.0,Bournemouth,False,Wolverhampton,,-0.46
+Antoine Semenyo,Bournemouth,Wolverhampton,2023-02-18,False,32,0.0,0.0,0.0,0.04,1,0.0,1.0,1.3,0,0,1.33,0.08,44.33,0.0,Bournemouth,True,Manchester City,,-1.17
+Antoine Semenyo,Bournemouth,Manchester City,,True,0,,,,,0,,,0.0,0,0,1.0,0.06,33.25,2.0,Bournemouth,False,Arsenal,,-0.0
+Antoine Semenyo,Bournemouth,Arsenal,2023-03-04,False,63,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,1,1.2,0.05,39.2,1.0,Bournemouth,True,Liverpool,,-0.53
+Antoine Semenyo,Bournemouth,Liverpool,2023-03-11,True,2,0.0,0.05,0.0,0.0,1,1.0,0.0,0.5,0,0,1.0,0.01,33.0,1.0,Bournemouth,False,Aston Villa,,0.59
+Antoine Semenyo,Bournemouth,Aston Villa,2023-03-18,False,31,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1.0,0.01,32.71,1.0,Bournemouth,True,Fulham,,-0.3
+Antoine Semenyo,Bournemouth,Fulham,2023-04-01,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1.0,0.01,28.75,1.0,Bournemouth,True,Brighton,,-0.71
+Antoine Semenyo,Bournemouth,Brighton,2023-04-04,True,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1.2,0.01,26.11,1.0,Bournemouth,False,Leeds United,,-0.8
+Antoine Semenyo,Bournemouth,Leeds United,2023-04-08,False,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1.0,0.01,23.7,0.0,Bournemouth,False,Tottenham,,-0.03
+Antoine Semenyo,Bournemouth,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.8,0.0,21.55,0.0,Bournemouth,True,West Ham,,0.63
+Antoine Semenyo,Bournemouth,West Ham,,True,0,,,,,0,,,0.0,0,0,0.6,0.0,19.75,0.0,Bournemouth,False,Southampton,,-1.07
+Antoine Semenyo,Bournemouth,Southampton,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,18.23,6.0,Bournemouth,True,Leicester City,,0.83
+Antoine Semenyo,Bournemouth,Leicester City,2023-04-30,True,7,1.0,0.09,0.0,0.0,6,1.0,0.0,5.0,1,0,1.4,0.02,17.43,1.0,Bournemouth,True,Chelsea,,-0.25
+Antoine Semenyo,Bournemouth,Chelsea,2023-05-06,True,6,0.0,0.0,0.0,0.04,1,0.0,1.0,1.3,0,0,1.4,0.02,16.67,0.0,Bournemouth,False,Crystal Palace,,0.13
+Antoine Semenyo,Bournemouth,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,1.4,0.02,15.62,0.0,Bournemouth,True,Manchester United,,0.38
+Antoine Semenyo,Bournemouth,Manchester United,,True,0,,,,,0,,,0.0,0,0,1.4,0.02,14.71,0.0,Bournemouth,False,Everton,,-0.63
+Antoine Semenyo,Bournemouth,Everton,,False,0,,,,,0,,,0.0,0,0,1.4,0.02,13.89,,Bournemouth,True,West Ham,,0.63

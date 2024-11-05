@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
-Dele Alli,Everton,Chelsea,2022-08-06,True,29,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1.0,0.0,29.0,1.0
-Dele Alli,Everton,Aston Villa,2022-08-13,False,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1.0,0.0,19.0,0.0
-Dele Alli,Everton,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.67,0.0,12.67,0.0
-Dele Alli,Everton,Brentford,,False,0,,,,,0,,,0.0,0,0,0.5,0.0,9.5,0.0
-Dele Alli,Everton,Leicester City,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,7.6,0.0
-Dele Alli,Everton,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,6.33,0.0
-Dele Alli,Everton,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,5.43,0.0
-Dele Alli,Everton,Southampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,4.75,0.0
-Dele Alli,Everton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,4.22,0.0
-Dele Alli,Everton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,3.8,0.0
-Dele Alli,Everton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,3.45,0.0
-Dele Alli,Everton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,3.17,0.0
-Dele Alli,Everton,Fulham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,2.92,0.0
-Dele Alli,Everton,Leeds United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.71,0.0
-Dele Alli,Everton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,2.53,0.0
-Dele Alli,Everton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.38,0.0
-Dele Alli,Everton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,2.24,0.0
-Dele Alli,Everton,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.11,0.0
-Dele Alli,Everton,Southampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.0,0.0
-Dele Alli,Everton,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.9,0.0
-Dele Alli,Everton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.81,0.0
-Dele Alli,Everton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.73,0.0
-Dele Alli,Everton,Leicester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.65,0.0
-Dele Alli,Everton,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.58,0.0
-Dele Alli,Everton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.52,0.0
-Dele Alli,Everton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.46,0.0
-Dele Alli,Everton,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.41,0.0
-Dele Alli,Everton,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.36,0.0
-Dele Alli,Everton,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.31,0.0
-Dele Alli,Everton,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.27,0.0
-Dele Alli,Everton,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.23,0.0
-Dele Alli,Everton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.19,0.0
-Dele Alli,Everton,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.15,0.0
-Dele Alli,Everton,Leeds United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.12,0.0
-Dele Alli,Everton,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.09,0.0
-Dele Alli,Everton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.06,0.0
-Dele Alli,Everton,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.03,0.0
-Dele Alli,Everton,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Dele Alli,Everton,Chelsea,2022-08-06,True,29,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1.0,0.0,29.0,1.0,Everton,False,Aston Villa,2.84,0.59
+Dele Alli,Everton,Aston Villa,2022-08-13,False,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1.0,0.0,19.0,0.0,Everton,True,Nottingham Forest,,
+Dele Alli,Everton,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.67,0.0,12.67,0.0,Everton,False,Brentford,2.96,-0.55
+Dele Alli,Everton,Brentford,,False,0,,,,,0,,,0.0,0,0,0.5,0.0,9.5,0.0,Everton,False,Leicester City,-2.26,-0.05
+Dele Alli,Everton,Leicester City,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,7.6,0.0,Everton,True,Liverpool,2.54,-0.53
+Dele Alli,Everton,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,6.33,0.0,Everton,True,West Ham,1.95,0.63
+Dele Alli,Everton,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,5.43,0.0,Everton,False,Southampton,4.15,-1.07
+Dele Alli,Everton,Southampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,4.75,0.0,Everton,True,Manchester United,-3.63,0.38
+Dele Alli,Everton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,4.22,0.0,Everton,False,Tottenham,5.72,-0.03
+Dele Alli,Everton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,3.8,0.0,Everton,False,Newcastle United,2.79,-0.34
+Dele Alli,Everton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,3.45,0.0,Everton,True,Crystal Palace,-2.12,0.81
+Dele Alli,Everton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,3.17,0.0,Everton,False,Fulham,,1.37
+Dele Alli,Everton,Fulham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,2.92,0.0,Everton,True,Leeds United,-2.66,-0.79
+Dele Alli,Everton,Leeds United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.71,0.0,Everton,False,Bournemouth,,0.19
+Dele Alli,Everton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,2.53,0.0,Everton,True,Wolverhampton,1.74,-0.48
+Dele Alli,Everton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.38,0.0,Everton,False,Manchester City,1.57,-1.26
+Dele Alli,Everton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,2.24,0.0,Everton,True,Brighton,-1.26,-0.71
+Dele Alli,Everton,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.11,0.0,Everton,True,Southampton,-6.12,-0.38
+Dele Alli,Everton,Southampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.0,0.0,Everton,False,West Ham,2.96,0.14
+Dele Alli,Everton,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.9,0.0,Everton,True,Arsenal,-2.74,0.36
+Dele Alli,Everton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.81,0.0,Everton,False,Liverpool,,-1.33
+Dele Alli,Everton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.73,0.0,Everton,True,Leicester City,,0.83
+Dele Alli,Everton,Leicester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.65,0.0,Everton,True,Aston Villa,,0.55
+Dele Alli,Everton,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.58,0.0,Everton,False,Arsenal,,-0.0
+Dele Alli,Everton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.52,0.0,Everton,False,Nottingham Forest,,
+Dele Alli,Everton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.46,0.0,Everton,True,Brentford,,0.69
+Dele Alli,Everton,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.41,0.0,Everton,False,Chelsea,-1.5,-0.72
+Dele Alli,Everton,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.36,0.0,Everton,True,Tottenham,1.66,1.07
+Dele Alli,Everton,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.31,0.0,Everton,False,Manchester United,-2.79,-0.1
+Dele Alli,Everton,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.27,0.0,Everton,True,Fulham,,-0.3
+Dele Alli,Everton,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.23,0.0,Everton,False,Crystal Palace,1.58,0.13
+Dele Alli,Everton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.19,0.0,Everton,True,Newcastle United,,0.73
+Dele Alli,Everton,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.15,0.0,Everton,False,Leeds United,,-0.8
+Dele Alli,Everton,Leeds United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.12,0.0,Everton,False,Brighton,-5.19,-0.39
+Dele Alli,Everton,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.09,0.0,Everton,True,Manchester City,,-1.17
+Dele Alli,Everton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.06,0.0,Everton,False,Wolverhampton,0.33,-0.46
+Dele Alli,Everton,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.03,0.0,Everton,True,Bournemouth,,1.46
+Dele Alli,Everton,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.0,,Everton,True,Fulham,,-0.3

@@ -1,19 +1,19 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
-Mateus Cardoso Lemos Martins,Leicester,Aston Villa,2023-02-04,False,82,0.0,0.0,0.0,0.0,8,0.0,0.0,6.9,1,1,8.0,0.0,82.0,2.0
-Mateus Cardoso Lemos Martins,Leicester,Tottenham,,True,76,,,,,2,,,0.5,0,1,5.0,0.0,79.0,2.0
-Mateus Cardoso Lemos Martins,Leicester,Manchester United,,False,74,,,,,2,,,4.4,0,1,4.0,0.0,77.33,2.0
-Mateus Cardoso Lemos Martins,Leicester,Arsenal,2023-02-25,True,61,0.0,0.0,0.0,0.0,2,0.0,0.0,0.5,0,1,3.5,0.0,73.25,2.0
-Mateus Cardoso Lemos Martins,Leicester,Southampton,2023-03-04,False,68,0.0,0.0,0.0,0.0,2,0.0,0.0,2.7,0,1,3.2,0.0,72.2,1.0
-Mateus Cardoso Lemos Martins,Leicester,Chelsea,,True,24,,,,,1,,,0.9,0,0,1.8,0.0,64.17,2.0
-Mateus Cardoso Lemos Martins,Leicester,Brentford,2023-03-18,False,65,0.0,0.0,0.0,0.0,2,0.0,0.0,3.8,0,1,1.8,0.0,64.29,1.0
-Mateus Cardoso Lemos Martins,Leicester,Crystal Palace,2023-04-01,False,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,1,1.6,0.0,61.88,0.0
-Mateus Cardoso Lemos Martins,Leicester,Aston Villa,2023-04-04,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,1.2,0.0,55.0,1.0
-Mateus Cardoso Lemos Martins,Leicester,Bournemouth,2023-04-08,True,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1.0,0.0,51.3,0.0
-Mateus Cardoso Lemos Martins,Leicester,Manchester City,2023-04-15,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.8,0.0,46.64,2.0
-Mateus Cardoso Lemos Martins,Leicester,Wolverhampton,2023-04-22,True,76,0.0,0.0,0.0,0.0,2,0.0,0.0,4.5,0,1,0.8,0.0,49.08,2.0
-Mateus Cardoso Lemos Martins,Leicester,Leicester City,2023-04-25,False,69,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,1,1.0,0.0,50.62,0.0
-Mateus Cardoso Lemos Martins,Leicester,Everton,,True,0,,,,,0,,,0.0,0,0,1.0,0.0,47.0,1.0
-Mateus Cardoso Lemos Martins,Leicester,Fulham,,False,45,,,,,1,,,0.8,0,0,1.0,0.0,46.87,1.0
-Mateus Cardoso Lemos Martins,Leicester,Liverpool,,True,29,,,,,1,,,0.8,0,0,1.2,0.0,45.75,0.0
-Mateus Cardoso Lemos Martins,Leicester,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.8,0.0,43.06,0.0
-Mateus Cardoso Lemos Martins,Leicester,West Ham,2023-05-28,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.4,0.0,40.67,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Mateus Cardoso Lemos Martins,Leicester,Aston Villa,2023-02-04,False,82,0.0,0.0,0.0,0.0,8,0.0,0.0,6.9,1,1,8.0,0.0,82.0,2.0,Leicester,True,Tottenham,3.95,1.07
+Mateus Cardoso Lemos Martins,Leicester,Tottenham,,True,76,,,,,2,,,0.5,0,1,5.0,0.0,79.0,2.0,Leicester,False,Manchester United,0.11,-0.1
+Mateus Cardoso Lemos Martins,Leicester,Manchester United,,False,74,,,,,2,,,4.4,0,1,4.0,0.0,77.33,2.0,Leicester,True,Arsenal,-1.32,0.36
+Mateus Cardoso Lemos Martins,Leicester,Arsenal,2023-02-25,True,61,0.0,0.0,0.0,0.0,2,0.0,0.0,0.5,0,1,3.5,0.0,73.25,2.0,Leicester,False,Southampton,-3.27,-1.07
+Mateus Cardoso Lemos Martins,Leicester,Southampton,2023-03-04,False,68,0.0,0.0,0.0,0.0,2,0.0,0.0,2.7,0,1,3.2,0.0,72.2,1.0,Leicester,True,Chelsea,-2.98,-0.25
+Mateus Cardoso Lemos Martins,Leicester,Chelsea,,True,24,,,,,1,,,0.9,0,0,1.8,0.0,64.17,2.0,Leicester,False,Brentford,-4.9,-0.55
+Mateus Cardoso Lemos Martins,Leicester,Brentford,2023-03-18,False,65,0.0,0.0,0.0,0.0,2,0.0,0.0,3.8,0,1,1.8,0.0,64.29,1.0,Leicester,False,Crystal Palace,2.07,0.13
+Mateus Cardoso Lemos Martins,Leicester,Crystal Palace,2023-04-01,False,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,1,1.6,0.0,61.88,0.0,Leicester,True,Aston Villa,-0.34,0.55
+Mateus Cardoso Lemos Martins,Leicester,Aston Villa,2023-04-04,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,1.2,0.0,55.0,1.0,Leicester,True,Bournemouth,,1.46
+Mateus Cardoso Lemos Martins,Leicester,Bournemouth,2023-04-08,True,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1.0,0.0,51.3,0.0,Leicester,False,Manchester City,1.46,-1.26
+Mateus Cardoso Lemos Martins,Leicester,Manchester City,2023-04-15,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.8,0.0,46.64,2.0,Leicester,True,Wolverhampton,-1.75,-0.48
+Mateus Cardoso Lemos Martins,Leicester,Wolverhampton,2023-04-22,True,76,0.0,0.0,0.0,0.0,2,0.0,0.0,4.5,0,1,0.8,0.0,49.08,2.0,Leicester,False,Leicester City,1.46,-0.05
+Mateus Cardoso Lemos Martins,Leicester,Leicester City,2023-04-25,False,69,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,1,1.0,0.0,50.62,0.0,Leicester,True,Everton,4.46,0.34
+Mateus Cardoso Lemos Martins,Leicester,Everton,,True,0,,,,,0,,,0.0,0,0,1.0,0.0,47.0,1.0,Leicester,False,Fulham,,1.37
+Mateus Cardoso Lemos Martins,Leicester,Fulham,,False,45,,,,,1,,,0.8,0,0,1.0,0.0,46.87,1.0,Leicester,True,Liverpool,-0.21,-0.53
+Mateus Cardoso Lemos Martins,Leicester,Liverpool,,True,29,,,,,1,,,0.8,0,0,1.2,0.0,45.75,0.0,Leicester,False,Newcastle United,1.84,-0.34
+Mateus Cardoso Lemos Martins,Leicester,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.8,0.0,43.06,0.0,Leicester,True,West Ham,-0.48,0.63
+Mateus Cardoso Lemos Martins,Leicester,West Ham,2023-05-28,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.4,0.0,40.67,,Nott'm Forest,False,Arsenal,,-0.0

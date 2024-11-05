@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points
-Kyle Walker-Peters,Southampton,Tottenham,2022-08-06,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.8,0,0,4,0.0,0,0.0,0.0,90.0,0.0,1.33,3.33,0.21,0,7.0
-Kyle Walker-Peters,Southampton,Leicester City,2022-08-13,True,90,1.0,0.31,0.0,0.09,7,2.0,1.0,10.1,0,0,2,0.0,0,3.5,0.15,90.0,0.0,1.33,3.33,0.21,0,2.0
-Kyle Walker-Peters,Southampton,Leeds United,2022-08-20,False,90,0.0,0.0,0.0,0.09,2,0.0,2.0,5.0,0,0,1,0.0,0,3.0,0.1,90.0,0.0,1.33,3.33,0.21,0,2.0
-Kyle Walker-Peters,Southampton,Manchester United,2022-08-27,True,90,0.0,0.04,0.0,0.09,2,1.0,1.0,3.8,0,0,1,0.0,0,2.75,0.09,90.0,0.0,1.33,3.33,0.21,0,2.0
-Kyle Walker-Peters,Southampton,Chelsea,2022-08-30,True,90,0.0,0.02,0.0,0.0,2,1.0,0.0,2.1,0,0,1,0.0,0,2.6,0.07,90.0,0.0,1.33,3.33,0.21,0,2.0
-Kyle Walker-Peters,Southampton,Wolverhampton,2022-09-03,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,0,1,0.0,0,3.0,0.07,90.0,0.0,1.33,3.33,0.21,0,2.0
-Kyle Walker-Peters,Southampton,Aston Villa,2022-09-16,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0,0,1,0.0,0,2.0,0.01,90.0,0.0,1.33,3.33,0.21,0,1.0
-Kyle Walker-Peters,Southampton,Everton,2022-10-01,True,90,0.0,0.03,0.0,0.16,1,1.0,2.0,6.0,0,0,2,0.0,0,1.8,0.02,90.0,0.0,1.33,3.33,0.21,0,-1.0
-Kyle Walker-Peters,Southampton,Manchester City,2022-10-08,False,78,0.0,0.0,0.0,0.0,-1,0.0,0.0,1.4,0,0,4,0.0,0,1.2,0.01,88.67,0.0,1.33,3.33,0.21,0,1.0
-Kyle Walker-Peters,Southampton,West Ham,2022-10-16,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,1,0.0,0,1.0,0.01,88.8,0.0,1.33,3.33,0.21,0,6.0
-Kyle Walker-Peters,Southampton,Bournemouth,2022-10-19,False,65,0.0,0.0,0.0,0.65,6,0.0,1.0,2.3,0,1,0,0.0,0,1.8,0.01,86.64,0.09,1.33,3.33,0.21,0,0.0
-Kyle Walker-Peters,Southampton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.4,0.01,79.42,0.09,1.33,3.33,0.21,0,0.0
-Kyle Walker-Peters,Southampton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.2,0.0,73.31,0.09,1.33,3.33,0.21,0,0.0
-Kyle Walker-Peters,Southampton,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.4,0.0,68.07,0.09,1.33,3.33,0.21,0,0.0
-Kyle Walker-Peters,Southampton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.2,0.0,63.53,0.09,1.33,3.33,0.21,0,1.0
-Kyle Walker-Peters,Southampton,Brighton,2022-12-26,True,90,0.0,0.0,0.0,0.04,1,0.0,1.0,3.2,0,0,3,0.64,1,0.2,0.0,65.19,0.08,1.33,3.33,0.21,0,1.0
-Kyle Walker-Peters,Southampton,Fulham,2022-12-31,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,2,1.53,1,0.4,0.0,66.65,0.08,1.33,3.33,0.21,0,2.0
-Kyle Walker-Peters,Southampton,Nottingham Forest,2023-01-04,True,90,0.0,0.04,0.0,0.32,2,1.0,2.0,5.5,0,0,1,1.37,1,0.8,0.01,67.94,0.07,1.33,3.33,0.21,0,2.0
-Kyle Walker-Peters,Southampton,Everton,2023-01-14,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.8,0,0,1,1.41,1,1.2,0.01,69.11,0.07,1.33,3.33,0.21,0,2.0
-Kyle Walker-Peters,Southampton,Aston Villa,2023-01-21,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,1,1.42,1,1.6,0.01,70.15,0.06,1.33,3.33,0.21,0,0.0
-Kyle Walker-Peters,Southampton,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.4,0.01,66.81,0.06,1.33,3.33,0.21,0,0.0
-Kyle Walker-Peters,Southampton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.2,0.01,63.77,0.06,1.33,3.33,0.21,0,0.0
-Kyle Walker-Peters,Southampton,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.0,61.0,0.06,1.33,3.33,0.21,0,1.0
-Kyle Walker-Peters,Southampton,Leicester City,2023-02-25,False,19,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,1,0.34,0,0.6,0.0,59.25,0.06,1.33,3.33,0.21,0,6.0
-Kyle Walker-Peters,Southampton,Leeds United,2023-03-04,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.5,0,1,0,1.9,1,1.4,0.0,60.48,0.11,1.33,3.33,0.21,0,8.0
-Kyle Walker-Peters,Southampton,Manchester United,2023-03-12,False,90,0.0,0.05,0.0,0.0,8,2.0,0.0,5.8,2,1,0,0.84,1,3.0,0.01,61.62,0.16,1.33,3.33,0.21,0,1.0
-Kyle Walker-Peters,Southampton,Brentford,2023-03-15,True,58,0.0,0.0,0.0,0.1,1,0.0,1.0,2.8,0,0,1,1.45,1,3.2,0.01,61.48,0.15,1.33,3.33,0.21,0,1.0
-Kyle Walker-Peters,Southampton,Tottenham,2023-03-18,True,90,0.0,0.02,0.0,0.0,1,1.0,0.0,2.3,0,0,3,2.26,1,3.4,0.01,62.5,0.14,1.33,3.33,0.21,0,2.0
-Kyle Walker-Peters,Southampton,West Ham,2023-04-02,False,90,0.0,0.06,0.0,0.06,2,1.0,1.0,3.7,0,0,1,1.36,1,3.6,0.03,63.45,0.14,1.33,3.33,0.21,0,0.0
-Kyle Walker-Peters,Southampton,Manchester City,2023-04-08,True,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,4,2.64,1,2.4,0.03,64.33,0.13,1.33,3.33,0.21,0,1.0
-Kyle Walker-Peters,Southampton,Crystal Palace,2023-04-15,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,2,0.81,1,1.0,0.02,65.16,0.12,1.33,3.33,0.21,0,0.0
-Kyle Walker-Peters,Southampton,Arsenal,2023-04-21,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.2,0,0,3,2.81,1,0.8,0.02,65.94,0.12,1.33,3.33,0.21,0,2.0
-Kyle Walker-Peters,Southampton,Bournemouth,2023-04-27,True,90,0.0,0.0,0.0,0.09,2,0.0,1.0,0.0,0,0,1,1.0,1,1.0,0.01,66.67,0.12,1.33,3.33,0.21,0,0.0
-Kyle Walker-Peters,Southampton,Newcastle United,2023-04-30,False,90,0.0,0.08,0.0,0.0,0,1.0,0.0,4.2,0,0,3,4.47,1,0.6,0.02,67.35,0.11,1.33,3.33,0.21,0,0.0
-Kyle Walker-Peters,Southampton,Nottingham Forest,2023-05-08,False,90,0.0,0.0,0.0,0.09,0,0.0,1.0,3.1,0,0,4,1.81,1,0.6,0.02,68.0,0.11,1.33,3.33,0.21,0,1.0
-Kyle Walker-Peters,Southampton,Fulham,2023-05-13,True,90,0.0,0.0,0.0,0.05,1,0.0,1.0,3.2,0,0,2,1.49,1,0.6,0.02,68.61,0.1,1.33,3.33,0.21,0,1.0
-Kyle Walker-Peters,Southampton,Brighton,2023-05-21,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,3,2.54,1,0.8,0.02,69.19,0.1,1.33,3.33,0.21,0,0.0
-Kyle Walker-Peters,Southampton,Liverpool,2023-05-28,True,90,0.0,0.03,0.0,0.0,0,1.0,0.0,0.0,0,0,4,3.85,1,0.4,0.02,69.74,0.1,1.33,3.33,0.21,0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Kyle Walker-Peters,Southampton,Tottenham,2022-08-06,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.8,0,0,4,0.0,0,0.0,0.0,90.0,0.0,1.33,3.33,0.21,0,7.0,Southampton,True,Leicester City,-2.36,0.83
+Kyle Walker-Peters,Southampton,Leicester City,2022-08-13,True,90,1.0,0.31,0.0,0.09,7,2.0,1.0,10.1,0,0,2,0.0,0,3.5,0.15,90.0,0.0,1.33,3.33,0.21,0,2.0,Southampton,False,Leeds United,3.61,-0.8
+Kyle Walker-Peters,Southampton,Leeds United,2022-08-20,False,90,0.0,0.0,0.0,0.09,2,0.0,2.0,5.0,0,0,1,0.0,0,3.0,0.1,90.0,0.0,1.33,3.33,0.21,0,2.0,Southampton,True,Manchester United,0.0,0.38
+Kyle Walker-Peters,Southampton,Manchester United,2022-08-27,True,90,0.0,0.04,0.0,0.09,2,1.0,1.0,3.8,0,0,1,0.0,0,2.75,0.09,90.0,0.0,1.33,3.33,0.21,0,2.0,Southampton,True,Chelsea,4.65,-0.25
+Kyle Walker-Peters,Southampton,Chelsea,2022-08-30,True,90,0.0,0.02,0.0,0.0,2,1.0,0.0,2.1,0,0,1,0.0,0,2.6,0.07,90.0,0.0,1.33,3.33,0.21,0,2.0,Southampton,False,Wolverhampton,2.76,-0.46
+Kyle Walker-Peters,Southampton,Wolverhampton,2022-09-03,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,0,1,0.0,0,3.0,0.07,90.0,0.0,1.33,3.33,0.21,0,2.0,Southampton,False,Aston Villa,4.2,0.59
+Kyle Walker-Peters,Southampton,Aston Villa,2022-09-16,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0,0,1,0.0,0,2.0,0.01,90.0,0.0,1.33,3.33,0.21,0,1.0,Southampton,True,Everton,-3.67,0.34
+Kyle Walker-Peters,Southampton,Everton,2022-10-01,True,90,0.0,0.03,0.0,0.16,1,1.0,2.0,6.0,0,0,2,0.0,0,1.8,0.02,90.0,0.0,1.33,3.33,0.21,0,-1.0,Southampton,False,Manchester City,0.3,-1.26
+Kyle Walker-Peters,Southampton,Manchester City,2022-10-08,False,78,0.0,0.0,0.0,0.0,-1,0.0,0.0,1.4,0,0,4,0.0,0,1.2,0.01,88.67,0.0,1.33,3.33,0.21,0,1.0,Southampton,True,West Ham,-1.04,0.63
+Kyle Walker-Peters,Southampton,West Ham,2022-10-16,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,1,0.0,0,1.0,0.01,88.8,0.0,1.33,3.33,0.21,0,6.0,Southampton,False,Bournemouth,,0.19
+Kyle Walker-Peters,Southampton,Bournemouth,2022-10-19,False,65,0.0,0.0,0.0,0.65,6,0.0,1.0,2.3,0,1,0,0.0,0,1.8,0.01,86.64,0.09,1.33,3.33,0.21,0,0.0,Southampton,True,Arsenal,-3.58,0.36
+Kyle Walker-Peters,Southampton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.4,0.01,79.42,0.09,1.33,3.33,0.21,0,0.0,Southampton,False,Crystal Palace,-0.36,0.13
+Kyle Walker-Peters,Southampton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.2,0.0,73.31,0.09,1.33,3.33,0.21,0,0.0,Southampton,True,Newcastle United,0.8,0.73
+Kyle Walker-Peters,Southampton,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.4,0.0,68.07,0.09,1.33,3.33,0.21,0,0.0,Southampton,False,Liverpool,2.85,-1.33
+Kyle Walker-Peters,Southampton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.2,0.0,63.53,0.09,1.33,3.33,0.21,0,1.0,Southampton,True,Brighton,-0.05,-0.71
+Kyle Walker-Peters,Southampton,Brighton,2022-12-26,True,90,0.0,0.0,0.0,0.04,1,0.0,1.0,3.2,0,0,3,0.64,1,0.2,0.0,65.19,0.08,1.33,3.33,0.21,0,1.0,Southampton,False,Fulham,,1.37
+Kyle Walker-Peters,Southampton,Fulham,2022-12-31,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,2,1.53,1,0.4,0.0,66.65,0.08,1.33,3.33,0.21,0,2.0,Southampton,True,Nottingham Forest,,
+Kyle Walker-Peters,Southampton,Nottingham Forest,2023-01-04,True,90,0.0,0.04,0.0,0.32,2,1.0,2.0,5.5,0,0,1,1.37,1,0.8,0.01,67.94,0.07,1.33,3.33,0.21,0,2.0,Southampton,False,Everton,3.31,-0.63
+Kyle Walker-Peters,Southampton,Everton,2023-01-14,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.8,0,0,1,1.41,1,1.2,0.01,69.11,0.07,1.33,3.33,0.21,0,2.0,Southampton,True,Aston Villa,-1.21,0.55
+Kyle Walker-Peters,Southampton,Aston Villa,2023-01-21,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,1,1.42,1,1.6,0.01,70.15,0.06,1.33,3.33,0.21,0,0.0,Southampton,False,Brentford,3.85,-0.55
+Kyle Walker-Peters,Southampton,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.4,0.01,66.81,0.06,1.33,3.33,0.21,0,0.0,Southampton,True,Wolverhampton,3.38,-0.48
+Kyle Walker-Peters,Southampton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.2,0.01,63.77,0.06,1.33,3.33,0.21,0,0.0,Southampton,False,Chelsea,1.8,-0.72
+Kyle Walker-Peters,Southampton,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.0,61.0,0.06,1.33,3.33,0.21,0,1.0,Southampton,False,Leicester City,,-0.05
+Kyle Walker-Peters,Southampton,Leicester City,2023-02-25,False,19,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,1,0.34,0,0.6,0.0,59.25,0.06,1.33,3.33,0.21,0,6.0,Southampton,True,Leeds United,-0.35,-0.79
+Kyle Walker-Peters,Southampton,Leeds United,2023-03-04,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.5,0,1,0,1.9,1,1.4,0.0,60.48,0.11,1.33,3.33,0.21,0,8.0,Southampton,False,Manchester United,,-0.1
+Kyle Walker-Peters,Southampton,Manchester United,2023-03-12,False,90,0.0,0.05,0.0,0.0,8,2.0,0.0,5.8,2,1,0,0.84,1,3.0,0.01,61.62,0.16,1.33,3.33,0.21,0,1.0,Southampton,True,Brentford,,0.69
+Kyle Walker-Peters,Southampton,Brentford,2023-03-15,True,58,0.0,0.0,0.0,0.1,1,0.0,1.0,2.8,0,0,1,1.45,1,3.2,0.01,61.48,0.15,1.33,3.33,0.21,0,1.0,Southampton,True,Tottenham,0.15,1.07
+Kyle Walker-Peters,Southampton,Tottenham,2023-03-18,True,90,0.0,0.02,0.0,0.0,1,1.0,0.0,2.3,0,0,3,2.26,1,3.4,0.01,62.5,0.14,1.33,3.33,0.21,0,2.0,Southampton,False,West Ham,-2.95,0.14
+Kyle Walker-Peters,Southampton,West Ham,2023-04-02,False,90,0.0,0.06,0.0,0.06,2,1.0,1.0,3.7,0,0,1,1.36,1,3.6,0.03,63.45,0.14,1.33,3.33,0.21,0,0.0,Southampton,True,Manchester City,,-1.17
+Kyle Walker-Peters,Southampton,Manchester City,2023-04-08,True,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,4,2.64,1,2.4,0.03,64.33,0.13,1.33,3.33,0.21,0,1.0,Southampton,True,Crystal Palace,,0.81
+Kyle Walker-Peters,Southampton,Crystal Palace,2023-04-15,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,2,0.81,1,1.0,0.02,65.16,0.12,1.33,3.33,0.21,0,0.0,Southampton,False,Arsenal,2.91,-0.0
+Kyle Walker-Peters,Southampton,Arsenal,2023-04-21,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.2,0,0,3,2.81,1,0.8,0.02,65.94,0.12,1.33,3.33,0.21,0,2.0,Southampton,True,Bournemouth,,1.46
+Kyle Walker-Peters,Southampton,Bournemouth,2023-04-27,True,90,0.0,0.0,0.0,0.09,2,0.0,1.0,0.0,0,0,1,1.0,1,1.0,0.01,66.67,0.12,1.33,3.33,0.21,0,0.0,Southampton,False,Newcastle United,-1.73,-0.34
+Kyle Walker-Peters,Southampton,Newcastle United,2023-04-30,False,90,0.0,0.08,0.0,0.0,0,1.0,0.0,4.2,0,0,3,4.47,1,0.6,0.02,67.35,0.11,1.33,3.33,0.21,0,0.0,Southampton,False,Nottingham Forest,,
+Kyle Walker-Peters,Southampton,Nottingham Forest,2023-05-08,False,90,0.0,0.0,0.0,0.09,0,0.0,1.0,3.1,0,0,4,1.81,1,0.6,0.02,68.0,0.11,1.33,3.33,0.21,0,1.0,Southampton,True,Fulham,,-0.3
+Kyle Walker-Peters,Southampton,Fulham,2023-05-13,True,90,0.0,0.0,0.0,0.05,1,0.0,1.0,3.2,0,0,2,1.49,1,0.6,0.02,68.61,0.1,1.33,3.33,0.21,0,1.0,Southampton,False,Brighton,,-0.39
+Kyle Walker-Peters,Southampton,Brighton,2023-05-21,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,3,2.54,1,0.8,0.02,69.19,0.1,1.33,3.33,0.21,0,0.0,Southampton,True,Liverpool,,-0.53
+Kyle Walker-Peters,Southampton,Liverpool,2023-05-28,True,90,0.0,0.03,0.0,0.0,0,1.0,0.0,0.0,0,0,4,3.85,1,0.4,0.02,69.74,0.1,1.33,3.33,0.21,0,,Man City,False,Burnley,,0.0

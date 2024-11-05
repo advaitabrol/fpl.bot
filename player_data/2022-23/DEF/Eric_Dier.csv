@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points
-Eric Dier,Spurs,Southampton,2022-08-06,True,90,1.0,0.03,0.0,0.0,8,1.0,0.0,6.1,0,0,1,0.0,0,8.0,0.03,90.0,0.0,1.56,1.32,0.47,0,1.0
-Eric Dier,Spurs,Chelsea,2022-08-14,False,90,0.0,0.01,0.0,0.0,1,1.0,0.0,4.2,0,0,2,0.0,0,4.5,0.02,90.0,0.0,1.56,1.32,0.47,0,6.0
-Eric Dier,Spurs,Wolverhampton,2022-08-20,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.3,0,1,0,0.0,0,5.0,0.01,90.0,0.33,1.56,1.32,0.47,0,6.0
-Eric Dier,Spurs,Nottingham Forest,2022-08-28,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.2,0,1,0,0.0,0,5.25,0.01,90.0,0.5,1.56,1.32,0.47,0,3.0
-Eric Dier,Spurs,West Ham,2022-08-31,False,90,0.0,0.0,0.0,0.0,3,0.0,0.0,2.3,1,0,1,0.0,0,4.8,0.01,90.0,0.4,1.56,1.32,0.47,0,2.0
-Eric Dier,Spurs,Fulham,2022-09-03,True,90,0.0,0.18,0.0,0.0,2,2.0,0.0,2.1,0,0,1,0.0,0,3.6,0.04,90.0,0.33,1.56,1.32,0.47,0,7.0
-Eric Dier,Spurs,Leeds United,2022-09-17,True,90,1.0,0.07,0.0,0.0,7,2.0,0.0,9.8,0,0,2,0.0,0,4.8,0.05,90.0,0.29,1.56,1.32,0.47,0,0.0
-Eric Dier,Spurs,Arsenal,2022-10-01,False,90,0.0,0.0,0.0,0.49,0,0.0,2.0,4.1,0,0,3,0.0,0,3.6,0.05,90.0,0.25,1.56,1.32,0.47,0,6.0
-Eric Dier,Spurs,Brighton,2022-10-08,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.3,0,1,0,0.0,0,3.6,0.05,90.0,0.33,1.56,1.32,0.47,0,6.0
-Eric Dier,Spurs,Everton,2022-10-15,True,90,0.0,0.05,0.0,0.0,6,1.0,0.0,5.1,0,1,0,0.0,0,4.2,0.06,90.0,0.4,1.56,1.32,0.47,0,1.0
-Eric Dier,Spurs,Manchester United,2022-10-19,False,81,0.0,0.0,0.0,0.0,1,0.0,0.0,2.7,0,0,2,0.0,0,4.0,0.02,89.18,0.36,1.56,1.32,0.47,0,1.0
-Eric Dier,Spurs,Newcastle United,2022-10-23,True,90,0.0,0.04,0.0,0.0,1,1.0,0.0,4.6,0,0,2,0.0,0,2.8,0.02,89.25,0.33,1.56,1.32,0.47,0,1.0
-Eric Dier,Spurs,Bournemouth,2022-10-29,False,33,0.0,0.0,0.0,0.13,1,0.0,1.0,2.8,0,0,0,0.0,0,3.0,0.02,84.92,0.31,1.56,1.32,0.47,0,1.0
-Eric Dier,Spurs,Liverpool,2022-11-06,True,90,0.0,0.1,0.0,0.29,1,1.0,1.0,6.9,0,0,2,0.0,0,2.0,0.04,85.29,0.29,1.56,1.32,0.47,0,1.0
-Eric Dier,Spurs,Leicester City,2022-11-12,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,3,1.21,1,1.0,0.03,85.6,0.27,1.56,1.32,0.47,0,1.0
-Eric Dier,Spurs,Brentford,2022-12-26,False,90,0.0,0.04,0.0,0.02,1,1.0,1.0,5.0,0,0,2,2.15,1,1.0,0.04,85.88,0.25,1.56,1.32,0.47,0,0.0
-Eric Dier,Spurs,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.03,80.82,0.25,1.56,1.32,0.47,0,6.0
-Eric Dier,Spurs,Crystal Palace,2023-01-04,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,3.0,0,1,0,0.79,1,1.8,0.03,81.33,0.29,1.56,1.32,0.47,0,1.0
-Eric Dier,Spurs,Arsenal,2023-01-15,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.0,0,0,2,1.66,1,1.8,0.01,81.79,0.28,1.56,1.32,0.47,0,0.0
-Eric Dier,Spurs,Manchester City,2023-01-19,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.1,0,0,4,2.45,1,1.6,0.01,82.2,0.26,1.56,1.32,0.47,0,6.0
-Eric Dier,Spurs,Fulham,2023-01-23,False,90,0.0,0.0,0.0,0.09,6,0.0,1.0,3.8,0,1,0,1.18,1,2.6,0.0,82.57,0.3,1.56,1.32,0.47,0,6.0
-Eric Dier,Spurs,Manchester City,2023-02-05,True,90,0.0,0.22,0.0,0.0,6,3.0,0.0,3.6,0,1,0,0.97,1,3.8,0.04,82.91,0.33,1.56,1.32,0.47,0,-1.0
-Eric Dier,Spurs,Leeds United,2023-02-11,False,90,0.0,0.05,0.0,0.0,-1,1.0,0.0,1.5,0,0,4,1.54,1,2.4,0.05,83.22,0.32,1.56,1.32,0.47,0,7.0
-Eric Dier,Spurs,West Ham,2023-02-19,True,90,0.0,0.0,0.0,0.0,7,0.0,0.0,1.9,1,1,0,0.48,1,3.6,0.05,83.5,0.35,1.56,1.32,0.47,0,12.0
-Eric Dier,Spurs,Chelsea,2023-02-26,True,90,0.0,0.11,1.0,0.6,12,1.0,1.0,5.1,3,1,0,0.41,1,6.0,0.27,83.76,0.38,1.56,1.32,0.47,0,0.0
-Eric Dier,Spurs,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4.8,0.27,80.54,0.38,1.56,1.32,0.47,0,1.0
-Eric Dier,Spurs,Nottingham Forest,2023-03-11,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,1,1.57,1,3.8,0.23,80.89,0.36,1.56,1.32,0.47,0,1.0
-Eric Dier,Spurs,Southampton,2023-03-18,False,90,0.0,0.11,0.0,0.0,1,1.0,0.0,2.1,0,0,3,2.4,1,4.2,0.24,81.21,0.35,1.56,1.32,0.47,0,2.0
-Eric Dier,Spurs,Everton,2023-04-03,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.7,0,0,1,0.88,1,3.2,0.24,81.52,0.33,1.56,1.32,0.47,0,2.0
-Eric Dier,Spurs,Brighton,2023-04-08,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,1.43,1,1.2,0.02,81.8,0.32,1.56,1.32,0.47,0,1.0
-Eric Dier,Spurs,Bournemouth,2023-04-15,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,3,0.94,1,1.4,0.02,82.06,0.31,1.56,1.32,0.47,0,-1.0
-Eric Dier,Spurs,Newcastle United,2023-04-23,False,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,2.1,0,0,6,3.64,1,1.0,0.02,82.31,0.3,1.56,1.32,0.47,0,1.0
-Eric Dier,Spurs,Manchester United,2023-04-27,True,90,0.0,0.46,0.0,0.0,1,1.0,0.0,0.0,0,0,2,2.13,1,1.0,0.09,82.55,0.29,1.56,1.32,0.47,0,0.0
-Eric Dier,Spurs,Liverpool,2023-04-30,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.7,0,0,4,2.33,1,0.6,0.09,82.76,0.28,1.56,1.32,0.47,0,1.0
-Eric Dier,Spurs,Crystal Palace,2023-05-06,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.05,0,0.4,0.09,80.46,0.27,1.56,1.32,0.47,0,0.0
-Eric Dier,Spurs,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.09,78.22,0.27,1.56,1.32,0.47,0,0.0
-Eric Dier,Spurs,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.09,76.11,0.27,1.56,1.32,0.47,0,0.0
-Eric Dier,Spurs,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,74.11,0.27,1.56,1.32,0.47,0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Eric Dier,Spurs,Southampton,2022-08-06,True,90,1.0,0.03,0.0,0.0,8,1.0,0.0,6.1,0,0,1,0.0,0,8.0,0.03,90.0,0.0,1.56,1.32,0.47,0,1.0,Spurs,False,Chelsea,3.74,-0.72
+Eric Dier,Spurs,Chelsea,2022-08-14,False,90,0.0,0.01,0.0,0.0,1,1.0,0.0,4.2,0,0,2,0.0,0,4.5,0.02,90.0,0.0,1.56,1.32,0.47,0,6.0,Spurs,True,Wolverhampton,5.81,-0.48
+Eric Dier,Spurs,Wolverhampton,2022-08-20,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.3,0,1,0,0.0,0,5.0,0.01,90.0,0.33,1.56,1.32,0.47,0,6.0,Spurs,False,Nottingham Forest,,
+Eric Dier,Spurs,Nottingham Forest,2022-08-28,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.2,0,1,0,0.0,0,5.25,0.01,90.0,0.5,1.56,1.32,0.47,0,3.0,Spurs,False,West Ham,3.49,0.14
+Eric Dier,Spurs,West Ham,2022-08-31,False,90,0.0,0.0,0.0,0.0,3,0.0,0.0,2.3,1,0,1,0.0,0,4.8,0.01,90.0,0.4,1.56,1.32,0.47,0,2.0,Spurs,True,Fulham,,-0.3
+Eric Dier,Spurs,Fulham,2022-09-03,True,90,0.0,0.18,0.0,0.0,2,2.0,0.0,2.1,0,0,1,0.0,0,3.6,0.04,90.0,0.33,1.56,1.32,0.47,0,7.0,Spurs,True,Leeds United,-1.47,-0.79
+Eric Dier,Spurs,Leeds United,2022-09-17,True,90,1.0,0.07,0.0,0.0,7,2.0,0.0,9.8,0,0,2,0.0,0,4.8,0.05,90.0,0.29,1.56,1.32,0.47,0,0.0,Spurs,False,Arsenal,4.98,-0.0
+Eric Dier,Spurs,Arsenal,2022-10-01,False,90,0.0,0.0,0.0,0.49,0,0.0,2.0,4.1,0,0,3,0.0,0,3.6,0.05,90.0,0.25,1.56,1.32,0.47,0,6.0,Spurs,False,Brighton,-2.68,-0.39
+Eric Dier,Spurs,Brighton,2022-10-08,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.3,0,1,0,0.0,0,3.6,0.05,90.0,0.33,1.56,1.32,0.47,0,6.0,Spurs,True,Everton,-5.21,0.34
+Eric Dier,Spurs,Everton,2022-10-15,True,90,0.0,0.05,0.0,0.0,6,1.0,0.0,5.1,0,1,0,0.0,0,4.2,0.06,90.0,0.4,1.56,1.32,0.47,0,1.0,Spurs,False,Manchester United,4.8,-0.1
+Eric Dier,Spurs,Manchester United,2022-10-19,False,81,0.0,0.0,0.0,0.0,1,0.0,0.0,2.7,0,0,2,0.0,0,4.0,0.02,89.18,0.36,1.56,1.32,0.47,0,1.0,Spurs,True,Newcastle United,-3.79,0.73
+Eric Dier,Spurs,Newcastle United,2022-10-23,True,90,0.0,0.04,0.0,0.0,1,1.0,0.0,4.6,0,0,2,0.0,0,2.8,0.02,89.25,0.33,1.56,1.32,0.47,0,1.0,Spurs,False,Bournemouth,,0.19
+Eric Dier,Spurs,Bournemouth,2022-10-29,False,33,0.0,0.0,0.0,0.13,1,0.0,1.0,2.8,0,0,0,0.0,0,3.0,0.02,84.92,0.31,1.56,1.32,0.47,0,1.0,Spurs,True,Liverpool,0.32,-0.53
+Eric Dier,Spurs,Liverpool,2022-11-06,True,90,0.0,0.1,0.0,0.29,1,1.0,1.0,6.9,0,0,2,0.0,0,2.0,0.04,85.29,0.29,1.56,1.32,0.47,0,1.0,Spurs,True,Leicester City,-0.2,0.83
+Eric Dier,Spurs,Leicester City,2022-11-12,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,3,1.21,1,1.0,0.03,85.6,0.27,1.56,1.32,0.47,0,1.0,Spurs,False,Brentford,1.4,-0.55
+Eric Dier,Spurs,Brentford,2022-12-26,False,90,0.0,0.04,0.0,0.02,1,1.0,1.0,5.0,0,0,2,2.15,1,1.0,0.04,85.88,0.25,1.56,1.32,0.47,0,0.0,Spurs,True,Aston Villa,-0.44,0.55
+Eric Dier,Spurs,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.03,80.82,0.25,1.56,1.32,0.47,0,6.0,Spurs,False,Crystal Palace,7.24,0.13
+Eric Dier,Spurs,Crystal Palace,2023-01-04,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,3.0,0,1,0,0.79,1,1.8,0.03,81.33,0.29,1.56,1.32,0.47,0,1.0,Spurs,True,Arsenal,-2.81,0.36
+Eric Dier,Spurs,Arsenal,2023-01-15,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.0,0,0,2,1.66,1,1.8,0.01,81.79,0.28,1.56,1.32,0.47,0,0.0,Spurs,False,Manchester City,-2.29,-1.26
+Eric Dier,Spurs,Manchester City,2023-01-19,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.1,0,0,4,2.45,1,1.6,0.01,82.2,0.26,1.56,1.32,0.47,0,6.0,Spurs,False,Fulham,,1.37
+Eric Dier,Spurs,Fulham,2023-01-23,False,90,0.0,0.0,0.0,0.09,6,0.0,1.0,3.8,0,1,0,1.18,1,2.6,0.0,82.57,0.3,1.56,1.32,0.47,0,6.0,Spurs,True,Manchester City,-0.19,-1.17
+Eric Dier,Spurs,Manchester City,2023-02-05,True,90,0.0,0.22,0.0,0.0,6,3.0,0.0,3.6,0,1,0,0.97,1,3.8,0.04,82.91,0.33,1.56,1.32,0.47,0,-1.0,Spurs,False,Leeds United,1.08,-0.8
+Eric Dier,Spurs,Leeds United,2023-02-11,False,90,0.0,0.05,0.0,0.0,-1,1.0,0.0,1.5,0,0,4,1.54,1,2.4,0.05,83.22,0.32,1.56,1.32,0.47,0,7.0,Spurs,True,West Ham,,0.63
+Eric Dier,Spurs,West Ham,2023-02-19,True,90,0.0,0.0,0.0,0.0,7,0.0,0.0,1.9,1,1,0,0.48,1,3.6,0.05,83.5,0.35,1.56,1.32,0.47,0,12.0,Spurs,True,Chelsea,5.76,-0.25
+Eric Dier,Spurs,Chelsea,2023-02-26,True,90,0.0,0.11,1.0,0.6,12,1.0,1.0,5.1,3,1,0,0.41,1,6.0,0.27,83.76,0.38,1.56,1.32,0.47,0,0.0,Spurs,False,Wolverhampton,-1.1,-0.46
+Eric Dier,Spurs,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4.8,0.27,80.54,0.38,1.56,1.32,0.47,0,1.0,Spurs,True,Nottingham Forest,,
+Eric Dier,Spurs,Nottingham Forest,2023-03-11,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,1,1.57,1,3.8,0.23,80.89,0.36,1.56,1.32,0.47,0,1.0,Spurs,False,Southampton,-0.01,-1.07
+Eric Dier,Spurs,Southampton,2023-03-18,False,90,0.0,0.11,0.0,0.0,1,1.0,0.0,2.1,0,0,3,2.4,1,4.2,0.24,81.21,0.35,1.56,1.32,0.47,0,2.0,Spurs,False,Everton,-0.37,-0.63
+Eric Dier,Spurs,Everton,2023-04-03,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.7,0,0,1,0.88,1,3.2,0.24,81.52,0.33,1.56,1.32,0.47,0,2.0,Spurs,True,Brighton,,-0.71
+Eric Dier,Spurs,Brighton,2023-04-08,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,1.43,1,1.2,0.02,81.8,0.32,1.56,1.32,0.47,0,1.0,Spurs,True,Bournemouth,,1.46
+Eric Dier,Spurs,Bournemouth,2023-04-15,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,3,0.94,1,1.4,0.02,82.06,0.31,1.56,1.32,0.47,0,-1.0,Spurs,False,Newcastle United,0.79,-0.34
+Eric Dier,Spurs,Newcastle United,2023-04-23,False,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,2.1,0,0,6,3.64,1,1.0,0.02,82.31,0.3,1.56,1.32,0.47,0,1.0,Spurs,True,Manchester United,5.3,0.38
+Eric Dier,Spurs,Manchester United,2023-04-27,True,90,0.0,0.46,0.0,0.0,1,1.0,0.0,0.0,0,0,2,2.13,1,1.0,0.09,82.55,0.29,1.56,1.32,0.47,0,0.0,Spurs,False,Liverpool,,-1.33
+Eric Dier,Spurs,Liverpool,2023-04-30,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.7,0,0,4,2.33,1,0.6,0.09,82.76,0.28,1.56,1.32,0.47,0,1.0,Spurs,True,Crystal Palace,-3.09,0.81
+Eric Dier,Spurs,Crystal Palace,2023-05-06,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.05,0,0.4,0.09,80.46,0.27,1.56,1.32,0.47,0,0.0,Spurs,False,Aston Villa,,0.59
+Eric Dier,Spurs,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.09,78.22,0.27,1.56,1.32,0.47,0,0.0,Spurs,True,Brentford,-3.15,0.69
+Eric Dier,Spurs,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.09,76.11,0.27,1.56,1.32,0.47,0,0.0,Spurs,False,Leicester City,,-0.05
+Eric Dier,Spurs,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,74.11,0.27,1.56,1.32,0.47,0,,Spurs,False,Brentford,0.99,-0.55

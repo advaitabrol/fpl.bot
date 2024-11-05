@@ -1,20 +1,20 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
-Lewis Orford,West Ham,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Lewis Orford,West Ham,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Lewis Orford,West Ham,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Lewis Orford,West Ham,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Lewis Orford,West Ham,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Lewis Orford,West Ham,Nottingham Forest,2024-02-17,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0
-Lewis Orford,West Ham,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Lewis Orford,West Ham,Everton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Lewis Orford,West Ham,Burnley,2024-03-10,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0
-Lewis Orford,West Ham,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Lewis Orford,West Ham,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Lewis Orford,West Ham,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Lewis Orford,West Ham,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Lewis Orford,West Ham,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Lewis Orford,West Ham,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Lewis Orford,West Ham,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Lewis Orford,West Ham,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Lewis Orford,West Ham,Luton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Lewis Orford,West Ham,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Lewis Orford,West Ham,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,False,Sheffield,,-0.61
+Lewis Orford,West Ham,Sheffield,2024-01-21,False,0,0.0,0.0,0.0,0.07,0,0.0,1.0,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,True,Bournemouth,-2.69,1.22
+Lewis Orford,West Ham,Bournemouth,2024-02-01,True,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.01,0.0,0.0,West Ham,False,Manchester United,2.04,-0.63
+Lewis Orford,West Ham,Manchester United,2024-02-04,False,0,0.0,0.0,0.0,0.09,0,0.0,2.0,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,True,Arsenal,0.59,-0.11
+Lewis Orford,West Ham,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,False,Nottingham Forest,1.5,-0.55
+Lewis Orford,West Ham,Nottingham Forest,2024-02-17,False,0,0.0,0.03,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.01,0.0,0.0,West Ham,True,Brentford,3.72,0.79
+Lewis Orford,West Ham,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.01,0.0,0.0,West Ham,False,Everton,-0.01,-0.24
+Lewis Orford,West Ham,Everton,,False,0,,,,,0,,,0.0,0,0,0.0,0.01,0.0,0.0,West Ham,True,Burnley,1.4,0.39
+Lewis Orford,West Ham,Burnley,,True,0,,,,,0,,,0.0,0,0,0.0,0.01,0.0,0.0,West Ham,True,Aston Villa,-0.66,0.64
+Lewis Orford,West Ham,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.01,0.0,0.0,West Ham,False,Newcastle United,-0.71,-0.41
+Lewis Orford,West Ham,Newcastle United,2024-03-30,False,0,0.0,0.2,0.0,0.19,0,3.0,3.0,0.0,0,0,0.0,0.04,0.0,0.0,West Ham,True,Tottenham,-2.08,0.69
+Lewis Orford,West Ham,Tottenham,2024-04-02,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.04,0.0,0.0,West Ham,False,Wolverhampton,2.78,-0.52
+Lewis Orford,West Ham,Wolverhampton,2024-04-06,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.04,0.0,0.0,West Ham,True,Fulham,-5.99,-0.13
+Lewis Orford,West Ham,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.04,0.0,0.0,West Ham,False,Crystal Palace,-0.64,0.38
+Lewis Orford,West Ham,Crystal Palace,2024-04-21,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.04,0.0,0.0,West Ham,True,Liverpool,-1.83,0.18
+Lewis Orford,West Ham,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,False,Chelsea,0.53,-0.85
+Lewis Orford,West Ham,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,True,Luton,,
+Lewis Orford,West Ham,Luton,2024-05-11,True,0,0.0,0.01,0.0,0.11,0,1.0,3.0,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,False,Manchester City,2.49,-1.32
+Lewis Orford,West Ham,Manchester City,2024-05-19,False,0,0.0,0.02,0.0,0.54,0,1.0,2.0,0.0,0,0,0.0,0.01,0.0,,Wolves,False,Arsenal,2.85,-0.48

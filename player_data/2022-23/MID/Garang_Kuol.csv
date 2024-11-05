@@ -1,22 +1,22 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
-Garang Kuol,Newcastle,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Garang Kuol,Newcastle,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Garang Kuol,Newcastle,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Garang Kuol,Newcastle,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Garang Kuol,Newcastle,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Garang Kuol,Newcastle,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Garang Kuol,Newcastle,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Garang Kuol,Newcastle,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Garang Kuol,Newcastle,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Garang Kuol,Newcastle,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Garang Kuol,Newcastle,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Garang Kuol,Newcastle,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Garang Kuol,Newcastle,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Garang Kuol,Newcastle,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Garang Kuol,Newcastle,Everton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Garang Kuol,Newcastle,Southampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Garang Kuol,Newcastle,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Garang Kuol,Newcastle,Leicester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Garang Kuol,Newcastle,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Garang Kuol,Newcastle,Leeds United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Garang Kuol,Newcastle,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Garang Kuol,Newcastle,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Newcastle,True,Fulham,,-0.3
+Garang Kuol,Newcastle,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Newcastle,False,Crystal Palace,-1.13,0.13
+Garang Kuol,Newcastle,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Newcastle,True,West Ham,0.49,0.63
+Garang Kuol,Newcastle,West Ham,2023-02-04,True,0,1.0,0.75,1.0,0.18,0,3.0,3.0,0.0,0,0,0.0,0.44,0.0,0.0,Newcastle,False,Bournemouth,,0.19
+Garang Kuol,Newcastle,Bournemouth,2023-02-11,False,0,0.0,0.0,0.0,0.55,0,0.0,3.0,0.0,0,0,0.0,0.35,0.0,0.0,Newcastle,True,Liverpool,1.47,-0.53
+Garang Kuol,Newcastle,Liverpool,2023-02-18,True,0,0.0,0.03,1.0,0.1,0,1.0,1.0,0.0,0,0,0.0,0.56,0.0,0.0,Newcastle,False,Manchester City,4.63,-1.26
+Garang Kuol,Newcastle,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.56,0.0,0.0,Newcastle,True,Wolverhampton,-2.98,-0.48
+Garang Kuol,Newcastle,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.56,0.0,0.0,Newcastle,False,Nottingham Forest,,
+Garang Kuol,Newcastle,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.21,0.0,0.0,Newcastle,True,Manchester United,-0.55,0.38
+Garang Kuol,Newcastle,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.21,0.0,0.0,Newcastle,False,West Ham,1.45,0.14
+Garang Kuol,Newcastle,West Ham,2023-04-05,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,Newcastle,False,Brentford,-3.75,-0.55
+Garang Kuol,Newcastle,Brentford,2023-04-08,False,0,0.0,0.01,0.0,0.06,0,1.0,1.0,0.0,0,0,0.0,0.0,0.0,0.0,Newcastle,False,Aston Villa,3.3,0.59
+Garang Kuol,Newcastle,Aston Villa,2023-04-15,False,0,0.0,0.04,0.0,0.31,0,1.0,3.0,0.0,0,0,0.0,0.01,0.0,0.0,Newcastle,True,Tottenham,-0.29,1.07
+Garang Kuol,Newcastle,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.01,0.0,0.0,Newcastle,False,Everton,2.82,-0.63
+Garang Kuol,Newcastle,Everton,,False,0,,,,,0,,,0.0,0,0,0.0,0.01,0.0,0.0,Newcastle,True,Southampton,0.18,-0.38
+Garang Kuol,Newcastle,Southampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.01,0.0,0.0,Newcastle,True,Arsenal,-3.04,0.36
+Garang Kuol,Newcastle,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.01,0.0,0.0,Newcastle,False,Leicester City,-1.89,-0.05
+Garang Kuol,Newcastle,Leicester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Newcastle,True,Brighton,-4.31,-0.71
+Garang Kuol,Newcastle,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Newcastle,True,Leeds United,-5.38,-0.79
+Garang Kuol,Newcastle,Leeds United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Newcastle,False,Chelsea,0.52,-0.72
+Garang Kuol,Newcastle,Chelsea,2023-05-28,False,0,0.0,0.35,1.0,0.63,0,1.0,3.0,0.0,0,0,0.0,0.27,0.0,0.0,Newcastle,True,Aston Villa,-4.4,0.55

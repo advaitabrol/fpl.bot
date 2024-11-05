@@ -1,27 +1,27 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
-Yegor Yarmolyuk,Brentford,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Leicester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Southampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Everton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Southampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Leeds United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Liverpool,2023-05-06,False,0,0.0,0.0,0.0,0.03,0,0.0,1.0,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Yegor Yarmolyuk,Brentford,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Yegor Yarmolyuk,Brentford,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,False,Nottingham Forest,,
+Yegor Yarmolyuk,Brentford,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,False,Manchester City,1.7,-1.26
+Yegor Yarmolyuk,Brentford,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,True,Tottenham,-0.82,1.07
+Yegor Yarmolyuk,Brentford,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,False,West Ham,-2.82,0.14
+Yegor Yarmolyuk,Brentford,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,True,Liverpool,-3.03,-0.53
+Yegor Yarmolyuk,Brentford,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,True,Bournemouth,,1.46
+Yegor Yarmolyuk,Brentford,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,False,Leicester City,-0.7,-0.05
+Yegor Yarmolyuk,Brentford,Leicester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,True,Southampton,-5.29,-0.38
+Yegor Yarmolyuk,Brentford,Southampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,False,Arsenal,1.21,-0.0
+Yegor Yarmolyuk,Brentford,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,True,Crystal Palace,-1.39,0.81
+Yegor Yarmolyuk,Brentford,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,True,Fulham,,-0.3
+Yegor Yarmolyuk,Brentford,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,False,Everton,1.61,-0.63
+Yegor Yarmolyuk,Brentford,Everton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,False,Southampton,4.95,-1.07
+Yegor Yarmolyuk,Brentford,Southampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,True,Leeds United,2.58,-0.79
+Yegor Yarmolyuk,Brentford,Leeds United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,False,Brighton,2.12,-0.39
+Yegor Yarmolyuk,Brentford,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,False,Manchester United,4.13,-0.1
+Yegor Yarmolyuk,Brentford,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,True,Newcastle United,3.04,0.73
+Yegor Yarmolyuk,Brentford,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,False,Wolverhampton,-3.56,-0.46
+Yegor Yarmolyuk,Brentford,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,True,Aston Villa,-0.66,0.55
+Yegor Yarmolyuk,Brentford,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,False,Chelsea,-6.19,-0.72
+Yegor Yarmolyuk,Brentford,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,True,Nottingham Forest,,
+Yegor Yarmolyuk,Brentford,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,False,Liverpool,,-1.33
+Yegor Yarmolyuk,Brentford,Liverpool,2023-05-06,False,0,0.0,0.0,0.0,0.03,0,0.0,1.0,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,True,West Ham,,0.63
+Yegor Yarmolyuk,Brentford,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,False,Tottenham,4.55,-0.03
+Yegor Yarmolyuk,Brentford,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,True,Manchester City,0.85,-1.17
+Yegor Yarmolyuk,Brentford,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,,Brentford,True,Tottenham,-0.15,1.07

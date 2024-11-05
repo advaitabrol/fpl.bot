@@ -2,6 +2,10 @@ import os
 import numpy as np
 import pandas as pd
 
+from add_prices import add_price_to_prediction_data;
+from predict_gw import predict_gw; 
+from reformat import merge_player_weeks;
+
 def create_prediction_data(base_dir, prediction_dir, gw_folder_name, season='2024-25'):
     positions_mapping = {
         'GK': 'gk.csv',
@@ -171,6 +175,8 @@ def main_create_prediction():
     import argparse
 
     CURRENT_SEASON='2024-25'
+    GW_DIR = f'prediction_data/{CURRENT_SEASON}/'
+    PRICES_FILE = 'current_prices.csv'
 
     parser = argparse.ArgumentParser(description="Create prediction data for a given GW folder.")
     parser.add_argument('gw_folder_name', type=str, help="Name of the GW folder (e.g., 'GW10-12')")
@@ -178,6 +184,15 @@ def main_create_prediction():
     args = parser.parse_args()
     create_prediction_data('player_data', 'prediction_data', args.gw_folder_name, CURRENT_SEASON)
 
+    add_price_to_prediction_data(GW_DIR+args.gw_folder_name, PRICES_FILE)
+    predict_gw(args.gw_folder_name)
+    # Example usage
+    merge_player_weeks(f'prediction_data/2024-25/{args.gw_folder_name}/def.csv', f'prediction_data/2024-25/{args.gw_folder_name}/final_def.csv')
+    merge_player_weeks(f'prediction_data/2024-25/{args.gw_folder_name}/gk.csv', f'prediction_data/2024-25/{args.gw_folder_name}/final_gk.csv')
+    merge_player_weeks(f'prediction_data/2024-25/{args.gw_folder_name}/mid.csv', f'prediction_data/2024-25/{args.gw_folder_name}/final_mid.csv')
+    merge_player_weeks(f'prediction_data/2024-25/{args.gw_folder_name}/fwd.csv', f'prediction_data/2024-25/{args.gw_folder_name}/final_fwd.csv')
+
 if __name__ == "__main__":
     main_create_prediction()
+    
 

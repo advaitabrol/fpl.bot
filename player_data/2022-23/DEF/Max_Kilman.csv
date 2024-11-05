@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points
-Max Kilman,Wolves,Leicester City,2022-08-06,False,90,0.0,0.06,0.0,0.0,1,1.0,0.0,3.1,0,0,2,0.0,0,1.0,0.06,90.0,0.0,1.38,0.14,0.33,0,7.0
-Max Kilman,Wolves,Fulham,2022-08-13,True,90,0.0,0.0,0.0,0.0,7,0.0,0.0,1.8,1,1,0,0.0,0,4.0,0.03,90.0,0.5,1.38,0.14,0.33,0,2.0
-Max Kilman,Wolves,Tottenham,2022-08-20,False,90,0.0,0.01,0.0,0.0,2,1.0,0.0,2.7,0,0,1,0.0,0,3.33,0.02,90.0,0.33,1.38,0.14,0.33,0,2.0
-Max Kilman,Wolves,Newcastle United,2022-08-28,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.2,0,0,1,0.0,0,3.0,0.02,90.0,0.25,1.38,0.14,0.33,0,9.0
-Max Kilman,Wolves,Bournemouth,2022-08-31,False,90,0.0,0.0,0.0,0.0,9,0.0,0.0,2.4,3,1,0,0.0,0,4.2,0.01,90.0,0.4,1.38,0.14,0.33,0,6.0
-Max Kilman,Wolves,Southampton,2022-09-03,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.0,0,1,0,0.0,0,5.2,0.0,90.0,0.5,1.38,0.14,0.33,0,1.0
-Max Kilman,Wolves,Manchester City,2022-09-17,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,3,0.0,0,4.0,0.0,90.0,0.43,1.38,0.14,0.33,0,1.0
-Max Kilman,Wolves,West Ham,2022-10-01,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.8,0,0,2,0.0,0,3.8,0.0,90.0,0.38,1.38,0.14,0.33,0,1.0
-Max Kilman,Wolves,Chelsea,2022-10-08,False,90,0.0,0.22,0.0,0.0,1,1.0,0.0,1.2,0,0,3,0.0,0,3.6,0.04,90.0,0.33,1.38,0.14,0.33,0,6.0
-Max Kilman,Wolves,Nottingham Forest,2022-10-15,True,90,0.0,0.08,0.0,0.0,6,1.0,0.0,2.1,0,1,0,0.0,0,3.0,0.06,90.0,0.4,1.38,0.14,0.33,0,1.0
-Max Kilman,Wolves,Crystal Palace,2022-10-18,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,2,0.0,0,2.0,0.06,90.0,0.36,1.38,0.14,0.33,0,0.0
-Max Kilman,Wolves,Leeds United,2022-10-23,True,90,0.0,0.12,0.0,0.0,0,1.0,0.0,2.4,0,0,4,0.0,0,1.8,0.08,90.0,0.33,1.38,0.14,0.33,0,2.0
-Max Kilman,Wolves,Brentford,2022-10-29,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.7,0,0,1,0.0,0,2.0,0.08,90.0,0.31,1.38,0.14,0.33,0,1.0
-Max Kilman,Wolves,Brighton,2022-11-05,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,3,0.0,0,2.0,0.04,90.0,0.29,1.38,0.14,0.33,0,1.0
-Max Kilman,Wolves,Arsenal,2022-11-12,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,2,1.81,1,1.0,0.02,90.0,0.27,1.38,0.14,0.33,0,1.0
-Max Kilman,Wolves,Everton,2022-12-26,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,1.73,1,1.0,0.02,90.0,0.25,1.38,0.14,0.33,0,2.0
-Max Kilman,Wolves,Manchester United,2022-12-31,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,0,1,1.99,1,1.4,0.0,90.0,0.24,1.38,0.14,0.33,0,1.0
-Max Kilman,Wolves,Aston Villa,2023-01-04,False,90,0.0,0.05,0.0,0.0,1,1.0,0.0,5.8,0,0,1,1.61,1,1.2,0.01,90.0,0.22,1.38,0.14,0.33,0,9.0
-Max Kilman,Wolves,West Ham,2023-01-14,True,90,0.0,0.0,0.0,0.0,9,0.0,0.0,4.9,3,1,0,1.02,1,2.8,0.01,90.0,0.26,1.38,0.14,0.33,0,0.0
-Max Kilman,Wolves,Manchester City,2023-01-22,False,90,0.0,0.01,0.0,0.0,0,1.0,0.0,1.4,0,0,3,2.63,1,2.6,0.01,90.0,0.25,1.38,0.14,0.33,0,11.0
-Max Kilman,Wolves,Liverpool,2023-02-04,True,90,0.0,0.36,0.0,0.02,11,1.0,1.0,5.5,2,1,0,1.91,1,4.6,0.08,90.0,0.29,1.38,0.14,0.33,0,2.0
-Max Kilman,Wolves,Southampton,2023-02-11,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,0,1,1.14,1,4.6,0.08,90.0,0.27,1.38,0.14,0.33,0,2.0
-Max Kilman,Wolves,Bournemouth,2023-02-18,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.9,0,0,1,1.01,1,4.8,0.08,90.0,0.26,1.38,0.14,0.33,0,2.0
-Max Kilman,Wolves,Fulham,2023-02-24,False,90,0.0,0.32,0.0,0.0,2,1.0,0.0,1.3,0,0,1,0.47,1,3.4,0.14,90.0,0.25,1.38,0.14,0.33,0,1.0
-Max Kilman,Wolves,Liverpool,2023-03-01,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,2,2.51,1,3.6,0.14,90.0,0.24,1.38,0.14,0.33,0,7.0
-Max Kilman,Wolves,Tottenham,2023-03-04,True,90,0.0,0.0,0.0,0.0,7,0.0,0.0,1.9,1,1,0,1.34,1,2.8,0.06,90.0,0.27,1.38,0.14,0.33,0,1.0
-Max Kilman,Wolves,Newcastle United,2023-03-12,False,90,0.0,0.0,0.0,0.03,1,0.0,1.0,4.9,0,0,2,1.98,1,2.6,0.06,90.0,0.26,1.38,0.14,0.33,0,0.0
-Max Kilman,Wolves,Leicester City,2023-03-18,True,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.7,0,0,4,1.47,1,2.2,0.06,90.0,0.25,1.38,0.14,0.33,0,2.0
-Max Kilman,Wolves,Nottingham Forest,2023-04-01,False,90,0.0,0.03,0.0,0.0,2,1.0,0.0,2.9,0,0,1,1.26,1,2.2,0.01,90.0,0.24,1.38,0.14,0.33,0,7.0
-Max Kilman,Wolves,Chelsea,2023-04-08,True,90,0.0,0.0,0.0,0.0,7,0.0,0.0,3.1,1,1,0,1.05,1,3.4,0.01,90.0,0.27,1.38,0.14,0.33,0,6.0
-Max Kilman,Wolves,Brentford,2023-04-15,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.6,0,1,0,1.18,1,3.2,0.01,90.0,0.29,1.38,0.14,0.33,0,1.0
-Max Kilman,Wolves,Leeds United,2023-04-22,False,90,0.0,0.06,0.0,0.0,1,1.0,0.0,2.5,0,0,2,2.42,1,3.2,0.02,90.0,0.28,1.38,0.14,0.33,0,6.0
-Max Kilman,Wolves,Crystal Palace,2023-04-25,True,90,0.0,0.04,0.0,0.0,6,1.0,0.0,2.6,0,1,0,0.75,1,4.4,0.03,90.0,0.3,1.38,0.14,0.33,0,-1.0
-Max Kilman,Wolves,Brighton,2023-04-29,False,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,2.4,0,0,6,3.28,1,3.8,0.02,90.0,0.29,1.38,0.14,0.33,0,7.0
-Max Kilman,Wolves,Aston Villa,2023-05-06,True,90,0.0,0.0,0.0,0.0,7,0.0,0.0,1.9,1,1,0,1.57,1,3.8,0.02,90.0,0.31,1.38,0.14,0.33,0,1.0
-Max Kilman,Wolves,Manchester United,2023-05-13,False,90,0.0,0.12,0.0,0.08,1,2.0,1.0,3.1,0,0,2,2.68,1,2.8,0.04,90.0,0.31,1.38,0.14,0.33,0,0.0
-Max Kilman,Wolves,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.6,0.03,87.57,0.31,1.38,0.14,0.33,0,0.0
-Max Kilman,Wolves,Arsenal,2023-05-28,False,67,0.0,0.0,0.0,0.07,0,0.0,1.0,0.0,0,0,4,1.68,1,1.4,0.02,87.03,0.3,1.38,0.14,0.33,0,2.0
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Max Kilman,Wolves,Leicester City,2022-08-06,False,90,0.0,0.06,0.0,0.0,1,1.0,0.0,3.1,0,0,2,0.0,0,1.0,0.06,90.0,0.0,1.38,0.14,0.33,0,7.0,Wolves,True,Fulham,,-0.3
+Max Kilman,Wolves,Fulham,2022-08-13,True,90,0.0,0.0,0.0,0.0,7,0.0,0.0,1.8,1,1,0,0.0,0,4.0,0.03,90.0,0.5,1.38,0.14,0.33,0,2.0,Wolves,False,Tottenham,-4.46,-0.03
+Max Kilman,Wolves,Tottenham,2022-08-20,False,90,0.0,0.01,0.0,0.0,2,1.0,0.0,2.7,0,0,1,0.0,0,3.33,0.02,90.0,0.33,1.38,0.14,0.33,0,2.0,Wolves,True,Newcastle United,-1.53,0.73
+Max Kilman,Wolves,Newcastle United,2022-08-28,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.2,0,0,1,0.0,0,3.0,0.02,90.0,0.25,1.38,0.14,0.33,0,9.0,Wolves,False,Bournemouth,,0.19
+Max Kilman,Wolves,Bournemouth,2022-08-31,False,90,0.0,0.0,0.0,0.0,9,0.0,0.0,2.4,3,1,0,0.0,0,4.2,0.01,90.0,0.4,1.38,0.14,0.33,0,6.0,Wolves,True,Southampton,-4.51,-0.38
+Max Kilman,Wolves,Southampton,2022-09-03,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.0,0,1,0,0.0,0,5.2,0.0,90.0,0.5,1.38,0.14,0.33,0,1.0,Wolves,True,Manchester City,4.97,-1.17
+Max Kilman,Wolves,Manchester City,2022-09-17,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,3,0.0,0,4.0,0.0,90.0,0.43,1.38,0.14,0.33,0,1.0,Wolves,False,West Ham,0.58,0.14
+Max Kilman,Wolves,West Ham,2022-10-01,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.8,0,0,2,0.0,0,3.8,0.0,90.0,0.38,1.38,0.14,0.33,0,1.0,Wolves,False,Chelsea,-1.63,-0.72
+Max Kilman,Wolves,Chelsea,2022-10-08,False,90,0.0,0.22,0.0,0.0,1,1.0,0.0,1.2,0,0,3,0.0,0,3.6,0.04,90.0,0.33,1.38,0.14,0.33,0,6.0,Wolves,True,Nottingham Forest,,
+Max Kilman,Wolves,Nottingham Forest,2022-10-15,True,90,0.0,0.08,0.0,0.0,6,1.0,0.0,2.1,0,1,0,0.0,0,3.0,0.06,90.0,0.4,1.38,0.14,0.33,0,1.0,Wolves,False,Crystal Palace,3.09,0.13
+Max Kilman,Wolves,Crystal Palace,2022-10-18,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,2,0.0,0,2.0,0.06,90.0,0.36,1.38,0.14,0.33,0,0.0,Wolves,True,Leeds United,-1.61,-0.79
+Max Kilman,Wolves,Leeds United,2022-10-23,True,90,0.0,0.12,0.0,0.0,0,1.0,0.0,2.4,0,0,4,0.0,0,1.8,0.08,90.0,0.33,1.38,0.14,0.33,0,2.0,Wolves,False,Brentford,-1.55,-0.55
+Max Kilman,Wolves,Brentford,2022-10-29,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.7,0,0,1,0.0,0,2.0,0.08,90.0,0.31,1.38,0.14,0.33,0,1.0,Wolves,True,Brighton,5.19,-0.71
+Max Kilman,Wolves,Brighton,2022-11-05,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,3,0.0,0,2.0,0.04,90.0,0.29,1.38,0.14,0.33,0,1.0,Wolves,True,Arsenal,1.59,0.36
+Max Kilman,Wolves,Arsenal,2022-11-12,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,2,1.81,1,1.0,0.02,90.0,0.27,1.38,0.14,0.33,0,1.0,Wolves,False,Everton,-1.05,-0.63
+Max Kilman,Wolves,Everton,2022-12-26,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1,1.73,1,1.0,0.02,90.0,0.25,1.38,0.14,0.33,0,2.0,Wolves,True,Manchester United,-0.79,0.38
+Max Kilman,Wolves,Manchester United,2022-12-31,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,0,1,1.99,1,1.4,0.0,90.0,0.24,1.38,0.14,0.33,0,1.0,Wolves,False,Aston Villa,-2.09,0.59
+Max Kilman,Wolves,Aston Villa,2023-01-04,False,90,0.0,0.05,0.0,0.0,1,1.0,0.0,5.8,0,0,1,1.61,1,1.2,0.01,90.0,0.22,1.38,0.14,0.33,0,9.0,Wolves,True,West Ham,-2.69,0.63
+Max Kilman,Wolves,West Ham,2023-01-14,True,90,0.0,0.0,0.0,0.0,9,0.0,0.0,4.9,3,1,0,1.02,1,2.8,0.01,90.0,0.26,1.38,0.14,0.33,0,0.0,Wolves,False,Manchester City,-0.09,-1.26
+Max Kilman,Wolves,Manchester City,2023-01-22,False,90,0.0,0.01,0.0,0.0,0,1.0,0.0,1.4,0,0,3,2.63,1,2.6,0.01,90.0,0.25,1.38,0.14,0.33,0,11.0,Wolves,True,Liverpool,0.37,-0.53
+Max Kilman,Wolves,Liverpool,2023-02-04,True,90,0.0,0.36,0.0,0.02,11,1.0,1.0,5.5,2,1,0,1.91,1,4.6,0.08,90.0,0.29,1.38,0.14,0.33,0,2.0,Wolves,False,Southampton,-2.8,-1.07
+Max Kilman,Wolves,Southampton,2023-02-11,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,0,1,1.14,1,4.6,0.08,90.0,0.27,1.38,0.14,0.33,0,2.0,Wolves,True,Bournemouth,,1.46
+Max Kilman,Wolves,Bournemouth,2023-02-18,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.9,0,0,1,1.01,1,4.8,0.08,90.0,0.26,1.38,0.14,0.33,0,2.0,Wolves,False,Fulham,,1.37
+Max Kilman,Wolves,Fulham,2023-02-24,False,90,0.0,0.32,0.0,0.0,2,1.0,0.0,1.3,0,0,1,0.47,1,3.4,0.14,90.0,0.25,1.38,0.14,0.33,0,1.0,Wolves,False,Liverpool,,-1.33
+Max Kilman,Wolves,Liverpool,2023-03-01,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,2,2.51,1,3.6,0.14,90.0,0.24,1.38,0.14,0.33,0,7.0,Wolves,True,Tottenham,2.05,1.07
+Max Kilman,Wolves,Tottenham,2023-03-04,True,90,0.0,0.0,0.0,0.0,7,0.0,0.0,1.9,1,1,0,1.34,1,2.8,0.06,90.0,0.27,1.38,0.14,0.33,0,1.0,Wolves,False,Newcastle United,,-0.34
+Max Kilman,Wolves,Newcastle United,2023-03-12,False,90,0.0,0.0,0.0,0.03,1,0.0,1.0,4.9,0,0,2,1.98,1,2.6,0.06,90.0,0.26,1.38,0.14,0.33,0,0.0,Wolves,True,Leicester City,,0.83
+Max Kilman,Wolves,Leicester City,2023-03-18,True,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.7,0,0,4,1.47,1,2.2,0.06,90.0,0.25,1.38,0.14,0.33,0,2.0,Wolves,False,Nottingham Forest,,
+Max Kilman,Wolves,Nottingham Forest,2023-04-01,False,90,0.0,0.03,0.0,0.0,2,1.0,0.0,2.9,0,0,1,1.26,1,2.2,0.01,90.0,0.24,1.38,0.14,0.33,0,7.0,Wolves,True,Chelsea,-1.03,-0.25
+Max Kilman,Wolves,Chelsea,2023-04-08,True,90,0.0,0.0,0.0,0.0,7,0.0,0.0,3.1,1,1,0,1.05,1,3.4,0.01,90.0,0.27,1.38,0.14,0.33,0,6.0,Wolves,True,Brentford,3.23,0.69
+Max Kilman,Wolves,Brentford,2023-04-15,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.6,0,1,0,1.18,1,3.2,0.01,90.0,0.29,1.38,0.14,0.33,0,1.0,Wolves,False,Leeds United,0.21,-0.8
+Max Kilman,Wolves,Leeds United,2023-04-22,False,90,0.0,0.06,0.0,0.0,1,1.0,0.0,2.5,0,0,2,2.42,1,3.2,0.02,90.0,0.28,1.38,0.14,0.33,0,6.0,Wolves,True,Crystal Palace,,0.81
+Max Kilman,Wolves,Crystal Palace,2023-04-25,True,90,0.0,0.04,0.0,0.0,6,1.0,0.0,2.6,0,1,0,0.75,1,4.4,0.03,90.0,0.3,1.38,0.14,0.33,0,-1.0,Wolves,False,Brighton,-1.83,-0.39
+Max Kilman,Wolves,Brighton,2023-04-29,False,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,2.4,0,0,6,3.28,1,3.8,0.02,90.0,0.29,1.38,0.14,0.33,0,7.0,Wolves,True,Aston Villa,,0.55
+Max Kilman,Wolves,Aston Villa,2023-05-06,True,90,0.0,0.0,0.0,0.0,7,0.0,0.0,1.9,1,1,0,1.57,1,3.8,0.02,90.0,0.31,1.38,0.14,0.33,0,1.0,Wolves,False,Manchester United,-0.63,-0.1
+Max Kilman,Wolves,Manchester United,2023-05-13,False,90,0.0,0.12,0.0,0.08,1,2.0,1.0,3.1,0,0,2,2.68,1,2.8,0.04,90.0,0.31,1.38,0.14,0.33,0,0.0,Wolves,True,Everton,-1.31,0.34
+Max Kilman,Wolves,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.6,0.03,87.57,0.31,1.38,0.14,0.33,0,0.0,Wolves,False,Arsenal,,-0.0
+Max Kilman,Wolves,Arsenal,2023-05-28,False,67,0.0,0.0,0.0,0.07,0,0.0,1.0,0.0,0,0,4,1.68,1,1.4,0.02,87.03,0.3,1.38,0.14,0.33,0,2.0,Wolves,False,Manchester United,-0.63,-0.1

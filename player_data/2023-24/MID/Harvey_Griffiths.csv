@@ -1,19 +1,19 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Harvey Griffiths,Wolves,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,5.0,1.0,3.61,1.23,0,0.0
-Harvey Griffiths,Wolves,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,5.0,1.0,3.61,1.23,0,0.0
-Harvey Griffiths,Wolves,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,5.0,1.0,3.61,1.23,0,0.0
-Harvey Griffiths,Wolves,Brentford,2024-02-10,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,5.0,1.0,3.61,1.23,0,0.0
-Harvey Griffiths,Wolves,Tottenham,2024-02-17,False,0,0.0,0.08,0.0,0.0,0,2.0,0.0,0.0,0,0,0.0,0.02,0.0,5.0,1.0,3.61,1.23,0,0.0
-Harvey Griffiths,Wolves,Sheffield,,True,0,,,,,0,,,0.0,0,0,0.0,0.02,0.0,5.0,1.0,3.61,1.23,0,0.0
-Harvey Griffiths,Wolves,Newcastle United,2024-03-02,False,0,0.0,0.04,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.02,0.0,5.0,1.0,3.61,1.23,0,0.0
-Harvey Griffiths,Wolves,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.02,0.0,5.0,1.0,3.61,1.23,0,0.0
-Harvey Griffiths,Wolves,Aston Villa,2024-03-30,False,0,2.0,0.67,0.0,0.02,0,4.0,1.0,0.0,0,0,0.0,0.16,0.0,5.0,1.0,3.61,1.23,0,0.0
-Harvey Griffiths,Wolves,Burnley,2024-04-02,False,0,0.0,0.54,1.0,1.19,0,3.0,4.0,0.0,0,0,0.0,0.45,0.0,5.0,1.0,3.61,1.23,0,0.0
-Harvey Griffiths,Wolves,West Ham,2024-04-06,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.45,0.0,5.0,1.0,3.61,1.23,0,0.0
-Harvey Griffiths,Wolves,Nottingham Forest,2024-04-13,False,0,0.0,0.19,0.0,0.91,0,2.0,3.0,0.0,0,0,0.0,0.48,0.0,5.0,1.0,3.61,1.23,0,0.0
-Harvey Griffiths,Wolves,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.48,0.0,5.0,1.0,3.61,1.23,0,0.0
-Harvey Griffiths,Wolves,Bournemouth,2024-04-24,True,0,0.0,0.06,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.36,0.0,5.0,1.0,3.61,1.23,0,0.0
-Harvey Griffiths,Wolves,Luton,2024-04-27,True,0,0.0,0.0,1.0,0.56,0,0.0,2.0,0.0,0,0,0.0,0.25,0.0,5.0,1.0,3.61,1.23,0,0.0
-Harvey Griffiths,Wolves,Manchester City,2024-05-04,False,0,0.0,0.23,0.0,0.41,0,2.0,1.0,0.0,0,0,0.0,0.3,0.0,5.0,1.0,3.61,1.23,0,0.0
-Harvey Griffiths,Wolves,Crystal Palace,2024-05-11,True,0,0.0,0.15,0.0,0.0,0,2.0,0.0,0.0,0,0,0.0,0.29,0.0,5.0,1.0,3.61,1.23,0,0.0
-Harvey Griffiths,Wolves,Liverpool,2024-05-19,False,0,1.0,0.58,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.4,0.0,5.0,1.0,3.61,1.23,0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Harvey Griffiths,Wolves,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,5.0,1.0,3.61,1.23,0,0.0,Wolves,True,Manchester United,0.17,0.38
+Harvey Griffiths,Wolves,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,5.0,1.0,3.61,1.23,0,0.0,Wolves,False,Chelsea,0.12,-0.85
+Harvey Griffiths,Wolves,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,5.0,1.0,3.61,1.23,0,0.0,Wolves,True,Brentford,0.29,0.79
+Harvey Griffiths,Wolves,Brentford,2024-02-10,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,5.0,1.0,3.61,1.23,0,0.0,Wolves,False,Tottenham,-1.64,-0.36
+Harvey Griffiths,Wolves,Tottenham,2024-02-17,False,0,0.0,0.08,0.0,0.0,0,2.0,0.0,0.0,0,0,0.0,0.02,0.0,5.0,1.0,3.61,1.23,0,0.0,Wolves,True,Sheffield,,0.68
+Harvey Griffiths,Wolves,Sheffield,,True,0,,,,,0,,,0.0,0,0,0.0,0.02,0.0,5.0,1.0,3.61,1.23,0,0.0,Wolves,False,Newcastle United,1.8,-0.41
+Harvey Griffiths,Wolves,Newcastle United,2024-03-02,False,0,0.0,0.04,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.02,0.0,5.0,1.0,3.61,1.23,0,0.0,Wolves,True,Fulham,0.54,-0.13
+Harvey Griffiths,Wolves,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.02,0.0,5.0,1.0,3.61,1.23,0,0.0,Wolves,False,Aston Villa,-0.98,0.29
+Harvey Griffiths,Wolves,Aston Villa,2024-03-30,False,0,2.0,0.67,0.0,0.02,0,4.0,1.0,0.0,0,0,0.0,0.16,0.0,5.0,1.0,3.61,1.23,0,0.0,Wolves,False,Burnley,3.56,0.0
+Harvey Griffiths,Wolves,Burnley,2024-04-02,False,0,0.0,0.54,1.0,1.19,0,3.0,4.0,0.0,0,0,0.0,0.45,0.0,5.0,1.0,3.61,1.23,0,0.0,Wolves,True,West Ham,-2.07,0.49
+Harvey Griffiths,Wolves,West Ham,2024-04-06,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.45,0.0,5.0,1.0,3.61,1.23,0,0.0,Wolves,False,Nottingham Forest,1.25,-0.55
+Harvey Griffiths,Wolves,Nottingham Forest,2024-04-13,False,0,0.0,0.19,0.0,0.91,0,2.0,3.0,0.0,0,0,0.0,0.48,0.0,5.0,1.0,3.61,1.23,0,0.0,Wolves,True,Arsenal,2.55,-0.11
+Harvey Griffiths,Wolves,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.48,0.0,5.0,1.0,3.61,1.23,0,0.0,Wolves,True,Bournemouth,3.94,1.22
+Harvey Griffiths,Wolves,Bournemouth,2024-04-24,True,0,0.0,0.06,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.36,0.0,5.0,1.0,3.61,1.23,0,0.0,Wolves,True,Luton,,
+Harvey Griffiths,Wolves,Luton,2024-04-27,True,0,0.0,0.0,1.0,0.56,0,0.0,2.0,0.0,0,0,0.0,0.25,0.0,5.0,1.0,3.61,1.23,0,0.0,Wolves,False,Manchester City,2.74,-1.32
+Harvey Griffiths,Wolves,Manchester City,2024-05-04,False,0,0.0,0.23,0.0,0.41,0,2.0,1.0,0.0,0,0,0.0,0.3,0.0,5.0,1.0,3.61,1.23,0,0.0,Wolves,True,Crystal Palace,0.21,0.88
+Harvey Griffiths,Wolves,Crystal Palace,2024-05-11,True,0,0.0,0.15,0.0,0.0,0,2.0,0.0,0.0,0,0,0.0,0.29,0.0,5.0,1.0,3.61,1.23,0,0.0,Wolves,False,Liverpool,1.73,-1.01
+Harvey Griffiths,Wolves,Liverpool,2024-05-19,False,0,1.0,0.58,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.4,0.0,5.0,1.0,3.61,1.23,0,,Wolves,False,Arsenal,2.85,-0.48

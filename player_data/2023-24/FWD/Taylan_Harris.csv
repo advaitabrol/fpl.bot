@@ -1,7 +1,7 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
-Taylan Harris,Luton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Taylan Harris,Luton,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Taylan Harris,Luton,Wolverhampton,2024-04-27,False,0,0.0,0.2,0.0,0.0,0,4.0,0.0,0.0,0,0,0.0,0.07,0.0,0.0
-Taylan Harris,Luton,Everton,2024-05-03,True,0,0.0,0.06,0.0,0.12,0,3.0,2.0,0.0,0,0,0.0,0.06,0.0,0.0
-Taylan Harris,Luton,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.05,0.0,0.0
-Taylan Harris,Luton,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.05,0.0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Taylan Harris,Luton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Luton,True,Brentford,,0.79
+Taylan Harris,Luton,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Luton,False,Wolverhampton,,-0.52
+Taylan Harris,Luton,Wolverhampton,2024-04-27,False,0,0.0,0.2,0.0,0.0,0,4.0,0.0,0.0,0,0,0.0,0.07,0.0,0.0,Luton,True,Everton,,0.53
+Taylan Harris,Luton,Everton,2024-05-03,True,0,0.0,0.06,0.0,0.12,0,3.0,2.0,0.0,0,0,0.0,0.06,0.0,0.0,Luton,False,West Ham,,-0.22
+Taylan Harris,Luton,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.05,0.0,0.0,Luton,True,Fulham,,-0.13
+Taylan Harris,Luton,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.05,0.0,,Fulham,False,Manchester United,0.59,-0.63

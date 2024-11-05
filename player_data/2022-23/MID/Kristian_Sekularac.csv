@@ -1,25 +1,25 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
-Kristian Sekularac,Fulham,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Kristian Sekularac,Fulham,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Kristian Sekularac,Fulham,Southampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Kristian Sekularac,Fulham,Leeds United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Kristian Sekularac,Fulham,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Kristian Sekularac,Fulham,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Kristian Sekularac,Fulham,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Kristian Sekularac,Fulham,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Kristian Sekularac,Fulham,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Kristian Sekularac,Fulham,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Kristian Sekularac,Fulham,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Kristian Sekularac,Fulham,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Kristian Sekularac,Fulham,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Kristian Sekularac,Fulham,Bournemouth,2023-04-01,False,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0
-Kristian Sekularac,Fulham,West Ham,2023-04-08,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0
-Kristian Sekularac,Fulham,Everton,2023-04-15,False,0,0.0,0.11,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.03,0.0,0.0
-Kristian Sekularac,Fulham,Leicester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.03,0.0,0.0
-Kristian Sekularac,Fulham,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.03,0.0,0.0
-Kristian Sekularac,Fulham,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.02,0.0,0.0
-Kristian Sekularac,Fulham,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.02,0.0,0.0
-Kristian Sekularac,Fulham,Leeds United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Kristian Sekularac,Fulham,Southampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Kristian Sekularac,Fulham,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Kristian Sekularac,Fulham,Manchester United,2023-05-28,False,0,0.0,0.35,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.07,0.0,0.0
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Kristian Sekularac,Fulham,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Fulham,False,Crystal Palace,,0.13
+Kristian Sekularac,Fulham,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Fulham,True,Southampton,,-0.38
+Kristian Sekularac,Fulham,Southampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Fulham,False,Leeds United,,-0.8
+Kristian Sekularac,Fulham,Leeds United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Fulham,True,Chelsea,,-0.25
+Kristian Sekularac,Fulham,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Fulham,False,Newcastle United,,-0.34
+Kristian Sekularac,Fulham,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Fulham,True,Tottenham,,1.07
+Kristian Sekularac,Fulham,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Fulham,False,Chelsea,,-0.72
+Kristian Sekularac,Fulham,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Fulham,True,Nottingham Forest,,
+Kristian Sekularac,Fulham,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Fulham,False,Brighton,,-0.39
+Kristian Sekularac,Fulham,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Fulham,True,Wolverhampton,,-0.48
+Kristian Sekularac,Fulham,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Fulham,False,Brentford,,-0.55
+Kristian Sekularac,Fulham,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Fulham,True,Arsenal,,0.36
+Kristian Sekularac,Fulham,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Fulham,False,Bournemouth,,0.19
+Kristian Sekularac,Fulham,Bournemouth,2023-04-01,False,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,Fulham,True,West Ham,,0.63
+Kristian Sekularac,Fulham,West Ham,2023-04-08,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,Fulham,False,Everton,,-0.63
+Kristian Sekularac,Fulham,Everton,2023-04-15,False,0,0.0,0.11,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.03,0.0,0.0,Fulham,True,Leicester City,,0.83
+Kristian Sekularac,Fulham,Leicester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.03,0.0,0.0,Fulham,False,Aston Villa,,0.59
+Kristian Sekularac,Fulham,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.03,0.0,0.0,Fulham,True,Manchester City,,-1.17
+Kristian Sekularac,Fulham,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.02,0.0,0.0,Fulham,False,Liverpool,,-1.33
+Kristian Sekularac,Fulham,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.02,0.0,0.0,Fulham,True,Leeds United,,-0.79
+Kristian Sekularac,Fulham,Leeds United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Fulham,False,Southampton,,-1.07
+Kristian Sekularac,Fulham,Southampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Fulham,True,Crystal Palace,,0.81
+Kristian Sekularac,Fulham,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Fulham,False,Manchester United,,-0.1
+Kristian Sekularac,Fulham,Manchester United,2023-05-28,False,0,0.0,0.35,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.07,0.0,0.0,Fulham,True,Everton,1.34,0.34
