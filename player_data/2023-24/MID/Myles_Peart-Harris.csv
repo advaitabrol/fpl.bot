@@ -1,28 +1,28 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
-Myles Peart-Harris,Brentford,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Myles Peart-Harris,Brentford,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,1.0
-Myles Peart-Harris,Brentford,Luton,2023-12-02,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0.33,0.0,0.33,1.0
-Myles Peart-Harris,Brentford,Brighton,2023-12-06,False,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.5,0.0,1.75,0.0
-Myles Peart-Harris,Brentford,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,1.4,0.0
-Myles Peart-Harris,Brentford,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.4,0.0,1.17,1.0
-Myles Peart-Harris,Brentford,Wolverhampton,2023-12-27,True,4,0.0,0.0,0.0,0.01,1,0.0,1.0,1.4,0,0,0.6,0.0,1.57,0.0
-Myles Peart-Harris,Brentford,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,1.38,0.0
-Myles Peart-Harris,Brentford,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,1.22,0.0
-Myles Peart-Harris,Brentford,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,1.1,0.0
-Myles Peart-Harris,Brentford,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,1.0,0.0
-Myles Peart-Harris,Brentford,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.92,0.0
-Myles Peart-Harris,Brentford,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.85,0.0
-Myles Peart-Harris,Brentford,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.79,0.0
-Myles Peart-Harris,Brentford,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.73,0.0
-Myles Peart-Harris,Brentford,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.69,0.0
-Myles Peart-Harris,Brentford,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.65,0.0
-Myles Peart-Harris,Brentford,Burnley,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.61,0.0
-Myles Peart-Harris,Brentford,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.58,0.0
-Myles Peart-Harris,Brentford,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.55,0.0
-Myles Peart-Harris,Brentford,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.52,0.0
-Myles Peart-Harris,Brentford,Sheffield,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.5,0.0
-Myles Peart-Harris,Brentford,Luton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.48,0.0
-Myles Peart-Harris,Brentford,Everton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.46,0.0
-Myles Peart-Harris,Brentford,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.44,0.0
-Myles Peart-Harris,Brentford,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.42,0.0
-Myles Peart-Harris,Brentford,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.41,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Myles Peart-Harris,Brentford,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brentford,True,Arsenal,-0.45,-0.11
+Myles Peart-Harris,Brentford,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,1.0,Brentford,True,Luton,,
+Myles Peart-Harris,Brentford,Luton,2023-12-02,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0.33,0.0,0.33,1.0,Brentford,False,Brighton,1.94,-0.6
+Myles Peart-Harris,Brentford,Brighton,2023-12-06,False,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.5,0.0,1.75,0.0,Brentford,False,Sheffield,,-0.61
+Myles Peart-Harris,Brentford,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,1.4,0.0,Brentford,True,Aston Villa,0.1,0.64
+Myles Peart-Harris,Brentford,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.4,0.0,1.17,1.0,Brentford,True,Wolverhampton,1.61,0.05
+Myles Peart-Harris,Brentford,Wolverhampton,2023-12-27,True,4,0.0,0.0,0.0,0.01,1,0.0,1.0,1.4,0,0,0.6,0.0,1.57,0.0,Brentford,False,Crystal Palace,0.48,0.38
+Myles Peart-Harris,Brentford,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,1.38,0.0,Brentford,True,Nottingham Forest,0.65,1.55
+Myles Peart-Harris,Brentford,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,1.22,0.0,Brentford,False,Tottenham,1.78,-0.36
+Myles Peart-Harris,Brentford,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,1.1,0.0,Brentford,True,Manchester City,0.86,-0.96
+Myles Peart-Harris,Brentford,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,1.0,0.0,Brentford,False,Wolverhampton,-0.44,-0.52
+Myles Peart-Harris,Brentford,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.92,0.0,Brentford,True,Liverpool,-3.47,0.18
+Myles Peart-Harris,Brentford,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.85,0.0,Brentford,False,Manchester City,-1.15,-1.32
+Myles Peart-Harris,Brentford,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.79,0.0,Brentford,False,West Ham,-2.81,-0.22
+Myles Peart-Harris,Brentford,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.73,0.0,Brentford,True,Chelsea,0.13,-0.25
+Myles Peart-Harris,Brentford,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.69,0.0,Brentford,False,Arsenal,0.51,-0.48
+Myles Peart-Harris,Brentford,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.65,0.0,Brentford,False,Burnley,4.94,0.0
+Myles Peart-Harris,Brentford,Burnley,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.61,0.0,Brentford,True,Manchester United,-1.31,0.38
+Myles Peart-Harris,Brentford,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.58,0.0,Brentford,True,Brighton,-1.03,-0.66
+Myles Peart-Harris,Brentford,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.55,0.0,Brentford,False,Aston Villa,3.41,0.29
+Myles Peart-Harris,Brentford,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.52,0.0,Brentford,True,Sheffield,,0.68
+Myles Peart-Harris,Brentford,Sheffield,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.5,0.0,Brentford,False,Luton,,
+Myles Peart-Harris,Brentford,Luton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.48,0.0,Brentford,False,Everton,,-0.24
+Myles Peart-Harris,Brentford,Everton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.46,0.0,Brentford,True,Fulham,,-0.13
+Myles Peart-Harris,Brentford,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.44,0.0,Brentford,False,Bournemouth,2.35,0.19
+Myles Peart-Harris,Brentford,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.42,0.0,Brentford,True,Newcastle United,,0.55
+Myles Peart-Harris,Brentford,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.41,,Brentford,True,Crystal Palace,0.84,0.88

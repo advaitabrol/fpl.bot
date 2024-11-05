@@ -1,12 +1,12 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
-Leon Chiwome,Wolves,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0
-Leon Chiwome,Wolves,Aston Villa,2024-03-30,False,83,0.0,0.05,0.0,0.0,2,1.0,0.0,1.3,0,1,1.0,0.02,41.5,2.0
-Leon Chiwome,Wolves,Burnley,2024-04-02,False,75,0.0,0.1,0.0,0.0,2,1.0,0.0,0.7,0,1,1.33,0.05,52.67,1.0
-Leon Chiwome,Wolves,West Ham,2024-04-06,True,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1.25,0.04,43.25,0.0
-Leon Chiwome,Wolves,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,1.0,0.03,34.6,0.0
-Leon Chiwome,Wolves,Arsenal,,True,0,,,,,0,,,0.0,0,0,1.0,0.03,28.83,0.0
-Leon Chiwome,Wolves,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.6,0.02,24.71,0.0
-Leon Chiwome,Wolves,Luton,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,21.62,0.0
-Leon Chiwome,Wolves,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,19.22,0.0
-Leon Chiwome,Wolves,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,17.3,0.0
-Leon Chiwome,Wolves,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,15.73,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Leon Chiwome,Wolves,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,Wolves,False,Aston Villa,-0.98,0.29
+Leon Chiwome,Wolves,Aston Villa,2024-03-30,False,83,0.0,0.05,0.0,0.0,2,1.0,0.0,1.3,0,1,1.0,0.02,41.5,2.0,Wolves,False,Burnley,3.56,0.0
+Leon Chiwome,Wolves,Burnley,2024-04-02,False,75,0.0,0.1,0.0,0.0,2,1.0,0.0,0.7,0,1,1.33,0.05,52.67,1.0,Wolves,True,West Ham,-2.07,0.49
+Leon Chiwome,Wolves,West Ham,2024-04-06,True,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1.25,0.04,43.25,0.0,Wolves,False,Nottingham Forest,1.25,-0.55
+Leon Chiwome,Wolves,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,1.0,0.03,34.6,0.0,Wolves,True,Arsenal,2.55,-0.11
+Leon Chiwome,Wolves,Arsenal,,True,0,,,,,0,,,0.0,0,0,1.0,0.03,28.83,0.0,Wolves,True,Bournemouth,3.94,1.22
+Leon Chiwome,Wolves,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.6,0.02,24.71,0.0,Wolves,True,Luton,,
+Leon Chiwome,Wolves,Luton,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,21.62,0.0,Wolves,False,Manchester City,2.74,-1.32
+Leon Chiwome,Wolves,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,19.22,0.0,Wolves,True,Crystal Palace,0.21,0.88
+Leon Chiwome,Wolves,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,17.3,0.0,Wolves,False,Liverpool,1.73,-1.01
+Leon Chiwome,Wolves,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,15.73,,Wolves,False,Arsenal,2.85,-0.48

@@ -1,19 +1,19 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
-Callum Marshall,West Ham,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Callum Marshall,West Ham,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Callum Marshall,West Ham,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Callum Marshall,West Ham,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Callum Marshall,West Ham,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Callum Marshall,West Ham,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Callum Marshall,West Ham,Everton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Callum Marshall,West Ham,Burnley,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Callum Marshall,West Ham,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Callum Marshall,West Ham,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Callum Marshall,West Ham,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Callum Marshall,West Ham,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Callum Marshall,West Ham,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Callum Marshall,West Ham,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Callum Marshall,West Ham,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Callum Marshall,West Ham,Chelsea,2024-05-05,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0
-Callum Marshall,West Ham,Luton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Callum Marshall,West Ham,Manchester City,2024-05-19,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Callum Marshall,West Ham,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,True,Bournemouth,-2.69,1.22
+Callum Marshall,West Ham,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,False,Manchester United,2.04,-0.63
+Callum Marshall,West Ham,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,True,Arsenal,0.59,-0.11
+Callum Marshall,West Ham,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,False,Nottingham Forest,1.5,-0.55
+Callum Marshall,West Ham,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,True,Brentford,3.72,0.79
+Callum Marshall,West Ham,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,False,Everton,-0.01,-0.24
+Callum Marshall,West Ham,Everton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,True,Burnley,1.4,0.39
+Callum Marshall,West Ham,Burnley,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,True,Aston Villa,-0.66,0.64
+Callum Marshall,West Ham,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,False,Newcastle United,-0.71,-0.41
+Callum Marshall,West Ham,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,True,Tottenham,-2.08,0.69
+Callum Marshall,West Ham,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,False,Wolverhampton,2.78,-0.52
+Callum Marshall,West Ham,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,True,Fulham,-5.99,-0.13
+Callum Marshall,West Ham,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,False,Crystal Palace,-0.64,0.38
+Callum Marshall,West Ham,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,True,Liverpool,-1.83,0.18
+Callum Marshall,West Ham,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,False,Chelsea,0.53,-0.85
+Callum Marshall,West Ham,Chelsea,2024-05-05,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,True,Luton,,
+Callum Marshall,West Ham,Luton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,West Ham,False,Manchester City,2.49,-1.32
+Callum Marshall,West Ham,Manchester City,2024-05-19,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,,Fulham,False,Manchester United,0.59,-0.63

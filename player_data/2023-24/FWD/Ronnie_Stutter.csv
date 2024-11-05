@@ -1,35 +1,35 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
-Ronnie Stutter,Chelsea,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Fulham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Burnley,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Everton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Sheffield,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Luton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Burnley,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Ronnie Stutter,Chelsea,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Ronnie Stutter,Chelsea,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,True,Aston Villa,-0.21,0.64
+Ronnie Stutter,Chelsea,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Fulham,-1.33,0.86
+Ronnie Stutter,Chelsea,Fulham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Burnley,-3.59,0.0
+Ronnie Stutter,Chelsea,Burnley,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,True,Arsenal,4.02,-0.11
+Ronnie Stutter,Chelsea,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,True,Brentford,4.46,0.79
+Ronnie Stutter,Chelsea,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Tottenham,0.52,-0.36
+Ronnie Stutter,Chelsea,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,True,Manchester City,0.82,-0.96
+Ronnie Stutter,Chelsea,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Newcastle United,-0.48,-0.41
+Ronnie Stutter,Chelsea,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,True,Brighton,0.38,-0.66
+Ronnie Stutter,Chelsea,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Manchester United,1.57,-0.63
+Ronnie Stutter,Chelsea,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Everton,-0.36,-0.24
+Ronnie Stutter,Chelsea,Everton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,True,Sheffield,,0.68
+Ronnie Stutter,Chelsea,Sheffield,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Wolverhampton,1.13,-0.52
+Ronnie Stutter,Chelsea,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,True,Crystal Palace,-1.42,0.88
+Ronnie Stutter,Chelsea,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Luton,,
+Ronnie Stutter,Chelsea,Luton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,True,Fulham,-0.78,-0.13
+Ronnie Stutter,Chelsea,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Liverpool,-0.82,-1.01
+Ronnie Stutter,Chelsea,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,True,Wolverhampton,-1.65,0.05
+Ronnie Stutter,Chelsea,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Crystal Palace,-1.09,0.38
+Ronnie Stutter,Chelsea,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Manchester City,-0.67,-1.32
+Ronnie Stutter,Chelsea,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Brentford,0.19,-0.53
+Ronnie Stutter,Chelsea,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,True,Newcastle United,,0.55
+Ronnie Stutter,Chelsea,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,True,Burnley,-0.18,0.39
+Ronnie Stutter,Chelsea,Burnley,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,True,Manchester United,-1.38,0.38
+Ronnie Stutter,Chelsea,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Sheffield,,-0.61
+Ronnie Stutter,Chelsea,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,True,Everton,1.01,0.53
+Ronnie Stutter,Chelsea,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Arsenal,-1.77,-0.48
+Ronnie Stutter,Chelsea,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Aston Villa,-2.75,0.29
+Ronnie Stutter,Chelsea,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,True,Tottenham,-1.01,0.69
+Ronnie Stutter,Chelsea,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,True,West Ham,-1.25,0.49
+Ronnie Stutter,Chelsea,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Nottingham Forest,-1.51,-0.55
+Ronnie Stutter,Chelsea,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Brighton,4.26,-0.6
+Ronnie Stutter,Chelsea,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,True,Bournemouth,-5.36,1.22
+Ronnie Stutter,Chelsea,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,,Fulham,False,Manchester United,,-0.63

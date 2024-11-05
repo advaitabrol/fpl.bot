@@ -1,8 +1,8 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Michael Dacosta Gonzalez,Bournemouth,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,1.0,1.79,0.86,0,0.0
-Michael Dacosta Gonzalez,Bournemouth,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,1.0,1.79,0.86,0,0.0
-Michael Dacosta Gonzalez,Bournemouth,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,1.0,1.79,0.86,0,0.0
-Michael Dacosta Gonzalez,Bournemouth,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,1.0,1.79,0.86,0,0.0
-Michael Dacosta Gonzalez,Bournemouth,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,1.0,1.79,0.86,0,0.0
-Michael Dacosta Gonzalez,Bournemouth,Brentford,2024-05-11,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,2.0,1.0,1.79,0.86,0,0.0
-Michael Dacosta Gonzalez,Bournemouth,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,2.0,1.0,1.79,0.86,0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Michael Dacosta Gonzalez,Bournemouth,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Bournemouth,False,Aston Villa,3.96,0.29
+Michael Dacosta Gonzalez,Bournemouth,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Bournemouth,False,Wolverhampton,-2.03,-0.52
+Michael Dacosta Gonzalez,Bournemouth,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Bournemouth,True,Brighton,3.02,-0.66
+Michael Dacosta Gonzalez,Bournemouth,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Bournemouth,False,Arsenal,-2.81,-0.48
+Michael Dacosta Gonzalez,Bournemouth,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Bournemouth,True,Brentford,0.49,0.79
+Michael Dacosta Gonzalez,Bournemouth,Brentford,2024-05-11,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,Bournemouth,False,Chelsea,2.82,-0.85
+Michael Dacosta Gonzalez,Bournemouth,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,,Nott'm Forest,True,Bournemouth,0.55,1.22

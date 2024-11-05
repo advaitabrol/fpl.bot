@@ -1,13 +1,13 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
-Dominic Dos Santos Martins,Luton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Dominic Dos Santos Martins,Luton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Dominic Dos Santos Martins,Luton,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Dominic Dos Santos Martins,Luton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Dominic Dos Santos Martins,Luton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Dominic Dos Santos Martins,Luton,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Dominic Dos Santos Martins,Luton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Dominic Dos Santos Martins,Luton,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Dominic Dos Santos Martins,Luton,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Dominic Dos Santos Martins,Luton,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Dominic Dos Santos Martins,Luton,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Dominic Dos Santos Martins,Luton,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Dominic Dos Santos Martins,Luton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Luton,False,Bournemouth,,0.19
+Dominic Dos Santos Martins,Luton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Luton,True,Nottingham Forest,,1.55
+Dominic Dos Santos Martins,Luton,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Luton,False,Tottenham,,-0.36
+Dominic Dos Santos Martins,Luton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Luton,False,Arsenal,,-0.48
+Dominic Dos Santos Martins,Luton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Luton,True,Bournemouth,,1.22
+Dominic Dos Santos Martins,Luton,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Luton,False,Manchester City,,-1.32
+Dominic Dos Santos Martins,Luton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Luton,True,Brentford,,0.79
+Dominic Dos Santos Martins,Luton,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Luton,False,Wolverhampton,,-0.52
+Dominic Dos Santos Martins,Luton,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Luton,True,Everton,,0.53
+Dominic Dos Santos Martins,Luton,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Luton,False,West Ham,,-0.22
+Dominic Dos Santos Martins,Luton,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Luton,True,Fulham,,-0.13
+Dominic Dos Santos Martins,Luton,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,,Nott'm Forest,True,Bournemouth,0.55,1.22

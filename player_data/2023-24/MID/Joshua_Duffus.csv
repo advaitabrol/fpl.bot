@@ -1,27 +1,27 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points
-Joshua Duffus,Brighton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Burnley,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Luton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Fulham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Burnley,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0
-Joshua Duffus,Brighton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Joshua Duffus,Brighton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,False,Chelsea,-1.77,-0.85
+Joshua Duffus,Brighton,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,True,Brentford,-2.16,0.79
+Joshua Duffus,Brighton,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,True,Burnley,4.68,0.39
+Joshua Duffus,Brighton,Burnley,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,False,Arsenal,-3.23,-0.48
+Joshua Duffus,Brighton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,False,Crystal Palace,0.25,0.38
+Joshua Duffus,Brighton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,True,Tottenham,2.15,0.69
+Joshua Duffus,Brighton,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,False,West Ham,-1.66,-0.22
+Joshua Duffus,Brighton,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,True,Wolverhampton,-2.74,0.05
+Joshua Duffus,Brighton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,False,Luton,,
+Joshua Duffus,Brighton,Luton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,True,Crystal Palace,-0.55,0.88
+Joshua Duffus,Brighton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,False,Tottenham,-0.85,-0.36
+Joshua Duffus,Brighton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,False,Sheffield,,-0.61
+Joshua Duffus,Brighton,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,True,Everton,4.16,0.53
+Joshua Duffus,Brighton,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,False,Fulham,0.07,0.86
+Joshua Duffus,Brighton,Fulham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,True,Nottingham Forest,-0.0,1.55
+Joshua Duffus,Brighton,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,False,Liverpool,-2.6,-1.01
+Joshua Duffus,Brighton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,False,Brentford,0.72,-0.53
+Joshua Duffus,Brighton,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,True,Arsenal,2.09,-0.11
+Joshua Duffus,Brighton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,False,Burnley,-0.71,0.0
+Joshua Duffus,Brighton,Burnley,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,True,Manchester City,2.26,-0.96
+Joshua Duffus,Brighton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,False,Bournemouth,,0.19
+Joshua Duffus,Brighton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,True,Aston Villa,1.69,0.64
+Joshua Duffus,Brighton,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,False,Newcastle United,,-0.41
+Joshua Duffus,Brighton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,True,Chelsea,-6.21,-0.25
+Joshua Duffus,Brighton,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Brighton,True,Manchester United,,0.38
+Joshua Duffus,Brighton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,,Wolves,False,Arsenal,-0.53,-0.48

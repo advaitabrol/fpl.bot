@@ -1,4 +1,7 @@
-def clean_footprint(base_dirs=['fpl_gw_data', 'understat_data']):
+import os
+import shutil
+
+def clean_footprint(base_dirs=['fpl_gw_data', 'understat_data', 'gw_data']):
     """
     Deletes all files and directories within the provided base directories.
     
@@ -36,3 +39,6 @@ def clean_footprint(base_dirs=['fpl_gw_data', 'understat_data']):
                 print(f"Error deleting base directory {base_dir}: {e}")
         else:
             print(f"Directory {base_dir} does not exist. Skipping.")
+
+if __name__ == "__main__": 
+    clean_footprint(); 

@@ -81,7 +81,7 @@ def process_player_file(player_file_path, season, season_index, position, season
     df['next_opponent_team'] = df['opponent_team'].shift(-1)
 
     if season_index == len(seasons) - 1:
-        team_name = df['team'].iloc[0]
+        team_name = df['team'].iloc[-1]
         available_files = os.listdir(fixtures_for_each_team_dir)
         matched_file = get_closest_match(f"{team_name}_{season}.csv", available_files)
 
@@ -89,19 +89,29 @@ def process_player_file(player_file_path, season, season_index, position, season
             fixture_df = pd.read_csv(os.path.join(fixtures_for_each_team_dir, matched_file))
             next_fixture_rows = fixture_df[pd.to_numeric(fixture_df['Team Score'], errors='coerce').isna()]
 
-            additional_rows = []
-            for i, next_fixture_row in enumerate(next_fixture_rows.head(3).itertuples(index=False)):
-                if pd.notnull(next_fixture_row.Opponent) and pd.notnull(next_fixture_row.Location):
-                    additional_rows.append({
-                        'team': df['team'].iloc[-1],
-                        'next_team': df['team'].iloc[-1],
-                        'next_opponent_team': next_fixture_row.Opponent,
-                        'next_was_home': next_fixture_row.Location == 'Home'
-                    })
+            if not next_fixture_rows.empty:
+                # Save data from the first row of next_fixture_rows to the last row of df
+                first_row = next_fixture_rows.iloc[0]
+                if pd.notnull(first_row.Opponent) and pd.notnull(first_row.Location):
+                    df.at[df.index[-1], 'next_team'] = df['team'].iloc[-1]
+                    df.at[df.index[-1], 'next_opponent_team'] = first_row.Opponent
+                    df.at[df.index[-1], 'next_was_home'] = first_row.Location == 'Home'
 
-            if additional_rows:
-                additional_df = pd.DataFrame(additional_rows)
-                df = pd.concat([df, additional_df], ignore_index=True)
+                # Create two additional rows with data from next_fixture_rows
+                additional_rows = []
+                for i, next_fixture_row in enumerate(next_fixture_rows[1:3].itertuples(index=False)):
+                    if pd.notnull(next_fixture_row.Opponent) and pd.notnull(next_fixture_row.Location):
+                        additional_rows.append({
+                            'team': df['team'].iloc[-1],
+                            'next_team': df['team'].iloc[-1],
+                            'next_opponent_team': next_fixture_row.Opponent,
+                            'next_was_home': next_fixture_row.Location == 'Home'
+                        })
+
+                if additional_rows:
+                    additional_df = pd.DataFrame(additional_rows)
+                    df = pd.concat([df, additional_df], ignore_index=True)
+
 
     elif season_index < len(seasons) - 1:
         next_season_team, next_season_was_home, next_season_opponent_team = get_next_season_fixture(
@@ -129,7 +139,7 @@ def process_player_file(player_file_path, season, season_index, position, season
     df.to_csv(player_file_path, index=False)
     print(f"Updated {player_file_path} with fixture difficulties.")
 
-def process_form_data(merged_data_dir, fixture_difficulties_dir, holistic_difficulties_dir, fixtures_for_each_team_dir, seasons, positions, team_name_mappings):
+def process_fixture_data(merged_data_dir, fixture_difficulties_dir, holistic_difficulties_dir, fixtures_for_each_team_dir, seasons, positions, team_name_mappings):
     """Main function to traverse the data and calculate fixture difficulties."""
     with ThreadPoolExecutor() as executor:
         futures = []
@@ -150,7 +160,7 @@ def process_form_data(merged_data_dir, fixture_difficulties_dir, holistic_diffic
 
         for future in futures:
             future.result()
-def process_forms_default(seasons=['2022-23', '2023-24', '2024-25']):
+def process_fixtures_default(seasons=['2022-23', '2023-24', '2024-25']):
     """Helper function to call process_form_data with default directories and mappings."""
     merged_data_dir = 'player_data'
     fixture_difficulties_dir = 'fixture_specific_difficulties_incremented'
@@ -166,7 +176,7 @@ def process_forms_default(seasons=['2022-23', '2023-24', '2024-25']):
         "Nott'm Forest": "Nottingham Forest"
     }
 
-    process_form_data(merged_data_dir, fixture_difficulties_dir, holistic_difficulties_dir, fixtures_for_each_team_dir, seasons, positions, team_name_mappings)
+    process_fixture_data(merged_data_dir, fixture_difficulties_dir, holistic_difficulties_dir, fixtures_for_each_team_dir, seasons, positions, team_name_mappings)
 
 if __name__ == "__main__":
-    process_forms_default()
+    process_fixtures_default()

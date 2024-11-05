@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points
-Hwang Hee-chan,Wolves,Manchester United,2023-08-14,False,27,0.0,0.22,0.0,0.0,1,4.0,0.0,2.8,0,0,1.0,0.22,27.0,3.0,1.0,2.16,0.87,0.05,5.0
-Hwang Hee-chan,Wolves,Brighton,2023-08-19,True,35,1.0,0.04,0.0,0.6,5,1.0,1.0,6.7,0,0,3.0,0.13,31.0,3.0,1.0,2.16,0.87,0.05,1.0
-Hwang Hee-chan,Wolves,Everton,2023-08-26,False,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,1,2.33,0.09,35.67,3.0,1.0,2.16,0.87,0.05,6.0
-Hwang Hee-chan,Wolves,Crystal Palace,2023-09-03,False,30,1.0,0.07,0.0,0.0,6,1.0,0.0,5.9,0,0,3.25,0.09,34.25,3.0,1.0,2.16,0.87,0.05,6.0
-Hwang Hee-chan,Wolves,Liverpool,2023-09-16,True,59,1.0,0.08,0.0,0.0,6,1.0,0.0,5.4,0,1,3.8,0.08,39.2,3.0,1.0,2.16,0.87,0.05,1.0
-Hwang Hee-chan,Wolves,Luton,2023-09-23,False,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,1,3.8,0.04,40.17,3.0,1.0,2.16,0.87,0.05,8.0
-Hwang Hee-chan,Wolves,Manchester City,2023-09-30,True,85,1.0,0.67,0.0,0.0,8,3.0,0.0,6.2,2,1,4.4,0.17,46.57,3.0,1.0,2.16,0.87,0.05,10.0
-Hwang Hee-chan,Wolves,Aston Villa,2023-10-08,True,85,1.0,0.67,0.0,0.11,10,2.0,1.0,10.2,3,1,6.2,0.3,51.38,3.0,1.0,2.16,0.87,0.05,4.0
-Hwang Hee-chan,Wolves,Bournemouth,2023-10-21,False,90,0.0,0.9,1.0,0.59,4,3.0,3.0,7.7,0,1,5.8,0.67,55.67,3.0,1.0,2.16,0.87,0.05,7.0
-Hwang Hee-chan,Wolves,Newcastle United,2023-10-28,True,90,1.0,0.24,0.0,0.16,7,1.0,2.0,9.0,0,1,6.0,0.7,59.1,3.0,1.0,2.16,0.87,0.05,5.0
-Hwang Hee-chan,Wolves,Sheffield,2023-11-04,False,90,0.0,0.37,1.0,0.59,5,1.0,4.0,8.4,0,1,6.8,0.97,61.91,3.0,1.0,2.16,0.87,0.05,2.0
-Hwang Hee-chan,Wolves,Tottenham,2023-11-11,True,90,0.0,0.41,0.0,0.0,2,1.0,0.0,1.4,0,1,5.6,0.92,64.25,3.0,1.0,2.16,0.87,0.05,7.0
-Hwang Hee-chan,Wolves,Fulham,2023-11-27,False,90,1.0,0.93,0.0,0.0,7,3.0,0.0,5.7,0,1,5.0,0.97,66.23,3.0,1.0,2.16,0.87,0.05,1.0
-Hwang Hee-chan,Wolves,Arsenal,2023-12-02,False,90,0.0,0.1,0.0,0.0,1,2.0,0.0,2.7,0,1,4.4,0.61,67.93,3.0,1.0,2.16,0.87,0.05,10.0
-Hwang Hee-chan,Wolves,Burnley,2023-12-05,True,90,1.0,0.43,0.0,0.05,10,2.0,1.0,8.1,2,1,5.0,0.65,69.4,3.0,1.0,2.16,0.87,0.05,2.0
-Hwang Hee-chan,Wolves,Nottingham Forest,2023-12-09,True,90,0.0,0.02,0.0,0.0,2,1.0,0.0,1.8,0,1,4.4,0.38,70.69,3.0,1.0,2.16,0.87,0.05,2.0
-Hwang Hee-chan,Wolves,West Ham,2023-12-17,False,90,0.0,0.16,0.0,0.0,2,3.0,0.0,2.5,0,1,4.4,0.33,71.82,3.0,1.0,2.16,0.87,0.05,2.0
-Hwang Hee-chan,Wolves,Chelsea,2023-12-24,True,90,0.0,0.33,0.0,0.03,2,1.0,1.0,3.3,0,1,3.4,0.21,72.83,3.0,1.0,2.16,0.87,0.05,14.0
-Hwang Hee-chan,Wolves,Brentford,2023-12-27,False,45,2.0,0.87,0.0,0.0,14,2.0,0.0,12.5,3,1,6.0,0.36,71.37,3.0,1.0,2.16,0.87,0.05,6.0
-Hwang Hee-chan,Wolves,Everton,2023-12-30,True,90,0.0,0.26,1.0,0.91,6,3.0,1.0,8.2,0,1,5.2,0.53,72.3,3.0,1.0,2.16,0.87,0.05,0.0
-Hwang Hee-chan,Wolves,Brighton,,False,0,,,,,0,,,0.0,0,0,4.8,0.52,68.86,3.0,1.0,2.16,0.87,0.05,0.0
-Hwang Hee-chan,Wolves,Manchester United,,True,0,,,,,0,,,0.0,0,0,4.4,0.49,65.73,3.0,1.0,2.16,0.87,0.05,0.0
-Hwang Hee-chan,Wolves,Chelsea,,False,0,,,,,0,,,0.0,0,0,4.0,0.43,62.87,3.0,1.0,2.16,0.87,0.05,0.0
-Hwang Hee-chan,Wolves,Brentford,,True,0,,,,,0,,,0.0,0,0,1.2,0.25,60.25,3.0,1.0,2.16,0.87,0.05,2.0
-Hwang Hee-chan,Wolves,Tottenham,2024-02-17,False,87,0.0,0.41,0.0,0.02,2,1.0,1.0,2.8,0,1,0.4,0.08,61.32,3.0,1.0,2.16,0.87,0.05,3.0
-Hwang Hee-chan,Wolves,Sheffield,2024-02-25,True,85,0.0,0.0,0.0,0.0,3,0.0,0.0,1.2,0,1,1.0,0.08,62.23,3.0,1.0,2.16,0.87,0.05,0.0
-Hwang Hee-chan,Wolves,Newcastle United,,False,0,,,,,0,,,0.0,0,0,1.0,0.08,59.93,3.0,1.0,2.16,0.87,0.05,0.0
-Hwang Hee-chan,Wolves,Fulham,,True,0,,,,,0,,,0.0,0,0,1.0,0.08,57.79,3.0,1.0,2.16,0.87,0.05,0.0
-Hwang Hee-chan,Wolves,Aston Villa,,False,0,,,,,0,,,0.0,0,0,1.0,0.08,55.79,3.0,1.0,2.16,0.87,0.05,0.0
-Hwang Hee-chan,Wolves,Burnley,,False,0,,,,,0,,,0.0,0,0,0.6,0.0,53.93,3.0,1.0,2.16,0.87,0.05,0.0
-Hwang Hee-chan,Wolves,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,52.19,3.0,1.0,2.16,0.87,0.05,1.0
-Hwang Hee-chan,Wolves,Nottingham Forest,2024-04-13,False,31,0.0,0.1,0.0,0.0,1,1.0,0.0,0.8,0,0,0.2,0.02,51.53,3.0,1.0,2.16,0.87,0.05,0.0
-Hwang Hee-chan,Wolves,Arsenal,2024-04-20,True,50,0.0,0.0,0.0,0.02,0,0.0,1.0,1.7,0,1,0.2,0.02,51.48,3.0,1.0,2.16,0.87,0.05,2.0
-Hwang Hee-chan,Wolves,Bournemouth,2024-04-24,True,90,0.0,0.09,0.0,0.0,2,2.0,0.0,4.7,0,1,0.6,0.04,52.62,3.0,1.0,2.16,0.87,0.05,6.0
-Hwang Hee-chan,Wolves,Luton,2024-04-27,True,90,1.0,0.38,0.0,0.06,6,3.0,1.0,9.5,0,1,1.8,0.12,53.69,3.0,1.0,2.16,0.87,0.05,7.0
-Hwang Hee-chan,Wolves,Manchester City,2024-05-04,False,86,1.0,0.26,0.0,0.0,7,1.0,0.0,5.7,0,1,3.2,0.17,54.58,3.0,1.0,2.16,0.87,0.05,2.0
-Hwang Hee-chan,Wolves,Crystal Palace,2024-05-11,True,90,0.0,0.56,0.0,0.0,2,1.0,0.0,1.7,0,1,3.4,0.26,55.54,3.0,1.0,2.16,0.87,0.05,2.0
-Hwang Hee-chan,Wolves,Liverpool,2024-05-19,False,61,0.0,0.07,0.0,0.0,2,1.0,0.0,2.6,0,1,3.8,0.27,55.68,3.0,1.0,2.16,0.87,0.05,2.0
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Hwang Hee-chan,Wolves,Manchester United,2023-08-14,False,27,0.0,0.22,0.0,0.0,1,4.0,0.0,2.8,0,0,1.0,0.22,27.0,5.0,Wolves,True,Brighton,1.03,-0.66
+Hwang Hee-chan,Wolves,Brighton,2023-08-19,True,35,1.0,0.04,0.0,0.6,5,1.0,1.0,6.7,0,0,3.0,0.13,31.0,1.0,Wolves,False,Everton,-1.65,-0.24
+Hwang Hee-chan,Wolves,Everton,2023-08-26,False,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,1,2.33,0.09,35.67,6.0,Wolves,False,Crystal Palace,1.78,0.38
+Hwang Hee-chan,Wolves,Crystal Palace,2023-09-03,False,30,1.0,0.07,0.0,0.0,6,1.0,0.0,5.9,0,0,3.25,0.09,34.25,6.0,Wolves,True,Liverpool,-4.04,0.18
+Hwang Hee-chan,Wolves,Liverpool,2023-09-16,True,59,1.0,0.08,0.0,0.0,6,1.0,0.0,5.4,0,1,3.8,0.08,39.2,1.0,Wolves,False,Luton,,
+Hwang Hee-chan,Wolves,Luton,2023-09-23,False,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,1,3.8,0.04,40.17,8.0,Wolves,True,Manchester City,4.2,-0.96
+Hwang Hee-chan,Wolves,Manchester City,2023-09-30,True,85,1.0,0.67,0.0,0.0,8,3.0,0.0,6.2,2,1,4.4,0.17,46.57,10.0,Wolves,True,Aston Villa,-1.74,0.64
+Hwang Hee-chan,Wolves,Aston Villa,2023-10-08,True,85,1.0,0.67,0.0,0.11,10,2.0,1.0,10.2,3,1,6.2,0.3,51.38,4.0,Wolves,False,Bournemouth,1.23,0.19
+Hwang Hee-chan,Wolves,Bournemouth,2023-10-21,False,90,0.0,0.9,1.0,0.59,4,3.0,3.0,7.7,0,1,5.8,0.67,55.67,7.0,Wolves,True,Newcastle United,-1.69,0.55
+Hwang Hee-chan,Wolves,Newcastle United,2023-10-28,True,90,1.0,0.24,0.0,0.16,7,1.0,2.0,9.0,0,1,6.0,0.7,59.1,5.0,Wolves,False,Sheffield,,-0.61
+Hwang Hee-chan,Wolves,Sheffield,2023-11-04,False,90,0.0,0.37,1.0,0.59,5,1.0,4.0,8.4,0,1,6.8,0.97,61.91,2.0,Wolves,True,Tottenham,0.14,0.69
+Hwang Hee-chan,Wolves,Tottenham,2023-11-11,True,90,0.0,0.41,0.0,0.0,2,1.0,0.0,1.4,0,1,5.6,0.92,64.25,7.0,Wolves,False,Fulham,-0.7,0.86
+Hwang Hee-chan,Wolves,Fulham,2023-11-27,False,90,1.0,0.93,0.0,0.0,7,3.0,0.0,5.7,0,1,5.0,0.97,66.23,1.0,Wolves,False,Arsenal,2.85,-0.48
+Hwang Hee-chan,Wolves,Arsenal,2023-12-02,False,90,0.0,0.1,0.0,0.0,1,2.0,0.0,2.7,0,1,4.4,0.61,67.93,10.0,Wolves,True,Burnley,0.01,0.39
+Hwang Hee-chan,Wolves,Burnley,2023-12-05,True,90,1.0,0.43,0.0,0.05,10,2.0,1.0,8.1,2,1,5.0,0.65,69.4,2.0,Wolves,True,Nottingham Forest,-1.37,1.55
+Hwang Hee-chan,Wolves,Nottingham Forest,2023-12-09,True,90,0.0,0.02,0.0,0.0,2,1.0,0.0,1.8,0,1,4.4,0.38,70.69,2.0,Wolves,False,West Ham,2.37,-0.22
+Hwang Hee-chan,Wolves,West Ham,2023-12-17,False,90,0.0,0.16,0.0,0.0,2,3.0,0.0,2.5,0,1,4.4,0.33,71.82,2.0,Wolves,True,Chelsea,-1.82,-0.25
+Hwang Hee-chan,Wolves,Chelsea,2023-12-24,True,90,0.0,0.33,0.0,0.03,2,1.0,1.0,3.3,0,1,3.4,0.21,72.83,14.0,Wolves,False,Brentford,-1.35,-0.53
+Hwang Hee-chan,Wolves,Brentford,2023-12-27,False,45,2.0,0.87,0.0,0.0,14,2.0,0.0,12.5,3,1,6.0,0.36,71.37,6.0,Wolves,True,Everton,-0.67,0.53
+Hwang Hee-chan,Wolves,Everton,2023-12-30,True,90,0.0,0.26,1.0,0.91,6,3.0,1.0,8.2,0,1,5.2,0.53,72.3,0.0,Wolves,False,Brighton,2.18,-0.6
+Hwang Hee-chan,Wolves,Brighton,,False,0,,,,,0,,,0.0,0,0,4.8,0.52,68.86,0.0,Wolves,True,Manchester United,0.17,0.38
+Hwang Hee-chan,Wolves,Manchester United,,True,0,,,,,0,,,0.0,0,0,4.4,0.49,65.73,0.0,Wolves,False,Chelsea,1.88,-0.85
+Hwang Hee-chan,Wolves,Chelsea,,False,0,,,,,0,,,0.0,0,0,4.0,0.43,62.87,0.0,Wolves,True,Brentford,3.23,0.79
+Hwang Hee-chan,Wolves,Brentford,,True,0,,,,,0,,,0.0,0,0,1.2,0.25,60.25,2.0,Wolves,False,Tottenham,1.18,-0.36
+Hwang Hee-chan,Wolves,Tottenham,2024-02-17,False,87,0.0,0.41,0.0,0.02,2,1.0,1.0,2.8,0,1,0.4,0.08,61.32,3.0,Wolves,True,Sheffield,,0.68
+Hwang Hee-chan,Wolves,Sheffield,2024-02-25,True,85,0.0,0.0,0.0,0.0,3,0.0,0.0,1.2,0,1,1.0,0.08,62.23,0.0,Wolves,False,Newcastle United,,-0.41
+Hwang Hee-chan,Wolves,Newcastle United,,False,0,,,,,0,,,0.0,0,0,1.0,0.08,59.93,0.0,Wolves,True,Fulham,0.54,-0.13
+Hwang Hee-chan,Wolves,Fulham,,True,0,,,,,0,,,0.0,0,0,1.0,0.08,57.79,0.0,Wolves,False,Aston Villa,-0.98,0.29
+Hwang Hee-chan,Wolves,Aston Villa,,False,0,,,,,0,,,0.0,0,0,1.0,0.08,55.79,0.0,Wolves,False,Burnley,,0.0
+Hwang Hee-chan,Wolves,Burnley,,False,0,,,,,0,,,0.0,0,0,0.6,0.0,53.93,0.0,Wolves,True,West Ham,-2.07,0.49
+Hwang Hee-chan,Wolves,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,52.19,1.0,Wolves,False,Nottingham Forest,,-0.55
+Hwang Hee-chan,Wolves,Nottingham Forest,2024-04-13,False,31,0.0,0.1,0.0,0.0,1,1.0,0.0,0.8,0,0,0.2,0.02,51.53,0.0,Wolves,True,Arsenal,3.51,-0.11
+Hwang Hee-chan,Wolves,Arsenal,2024-04-20,True,50,0.0,0.0,0.0,0.02,0,0.0,1.0,1.7,0,1,0.2,0.02,51.48,2.0,Wolves,True,Bournemouth,,1.22
+Hwang Hee-chan,Wolves,Bournemouth,2024-04-24,True,90,0.0,0.09,0.0,0.0,2,2.0,0.0,4.7,0,1,0.6,0.04,52.62,6.0,Wolves,True,Luton,,
+Hwang Hee-chan,Wolves,Luton,2024-04-27,True,90,1.0,0.38,0.0,0.06,6,3.0,1.0,9.5,0,1,1.8,0.12,53.69,7.0,Wolves,False,Manchester City,-0.09,-1.32
+Hwang Hee-chan,Wolves,Manchester City,2024-05-04,False,86,1.0,0.26,0.0,0.0,7,1.0,0.0,5.7,0,1,3.2,0.17,54.58,2.0,Wolves,True,Crystal Palace,,0.88
+Hwang Hee-chan,Wolves,Crystal Palace,2024-05-11,True,90,0.0,0.56,0.0,0.0,2,1.0,0.0,1.7,0,1,3.4,0.26,55.54,2.0,Wolves,False,Liverpool,,-1.01
+Hwang Hee-chan,Wolves,Liverpool,2024-05-19,False,61,0.0,0.07,0.0,0.0,2,1.0,0.0,2.6,0,1,3.8,0.27,55.68,2.0,Wolves,False,Arsenal,-0.53,-0.48
