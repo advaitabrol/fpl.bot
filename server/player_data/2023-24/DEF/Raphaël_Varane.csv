@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Raphaël Varane,Man Utd,Wolverhampton,2023-08-14,True,90,1.0,0.89,0.0,0.0,14,2.0,0.0,8.5,2,1,0,2.27,1,14.0,0.89,90.0,1.0,1.0,Man Utd,False,Tottenham,-1.07,-0.36
+Raphaël Varane,Man Utd,Tottenham,2023-08-19,False,90,0.0,0.03,0.0,0.0,1,2.0,0.0,3.8,0,0,2,1.8,1,7.5,0.46,90.0,0.5,0.0,Man Utd,True,Nottingham Forest,-0.76,1.55
+Raphaël Varane,Man Utd,Nottingham Forest,2023-08-26,True,45,0.0,0.0,0.0,0.0,0,0.0,0.0,1.1,0,0,2,0.97,1,5.0,0.31,75.0,0.33,0.0,Man Utd,False,Arsenal,0.8,-0.48
+Raphaël Varane,Man Utd,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3.75,0.23,56.25,0.33,0.0,Man Utd,True,Brighton,-1.31,-0.66
+Raphaël Varane,Man Utd,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3.0,0.18,45.0,0.33,1.0,Man Utd,False,Burnley,-0.03,0.0
+Raphaël Varane,Man Utd,Burnley,2023-09-23,False,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.31,0,0.4,0.01,39.33,0.25,2.0,Man Utd,True,Crystal Palace,-0.62,0.88
+Raphaël Varane,Man Utd,Crystal Palace,2023-09-30,True,86,0.0,0.05,0.0,0.08,2,1.0,1.0,4.3,0,0,1,0.81,1,0.6,0.01,46.0,0.2,0.0,Man Utd,True,Brentford,-1.66,0.79
+Raphaël Varane,Man Utd,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.01,40.25,0.2,1.0,Man Utd,False,Sheffield,,-0.61
+Raphaël Varane,Man Utd,Sheffield,2023-10-21,False,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.03,0,0.8,0.01,36.44,0.17,0.0,Man Utd,True,Manchester City,-1.29,-0.96
+Raphaël Varane,Man Utd,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.01,32.8,0.17,1.0,Man Utd,False,Fulham,-3.44,0.86
+Raphaël Varane,Man Utd,Fulham,2023-11-04,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,0.8,0.01,29.91,0.14,1.0,Man Utd,True,Luton,,
+Raphaël Varane,Man Utd,Luton,2023-11-11,True,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.02,0,0.6,0.0,28.33,0.12,0.0,Man Utd,False,Everton,0.29,-0.24
+Raphaël Varane,Man Utd,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.0,26.15,0.12,0.0,Man Utd,False,Newcastle United,1.53,-0.41
+Raphaël Varane,Man Utd,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,24.29,0.12,0.0,Man Utd,True,Chelsea,-2.84,-0.25
+Raphaël Varane,Man Utd,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,22.67,0.12,0.0,Man Utd,True,Bournemouth,-3.39,1.22
+Raphaël Varane,Man Utd,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,21.25,0.12,6.0,Man Utd,False,Liverpool,4.73,-1.01
+Raphaël Varane,Man Utd,Liverpool,2023-12-17,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,3.9,0,1,0,2.35,1,1.2,0.0,25.29,0.22,0.0,Man Utd,False,West Ham,1.21,-0.22
+Raphaël Varane,Man Utd,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.2,0.0,23.89,0.22,1.0,Man Utd,True,Aston Villa,-0.0,0.64
+Raphaël Varane,Man Utd,Aston Villa,2023-12-26,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,2,1.68,1,1.4,0.0,27.37,0.2,0.0,Man Utd,False,Nottingham Forest,-2.13,-0.55
+Raphaël Varane,Man Utd,Nottingham Forest,2023-12-30,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.4,0,0,2,0.74,1,1.4,0.0,30.5,0.18,1.0,Man Utd,True,Tottenham,-2.65,0.69
+Raphaël Varane,Man Utd,Tottenham,2024-01-14,True,90,0.0,0.08,0.0,0.0,1,1.0,0.0,2.4,0,0,2,1.36,1,1.6,0.02,33.33,0.17,1.0,Man Utd,False,Wolverhampton,-0.28,-0.52
+Raphaël Varane,Man Utd,Wolverhampton,2024-02-01,False,90,0.0,0.07,0.0,0.0,1,1.0,0.0,1.7,0,0,3,2.1,1,0.6,0.03,35.91,0.15,1.0,Man Utd,True,West Ham,-1.53,0.49
+Raphaël Varane,Man Utd,West Ham,2024-02-04,True,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.29,0,0.8,0.03,35.17,0.14,2.0,Man Utd,False,Aston Villa,1.7,0.29
+Raphaël Varane,Man Utd,Aston Villa,2024-02-11,False,90,0.0,0.04,0.0,0.0,2,1.0,0.0,3.5,0,0,1,2.49,1,1.0,0.04,37.46,0.13,2.0,Man Utd,False,Luton,,
+Raphaël Varane,Man Utd,Luton,2024-02-18,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.1,0,0,1,1.74,1,1.4,0.04,39.56,0.12,1.0,Man Utd,True,Fulham,,-0.13
+Raphaël Varane,Man Utd,Fulham,2024-02-24,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,2,1.11,1,1.4,0.02,41.5,0.12,0.0,Man Utd,False,Manchester City,-0.11,-1.32
+Raphaël Varane,Man Utd,Manchester City,2024-03-03,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.3,0,0,3,3.32,1,1.2,0.01,43.3,0.11,6.0,Man Utd,True,Everton,1.78,0.53
+Raphaël Varane,Man Utd,Everton,2024-03-09,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.0,0,1,0,1.48,1,2.2,0.01,44.96,0.16,1.0,Man Utd,False,Brentford,5.05,-0.53
+Raphaël Varane,Man Utd,Brentford,2024-03-30,False,45,0.0,0.0,0.0,0.0,1,0.0,0.0,2.4,0,0,0,0.84,1,2.0,0.0,44.97,0.15,0.0,Man Utd,False,Chelsea,0.38,-0.85
+Raphaël Varane,Man Utd,Chelsea,2024-04-04,False,45,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,0,0,2,1.52,1,1.6,0.0,44.97,0.14,0.0,Man Utd,True,Liverpool,0.14,0.18
+Raphaël Varane,Man Utd,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.4,0.0,43.52,0.14,0.0,Man Utd,False,Bournemouth,,0.19
+Raphaël Varane,Man Utd,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.4,0.0,42.16,0.14,0.0,Man Utd,True,Sheffield,,0.68
+Raphaël Varane,Man Utd,Sheffield,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,40.88,0.14,0.0,Man Utd,True,Burnley,-3.36,0.39
+Raphaël Varane,Man Utd,Burnley,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,39.68,0.14,0.0,Man Utd,False,Crystal Palace,-0.01,0.38
+Raphaël Varane,Man Utd,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,38.54,0.14,0.0,Man Utd,True,Arsenal,-3.39,-0.11
+Raphaël Varane,Man Utd,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,37.47,0.14,0.0,Man Utd,True,Newcastle United,-1.49,0.55
+Raphaël Varane,Man Utd,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,36.46,0.14,1.0,Man Utd,False,Brighton,,-0.6
+Raphaël Varane,Man Utd,Brighton,2024-05-19,False,21,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.06,0,0.2,0.0,36.05,0.14,,Brentford,True,Crystal Palace,0.84,0.88

@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Danny Ings,West Ham,Bournemouth,2023-08-12,False,12,0.0,0.12,0.0,0.0,1,1.0,0.0,1.0,0,0,1.0,0.12,12.0,0.0,West Ham,True,Chelsea,-1.89,-0.25
+Danny Ings,West Ham,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.5,0.06,6.0,1.0,West Ham,False,Brighton,4.55,-0.6
+Danny Ings,West Ham,Brighton,2023-08-26,False,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0.67,0.04,5.67,1.0,West Ham,False,Luton,,
+Danny Ings,West Ham,Luton,2023-09-01,False,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.75,0.03,6.75,1.0,West Ham,True,Manchester City,0.78,-0.96
+Danny Ings,West Ham,Manchester City,2023-09-16,True,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.8,0.02,6.0,1.0,West Ham,False,Liverpool,-0.21,-1.01
+Danny Ings,West Ham,Liverpool,2023-09-24,False,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0.8,0.0,5.5,0.0,West Ham,True,Sheffield,,0.68
+Danny Ings,West Ham,Sheffield,,True,0,,,,,0,,,0.0,0,0,0.8,0.0,4.71,0.0,West Ham,True,Newcastle United,1.95,0.55
+Danny Ings,West Ham,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.6,0.0,4.12,1.0,West Ham,False,Aston Villa,-2.62,0.29
+Danny Ings,West Ham,Aston Villa,2023-10-22,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0.6,0.0,4.11,1.0,West Ham,True,Everton,-3.49,0.53
+Danny Ings,West Ham,Everton,2023-10-29,True,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0.6,0.0,4.2,0.0,West Ham,False,Brentford,4.68,-0.53
+Danny Ings,West Ham,Brentford,2023-11-04,False,26,0.0,0.0,0.0,0.0,0,0.0,0.0,0.3,0,0,0.4,0.0,6.18,0.0,West Ham,True,Nottingham Forest,-5.45,1.55
+Danny Ings,West Ham,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.4,0.0,5.67,2.0,West Ham,False,Burnley,0.79,0.0
+Danny Ings,West Ham,Burnley,2023-11-25,False,61,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0,1,0.8,0.0,9.92,0.0,West Ham,True,Crystal Palace,1.83,0.88
+Danny Ings,West Ham,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.6,0.0,9.21,0.0,West Ham,False,Tottenham,3.93,-0.36
+Danny Ings,West Ham,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,8.6,0.0,West Ham,False,Fulham,-3.42,0.86
+Danny Ings,West Ham,Fulham,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,8.06,1.0,West Ham,True,Wolverhampton,-1.49,0.05
+Danny Ings,West Ham,Wolverhampton,2023-12-17,True,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0.6,0.0,7.76,0.0,West Ham,True,Manchester United,-1.13,0.38
+Danny Ings,West Ham,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,7.33,0.0,West Ham,False,Arsenal,2.21,-0.48
+Danny Ings,West Ham,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,6.95,0.0,West Ham,True,Brighton,1.39,-0.66
+Danny Ings,West Ham,Brighton,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,6.6,10.0,West Ham,False,Sheffield,,-0.61
+Danny Ings,West Ham,Sheffield,2024-01-21,False,90,0.0,0.82,0.0,0.33,10,6.0,4.0,12.2,2,1,2.2,0.16,10.57,1.0,West Ham,True,Bournemouth,-2.69,1.22
+Danny Ings,West Ham,Bournemouth,2024-02-01,True,22,0.0,0.0,0.0,0.05,1,0.0,1.0,1.6,0,0,2.2,0.16,11.09,0.0,West Ham,False,Manchester United,1.28,-0.63
+Danny Ings,West Ham,Manchester United,,False,0,,,,,0,,,0.0,0,0,2.2,0.16,10.61,0.0,West Ham,True,Arsenal,,-0.11
+Danny Ings,West Ham,Arsenal,,True,0,,,,,0,,,0.0,0,0,2.2,0.16,10.17,1.0,West Ham,False,Nottingham Forest,1.5,-0.55
+Danny Ings,West Ham,Nottingham Forest,2024-02-17,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,2.4,0.16,9.8,0.0,West Ham,True,Brentford,3.72,0.79
+Danny Ings,West Ham,Brentford,,True,0,,,,,0,,,0.0,0,0,0.4,0.0,9.42,0.0,West Ham,False,Everton,-0.01,-0.24
+Danny Ings,West Ham,Everton,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,9.07,7.0,West Ham,True,Burnley,,0.39
+Danny Ings,West Ham,Burnley,2024-03-10,True,8,1.0,0.12,0.0,0.0,7,2.0,0.0,5.5,2,0,1.6,0.02,9.04,0.0,West Ham,True,Aston Villa,,0.64
+Danny Ings,West Ham,Aston Villa,,True,0,,,,,0,,,0.0,0,0,1.6,0.02,8.72,1.0,West Ham,False,Newcastle United,-0.75,-0.41
+Danny Ings,West Ham,Newcastle United,2024-03-30,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1.6,0.02,8.47,0.0,West Ham,True,Tottenham,-2.08,0.69
+Danny Ings,West Ham,Tottenham,,True,0,,,,,0,,,0.0,0,0,1.6,0.02,8.19,0.0,West Ham,False,Wolverhampton,2.78,-0.52
+Danny Ings,West Ham,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,1.6,0.02,7.94,2.0,West Ham,True,Fulham,-5.99,-0.13
+Danny Ings,West Ham,Fulham,2024-04-14,True,90,0.0,0.16,0.0,0.0,2,3.0,0.0,3.4,0,1,0.6,0.03,10.42,1.0,West Ham,False,Crystal Palace,,0.38
+Danny Ings,West Ham,Crystal Palace,2024-04-21,False,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0.8,0.03,10.56,0.0,West Ham,True,Liverpool,-1.96,0.18
+Danny Ings,West Ham,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.6,0.03,10.26,1.0,West Ham,False,Chelsea,-1.22,-0.85
+Danny Ings,West Ham,Chelsea,2024-05-05,False,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0.8,0.03,10.53,1.0,West Ham,True,Luton,,
+Danny Ings,West Ham,Luton,2024-05-11,True,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1.0,0.03,10.41,1.0,West Ham,False,Manchester City,3.95,-1.32
+Danny Ings,West Ham,Manchester City,2024-05-19,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.8,0.0,10.24,1.0,West Ham,True,Aston Villa,,0.64

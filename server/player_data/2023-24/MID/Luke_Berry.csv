@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Luke Berry,Luton,Brighton,2023-08-12,False,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1.0,0.0,2.0,0.0,Luton,False,Chelsea,,-0.85
+Luke Berry,Luton,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.5,0.0,1.0,0.0,Luton,True,West Ham,,0.49
+Luke Berry,Luton,West Ham,,True,0,,,,,0,,,0.0,0,0,0.33,0.0,0.67,0.0,Luton,False,Fulham,,0.86
+Luke Berry,Luton,Fulham,,False,0,,,,,0,,,0.0,0,0,0.25,0.0,0.5,0.0,Luton,True,Wolverhampton,,0.05
+Luke Berry,Luton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,0.4,0.0,Luton,False,Everton,,-0.24
+Luke Berry,Luton,Everton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.33,0.0,Luton,True,Burnley,,0.39
+Luke Berry,Luton,Burnley,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.29,1.0,Luton,True,Tottenham,,0.69
+Luke Berry,Luton,Tottenham,2023-10-07,True,24,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0.2,0.0,3.25,0.0,Luton,False,Nottingham Forest,,-0.55
+Luke Berry,Luton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,2.89,0.0,Luton,False,Aston Villa,,0.29
+Luke Berry,Luton,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,2.6,0.0,Luton,True,Liverpool,,0.18
+Luke Berry,Luton,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,2.36,0.0,Luton,False,Manchester United,,-0.63
+Luke Berry,Luton,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,2.17,0.0,Luton,True,Crystal Palace,,0.88
+Luke Berry,Luton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.0,0.0,Luton,False,Brentford,,-0.53
+Luke Berry,Luton,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.86,0.0,Luton,True,Arsenal,,-0.11
+Luke Berry,Luton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.73,0.0,Luton,True,Manchester City,,-0.96
+Luke Berry,Luton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.62,0.0,Luton,True,Newcastle United,,0.55
+Luke Berry,Luton,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.53,0.0,Luton,False,Sheffield,,-0.61
+Luke Berry,Luton,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.44,0.0,Luton,True,Chelsea,,-0.25
+Luke Berry,Luton,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.37,1.0,Luton,False,Burnley,,0.0
+Luke Berry,Luton,Burnley,2024-01-12,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.2,0.0,1.5,1.0,Luton,True,Brighton,,-0.66
+Luke Berry,Luton,Brighton,2024-01-30,True,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0.4,0.0,1.81,0.0,Luton,False,Newcastle United,,-0.41
+Luke Berry,Luton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,1.73,1.0,Luton,True,Sheffield,,0.68
+Luke Berry,Luton,Sheffield,2024-02-10,True,3,0.0,0.12,0.0,0.0,1,1.0,0.0,1.0,0,0,0.6,0.02,1.78,1.0,Luton,True,Manchester United,,0.38
+Luke Berry,Luton,Manchester United,2024-02-18,True,8,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,0.8,0.02,2.04,0.0,Luton,False,Liverpool,,-1.01
+Luke Berry,Luton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.6,0.02,1.96,0.0,Luton,True,Aston Villa,,0.64
+Luke Berry,Luton,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.4,0.02,1.88,0.0,Luton,False,Crystal Palace,,0.38
+Luke Berry,Luton,Crystal Palace,2024-03-09,False,3,0.0,0.0,0.0,0.0,0,0.0,0.0,0.3,0,0,0.4,0.02,1.93,1.0,Luton,False,Bournemouth,,0.19
+Luke Berry,Luton,Bournemouth,2024-03-13,False,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.4,0.0,1.93,6.0,Luton,True,Nottingham Forest,,1.55
+Luke Berry,Luton,Nottingham Forest,2024-03-16,True,5,1.0,0.46,0.0,0.0,6,1.0,0.0,6.7,0,0,1.4,0.09,2.03,2.0,Luton,False,Tottenham,,-0.36
+Luke Berry,Luton,Tottenham,2024-03-30,False,62,0.0,0.04,0.0,0.0,2,1.0,0.0,0.6,0,1,1.8,0.1,4.03,1.0,Luton,False,Arsenal,,-0.48
+Luke Berry,Luton,Arsenal,2024-04-03,False,9,0.0,0.04,0.0,0.0,1,1.0,0.0,0.2,0,0,2.0,0.11,4.19,4.0,Luton,True,Bournemouth,,1.22
+Luke Berry,Luton,Bournemouth,2024-04-06,True,28,0.0,0.0,1.0,0.06,4,0.0,1.0,3.2,0,0,2.8,0.31,4.94,2.0,Luton,False,Manchester City,,-1.32
+Luke Berry,Luton,Manchester City,2024-04-13,False,76,0.0,0.0,0.0,0.0,2,0.0,0.0,0.5,0,1,3.0,0.31,7.09,6.0,Luton,True,Brentford,,0.79
+Luke Berry,Luton,Brentford,2024-04-20,True,45,1.0,0.3,0.0,0.0,6,1.0,0.0,5.3,0,0,3.0,0.28,8.21,1.0,Luton,False,Wolverhampton,,-0.52
+Luke Berry,Luton,Wolverhampton,2024-04-27,False,24,0.0,0.04,0.0,0.0,1,1.0,0.0,2.4,0,0,2.8,0.27,8.66,1.0,Luton,True,Everton,,0.53
+Luke Berry,Luton,Everton,2024-05-03,True,3,0.0,0.13,0.0,0.0,1,2.0,0.0,2.8,0,0,2.8,0.29,8.5,1.0,Luton,False,West Ham,,-0.22
+Luke Berry,Luton,West Ham,2024-05-11,False,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,2.2,0.09,8.35,0.0,Luton,True,Fulham,,-0.13
+Luke Berry,Luton,Fulham,,True,0,,,,,0,,,0.0,0,0,1.8,0.09,8.13,,Everton,True,Brighton,0.33,-0.66
