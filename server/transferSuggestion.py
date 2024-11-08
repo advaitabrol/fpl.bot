@@ -27,85 +27,104 @@ def load_player_data(base_dir):
     
     return all_players
 
-def get_team_data(input_names, all_players):
-    """Retrieve the data for the input team based on player names."""
-    team_data = []
-    for name in input_names:
-        player_data = all_players[all_players['name'] == name.strip().lower()]
-        if player_data.empty:
-            raise ValueError(f"Player '{name}' not found in data files.")
-        team_data.append(player_data.iloc[0].to_dict())
-    return team_data
+def get_position_limits():
+    """Defines the constraints for the starting 11 lineup."""
+    return {'GK': (1, 1), 'DEF': (3, 5), 'MID': (2, 5), 'ATT': (1, 3)}
 
-def validate_team(team):
-    """Ensure the team meets constraints such as budget and positional requirements."""
-    team_df = pd.DataFrame(team)
-    if team_df['price'].sum() > 100:
-        return False
-    if len(team_df[team_df['position'] == 'GK']) != 2:
-        return False
-    if len(team_df[team_df['position'] == 'DEF']) != 5:
-        return False
-    if len(team_df[team_df['position'] == 'MID']) != 5:
-        return False
-    if len(team_df[team_df['position'] == 'ATT']) != 3:
-        return False
-    if team_df.groupby('team').size().max() > 3:
-        return False
-    return True
+def select_optimal_starting_11(team, week, dp_cache):
+    """Selects the optimal starting 11 lineup for a given week based on position constraints."""
+    team_key = tuple(player['name'] for player in team)
+    week_key = f"{team_key}_week{week}"
+    
+    # Check the cache for the precomputed optimal starting 11 for this team and week
+    if week_key in dp_cache:
+        return dp_cache[week_key]
+    
+    limits = get_position_limits()
+    starting_11 = []
+    
+    # Position-based selection
+    for position, (min_required, max_allowed) in limits.items():
+        players = sorted(
+            [player for player in team if player['position'] == position],
+            key=lambda x: x[f'week{week}'],
+            reverse=True
+        )
+        starting_11.extend(players[:min_required])
+        remaining_players = players[min_required:max_allowed]
+        starting_11 += remaining_players
+    
+    # Fill remaining slots with best-performing players
+    remaining_slots = 11 - len(starting_11)
+    other_positions = [player for player in team if player not in starting_11]
+    other_positions_sorted = sorted(other_positions, key=lambda x: x[f'week{week}'], reverse=True)
+    starting_11 += other_positions_sorted[:remaining_slots]
+    
+    # Ensure exactly 11 players and cache result
+    starting_11 = starting_11[:11]
+    dp_cache[week_key] = starting_11
+    return starting_11
 
-def calculate_expected_points(team):
-    """Calculate total expected points for the top 11 players based on 3-week projection."""
-    top_11 = sorted(team, key=lambda x: x['week1'] + x['week2'] + x['week3'], reverse=True)[:11]
-    return sum(player['week1'] + player['week2'] + player['week3'] for player in top_11)
+def calculate_team_points(team, dp_cache):
+    """Calculates the total expected points for the team over 3 weeks."""
+    total_points = 0
+    for week in range(1, 4):
+        starting_11 = select_optimal_starting_11(team, week, dp_cache)
+        total_points += sum(player[f'week{week}'] for player in starting_11)
+    return total_points
 
 def suggest_transfers(input_names, max_transfers, keep=[], blacklist=[]):
     all_players = load_player_data(base_dir)
-    current_team = get_team_data(input_names, all_players)
-    keep_set = set(name.strip().lower() for name in keep)  # Normalize keep names
-    blacklist_set = set(name.strip().lower() for name in blacklist)  # Normalize blacklist names
-    transferable_team = [player for player in current_team if player['name'] not in keep_set]
+    current_team = [player for player in all_players.to_dict('records') if player['name'] in [name.lower() for name in input_names]]
+    keep_set = set(name.strip().lower() for name in keep)
+    blacklist_set = set(name.strip().lower() for name in blacklist)
+    dp_cache = {}
 
     best_team = current_team.copy()
-    best_score = calculate_expected_points(best_team)
+    best_score = calculate_team_points(best_team, dp_cache)
     original_team_score = best_score
     transfers_suggestion = []
 
-    # Create a set of names currently in the team for easy lookup
     current_team_names = set(player['name'] for player in current_team)
 
     for t in range(1, max_transfers + 1):
-        for out_players in combinations(transferable_team, t):
+        # Iterate over all combinations of `t` players to transfer out
+        for out_players in combinations(current_team, t):
             out_budget = sum(player['price'] for player in out_players)
             out_positions = [player['position'] for player in out_players]
+            out_points = sum(sum(player[f'week{week}'] for week in range(1, 4)) for player in out_players)
 
-            # Filter candidates by position, budget, exclude players in the team and in blacklist
-            candidates = all_players[(all_players['position'].isin(out_positions)) & 
-                                     (all_players['price'] <= out_budget) & 
-                                     (~all_players['name'].isin(current_team_names)) & 
-                                     (~all_players['name'].isin(blacklist_set))].copy()
-            candidates['total_points'] = candidates[['week1', 'week2', 'week3']].sum(axis=1)
-            candidates = candidates.nlargest(15, 'total_points')  # Limit to top 15
+            # Filter candidates based on position and price constraints
+            for out_player in out_players:
+                candidates = all_players[
+                    (all_players['position'] == out_player['position']) &
+                    (all_players['price'] <= out_budget) &
+                    (~all_players['name'].isin(current_team_names)) &
+                    (~all_players['name'].isin(blacklist_set))
+                ]
+                
+                candidates = candidates.to_dict('records')
 
-            # Match out players by position only
-            for in_players in combinations(candidates.to_dict('records'), t):
-                if (sum(player['price'] for player in in_players) <= out_budget and
-                    all(out['position'] == inp['position'] for out, inp in zip(out_players, in_players))):
-                    
-                    new_team = [player for player in current_team if player not in out_players] + list(in_players)
-                    if validate_team(new_team):
-                        new_score = calculate_expected_points(new_team)
-                        if new_score > best_score:
-                            best_score = new_score
-                            best_team = new_team
-                            transfers_suggestion = [(out['name'], inp['name']) for out, inp in zip(out_players, in_players)]
+                # Generate combinations of candidates for multiple transfers
+                for in_players in combinations(candidates, t):
+                    if sum(player['price'] for player in in_players) <= out_budget:
+                        # Ensure that the combined points of the in_players are higher than out_players
+                        in_points = sum(sum(player[f'week{week}'] for week in range(1, 4)) for player in in_players)
+                        if in_points > out_points:
+                            new_team = [player for player in current_team if player not in out_players] + list(in_players)
+                            new_score = calculate_team_points(new_team, dp_cache)
+
+                            if new_score > best_score:
+                                best_score = new_score
+                                best_team = new_team
+                                transfers_suggestion = [(out['name'], inp['name']) for out, inp in zip(out_players, in_players)]
     
     before_price = sum(player['price'] for player in current_team)
     after_price = sum(player['price'] for player in best_team)
 
     return best_team, transfers_suggestion, before_price, after_price, original_team_score
 
-def print_team(best_team, transfers_suggestion, before_price, after_price, original_team_score):
+def print_team_and_suggestion(best_team, transfers_suggestion, before_price, after_price, original_team_score):
     print("Best Suggested Team:")
     for player in best_team:
         print(f"{player['name'].title()} ({player['position']}) - {player['team']} - Price: {player['price']}")
@@ -113,7 +132,7 @@ def print_team(best_team, transfers_suggestion, before_price, after_price, origi
     print(f"\nTotal Team Price Before Transfers: {before_price}")
     print(f"Total Team Price After Transfers: {after_price}")
     print(f"Total Expected Points of Original Team (Top 11): {original_team_score}")
-    total_expected_points = calculate_expected_points(best_team)
+    total_expected_points = calculate_team_points(best_team, {})
     print(f"Total Expected Points After Transfers (Top 11): {total_expected_points}")
 
     if transfers_suggestion:
@@ -123,16 +142,19 @@ def print_team(best_team, transfers_suggestion, before_price, after_price, origi
     else:
         print("\nNo transfers recommended - save your transfers.")
 
-if __name__ == "__main__":
+def run_test_case():
     input_team = [
-        "André Onana", "Leif Davis", "Diogo Dalot Teixeira", 
+        "Aaron Ramsdale", "Leif Davis", "Diogo Dalot Teixeira", 
         "Lucas Digne", "Bryan Mbeumo", "Cole Palmer", "Bukayo Saka", 
         "Mohamed Salah", "Danny Welbeck", "Rasmus Højlund", "Ollie Watkins", 
         "Joe Lumley", "Lewis Hall", "Luke Thomas", "Jakub Moder"
     ]
     max_transfers = 3
-    keep = ["Rasmus Højlund"]  # Players to keep in the team
-    blacklist = ["Raúl Jiménez", "Nicolas Jackson"]  # Players not to transfer in
+    keep = []  # Players to keep in the team
+    blacklist = []  # Players not to transfer in
 
     best_team, transfers_suggestion, before_price, after_price, original_team_score = suggest_transfers(input_team, max_transfers, keep, blacklist)
-    print_team(best_team, transfers_suggestion, before_price, after_price, original_team_score)
+    print_team_and_suggestion(best_team, transfers_suggestion, before_price, after_price, original_team_score)
+
+if __name__ == "__main__":
+    run_test_case()
