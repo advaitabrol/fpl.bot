@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
-import { getClosestTeamColor } from '../../utils/getClosestTeamColor';
+import { useTeamColors } from '../../hooks/useTeamColors';
+import PlayerIcon from '../../ui/PlayerIcon';
 
 interface PlayerProps {
   player: {
@@ -20,12 +21,6 @@ const PlayerWrapper = styled.div`
   margin: 0.5rem;
   width: 120px;
   position: relative;
-`;
-
-const PlayerIcon = styled.svg<{ primaryColor: string; secondaryColor: string }>`
-  width: 60px;
-  height: 80px;
-  margin-bottom: 0.5rem;
 `;
 
 const CaptainIcon = styled.div`
@@ -86,7 +81,7 @@ const WeekPoints = styled.div`
 `;
 const Player: React.FC<PlayerProps> = ({ player, weekIndex }) => {
   const { name, team, price, expected_points, isCaptain } = player;
-  const { primary, secondary } = getClosestTeamColor(team);
+  const { primary, secondary } = useTeamColors(team);
 
   const isCaptainForCurrentWeek = isCaptain[0];
   const nameParts = name.split(' ');
@@ -98,27 +93,12 @@ const Player: React.FC<PlayerProps> = ({ player, weekIndex }) => {
       <PlayerIcon
         primaryColor={primary}
         secondaryColor={secondary}
-        viewBox="0 0 100 140"
-      >
-        <circle cx="50" cy="30" r="20" fill={secondary} />
-        <rect
-          x="30"
-          y="60"
-          width="40"
-          height="50"
-          rx="10"
-          ry="10"
-          fill={primary}
-          stroke={secondary}
-          strokeWidth="2"
-        />
-      </PlayerIcon>
+        size="roster"
+      />
       <PlayerName>{displayName}</PlayerName>
       <PointsBox>
         {weekIndex !== undefined ? (
-          <div className="points">
-            {expected_points[weekIndex]} pts {/* Add 'pts' for single week */}
-          </div>
+          <div className="points">{expected_points[weekIndex]} pts</div>
         ) : (
           expected_points.slice(0, 3).map((points, index) => (
             <WeekPoints key={index}>

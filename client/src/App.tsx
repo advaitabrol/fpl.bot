@@ -8,6 +8,7 @@ import {
 import styled, { createGlobalStyle } from 'styled-components';
 import OptimalTeam from './pages/OptimalTeam.tsx';
 import PlayersPage from './pages/PlayerPage.tsx';
+import YourTeam from './pages/YourTeam.tsx';
 
 // Define a global theme style to match EPL aesthetics
 const GlobalStyle = createGlobalStyle`
@@ -96,8 +97,5 @@ const App: React.FC = () => {
     </>
   );
 };
-
-// Placeholder components for routes
-const YourTeam: React.FC = () => <h1>Your Team</h1>;
 
 export default App;

@@ -10,6 +10,10 @@ const TableWrapper = styled.div`
   overflow-x: auto;
 `;
 
+const Container = styled.div`
+  margin-top: 40px; /* Adjust this value as needed */
+`;
+
 interface Player {
   name: string;
   team: string;
@@ -31,7 +35,7 @@ const PlayersPage: React.FC = () => {
     direction: 'asc' | 'desc';
   }>({ key: 'totalPoints', direction: 'desc' });
   const [selectedPositions, setSelectedPositions] = useState<string[]>([]);
-  const playersPerPage = 20;
+  const playersPerPage = 10;
 
   // Load and parse CSV data
   useEffect(() => {
@@ -145,8 +149,8 @@ const PlayersPage: React.FC = () => {
   };
 
   return (
-    <div>
-      <h2>Player List</h2>
+    <Container>
+      <h2>Players</h2>
       <FilterControls
         searchName={searchName}
         onSearchNameChange={setSearchName}
@@ -166,7 +170,7 @@ const PlayersPage: React.FC = () => {
         totalPages={totalPages}
         onPageChange={handlePageChange}
       />
-    </div>
+    </Container>
   );
 };
 

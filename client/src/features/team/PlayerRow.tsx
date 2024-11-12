@@ -14,7 +14,7 @@ interface PlayerRowProps {
 }
 
 const RowWrapper = styled.div`
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
   text-align: center;
 `;
 

@@ -1,13 +1,13 @@
 import React from 'react';
 import styled from 'styled-components';
-import PlayerRow from '../aiTeamPlayer/PlayerRow';
-import Bench from '../aiTeamPlayer/Bench';
+import PlayerRow from '../team/PlayerRow';
+import Bench from '../team/Bench';
 import teamData from '../../data/testTeam.json';
 
 const PageWrapper = styled.div`
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   min-height: 100vh;
   padding: 1rem;
@@ -19,7 +19,7 @@ const TeamWrapper = styled.div`
 
 const SectionTitle = styled.h2`
   font-size: 1.5rem;
-  margin-top: 1.5rem;
+  margin-top: 0.5rem;
 `;
 
 const TeamStatsBox = styled.div`
@@ -27,10 +27,10 @@ const TeamStatsBox = styled.div`
   border: 1px solid #ccc;
   padding: 0.8rem; /* Reduced padding for a more compact look */
   border-radius: 8px;
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.5rem;
   text-align: center;
   width: 250px; /* Slightly reduced width */
-  min-height: 60px; /* Slightly reduced minimum height */
+  min-height: 30px; /* Slightly reduced minimum height */
 `;
 
 const Stat = styled.div`

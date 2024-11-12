@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import PlayerRow from './PlayerRow';
 
 interface Player {
   name: string;
@@ -26,14 +27,20 @@ interface PlayerTableProps {
 const Table = styled.table`
   width: 100%;
   border-collapse: collapse;
+  background-color: white;
+  border: 1px solid #eaeaea;
 `;
 
 const Th = styled.th`
   padding: 10px;
-  background-color: #f4f4f4;
-  border-bottom: 1px solid #ddd;
+  background-color: #37003c; /* Premier League purple */
+  color: white;
+  border-bottom: 2px solid #eaeaea;
   cursor: pointer;
   text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 1;
 
   span {
     margin-left: 5px;
@@ -45,6 +52,9 @@ const Td = styled.td`
   padding: 10px;
   text-align: center;
   border-bottom: 1px solid #ddd;
+  &:nth-child(odd) {
+    background-color: #f9f9f9;
+  }
 `;
 
 const PlayerTable: React.FC<PlayerTableProps> = ({
@@ -85,16 +95,7 @@ const PlayerTable: React.FC<PlayerTableProps> = ({
       </thead>
       <tbody>
         {players.map((player, index) => (
-          <tr key={index}>
-            <Td>{player.name}</Td>
-            <Td>{player.team}</Td>
-            <Td>{player.price}</Td>
-            <Td>{player.position}</Td>
-            <Td>{player.week1}</Td>
-            <Td>{player.week2}</Td>
-            <Td>{player.week3}</Td>
-            <Td>{player.totalPoints}</Td>
-          </tr>
+          <PlayerRow key={index} player={player} />
         ))}
       </tbody>
     </Table>
