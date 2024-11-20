@@ -2,13 +2,12 @@ import os
 import pandas as pd
 import numpy as np
 
-"""
-Calculates fixture specific home and away difficulties for each team against every other team
-they have played. It calculates this difficulty using all games across all seasons they have 
-played eachother. The output is a folder holding files for each team in which there is a list 
-of every other team they have played and their home and away difficulty against them. A lower
-number indicates a less difficult match up. Using incremented data right now. 
-"""
+# Recently relegated teams list based on previous analysis
+recently_relegated_teams = [
+    'Norwich City', 'Watford', 'Burnley', 'Sheffield United', 
+    'West Bromwich Albion', 'Fulham', 'Bournemouth', 'Cardiff City', 
+    'Huddersfield Town', 'Swansea City'
+]
 
 # Function to calculate average difficulty across seasons
 def calculate_average_difficulty(team, opponent, difficulties):
@@ -44,12 +43,13 @@ def calculate_difficulty_from_normalized_data(fpl_row, weight_dict):
     return difficulty
 
 # Function to calculate difficulty for specific fixtures
-def calculate_difficulty(team, opponent, location, team_fixtures, team_fpl_data, weight_dict):
+def calculate_difficulty(team, opponent, location, team_fixtures, team_fpl_data, weight_dict, recently_relegated_teams):
+    """Calculate difficulty for a specific fixture with scaling adjustments for recently relegated teams."""
     opponent_matches = team_fixtures[(team_fixtures['Opponent'] == opponent) & (team_fixtures['Location'] == location)]
 
     if opponent_matches.empty:
         return None  # If no matches against the opponent, return None
-    
+
     difficulties = []
     for idx, match in opponent_matches.iterrows():
         try:
@@ -59,7 +59,24 @@ def calculate_difficulty(team, opponent, location, team_fixtures, team_fpl_data,
         except IndexError:
             continue
 
-    return sum(difficulties) / len(difficulties) if difficulties else None
+    # Calculate the average difficulty
+    average_difficulty = sum(difficulties) / len(difficulties) if difficulties else None
+
+    # Apply scaling based on conditions
+    num_matches = len(opponent_matches)
+    is_team_relegated = team in recently_relegated_teams
+    is_opponent_relegated = opponent in recently_relegated_teams
+
+    if average_difficulty is not None and num_matches < 5:
+        if not is_team_relegated and is_opponent_relegated:
+            # Scale down difficulty if the opponent is recently relegated
+            average_difficulty -= 0.5
+        elif is_team_relegated and not is_opponent_relegated:
+            # Scale up difficulty if the team is recently relegated
+            average_difficulty += 0.5
+
+    return average_difficulty
+
 
 # Helper function to normalize team name from file names
 def normalize_team_name(filename):
@@ -95,6 +112,12 @@ def calculate_difficulties_for_all_teams(fpl_team_data_dir, fixtures_dir, output
         'deep_diff': 2
     }
 
+    # Define the recently relegated teams
+    recently_relegated_teams = {
+        'Luton', 'Burnley', 'Sheffield United', 'Norwich', 'Watford', 
+        'Fulham', 'West Brom', 'Bournemouth', 'Nottingham Forest'
+    }
+
     teams = set(normalize_team_name(filename) for filename in os.listdir(fixtures_dir) if filename.endswith('.csv'))
 
     for team in teams:
@@ -107,8 +130,12 @@ def calculate_difficulties_for_all_teams(fpl_team_data_dir, fixtures_dir, output
 
                 for opponent in teams:
                     if team != opponent:
-                        home_difficulty = calculate_difficulty(team, opponent, 'Home', team_fixtures, team_fpl_data, weight_dict)
-                        away_difficulty = calculate_difficulty(team, opponent, 'Away', team_fixtures, team_fpl_data, weight_dict)
+                        home_difficulty = calculate_difficulty(
+                            team, opponent, 'Home', team_fixtures, team_fpl_data, weight_dict, recently_relegated_teams
+                        )
+                        away_difficulty = calculate_difficulty(
+                            team, opponent, 'Away', team_fixtures, team_fpl_data, weight_dict, recently_relegated_teams
+                        )
 
                         difficulties.append({
                             'Opponent': opponent,
@@ -127,11 +154,12 @@ def calculate_difficulties_for_all_teams(fpl_team_data_dir, fixtures_dir, output
             average_difficulties.to_csv(output_file, index=False)
             print(f"Saved difficulty ratings for {team} to {output_file}")
 
+
 # Main function to calculate difficulties for all requested scenarios
 def main():
     # Base directories
-    fpl_team_data_dir = './fpl_team_data'
-    fixtures_dir = './fixturesForEachTeam'
+    fpl_team_data_dir = './all_games_team-season'
+    fixtures_dir = './fixtures_for_each_team'
 
     # Season sets for different calculations
     season_sets = {
@@ -139,7 +167,8 @@ def main():
         'difficulty_2019_2022_first_half_2022_23': ['2019-20', '2020-21', '2021-22', '2022-23'],
         'difficulty_2019_2023': ['2019-20', '2020-21', '2021-22', '2022-23'],
         'difficulty_2019_2023_first_half_2023_24': ['2019-20', '2020-21', '2021-22', '2022-23', '2023-24'],
-        'difficulty_2019_2024': ['2019-20', '2020-21', '2021-22', '2022-23', '2023-24']
+        'difficulty_2019_2024': ['2019-20', '2020-21', '2021-22', '2022-23', '2023-24'],
+        'difficulty_2019_2024_first_half_2024_25': ['2019-20', '2020-21', '2021-22', '2022-23', '2023-24', '2024-25']
     }
 
     # Loop through each season set and calculate difficulties
