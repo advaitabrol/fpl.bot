@@ -1,0 +1,273 @@
+{
+  "teams": {
+    "123456": {
+      "team": [
+        {
+          "name": "Ederson Santana de Moraes",
+          "team": "Man City",
+          "position": "GK",
+          "price": 5.5,
+          "expected_points": [3.23, 3.3, 3.31],
+          "isBench": [false, true, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Joško Gvardiol",
+          "team": "Man City",
+          "position": "DEF",
+          "price": 6.2,
+          "expected_points": [3.61, 3.56, 3.49],
+          "isBench": [false, false, true],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Gabriel Magalhães",
+          "team": "Arsenal",
+          "position": "DEF",
+          "price": 6.3,
+          "expected_points": [3.56, 4.24, 4.05],
+          "isBench": [false, false, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Leif Davis",
+          "team": "Ipswich",
+          "position": "DEF",
+          "price": 4.5,
+          "expected_points": [0, 0, 3.49],
+          "isBench": [true, true, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Brennan Johnson",
+          "team": "Spurs",
+          "position": "MID",
+          "price": 6.7,
+          "expected_points": [4.62, 4.51, 4.37],
+          "isBench": [false, false, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Bukayo Saka",
+          "team": "Arsenal",
+          "position": "MID",
+          "price": 10.0,
+          "expected_points": [12.02, 12.18, 12.8],
+          "isBench": [false, false, false],
+          "isCaptain": [true, true, true]
+        },
+        {
+          "name": "Lucas Digne",
+          "team": "Aston Villa",
+          "position": "DEF",
+          "price": 4.7,
+          "expected_points": [0, 0, 3.54],
+          "isBench": [true, true, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Raúl Jiménez",
+          "team": "Fulham",
+          "position": "ATT",
+          "price": 5.7,
+          "expected_points": [4.78, 4.64, 4.65],
+          "isBench": [false, false, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Bryan Mbeumo",
+          "team": "Brentford",
+          "position": "MID",
+          "price": 7.7,
+          "expected_points": [5.17, 5.0, 4.31],
+          "isBench": [false, false, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Sam Johnstone",
+          "team": "Wolves",
+          "position": "GK",
+          "price": 4.4,
+          "expected_points": [0, 3.3, 0],
+          "isBench": [true, false, true],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Ollie Watkins",
+          "team": "Aston Villa",
+          "position": "ATT",
+          "price": 9.1,
+          "expected_points": [5.03, 5.12, 5.08],
+          "isBench": [false, false, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Mohamed Salah",
+          "team": "Liverpool",
+          "position": "MID",
+          "price": 12.6,
+          "expected_points": [4.96, 5.9, 5.06],
+          "isBench": [false, false, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Gabriel Jesus",
+          "team": "Arsenal",
+          "position": "ATT",
+          "price": 8.7,
+          "expected_points": [5.1, 5.3, 5.6],
+          "isBench": [true, true, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "John Stones",
+          "team": "Man City",
+          "position": "DEF",
+          "price": 5.4,
+          "expected_points": [3.8, 4.1, 4.0],
+          "isBench": [false, false, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Phil Foden",
+          "team": "Man City",
+          "position": "MID",
+          "price": 8.1,
+          "expected_points": [4.4, 4.6, 5.0],
+          "isBench": [false, false, false],
+          "isCaptain": [false, false, false]
+        }
+      ]
+    },
+    "654321": {
+      "team": [
+        {
+          "name": "Alisson Becker",
+          "team": "Liverpool",
+          "position": "GK",
+          "price": 6.0,
+          "expected_points": [3.7, 3.4, 3.8],
+          "isBench": [false, true, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Andrew Robertson",
+          "team": "Liverpool",
+          "position": "DEF",
+          "price": 6.5,
+          "expected_points": [3.3, 4.0, 4.2],
+          "isBench": [false, false, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Virgil van Dijk",
+          "team": "Liverpool",
+          "position": "DEF",
+          "price": 6.4,
+          "expected_points": [3.9, 4.1, 4.3],
+          "isBench": [false, false, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Trent Alexander-Arnold",
+          "team": "Liverpool",
+          "position": "DEF",
+          "price": 7.5,
+          "expected_points": [4.5, 5.1, 5.3],
+          "isBench": [false, false, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Fabinho",
+          "team": "Liverpool",
+          "position": "MID",
+          "price": 5.4,
+          "expected_points": [2.5, 2.7, 2.8],
+          "isBench": [true, true, true],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Jordan Henderson",
+          "team": "Liverpool",
+          "position": "MID",
+          "price": 5.5,
+          "expected_points": [3.0, 3.1, 3.2],
+          "isBench": [false, false, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Thiago Alcântara",
+          "team": "Liverpool",
+          "position": "MID",
+          "price": 5.3,
+          "expected_points": [3.1, 3.2, 3.4],
+          "isBench": [true, false, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Mohamed Salah",
+          "team": "Liverpool",
+          "position": "MID",
+          "price": 12.6,
+          "expected_points": [7.6, 8.0, 8.3],
+          "isBench": [false, false, false],
+          "isCaptain": [true, true, true]
+        },
+        {
+          "name": "Sadio Mané",
+          "team": "Liverpool",
+          "position": "MID",
+          "price": 11.5,
+          "expected_points": [5.0, 5.3, 5.5],
+          "isBench": [false, false, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Roberto Firmino",
+          "team": "Liverpool",
+          "position": "ATT",
+          "price": 9.0,
+          "expected_points": [4.5, 4.6, 4.8],
+          "isBench": [false, false, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Diogo Jota",
+          "team": "Liverpool",
+          "position": "ATT",
+          "price": 7.9,
+          "expected_points": [4.2, 4.3, 4.4],
+          "isBench": [true, false, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Joel Matip",
+          "team": "Liverpool",
+          "position": "DEF",
+          "price": 5.0,
+          "expected_points": [3.4, 3.6, 3.7],
+          "isBench": [true, false, false],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Curtis Jones",
+          "team": "Liverpool",
+          "position": "MID",
+          "price": 4.5,
+          "expected_points": [2.3, 2.5, 2.6],
+          "isBench": [true, true, true],
+          "isCaptain": [false, false, false]
+        },
+        {
+          "name": "Neco Williams",
+          "team": "Liverpool",
+          "position": "DEF",
+          "price": 4.2,
+          "expected_points": [3.1, 3.2, 3.3],
+          "isBench": [false, false, false],
+          "isCaptain": [false, false, false]
+        }
+      ]
+    }
+  }
+}

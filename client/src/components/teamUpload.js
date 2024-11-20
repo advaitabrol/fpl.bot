@@ -1,1 +1,0 @@
-//Component for user to upload team file

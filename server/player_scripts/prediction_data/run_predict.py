@@ -6,6 +6,7 @@ import argparse
 from prediction_data.add_prices import add_price_to_prediction_data;
 from prediction_data.predict_gw import predict_gw; 
 from prediction_data.reformat import merge_player_weeks;
+from prediction_data.consolidate import combine_csv_files; 
 
 def create_prediction_data(base_dir, prediction_dir, gw_folder_name, season='2024-25'):
     positions_mapping = {
@@ -188,5 +189,6 @@ def main_create_prediction(gw_folder_name, seasons=['2024-25']):
     merge_player_weeks(f'prediction_data/{CURRENT_SEASON}/{gw_folder_name}/mid.csv', f'prediction_data/{CURRENT_SEASON}/{gw_folder_name}/MID.csv')
     merge_player_weeks(f'prediction_data/{CURRENT_SEASON}/{gw_folder_name}/fwd.csv', f'prediction_data/{CURRENT_SEASON}/{gw_folder_name}/FWD.csv')
 
+    combine_csv_files(gw_folder_name)
     
 
