@@ -6,8 +6,9 @@ from collections import Counter
 # Directory containing the player data
 base_dir = './prediction_data/2024-25/GW10/'
 
+
 def load_player_data(base_dir):
-    """Load player data with 3-week points projections, applying minimum expected points thresholds by position."""
+    """Load player data for all potential transfers, applying minimum expected points thresholds by position."""
     files = {
         'GK': 'gk.csv',
         'DEF': 'def.csv',
@@ -27,13 +28,13 @@ def load_player_data(base_dir):
         
         # Apply the exclusion criteria based on position
         if pos == 'GK':
-            df = df[df['total_expected_points'] >= 3]
-        elif pos == 'DEF':
-            df = df[df['total_expected_points'] >= 4]
-        elif pos == 'MID':
-            df = df[df['total_expected_points'] >= 6]
-        elif pos == 'ATT':
             df = df[df['total_expected_points'] >= 7]
+        elif pos == 'DEF':
+            df = df[df['total_expected_points'] >= 9]
+        elif pos == 'MID':
+            df = df[df['total_expected_points'] >= 13]
+        elif pos == 'ATT':
+            df = df[df['total_expected_points'] >= 15]
         
         all_players = pd.concat([all_players, df], ignore_index=True)
 
@@ -42,6 +43,32 @@ def load_player_data(base_dir):
         raise ValueError("Required columns ('price', 'name') not found in player data files.")
     
     return all_players
+
+
+def load_input_team(input_team_names, base_dir):
+    """Load input team data separately from CSV files based on input team names."""
+    files = {
+        'GK': 'gk.csv',
+        'DEF': 'def.csv',
+        'MID': 'mid.csv',
+        'ATT': 'fwd.csv'
+    }
+    input_team = pd.DataFrame()
+
+    for pos, filename in files.items():
+        file_path = os.path.join(base_dir, filename)
+        df = pd.read_csv(file_path)
+        df['position'] = pos
+        df['name'] = df['name'].str.strip().str.lower()
+        df['total_expected_points'] = df[['week1', 'week2', 'week3']].sum(axis=1)
+
+        # Filter the data to include only players in the input team
+        input_team = pd.concat(
+            [input_team, df[df['name'].isin([name.lower() for name in input_team_names])]],
+            ignore_index=True
+        )
+
+    return input_team
 
 
 def get_position_limits():
@@ -115,13 +142,20 @@ def calculate_team_points(team, dp_cache):
     return total_points
 
 
-def suggest_transfers(input_names, max_transfers, keep=[], blacklist=[]):
+def suggest_transfers(input_team_names, max_transfers, keep=[], blacklist=[]):
+    # Load all potential transfer players and input team separately
     all_players = load_player_data(base_dir)
-    current_team = [player for player in all_players.to_dict('records') if player['name'] in [name.lower() for name in input_names]]
+    input_team = load_input_team(input_team_names, base_dir)
+
+    # Exclude input team players from the all_players data
+    all_players = all_players[~all_players['name'].isin(input_team['name'])]
+
     keep_set = set(name.strip().lower() for name in keep)
     blacklist_set = set(name.strip().lower() for name in blacklist)
     dp_cache = {}
 
+    # Start with the input team as the initial team
+    current_team = input_team.to_dict('records')
     best_team = current_team.copy()
     best_score = calculate_team_points(best_team, dp_cache)
     original_team_score = best_score
@@ -177,6 +211,19 @@ def suggest_transfers(input_names, max_transfers, keep=[], blacklist=[]):
     return best_team, transfers_suggestion, before_price, after_price, original_team_score
 
 
+def run_test_case():
+    input_team = [
+        "Aaron Ramsdale", "Ibrahima Konaté", "Joško Gvardiol", 
+        "Taylor Harwood-Bellis", "Bryan Mbeumo", "Brennan Johnson", "Bukayo Saka", 
+        "Mohamed Salah", "Raúl Jiménez", "Nicolas Jackson", "Ollie Watkins", 
+        "Sam Johnstone", "Leif Davis", "Malang Sarr", "Omari Kellyman"
+    ]
+    max_transfers = 3
+    keep = []  # Players to keep in the team
+    blacklist = []  # Players not to transfer in
+
+    best_team, transfers_suggestion, before_price, after_price, original_team_score = suggest_transfers(input_team, max_transfers, keep, blacklist)
+    print_team_and_suggestion(best_team, transfers_suggestion, before_price, after_price, original_team_score)
 
 
 def print_team_and_suggestion(best_team, transfers_suggestion, before_price, after_price, original_team_score):
@@ -197,19 +244,6 @@ def print_team_and_suggestion(best_team, transfers_suggestion, before_price, aft
     else:
         print("\nNo transfers recommended - save your transfers.")
 
-def run_test_case():
-    input_team = [
-        "Aaron Ramsdale", "Gabriel dos Santos Magalhães", "Joško Gvardiol", 
-        "Taylor Harwood-Bellis", "Bryan Mbeumo", "Brennan Johnson", "Bukayo Saka", 
-        "Mohamed Salah", "Raúl Jiménez", "Nicolas Jackson", "Ollie Watkins", 
-        "Sam Johnstone", "Leif Davis", "Lucas Digne", "Omari Kellyman"
-    ]
-    max_transfers = 2
-    keep = []  # Players to keep in the team
-    blacklist = []  # Players not to transfer in
-
-    best_team, transfers_suggestion, before_price, after_price, original_team_score = suggest_transfers(input_team, max_transfers, keep, blacklist)
-    print_team_and_suggestion(best_team, transfers_suggestion, before_price, after_price, original_team_score)
 
 if __name__ == "__main__":
     run_test_case()
