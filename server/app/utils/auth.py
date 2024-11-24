@@ -1,1 +1,0 @@
-# Authentication with AWS Cognito

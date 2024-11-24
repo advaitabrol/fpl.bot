@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Nathan Aké,Man City,Burnley,2023-08-11,False,78,0.0,0.11,0.0,0.0,7,1.0,0.0,2.6,1,1,0,0.23,1,7.0,0.11,78.0,1.0,0.0,Man City,True,Newcastle United,,0.55
+Nathan Aké,Man City,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3.5,0.06,39.0,1.0,2.0,Man City,False,Sheffield,,-0.61
+Nathan Aké,Man City,Sheffield,2023-08-27,False,90,0.0,0.1,0.0,0.0,2,1.0,0.0,2.8,0,0,1,0.73,1,3.0,0.07,56.0,0.5,8.0,Man City,True,Fulham,,-0.13
+Nathan Aké,Man City,Fulham,2023-09-02,True,90,1.0,0.02,0.0,0.0,8,1.0,0.0,6.7,0,0,1,1.45,1,4.25,0.06,64.5,0.33,1.0,Man City,False,West Ham,,-0.22
+Nathan Aké,Man City,West Ham,2023-09-16,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,3.6,0.05,51.8,0.25,1.0,Man City,True,Nottingham Forest,,1.55
+Nathan Aké,Man City,Nottingham Forest,2023-09-23,True,33,0.0,0.0,0.0,0.57,1,0.0,1.0,1.5,0,0,0,0.77,0,2.4,0.02,48.67,0.2,1.0,Man City,False,Wolverhampton,,-0.52
+Nathan Aké,Man City,Wolverhampton,2023-09-30,False,79,0.0,0.14,0.0,0.0,1,3.0,0.0,6.3,0,0,2,0.44,1,2.6,0.05,53.0,0.17,2.0,Man City,False,Arsenal,,-0.48
+Nathan Aké,Man City,Arsenal,2023-10-08,False,90,0.0,0.45,0.0,0.0,2,1.0,0.0,1.7,0,0,1,0.41,1,2.6,0.12,57.62,0.14,1.0,Man City,True,Brighton,,-0.66
+Nathan Aké,Man City,Brighton,2023-10-21,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,1.2,0.12,51.33,0.12,0.0,Man City,False,Manchester United,,-0.63
+Nathan Aké,Man City,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.0,0.12,46.2,0.12,9.0,Man City,True,Bournemouth,,1.22
+Nathan Aké,Man City,Bournemouth,2023-11-04,True,90,1.0,0.14,0.0,0.11,9,1.0,2.0,11.0,1,0,1,0.77,1,2.6,0.15,50.18,0.11,0.0,Man City,False,Chelsea,,-0.85
+Nathan Aké,Man City,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.4,0.12,46.0,0.11,7.0,Man City,True,Liverpool,,0.18
+Nathan Aké,Man City,Liverpool,2023-11-25,True,90,0.0,0.0,1.0,0.32,7,0.0,1.0,4.9,2,0,1,0.56,1,3.4,0.23,49.38,0.1,1.0,Man City,True,Tottenham,,0.69
+Nathan Aké,Man City,Tottenham,2023-12-03,True,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1,0.11,0,3.4,0.23,46.07,0.09,0.0,Man City,False,Aston Villa,,0.29
+Nathan Aké,Man City,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3.4,0.23,43.0,0.09,2.0,Man City,False,Luton,,
+Nathan Aké,Man City,Luton,2023-12-10,False,90,0.0,0.0,0.0,0.45,2,0.0,1.0,4.2,0,0,1,0.33,1,2.0,0.2,45.94,0.08,1.0,Man City,True,Crystal Palace,,0.88
+Nathan Aké,Man City,Crystal Palace,2023-12-16,True,90,0.0,0.08,0.0,0.12,1,3.0,1.0,4.7,0,0,2,1.82,1,2.2,0.22,48.53,0.08,5.0,Man City,False,Everton,,-0.24
+Nathan Aké,Man City,Everton,2023-12-27,False,90,0.0,0.11,0.0,0.0,5,1.0,0.0,2.3,0,0,1,1.01,1,1.8,0.04,50.83,0.07,6.0,Man City,True,Sheffield,,0.68
+Nathan Aké,Man City,Sheffield,2023-12-30,True,90,0.0,0.16,0.0,0.0,6,3.0,0.0,3.7,0,1,0,0.33,1,2.8,0.07,52.89,0.13,1.0,Man City,False,Newcastle United,,-0.41
+Nathan Aké,Man City,Newcastle United,2024-01-13,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,2,1.23,1,3.0,0.07,54.75,0.12,2.0,Man City,True,Burnley,,0.39
+Nathan Aké,Man City,Burnley,2024-01-31,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.6,0,0,1,1.44,1,3.0,0.07,56.43,0.12,2.0,Man City,False,Brentford,,-0.53
+Nathan Aké,Man City,Brentford,2024-02-05,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.0,0,0,1,1.02,1,3.2,0.05,57.95,0.11,11.0,Man City,True,Everton,,0.53
+Nathan Aké,Man City,Everton,2024-02-10,True,90,0.0,0.09,1.0,0.07,11,2.0,1.0,6.4,2,1,0,0.32,1,4.4,0.25,59.35,0.16,2.0,Man City,True,Chelsea,,-0.25
+Nathan Aké,Man City,Chelsea,2024-02-17,True,90,0.0,0.0,0.0,0.08,2,0.0,2.0,5.7,0,0,1,1.58,1,3.6,0.22,60.62,0.15,0.0,Man City,True,Brentford,,0.79
+Nathan Aké,Man City,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3.4,0.22,58.2,0.15,6.0,Man City,False,Bournemouth,,0.19
+Nathan Aké,Man City,Bournemouth,2024-02-24,False,90,0.0,0.01,0.0,0.0,6,1.0,0.0,3.3,0,1,0,0.93,1,4.2,0.22,59.42,0.19,2.0,Man City,True,Manchester United,,0.38
+Nathan Aké,Man City,Manchester United,2024-03-03,True,90,0.0,0.0,0.0,0.02,2,0.0,1.0,3.7,0,0,1,0.26,1,4.2,0.22,60.56,0.18,2.0,Man City,False,Liverpool,,-1.01
+Nathan Aké,Man City,Liverpool,2024-03-10,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.8,0,0,1,2.46,1,2.4,0.0,61.61,0.17,1.0,Man City,True,Arsenal,,-0.11
+Nathan Aké,Man City,Arsenal,2024-03-31,True,26,0.0,0.68,0.0,0.0,1,1.0,0.0,3.9,0,0,0,0.41,1,2.2,0.14,60.38,0.17,0.0,Man City,True,Aston Villa,,0.64
+Nathan Aké,Man City,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.2,0.14,58.37,0.17,0.0,Man City,False,Crystal Palace,,0.38
+Nathan Aké,Man City,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.0,0.14,56.48,0.17,0.0,Man City,True,Luton,,
+Nathan Aké,Man City,Luton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.14,54.72,0.17,6.0,Man City,False,Brighton,,-0.6
+Nathan Aké,Man City,Brighton,2024-04-25,False,90,0.0,0.09,0.0,0.0,6,1.0,0.0,1.9,0,1,0,0.49,1,1.4,0.15,55.79,0.2,6.0,Man City,False,Nottingham Forest,,-0.55
+Nathan Aké,Man City,Nottingham Forest,2024-04-28,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.3,0,1,0,1.64,1,2.4,0.02,56.79,0.23,2.0,Man City,True,Wolverhampton,,0.05
+Nathan Aké,Man City,Wolverhampton,2024-05-04,True,68,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,0,1,0.35,1,2.8,0.02,57.11,0.22,1.0,Man City,False,Fulham,,0.86
+Nathan Aké,Man City,Fulham,2024-05-11,False,21,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.0,1,3.0,0.02,56.11,0.21,0.0,Man City,False,Tottenham,,-0.36
+Nathan Aké,Man City,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3.0,0.02,54.59,0.21,1.0,Man City,True,West Ham,,0.49
+Nathan Aké,Man City,West Ham,2024-05-19,True,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.05,0,2.0,0.0,53.66,0.21,0.0,Man City,False,Chelsea,,-0.85

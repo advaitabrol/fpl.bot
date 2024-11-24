@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Victor Lindelöf,Man Utd,Wolverhampton,2023-08-14,True,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,2.03,0,1.0,0.0,45.0,0.0,0.0,Man Utd,False,Tottenham,,-0.36
+Victor Lindelöf,Man Utd,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.5,0.0,22.5,0.0,1.0,Man Utd,True,Nottingham Forest,,1.55
+Victor Lindelöf,Man Utd,Nottingham Forest,2023-08-26,True,45,0.0,0.0,0.0,0.06,1,0.0,2.0,3.8,0,0,0,0.26,0,0.67,0.0,30.0,0.0,1.0,Man Utd,False,Arsenal,,-0.48
+Victor Lindelöf,Man Utd,Arsenal,2023-09-03,False,83,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,1,1.53,1,0.75,0.0,43.25,0.0,1.0,Man Utd,True,Brighton,,-0.66
+Victor Lindelöf,Man Utd,Brighton,2023-09-16,True,90,0.0,0.06,0.0,0.07,1,1.0,2.0,3.4,0,0,3,1.89,1,0.8,0.01,52.6,0.0,6.0,Man Utd,False,Burnley,,0.0
+Victor Lindelöf,Man Utd,Burnley,2023-09-23,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.1,0,1,0,1.12,1,1.8,0.01,58.83,0.2,2.0,Man Utd,True,Crystal Palace,,0.88
+Victor Lindelöf,Man Utd,Crystal Palace,2023-09-30,True,87,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,0.81,1,2.2,0.01,62.86,0.17,2.0,Man Utd,True,Brentford,,0.79
+Victor Lindelöf,Man Utd,Brentford,2023-10-07,True,70,0.0,0.0,0.0,0.05,2,0.0,1.0,2.7,0,0,1,0.7,1,2.4,0.01,63.75,0.14,5.0,Man Utd,False,Sheffield,,-0.61
+Victor Lindelöf,Man Utd,Sheffield,2023-10-21,False,90,0.0,0.0,1.0,0.02,5,0.0,1.0,4.3,0,0,1,1.38,1,3.2,0.21,66.67,0.12,1.0,Man Utd,True,Manchester City,,-0.96
+Victor Lindelöf,Man Utd,Manchester City,2023-10-29,True,73,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,2,2.78,1,3.2,0.2,67.3,0.11,0.0,Man Utd,False,Fulham,,0.86
+Victor Lindelöf,Man Utd,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.0,0.2,61.18,0.11,15.0,Man Utd,True,Luton,,
+Victor Lindelöf,Man Utd,Luton,2023-11-11,True,90,1.0,0.11,0.0,0.0,15,1.0,0.0,8.2,3,1,0,0.42,1,4.6,0.22,63.58,0.2,6.0,Man Utd,False,Everton,,-0.24
+Victor Lindelöf,Man Utd,Everton,2023-11-26,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,3.9,0,1,0,2.73,1,5.4,0.22,65.62,0.27,0.0,Man Utd,False,Newcastle United,,-0.41
+Victor Lindelöf,Man Utd,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4.4,0.02,60.93,0.27,1.0,Man Utd,True,Chelsea,,-0.25
+Victor Lindelöf,Man Utd,Chelsea,2023-12-06,True,45,0.0,0.03,0.0,0.0,1,1.0,0.0,1.2,0,0,1,0.43,1,4.4,0.03,59.87,0.25,0.0,Man Utd,True,Bournemouth,,1.22
+Victor Lindelöf,Man Utd,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4.4,0.03,56.12,0.25,0.0,Man Utd,False,Liverpool,,-1.01
+Victor Lindelöf,Man Utd,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.4,0.01,52.82,0.25,0.0,Man Utd,False,West Ham,,-0.22
+Victor Lindelöf,Man Utd,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.01,49.89,0.25,0.0,Man Utd,True,Aston Villa,,0.64
+Victor Lindelöf,Man Utd,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.01,47.26,0.25,0.0,Man Utd,False,Nottingham Forest,,-0.55
+Victor Lindelöf,Man Utd,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,44.9,0.25,0.0,Man Utd,True,Tottenham,,0.69
+Victor Lindelöf,Man Utd,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,42.76,0.25,0.0,Man Utd,False,Wolverhampton,,-0.52
+Victor Lindelöf,Man Utd,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,40.82,0.25,1.0,Man Utd,True,West Ham,,0.49
+Victor Lindelöf,Man Utd,West Ham,2024-02-04,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.07,0,0.2,0.0,39.13,0.23,1.0,Man Utd,False,Aston Villa,,0.29
+Victor Lindelöf,Man Utd,Aston Villa,2024-02-11,False,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,1,1.64,0,0.4,0.0,39.38,0.21,0.0,Man Utd,False,Luton,,
+Victor Lindelöf,Man Utd,Luton,2024-02-18,False,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.61,0,0.4,0.0,39.6,0.2,1.0,Man Utd,True,Fulham,,-0.13
+Victor Lindelöf,Man Utd,Fulham,2024-02-24,True,90,0.0,0.06,0.0,0.09,1,1.0,2.0,6.5,0,0,2,1.11,1,0.6,0.01,41.54,0.19,1.0,Man Utd,False,Manchester City,,-1.32
+Victor Lindelöf,Man Utd,Manchester City,2024-03-03,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,3,3.32,1,0.8,0.01,43.33,0.18,7.0,Man Utd,True,Everton,,0.53
+Victor Lindelöf,Man Utd,Everton,2024-03-09,True,90,0.0,0.17,0.0,0.0,7,2.0,0.0,5.8,1,1,0,1.48,1,2.0,0.05,45.0,0.22,9.0,Man Utd,False,Brentford,,-0.53
+Victor Lindelöf,Man Utd,Brentford,2024-03-30,False,68,0.0,0.0,0.0,0.0,9,0.0,0.0,1.9,3,1,0,1.68,1,3.6,0.05,45.79,0.26,0.0,Man Utd,False,Chelsea,,-0.85
+Victor Lindelöf,Man Utd,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3.6,0.05,44.27,0.26,0.0,Man Utd,True,Liverpool,,0.18
+Victor Lindelöf,Man Utd,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3.4,0.03,42.84,0.26,0.0,Man Utd,False,Bournemouth,,0.19
+Victor Lindelöf,Man Utd,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3.2,0.03,41.5,0.26,0.0,Man Utd,True,Sheffield,,0.68
+Victor Lindelöf,Man Utd,Sheffield,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.8,0.0,40.24,0.26,0.0,Man Utd,True,Burnley,,0.39
+Victor Lindelöf,Man Utd,Burnley,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,39.06,0.26,0.0,Man Utd,False,Crystal Palace,,0.38
+Victor Lindelöf,Man Utd,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,37.94,0.26,0.0,Man Utd,True,Arsenal,,-0.11
+Victor Lindelöf,Man Utd,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,36.89,0.26,0.0,Man Utd,True,Newcastle United,,0.55
+Victor Lindelöf,Man Utd,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,35.89,0.26,0.0,Man Utd,False,Brighton,,-0.6
+Victor Lindelöf,Man Utd,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,34.95,0.26,,Man Utd,True,Fulham,,-0.13

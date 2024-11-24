@@ -1,8 +1,8 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';
 import PlayerRow from '../team/PlayerRow';
 import Bench from '../team/Bench';
-import teamData from '../../data/testTeam.json';
+import { Player, TeamData } from './types';
 
 const PageWrapper = styled.div`
   display: flex;
@@ -25,18 +25,18 @@ const SectionTitle = styled.h2`
 const TeamStatsBox = styled.div`
   background-color: #f0f0f0;
   border: 1px solid #ccc;
-  padding: 0.8rem; /* Reduced padding for a more compact look */
+  padding: 0.8rem;
   border-radius: 8px;
   margin-bottom: 0.5rem;
   text-align: center;
-  width: 250px; /* Slightly reduced width */
-  min-height: 60px; /* Slightly reduced minimum height */
+  width: 250px;
+  min-height: 60px;
 `;
 
 const StatsHeader = styled.h3`
   font-size: 1.1rem;
   font-weight: bold;
-  margin: 0; /* Removed extra margin */
+  margin: 0;
   text-align: center;
 `;
 
@@ -44,8 +44,8 @@ const StatsRow = styled.div`
   display: flex;
   justify-content: space-around;
   width: 100%;
-  gap: 1rem; /* Space between stats */
-  margin-top: 0.5rem; /* Slight space below the header */
+  gap: 1rem;
+  margin-top: 0.5rem;
 `;
 
 const Stat = styled.div`
@@ -55,35 +55,76 @@ const Stat = styled.div`
 `;
 
 const WildCardTeam: React.FC = () => {
-  const currentWeek = 0; // Use index 0 for the first week in expected_points
+  const [teamData, setTeamData] = useState<TeamData | null>(null);
+  const [loading, setLoading] = useState<boolean>(true);
+  const [error, setError] = useState<string | null>(null);
+
+  const currentWeek = 0; // Assuming index 0 for the first week in `expected_points`
+
+  useEffect(() => {
+    const fetchTeamData = async () => {
+      try {
+        setLoading(true);
+        const response = await fetch(
+          `${import.meta.env.VITE_API_URL}/teams/wildcard-team`
+        );
+        if (!response.ok) {
+          throw new Error('Failed to fetch team data.');
+        }
+        const data: TeamData = await response.json();
+        console.log('Fetched team data:', data); // Debug fetched data
+        setTeamData(data);
+      } catch (err: any) {
+        setError(err.message || 'An error occurred');
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchTeamData();
+  }, []);
+
+  if (loading) {
+    return <PageWrapper>Loading...</PageWrapper>;
+  }
+
+  if (error) {
+    return <PageWrapper>Error: {error}</PageWrapper>;
+  }
+
+  if (!teamData || !teamData.team) {
+    return <PageWrapper>No team data available.</PageWrapper>;
+  }
 
   // Filter players by position and bench status for the current week
-  const startingPlayers = {
+  const startingPlayers: { [key in Player['position']]: Player[] } = {
     GK: teamData.team.filter(
-      (player) => player.position === 'GK' && !player.isBench[currentWeek]
+      (player) => player.position === 'GK' && !player.isBench?.[currentWeek]
     ),
     DEF: teamData.team.filter(
-      (player) => player.position === 'DEF' && !player.isBench[currentWeek]
+      (player) => player.position === 'DEF' && !player.isBench?.[currentWeek]
     ),
     MID: teamData.team.filter(
-      (player) => player.position === 'MID' && !player.isBench[currentWeek]
+      (player) => player.position === 'MID' && !player.isBench?.[currentWeek]
     ),
     ATT: teamData.team.filter(
-      (player) => player.position === 'ATT' && !player.isBench[currentWeek]
+      (player) => player.position === 'ATT' && !player.isBench?.[currentWeek]
     ),
   };
 
-  const benchPlayers = teamData.team.filter(
-    (player) => player.isBench[currentWeek]
+  const benchPlayers: Player[] = teamData.team.filter(
+    (player) => player.isBench?.[currentWeek]
   );
 
   // Calculate projected points for Weeks 1, 2, and 3
-  const projectedPoints = [0, 1, 2].map(
-    (weekIndex) =>
-      teamData.team
-        .filter((player) => !player.isBench[weekIndex]) // Include only starting players
-        .reduce((sum, player) => sum + player.expected_points[weekIndex], 0)
-        .toFixed(2) // Round to two decimal places
+  const projectedPoints: string[] = [0, 1, 2].map((weekIndex) =>
+    teamData.team
+      .filter((player) => !player.isBench?.[weekIndex])
+      .reduce(
+        (sum, player) => sum + (player.expected_points?.[weekIndex] || 0),
+        0
+      )
+      .toFixed(2)
   );
 
   return (

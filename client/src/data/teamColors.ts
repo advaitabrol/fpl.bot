@@ -18,6 +18,7 @@ const teamColors: { [key: string]: { primary: string; secondary: string } } = {
   'Sheffield United': { primary: '#EE2737', secondary: '#333333' },
   'Tottenham Hotspur': { primary: '#132257', secondary: '#C0C0C0' },
   'West Ham United': { primary: '#7A263A', secondary: '#1BB1E7' },
+  Southampton: { primary: '#D71920', secondary: '#000000' },
   'Wolverhampton Wanderers': { primary: '#FDB913', secondary: '#231F20' },
 };
 

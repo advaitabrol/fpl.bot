@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Bryan Mbeumo,Brentford,Tottenham,2023-08-13,True,90,1.0,1.3,0.0,0.0,7,3.0,0.0,8.3,0,1,7.0,1.3,90.0,16.0,Brentford,False,Fulham,,0.86
+Bryan Mbeumo,Brentford,Fulham,2023-08-19,False,90,2.0,1.67,0.0,0.09,16,3.0,1.0,16.3,3,1,11.5,1.48,90.0,2.0,Brentford,True,Crystal Palace,,0.88
+Bryan Mbeumo,Brentford,Crystal Palace,2023-08-26,True,90,0.0,0.08,0.0,0.17,2,1.0,2.0,6.3,0,1,8.33,1.02,90.0,8.0,Brentford,True,Bournemouth,,1.22
+Bryan Mbeumo,Brentford,Bournemouth,2023-09-02,True,90,1.0,0.75,0.0,0.21,8,2.0,2.0,12.2,1,1,8.25,0.95,90.0,2.0,Brentford,False,Newcastle United,,-0.41
+Bryan Mbeumo,Brentford,Newcastle United,2023-09-16,False,90,0.0,0.1,0.0,0.0,2,1.0,0.0,2.2,0,1,7.0,0.78,90.0,1.0,Brentford,True,Everton,,0.53
+Bryan Mbeumo,Brentford,Everton,2023-09-23,True,90,0.0,0.14,0.0,0.03,1,3.0,1.0,5.4,0,1,5.8,0.55,90.0,2.0,Brentford,False,Nottingham Forest,,-0.55
+Bryan Mbeumo,Brentford,Nottingham Forest,2023-10-01,False,90,0.0,0.23,0.0,0.22,2,2.0,4.0,9.3,0,1,3.0,0.26,90.0,2.0,Brentford,False,Manchester United,,-0.63
+Bryan Mbeumo,Brentford,Manchester United,2023-10-07,False,90,0.0,0.1,0.0,0.25,2,2.0,2.0,4.6,0,1,3.0,0.26,90.0,14.0,Brentford,True,Burnley,,0.39
+Bryan Mbeumo,Brentford,Burnley,2023-10-21,True,90,1.0,0.31,1.0,0.98,14,6.0,3.0,17.8,3,1,4.2,0.38,90.0,13.0,Brentford,False,Chelsea,,-0.85
+Bryan Mbeumo,Brentford,Chelsea,2023-10-28,False,90,1.0,0.93,1.0,0.61,13,4.0,1.0,12.4,2,1,6.4,0.74,90.0,5.0,Brentford,True,West Ham,,0.49
+Bryan Mbeumo,Brentford,West Ham,2023-11-04,True,90,0.0,0.17,0.0,0.0,5,4.0,0.0,3.7,0,1,7.2,0.75,90.0,2.0,Brentford,False,Liverpool,,-1.01
+Bryan Mbeumo,Brentford,Liverpool,2023-11-12,False,90,0.0,0.32,0.0,0.11,2,3.0,3.0,8.9,0,1,7.2,0.77,90.0,2.0,Brentford,True,Arsenal,,-0.11
+Bryan Mbeumo,Brentford,Arsenal,2023-11-25,True,90,0.0,0.49,0.0,0.15,2,2.0,2.0,3.9,0,1,7.2,0.84,90.0,5.0,Brentford,True,Luton,,
+Bryan Mbeumo,Brentford,Luton,2023-12-02,True,77,0.0,0.23,1.0,0.06,5,4.0,1.0,5.7,0,1,5.4,0.83,89.07,6.0,Brentford,False,Brighton,,-0.6
+Bryan Mbeumo,Brentford,Brighton,2023-12-06,False,39,1.0,0.76,0.0,0.0,6,1.0,0.0,5.1,0,1,4.0,0.59,85.73,0.0,Brentford,False,Sheffield,,-0.61
+Bryan Mbeumo,Brentford,Sheffield,,False,0,,,,,0,,,0.0,0,0,3.0,0.56,80.38,0.0,Brentford,True,Aston Villa,,0.64
+Bryan Mbeumo,Brentford,Aston Villa,,True,0,,,,,0,,,0.0,0,0,2.6,0.5,75.65,0.0,Brentford,True,Wolverhampton,,0.05
+Bryan Mbeumo,Brentford,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,2.2,0.4,71.44,0.0,Brentford,False,Crystal Palace,,0.38
+Bryan Mbeumo,Brentford,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,1.2,0.15,67.68,0.0,Brentford,True,Nottingham Forest,,1.55
+Bryan Mbeumo,Brentford,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,64.3,0.0,Brentford,False,Tottenham,,-0.36
+Bryan Mbeumo,Brentford,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,61.24,0.0,Brentford,True,Manchester City,,-0.96
+Bryan Mbeumo,Brentford,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,58.45,0.0,Brentford,False,Wolverhampton,,-0.52
+Bryan Mbeumo,Brentford,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,55.91,0.0,Brentford,True,Liverpool,,0.18
+Bryan Mbeumo,Brentford,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,53.58,0.0,Brentford,False,Manchester City,,-1.32
+Bryan Mbeumo,Brentford,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,51.44,0.0,Brentford,False,West Ham,,-0.22
+Bryan Mbeumo,Brentford,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,49.46,0.0,Brentford,True,Chelsea,,-0.25
+Bryan Mbeumo,Brentford,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,47.63,0.0,Brentford,False,Arsenal,,-0.48
+Bryan Mbeumo,Brentford,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,45.93,1.0,Brentford,False,Burnley,,0.0
+Bryan Mbeumo,Brentford,Burnley,2024-03-16,False,11,0.0,0.0,0.0,0.08,1,0.0,1.0,1.9,0,0,0.2,0.0,44.72,1.0,Brentford,True,Manchester United,,0.38
+Bryan Mbeumo,Brentford,Manchester United,2024-03-30,True,19,0.0,0.08,0.0,0.07,1,1.0,2.0,3.7,0,0,0.4,0.02,43.87,1.0,Brentford,True,Brighton,,-0.66
+Bryan Mbeumo,Brentford,Brighton,2024-04-03,True,17,0.0,0.05,0.0,0.0,1,1.0,0.0,0.4,0,0,0.6,0.03,43.0,7.0,Brentford,False,Aston Villa,,0.29
+Bryan Mbeumo,Brentford,Aston Villa,2024-04-06,False,85,1.0,0.18,0.0,0.0,7,2.0,0.0,6.2,0,1,2.0,0.06,44.31,3.0,Brentford,True,Sheffield,,0.68
+Bryan Mbeumo,Brentford,Sheffield,2024-04-13,True,89,0.0,0.0,0.0,0.34,3,0.0,1.0,3.5,0,1,2.6,0.06,45.67,9.0,Brentford,False,Luton,,
+Bryan Mbeumo,Brentford,Luton,2024-04-20,False,90,0.0,0.22,2.0,0.89,9,3.0,3.0,12.4,1,1,4.2,0.51,46.97,1.0,Brentford,False,Everton,,-0.24
+Bryan Mbeumo,Brentford,Everton,2024-04-27,False,90,0.0,0.06,0.0,0.0,1,1.0,0.0,1.9,0,1,4.2,0.5,48.2,3.0,Brentford,True,Fulham,,-0.13
+Bryan Mbeumo,Brentford,Fulham,2024-05-04,True,90,0.0,0.1,0.0,0.0,3,1.0,0.0,3.3,0,1,4.6,0.51,49.36,12.0,Brentford,False,Bournemouth,,0.19
+Bryan Mbeumo,Brentford,Bournemouth,2024-05-11,False,90,1.0,0.9,1.0,0.43,12,3.0,2.0,11.7,2,1,5.6,0.86,50.46,2.0,Brentford,True,Newcastle United,,0.55
+Bryan Mbeumo,Brentford,Newcastle United,2024-05-19,True,90,0.0,0.0,0.0,0.45,2,0.0,1.0,3.0,0,1,5.4,0.86,51.5,9.0,Brentford,True,Crystal Palace,,0.88
