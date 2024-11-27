@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Gabriel dos Santos Magalhães,Arsenal,Crystal Palace,2022-08-05,False,90,0,0.0,0,0.0,7,0,0,2.7,1,1,0,0.0,0,7.0,0.0,90.0,1.0,1.0,Arsenal,True,Leeds United,,-0.79
+Gabriel dos Santos Magalhães,Arsenal,Leeds United,2022-08-13,True,90,0,0.06,0,0.0,1,1,0,2.1,0,0,2,0.0,0,4.0,0.03,90.0,0.5,7.0,Arsenal,False,Bournemouth,,0.19
+Gabriel dos Santos Magalhães,Arsenal,Bournemouth,2022-08-20,False,90,0,0.05,0,0.0,7,1,0,2.5,1,1,0,0.0,0,5.0,0.04,90.0,0.67,9.0,Arsenal,True,Fulham,,-0.3
+Gabriel dos Santos Magalhães,Arsenal,Fulham,2022-08-27,True,90,1,0.84,0,0.1,9,1,1,9.4,1,0,1,0.0,0,6.0,0.24,90.0,0.5,2.0,Arsenal,True,Aston Villa,,0.55
+Gabriel dos Santos Magalhães,Arsenal,Aston Villa,2022-08-31,True,90,0,0.21,0,0.0,2,4,0,8.8,0,0,1,0.0,0,5.2,0.23,90.0,0.4,1.0,Arsenal,False,Manchester United,,-0.1
+Gabriel dos Santos Magalhães,Arsenal,Manchester United,2022-09-04,False,90,0,0.02,0,0.0,1,1,0,2.5,0,0,3,0.0,0,4.0,0.23,90.0,0.33,6.0,Arsenal,False,Brentford,,-0.55
+Gabriel dos Santos Magalhães,Arsenal,Brentford,2022-09-18,False,90,0,0.03,0,0.0,6,1,0,1.8,0,1,0,0.0,0,5.0,0.23,90.0,0.43,2.0,Arsenal,True,Tottenham,,1.07
+Gabriel dos Santos Magalhães,Arsenal,Tottenham,2022-10-01,True,90,0,0.0,0,0.0,2,0,0,1.6,0,0,1,0.0,0,4.0,0.22,90.0,0.38,1.0,Arsenal,True,Liverpool,,-0.53
+Gabriel dos Santos Magalhães,Arsenal,Liverpool,2022-10-09,True,90,0,0.0,0,0.0,1,0,0,2.3,0,0,2,0.0,0,2.4,0.05,90.0,0.33,8.0,Arsenal,False,Leicester City,,-0.05
+Gabriel dos Santos Magalhães,Arsenal,Leicester City,2022-10-16,False,90,0,0.1,0,0.0,8,1,0,6.0,3,1,0,0.0,0,3.6,0.03,90.0,0.4,2.0,Arsenal,False,Southampton,,-1.07
+Gabriel dos Santos Magalhães,Arsenal,Southampton,2022-10-23,False,90,0,0.03,0,0.0,2,1,0,3.8,0,0,1,0.0,0,3.8,0.03,90.0,0.36,6.0,Arsenal,True,Nottingham Forest,,
+Gabriel dos Santos Magalhães,Arsenal,Nottingham Forest,2022-10-30,True,90,0,0.0,0,0.0,6,0,0,1.6,0,1,0,0.0,0,3.8,0.03,90.0,0.42,15.0,Arsenal,False,Chelsea,,-0.72
+Gabriel dos Santos Magalhães,Arsenal,Chelsea,2022-11-06,False,90,1,0.81,0,0.0,15,1,0,8.8,3,1,0,0.0,0,6.4,0.19,90.0,0.46,5.0,Arsenal,False,Wolverhampton,,-0.46
+Gabriel dos Santos Magalhães,Arsenal,Wolverhampton,2022-11-12,False,90,0,0.05,0,0.0,5,1,0,1.9,0,1,0,0.49,1,7.2,0.2,90.0,0.5,2.0,Arsenal,True,West Ham,,0.63
+Gabriel dos Santos Magalhães,Arsenal,West Ham,2022-12-26,True,90,0,0.0,0,0.0,2,0,0,2.4,0,0,1,1.07,1,6.0,0.18,90.0,0.47,0.0,Arsenal,False,Brighton,,-0.39
+Gabriel dos Santos Magalhães,Arsenal,Brighton,2022-12-31,False,90,0,0.43,0,0.0,0,2,0,3.2,0,0,2,1.15,1,5.6,0.26,90.0,0.44,6.0,Arsenal,True,Newcastle United,,0.73
+Gabriel dos Santos Magalhães,Arsenal,Newcastle United,2023-01-03,True,90,0,0.11,0,0.0,6,2,0,2.3,0,1,0,1.08,1,5.6,0.28,90.0,0.47,5.0,Arsenal,False,Tottenham,,-0.03
+Gabriel dos Santos Magalhães,Arsenal,Tottenham,2023-01-15,False,90,0,0.0,0,0.0,5,0,0,1.9,0,1,0,1.54,1,3.6,0.12,90.0,0.5,1.0,Arsenal,True,Manchester United,,0.38
+Gabriel dos Santos Magalhães,Arsenal,Manchester United,2023-01-22,True,90,0,0.05,0,0.0,1,1,0,3.9,0,0,2,0.33,1,2.8,0.12,90.0,0.47,2.0,Arsenal,False,Everton,,-0.63
+Gabriel dos Santos Magalhães,Arsenal,Everton,2023-02-04,False,90,0,0.0,0,0.0,2,0,0,2.5,0,0,1,1.66,1,2.8,0.12,90.0,0.45,2.0,Arsenal,True,Brentford,,0.69
+Gabriel dos Santos Magalhães,Arsenal,Brentford,2023-02-11,True,90,0,0.02,0,0.0,2,1,0,3.3,0,0,1,2.37,1,3.2,0.04,90.0,0.43,1.0,Arsenal,True,Manchester City,,-1.17
+Gabriel dos Santos Magalhães,Arsenal,Manchester City,2023-02-15,True,90,0,0.0,0,0.02,1,0,1,2.9,0,0,3,1.71,1,2.2,0.01,90.0,0.41,1.0,Arsenal,False,Aston Villa,,0.59
+Gabriel dos Santos Magalhães,Arsenal,Aston Villa,2023-02-18,False,90,0,0.44,0,0.0,1,2,0,2.0,0,0,2,0.51,1,1.4,0.1,90.0,0.39,9.0,Arsenal,False,Leeds United,,-0.8
+Gabriel dos Santos Magalhães,Arsenal,Leeds United,2023-02-25,False,90,0,0.0,0,0.0,9,0,0,2.3,3,1,0,0.02,1,3.0,0.09,90.0,0.42,6.0,Arsenal,True,Everton,,0.34
+Gabriel dos Santos Magalhães,Arsenal,Everton,2023-03-01,True,90,0,0.0,0,0.0,6,0,0,2.0,0,1,0,1.36,1,3.8,0.09,90.0,0.44,1.0,Arsenal,True,Bournemouth,,1.46
+Gabriel dos Santos Magalhães,Arsenal,Bournemouth,2023-03-04,True,90,0,0.09,0,0.0,1,1,0,5.4,0,0,2,1.32,1,3.6,0.11,90.0,0.42,14.0,Arsenal,False,Fulham,,1.37
+Gabriel dos Santos Magalhães,Arsenal,Fulham,2023-03-12,False,90,1,0.14,0,0.0,14,1,0,8.2,2,1,0,0.84,1,6.2,0.13,90.0,0.44,2.0,Arsenal,True,Crystal Palace,,0.81
+Gabriel dos Santos Magalhães,Arsenal,Crystal Palace,2023-03-19,True,85,0,0.0,0,0.02,2,0,1,3.0,0,0,1,0.42,1,6.4,0.05,89.82,0.43,2.0,Arsenal,True,Leicester City,,0.83
+Gabriel dos Santos Magalhães,Arsenal,Leicester City,2023-04-01,True,90,0,0.17,0,0.0,2,2,0,3.7,0,0,1,0.78,1,5.0,0.08,89.83,0.41,1.0,Arsenal,False,Liverpool,,-1.33
+Gabriel dos Santos Magalhães,Arsenal,Liverpool,2023-04-09,False,90,0,0.06,0,0.0,1,1,0,5.6,0,0,2,3.96,1,4.0,0.09,89.83,0.4,1.0,Arsenal,False,West Ham,,0.14
+Gabriel dos Santos Magalhães,Arsenal,West Ham,2023-04-16,False,90,0,0.07,0,0.0,1,1,0,3.4,0,0,2,1.75,1,4.0,0.09,89.84,0.39,1.0,Arsenal,True,Southampton,,-0.38
+Gabriel dos Santos Magalhães,Arsenal,Southampton,2023-04-21,True,90,0,0.0,0,0.01,1,0,1,3.0,0,0,3,1.42,1,1.4,0.06,89.84,0.38,0.0,Arsenal,False,Manchester City,,-1.26
+Gabriel dos Santos Magalhães,Arsenal,Manchester City,2023-04-26,False,90,0,0.09,0,0.0,0,2,0,1.5,0,0,4,2.06,1,1.0,0.08,89.85,0.36,2.0,Arsenal,True,Chelsea,,-0.25
+Gabriel dos Santos Magalhães,Arsenal,Chelsea,2023-05-02,True,84,0,0.11,0,0.0,2,1,0,2.0,0,0,1,0.45,1,1.0,0.07,89.68,0.35,7.0,Arsenal,False,Newcastle United,,-0.34
+Gabriel dos Santos Magalhães,Arsenal,Newcastle United,2023-05-07,False,90,0,0.0,0,0.0,7,0,0,1.2,1,1,0,1.3,1,2.2,0.05,89.69,0.37,1.0,Arsenal,True,Brighton,,-0.71
+Gabriel dos Santos Magalhães,Arsenal,Brighton,2023-05-14,True,90,0,0.37,0,0.0,1,2,0,1.4,0,0,3,1.78,1,2.2,0.11,89.69,0.36,1.0,Arsenal,False,Nottingham Forest,,
+Gabriel dos Santos Magalhães,Arsenal,Nottingham Forest,2023-05-20,False,90,0,0.0,0,0.02,1,0,1,3.6,0,0,1,0.55,1,2.2,0.11,89.7,0.35,6.0,Arsenal,True,Wolverhampton,,-0.48
+Gabriel dos Santos Magalhães,Arsenal,Wolverhampton,2023-05-28,True,90,0,0.0,0,0.0,6,0,0,0.0,0,1,0,0.47,1,3.4,0.1,89.71,0.37,1.0,Arsenal,True,Nottingham Forest,,

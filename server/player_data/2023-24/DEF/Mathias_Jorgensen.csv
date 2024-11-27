@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Mathias Jorgensen,Brentford,Tottenham,2023-08-13,True,6,0.0,0.0,0.0,0.0,1,0.0,0.0,2.7,0,0,0,0.12,0,1.0,0.0,6.0,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,False,Fulham,,0.86
+Mathias Jorgensen,Brentford,Fulham,2023-08-19,False,0,0.0,0.11,0.0,0.22,0,2.0,4.0,0.0,0,0,0,0.0,0,0.5,0.05,3.0,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,True,Crystal Palace,,0.88
+Mathias Jorgensen,Brentford,Crystal Palace,2023-08-26,True,0,0.0,0.0,0.0,0.11,0,0.0,2.0,0.0,0,0,0,0.0,0,0.33,0.04,2.0,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,True,Bournemouth,,1.22
+Mathias Jorgensen,Brentford,Bournemouth,2023-09-02,True,0,1.0,0.06,0.0,0.45,0,1.0,2.0,0.0,0,0,0,0.0,0,0.25,0.04,1.5,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,False,Newcastle United,,-0.41
+Mathias Jorgensen,Brentford,Newcastle United,2023-09-16,False,0,0.0,0.0,0.0,0.35,0,0.0,3.0,0.0,0,0,0,0.0,0,0.2,0.03,1.2,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,True,Everton,,0.53
+Mathias Jorgensen,Brentford,Everton,2023-09-23,True,0,1.0,0.07,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.05,1.0,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,False,Nottingham Forest,,-0.55
+Mathias Jorgensen,Brentford,Nottingham Forest,2023-10-01,False,0,0.0,0.0,1.0,0.39,0,0.0,2.0,0.0,0,0,0,0.0,0,0.0,0.23,0.86,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,False,Manchester United,,-0.63
+Mathias Jorgensen,Brentford,Manchester United,2023-10-07,False,0,1.0,0.07,0.0,0.04,0,1.0,2.0,0.0,0,0,0,0.0,0,0.0,0.24,0.75,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,True,Burnley,,0.39
+Mathias Jorgensen,Brentford,Burnley,2023-10-21,True,0,0.0,0.11,0.0,0.21,0,1.0,2.0,0.0,0,0,0,0.0,0,0.0,0.25,0.67,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,False,Chelsea,,-0.85
+Mathias Jorgensen,Brentford,Chelsea,2023-10-28,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.25,0.6,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,True,West Ham,,0.49
+Mathias Jorgensen,Brentford,West Ham,2023-11-04,True,0,0.0,0.0,1.0,0.48,0,0.0,2.0,0.0,0,0,0,0.0,0,0.0,0.44,0.55,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,False,Liverpool,,-1.01
+Mathias Jorgensen,Brentford,Liverpool,2023-11-12,False,0,0.0,0.06,0.0,0.24,0,1.0,1.0,0.0,0,0,0,0.0,0,0.0,0.25,0.5,0.0,1.69,3.18,0.36,12.06,1.0,Brentford,True,Arsenal,,-0.11
+Mathias Jorgensen,Brentford,Arsenal,,True,1,,,,,1,,,0.1,0,0,0,0.0,0,0.2,0.23,0.54,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,True,Luton,,
+Mathias Jorgensen,Brentford,Luton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.21,0.5,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,False,Brighton,,-0.6
+Mathias Jorgensen,Brentford,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.21,0.47,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,False,Sheffield,,-0.61
+Mathias Jorgensen,Brentford,Sheffield,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.01,0.44,0.0,1.69,3.18,0.36,12.06,1.0,Brentford,True,Aston Villa,,0.64
+Mathias Jorgensen,Brentford,Aston Villa,,True,90,,,,,1,,,1.0,0,0,2,1.42,1,0.4,0.0,5.71,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,True,Wolverhampton,,0.05
+Mathias Jorgensen,Brentford,Wolverhampton,2023-12-27,True,0,0.0,0.01,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.2,0.0,5.39,0.0,1.69,3.18,0.36,12.06,1.0,Brentford,False,Crystal Palace,,0.38
+Mathias Jorgensen,Brentford,Crystal Palace,2023-12-30,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.1,0,0,3,1.08,1,0.4,0.0,9.84,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,True,Nottingham Forest,,1.55
+Mathias Jorgensen,Brentford,Nottingham Forest,2024-01-20,True,0,0.0,0.03,1.0,0.62,0,1.0,2.0,0.0,0,0,0,0.0,0,0.4,0.21,9.35,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,False,Tottenham,,-0.36
+Mathias Jorgensen,Brentford,Tottenham,2024-01-31,False,0,0.0,0.0,0.0,0.21,0,0.0,2.0,0.0,0,0,0,0.0,0,0.4,0.21,8.9,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,True,Manchester City,,-0.96
+Mathias Jorgensen,Brentford,Manchester City,2024-02-05,True,0,0.0,0.0,0.0,0.13,0,0.0,1.0,0.0,0,0,0,0.0,0,0.2,0.21,8.5,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,False,Wolverhampton,,-0.52
+Mathias Jorgensen,Brentford,Wolverhampton,2024-02-10,False,0,0.0,0.01,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.2,0.21,8.13,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,True,Liverpool,,0.18
+Mathias Jorgensen,Brentford,Liverpool,2024-02-17,True,0,0.0,0.01,0.0,0.05,0,1.0,2.0,0.0,0,0,0,0.0,0,0.0,0.21,7.79,0.0,1.69,3.18,0.36,12.06,2.0,Brentford,False,Manchester City,,-1.32
+Mathias Jorgensen,Brentford,Manchester City,2024-02-20,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,1,2.46,1,0.4,0.0,11.08,0.0,1.69,3.18,0.36,12.06,-1.0,Brentford,False,West Ham,,-0.22
+Mathias Jorgensen,Brentford,West Ham,2024-02-26,False,90,0.0,0.02,0.0,0.0,-1,1.0,0.0,1.8,0,0,4,1.51,1,0.2,0.01,14.12,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,True,Chelsea,,-0.25
+Mathias Jorgensen,Brentford,Chelsea,2024-03-02,True,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.8,0,0,2,1.81,1,0.2,0.01,16.93,0.0,1.69,3.18,0.36,12.06,0.0,Brentford,False,Arsenal,,-0.48
+Mathias Jorgensen,Brentford,Arsenal,2024-03-09,False,89,0.0,0.0,0.0,0.02,0,0.0,1.0,1.4,0,0,2,1.28,1,0.2,0.01,19.5,0.0,1.69,3.18,0.36,12.06,1.0,Brentford,False,Burnley,,0.0
+Mathias Jorgensen,Brentford,Burnley,2024-03-16,False,90,0.0,0.0,0.0,0.2,1,0.0,2.0,2.4,0,0,2,2.66,1,0.4,0.0,21.93,0.0,1.69,3.18,0.36,12.06,1.0,Brentford,True,Manchester United,,0.38
+Mathias Jorgensen,Brentford,Manchester United,2024-03-30,True,90,0.0,0.0,0.0,0.54,1,0.0,6.0,7.7,0,0,1,0.5,1,0.2,0.0,24.2,0.0,1.69,3.18,0.36,12.06,6.0,Brentford,True,Brighton,,-0.66
+Mathias Jorgensen,Brentford,Brighton,2024-04-03,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,3.3,0,1,0,1.11,1,1.6,0.0,26.32,0.09,1.69,3.18,0.36,12.06,7.0,Brentford,False,Aston Villa,,0.29
+Mathias Jorgensen,Brentford,Aston Villa,2024-04-06,False,90,0.0,0.0,0.0,0.0,7,0.0,0.0,6.3,0,0,3,1.52,1,3.0,0.0,28.31,0.08,1.69,3.18,0.36,12.06,9.0,Brentford,True,Sheffield,,0.68
+Mathias Jorgensen,Brentford,Sheffield,2024-04-13,True,90,0.0,0.01,0.0,0.05,9,1.0,1.0,2.4,3,1,0,0.84,1,4.8,0.0,30.18,0.15,1.69,3.18,0.36,12.06,0.0,Brentford,False,Luton,,
+Mathias Jorgensen,Brentford,Luton,2024-04-20,False,0,0.0,0.0,0.0,0.03,0,0.0,1.0,0.0,0,0,0,0.0,0,4.6,0.0,29.29,0.15,1.69,3.18,0.36,12.06,0.0,Brentford,False,Everton,,-0.24
+Mathias Jorgensen,Brentford,Everton,2024-04-27,False,0,0.0,0.13,0.0,0.56,0,1.0,3.0,0.0,0,0,0,0.0,0,4.4,0.03,28.46,0.15,1.69,3.18,0.36,12.06,0.0,Brentford,True,Fulham,,-0.13
+Mathias Jorgensen,Brentford,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3.2,0.03,27.67,0.15,1.69,3.18,0.36,12.06,0.0,Brentford,False,Bournemouth,,0.19
+Mathias Jorgensen,Brentford,Bournemouth,2024-05-11,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,1.8,0.03,26.92,0.15,1.69,3.18,0.36,12.06,0.0,Brentford,True,Newcastle United,,0.55
+Mathias Jorgensen,Brentford,Newcastle United,2024-05-19,True,90,0.0,0.0,0.0,0.0,0,0.0,0.0,4.0,0,0,4,3.41,1,0.0,0.03,28.58,0.14,1.69,3.18,0.36,12.06,0.0,Brentford,True,Crystal Palace,,0.88

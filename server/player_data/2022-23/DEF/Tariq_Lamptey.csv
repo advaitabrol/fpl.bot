@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Tariq Lamptey,Brighton,Manchester United,2022-08-07,False,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,0,1.0,0.0,15.0,0.0,1.0,2.87,0.43,0,1.0,Brighton,True,Newcastle United,,0.73
+Tariq Lamptey,Brighton,Newcastle United,2022-08-13,True,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,0,1.0,0.0,15.0,0.0,1.0,2.87,0.43,0,0.0,Brighton,False,West Ham,,0.14
+Tariq Lamptey,Brighton,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.67,0.0,10.0,0.0,1.0,2.87,0.43,0,1.0,Brighton,True,Leicester City,,0.83
+Tariq Lamptey,Brighton,Leicester City,2022-08-27,True,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.0,0,0.75,0.0,12.5,0.0,1.0,2.87,0.43,0,1.0,Brighton,False,Fulham,,1.37
+Tariq Lamptey,Brighton,Fulham,2022-08-30,False,26,0.0,0.0,0.0,0.02,1,0.0,1.0,2.7,0,0,0,0.0,0,0.8,0.0,15.2,0.0,1.0,2.87,0.43,0,1.0,Brighton,True,Leeds United,,-0.79
+Tariq Lamptey,Brighton,Leeds United,2022-09-04,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,0.8,0.0,12.83,0.0,1.0,2.87,0.43,0,1.0,Brighton,False,Liverpool,,-1.33
+Tariq Lamptey,Brighton,Liverpool,2022-10-01,False,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,0.8,0.0,11.43,0.0,1.0,2.87,0.43,0,1.0,Brighton,True,Tottenham,,1.07
+Tariq Lamptey,Brighton,Tottenham,2022-10-08,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,0,1.0,0.0,10.25,0.0,1.0,2.87,0.43,0,0.0,Brighton,False,Brentford,,-0.55
+Tariq Lamptey,Brighton,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.0,9.11,0.0,1.0,2.87,0.43,0,0.0,Brighton,True,Nottingham Forest,,
+Tariq Lamptey,Brighton,Nottingham Forest,2022-10-18,True,26,0.0,0.0,0.0,0.0,0,0.0,0.0,0.8,0,0,0,0.0,0,0.6,0.0,10.8,0.0,1.0,2.87,0.43,0,1.0,Brighton,False,Manchester City,,-1.26
+Tariq Lamptey,Brighton,Manchester City,2022-10-22,False,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,1,0.0,0,0.6,0.0,13.91,0.0,1.0,2.87,0.43,0,1.0,Brighton,True,Chelsea,,-0.25
+Tariq Lamptey,Brighton,Chelsea,2022-10-29,True,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,0.6,0.0,14.17,0.0,1.0,2.87,0.43,0,0.0,Brighton,False,Wolverhampton,,-0.46
+Tariq Lamptey,Brighton,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,13.08,0.0,1.0,2.87,0.43,0,1.0,Brighton,True,Aston Villa,,0.55
+Tariq Lamptey,Brighton,Aston Villa,2022-11-13,True,9,0.0,0.02,0.0,0.08,1,1.0,1.0,0.0,0,0,0,0.03,0,0.6,0.0,12.79,0.0,1.0,2.87,0.43,0,1.0,Brighton,False,Southampton,,-1.07
+Tariq Lamptey,Brighton,Southampton,2022-12-26,False,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.0,0,0.8,0.0,12.4,0.0,1.0,2.87,0.43,0,0.0,Brighton,True,Arsenal,,0.36
+Tariq Lamptey,Brighton,Arsenal,2022-12-31,True,90,0.0,0.0,0.0,0.06,0,0.0,1.0,4.8,0,0,4,2.88,1,0.6,0.0,17.25,0.0,1.0,2.87,0.43,0,1.0,Brighton,False,Everton,,-0.63
+Tariq Lamptey,Brighton,Everton,2023-01-03,False,19,0.0,0.08,0.0,0.0,1,1.0,0.0,1.0,0,0,1,0.82,0,0.6,0.02,17.35,0.0,1.0,2.87,0.43,0,1.0,Brighton,True,Liverpool,,-0.53
+Tariq Lamptey,Brighton,Liverpool,2023-01-14,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.02,0,0.8,0.02,16.44,0.0,1.0,2.87,0.43,0,1.0,Brighton,False,Leeds United,,-0.8
+Tariq Lamptey,Brighton,Leeds United,2023-01-21,False,12,0.0,0.06,0.0,0.0,1,1.0,0.0,1.2,0,0,0,0.08,0,0.8,0.03,16.21,0.0,1.0,2.87,0.43,0,6.0,Brighton,True,Bournemouth,,1.46
+Tariq Lamptey,Brighton,Bournemouth,2023-02-04,True,74,0.0,0.0,0.0,0.0,6,0.0,0.0,2.0,0,1,0,0.67,1,1.8,0.03,19.1,0.06,1.0,2.87,0.43,0,1.0,Brighton,False,Crystal Palace,,0.13
+Tariq Lamptey,Brighton,Crystal Palace,2023-02-11,False,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.05,0,2.0,0.03,18.86,0.06,1.0,2.87,0.43,0,1.0,Brighton,True,Fulham,,-0.3
+Tariq Lamptey,Brighton,Fulham,2023-02-18,True,28,0.0,0.05,0.0,0.03,1,2.0,1.0,2.2,0,0,1,0.17,0,2.0,0.02,19.27,0.05,1.0,2.87,0.43,0,1.0,Brighton,True,West Ham,,0.63
+Tariq Lamptey,Brighton,West Ham,2023-03-04,True,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,1,2.0,0.02,19.09,0.05,1.0,2.87,0.43,0,0.0,Brighton,False,Leicester City,,-0.05
+Tariq Lamptey,Brighton,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.8,0.01,18.29,0.05,1.0,2.87,0.43,0,0.0,Brighton,True,Crystal Palace,,0.81
+Tariq Lamptey,Brighton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.01,17.56,0.05,1.0,2.87,0.43,0,0.0,Brighton,True,Brentford,,0.69
+Tariq Lamptey,Brighton,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.01,16.88,0.05,1.0,2.87,0.43,0,0.0,Brighton,False,Bournemouth,,0.19
+Tariq Lamptey,Brighton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,16.26,0.05,1.0,2.87,0.43,0,0.0,Brighton,False,Tottenham,,-0.03
+Tariq Lamptey,Brighton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,15.68,0.05,1.0,2.87,0.43,0,0.0,Brighton,False,Chelsea,,-0.72
+Tariq Lamptey,Brighton,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,15.14,0.05,1.0,2.87,0.43,0,0.0,Brighton,False,Nottingham Forest,,
+Tariq Lamptey,Brighton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,14.63,0.05,1.0,2.87,0.43,0,0.0,Brighton,True,Wolverhampton,,-0.48
+Tariq Lamptey,Brighton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,14.16,0.05,1.0,2.87,0.43,0,0.0,Brighton,True,Manchester United,,0.38
+Tariq Lamptey,Brighton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,13.72,0.05,1.0,2.87,0.43,0,0.0,Brighton,True,Everton,,0.34
+Tariq Lamptey,Brighton,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,13.3,0.05,1.0,2.87,0.43,0,0.0,Brighton,False,Arsenal,,-0.0
+Tariq Lamptey,Brighton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,12.91,0.05,1.0,2.87,0.43,0,0.0,Brighton,False,Newcastle United,,-0.34
+Tariq Lamptey,Brighton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,12.54,0.05,1.0,2.87,0.43,0,0.0,Brighton,True,Southampton,,-0.38
+Tariq Lamptey,Brighton,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,12.19,0.05,1.0,2.87,0.43,0,0.0,Brighton,True,Manchester City,,-1.17
+Tariq Lamptey,Brighton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,11.86,0.05,1.0,2.87,0.43,0,0.0,Brighton,False,Aston Villa,,0.59
+Tariq Lamptey,Brighton,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,11.55,0.05,1.0,2.87,0.43,0,,Brighton,True,Luton,,

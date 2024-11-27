@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Pervis Estupiñán,Brighton,Luton,2023-08-12,True,90,0.0,0.13,1.0,1.33,7,3.0,6.0,16.0,3,0,1,1.45,1,7.0,1.13,90.0,0.0,2.33,5.65,0.33,34.03,11.0,Brighton,False,Wolverhampton,,-0.52
+Pervis Estupiñán,Brighton,Wolverhampton,2023-08-19,False,90,1.0,0.48,1.0,0.52,11,2.0,2.0,10.8,1,0,1,2.06,1,9.0,1.31,90.0,0.0,2.33,5.65,0.33,34.03,1.0,Brighton,True,West Ham,,0.49
+Pervis Estupiñán,Brighton,West Ham,2023-08-26,True,90,0.0,0.0,0.0,0.07,1,0.0,2.0,7.2,0,0,3,3.33,1,6.33,0.87,90.0,0.0,2.33,5.65,0.33,34.03,2.0,Brighton,True,Newcastle United,,0.55
+Pervis Estupiñán,Brighton,Newcastle United,2023-09-02,True,90,0.0,0.01,0.0,0.13,2,1.0,2.0,4.1,0,0,1,1.3,1,5.25,0.66,90.0,0.0,2.33,5.65,0.33,34.03,0.0,Brighton,False,Manchester United,,-0.63
+Pervis Estupiñán,Brighton,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4.2,0.53,72.0,0.0,2.33,5.65,0.33,34.03,6.0,Brighton,True,Bournemouth,,1.22
+Pervis Estupiñán,Brighton,Bournemouth,2023-09-24,True,90,0.0,0.02,1.0,0.54,6,1.0,1.0,4.9,1,0,1,1.37,1,4.0,0.5,75.0,0.0,2.33,5.65,0.33,34.03,-2.0,Brighton,False,Aston Villa,,0.29
+Pervis Estupiñán,Brighton,Aston Villa,2023-09-30,False,45,0.0,0.31,0.0,0.0,-2,1.0,0.0,2.0,0,0,3,1.15,1,1.4,0.27,70.71,0.0,2.33,5.65,0.33,34.03,0.0,Brighton,True,Liverpool,,0.18
+Pervis Estupiñán,Brighton,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.2,0.27,61.88,0.0,2.33,5.65,0.33,34.03,0.0,Brighton,False,Manchester City,,-1.32
+Pervis Estupiñán,Brighton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.27,55.0,0.0,2.33,5.65,0.33,34.03,0.0,Brighton,True,Fulham,,-0.13
+Pervis Estupiñán,Brighton,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.27,49.5,0.0,2.33,5.65,0.33,34.03,0.0,Brighton,False,Everton,,-0.24
+Pervis Estupiñán,Brighton,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,-0.4,0.06,45.0,0.0,2.33,5.65,0.33,34.03,0.0,Brighton,True,Sheffield,,0.68
+Pervis Estupiñán,Brighton,Sheffield,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,41.25,0.0,2.33,5.65,0.33,34.03,0.0,Brighton,False,Nottingham Forest,,-0.55
+Pervis Estupiñán,Brighton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,38.08,0.0,2.33,5.65,0.33,34.03,0.0,Brighton,False,Chelsea,,-0.85
+Pervis Estupiñán,Brighton,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,35.36,0.0,2.33,5.65,0.33,34.03,0.0,Brighton,True,Brentford,,0.79
+Pervis Estupiñán,Brighton,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,33.0,0.0,2.33,5.65,0.33,34.03,0.0,Brighton,True,Burnley,,0.39
+Pervis Estupiñán,Brighton,Burnley,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,30.94,0.0,2.33,5.65,0.33,34.03,0.0,Brighton,False,Arsenal,,-0.48
+Pervis Estupiñán,Brighton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,29.12,0.0,2.33,5.65,0.33,34.03,0.0,Brighton,False,Crystal Palace,,0.38
+Pervis Estupiñán,Brighton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,27.5,0.0,2.33,5.65,0.33,34.03,6.0,Brighton,True,Tottenham,,0.69
+Pervis Estupiñán,Brighton,Tottenham,2023-12-28,True,45,1.0,0.02,0.0,0.0,6,1.0,0.0,5.3,0,0,2,1.91,0,1.2,0.0,28.42,0.0,2.33,5.65,0.33,34.03,6.0,Brighton,False,West Ham,,-0.22
+Pervis Estupiñán,Brighton,West Ham,2024-01-02,False,90,0.0,0.0,0.0,0.06,6,0.0,2.0,5.2,0,1,0,0.68,1,2.4,0.0,31.5,0.12,2.33,5.65,0.33,34.03,8.0,Brighton,True,Wolverhampton,,0.05
+Pervis Estupiñán,Brighton,Wolverhampton,2024-01-22,True,71,0.0,0.0,0.0,0.17,8,0.0,2.0,6.2,2,1,0,0.99,1,4.0,0.0,33.38,0.22,2.33,5.65,0.33,34.03,0.0,Brighton,False,Luton,,
+Pervis Estupiñán,Brighton,Luton,2024-01-30,False,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.8,0,0,3,2.02,1,4.0,0.0,33.91,0.2,2.33,5.65,0.33,34.03,1.0,Brighton,True,Crystal Palace,,0.88
+Pervis Estupiñán,Brighton,Crystal Palace,2024-02-03,True,10,0.0,0.0,0.0,0.04,1,0.0,1.0,1.9,0,0,0,0.13,0,4.2,0.0,32.87,0.18,2.33,5.65,0.33,34.03,0.0,Brighton,False,Tottenham,,-0.36
+Pervis Estupiñán,Brighton,Tottenham,2024-02-10,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.7,0,0,2,1.6,1,3.0,0.0,35.25,0.17,2.33,5.65,0.33,34.03,1.0,Brighton,False,Sheffield,,-0.61
+Pervis Estupiñán,Brighton,Sheffield,2024-02-18,False,9,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,0,0.37,0,2.0,0.0,34.2,0.15,2.33,5.65,0.33,34.03,1.0,Brighton,True,Everton,,0.53
+Pervis Estupiñán,Brighton,Everton,2024-02-24,True,30,0.0,0.0,0.0,0.19,1,0.0,2.0,3.8,0,0,1,0.23,0,0.6,0.0,34.04,0.14,2.33,5.65,0.33,34.03,0.0,Brighton,False,Fulham,,0.86
+Pervis Estupiñán,Brighton,Fulham,2024-03-02,False,90,0.0,0.03,0.0,0.21,0,1.0,5.0,10.3,0,0,3,1.24,1,0.6,0.01,36.11,0.13,2.33,5.65,0.33,34.03,6.0,Brighton,True,Nottingham Forest,,1.55
+Pervis Estupiñán,Brighton,Nottingham Forest,2024-03-10,True,75,0.0,0.0,0.0,0.0,6,0.0,0.0,1.3,0,1,0,0.62,1,1.6,0.01,37.5,0.19,2.33,5.65,0.33,34.03,1.0,Brighton,False,Liverpool,,-1.01
+Pervis Estupiñán,Brighton,Liverpool,2024-03-31,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.8,0,0,2,2.76,1,1.8,0.01,39.31,0.18,2.33,5.65,0.33,34.03,0.0,Brighton,False,Brentford,,-0.53
+Pervis Estupiñán,Brighton,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.6,0.01,38.0,0.18,2.33,5.65,0.33,34.03,1.0,Brighton,True,Arsenal,,-0.11
+Pervis Estupiñán,Brighton,Arsenal,2024-04-06,True,90,0.0,0.02,0.0,0.03,1,1.0,1.0,3.5,0,0,3,3.23,1,1.6,0.01,39.68,0.17,2.33,5.65,0.33,34.03,1.0,Brighton,False,Burnley,,0.0
+Pervis Estupiñán,Brighton,Burnley,2024-04-13,False,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.06,1,1.8,0.0,38.81,0.16,2.33,5.65,0.33,34.03,0.0,Brighton,True,Manchester City,,-0.96
+Pervis Estupiñán,Brighton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.0,37.64,0.16,2.33,5.65,0.33,34.03,0.0,Brighton,False,Bournemouth,,0.19
+Pervis Estupiñán,Brighton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,36.53,0.16,2.33,5.65,0.33,34.03,0.0,Brighton,True,Aston Villa,,0.64
+Pervis Estupiñán,Brighton,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,35.49,0.16,2.33,5.65,0.33,34.03,0.0,Brighton,False,Newcastle United,,-0.41
+Pervis Estupiñán,Brighton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,34.5,0.16,2.33,5.65,0.33,34.03,0.0,Brighton,True,Chelsea,,-0.25
+Pervis Estupiñán,Brighton,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,33.57,0.16,2.33,5.65,0.33,34.03,0.0,Brighton,True,Manchester United,,0.38
+Pervis Estupiñán,Brighton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,32.68,0.16,2.33,5.65,0.33,34.03,,Brighton,False,Everton,,-0.24

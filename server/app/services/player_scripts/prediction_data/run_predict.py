@@ -176,18 +176,18 @@ def main_create_prediction(gw_folder_name, seasons=['2024-25']):
     """Main method for creating prediction data with GW folder name input."""
     CURRENT_SEASON = seasons[0]; 
     GW_DIR = f'prediction_data/{CURRENT_SEASON}/'
-    PRICES_FILE = 'player_scripts/current_prices.csv'
+    PRICES_FILE = 'current_prices.csv'
 
-    #create_prediction_data('player_data', 'prediction_data', gw_folder_name, CURRENT_SEASON)
+    create_prediction_data('player_data', 'prediction_data', gw_folder_name, CURRENT_SEASON)
 
-    #add_price_to_prediction_data(GW_DIR + gw_folder_name, PRICES_FILE)
+    add_price_to_prediction_data(GW_DIR + gw_folder_name, PRICES_FILE)
     predict_gw(gw_folder_name)
     
     # Example usage
-    merge_player_weeks(f'prediction_data/{CURRENT_SEASON}/{gw_folder_name}/def.csv', f'prediction_data/{CURRENT_SEASON}/{gw_folder_name}/DEF.csv')
-    merge_player_weeks(f'prediction_data/{CURRENT_SEASON}/{gw_folder_name}/gk.csv', f'prediction_data/{CURRENT_SEASON}/{gw_folder_name}/GK.csv')
-    merge_player_weeks(f'prediction_data/{CURRENT_SEASON}/{gw_folder_name}/mid.csv', f'prediction_data/{CURRENT_SEASON}/{gw_folder_name}/MID.csv')
-    merge_player_weeks(f'prediction_data/{CURRENT_SEASON}/{gw_folder_name}/fwd.csv', f'prediction_data/{CURRENT_SEASON}/{gw_folder_name}/FWD.csv')
+    merge_player_weeks(f'{GW_DIR}{gw_folder_name}/def.csv', f'{GW_DIR}{gw_folder_name}/DEF.csv')
+    merge_player_weeks(f'{GW_DIR}{gw_folder_name}/gk.csv', f'{GW_DIR}{gw_folder_name}/GK.csv')
+    merge_player_weeks(f'{GW_DIR}{gw_folder_name}/mid.csv', f'{GW_DIR}{gw_folder_name}/MID.csv')
+    merge_player_weeks(f'{GW_DIR}{gw_folder_name}/fwd.csv', f'{GW_DIR}{gw_folder_name}/FWD.csv')
 
     combine_csv_files(gw_folder_name)
     

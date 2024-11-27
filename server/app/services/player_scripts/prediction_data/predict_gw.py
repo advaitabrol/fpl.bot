@@ -233,20 +233,21 @@ def adjust_predictions_by_availability(prediction_csv):
     Adjust the 'predicted_next_week_points' in the prediction CSV based on player availability.
     """
     # Load current availability data
-    availability_df = pd.read_csv('player_scripts/current_availability.csv')
+    availability_df = pd.read_csv('current_availability.csv')
 
     # Ensure required columns are present
-    if 'full_name' not in availability_df.columns or 'chance_of_playing_next_round' not in availability_df.columns or 'status' not in availability_df.columns:
+    required_columns = {'full_name', 'chance_of_playing_next_round', 'status'}
+    if not required_columns.issubset(availability_df.columns):
         print("The current_availability.csv file is missing required columns.")
         return
 
-    # Convert the 'full_name' column to string and fill NaNs with an empty string
+    # Convert 'full_name' column to string and fill NaNs with an empty string
     availability_df['full_name'] = availability_df['full_name'].fillna('').astype(str)
 
     # Load prediction data
     prediction_df = pd.read_csv(prediction_csv)
 
-    # Check if predicted_next_week_points column exists
+    # Check if 'predicted_next_week_points' column exists
     if 'predicted_next_week_points' not in prediction_df.columns:
         print(f"{prediction_csv} is missing the 'predicted_next_week_points' column.")
         return
@@ -258,25 +259,17 @@ def adjust_predictions_by_availability(prediction_csv):
         # Find the closest match in the availability file
         closest_match = process.extractOne(player_name, availability_df['full_name'], score_cutoff=60)
 
-        if closest_match is not None:
-            match = closest_match
-            matched_row = availability_df.loc[availability_df['full_name'] == match]
+        if closest_match:
+            matched_name = closest_match[0]
+            matched_row = availability_df.loc[availability_df['full_name'] == matched_name]
 
-            # Ensure the matched_row is not empty
-        if not matched_row.empty:
-            # Retrieve 'chance_of_playing_next_round' safely
-            chance_of_playing = matched_row['chance_of_playing_next_round'].iloc[0]
+            if not matched_row.empty:
+                # Retrieve 'chance_of_playing_next_round' safely
+                chance_of_playing = matched_row['chance_of_playing_next_round'].iloc[0]
 
-            # Handle the first row case
-            if idx == 0:
-                first_row_chance = chance_of_playing
-                if first_row_chance == 75:
-                    scaled_points = row['predicted_next_week_points'] * (first_row_chance / 100)
-                    prediction_df.at[idx, 'predicted_next_week_points'] = round(scaled_points, 2)
-            else:
-                # Scale all rows if not the first row or condition isn't met
+                # Adjust prediction
                 scaled_points = row['predicted_next_week_points'] * (chance_of_playing / 100)
-                prediction_df.at[idx, 'predicted_next_week_points'] = round(scaled_points, 2)
+                prediction_df.at[idx, 'predicted_next_week_points'] = round(float(scaled_points), 2)
         else:
             print(f"No match found in the availability data for player: {player_name}")
 

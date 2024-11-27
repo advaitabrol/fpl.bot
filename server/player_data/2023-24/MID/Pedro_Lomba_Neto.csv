@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Pedro Lomba Neto,Wolves,Manchester United,2023-08-14,False,90,0.0,0.31,0.0,0.63,1,3.0,4.0,13.2,0,1,1.0,0.31,90.0,0.0,0.0,1.11,2.69,0.04,2.0,Wolves,True,Brighton,,-0.66
+Pedro Lomba Neto,Wolves,Brighton,2023-08-19,True,90,0.0,0.32,0.0,0.08,2,2.0,2.0,5.6,0,1,1.5,0.31,90.0,0.0,0.0,1.11,2.69,0.04,7.0,Wolves,False,Everton,,-0.24
+Pedro Lomba Neto,Wolves,Everton,2023-08-26,False,90,0.0,0.04,1.0,0.73,7,1.0,4.0,9.5,1,1,3.33,0.56,90.0,0.0,0.0,1.11,2.69,0.04,10.0,Wolves,False,Crystal Palace,,0.38
+Pedro Lomba Neto,Wolves,Crystal Palace,2023-09-03,False,90,0.0,0.12,2.0,0.75,10,3.0,3.0,13.5,2,1,5.0,0.95,90.0,0.0,0.0,1.11,2.69,0.04,5.0,Wolves,True,Liverpool,,0.18
+Pedro Lomba Neto,Wolves,Liverpool,2023-09-16,True,90,0.0,0.04,1.0,0.18,5,1.0,4.0,10.5,0,1,5.0,0.97,90.0,0.0,0.0,1.11,2.69,0.04,9.0,Wolves,False,Luton,,
+Pedro Lomba Neto,Wolves,Luton,2023-09-23,False,90,1.0,0.11,0.0,0.05,9,1.0,1.0,7.6,2,1,6.6,0.93,90.0,0.0,0.0,1.11,2.69,0.04,4.0,Wolves,True,Manchester City,,-0.96
+Pedro Lomba Neto,Wolves,Manchester City,2023-09-30,True,90,0.0,0.0,0.0,0.0,4,0.0,0.0,0.2,0,1,7.0,0.86,90.0,0.0,0.0,1.11,2.69,0.04,5.0,Wolves,True,Aston Villa,,0.64
+Pedro Lomba Neto,Wolves,Aston Villa,2023-10-08,True,90,0.0,0.6,1.0,0.75,5,1.0,2.0,5.5,0,1,6.6,0.97,90.0,0.0,0.0,1.11,2.69,0.04,4.0,Wolves,False,Bournemouth,,0.19
+Pedro Lomba Neto,Wolves,Bournemouth,2023-10-21,False,90,0.0,0.21,1.0,0.21,4,4.0,3.0,11.3,0,1,5.4,0.79,90.0,0.0,0.0,1.11,2.69,0.04,5.0,Wolves,True,Newcastle United,,0.55
+Pedro Lomba Neto,Wolves,Newcastle United,2023-10-28,True,76,0.0,0.12,1.0,0.09,5,2.0,1.0,7.2,0,1,5.4,0.81,88.6,0.0,0.0,1.11,2.69,0.04,0.0,Wolves,False,Sheffield,,-0.61
+Pedro Lomba Neto,Wolves,Sheffield,,False,0,,,,,0,,,0.0,0,0,3.6,0.79,80.55,0.0,0.0,1.11,2.69,0.04,0.0,Wolves,True,Tottenham,,0.69
+Pedro Lomba Neto,Wolves,Tottenham,,True,0,,,,,0,,,0.0,0,0,2.8,0.79,73.83,0.0,0.0,1.11,2.69,0.04,0.0,Wolves,False,Fulham,,0.86
+Pedro Lomba Neto,Wolves,Fulham,,False,0,,,,,0,,,0.0,0,0,1.8,0.47,68.15,0.0,0.0,1.11,2.69,0.04,0.0,Wolves,False,Arsenal,,-0.48
+Pedro Lomba Neto,Wolves,Arsenal,,False,0,,,,,0,,,0.0,0,0,1.0,0.22,63.29,0.0,0.0,1.11,2.69,0.04,0.0,Wolves,True,Burnley,,0.39
+Pedro Lomba Neto,Wolves,Burnley,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,59.07,0.0,0.0,1.11,2.69,0.04,0.0,Wolves,True,Nottingham Forest,,1.55
+Pedro Lomba Neto,Wolves,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,55.38,0.0,0.0,1.11,2.69,0.04,0.0,Wolves,False,West Ham,,-0.22
+Pedro Lomba Neto,Wolves,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,52.12,0.0,0.0,1.11,2.69,0.04,0.0,Wolves,True,Chelsea,,-0.25
+Pedro Lomba Neto,Wolves,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,49.22,0.0,0.0,1.11,2.69,0.04,0.0,Wolves,False,Brentford,,-0.53
+Pedro Lomba Neto,Wolves,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,46.63,0.0,0.0,1.11,2.69,0.04,1.0,Wolves,True,Everton,,0.53
+Pedro Lomba Neto,Wolves,Everton,2023-12-30,True,10,0.0,0.1,0.0,0.0,1,1.0,0.0,0.5,0,0,0.2,0.02,44.8,0.0,0.0,1.11,2.69,0.04,3.0,Wolves,False,Brighton,,-0.6
+Pedro Lomba Neto,Wolves,Brighton,2024-01-22,False,87,0.0,0.06,0.0,0.37,3,1.0,3.0,4.5,0,1,0.8,0.03,46.81,0.0,0.0,1.11,2.69,0.04,13.0,Wolves,True,Manchester United,,0.38
+Pedro Lomba Neto,Wolves,Manchester United,2024-02-01,True,90,1.0,0.19,0.0,0.06,13,3.0,2.0,12.2,3,1,3.4,0.07,48.77,0.0,0.0,1.11,2.69,0.04,4.0,Wolves,False,Chelsea,,-0.85
+Pedro Lomba Neto,Wolves,Chelsea,2024-02-04,False,71,0.0,0.38,1.0,0.57,4,4.0,2.0,9.5,0,1,4.2,0.34,49.74,0.0,0.0,1.11,2.69,0.04,2.0,Wolves,True,Brentford,,0.79
+Pedro Lomba Neto,Wolves,Brentford,2024-02-10,True,90,0.0,0.4,0.0,0.18,2,3.0,3.0,9.7,0,1,4.6,0.42,51.42,0.0,0.0,1.11,2.69,0.04,5.0,Wolves,False,Tottenham,,-0.36
+Pedro Lomba Neto,Wolves,Tottenham,2024-02-17,False,90,0.0,0.12,1.0,0.51,5,2.0,1.0,5.3,0,1,5.4,0.63,52.96,0.0,0.0,1.11,2.69,0.04,3.0,Wolves,True,Sheffield,,0.68
+Pedro Lomba Neto,Wolves,Sheffield,2024-02-25,True,90,0.0,0.08,0.0,0.07,3,2.0,2.0,6.0,0,1,5.4,0.63,54.38,0.0,0.0,1.11,2.69,0.04,1.0,Wolves,False,Newcastle United,,-0.41
+Pedro Lomba Neto,Wolves,Newcastle United,2024-03-02,False,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,1,3.0,0.6,54.04,0.0,0.0,1.11,2.69,0.04,1.0,Wolves,True,Fulham,,-0.13
+Pedro Lomba Neto,Wolves,Fulham,2024-03-09,True,45,0.0,0.04,0.0,0.0,1,1.0,0.0,1.0,0,1,2.4,0.33,53.71,0.0,0.0,1.11,2.69,0.04,0.0,Wolves,False,Aston Villa,,0.29
+Pedro Lomba Neto,Wolves,Aston Villa,,False,0,,,,,0,,,0.0,0,0,2.0,0.25,51.86,0.0,0.0,1.11,2.69,0.04,0.0,Wolves,False,Burnley,,0.0
+Pedro Lomba Neto,Wolves,Burnley,,False,0,,,,,0,,,0.0,0,0,1.0,0.02,50.13,0.0,0.0,1.11,2.69,0.04,0.0,Wolves,True,West Ham,,0.49
+Pedro Lomba Neto,Wolves,West Ham,,True,0,,,,,0,,,0.0,0,0,0.4,0.01,48.52,0.0,0.0,1.11,2.69,0.04,0.0,Wolves,False,Nottingham Forest,,-0.55
+Pedro Lomba Neto,Wolves,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.2,0.01,47.0,0.0,0.0,1.11,2.69,0.04,0.0,Wolves,True,Arsenal,,-0.11
+Pedro Lomba Neto,Wolves,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,45.58,0.0,0.0,1.11,2.69,0.04,0.0,Wolves,True,Bournemouth,,1.22
+Pedro Lomba Neto,Wolves,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,44.24,0.0,0.0,1.11,2.69,0.04,0.0,Wolves,True,Luton,,
+Pedro Lomba Neto,Wolves,Luton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,42.97,0.0,0.0,1.11,2.69,0.04,0.0,Wolves,False,Manchester City,,-1.32
+Pedro Lomba Neto,Wolves,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,41.78,0.0,0.0,1.11,2.69,0.04,0.0,Wolves,True,Crystal Palace,,0.88
+Pedro Lomba Neto,Wolves,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,40.65,0.0,0.0,1.11,2.69,0.04,1.0,Wolves,False,Liverpool,,-1.01
+Pedro Lomba Neto,Wolves,Liverpool,2024-05-19,False,12,0.0,0.06,0.0,0.0,1,1.0,0.0,1.4,0,0,0.2,0.01,39.89,0.0,0.0,1.11,2.69,0.04,1.0,Chelsea,True,Manchester City,,-0.96

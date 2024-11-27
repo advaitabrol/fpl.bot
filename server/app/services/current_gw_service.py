@@ -1,6 +1,6 @@
 import requests
 
-class FPLService:
+class FPLGWService:
     """
     Service to interact with the Fantasy Premier League API.
     """
@@ -17,7 +17,7 @@ class FPLService:
             None: If unable to fetch the current game week.
         """
         try:
-            response = requests.get(FPLService.BASE_URL)
+            response = requests.get(FPLGWService.BASE_URL)
             response.raise_for_status()  # Raise an error for HTTP status codes >= 400
             data = response.json()
 

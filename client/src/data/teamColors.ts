@@ -7,7 +7,7 @@ const teamColors: { [key: string]: { primary: string; secondary: string } } = {
   Chelsea: { primary: '#034694', secondary: '#FFD700' },
   'Crystal Palace': { primary: '#1B458F', secondary: '#A7A5A6' },
   Everton: { primary: '#003399', secondary: '#F0F0F0' },
-  Fulham: { primary: '#FFC72C', secondary: '#111111' },
+  Fulham: { primary: '#111111', secondary: '#C8102E' },
   'Ipswich Town': { primary: '#0033A0', secondary: '#F0F0F0' },
   'Leicester City': { primary: '#0053A0', secondary: '#FFD700' },
   Liverpool: { primary: '#C8102E', secondary: '#00A398' },

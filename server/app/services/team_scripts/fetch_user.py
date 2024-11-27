@@ -44,7 +44,7 @@ class Search:
         """
         base_url = f"https://fantasy.premierleague.com/api/leagues-classic/{league_id}/standings/"
         teams = []
-        page = 26533
+        page = 52000
 
         while True:
             url = f"{base_url}?page_standings={page}"
@@ -129,7 +129,7 @@ class Search:
 
 
     def search_team_by_name(self, index_name, team_name):
-        '''
+        
         Searches Elasticsearch for teams matching the provided team name.
        
         search_body = {
@@ -158,15 +158,16 @@ class Search:
             },
             "size": 10  # Limit results
         }       
-        '''
+        
+        '''testing how many pages have been saved by elasticsearch
         search_body = {
             "query": {
                 "match_phrase": {
-                    "team_id": "979930"  # Phrase match for exact text
+                    "team_id": "2984889"  # Phrase match for exact text
                 }
             }
         }        
-
+`       '''
 
         response = self.es.search(index=index_name, body=search_body)
         hits = response['hits']['hits']

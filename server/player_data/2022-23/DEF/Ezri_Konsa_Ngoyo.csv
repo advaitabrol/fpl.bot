@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Ezri Konsa Ngoyo,Aston Villa,Bournemouth,2022-08-06,False,90,0,0.0,0,0.0,1,0,0,2.2,0,0,2,0.0,0,1.0,0.0,90.0,0.0,1.2,0.26,0.31,0,1.0,Aston Villa,True,Everton,,0.34
+Ezri Konsa Ngoyo,Aston Villa,Everton,2022-08-13,True,1,0,0.0,0,0.0,1,0,0,0.0,0,0,0,0.0,0,1.0,0.0,45.5,0.0,1.2,0.26,0.31,0,1.0,Aston Villa,False,Crystal Palace,,0.13
+Ezri Konsa Ngoyo,Aston Villa,Crystal Palace,2022-08-20,False,90,0,0.03,0,0.0,1,1,0,2.2,0,0,3,0.0,0,1.0,0.01,60.33,0.0,1.2,0.26,0.31,0,2.0,Aston Villa,True,West Ham,,0.63
+Ezri Konsa Ngoyo,Aston Villa,West Ham,2022-08-28,True,90,0,0.0,0,0.0,2,0,0,1.8,0,0,1,0.0,0,1.25,0.01,67.75,0.0,1.2,0.26,0.31,0,0.0,Aston Villa,False,Arsenal,,-0.0
+Ezri Konsa Ngoyo,Aston Villa,Arsenal,2022-08-31,False,90,0,0.0,0,0.0,0,0,0,1.6,0,0,2,0.0,0,1.0,0.01,72.2,0.0,1.2,0.26,0.31,0,2.0,Aston Villa,True,Manchester City,,-1.17
+Ezri Konsa Ngoyo,Aston Villa,Manchester City,2022-09-03,True,90,0,0.0,0,0.0,2,0,0,0.5,0,0,1,0.0,0,1.2,0.01,75.17,0.0,1.2,0.26,0.31,0,7.0,Aston Villa,True,Southampton,,-0.38
+Ezri Konsa Ngoyo,Aston Villa,Southampton,2022-09-16,True,90,0,0.0,0,0.0,7,0,0,0.9,1,1,0,0.0,0,2.4,0.01,77.29,0.14,1.2,0.26,0.31,0,6.0,Aston Villa,False,Leicester City,,-0.05
+Ezri Konsa Ngoyo,Aston Villa,Leicester City,2022-10-02,False,90,0,0.28,0,0.0,6,1,0,2.4,0,1,0,0.0,0,3.4,0.06,78.88,0.25,1.2,0.26,0.31,0,1.0,Aston Villa,False,Nottingham Forest,,
+Ezri Konsa Ngoyo,Aston Villa,Nottingham Forest,2022-10-10,False,90,0,0.0,0,0.0,1,0,0,1.9,0,0,1,0.0,0,3.2,0.06,80.11,0.22,1.2,0.26,0.31,0,1.0,Aston Villa,True,Chelsea,,-0.25
+Ezri Konsa Ngoyo,Aston Villa,Chelsea,2022-10-16,True,90,0,0.03,0,0.06,1,1,1,2.9,0,0,2,0.0,0,3.4,0.06,81.1,0.2,1.2,0.26,0.31,0,1.0,Aston Villa,False,Fulham,,1.37
+Ezri Konsa Ngoyo,Aston Villa,Fulham,2022-10-20,False,90,0,0.0,0,0.26,1,0,3,5.7,0,0,3,0.0,0,3.2,0.06,81.91,0.18,1.2,0.26,0.31,0,6.0,Aston Villa,True,Brentford,,0.69
+Ezri Konsa Ngoyo,Aston Villa,Brentford,2022-10-23,True,90,0,0.0,0,0.0,6,0,0,2.5,0,1,0,0.0,0,3.0,0.06,82.58,0.25,1.2,0.26,0.31,0,0.0,Aston Villa,False,Newcastle United,,-0.34
+Ezri Konsa Ngoyo,Aston Villa,Newcastle United,2022-10-29,False,90,0,0.0,0,0.0,0,0,0,1.3,0,0,4,0.0,0,1.8,0.01,83.15,0.23,1.2,0.26,0.31,0,2.0,Aston Villa,True,Manchester United,,0.38
+Ezri Konsa Ngoyo,Aston Villa,Manchester United,2022-11-06,True,90,0,0.0,0,0.0,2,0,0,1.6,0,0,1,0.0,0,2.0,0.01,83.64,0.21,1.2,0.26,0.31,0,2.0,Aston Villa,False,Brighton,,-0.39
+Ezri Konsa Ngoyo,Aston Villa,Brighton,2022-11-13,False,90,0,0.0,0,0.0,2,0,0,0.0,0,0,1,0.66,1,2.2,0.0,84.07,0.2,1.2,0.26,0.31,0,1.0,Aston Villa,True,Liverpool,,-0.53
+Ezri Konsa Ngoyo,Aston Villa,Liverpool,2022-12-26,True,90,0,0.0,0,0.0,1,0,0,1.3,0,0,3,2.75,1,2.2,0.0,84.44,0.19,1.2,0.26,0.31,0,5.0,Aston Villa,False,Tottenham,,-0.03
+Ezri Konsa Ngoyo,Aston Villa,Tottenham,2023-01-01,False,81,0,0.0,0,0.0,5,0,0,1.3,0,1,0,0.4,1,2.0,0.0,84.24,0.24,1.2,0.26,0.31,0,2.0,Aston Villa,True,Wolverhampton,,-0.48
+Ezri Konsa Ngoyo,Aston Villa,Wolverhampton,2023-01-04,True,90,0,0.0,0,0.0,2,0,0,1.8,0,0,1,0.85,1,2.4,0.0,84.56,0.22,1.2,0.26,0.31,0,2.0,Aston Villa,True,Leicester City,,0.83
+Ezri Konsa Ngoyo,Aston Villa,Leicester City,2023-01-13,True,90,0,0.0,0,0.0,2,0,0,3.3,0,0,1,2.38,1,2.4,0.0,84.84,0.21,1.2,0.26,0.31,0,7.0,Aston Villa,False,Southampton,,-1.07
+Ezri Konsa Ngoyo,Aston Villa,Southampton,2023-01-21,False,90,0,0.0,0,0.0,7,0,0,0.5,1,1,0,0.41,1,3.4,0.0,85.1,0.25,1.2,0.26,0.31,0,0.0,Aston Villa,True,Leeds United,,-0.79
+Ezri Konsa Ngoyo,Aston Villa,Leeds United,2023-02-04,True,90,0,0.07,0,0.0,0,1,0,2.0,0,0,4,2.25,1,3.2,0.01,85.33,0.24,1.2,0.26,0.31,0,0.0,Aston Villa,False,Manchester City,,-1.26
+Ezri Konsa Ngoyo,Aston Villa,Manchester City,2023-02-12,False,90,0,0.0,0,0.0,0,0,0,1.8,0,0,3,3.59,1,2.2,0.01,85.55,0.23,1.2,0.26,0.31,0,0.0,Aston Villa,True,Arsenal,,0.36
+Ezri Konsa Ngoyo,Aston Villa,Arsenal,2023-02-18,True,90,0,0.0,0,0.0,0,0,0,2.6,0,0,4,3.28,1,1.8,0.01,85.74,0.22,1.2,0.26,0.31,0,7.0,Aston Villa,False,Everton,,-0.63
+Ezri Konsa Ngoyo,Aston Villa,Everton,2023-02-25,False,90,0,0.0,0,0.0,7,0,0,2.7,1,1,0,1.71,1,2.8,0.01,85.92,0.25,1.2,0.26,0.31,0,7.0,Aston Villa,True,Crystal Palace,,0.81
+Ezri Konsa Ngoyo,Aston Villa,Crystal Palace,2023-03-04,True,90,0,0.11,0,0.07,7,1,1,3.5,1,1,0,0.17,1,2.8,0.04,86.08,0.28,1.2,0.26,0.31,0,2.0,Aston Villa,False,West Ham,,0.14
+Ezri Konsa Ngoyo,Aston Villa,West Ham,2023-03-12,False,90,0,0.1,0,0.53,2,1,1,2.8,0,0,1,2.22,1,3.2,0.04,86.23,0.27,1.2,0.26,0.31,0,6.0,Aston Villa,True,Bournemouth,,1.46
+Ezri Konsa Ngoyo,Aston Villa,Bournemouth,2023-03-18,True,90,0,0.1,0,0.52,6,1,1,3.3,0,1,0,0.59,1,4.4,0.06,86.37,0.3,1.2,0.26,0.31,0,6.0,Aston Villa,False,Chelsea,,-0.72
+Ezri Konsa Ngoyo,Aston Villa,Chelsea,2023-04-01,False,90,0,0.0,0,0.0,6,0,0,1.5,0,1,0,2.09,1,5.6,0.06,86.5,0.32,1.2,0.26,0.31,0,2.0,Aston Villa,False,Leeds United,,-0.8
+Ezri Konsa Ngoyo,Aston Villa,Leeds United,2023-04-04,False,90,0,0.0,0,0.0,2,0,0,2.7,0,0,1,0.48,1,4.6,0.06,86.62,0.31,1.2,0.26,0.31,0,5.0,Aston Villa,True,Nottingham Forest,,
+Ezri Konsa Ngoyo,Aston Villa,Nottingham Forest,2023-04-08,True,90,0,0.0,0,0.0,5,0,0,0.8,0,1,0,0.25,1,4.2,0.04,86.73,0.33,1.2,0.26,0.31,0,6.0,Aston Villa,True,Newcastle United,,0.73
+Ezri Konsa Ngoyo,Aston Villa,Newcastle United,2023-04-15,True,90,0,0.0,0,0.0,6,0,0,1.1,0,1,0,0.54,1,5.0,0.02,86.84,0.35,1.2,0.26,0.31,0,2.0,Aston Villa,False,Brentford,,-0.55
+Ezri Konsa Ngoyo,Aston Villa,Brentford,2023-04-22,False,90,0,0.0,0,0.01,2,0,1,2.1,0,0,1,2.75,1,4.2,0.0,86.94,0.34,1.2,0.26,0.31,0,8.0,Aston Villa,True,Fulham,,-0.3
+Ezri Konsa Ngoyo,Aston Villa,Fulham,2023-04-25,True,90,0,0.08,0,0.0,8,1,0,2.2,2,1,0,0.1,1,4.6,0.02,87.03,0.36,1.2,0.26,0.31,0,2.0,Aston Villa,False,Manchester United,,-0.1
+Ezri Konsa Ngoyo,Aston Villa,Manchester United,2023-04-30,False,90,0,0.0,0,0.0,2,0,0,2.2,0,0,1,1.19,1,4.6,0.02,87.12,0.35,1.2,0.26,0.31,0,2.0,Aston Villa,False,Wolverhampton,,-0.46
+Ezri Konsa Ngoyo,Aston Villa,Wolverhampton,2023-05-06,False,90,0,0.0,0,0.0,2,0,0,2.2,0,0,1,0.69,1,4.0,0.02,87.2,0.34,1.2,0.26,0.31,0,2.0,Aston Villa,True,Tottenham,,1.07
+Ezri Konsa Ngoyo,Aston Villa,Tottenham,2023-05-13,True,90,0,0.0,0,0.0,2,0,0,1.4,0,0,1,1.36,1,3.2,0.02,87.28,0.33,1.2,0.26,0.31,0,1.0,Aston Villa,False,Liverpool,,-1.33
+Ezri Konsa Ngoyo,Aston Villa,Liverpool,2023-05-20,False,90,0,0.0,0,0.0,1,0,0,2.3,0,0,1,0.75,1,3.0,0.02,87.35,0.32,1.2,0.26,0.31,0,2.0,Aston Villa,True,Brighton,,-0.71
+Ezri Konsa Ngoyo,Aston Villa,Brighton,2023-05-28,True,90,0,0.0,0,0.0,2,0,0,0.0,0,0,1,1.49,1,1.8,0.0,87.42,0.32,1.2,0.26,0.31,0,0.0,Aston Villa,False,Newcastle United,,-0.34

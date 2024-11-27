@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Aymeric Laporte,Man City,Burnley,2023-08-11,False,11,0.0,0.11,0.0,0.0,1,1.0,0.0,2.9,0,0,0,0.07,0,1.0,0.11,11.0,0.0,0.75,0.22,0.36,9.1,0.0,Man City,True,Newcastle United,,0.55
+Aymeric Laporte,Man City,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.5,0.06,5.5,0.0,0.75,0.22,0.36,9.1,0.0,Man City,False,Sheffield,,-0.61
+Aymeric Laporte,Man City,Sheffield,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.33,0.04,3.67,0.0,0.75,0.22,0.36,9.1,0.0,Man City,True,Fulham,,-0.13
+Aymeric Laporte,Man City,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.25,0.03,2.75,0.0,0.75,0.22,0.36,9.1,0.0,Man City,False,West Ham,,-0.22
+Aymeric Laporte,Man City,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.02,2.2,0.0,0.75,0.22,0.36,9.1,0.0,Man City,True,Nottingham Forest,,1.55
+Aymeric Laporte,Man City,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,1.83,0.0,0.75,0.22,0.36,9.1,0.0,Man City,False,Wolverhampton,,-0.52
+Aymeric Laporte,Man City,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,1.57,0.0,0.75,0.22,0.36,9.1,0.0,Man City,False,Arsenal,,-0.48
+Aymeric Laporte,Man City,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,1.38,0.0,0.75,0.22,0.36,9.1,0.0,Man City,True,Brighton,,-0.66
+Aymeric Laporte,Man City,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,1.22,0.0,0.75,0.22,0.36,9.1,0.0,Man City,False,Manchester United,,-0.63
+Aymeric Laporte,Man City,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,1.1,0.0,0.75,0.22,0.36,9.1,0.0,Man City,True,Bournemouth,,1.22
+Aymeric Laporte,Man City,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,1.0,0.0,0.75,0.22,0.36,9.1,0.0,Man City,False,Chelsea,,-0.85
+Aymeric Laporte,Man City,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.92,0.0,0.75,0.22,0.36,9.1,0.0,Man City,True,Liverpool,,0.18
+Aymeric Laporte,Man City,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.85,0.0,0.75,0.22,0.36,9.1,0.0,Man City,True,Tottenham,,0.69
+Aymeric Laporte,Man City,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.79,0.0,0.75,0.22,0.36,9.1,0.0,Man City,False,Aston Villa,,0.29
+Aymeric Laporte,Man City,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.73,0.0,0.75,0.22,0.36,9.1,0.0,Man City,False,Luton,,
+Aymeric Laporte,Man City,Luton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.69,0.0,0.75,0.22,0.36,9.1,0.0,Man City,True,Crystal Palace,,0.88
+Aymeric Laporte,Man City,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.65,0.0,0.75,0.22,0.36,9.1,0.0,Man City,False,Everton,,-0.24
+Aymeric Laporte,Man City,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.61,0.0,0.75,0.22,0.36,9.1,0.0,Man City,True,Sheffield,,0.68
+Aymeric Laporte,Man City,Sheffield,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.58,0.0,0.75,0.22,0.36,9.1,0.0,Man City,False,Newcastle United,,-0.41
+Aymeric Laporte,Man City,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.55,0.0,0.75,0.22,0.36,9.1,0.0,Man City,True,Burnley,,0.39
+Aymeric Laporte,Man City,Burnley,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.52,0.0,0.75,0.22,0.36,9.1,0.0,Man City,False,Brentford,,-0.53
+Aymeric Laporte,Man City,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.5,0.0,0.75,0.22,0.36,9.1,0.0,Man City,True,Everton,,0.53
+Aymeric Laporte,Man City,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.48,0.0,0.75,0.22,0.36,9.1,0.0,Man City,True,Chelsea,,-0.25
+Aymeric Laporte,Man City,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.46,0.0,0.75,0.22,0.36,9.1,0.0,Man City,True,Brentford,,0.79
+Aymeric Laporte,Man City,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.44,0.0,0.75,0.22,0.36,9.1,0.0,Man City,False,Bournemouth,,0.19
+Aymeric Laporte,Man City,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.42,0.0,0.75,0.22,0.36,9.1,0.0,Man City,True,Manchester United,,0.38
+Aymeric Laporte,Man City,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.41,0.0,0.75,0.22,0.36,9.1,0.0,Man City,False,Liverpool,,-1.01
+Aymeric Laporte,Man City,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.39,0.0,0.75,0.22,0.36,9.1,0.0,Man City,True,Arsenal,,-0.11
+Aymeric Laporte,Man City,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.38,0.0,0.75,0.22,0.36,9.1,0.0,Man City,True,Aston Villa,,0.64
+Aymeric Laporte,Man City,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.37,0.0,0.75,0.22,0.36,9.1,0.0,Man City,False,Crystal Palace,,0.38
+Aymeric Laporte,Man City,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.35,0.0,0.75,0.22,0.36,9.1,0.0,Man City,True,Luton,,
+Aymeric Laporte,Man City,Luton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.34,0.0,0.75,0.22,0.36,9.1,0.0,Man City,False,Brighton,,-0.6
+Aymeric Laporte,Man City,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.33,0.0,0.75,0.22,0.36,9.1,0.0,Man City,False,Nottingham Forest,,-0.55
+Aymeric Laporte,Man City,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.32,0.0,0.75,0.22,0.36,9.1,0.0,Man City,True,Wolverhampton,,0.05
+Aymeric Laporte,Man City,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.31,0.0,0.75,0.22,0.36,9.1,0.0,Man City,False,Fulham,,0.86
+Aymeric Laporte,Man City,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.31,0.0,0.75,0.22,0.36,9.1,0.0,Man City,False,Tottenham,,-0.36
+Aymeric Laporte,Man City,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.3,0.0,0.75,0.22,0.36,9.1,0.0,Man City,True,West Ham,,0.49
+Aymeric Laporte,Man City,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.29,0.0,0.75,0.22,0.36,9.1,,Brentford,True,Crystal Palace,,0.88

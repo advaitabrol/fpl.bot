@@ -29,13 +29,13 @@ def merge(seasons):
 
 def train(): 
     try:
-        subprocess.run(["python", "player_scripts/train_data/create.py"], check=True)
+        subprocess.run(["python", "app/services/player_scripts/train_data/create.py"], check=True)
     except subprocess.CalledProcessError as e:
         print(f"An error occurred while running the scripts: {e}")
 
 def prices(): 
     try:
-        subprocess.run(["python", "player_scripts/player_prices/create.py"], check=True)
+        subprocess.run(["python", "app/services/player_scripts/player_prices/create.py"], check=True)
     except subprocess.CalledProcessError as e:
         print(f"An error occurred while running the scripts: {e}")
 
@@ -47,7 +47,7 @@ def predict(x):
 
 def availability():
     try:
-        subprocess.run(["python", "player_scripts/player_fitness/availability.py"], check=True)
+        subprocess.run(["python", "app/services/player_scripts/player_fitness/availability.py"], check=True)
     except subprocess.CalledProcessError as e:
         print(f"An error occurred while running the scripts: {e}")
 
@@ -62,8 +62,8 @@ def main(prediction_folder, status):
         scrape(all_seasons)
         merge(all_seasons)
         train()
-        prices()
-        availability()
+        #prices()
+        #availability()
         predict(prediction_folder)
         clean()
 

@@ -51,7 +51,7 @@ def fetch_fpl_data():
     df = pd.DataFrame(players_data)
     
     # Save DataFrame to CSV with desired formatting
-    df.to_csv("player_scripts/current_availability.csv", index=False)
+    df.to_csv("current_availability.csv", index=False)
     print("FPL player data saved to 'current_availability.csv'")
 
 

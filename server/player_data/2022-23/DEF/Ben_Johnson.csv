@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Ben Johnson,West Ham,Manchester City,2022-08-07,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,2,0.0,0,1.0,0.0,90.0,0.0,0.15,0.56,0.21,0,2.0,West Ham,False,Nottingham Forest,,
+Ben Johnson,West Ham,Nottingham Forest,2022-08-14,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0,0,1,0.0,0,1.5,0.0,90.0,0.0,0.15,0.56,0.21,0,1.0,West Ham,True,Brighton,,-0.71
+Ben Johnson,West Ham,Brighton,2022-08-21,True,15,0.0,0.0,0.0,0.1,1,0.0,1.0,2.5,0,0,0,0.0,0,1.33,0.0,65.0,0.0,0.15,0.56,0.21,0,1.0,West Ham,False,Aston Villa,,0.59
+Ben Johnson,West Ham,Aston Villa,2022-08-28,False,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.0,0,1.25,0.0,54.25,0.0,0.15,0.56,0.21,0,0.0,West Ham,True,Tottenham,,1.07
+Ben Johnson,West Ham,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.0,0.0,43.4,0.0,0.15,0.56,0.21,0,0.0,West Ham,False,Chelsea,,-0.72
+Ben Johnson,West Ham,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.0,36.17,0.0,0.15,0.56,0.21,0,0.0,West Ham,False,Everton,,-0.63
+Ben Johnson,West Ham,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,31.0,0.0,0.15,0.56,0.21,0,0.0,West Ham,True,Wolverhampton,,-0.48
+Ben Johnson,West Ham,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,27.12,0.0,0.15,0.56,0.21,0,0.0,West Ham,True,Fulham,,-0.3
+Ben Johnson,West Ham,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,24.11,0.0,0.15,0.56,0.21,0,2.0,West Ham,False,Southampton,,-1.07
+Ben Johnson,West Ham,Southampton,2022-10-16,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,1,0.0,0,0.4,0.0,30.7,0.0,0.15,0.56,0.21,0,2.0,West Ham,False,Liverpool,,-1.33
+Ben Johnson,West Ham,Liverpool,2022-10-19,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,0,1,0.0,0,0.8,0.0,36.09,0.0,0.15,0.56,0.21,0,7.0,West Ham,True,Bournemouth,,1.46
+Ben Johnson,West Ham,Bournemouth,2022-10-24,True,90,0.0,0.0,0.0,0.09,7,0.0,1.0,3.9,1,1,0,0.0,0,2.2,0.0,40.58,0.14,0.15,0.56,0.21,0,0.0,West Ham,False,Manchester United,,-0.1
+Ben Johnson,West Ham,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.2,0.0,37.46,0.14,0.15,0.56,0.21,0,0.0,West Ham,True,Crystal Palace,,0.81
+Ben Johnson,West Ham,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.2,0.0,34.79,0.14,0.15,0.56,0.21,0,0.0,West Ham,True,Leeds United,,-0.79
+Ben Johnson,West Ham,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.8,0.0,32.47,0.14,0.15,0.56,0.21,0,0.0,West Ham,False,Arsenal,,-0.0
+Ben Johnson,West Ham,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.4,0.0,30.44,0.14,0.15,0.56,0.21,0,0.0,West Ham,True,Brentford,,0.69
+Ben Johnson,West Ham,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,28.65,0.14,0.15,0.56,0.21,0,0.0,West Ham,False,Leicester City,,-0.05
+Ben Johnson,West Ham,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,27.06,0.14,0.15,0.56,0.21,0,0.0,West Ham,False,Wolverhampton,,-0.46
+Ben Johnson,West Ham,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,25.63,0.14,0.15,0.56,0.21,0,1.0,West Ham,True,Everton,,0.34
+Ben Johnson,West Ham,Everton,2023-01-21,True,9,0.0,0.0,0.0,0.05,1,0.0,1.0,2.2,0,0,0,0.0,0,0.2,0.0,24.8,0.12,0.15,0.56,0.21,0,1.0,West Ham,False,Newcastle United,,-0.34
+Ben Johnson,West Ham,Newcastle United,2023-02-04,False,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.44,0,0.4,0.0,25.76,0.11,0.15,0.56,0.21,0,1.0,West Ham,True,Chelsea,,-0.25
+Ben Johnson,West Ham,Chelsea,2023-02-11,True,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.04,0,0.6,0.0,25.05,0.1,0.15,0.56,0.21,0,1.0,West Ham,False,Tottenham,,-0.03
+Ben Johnson,West Ham,Tottenham,2023-02-19,False,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,0,0.8,0.0,24.35,0.09,0.15,0.56,0.21,0,6.0,West Ham,True,Nottingham Forest,,
+Ben Johnson,West Ham,Nottingham Forest,2023-02-25,True,90,0.0,0.02,0.0,0.0,6,1.0,0.0,2.3,0,1,0,0.42,1,2.0,0.0,27.08,0.17,0.15,0.56,0.21,0,0.0,West Ham,False,Brighton,,-0.39
+Ben Johnson,West Ham,Brighton,2023-03-04,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.8,0,0,4,3.56,1,1.8,0.0,29.6,0.15,0.15,0.56,0.21,0,0.0,West Ham,True,Aston Villa,,0.55
+Ben Johnson,West Ham,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.6,0.0,28.46,0.15,0.15,0.56,0.21,0,0.0,West Ham,True,Southampton,,-0.38
+Ben Johnson,West Ham,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.4,0.0,27.41,0.15,0.15,0.56,0.21,0,0.0,West Ham,True,Newcastle United,,0.73
+Ben Johnson,West Ham,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.2,0.0,26.43,0.15,0.15,0.56,0.21,0,0.0,West Ham,False,Fulham,,1.37
+Ben Johnson,West Ham,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,25.52,0.15,0.15,0.56,0.21,0,0.0,West Ham,True,Arsenal,,0.36
+Ben Johnson,West Ham,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,24.67,0.15,0.15,0.56,0.21,0,0.0,West Ham,False,Bournemouth,,0.19
+Ben Johnson,West Ham,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,23.87,0.15,0.15,0.56,0.21,0,0.0,West Ham,True,Liverpool,,-0.53
+Ben Johnson,West Ham,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,23.12,0.15,0.15,0.56,0.21,0,0.0,West Ham,False,Crystal Palace,,0.13
+Ben Johnson,West Ham,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,22.42,0.15,0.15,0.56,0.21,0,0.0,West Ham,False,Manchester City,,-1.26
+Ben Johnson,West Ham,Manchester City,2023-05-03,False,28,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,0,2,0.9,0,0.0,0.0,22.59,0.14,0.15,0.56,0.21,0,1.0,West Ham,True,Manchester United,,0.38
+Ben Johnson,West Ham,Manchester United,2023-05-07,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.15,0,0.2,0.0,21.97,0.13,0.15,0.56,0.21,0,1.0,West Ham,False,Brentford,,-0.55
+Ben Johnson,West Ham,Brentford,2023-05-14,False,90,0.0,0.06,0.0,0.0,1,1.0,0.0,3.5,0,0,2,3.62,1,0.4,0.01,23.86,0.12,0.15,0.56,0.21,0,1.0,West Ham,True,Leicester City,,0.83
+Ben Johnson,West Ham,Leicester City,2023-05-21,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.03,0,0.6,0.01,23.24,0.12,0.15,0.56,0.21,0,0.0,West Ham,False,Leeds United,,-0.8
+Ben Johnson,West Ham,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.01,22.63,0.12,0.15,0.56,0.21,0,,West Ham,False,Bournemouth,,0.19

@@ -46,7 +46,7 @@ def fetch_and_process_csv(url, output_file):
 
 def main():
     url = 'https://raw.githubusercontent.com/vaastav/Fantasy-Premier-League/master/data/2024-25/cleaned_players.csv'
-    output_file = 'player_scripts/current_prices.csv'
+    output_file = 'current_prices.csv'
     fetch_and_process_csv(url, output_file)
 
 if __name__ == "__main__":
