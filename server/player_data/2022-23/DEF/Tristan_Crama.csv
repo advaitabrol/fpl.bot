@@ -1,28 +1,28 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Tristan Crama,Brentford,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brentford,True,Wolverhampton,,-0.48
-Tristan Crama,Brentford,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brentford,False,Nottingham Forest,,
-Tristan Crama,Brentford,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brentford,False,Manchester City,,-1.26
-Tristan Crama,Brentford,Manchester City,2022-11-12,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brentford,True,Tottenham,,1.07
-Tristan Crama,Brentford,Tottenham,2022-12-26,True,0,0.0,0.03,1.0,0.68,0,1.0,1.0,0.0,0,0,0,0.0,0,0.0,0.21,0.0,0,0.0,Brentford,False,West Ham,,0.14
-Tristan Crama,Brentford,West Ham,2022-12-30,False,0,0.0,0.13,0.0,0.06,0,1.0,1.0,0.0,0,0,0,0.0,0,0.0,0.23,0.0,0,0.0,Brentford,True,Liverpool,,-0.53
-Tristan Crama,Brentford,Liverpool,2023-01-02,True,0,0.0,0.03,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.24,0.0,0,0.0,Brentford,True,Bournemouth,,1.46
-Tristan Crama,Brentford,Bournemouth,2023-01-14,True,0,0.0,0.06,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.25,0.0,0,0.0,Brentford,False,Leicester City,,-0.05
-Tristan Crama,Brentford,Leicester City,2023-01-22,False,0,0.0,0.0,0.0,0.07,0,0.0,1.0,0.0,0,0,0,0.0,0,0.0,0.25,0.0,0,0.0,Brentford,True,Southampton,,-0.38
-Tristan Crama,Brentford,Southampton,2023-02-04,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.04,0.0,0,0.0,Brentford,False,Arsenal,,-0.0
-Tristan Crama,Brentford,Arsenal,2023-02-11,False,0,0.0,0.1,1.0,0.85,0,1.0,2.0,0.0,0,0,0,0.0,0,0.0,0.24,0.0,0,0.0,Brentford,True,Crystal Palace,,0.81
-Tristan Crama,Brentford,Crystal Palace,2023-02-18,True,0,0.0,0.21,0.0,0.02,0,3.0,1.0,0.0,0,0,0,0.0,0,0.0,0.27,0.0,0,0.0,Brentford,True,Fulham,,-0.3
-Tristan Crama,Brentford,Fulham,2023-03-06,True,0,0.0,0.0,0.0,0.02,0,0.0,1.0,0.0,0,0,0,0.0,0,0.0,0.26,0.0,0,0.0,Brentford,False,Everton,,-0.63
-Tristan Crama,Brentford,Everton,2023-03-11,False,0,0.0,0.02,0.0,0.37,0,1.0,1.0,0.0,0,0,0,0.0,0,0.0,0.26,0.0,0,0.0,Brentford,False,Southampton,,-1.07
-Tristan Crama,Brentford,Southampton,2023-03-15,False,0,0.0,0.08,1.0,0.91,0,1.0,1.0,0.0,0,0,0,0.0,0,0.0,0.48,0.0,0,0.0,Brentford,True,Leeds United,,-0.79
-Tristan Crama,Brentford,Leeds United,2023-03-18,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.26,0.0,0,0.0,Brentford,False,Brighton,,-0.39
-Tristan Crama,Brentford,Brighton,2023-04-01,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.22,0.0,0,0.0,Brentford,False,Manchester United,,-0.1
-Tristan Crama,Brentford,Manchester United,2023-04-05,False,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.22,0.0,0,0.0,Brentford,True,Newcastle United,,0.73
-Tristan Crama,Brentford,Newcastle United,2023-04-08,True,0,0.0,0.03,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.23,0.0,0,0.0,Brentford,False,Wolverhampton,,-0.46
-Tristan Crama,Brentford,Wolverhampton,2023-04-15,False,0,0.0,0.19,0.0,0.04,0,2.0,1.0,0.0,0,0,0,0.0,0,0.0,0.05,0.0,0,0.0,Brentford,True,Aston Villa,,0.55
-Tristan Crama,Brentford,Aston Villa,2023-04-22,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.05,0.0,0,0.0,Brentford,False,Chelsea,,-0.72
-Tristan Crama,Brentford,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.05,0.0,0,0.0,Brentford,True,Nottingham Forest,,
-Tristan Crama,Brentford,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.04,0.0,0,0.0,Brentford,False,Liverpool,,-1.33
-Tristan Crama,Brentford,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.04,0.0,0,0.0,Brentford,True,West Ham,,0.63
-Tristan Crama,Brentford,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brentford,False,Tottenham,,-0.03
-Tristan Crama,Brentford,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brentford,True,Manchester City,,-1.17
-Tristan Crama,Brentford,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,,Aston Villa,False,Newcastle United,,-0.34
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Tristan Crama,Brentford,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0,0.0,0.0,0.0,0,0.0,Brentford,True,Wolverhampton,,-0.48
+Tristan Crama,Brentford,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,338,0.0,0.0,0.0,0,0.0,Brentford,False,Nottingham Forest,,
+Tristan Crama,Brentford,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,626,0.0,0.0,0.0,0,0.0,Brentford,False,Manchester City,,-1.26
+Tristan Crama,Brentford,Manchester City,2022-11-12,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,1136,0.0,0.0,0.0,0,0.0,Brentford,True,Tottenham,,1.07
+Tristan Crama,Brentford,Tottenham,2022-12-26,True,0,0.0,0.03,1.0,0.68,0,1.0,1.0,0.0,0,0,0,0.0,0,1746,0.0,0.21,0.0,0,0.0,Brentford,False,West Ham,,0.14
+Tristan Crama,Brentford,West Ham,2022-12-30,False,0,0.0,0.13,0.0,0.06,0,1.0,1.0,0.0,0,0,0,0.0,0,1919,0.0,0.23,0.0,0,0.0,Brentford,True,Liverpool,,-0.53
+Tristan Crama,Brentford,Liverpool,2023-01-02,True,0,0.0,0.03,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,1948,0.0,0.24,0.0,0,0.0,Brentford,True,Bournemouth,,1.46
+Tristan Crama,Brentford,Bournemouth,2023-01-14,True,0,0.0,0.06,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,2185,0.0,0.25,0.0,0,0.0,Brentford,False,Leicester City,,-0.05
+Tristan Crama,Brentford,Leicester City,2023-01-22,False,0,0.0,0.0,0.0,0.07,0,0.0,1.0,0.0,0,0,0,0.0,0,2298,0.0,0.25,0.0,0,0.0,Brentford,True,Southampton,,-0.38
+Tristan Crama,Brentford,Southampton,2023-02-04,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,2515,0.0,0.04,0.0,0,0.0,Brentford,False,Arsenal,,-0.0
+Tristan Crama,Brentford,Arsenal,2023-02-11,False,0,0.0,0.1,1.0,0.85,0,1.0,2.0,0.0,0,0,0,0.0,0,2647,0.0,0.24,0.0,0,0.0,Brentford,True,Crystal Palace,,0.81
+Tristan Crama,Brentford,Crystal Palace,2023-02-18,True,0,0.0,0.21,0.0,0.02,0,3.0,1.0,0.0,0,0,0,0.0,0,2742,0.0,0.27,0.0,0,0.0,Brentford,True,Fulham,,-0.3
+Tristan Crama,Brentford,Fulham,2023-03-06,True,0,0.0,0.0,0.0,0.02,0,0.0,1.0,0.0,0,0,0,0.0,0,2849,0.0,0.26,0.0,0,0.0,Brentford,False,Everton,,-0.63
+Tristan Crama,Brentford,Everton,2023-03-11,False,0,0.0,0.02,0.0,0.37,0,1.0,1.0,0.0,0,0,0,0.0,0,3018,0.0,0.26,0.0,0,0.0,Brentford,False,Southampton,,-1.07
+Tristan Crama,Brentford,Southampton,2023-03-15,False,0,0.0,0.08,1.0,0.91,0,1.0,1.0,0.0,0,0,0,0.0,0,3018,0.0,0.48,0.0,0,0.0,Brentford,True,Leeds United,,-0.79
+Tristan Crama,Brentford,Leeds United,2023-03-18,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,3117,0.0,0.26,0.0,0,0.0,Brentford,False,Brighton,,-0.39
+Tristan Crama,Brentford,Brighton,2023-04-01,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,3213,0.0,0.22,0.0,0,0.0,Brentford,False,Manchester United,,-0.1
+Tristan Crama,Brentford,Manchester United,2023-04-05,False,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,3213,0.0,0.22,0.0,0,0.0,Brentford,True,Newcastle United,,0.73
+Tristan Crama,Brentford,Newcastle United,2023-04-08,True,0,0.0,0.03,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,3252,0.0,0.23,0.0,0,0.0,Brentford,False,Wolverhampton,,-0.46
+Tristan Crama,Brentford,Wolverhampton,2023-04-15,False,0,0.0,0.19,0.0,0.04,0,2.0,1.0,0.0,0,0,0,0.0,0,3298,0.0,0.05,0.0,0,0.0,Brentford,True,Aston Villa,,0.55
+Tristan Crama,Brentford,Aston Villa,2023-04-22,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,3435,0.0,0.05,0.0,0,0.0,Brentford,False,Chelsea,,-0.72
+Tristan Crama,Brentford,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3455,0.0,0.05,0.0,0,0.0,Brentford,True,Nottingham Forest,,
+Tristan Crama,Brentford,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3528,0.0,0.04,0.0,0,0.0,Brentford,False,Liverpool,,-1.33
+Tristan Crama,Brentford,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3576,0.0,0.04,0.0,0,0.0,Brentford,True,West Ham,,0.63
+Tristan Crama,Brentford,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3678,0.0,0.0,0.0,0,0.0,Brentford,False,Tottenham,,-0.03
+Tristan Crama,Brentford,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4034,0.0,0.0,0.0,0,0.0,Brentford,True,Manchester City,,-1.17
+Tristan Crama,Brentford,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3899,0.0,0.0,0.0,0,,Aston Villa,False,Newcastle United,,-0.34

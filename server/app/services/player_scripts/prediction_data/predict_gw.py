@@ -288,7 +288,7 @@ def retain_columns(csv_file):
     df = pd.read_csv(csv_file)
 
     # Check if all the required columns are present
-    required_columns = ['name', 'team', 'price', 'predicted_next_week_points']
+    required_columns = ['name', 'team', 'price', 'form', 'selected', 'predicted_next_week_points']
     available_columns = [col for col in required_columns if col in df.columns]
     
     if len(available_columns) == len(required_columns):

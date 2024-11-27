@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jakub Moder,Brighton,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.88,0.76,0.03,0.0,Brighton,True,Manchester United,,0.39
-Jakub Moder,Brighton,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.88,0.76,0.03,0.0,Brighton,False,Arsenal,,-0.56
-Jakub Moder,Brighton,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.88,0.76,0.03,0.0,Brighton,True,Ipswich Town,,
-Jakub Moder,Brighton,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.88,0.76,0.03,0.0,Brighton,True,Nottingham Forest,,1.2
-Jakub Moder,Brighton,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.88,0.76,0.03,0.0,Brighton,False,Chelsea,,-0.9
-Jakub Moder,Brighton,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.88,0.76,0.03,0.0,Brighton,True,Tottenham,,0.74
-Jakub Moder,Brighton,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.88,0.76,0.03,0.0,Brighton,False,Newcastle United,,-0.44
-Jakub Moder,Brighton,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.88,0.76,0.03,0.0,Brighton,True,Wolverhampton,,-0.08
-Jakub Moder,Brighton,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.88,0.76,0.03,1.0,Brighton,False,Liverpool,,-1.08
-Jakub Moder,Brighton,Liverpool,2024-11-02,False,3.0,0.0,0.0,0.0,0.03,1.0,0.0,1.0,1.4,0.0,0.0,0.2,0.0,0.3,0.0,0.0,0.88,0.76,0.03,1.0,Brighton,True,Manchester City,,-1.18
-Jakub Moder,Brighton,Manchester City,2024-11-09,True,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,0.4,0.0,0.36,0.0,0.0,0.88,0.76,0.03,,Brighton,False,Bournemouth,,-0.04
-,Brighton,,,,,,,,,,,,,,,,,,,,,,,,Brighton,True,Southampton,,0.24
-,Brighton,,,,,,,,,,,,,,,,,,,,,,,,Brighton,False,Fulham,,0.53
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jakub Moder,Brighton,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,32773.0,0.0,0.0,0.0,0.0,0.0,0.88,0.76,0.03,0.0,Brighton,True,Manchester United,,0.39
+Jakub Moder,Brighton,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,31450.0,0.0,0.0,0.0,0.0,0.0,0.88,0.76,0.03,0.0,Brighton,False,Arsenal,,-0.56
+Jakub Moder,Brighton,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,28595.0,0.0,0.0,0.0,0.0,0.0,0.88,0.76,0.03,0.0,Brighton,True,Ipswich Town,,
+Jakub Moder,Brighton,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,28801.0,0.0,0.0,0.0,0.0,0.0,0.88,0.76,0.03,0.0,Brighton,True,Nottingham Forest,,1.2
+Jakub Moder,Brighton,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,36973.0,0.0,0.0,0.0,0.0,0.0,0.88,0.76,0.03,0.0,Brighton,False,Chelsea,,-0.9
+Jakub Moder,Brighton,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,98445.0,0.0,0.0,0.0,0.0,0.0,0.88,0.76,0.03,0.0,Brighton,True,Tottenham,,0.74
+Jakub Moder,Brighton,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,107567.0,0.0,0.0,0.0,0.0,0.0,0.88,0.76,0.03,0.0,Brighton,False,Newcastle United,,-0.44
+Jakub Moder,Brighton,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,108727.0,0.0,0.0,0.0,0.0,0.0,0.88,0.76,0.03,0.0,Brighton,True,Wolverhampton,,-0.08
+Jakub Moder,Brighton,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,108094.0,0.0,0.0,0.0,0.0,0.0,0.88,0.76,0.03,1.0,Brighton,False,Liverpool,,-1.08
+Jakub Moder,Brighton,Liverpool,2024-11-02,False,3.0,0.0,0.0,0.0,0.03,1.0,0.0,1.0,1.4,0.0,0.0,110651.0,0.2,0.0,0.3,0.0,0.0,0.88,0.76,0.03,1.0,Brighton,True,Manchester City,,-1.18
+Jakub Moder,Brighton,Manchester City,2024-11-09,True,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,106784.0,0.4,0.0,0.36,0.0,0.0,0.88,0.76,0.03,,Brighton,False,Bournemouth,,-0.04
+,Brighton,,,,,,,,,,,,,,,,,,,,,,,,,Brighton,True,Southampton,,0.24
+,Brighton,,,,,,,,,,,,,,,,,,,,,,,,,Brighton,False,Fulham,,0.53

@@ -1,12 +1,12 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Benjamin Arthur,Brentford,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brentford,False,Burnley,,0.0
-Benjamin Arthur,Brentford,Burnley,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brentford,True,Manchester United,,0.38
-Benjamin Arthur,Brentford,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brentford,True,Brighton,,-0.66
-Benjamin Arthur,Brentford,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brentford,False,Aston Villa,,0.29
-Benjamin Arthur,Brentford,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brentford,True,Sheffield,,0.68
-Benjamin Arthur,Brentford,Sheffield,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brentford,False,Luton,,
-Benjamin Arthur,Brentford,Luton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brentford,False,Everton,,-0.24
-Benjamin Arthur,Brentford,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brentford,True,Fulham,,-0.13
-Benjamin Arthur,Brentford,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brentford,False,Bournemouth,,0.19
-Benjamin Arthur,Brentford,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brentford,True,Newcastle United,,0.55
-Benjamin Arthur,Brentford,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,,Brentford,True,Crystal Palace,,0.88
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Benjamin Arthur,Brentford,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0,0.0,0.0,0.0,0,0.0,Brentford,False,Burnley,,0.0
+Benjamin Arthur,Brentford,Burnley,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,417,0.0,0.0,0.0,0,0.0,Brentford,True,Manchester United,,0.38
+Benjamin Arthur,Brentford,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,422,0.0,0.0,0.0,0,0.0,Brentford,True,Brighton,,-0.66
+Benjamin Arthur,Brentford,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,553,0.0,0.0,0.0,0,0.0,Brentford,False,Aston Villa,,0.29
+Benjamin Arthur,Brentford,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,680,0.0,0.0,0.0,0,0.0,Brentford,True,Sheffield,,0.68
+Benjamin Arthur,Brentford,Sheffield,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,865,0.0,0.0,0.0,0,0.0,Brentford,False,Luton,,
+Benjamin Arthur,Brentford,Luton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1046,0.0,0.0,0.0,0,0.0,Brentford,False,Everton,,-0.24
+Benjamin Arthur,Brentford,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1087,0.0,0.0,0.0,0,0.0,Brentford,True,Fulham,,-0.13
+Benjamin Arthur,Brentford,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1220,0.0,0.0,0.0,0,0.0,Brentford,False,Bournemouth,,0.19
+Benjamin Arthur,Brentford,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1463,0.0,0.0,0.0,0,0.0,Brentford,True,Newcastle United,,0.55
+Benjamin Arthur,Brentford,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1579,0.0,0.0,0.0,0,,Brentford,True,Crystal Palace,,0.88

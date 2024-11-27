@@ -1,11 +1,11 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Lewis Warrington,Everton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,Everton,False,Newcastle United,,-0.41
-Lewis Warrington,Everton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,Everton,True,Burnley,,0.39
-Lewis Warrington,Everton,Burnley,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,Everton,False,Chelsea,,-0.85
-Lewis Warrington,Everton,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,Everton,True,Nottingham Forest,,1.55
-Lewis Warrington,Everton,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,Everton,True,Liverpool,,0.18
-Lewis Warrington,Everton,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,Everton,True,Brentford,,0.79
-Lewis Warrington,Everton,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,Everton,False,Luton,,
-Lewis Warrington,Everton,Luton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1.0,Everton,True,Sheffield,,0.68
-Lewis Warrington,Everton,Sheffield,2024-05-11,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.2,0.0,0.11,0.0,0.0,0.0,0.0,0,0.0,Everton,False,Arsenal,,-0.48
-Lewis Warrington,Everton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,0.1,0.0,0.0,0.0,0.0,0,,Fulham,False,Manchester United,,-0.63
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Lewis Warrington,Everton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,Everton,False,Newcastle United,,-0.41
+Lewis Warrington,Everton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,Everton,True,Burnley,,0.39
+Lewis Warrington,Everton,Burnley,,True,0,,,,,0,,,0.0,0,0,20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,Everton,False,Chelsea,,-0.85
+Lewis Warrington,Everton,Chelsea,,False,0,,,,,0,,,0.0,0,0,34,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,Everton,True,Nottingham Forest,,1.55
+Lewis Warrington,Everton,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,55,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,Everton,True,Liverpool,,0.18
+Lewis Warrington,Everton,Liverpool,,True,0,,,,,0,,,0.0,0,0,55,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,Everton,True,Brentford,,0.79
+Lewis Warrington,Everton,Brentford,,True,0,,,,,0,,,0.0,0,0,58,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,Everton,False,Luton,,
+Lewis Warrington,Everton,Luton,,False,0,,,,,0,,,0.0,0,0,84,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1.0,Everton,True,Sheffield,,0.68
+Lewis Warrington,Everton,Sheffield,2024-05-11,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,100,0.2,0.0,0.11,0.0,0.0,0.0,0.0,0,0.0,Everton,False,Arsenal,,-0.48
+Lewis Warrington,Everton,Arsenal,,False,0,,,,,0,,,0.0,0,0,114,0.2,0.0,0.1,0.0,0.0,0.0,0.0,0,,Fulham,False,Manchester United,,-0.63

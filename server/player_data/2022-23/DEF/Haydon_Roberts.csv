@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Haydon Roberts,Brighton,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Newcastle United,,0.73
-Haydon Roberts,Brighton,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,West Ham,,0.14
-Haydon Roberts,Brighton,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Leicester City,,0.83
-Haydon Roberts,Brighton,Leicester City,2022-08-27,True,0,0.0,0.04,1.0,0.05,0,1.0,1.0,0.0,0,0,0,0.0,0,0.0,0.26,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Fulham,,1.37
-Haydon Roberts,Brighton,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.21,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Leeds United,,-0.79
-Haydon Roberts,Brighton,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.21,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Liverpool,,-1.33
-Haydon Roberts,Brighton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.21,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Tottenham,,1.07
-Haydon Roberts,Brighton,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.21,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Brentford,,-0.55
-Haydon Roberts,Brighton,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Nottingham Forest,,
-Haydon Roberts,Brighton,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Manchester City,,-1.26
-Haydon Roberts,Brighton,Manchester City,2022-10-22,False,0,0.0,0.0,0.0,0.47,0,0.0,3.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Chelsea,,-0.25
-Haydon Roberts,Brighton,Chelsea,2022-10-29,True,0,0.0,0.06,1.0,0.55,0,1.0,4.0,0.0,0,0,0,0.0,0,0.0,0.21,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Wolverhampton,,-0.46
-Haydon Roberts,Brighton,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.21,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Aston Villa,,0.55
-Haydon Roberts,Brighton,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.21,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Southampton,,-1.07
-Haydon Roberts,Brighton,Southampton,2022-12-26,False,0,0.0,0.0,1.0,0.79,0,0.0,2.0,0.0,0,0,0,0.0,0,0.0,0.41,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Arsenal,,0.36
-Haydon Roberts,Brighton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.41,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Everton,,-0.63
-Haydon Roberts,Brighton,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.2,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Liverpool,,-0.53
-Haydon Roberts,Brighton,Liverpool,2023-01-14,True,0,0.0,0.0,0.0,0.01,0,0.0,1.0,0.0,0,0,0,0.0,0,0.0,0.2,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Leeds United,,-0.8
-Haydon Roberts,Brighton,Leeds United,2023-01-21,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.2,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Bournemouth,,1.46
-Haydon Roberts,Brighton,Bournemouth,2023-02-04,True,0,0.0,0.31,0.0,0.03,0,4.0,1.0,0.0,0,0,0,0.0,0,0.0,0.06,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Crystal Palace,,0.13
-Haydon Roberts,Brighton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.06,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Fulham,,-0.3
-Haydon Roberts,Brighton,Fulham,2023-02-18,True,0,0.0,0.0,0.0,0.47,0,0.0,3.0,0.0,0,0,0,0.0,0,0.0,0.06,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,West Ham,,0.63
-Haydon Roberts,Brighton,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.06,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Leicester City,,-0.05
-Haydon Roberts,Brighton,Leicester City,2023-03-11,False,0,0.0,0.04,0.0,0.42,0,1.0,2.0,0.0,0,0,0,0.0,0,0.0,0.07,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Crystal Palace,,0.81
-Haydon Roberts,Brighton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Brentford,,0.69
-Haydon Roberts,Brighton,Brentford,2023-04-01,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Bournemouth,,0.19
-Haydon Roberts,Brighton,Bournemouth,2023-04-04,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Tottenham,,-0.03
-Haydon Roberts,Brighton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Chelsea,,-0.72
-Haydon Roberts,Brighton,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Nottingham Forest,,
-Haydon Roberts,Brighton,Nottingham Forest,2023-04-26,False,0,0.0,0.0,1.0,0.52,0,0.0,3.0,0.0,0,0,0,0.0,0,0.0,0.2,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Wolverhampton,,-0.48
-Haydon Roberts,Brighton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.2,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Manchester United,,0.38
-Haydon Roberts,Brighton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.2,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Everton,,0.34
-Haydon Roberts,Brighton,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.2,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Arsenal,,-0.0
-Haydon Roberts,Brighton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.2,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Newcastle United,,-0.34
-Haydon Roberts,Brighton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Southampton,,-0.38
-Haydon Roberts,Brighton,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Manchester City,,-1.17
-Haydon Roberts,Brighton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Aston Villa,,0.59
-Haydon Roberts,Brighton,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.12,3.94,0,0,,Aston Villa,False,Newcastle United,,-0.34
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Haydon Roberts,Brighton,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1005,0.0,0.0,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Newcastle United,,0.73
+Haydon Roberts,Brighton,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,844,0.0,0.0,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,West Ham,,0.14
+Haydon Roberts,Brighton,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,757,0.0,0.0,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Leicester City,,0.83
+Haydon Roberts,Brighton,Leicester City,2022-08-27,True,0,0.0,0.04,1.0,0.05,0,1.0,1.0,0.0,0,0,0,0.0,0,707,0.0,0.26,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Fulham,,1.37
+Haydon Roberts,Brighton,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,664,0.0,0.21,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Leeds United,,-0.79
+Haydon Roberts,Brighton,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,628,0.0,0.21,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Liverpool,,-1.33
+Haydon Roberts,Brighton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,573,0.0,0.21,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Tottenham,,1.07
+Haydon Roberts,Brighton,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,557,0.0,0.21,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Brentford,,-0.55
+Haydon Roberts,Brighton,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,552,0.0,0.0,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Nottingham Forest,,
+Haydon Roberts,Brighton,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,536,0.0,0.0,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Manchester City,,-1.26
+Haydon Roberts,Brighton,Manchester City,2022-10-22,False,0,0.0,0.0,0.0,0.47,0,0.0,3.0,0.0,0,0,0,0.0,0,533,0.0,0.0,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Chelsea,,-0.25
+Haydon Roberts,Brighton,Chelsea,2022-10-29,True,0,0.0,0.06,1.0,0.55,0,1.0,4.0,0.0,0,0,0,0.0,0,518,0.0,0.21,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Wolverhampton,,-0.46
+Haydon Roberts,Brighton,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,505,0.0,0.21,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Aston Villa,,0.55
+Haydon Roberts,Brighton,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,491,0.0,0.21,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Southampton,,-1.07
+Haydon Roberts,Brighton,Southampton,2022-12-26,False,0,0.0,0.0,1.0,0.79,0,0.0,2.0,0.0,0,0,0,0.0,0,475,0.0,0.41,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Arsenal,,0.36
+Haydon Roberts,Brighton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,471,0.0,0.41,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Everton,,-0.63
+Haydon Roberts,Brighton,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,470,0.0,0.2,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Liverpool,,-0.53
+Haydon Roberts,Brighton,Liverpool,2023-01-14,True,0,0.0,0.0,0.0,0.01,0,0.0,1.0,0.0,0,0,0,0.0,0,463,0.0,0.2,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Leeds United,,-0.8
+Haydon Roberts,Brighton,Leeds United,2023-01-21,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,458,0.0,0.2,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Bournemouth,,1.46
+Haydon Roberts,Brighton,Bournemouth,2023-02-04,True,0,0.0,0.31,0.0,0.03,0,4.0,1.0,0.0,0,0,0,0.0,0,454,0.0,0.06,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Crystal Palace,,0.13
+Haydon Roberts,Brighton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,453,0.0,0.06,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Fulham,,-0.3
+Haydon Roberts,Brighton,Fulham,2023-02-18,True,0,0.0,0.0,0.0,0.47,0,0.0,3.0,0.0,0,0,0,0.0,0,449,0.0,0.06,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,West Ham,,0.63
+Haydon Roberts,Brighton,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,443,0.0,0.06,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Leicester City,,-0.05
+Haydon Roberts,Brighton,Leicester City,2023-03-11,False,0,0.0,0.04,0.0,0.42,0,1.0,2.0,0.0,0,0,0,0.0,0,441,0.0,0.07,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Crystal Palace,,0.81
+Haydon Roberts,Brighton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,441,0.0,0.01,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Brentford,,0.69
+Haydon Roberts,Brighton,Brentford,2023-04-01,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,438,0.0,0.01,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Bournemouth,,0.19
+Haydon Roberts,Brighton,Bournemouth,2023-04-04,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,438,0.0,0.01,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Tottenham,,-0.03
+Haydon Roberts,Brighton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,437,0.0,0.01,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Chelsea,,-0.72
+Haydon Roberts,Brighton,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,435,0.0,0.0,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Nottingham Forest,,
+Haydon Roberts,Brighton,Nottingham Forest,2023-04-26,False,0,0.0,0.0,1.0,0.52,0,0.0,3.0,0.0,0,0,0,0.0,0,434,0.0,0.2,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Wolverhampton,,-0.48
+Haydon Roberts,Brighton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,431,0.0,0.2,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Manchester United,,0.38
+Haydon Roberts,Brighton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,431,0.0,0.2,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Everton,,0.34
+Haydon Roberts,Brighton,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,430,0.0,0.2,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Arsenal,,-0.0
+Haydon Roberts,Brighton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,430,0.0,0.2,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Newcastle United,,-0.34
+Haydon Roberts,Brighton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,430,0.0,0.0,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Southampton,,-0.38
+Haydon Roberts,Brighton,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,428,0.0,0.0,0.0,0,1.12,3.94,0,0,0.0,Brighton,True,Manchester City,,-1.17
+Haydon Roberts,Brighton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,428,0.0,0.0,0.0,0,1.12,3.94,0,0,0.0,Brighton,False,Aston Villa,,0.59
+Haydon Roberts,Brighton,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,427,0.0,0.0,0.0,0,1.12,3.94,0,0,,Aston Villa,False,Newcastle United,,-0.34

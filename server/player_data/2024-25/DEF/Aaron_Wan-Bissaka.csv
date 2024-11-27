@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Aaron Wan-Bissaka,West Ham,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.14,1.44,0.15,38.57,1.0,West Ham,False,Crystal Palace,,0.2
-Aaron Wan-Bissaka,West Ham,Crystal Palace,2024-08-24,False,28.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.4,0.0,0.0,0.0,0.56,0.0,0.5,0.0,14.0,0.0,0.14,1.44,0.15,38.57,1.0,West Ham,True,Manchester City,,-1.18
-Aaron Wan-Bissaka,West Ham,Manchester City,2024-08-31,True,90.0,0.0,0.0,0.0,0.04,1.0,0.0,2.0,5.1,0.0,0.0,3.0,3.0,1.0,0.67,0.0,39.33,0.0,0.14,1.44,0.15,38.57,2.0,West Ham,False,Fulham,,0.53
-Aaron Wan-Bissaka,West Ham,Fulham,2024-09-14,False,90.0,0.0,0.0,0.0,0.05,2.0,0.0,1.0,2.9,0.0,0.0,1.0,1.54,1.0,1.0,0.0,52.0,0.0,0.14,1.44,0.15,38.57,1.0,West Ham,True,Chelsea,,0.0
-Aaron Wan-Bissaka,West Ham,Chelsea,2024-09-21,True,90.0,0.0,0.0,0.0,0.13,1.0,0.0,2.0,7.1,0.0,0.0,3.0,2.19,1.0,1.0,0.0,59.6,0.0,0.14,1.44,0.15,38.57,2.0,West Ham,False,Brentford,,-0.15
-Aaron Wan-Bissaka,West Ham,Brentford,2024-09-28,False,90.0,0.0,0.02,0.0,0.07,2.0,1.0,1.0,3.3,0.0,0.0,1.0,0.37,1.0,1.4,0.0,64.67,0.0,0.14,1.44,0.15,38.57,2.0,West Ham,True,Ipswich Town,,
-Aaron Wan-Bissaka,West Ham,Ipswich Town,2024-10-05,True,90.0,0.0,0.03,0.0,0.07,2.0,1.0,1.0,3.7,0.0,0.0,1.0,0.65,1.0,1.6,0.01,68.29,0.0,0.14,1.44,0.15,38.57,0.0,West Ham,False,Tottenham,,-0.3
-Aaron Wan-Bissaka,West Ham,Tottenham,2024-10-19,False,90.0,0.0,0.06,0.0,0.03,0.0,1.0,1.0,4.7,0.0,0.0,4.0,1.92,1.0,1.4,0.02,71.0,0.0,0.14,1.44,0.15,38.57,2.0,West Ham,True,Manchester United,,0.39
-Aaron Wan-Bissaka,West Ham,Manchester United,2024-10-27,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.0,0.0,0.0,1.0,2.12,1.0,1.4,0.02,73.11,0.0,0.14,1.44,0.15,38.57,1.0,West Ham,False,Nottingham Forest,,-0.54
-Aaron Wan-Bissaka,West Ham,Nottingham Forest,2024-11-02,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.7,0.0,0.0,3.0,2.17,1.0,1.4,0.02,74.8,0.0,0.14,1.44,0.15,38.57,6.0,West Ham,True,Everton,,0.61
-Aaron Wan-Bissaka,West Ham,Everton,2024-11-09,True,66.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,1.4,0.0,1.0,0.0,1.05,1.0,2.2,0.02,74.0,0.1,0.14,1.44,0.15,38.57,,West Ham,False,Newcastle United,,-0.44
-,West Ham,,,,,,,,,,,,,,,,,,,,,,,,,,,West Ham,True,Arsenal,,-0.32
-,West Ham,,,,,,,,,,,,,,,,,,,,,,,,,,,West Ham,False,Leicester City,,-0.22
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Aaron Wan-Bissaka,West Ham,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,168413.0,0.0,0.0,0.0,0.0,0.14,1.44,0.15,38.57,1.0,West Ham,False,Crystal Palace,,0.2
+Aaron Wan-Bissaka,West Ham,Crystal Palace,2024-08-24,False,28.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.4,0.0,0.0,0.0,0.56,0.0,179384.0,0.5,0.0,14.0,0.0,0.14,1.44,0.15,38.57,1.0,West Ham,True,Manchester City,,-1.18
+Aaron Wan-Bissaka,West Ham,Manchester City,2024-08-31,True,90.0,0.0,0.0,0.0,0.04,1.0,0.0,2.0,5.1,0.0,0.0,3.0,3.0,1.0,176074.0,0.67,0.0,39.33,0.0,0.14,1.44,0.15,38.57,2.0,West Ham,False,Fulham,,0.53
+Aaron Wan-Bissaka,West Ham,Fulham,2024-09-14,False,90.0,0.0,0.0,0.0,0.05,2.0,0.0,1.0,2.9,0.0,0.0,1.0,1.54,1.0,188500.0,1.0,0.0,52.0,0.0,0.14,1.44,0.15,38.57,1.0,West Ham,True,Chelsea,,0.0
+Aaron Wan-Bissaka,West Ham,Chelsea,2024-09-21,True,90.0,0.0,0.0,0.0,0.13,1.0,0.0,2.0,7.1,0.0,0.0,3.0,2.19,1.0,187892.0,1.0,0.0,59.6,0.0,0.14,1.44,0.15,38.57,2.0,West Ham,False,Brentford,,-0.15
+Aaron Wan-Bissaka,West Ham,Brentford,2024-09-28,False,90.0,0.0,0.02,0.0,0.07,2.0,1.0,1.0,3.3,0.0,0.0,1.0,0.37,1.0,183004.0,1.4,0.0,64.67,0.0,0.14,1.44,0.15,38.57,2.0,West Ham,True,Ipswich Town,,
+Aaron Wan-Bissaka,West Ham,Ipswich Town,2024-10-05,True,90.0,0.0,0.03,0.0,0.07,2.0,1.0,1.0,3.7,0.0,0.0,1.0,0.65,1.0,187291.0,1.6,0.01,68.29,0.0,0.14,1.44,0.15,38.57,0.0,West Ham,False,Tottenham,,-0.3
+Aaron Wan-Bissaka,West Ham,Tottenham,2024-10-19,False,90.0,0.0,0.06,0.0,0.03,0.0,1.0,1.0,4.7,0.0,0.0,4.0,1.92,1.0,179507.0,1.4,0.02,71.0,0.0,0.14,1.44,0.15,38.57,2.0,West Ham,True,Manchester United,,0.39
+Aaron Wan-Bissaka,West Ham,Manchester United,2024-10-27,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.0,0.0,0.0,1.0,2.12,1.0,173564.0,1.4,0.02,73.11,0.0,0.14,1.44,0.15,38.57,1.0,West Ham,False,Nottingham Forest,,-0.54
+Aaron Wan-Bissaka,West Ham,Nottingham Forest,2024-11-02,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.7,0.0,0.0,3.0,2.17,1.0,174690.0,1.4,0.02,74.8,0.0,0.14,1.44,0.15,38.57,6.0,West Ham,True,Everton,,0.61
+Aaron Wan-Bissaka,West Ham,Everton,2024-11-09,True,66.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,1.4,0.0,1.0,0.0,1.05,1.0,173893.0,2.2,0.02,74.0,0.1,0.14,1.44,0.15,38.57,,West Ham,False,Newcastle United,,-0.44
+,West Ham,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Ham,True,Arsenal,,-0.32
+,West Ham,,,,,,,,,,,,,,,,,,,,,,,,,,,,West Ham,False,Leicester City,,-0.22

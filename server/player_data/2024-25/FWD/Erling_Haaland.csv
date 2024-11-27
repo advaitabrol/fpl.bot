@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Erling Haaland,Man City,Chelsea,2024-08-18,False,90.0,1.0,0.66,0.0,0.0,7.0,2.0,0.0,7.5,2.0,1.0,7.0,0.66,90.0,27.0,5.0,31.65,4.74,0.08,17.0,Man City,True,Ipswich Town,,
-Erling Haaland,Man City,Ipswich Town,2024-08-24,True,89.0,3.0,1.84,0.0,0.0,17.0,7.0,0.0,18.4,3.0,1.0,12.0,1.25,89.5,27.0,5.0,31.65,4.74,0.08,17.0,Man City,False,West Ham,,-0.34
-Erling Haaland,Man City,West Ham,2024-08-31,False,90.0,3.0,1.31,0.0,0.41,17.0,5.0,1.0,18.4,3.0,1.0,13.67,1.27,89.67,27.0,5.0,31.65,4.74,0.08,13.0,Man City,True,Brentford,,0.54
-Erling Haaland,Man City,Brentford,2024-09-14,True,90.0,2.0,0.73,0.0,0.0,13.0,6.0,0.0,15.9,3.0,1.0,13.5,1.14,89.75,27.0,5.0,31.65,4.74,0.08,9.0,Man City,True,Arsenal,,-0.32
-Erling Haaland,Man City,Arsenal,2024-09-22,True,90.0,1.0,0.83,0.0,0.0,9.0,6.0,0.0,15.7,3.0,1.0,12.6,1.07,89.8,27.0,5.0,31.65,4.74,0.08,2.0,Man City,False,Newcastle United,,-0.44
-Erling Haaland,Man City,Newcastle United,2024-09-28,False,90.0,0.0,0.39,0.0,0.12,2.0,5.0,1.0,8.4,0.0,1.0,11.6,1.02,89.83,27.0,5.0,31.65,4.74,0.08,2.0,Man City,True,Fulham,,0.27
-Erling Haaland,Man City,Fulham,2024-10-05,True,90.0,0.0,0.3,0.0,0.19,2.0,4.0,2.0,7.5,0.0,1.0,8.6,0.71,89.86,27.0,5.0,31.65,4.74,0.08,2.0,Man City,False,Wolverhampton,,-0.53
-Erling Haaland,Man City,Wolverhampton,2024-10-20,False,90.0,0.0,0.0,0.0,0.08,2.0,0.0,1.0,2.3,0.0,1.0,5.6,0.45,89.88,27.0,5.0,31.65,4.74,0.08,6.0,Man City,True,Southampton,,0.24
-Erling Haaland,Man City,Southampton,2024-10-26,True,90.0,1.0,2.44,0.0,0.0,6.0,8.0,0.0,12.5,0.0,1.0,4.2,0.79,89.89,27.0,5.0,31.65,4.74,0.08,2.0,Man City,False,Bournemouth,,-0.04
-Erling Haaland,Man City,Bournemouth,2024-11-02,False,90.0,0.0,1.6,0.0,0.0,2.0,6.0,0.0,7.3,0.0,1.0,2.8,0.95,89.9,27.0,5.0,31.65,4.74,0.08,5.0,Man City,False,Brighton,,-0.61
-Erling Haaland,Man City,Brighton,2024-11-09,False,90.0,1.0,2.1,0.0,0.0,5.0,7.0,0.0,12.2,0.0,1.0,3.4,1.29,89.91,27.0,5.0,31.65,4.74,0.08,,Man City,True,Chelsea,,0.0
-,Man City,,,,,,,,,,,,,,,,,,,,,,,,Man City,False,Brentford,,-0.15
-,Man City,,,,,,,,,,,,,,,,,,,,,,,,Man City,True,West Ham,,0.48
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Erling Haaland,Man City,Chelsea,2024-08-18,False,90.0,1.0,0.66,0.0,0.0,7.0,2.0,0.0,7.5,2.0,1.0,4408007.0,7.0,0.66,90.0,27.0,5.0,31.65,4.74,0.08,17.0,Man City,True,Ipswich Town,,
+Erling Haaland,Man City,Ipswich Town,2024-08-24,True,89.0,3.0,1.84,0.0,0.0,17.0,7.0,0.0,18.4,3.0,1.0,5207729.0,12.0,1.25,89.5,27.0,5.0,31.65,4.74,0.08,17.0,Man City,False,West Ham,,-0.34
+Erling Haaland,Man City,West Ham,2024-08-31,False,90.0,3.0,1.31,0.0,0.41,17.0,5.0,1.0,18.4,3.0,1.0,6054723.0,13.67,1.27,89.67,27.0,5.0,31.65,4.74,0.08,13.0,Man City,True,Brentford,,0.54
+Erling Haaland,Man City,Brentford,2024-09-14,True,90.0,2.0,0.73,0.0,0.0,13.0,6.0,0.0,15.9,3.0,1.0,6928685.0,13.5,1.14,89.75,27.0,5.0,31.65,4.74,0.08,9.0,Man City,True,Arsenal,,-0.32
+Erling Haaland,Man City,Arsenal,2024-09-22,True,90.0,1.0,0.83,0.0,0.0,9.0,6.0,0.0,15.7,3.0,1.0,7253417.0,12.6,1.07,89.8,27.0,5.0,31.65,4.74,0.08,2.0,Man City,False,Newcastle United,,-0.44
+Erling Haaland,Man City,Newcastle United,2024-09-28,False,90.0,0.0,0.39,0.0,0.12,2.0,5.0,1.0,8.4,0.0,1.0,7583749.0,11.6,1.02,89.83,27.0,5.0,31.65,4.74,0.08,2.0,Man City,True,Fulham,,0.27
+Erling Haaland,Man City,Fulham,2024-10-05,True,90.0,0.0,0.3,0.0,0.19,2.0,4.0,2.0,7.5,0.0,1.0,7704044.0,8.6,0.71,89.86,27.0,5.0,31.65,4.74,0.08,2.0,Man City,False,Wolverhampton,,-0.53
+Erling Haaland,Man City,Wolverhampton,2024-10-20,False,90.0,0.0,0.0,0.0,0.08,2.0,0.0,1.0,2.3,0.0,1.0,7811209.0,5.6,0.45,89.88,27.0,5.0,31.65,4.74,0.08,6.0,Man City,True,Southampton,,0.24
+Erling Haaland,Man City,Southampton,2024-10-26,True,90.0,1.0,2.44,0.0,0.0,6.0,8.0,0.0,12.5,0.0,1.0,7845366.0,4.2,0.79,89.89,27.0,5.0,31.65,4.74,0.08,2.0,Man City,False,Bournemouth,,-0.04
+Erling Haaland,Man City,Bournemouth,2024-11-02,False,90.0,0.0,1.6,0.0,0.0,2.0,6.0,0.0,7.3,0.0,1.0,7679947.0,2.8,0.95,89.9,27.0,5.0,31.65,4.74,0.08,5.0,Man City,False,Brighton,,-0.61
+Erling Haaland,Man City,Brighton,2024-11-09,False,90.0,1.0,2.1,0.0,0.0,5.0,7.0,0.0,12.2,0.0,1.0,7076341.0,3.4,1.29,89.91,27.0,5.0,31.65,4.74,0.08,,Man City,True,Chelsea,,0.0
+,Man City,,,,,,,,,,,,,,,,,,,,,,,,,Man City,False,Brentford,,-0.15
+,Man City,,,,,,,,,,,,,,,,,,,,,,,,,Man City,True,West Ham,,0.48

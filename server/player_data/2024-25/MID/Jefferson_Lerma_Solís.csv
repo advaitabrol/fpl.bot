@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jefferson Lerma Solís,Crystal Palace,Brentford,2024-08-18,False,16.0,0.0,0.0,0.0,0.51,1.0,0.0,1.0,1.8,0.0,0.0,1.0,0.0,16.0,1.0,1.0,2.37,2.44,0.03,2.0,Crystal Palace,True,West Ham,,0.48
-Jefferson Lerma Solís,Crystal Palace,West Ham,2024-08-24,True,62.0,0.0,0.01,0.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,1.5,0.0,39.0,1.0,1.0,2.37,2.44,0.03,0.0,Crystal Palace,False,Chelsea,,-0.9
-Jefferson Lerma Solís,Crystal Palace,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1.0,0.0,26.0,1.0,1.0,2.37,2.44,0.03,0.0,Crystal Palace,True,Leicester City,,0.47
-Jefferson Lerma Solís,Crystal Palace,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.75,0.0,19.5,1.0,1.0,2.37,2.44,0.03,1.0,Crystal Palace,True,Manchester United,,0.39
-Jefferson Lerma Solís,Crystal Palace,Manchester United,2024-09-21,True,45.0,0.0,0.02,0.0,0.06,1.0,1.0,1.0,1.8,0.0,0.0,0.8,0.01,24.6,1.0,1.0,2.37,2.44,0.03,2.0,Crystal Palace,False,Everton,,-0.39
-Jefferson Lerma Solís,Crystal Palace,Everton,2024-09-28,False,90.0,0.0,0.01,0.0,0.14,2.0,1.0,1.0,3.6,0.0,1.0,1.0,0.01,35.5,1.0,1.0,2.37,2.44,0.03,1.0,Crystal Palace,True,Liverpool,,0.24
-Jefferson Lerma Solís,Crystal Palace,Liverpool,2024-10-05,True,90.0,0.0,0.02,0.0,0.0,1.0,1.0,0.0,0.6,0.0,1.0,0.8,0.01,43.29,1.0,1.0,2.37,2.44,0.03,1.0,Crystal Palace,False,Nottingham Forest,,-0.54
-Jefferson Lerma Solís,Crystal Palace,Nottingham Forest,2024-10-21,False,90.0,0.0,0.01,0.0,0.03,1.0,1.0,1.0,3.9,0.0,1.0,1.0,0.01,49.12,1.0,1.0,2.37,2.44,0.03,1.0,Crystal Palace,True,Tottenham,,0.74
-Jefferson Lerma Solís,Crystal Palace,Tottenham,2024-10-27,True,21.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,1.0,1.2,0.01,46.0,1.0,1.0,2.37,2.44,0.03,0.0,Crystal Palace,False,Wolverhampton,,-0.53
-Jefferson Lerma Solís,Crystal Palace,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1.0,0.01,41.4,1.0,1.0,2.37,2.44,0.03,0.0,Crystal Palace,True,Fulham,,0.27
-Jefferson Lerma Solís,Crystal Palace,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.6,0.01,37.64,1.0,1.0,2.37,2.44,0.03,,Crystal Palace,False,Aston Villa,,0.11
-,Crystal Palace,,,,,,,,,,,,,,,,,,,,,,,,Crystal Palace,True,Newcastle United,,0.67
-,Crystal Palace,,,,,,,,,,,,,,,,,,,,,,,,Crystal Palace,False,Ipswich Town,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jefferson Lerma Solís,Crystal Palace,Brentford,2024-08-18,False,16.0,0.0,0.0,0.0,0.51,1.0,0.0,1.0,1.8,0.0,0.0,5376.0,1.0,0.0,16.0,1.0,1.0,2.37,2.44,0.03,2.0,Crystal Palace,True,West Ham,,0.48
+Jefferson Lerma Solís,Crystal Palace,West Ham,2024-08-24,True,62.0,0.0,0.01,0.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,5650.0,1.5,0.0,39.0,1.0,1.0,2.37,2.44,0.03,0.0,Crystal Palace,False,Chelsea,,-0.9
+Jefferson Lerma Solís,Crystal Palace,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,6216.0,1.0,0.0,26.0,1.0,1.0,2.37,2.44,0.03,0.0,Crystal Palace,True,Leicester City,,0.47
+Jefferson Lerma Solís,Crystal Palace,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,6054.0,0.75,0.0,19.5,1.0,1.0,2.37,2.44,0.03,1.0,Crystal Palace,True,Manchester United,,0.39
+Jefferson Lerma Solís,Crystal Palace,Manchester United,2024-09-21,True,45.0,0.0,0.02,0.0,0.06,1.0,1.0,1.0,1.8,0.0,0.0,5813.0,0.8,0.01,24.6,1.0,1.0,2.37,2.44,0.03,2.0,Crystal Palace,False,Everton,,-0.39
+Jefferson Lerma Solís,Crystal Palace,Everton,2024-09-28,False,90.0,0.0,0.01,0.0,0.14,2.0,1.0,1.0,3.6,0.0,1.0,5716.0,1.0,0.01,35.5,1.0,1.0,2.37,2.44,0.03,1.0,Crystal Palace,True,Liverpool,,0.24
+Jefferson Lerma Solís,Crystal Palace,Liverpool,2024-10-05,True,90.0,0.0,0.02,0.0,0.0,1.0,1.0,0.0,0.6,0.0,1.0,5756.0,0.8,0.01,43.29,1.0,1.0,2.37,2.44,0.03,1.0,Crystal Palace,False,Nottingham Forest,,-0.54
+Jefferson Lerma Solís,Crystal Palace,Nottingham Forest,2024-10-21,False,90.0,0.0,0.01,0.0,0.03,1.0,1.0,1.0,3.9,0.0,1.0,6157.0,1.0,0.01,49.12,1.0,1.0,2.37,2.44,0.03,1.0,Crystal Palace,True,Tottenham,,0.74
+Jefferson Lerma Solís,Crystal Palace,Tottenham,2024-10-27,True,21.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,1.0,6205.0,1.2,0.01,46.0,1.0,1.0,2.37,2.44,0.03,0.0,Crystal Palace,False,Wolverhampton,,-0.53
+Jefferson Lerma Solís,Crystal Palace,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,5583.0,1.0,0.01,41.4,1.0,1.0,2.37,2.44,0.03,0.0,Crystal Palace,True,Fulham,,0.27
+Jefferson Lerma Solís,Crystal Palace,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,4953.0,0.6,0.01,37.64,1.0,1.0,2.37,2.44,0.03,,Crystal Palace,False,Aston Villa,,0.11
+,Crystal Palace,,,,,,,,,,,,,,,,,,,,,,,,,Crystal Palace,True,Newcastle United,,0.67
+,Crystal Palace,,,,,,,,,,,,,,,,,,,,,,,,,Crystal Palace,False,Ipswich Town,,

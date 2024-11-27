@@ -1,13 +1,13 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Romaine Mundle,Spurs,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Spurs,False,Southampton,,-1.07
-Romaine Mundle,Spurs,Southampton,2023-03-18,False,0,0.0,0.02,0.0,0.1,0,1.0,1.0,0.0,0,0,0.0,0.01,0.0,0.0,Spurs,False,Everton,,-0.63
-Romaine Mundle,Spurs,Everton,,False,0,,,,,0,,,0.0,0,0,0.0,0.01,0.0,0.0,Spurs,True,Brighton,,-0.71
-Romaine Mundle,Spurs,Brighton,2023-04-08,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,Spurs,True,Bournemouth,,1.46
-Romaine Mundle,Spurs,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Spurs,False,Newcastle United,,-0.34
-Romaine Mundle,Spurs,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Spurs,True,Manchester United,,0.38
-Romaine Mundle,Spurs,Manchester United,2023-04-27,True,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,Spurs,False,Liverpool,,-1.33
-Romaine Mundle,Spurs,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Spurs,True,Crystal Palace,,0.81
-Romaine Mundle,Spurs,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Spurs,False,Aston Villa,,0.59
-Romaine Mundle,Spurs,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Spurs,True,Brentford,,0.69
-Romaine Mundle,Spurs,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Spurs,False,Leicester City,,-0.05
-Romaine Mundle,Spurs,Leicester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,,Fulham,False,Everton,,-0.63
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Romaine Mundle,Spurs,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0,Spurs,False,Southampton,,-1.07
+Romaine Mundle,Spurs,Southampton,2023-03-18,False,0,0.0,0.02,0.0,0.1,0,1.0,1.0,0.0,0,0,54,0.0,0.01,0.0,0.0,Spurs,False,Everton,,-0.63
+Romaine Mundle,Spurs,Everton,,False,0,,,,,0,,,0.0,0,0,63,0.0,0.01,0.0,0.0,Spurs,True,Brighton,,-0.71
+Romaine Mundle,Spurs,Brighton,2023-04-08,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,82,0.0,0.0,0.0,0.0,Spurs,True,Bournemouth,,1.46
+Romaine Mundle,Spurs,Bournemouth,,True,0,,,,,0,,,0.0,0,0,111,0.0,0.0,0.0,0.0,Spurs,False,Newcastle United,,-0.34
+Romaine Mundle,Spurs,Newcastle United,,False,0,,,,,0,,,0.0,0,0,126,0.0,0.0,0.0,0.0,Spurs,True,Manchester United,,0.38
+Romaine Mundle,Spurs,Manchester United,2023-04-27,True,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,131,0.0,0.0,0.0,0.0,Spurs,False,Liverpool,,-1.33
+Romaine Mundle,Spurs,Liverpool,,False,0,,,,,0,,,0.0,0,0,135,0.0,0.0,0.0,0.0,Spurs,True,Crystal Palace,,0.81
+Romaine Mundle,Spurs,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,156,0.0,0.0,0.0,0.0,Spurs,False,Aston Villa,,0.59
+Romaine Mundle,Spurs,Aston Villa,,False,0,,,,,0,,,0.0,0,0,157,0.0,0.0,0.0,0.0,Spurs,True,Brentford,,0.69
+Romaine Mundle,Spurs,Brentford,,True,0,,,,,0,,,0.0,0,0,167,0.0,0.0,0.0,0.0,Spurs,False,Leicester City,,-0.05
+Romaine Mundle,Spurs,Leicester City,,False,0,,,,,0,,,0.0,0,0,194,0.0,0.0,0.0,,Fulham,False,Everton,,-0.63

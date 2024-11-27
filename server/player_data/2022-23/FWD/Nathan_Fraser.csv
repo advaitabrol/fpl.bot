@@ -1,26 +1,26 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Nathan Fraser,Wolves,Brighton,2022-11-05,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Arsenal,,0.36
-Nathan Fraser,Wolves,Arsenal,2022-11-12,True,0,0.0,0.33,0.0,0.02,0,3.0,1.0,0.0,0,0,0.0,0.17,0.0,0.0,Wolves,False,Everton,,-0.63
-Nathan Fraser,Wolves,Everton,2022-12-26,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.11,0.0,0.0,Wolves,True,Manchester United,,0.38
-Nathan Fraser,Wolves,Manchester United,2022-12-31,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.08,0.0,0.0,Wolves,False,Aston Villa,,0.59
-Nathan Fraser,Wolves,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.07,0.0,0.0,Wolves,True,West Ham,,0.63
-Nathan Fraser,Wolves,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.07,0.0,0.0,Wolves,False,Manchester City,,-1.26
-Nathan Fraser,Wolves,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Liverpool,,-0.53
-Nathan Fraser,Wolves,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Southampton,,-1.07
-Nathan Fraser,Wolves,Southampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Bournemouth,,1.46
-Nathan Fraser,Wolves,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Fulham,,1.37
-Nathan Fraser,Wolves,Fulham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Liverpool,,-1.33
-Nathan Fraser,Wolves,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Tottenham,,1.07
-Nathan Fraser,Wolves,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Newcastle United,,-0.34
-Nathan Fraser,Wolves,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Leicester City,,0.83
-Nathan Fraser,Wolves,Leicester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Nottingham Forest,,
-Nathan Fraser,Wolves,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Chelsea,,-0.25
-Nathan Fraser,Wolves,Chelsea,2023-04-08,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Brentford,,0.69
-Nathan Fraser,Wolves,Brentford,2023-04-15,True,0,0.0,0.0,0.0,0.06,0,0.0,1.0,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Leeds United,,-0.8
-Nathan Fraser,Wolves,Leeds United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Crystal Palace,,0.81
-Nathan Fraser,Wolves,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Brighton,,-0.39
-Nathan Fraser,Wolves,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Aston Villa,,0.55
-Nathan Fraser,Wolves,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Manchester United,,-0.1
-Nathan Fraser,Wolves,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Everton,,0.34
-Nathan Fraser,Wolves,Everton,2023-05-20,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Arsenal,,-0.0
-Nathan Fraser,Wolves,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,,Wolves,False,Crystal Palace,,0.13
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Nathan Fraser,Wolves,Brighton,2022-11-05,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Arsenal,,0.36
+Nathan Fraser,Wolves,Arsenal,2022-11-12,True,0,0.0,0.33,0.0,0.02,0,3.0,1.0,0.0,0,0,2254,0.0,0.17,0.0,0.0,Wolves,False,Everton,,-0.63
+Nathan Fraser,Wolves,Everton,2022-12-26,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,5943,0.0,0.11,0.0,0.0,Wolves,True,Manchester United,,0.38
+Nathan Fraser,Wolves,Manchester United,2022-12-31,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,6857,0.0,0.08,0.0,0.0,Wolves,False,Aston Villa,,0.59
+Nathan Fraser,Wolves,Aston Villa,,False,0,,,,,0,,,0.0,0,0,6624,0.0,0.07,0.0,0.0,Wolves,True,West Ham,,0.63
+Nathan Fraser,Wolves,West Ham,,True,0,,,,,0,,,0.0,0,0,6998,0.0,0.07,0.0,0.0,Wolves,False,Manchester City,,-1.26
+Nathan Fraser,Wolves,Manchester City,,False,0,,,,,0,,,0.0,0,0,6974,0.0,0.0,0.0,0.0,Wolves,True,Liverpool,,-0.53
+Nathan Fraser,Wolves,Liverpool,,True,0,,,,,0,,,0.0,0,0,7446,0.0,0.0,0.0,0.0,Wolves,False,Southampton,,-1.07
+Nathan Fraser,Wolves,Southampton,,False,0,,,,,0,,,0.0,0,0,7767,0.0,0.0,0.0,0.0,Wolves,True,Bournemouth,,1.46
+Nathan Fraser,Wolves,Bournemouth,,True,0,,,,,0,,,0.0,0,0,8121,0.0,0.0,0.0,0.0,Wolves,False,Fulham,,1.37
+Nathan Fraser,Wolves,Fulham,,False,0,,,,,0,,,0.0,0,0,11463,0.0,0.0,0.0,0.0,Wolves,False,Liverpool,,-1.33
+Nathan Fraser,Wolves,Liverpool,,False,0,,,,,0,,,0.0,0,0,11463,0.0,0.0,0.0,0.0,Wolves,True,Tottenham,,1.07
+Nathan Fraser,Wolves,Tottenham,,True,0,,,,,0,,,0.0,0,0,9430,0.0,0.0,0.0,0.0,Wolves,False,Newcastle United,,-0.34
+Nathan Fraser,Wolves,Newcastle United,,False,0,,,,,0,,,0.0,0,0,9596,0.0,0.0,0.0,0.0,Wolves,True,Leicester City,,0.83
+Nathan Fraser,Wolves,Leicester City,,True,0,,,,,0,,,0.0,0,0,9407,0.0,0.0,0.0,0.0,Wolves,False,Nottingham Forest,,
+Nathan Fraser,Wolves,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,9451,0.0,0.0,0.0,0.0,Wolves,True,Chelsea,,-0.25
+Nathan Fraser,Wolves,Chelsea,2023-04-08,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,9443,0.0,0.0,0.0,0.0,Wolves,True,Brentford,,0.69
+Nathan Fraser,Wolves,Brentford,2023-04-15,True,0,0.0,0.0,0.0,0.06,0,0.0,1.0,0.0,0,0,9446,0.0,0.0,0.0,0.0,Wolves,False,Leeds United,,-0.8
+Nathan Fraser,Wolves,Leeds United,,False,0,,,,,0,,,0.0,0,0,9552,0.0,0.0,0.0,0.0,Wolves,True,Crystal Palace,,0.81
+Nathan Fraser,Wolves,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,9608,0.0,0.0,0.0,0.0,Wolves,False,Brighton,,-0.39
+Nathan Fraser,Wolves,Brighton,,False,0,,,,,0,,,0.0,0,0,10633,0.0,0.0,0.0,0.0,Wolves,True,Aston Villa,,0.55
+Nathan Fraser,Wolves,Aston Villa,,True,0,,,,,0,,,0.0,0,0,10343,0.0,0.0,0.0,0.0,Wolves,False,Manchester United,,-0.1
+Nathan Fraser,Wolves,Manchester United,,False,0,,,,,0,,,0.0,0,0,10213,0.0,0.0,0.0,0.0,Wolves,True,Everton,,0.34
+Nathan Fraser,Wolves,Everton,2023-05-20,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,10750,0.0,0.0,0.0,0.0,Wolves,False,Arsenal,,-0.0
+Nathan Fraser,Wolves,Arsenal,,False,0,,,,,0,,,0.0,0,0,10870,0.0,0.0,0.0,,Wolves,False,Crystal Palace,,0.13

@@ -1,23 +1,23 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Myles Lewis-Skelly,Arsenal,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Liverpool,,-1.01
-Myles Lewis-Skelly,Arsenal,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,West Ham,,0.49
-Myles Lewis-Skelly,Arsenal,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Fulham,,0.86
-Myles Lewis-Skelly,Arsenal,Fulham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Crystal Palace,,0.88
-Myles Lewis-Skelly,Arsenal,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Nottingham Forest,,-0.55
-Myles Lewis-Skelly,Arsenal,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Liverpool,,0.18
-Myles Lewis-Skelly,Arsenal,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,West Ham,,-0.22
-Myles Lewis-Skelly,Arsenal,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Burnley,,0.0
-Myles Lewis-Skelly,Arsenal,Burnley,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Newcastle United,,0.55
-Myles Lewis-Skelly,Arsenal,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Sheffield,,-0.61
-Myles Lewis-Skelly,Arsenal,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Brentford,,0.79
-Myles Lewis-Skelly,Arsenal,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Manchester City,,-1.32
-Myles Lewis-Skelly,Arsenal,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Luton,,
-Myles Lewis-Skelly,Arsenal,Luton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Brighton,,-0.6
-Myles Lewis-Skelly,Arsenal,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Aston Villa,,0.64
-Myles Lewis-Skelly,Arsenal,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Wolverhampton,,-0.52
-Myles Lewis-Skelly,Arsenal,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Chelsea,,-0.25
-Myles Lewis-Skelly,Arsenal,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Tottenham,,-0.36
-Myles Lewis-Skelly,Arsenal,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Bournemouth,,1.22
-Myles Lewis-Skelly,Arsenal,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Manchester United,,-0.63
-Myles Lewis-Skelly,Arsenal,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Arsenal,True,Everton,,0.53
-Myles Lewis-Skelly,Arsenal,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,,Arsenal,True,Wolverhampton,,0.05
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Myles Lewis-Skelly,Arsenal,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0,Arsenal,False,Liverpool,,-1.01
+Myles Lewis-Skelly,Arsenal,Liverpool,,False,0,,,,,0,,,0.0,0,0,18,0.0,0.0,0.0,0.0,Arsenal,True,West Ham,,0.49
+Myles Lewis-Skelly,Arsenal,West Ham,,True,0,,,,,0,,,0.0,0,0,27,0.0,0.0,0.0,0.0,Arsenal,False,Fulham,,0.86
+Myles Lewis-Skelly,Arsenal,Fulham,,False,0,,,,,0,,,0.0,0,0,36,0.0,0.0,0.0,0.0,Arsenal,True,Crystal Palace,,0.88
+Myles Lewis-Skelly,Arsenal,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,57,0.0,0.0,0.0,0.0,Arsenal,False,Nottingham Forest,,-0.55
+Myles Lewis-Skelly,Arsenal,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,84,0.0,0.0,0.0,0.0,Arsenal,True,Liverpool,,0.18
+Myles Lewis-Skelly,Arsenal,Liverpool,,True,0,,,,,0,,,0.0,0,0,96,0.0,0.0,0.0,0.0,Arsenal,False,West Ham,,-0.22
+Myles Lewis-Skelly,Arsenal,West Ham,,False,0,,,,,0,,,0.0,0,0,150,0.0,0.0,0.0,0.0,Arsenal,False,Burnley,,0.0
+Myles Lewis-Skelly,Arsenal,Burnley,,False,0,,,,,0,,,0.0,0,0,269,0.0,0.0,0.0,0.0,Arsenal,True,Newcastle United,,0.55
+Myles Lewis-Skelly,Arsenal,Newcastle United,,True,0,,,,,0,,,0.0,0,0,267,0.0,0.0,0.0,0.0,Arsenal,False,Sheffield,,-0.61
+Myles Lewis-Skelly,Arsenal,Sheffield,,False,0,,,,,0,,,0.0,0,0,260,0.0,0.0,0.0,0.0,Arsenal,True,Brentford,,0.79
+Myles Lewis-Skelly,Arsenal,Brentford,,True,0,,,,,0,,,0.0,0,0,263,0.0,0.0,0.0,0.0,Arsenal,False,Manchester City,,-1.32
+Myles Lewis-Skelly,Arsenal,Manchester City,,False,0,,,,,0,,,0.0,0,0,295,0.0,0.0,0.0,0.0,Arsenal,True,Luton,,
+Myles Lewis-Skelly,Arsenal,Luton,,True,0,,,,,0,,,0.0,0,0,309,0.0,0.0,0.0,0.0,Arsenal,False,Brighton,,-0.6
+Myles Lewis-Skelly,Arsenal,Brighton,,False,0,,,,,0,,,0.0,0,0,312,0.0,0.0,0.0,0.0,Arsenal,True,Aston Villa,,0.64
+Myles Lewis-Skelly,Arsenal,Aston Villa,,True,0,,,,,0,,,0.0,0,0,330,0.0,0.0,0.0,0.0,Arsenal,False,Wolverhampton,,-0.52
+Myles Lewis-Skelly,Arsenal,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,344,0.0,0.0,0.0,0.0,Arsenal,True,Chelsea,,-0.25
+Myles Lewis-Skelly,Arsenal,Chelsea,,True,0,,,,,0,,,0.0,0,0,344,0.0,0.0,0.0,0.0,Arsenal,False,Tottenham,,-0.36
+Myles Lewis-Skelly,Arsenal,Tottenham,,False,0,,,,,0,,,0.0,0,0,351,0.0,0.0,0.0,0.0,Arsenal,True,Bournemouth,,1.22
+Myles Lewis-Skelly,Arsenal,Bournemouth,,True,0,,,,,0,,,0.0,0,0,359,0.0,0.0,0.0,0.0,Arsenal,False,Manchester United,,-0.63
+Myles Lewis-Skelly,Arsenal,Manchester United,,False,0,,,,,0,,,0.0,0,0,392,0.0,0.0,0.0,0.0,Arsenal,True,Everton,,0.53
+Myles Lewis-Skelly,Arsenal,Everton,,True,0,,,,,0,,,0.0,0,0,411,0.0,0.0,0.0,,Arsenal,True,Wolverhampton,,0.05

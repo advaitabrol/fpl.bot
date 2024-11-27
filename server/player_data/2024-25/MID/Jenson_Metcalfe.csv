@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jenson Metcalfe,Everton,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Everton,False,Tottenham,,-0.3
-Jenson Metcalfe,Everton,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Everton,True,Bournemouth,,0.84
-Jenson Metcalfe,Everton,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Everton,False,Aston Villa,,0.11
-Jenson Metcalfe,Everton,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Everton,False,Leicester City,,-0.22
-Jenson Metcalfe,Everton,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Everton,True,Crystal Palace,,0.88
-Jenson Metcalfe,Everton,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Everton,True,Newcastle United,,0.67
-Jenson Metcalfe,Everton,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Everton,False,Ipswich Town,,
-Jenson Metcalfe,Everton,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Everton,True,Fulham,,0.27
-Jenson Metcalfe,Everton,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Everton,False,Southampton,,-0.31
-Jenson Metcalfe,Everton,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Everton,False,West Ham,,-0.34
-Jenson Metcalfe,Everton,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,,Everton,True,Brentford,,0.54
-,Everton,,,,,,,,,,,,,,,,,,,,,,,,Everton,False,Manchester United,,-0.41
-,Everton,,,,,,,,,,,,,,,,,,,,,,,,Everton,True,Wolverhampton,,-0.08
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jenson Metcalfe,Everton,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Everton,False,Tottenham,,-0.3
+Jenson Metcalfe,Everton,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,598.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Everton,True,Bournemouth,,0.84
+Jenson Metcalfe,Everton,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1131.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Everton,False,Aston Villa,,0.11
+Jenson Metcalfe,Everton,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,811.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Everton,False,Leicester City,,-0.22
+Jenson Metcalfe,Everton,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,739.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Everton,True,Crystal Palace,,0.88
+Jenson Metcalfe,Everton,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,662.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Everton,True,Newcastle United,,0.67
+Jenson Metcalfe,Everton,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,607.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Everton,False,Ipswich Town,,
+Jenson Metcalfe,Everton,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,584.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Everton,True,Fulham,,0.27
+Jenson Metcalfe,Everton,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,559.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Everton,False,Southampton,,-0.31
+Jenson Metcalfe,Everton,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,546.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Everton,False,West Ham,,-0.34
+Jenson Metcalfe,Everton,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,534.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,,Everton,True,Brentford,,0.54
+,Everton,,,,,,,,,,,,,,,,,,,,,,,,,Everton,False,Manchester United,,-0.41
+,Everton,,,,,,,,,,,,,,,,,,,,,,,,,Everton,True,Wolverhampton,,-0.08

@@ -1,12 +1,12 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Sam Johnstone,Crystal Palace,Brentford,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.3,41,27.17,0.0,Crystal Palace,True,West Ham,,0.48
-Sam Johnstone,Crystal Palace,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.3,41,27.17,3.0,Wolves,False,Nottingham Forest,,-0.54
-Sam Johnstone,Wolves,Nottingham Forest,2024-08-31,False,90,1,1.04,4,0,3,0,0,0.0,1,1.0,0,30.0,0.0,4.0,0.3,41,27.17,2.0,Wolves,True,Newcastle United,,0.67
-Sam Johnstone,Wolves,Newcastle United,2024-09-15,True,90,2,1.21,4,0,2,0,0,0.05,1,1.25,0,45.0,0.0,4.0,0.3,41,27.17,1.0,Wolves,False,Aston Villa,,0.11
-Sam Johnstone,Wolves,Aston Villa,2024-09-21,False,90,3,1.73,0,0,1,0,0,0.0,1,1.2,0,54.0,0.0,2.67,0.3,41,27.17,2.0,Wolves,True,Liverpool,,0.24
-Sam Johnstone,Wolves,Liverpool,2024-09-28,True,90,2,2.54,4,0,2,0,0,0.0,1,1.6,0,60.0,0.0,3.0,0.3,41,27.17,2.0,Wolves,False,Brentford,,-0.15
-Sam Johnstone,Wolves,Brentford,2024-10-05,False,90,5,4.25,7,0,2,0,0,0.0,1,2.0,0,64.29,0.0,3.8,0.3,41,27.17,0.0,Wolves,True,Manchester City,,-1.18
-Sam Johnstone,Wolves,Manchester City,,True,0,0,0.0,0,0,0,0,0,,0,1.4,0,56.25,0.0,3.8,0.3,41,27.17,0.0,Wolves,False,Brighton,,-0.61
-Sam Johnstone,Wolves,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,1.0,0,50.0,0.0,3.8,0.3,41,27.17,0.0,Wolves,True,Crystal Palace,,0.88
-Sam Johnstone,Wolves,Crystal Palace,,True,0,0,0.0,0,0,0,0,0,,0,0.8,0,45.0,0.0,3.8,0.3,41,27.17,0.0,Wolves,True,Southampton,,0.24
-Sam Johnstone,Wolves,Southampton,,True,0,0,0.0,0,0,0,0,0,,0,0.4,0,40.91,0.0,3.8,0.3,41,27.17,,,,,,
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Sam Johnstone,Crystal Palace,Brentford,,False,0,0,0.0,0,0,0,0,0,,0,43430,0.0,0,0.0,0.0,0.0,0.3,41,27.17,0.0,Crystal Palace,True,West Ham,,0.48
+Sam Johnstone,Crystal Palace,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,41187,0.0,0,0.0,0.0,0.0,0.3,41,27.17,3.0,Wolves,False,Nottingham Forest,,-0.54
+Sam Johnstone,Wolves,Nottingham Forest,2024-08-31,False,90,1,1.04,4,0,3,0,0,0.0,1,38643,1.0,0,30.0,0.0,4.0,0.3,41,27.17,2.0,Wolves,True,Newcastle United,,0.67
+Sam Johnstone,Wolves,Newcastle United,2024-09-15,True,90,2,1.21,4,0,2,0,0,0.05,1,47098,1.25,0,45.0,0.0,4.0,0.3,41,27.17,1.0,Wolves,False,Aston Villa,,0.11
+Sam Johnstone,Wolves,Aston Villa,2024-09-21,False,90,3,1.73,0,0,1,0,0,0.0,1,48928,1.2,0,54.0,0.0,2.67,0.3,41,27.17,2.0,Wolves,True,Liverpool,,0.24
+Sam Johnstone,Wolves,Liverpool,2024-09-28,True,90,2,2.54,4,0,2,0,0,0.0,1,47561,1.6,0,60.0,0.0,3.0,0.3,41,27.17,2.0,Wolves,False,Brentford,,-0.15
+Sam Johnstone,Wolves,Brentford,2024-10-05,False,90,5,4.25,7,0,2,0,0,0.0,1,54120,2.0,0,64.29,0.0,3.8,0.3,41,27.17,0.0,Wolves,True,Manchester City,,-1.18
+Sam Johnstone,Wolves,Manchester City,,True,0,0,0.0,0,0,0,0,0,,0,52725,1.4,0,56.25,0.0,3.8,0.3,41,27.17,0.0,Wolves,False,Brighton,,-0.61
+Sam Johnstone,Wolves,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,49576,1.0,0,50.0,0.0,3.8,0.3,41,27.17,0.0,Wolves,True,Crystal Palace,,0.88
+Sam Johnstone,Wolves,Crystal Palace,,True,0,0,0.0,0,0,0,0,0,,0,46804,0.8,0,45.0,0.0,3.8,0.3,41,27.17,0.0,Wolves,True,Southampton,,0.24
+Sam Johnstone,Wolves,Southampton,,True,0,0,0.0,0,0,0,0,0,,0,46472,0.4,0,40.91,0.0,3.8,0.3,41,27.17,,,,,,

@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Mats Wieffer,Brighton,Everton,2024-08-17,False,90.0,0.0,0.0,1.0,0.11,6.0,0.0,1.0,4.7,0.0,1.0,6.0,1.0,90.0,0.0,Brighton,True,Manchester United,,0.39
-Mats Wieffer,Brighton,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,3.0,0.5,45.0,0.0,Brighton,False,Arsenal,,-0.56
-Mats Wieffer,Brighton,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,2.0,0.33,30.0,0.0,Brighton,True,Ipswich Town,,
-Mats Wieffer,Brighton,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1.5,0.25,22.5,1.0,Brighton,True,Nottingham Forest,,1.2
-Mats Wieffer,Brighton,Nottingham Forest,2024-09-22,True,28.0,0.0,0.0,0.0,0.03,1.0,0.0,1.0,2.4,0.0,0.0,1.4,0.2,23.6,1.0,Brighton,False,Chelsea,,-0.9
-Mats Wieffer,Brighton,Chelsea,2024-09-28,False,56.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,2.1,0.0,1.0,0.4,0.0,29.0,1.0,Brighton,True,Tottenham,,0.74
-Mats Wieffer,Brighton,Tottenham,2024-10-06,True,16.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,0.6,0.0,27.14,1.0,Brighton,False,Newcastle United,,-0.44
-Mats Wieffer,Brighton,Newcastle United,2024-10-19,False,19.0,0.0,0.34,0.0,0.0,1.0,1.0,0.0,2.4,0.0,0.0,0.8,0.07,26.12,1.0,Brighton,True,Wolverhampton,,-0.08
-Mats Wieffer,Brighton,Wolverhampton,2024-10-26,True,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.07,24.33,1.0,Brighton,False,Liverpool,,-1.08
-Mats Wieffer,Brighton,Liverpool,2024-11-02,False,14.0,0.0,0.02,0.0,0.07,1.0,1.0,1.0,2.3,0.0,0.0,1.0,0.07,23.3,0.0,Brighton,True,Manchester City,,-1.18
-Mats Wieffer,Brighton,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.8,0.07,21.18,,Brighton,False,Bournemouth,,-0.04
-,Brighton,,,,,,,,,,,,,,,,,,,Brighton,True,Southampton,,0.24
-,Brighton,,,,,,,,,,,,,,,,,,,Brighton,False,Fulham,,0.53
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Mats Wieffer,Brighton,Everton,2024-08-17,False,90.0,0.0,0.0,1.0,0.11,6.0,0.0,1.0,4.7,0.0,1.0,4093.0,6.0,1.0,90.0,0.0,Brighton,True,Manchester United,,0.39
+Mats Wieffer,Brighton,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,17112.0,3.0,0.5,45.0,0.0,Brighton,False,Arsenal,,-0.56
+Mats Wieffer,Brighton,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,12431.0,2.0,0.33,30.0,0.0,Brighton,True,Ipswich Town,,
+Mats Wieffer,Brighton,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,9069.0,1.5,0.25,22.5,1.0,Brighton,True,Nottingham Forest,,1.2
+Mats Wieffer,Brighton,Nottingham Forest,2024-09-22,True,28.0,0.0,0.0,0.0,0.03,1.0,0.0,1.0,2.4,0.0,0.0,8372.0,1.4,0.2,23.6,1.0,Brighton,False,Chelsea,,-0.9
+Mats Wieffer,Brighton,Chelsea,2024-09-28,False,56.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,2.1,0.0,1.0,7980.0,0.4,0.0,29.0,1.0,Brighton,True,Tottenham,,0.74
+Mats Wieffer,Brighton,Tottenham,2024-10-06,True,16.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,7619.0,0.6,0.0,27.14,1.0,Brighton,False,Newcastle United,,-0.44
+Mats Wieffer,Brighton,Newcastle United,2024-10-19,False,19.0,0.0,0.34,0.0,0.0,1.0,1.0,0.0,2.4,0.0,0.0,7370.0,0.8,0.07,26.12,1.0,Brighton,True,Wolverhampton,,-0.08
+Mats Wieffer,Brighton,Wolverhampton,2024-10-26,True,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7304.0,1.0,0.07,24.33,1.0,Brighton,False,Liverpool,,-1.08
+Mats Wieffer,Brighton,Liverpool,2024-11-02,False,14.0,0.0,0.02,0.0,0.07,1.0,1.0,1.0,2.3,0.0,0.0,7204.0,1.0,0.07,23.3,0.0,Brighton,True,Manchester City,,-1.18
+Mats Wieffer,Brighton,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,6956.0,0.8,0.07,21.18,,Brighton,False,Bournemouth,,-0.04
+,Brighton,,,,,,,,,,,,,,,,,,,,Brighton,True,Southampton,,0.24
+,Brighton,,,,,,,,,,,,,,,,,,,,Brighton,False,Fulham,,0.53

@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Isaac Hayden,Newcastle,Southampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle,False,Bournemouth,,-0.04
-Isaac Hayden,Newcastle,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle,True,Tottenham,,0.74
-Isaac Hayden,Newcastle,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle,False,Wolverhampton,,-0.53
-Isaac Hayden,Newcastle,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle,False,Fulham,,0.53
-Isaac Hayden,Newcastle,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle,True,Manchester City,,-1.18
-Isaac Hayden,Newcastle,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle,False,Everton,,-0.39
-Isaac Hayden,Newcastle,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle,True,Brighton,,-0.42
-Isaac Hayden,Newcastle,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle,False,Chelsea,,-0.9
-Isaac Hayden,Newcastle,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle,True,Arsenal,,-0.32
-Isaac Hayden,Newcastle,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle,False,Nottingham Forest,,-0.54
-Isaac Hayden,Newcastle,Nottingham Forest,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Newcastle,True,West Ham,,0.48
-,Newcastle,,,,,,,,,,,,,,,,,,,,,,,,Newcastle,False,Crystal Palace,,0.2
-,Newcastle,,,,,,,,,,,,,,,,,,,,,,,,Newcastle,True,Liverpool,,0.24
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Isaac Hayden,Newcastle,Southampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,5826.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle,False,Bournemouth,,-0.04
+Isaac Hayden,Newcastle,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,7113.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle,True,Tottenham,,0.74
+Isaac Hayden,Newcastle,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,7411.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle,False,Wolverhampton,,-0.53
+Isaac Hayden,Newcastle,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,8775.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle,False,Fulham,,0.53
+Isaac Hayden,Newcastle,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,8974.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle,True,Manchester City,,-1.18
+Isaac Hayden,Newcastle,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,8875.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle,False,Everton,,-0.39
+Isaac Hayden,Newcastle,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,8773.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle,True,Brighton,,-0.42
+Isaac Hayden,Newcastle,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,8678.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle,False,Chelsea,,-0.9
+Isaac Hayden,Newcastle,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,8599.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle,True,Arsenal,,-0.32
+Isaac Hayden,Newcastle,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,8837.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle,False,Nottingham Forest,,-0.54
+Isaac Hayden,Newcastle,Nottingham Forest,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,8426.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Newcastle,True,West Ham,,0.48
+,Newcastle,,,,,,,,,,,,,,,,,,,,,,,,,Newcastle,False,Crystal Palace,,0.2
+,Newcastle,,,,,,,,,,,,,,,,,,,,,,,,,Newcastle,True,Liverpool,,0.24

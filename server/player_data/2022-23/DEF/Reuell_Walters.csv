@@ -1,12 +1,12 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Reuell Walters,Arsenal,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,True,Leicester City,,0.83
-Reuell Walters,Arsenal,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,False,Liverpool,,-1.33
-Reuell Walters,Arsenal,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,False,West Ham,,0.14
-Reuell Walters,Arsenal,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,True,Southampton,,-0.38
-Reuell Walters,Arsenal,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,False,Manchester City,,-1.26
-Reuell Walters,Arsenal,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,True,Chelsea,,-0.25
-Reuell Walters,Arsenal,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,False,Newcastle United,,-0.34
-Reuell Walters,Arsenal,Newcastle United,2023-05-07,False,0,0.0,0.0,0.0,0.02,0,0.0,1.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,True,Brighton,,-0.71
-Reuell Walters,Arsenal,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,False,Nottingham Forest,,
-Reuell Walters,Arsenal,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,True,Wolverhampton,,-0.48
-Reuell Walters,Arsenal,Wolverhampton,2023-05-28,True,0,0.0,0.02,1.0,0.58,0,1.0,1.0,0.0,0,0,0,0.0,0,0.0,0.2,0.0,0,0.0,Arsenal,True,Burnley,,0.39
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Reuell Walters,Arsenal,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0,0.0,0.0,0.0,0,0.0,Arsenal,True,Leicester City,,0.83
+Reuell Walters,Arsenal,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,158,0.0,0.0,0.0,0,0.0,Arsenal,False,Liverpool,,-1.33
+Reuell Walters,Arsenal,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,271,0.0,0.0,0.0,0,0.0,Arsenal,False,West Ham,,0.14
+Reuell Walters,Arsenal,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,392,0.0,0.0,0.0,0,0.0,Arsenal,True,Southampton,,-0.38
+Reuell Walters,Arsenal,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,462,0.0,0.0,0.0,0,0.0,Arsenal,False,Manchester City,,-1.26
+Reuell Walters,Arsenal,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,536,0.0,0.0,0.0,0,0.0,Arsenal,True,Chelsea,,-0.25
+Reuell Walters,Arsenal,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,634,0.0,0.0,0.0,0,0.0,Arsenal,False,Newcastle United,,-0.34
+Reuell Walters,Arsenal,Newcastle United,2023-05-07,False,0,0.0,0.0,0.0,0.02,0,0.0,1.0,0.0,0,0,0,0.0,0,766,0.0,0.0,0.0,0,0.0,Arsenal,True,Brighton,,-0.71
+Reuell Walters,Arsenal,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,878,0.0,0.0,0.0,0,0.0,Arsenal,False,Nottingham Forest,,
+Reuell Walters,Arsenal,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1016,0.0,0.0,0.0,0,0.0,Arsenal,True,Wolverhampton,,-0.48
+Reuell Walters,Arsenal,Wolverhampton,2023-05-28,True,0,0.0,0.02,1.0,0.58,0,1.0,1.0,0.0,0,0,0,0.0,0,1118,0.0,0.2,0.0,0,0.0,Arsenal,True,Burnley,,0.39

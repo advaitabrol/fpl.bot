@@ -1,18 +1,18 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jeremiah Chilokoa-Mullen,Leeds,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Leeds,False,Everton,,-0.63
-Jeremiah Chilokoa-Mullen,Leeds,Everton,2023-02-18,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Leeds,True,Southampton,,-0.38
-Jeremiah Chilokoa-Mullen,Leeds,Southampton,2023-02-25,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Leeds,False,Chelsea,,-0.72
-Jeremiah Chilokoa-Mullen,Leeds,Chelsea,2023-03-04,False,0,0.0,0.0,0.0,0.03,0,0.0,1.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Leeds,True,Brighton,,-0.71
-Jeremiah Chilokoa-Mullen,Leeds,Brighton,2023-03-11,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Leeds,False,Wolverhampton,,-0.46
-Jeremiah Chilokoa-Mullen,Leeds,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Leeds,False,Arsenal,,-0.0
-Jeremiah Chilokoa-Mullen,Leeds,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Leeds,True,Nottingham Forest,,
-Jeremiah Chilokoa-Mullen,Leeds,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Leeds,True,Crystal Palace,,0.81
-Jeremiah Chilokoa-Mullen,Leeds,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Leeds,True,Liverpool,,-0.53
-Jeremiah Chilokoa-Mullen,Leeds,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Leeds,False,Fulham,,1.37
-Jeremiah Chilokoa-Mullen,Leeds,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Leeds,True,Leeds United,,-0.79
-Jeremiah Chilokoa-Mullen,Leeds,Leeds United,2023-04-25,True,0,0.0,0.13,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,0.0,0.03,0.0,0,0.0,Leeds,False,Bournemouth,,0.19
-Jeremiah Chilokoa-Mullen,Leeds,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.03,0.0,0,0.0,Leeds,False,Manchester City,,-1.26
-Jeremiah Chilokoa-Mullen,Leeds,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.03,0.0,0,0.0,Leeds,True,Newcastle United,,0.73
-Jeremiah Chilokoa-Mullen,Leeds,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.03,0.0,0,0.0,Leeds,False,West Ham,,0.14
-Jeremiah Chilokoa-Mullen,Leeds,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.03,0.0,0,0.0,Leeds,True,Tottenham,,1.07
-Jeremiah Chilokoa-Mullen,Leeds,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,,Brentford,True,Tottenham,,1.07
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jeremiah Chilokoa-Mullen,Leeds,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0,0.0,0.0,0.0,0,0.0,Leeds,False,Everton,,-0.63
+Jeremiah Chilokoa-Mullen,Leeds,Everton,2023-02-18,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,116,0.0,0.0,0.0,0,0.0,Leeds,True,Southampton,,-0.38
+Jeremiah Chilokoa-Mullen,Leeds,Southampton,2023-02-25,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,385,0.0,0.0,0.0,0,0.0,Leeds,False,Chelsea,,-0.72
+Jeremiah Chilokoa-Mullen,Leeds,Chelsea,2023-03-04,False,0,0.0,0.0,0.0,0.03,0,0.0,1.0,0.0,0,0,0,0.0,0,367,0.0,0.0,0.0,0,0.0,Leeds,True,Brighton,,-0.71
+Jeremiah Chilokoa-Mullen,Leeds,Brighton,2023-03-11,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,510,0.0,0.0,0.0,0,0.0,Leeds,False,Wolverhampton,,-0.46
+Jeremiah Chilokoa-Mullen,Leeds,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,602,0.0,0.0,0.0,0,0.0,Leeds,False,Arsenal,,-0.0
+Jeremiah Chilokoa-Mullen,Leeds,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,834,0.0,0.0,0.0,0,0.0,Leeds,True,Nottingham Forest,,
+Jeremiah Chilokoa-Mullen,Leeds,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,834,0.0,0.0,0.0,0,0.0,Leeds,True,Crystal Palace,,0.81
+Jeremiah Chilokoa-Mullen,Leeds,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,747,0.0,0.0,0.0,0,0.0,Leeds,True,Liverpool,,-0.53
+Jeremiah Chilokoa-Mullen,Leeds,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,822,0.0,0.0,0.0,0,0.0,Leeds,False,Fulham,,1.37
+Jeremiah Chilokoa-Mullen,Leeds,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,930,0.0,0.0,0.0,0,0.0,Leeds,True,Leeds United,,-0.79
+Jeremiah Chilokoa-Mullen,Leeds,Leeds United,2023-04-25,True,0,0.0,0.13,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,951,0.0,0.03,0.0,0,0.0,Leeds,False,Bournemouth,,0.19
+Jeremiah Chilokoa-Mullen,Leeds,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1013,0.0,0.03,0.0,0,0.0,Leeds,False,Manchester City,,-1.26
+Jeremiah Chilokoa-Mullen,Leeds,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1483,0.0,0.03,0.0,0,0.0,Leeds,True,Newcastle United,,0.73
+Jeremiah Chilokoa-Mullen,Leeds,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1387,0.0,0.03,0.0,0,0.0,Leeds,False,West Ham,,0.14
+Jeremiah Chilokoa-Mullen,Leeds,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1286,0.0,0.03,0.0,0,0.0,Leeds,True,Tottenham,,1.07
+Jeremiah Chilokoa-Mullen,Leeds,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1326,0.0,0.0,0.0,0,,Brentford,True,Tottenham,,1.07

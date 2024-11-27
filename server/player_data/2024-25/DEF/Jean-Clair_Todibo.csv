@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jean-Clair Todibo,West Ham,Aston Villa,2024-08-17,True,5.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,0.0,0.07,0.0,1.0,0.0,5.0,0.0,1.0,West Ham,False,Crystal Palace,,0.2
-Jean-Clair Todibo,West Ham,Crystal Palace,2024-08-24,False,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,0.0,0.03,0.0,1.0,0.0,3.5,0.0,0.0,West Ham,True,Manchester City,,-1.18
-Jean-Clair Todibo,West Ham,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.67,0.0,2.33,0.0,0.0,West Ham,False,Fulham,,0.53
-Jean-Clair Todibo,West Ham,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,1.75,0.0,0.0,West Ham,True,Chelsea,,0.0
-Jean-Clair Todibo,West Ham,Chelsea,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,1.4,0.0,2.0,West Ham,False,Brentford,,-0.15
-Jean-Clair Todibo,West Ham,Brentford,2024-09-28,False,90.0,0.0,0.1,0.0,0.0,2.0,2.0,0.0,3.2,0.0,0.0,1.0,0.37,1.0,0.6,0.02,16.17,0.0,2.0,West Ham,True,Ipswich Town,,
-Jean-Clair Todibo,West Ham,Ipswich Town,2024-10-05,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,1.0,0.65,1.0,0.8,0.02,26.71,0.0,0.0,West Ham,False,Tottenham,,-0.3
-Jean-Clair Todibo,West Ham,Tottenham,2024-10-19,False,90.0,0.0,0.0,0.0,0.01,0.0,0.0,1.0,4.0,0.0,0.0,4.0,1.92,1.0,0.8,0.02,34.62,0.0,1.0,West Ham,True,Manchester United,,0.39
-Jean-Clair Todibo,West Ham,Manchester United,2024-10-27,True,45.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.2,0.0,0.0,1.0,0.63,0.0,1.0,0.02,35.78,0.0,1.0,West Ham,False,Nottingham Forest,,-0.54
-Jean-Clair Todibo,West Ham,Nottingham Forest,2024-11-02,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.4,0.0,0.0,3.0,2.17,1.0,1.2,0.02,41.2,0.0,6.0,West Ham,True,Everton,,0.61
-Jean-Clair Todibo,West Ham,Everton,2024-11-09,True,90.0,0.0,0.0,0.0,0.02,6.0,0.0,1.0,2.7,0.0,1.0,0.0,1.11,1.0,2.0,0.0,45.64,0.12,,West Ham,False,Newcastle United,,-0.44
-,West Ham,,,,,,,,,,,,,,,,,,,,,,,West Ham,True,Arsenal,,-0.32
-,West Ham,,,,,,,,,,,,,,,,,,,,,,,West Ham,False,Leicester City,,-0.22
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jean-Clair Todibo,West Ham,Aston Villa,2024-08-17,True,5.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,0.0,0.07,0.0,39237.0,1.0,0.0,5.0,0.0,1.0,West Ham,False,Crystal Palace,,0.2
+Jean-Clair Todibo,West Ham,Crystal Palace,2024-08-24,False,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,0.0,0.03,0.0,43788.0,1.0,0.0,3.5,0.0,0.0,West Ham,True,Manchester City,,-1.18
+Jean-Clair Todibo,West Ham,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,39794.0,0.67,0.0,2.33,0.0,0.0,West Ham,False,Fulham,,0.53
+Jean-Clair Todibo,West Ham,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,37733.0,0.5,0.0,1.75,0.0,0.0,West Ham,True,Chelsea,,0.0
+Jean-Clair Todibo,West Ham,Chelsea,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,36088.0,0.4,0.0,1.4,0.0,2.0,West Ham,False,Brentford,,-0.15
+Jean-Clair Todibo,West Ham,Brentford,2024-09-28,False,90.0,0.0,0.1,0.0,0.0,2.0,2.0,0.0,3.2,0.0,0.0,1.0,0.37,1.0,34162.0,0.6,0.02,16.17,0.0,2.0,West Ham,True,Ipswich Town,,
+Jean-Clair Todibo,West Ham,Ipswich Town,2024-10-05,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0.0,1.0,0.65,1.0,34677.0,0.8,0.02,26.71,0.0,0.0,West Ham,False,Tottenham,,-0.3
+Jean-Clair Todibo,West Ham,Tottenham,2024-10-19,False,90.0,0.0,0.0,0.0,0.01,0.0,0.0,1.0,4.0,0.0,0.0,4.0,1.92,1.0,34172.0,0.8,0.02,34.62,0.0,1.0,West Ham,True,Manchester United,,0.39
+Jean-Clair Todibo,West Ham,Manchester United,2024-10-27,True,45.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.2,0.0,0.0,1.0,0.63,0.0,33301.0,1.0,0.02,35.78,0.0,1.0,West Ham,False,Nottingham Forest,,-0.54
+Jean-Clair Todibo,West Ham,Nottingham Forest,2024-11-02,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.4,0.0,0.0,3.0,2.17,1.0,32749.0,1.2,0.02,41.2,0.0,6.0,West Ham,True,Everton,,0.61
+Jean-Clair Todibo,West Ham,Everton,2024-11-09,True,90.0,0.0,0.0,0.0,0.02,6.0,0.0,1.0,2.7,0.0,1.0,0.0,1.11,1.0,32500.0,2.0,0.0,45.64,0.12,,West Ham,False,Newcastle United,,-0.44
+,West Ham,,,,,,,,,,,,,,,,,,,,,,,,West Ham,True,Arsenal,,-0.32
+,West Ham,,,,,,,,,,,,,,,,,,,,,,,,West Ham,False,Leicester City,,-0.22

@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Steven Benda,Fulham,Manchester United,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham,True,Leicester City,,0.47
-Steven Benda,Fulham,Leicester City,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham,False,Ipswich Town,,
-Steven Benda,Fulham,Ipswich Town,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham,True,West Ham,,0.48
-Steven Benda,Fulham,West Ham,2024-09-14,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham,True,Newcastle United,,0.67
-Steven Benda,Fulham,Newcastle United,2024-09-21,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham,False,Nottingham Forest,,-0.54
-Steven Benda,Fulham,Nottingham Forest,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham,False,Manchester City,,-1.51
-Steven Benda,Fulham,Manchester City,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham,True,Aston Villa,,0.66
-Steven Benda,Fulham,Aston Villa,2024-10-19,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham,False,Everton,,-0.39
-Steven Benda,Fulham,Everton,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham,True,Brentford,,0.54
-Steven Benda,Fulham,Brentford,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham,False,Crystal Palace,,0.2
-Steven Benda,Fulham,Crystal Palace,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Fulham,True,Wolverhampton,,-0.08
-,Fulham,,,,,,,,,,,,,,,,,,,,,,,Fulham,False,Tottenham,,-0.3
-,Fulham,,,,,,,,,,,,,,,,,,,,,,,Fulham,True,Brighton,,-0.42
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Steven Benda,Fulham,Manchester United,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,38417.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham,True,Leicester City,,0.47
+Steven Benda,Fulham,Leicester City,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,46108.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham,False,Ipswich Town,,
+Steven Benda,Fulham,Ipswich Town,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,49305.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham,True,West Ham,,0.48
+Steven Benda,Fulham,West Ham,2024-09-14,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,49379.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham,True,Newcastle United,,0.67
+Steven Benda,Fulham,Newcastle United,2024-09-21,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,49127.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham,False,Nottingham Forest,,-0.54
+Steven Benda,Fulham,Nottingham Forest,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,48781.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham,False,Manchester City,,-1.51
+Steven Benda,Fulham,Manchester City,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,49398.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham,True,Aston Villa,,0.66
+Steven Benda,Fulham,Aston Villa,2024-10-19,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,49820.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham,False,Everton,,-0.39
+Steven Benda,Fulham,Everton,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,49755.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham,True,Brentford,,0.54
+Steven Benda,Fulham,Brentford,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,49370.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham,False,Crystal Palace,,0.2
+Steven Benda,Fulham,Crystal Palace,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,48990.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Fulham,True,Wolverhampton,,-0.08
+,Fulham,,,,,,,,,,,,,,,,,,,,,,,,Fulham,False,Tottenham,,-0.3
+,Fulham,,,,,,,,,,,,,,,,,,,,,,,,Fulham,True,Brighton,,-0.42

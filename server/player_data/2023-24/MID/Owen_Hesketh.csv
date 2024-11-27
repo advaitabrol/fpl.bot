@@ -1,22 +1,22 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Owen Hesketh,Wolves,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Brentford,,-0.53
-Owen Hesketh,Wolves,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Everton,,0.53
-Owen Hesketh,Wolves,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Brighton,,-0.6
-Owen Hesketh,Wolves,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Manchester United,,0.38
-Owen Hesketh,Wolves,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Chelsea,,-0.85
-Owen Hesketh,Wolves,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Brentford,,0.79
-Owen Hesketh,Wolves,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Tottenham,,-0.36
-Owen Hesketh,Wolves,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Sheffield,,0.68
-Owen Hesketh,Wolves,Sheffield,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Newcastle United,,-0.41
-Owen Hesketh,Wolves,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Fulham,,-0.13
-Owen Hesketh,Wolves,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Aston Villa,,0.29
-Owen Hesketh,Wolves,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Burnley,,0.0
-Owen Hesketh,Wolves,Burnley,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,West Ham,,0.49
-Owen Hesketh,Wolves,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Nottingham Forest,,-0.55
-Owen Hesketh,Wolves,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Arsenal,,-0.11
-Owen Hesketh,Wolves,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Bournemouth,,1.22
-Owen Hesketh,Wolves,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Luton,,
-Owen Hesketh,Wolves,Luton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Manchester City,,-1.32
-Owen Hesketh,Wolves,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Crystal Palace,,0.88
-Owen Hesketh,Wolves,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Liverpool,,-1.01
-Owen Hesketh,Wolves,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,,Brighton,False,Everton,,-0.24
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Owen Hesketh,Wolves,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Brentford,,-0.53
+Owen Hesketh,Wolves,Brentford,,False,0,,,,,0,,,0.0,0,0,26,0.0,0.0,0.0,0.0,Wolves,True,Everton,,0.53
+Owen Hesketh,Wolves,Everton,,True,0,,,,,0,,,0.0,0,0,54,0.0,0.0,0.0,0.0,Wolves,False,Brighton,,-0.6
+Owen Hesketh,Wolves,Brighton,,False,0,,,,,0,,,0.0,0,0,81,0.0,0.0,0.0,0.0,Wolves,True,Manchester United,,0.38
+Owen Hesketh,Wolves,Manchester United,,True,0,,,,,0,,,0.0,0,0,69,0.0,0.0,0.0,0.0,Wolves,False,Chelsea,,-0.85
+Owen Hesketh,Wolves,Chelsea,,False,0,,,,,0,,,0.0,0,0,67,0.0,0.0,0.0,0.0,Wolves,True,Brentford,,0.79
+Owen Hesketh,Wolves,Brentford,,True,0,,,,,0,,,0.0,0,0,65,0.0,0.0,0.0,0.0,Wolves,False,Tottenham,,-0.36
+Owen Hesketh,Wolves,Tottenham,,False,0,,,,,0,,,0.0,0,0,61,0.0,0.0,0.0,0.0,Wolves,True,Sheffield,,0.68
+Owen Hesketh,Wolves,Sheffield,,True,0,,,,,0,,,0.0,0,0,59,0.0,0.0,0.0,0.0,Wolves,False,Newcastle United,,-0.41
+Owen Hesketh,Wolves,Newcastle United,,False,0,,,,,0,,,0.0,0,0,59,0.0,0.0,0.0,0.0,Wolves,True,Fulham,,-0.13
+Owen Hesketh,Wolves,Fulham,,True,0,,,,,0,,,0.0,0,0,57,0.0,0.0,0.0,0.0,Wolves,False,Aston Villa,,0.29
+Owen Hesketh,Wolves,Aston Villa,,False,0,,,,,0,,,0.0,0,0,56,0.0,0.0,0.0,0.0,Wolves,False,Burnley,,0.0
+Owen Hesketh,Wolves,Burnley,,False,0,,,,,0,,,0.0,0,0,56,0.0,0.0,0.0,0.0,Wolves,True,West Ham,,0.49
+Owen Hesketh,Wolves,West Ham,,True,0,,,,,0,,,0.0,0,0,54,0.0,0.0,0.0,0.0,Wolves,False,Nottingham Forest,,-0.55
+Owen Hesketh,Wolves,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,53,0.0,0.0,0.0,0.0,Wolves,True,Arsenal,,-0.11
+Owen Hesketh,Wolves,Arsenal,,True,0,,,,,0,,,0.0,0,0,53,0.0,0.0,0.0,0.0,Wolves,True,Bournemouth,,1.22
+Owen Hesketh,Wolves,Bournemouth,,True,0,,,,,0,,,0.0,0,0,53,0.0,0.0,0.0,0.0,Wolves,True,Luton,,
+Owen Hesketh,Wolves,Luton,,True,0,,,,,0,,,0.0,0,0,52,0.0,0.0,0.0,0.0,Wolves,False,Manchester City,,-1.32
+Owen Hesketh,Wolves,Manchester City,,False,0,,,,,0,,,0.0,0,0,52,0.0,0.0,0.0,0.0,Wolves,True,Crystal Palace,,0.88
+Owen Hesketh,Wolves,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,52,0.0,0.0,0.0,0.0,Wolves,False,Liverpool,,-1.01
+Owen Hesketh,Wolves,Liverpool,,False,0,,,,,0,,,0.0,0,0,52,0.0,0.0,0.0,,Brighton,False,Everton,,-0.24

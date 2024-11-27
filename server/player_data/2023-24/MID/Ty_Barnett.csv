@@ -1,22 +1,22 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Ty Barnett,Wolves,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Brentford,,-0.53
-Ty Barnett,Wolves,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Everton,,0.53
-Ty Barnett,Wolves,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Brighton,,-0.6
-Ty Barnett,Wolves,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Manchester United,,0.38
-Ty Barnett,Wolves,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Chelsea,,-0.85
-Ty Barnett,Wolves,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Brentford,,0.79
-Ty Barnett,Wolves,Brentford,2024-02-10,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Tottenham,,-0.36
-Ty Barnett,Wolves,Tottenham,2024-02-17,False,0,0.0,0.08,0.0,0.0,0,2.0,0.0,0.0,0,0,0.0,0.02,0.0,0.0,Wolves,True,Sheffield,,0.68
-Ty Barnett,Wolves,Sheffield,,True,0,,,,,0,,,0.0,0,0,0.0,0.02,0.0,0.0,Wolves,False,Newcastle United,,-0.41
-Ty Barnett,Wolves,Newcastle United,2024-03-02,False,0,0.0,0.04,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.02,0.0,0.0,Wolves,True,Fulham,,-0.13
-Ty Barnett,Wolves,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.02,0.0,0.0,Wolves,False,Aston Villa,,0.29
-Ty Barnett,Wolves,Aston Villa,2024-03-30,False,0,2.0,0.67,0.0,0.02,0,4.0,1.0,0.0,0,0,0.0,0.16,0.0,0.0,Wolves,False,Burnley,,0.0
-Ty Barnett,Wolves,Burnley,2024-04-02,False,0,0.0,0.54,1.0,1.19,0,3.0,4.0,0.0,0,0,0.0,0.45,0.0,0.0,Wolves,True,West Ham,,0.49
-Ty Barnett,Wolves,West Ham,2024-04-06,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.45,0.0,0.0,Wolves,False,Nottingham Forest,,-0.55
-Ty Barnett,Wolves,Nottingham Forest,2024-04-13,False,0,0.0,0.19,0.0,0.91,0,2.0,3.0,0.0,0,0,0.0,0.48,0.0,0.0,Wolves,True,Arsenal,,-0.11
-Ty Barnett,Wolves,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.48,0.0,0.0,Wolves,True,Bournemouth,,1.22
-Ty Barnett,Wolves,Bournemouth,2024-04-24,True,0,0.0,0.06,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.36,0.0,0.0,Wolves,True,Luton,,
-Ty Barnett,Wolves,Luton,2024-04-27,True,0,0.0,0.0,1.0,0.56,0,0.0,2.0,0.0,0,0,0.0,0.25,0.0,0.0,Wolves,False,Manchester City,,-1.32
-Ty Barnett,Wolves,Manchester City,2024-05-04,False,0,0.0,0.23,0.0,0.41,0,2.0,1.0,0.0,0,0,0.0,0.3,0.0,0.0,Wolves,True,Crystal Palace,,0.88
-Ty Barnett,Wolves,Crystal Palace,2024-05-11,True,0,0.0,0.15,0.0,0.0,0,2.0,0.0,0.0,0,0,0.0,0.29,0.0,0.0,Wolves,False,Liverpool,,-1.01
-Ty Barnett,Wolves,Liverpool,2024-05-19,False,0,1.0,0.58,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.4,0.0,,Everton,True,Brighton,,-0.66
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Ty Barnett,Wolves,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Brentford,,-0.53
+Ty Barnett,Wolves,Brentford,,False,0,,,,,0,,,0.0,0,0,100,0.0,0.0,0.0,0.0,Wolves,True,Everton,,0.53
+Ty Barnett,Wolves,Everton,,True,0,,,,,0,,,0.0,0,0,171,0.0,0.0,0.0,0.0,Wolves,False,Brighton,,-0.6
+Ty Barnett,Wolves,Brighton,,False,0,,,,,0,,,0.0,0,0,279,0.0,0.0,0.0,0.0,Wolves,True,Manchester United,,0.38
+Ty Barnett,Wolves,Manchester United,,True,0,,,,,0,,,0.0,0,0,320,0.0,0.0,0.0,0.0,Wolves,False,Chelsea,,-0.85
+Ty Barnett,Wolves,Chelsea,,False,0,,,,,0,,,0.0,0,0,333,0.0,0.0,0.0,0.0,Wolves,True,Brentford,,0.79
+Ty Barnett,Wolves,Brentford,2024-02-10,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,349,0.0,0.0,0.0,0.0,Wolves,False,Tottenham,,-0.36
+Ty Barnett,Wolves,Tottenham,2024-02-17,False,0,0.0,0.08,0.0,0.0,0,2.0,0.0,0.0,0,0,408,0.0,0.02,0.0,0.0,Wolves,True,Sheffield,,0.68
+Ty Barnett,Wolves,Sheffield,,True,0,,,,,0,,,0.0,0,0,436,0.0,0.02,0.0,0.0,Wolves,False,Newcastle United,,-0.41
+Ty Barnett,Wolves,Newcastle United,2024-03-02,False,0,0.0,0.04,0.0,0.0,0,1.0,0.0,0.0,0,0,454,0.0,0.02,0.0,0.0,Wolves,True,Fulham,,-0.13
+Ty Barnett,Wolves,Fulham,,True,0,,,,,0,,,0.0,0,0,463,0.0,0.02,0.0,0.0,Wolves,False,Aston Villa,,0.29
+Ty Barnett,Wolves,Aston Villa,2024-03-30,False,0,2.0,0.67,0.0,0.02,0,4.0,1.0,0.0,0,0,477,0.0,0.16,0.0,0.0,Wolves,False,Burnley,,0.0
+Ty Barnett,Wolves,Burnley,2024-04-02,False,0,0.0,0.54,1.0,1.19,0,3.0,4.0,0.0,0,0,492,0.0,0.45,0.0,0.0,Wolves,True,West Ham,,0.49
+Ty Barnett,Wolves,West Ham,2024-04-06,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,483,0.0,0.45,0.0,0.0,Wolves,False,Nottingham Forest,,-0.55
+Ty Barnett,Wolves,Nottingham Forest,2024-04-13,False,0,0.0,0.19,0.0,0.91,0,2.0,3.0,0.0,0,0,497,0.0,0.48,0.0,0.0,Wolves,True,Arsenal,,-0.11
+Ty Barnett,Wolves,Arsenal,,True,0,,,,,0,,,0.0,0,0,512,0.0,0.48,0.0,0.0,Wolves,True,Bournemouth,,1.22
+Ty Barnett,Wolves,Bournemouth,2024-04-24,True,0,0.0,0.06,0.0,0.0,0,1.0,0.0,0.0,0,0,512,0.0,0.36,0.0,0.0,Wolves,True,Luton,,
+Ty Barnett,Wolves,Luton,2024-04-27,True,0,0.0,0.0,1.0,0.56,0,0.0,2.0,0.0,0,0,499,0.0,0.25,0.0,0.0,Wolves,False,Manchester City,,-1.32
+Ty Barnett,Wolves,Manchester City,2024-05-04,False,0,0.0,0.23,0.0,0.41,0,2.0,1.0,0.0,0,0,501,0.0,0.3,0.0,0.0,Wolves,True,Crystal Palace,,0.88
+Ty Barnett,Wolves,Crystal Palace,2024-05-11,True,0,0.0,0.15,0.0,0.0,0,2.0,0.0,0.0,0,0,516,0.0,0.29,0.0,0.0,Wolves,False,Liverpool,,-1.01
+Ty Barnett,Wolves,Liverpool,2024-05-19,False,0,1.0,0.58,0.0,0.0,0,1.0,0.0,0.0,0,0,548,0.0,0.4,0.0,,Everton,True,Brighton,,-0.66

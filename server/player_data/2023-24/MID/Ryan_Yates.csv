@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Ryan Yates,Nott'm Forest,Arsenal,2023-08-12,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.0,0,1,2.0,0.0,90.0,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,True,Sheffield,,0.68
-Ryan Yates,Nott'm Forest,Sheffield,2023-08-18,True,21,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,1.5,0.0,55.5,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,False,Manchester United,,-0.63
-Ryan Yates,Nott'm Forest,Manchester United,2023-08-26,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.6,0,1,1.67,0.0,67.0,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,False,Chelsea,,-0.85
-Ryan Yates,Nott'm Forest,Chelsea,2023-09-02,False,90,0.0,0.01,0.0,0.0,2,1.0,0.0,2.6,0,1,1.75,0.0,72.75,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,True,Burnley,,0.39
-Ryan Yates,Nott'm Forest,Burnley,2023-09-18,True,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1.6,0.0,62.0,0.0,2.0,1.76,1.06,0.03,0.0,Nott'm Forest,False,Manchester City,,-1.32
-Ryan Yates,Nott'm Forest,Manchester City,,False,0,,,,,0,,,0.0,0,0,1.2,0.0,51.67,0.0,2.0,1.76,1.06,0.03,0.0,Nott'm Forest,True,Brentford,,0.79
-Ryan Yates,Nott'm Forest,Brentford,,True,0,,,,,0,,,0.0,0,0,1.0,0.0,44.29,0.0,2.0,1.76,1.06,0.03,0.0,Nott'm Forest,False,Crystal Palace,,0.38
-Ryan Yates,Nott'm Forest,Crystal Palace,2023-10-07,False,14,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.6,0.0,40.5,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,True,Luton,,
-Ryan Yates,Nott'm Forest,Luton,2023-10-21,True,12,0.0,0.08,0.0,0.0,1,1.0,0.0,1.0,0,0,0.4,0.02,37.33,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,False,Liverpool,,-1.01
-Ryan Yates,Nott'm Forest,Liverpool,2023-10-29,False,21,0.0,0.0,0.0,0.28,1,0.0,1.0,2.4,0,0,0.4,0.02,35.7,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,True,Aston Villa,,0.64
-Ryan Yates,Nott'm Forest,Aston Villa,2023-11-05,True,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0.6,0.02,32.73,0.0,2.0,1.76,1.06,0.03,0.0,Nott'm Forest,False,West Ham,,-0.22
-Ryan Yates,Nott'm Forest,West Ham,,False,0,,,,,0,,,0.0,0,0,0.6,0.02,30.0,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,True,Brighton,,-0.66
-Ryan Yates,Nott'm Forest,Brighton,2023-11-25,True,21,0.0,0.37,0.0,0.0,1,3.0,0.0,3.6,0,0,0.8,0.09,29.31,0.0,2.0,1.76,1.06,0.03,3.0,Nott'm Forest,True,Everton,,0.53
-Ryan Yates,Nott'm Forest,Everton,2023-12-02,True,90,0.0,0.17,0.0,0.02,3,2.0,1.0,8.2,1,1,1.2,0.11,33.64,0.0,2.0,1.76,1.06,0.03,0.0,Nott'm Forest,False,Fulham,,0.86
-Ryan Yates,Nott'm Forest,Fulham,2023-12-06,False,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.4,0,0,1.0,0.11,34.4,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,False,Wolverhampton,,-0.52
-Ryan Yates,Nott'm Forest,Wolverhampton,2023-12-09,False,90,0.0,0.09,0.0,0.0,2,1.0,0.0,1.1,0,1,1.2,0.12,37.88,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,True,Tottenham,,0.69
-Ryan Yates,Nott'm Forest,Tottenham,2023-12-15,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.1,0,1,1.6,0.12,40.94,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,True,Bournemouth,,1.22
-Ryan Yates,Nott'm Forest,Bournemouth,2023-12-23,True,90,0.0,0.06,0.0,0.04,2,1.0,1.0,3.7,0,1,1.8,0.06,43.67,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,False,Newcastle United,,-0.41
-Ryan Yates,Nott'm Forest,Newcastle United,2023-12-26,False,20,0.0,0.06,0.0,0.0,1,1.0,0.0,0.3,0,0,1.4,0.04,42.42,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,True,Manchester United,,0.38
-Ryan Yates,Nott'm Forest,Manchester United,2023-12-30,True,90,0.0,0.06,0.0,0.0,2,1.0,0.0,2.2,0,1,1.8,0.05,44.8,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,False,Brentford,,-0.53
-Ryan Yates,Nott'm Forest,Brentford,2024-01-20,False,61,0.0,0.05,0.0,0.0,2,2.0,0.0,0.9,0,1,1.8,0.05,45.57,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,True,Arsenal,,-0.11
-Ryan Yates,Nott'm Forest,Arsenal,2024-01-30,True,19,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,1.6,0.05,44.36,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,False,Bournemouth,,0.19
-Ryan Yates,Nott'm Forest,Bournemouth,2024-02-04,False,90,0.0,0.17,0.0,0.0,1,2.0,0.0,5.8,0,1,1.4,0.07,46.35,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,True,Newcastle United,,0.55
-Ryan Yates,Nott'm Forest,Newcastle United,2024-02-10,True,72,0.0,0.02,0.0,0.0,2,1.0,0.0,0.8,0,1,1.6,0.06,47.42,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,True,West Ham,,0.49
-Ryan Yates,Nott'm Forest,West Ham,2024-02-17,True,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,1.4,0.05,45.68,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,False,Aston Villa,,0.29
-Ryan Yates,Nott'm Forest,Aston Villa,2024-02-24,False,17,0.0,0.35,0.0,0.0,1,1.0,0.0,1.5,0,0,1.2,0.11,44.58,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,True,Liverpool,,0.18
-Ryan Yates,Nott'm Forest,Liverpool,2024-03-02,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.3,0,1,1.4,0.11,46.26,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,False,Brighton,,-0.6
-Ryan Yates,Nott'm Forest,Brighton,2024-03-10,False,71,0.0,0.0,0.0,0.0,2,0.0,0.0,1.3,0,1,1.6,0.07,47.14,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,False,Luton,,
-Ryan Yates,Nott'm Forest,Luton,2024-03-16,False,90,0.0,0.02,0.0,0.02,2,1.0,1.0,3.3,0,1,1.6,0.07,48.62,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,True,Crystal Palace,,0.88
-Ryan Yates,Nott'm Forest,Crystal Palace,2024-03-30,True,90,0.0,0.0,0.0,0.07,2,0.0,1.0,2.6,0,1,1.8,0.07,50.0,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,True,Fulham,,-0.13
-Ryan Yates,Nott'm Forest,Fulham,2024-04-02,True,90,0.0,0.18,0.0,0.0,2,2.0,0.0,2.0,0,1,2.0,0.04,51.29,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,False,Tottenham,,-0.36
-Ryan Yates,Nott'm Forest,Tottenham,2024-04-07,False,80,0.0,0.09,0.0,0.0,1,1.0,0.0,2.5,0,1,1.8,0.06,52.19,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,True,Wolverhampton,,0.05
-Ryan Yates,Nott'm Forest,Wolverhampton,2024-04-13,True,65,0.0,0.07,0.0,0.08,2,3.0,1.0,3.0,0,1,1.8,0.07,52.58,0.0,2.0,1.76,1.06,0.03,0.0,Nott'm Forest,False,Everton,,-0.24
-Ryan Yates,Nott'm Forest,Everton,2024-04-21,False,10,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,0,1.4,0.07,51.32,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,True,Manchester City,,-0.96
-Ryan Yates,Nott'm Forest,Manchester City,2024-04-28,True,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1.2,0.07,50.31,0.0,2.0,1.76,1.06,0.03,7.0,Nott'm Forest,False,Sheffield,,-0.61
-Ryan Yates,Nott'm Forest,Sheffield,2024-05-04,False,90,1.0,0.5,0.0,0.0,7,2.0,0.0,7.0,0,1,2.2,0.13,51.42,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,True,Chelsea,,-0.25
-Ryan Yates,Nott'm Forest,Chelsea,2024-05-11,True,71,0.0,0.2,0.0,0.0,2,5.0,0.0,2.6,0,1,2.4,0.15,51.95,0.0,2.0,1.76,1.06,0.03,4.0,Nott'm Forest,False,Burnley,,0.0
-Ryan Yates,Nott'm Forest,Burnley,2024-05-19,False,57,0.0,0.1,1.0,0.49,4,1.0,1.0,4.0,0,1,2.8,0.36,52.08,0.0,2.0,1.76,1.06,0.03,7.0,Nott'm Forest,True,Bournemouth,,1.22
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Ryan Yates,Nott'm Forest,Arsenal,2023-08-12,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.0,0,1,3246,2.0,0.0,90.0,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,True,Sheffield,,0.68
+Ryan Yates,Nott'm Forest,Sheffield,2023-08-18,True,21,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,3843,1.5,0.0,55.5,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,False,Manchester United,,-0.63
+Ryan Yates,Nott'm Forest,Manchester United,2023-08-26,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.6,0,1,3519,1.67,0.0,67.0,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,False,Chelsea,,-0.85
+Ryan Yates,Nott'm Forest,Chelsea,2023-09-02,False,90,0.0,0.01,0.0,0.0,2,1.0,0.0,2.6,0,1,3438,1.75,0.0,72.75,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,True,Burnley,,0.39
+Ryan Yates,Nott'm Forest,Burnley,2023-09-18,True,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,3663,1.6,0.0,62.0,0.0,2.0,1.76,1.06,0.03,0.0,Nott'm Forest,False,Manchester City,,-1.32
+Ryan Yates,Nott'm Forest,Manchester City,,False,0,,,,,0,,,0.0,0,0,3581,1.2,0.0,51.67,0.0,2.0,1.76,1.06,0.03,0.0,Nott'm Forest,True,Brentford,,0.79
+Ryan Yates,Nott'm Forest,Brentford,,True,0,,,,,0,,,0.0,0,0,3365,1.0,0.0,44.29,0.0,2.0,1.76,1.06,0.03,0.0,Nott'm Forest,False,Crystal Palace,,0.38
+Ryan Yates,Nott'm Forest,Crystal Palace,2023-10-07,False,14,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,3039,0.6,0.0,40.5,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,True,Luton,,
+Ryan Yates,Nott'm Forest,Luton,2023-10-21,True,12,0.0,0.08,0.0,0.0,1,1.0,0.0,1.0,0,0,2995,0.4,0.02,37.33,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,False,Liverpool,,-1.01
+Ryan Yates,Nott'm Forest,Liverpool,2023-10-29,False,21,0.0,0.0,0.0,0.28,1,0.0,1.0,2.4,0,0,2933,0.4,0.02,35.7,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,True,Aston Villa,,0.64
+Ryan Yates,Nott'm Forest,Aston Villa,2023-11-05,True,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,2897,0.6,0.02,32.73,0.0,2.0,1.76,1.06,0.03,0.0,Nott'm Forest,False,West Ham,,-0.22
+Ryan Yates,Nott'm Forest,West Ham,,False,0,,,,,0,,,0.0,0,0,2845,0.6,0.02,30.0,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,True,Brighton,,-0.66
+Ryan Yates,Nott'm Forest,Brighton,2023-11-25,True,21,0.0,0.37,0.0,0.0,1,3.0,0.0,3.6,0,0,2819,0.8,0.09,29.31,0.0,2.0,1.76,1.06,0.03,3.0,Nott'm Forest,True,Everton,,0.53
+Ryan Yates,Nott'm Forest,Everton,2023-12-02,True,90,0.0,0.17,0.0,0.02,3,2.0,1.0,8.2,1,1,2812,1.2,0.11,33.64,0.0,2.0,1.76,1.06,0.03,0.0,Nott'm Forest,False,Fulham,,0.86
+Ryan Yates,Nott'm Forest,Fulham,2023-12-06,False,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.4,0,0,2847,1.0,0.11,34.4,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,False,Wolverhampton,,-0.52
+Ryan Yates,Nott'm Forest,Wolverhampton,2023-12-09,False,90,0.0,0.09,0.0,0.0,2,1.0,0.0,1.1,0,1,2815,1.2,0.12,37.88,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,True,Tottenham,,0.69
+Ryan Yates,Nott'm Forest,Tottenham,2023-12-15,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.1,0,1,2827,1.6,0.12,40.94,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,True,Bournemouth,,1.22
+Ryan Yates,Nott'm Forest,Bournemouth,2023-12-23,True,90,0.0,0.06,0.0,0.04,2,1.0,1.0,3.7,0,1,2870,1.8,0.06,43.67,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,False,Newcastle United,,-0.41
+Ryan Yates,Nott'm Forest,Newcastle United,2023-12-26,False,20,0.0,0.06,0.0,0.0,1,1.0,0.0,0.3,0,0,2877,1.4,0.04,42.42,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,True,Manchester United,,0.38
+Ryan Yates,Nott'm Forest,Manchester United,2023-12-30,True,90,0.0,0.06,0.0,0.0,2,1.0,0.0,2.2,0,1,2840,1.8,0.05,44.8,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,False,Brentford,,-0.53
+Ryan Yates,Nott'm Forest,Brentford,2024-01-20,False,61,0.0,0.05,0.0,0.0,2,2.0,0.0,0.9,0,1,2816,1.8,0.05,45.57,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,True,Arsenal,,-0.11
+Ryan Yates,Nott'm Forest,Arsenal,2024-01-30,True,19,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,2850,1.6,0.05,44.36,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,False,Bournemouth,,0.19
+Ryan Yates,Nott'm Forest,Bournemouth,2024-02-04,False,90,0.0,0.17,0.0,0.0,1,2.0,0.0,5.8,0,1,2821,1.4,0.07,46.35,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,True,Newcastle United,,0.55
+Ryan Yates,Nott'm Forest,Newcastle United,2024-02-10,True,72,0.0,0.02,0.0,0.0,2,1.0,0.0,0.8,0,1,2827,1.6,0.06,47.42,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,True,West Ham,,0.49
+Ryan Yates,Nott'm Forest,West Ham,2024-02-17,True,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,2841,1.4,0.05,45.68,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,False,Aston Villa,,0.29
+Ryan Yates,Nott'm Forest,Aston Villa,2024-02-24,False,17,0.0,0.35,0.0,0.0,1,1.0,0.0,1.5,0,0,2863,1.2,0.11,44.58,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,True,Liverpool,,0.18
+Ryan Yates,Nott'm Forest,Liverpool,2024-03-02,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.3,0,1,2865,1.4,0.11,46.26,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,False,Brighton,,-0.6
+Ryan Yates,Nott'm Forest,Brighton,2024-03-10,False,71,0.0,0.0,0.0,0.0,2,0.0,0.0,1.3,0,1,2883,1.6,0.07,47.14,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,False,Luton,,
+Ryan Yates,Nott'm Forest,Luton,2024-03-16,False,90,0.0,0.02,0.0,0.02,2,1.0,1.0,3.3,0,1,3116,1.6,0.07,48.62,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,True,Crystal Palace,,0.88
+Ryan Yates,Nott'm Forest,Crystal Palace,2024-03-30,True,90,0.0,0.0,0.0,0.07,2,0.0,1.0,2.6,0,1,2955,1.8,0.07,50.0,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,True,Fulham,,-0.13
+Ryan Yates,Nott'm Forest,Fulham,2024-04-02,True,90,0.0,0.18,0.0,0.0,2,2.0,0.0,2.0,0,1,2994,2.0,0.04,51.29,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,False,Tottenham,,-0.36
+Ryan Yates,Nott'm Forest,Tottenham,2024-04-07,False,80,0.0,0.09,0.0,0.0,1,1.0,0.0,2.5,0,1,2931,1.8,0.06,52.19,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,True,Wolverhampton,,0.05
+Ryan Yates,Nott'm Forest,Wolverhampton,2024-04-13,True,65,0.0,0.07,0.0,0.08,2,3.0,1.0,3.0,0,1,2940,1.8,0.07,52.58,0.0,2.0,1.76,1.06,0.03,0.0,Nott'm Forest,False,Everton,,-0.24
+Ryan Yates,Nott'm Forest,Everton,2024-04-21,False,10,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,0,2951,1.4,0.07,51.32,0.0,2.0,1.76,1.06,0.03,1.0,Nott'm Forest,True,Manchester City,,-0.96
+Ryan Yates,Nott'm Forest,Manchester City,2024-04-28,True,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,2923,1.2,0.07,50.31,0.0,2.0,1.76,1.06,0.03,7.0,Nott'm Forest,False,Sheffield,,-0.61
+Ryan Yates,Nott'm Forest,Sheffield,2024-05-04,False,90,1.0,0.5,0.0,0.0,7,2.0,0.0,7.0,0,1,2930,2.2,0.13,51.42,0.0,2.0,1.76,1.06,0.03,2.0,Nott'm Forest,True,Chelsea,,-0.25
+Ryan Yates,Nott'm Forest,Chelsea,2024-05-11,True,71,0.0,0.2,0.0,0.0,2,5.0,0.0,2.6,0,1,2982,2.4,0.15,51.95,0.0,2.0,1.76,1.06,0.03,4.0,Nott'm Forest,False,Burnley,,0.0
+Ryan Yates,Nott'm Forest,Burnley,2024-05-19,False,57,0.0,0.1,1.0,0.49,4,1.0,1.0,4.0,0,1,3065,2.8,0.36,52.08,0.0,2.0,1.76,1.06,0.03,7.0,Nott'm Forest,True,Bournemouth,,1.22

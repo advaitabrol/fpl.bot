@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jackson Smith,Wolves,Leicester City,2022-08-06,False,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0.0,Wolves,True,Fulham,,-0.3
-Jackson Smith,Wolves,Fulham,2022-08-13,True,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0.0,Wolves,False,Tottenham,,-0.03
-Jackson Smith,Wolves,Tottenham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,True,Newcastle United,,0.73
-Jackson Smith,Wolves,Newcastle United,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,False,Bournemouth,,0.19
-Jackson Smith,Wolves,Bournemouth,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,True,Southampton,,-0.38
-Jackson Smith,Wolves,Southampton,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,True,Manchester City,,-1.17
-Jackson Smith,Wolves,Manchester City,2022-09-17,True,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0.0,Wolves,False,West Ham,,0.14
-Jackson Smith,Wolves,West Ham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,False,Chelsea,,-0.72
-Jackson Smith,Wolves,Chelsea,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,True,Nottingham Forest,,
-Jackson Smith,Wolves,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,False,Crystal Palace,,0.13
-Jackson Smith,Wolves,Crystal Palace,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,True,Leeds United,,-0.79
-Jackson Smith,Wolves,Leeds United,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,False,Brentford,,-0.55
-Jackson Smith,Wolves,Brentford,2022-10-29,False,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0.0,Wolves,True,Brighton,,-0.71
-Jackson Smith,Wolves,Brighton,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,True,Arsenal,,0.36
-Jackson Smith,Wolves,Arsenal,2022-11-12,True,0,0,0.0,0,0,0,0,0,0.14,0,0.0,0,0.0,0,0,0.0,Wolves,False,Everton,,-0.63
-Jackson Smith,Wolves,Everton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,True,Manchester United,,0.38
-Jackson Smith,Wolves,Manchester United,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,False,Aston Villa,,0.59
-Jackson Smith,Wolves,Aston Villa,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,True,West Ham,,0.63
-Jackson Smith,Wolves,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,False,Manchester City,,-1.26
-Jackson Smith,Wolves,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,True,Liverpool,,-0.53
-Jackson Smith,Wolves,Liverpool,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,False,Southampton,,-1.07
-Jackson Smith,Wolves,Southampton,2023-02-11,False,0,0,0.0,0,0,0,0,0,0.04,0,0.0,0,0.0,0,0,0.0,Wolves,True,Bournemouth,,1.46
-Jackson Smith,Wolves,Bournemouth,2023-02-18,True,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0.0,Wolves,False,Fulham,,1.37
-Jackson Smith,Wolves,Fulham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,False,Liverpool,,-1.33
-Jackson Smith,Wolves,Liverpool,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,True,Tottenham,,1.07
-Jackson Smith,Wolves,Tottenham,2023-03-04,True,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0.0,Wolves,False,Newcastle United,,-0.34
-Jackson Smith,Wolves,Newcastle United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,True,Leicester City,,0.83
-Jackson Smith,Wolves,Leicester City,2023-03-18,True,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0.0,Wolves,False,Nottingham Forest,,
-Jackson Smith,Wolves,Nottingham Forest,2023-04-01,False,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0.0,Wolves,True,Chelsea,,-0.25
-Jackson Smith,Wolves,Chelsea,2023-04-08,True,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0.0,Wolves,True,Brentford,,0.69
-Jackson Smith,Wolves,Brentford,2023-04-15,True,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0.0,Wolves,False,Leeds United,,-0.8
-Jackson Smith,Wolves,Leeds United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,True,Crystal Palace,,0.81
-Jackson Smith,Wolves,Crystal Palace,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,False,Brighton,,-0.39
-Jackson Smith,Wolves,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,True,Aston Villa,,0.55
-Jackson Smith,Wolves,Aston Villa,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,False,Manchester United,,-0.1
-Jackson Smith,Wolves,Manchester United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,True,Everton,,0.34
-Jackson Smith,Wolves,Everton,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Wolves,False,Arsenal,,-0.0
-Jackson Smith,Wolves,Arsenal,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,,Liverpool,False,Chelsea,,-0.72
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jackson Smith,Wolves,Leicester City,2022-08-06,False,0,0,0.0,0,0,0,0,0,0.0,0,37958,0.0,0,0.0,0,0,0.0,Wolves,True,Fulham,,-0.3
+Jackson Smith,Wolves,Fulham,2022-08-13,True,0,0,0.0,0,0,0,0,0,0.0,0,62806,0.0,0,0.0,0,0,0.0,Wolves,False,Tottenham,,-0.03
+Jackson Smith,Wolves,Tottenham,,False,0,0,0.0,0,0,0,0,0,,0,77767,0.0,0,0.0,0,0,0.0,Wolves,True,Newcastle United,,0.73
+Jackson Smith,Wolves,Newcastle United,,True,0,0,0.0,0,0,0,0,0,,0,85175,0.0,0,0.0,0,0,0.0,Wolves,False,Bournemouth,,0.19
+Jackson Smith,Wolves,Bournemouth,,False,0,0,0.0,0,0,0,0,0,,0,83130,0.0,0,0.0,0,0,0.0,Wolves,True,Southampton,,-0.38
+Jackson Smith,Wolves,Southampton,,True,0,0,0.0,0,0,0,0,0,,0,82142,0.0,0,0.0,0,0,0.0,Wolves,True,Manchester City,,-1.17
+Jackson Smith,Wolves,Manchester City,2022-09-17,True,0,0,0.0,0,0,0,0,0,0.0,0,83122,0.0,0,0.0,0,0,0.0,Wolves,False,West Ham,,0.14
+Jackson Smith,Wolves,West Ham,,False,0,0,0.0,0,0,0,0,0,,0,81810,0.0,0,0.0,0,0,0.0,Wolves,False,Chelsea,,-0.72
+Jackson Smith,Wolves,Chelsea,,False,0,0,0.0,0,0,0,0,0,,0,81508,0.0,0,0.0,0,0,0.0,Wolves,True,Nottingham Forest,,
+Jackson Smith,Wolves,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,80505,0.0,0,0.0,0,0,0.0,Wolves,False,Crystal Palace,,0.13
+Jackson Smith,Wolves,Crystal Palace,,False,0,0,0.0,0,0,0,0,0,,0,79676,0.0,0,0.0,0,0,0.0,Wolves,True,Leeds United,,-0.79
+Jackson Smith,Wolves,Leeds United,,True,0,0,0.0,0,0,0,0,0,,0,78955,0.0,0,0.0,0,0,0.0,Wolves,False,Brentford,,-0.55
+Jackson Smith,Wolves,Brentford,2022-10-29,False,0,0,0.0,0,0,0,0,0,0.0,0,78350,0.0,0,0.0,0,0,0.0,Wolves,True,Brighton,,-0.71
+Jackson Smith,Wolves,Brighton,,True,0,0,0.0,0,0,0,0,0,,0,77550,0.0,0,0.0,0,0,0.0,Wolves,True,Arsenal,,0.36
+Jackson Smith,Wolves,Arsenal,2022-11-12,True,0,0,0.0,0,0,0,0,0,0.14,0,83931,0.0,0,0.0,0,0,0.0,Wolves,False,Everton,,-0.63
+Jackson Smith,Wolves,Everton,,False,0,0,0.0,0,0,0,0,0,,0,98132,0.0,0,0.0,0,0,0.0,Wolves,True,Manchester United,,0.38
+Jackson Smith,Wolves,Manchester United,,True,0,0,0.0,0,0,0,0,0,,0,100912,0.0,0,0.0,0,0,0.0,Wolves,False,Aston Villa,,0.59
+Jackson Smith,Wolves,Aston Villa,,False,0,0,0.0,0,0,0,0,0,,0,101098,0.0,0,0.0,0,0,0.0,Wolves,True,West Ham,,0.63
+Jackson Smith,Wolves,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,107122,0.0,0,0.0,0,0,0.0,Wolves,False,Manchester City,,-1.26
+Jackson Smith,Wolves,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,105677,0.0,0,0.0,0,0,0.0,Wolves,True,Liverpool,,-0.53
+Jackson Smith,Wolves,Liverpool,,True,0,0,0.0,0,0,0,0,0,,0,102948,0.0,0,0.0,0,0,0.0,Wolves,False,Southampton,,-1.07
+Jackson Smith,Wolves,Southampton,2023-02-11,False,0,0,0.0,0,0,0,0,0,0.04,0,99456,0.0,0,0.0,0,0,0.0,Wolves,True,Bournemouth,,1.46
+Jackson Smith,Wolves,Bournemouth,2023-02-18,True,0,0,0.0,0,0,0,0,0,0.0,0,97029,0.0,0,0.0,0,0,0.0,Wolves,False,Fulham,,1.37
+Jackson Smith,Wolves,Fulham,,False,0,0,0.0,0,0,0,0,0,,0,92856,0.0,0,0.0,0,0,0.0,Wolves,False,Liverpool,,-1.33
+Jackson Smith,Wolves,Liverpool,,False,0,0,0.0,0,0,0,0,0,,0,92856,0.0,0,0.0,0,0,0.0,Wolves,True,Tottenham,,1.07
+Jackson Smith,Wolves,Tottenham,2023-03-04,True,0,0,0.0,0,0,0,0,0,0.0,0,92052,0.0,0,0.0,0,0,0.0,Wolves,False,Newcastle United,,-0.34
+Jackson Smith,Wolves,Newcastle United,,False,0,0,0.0,0,0,0,0,0,,0,90305,0.0,0,0.0,0,0,0.0,Wolves,True,Leicester City,,0.83
+Jackson Smith,Wolves,Leicester City,2023-03-18,True,0,0,0.0,0,0,0,0,0,0.0,0,88738,0.0,0,0.0,0,0,0.0,Wolves,False,Nottingham Forest,,
+Jackson Smith,Wolves,Nottingham Forest,2023-04-01,False,0,0,0.0,0,0,0,0,0,0.0,0,87031,0.0,0,0.0,0,0,0.0,Wolves,True,Chelsea,,-0.25
+Jackson Smith,Wolves,Chelsea,2023-04-08,True,0,0,0.0,0,0,0,0,0,0.0,0,86400,0.0,0,0.0,0,0,0.0,Wolves,True,Brentford,,0.69
+Jackson Smith,Wolves,Brentford,2023-04-15,True,0,0,0.0,0,0,0,0,0,0.0,0,85719,0.0,0,0.0,0,0,0.0,Wolves,False,Leeds United,,-0.8
+Jackson Smith,Wolves,Leeds United,,False,0,0,0.0,0,0,0,0,0,,0,85088,0.0,0,0.0,0,0,0.0,Wolves,True,Crystal Palace,,0.81
+Jackson Smith,Wolves,Crystal Palace,,True,0,0,0.0,0,0,0,0,0,,0,84626,0.0,0,0.0,0,0,0.0,Wolves,False,Brighton,,-0.39
+Jackson Smith,Wolves,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,83981,0.0,0,0.0,0,0,0.0,Wolves,True,Aston Villa,,0.55
+Jackson Smith,Wolves,Aston Villa,,True,0,0,0.0,0,0,0,0,0,,0,83412,0.0,0,0.0,0,0,0.0,Wolves,False,Manchester United,,-0.1
+Jackson Smith,Wolves,Manchester United,,False,0,0,0.0,0,0,0,0,0,,0,82979,0.0,0,0.0,0,0,0.0,Wolves,True,Everton,,0.34
+Jackson Smith,Wolves,Everton,,True,0,0,0.0,0,0,0,0,0,,0,82448,0.0,0,0.0,0,0,0.0,Wolves,False,Arsenal,,-0.0
+Jackson Smith,Wolves,Arsenal,,False,0,0,0.0,0,0,0,0,0,,0,81934,0.0,0,0.0,0,0,,Liverpool,False,Chelsea,,-0.72

@@ -1,16 +1,10 @@
 import React from 'react';
 import styled from 'styled-components';
 import Player from './Player';
+import { Player as PlayerType } from '../../services/interfaces';
 
 interface BenchProps {
-  players: Array<{
-    name: string;
-    team: string;
-    position: string;
-    price: number;
-    expected_points: number[];
-    isCaptain: boolean[];
-  }>;
+  players: PlayerType[];
   weekIndex?: number; // Optional weekIndex prop to show specific week's points
 }
 

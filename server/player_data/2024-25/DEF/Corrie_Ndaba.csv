@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Corrie Ndaba,Ipswich,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,Manchester City,,-1.51
-Corrie Ndaba,Ipswich,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,True,Fulham,,0.27
-Corrie Ndaba,Ipswich,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,Brighton,,-0.61
-Corrie Ndaba,Ipswich,Brighton,2024-09-14,False,0.0,0.0,0.06,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.0,0.0,0.0,Ipswich,False,Southampton,,-0.31
-Corrie Ndaba,Ipswich,Southampton,2024-09-21,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.0,0.0,0.0,Ipswich,True,Aston Villa,,0.66
-Corrie Ndaba,Ipswich,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.0,0.0,0.0,Ipswich,False,West Ham,,-0.34
-Corrie Ndaba,Ipswich,West Ham,2024-10-05,False,0.0,0.0,0.02,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Ipswich,True,Everton,,0.61
-Corrie Ndaba,Ipswich,Everton,2024-10-19,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,Ipswich,False,Brentford,,-0.15
-Corrie Ndaba,Ipswich,Brentford,2024-10-26,False,0.0,0.0,0.0,0.0,0.02,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,True,Leicester City,,0.47
-Corrie Ndaba,Ipswich,Leicester City,2024-11-02,True,0.0,0.0,0.15,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0,0.0,Ipswich,False,Tottenham,,-0.3
-Corrie Ndaba,Ipswich,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0,,Ipswich,True,Manchester United,,0.39
-,Ipswich,,,,,,,,,,,,,,,,,,,,,,,Ipswich,False,Nottingham Forest,,-0.54
-,Ipswich,,,,,,,,,,,,,,,,,,,,,,,Ipswich,True,Crystal Palace,,0.88
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Corrie Ndaba,Ipswich,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1045.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,Manchester City,,-1.51
+Corrie Ndaba,Ipswich,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,803.0,0.0,0.0,0.0,0.0,0.0,Ipswich,True,Fulham,,0.27
+Corrie Ndaba,Ipswich,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,719.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,Brighton,,-0.61
+Corrie Ndaba,Ipswich,Brighton,2024-09-14,False,0.0,0.0,0.06,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,635.0,0.0,0.01,0.0,0.0,0.0,Ipswich,False,Southampton,,-0.31
+Corrie Ndaba,Ipswich,Southampton,2024-09-21,False,0.0,0.0,0.0,0.0,0.09,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,607.0,0.0,0.01,0.0,0.0,0.0,Ipswich,True,Aston Villa,,0.66
+Corrie Ndaba,Ipswich,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,578.0,0.0,0.01,0.0,0.0,0.0,Ipswich,False,West Ham,,-0.34
+Corrie Ndaba,Ipswich,West Ham,2024-10-05,False,0.0,0.0,0.02,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,558.0,0.0,0.02,0.0,0.0,0.0,Ipswich,True,Everton,,0.61
+Corrie Ndaba,Ipswich,Everton,2024-10-19,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,546.0,0.0,0.02,0.0,0.0,0.0,Ipswich,False,Brentford,,-0.15
+Corrie Ndaba,Ipswich,Brentford,2024-10-26,False,0.0,0.0,0.0,0.0,0.02,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,533.0,0.0,0.0,0.0,0.0,0.0,Ipswich,True,Leicester City,,0.47
+Corrie Ndaba,Ipswich,Leicester City,2024-11-02,True,0.0,0.0,0.15,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,517.0,0.0,0.04,0.0,0.0,0.0,Ipswich,False,Tottenham,,-0.3
+Corrie Ndaba,Ipswich,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,497.0,0.0,0.04,0.0,0.0,,Ipswich,True,Manchester United,,0.39
+,Ipswich,,,,,,,,,,,,,,,,,,,,,,,,Ipswich,False,Nottingham Forest,,-0.54
+,Ipswich,,,,,,,,,,,,,,,,,,,,,,,,Ipswich,True,Crystal Palace,,0.88

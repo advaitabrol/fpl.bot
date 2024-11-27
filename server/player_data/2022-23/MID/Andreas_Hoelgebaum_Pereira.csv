@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Andreas Hoelgebaum Pereira,Fulham,Liverpool,2022-08-06,True,88,0.0,0.05,0.0,0.04,2,1.0,1.0,3.2,0,0,2.0,0.05,88.0,3.0,Fulham,False,Wolverhampton,,-0.46
-Andreas Hoelgebaum Pereira,Fulham,Wolverhampton,2022-08-13,False,85,0.0,0.0,0.0,0.04,3,0.0,2.0,3.2,0,0,2.5,0.02,86.5,8.0,Fulham,True,Brentford,,0.69
-Andreas Hoelgebaum Pereira,Fulham,Brentford,2022-08-20,True,90,0.0,0.18,1.0,0.35,8,3.0,4.0,13.1,3,0,4.33,0.41,87.67,2.0,Fulham,False,Arsenal,,-0.0
-Andreas Hoelgebaum Pereira,Fulham,Arsenal,2022-08-27,False,78,0.0,0.03,0.0,0.2,2,1.0,3.0,4.8,0,0,3.75,0.31,85.25,6.0,Fulham,True,Brighton,,-0.71
-Andreas Hoelgebaum Pereira,Fulham,Brighton,2022-08-30,True,77,0.0,0.04,0.0,0.01,6,1.0,1.0,3.1,1,0,4.2,0.26,83.6,2.0,Fulham,False,Tottenham,,-0.03
-Andreas Hoelgebaum Pereira,Fulham,Tottenham,2022-09-03,False,60,0.0,0.01,0.0,0.0,2,1.0,0.0,0.5,0,0,4.2,0.25,79.67,1.0,Fulham,False,Nottingham Forest,,
-Andreas Hoelgebaum Pereira,Fulham,Nottingham Forest,2022-09-16,False,82,0.0,0.15,0.0,0.04,1,2.0,2.0,6.3,0,0,3.8,0.28,80.0,2.0,Fulham,True,Newcastle United,,0.73
-Andreas Hoelgebaum Pereira,Fulham,Newcastle United,2022-10-01,True,90,0.0,0.12,0.0,0.07,2,1.0,2.0,4.6,0,0,2.6,0.07,81.25,6.0,Fulham,False,West Ham,,0.14
-Andreas Hoelgebaum Pereira,Fulham,West Ham,2022-10-09,False,76,1.0,0.14,0.0,0.03,6,2.0,1.0,8.0,0,0,3.4,0.09,80.67,5.0,Fulham,True,Bournemouth,,1.46
-Andreas Hoelgebaum Pereira,Fulham,Bournemouth,2022-10-15,True,86,0.0,0.02,1.0,0.27,5,1.0,3.0,7.3,0,0,3.2,0.29,81.2,3.0,Fulham,True,Aston Villa,,0.55
-Andreas Hoelgebaum Pereira,Fulham,Aston Villa,2022-10-20,True,86,0.0,0.08,0.0,0.35,3,3.0,4.0,10.7,0,0,3.4,0.3,81.64,10.0,Fulham,False,Leicester City,,-0.05
-Andreas Hoelgebaum Pereira,Fulham,Leicester City,2022-10-23,False,90,0.0,0.51,2.0,0.68,10,1.0,4.0,13.1,2,0,5.2,0.77,82.33,3.0,Fulham,True,Everton,,0.34
-Andreas Hoelgebaum Pereira,Fulham,Everton,2022-10-29,True,75,0.0,0.01,0.0,0.32,3,1.0,7.0,11.2,0,0,5.4,0.75,81.77,6.0,Fulham,False,Manchester City,,-1.26
-Andreas Hoelgebaum Pereira,Fulham,Manchester City,2022-11-05,False,87,1.0,0.76,0.0,0.0,6,1.0,0.0,5.5,0,0,5.4,0.88,82.14,2.0,Fulham,True,Manchester United,,0.38
-Andreas Hoelgebaum Pereira,Fulham,Manchester United,2022-11-13,True,90,0.0,0.0,0.0,0.06,2,0.0,1.0,0.0,0,1,4.8,0.67,82.67,3.0,Fulham,False,Crystal Palace,,0.13
-Andreas Hoelgebaum Pereira,Fulham,Crystal Palace,2022-12-26,False,84,0.0,0.66,0.0,0.29,3,3.0,6.0,14.3,0,1,4.8,0.79,82.75,5.0,Fulham,True,Southampton,,-0.38
-Andreas Hoelgebaum Pereira,Fulham,Southampton,2022-12-31,True,90,0.0,0.15,0.0,0.0,5,2.0,0.0,1.4,0,1,3.8,0.32,83.18,1.0,Fulham,False,Leeds United,,-0.8
-Andreas Hoelgebaum Pereira,Fulham,Leeds United,2023-01-03,False,58,0.0,0.13,0.0,0.02,1,1.0,1.0,3.2,0,1,3.4,0.34,81.78,4.0,Fulham,True,Chelsea,,-0.25
-Andreas Hoelgebaum Pereira,Fulham,Chelsea,2023-01-12,True,90,0.0,0.05,1.0,0.37,4,1.0,1.0,4.6,0,1,3.0,0.4,82.21,2.0,Fulham,False,Newcastle United,,-0.34
-Andreas Hoelgebaum Pereira,Fulham,Newcastle United,2023-01-15,False,76,0.0,0.0,0.0,0.11,2,0.0,2.0,4.6,0,1,3.0,0.4,81.9,2.0,Fulham,True,Tottenham,,1.07
-Andreas Hoelgebaum Pereira,Fulham,Tottenham,2023-01-23,True,90,0.0,0.04,0.0,0.71,2,1.0,3.0,7.2,0,1,2.8,0.27,82.29,2.0,Fulham,False,Chelsea,,-0.72
-Andreas Hoelgebaum Pereira,Fulham,Chelsea,2023-02-03,False,90,0.0,0.14,0.0,0.0,2,2.0,0.0,1.9,0,1,2.2,0.27,82.64,6.0,Fulham,True,Nottingham Forest,,
-Andreas Hoelgebaum Pereira,Fulham,Nottingham Forest,2023-02-11,True,90,0.0,0.11,1.0,0.57,6,2.0,4.0,9.3,0,1,3.2,0.47,82.96,3.0,Fulham,False,Brighton,,-0.39
-Andreas Hoelgebaum Pereira,Fulham,Brighton,2023-02-18,False,81,0.0,0.01,0.0,0.02,3,1.0,1.0,2.9,0,1,3.0,0.26,82.88,1.0,Fulham,True,Wolverhampton,,-0.48
-Andreas Hoelgebaum Pereira,Fulham,Wolverhampton,2023-02-24,True,90,0.0,0.06,0.0,0.02,1,2.0,1.0,3.9,0,1,2.8,0.27,83.16,8.0,Fulham,False,Brentford,,-0.55
-Andreas Hoelgebaum Pereira,Fulham,Brentford,2023-03-06,False,90,0.0,0.85,0.0,0.0,8,4.0,0.0,3.4,0,1,4.0,0.43,83.42,2.0,Fulham,True,Arsenal,,0.36
-Andreas Hoelgebaum Pereira,Fulham,Arsenal,2023-03-12,True,75,0.0,0.24,0.0,0.1,2,4.0,2.0,4.0,0,1,4.0,0.45,83.11,6.0,Fulham,False,Bournemouth,,0.19
-Andreas Hoelgebaum Pereira,Fulham,Bournemouth,2023-04-01,False,81,1.0,0.28,0.0,0.07,6,4.0,2.0,9.7,0,1,4.0,0.29,83.04,2.0,Fulham,True,West Ham,,0.63
-Andreas Hoelgebaum Pereira,Fulham,West Ham,2023-04-08,True,84,0.0,0.19,0.0,0.0,2,6.0,0.0,5.2,0,1,3.8,0.32,83.07,2.0,Fulham,False,Everton,,-0.63
-Andreas Hoelgebaum Pereira,Fulham,Everton,2023-04-15,False,78,0.0,0.24,0.0,0.01,2,4.0,1.0,4.4,0,1,4.0,0.36,82.9,10.0,Fulham,True,Leicester City,,0.83
-Andreas Hoelgebaum Pereira,Fulham,Leicester City,2023-04-22,True,85,1.0,1.08,0.0,0.07,10,5.0,1.0,10.8,3,1,4.4,0.41,82.97,2.0,Fulham,False,Aston Villa,,0.59
-Andreas Hoelgebaum Pereira,Fulham,Aston Villa,2023-04-25,False,67,0.0,0.08,0.0,0.0,2,1.0,0.0,0.4,0,1,4.4,0.38,82.47,1.0,Fulham,True,Manchester City,,-1.17
-Andreas Hoelgebaum Pereira,Fulham,Manchester City,2023-04-30,True,57,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,1,3.4,0.32,81.7,0.0,Fulham,False,Liverpool,,-1.33
-Andreas Hoelgebaum Pereira,Fulham,Liverpool,,False,0,,,,,0,,,0.0,0,0,3.0,0.28,79.29,0.0,Fulham,True,Leeds United,,-0.79
-Andreas Hoelgebaum Pereira,Fulham,Leeds United,,True,0,,,,,0,,,0.0,0,0,2.6,0.23,77.03,0.0,Fulham,False,Southampton,,-1.07
-Andreas Hoelgebaum Pereira,Fulham,Southampton,,False,0,,,,,0,,,0.0,0,0,0.6,0.02,74.89,0.0,Fulham,True,Crystal Palace,,0.81
-Andreas Hoelgebaum Pereira,Fulham,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,72.86,0.0,Fulham,False,Manchester United,,-0.1
-Andreas Hoelgebaum Pereira,Fulham,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,70.95,,Fulham,False,Everton,,-0.63
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Andreas Hoelgebaum Pereira,Fulham,Liverpool,2022-08-06,True,88,0.0,0.05,0.0,0.04,2,1.0,1.0,3.2,0,0,2013818,2.0,0.05,88.0,3.0,Fulham,False,Wolverhampton,,-0.46
+Andreas Hoelgebaum Pereira,Fulham,Wolverhampton,2022-08-13,False,85,0.0,0.0,0.0,0.04,3,0.0,2.0,3.2,0,0,2252268,2.5,0.02,86.5,8.0,Fulham,True,Brentford,,0.69
+Andreas Hoelgebaum Pereira,Fulham,Brentford,2022-08-20,True,90,0.0,0.18,1.0,0.35,8,3.0,4.0,13.1,3,0,2117882,4.33,0.41,87.67,2.0,Fulham,False,Arsenal,,-0.0
+Andreas Hoelgebaum Pereira,Fulham,Arsenal,2022-08-27,False,78,0.0,0.03,0.0,0.2,2,1.0,3.0,4.8,0,0,2238724,3.75,0.31,85.25,6.0,Fulham,True,Brighton,,-0.71
+Andreas Hoelgebaum Pereira,Fulham,Brighton,2022-08-30,True,77,0.0,0.04,0.0,0.01,6,1.0,1.0,3.1,1,0,2288617,4.2,0.26,83.6,2.0,Fulham,False,Tottenham,,-0.03
+Andreas Hoelgebaum Pereira,Fulham,Tottenham,2022-09-03,False,60,0.0,0.01,0.0,0.0,2,1.0,0.0,0.5,0,0,2578118,4.2,0.25,79.67,1.0,Fulham,False,Nottingham Forest,,
+Andreas Hoelgebaum Pereira,Fulham,Nottingham Forest,2022-09-16,False,82,0.0,0.15,0.0,0.04,1,2.0,2.0,6.3,0,0,2777342,3.8,0.28,80.0,2.0,Fulham,True,Newcastle United,,0.73
+Andreas Hoelgebaum Pereira,Fulham,Newcastle United,2022-10-01,True,90,0.0,0.12,0.0,0.07,2,1.0,2.0,4.6,0,0,2732471,2.6,0.07,81.25,6.0,Fulham,False,West Ham,,0.14
+Andreas Hoelgebaum Pereira,Fulham,West Ham,2022-10-09,False,76,1.0,0.14,0.0,0.03,6,2.0,1.0,8.0,0,0,2610636,3.4,0.09,80.67,5.0,Fulham,True,Bournemouth,,1.46
+Andreas Hoelgebaum Pereira,Fulham,Bournemouth,2022-10-15,True,86,0.0,0.02,1.0,0.27,5,1.0,3.0,7.3,0,0,2638355,3.2,0.29,81.2,3.0,Fulham,True,Aston Villa,,0.55
+Andreas Hoelgebaum Pereira,Fulham,Aston Villa,2022-10-20,True,86,0.0,0.08,0.0,0.35,3,3.0,4.0,10.7,0,0,2605932,3.4,0.3,81.64,10.0,Fulham,False,Leicester City,,-0.05
+Andreas Hoelgebaum Pereira,Fulham,Leicester City,2022-10-23,False,90,0.0,0.51,2.0,0.68,10,1.0,4.0,13.1,2,0,2707665,5.2,0.77,82.33,3.0,Fulham,True,Everton,,0.34
+Andreas Hoelgebaum Pereira,Fulham,Everton,2022-10-29,True,75,0.0,0.01,0.0,0.32,3,1.0,7.0,11.2,0,0,2776769,5.4,0.75,81.77,6.0,Fulham,False,Manchester City,,-1.26
+Andreas Hoelgebaum Pereira,Fulham,Manchester City,2022-11-05,False,87,1.0,0.76,0.0,0.0,6,1.0,0.0,5.5,0,0,2630117,5.4,0.88,82.14,2.0,Fulham,True,Manchester United,,0.38
+Andreas Hoelgebaum Pereira,Fulham,Manchester United,2022-11-13,True,90,0.0,0.0,0.0,0.06,2,0.0,1.0,0.0,0,1,2622877,4.8,0.67,82.67,3.0,Fulham,False,Crystal Palace,,0.13
+Andreas Hoelgebaum Pereira,Fulham,Crystal Palace,2022-12-26,False,84,0.0,0.66,0.0,0.29,3,3.0,6.0,14.3,0,1,2653131,4.8,0.79,82.75,5.0,Fulham,True,Southampton,,-0.38
+Andreas Hoelgebaum Pereira,Fulham,Southampton,2022-12-31,True,90,0.0,0.15,0.0,0.0,5,2.0,0.0,1.4,0,1,2644030,3.8,0.32,83.18,1.0,Fulham,False,Leeds United,,-0.8
+Andreas Hoelgebaum Pereira,Fulham,Leeds United,2023-01-03,False,58,0.0,0.13,0.0,0.02,1,1.0,1.0,3.2,0,1,2801760,3.4,0.34,81.78,4.0,Fulham,True,Chelsea,,-0.25
+Andreas Hoelgebaum Pereira,Fulham,Chelsea,2023-01-12,True,90,0.0,0.05,1.0,0.37,4,1.0,1.0,4.6,0,1,2801760,3.0,0.4,82.21,2.0,Fulham,False,Newcastle United,,-0.34
+Andreas Hoelgebaum Pereira,Fulham,Newcastle United,2023-01-15,False,76,0.0,0.0,0.0,0.11,2,0.0,2.0,4.6,0,1,2602887,3.0,0.4,81.9,2.0,Fulham,True,Tottenham,,1.07
+Andreas Hoelgebaum Pereira,Fulham,Tottenham,2023-01-23,True,90,0.0,0.04,0.0,0.71,2,1.0,3.0,7.2,0,1,2408378,2.8,0.27,82.29,2.0,Fulham,False,Chelsea,,-0.72
+Andreas Hoelgebaum Pereira,Fulham,Chelsea,2023-02-03,False,90,0.0,0.14,0.0,0.0,2,2.0,0.0,1.9,0,1,2135419,2.2,0.27,82.64,6.0,Fulham,True,Nottingham Forest,,
+Andreas Hoelgebaum Pereira,Fulham,Nottingham Forest,2023-02-11,True,90,0.0,0.11,1.0,0.57,6,2.0,4.0,9.3,0,1,2044973,3.2,0.47,82.96,3.0,Fulham,False,Brighton,,-0.39
+Andreas Hoelgebaum Pereira,Fulham,Brighton,2023-02-18,False,81,0.0,0.01,0.0,0.02,3,1.0,1.0,2.9,0,1,2039353,3.0,0.26,82.88,1.0,Fulham,True,Wolverhampton,,-0.48
+Andreas Hoelgebaum Pereira,Fulham,Wolverhampton,2023-02-24,True,90,0.0,0.06,0.0,0.02,1,2.0,1.0,3.9,0,1,2068754,2.8,0.27,83.16,8.0,Fulham,False,Brentford,,-0.55
+Andreas Hoelgebaum Pereira,Fulham,Brentford,2023-03-06,False,90,0.0,0.85,0.0,0.0,8,4.0,0.0,3.4,0,1,1851094,4.0,0.43,83.42,2.0,Fulham,True,Arsenal,,0.36
+Andreas Hoelgebaum Pereira,Fulham,Arsenal,2023-03-12,True,75,0.0,0.24,0.0,0.1,2,4.0,2.0,4.0,0,1,1655809,4.0,0.45,83.11,6.0,Fulham,False,Bournemouth,,0.19
+Andreas Hoelgebaum Pereira,Fulham,Bournemouth,2023-04-01,False,81,1.0,0.28,0.0,0.07,6,4.0,2.0,9.7,0,1,1422021,4.0,0.29,83.04,2.0,Fulham,True,West Ham,,0.63
+Andreas Hoelgebaum Pereira,Fulham,West Ham,2023-04-08,True,84,0.0,0.19,0.0,0.0,2,6.0,0.0,5.2,0,1,1487942,3.8,0.32,83.07,2.0,Fulham,False,Everton,,-0.63
+Andreas Hoelgebaum Pereira,Fulham,Everton,2023-04-15,False,78,0.0,0.24,0.0,0.01,2,4.0,1.0,4.4,0,1,1557710,4.0,0.36,82.9,10.0,Fulham,True,Leicester City,,0.83
+Andreas Hoelgebaum Pereira,Fulham,Leicester City,2023-04-22,True,85,1.0,1.08,0.0,0.07,10,5.0,1.0,10.8,3,1,1675306,4.4,0.41,82.97,2.0,Fulham,False,Aston Villa,,0.59
+Andreas Hoelgebaum Pereira,Fulham,Aston Villa,2023-04-25,False,67,0.0,0.08,0.0,0.0,2,1.0,0.0,0.4,0,1,1624701,4.4,0.38,82.47,1.0,Fulham,True,Manchester City,,-1.17
+Andreas Hoelgebaum Pereira,Fulham,Manchester City,2023-04-30,True,57,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,1,1605006,3.4,0.32,81.7,0.0,Fulham,False,Liverpool,,-1.33
+Andreas Hoelgebaum Pereira,Fulham,Liverpool,,False,0,,,,,0,,,0.0,0,0,1605006,3.0,0.28,79.29,0.0,Fulham,True,Leeds United,,-0.79
+Andreas Hoelgebaum Pereira,Fulham,Leeds United,,True,0,,,,,0,,,0.0,0,0,1413346,2.6,0.23,77.03,0.0,Fulham,False,Southampton,,-1.07
+Andreas Hoelgebaum Pereira,Fulham,Southampton,,False,0,,,,,0,,,0.0,0,0,1276860,0.6,0.02,74.89,0.0,Fulham,True,Crystal Palace,,0.81
+Andreas Hoelgebaum Pereira,Fulham,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,1196441,0.2,0.0,72.86,0.0,Fulham,False,Manchester United,,-0.1
+Andreas Hoelgebaum Pereira,Fulham,Manchester United,,False,0,,,,,0,,,0.0,0,0,1153776,0.0,0.0,70.95,,Fulham,False,Everton,,-0.63

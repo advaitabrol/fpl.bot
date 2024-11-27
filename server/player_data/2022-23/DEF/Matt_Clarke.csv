@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Matt Clarke,Brighton,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Newcastle United,,0.73
-Matt Clarke,Brighton,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,West Ham,,0.14
-Matt Clarke,Brighton,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Leicester City,,0.83
-Matt Clarke,Brighton,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Fulham,,1.37
-Matt Clarke,Brighton,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Leeds United,,-0.79
-Matt Clarke,Brighton,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Liverpool,,-1.33
-Matt Clarke,Brighton,Liverpool,2022-10-01,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Tottenham,,1.07
-Matt Clarke,Brighton,Tottenham,2022-10-08,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Brentford,,-0.55
-Matt Clarke,Brighton,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Nottingham Forest,,
-Matt Clarke,Brighton,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Manchester City,,-1.26
-Matt Clarke,Brighton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Chelsea,,-0.25
-Matt Clarke,Brighton,Chelsea,2022-10-29,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Wolverhampton,,-0.46
-Matt Clarke,Brighton,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Aston Villa,,0.55
-Matt Clarke,Brighton,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Southampton,,-1.07
-Matt Clarke,Brighton,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Arsenal,,0.36
-Matt Clarke,Brighton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Everton,,-0.63
-Matt Clarke,Brighton,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Liverpool,,-0.53
-Matt Clarke,Brighton,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Leeds United,,-0.8
-Matt Clarke,Brighton,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Bournemouth,,1.46
-Matt Clarke,Brighton,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Crystal Palace,,0.13
-Matt Clarke,Brighton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Fulham,,-0.3
-Matt Clarke,Brighton,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,West Ham,,0.63
-Matt Clarke,Brighton,West Ham,2023-03-04,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Leicester City,,-0.05
-Matt Clarke,Brighton,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Crystal Palace,,0.81
-Matt Clarke,Brighton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Brentford,,0.69
-Matt Clarke,Brighton,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Bournemouth,,0.19
-Matt Clarke,Brighton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Tottenham,,-0.03
-Matt Clarke,Brighton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Chelsea,,-0.72
-Matt Clarke,Brighton,Chelsea,2023-04-15,False,0,0.0,0.0,0.0,0.11,0,0.0,1.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Nottingham Forest,,
-Matt Clarke,Brighton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Wolverhampton,,-0.48
-Matt Clarke,Brighton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Manchester United,,0.38
-Matt Clarke,Brighton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Everton,,0.34
-Matt Clarke,Brighton,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Arsenal,,-0.0
-Matt Clarke,Brighton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Newcastle United,,-0.34
-Matt Clarke,Brighton,Newcastle United,2023-05-18,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Southampton,,-0.38
-Matt Clarke,Brighton,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Manchester City,,-1.17
-Matt Clarke,Brighton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Aston Villa,,0.59
-Matt Clarke,Brighton,Aston Villa,2023-05-28,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,,Luton,False,Brighton,,-0.39
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Matt Clarke,Brighton,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,14644,0.0,0.0,0.0,0,0.0,Brighton,True,Newcastle United,,0.73
+Matt Clarke,Brighton,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,24265,0.0,0.0,0.0,0,0.0,Brighton,False,West Ham,,0.14
+Matt Clarke,Brighton,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,27536,0.0,0.0,0.0,0,0.0,Brighton,True,Leicester City,,0.83
+Matt Clarke,Brighton,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,25953,0.0,0.0,0.0,0,0.0,Brighton,False,Fulham,,1.37
+Matt Clarke,Brighton,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,21017,0.0,0.0,0.0,0,0.0,Brighton,True,Leeds United,,-0.79
+Matt Clarke,Brighton,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,18130,0.0,0.0,0.0,0,0.0,Brighton,False,Liverpool,,-1.33
+Matt Clarke,Brighton,Liverpool,2022-10-01,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,15298,0.0,0.0,0.0,0,0.0,Brighton,True,Tottenham,,1.07
+Matt Clarke,Brighton,Tottenham,2022-10-08,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,14570,0.0,0.0,0.0,0,0.0,Brighton,False,Brentford,,-0.55
+Matt Clarke,Brighton,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,14081,0.0,0.0,0.0,0,0.0,Brighton,True,Nottingham Forest,,
+Matt Clarke,Brighton,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,13469,0.0,0.0,0.0,0,0.0,Brighton,False,Manchester City,,-1.26
+Matt Clarke,Brighton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,13410,0.0,0.0,0.0,0,0.0,Brighton,True,Chelsea,,-0.25
+Matt Clarke,Brighton,Chelsea,2022-10-29,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,13059,0.0,0.0,0.0,0,0.0,Brighton,False,Wolverhampton,,-0.46
+Matt Clarke,Brighton,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,12746,0.0,0.0,0.0,0,0.0,Brighton,True,Aston Villa,,0.55
+Matt Clarke,Brighton,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,12505,0.0,0.0,0.0,0,0.0,Brighton,False,Southampton,,-1.07
+Matt Clarke,Brighton,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,11637,0.0,0.0,0.0,0,0.0,Brighton,True,Arsenal,,0.36
+Matt Clarke,Brighton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,11515,0.0,0.0,0.0,0,0.0,Brighton,False,Everton,,-0.63
+Matt Clarke,Brighton,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,11444,0.0,0.0,0.0,0,0.0,Brighton,True,Liverpool,,-0.53
+Matt Clarke,Brighton,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,11293,0.0,0.0,0.0,0,0.0,Brighton,False,Leeds United,,-0.8
+Matt Clarke,Brighton,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,11203,0.0,0.0,0.0,0,0.0,Brighton,True,Bournemouth,,1.46
+Matt Clarke,Brighton,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,11052,0.0,0.0,0.0,0,0.0,Brighton,False,Crystal Palace,,0.13
+Matt Clarke,Brighton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,10973,0.0,0.0,0.0,0,0.0,Brighton,True,Fulham,,-0.3
+Matt Clarke,Brighton,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,10896,0.0,0.0,0.0,0,0.0,Brighton,True,West Ham,,0.63
+Matt Clarke,Brighton,West Ham,2023-03-04,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,10777,0.0,0.0,0.0,0,0.0,Brighton,False,Leicester City,,-0.05
+Matt Clarke,Brighton,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,10705,0.0,0.0,0.0,0,0.0,Brighton,True,Crystal Palace,,0.81
+Matt Clarke,Brighton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,10705,0.0,0.0,0.0,0,0.0,Brighton,True,Brentford,,0.69
+Matt Clarke,Brighton,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,10615,0.0,0.0,0.0,0,0.0,Brighton,False,Bournemouth,,0.19
+Matt Clarke,Brighton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,10615,0.0,0.0,0.0,0,0.0,Brighton,False,Tottenham,,-0.03
+Matt Clarke,Brighton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,10580,0.0,0.0,0.0,0,0.0,Brighton,False,Chelsea,,-0.72
+Matt Clarke,Brighton,Chelsea,2023-04-15,False,0,0.0,0.0,0.0,0.11,0,0.0,1.0,0.0,0,0,0,0.0,0,10552,0.0,0.0,0.0,0,0.0,Brighton,False,Nottingham Forest,,
+Matt Clarke,Brighton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,10528,0.0,0.0,0.0,0,0.0,Brighton,True,Wolverhampton,,-0.48
+Matt Clarke,Brighton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,10501,0.0,0.0,0.0,0,0.0,Brighton,True,Manchester United,,0.38
+Matt Clarke,Brighton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,10501,0.0,0.0,0.0,0,0.0,Brighton,True,Everton,,0.34
+Matt Clarke,Brighton,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,10474,0.0,0.0,0.0,0,0.0,Brighton,False,Arsenal,,-0.0
+Matt Clarke,Brighton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,10448,0.0,0.0,0.0,0,0.0,Brighton,False,Newcastle United,,-0.34
+Matt Clarke,Brighton,Newcastle United,2023-05-18,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,10448,0.0,0.0,0.0,0,0.0,Brighton,True,Southampton,,-0.38
+Matt Clarke,Brighton,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,10418,0.0,0.0,0.0,0,0.0,Brighton,True,Manchester City,,-1.17
+Matt Clarke,Brighton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,10418,0.0,0.0,0.0,0,0.0,Brighton,False,Aston Villa,,0.59
+Matt Clarke,Brighton,Aston Villa,2023-05-28,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,10398,0.0,0.0,0.0,0,,Luton,False,Brighton,,-0.39

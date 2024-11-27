@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Raheem Sterling,Chelsea,Liverpool,2023-08-13,True,80,0.0,0.0,0.0,0.07,2,0.0,1.0,4.9,0,1,2.0,0.0,80.0,6.0,3.0,7.42,4.84,0.05,2.0,Chelsea,False,West Ham,,-0.22
-Raheem Sterling,Chelsea,West Ham,2023-08-20,False,90,0.0,0.05,0.0,0.05,2,1.0,1.0,8.3,0,1,2.0,0.02,85.0,6.0,3.0,7.42,4.84,0.05,19.0,Chelsea,True,Luton,,
-Raheem Sterling,Chelsea,Luton,2023-08-25,True,90,2.0,1.25,0.0,0.56,19,5.0,2.0,17.8,3,1,7.67,0.43,86.67,6.0,3.0,7.42,4.84,0.05,2.0,Chelsea,True,Nottingham Forest,,1.55
-Raheem Sterling,Chelsea,Nottingham Forest,2023-09-02,True,90,0.0,0.25,0.0,0.22,2,3.0,2.0,7.1,0,1,6.25,0.39,87.5,6.0,3.0,7.42,4.84,0.05,2.0,Chelsea,False,Bournemouth,,0.19
-Raheem Sterling,Chelsea,Bournemouth,2023-09-17,False,90,0.0,0.53,0.0,0.19,2,4.0,3.0,7.1,0,1,5.4,0.42,88.0,6.0,3.0,7.42,4.84,0.05,2.0,Chelsea,True,Aston Villa,,0.64
-Raheem Sterling,Chelsea,Aston Villa,2023-09-24,True,90,0.0,0.31,0.0,0.0,2,1.0,0.0,6.4,0,1,5.4,0.48,88.33,6.0,3.0,7.42,4.84,0.05,0.0,Chelsea,False,Fulham,,0.86
-Raheem Sterling,Chelsea,Fulham,2023-10-02,False,25,0.0,0.0,0.0,0.0,0,0.0,0.0,0.6,0,0,5.0,0.47,79.29,6.0,3.0,7.42,4.84,0.05,16.0,Chelsea,False,Burnley,,0.0
-Raheem Sterling,Chelsea,Burnley,2023-10-07,False,82,1.0,0.41,0.0,0.09,16,3.0,1.0,10.5,3,1,4.4,0.3,79.62,6.0,3.0,7.42,4.84,0.05,2.0,Chelsea,True,Arsenal,,-0.11
-Raheem Sterling,Chelsea,Arsenal,2023-10-21,True,83,0.0,0.0,0.0,0.11,2,0.0,1.0,3.9,0,1,4.4,0.25,80.0,6.0,3.0,7.42,4.84,0.05,2.0,Chelsea,True,Brentford,,0.79
-Raheem Sterling,Chelsea,Brentford,2023-10-28,True,90,0.0,0.42,0.0,0.04,2,2.0,1.0,5.0,0,1,4.4,0.23,81.0,6.0,3.0,7.42,4.84,0.05,5.0,Chelsea,False,Tottenham,,-0.36
-Raheem Sterling,Chelsea,Tottenham,2023-11-06,False,90,0.0,0.1,1.0,0.59,5,3.0,2.0,7.3,0,1,5.0,0.39,81.82,6.0,3.0,7.42,4.84,0.05,6.0,Chelsea,True,Manchester City,,-0.96
-Raheem Sterling,Chelsea,Manchester City,2023-11-12,True,90,1.0,0.96,0.0,0.09,6,2.0,1.0,9.6,0,1,6.2,0.58,82.5,6.0,3.0,7.42,4.84,0.05,6.0,Chelsea,False,Newcastle United,,-0.41
-Raheem Sterling,Chelsea,Newcastle United,2023-11-25,False,86,1.0,0.12,0.0,0.0,6,2.0,0.0,7.0,0,1,4.2,0.52,82.77,6.0,3.0,7.42,4.84,0.05,2.0,Chelsea,True,Brighton,,-0.66
-Raheem Sterling,Chelsea,Brighton,2023-12-03,True,65,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,1,4.2,0.52,81.5,6.0,3.0,7.42,4.84,0.05,2.0,Chelsea,False,Manchester United,,-0.63
-Raheem Sterling,Chelsea,Manchester United,2023-12-06,False,90,0.0,0.0,0.0,0.44,2,0.0,2.0,3.7,0,1,4.2,0.44,82.07,6.0,3.0,7.42,4.84,0.05,1.0,Chelsea,False,Everton,,-0.24
-Raheem Sterling,Chelsea,Everton,2023-12-10,False,24,0.0,0.07,0.0,0.02,1,1.0,1.0,2.7,0,0,3.4,0.23,78.44,6.0,3.0,7.42,4.84,0.05,6.0,Chelsea,True,Sheffield,,0.68
-Raheem Sterling,Chelsea,Sheffield,2023-12-16,True,74,0.0,0.31,1.0,0.62,6,1.0,2.0,9.2,0,1,3.4,0.3,78.18,6.0,3.0,7.42,4.84,0.05,4.0,Chelsea,False,Wolverhampton,,-0.52
-Raheem Sterling,Chelsea,Wolverhampton,2023-12-24,False,90,0.0,0.55,1.0,0.59,4,3.0,2.0,8.7,0,1,3.0,0.59,78.83,6.0,3.0,7.42,4.84,0.05,0.0,Chelsea,True,Crystal Palace,,0.88
-Raheem Sterling,Chelsea,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,2.6,0.59,74.68,6.0,3.0,7.42,4.84,0.05,0.0,Chelsea,False,Luton,,
-Raheem Sterling,Chelsea,Luton,,False,0,,,,,0,,,0.0,0,0,2.2,0.59,70.95,6.0,3.0,7.42,4.84,0.05,6.0,Chelsea,True,Fulham,,-0.13
-Raheem Sterling,Chelsea,Fulham,2024-01-13,True,76,0.0,0.54,0.0,0.0,6,3.0,0.0,3.8,0,1,3.2,0.68,71.19,6.0,3.0,7.42,4.84,0.05,2.0,Chelsea,False,Liverpool,,-1.01
-Raheem Sterling,Chelsea,Liverpool,2024-01-31,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.2,0,1,2.4,0.42,72.05,6.0,3.0,7.42,4.84,0.05,2.0,Chelsea,True,Wolverhampton,,0.05
-Raheem Sterling,Chelsea,Wolverhampton,2024-02-04,True,71,0.0,0.42,0.0,0.0,2,2.0,0.0,1.4,0,1,2.0,0.19,72.0,6.0,3.0,7.42,4.84,0.05,1.0,Chelsea,False,Crystal Palace,,0.38
-Raheem Sterling,Chelsea,Crystal Palace,2024-02-12,False,11,0.0,0.12,0.0,0.06,1,1.0,1.0,2.3,0,0,2.2,0.21,69.46,6.0,3.0,7.42,4.84,0.05,8.0,Chelsea,False,Manchester City,,-1.32
-Raheem Sterling,Chelsea,Manchester City,2024-02-17,False,63,1.0,0.84,0.0,0.0,8,3.0,0.0,8.5,0,1,3.8,0.38,69.2,6.0,3.0,7.42,4.84,0.05,1.0,Chelsea,False,Brentford,,-0.53
-Raheem Sterling,Chelsea,Brentford,2024-03-02,False,11,0.0,0.0,0.0,0.05,1,0.0,1.0,2.4,0,0,2.8,0.28,66.96,6.0,3.0,7.42,4.84,0.05,1.0,Chelsea,True,Newcastle United,,0.55
-Raheem Sterling,Chelsea,Newcastle United,2024-03-11,True,70,0.0,0.45,0.0,0.04,1,3.0,1.0,4.1,0,1,2.6,0.37,67.07,6.0,3.0,7.42,4.84,0.05,4.0,Chelsea,True,Burnley,,0.39
-Raheem Sterling,Chelsea,Burnley,2024-03-30,True,17,0.0,0.38,1.0,0.36,4,3.0,1.0,6.1,0,0,3.0,0.56,65.29,6.0,3.0,7.42,4.84,0.05,1.0,Chelsea,True,Manchester United,,0.38
-Raheem Sterling,Chelsea,Manchester United,2024-04-04,True,19,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,3.0,0.53,63.69,6.0,3.0,7.42,4.84,0.05,0.0,Chelsea,False,Sheffield,,-0.61
-Raheem Sterling,Chelsea,Sheffield,,False,0,,,,,0,,,0.0,0,0,1.4,0.37,61.57,6.0,3.0,7.42,4.84,0.05,0.0,Chelsea,True,Everton,,0.53
-Raheem Sterling,Chelsea,Everton,,True,0,,,,,0,,,0.0,0,0,1.2,0.37,59.58,6.0,3.0,7.42,4.84,0.05,1.0,Chelsea,False,Arsenal,,-0.48
-Raheem Sterling,Chelsea,Arsenal,2024-04-23,False,24,0.0,0.05,0.0,0.0,1,1.0,0.0,1.1,0,0,1.2,0.29,58.47,6.0,3.0,7.42,4.84,0.05,0.0,Chelsea,False,Aston Villa,,0.29
-Raheem Sterling,Chelsea,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.4,0.01,56.7,6.0,3.0,7.42,4.84,0.05,0.0,Chelsea,True,Tottenham,,0.69
-Raheem Sterling,Chelsea,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.2,0.01,55.03,6.0,3.0,7.42,4.84,0.05,0.0,Chelsea,True,West Ham,,0.49
-Raheem Sterling,Chelsea,West Ham,,True,0,,,,,0,,,0.0,0,0,0.2,0.01,53.46,6.0,3.0,7.42,4.84,0.05,6.0,Chelsea,False,Nottingham Forest,,-0.55
-Raheem Sterling,Chelsea,Nottingham Forest,2024-05-11,False,17,1.0,0.07,0.0,0.46,6,1.0,1.0,7.2,0,0,1.4,0.03,52.44,6.0,3.0,7.42,4.84,0.05,0.0,Chelsea,False,Brighton,,-0.6
-Raheem Sterling,Chelsea,Brighton,2024-05-15,False,21,0.0,0.05,0.0,0.0,0,1.0,0.0,0.9,0,0,1.2,0.02,51.59,6.0,3.0,7.42,4.84,0.05,9.0,Chelsea,True,Bournemouth,,1.22
-Raheem Sterling,Chelsea,Bournemouth,2024-05-19,True,63,1.0,0.33,0.0,0.3,9,2.0,3.0,10.1,2,1,3.0,0.09,51.89,6.0,3.0,7.42,4.84,0.05,0.0,Chelsea,True,Manchester City,,-0.96
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Raheem Sterling,Chelsea,Liverpool,2023-08-13,True,80,0.0,0.0,0.0,0.07,2,0.0,1.0,4.9,0,1,142685,2.0,0.0,80.0,6.0,3.0,7.42,4.84,0.05,2.0,Chelsea,False,West Ham,,-0.22
+Raheem Sterling,Chelsea,West Ham,2023-08-20,False,90,0.0,0.05,0.0,0.05,2,1.0,1.0,8.3,0,1,181498,2.0,0.02,85.0,6.0,3.0,7.42,4.84,0.05,19.0,Chelsea,True,Luton,,
+Raheem Sterling,Chelsea,Luton,2023-08-25,True,90,2.0,1.25,0.0,0.56,19,5.0,2.0,17.8,3,1,329237,7.67,0.43,86.67,6.0,3.0,7.42,4.84,0.05,2.0,Chelsea,True,Nottingham Forest,,1.55
+Raheem Sterling,Chelsea,Nottingham Forest,2023-09-02,True,90,0.0,0.25,0.0,0.22,2,3.0,2.0,7.1,0,1,1664262,6.25,0.39,87.5,6.0,3.0,7.42,4.84,0.05,2.0,Chelsea,False,Bournemouth,,0.19
+Raheem Sterling,Chelsea,Bournemouth,2023-09-17,False,90,0.0,0.53,0.0,0.19,2,4.0,3.0,7.1,0,1,1617576,5.4,0.42,88.0,6.0,3.0,7.42,4.84,0.05,2.0,Chelsea,True,Aston Villa,,0.64
+Raheem Sterling,Chelsea,Aston Villa,2023-09-24,True,90,0.0,0.31,0.0,0.0,2,1.0,0.0,6.4,0,1,1453721,5.4,0.48,88.33,6.0,3.0,7.42,4.84,0.05,0.0,Chelsea,False,Fulham,,0.86
+Raheem Sterling,Chelsea,Fulham,2023-10-02,False,25,0.0,0.0,0.0,0.0,0,0.0,0.0,0.6,0,0,1150729,5.0,0.47,79.29,6.0,3.0,7.42,4.84,0.05,16.0,Chelsea,False,Burnley,,0.0
+Raheem Sterling,Chelsea,Burnley,2023-10-07,False,82,1.0,0.41,0.0,0.09,16,3.0,1.0,10.5,3,1,903528,4.4,0.3,79.62,6.0,3.0,7.42,4.84,0.05,2.0,Chelsea,True,Arsenal,,-0.11
+Raheem Sterling,Chelsea,Arsenal,2023-10-21,True,83,0.0,0.0,0.0,0.11,2,0.0,1.0,3.9,0,1,922823,4.4,0.25,80.0,6.0,3.0,7.42,4.84,0.05,2.0,Chelsea,True,Brentford,,0.79
+Raheem Sterling,Chelsea,Brentford,2023-10-28,True,90,0.0,0.42,0.0,0.04,2,2.0,1.0,5.0,0,1,849565,4.4,0.23,81.0,6.0,3.0,7.42,4.84,0.05,5.0,Chelsea,False,Tottenham,,-0.36
+Raheem Sterling,Chelsea,Tottenham,2023-11-06,False,90,0.0,0.1,1.0,0.59,5,3.0,2.0,7.3,0,1,697095,5.0,0.39,81.82,6.0,3.0,7.42,4.84,0.05,6.0,Chelsea,True,Manchester City,,-0.96
+Raheem Sterling,Chelsea,Manchester City,2023-11-12,True,90,1.0,0.96,0.0,0.09,6,2.0,1.0,9.6,0,1,669738,6.2,0.58,82.5,6.0,3.0,7.42,4.84,0.05,6.0,Chelsea,False,Newcastle United,,-0.41
+Raheem Sterling,Chelsea,Newcastle United,2023-11-25,False,86,1.0,0.12,0.0,0.0,6,2.0,0.0,7.0,0,1,903890,4.2,0.52,82.77,6.0,3.0,7.42,4.84,0.05,2.0,Chelsea,True,Brighton,,-0.66
+Raheem Sterling,Chelsea,Brighton,2023-12-03,True,65,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,1,1064549,4.2,0.52,81.5,6.0,3.0,7.42,4.84,0.05,2.0,Chelsea,False,Manchester United,,-0.63
+Raheem Sterling,Chelsea,Manchester United,2023-12-06,False,90,0.0,0.0,0.0,0.44,2,0.0,2.0,3.7,0,1,1067503,4.2,0.44,82.07,6.0,3.0,7.42,4.84,0.05,1.0,Chelsea,False,Everton,,-0.24
+Raheem Sterling,Chelsea,Everton,2023-12-10,False,24,0.0,0.07,0.0,0.02,1,1.0,1.0,2.7,0,0,1197634,3.4,0.23,78.44,6.0,3.0,7.42,4.84,0.05,6.0,Chelsea,True,Sheffield,,0.68
+Raheem Sterling,Chelsea,Sheffield,2023-12-16,True,74,0.0,0.31,1.0,0.62,6,1.0,2.0,9.2,0,1,1261701,3.4,0.3,78.18,6.0,3.0,7.42,4.84,0.05,4.0,Chelsea,False,Wolverhampton,,-0.52
+Raheem Sterling,Chelsea,Wolverhampton,2023-12-24,False,90,0.0,0.55,1.0,0.59,4,3.0,2.0,8.7,0,1,1251338,3.0,0.59,78.83,6.0,3.0,7.42,4.84,0.05,0.0,Chelsea,True,Crystal Palace,,0.88
+Raheem Sterling,Chelsea,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,971718,2.6,0.59,74.68,6.0,3.0,7.42,4.84,0.05,0.0,Chelsea,False,Luton,,
+Raheem Sterling,Chelsea,Luton,,False,0,,,,,0,,,0.0,0,0,937570,2.2,0.59,70.95,6.0,3.0,7.42,4.84,0.05,6.0,Chelsea,True,Fulham,,-0.13
+Raheem Sterling,Chelsea,Fulham,2024-01-13,True,76,0.0,0.54,0.0,0.0,6,3.0,0.0,3.8,0,1,887017,3.2,0.68,71.19,6.0,3.0,7.42,4.84,0.05,2.0,Chelsea,False,Liverpool,,-1.01
+Raheem Sterling,Chelsea,Liverpool,2024-01-31,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.2,0,1,824206,2.4,0.42,72.05,6.0,3.0,7.42,4.84,0.05,2.0,Chelsea,True,Wolverhampton,,0.05
+Raheem Sterling,Chelsea,Wolverhampton,2024-02-04,True,71,0.0,0.42,0.0,0.0,2,2.0,0.0,1.4,0,1,787537,2.0,0.19,72.0,6.0,3.0,7.42,4.84,0.05,1.0,Chelsea,False,Crystal Palace,,0.38
+Raheem Sterling,Chelsea,Crystal Palace,2024-02-12,False,11,0.0,0.12,0.0,0.06,1,1.0,1.0,2.3,0,0,707507,2.2,0.21,69.46,6.0,3.0,7.42,4.84,0.05,8.0,Chelsea,False,Manchester City,,-1.32
+Raheem Sterling,Chelsea,Manchester City,2024-02-17,False,63,1.0,0.84,0.0,0.0,8,3.0,0.0,8.5,0,1,628158,3.8,0.38,69.2,6.0,3.0,7.42,4.84,0.05,1.0,Chelsea,False,Brentford,,-0.53
+Raheem Sterling,Chelsea,Brentford,2024-03-02,False,11,0.0,0.0,0.0,0.05,1,0.0,1.0,2.4,0,0,621253,2.8,0.28,66.96,6.0,3.0,7.42,4.84,0.05,1.0,Chelsea,True,Newcastle United,,0.55
+Raheem Sterling,Chelsea,Newcastle United,2024-03-11,True,70,0.0,0.45,0.0,0.04,1,3.0,1.0,4.1,0,1,607505,2.6,0.37,67.07,6.0,3.0,7.42,4.84,0.05,4.0,Chelsea,True,Burnley,,0.39
+Raheem Sterling,Chelsea,Burnley,2024-03-30,True,17,0.0,0.38,1.0,0.36,4,3.0,1.0,6.1,0,0,605930,3.0,0.56,65.29,6.0,3.0,7.42,4.84,0.05,1.0,Chelsea,True,Manchester United,,0.38
+Raheem Sterling,Chelsea,Manchester United,2024-04-04,True,19,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,593910,3.0,0.53,63.69,6.0,3.0,7.42,4.84,0.05,0.0,Chelsea,False,Sheffield,,-0.61
+Raheem Sterling,Chelsea,Sheffield,,False,0,,,,,0,,,0.0,0,0,583678,1.4,0.37,61.57,6.0,3.0,7.42,4.84,0.05,0.0,Chelsea,True,Everton,,0.53
+Raheem Sterling,Chelsea,Everton,,True,0,,,,,0,,,0.0,0,0,566817,1.2,0.37,59.58,6.0,3.0,7.42,4.84,0.05,1.0,Chelsea,False,Arsenal,,-0.48
+Raheem Sterling,Chelsea,Arsenal,2024-04-23,False,24,0.0,0.05,0.0,0.0,1,1.0,0.0,1.1,0,0,542893,1.2,0.29,58.47,6.0,3.0,7.42,4.84,0.05,0.0,Chelsea,False,Aston Villa,,0.29
+Raheem Sterling,Chelsea,Aston Villa,,False,0,,,,,0,,,0.0,0,0,541745,0.4,0.01,56.7,6.0,3.0,7.42,4.84,0.05,0.0,Chelsea,True,Tottenham,,0.69
+Raheem Sterling,Chelsea,Tottenham,,True,0,,,,,0,,,0.0,0,0,541745,0.2,0.01,55.03,6.0,3.0,7.42,4.84,0.05,0.0,Chelsea,True,West Ham,,0.49
+Raheem Sterling,Chelsea,West Ham,,True,0,,,,,0,,,0.0,0,0,526992,0.2,0.01,53.46,6.0,3.0,7.42,4.84,0.05,6.0,Chelsea,False,Nottingham Forest,,-0.55
+Raheem Sterling,Chelsea,Nottingham Forest,2024-05-11,False,17,1.0,0.07,0.0,0.46,6,1.0,1.0,7.2,0,0,522093,1.4,0.03,52.44,6.0,3.0,7.42,4.84,0.05,0.0,Chelsea,False,Brighton,,-0.6
+Raheem Sterling,Chelsea,Brighton,2024-05-15,False,21,0.0,0.05,0.0,0.0,0,1.0,0.0,0.9,0,0,522093,1.2,0.02,51.59,6.0,3.0,7.42,4.84,0.05,9.0,Chelsea,True,Bournemouth,,1.22
+Raheem Sterling,Chelsea,Bournemouth,2024-05-19,True,63,1.0,0.33,0.0,0.3,9,2.0,3.0,10.1,2,1,524354,3.0,0.09,51.89,6.0,3.0,7.42,4.84,0.05,0.0,Chelsea,True,Manchester City,,-0.96

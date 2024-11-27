@@ -2,8 +2,10 @@ import os
 import pandas as pd
 from itertools import combinations
 from collections import Counter
+from fuzzywuzzy import fuzz, process
 
 from app.services.current_gw_service import FPLGWService
+from app.services.active_users import get_total_players
 
 # Directory containing the player data
 def get_base_dir():
@@ -66,9 +68,13 @@ def load_player_data(base_dir):
         all_players = pd.concat([all_players, df], ignore_index=True)
 
     # Ensure required columns are present
-    required_columns = {'price', 'name', 'expected_points'}
+    required_columns = {'price', 'name', 'expected_points', 'selected'}
     if not required_columns.issubset(all_players.columns):
         raise ValueError(f"Required columns {required_columns} not found in player data files.")
+
+    # Mutate the 'selected' column to represent percentages
+    total_players = get_total_players()
+    all_players['selected'] = (all_players['selected'] / total_players) * 100
     
     return all_players
 
@@ -170,10 +176,16 @@ def calculate_team_points_with_roles(team, dp_cache, captain_scale=2.0):
         raise
 
 
-def suggest_transfers(input_team_json, max_transfers=2, keep=[], blacklist=[], captain_scale=2.0):
-    """
-    Suggests optimal transfers for a team to maximize expected points.
-    """
+def suggest_transfers(
+    input_team_json,
+    max_transfers=2,
+    keep_players=[],
+    avoid_players=[],
+    keep_teams=[],
+    avoid_teams=[],
+    desired_selected=[],
+    captain_scale=2.0,
+):
     try:
         # Dynamically get the base directory
         base_dir = get_base_dir()
@@ -181,65 +193,104 @@ def suggest_transfers(input_team_json, max_transfers=2, keep=[], blacklist=[], c
         # Load all potential transfer players
         all_players = load_player_data(base_dir)
 
+        print(all_players.columns)
+        print(all_players[['selected']].head())
+
         # Convert input team JSON into a DataFrame
         input_team = pd.DataFrame(input_team_json)
 
-        # Adjust captain's expected points
-        for player in input_team_json:
-            if any(player["isCaptain"]):  # Check if the player is captain in any week
+        # Identify players and teams to keep in the final team
+        keep_player_matches = {
+            match[0]
+            for player in keep_players
+            for match in process.extractBests(player, input_team['name'], scorer=fuzz.partial_ratio, limit=len(input_team))
+            if match[1] > 75
+        }
+
+        keep_team_matches = {
+            match[0]
+            for team in keep_teams
+            for match in process.extractBests(team, input_team['team'], scorer=fuzz.partial_ratio, limit=len(input_team))
+            if match[1] > 75
+        }
+
+        # Ensure these players are always included in the final team
+        required_players = input_team[
+            input_team['name'].isin(keep_player_matches) | input_team['team'].isin(keep_team_matches)
+        ]
+
+        # Filter out players in `required_players` from the possible transfer-out pool
+        current_team = input_team[
+            ~input_team['name'].isin(required_players['name'])
+        ].to_dict('records')
+
+        # Apply captain scale adjustments
+        for player in current_team:
+            if "isCaptain" in player and isinstance(player["isCaptain"], list):
                 adjusted_points = [
-                    point * (1 - 0.5) if is_captain else point
+                    point * captain_scale if is_captain else point
                     for point, is_captain in zip(player["expected_points"], player["isCaptain"])
                 ]
                 player["expected_points"] = adjusted_points
-        input_team = pd.DataFrame(input_team_json)
 
-        # Exclude current team players from transfer candidates
-        current_team_names = set(input_team['name'].str.lower().str.strip())
-        all_players = all_players[~all_players['name'].str.lower().str.strip().isin(current_team_names)]
+        # Filter all_players based on avoid criteria
+        if avoid_players:
+            avoid_player_matches = {
+                match[0]
+                for player in avoid_players
+                for match in process.extractBests(player, all_players['name'], scorer=fuzz.partial_ratio, limit=len(all_players))
+                if match[1] > 75
+            }
+            all_players = all_players[~all_players['name'].str.lower().isin([name.lower() for name in avoid_player_matches])]
 
-        # Normalize keep and blacklist sets
-        keep_set = set(name.strip().lower() for name in keep)
-        blacklist_set = set(name.strip().lower() for name in blacklist)
+        if avoid_teams:
+            avoid_team_matches = {
+                match[0]
+                for team in avoid_teams
+                for match in process.extractBests(team, all_players['team'], scorer=fuzz.partial_ratio, limit=len(all_players))
+                if match[1] > 75
+            }
+            all_players = all_players[~all_players['team'].str.lower().isin([team.lower() for team in avoid_team_matches])]
 
+        if desired_selected:
+            lower_bound, upper_bound = desired_selected
+            all_players = all_players[
+                (all_players['selected'] >= lower_bound) & (all_players['selected'] <= upper_bound)
+            ]
+
+        # Initialize variables for the best team and score
         dp_cache = {}
-
-        # Initialize variables
-        current_team = input_team.to_dict('records')
-
-        best_team = current_team.copy()
+        best_team = current_team + required_players.to_dict('records')
         best_score = calculate_team_points_with_roles(best_team, dp_cache, captain_scale)
-
         transfers_suggestion = []
 
         for t in range(1, max_transfers + 1):
             for out_players in combinations(current_team, t):
-
-                # Get positions and budget of players to transfer out
                 out_positions = [player['position'] for player in out_players]
-                out_points = sum(sum(player['expected_points']) for player in out_players)
                 out_budget = sum(player['price'] for player in out_players)
 
                 # Identify potential candidates for each outgoing position
                 position_candidates = {}
                 for position in out_positions:
                     position_candidates[position] = all_players[
-                        (all_players['position'] == position) &
-                        (~all_players['name'].str.lower().str.strip().isin(current_team_names)) &
-                        (~all_players['name'].str.lower().str.strip().isin(blacklist_set))
+                        (all_players['position'] == position)
                     ].to_dict('records')
 
-                # Generate combinations of candidates matching the outgoing positions
                 for in_players in combinations(sum(position_candidates.values(), []), t):
                     if sorted(player['position'] for player in in_players) != sorted(out_positions):
                         continue
 
-                    # Form the new team
-                    new_team = [player for player in current_team if player not in out_players] + list(in_players)
+                    # Form the new team including required players
+                    new_team = (
+                        [player for player in current_team if player not in out_players] 
+                        + list(in_players) 
+                        + required_players.to_dict('records')  # Add required players to the team
+                    )
+
+                    # Calculate the total price and team constraints
                     total_price = sum(player['price'] for player in new_team)
                     team_counts = Counter(player['team'] for player in new_team)
 
-                    # Validate team constraints
                     if total_price <= 100 and all(count <= 3 for count in team_counts.values()):
                         new_score = calculate_team_points_with_roles(new_team, dp_cache, captain_scale)
                         if new_score > best_score:
@@ -249,14 +300,13 @@ def suggest_transfers(input_team_json, max_transfers=2, keep=[], blacklist=[], c
                                 {"out": out, "in": inp}
                                 for out, inp in zip(out_players, in_players)
                             ]
-        # Update team JSON with the new structure
-        updated_team_json = update_team_json(best_team, dp_cache, captain_scale)
 
+        updated_team_json = update_team_json(best_team, dp_cache, captain_scale)
         return updated_team_json, transfers_suggestion
 
     except Exception as e:
-        print("Error in suggest_transfers:", str(e))
-        raise
+        print(f"An error occurred: {e}")
+        return [], []
 
 
 def update_team_json(best_team, dp_cache, captain_scale):
@@ -303,13 +353,12 @@ def update_team_json(best_team, dp_cache, captain_scale):
 
 
 
-
-
-
-
-
-
 def main():
+    ''' 
+    def suggest_transfers(input_team_json,max_transfers=2,keep_players=[],avoid_players=[],
+    keep_teams=[], avoid_teams=[], desired_selected=[], captain_scale=2.0,
+    )
+    '''
     # Define the test input JSON
     test_input_json = [{'name': 'David Raya Martin', 'team': 'Arsenal', 'position': 'GK', 'price': 5.6, 'expected_points': [3.47, 3.39, 3.42], 'isBench': [False, False, False], 'isCaptain': [False, False, False]}, {'name': 'Joško Gvardiol', 'team': 'Man City', 'position': 'DEF', 'price': 6.3, 'expected_points': [3.3, 3.34, 3.34], 'isBench': [False, False, False], 'isCaptain': [False, False, False]}, {'name': 'Noussair Mazraoui', 'team': 'Man Utd', 'position': 'DEF', 'price': 4.6, 'expected_points': [3.11, 3.11, 3.1], 'isBench': [False, False, False], 'isCaptain': [False, False, False]}, {'name': 'Gabriel dos Santos Magalhães', 'team': 'Arsenal', 'position': 'DEF', 'price': 6.1, 'expected_points': [3.18, 2.92, 3.01], 'isBench': [False, False, False], 'isCaptain': [False, False, False]}, {'name': 'Morgan Rogers', 'team': 'Aston Villa', 'position': 'MID', 'price': 5.4, 'expected_points': [4.33, 3.59, 4.07], 'isBench': [False, False, False], 'isCaptain': [False, False, False]}, {'name': 'Bryan Mbeumo', 'team': 'Brentford', 'position': 'MID', 'price': 7.9, 'expected_points': [4.4, 4.07, 3.92], 'isBench': [False, False, False], 'isCaptain': [False, False, False]}, {'name': 'James Maddison', 'team': 'Spurs', 'position': 'MID', 'price': 7.6, 'expected_points': [4.23, 4.29, 4.42], 'isBench': [False, False, False], 'isCaptain': [False, False, False]}, {'name': 'Bukayo Saka', 'team': 'Arsenal', 'position': 'MID', 'price': 10.1, 'expected_points': [5.39, 5.07, 5.3], 'isBench': [False, False, False], 'isCaptain': [False, False, False]}, {'name': 'Erling Haaland', 'team': 'Man City', 'position': 'FWD', 'price': 15.2, 'expected_points': [6.83, 6.99, 7.01], 'isBench': [False, False, False], 'isCaptain': [False, False, False]}, {'name': 'Yoane Wissa', 'team': 'Brentford', 'position': 'FWD', 'price': 6.1, 'expected_points': [4.31, 4.1, 3.94], 'isBench': [False, False, False], 'isCaptain': [False, False, False]}, {'name': 'Matheus Santos Carneiro Da Cunha', 'team': 'Wolves', 'position': 'FWD', 'price': 6.8, 'expected_points': [7.3, 6.7, 6.86], 'isBench': [False, False, False], 'isCaptain': [True, True, True]}, {'name': 'Łukasz Fabiański', 'team': 'West Ham', 'position': 'GK', 'price': 4.0, 'expected_points': [2.97, 3.04, 2.99], 'isBench': [True, True, True], 'isCaptain': [False, False, False]}, {'name': 'Brennan Johnson', 'team': 'Spurs', 'position': 'MID', 'price': 6.8, 'expected_points': [4.53, 4.59, 4.62], 'isBench': [True, True, True], 'isCaptain': [False, False, False]}, {'name': 'Ola Aina', 'team': "Nott'm Forest", 'position': 'DEF', 'price': 4.8, 'expected_points': [3.07, 3.06, 2.41], 'isBench': [True, True, True], 'isCaptain': [False, False, False]}, {'name': 'Jacob Greaves', 'team': 'Ipswich', 'position': 'DEF', 'price': 4.0, 'expected_points': [0.0, 0.0, 0.0], 'isBench': [True, True, True], 'isCaptain': [False, False, False]}]
 
@@ -322,7 +371,7 @@ def main():
     try:
         # Call suggest_transfers
         updated_team_json, transfers_suggestion= suggest_transfers(
-            test_input_json, max_transfers, keep, blacklist, captain_scale
+            test_input_json, max_transfers, keep_players=['Bryan Mbuemo'],keep_teams=['Arsenal'], desired_selected=[20,100]
         )
 
         # Output results
@@ -332,7 +381,9 @@ def main():
             print(player)
 
         print("\nTransfers Suggestion:")
-        for out_name, in_name in transfers_suggestion:
+        for transfer in transfers_suggestion:
+            out_name = transfer['out']['name']  # Extract the name of the player being transferred out
+            in_name = transfer['in']['name']   # Extract the name of the player being transferred in
             print(f"Transfer Out: {out_name} -> Transfer In: {in_name}")
 
     except Exception as e:

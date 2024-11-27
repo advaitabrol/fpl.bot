@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Rodrigo Moreno,Leeds,Wolverhampton,2022-08-06,True,64,0.0,0.0,0.0,0.0,7,0.0,0.0,6.5,0,0,7.0,0.0,64.0,15.0,Leeds,False,Southampton,,-1.07
-Rodrigo Moreno,Leeds,Southampton,,False,90,,,,,15,,,22.0,3,0,11.0,0.0,77.0,13.0,Leeds,True,Chelsea,,-0.25
-Rodrigo Moreno,Leeds,Chelsea,,True,82,,,,,13,,,12.6,2,0,11.67,0.0,78.67,2.0,Leeds,False,Brighton,,-0.39
-Rodrigo Moreno,Leeds,Brighton,,False,90,,,,,2,,,6.3,0,0,9.25,0.0,81.5,1.0,Leeds,True,Everton,,0.34
-Rodrigo Moreno,Leeds,Everton,,True,31,,,,,1,,,0.1,0,0,7.6,0.0,71.4,0.0,Leeds,False,Brentford,,-0.55
-Rodrigo Moreno,Leeds,Brentford,2022-09-03,False,0,0.0,0.01,0.0,0.09,0,1.0,2.0,0.0,0,0,6.2,0.0,59.5,2.0,Leeds,True,Aston Villa,,0.55
-Rodrigo Moreno,Leeds,Aston Villa,,True,67,,,,,2,,,4.1,0,0,3.6,0.0,60.57,2.0,Leeds,False,Crystal Palace,,0.13
-Rodrigo Moreno,Leeds,Crystal Palace,,False,90,,,,,2,,,6.8,0,0,1.4,0.0,64.25,1.0,Leeds,True,Arsenal,,0.36
-Rodrigo Moreno,Leeds,Arsenal,,True,45,,,,,1,,,6.4,0,0,1.2,0.0,62.11,1.0,Leeds,False,Leeds United,,-0.8
-Rodrigo Moreno,Leeds,Leeds United,,False,45,,,,,1,,,1.0,0,0,1.2,0.0,60.4,7.0,Leeds,True,Fulham,,-0.3
-Rodrigo Moreno,Leeds,Fulham,2022-10-23,True,63,0.0,0.06,0.0,0.18,7,1.0,2.0,9.9,0,0,2.6,0.01,60.64,6.0,Leeds,False,Liverpool,,-1.33
-Rodrigo Moreno,Leeds,Liverpool,2022-10-29,False,51,1.0,0.24,0.0,0.04,6,2.0,1.0,12.2,0,0,3.4,0.06,59.83,7.0,Leeds,True,Bournemouth,,1.46
-Rodrigo Moreno,Leeds,Bournemouth,,True,80,,,,,7,,,6.2,0,0,4.4,0.06,61.38,13.0,Leeds,False,Tottenham,,-0.03
-Rodrigo Moreno,Leeds,Tottenham,2022-11-12,False,88,2.0,0.5,0.0,0.0,13,2.0,0.0,12.4,1,1,6.8,0.16,63.29,2.0,Leeds,True,Manchester City,,-1.17
-Rodrigo Moreno,Leeds,Manchester City,,True,71,,,,,2,,,2.4,0,1,7.0,0.16,63.8,3.0,Leeds,False,Newcastle United,,-0.34
-Rodrigo Moreno,Leeds,Newcastle United,,False,81,,,,,3,,,4.6,0,1,6.2,0.15,64.88,6.0,Leeds,True,West Ham,,0.63
-Rodrigo Moreno,Leeds,West Ham,,True,90,,,,,6,,,8.6,0,1,6.2,0.1,66.35,2.0,Leeds,False,Aston Villa,,0.59
-Rodrigo Moreno,Leeds,Aston Villa,,False,90,,,,,2,,,5.3,0,1,5.2,0.1,67.67,2.0,Leeds,True,Brentford,,0.69
-Rodrigo Moreno,Leeds,Brentford,,True,78,,,,,2,,,5.7,0,1,3.0,0.0,68.21,0.0,Leeds,False,Nottingham Forest,,
-Rodrigo Moreno,Leeds,Nottingham Forest,2023-02-05,False,0,0.0,0.0,0.0,0.07,0,0.0,1.0,0.0,0,0,2.6,0.0,64.8,0.0,Leeds,False,Manchester United,,-0.1
-Rodrigo Moreno,Leeds,Manchester United,,False,0,,,,,0,,,0.0,0,0,2.0,0.0,61.71,0.0,Leeds,True,Manchester United,,0.38
-Rodrigo Moreno,Leeds,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.8,0.0,58.91,0.0,Leeds,False,Everton,,-0.63
-Rodrigo Moreno,Leeds,Everton,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,56.35,0.0,Leeds,True,Southampton,,-0.38
-Rodrigo Moreno,Leeds,Southampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,54.0,0.0,Leeds,False,Chelsea,,-0.72
-Rodrigo Moreno,Leeds,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,51.84,1.0,Leeds,True,Brighton,,-0.71
-Rodrigo Moreno,Leeds,Brighton,,True,24,,,,,1,,,0.5,0,0,0.2,0.0,50.77,6.0,Leeds,False,Wolverhampton,,-0.46
-Rodrigo Moreno,Leeds,Wolverhampton,,False,23,,,,,6,,,5.8,0,0,1.4,0.0,49.74,1.0,Leeds,False,Arsenal,,-0.0
-Rodrigo Moreno,Leeds,Arsenal,,False,25,,,,,1,,,0.0,0,0,1.6,0.0,48.86,1.0,Leeds,True,Nottingham Forest,,
-Rodrigo Moreno,Leeds,Nottingham Forest,,True,16,,,,,1,,,3.5,0,0,1.8,0.0,47.72,1.0,Leeds,True,Crystal Palace,,0.81
-Rodrigo Moreno,Leeds,Crystal Palace,,True,30,,,,,1,,,0.7,0,0,2.0,0.0,47.13,2.0,Leeds,True,Liverpool,,-0.53
-Rodrigo Moreno,Leeds,Liverpool,,True,65,,,,,2,,,2.7,0,1,2.2,0.0,47.71,2.0,Leeds,False,Fulham,,1.37
-Rodrigo Moreno,Leeds,Fulham,,False,64,,,,,2,,,1.4,0,1,1.4,0.0,48.22,2.0,Leeds,True,Leeds United,,-0.79
-Rodrigo Moreno,Leeds,Leeds United,,True,67,,,,,2,,,1.6,0,1,1.6,0.0,48.79,1.0,Leeds,False,Bournemouth,,0.19
-Rodrigo Moreno,Leeds,Bournemouth,,False,20,,,,,1,,,0.3,0,0,1.6,0.0,47.94,5.0,Leeds,False,Manchester City,,-1.26
-Rodrigo Moreno,Leeds,Manchester City,,False,32,,,,,5,,,5.0,0,0,2.4,0.0,47.49,5.0,Leeds,True,Newcastle United,,0.73
-Rodrigo Moreno,Leeds,Newcastle United,,True,86,,,,,5,,,5.4,0,1,3.0,0.0,48.56,6.0,Leeds,False,West Ham,,0.14
-Rodrigo Moreno,Leeds,West Ham,,False,90,,,,,6,,,6.5,0,1,3.8,0.0,49.68,2.0,Leeds,True,Tottenham,,1.07
-Rodrigo Moreno,Leeds,Tottenham,,True,90,,,,,2,,,0.0,0,1,3.8,0.0,50.74,,Fulham,False,Everton,,-0.63
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Rodrigo Moreno,Leeds,Wolverhampton,2022-08-06,True,64,0.0,0.0,0.0,0.0,7,0.0,0.0,6.5,0,0,73866,7.0,0.0,64.0,15.0,Leeds,False,Southampton,,-1.07
+Rodrigo Moreno,Leeds,Southampton,,False,90,,,,,15,,,22.0,3,0,156860,11.0,0.0,77.0,13.0,Leeds,True,Chelsea,,-0.25
+Rodrigo Moreno,Leeds,Chelsea,,True,82,,,,,13,,,12.6,2,0,1174241,11.67,0.0,78.67,2.0,Leeds,False,Brighton,,-0.39
+Rodrigo Moreno,Leeds,Brighton,,False,90,,,,,2,,,6.3,0,0,2646946,9.25,0.0,81.5,1.0,Leeds,True,Everton,,0.34
+Rodrigo Moreno,Leeds,Everton,,True,31,,,,,1,,,0.1,0,0,3216775,7.6,0.0,71.4,0.0,Leeds,False,Brentford,,-0.55
+Rodrigo Moreno,Leeds,Brentford,2022-09-03,False,0,0.0,0.01,0.0,0.09,0,1.0,2.0,0.0,0,0,1169847,6.2,0.0,59.5,2.0,Leeds,True,Aston Villa,,0.55
+Rodrigo Moreno,Leeds,Aston Villa,,True,67,,,,,2,,,4.1,0,0,624237,3.6,0.0,60.57,2.0,Leeds,False,Crystal Palace,,0.13
+Rodrigo Moreno,Leeds,Crystal Palace,,False,90,,,,,2,,,6.8,0,0,670972,1.4,0.0,64.25,1.0,Leeds,True,Arsenal,,0.36
+Rodrigo Moreno,Leeds,Arsenal,,True,45,,,,,1,,,6.4,0,0,640675,1.2,0.0,62.11,1.0,Leeds,False,Leeds United,,-0.8
+Rodrigo Moreno,Leeds,Leeds United,,False,45,,,,,1,,,1.0,0,0,699104,1.2,0.0,60.4,7.0,Leeds,True,Fulham,,-0.3
+Rodrigo Moreno,Leeds,Fulham,2022-10-23,True,63,0.0,0.06,0.0,0.18,7,1.0,2.0,9.9,0,0,635311,2.6,0.01,60.64,6.0,Leeds,False,Liverpool,,-1.33
+Rodrigo Moreno,Leeds,Liverpool,2022-10-29,False,51,1.0,0.24,0.0,0.04,6,2.0,1.0,12.2,0,0,570393,3.4,0.06,59.83,7.0,Leeds,True,Bournemouth,,1.46
+Rodrigo Moreno,Leeds,Bournemouth,,True,80,,,,,7,,,6.2,0,0,716153,4.4,0.06,61.38,13.0,Leeds,False,Tottenham,,-0.03
+Rodrigo Moreno,Leeds,Tottenham,2022-11-12,False,88,2.0,0.5,0.0,0.0,13,2.0,0.0,12.4,1,1,699738,6.8,0.16,63.29,2.0,Leeds,True,Manchester City,,-1.17
+Rodrigo Moreno,Leeds,Manchester City,,True,71,,,,,2,,,2.4,0,1,694064,7.0,0.16,63.8,3.0,Leeds,False,Newcastle United,,-0.34
+Rodrigo Moreno,Leeds,Newcastle United,,False,81,,,,,3,,,4.6,0,1,658187,6.2,0.15,64.88,6.0,Leeds,True,West Ham,,0.63
+Rodrigo Moreno,Leeds,West Ham,,True,90,,,,,6,,,8.6,0,1,702198,6.2,0.1,66.35,2.0,Leeds,False,Aston Villa,,0.59
+Rodrigo Moreno,Leeds,Aston Villa,,False,90,,,,,2,,,5.3,0,1,830603,5.2,0.1,67.67,2.0,Leeds,True,Brentford,,0.69
+Rodrigo Moreno,Leeds,Brentford,,True,78,,,,,2,,,5.7,0,1,877315,3.0,0.0,68.21,0.0,Leeds,False,Nottingham Forest,,
+Rodrigo Moreno,Leeds,Nottingham Forest,2023-02-05,False,0,0.0,0.0,0.0,0.07,0,0.0,1.0,0.0,0,0,792685,2.6,0.0,64.8,0.0,Leeds,False,Manchester United,,-0.1
+Rodrigo Moreno,Leeds,Manchester United,,False,0,,,,,0,,,0.0,0,0,792685,2.0,0.0,61.71,0.0,Leeds,True,Manchester United,,0.38
+Rodrigo Moreno,Leeds,Manchester United,,True,0,,,,,0,,,0.0,0,0,550050,0.8,0.0,58.91,0.0,Leeds,False,Everton,,-0.63
+Rodrigo Moreno,Leeds,Everton,,False,0,,,,,0,,,0.0,0,0,479979,0.4,0.0,56.35,0.0,Leeds,True,Southampton,,-0.38
+Rodrigo Moreno,Leeds,Southampton,,True,0,,,,,0,,,0.0,0,0,438406,0.0,0.0,54.0,0.0,Leeds,False,Chelsea,,-0.72
+Rodrigo Moreno,Leeds,Chelsea,,False,0,,,,,0,,,0.0,0,0,426887,0.0,0.0,51.84,1.0,Leeds,True,Brighton,,-0.71
+Rodrigo Moreno,Leeds,Brighton,,True,24,,,,,1,,,0.5,0,0,414960,0.2,0.0,50.77,6.0,Leeds,False,Wolverhampton,,-0.46
+Rodrigo Moreno,Leeds,Wolverhampton,,False,23,,,,,6,,,5.8,0,0,469329,1.4,0.0,49.74,1.0,Leeds,False,Arsenal,,-0.0
+Rodrigo Moreno,Leeds,Arsenal,,False,25,,,,,1,,,0.0,0,0,486140,1.6,0.0,48.86,1.0,Leeds,True,Nottingham Forest,,
+Rodrigo Moreno,Leeds,Nottingham Forest,,True,16,,,,,1,,,3.5,0,0,486140,1.8,0.0,47.72,1.0,Leeds,True,Crystal Palace,,0.81
+Rodrigo Moreno,Leeds,Crystal Palace,,True,30,,,,,1,,,0.7,0,0,470733,2.0,0.0,47.13,2.0,Leeds,True,Liverpool,,-0.53
+Rodrigo Moreno,Leeds,Liverpool,,True,65,,,,,2,,,2.7,0,1,460818,2.2,0.0,47.71,2.0,Leeds,False,Fulham,,1.37
+Rodrigo Moreno,Leeds,Fulham,,False,64,,,,,2,,,1.4,0,1,472011,1.4,0.0,48.22,2.0,Leeds,True,Leeds United,,-0.79
+Rodrigo Moreno,Leeds,Leeds United,,True,67,,,,,2,,,1.6,0,1,460624,1.6,0.0,48.79,1.0,Leeds,False,Bournemouth,,0.19
+Rodrigo Moreno,Leeds,Bournemouth,,False,20,,,,,1,,,0.3,0,0,443031,1.6,0.0,47.94,5.0,Leeds,False,Manchester City,,-1.26
+Rodrigo Moreno,Leeds,Manchester City,,False,32,,,,,5,,,5.0,0,0,434026,2.4,0.0,47.49,5.0,Leeds,True,Newcastle United,,0.73
+Rodrigo Moreno,Leeds,Newcastle United,,True,86,,,,,5,,,5.4,0,1,436156,3.0,0.0,48.56,6.0,Leeds,False,West Ham,,0.14
+Rodrigo Moreno,Leeds,West Ham,,False,90,,,,,6,,,6.5,0,1,440673,3.8,0.0,49.68,2.0,Leeds,True,Tottenham,,1.07
+Rodrigo Moreno,Leeds,Tottenham,,True,90,,,,,2,,,0.0,0,1,468619,3.8,0.0,50.74,,Fulham,False,Everton,,-0.63

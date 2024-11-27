@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Youssef Ramalho Chermiti,Everton,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,0.0,Everton,False,Tottenham,,-0.3
-Youssef Ramalho Chermiti,Everton,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,0.0,Everton,True,Bournemouth,,0.84
-Youssef Ramalho Chermiti,Everton,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,0.0,Everton,False,Aston Villa,,0.11
-Youssef Ramalho Chermiti,Everton,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,0.0,Everton,False,Leicester City,,-0.22
-Youssef Ramalho Chermiti,Everton,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,0.0,Everton,True,Crystal Palace,,0.88
-Youssef Ramalho Chermiti,Everton,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,0.0,Everton,True,Newcastle United,,0.67
-Youssef Ramalho Chermiti,Everton,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,0.0,Everton,False,Ipswich Town,,
-Youssef Ramalho Chermiti,Everton,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,0.0,Everton,True,Fulham,,0.27
-Youssef Ramalho Chermiti,Everton,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,0.0,Everton,False,Southampton,,-0.31
-Youssef Ramalho Chermiti,Everton,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,0.0,Everton,False,West Ham,,-0.34
-Youssef Ramalho Chermiti,Everton,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,,Everton,True,Brentford,,0.54
-,Everton,,,,,,,,,,,,,,,,,,,,,,,,Everton,False,Manchester United,,-0.41
-,Everton,,,,,,,,,,,,,,,,,,,,,,,,Everton,True,Wolverhampton,,-0.08
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Youssef Ramalho Chermiti,Everton,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1528.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,0.0,Everton,False,Tottenham,,-0.3
+Youssef Ramalho Chermiti,Everton,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1433.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,0.0,Everton,True,Bournemouth,,0.84
+Youssef Ramalho Chermiti,Everton,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1182.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,0.0,Everton,False,Aston Villa,,0.11
+Youssef Ramalho Chermiti,Everton,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1210.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,0.0,Everton,False,Leicester City,,-0.22
+Youssef Ramalho Chermiti,Everton,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1097.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,0.0,Everton,True,Crystal Palace,,0.88
+Youssef Ramalho Chermiti,Everton,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1125.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,0.0,Everton,True,Newcastle United,,0.67
+Youssef Ramalho Chermiti,Everton,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1188.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,0.0,Everton,False,Ipswich Town,,
+Youssef Ramalho Chermiti,Everton,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1306.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,0.0,Everton,True,Fulham,,0.27
+Youssef Ramalho Chermiti,Everton,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1236.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,0.0,Everton,False,Southampton,,-0.31
+Youssef Ramalho Chermiti,Everton,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1214.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,0.0,Everton,False,West Ham,,-0.34
+Youssef Ramalho Chermiti,Everton,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1346.0,0.0,0.0,0.0,0.0,0.0,0.61,0.43,0.08,,Everton,True,Brentford,,0.54
+,Everton,,,,,,,,,,,,,,,,,,,,,,,,,Everton,False,Manchester United,,-0.41
+,Everton,,,,,,,,,,,,,,,,,,,,,,,,,Everton,True,Wolverhampton,,-0.08

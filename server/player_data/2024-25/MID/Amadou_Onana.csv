@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Amadou Onana,Aston Villa,West Ham,2024-08-17,False,90.0,1.0,0.52,0.0,0.0,10.0,1.0,0.0,8.6,3.0,1.0,10.0,0.52,90.0,2.0,0.0,2.57,2.41,0.03,1.0,Aston Villa,True,Arsenal,,-0.32
-Amadou Onana,Aston Villa,Arsenal,2024-08-24,True,75.0,0.0,0.11,0.0,0.0,1.0,2.0,0.0,0.9,0.0,1.0,5.5,0.32,82.5,2.0,0.0,2.57,2.41,0.03,9.0,Aston Villa,False,Leicester City,,-0.22
-Amadou Onana,Aston Villa,Leicester City,2024-08-31,False,61.0,1.0,0.72,0.0,0.05,9.0,3.0,1.0,9.7,2.0,1.0,6.67,0.45,75.33,2.0,0.0,2.57,2.41,0.03,1.0,Aston Villa,True,Everton,,0.61
-Amadou Onana,Aston Villa,Everton,2024-09-14,True,45.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.0,1.0,5.25,0.34,67.75,2.0,0.0,2.57,2.41,0.03,2.0,Aston Villa,True,Wolverhampton,,-0.08
-Amadou Onana,Aston Villa,Wolverhampton,2024-09-21,True,61.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.8,0.0,1.0,4.6,0.27,66.4,2.0,0.0,2.57,2.41,0.03,2.0,Aston Villa,False,Ipswich Town,,
-Amadou Onana,Aston Villa,Ipswich Town,2024-09-29,False,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.1,0.0,1.0,3.0,0.17,70.33,2.0,0.0,2.57,2.41,0.03,0.0,Aston Villa,True,Manchester United,,0.39
-Amadou Onana,Aston Villa,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,2.8,0.14,60.29,2.0,0.0,2.57,2.41,0.03,2.0,Aston Villa,False,Fulham,,0.53
-Amadou Onana,Aston Villa,Fulham,2024-10-19,False,74.0,0.0,0.0,0.0,0.06,2.0,0.0,1.0,2.6,0.0,1.0,1.4,0.0,62.0,2.0,0.0,2.57,2.41,0.03,0.0,Aston Villa,True,Bournemouth,,0.84
-Amadou Onana,Aston Villa,Bournemouth,2024-10-26,True,45.0,0.0,0.44,0.0,0.0,0.0,2.0,0.0,4.6,0.0,1.0,1.2,0.09,60.11,2.0,0.0,2.57,2.41,0.03,2.0,Aston Villa,False,Tottenham,,-0.3
-Amadou Onana,Aston Villa,Tottenham,2024-11-03,False,90.0,0.0,0.06,0.0,0.01,2.0,2.0,1.0,3.5,0.0,1.0,1.2,0.1,63.1,2.0,0.0,2.57,2.41,0.03,2.0,Aston Villa,False,Liverpool,,-1.08
-Amadou Onana,Aston Villa,Liverpool,2024-11-09,False,73.0,0.0,0.13,0.0,0.0,2.0,1.0,0.0,5.4,0.0,1.0,1.2,0.12,64.0,2.0,0.0,2.57,2.41,0.03,,Aston Villa,True,Crystal Palace,,0.88
-,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,False,Chelsea,,-0.9
-,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,True,Brentford,,0.54
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Amadou Onana,Aston Villa,West Ham,2024-08-17,False,90.0,1.0,0.52,0.0,0.0,10.0,1.0,0.0,8.6,3.0,1.0,74901.0,10.0,0.52,90.0,2.0,0.0,2.57,2.41,0.03,1.0,Aston Villa,True,Arsenal,,-0.32
+Amadou Onana,Aston Villa,Arsenal,2024-08-24,True,75.0,0.0,0.11,0.0,0.0,1.0,2.0,0.0,0.9,0.0,1.0,309609.0,5.5,0.32,82.5,2.0,0.0,2.57,2.41,0.03,9.0,Aston Villa,False,Leicester City,,-0.22
+Amadou Onana,Aston Villa,Leicester City,2024-08-31,False,61.0,1.0,0.72,0.0,0.05,9.0,3.0,1.0,9.7,2.0,1.0,397994.0,6.67,0.45,75.33,2.0,0.0,2.57,2.41,0.03,1.0,Aston Villa,True,Everton,,0.61
+Amadou Onana,Aston Villa,Everton,2024-09-14,True,45.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.0,1.0,1164286.0,5.25,0.34,67.75,2.0,0.0,2.57,2.41,0.03,2.0,Aston Villa,True,Wolverhampton,,-0.08
+Amadou Onana,Aston Villa,Wolverhampton,2024-09-21,True,61.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.8,0.0,1.0,1265414.0,4.6,0.27,66.4,2.0,0.0,2.57,2.41,0.03,2.0,Aston Villa,False,Ipswich Town,,
+Amadou Onana,Aston Villa,Ipswich Town,2024-09-29,False,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.1,0.0,1.0,1212017.0,3.0,0.17,70.33,2.0,0.0,2.57,2.41,0.03,0.0,Aston Villa,True,Manchester United,,0.39
+Amadou Onana,Aston Villa,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,952942.0,2.8,0.14,60.29,2.0,0.0,2.57,2.41,0.03,2.0,Aston Villa,False,Fulham,,0.53
+Amadou Onana,Aston Villa,Fulham,2024-10-19,False,74.0,0.0,0.0,0.0,0.06,2.0,0.0,1.0,2.6,0.0,1.0,771989.0,1.4,0.0,62.0,2.0,0.0,2.57,2.41,0.03,0.0,Aston Villa,True,Bournemouth,,0.84
+Amadou Onana,Aston Villa,Bournemouth,2024-10-26,True,45.0,0.0,0.44,0.0,0.0,0.0,2.0,0.0,4.6,0.0,1.0,723203.0,1.2,0.09,60.11,2.0,0.0,2.57,2.41,0.03,2.0,Aston Villa,False,Tottenham,,-0.3
+Amadou Onana,Aston Villa,Tottenham,2024-11-03,False,90.0,0.0,0.06,0.0,0.01,2.0,2.0,1.0,3.5,0.0,1.0,628718.0,1.2,0.1,63.1,2.0,0.0,2.57,2.41,0.03,2.0,Aston Villa,False,Liverpool,,-1.08
+Amadou Onana,Aston Villa,Liverpool,2024-11-09,False,73.0,0.0,0.13,0.0,0.0,2.0,1.0,0.0,5.4,0.0,1.0,562996.0,1.2,0.12,64.0,2.0,0.0,2.57,2.41,0.03,,Aston Villa,True,Crystal Palace,,0.88
+,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,False,Chelsea,,-0.9
+,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,True,Brentford,,0.54

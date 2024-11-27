@@ -1,12 +1,12 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Rayan Aït-Nouri,Wolves,Arsenal,2024-08-17,False,83,0,0.01,0,0.0,1,1,0,1.4,0,0,2,1.24,1,1.0,0.01,83.0,0.0,3.23,2.37,0.12,45.79,2.0,Wolves,True,Chelsea,,0.0
-Rayan Aït-Nouri,Wolves,Chelsea,2024-08-25,True,67,0,0.02,1,0.59,2,1,1,3.1,0,0,5,1.24,1,1.5,0.52,75.0,0.0,3.23,2.37,0.12,45.79,1.0,Wolves,False,Nottingham Forest,,-0.54
-Rayan Aït-Nouri,Wolves,Nottingham Forest,2024-08-31,False,59,0,0.82,0,0.11,1,2,2,5.7,0,0,1,0.36,1,1.33,0.62,69.67,0.0,3.23,2.37,0.12,45.79,0.0,Wolves,True,Newcastle United,,0.67
-Rayan Aït-Nouri,Wolves,Newcastle United,2024-09-15,True,85,0,0.0,0,0.0,0,0,0,2.6,0,0,2,0.83,1,1.0,0.46,73.5,0.0,3.23,2.37,0.12,45.79,0.0,Wolves,False,Aston Villa,,0.11
-Rayan Aït-Nouri,Wolves,Aston Villa,2024-09-21,False,90,0,0.2,0,0.0,0,3,0,2.5,0,0,3,1.73,1,0.8,0.41,76.8,0.0,3.23,2.37,0.12,45.79,9.0,Wolves,True,Liverpool,,0.24
-Rayan Aït-Nouri,Wolves,Liverpool,2024-09-28,True,90,1,0.49,0,0.06,9,1,2,10.6,2,0,2,2.54,1,2.4,0.51,79.0,0.0,3.23,2.37,0.12,45.79,9.0,Wolves,False,Brentford,,-0.15
-Rayan Aït-Nouri,Wolves,Brentford,2024-10-05,False,90,1,0.05,1,0.23,9,1,4,13.8,0,0,5,4.25,1,3.8,0.51,80.57,0.0,3.23,2.37,0.12,45.79,1.0,Wolves,True,Manchester City,,-1.18
-Rayan Aït-Nouri,Wolves,Manchester City,2024-10-20,True,90,0,0.0,0,0.02,1,0,1,3.9,0,0,2,1.62,1,3.8,0.35,81.75,0.0,3.23,2.37,0.12,45.79,6.0,Wolves,False,Brighton,,-0.61
-Rayan Aït-Nouri,Wolves,Brighton,2024-10-26,False,90,1,0.12,0,0.04,6,1,1,7.7,0,0,2,1.31,1,5.0,0.37,82.67,0.0,3.23,2.37,0.12,45.79,1.0,Wolves,True,Crystal Palace,,0.88
-Rayan Aït-Nouri,Wolves,Crystal Palace,2024-11-02,True,90,0,0.11,0,0.0,1,2,0,1.6,0,0,2,2.51,1,5.2,0.35,83.4,0.0,3.23,2.37,0.12,45.79,6.0,Wolves,True,Southampton,,0.24
-Rayan Aït-Nouri,Wolves,Southampton,2024-11-09,True,90,0,0.15,0,0.0,6,1,0,2.6,0,1,0,0.66,1,4.6,0.29,84.0,0.09,3.23,2.37,0.12,45.79,,,,,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Rayan Aït-Nouri,Wolves,Arsenal,2024-08-17,False,83,0,0.01,0,0.0,1,1,0,1.4,0,0,2,1.24,1,204670,1.0,0.01,83.0,0.0,3.23,2.37,0.12,45.79,2.0,Wolves,True,Chelsea,,0.0
+Rayan Aït-Nouri,Wolves,Chelsea,2024-08-25,True,67,0,0.02,1,0.59,2,1,1,3.1,0,0,5,1.24,1,221512,1.5,0.52,75.0,0.0,3.23,2.37,0.12,45.79,1.0,Wolves,False,Nottingham Forest,,-0.54
+Rayan Aït-Nouri,Wolves,Nottingham Forest,2024-08-31,False,59,0,0.82,0,0.11,1,2,2,5.7,0,0,1,0.36,1,251262,1.33,0.62,69.67,0.0,3.23,2.37,0.12,45.79,0.0,Wolves,True,Newcastle United,,0.67
+Rayan Aït-Nouri,Wolves,Newcastle United,2024-09-15,True,85,0,0.0,0,0.0,0,0,0,2.6,0,0,2,0.83,1,217568,1.0,0.46,73.5,0.0,3.23,2.37,0.12,45.79,0.0,Wolves,False,Aston Villa,,0.11
+Rayan Aït-Nouri,Wolves,Aston Villa,2024-09-21,False,90,0,0.2,0,0.0,0,3,0,2.5,0,0,3,1.73,1,192717,0.8,0.41,76.8,0.0,3.23,2.37,0.12,45.79,9.0,Wolves,True,Liverpool,,0.24
+Rayan Aït-Nouri,Wolves,Liverpool,2024-09-28,True,90,1,0.49,0,0.06,9,1,2,10.6,2,0,2,2.54,1,179591,2.4,0.51,79.0,0.0,3.23,2.37,0.12,45.79,9.0,Wolves,False,Brentford,,-0.15
+Rayan Aït-Nouri,Wolves,Brentford,2024-10-05,False,90,1,0.05,1,0.23,9,1,4,13.8,0,0,5,4.25,1,225739,3.8,0.51,80.57,0.0,3.23,2.37,0.12,45.79,1.0,Wolves,True,Manchester City,,-1.18
+Rayan Aït-Nouri,Wolves,Manchester City,2024-10-20,True,90,0,0.0,0,0.02,1,0,1,3.9,0,0,2,1.62,1,322178,3.8,0.35,81.75,0.0,3.23,2.37,0.12,45.79,6.0,Wolves,False,Brighton,,-0.61
+Rayan Aït-Nouri,Wolves,Brighton,2024-10-26,False,90,1,0.12,0,0.04,6,1,1,7.7,0,0,2,1.31,1,518504,5.0,0.37,82.67,0.0,3.23,2.37,0.12,45.79,1.0,Wolves,True,Crystal Palace,,0.88
+Rayan Aït-Nouri,Wolves,Crystal Palace,2024-11-02,True,90,0,0.11,0,0.0,1,2,0,1.6,0,0,2,2.51,1,1115819,5.2,0.35,83.4,0.0,3.23,2.37,0.12,45.79,6.0,Wolves,True,Southampton,,0.24
+Rayan Aït-Nouri,Wolves,Southampton,2024-11-09,True,90,0,0.15,0,0.0,6,1,0,2.6,0,1,0,0.66,1,1337818,4.6,0.29,84.0,0.09,3.23,2.37,0.12,45.79,,,,,,

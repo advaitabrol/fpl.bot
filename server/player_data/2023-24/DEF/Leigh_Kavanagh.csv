@@ -1,26 +1,26 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Leigh Kavanagh,Brighton,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Brentford,,0.79
-Leigh Kavanagh,Brighton,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Burnley,,0.39
-Leigh Kavanagh,Brighton,Burnley,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Arsenal,,-0.48
-Leigh Kavanagh,Brighton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Crystal Palace,,0.38
-Leigh Kavanagh,Brighton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Tottenham,,0.69
-Leigh Kavanagh,Brighton,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,West Ham,,-0.22
-Leigh Kavanagh,Brighton,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Wolverhampton,,0.05
-Leigh Kavanagh,Brighton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Luton,,
-Leigh Kavanagh,Brighton,Luton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Crystal Palace,,0.88
-Leigh Kavanagh,Brighton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Tottenham,,-0.36
-Leigh Kavanagh,Brighton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Sheffield,,-0.61
-Leigh Kavanagh,Brighton,Sheffield,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Everton,,0.53
-Leigh Kavanagh,Brighton,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Fulham,,0.86
-Leigh Kavanagh,Brighton,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Nottingham Forest,,1.55
-Leigh Kavanagh,Brighton,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Liverpool,,-1.01
-Leigh Kavanagh,Brighton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Brentford,,-0.53
-Leigh Kavanagh,Brighton,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Arsenal,,-0.11
-Leigh Kavanagh,Brighton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Burnley,,0.0
-Leigh Kavanagh,Brighton,Burnley,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Manchester City,,-0.96
-Leigh Kavanagh,Brighton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Bournemouth,,0.19
-Leigh Kavanagh,Brighton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Aston Villa,,0.64
-Leigh Kavanagh,Brighton,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,False,Newcastle United,,-0.41
-Leigh Kavanagh,Brighton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Chelsea,,-0.25
-Leigh Kavanagh,Brighton,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Manchester United,,0.38
-Leigh Kavanagh,Brighton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,,Brentford,True,Crystal Palace,,0.88
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Leigh Kavanagh,Brighton,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0,0.0,0.0,0.0,0,0.0,Brighton,True,Brentford,,0.79
+Leigh Kavanagh,Brighton,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,136,0.0,0.0,0.0,0,0.0,Brighton,True,Burnley,,0.39
+Leigh Kavanagh,Brighton,Burnley,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,309,0.0,0.0,0.0,0,0.0,Brighton,False,Arsenal,,-0.48
+Leigh Kavanagh,Brighton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,490,0.0,0.0,0.0,0,0.0,Brighton,False,Crystal Palace,,0.38
+Leigh Kavanagh,Brighton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,585,0.0,0.0,0.0,0,0.0,Brighton,True,Tottenham,,0.69
+Leigh Kavanagh,Brighton,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,685,0.0,0.0,0.0,0,0.0,Brighton,False,West Ham,,-0.22
+Leigh Kavanagh,Brighton,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,778,0.0,0.0,0.0,0,0.0,Brighton,True,Wolverhampton,,0.05
+Leigh Kavanagh,Brighton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,939,0.0,0.0,0.0,0,0.0,Brighton,False,Luton,,
+Leigh Kavanagh,Brighton,Luton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1101,0.0,0.0,0.0,0,0.0,Brighton,True,Crystal Palace,,0.88
+Leigh Kavanagh,Brighton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1158,0.0,0.0,0.0,0,0.0,Brighton,False,Tottenham,,-0.36
+Leigh Kavanagh,Brighton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1249,0.0,0.0,0.0,0,0.0,Brighton,False,Sheffield,,-0.61
+Leigh Kavanagh,Brighton,Sheffield,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1419,0.0,0.0,0.0,0,0.0,Brighton,True,Everton,,0.53
+Leigh Kavanagh,Brighton,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1561,0.0,0.0,0.0,0,0.0,Brighton,False,Fulham,,0.86
+Leigh Kavanagh,Brighton,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1599,0.0,0.0,0.0,0,0.0,Brighton,True,Nottingham Forest,,1.55
+Leigh Kavanagh,Brighton,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1638,0.0,0.0,0.0,0,0.0,Brighton,False,Liverpool,,-1.01
+Leigh Kavanagh,Brighton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1794,0.0,0.0,0.0,0,0.0,Brighton,False,Brentford,,-0.53
+Leigh Kavanagh,Brighton,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1823,0.0,0.0,0.0,0,0.0,Brighton,True,Arsenal,,-0.11
+Leigh Kavanagh,Brighton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1860,0.0,0.0,0.0,0,0.0,Brighton,False,Burnley,,0.0
+Leigh Kavanagh,Brighton,Burnley,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1952,0.0,0.0,0.0,0,0.0,Brighton,True,Manchester City,,-0.96
+Leigh Kavanagh,Brighton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1986,0.0,0.0,0.0,0,0.0,Brighton,False,Bournemouth,,0.19
+Leigh Kavanagh,Brighton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2028,0.0,0.0,0.0,0,0.0,Brighton,True,Aston Villa,,0.64
+Leigh Kavanagh,Brighton,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2053,0.0,0.0,0.0,0,0.0,Brighton,False,Newcastle United,,-0.41
+Leigh Kavanagh,Brighton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2184,0.0,0.0,0.0,0,0.0,Brighton,True,Chelsea,,-0.25
+Leigh Kavanagh,Brighton,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2184,0.0,0.0,0.0,0,0.0,Brighton,True,Manchester United,,0.38
+Leigh Kavanagh,Brighton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2248,0.0,0.0,0.0,0,,Brentford,True,Crystal Palace,,0.88

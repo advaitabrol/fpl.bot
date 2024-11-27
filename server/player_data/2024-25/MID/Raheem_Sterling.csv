@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Raheem Sterling,Chelsea,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,8.0,4.0,8.58,4.95,0.06,0.0,Chelsea,False,Wolverhampton,,-0.53
-Raheem Sterling,Chelsea,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,8.0,4.0,8.58,4.95,0.06,0.0,Arsenal,True,Brighton,,-0.42
-Raheem Sterling,Arsenal,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,8.0,4.0,8.58,4.95,0.06,1.0,Arsenal,False,Tottenham,,-0.3
-Raheem Sterling,Arsenal,Tottenham,2024-09-15,False,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,0.25,0.0,2.5,8.0,4.0,8.58,4.95,0.06,0.0,Arsenal,False,Manchester City,,-1.51
-Raheem Sterling,Arsenal,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.2,0.0,2.0,8.0,4.0,8.58,4.95,0.06,1.0,Arsenal,True,Leicester City,,0.47
-Raheem Sterling,Arsenal,Leicester City,2024-09-28,True,16.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.8,0.0,0.0,0.4,0.0,4.33,8.0,4.0,8.58,4.95,0.06,1.0,Arsenal,True,Southampton,,0.24
-Raheem Sterling,Arsenal,Southampton,2024-10-05,True,59.0,0.0,0.24,0.0,0.04,1.0,2.0,1.0,4.5,0.0,1.0,0.6,0.05,12.14,8.0,4.0,8.58,4.95,0.06,1.0,Arsenal,False,Bournemouth,,-0.04
-Raheem Sterling,Arsenal,Bournemouth,2024-10-19,False,36.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.2,0.0,1.0,0.8,0.05,15.12,8.0,4.0,8.58,4.95,0.06,0.0,Arsenal,True,Liverpool,,0.24
-Raheem Sterling,Arsenal,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.6,0.05,13.44,8.0,4.0,8.58,4.95,0.06,0.0,Arsenal,False,Newcastle United,,-0.44
-Raheem Sterling,Arsenal,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.6,0.05,12.1,8.0,4.0,8.58,4.95,0.06,0.0,Arsenal,False,Chelsea,,-0.9
-Raheem Sterling,Arsenal,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.4,0.05,11.0,8.0,4.0,8.58,4.95,0.06,,Arsenal,True,Nottingham Forest,,1.2
-,Arsenal,,,,,,,,,,,,,,,,,,,,,,,,Arsenal,False,West Ham,,-0.34
-,Arsenal,,,,,,,,,,,,,,,,,,,,,,,,Arsenal,True,Manchester United,,0.39
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Raheem Sterling,Chelsea,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,164846.0,0.0,0.0,0.0,8.0,4.0,8.58,4.95,0.06,0.0,Chelsea,False,Wolverhampton,,-0.53
+Raheem Sterling,Chelsea,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,142291.0,0.0,0.0,0.0,8.0,4.0,8.58,4.95,0.06,0.0,Arsenal,True,Brighton,,-0.42
+Raheem Sterling,Arsenal,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,119706.0,0.0,0.0,0.0,8.0,4.0,8.58,4.95,0.06,1.0,Arsenal,False,Tottenham,,-0.3
+Raheem Sterling,Arsenal,Tottenham,2024-09-15,False,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,125804.0,0.25,0.0,2.5,8.0,4.0,8.58,4.95,0.06,0.0,Arsenal,False,Manchester City,,-1.51
+Raheem Sterling,Arsenal,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,121288.0,0.2,0.0,2.0,8.0,4.0,8.58,4.95,0.06,1.0,Arsenal,True,Leicester City,,0.47
+Raheem Sterling,Arsenal,Leicester City,2024-09-28,True,16.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.8,0.0,0.0,118063.0,0.4,0.0,4.33,8.0,4.0,8.58,4.95,0.06,1.0,Arsenal,True,Southampton,,0.24
+Raheem Sterling,Arsenal,Southampton,2024-10-05,True,59.0,0.0,0.24,0.0,0.04,1.0,2.0,1.0,4.5,0.0,1.0,110972.0,0.6,0.05,12.14,8.0,4.0,8.58,4.95,0.06,1.0,Arsenal,False,Bournemouth,,-0.04
+Raheem Sterling,Arsenal,Bournemouth,2024-10-19,False,36.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.2,0.0,1.0,109586.0,0.8,0.05,15.12,8.0,4.0,8.58,4.95,0.06,0.0,Arsenal,True,Liverpool,,0.24
+Raheem Sterling,Arsenal,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,107771.0,0.6,0.05,13.44,8.0,4.0,8.58,4.95,0.06,0.0,Arsenal,False,Newcastle United,,-0.44
+Raheem Sterling,Arsenal,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,105652.0,0.6,0.05,12.1,8.0,4.0,8.58,4.95,0.06,0.0,Arsenal,False,Chelsea,,-0.9
+Raheem Sterling,Arsenal,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,99551.0,0.4,0.05,11.0,8.0,4.0,8.58,4.95,0.06,,Arsenal,True,Nottingham Forest,,1.2
+,Arsenal,,,,,,,,,,,,,,,,,,,,,,,,,Arsenal,False,West Ham,,-0.34
+,Arsenal,,,,,,,,,,,,,,,,,,,,,,,,,Arsenal,True,Manchester United,,0.39

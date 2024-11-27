@@ -1,33 +1,33 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Lino Sousa,Arsenal,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,True,Tottenham,,1.07
-Lino Sousa,Arsenal,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,True,Liverpool,,-0.53
-Lino Sousa,Arsenal,Liverpool,2022-10-09,True,0,1.0,0.56,0.0,0.06,0,3.0,1.0,0.0,0,0,0,0.0,0,0.0,0.19,0.0,0,0.0,Arsenal,False,Leicester City,,-0.05
-Lino Sousa,Arsenal,Leicester City,2022-10-16,False,0,0.0,0.07,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.16,0.0,0,0.0,Arsenal,False,Southampton,,-1.07
-Lino Sousa,Arsenal,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.13,0.0,0,0.0,Arsenal,True,Nottingham Forest,,
-Lino Sousa,Arsenal,Nottingham Forest,2022-10-30,True,0,0.0,0.55,0.0,0.0,0,6.0,0.0,0.0,0,0,0,0.0,0,0.0,0.24,0.0,0,0.0,Arsenal,False,Chelsea,,-0.72
-Lino Sousa,Arsenal,Chelsea,2022-11-06,False,0,0.0,0.39,0.0,0.0,0,3.0,0.0,0.0,0,0,0,0.0,0,0.0,0.31,0.0,0,0.0,Arsenal,False,Wolverhampton,,-0.46
-Lino Sousa,Arsenal,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.2,0.0,0,0.0,Arsenal,True,West Ham,,0.63
-Lino Sousa,Arsenal,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.19,0.0,0,0.0,Arsenal,False,Brighton,,-0.39
-Lino Sousa,Arsenal,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.19,0.0,0,0.0,Arsenal,True,Newcastle United,,0.73
-Lino Sousa,Arsenal,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.08,0.0,0,0.0,Arsenal,False,Tottenham,,-0.03
-Lino Sousa,Arsenal,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,True,Manchester United,,0.38
-Lino Sousa,Arsenal,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,False,Everton,,-0.63
-Lino Sousa,Arsenal,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,True,Brentford,,0.69
-Lino Sousa,Arsenal,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,True,Manchester City,,-1.17
-Lino Sousa,Arsenal,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,False,Aston Villa,,0.59
-Lino Sousa,Arsenal,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,False,Leeds United,,-0.8
-Lino Sousa,Arsenal,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,True,Everton,,0.34
-Lino Sousa,Arsenal,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,True,Bournemouth,,1.46
-Lino Sousa,Arsenal,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,False,Fulham,,1.37
-Lino Sousa,Arsenal,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,True,Crystal Palace,,0.81
-Lino Sousa,Arsenal,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,True,Leicester City,,0.83
-Lino Sousa,Arsenal,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,False,Liverpool,,-1.33
-Lino Sousa,Arsenal,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,False,West Ham,,0.14
-Lino Sousa,Arsenal,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,True,Southampton,,-0.38
-Lino Sousa,Arsenal,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,False,Manchester City,,-1.26
-Lino Sousa,Arsenal,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,True,Chelsea,,-0.25
-Lino Sousa,Arsenal,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,False,Newcastle United,,-0.34
-Lino Sousa,Arsenal,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,True,Brighton,,-0.71
-Lino Sousa,Arsenal,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,False,Nottingham Forest,,
-Lino Sousa,Arsenal,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Arsenal,True,Wolverhampton,,-0.48
-Lino Sousa,Arsenal,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,,Man Utd,True,Wolverhampton,,-0.48
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Lino Sousa,Arsenal,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0,0.0,0.0,0.0,0,0.0,Arsenal,True,Tottenham,,1.07
+Lino Sousa,Arsenal,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1287,0.0,0.0,0.0,0,0.0,Arsenal,True,Liverpool,,-0.53
+Lino Sousa,Arsenal,Liverpool,2022-10-09,True,0,1.0,0.56,0.0,0.06,0,3.0,1.0,0.0,0,0,0,0.0,0,2744,0.0,0.19,0.0,0,0.0,Arsenal,False,Leicester City,,-0.05
+Lino Sousa,Arsenal,Leicester City,2022-10-16,False,0,0.0,0.07,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,3352,0.0,0.16,0.0,0,0.0,Arsenal,False,Southampton,,-1.07
+Lino Sousa,Arsenal,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4174,0.0,0.13,0.0,0,0.0,Arsenal,True,Nottingham Forest,,
+Lino Sousa,Arsenal,Nottingham Forest,2022-10-30,True,0,0.0,0.55,0.0,0.0,0,6.0,0.0,0.0,0,0,0,0.0,0,4639,0.0,0.24,0.0,0,0.0,Arsenal,False,Chelsea,,-0.72
+Lino Sousa,Arsenal,Chelsea,2022-11-06,False,0,0.0,0.39,0.0,0.0,0,3.0,0.0,0.0,0,0,0,0.0,0,4884,0.0,0.31,0.0,0,0.0,Arsenal,False,Wolverhampton,,-0.46
+Lino Sousa,Arsenal,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,5295,0.0,0.2,0.0,0,0.0,Arsenal,True,West Ham,,0.63
+Lino Sousa,Arsenal,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,6310,0.0,0.19,0.0,0,0.0,Arsenal,False,Brighton,,-0.39
+Lino Sousa,Arsenal,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,6564,0.0,0.19,0.0,0,0.0,Arsenal,True,Newcastle United,,0.73
+Lino Sousa,Arsenal,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,6594,0.0,0.08,0.0,0,0.0,Arsenal,False,Tottenham,,-0.03
+Lino Sousa,Arsenal,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,6807,0.0,0.0,0.0,0,0.0,Arsenal,True,Manchester United,,0.38
+Lino Sousa,Arsenal,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,6880,0.0,0.0,0.0,0,0.0,Arsenal,False,Everton,,-0.63
+Lino Sousa,Arsenal,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,7031,0.0,0.0,0.0,0,0.0,Arsenal,True,Brentford,,0.69
+Lino Sousa,Arsenal,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,7045,0.0,0.0,0.0,0,0.0,Arsenal,True,Manchester City,,-1.17
+Lino Sousa,Arsenal,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,7045,0.0,0.0,0.0,0,0.0,Arsenal,False,Aston Villa,,0.59
+Lino Sousa,Arsenal,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,7176,0.0,0.0,0.0,0,0.0,Arsenal,False,Leeds United,,-0.8
+Lino Sousa,Arsenal,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,7187,0.0,0.0,0.0,0,0.0,Arsenal,True,Everton,,0.34
+Lino Sousa,Arsenal,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,7187,0.0,0.0,0.0,0,0.0,Arsenal,True,Bournemouth,,1.46
+Lino Sousa,Arsenal,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,7245,0.0,0.0,0.0,0,0.0,Arsenal,False,Fulham,,1.37
+Lino Sousa,Arsenal,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,7475,0.0,0.0,0.0,0,0.0,Arsenal,True,Crystal Palace,,0.81
+Lino Sousa,Arsenal,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,7533,0.0,0.0,0.0,0,0.0,Arsenal,True,Leicester City,,0.83
+Lino Sousa,Arsenal,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,7665,0.0,0.0,0.0,0,0.0,Arsenal,False,Liverpool,,-1.33
+Lino Sousa,Arsenal,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,7708,0.0,0.0,0.0,0,0.0,Arsenal,False,West Ham,,0.14
+Lino Sousa,Arsenal,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,7775,0.0,0.0,0.0,0,0.0,Arsenal,True,Southampton,,-0.38
+Lino Sousa,Arsenal,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,7818,0.0,0.0,0.0,0,0.0,Arsenal,False,Manchester City,,-1.26
+Lino Sousa,Arsenal,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,7878,0.0,0.0,0.0,0,0.0,Arsenal,True,Chelsea,,-0.25
+Lino Sousa,Arsenal,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,8070,0.0,0.0,0.0,0,0.0,Arsenal,False,Newcastle United,,-0.34
+Lino Sousa,Arsenal,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,8161,0.0,0.0,0.0,0,0.0,Arsenal,True,Brighton,,-0.71
+Lino Sousa,Arsenal,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,8256,0.0,0.0,0.0,0,0.0,Arsenal,False,Nottingham Forest,,
+Lino Sousa,Arsenal,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,8462,0.0,0.0,0.0,0,0.0,Arsenal,True,Wolverhampton,,-0.48
+Lino Sousa,Arsenal,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,8585,0.0,0.0,0.0,0,,Man Utd,True,Wolverhampton,,-0.48

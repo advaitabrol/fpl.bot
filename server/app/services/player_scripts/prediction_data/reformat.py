@@ -18,6 +18,8 @@ def merge_player_weeks(input_csv, output_csv):
         # Extract player information (consistent across rows)
         team = group['team'].iloc[0]
         price = group['price'].iloc[0]
+        form = group['form'].iloc[0]
+        selected = group['selected'].iloc[0]
         
         # Extract the predicted points for each "week" column
         week1, week2, week3 = group['predicted_next_week_points'].values
@@ -26,6 +28,8 @@ def merge_player_weeks(input_csv, output_csv):
         merged_row = {
             'name': name,
             'team': team,
+            'form': form, 
+            'selected': selected,
             'price': price,
             'week1': week1,
             'week2': week2,

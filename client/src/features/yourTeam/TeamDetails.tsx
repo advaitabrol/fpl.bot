@@ -4,6 +4,8 @@ import PlayerRow from '../team/PlayerRow';
 import Bench from '../team/Bench';
 import TeamActions from './TeamActions';
 
+import { Player } from '../../services/interfaces';
+
 const TeamStatsContainer = styled.div`
   display: flex;
   justify-content: center;
@@ -38,27 +40,17 @@ const SectionTitle = styled.h2`
   color: #333;
 `;
 
-interface TeamPlayer {
-  name: string;
-  team: string;
-  position: 'GK' | 'DEF' | 'MID' | 'FWD';
-  price: number;
-  expected_points: number[];
-  isBench: boolean[];
-  isCaptain: boolean[];
-}
-
 interface TeamDetailsProps {
   teamData: {
     team_name: string;
-    team: TeamPlayer[];
+    team: Player[];
   };
 }
 
 const TeamDetails: React.FC<TeamDetailsProps> = ({ teamData }) => {
   const [team, setTeam] = useState(teamData.team);
 
-  const calculateProjectedPoints = (team: TeamPlayer[]) => {
+  const calculateProjectedPoints = (team: Player[]) => {
     return [0, 1, 2].map((weekIndex) =>
       team
         .filter((player) => !player.isBench[weekIndex])

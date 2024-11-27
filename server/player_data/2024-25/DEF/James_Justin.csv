@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-James Justin,Leicester,Tottenham,2024-08-19,True,90.0,0.0,0.06,0.0,0.0,2.0,1.0,0.0,3.8,0.0,0.0,1.0,1.23,1.0,2.0,0.06,90.0,0.0,1.0,Leicester,False,Fulham,,0.53
-James Justin,Leicester,Fulham,2024-08-24,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.8,0.0,0.0,2.0,1.78,1.0,1.5,0.03,90.0,0.0,1.0,Leicester,True,Aston Villa,,0.66
-James Justin,Leicester,Aston Villa,2024-08-31,True,90.0,0.0,0.12,0.0,0.0,1.0,1.0,0.0,1.5,0.0,0.0,2.0,1.55,1.0,1.33,0.06,90.0,0.0,1.0,Leicester,False,Crystal Palace,,0.2
-James Justin,Leicester,Crystal Palace,2024-09-14,False,90.0,0.0,0.05,0.0,0.0,1.0,1.0,0.0,0.9,0.0,0.0,2.0,2.55,1.0,1.25,0.06,90.0,0.0,2.0,Leicester,True,Everton,,0.61
-James Justin,Leicester,Everton,2024-09-21,True,90.0,0.0,0.0,0.0,0.05,2.0,0.0,2.0,3.9,0.0,0.0,1.0,1.1,1.0,1.4,0.05,90.0,0.0,12.0,Leicester,False,Arsenal,,-0.56
-James Justin,Leicester,Arsenal,2024-09-28,False,90.0,2.0,0.21,0.0,0.0,12.0,3.0,0.0,12.2,0.0,0.0,4.0,4.6,1.0,3.4,0.07,90.0,0.0,10.0,Leicester,True,Bournemouth,,0.84
-James Justin,Leicester,Bournemouth,2024-10-05,True,90.0,0.0,0.0,1.0,0.43,10.0,0.0,1.0,3.9,2.0,1.0,0.0,2.16,1.0,5.2,0.27,90.0,0.14,1.0,Leicester,False,Southampton,,-0.31
-James Justin,Leicester,Southampton,2024-10-19,False,90.0,0.0,0.03,0.0,0.04,1.0,2.0,1.0,5.8,0.0,0.0,2.0,2.15,1.0,5.2,0.26,90.0,0.12,1.0,Leicester,True,Nottingham Forest,,1.2
-James Justin,Leicester,Nottingham Forest,2024-10-25,True,90.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,3.8,0.0,0.0,3.0,1.73,1.0,5.2,0.25,90.0,0.11,0.0,Leicester,False,Ipswich Town,,
-James Justin,Leicester,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,4.8,0.25,81.0,0.11,1.0,Leicester,False,Manchester United,,-0.41
-James Justin,Leicester,Manchester United,2024-11-10,False,82.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.1,0.0,0.0,3.0,0.66,1.0,2.6,0.21,81.09,0.1,,Leicester,True,Chelsea,,0.0
-,Leicester,,,,,,,,,,,,,,,,,,,,,,,Leicester,False,Brentford,,-0.15
-,Leicester,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,West Ham,,0.48
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+James Justin,Leicester,Tottenham,2024-08-19,True,90.0,0.0,0.06,0.0,0.0,2.0,1.0,0.0,3.8,0.0,0.0,1.0,1.23,1.0,23101.0,2.0,0.06,90.0,0.0,1.0,Leicester,False,Fulham,,0.53
+James Justin,Leicester,Fulham,2024-08-24,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.8,0.0,0.0,2.0,1.78,1.0,30080.0,1.5,0.03,90.0,0.0,1.0,Leicester,True,Aston Villa,,0.66
+James Justin,Leicester,Aston Villa,2024-08-31,True,90.0,0.0,0.12,0.0,0.0,1.0,1.0,0.0,1.5,0.0,0.0,2.0,1.55,1.0,27574.0,1.33,0.06,90.0,0.0,1.0,Leicester,False,Crystal Palace,,0.2
+James Justin,Leicester,Crystal Palace,2024-09-14,False,90.0,0.0,0.05,0.0,0.0,1.0,1.0,0.0,0.9,0.0,0.0,2.0,2.55,1.0,27296.0,1.25,0.06,90.0,0.0,2.0,Leicester,True,Everton,,0.61
+James Justin,Leicester,Everton,2024-09-21,True,90.0,0.0,0.0,0.0,0.05,2.0,0.0,2.0,3.9,0.0,0.0,1.0,1.1,1.0,29264.0,1.4,0.05,90.0,0.0,12.0,Leicester,False,Arsenal,,-0.56
+James Justin,Leicester,Arsenal,2024-09-28,False,90.0,2.0,0.21,0.0,0.0,12.0,3.0,0.0,12.2,0.0,0.0,4.0,4.6,1.0,25810.0,3.4,0.07,90.0,0.0,10.0,Leicester,True,Bournemouth,,0.84
+James Justin,Leicester,Bournemouth,2024-10-05,True,90.0,0.0,0.0,1.0,0.43,10.0,0.0,1.0,3.9,2.0,1.0,0.0,2.16,1.0,129505.0,5.2,0.27,90.0,0.14,1.0,Leicester,False,Southampton,,-0.31
+James Justin,Leicester,Southampton,2024-10-19,False,90.0,0.0,0.03,0.0,0.04,1.0,2.0,1.0,5.8,0.0,0.0,2.0,2.15,1.0,429986.0,5.2,0.26,90.0,0.12,1.0,Leicester,True,Nottingham Forest,,1.2
+James Justin,Leicester,Nottingham Forest,2024-10-25,True,90.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,3.8,0.0,0.0,3.0,1.73,1.0,514766.0,5.2,0.25,90.0,0.11,0.0,Leicester,False,Ipswich Town,,
+James Justin,Leicester,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,519527.0,4.8,0.25,81.0,0.11,1.0,Leicester,False,Manchester United,,-0.41
+James Justin,Leicester,Manchester United,2024-11-10,False,82.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.1,0.0,0.0,3.0,0.66,1.0,427778.0,2.6,0.21,81.09,0.1,,Leicester,True,Chelsea,,0.0
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,Leicester,False,Brentford,,-0.15
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,West Ham,,0.48

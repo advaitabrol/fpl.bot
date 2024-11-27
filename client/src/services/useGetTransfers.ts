@@ -1,27 +1,29 @@
 import axios from 'axios';
-
-interface GetTransfersParams {
-  team: any[]; // Replace `any` with your specific Player type
-  maxTransfers: number;
-  keep?: string[];
-  blacklist?: string[];
-}
+import { TransferConfiguration } from '../services/interfaces';
 
 const useGetTransfers = () => {
   const getTransfers = async ({
     team,
-    maxTransfers,
-    keep = [],
-    blacklist = [],
-  }: GetTransfersParams) => {
+    max_transfers,
+    keep_players = [],
+    avoid_players = [],
+    keep_teams = [],
+    avoid_teams = [],
+    desired_selected = [0, 100],
+    captain_scale = 2.0,
+  }: TransferConfiguration) => {
     try {
       const response = await axios.post(
         'http://127.0.0.1:8000/teams/suggest-transfers',
         {
           team,
-          max_transfers: maxTransfers,
-          keep,
-          blacklist,
+          max_transfers,
+          keep_players,
+          avoid_players,
+          keep_teams,
+          avoid_teams,
+          desired_selected,
+          captain_scale,
         }
       );
       return response.data;

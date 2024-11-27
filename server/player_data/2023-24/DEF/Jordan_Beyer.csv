@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jordan Beyer,Burnley,Manchester City,,True,73,,,,,1,,,0.0,0,0,2,1.01,1,1.0,0.0,73.0,0.0,0.0,Burnley,True,Aston Villa,,0.64
-Jordan Beyer,Burnley,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.5,0.0,36.5,0.0,-1.0,Burnley,True,Tottenham,,0.69
-Jordan Beyer,Burnley,Tottenham,,True,73,,,,,-1,,,2.3,0,0,5,2.14,1,0.0,0.0,48.67,0.0,3.0,Burnley,False,Nottingham Forest,,-0.55
-Jordan Beyer,Burnley,Nottingham Forest,,False,87,,,,,3,,,2.3,1,0,1,0.64,1,0.75,0.0,58.25,0.0,1.0,Burnley,True,Manchester United,,0.38
-Jordan Beyer,Burnley,Manchester United,2023-09-23,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.5,0,0,1,0.91,1,0.8,0.0,64.6,0.0,0.0,Burnley,False,Newcastle United,,-0.41
-Jordan Beyer,Burnley,Newcastle United,2023-09-30,False,90,0.0,0.0,0.0,0.08,0,0.0,1.0,2.6,0,0,2,3.19,1,0.6,0.0,68.83,0.0,2.0,Burnley,False,Luton,,
-Jordan Beyer,Burnley,Luton,,False,90,,,,,2,,,2.6,0,0,1,1.31,1,1.0,0.0,71.86,0.0,0.0,Burnley,True,Chelsea,,-0.25
-Jordan Beyer,Burnley,Chelsea,2023-10-07,True,0,0.0,0.42,0.0,0.0,0,3.0,0.0,0.0,0,0,0,0.0,0,1.2,0.08,62.88,0.0,0.0,Burnley,False,Brentford,,-0.53
-Jordan Beyer,Burnley,Brentford,2023-10-21,False,0,0.0,0.11,0.0,0.0,0,3.0,0.0,0.0,0,0,0,0.0,0,0.6,0.11,55.89,0.0,0.0,Burnley,False,Bournemouth,,0.19
-Jordan Beyer,Burnley,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.11,50.3,0.0,2.0,Burnley,True,Crystal Palace,,0.88
-Jordan Beyer,Burnley,Crystal Palace,2023-11-04,True,85,0.0,0.04,1.0,0.8,2,1.0,1.0,1.5,0,0,1,0.97,1,0.8,0.31,53.45,0.0,1.0,Burnley,False,Arsenal,,-0.48
-Jordan Beyer,Burnley,Arsenal,2023-11-11,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,5.1,0,0,3,2.03,1,0.6,0.31,56.5,0.0,0.0,Burnley,True,West Ham,,0.49
-Jordan Beyer,Burnley,West Ham,2023-11-25,True,90,0.0,0.0,0.0,0.74,0,0.0,2.0,1.6,0,0,2,1.03,1,0.6,0.23,59.08,0.0,11.0,Burnley,True,Sheffield,,0.68
-Jordan Beyer,Burnley,Sheffield,,True,90,,,,,11,,,4.6,3,1,0,0.39,1,2.8,0.21,61.29,0.1,0.0,Burnley,False,Wolverhampton,,-0.52
-Jordan Beyer,Burnley,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.8,0.21,57.2,0.1,2.0,Burnley,False,Brighton,,-0.6
-Jordan Beyer,Burnley,Brighton,2023-12-09,False,90,0.0,0.0,0.0,0.46,2,0.0,1.0,3.4,0,0,1,2.72,1,2.8,0.0,59.25,0.09,1.0,Burnley,True,Everton,,0.53
-Jordan Beyer,Burnley,Everton,,True,90,,,,,1,,,2.8,0,0,2,1.34,1,2.8,0.0,61.06,0.08,5.0,Burnley,False,Fulham,,0.86
-Jordan Beyer,Burnley,Fulham,,False,90,,,,,5,,,3.4,0,1,0,1.38,1,3.8,0.0,62.67,0.15,1.0,Burnley,True,Liverpool,,0.18
-Jordan Beyer,Burnley,Liverpool,,True,90,,,,,1,,,4.7,0,0,2,1.69,1,1.8,0.0,64.11,0.14,1.0,Burnley,False,Aston Villa,,0.29
-Jordan Beyer,Burnley,Aston Villa,2023-12-30,False,16,0.0,0.08,1.0,0.5,1,1.0,2.0,0.0,0,0,0,0.12,1,2.0,0.22,61.7,0.13,0.0,Burnley,True,Luton,,
-Jordan Beyer,Burnley,Luton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.6,0.22,58.76,0.13,0.0,Burnley,False,Manchester City,,-1.32
-Jordan Beyer,Burnley,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.4,0.22,56.09,0.13,0.0,Burnley,True,Fulham,,-0.13
-Jordan Beyer,Burnley,Fulham,2024-02-03,True,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.4,0.22,53.65,0.13,0.0,Burnley,False,Liverpool,,-1.01
-Jordan Beyer,Burnley,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.22,51.42,0.13,0.0,Burnley,True,Arsenal,,-0.11
-Jordan Beyer,Burnley,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,49.36,0.13,0.0,Burnley,False,Crystal Palace,,0.38
-Jordan Beyer,Burnley,Crystal Palace,2024-02-24,False,0,1.0,0.51,1.0,0.43,0,1.0,5.0,0.0,0,0,0,0.0,0,0.0,0.31,47.46,0.13,0.0,Burnley,True,Bournemouth,,1.22
-Jordan Beyer,Burnley,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.31,45.7,0.13,0.0,Burnley,False,West Ham,,-0.22
-Jordan Beyer,Burnley,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.3,44.07,0.13,0.0,Burnley,True,Brentford,,0.79
-Jordan Beyer,Burnley,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.3,42.55,0.13,0.0,Burnley,False,Chelsea,,-0.85
-Jordan Beyer,Burnley,Chelsea,2024-03-30,False,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.31,41.13,0.13,0.0,Burnley,True,Wolverhampton,,0.05
-Jordan Beyer,Burnley,Wolverhampton,2024-04-02,True,0,0.0,0.04,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.01,39.81,0.13,0.0,Burnley,False,Everton,,-0.24
-Jordan Beyer,Burnley,Everton,2024-04-06,False,0,0.0,0.1,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,0.0,0.03,38.56,0.13,0.0,Burnley,True,Brighton,,-0.66
-Jordan Beyer,Burnley,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.03,37.39,0.13,0.0,Burnley,False,Sheffield,,-0.61
-Jordan Beyer,Burnley,Sheffield,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.03,36.29,0.13,0.0,Burnley,False,Manchester United,,-0.63
-Jordan Beyer,Burnley,Manchester United,2024-04-27,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.03,35.26,0.13,0.0,Burnley,True,Newcastle United,,0.55
-Jordan Beyer,Burnley,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.02,34.28,0.13,0.0,Burnley,False,Tottenham,,-0.36
-Jordan Beyer,Burnley,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,33.35,0.13,0.0,Burnley,True,Nottingham Forest,,1.55
-Jordan Beyer,Burnley,Nottingham Forest,2024-05-19,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,32.47,0.13,,Aston Villa,False,West Ham,,-0.22
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jordan Beyer,Burnley,Manchester City,,True,73,,,,,1,,,0.0,0,0,2,1.01,1,404404,1.0,0.0,73.0,0.0,0.0,Burnley,True,Aston Villa,,0.64
+Jordan Beyer,Burnley,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,402789,0.5,0.0,36.5,0.0,-1.0,Burnley,True,Tottenham,,0.69
+Jordan Beyer,Burnley,Tottenham,,True,73,,,,,-1,,,2.3,0,0,5,2.14,1,335461,0.0,0.0,48.67,0.0,3.0,Burnley,False,Nottingham Forest,,-0.55
+Jordan Beyer,Burnley,Nottingham Forest,,False,87,,,,,3,,,2.3,1,0,1,0.64,1,310593,0.75,0.0,58.25,0.0,1.0,Burnley,True,Manchester United,,0.38
+Jordan Beyer,Burnley,Manchester United,2023-09-23,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.5,0,0,1,0.91,1,294665,0.8,0.0,64.6,0.0,0.0,Burnley,False,Newcastle United,,-0.41
+Jordan Beyer,Burnley,Newcastle United,2023-09-30,False,90,0.0,0.0,0.0,0.08,0,0.0,1.0,2.6,0,0,2,3.19,1,285996,0.6,0.0,68.83,0.0,2.0,Burnley,False,Luton,,
+Jordan Beyer,Burnley,Luton,,False,90,,,,,2,,,2.6,0,0,1,1.31,1,285996,1.0,0.0,71.86,0.0,0.0,Burnley,True,Chelsea,,-0.25
+Jordan Beyer,Burnley,Chelsea,2023-10-07,True,0,0.0,0.42,0.0,0.0,0,3.0,0.0,0.0,0,0,0,0.0,0,252027,1.2,0.08,62.88,0.0,0.0,Burnley,False,Brentford,,-0.53
+Jordan Beyer,Burnley,Brentford,2023-10-21,False,0,0.0,0.11,0.0,0.0,0,3.0,0.0,0.0,0,0,0,0.0,0,211111,0.6,0.11,55.89,0.0,0.0,Burnley,False,Bournemouth,,0.19
+Jordan Beyer,Burnley,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,178372,0.4,0.11,50.3,0.0,2.0,Burnley,True,Crystal Palace,,0.88
+Jordan Beyer,Burnley,Crystal Palace,2023-11-04,True,85,0.0,0.04,1.0,0.8,2,1.0,1.0,1.5,0,0,1,0.97,1,164186,0.8,0.31,53.45,0.0,1.0,Burnley,False,Arsenal,,-0.48
+Jordan Beyer,Burnley,Arsenal,2023-11-11,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,5.1,0,0,3,2.03,1,159683,0.6,0.31,56.5,0.0,0.0,Burnley,True,West Ham,,0.49
+Jordan Beyer,Burnley,West Ham,2023-11-25,True,90,0.0,0.0,0.0,0.74,0,0.0,2.0,1.6,0,0,2,1.03,1,156246,0.6,0.23,59.08,0.0,11.0,Burnley,True,Sheffield,,0.68
+Jordan Beyer,Burnley,Sheffield,,True,90,,,,,11,,,4.6,3,1,0,0.39,1,154914,2.8,0.21,61.29,0.1,0.0,Burnley,False,Wolverhampton,,-0.52
+Jordan Beyer,Burnley,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,150996,2.8,0.21,57.2,0.1,2.0,Burnley,False,Brighton,,-0.6
+Jordan Beyer,Burnley,Brighton,2023-12-09,False,90,0.0,0.0,0.0,0.46,2,0.0,1.0,3.4,0,0,1,2.72,1,152482,2.8,0.0,59.25,0.09,1.0,Burnley,True,Everton,,0.53
+Jordan Beyer,Burnley,Everton,,True,90,,,,,1,,,2.8,0,0,2,1.34,1,165359,2.8,0.0,61.06,0.08,5.0,Burnley,False,Fulham,,0.86
+Jordan Beyer,Burnley,Fulham,,False,90,,,,,5,,,3.4,0,1,0,1.38,1,161679,3.8,0.0,62.67,0.15,1.0,Burnley,True,Liverpool,,0.18
+Jordan Beyer,Burnley,Liverpool,,True,90,,,,,1,,,4.7,0,0,2,1.69,1,164286,1.8,0.0,64.11,0.14,1.0,Burnley,False,Aston Villa,,0.29
+Jordan Beyer,Burnley,Aston Villa,2023-12-30,False,16,0.0,0.08,1.0,0.5,1,1.0,2.0,0.0,0,0,0,0.12,1,162127,2.0,0.22,61.7,0.13,0.0,Burnley,True,Luton,,
+Jordan Beyer,Burnley,Luton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,145139,1.6,0.22,58.76,0.13,0.0,Burnley,False,Manchester City,,-1.32
+Jordan Beyer,Burnley,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,137622,1.4,0.22,56.09,0.13,0.0,Burnley,True,Fulham,,-0.13
+Jordan Beyer,Burnley,Fulham,2024-02-03,True,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,132984,0.4,0.22,53.65,0.13,0.0,Burnley,False,Liverpool,,-1.01
+Jordan Beyer,Burnley,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,126783,0.2,0.22,51.42,0.13,0.0,Burnley,True,Arsenal,,-0.11
+Jordan Beyer,Burnley,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,119305,0.0,0.0,49.36,0.13,0.0,Burnley,False,Crystal Palace,,0.38
+Jordan Beyer,Burnley,Crystal Palace,2024-02-24,False,0,1.0,0.51,1.0,0.43,0,1.0,5.0,0.0,0,0,0,0.0,0,112844,0.0,0.31,47.46,0.13,0.0,Burnley,True,Bournemouth,,1.22
+Jordan Beyer,Burnley,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,110830,0.0,0.31,45.7,0.13,0.0,Burnley,False,West Ham,,-0.22
+Jordan Beyer,Burnley,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,107255,0.0,0.3,44.07,0.13,0.0,Burnley,True,Brentford,,0.79
+Jordan Beyer,Burnley,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,98344,0.0,0.3,42.55,0.13,0.0,Burnley,False,Chelsea,,-0.85
+Jordan Beyer,Burnley,Chelsea,2024-03-30,False,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,102158,0.0,0.31,41.13,0.13,0.0,Burnley,True,Wolverhampton,,0.05
+Jordan Beyer,Burnley,Wolverhampton,2024-04-02,True,0,0.0,0.04,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,100608,0.0,0.01,39.81,0.13,0.0,Burnley,False,Everton,,-0.24
+Jordan Beyer,Burnley,Everton,2024-04-06,False,0,0.0,0.1,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,99111,0.0,0.03,38.56,0.13,0.0,Burnley,True,Brighton,,-0.66
+Jordan Beyer,Burnley,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,97436,0.0,0.03,37.39,0.13,0.0,Burnley,False,Sheffield,,-0.61
+Jordan Beyer,Burnley,Sheffield,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,94674,0.0,0.03,36.29,0.13,0.0,Burnley,False,Manchester United,,-0.63
+Jordan Beyer,Burnley,Manchester United,2024-04-27,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,92335,0.0,0.03,35.26,0.13,0.0,Burnley,True,Newcastle United,,0.55
+Jordan Beyer,Burnley,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,90913,0.0,0.02,34.28,0.13,0.0,Burnley,False,Tottenham,,-0.36
+Jordan Beyer,Burnley,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,88460,0.0,0.0,33.35,0.13,0.0,Burnley,True,Nottingham Forest,,1.55
+Jordan Beyer,Burnley,Nottingham Forest,2024-05-19,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,86723,0.0,0.0,32.47,0.13,,Aston Villa,False,West Ham,,-0.22

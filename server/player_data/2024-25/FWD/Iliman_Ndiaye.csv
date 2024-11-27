@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Iliman Ndiaye,Everton,Brighton,2024-08-17,True,27.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.7,0.0,0.0,1.0,0.0,27.0,0.0,0.0,0.0,0.0,0.0,1.0,Everton,False,Tottenham,,-0.3
-Iliman Ndiaye,Everton,Tottenham,2024-08-24,False,33.0,0.0,0.07,0.0,0.0,1.0,1.0,0.0,2.4,0.0,0.0,1.0,0.04,30.0,0.0,0.0,0.0,0.0,0.0,2.0,Everton,True,Bournemouth,,0.84
-Iliman Ndiaye,Everton,Bournemouth,2024-08-31,True,82.0,0.0,0.29,0.0,0.0,2.0,3.0,0.0,5.8,0.0,1.0,1.33,0.12,47.33,0.0,0.0,0.0,0.0,0.0,1.0,Everton,False,Aston Villa,,0.11
-Iliman Ndiaye,Everton,Aston Villa,2024-09-14,False,80.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.4,0.0,1.0,1.25,0.09,55.5,0.0,0.0,0.0,0.0,0.0,8.0,Everton,False,Leicester City,,-0.22
-Iliman Ndiaye,Everton,Leicester City,2024-09-21,False,80.0,1.0,0.46,0.0,0.49,8.0,2.0,4.0,11.7,2.0,1.0,2.6,0.16,60.4,0.0,0.0,0.0,0.0,0.0,3.0,Everton,True,Crystal Palace,,0.88
-Iliman Ndiaye,Everton,Crystal Palace,2024-09-28,True,90.0,0.0,0.0,0.0,0.02,3.0,0.0,1.0,4.0,1.0,1.0,3.0,0.16,65.33,0.0,0.0,0.0,0.0,0.0,2.0,Everton,True,Newcastle United,,0.67
-Iliman Ndiaye,Everton,Newcastle United,2024-10-05,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.4,0.0,1.0,3.2,0.15,68.86,0.0,0.0,0.0,0.0,0.0,9.0,Everton,False,Ipswich Town,,
-Iliman Ndiaye,Everton,Ipswich Town,2024-10-19,False,80.0,1.0,0.42,0.0,0.0,9.0,2.0,0.0,7.2,3.0,1.0,4.6,0.18,70.25,0.0,0.0,0.0,0.0,0.0,2.0,Everton,True,Fulham,,0.27
-Iliman Ndiaye,Everton,Fulham,2024-10-26,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.4,0.0,1.0,4.8,0.18,72.44,0.0,0.0,0.0,0.0,0.0,2.0,Everton,False,Southampton,,-0.31
-Iliman Ndiaye,Everton,Southampton,2024-11-02,False,61.0,0.0,0.09,0.0,0.0,2.0,2.0,0.0,3.5,0.0,1.0,3.6,0.1,71.3,0.0,0.0,0.0,0.0,0.0,2.0,Everton,False,West Ham,,-0.34
-Iliman Ndiaye,Everton,West Ham,2024-11-09,False,90.0,0.0,0.06,0.0,0.0,2.0,2.0,0.0,5.7,0.0,1.0,3.4,0.11,73.0,0.0,0.0,0.0,0.0,0.0,,Everton,True,Brentford,,0.54
-,Everton,,,,,,,,,,,,,,,,,,,,,,,,Everton,False,Manchester United,,-0.41
-,Everton,,,,,,,,,,,,,,,,,,,,,,,,Everton,True,Wolverhampton,,-0.08
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Iliman Ndiaye,Everton,Brighton,2024-08-17,True,27.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.7,0.0,0.0,14764.0,1.0,0.0,27.0,0.0,0.0,0.0,0.0,0.0,1.0,Everton,False,Tottenham,,-0.3
+Iliman Ndiaye,Everton,Tottenham,2024-08-24,False,33.0,0.0,0.07,0.0,0.0,1.0,1.0,0.0,2.4,0.0,0.0,14175.0,1.0,0.04,30.0,0.0,0.0,0.0,0.0,0.0,2.0,Everton,True,Bournemouth,,0.84
+Iliman Ndiaye,Everton,Bournemouth,2024-08-31,True,82.0,0.0,0.29,0.0,0.0,2.0,3.0,0.0,5.8,0.0,1.0,17168.0,1.33,0.12,47.33,0.0,0.0,0.0,0.0,0.0,1.0,Everton,False,Aston Villa,,0.11
+Iliman Ndiaye,Everton,Aston Villa,2024-09-14,False,80.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.4,0.0,1.0,27162.0,1.25,0.09,55.5,0.0,0.0,0.0,0.0,0.0,8.0,Everton,False,Leicester City,,-0.22
+Iliman Ndiaye,Everton,Leicester City,2024-09-21,False,80.0,1.0,0.46,0.0,0.49,8.0,2.0,4.0,11.7,2.0,1.0,28361.0,2.6,0.16,60.4,0.0,0.0,0.0,0.0,0.0,3.0,Everton,True,Crystal Palace,,0.88
+Iliman Ndiaye,Everton,Crystal Palace,2024-09-28,True,90.0,0.0,0.0,0.0,0.02,3.0,0.0,1.0,4.0,1.0,1.0,73927.0,3.0,0.16,65.33,0.0,0.0,0.0,0.0,0.0,2.0,Everton,True,Newcastle United,,0.67
+Iliman Ndiaye,Everton,Newcastle United,2024-10-05,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.4,0.0,1.0,102200.0,3.2,0.15,68.86,0.0,0.0,0.0,0.0,0.0,9.0,Everton,False,Ipswich Town,,
+Iliman Ndiaye,Everton,Ipswich Town,2024-10-19,False,80.0,1.0,0.42,0.0,0.0,9.0,2.0,0.0,7.2,3.0,1.0,112110.0,4.6,0.18,70.25,0.0,0.0,0.0,0.0,0.0,2.0,Everton,True,Fulham,,0.27
+Iliman Ndiaye,Everton,Fulham,2024-10-26,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.4,0.0,1.0,148371.0,4.8,0.18,72.44,0.0,0.0,0.0,0.0,0.0,2.0,Everton,False,Southampton,,-0.31
+Iliman Ndiaye,Everton,Southampton,2024-11-02,False,61.0,0.0,0.09,0.0,0.0,2.0,2.0,0.0,3.5,0.0,1.0,150162.0,3.6,0.1,71.3,0.0,0.0,0.0,0.0,0.0,2.0,Everton,False,West Ham,,-0.34
+Iliman Ndiaye,Everton,West Ham,2024-11-09,False,90.0,0.0,0.06,0.0,0.0,2.0,2.0,0.0,5.7,0.0,1.0,120544.0,3.4,0.11,73.0,0.0,0.0,0.0,0.0,0.0,,Everton,True,Brentford,,0.54
+,Everton,,,,,,,,,,,,,,,,,,,,,,,,,Everton,False,Manchester United,,-0.41
+,Everton,,,,,,,,,,,,,,,,,,,,,,,,,Everton,True,Wolverhampton,,-0.08

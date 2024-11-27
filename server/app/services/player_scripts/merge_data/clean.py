@@ -11,28 +11,28 @@ def process_and_sort_data(merged_data_dir='player_data', seasons=['2021-22', '20
             'columns_to_drop': ['position_x', 'position_y', 'time', 'kickoff_time'],
             'desired_column_order': [
                 'name', 'team', 'opponent_team', 'date', 'was_home', 'minutes', 'goals', 'xG', 'assists', 'xA',
-                'total_points', 'shots', 'key_passes', 'ict_index', 'bonus', 'starts'
+                'total_points', 'shots', 'key_passes', 'ict_index', 'bonus', 'starts', 'selected'
             ]
         },
         'MID': {
             'columns_to_drop': ['position_x', 'position_y', 'own_goals', 'time', 'kickoff_time'],
             'desired_column_order': [
                 'name', 'team', 'opponent_team', 'date', 'was_home', 'minutes', 'goals', 'xG', 'assists', 'xA',
-                'total_points', 'shots', 'key_passes', 'ict_index', 'bonus', 'starts'
+                'total_points', 'shots', 'key_passes', 'ict_index', 'bonus', 'starts', 'selected'
             ]
         },
         'DEF': {
             'columns_to_drop': ['position_x', 'time', 'kickoff_time', 'own_goals'],
             'desired_column_order': [
                 'name', 'team', 'opponent_team', 'date', 'was_home', 'position', 'minutes', 'goals', 'xG', 'assists', 'xA',
-                'total_points', 'shots', 'key_passes', 'ict_index', 'bonus', 'clean_sheets', 'goals_conceded', 'expected_goals_conceded', 'starts'
+                'total_points', 'shots', 'key_passes', 'ict_index', 'bonus', 'clean_sheets', 'goals_conceded', 'expected_goals_conceded', 'starts', 'selected'
             ]
         },
         'GK': {
             'columns_to_drop': ['position_x', 'time', 'kickoff_time', 'own_goals', 'goals', 'shots', 'xG', 'assists', 'key_passes', 'position_y'],
             'desired_column_order': [
                 'name', 'team', 'opponent_team', 'date', 'was_home', 'minutes', 'goals_conceded', 'expected_goals_conceded',
-                'saves', 'penalties_saved', 'total_points', 'bonus', 'clean_sheets', 'xA', 'starts'
+                'saves', 'penalties_saved', 'total_points', 'bonus', 'clean_sheets', 'xA', 'starts', 'selected'
             ]
         }
     }

@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jordan Henderson,Liverpool,Fulham,2022-08-06,False,90,0.0,0.04,0.0,0.55,2,2.0,2.0,5.1,0,0,2.0,0.04,90.0,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,True,Crystal Palace,,0.81
-Jordan Henderson,Liverpool,Crystal Palace,2022-08-15,True,27,0.0,0.0,0.0,0.02,1,0.0,1.0,2.4,0,0,1.5,0.02,58.5,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,False,Manchester United,,-0.1
-Jordan Henderson,Liverpool,Manchester United,2022-08-22,False,58,0.0,0.05,0.0,0.06,1,1.0,1.0,3.0,0,0,1.33,0.03,58.33,2.0,5.0,1.38,4.19,0.04,3.0,Liverpool,True,Bournemouth,,1.46
-Jordan Henderson,Liverpool,Bournemouth,2022-08-27,True,69,0.0,0.0,0.0,0.0,3,0.0,0.0,2.0,0,0,1.75,0.02,61.0,2.0,5.0,1.38,4.19,0.04,2.0,Liverpool,True,Newcastle United,,0.73
-Jordan Henderson,Liverpool,Newcastle United,2022-08-31,True,70,0.0,0.0,0.0,0.1,2,0.0,1.0,2.9,0,0,1.8,0.02,62.8,2.0,5.0,1.38,4.19,0.04,0.0,Liverpool,False,Everton,,-0.63
-Jordan Henderson,Liverpool,Everton,,False,0,,,,,0,,,0.0,0,0,1.4,0.01,52.33,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,True,Brighton,,-0.71
-Jordan Henderson,Liverpool,Brighton,2022-10-01,True,58,0.0,0.0,0.0,0.57,1,0.0,2.0,3.6,0,0,1.4,0.01,53.14,2.0,5.0,1.38,4.19,0.04,2.0,Liverpool,False,Arsenal,,-0.0
-Jordan Henderson,Liverpool,Arsenal,2022-10-09,False,90,0.0,0.04,0.0,0.04,2,1.0,1.0,4.0,0,0,1.6,0.01,57.75,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,True,Manchester City,,-1.17
-Jordan Henderson,Liverpool,Manchester City,2022-10-16,True,17,0.0,0.02,0.0,0.04,1,1.0,1.0,1.5,0,0,1.2,0.01,53.22,2.0,5.0,1.38,4.19,0.04,3.0,Liverpool,True,West Ham,,0.63
-Jordan Henderson,Liverpool,West Ham,2022-10-19,True,90,0.0,0.08,0.0,0.08,3,2.0,2.0,5.8,0,0,1.4,0.03,56.9,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,False,Nottingham Forest,,
-Jordan Henderson,Liverpool,Nottingham Forest,2022-10-22,False,28,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,1.6,0.03,54.27,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,True,Leicester City,,0.83
-Jordan Henderson,Liverpool,Leicester City,2022-10-29,True,29,0.0,0.07,0.0,0.0,1,2.0,0.0,2.8,0,0,1.6,0.04,52.17,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,False,Tottenham,,-0.03
-Jordan Henderson,Liverpool,Tottenham,2022-11-06,False,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1.4,0.03,49.38,2.0,5.0,1.38,4.19,0.04,0.0,Liverpool,True,Southampton,,-0.38
-Jordan Henderson,Liverpool,Southampton,,True,0,,,,,0,,,0.0,0,0,1.2,0.03,45.86,2.0,5.0,1.38,4.19,0.04,2.0,Liverpool,False,Aston Villa,,0.59
-Jordan Henderson,Liverpool,Aston Villa,2022-12-26,False,78,0.0,0.03,0.0,0.08,2,1.0,1.0,4.4,0,1,1.0,0.02,48.0,2.0,5.0,1.38,4.19,0.04,2.0,Liverpool,True,Leeds United,,-0.79
-Jordan Henderson,Liverpool,Leeds United,2022-12-30,True,90,0.0,0.07,0.0,0.0,2,2.0,0.0,3.0,0,1,1.2,0.03,50.62,2.0,5.0,1.38,4.19,0.04,0.0,Liverpool,False,Brentford,,-0.55
-Jordan Henderson,Liverpool,Brentford,,False,0,,,,,0,,,0.0,0,0,1.0,0.02,47.65,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,False,Brighton,,-0.39
-Jordan Henderson,Liverpool,Brighton,2023-01-14,False,68,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,1,1.0,0.02,48.78,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,True,Chelsea,,-0.25
-Jordan Henderson,Liverpool,Chelsea,2023-01-21,True,8,0.0,0.0,0.0,0.05,1,0.0,1.0,1.4,0,0,1.2,0.02,46.63,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,False,Wolverhampton,,-0.46
-Jordan Henderson,Liverpool,Wolverhampton,2023-02-04,False,25,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1.0,0.01,45.55,2.0,5.0,1.38,4.19,0.04,3.0,Liverpool,True,Everton,,0.34
-Jordan Henderson,Liverpool,Everton,2023-02-13,True,79,0.0,0.0,0.0,0.0,3,0.0,0.0,1.4,0,1,1.2,0.0,47.14,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,False,Newcastle United,,-0.34
-Jordan Henderson,Liverpool,Newcastle United,2023-02-18,False,58,0.0,0.01,0.0,0.0,1,1.0,0.0,1.7,0,1,1.4,0.0,47.64,2.0,5.0,1.38,4.19,0.04,2.0,Liverpool,False,Crystal Palace,,0.13
-Jordan Henderson,Liverpool,Crystal Palace,2023-02-25,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.6,0,1,1.6,0.0,49.48,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,True,Wolverhampton,,-0.48
-Jordan Henderson,Liverpool,Wolverhampton,2023-03-01,True,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1.6,0.0,47.88,2.0,5.0,1.38,4.19,0.04,6.0,Liverpool,True,Manchester United,,0.38
-Jordan Henderson,Liverpool,Manchester United,2023-03-05,True,77,0.0,0.07,1.0,0.13,6,1.0,1.0,5.5,0,1,2.6,0.22,49.04,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,False,Bournemouth,,0.19
-Jordan Henderson,Liverpool,Bournemouth,2023-03-11,False,25,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,2.2,0.22,48.12,2.0,5.0,1.38,4.19,0.04,2.0,Liverpool,False,Manchester City,,-1.26
-Jordan Henderson,Liverpool,Manchester City,2023-04-01,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,1,2.4,0.21,49.67,2.0,5.0,1.38,4.19,0.04,3.0,Liverpool,False,Chelsea,,-0.72
-Jordan Henderson,Liverpool,Chelsea,2023-04-04,False,90,0.0,0.01,0.0,0.0,3,1.0,0.0,1.3,0,1,2.6,0.22,51.11,2.0,5.0,1.38,4.19,0.04,5.0,Liverpool,True,Arsenal,,0.36
-Jordan Henderson,Liverpool,Arsenal,2023-04-09,True,90,0.0,0.2,0.0,0.36,5,2.0,2.0,5.3,0,1,3.4,0.26,52.45,2.0,5.0,1.38,4.19,0.04,5.0,Liverpool,False,Leicester City,,-0.05
-Jordan Henderson,Liverpool,Leicester City,2023-04-17,False,80,0.0,0.0,1.0,0.29,5,0.0,4.0,8.7,0,1,3.2,0.24,53.37,2.0,5.0,1.38,4.19,0.04,2.0,Liverpool,True,Nottingham Forest,,
-Jordan Henderson,Liverpool,Nottingham Forest,2023-04-22,True,90,0.0,0.07,0.0,0.05,2,2.0,1.0,4.5,0,1,3.4,0.26,54.55,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,False,West Ham,,0.14
-Jordan Henderson,Liverpool,West Ham,2023-04-26,False,58,0.0,0.0,0.0,0.68,1,0.0,3.0,6.5,0,1,3.2,0.26,54.66,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,True,Tottenham,,1.07
-Jordan Henderson,Liverpool,Tottenham,2023-04-30,True,27,0.0,0.0,0.0,0.02,1,0.0,1.0,2.6,0,0,2.8,0.25,53.82,2.0,5.0,1.38,4.19,0.04,3.0,Liverpool,True,Fulham,,-0.3
-Jordan Henderson,Liverpool,Fulham,2023-05-03,True,90,0.0,0.08,0.0,0.09,3,3.0,1.0,4.4,0,1,2.4,0.23,54.88,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,True,Brentford,,0.69
-Jordan Henderson,Liverpool,Brentford,2023-05-06,True,17,0.0,0.0,0.0,0.02,1,0.0,1.0,1.7,0,0,1.6,0.03,53.8,2.0,5.0,1.38,4.19,0.04,3.0,Liverpool,False,Leeds United,,-0.8
-Jordan Henderson,Liverpool,Leeds United,2023-05-15,False,73,0.0,0.0,0.0,0.08,3,0.0,2.0,4.7,0,1,1.8,0.02,54.33,2.0,5.0,1.38,4.19,0.04,2.0,Liverpool,True,Aston Villa,,0.55
-Jordan Henderson,Liverpool,Aston Villa,2023-05-20,True,71,0.0,0.0,0.0,0.02,2,0.0,1.0,2.6,0,1,2.0,0.02,54.78,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,False,Southampton,,-1.07
-Jordan Henderson,Liverpool,Southampton,2023-05-28,False,33,0.0,0.03,0.0,0.28,1,1.0,1.0,0.0,0,0,2.0,0.02,54.21,2.0,5.0,1.38,4.19,0.04,0.0,Liverpool,False,Chelsea,,-0.72
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jordan Henderson,Liverpool,Fulham,2022-08-06,False,90,0.0,0.04,0.0,0.55,2,2.0,2.0,5.1,0,0,94154,2.0,0.04,90.0,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,True,Crystal Palace,,0.81
+Jordan Henderson,Liverpool,Crystal Palace,2022-08-15,True,27,0.0,0.0,0.0,0.02,1,0.0,1.0,2.4,0,0,110983,1.5,0.02,58.5,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,False,Manchester United,,-0.1
+Jordan Henderson,Liverpool,Manchester United,2022-08-22,False,58,0.0,0.05,0.0,0.06,1,1.0,1.0,3.0,0,0,111764,1.33,0.03,58.33,2.0,5.0,1.38,4.19,0.04,3.0,Liverpool,True,Bournemouth,,1.46
+Jordan Henderson,Liverpool,Bournemouth,2022-08-27,True,69,0.0,0.0,0.0,0.0,3,0.0,0.0,2.0,0,0,101342,1.75,0.02,61.0,2.0,5.0,1.38,4.19,0.04,2.0,Liverpool,True,Newcastle United,,0.73
+Jordan Henderson,Liverpool,Newcastle United,2022-08-31,True,70,0.0,0.0,0.0,0.1,2,0.0,1.0,2.9,0,0,96215,1.8,0.02,62.8,2.0,5.0,1.38,4.19,0.04,0.0,Liverpool,False,Everton,,-0.63
+Jordan Henderson,Liverpool,Everton,,False,0,,,,,0,,,0.0,0,0,74144,1.4,0.01,52.33,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,True,Brighton,,-0.71
+Jordan Henderson,Liverpool,Brighton,2022-10-01,True,58,0.0,0.0,0.0,0.57,1,0.0,2.0,3.6,0,0,56161,1.4,0.01,53.14,2.0,5.0,1.38,4.19,0.04,2.0,Liverpool,False,Arsenal,,-0.0
+Jordan Henderson,Liverpool,Arsenal,2022-10-09,False,90,0.0,0.04,0.0,0.04,2,1.0,1.0,4.0,0,0,56416,1.6,0.01,57.75,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,True,Manchester City,,-1.17
+Jordan Henderson,Liverpool,Manchester City,2022-10-16,True,17,0.0,0.02,0.0,0.04,1,1.0,1.0,1.5,0,0,56467,1.2,0.01,53.22,2.0,5.0,1.38,4.19,0.04,3.0,Liverpool,True,West Ham,,0.63
+Jordan Henderson,Liverpool,West Ham,2022-10-19,True,90,0.0,0.08,0.0,0.08,3,2.0,2.0,5.8,0,0,56479,1.4,0.03,56.9,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,False,Nottingham Forest,,
+Jordan Henderson,Liverpool,Nottingham Forest,2022-10-22,False,28,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,57770,1.6,0.03,54.27,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,True,Leicester City,,0.83
+Jordan Henderson,Liverpool,Leicester City,2022-10-29,True,29,0.0,0.07,0.0,0.0,1,2.0,0.0,2.8,0,0,55345,1.6,0.04,52.17,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,False,Tottenham,,-0.03
+Jordan Henderson,Liverpool,Tottenham,2022-11-06,False,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,54391,1.4,0.03,49.38,2.0,5.0,1.38,4.19,0.04,0.0,Liverpool,True,Southampton,,-0.38
+Jordan Henderson,Liverpool,Southampton,,True,0,,,,,0,,,0.0,0,0,54128,1.2,0.03,45.86,2.0,5.0,1.38,4.19,0.04,2.0,Liverpool,False,Aston Villa,,0.59
+Jordan Henderson,Liverpool,Aston Villa,2022-12-26,False,78,0.0,0.03,0.0,0.08,2,1.0,1.0,4.4,0,1,55378,1.0,0.02,48.0,2.0,5.0,1.38,4.19,0.04,2.0,Liverpool,True,Leeds United,,-0.79
+Jordan Henderson,Liverpool,Leeds United,2022-12-30,True,90,0.0,0.07,0.0,0.0,2,2.0,0.0,3.0,0,1,56223,1.2,0.03,50.62,2.0,5.0,1.38,4.19,0.04,0.0,Liverpool,False,Brentford,,-0.55
+Jordan Henderson,Liverpool,Brentford,,False,0,,,,,0,,,0.0,0,0,56360,1.0,0.02,47.65,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,False,Brighton,,-0.39
+Jordan Henderson,Liverpool,Brighton,2023-01-14,False,68,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,1,55550,1.0,0.02,48.78,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,True,Chelsea,,-0.25
+Jordan Henderson,Liverpool,Chelsea,2023-01-21,True,8,0.0,0.0,0.0,0.05,1,0.0,1.0,1.4,0,0,55011,1.2,0.02,46.63,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,False,Wolverhampton,,-0.46
+Jordan Henderson,Liverpool,Wolverhampton,2023-02-04,False,25,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,54383,1.0,0.01,45.55,2.0,5.0,1.38,4.19,0.04,3.0,Liverpool,True,Everton,,0.34
+Jordan Henderson,Liverpool,Everton,2023-02-13,True,79,0.0,0.0,0.0,0.0,3,0.0,0.0,1.4,0,1,54175,1.2,0.0,47.14,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,False,Newcastle United,,-0.34
+Jordan Henderson,Liverpool,Newcastle United,2023-02-18,False,58,0.0,0.01,0.0,0.0,1,1.0,0.0,1.7,0,1,54599,1.4,0.0,47.64,2.0,5.0,1.38,4.19,0.04,2.0,Liverpool,False,Crystal Palace,,0.13
+Jordan Henderson,Liverpool,Crystal Palace,2023-02-25,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.6,0,1,60852,1.6,0.0,49.48,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,True,Wolverhampton,,-0.48
+Jordan Henderson,Liverpool,Wolverhampton,2023-03-01,True,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,60852,1.6,0.0,47.88,2.0,5.0,1.38,4.19,0.04,6.0,Liverpool,True,Manchester United,,0.38
+Jordan Henderson,Liverpool,Manchester United,2023-03-05,True,77,0.0,0.07,1.0,0.13,6,1.0,1.0,5.5,0,1,57859,2.6,0.22,49.04,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,False,Bournemouth,,0.19
+Jordan Henderson,Liverpool,Bournemouth,2023-03-11,False,25,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,56958,2.2,0.22,48.12,2.0,5.0,1.38,4.19,0.04,2.0,Liverpool,False,Manchester City,,-1.26
+Jordan Henderson,Liverpool,Manchester City,2023-04-01,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,1,55989,2.4,0.21,49.67,2.0,5.0,1.38,4.19,0.04,3.0,Liverpool,False,Chelsea,,-0.72
+Jordan Henderson,Liverpool,Chelsea,2023-04-04,False,90,0.0,0.01,0.0,0.0,3,1.0,0.0,1.3,0,1,55989,2.6,0.22,51.11,2.0,5.0,1.38,4.19,0.04,5.0,Liverpool,True,Arsenal,,0.36
+Jordan Henderson,Liverpool,Arsenal,2023-04-09,True,90,0.0,0.2,0.0,0.36,5,2.0,2.0,5.3,0,1,55944,3.4,0.26,52.45,2.0,5.0,1.38,4.19,0.04,5.0,Liverpool,False,Leicester City,,-0.05
+Jordan Henderson,Liverpool,Leicester City,2023-04-17,False,80,0.0,0.0,1.0,0.29,5,0.0,4.0,8.7,0,1,57866,3.2,0.24,53.37,2.0,5.0,1.38,4.19,0.04,2.0,Liverpool,True,Nottingham Forest,,
+Jordan Henderson,Liverpool,Nottingham Forest,2023-04-22,True,90,0.0,0.07,0.0,0.05,2,2.0,1.0,4.5,0,1,61733,3.4,0.26,54.55,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,False,West Ham,,0.14
+Jordan Henderson,Liverpool,West Ham,2023-04-26,False,58,0.0,0.0,0.0,0.68,1,0.0,3.0,6.5,0,1,60968,3.2,0.26,54.66,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,True,Tottenham,,1.07
+Jordan Henderson,Liverpool,Tottenham,2023-04-30,True,27,0.0,0.0,0.0,0.02,1,0.0,1.0,2.6,0,0,61925,2.8,0.25,53.82,2.0,5.0,1.38,4.19,0.04,3.0,Liverpool,True,Fulham,,-0.3
+Jordan Henderson,Liverpool,Fulham,2023-05-03,True,90,0.0,0.08,0.0,0.09,3,3.0,1.0,4.4,0,1,61925,2.4,0.23,54.88,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,True,Brentford,,0.69
+Jordan Henderson,Liverpool,Brentford,2023-05-06,True,17,0.0,0.0,0.0,0.02,1,0.0,1.0,1.7,0,0,59372,1.6,0.03,53.8,2.0,5.0,1.38,4.19,0.04,3.0,Liverpool,False,Leeds United,,-0.8
+Jordan Henderson,Liverpool,Leeds United,2023-05-15,False,73,0.0,0.0,0.0,0.08,3,0.0,2.0,4.7,0,1,58341,1.8,0.02,54.33,2.0,5.0,1.38,4.19,0.04,2.0,Liverpool,True,Aston Villa,,0.55
+Jordan Henderson,Liverpool,Aston Villa,2023-05-20,True,71,0.0,0.0,0.0,0.02,2,0.0,1.0,2.6,0,1,58225,2.0,0.02,54.78,2.0,5.0,1.38,4.19,0.04,1.0,Liverpool,False,Southampton,,-1.07
+Jordan Henderson,Liverpool,Southampton,2023-05-28,False,33,0.0,0.03,0.0,0.28,1,1.0,1.0,0.0,0,0,58448,2.0,0.02,54.21,2.0,5.0,1.38,4.19,0.04,0.0,Liverpool,False,Chelsea,,-0.72

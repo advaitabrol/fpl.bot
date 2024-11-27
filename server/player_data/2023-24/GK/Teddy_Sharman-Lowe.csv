@@ -1,10 +1,10 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Teddy Sharman-Lowe,Chelsea,Sheffield,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Chelsea,True,Everton,,0.53
-Teddy Sharman-Lowe,Chelsea,Everton,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Chelsea,False,Arsenal,,-0.48
-Teddy Sharman-Lowe,Chelsea,Arsenal,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Chelsea,False,Aston Villa,,0.29
-Teddy Sharman-Lowe,Chelsea,Aston Villa,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Chelsea,True,Tottenham,,0.69
-Teddy Sharman-Lowe,Chelsea,Tottenham,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Chelsea,True,West Ham,,0.49
-Teddy Sharman-Lowe,Chelsea,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Chelsea,False,Nottingham Forest,,-0.55
-Teddy Sharman-Lowe,Chelsea,Nottingham Forest,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Chelsea,False,Brighton,,-0.6
-Teddy Sharman-Lowe,Chelsea,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Chelsea,True,Bournemouth,,1.22
-Teddy Sharman-Lowe,Chelsea,Bournemouth,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,,Man Utd,True,Fulham,,-0.13
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Teddy Sharman-Lowe,Chelsea,Sheffield,,False,0,0,0.0,0,0,0,0,0,,0,0,0.0,0,0.0,0,0,0.0,Chelsea,True,Everton,,0.53
+Teddy Sharman-Lowe,Chelsea,Everton,,True,0,0,0.0,0,0,0,0,0,,0,36,0.0,0,0.0,0,0,0.0,Chelsea,False,Arsenal,,-0.48
+Teddy Sharman-Lowe,Chelsea,Arsenal,,False,0,0,0.0,0,0,0,0,0,,0,105,0.0,0,0.0,0,0,0.0,Chelsea,False,Aston Villa,,0.29
+Teddy Sharman-Lowe,Chelsea,Aston Villa,,False,0,0,0.0,0,0,0,0,0,,0,122,0.0,0,0.0,0,0,0.0,Chelsea,True,Tottenham,,0.69
+Teddy Sharman-Lowe,Chelsea,Tottenham,,True,0,0,0.0,0,0,0,0,0,,0,122,0.0,0,0.0,0,0,0.0,Chelsea,True,West Ham,,0.49
+Teddy Sharman-Lowe,Chelsea,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,158,0.0,0,0.0,0,0,0.0,Chelsea,False,Nottingham Forest,,-0.55
+Teddy Sharman-Lowe,Chelsea,Nottingham Forest,,False,0,0,0.0,0,0,0,0,0,,0,207,0.0,0,0.0,0,0,0.0,Chelsea,False,Brighton,,-0.6
+Teddy Sharman-Lowe,Chelsea,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,207,0.0,0,0.0,0,0,0.0,Chelsea,True,Bournemouth,,1.22
+Teddy Sharman-Lowe,Chelsea,Bournemouth,,True,0,0,0.0,0,0,0,0,0,,0,265,0.0,0,0.0,0,0,,Man Utd,True,Fulham,,-0.13

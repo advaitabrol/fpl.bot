@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Boubacar Kamara,Aston Villa,Bournemouth,2022-08-06,False,81,0.0,0.02,0.0,0.0,2,1.0,0.0,1.4,0,0,2.0,0.02,81.0,2.0,Aston Villa,True,Everton,,0.34
-Boubacar Kamara,Aston Villa,Everton,2022-08-13,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.9,0,0,2.0,0.01,85.5,2.0,Aston Villa,False,Crystal Palace,,0.13
-Boubacar Kamara,Aston Villa,Crystal Palace,2022-08-20,False,90,0.0,0.0,0.0,0.01,2,0.0,1.0,2.9,0,0,2.0,0.01,87.0,1.0,Aston Villa,True,West Ham,,0.63
-Boubacar Kamara,Aston Villa,West Ham,2022-08-28,True,90,0.0,0.0,0.0,0.03,1,0.0,1.0,2.5,0,0,1.75,0.0,87.75,2.0,Aston Villa,False,Arsenal,,-0.0
-Boubacar Kamara,Aston Villa,Arsenal,2022-08-31,False,82,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,1.8,0.0,86.6,2.0,Aston Villa,True,Manchester City,,-1.17
-Boubacar Kamara,Aston Villa,Manchester City,2022-09-03,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.8,0,0,1.8,0.0,87.17,1.0,Aston Villa,True,Southampton,,-0.38
-Boubacar Kamara,Aston Villa,Southampton,2022-09-16,True,43,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,1.6,0.0,80.86,0.0,Aston Villa,False,Leicester City,,-0.05
-Boubacar Kamara,Aston Villa,Leicester City,,False,0,,,,,0,,,0.0,0,0,1.2,0.0,70.75,0.0,Aston Villa,False,Nottingham Forest,,
-Boubacar Kamara,Aston Villa,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,1.0,0.0,62.89,0.0,Aston Villa,True,Chelsea,,-0.25
-Boubacar Kamara,Aston Villa,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.6,0.0,56.6,0.0,Aston Villa,False,Fulham,,1.37
-Boubacar Kamara,Aston Villa,Fulham,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,51.45,0.0,Aston Villa,True,Brentford,,0.69
-Boubacar Kamara,Aston Villa,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,47.17,0.0,Aston Villa,False,Newcastle United,,-0.34
-Boubacar Kamara,Aston Villa,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,43.54,1.0,Aston Villa,True,Manchester United,,0.38
-Boubacar Kamara,Aston Villa,Manchester United,2022-11-06,True,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0.2,0.0,41.29,1.0,Aston Villa,False,Brighton,,-0.39
-Boubacar Kamara,Aston Villa,Brighton,2022-11-13,False,90,0.0,0.01,0.0,0.0,1,1.0,0.0,0.0,0,1,0.4,0.0,44.53,2.0,Aston Villa,True,Liverpool,,-0.53
-Boubacar Kamara,Aston Villa,Liverpool,2022-12-26,True,84,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,1,0.8,0.0,47.0,3.0,Aston Villa,False,Tottenham,,-0.03
-Boubacar Kamara,Aston Villa,Tottenham,2023-01-01,False,90,0.0,0.0,0.0,0.02,3,0.0,1.0,4.2,0,1,1.4,0.0,49.53,2.0,Aston Villa,True,Wolverhampton,,-0.48
-Boubacar Kamara,Aston Villa,Wolverhampton,2023-01-04,True,90,0.0,0.04,0.0,0.0,2,1.0,0.0,1.2,0,1,1.8,0.01,51.78,4.0,Aston Villa,True,Leicester City,,0.83
-Boubacar Kamara,Aston Villa,Leicester City,2023-01-13,True,90,0.0,0.0,1.0,0.1,4,0.0,1.0,5.3,0,1,2.4,0.21,53.79,3.0,Aston Villa,False,Southampton,,-1.07
-Boubacar Kamara,Aston Villa,Southampton,2023-01-21,False,90,0.0,0.02,0.0,0.0,3,1.0,0.0,3.6,0,1,2.8,0.21,55.6,2.0,Aston Villa,True,Leeds United,,-0.79
-Boubacar Kamara,Aston Villa,Leeds United,2023-02-04,True,81,0.0,0.0,0.0,0.06,2,0.0,1.0,1.9,0,1,2.8,0.21,56.81,2.0,Aston Villa,False,Manchester City,,-1.26
-Boubacar Kamara,Aston Villa,Manchester City,2023-02-12,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,1,2.6,0.21,58.32,2.0,Aston Villa,True,Arsenal,,0.36
-Boubacar Kamara,Aston Villa,Arsenal,2023-02-18,True,90,0.0,0.0,0.0,0.03,2,0.0,1.0,3.1,0,1,2.6,0.2,59.7,3.0,Aston Villa,False,Everton,,-0.63
-Boubacar Kamara,Aston Villa,Everton,2023-02-25,False,90,0.0,0.0,0.0,0.44,3,0.0,1.0,2.5,0,1,2.4,0.0,60.96,1.0,Aston Villa,True,Crystal Palace,,0.81
-Boubacar Kamara,Aston Villa,Crystal Palace,2023-03-04,True,58,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,1,2.0,0.0,60.84,0.0,Aston Villa,False,West Ham,,0.14
-Boubacar Kamara,Aston Villa,West Ham,,False,0,,,,,0,,,0.0,0,0,1.6,0.0,58.5,0.0,Aston Villa,True,Bournemouth,,1.46
-Boubacar Kamara,Aston Villa,Bournemouth,,True,0,,,,,0,,,0.0,0,0,1.2,0.0,56.33,0.0,Aston Villa,False,Chelsea,,-0.72
-Boubacar Kamara,Aston Villa,Chelsea,2023-04-01,False,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,1,0.8,0.0,55.93,0.0,Aston Villa,False,Leeds United,,-0.8
-Boubacar Kamara,Aston Villa,Leeds United,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,54.0,0.0,Aston Villa,True,Nottingham Forest,,
-Boubacar Kamara,Aston Villa,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,52.2,0.0,Aston Villa,True,Newcastle United,,0.73
-Boubacar Kamara,Aston Villa,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,50.52,0.0,Aston Villa,False,Brentford,,-0.55
-Boubacar Kamara,Aston Villa,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,48.94,0.0,Aston Villa,True,Fulham,,-0.3
-Boubacar Kamara,Aston Villa,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,47.45,0.0,Aston Villa,False,Manchester United,,-0.1
-Boubacar Kamara,Aston Villa,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,46.06,1.0,Aston Villa,False,Wolverhampton,,-0.46
-Boubacar Kamara,Aston Villa,Wolverhampton,2023-05-06,False,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.2,0.0,44.89,1.0,Aston Villa,True,Tottenham,,1.07
-Boubacar Kamara,Aston Villa,Tottenham,2023-05-13,True,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0.4,0.0,44.25,2.0,Aston Villa,False,Liverpool,,-1.33
-Boubacar Kamara,Aston Villa,Liverpool,2023-05-20,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0,1,0.8,0.0,45.49,2.0,Aston Villa,True,Brighton,,-0.71
-Boubacar Kamara,Aston Villa,Brighton,2023-05-28,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0,1,1.2,0.0,46.66,2.0,Aston Villa,False,Newcastle United,,-0.34
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Boubacar Kamara,Aston Villa,Bournemouth,2022-08-06,False,81,0.0,0.02,0.0,0.0,2,1.0,0.0,1.4,0,0,12140,2.0,0.02,81.0,2.0,Aston Villa,True,Everton,,0.34
+Boubacar Kamara,Aston Villa,Everton,2022-08-13,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.9,0,0,15173,2.0,0.01,85.5,2.0,Aston Villa,False,Crystal Palace,,0.13
+Boubacar Kamara,Aston Villa,Crystal Palace,2022-08-20,False,90,0.0,0.0,0.0,0.01,2,0.0,1.0,2.9,0,0,18770,2.0,0.01,87.0,1.0,Aston Villa,True,West Ham,,0.63
+Boubacar Kamara,Aston Villa,West Ham,2022-08-28,True,90,0.0,0.0,0.0,0.03,1,0.0,1.0,2.5,0,0,17163,1.75,0.0,87.75,2.0,Aston Villa,False,Arsenal,,-0.0
+Boubacar Kamara,Aston Villa,Arsenal,2022-08-31,False,82,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,16000,1.8,0.0,86.6,2.0,Aston Villa,True,Manchester City,,-1.17
+Boubacar Kamara,Aston Villa,Manchester City,2022-09-03,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.8,0,0,15903,1.8,0.0,87.17,1.0,Aston Villa,True,Southampton,,-0.38
+Boubacar Kamara,Aston Villa,Southampton,2022-09-16,True,43,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,16734,1.6,0.0,80.86,0.0,Aston Villa,False,Leicester City,,-0.05
+Boubacar Kamara,Aston Villa,Leicester City,,False,0,,,,,0,,,0.0,0,0,13697,1.2,0.0,70.75,0.0,Aston Villa,False,Nottingham Forest,,
+Boubacar Kamara,Aston Villa,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,11896,1.0,0.0,62.89,0.0,Aston Villa,True,Chelsea,,-0.25
+Boubacar Kamara,Aston Villa,Chelsea,,True,0,,,,,0,,,0.0,0,0,11211,0.6,0.0,56.6,0.0,Aston Villa,False,Fulham,,1.37
+Boubacar Kamara,Aston Villa,Fulham,,False,0,,,,,0,,,0.0,0,0,10701,0.2,0.0,51.45,0.0,Aston Villa,True,Brentford,,0.69
+Boubacar Kamara,Aston Villa,Brentford,,True,0,,,,,0,,,0.0,0,0,10531,0.0,0.0,47.17,0.0,Aston Villa,False,Newcastle United,,-0.34
+Boubacar Kamara,Aston Villa,Newcastle United,,False,0,,,,,0,,,0.0,0,0,10160,0.0,0.0,43.54,1.0,Aston Villa,True,Manchester United,,0.38
+Boubacar Kamara,Aston Villa,Manchester United,2022-11-06,True,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,9883,0.2,0.0,41.29,1.0,Aston Villa,False,Brighton,,-0.39
+Boubacar Kamara,Aston Villa,Brighton,2022-11-13,False,90,0.0,0.01,0.0,0.0,1,1.0,0.0,0.0,0,1,9860,0.4,0.0,44.53,2.0,Aston Villa,True,Liverpool,,-0.53
+Boubacar Kamara,Aston Villa,Liverpool,2022-12-26,True,84,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,1,9997,0.8,0.0,47.0,3.0,Aston Villa,False,Tottenham,,-0.03
+Boubacar Kamara,Aston Villa,Tottenham,2023-01-01,False,90,0.0,0.0,0.0,0.02,3,0.0,1.0,4.2,0,1,10042,1.4,0.0,49.53,2.0,Aston Villa,True,Wolverhampton,,-0.48
+Boubacar Kamara,Aston Villa,Wolverhampton,2023-01-04,True,90,0.0,0.04,0.0,0.0,2,1.0,0.0,1.2,0,1,10167,1.8,0.01,51.78,4.0,Aston Villa,True,Leicester City,,0.83
+Boubacar Kamara,Aston Villa,Leicester City,2023-01-13,True,90,0.0,0.0,1.0,0.1,4,0.0,1.0,5.3,0,1,10244,2.4,0.21,53.79,3.0,Aston Villa,False,Southampton,,-1.07
+Boubacar Kamara,Aston Villa,Southampton,2023-01-21,False,90,0.0,0.02,0.0,0.0,3,1.0,0.0,3.6,0,1,10467,2.8,0.21,55.6,2.0,Aston Villa,True,Leeds United,,-0.79
+Boubacar Kamara,Aston Villa,Leeds United,2023-02-04,True,81,0.0,0.0,0.0,0.06,2,0.0,1.0,1.9,0,1,10492,2.8,0.21,56.81,2.0,Aston Villa,False,Manchester City,,-1.26
+Boubacar Kamara,Aston Villa,Manchester City,2023-02-12,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,1,10421,2.6,0.21,58.32,2.0,Aston Villa,True,Arsenal,,0.36
+Boubacar Kamara,Aston Villa,Arsenal,2023-02-18,True,90,0.0,0.0,0.0,0.03,2,0.0,1.0,3.1,0,1,10418,2.6,0.2,59.7,3.0,Aston Villa,False,Everton,,-0.63
+Boubacar Kamara,Aston Villa,Everton,2023-02-25,False,90,0.0,0.0,0.0,0.44,3,0.0,1.0,2.5,0,1,10690,2.4,0.0,60.96,1.0,Aston Villa,True,Crystal Palace,,0.81
+Boubacar Kamara,Aston Villa,Crystal Palace,2023-03-04,True,58,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,1,10579,2.0,0.0,60.84,0.0,Aston Villa,False,West Ham,,0.14
+Boubacar Kamara,Aston Villa,West Ham,,False,0,,,,,0,,,0.0,0,0,10265,1.6,0.0,58.5,0.0,Aston Villa,True,Bournemouth,,1.46
+Boubacar Kamara,Aston Villa,Bournemouth,,True,0,,,,,0,,,0.0,0,0,10118,1.2,0.0,56.33,0.0,Aston Villa,False,Chelsea,,-0.72
+Boubacar Kamara,Aston Villa,Chelsea,2023-04-01,False,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,1,10025,0.8,0.0,55.93,0.0,Aston Villa,False,Leeds United,,-0.8
+Boubacar Kamara,Aston Villa,Leeds United,,False,0,,,,,0,,,0.0,0,0,10025,0.2,0.0,54.0,0.0,Aston Villa,True,Nottingham Forest,,
+Boubacar Kamara,Aston Villa,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,9986,0.0,0.0,52.2,0.0,Aston Villa,True,Newcastle United,,0.73
+Boubacar Kamara,Aston Villa,Newcastle United,,True,0,,,,,0,,,0.0,0,0,9913,0.0,0.0,50.52,0.0,Aston Villa,False,Brentford,,-0.55
+Boubacar Kamara,Aston Villa,Brentford,,False,0,,,,,0,,,0.0,0,0,9864,0.0,0.0,48.94,0.0,Aston Villa,True,Fulham,,-0.3
+Boubacar Kamara,Aston Villa,Fulham,,True,0,,,,,0,,,0.0,0,0,9844,0.0,0.0,47.45,0.0,Aston Villa,False,Manchester United,,-0.1
+Boubacar Kamara,Aston Villa,Manchester United,,False,0,,,,,0,,,0.0,0,0,9826,0.0,0.0,46.06,1.0,Aston Villa,False,Wolverhampton,,-0.46
+Boubacar Kamara,Aston Villa,Wolverhampton,2023-05-06,False,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,9788,0.2,0.0,44.89,1.0,Aston Villa,True,Tottenham,,1.07
+Boubacar Kamara,Aston Villa,Tottenham,2023-05-13,True,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,9817,0.4,0.0,44.25,2.0,Aston Villa,False,Liverpool,,-1.33
+Boubacar Kamara,Aston Villa,Liverpool,2023-05-20,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0,1,9846,0.8,0.0,45.49,2.0,Aston Villa,True,Brighton,,-0.71
+Boubacar Kamara,Aston Villa,Brighton,2023-05-28,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,0,1,9907,1.2,0.0,46.66,2.0,Aston Villa,False,Newcastle United,,-0.34

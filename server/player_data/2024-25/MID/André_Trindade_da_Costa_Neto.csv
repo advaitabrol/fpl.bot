@@ -1,10 +1,10 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-André Trindade da Costa Neto,Wolves,Nottingham Forest,,False,4,,,,,1,,,0.2,0,0,1.0,0.0,4.0,1.0,Wolves,True,Newcastle United,,0.67
-André Trindade da Costa Neto,Wolves,Newcastle United,,True,76,,,,,1,,,2.2,0,1,1.0,0.0,40.0,2.0,Wolves,False,Aston Villa,,0.11
-André Trindade da Costa Neto,Wolves,Aston Villa,2024-09-21,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.4,0,1,1.33,0.0,56.67,1.0,Wolves,True,Liverpool,,0.24
-André Trindade da Costa Neto,Wolves,Liverpool,,True,90,,,,,1,,,0.7,0,1,1.25,0.0,65.0,1.0,Wolves,False,Brentford,,-0.15
-André Trindade da Costa Neto,Wolves,Brentford,,False,56,,,,,1,,,4.0,0,1,1.2,0.0,63.2,1.0,Wolves,True,Manchester City,,-1.18
-André Trindade da Costa Neto,Wolves,Manchester City,,True,45,,,,,1,,,1.4,0,1,1.2,0.0,60.17,1.0,Wolves,False,Brighton,,-0.61
-André Trindade da Costa Neto,Wolves,Brighton,,False,1,,,,,1,,,0.0,0,0,1.2,0.0,51.71,0.0,Wolves,True,Crystal Palace,,0.88
-André Trindade da Costa Neto,Wolves,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.8,0.0,45.25,0.0,Wolves,True,Southampton,,0.24
-André Trindade da Costa Neto,Wolves,Southampton,,True,0,,,,,0,,,0.0,0,0,0.6,0.0,40.22,,,,,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+André Trindade da Costa Neto,Wolves,Nottingham Forest,,False,4,,,,,1,,,0.2,0,0,0,1.0,0.0,4.0,1.0,Wolves,True,Newcastle United,,0.67
+André Trindade da Costa Neto,Wolves,Newcastle United,,True,76,,,,,1,,,2.2,0,1,844,1.0,0.0,40.0,2.0,Wolves,False,Aston Villa,,0.11
+André Trindade da Costa Neto,Wolves,Aston Villa,2024-09-21,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.4,0,1,1340,1.33,0.0,56.67,1.0,Wolves,True,Liverpool,,0.24
+André Trindade da Costa Neto,Wolves,Liverpool,,True,90,,,,,1,,,0.7,0,1,1581,1.25,0.0,65.0,1.0,Wolves,False,Brentford,,-0.15
+André Trindade da Costa Neto,Wolves,Brentford,,False,56,,,,,1,,,4.0,0,1,1994,1.2,0.0,63.2,1.0,Wolves,True,Manchester City,,-1.18
+André Trindade da Costa Neto,Wolves,Manchester City,,True,45,,,,,1,,,1.4,0,1,2058,1.2,0.0,60.17,1.0,Wolves,False,Brighton,,-0.61
+André Trindade da Costa Neto,Wolves,Brighton,,False,1,,,,,1,,,0.0,0,0,2191,1.2,0.0,51.71,0.0,Wolves,True,Crystal Palace,,0.88
+André Trindade da Costa Neto,Wolves,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,2278,0.8,0.0,45.25,0.0,Wolves,True,Southampton,,0.24
+André Trindade da Costa Neto,Wolves,Southampton,,True,0,,,,,0,,,0.0,0,0,2273,0.6,0.0,40.22,,,,,,

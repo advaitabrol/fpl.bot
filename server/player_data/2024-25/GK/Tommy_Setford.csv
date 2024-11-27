@@ -1,12 +1,12 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Tommy Setford,Arsenal,Brighton,2024-08-31,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,False,Tottenham,,-0.3
-Tommy Setford,Arsenal,Tottenham,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,False,Manchester City,,-1.51
-Tommy Setford,Arsenal,Manchester City,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,True,Leicester City,,0.47
-Tommy Setford,Arsenal,Leicester City,2024-09-28,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,True,Southampton,,0.24
-Tommy Setford,Arsenal,Southampton,2024-10-05,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,False,Bournemouth,,-0.04
-Tommy Setford,Arsenal,Bournemouth,2024-10-19,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,True,Liverpool,,0.24
-Tommy Setford,Arsenal,Liverpool,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,False,Newcastle United,,-0.44
-Tommy Setford,Arsenal,Newcastle United,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,False,Chelsea,,-0.9
-Tommy Setford,Arsenal,Chelsea,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Arsenal,True,Nottingham Forest,,1.2
-,Arsenal,,,,,,,,,,,,,,,,,,,Arsenal,False,West Ham,,-0.34
-,Arsenal,,,,,,,,,,,,,,,,,,,Arsenal,True,Manchester United,,0.39
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Tommy Setford,Arsenal,Brighton,2024-08-31,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,False,Tottenham,,-0.3
+Tommy Setford,Arsenal,Tottenham,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,859.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,False,Manchester City,,-1.51
+Tommy Setford,Arsenal,Manchester City,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1262.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,True,Leicester City,,0.47
+Tommy Setford,Arsenal,Leicester City,2024-09-28,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2084.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,True,Southampton,,0.24
+Tommy Setford,Arsenal,Southampton,2024-10-05,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2330.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,False,Bournemouth,,-0.04
+Tommy Setford,Arsenal,Bournemouth,2024-10-19,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2751.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,True,Liverpool,,0.24
+Tommy Setford,Arsenal,Liverpool,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2963.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,False,Newcastle United,,-0.44
+Tommy Setford,Arsenal,Newcastle United,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3224.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,False,Chelsea,,-0.9
+Tommy Setford,Arsenal,Chelsea,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3408.0,0.0,0.0,0.0,0.0,0.0,,Arsenal,True,Nottingham Forest,,1.2
+,Arsenal,,,,,,,,,,,,,,,,,,,,Arsenal,False,West Ham,,-0.34
+,Arsenal,,,,,,,,,,,,,,,,,,,,Arsenal,True,Manchester United,,0.39

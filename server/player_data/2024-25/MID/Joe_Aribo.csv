@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Joe Aribo,Southampton,Newcastle United,2024-08-17,False,69.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,5.2,0.0,1.0,2.0,0.0,69.0,2.0,Southampton,True,Nottingham Forest,,1.2
-Joe Aribo,Southampton,Nottingham Forest,2024-08-24,True,75.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.1,0.0,1.0,2.0,0.0,72.0,2.0,Southampton,False,Brentford,,-0.15
-Joe Aribo,Southampton,Brentford,2024-08-31,False,81.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.0,0.0,1.0,2.0,0.0,75.0,0.0,Southampton,True,Manchester United,,0.39
-Joe Aribo,Southampton,Manchester United,2024-09-14,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.5,0.0,56.25,1.0,Southampton,True,Ipswich Town,,
-Joe Aribo,Southampton,Ipswich Town,2024-09-21,True,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.4,0.0,45.2,1.0,Southampton,False,Bournemouth,,-0.04
-Joe Aribo,Southampton,Bournemouth,,False,45.0,,,,,1.0,,,1.5,0.0,0.0,1.2,0.0,45.17,2.0,Southampton,False,Arsenal,,-0.56
-Joe Aribo,Southampton,Arsenal,2024-10-05,False,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.8,0.0,1.0,1.2,0.0,51.57,9.0,Southampton,True,Leicester City,,0.47
-Joe Aribo,Southampton,Leicester City,2024-10-19,True,90.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,10.7,2.0,1.0,2.6,0.0,56.38,1.0,Southampton,False,Manchester City,,-1.51
-Joe Aribo,Southampton,Manchester City,,False,30.0,,,,,1.0,,,0.9,0.0,0.0,2.8,0.0,53.44,1.0,Southampton,True,Everton,,0.61
-Joe Aribo,Southampton,Everton,,True,45.0,,,,,1.0,,,2.5,0.0,0.0,2.8,0.0,52.6,2.0,Southampton,False,Wolverhampton,,-0.53
-Joe Aribo,Southampton,Wolverhampton,,False,72.0,,,,,2.0,,,1.0,0.0,1.0,3.0,0.0,54.36,,Southampton,True,Liverpool,,0.24
-,Southampton,,,,,,,,,,,,,,,,,,,Southampton,False,Brighton,,-0.61
-,Southampton,,,,,,,,,,,,,,,,,,,Southampton,True,Chelsea,,0.0
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Joe Aribo,Southampton,Newcastle United,2024-08-17,False,69.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,5.2,0.0,1.0,4540.0,2.0,0.0,69.0,2.0,Southampton,True,Nottingham Forest,,1.2
+Joe Aribo,Southampton,Nottingham Forest,2024-08-24,True,75.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.1,0.0,1.0,6306.0,2.0,0.0,72.0,2.0,Southampton,False,Brentford,,-0.15
+Joe Aribo,Southampton,Brentford,2024-08-31,False,81.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.0,0.0,1.0,6416.0,2.0,0.0,75.0,0.0,Southampton,True,Manchester United,,0.39
+Joe Aribo,Southampton,Manchester United,2024-09-14,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6565.0,1.5,0.0,56.25,1.0,Southampton,True,Ipswich Town,,
+Joe Aribo,Southampton,Ipswich Town,2024-09-21,True,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5953.0,1.4,0.0,45.2,1.0,Southampton,False,Bournemouth,,-0.04
+Joe Aribo,Southampton,Bournemouth,,False,45.0,,,,,1.0,,,1.5,0.0,0.0,5489.0,1.2,0.0,45.17,2.0,Southampton,False,Arsenal,,-0.56
+Joe Aribo,Southampton,Arsenal,2024-10-05,False,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.8,0.0,1.0,5290.0,1.2,0.0,51.57,9.0,Southampton,True,Leicester City,,0.47
+Joe Aribo,Southampton,Leicester City,2024-10-19,True,90.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,10.7,2.0,1.0,5305.0,2.6,0.0,56.38,1.0,Southampton,False,Manchester City,,-1.51
+Joe Aribo,Southampton,Manchester City,,False,30.0,,,,,1.0,,,0.9,0.0,0.0,6735.0,2.8,0.0,53.44,1.0,Southampton,True,Everton,,0.61
+Joe Aribo,Southampton,Everton,,True,45.0,,,,,1.0,,,2.5,0.0,0.0,6987.0,2.8,0.0,52.6,2.0,Southampton,False,Wolverhampton,,-0.53
+Joe Aribo,Southampton,Wolverhampton,,False,72.0,,,,,2.0,,,1.0,0.0,1.0,8181.0,3.0,0.0,54.36,,Southampton,True,Liverpool,,0.24
+,Southampton,,,,,,,,,,,,,,,,,,,,Southampton,False,Brighton,,-0.61
+,Southampton,,,,,,,,,,,,,,,,,,,,Southampton,True,Chelsea,,0.0

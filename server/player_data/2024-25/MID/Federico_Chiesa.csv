@@ -1,12 +1,12 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Federico Chiesa,Liverpool,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Liverpool,True,Nottingham Forest,,1.2
-Federico Chiesa,Liverpool,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Liverpool,True,Bournemouth,,0.84
-Federico Chiesa,Liverpool,Bournemouth,2024-09-21,True,18.0,0.0,0.42,0.0,0.0,1.0,2.0,0.0,1.6,0.0,0.0,0.33,0.14,6.0,0.0,Liverpool,False,Wolverhampton,,-0.53
-Federico Chiesa,Liverpool,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.25,0.11,4.5,0.0,Liverpool,False,Crystal Palace,,0.2
-Federico Chiesa,Liverpool,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.2,0.08,3.6,0.0,Liverpool,True,Chelsea,,0.0
-Federico Chiesa,Liverpool,Chelsea,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.2,0.08,3.0,0.0,Liverpool,False,Arsenal,,-0.56
-Federico Chiesa,Liverpool,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.2,0.08,2.57,0.0,Liverpool,True,Brighton,,-0.42
-Federico Chiesa,Liverpool,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,2.25,0.0,Liverpool,True,Aston Villa,,0.66
-Federico Chiesa,Liverpool,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,2.0,,Liverpool,False,Southampton,,-0.31
-,Liverpool,,,,,,,,,,,,,,,,,,,Liverpool,True,Manchester City,,-1.18
-,Liverpool,,,,,,,,,,,,,,,,,,,Liverpool,False,Newcastle United,,-0.44
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Federico Chiesa,Liverpool,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,11351.0,0.0,0.0,0.0,0.0,Liverpool,True,Nottingham Forest,,1.2
+Federico Chiesa,Liverpool,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,30976.0,0.0,0.0,0.0,1.0,Liverpool,True,Bournemouth,,0.84
+Federico Chiesa,Liverpool,Bournemouth,2024-09-21,True,18.0,0.0,0.42,0.0,0.0,1.0,2.0,0.0,1.6,0.0,0.0,30745.0,0.33,0.14,6.0,0.0,Liverpool,False,Wolverhampton,,-0.53
+Federico Chiesa,Liverpool,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,31432.0,0.25,0.11,4.5,0.0,Liverpool,False,Crystal Palace,,0.2
+Federico Chiesa,Liverpool,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,25241.0,0.2,0.08,3.6,0.0,Liverpool,True,Chelsea,,0.0
+Federico Chiesa,Liverpool,Chelsea,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,20383.0,0.2,0.08,3.0,0.0,Liverpool,False,Arsenal,,-0.56
+Federico Chiesa,Liverpool,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,18780.0,0.2,0.08,2.57,0.0,Liverpool,True,Brighton,,-0.42
+Federico Chiesa,Liverpool,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,17360.0,0.0,0.0,2.25,0.0,Liverpool,True,Aston Villa,,0.66
+Federico Chiesa,Liverpool,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,16491.0,0.0,0.0,2.0,,Liverpool,False,Southampton,,-0.31
+,Liverpool,,,,,,,,,,,,,,,,,,,,Liverpool,True,Manchester City,,-1.18
+,Liverpool,,,,,,,,,,,,,,,,,,,,Liverpool,False,Newcastle United,,-0.44

@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Samuel Iling-Junior,Aston Villa,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa,True,Arsenal,,-0.32
-Samuel Iling-Junior,Aston Villa,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa,False,Leicester City,,-0.22
-Samuel Iling-Junior,Aston Villa,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa,True,Everton,,0.61
-Samuel Iling-Junior,Aston Villa,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa,True,Wolverhampton,,-0.08
-Samuel Iling-Junior,Aston Villa,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa,False,Ipswich Town,,
-Samuel Iling-Junior,Aston Villa,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa,True,Manchester United,,0.39
-Samuel Iling-Junior,Aston Villa,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa,False,Fulham,,0.53
-Samuel Iling-Junior,Aston Villa,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa,True,Bournemouth,,0.84
-Samuel Iling-Junior,Aston Villa,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa,False,Tottenham,,-0.3
-Samuel Iling-Junior,Aston Villa,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa,False,Liverpool,,-1.08
-Samuel Iling-Junior,Aston Villa,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,,Aston Villa,True,Crystal Palace,,0.88
-,Aston Villa,,,,,,,,,,,,,,,,,,,Aston Villa,False,Chelsea,,-0.9
-,Aston Villa,,,,,,,,,,,,,,,,,,,Aston Villa,True,Brentford,,0.54
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Samuel Iling-Junior,Aston Villa,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,6971.0,0.0,0.0,0.0,0.0,Aston Villa,True,Arsenal,,-0.32
+Samuel Iling-Junior,Aston Villa,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,6881.0,0.0,0.0,0.0,0.0,Aston Villa,False,Leicester City,,-0.22
+Samuel Iling-Junior,Aston Villa,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,5173.0,0.0,0.0,0.0,0.0,Aston Villa,True,Everton,,0.61
+Samuel Iling-Junior,Aston Villa,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,3621.0,0.0,0.0,0.0,0.0,Aston Villa,True,Wolverhampton,,-0.08
+Samuel Iling-Junior,Aston Villa,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,3176.0,0.0,0.0,0.0,0.0,Aston Villa,False,Ipswich Town,,
+Samuel Iling-Junior,Aston Villa,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,2886.0,0.0,0.0,0.0,0.0,Aston Villa,True,Manchester United,,0.39
+Samuel Iling-Junior,Aston Villa,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,2692.0,0.0,0.0,0.0,0.0,Aston Villa,False,Fulham,,0.53
+Samuel Iling-Junior,Aston Villa,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,2607.0,0.0,0.0,0.0,0.0,Aston Villa,True,Bournemouth,,0.84
+Samuel Iling-Junior,Aston Villa,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,2564.0,0.0,0.0,0.0,0.0,Aston Villa,False,Tottenham,,-0.3
+Samuel Iling-Junior,Aston Villa,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,2500.0,0.0,0.0,0.0,0.0,Aston Villa,False,Liverpool,,-1.08
+Samuel Iling-Junior,Aston Villa,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,2470.0,0.0,0.0,0.0,,Aston Villa,True,Crystal Palace,,0.88
+,Aston Villa,,,,,,,,,,,,,,,,,,,,Aston Villa,False,Chelsea,,-0.9
+,Aston Villa,,,,,,,,,,,,,,,,,,,,Aston Villa,True,Brentford,,0.54

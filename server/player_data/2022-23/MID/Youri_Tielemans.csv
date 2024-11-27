@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Youri Tielemans,Leicester,Brentford,2022-08-07,True,90,0.0,0.09,0.0,0.05,2,4.0,1.0,4.5,0,0,2.0,0.09,90.0,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,False,Arsenal,,-0.0
-Youri Tielemans,Leicester,Arsenal,2022-08-13,False,62,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,0,2.0,0.04,76.0,6.0,4.0,4.26,4.3,0.05,1.0,Leicester,True,Southampton,,-0.38
-Youri Tielemans,Leicester,Southampton,2022-08-20,True,25,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,1.67,0.03,59.0,6.0,4.0,4.26,4.3,0.05,4.0,Leicester,False,Chelsea,,-0.72
-Youri Tielemans,Leicester,Chelsea,2022-08-27,False,88,0.0,0.05,0.0,1.14,4,2.0,6.0,13.5,2,0,2.25,0.03,66.25,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,True,Manchester United,,0.38
-Youri Tielemans,Leicester,Manchester United,2022-09-01,True,75,0.0,0.0,0.0,0.04,2,0.0,2.0,3.8,0,0,2.2,0.03,68.0,6.0,4.0,4.26,4.3,0.05,5.0,Leicester,False,Brighton,,-0.39
-Youri Tielemans,Leicester,Brighton,2022-09-04,False,71,0.0,0.0,1.0,0.42,5,0.0,3.0,6.8,0,0,2.8,0.21,68.5,6.0,4.0,4.26,4.3,0.05,7.0,Leicester,False,Tottenham,,-0.03
-Youri Tielemans,Leicester,Tottenham,2022-09-17,False,90,1.0,0.79,0.0,0.0,7,3.0,0.0,9.2,0,0,3.8,0.37,71.57,6.0,4.0,4.26,4.3,0.05,3.0,Leicester,True,Nottingham Forest,,
-Youri Tielemans,Leicester,Nottingham Forest,2022-10-03,True,79,0.0,0.0,0.0,0.14,3,0.0,2.0,3.8,0,0,4.2,0.37,72.5,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,False,Bournemouth,,0.19
-Youri Tielemans,Leicester,Bournemouth,2022-10-08,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.7,0,0,3.8,0.36,74.44,6.0,4.0,4.26,4.3,0.05,3.0,Leicester,True,Crystal Palace,,0.81
-Youri Tielemans,Leicester,Crystal Palace,2022-10-15,True,81,0.0,0.0,0.0,0.05,3,0.0,2.0,4.2,0,0,4.0,0.36,75.1,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,True,Leicester City,,0.83
-Youri Tielemans,Leicester,Leicester City,2022-10-20,True,90,0.0,0.01,0.0,0.0,2,1.0,0.0,2.1,0,0,3.4,0.16,76.45,6.0,4.0,4.26,4.3,0.05,8.0,Leicester,False,Wolverhampton,,-0.46
-Youri Tielemans,Leicester,Wolverhampton,2022-10-23,False,90,1.0,0.01,0.0,0.0,8,1.0,0.0,5.1,0,0,3.6,0.01,77.58,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,True,Manchester City,,-1.17
-Youri Tielemans,Leicester,Manchester City,2022-10-29,True,90,0.0,0.01,0.0,0.0,2,1.0,0.0,3.9,0,0,3.4,0.01,78.54,6.0,4.0,4.26,4.3,0.05,11.0,Leicester,False,Everton,,-0.63
-Youri Tielemans,Leicester,Everton,2022-11-05,False,90,1.0,0.04,0.0,0.4,11,2.0,2.0,9.1,3,0,5.2,0.01,79.36,6.0,4.0,4.26,4.3,0.05,-1.0,Leicester,False,West Ham,,0.14
-Youri Tielemans,Leicester,West Ham,2022-11-12,False,54,0.0,0.78,0.0,0.0,-1,2.0,0.0,4.0,0,1,4.4,0.17,77.67,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,True,Newcastle United,,0.73
-Youri Tielemans,Leicester,Newcastle United,2022-12-26,True,90,0.0,0.0,0.0,0.06,2,0.0,1.0,3.9,0,1,4.4,0.17,78.44,6.0,4.0,4.26,4.3,0.05,1.0,Leicester,False,Liverpool,,-1.33
-Youri Tielemans,Leicester,Liverpool,2022-12-30,False,31,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,3.0,0.16,75.65,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,True,Fulham,,-0.3
-Youri Tielemans,Leicester,Fulham,2023-01-03,True,90,0.0,0.14,0.0,0.43,2,5.0,1.0,5.6,0,1,3.0,0.19,76.44,6.0,4.0,4.26,4.3,0.05,1.0,Leicester,False,Nottingham Forest,,
-Youri Tielemans,Leicester,Nottingham Forest,2023-01-14,False,90,0.0,0.08,0.0,0.3,1,2.0,1.0,2.7,0,1,1.0,0.2,77.16,6.0,4.0,4.26,4.3,0.05,5.0,Leicester,True,Brighton,,-0.71
-Youri Tielemans,Leicester,Brighton,2023-01-21,True,90,0.0,0.1,0.0,0.03,5,1.0,2.0,5.9,0,1,2.2,0.06,77.8,6.0,4.0,4.26,4.3,0.05,1.0,Leicester,False,Aston Villa,,0.59
-Youri Tielemans,Leicester,Aston Villa,2023-02-04,False,90,0.0,0.0,0.0,0.27,1,0.0,1.0,3.8,0,1,2.0,0.06,78.38,6.0,4.0,4.26,4.3,0.05,0.0,Leicester,True,Tottenham,,1.07
-Youri Tielemans,Leicester,Tottenham,,True,0,,,,,0,,,0.0,0,0,1.8,0.06,74.82,6.0,4.0,4.26,4.3,0.05,1.0,Leicester,False,Manchester United,,-0.1
-Youri Tielemans,Leicester,Manchester United,2023-02-19,False,31,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,1.6,0.04,72.91,6.0,4.0,4.26,4.3,0.05,1.0,Leicester,True,Arsenal,,0.36
-Youri Tielemans,Leicester,Arsenal,2023-02-25,True,28,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1.6,0.02,71.04,6.0,4.0,4.26,4.3,0.05,0.0,Leicester,False,Southampton,,-1.07
-Youri Tielemans,Leicester,Southampton,,False,0,,,,,0,,,0.0,0,0,0.6,0.0,68.2,6.0,4.0,4.26,4.3,0.05,0.0,Leicester,True,Chelsea,,-0.25
-Youri Tielemans,Leicester,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.4,0.0,65.58,6.0,4.0,4.26,4.3,0.05,0.0,Leicester,False,Brentford,,-0.55
-Youri Tielemans,Leicester,Brentford,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,63.15,6.0,4.0,4.26,4.3,0.05,0.0,Leicester,False,Crystal Palace,,0.13
-Youri Tielemans,Leicester,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,60.89,6.0,4.0,4.26,4.3,0.05,0.0,Leicester,True,Aston Villa,,0.55
-Youri Tielemans,Leicester,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,58.79,6.0,4.0,4.26,4.3,0.05,0.0,Leicester,True,Bournemouth,,1.46
-Youri Tielemans,Leicester,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,56.83,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,False,Manchester City,,-1.26
-Youri Tielemans,Leicester,Manchester City,2023-04-15,False,61,0.0,0.0,0.0,0.0,2,0.0,0.0,0.7,0,1,0.4,0.0,56.97,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,True,Wolverhampton,,-0.48
-Youri Tielemans,Leicester,Wolverhampton,2023-04-22,True,66,0.0,0.01,0.0,0.0,2,1.0,0.0,1.1,0,1,0.8,0.0,57.25,6.0,4.0,4.26,4.3,0.05,1.0,Leicester,False,Leicester City,,-0.05
-Youri Tielemans,Leicester,Leicester City,2023-04-25,False,90,0.0,0.03,0.0,0.0,1,1.0,0.0,2.7,0,1,1.0,0.01,58.24,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,True,Everton,,0.34
-Youri Tielemans,Leicester,Everton,2023-05-01,True,90,0.0,0.02,0.0,0.45,2,1.0,1.0,3.3,0,1,1.4,0.01,59.18,6.0,4.0,4.26,4.3,0.05,1.0,Leicester,False,Fulham,,1.37
-Youri Tielemans,Leicester,Fulham,2023-05-08,False,59,0.0,0.06,0.0,0.09,1,3.0,2.0,4.4,0,1,1.6,0.02,59.17,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,True,Liverpool,,-0.53
-Youri Tielemans,Leicester,Liverpool,2023-05-15,True,90,0.0,0.0,0.0,0.04,2,0.0,1.0,4.1,0,1,1.6,0.02,60.03,6.0,4.0,4.26,4.3,0.05,3.0,Leicester,False,Newcastle United,,-0.34
-Youri Tielemans,Leicester,Newcastle United,2023-05-22,False,90,0.0,0.0,0.0,0.0,3,0.0,0.0,2.0,0,1,1.8,0.02,60.84,6.0,4.0,4.26,4.3,0.05,6.0,Leicester,True,West Ham,,0.63
-Youri Tielemans,Leicester,West Ham,2023-05-28,True,90,0.0,0.02,1.0,0.61,6,1.0,2.0,0.0,1,1,2.8,0.22,61.61,6.0,4.0,4.26,4.3,0.05,1.0,Aston Villa,False,Newcastle United,,-0.34
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Youri Tielemans,Leicester,Brentford,2022-08-07,True,90,0.0,0.09,0.0,0.05,2,4.0,1.0,4.5,0,0,181627,2.0,0.09,90.0,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,False,Arsenal,,-0.0
+Youri Tielemans,Leicester,Arsenal,2022-08-13,False,62,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,0,193977,2.0,0.04,76.0,6.0,4.0,4.26,4.3,0.05,1.0,Leicester,True,Southampton,,-0.38
+Youri Tielemans,Leicester,Southampton,2022-08-20,True,25,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,192766,1.67,0.03,59.0,6.0,4.0,4.26,4.3,0.05,4.0,Leicester,False,Chelsea,,-0.72
+Youri Tielemans,Leicester,Chelsea,2022-08-27,False,88,0.0,0.05,0.0,1.14,4,2.0,6.0,13.5,2,0,154853,2.25,0.03,66.25,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,True,Manchester United,,0.38
+Youri Tielemans,Leicester,Manchester United,2022-09-01,True,75,0.0,0.0,0.0,0.04,2,0.0,2.0,3.8,0,0,145971,2.2,0.03,68.0,6.0,4.0,4.26,4.3,0.05,5.0,Leicester,False,Brighton,,-0.39
+Youri Tielemans,Leicester,Brighton,2022-09-04,False,71,0.0,0.0,1.0,0.42,5,0.0,3.0,6.8,0,0,142080,2.8,0.21,68.5,6.0,4.0,4.26,4.3,0.05,7.0,Leicester,False,Tottenham,,-0.03
+Youri Tielemans,Leicester,Tottenham,2022-09-17,False,90,1.0,0.79,0.0,0.0,7,3.0,0.0,9.2,0,0,142983,3.8,0.37,71.57,6.0,4.0,4.26,4.3,0.05,3.0,Leicester,True,Nottingham Forest,,
+Youri Tielemans,Leicester,Nottingham Forest,2022-10-03,True,79,0.0,0.0,0.0,0.14,3,0.0,2.0,3.8,0,0,187098,4.2,0.37,72.5,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,False,Bournemouth,,0.19
+Youri Tielemans,Leicester,Bournemouth,2022-10-08,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.7,0,0,184242,3.8,0.36,74.44,6.0,4.0,4.26,4.3,0.05,3.0,Leicester,True,Crystal Palace,,0.81
+Youri Tielemans,Leicester,Crystal Palace,2022-10-15,True,81,0.0,0.0,0.0,0.05,3,0.0,2.0,4.2,0,0,173256,4.0,0.36,75.1,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,True,Leicester City,,0.83
+Youri Tielemans,Leicester,Leicester City,2022-10-20,True,90,0.0,0.01,0.0,0.0,2,1.0,0.0,2.1,0,0,180769,3.4,0.16,76.45,6.0,4.0,4.26,4.3,0.05,8.0,Leicester,False,Wolverhampton,,-0.46
+Youri Tielemans,Leicester,Wolverhampton,2022-10-23,False,90,1.0,0.01,0.0,0.0,8,1.0,0.0,5.1,0,0,165754,3.6,0.01,77.58,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,True,Manchester City,,-1.17
+Youri Tielemans,Leicester,Manchester City,2022-10-29,True,90,0.0,0.01,0.0,0.0,2,1.0,0.0,3.9,0,0,163703,3.4,0.01,78.54,6.0,4.0,4.26,4.3,0.05,11.0,Leicester,False,Everton,,-0.63
+Youri Tielemans,Leicester,Everton,2022-11-05,False,90,1.0,0.04,0.0,0.4,11,2.0,2.0,9.1,3,0,161613,5.2,0.01,79.36,6.0,4.0,4.26,4.3,0.05,-1.0,Leicester,False,West Ham,,0.14
+Youri Tielemans,Leicester,West Ham,2022-11-12,False,54,0.0,0.78,0.0,0.0,-1,2.0,0.0,4.0,0,1,186892,4.4,0.17,77.67,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,True,Newcastle United,,0.73
+Youri Tielemans,Leicester,Newcastle United,2022-12-26,True,90,0.0,0.0,0.0,0.06,2,0.0,1.0,3.9,0,1,181218,4.4,0.17,78.44,6.0,4.0,4.26,4.3,0.05,1.0,Leicester,False,Liverpool,,-1.33
+Youri Tielemans,Leicester,Liverpool,2022-12-30,False,31,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,172278,3.0,0.16,75.65,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,True,Fulham,,-0.3
+Youri Tielemans,Leicester,Fulham,2023-01-03,True,90,0.0,0.14,0.0,0.43,2,5.0,1.0,5.6,0,1,166263,3.0,0.19,76.44,6.0,4.0,4.26,4.3,0.05,1.0,Leicester,False,Nottingham Forest,,
+Youri Tielemans,Leicester,Nottingham Forest,2023-01-14,False,90,0.0,0.08,0.0,0.3,1,2.0,1.0,2.7,0,1,161737,1.0,0.2,77.16,6.0,4.0,4.26,4.3,0.05,5.0,Leicester,True,Brighton,,-0.71
+Youri Tielemans,Leicester,Brighton,2023-01-21,True,90,0.0,0.1,0.0,0.03,5,1.0,2.0,5.9,0,1,156397,2.2,0.06,77.8,6.0,4.0,4.26,4.3,0.05,1.0,Leicester,False,Aston Villa,,0.59
+Youri Tielemans,Leicester,Aston Villa,2023-02-04,False,90,0.0,0.0,0.0,0.27,1,0.0,1.0,3.8,0,1,154070,2.0,0.06,78.38,6.0,4.0,4.26,4.3,0.05,0.0,Leicester,True,Tottenham,,1.07
+Youri Tielemans,Leicester,Tottenham,,True,0,,,,,0,,,0.0,0,0,152146,1.8,0.06,74.82,6.0,4.0,4.26,4.3,0.05,1.0,Leicester,False,Manchester United,,-0.1
+Youri Tielemans,Leicester,Manchester United,2023-02-19,False,31,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,145396,1.6,0.04,72.91,6.0,4.0,4.26,4.3,0.05,1.0,Leicester,True,Arsenal,,0.36
+Youri Tielemans,Leicester,Arsenal,2023-02-25,True,28,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,146458,1.6,0.02,71.04,6.0,4.0,4.26,4.3,0.05,0.0,Leicester,False,Southampton,,-1.07
+Youri Tielemans,Leicester,Southampton,,False,0,,,,,0,,,0.0,0,0,138783,0.6,0.0,68.2,6.0,4.0,4.26,4.3,0.05,0.0,Leicester,True,Chelsea,,-0.25
+Youri Tielemans,Leicester,Chelsea,,True,0,,,,,0,,,0.0,0,0,133874,0.4,0.0,65.58,6.0,4.0,4.26,4.3,0.05,0.0,Leicester,False,Brentford,,-0.55
+Youri Tielemans,Leicester,Brentford,,False,0,,,,,0,,,0.0,0,0,131485,0.4,0.0,63.15,6.0,4.0,4.26,4.3,0.05,0.0,Leicester,False,Crystal Palace,,0.13
+Youri Tielemans,Leicester,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,129302,0.2,0.0,60.89,6.0,4.0,4.26,4.3,0.05,0.0,Leicester,True,Aston Villa,,0.55
+Youri Tielemans,Leicester,Aston Villa,,True,0,,,,,0,,,0.0,0,0,129302,0.0,0.0,58.79,6.0,4.0,4.26,4.3,0.05,0.0,Leicester,True,Bournemouth,,1.46
+Youri Tielemans,Leicester,Bournemouth,,True,0,,,,,0,,,0.0,0,0,128021,0.0,0.0,56.83,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,False,Manchester City,,-1.26
+Youri Tielemans,Leicester,Manchester City,2023-04-15,False,61,0.0,0.0,0.0,0.0,2,0.0,0.0,0.7,0,1,127337,0.4,0.0,56.97,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,True,Wolverhampton,,-0.48
+Youri Tielemans,Leicester,Wolverhampton,2023-04-22,True,66,0.0,0.01,0.0,0.0,2,1.0,0.0,1.1,0,1,130355,0.8,0.0,57.25,6.0,4.0,4.26,4.3,0.05,1.0,Leicester,False,Leicester City,,-0.05
+Youri Tielemans,Leicester,Leicester City,2023-04-25,False,90,0.0,0.03,0.0,0.0,1,1.0,0.0,2.7,0,1,130821,1.0,0.01,58.24,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,True,Everton,,0.34
+Youri Tielemans,Leicester,Everton,2023-05-01,True,90,0.0,0.02,0.0,0.45,2,1.0,1.0,3.3,0,1,129737,1.4,0.01,59.18,6.0,4.0,4.26,4.3,0.05,1.0,Leicester,False,Fulham,,1.37
+Youri Tielemans,Leicester,Fulham,2023-05-08,False,59,0.0,0.06,0.0,0.09,1,3.0,2.0,4.4,0,1,129749,1.6,0.02,59.17,6.0,4.0,4.26,4.3,0.05,2.0,Leicester,True,Liverpool,,-0.53
+Youri Tielemans,Leicester,Liverpool,2023-05-15,True,90,0.0,0.0,0.0,0.04,2,0.0,1.0,4.1,0,1,129246,1.6,0.02,60.03,6.0,4.0,4.26,4.3,0.05,3.0,Leicester,False,Newcastle United,,-0.34
+Youri Tielemans,Leicester,Newcastle United,2023-05-22,False,90,0.0,0.0,0.0,0.0,3,0.0,0.0,2.0,0,1,129299,1.8,0.02,60.84,6.0,4.0,4.26,4.3,0.05,6.0,Leicester,True,West Ham,,0.63
+Youri Tielemans,Leicester,West Ham,2023-05-28,True,90,0.0,0.02,1.0,0.61,6,1.0,2.0,0.0,1,1,134100,2.8,0.22,61.61,6.0,4.0,4.26,4.3,0.05,1.0,Aston Villa,False,Newcastle United,,-0.34

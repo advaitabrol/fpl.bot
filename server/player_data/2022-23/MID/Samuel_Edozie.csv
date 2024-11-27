@@ -1,34 +1,34 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Samuel Edozie,Southampton,Wolverhampton,2022-09-03,False,17,0.0,0.0,0.0,0.04,1,0.0,1.0,2.4,0,0,1.0,0.0,17.0,5.0,3.0,4.1,2.67,0,1.0,Southampton,False,Aston Villa,,0.59
-Samuel Edozie,Southampton,Aston Villa,2022-09-16,False,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1.0,0.0,14.0,5.0,3.0,4.1,2.67,0,1.0,Southampton,True,Everton,,0.34
-Samuel Edozie,Southampton,Everton,2022-10-01,True,23,0.0,0.0,0.0,0.03,1,0.0,1.0,2.0,0,0,1.0,0.0,17.0,5.0,3.0,4.1,2.67,0,0.0,Southampton,False,Manchester City,,-1.26
-Samuel Edozie,Southampton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.75,0.0,12.75,5.0,3.0,4.1,2.67,0,1.0,Southampton,True,West Ham,,0.63
-Samuel Edozie,Southampton,West Ham,2022-10-16,True,16,0.0,0.02,0.0,0.0,1,1.0,0.0,1.5,0,0,0.8,0.0,13.4,5.0,3.0,4.1,2.67,0,0.0,Southampton,False,Bournemouth,,0.19
-Samuel Edozie,Southampton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.6,0.0,11.17,5.0,3.0,4.1,2.67,0,1.0,Southampton,True,Arsenal,,0.36
-Samuel Edozie,Southampton,Arsenal,2022-10-23,True,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0.6,0.0,11.0,5.0,3.0,4.1,2.67,0,1.0,Southampton,False,Crystal Palace,,0.13
-Samuel Edozie,Southampton,Crystal Palace,2022-10-29,False,16,0.0,0.0,0.0,0.03,1,0.0,1.0,1.7,0,0,0.6,0.0,11.62,5.0,3.0,4.1,2.67,0,1.0,Southampton,True,Newcastle United,,0.73
-Samuel Edozie,Southampton,Newcastle United,2022-11-06,True,26,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,0.8,0.0,13.22,5.0,3.0,4.1,2.67,0,1.0,Southampton,False,Liverpool,,-1.33
-Samuel Edozie,Southampton,Liverpool,2022-11-12,False,31,0.0,0.42,0.0,0.0,1,1.0,0.0,2.3,0,0,0.8,0.08,15.0,5.0,3.0,4.1,2.67,0,2.0,Southampton,True,Brighton,,-0.71
-Samuel Edozie,Southampton,Brighton,2022-12-26,True,83,0.0,0.39,0.0,0.05,2,3.0,1.0,6.3,0,1,1.2,0.16,21.18,5.0,3.0,4.1,2.67,0,2.0,Southampton,False,Fulham,,1.37
-Samuel Edozie,Southampton,Fulham,2022-12-31,False,76,0.0,0.07,0.0,0.0,2,1.0,0.0,2.7,0,1,1.4,0.18,25.75,5.0,3.0,4.1,2.67,0,1.0,Southampton,True,Nottingham Forest,,
-Samuel Edozie,Southampton,Nottingham Forest,2023-01-04,True,26,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1.4,0.18,25.77,5.0,3.0,4.1,2.67,0,2.0,Southampton,False,Everton,,-0.63
-Samuel Edozie,Southampton,Everton,2023-01-14,False,60,0.0,0.1,0.0,0.14,2,1.0,2.0,4.6,0,1,1.6,0.2,28.21,5.0,3.0,4.1,2.67,0,3.0,Southampton,True,Aston Villa,,0.55
-Samuel Edozie,Southampton,Aston Villa,2023-01-21,True,61,0.0,0.0,0.0,0.0,3,0.0,0.0,1.6,0,1,2.0,0.11,30.4,5.0,3.0,4.1,2.67,0,2.0,Southampton,False,Brentford,,-0.55
-Samuel Edozie,Southampton,Brentford,2023-02-04,False,64,0.0,0.09,0.0,0.0,2,1.0,0.0,1.6,0,1,2.0,0.05,32.5,5.0,3.0,4.1,2.67,0,1.0,Southampton,True,Wolverhampton,,-0.48
-Samuel Edozie,Southampton,Wolverhampton,2023-02-11,True,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1.8,0.04,31.18,5.0,3.0,4.1,2.67,0,0.0,Southampton,False,Chelsea,,-0.72
-Samuel Edozie,Southampton,Chelsea,,False,0,,,,,0,,,0.0,0,0,1.6,0.04,29.44,5.0,3.0,4.1,2.67,0,0.0,Southampton,False,Leicester City,,-0.05
-Samuel Edozie,Southampton,Leicester City,,False,0,,,,,0,,,0.0,0,0,1.2,0.02,27.89,5.0,3.0,4.1,2.67,0,0.0,Southampton,True,Leeds United,,-0.79
-Samuel Edozie,Southampton,Leeds United,,True,0,,,,,0,,,0.0,0,0,0.6,0.02,26.5,5.0,3.0,4.1,2.67,0,0.0,Southampton,False,Manchester United,,-0.1
-Samuel Edozie,Southampton,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,25.24,5.0,3.0,4.1,2.67,0,0.0,Southampton,True,Brentford,,0.69
-Samuel Edozie,Southampton,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,24.09,5.0,3.0,4.1,2.67,0,0.0,Southampton,True,Tottenham,,1.07
-Samuel Edozie,Southampton,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,23.04,5.0,3.0,4.1,2.67,0,0.0,Southampton,False,West Ham,,0.14
-Samuel Edozie,Southampton,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,22.08,5.0,3.0,4.1,2.67,0,0.0,Southampton,True,Manchester City,,-1.17
-Samuel Edozie,Southampton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,21.2,5.0,3.0,4.1,2.67,0,1.0,Southampton,True,Crystal Palace,,0.81
-Samuel Edozie,Southampton,Crystal Palace,2023-04-15,True,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0.2,0.0,20.77,5.0,3.0,4.1,2.67,0,0.0,Southampton,False,Arsenal,,-0.0
-Samuel Edozie,Southampton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,20.0,5.0,3.0,4.1,2.67,0,0.0,Southampton,True,Bournemouth,,1.46
-Samuel Edozie,Southampton,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,19.29,5.0,3.0,4.1,2.67,0,0.0,Southampton,False,Newcastle United,,-0.34
-Samuel Edozie,Southampton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,18.62,5.0,3.0,4.1,2.67,0,1.0,Southampton,False,Nottingham Forest,,
-Samuel Edozie,Southampton,Nottingham Forest,2023-05-08,False,14,0.0,0.0,0.0,0.03,1,0.0,2.0,4.3,0,0,0.4,0.0,18.47,5.0,3.0,4.1,2.67,0,0.0,Southampton,True,Fulham,,-0.3
-Samuel Edozie,Southampton,Fulham,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,17.87,5.0,3.0,4.1,2.67,0,0.0,Southampton,False,Brighton,,-0.39
-Samuel Edozie,Southampton,Brighton,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,17.31,5.0,3.0,4.1,2.67,0,0.0,Southampton,True,Liverpool,,-0.53
-Samuel Edozie,Southampton,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,16.79,5.0,3.0,4.1,2.67,0,,Fulham,False,Everton,,-0.63
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Samuel Edozie,Southampton,Wolverhampton,2022-09-03,False,17,0.0,0.0,0.0,0.04,1,0.0,1.0,2.4,0,0,0,1.0,0.0,17.0,5.0,3.0,4.1,2.67,0,1.0,Southampton,False,Aston Villa,,0.59
+Samuel Edozie,Southampton,Aston Villa,2022-09-16,False,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1243,1.0,0.0,14.0,5.0,3.0,4.1,2.67,0,1.0,Southampton,True,Everton,,0.34
+Samuel Edozie,Southampton,Everton,2022-10-01,True,23,0.0,0.0,0.0,0.03,1,0.0,1.0,2.0,0,0,1110,1.0,0.0,17.0,5.0,3.0,4.1,2.67,0,0.0,Southampton,False,Manchester City,,-1.26
+Samuel Edozie,Southampton,Manchester City,,False,0,,,,,0,,,0.0,0,0,1061,0.75,0.0,12.75,5.0,3.0,4.1,2.67,0,1.0,Southampton,True,West Ham,,0.63
+Samuel Edozie,Southampton,West Ham,2022-10-16,True,16,0.0,0.02,0.0,0.0,1,1.0,0.0,1.5,0,0,1015,0.8,0.0,13.4,5.0,3.0,4.1,2.67,0,0.0,Southampton,False,Bournemouth,,0.19
+Samuel Edozie,Southampton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,969,0.6,0.0,11.17,5.0,3.0,4.1,2.67,0,1.0,Southampton,True,Arsenal,,0.36
+Samuel Edozie,Southampton,Arsenal,2022-10-23,True,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1002,0.6,0.0,11.0,5.0,3.0,4.1,2.67,0,1.0,Southampton,False,Crystal Palace,,0.13
+Samuel Edozie,Southampton,Crystal Palace,2022-10-29,False,16,0.0,0.0,0.0,0.03,1,0.0,1.0,1.7,0,0,980,0.6,0.0,11.62,5.0,3.0,4.1,2.67,0,1.0,Southampton,True,Newcastle United,,0.73
+Samuel Edozie,Southampton,Newcastle United,2022-11-06,True,26,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,955,0.8,0.0,13.22,5.0,3.0,4.1,2.67,0,1.0,Southampton,False,Liverpool,,-1.33
+Samuel Edozie,Southampton,Liverpool,2022-11-12,False,31,0.0,0.42,0.0,0.0,1,1.0,0.0,2.3,0,0,962,0.8,0.08,15.0,5.0,3.0,4.1,2.67,0,2.0,Southampton,True,Brighton,,-0.71
+Samuel Edozie,Southampton,Brighton,2022-12-26,True,83,0.0,0.39,0.0,0.05,2,3.0,1.0,6.3,0,1,1107,1.2,0.16,21.18,5.0,3.0,4.1,2.67,0,2.0,Southampton,False,Fulham,,1.37
+Samuel Edozie,Southampton,Fulham,2022-12-31,False,76,0.0,0.07,0.0,0.0,2,1.0,0.0,2.7,0,1,1269,1.4,0.18,25.75,5.0,3.0,4.1,2.67,0,1.0,Southampton,True,Nottingham Forest,,
+Samuel Edozie,Southampton,Nottingham Forest,2023-01-04,True,26,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1320,1.4,0.18,25.77,5.0,3.0,4.1,2.67,0,2.0,Southampton,False,Everton,,-0.63
+Samuel Edozie,Southampton,Everton,2023-01-14,False,60,0.0,0.1,0.0,0.14,2,1.0,2.0,4.6,0,1,1289,1.6,0.2,28.21,5.0,3.0,4.1,2.67,0,3.0,Southampton,True,Aston Villa,,0.55
+Samuel Edozie,Southampton,Aston Villa,2023-01-21,True,61,0.0,0.0,0.0,0.0,3,0.0,0.0,1.6,0,1,1294,2.0,0.11,30.4,5.0,3.0,4.1,2.67,0,2.0,Southampton,False,Brentford,,-0.55
+Samuel Edozie,Southampton,Brentford,2023-02-04,False,64,0.0,0.09,0.0,0.0,2,1.0,0.0,1.6,0,1,1278,2.0,0.05,32.5,5.0,3.0,4.1,2.67,0,1.0,Southampton,True,Wolverhampton,,-0.48
+Samuel Edozie,Southampton,Wolverhampton,2023-02-11,True,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1344,1.8,0.04,31.18,5.0,3.0,4.1,2.67,0,0.0,Southampton,False,Chelsea,,-0.72
+Samuel Edozie,Southampton,Chelsea,,False,0,,,,,0,,,0.0,0,0,1318,1.6,0.04,29.44,5.0,3.0,4.1,2.67,0,0.0,Southampton,False,Leicester City,,-0.05
+Samuel Edozie,Southampton,Leicester City,,False,0,,,,,0,,,0.0,0,0,1297,1.2,0.02,27.89,5.0,3.0,4.1,2.67,0,0.0,Southampton,True,Leeds United,,-0.79
+Samuel Edozie,Southampton,Leeds United,,True,0,,,,,0,,,0.0,0,0,1236,0.6,0.02,26.5,5.0,3.0,4.1,2.67,0,0.0,Southampton,False,Manchester United,,-0.1
+Samuel Edozie,Southampton,Manchester United,,False,0,,,,,0,,,0.0,0,0,1233,0.2,0.0,25.24,5.0,3.0,4.1,2.67,0,0.0,Southampton,True,Brentford,,0.69
+Samuel Edozie,Southampton,Brentford,,True,0,,,,,0,,,0.0,0,0,1233,0.0,0.0,24.09,5.0,3.0,4.1,2.67,0,0.0,Southampton,True,Tottenham,,1.07
+Samuel Edozie,Southampton,Tottenham,,True,0,,,,,0,,,0.0,0,0,1256,0.0,0.0,23.04,5.0,3.0,4.1,2.67,0,0.0,Southampton,False,West Ham,,0.14
+Samuel Edozie,Southampton,West Ham,,False,0,,,,,0,,,0.0,0,0,1223,0.0,0.0,22.08,5.0,3.0,4.1,2.67,0,0.0,Southampton,True,Manchester City,,-1.17
+Samuel Edozie,Southampton,Manchester City,,True,0,,,,,0,,,0.0,0,0,1214,0.0,0.0,21.2,5.0,3.0,4.1,2.67,0,1.0,Southampton,True,Crystal Palace,,0.81
+Samuel Edozie,Southampton,Crystal Palace,2023-04-15,True,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1271,0.2,0.0,20.77,5.0,3.0,4.1,2.67,0,0.0,Southampton,False,Arsenal,,-0.0
+Samuel Edozie,Southampton,Arsenal,,False,0,,,,,0,,,0.0,0,0,1351,0.2,0.0,20.0,5.0,3.0,4.1,2.67,0,0.0,Southampton,True,Bournemouth,,1.46
+Samuel Edozie,Southampton,Bournemouth,,True,0,,,,,0,,,0.0,0,0,1320,0.2,0.0,19.29,5.0,3.0,4.1,2.67,0,0.0,Southampton,False,Newcastle United,,-0.34
+Samuel Edozie,Southampton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,1313,0.2,0.0,18.62,5.0,3.0,4.1,2.67,0,1.0,Southampton,False,Nottingham Forest,,
+Samuel Edozie,Southampton,Nottingham Forest,2023-05-08,False,14,0.0,0.0,0.0,0.03,1,0.0,2.0,4.3,0,0,1343,0.4,0.0,18.47,5.0,3.0,4.1,2.67,0,0.0,Southampton,True,Fulham,,-0.3
+Samuel Edozie,Southampton,Fulham,,True,0,,,,,0,,,0.0,0,0,1364,0.2,0.0,17.87,5.0,3.0,4.1,2.67,0,0.0,Southampton,False,Brighton,,-0.39
+Samuel Edozie,Southampton,Brighton,,False,0,,,,,0,,,0.0,0,0,1365,0.2,0.0,17.31,5.0,3.0,4.1,2.67,0,0.0,Southampton,True,Liverpool,,-0.53
+Samuel Edozie,Southampton,Liverpool,,True,0,,,,,0,,,0.0,0,0,1343,0.2,0.0,16.79,5.0,3.0,4.1,2.67,0,,Fulham,False,Everton,,-0.63

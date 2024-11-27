@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Mahmoud Dahoud,Brighton,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,0.0,Brighton,True,Manchester United,,0.39
-Mahmoud Dahoud,Brighton,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,0.0,Brighton,False,Arsenal,,-0.56
-Mahmoud Dahoud,Brighton,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,0.0,Brighton,True,Ipswich Town,,
-Mahmoud Dahoud,Brighton,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,0.0,Brighton,True,Nottingham Forest,,1.2
-Mahmoud Dahoud,Brighton,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,0.0,Brighton,False,Chelsea,,-0.9
-Mahmoud Dahoud,Brighton,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,0.0,Brighton,True,Tottenham,,0.74
-Mahmoud Dahoud,Brighton,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,0.0,Brighton,False,Newcastle United,,-0.44
-Mahmoud Dahoud,Brighton,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,0.0,Brighton,True,Wolverhampton,,-0.08
-Mahmoud Dahoud,Brighton,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,0.0,Brighton,False,Liverpool,,-1.08
-Mahmoud Dahoud,Brighton,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,0.0,Brighton,True,Manchester City,,-1.18
-Mahmoud Dahoud,Brighton,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,,Brighton,False,Bournemouth,,-0.04
-,Brighton,,,,,,,,,,,,,,,,,,,,,,,,Brighton,True,Southampton,,0.24
-,Brighton,,,,,,,,,,,,,,,,,,,,,,,,Brighton,False,Fulham,,0.53
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Mahmoud Dahoud,Brighton,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,2851.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,0.0,Brighton,True,Manchester United,,0.39
+Mahmoud Dahoud,Brighton,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,3002.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,0.0,Brighton,False,Arsenal,,-0.56
+Mahmoud Dahoud,Brighton,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,2807.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,0.0,Brighton,True,Ipswich Town,,
+Mahmoud Dahoud,Brighton,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1940.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,0.0,Brighton,True,Nottingham Forest,,1.2
+Mahmoud Dahoud,Brighton,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1730.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,0.0,Brighton,False,Chelsea,,-0.9
+Mahmoud Dahoud,Brighton,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1573.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,0.0,Brighton,True,Tottenham,,0.74
+Mahmoud Dahoud,Brighton,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1449.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,0.0,Brighton,False,Newcastle United,,-0.44
+Mahmoud Dahoud,Brighton,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1369.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,0.0,Brighton,True,Wolverhampton,,-0.08
+Mahmoud Dahoud,Brighton,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1339.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,0.0,Brighton,False,Liverpool,,-1.08
+Mahmoud Dahoud,Brighton,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1300.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,0.0,Brighton,True,Manchester City,,-1.18
+Mahmoud Dahoud,Brighton,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1272.0,0.0,0.0,0.0,0.0,1.0,0.16,1.45,0.03,,Brighton,False,Bournemouth,,-0.04
+,Brighton,,,,,,,,,,,,,,,,,,,,,,,,,Brighton,True,Southampton,,0.24
+,Brighton,,,,,,,,,,,,,,,,,,,,,,,,,Brighton,False,Fulham,,0.53

@@ -2,7 +2,13 @@ import React, { useState } from 'react';
 import styled from 'styled-components';
 import ConfigureTransfers from './ConfigureTransfers';
 import useGetTransfers from '../../services/useGetTransfers';
-import useOptimizeTeam, { Player } from '../../services/useOptimizeTeam';
+import useOptimizeTeam from '../../services/useOptimizeTeam';
+import {
+  Player,
+  TransferSuggestion,
+  TransferConfiguration,
+  Transfer,
+} from '../../services/interfaces';
 
 // Styled-components
 const ButtonContainer = styled.div`
@@ -30,7 +36,7 @@ const TeamActions: React.FC<{
 }> = ({ team, setTeam }) => {
   const [showModal, setShowModal] = useState(false);
   const [view, setView] = useState<'configure' | 'suggestions'>('configure');
-  const [suggestedTransfers, setSuggestedTransfers] = useState<any[]>([]);
+  const [suggestedTransfers, setSuggestedTransfers] = useState<Transfer[]>([]);
   const [totalNetPoints, setTotalNetPoints] = useState(0);
   const [totalNetCost, setTotalNetCost] = useState(0);
   const [updatedTeam, setUpdatedTeam] = useState<Player[]>(team);
@@ -47,37 +53,45 @@ const TeamActions: React.FC<{
     }
   };
 
-  const handleSuggestTransfersSubmit = async (transferConfig: any) => {
+  const handleSuggestTransfersSubmit = async (
+    transferConfig: TransferConfiguration
+  ) => {
     try {
       const response = await getTransfers({
-        team,
-        maxTransfers: transferConfig.maxTransfers,
-        keep: transferConfig.keepPlayers,
-        blacklist: transferConfig.avoidPlayers,
+        team: transferConfig.team,
+        max_transfers: transferConfig.max_transfers,
+        keep_players: transferConfig.keep_players,
+        avoid_players: transferConfig.avoid_players,
+        keep_teams: transferConfig.keep_teams,
+        avoid_teams: transferConfig.avoid_teams,
+        desired_selected: transferConfig.desired_selected,
+        captain_scale: transferConfig.captain_scale,
       });
 
       setUpdatedTeam(response.optimized_team);
 
-      const transfers = response.transfers_suggestion.map((transfer: any) => ({
-        out: transfer.out,
-        in: transfer.in,
-        netPoints:
-          transfer.in.expected_points.reduce(
-            (a: number, b: number) => a + b,
-            0
-          ) -
-          transfer.out.expected_points.reduce(
-            (a: number, b: number) => a + b,
-            0
-          ),
-      }));
+      const transfers = response.transfers_suggestion.map(
+        (transfer: TransferSuggestion) => ({
+          out: transfer.out,
+          in: transfer.in_player,
+          netPoints:
+            transfer.in_player.expected_points.reduce(
+              (a: number, b: number) => a + b,
+              0
+            ) -
+            transfer.out.expected_points.reduce(
+              (a: number, b: number) => a + b,
+              0
+            ),
+        })
+      );
 
       const totalPoints = transfers.reduce(
-        (sum: number, t: any) => sum + t.netPoints,
+        (sum: number, t: Transfer) => sum + t.net_points,
         0
       );
       const totalCost = transfers.reduce(
-        (sum: number, t: any) => sum + t.in.price - t.out.price,
+        (sum: number, t: Transfer) => sum + t.in_player.price - t.out.price,
         0
       );
 

@@ -1,19 +1,19 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Krisztián Hegyi,West Ham,Newcastle United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,West Ham,True,Chelsea,,-0.25
-Krisztián Hegyi,West Ham,Chelsea,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,West Ham,False,Tottenham,,-0.03
-Krisztián Hegyi,West Ham,Tottenham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,West Ham,True,Nottingham Forest,,
-Krisztián Hegyi,West Ham,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,West Ham,False,Brighton,,-0.39
-Krisztián Hegyi,West Ham,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,West Ham,True,Aston Villa,,0.55
-Krisztián Hegyi,West Ham,Aston Villa,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,West Ham,True,Southampton,,-0.38
-Krisztián Hegyi,West Ham,Southampton,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,West Ham,True,Newcastle United,,0.73
-Krisztián Hegyi,West Ham,Newcastle United,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,West Ham,False,Fulham,,1.37
-Krisztián Hegyi,West Ham,Fulham,2023-04-08,False,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0.0,West Ham,True,Arsenal,,0.36
-Krisztián Hegyi,West Ham,Arsenal,2023-04-16,True,0,0,0.0,0,0,0,0,0,0.18,0,0.0,0,0.0,0,0,0.0,West Ham,False,Bournemouth,,0.19
-Krisztián Hegyi,West Ham,Bournemouth,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,West Ham,True,Liverpool,,-0.53
-Krisztián Hegyi,West Ham,Liverpool,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,West Ham,False,Crystal Palace,,0.13
-Krisztián Hegyi,West Ham,Crystal Palace,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,West Ham,False,Manchester City,,-1.26
-Krisztián Hegyi,West Ham,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,West Ham,True,Manchester United,,0.38
-Krisztián Hegyi,West Ham,Manchester United,2023-05-07,True,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0.0,West Ham,False,Brentford,,-0.55
-Krisztián Hegyi,West Ham,Brentford,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,West Ham,True,Leicester City,,0.83
-Krisztián Hegyi,West Ham,Leicester City,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,West Ham,False,Leeds United,,-0.8
-Krisztián Hegyi,West Ham,Leeds United,2023-05-28,False,0,0,0.0,0,0,0,0,0,0.06,0,0.0,0,0.0,0,0,,Liverpool,False,Chelsea,,-0.72
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Krisztián Hegyi,West Ham,Newcastle United,,False,0,0,0.0,0,0,0,0,0,,0,0,0.0,0,0.0,0,0,0.0,West Ham,True,Chelsea,,-0.25
+Krisztián Hegyi,West Ham,Chelsea,,True,0,0,0.0,0,0,0,0,0,,0,244,0.0,0,0.0,0,0,0.0,West Ham,False,Tottenham,,-0.03
+Krisztián Hegyi,West Ham,Tottenham,,False,0,0,0.0,0,0,0,0,0,,0,185,0.0,0,0.0,0,0,0.0,West Ham,True,Nottingham Forest,,
+Krisztián Hegyi,West Ham,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,3474,0.0,0,0.0,0,0,0.0,West Ham,False,Brighton,,-0.39
+Krisztián Hegyi,West Ham,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,1739,0.0,0,0.0,0,0,0.0,West Ham,True,Aston Villa,,0.55
+Krisztián Hegyi,West Ham,Aston Villa,,True,0,0,0.0,0,0,0,0,0,,0,1826,0.0,0,0.0,0,0,0.0,West Ham,True,Southampton,,-0.38
+Krisztián Hegyi,West Ham,Southampton,,True,0,0,0.0,0,0,0,0,0,,0,2141,0.0,0,0.0,0,0,0.0,West Ham,True,Newcastle United,,0.73
+Krisztián Hegyi,West Ham,Newcastle United,,True,0,0,0.0,0,0,0,0,0,,0,2141,0.0,0,0.0,0,0,0.0,West Ham,False,Fulham,,1.37
+Krisztián Hegyi,West Ham,Fulham,2023-04-08,False,0,0,0.0,0,0,0,0,0,0.0,0,2271,0.0,0,0.0,0,0,0.0,West Ham,True,Arsenal,,0.36
+Krisztián Hegyi,West Ham,Arsenal,2023-04-16,True,0,0,0.0,0,0,0,0,0,0.18,0,2339,0.0,0,0.0,0,0,0.0,West Ham,False,Bournemouth,,0.19
+Krisztián Hegyi,West Ham,Bournemouth,,False,0,0,0.0,0,0,0,0,0,,0,2692,0.0,0,0.0,0,0,0.0,West Ham,True,Liverpool,,-0.53
+Krisztián Hegyi,West Ham,Liverpool,,True,0,0,0.0,0,0,0,0,0,,0,2440,0.0,0,0.0,0,0,0.0,West Ham,False,Crystal Palace,,0.13
+Krisztián Hegyi,West Ham,Crystal Palace,,False,0,0,0.0,0,0,0,0,0,,0,3048,0.0,0,0.0,0,0,0.0,West Ham,False,Manchester City,,-1.26
+Krisztián Hegyi,West Ham,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,3048,0.0,0,0.0,0,0,0.0,West Ham,True,Manchester United,,0.38
+Krisztián Hegyi,West Ham,Manchester United,2023-05-07,True,0,0,0.0,0,0,0,0,0,0.0,0,2658,0.0,0,0.0,0,0,0.0,West Ham,False,Brentford,,-0.55
+Krisztián Hegyi,West Ham,Brentford,,False,0,0,0.0,0,0,0,0,0,,0,2748,0.0,0,0.0,0,0,0.0,West Ham,True,Leicester City,,0.83
+Krisztián Hegyi,West Ham,Leicester City,,True,0,0,0.0,0,0,0,0,0,,0,3320,0.0,0,0.0,0,0,0.0,West Ham,False,Leeds United,,-0.8
+Krisztián Hegyi,West Ham,Leeds United,2023-05-28,False,0,0,0.0,0,0,0,0,0,0.06,0,3508,0.0,0,0.0,0,0,,Liverpool,False,Chelsea,,-0.72

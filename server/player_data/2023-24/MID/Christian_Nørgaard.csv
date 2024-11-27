@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Christian Nørgaard,Brentford,Tottenham,2023-08-13,True,71,0.0,0.0,0.0,0.0,2,0.0,0.0,1.7,0,1,2.0,0.0,71.0,1.0,3.0,1.37,3.11,0.04,3.0,Brentford,False,Fulham,,0.86
-Christian Nørgaard,Brentford,Fulham,2023-08-19,False,78,0.0,0.01,0.0,0.0,3,1.0,0.0,2.4,0,1,2.5,0.0,74.5,1.0,3.0,1.37,3.11,0.04,5.0,Brentford,True,Crystal Palace,,0.88
-Christian Nørgaard,Brentford,Crystal Palace,2023-08-26,True,90,0.0,0.01,1.0,0.13,5,1.0,3.0,7.2,0,1,3.33,0.34,79.67,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,True,Bournemouth,,1.22
-Christian Nørgaard,Brentford,Bournemouth,2023-09-02,True,90,0.0,0.12,0.0,0.37,2,2.0,2.0,7.7,0,1,3.0,0.29,82.25,1.0,3.0,1.37,3.11,0.04,1.0,Brentford,False,Newcastle United,,-0.41
-Christian Nørgaard,Brentford,Newcastle United,2023-09-16,False,71,0.0,0.09,0.0,0.0,1,2.0,0.0,1.3,0,1,2.6,0.25,80.0,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,True,Everton,,0.53
-Christian Nørgaard,Brentford,Everton,2023-09-23,True,90,0.0,0.14,0.0,0.0,2,1.0,0.0,3.1,0,1,2.6,0.27,81.67,1.0,3.0,1.37,3.11,0.04,9.0,Brentford,False,Nottingham Forest,,-0.55
-Christian Nørgaard,Brentford,Nottingham Forest,2023-10-01,False,90,1.0,0.54,0.0,0.12,9,4.0,2.0,10.3,2,1,3.8,0.38,82.86,1.0,3.0,1.37,3.11,0.04,1.0,Brentford,False,Manchester United,,-0.63
-Christian Nørgaard,Brentford,Manchester United,2023-10-07,False,90,0.0,0.31,0.0,0.0,1,2.0,0.0,5.6,0,1,3.0,0.24,83.75,1.0,3.0,1.37,3.11,0.04,3.0,Brentford,True,Burnley,,0.39
-Christian Nørgaard,Brentford,Burnley,2023-10-21,True,90,0.0,0.24,0.0,0.43,3,3.0,2.0,6.4,0,1,3.2,0.26,84.44,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,False,Chelsea,,-0.85
-Christian Nørgaard,Brentford,Chelsea,2023-10-28,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.6,0,1,3.4,0.25,85.0,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,True,West Ham,,0.49
-Christian Nørgaard,Brentford,West Ham,2023-11-04,True,90,0.0,0.08,0.0,0.08,2,2.0,1.0,3.3,0,1,3.4,0.24,85.45,1.0,3.0,1.37,3.11,0.04,1.0,Brentford,False,Liverpool,,-1.01
-Christian Nørgaard,Brentford,Liverpool,2023-11-12,False,90,0.0,0.14,0.0,0.56,1,2.0,2.0,4.7,0,1,1.8,0.16,85.83,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,True,Arsenal,,-0.11
-Christian Nørgaard,Brentford,Arsenal,2023-11-25,True,90,0.0,0.03,0.0,0.0,2,1.0,0.0,1.9,0,1,2.0,0.1,86.15,1.0,3.0,1.37,3.11,0.04,1.0,Brentford,True,Luton,,
-Christian Nørgaard,Brentford,Luton,2023-12-02,True,90,0.0,0.03,0.0,0.16,1,1.0,2.0,5.7,0,1,1.6,0.06,86.43,1.0,3.0,1.37,3.11,0.04,0.0,Brentford,False,Brighton,,-0.6
-Christian Nørgaard,Brentford,Brighton,,False,0,,,,,0,,,0.0,0,0,1.2,0.06,80.67,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,False,Sheffield,,-0.61
-Christian Nørgaard,Brentford,Sheffield,2023-12-09,False,90,0.0,0.15,0.0,0.0,2,2.0,0.0,3.5,0,1,1.2,0.07,81.25,1.0,3.0,1.37,3.11,0.04,1.0,Brentford,True,Aston Villa,,0.64
-Christian Nørgaard,Brentford,Aston Villa,2023-12-17,True,90,0.0,0.0,0.0,0.06,1,0.0,1.0,3.7,0,1,1.2,0.04,81.76,1.0,3.0,1.37,3.11,0.04,1.0,Brentford,True,Wolverhampton,,0.05
-Christian Nørgaard,Brentford,Wolverhampton,2023-12-27,True,90,0.0,0.11,0.0,0.0,1,1.0,0.0,3.3,0,1,1.0,0.06,82.22,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,False,Crystal Palace,,0.38
-Christian Nørgaard,Brentford,Crystal Palace,2023-12-30,False,66,0.0,0.05,0.0,0.0,2,1.0,0.0,3.7,0,1,1.2,0.06,81.37,1.0,3.0,1.37,3.11,0.04,0.0,Brentford,True,Nottingham Forest,,1.55
-Christian Nørgaard,Brentford,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,1.2,0.06,77.3,1.0,3.0,1.37,3.11,0.04,1.0,Brentford,False,Tottenham,,-0.36
-Christian Nørgaard,Brentford,Tottenham,2024-01-31,False,90,0.0,0.02,0.0,0.31,1,1.0,1.0,2.6,0,1,1.0,0.04,77.9,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,True,Manchester City,,-0.96
-Christian Nørgaard,Brentford,Manchester City,2024-02-05,True,90,0.0,0.13,0.0,0.0,2,3.0,0.0,4.1,0,1,1.2,0.06,78.45,1.0,3.0,1.37,3.11,0.04,9.0,Brentford,False,Wolverhampton,,-0.52
-Christian Nørgaard,Brentford,Wolverhampton,2024-02-10,False,84,1.0,0.66,0.0,0.27,9,1.0,1.0,9.3,1,1,2.8,0.17,78.7,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,True,Liverpool,,0.18
-Christian Nørgaard,Brentford,Liverpool,2024-02-17,True,62,0.0,0.04,0.0,0.06,2,1.0,3.0,4.1,0,1,2.8,0.17,78.0,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,False,Manchester City,,-1.32
-Christian Nørgaard,Brentford,Manchester City,2024-02-20,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,1,3.2,0.17,78.48,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,False,West Ham,,-0.22
-Christian Nørgaard,Brentford,West Ham,2024-02-26,False,90,0.0,0.12,0.0,0.0,2,1.0,0.0,3.7,0,1,3.4,0.19,78.92,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,True,Chelsea,,-0.25
-Christian Nørgaard,Brentford,Chelsea,2024-03-02,True,90,0.0,0.0,0.0,0.01,2,0.0,1.0,4.2,0,1,3.4,0.16,79.33,1.0,3.0,1.37,3.11,0.04,1.0,Brentford,False,Arsenal,,-0.48
-Christian Nørgaard,Brentford,Arsenal,2024-03-09,False,33,0.0,0.08,0.0,0.0,1,1.0,0.0,2.0,0,1,1.8,0.05,77.68,1.0,3.0,1.37,3.11,0.04,0.0,Brentford,False,Burnley,,0.0
-Christian Nørgaard,Brentford,Burnley,,False,0,,,,,0,,,0.0,0,0,1.4,0.04,75.0,1.0,3.0,1.37,3.11,0.04,0.0,Brentford,True,Manchester United,,0.38
-Christian Nørgaard,Brentford,Manchester United,,True,0,,,,,0,,,0.0,0,0,1.0,0.04,72.5,1.0,3.0,1.37,3.11,0.04,0.0,Brentford,True,Brighton,,-0.66
-Christian Nørgaard,Brentford,Brighton,,True,0,,,,,0,,,0.0,0,0,0.6,0.02,70.16,1.0,3.0,1.37,3.11,0.04,0.0,Brentford,False,Aston Villa,,0.29
-Christian Nørgaard,Brentford,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.2,0.02,67.97,1.0,3.0,1.37,3.11,0.04,0.0,Brentford,True,Sheffield,,0.68
-Christian Nørgaard,Brentford,Sheffield,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,65.91,1.0,3.0,1.37,3.11,0.04,1.0,Brentford,False,Luton,,
-Christian Nørgaard,Brentford,Luton,2024-04-20,False,19,0.0,0.0,0.0,0.01,1,0.0,1.0,1.9,0,0,0.2,0.0,64.53,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,False,Everton,,-0.24
-Christian Nørgaard,Brentford,Everton,2024-04-27,False,77,0.0,0.0,0.0,0.0,2,0.0,0.0,1.7,0,1,0.6,0.0,64.89,1.0,3.0,1.37,3.11,0.04,3.0,Brentford,True,Fulham,,-0.13
-Christian Nørgaard,Brentford,Fulham,2024-05-04,True,81,0.0,0.04,0.0,0.0,3,1.0,0.0,2.1,0,1,1.2,0.01,65.33,1.0,3.0,1.37,3.11,0.04,3.0,Brentford,False,Bournemouth,,0.19
-Christian Nørgaard,Brentford,Bournemouth,2024-05-11,False,62,0.0,0.04,0.0,0.33,3,1.0,1.0,3.6,0,1,1.8,0.02,65.24,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,True,Newcastle United,,0.55
-Christian Nørgaard,Brentford,Newcastle United,2024-05-19,True,90,0.0,0.0,0.0,0.08,2,0.0,1.0,3.6,0,1,2.2,0.02,65.89,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,True,Crystal Palace,,0.88
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Christian Nørgaard,Brentford,Tottenham,2023-08-13,True,71,0.0,0.0,0.0,0.0,2,0.0,0.0,1.7,0,1,11500,2.0,0.0,71.0,1.0,3.0,1.37,3.11,0.04,3.0,Brentford,False,Fulham,,0.86
+Christian Nørgaard,Brentford,Fulham,2023-08-19,False,78,0.0,0.01,0.0,0.0,3,1.0,0.0,2.4,0,1,13733,2.5,0.0,74.5,1.0,3.0,1.37,3.11,0.04,5.0,Brentford,True,Crystal Palace,,0.88
+Christian Nørgaard,Brentford,Crystal Palace,2023-08-26,True,90,0.0,0.01,1.0,0.13,5,1.0,3.0,7.2,0,1,13618,3.33,0.34,79.67,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,True,Bournemouth,,1.22
+Christian Nørgaard,Brentford,Bournemouth,2023-09-02,True,90,0.0,0.12,0.0,0.37,2,2.0,2.0,7.7,0,1,15016,3.0,0.29,82.25,1.0,3.0,1.37,3.11,0.04,1.0,Brentford,False,Newcastle United,,-0.41
+Christian Nørgaard,Brentford,Newcastle United,2023-09-16,False,71,0.0,0.09,0.0,0.0,1,2.0,0.0,1.3,0,1,14551,2.6,0.25,80.0,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,True,Everton,,0.53
+Christian Nørgaard,Brentford,Everton,2023-09-23,True,90,0.0,0.14,0.0,0.0,2,1.0,0.0,3.1,0,1,14972,2.6,0.27,81.67,1.0,3.0,1.37,3.11,0.04,9.0,Brentford,False,Nottingham Forest,,-0.55
+Christian Nørgaard,Brentford,Nottingham Forest,2023-10-01,False,90,1.0,0.54,0.0,0.12,9,4.0,2.0,10.3,2,1,14678,3.8,0.38,82.86,1.0,3.0,1.37,3.11,0.04,1.0,Brentford,False,Manchester United,,-0.63
+Christian Nørgaard,Brentford,Manchester United,2023-10-07,False,90,0.0,0.31,0.0,0.0,1,2.0,0.0,5.6,0,1,18830,3.0,0.24,83.75,1.0,3.0,1.37,3.11,0.04,3.0,Brentford,True,Burnley,,0.39
+Christian Nørgaard,Brentford,Burnley,2023-10-21,True,90,0.0,0.24,0.0,0.43,3,3.0,2.0,6.4,0,1,19646,3.2,0.26,84.44,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,False,Chelsea,,-0.85
+Christian Nørgaard,Brentford,Chelsea,2023-10-28,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.6,0,1,17970,3.4,0.25,85.0,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,True,West Ham,,0.49
+Christian Nørgaard,Brentford,West Ham,2023-11-04,True,90,0.0,0.08,0.0,0.08,2,2.0,1.0,3.3,0,1,17725,3.4,0.24,85.45,1.0,3.0,1.37,3.11,0.04,1.0,Brentford,False,Liverpool,,-1.01
+Christian Nørgaard,Brentford,Liverpool,2023-11-12,False,90,0.0,0.14,0.0,0.56,1,2.0,2.0,4.7,0,1,16949,1.8,0.16,85.83,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,True,Arsenal,,-0.11
+Christian Nørgaard,Brentford,Arsenal,2023-11-25,True,90,0.0,0.03,0.0,0.0,2,1.0,0.0,1.9,0,1,16646,2.0,0.1,86.15,1.0,3.0,1.37,3.11,0.04,1.0,Brentford,True,Luton,,
+Christian Nørgaard,Brentford,Luton,2023-12-02,True,90,0.0,0.03,0.0,0.16,1,1.0,2.0,5.7,0,1,18998,1.6,0.06,86.43,1.0,3.0,1.37,3.11,0.04,0.0,Brentford,False,Brighton,,-0.6
+Christian Nørgaard,Brentford,Brighton,,False,0,,,,,0,,,0.0,0,0,16116,1.2,0.06,80.67,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,False,Sheffield,,-0.61
+Christian Nørgaard,Brentford,Sheffield,2023-12-09,False,90,0.0,0.15,0.0,0.0,2,2.0,0.0,3.5,0,1,16937,1.2,0.07,81.25,1.0,3.0,1.37,3.11,0.04,1.0,Brentford,True,Aston Villa,,0.64
+Christian Nørgaard,Brentford,Aston Villa,2023-12-17,True,90,0.0,0.0,0.0,0.06,1,0.0,1.0,3.7,0,1,15710,1.2,0.04,81.76,1.0,3.0,1.37,3.11,0.04,1.0,Brentford,True,Wolverhampton,,0.05
+Christian Nørgaard,Brentford,Wolverhampton,2023-12-27,True,90,0.0,0.11,0.0,0.0,1,1.0,0.0,3.3,0,1,15504,1.0,0.06,82.22,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,False,Crystal Palace,,0.38
+Christian Nørgaard,Brentford,Crystal Palace,2023-12-30,False,66,0.0,0.05,0.0,0.0,2,1.0,0.0,3.7,0,1,15409,1.2,0.06,81.37,1.0,3.0,1.37,3.11,0.04,0.0,Brentford,True,Nottingham Forest,,1.55
+Christian Nørgaard,Brentford,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,14385,1.2,0.06,77.3,1.0,3.0,1.37,3.11,0.04,1.0,Brentford,False,Tottenham,,-0.36
+Christian Nørgaard,Brentford,Tottenham,2024-01-31,False,90,0.0,0.02,0.0,0.31,1,1.0,1.0,2.6,0,1,13736,1.0,0.04,77.9,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,True,Manchester City,,-0.96
+Christian Nørgaard,Brentford,Manchester City,2024-02-05,True,90,0.0,0.13,0.0,0.0,2,3.0,0.0,4.1,0,1,13740,1.2,0.06,78.45,1.0,3.0,1.37,3.11,0.04,9.0,Brentford,False,Wolverhampton,,-0.52
+Christian Nørgaard,Brentford,Wolverhampton,2024-02-10,False,84,1.0,0.66,0.0,0.27,9,1.0,1.0,9.3,1,1,13912,2.8,0.17,78.7,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,True,Liverpool,,0.18
+Christian Nørgaard,Brentford,Liverpool,2024-02-17,True,62,0.0,0.04,0.0,0.06,2,1.0,3.0,4.1,0,1,31205,2.8,0.17,78.0,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,False,Manchester City,,-1.32
+Christian Nørgaard,Brentford,Manchester City,2024-02-20,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,1,31205,3.2,0.17,78.48,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,False,West Ham,,-0.22
+Christian Nørgaard,Brentford,West Ham,2024-02-26,False,90,0.0,0.12,0.0,0.0,2,1.0,0.0,3.7,0,1,21429,3.4,0.19,78.92,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,True,Chelsea,,-0.25
+Christian Nørgaard,Brentford,Chelsea,2024-03-02,True,90,0.0,0.0,0.0,0.01,2,0.0,1.0,4.2,0,1,20034,3.4,0.16,79.33,1.0,3.0,1.37,3.11,0.04,1.0,Brentford,False,Arsenal,,-0.48
+Christian Nørgaard,Brentford,Arsenal,2024-03-09,False,33,0.0,0.08,0.0,0.0,1,1.0,0.0,2.0,0,1,18843,1.8,0.05,77.68,1.0,3.0,1.37,3.11,0.04,0.0,Brentford,False,Burnley,,0.0
+Christian Nørgaard,Brentford,Burnley,,False,0,,,,,0,,,0.0,0,0,16641,1.4,0.04,75.0,1.0,3.0,1.37,3.11,0.04,0.0,Brentford,True,Manchester United,,0.38
+Christian Nørgaard,Brentford,Manchester United,,True,0,,,,,0,,,0.0,0,0,15564,1.0,0.04,72.5,1.0,3.0,1.37,3.11,0.04,0.0,Brentford,True,Brighton,,-0.66
+Christian Nørgaard,Brentford,Brighton,,True,0,,,,,0,,,0.0,0,0,14854,0.6,0.02,70.16,1.0,3.0,1.37,3.11,0.04,0.0,Brentford,False,Aston Villa,,0.29
+Christian Nørgaard,Brentford,Aston Villa,,False,0,,,,,0,,,0.0,0,0,14273,0.2,0.02,67.97,1.0,3.0,1.37,3.11,0.04,0.0,Brentford,True,Sheffield,,0.68
+Christian Nørgaard,Brentford,Sheffield,,True,0,,,,,0,,,0.0,0,0,13843,0.0,0.0,65.91,1.0,3.0,1.37,3.11,0.04,1.0,Brentford,False,Luton,,
+Christian Nørgaard,Brentford,Luton,2024-04-20,False,19,0.0,0.0,0.0,0.01,1,0.0,1.0,1.9,0,0,13614,0.2,0.0,64.53,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,False,Everton,,-0.24
+Christian Nørgaard,Brentford,Everton,2024-04-27,False,77,0.0,0.0,0.0,0.0,2,0.0,0.0,1.7,0,1,13592,0.6,0.0,64.89,1.0,3.0,1.37,3.11,0.04,3.0,Brentford,True,Fulham,,-0.13
+Christian Nørgaard,Brentford,Fulham,2024-05-04,True,81,0.0,0.04,0.0,0.0,3,1.0,0.0,2.1,0,1,13587,1.2,0.01,65.33,1.0,3.0,1.37,3.11,0.04,3.0,Brentford,False,Bournemouth,,0.19
+Christian Nørgaard,Brentford,Bournemouth,2024-05-11,False,62,0.0,0.04,0.0,0.33,3,1.0,1.0,3.6,0,1,13672,1.8,0.02,65.24,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,True,Newcastle United,,0.55
+Christian Nørgaard,Brentford,Newcastle United,2024-05-19,True,90,0.0,0.0,0.0,0.08,2,0.0,1.0,3.6,0,1,13703,2.2,0.02,65.89,1.0,3.0,1.37,3.11,0.04,2.0,Brentford,True,Crystal Palace,,0.88

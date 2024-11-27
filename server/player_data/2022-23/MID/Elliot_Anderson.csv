@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Elliot Anderson,Newcastle,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,Newcastle,False,Brighton,,-0.39
-Elliot Anderson,Newcastle,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,Newcastle,True,Manchester City,,-1.17
-Elliot Anderson,Newcastle,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Wolverhampton,,-0.46
-Elliot Anderson,Newcastle,Wolverhampton,2022-08-28,False,6,0.0,0.43,0.0,0.0,1,2.0,0.0,3.4,0,0,0.25,0.11,1.5,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Liverpool,,-1.33
-Elliot Anderson,Newcastle,Liverpool,2022-08-31,False,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0.4,0.09,2.4,0.0,0.0,0.0,0.0,0,1.0,Newcastle,True,Crystal Palace,,0.81
-Elliot Anderson,Newcastle,Crystal Palace,2022-09-03,True,20,0.0,0.0,0.0,0.51,1,0.0,1.0,2.8,0,0,0.6,0.09,5.33,0.0,0.0,0.0,0.0,0,0.0,Newcastle,True,Bournemouth,,1.46
-Elliot Anderson,Newcastle,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.6,0.09,4.57,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Fulham,,1.37
-Elliot Anderson,Newcastle,Fulham,2022-10-01,False,31,0.0,0.12,0.0,0.03,1,1.0,1.0,4.9,0,0,0.8,0.11,7.88,0.0,0.0,0.0,0.0,0,1.0,Newcastle,True,Brentford,,0.69
-Elliot Anderson,Newcastle,Brentford,2022-10-08,True,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0.8,0.02,7.67,0.0,0.0,0.0,0.0,0,0.0,Newcastle,False,Manchester United,,-0.1
-Elliot Anderson,Newcastle,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.6,0.02,6.9,0.0,0.0,0.0,0.0,0,1.0,Newcastle,True,Everton,,0.34
-Elliot Anderson,Newcastle,Everton,2022-10-19,True,18,0.0,0.11,0.0,0.15,1,1.0,1.0,4.1,0,0,0.6,0.05,7.91,0.0,0.0,0.0,0.0,0,0.0,Newcastle,False,Tottenham,,-0.03
-Elliot Anderson,Newcastle,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.6,0.05,7.25,0.0,0.0,0.0,0.0,0,0.0,Newcastle,True,Aston Villa,,0.55
-Elliot Anderson,Newcastle,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.4,0.02,6.69,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Southampton,,-1.07
-Elliot Anderson,Newcastle,Southampton,2022-11-06,False,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.4,0.02,6.86,0.0,0.0,0.0,0.0,0,0.0,Newcastle,True,Chelsea,,-0.25
-Elliot Anderson,Newcastle,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.4,0.02,6.4,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Leeds United,,-0.8
-Elliot Anderson,Newcastle,Leeds United,2022-12-26,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.4,0.0,6.06,0.0,0.0,0.0,0.0,0,0.0,Newcastle,True,Leicester City,,0.83
-Elliot Anderson,Newcastle,Leicester City,,True,0,,,,,0,,,0.0,0,0,0.4,0.0,5.71,0.0,0.0,0.0,0.0,0,0.0,Newcastle,False,Arsenal,,-0.0
-Elliot Anderson,Newcastle,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,5.39,0.0,0.0,0.0,0.0,0,0.0,Newcastle,True,Fulham,,-0.3
-Elliot Anderson,Newcastle,Fulham,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,5.11,0.0,0.0,0.0,0.0,0,0.0,Newcastle,False,Crystal Palace,,0.13
-Elliot Anderson,Newcastle,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,4.85,0.0,0.0,0.0,0.0,0,1.0,Newcastle,True,West Ham,,0.63
-Elliot Anderson,Newcastle,West Ham,2023-02-04,True,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0.2,0.0,5.05,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Bournemouth,,0.19
-Elliot Anderson,Newcastle,Bournemouth,2023-02-11,False,6,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,0.4,0.0,5.09,0.0,0.0,0.0,0.0,0,1.0,Newcastle,True,Liverpool,,-0.53
-Elliot Anderson,Newcastle,Liverpool,2023-02-18,True,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,1,0.6,0.0,5.87,0.0,0.0,0.0,0.0,0,0.0,Newcastle,False,Manchester City,,-1.26
-Elliot Anderson,Newcastle,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.6,0.0,5.62,0.0,0.0,0.0,0.0,0,0.0,Newcastle,True,Wolverhampton,,-0.48
-Elliot Anderson,Newcastle,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.6,0.0,5.4,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Nottingham Forest,,
-Elliot Anderson,Newcastle,Nottingham Forest,2023-03-17,False,45,0.0,0.11,0.0,0.12,1,2.0,1.0,5.1,0,0,0.6,0.02,6.92,0.0,0.0,0.0,0.0,0,1.0,Newcastle,True,Manchester United,,0.38
-Elliot Anderson,Newcastle,Manchester United,2023-04-02,True,6,0.0,0.0,0.0,0.1,1,0.0,1.0,2.6,0,0,0.6,0.02,6.89,0.0,0.0,0.0,0.0,0,0.0,Newcastle,False,West Ham,,0.14
-Elliot Anderson,Newcastle,West Ham,,False,0,,,,,0,,,0.0,0,0,0.4,0.02,6.64,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Brentford,,-0.55
-Elliot Anderson,Newcastle,Brentford,2023-04-08,False,3,0.0,0.14,0.0,0.0,1,1.0,0.0,2.5,0,0,0.6,0.05,6.52,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Aston Villa,,0.59
-Elliot Anderson,Newcastle,Aston Villa,2023-04-15,False,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.8,0.05,6.63,0.0,0.0,0.0,0.0,0,0.0,Newcastle,True,Tottenham,,1.07
-Elliot Anderson,Newcastle,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.6,0.03,6.42,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Everton,,-0.63
-Elliot Anderson,Newcastle,Everton,2023-04-27,False,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.6,0.03,6.31,0.0,0.0,0.0,0.0,0,1.0,Newcastle,True,Southampton,,-0.38
-Elliot Anderson,Newcastle,Southampton,2023-04-30,True,1,0.0,0.14,0.0,0.0,1,1.0,0.0,0.9,0,0,0.8,0.06,6.15,0.0,0.0,0.0,0.0,0,1.0,Newcastle,True,Arsenal,,0.36
-Elliot Anderson,Newcastle,Arsenal,2023-05-07,True,9,0.0,0.0,0.0,0.02,1,0.0,1.0,2.2,0,0,0.8,0.03,6.24,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Leicester City,,-0.05
-Elliot Anderson,Newcastle,Leicester City,2023-05-13,False,3,0.0,0.0,0.0,0.02,1,0.0,1.0,1.5,0,0,0.8,0.03,6.14,0.0,0.0,0.0,0.0,0,1.0,Newcastle,True,Brighton,,-0.71
-Elliot Anderson,Newcastle,Brighton,2023-05-18,True,29,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1.0,0.03,6.78,0.0,0.0,0.0,0.0,0,3.0,Newcastle,True,Leeds United,,-0.79
-Elliot Anderson,Newcastle,Leeds United,2023-05-22,True,76,0.0,0.05,0.0,0.03,3,2.0,1.0,4.0,0,1,1.4,0.04,8.65,0.0,0.0,0.0,0.0,0,7.0,Newcastle,False,Chelsea,,-0.72
-Elliot Anderson,Newcastle,Chelsea,2023-05-28,False,75,0.0,0.02,1.0,0.58,7,1.0,1.0,0.0,2,1,2.6,0.21,10.39,0.0,0.0,0.0,0.0,0,1.0,Newcastle,True,Aston Villa,,0.55
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Elliot Anderson,Newcastle,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,10770,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,Newcastle,False,Brighton,,-0.39
+Elliot Anderson,Newcastle,Brighton,,False,0,,,,,0,,,0.0,0,0,16148,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0,Newcastle,True,Manchester City,,-1.17
+Elliot Anderson,Newcastle,Manchester City,,True,0,,,,,0,,,0.0,0,0,17278,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Wolverhampton,,-0.46
+Elliot Anderson,Newcastle,Wolverhampton,2022-08-28,False,6,0.0,0.43,0.0,0.0,1,2.0,0.0,3.4,0,0,16591,0.25,0.11,1.5,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Liverpool,,-1.33
+Elliot Anderson,Newcastle,Liverpool,2022-08-31,False,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,16969,0.4,0.09,2.4,0.0,0.0,0.0,0.0,0,1.0,Newcastle,True,Crystal Palace,,0.81
+Elliot Anderson,Newcastle,Crystal Palace,2022-09-03,True,20,0.0,0.0,0.0,0.51,1,0.0,1.0,2.8,0,0,19060,0.6,0.09,5.33,0.0,0.0,0.0,0.0,0,0.0,Newcastle,True,Bournemouth,,1.46
+Elliot Anderson,Newcastle,Bournemouth,,True,0,,,,,0,,,0.0,0,0,19898,0.6,0.09,4.57,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Fulham,,1.37
+Elliot Anderson,Newcastle,Fulham,2022-10-01,False,31,0.0,0.12,0.0,0.03,1,1.0,1.0,4.9,0,0,19738,0.8,0.11,7.88,0.0,0.0,0.0,0.0,0,1.0,Newcastle,True,Brentford,,0.69
+Elliot Anderson,Newcastle,Brentford,2022-10-08,True,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,19740,0.8,0.02,7.67,0.0,0.0,0.0,0.0,0,0.0,Newcastle,False,Manchester United,,-0.1
+Elliot Anderson,Newcastle,Manchester United,,False,0,,,,,0,,,0.0,0,0,19535,0.6,0.02,6.9,0.0,0.0,0.0,0.0,0,1.0,Newcastle,True,Everton,,0.34
+Elliot Anderson,Newcastle,Everton,2022-10-19,True,18,0.0,0.11,0.0,0.15,1,1.0,1.0,4.1,0,0,18915,0.6,0.05,7.91,0.0,0.0,0.0,0.0,0,0.0,Newcastle,False,Tottenham,,-0.03
+Elliot Anderson,Newcastle,Tottenham,,False,0,,,,,0,,,0.0,0,0,18976,0.6,0.05,7.25,0.0,0.0,0.0,0.0,0,0.0,Newcastle,True,Aston Villa,,0.55
+Elliot Anderson,Newcastle,Aston Villa,,True,0,,,,,0,,,0.0,0,0,18066,0.4,0.02,6.69,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Southampton,,-1.07
+Elliot Anderson,Newcastle,Southampton,2022-11-06,False,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,17163,0.4,0.02,6.86,0.0,0.0,0.0,0.0,0,0.0,Newcastle,True,Chelsea,,-0.25
+Elliot Anderson,Newcastle,Chelsea,,True,0,,,,,0,,,0.0,0,0,16869,0.4,0.02,6.4,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Leeds United,,-0.8
+Elliot Anderson,Newcastle,Leeds United,2022-12-26,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,16334,0.4,0.0,6.06,0.0,0.0,0.0,0.0,0,0.0,Newcastle,True,Leicester City,,0.83
+Elliot Anderson,Newcastle,Leicester City,,True,0,,,,,0,,,0.0,0,0,16211,0.4,0.0,5.71,0.0,0.0,0.0,0.0,0,0.0,Newcastle,False,Arsenal,,-0.0
+Elliot Anderson,Newcastle,Arsenal,,False,0,,,,,0,,,0.0,0,0,16035,0.4,0.0,5.39,0.0,0.0,0.0,0.0,0,0.0,Newcastle,True,Fulham,,-0.3
+Elliot Anderson,Newcastle,Fulham,,True,0,,,,,0,,,0.0,0,0,15790,0.2,0.0,5.11,0.0,0.0,0.0,0.0,0,0.0,Newcastle,False,Crystal Palace,,0.13
+Elliot Anderson,Newcastle,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,15555,0.2,0.0,4.85,0.0,0.0,0.0,0.0,0,1.0,Newcastle,True,West Ham,,0.63
+Elliot Anderson,Newcastle,West Ham,2023-02-04,True,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,15265,0.2,0.0,5.05,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Bournemouth,,0.19
+Elliot Anderson,Newcastle,Bournemouth,2023-02-11,False,6,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,15211,0.4,0.0,5.09,0.0,0.0,0.0,0.0,0,1.0,Newcastle,True,Liverpool,,-0.53
+Elliot Anderson,Newcastle,Liverpool,2023-02-18,True,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,1,15166,0.6,0.0,5.87,0.0,0.0,0.0,0.0,0,0.0,Newcastle,False,Manchester City,,-1.26
+Elliot Anderson,Newcastle,Manchester City,,False,0,,,,,0,,,0.0,0,0,15038,0.6,0.0,5.62,0.0,0.0,0.0,0.0,0,0.0,Newcastle,True,Wolverhampton,,-0.48
+Elliot Anderson,Newcastle,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,15016,0.6,0.0,5.4,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Nottingham Forest,,
+Elliot Anderson,Newcastle,Nottingham Forest,2023-03-17,False,45,0.0,0.11,0.0,0.12,1,2.0,1.0,5.1,0,0,15086,0.6,0.02,6.92,0.0,0.0,0.0,0.0,0,1.0,Newcastle,True,Manchester United,,0.38
+Elliot Anderson,Newcastle,Manchester United,2023-04-02,True,6,0.0,0.0,0.0,0.1,1,0.0,1.0,2.6,0,0,15156,0.6,0.02,6.89,0.0,0.0,0.0,0.0,0,0.0,Newcastle,False,West Ham,,0.14
+Elliot Anderson,Newcastle,West Ham,,False,0,,,,,0,,,0.0,0,0,15156,0.4,0.02,6.64,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Brentford,,-0.55
+Elliot Anderson,Newcastle,Brentford,2023-04-08,False,3,0.0,0.14,0.0,0.0,1,1.0,0.0,2.5,0,0,15142,0.6,0.05,6.52,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Aston Villa,,0.59
+Elliot Anderson,Newcastle,Aston Villa,2023-04-15,False,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,15252,0.8,0.05,6.63,0.0,0.0,0.0,0.0,0,0.0,Newcastle,True,Tottenham,,1.07
+Elliot Anderson,Newcastle,Tottenham,,True,0,,,,,0,,,0.0,0,0,15409,0.6,0.03,6.42,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Everton,,-0.63
+Elliot Anderson,Newcastle,Everton,2023-04-27,False,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,15330,0.6,0.03,6.31,0.0,0.0,0.0,0.0,0,1.0,Newcastle,True,Southampton,,-0.38
+Elliot Anderson,Newcastle,Southampton,2023-04-30,True,1,0.0,0.14,0.0,0.0,1,1.0,0.0,0.9,0,0,15327,0.8,0.06,6.15,0.0,0.0,0.0,0.0,0,1.0,Newcastle,True,Arsenal,,0.36
+Elliot Anderson,Newcastle,Arsenal,2023-05-07,True,9,0.0,0.0,0.0,0.02,1,0.0,1.0,2.2,0,0,15463,0.8,0.03,6.24,0.0,0.0,0.0,0.0,0,1.0,Newcastle,False,Leicester City,,-0.05
+Elliot Anderson,Newcastle,Leicester City,2023-05-13,False,3,0.0,0.0,0.0,0.02,1,0.0,1.0,1.5,0,0,15528,0.8,0.03,6.14,0.0,0.0,0.0,0.0,0,1.0,Newcastle,True,Brighton,,-0.71
+Elliot Anderson,Newcastle,Brighton,2023-05-18,True,29,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,15528,1.0,0.03,6.78,0.0,0.0,0.0,0.0,0,3.0,Newcastle,True,Leeds United,,-0.79
+Elliot Anderson,Newcastle,Leeds United,2023-05-22,True,76,0.0,0.05,0.0,0.03,3,2.0,1.0,4.0,0,1,15722,1.4,0.04,8.65,0.0,0.0,0.0,0.0,0,7.0,Newcastle,False,Chelsea,,-0.72
+Elliot Anderson,Newcastle,Chelsea,2023-05-28,False,75,0.0,0.02,1.0,0.58,7,1.0,1.0,0.0,2,1,15980,2.6,0.21,10.39,0.0,0.0,0.0,0.0,0,1.0,Newcastle,True,Aston Villa,,0.55

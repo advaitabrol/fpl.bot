@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Marcos Alonso,Chelsea,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Tottenham,,1.07
-Marcos Alonso,Chelsea,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Leicester City,,-0.05
-Marcos Alonso,Chelsea,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Leeds United,,-0.79
-Marcos Alonso,Chelsea,Leeds United,2022-08-27,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Southampton,,-1.07
-Marcos Alonso,Chelsea,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,West Ham,,0.63
-Marcos Alonso,Chelsea,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Crystal Palace,,0.13
-Marcos Alonso,Chelsea,Crystal Palace,2022-10-01,False,0,0.0,0.0,0.0,0.1,0,0.0,1.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Wolverhampton,,-0.48
-Marcos Alonso,Chelsea,Wolverhampton,2022-10-08,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Aston Villa,,0.59
-Marcos Alonso,Chelsea,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Brentford,,-0.55
-Marcos Alonso,Chelsea,Brentford,2022-10-19,False,0,0.0,0.1,0.0,0.02,0,1.0,1.0,0.0,0,0,0,0.0,0,0.0,0.02,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Manchester United,,0.38
-Marcos Alonso,Chelsea,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.02,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Brighton,,-0.39
-Marcos Alonso,Chelsea,Brighton,2022-10-29,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.02,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Arsenal,,0.36
-Marcos Alonso,Chelsea,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.02,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Newcastle United,,-0.34
-Marcos Alonso,Chelsea,Newcastle United,2022-11-12,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.02,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Bournemouth,,1.46
-Marcos Alonso,Chelsea,Bournemouth,2022-12-27,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Nottingham Forest,,
-Marcos Alonso,Chelsea,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Manchester City,,-1.17
-Marcos Alonso,Chelsea,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Fulham,,1.37
-Marcos Alonso,Chelsea,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Crystal Palace,,0.81
-Marcos Alonso,Chelsea,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Liverpool,,-1.33
-Marcos Alonso,Chelsea,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Fulham,,-0.3
-Marcos Alonso,Chelsea,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,West Ham,,0.14
-Marcos Alonso,Chelsea,West Ham,2023-02-11,False,0,1.0,0.68,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.14,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Southampton,,-0.38
-Marcos Alonso,Chelsea,Southampton,2023-02-18,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.14,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Tottenham,,-0.03
-Marcos Alonso,Chelsea,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.14,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Leicester City,,0.83
-Marcos Alonso,Chelsea,Leicester City,2023-03-04,True,0,1.0,0.44,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.23,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Leeds United,,-0.8
-Marcos Alonso,Chelsea,Leeds United,2023-03-11,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.23,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Everton,,0.34
-Marcos Alonso,Chelsea,Everton,2023-03-18,True,0,0.0,0.02,0.0,0.07,0,1.0,1.0,0.0,0,0,0,0.0,0,0.0,0.09,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Aston Villa,,0.55
-Marcos Alonso,Chelsea,Aston Villa,2023-04-01,True,0,0.0,0.62,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.22,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Liverpool,,-0.53
-Marcos Alonso,Chelsea,Liverpool,2023-04-04,True,0,0.0,0.0,0.0,0.04,0,0.0,1.0,0.0,0,0,0,0.0,0,0.0,0.22,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Wolverhampton,,-0.46
-Marcos Alonso,Chelsea,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.13,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Brighton,,-0.71
-Marcos Alonso,Chelsea,Brighton,2023-04-15,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.13,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Brentford,,0.69
-Marcos Alonso,Chelsea,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.12,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Arsenal,,-0.0
-Marcos Alonso,Chelsea,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Bournemouth,,0.19
-Marcos Alonso,Chelsea,Bournemouth,2023-05-06,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Nottingham Forest,,
-Marcos Alonso,Chelsea,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Manchester City,,-1.26
-Marcos Alonso,Chelsea,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Manchester United,,-0.1
-Marcos Alonso,Chelsea,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Newcastle United,,0.73
-Marcos Alonso,Chelsea,Newcastle United,2023-05-28,True,0,0.0,0.1,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.02,0.0,0,3.5,5.03,0.38,0,,Aston Villa,False,Newcastle United,,-0.34
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Marcos Alonso,Chelsea,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,292906,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Tottenham,,1.07
+Marcos Alonso,Chelsea,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,215295,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Leicester City,,-0.05
+Marcos Alonso,Chelsea,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,139835,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Leeds United,,-0.79
+Marcos Alonso,Chelsea,Leeds United,2022-08-27,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,117681,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Southampton,,-1.07
+Marcos Alonso,Chelsea,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,116750,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,West Ham,,0.63
+Marcos Alonso,Chelsea,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,106686,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Crystal Palace,,0.13
+Marcos Alonso,Chelsea,Crystal Palace,2022-10-01,False,0,0.0,0.0,0.0,0.1,0,0.0,1.0,0.0,0,0,0,0.0,0,87611,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Wolverhampton,,-0.48
+Marcos Alonso,Chelsea,Wolverhampton,2022-10-08,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,84569,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Aston Villa,,0.59
+Marcos Alonso,Chelsea,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,82898,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Brentford,,-0.55
+Marcos Alonso,Chelsea,Brentford,2022-10-19,False,0,0.0,0.1,0.0,0.02,0,1.0,1.0,0.0,0,0,0,0.0,0,81857,0.0,0.02,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Manchester United,,0.38
+Marcos Alonso,Chelsea,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,81150,0.0,0.02,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Brighton,,-0.39
+Marcos Alonso,Chelsea,Brighton,2022-10-29,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,80135,0.0,0.02,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Arsenal,,0.36
+Marcos Alonso,Chelsea,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,79331,0.0,0.02,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Newcastle United,,-0.34
+Marcos Alonso,Chelsea,Newcastle United,2022-11-12,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,78614,0.0,0.02,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Bournemouth,,1.46
+Marcos Alonso,Chelsea,Bournemouth,2022-12-27,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,77663,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Nottingham Forest,,
+Marcos Alonso,Chelsea,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,77379,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Manchester City,,-1.17
+Marcos Alonso,Chelsea,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,77190,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Fulham,,1.37
+Marcos Alonso,Chelsea,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,77190,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Crystal Palace,,0.81
+Marcos Alonso,Chelsea,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,76771,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Liverpool,,-1.33
+Marcos Alonso,Chelsea,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,76488,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Fulham,,-0.3
+Marcos Alonso,Chelsea,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,76064,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,West Ham,,0.14
+Marcos Alonso,Chelsea,West Ham,2023-02-11,False,0,1.0,0.68,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,75893,0.0,0.14,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Southampton,,-0.38
+Marcos Alonso,Chelsea,Southampton,2023-02-18,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,75726,0.0,0.14,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Tottenham,,-0.03
+Marcos Alonso,Chelsea,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,75561,0.0,0.14,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Leicester City,,0.83
+Marcos Alonso,Chelsea,Leicester City,2023-03-04,True,0,1.0,0.44,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,75416,0.0,0.23,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Leeds United,,-0.8
+Marcos Alonso,Chelsea,Leeds United,2023-03-11,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,75270,0.0,0.23,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Everton,,0.34
+Marcos Alonso,Chelsea,Everton,2023-03-18,True,0,0.0,0.02,0.0,0.07,0,1.0,1.0,0.0,0,0,0,0.0,0,75160,0.0,0.09,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Aston Villa,,0.55
+Marcos Alonso,Chelsea,Aston Villa,2023-04-01,True,0,0.0,0.62,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,75034,0.0,0.22,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Liverpool,,-0.53
+Marcos Alonso,Chelsea,Liverpool,2023-04-04,True,0,0.0,0.0,0.0,0.04,0,0.0,1.0,0.0,0,0,0,0.0,0,75034,0.0,0.22,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Wolverhampton,,-0.46
+Marcos Alonso,Chelsea,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,74951,0.0,0.13,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Brighton,,-0.71
+Marcos Alonso,Chelsea,Brighton,2023-04-15,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,74858,0.0,0.13,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Brentford,,0.69
+Marcos Alonso,Chelsea,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,74753,0.0,0.12,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Arsenal,,-0.0
+Marcos Alonso,Chelsea,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,74707,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Bournemouth,,0.19
+Marcos Alonso,Chelsea,Bournemouth,2023-05-06,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,74613,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Nottingham Forest,,
+Marcos Alonso,Chelsea,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,74546,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Manchester City,,-1.26
+Marcos Alonso,Chelsea,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,74492,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,False,Manchester United,,-0.1
+Marcos Alonso,Chelsea,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,74492,0.0,0.0,0.0,0,3.5,5.03,0.38,0,0.0,Chelsea,True,Newcastle United,,0.73
+Marcos Alonso,Chelsea,Newcastle United,2023-05-28,True,0,0.0,0.1,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,74445,0.0,0.02,0.0,0,3.5,5.03,0.38,0,,Aston Villa,False,Newcastle United,,-0.34

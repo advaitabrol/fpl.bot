@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Wes Foderingham,West Ham,Aston Villa,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,0.0,West Ham,False,Crystal Palace,,0.2
-Wes Foderingham,West Ham,Crystal Palace,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,0.0,West Ham,True,Manchester City,,-1.18
-Wes Foderingham,West Ham,Manchester City,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,0.0,West Ham,False,Fulham,,0.53
-Wes Foderingham,West Ham,Fulham,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,0.0,West Ham,True,Chelsea,,0.0
-Wes Foderingham,West Ham,Chelsea,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,0.0,West Ham,False,Brentford,,-0.15
-Wes Foderingham,West Ham,Brentford,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,0.0,West Ham,True,Ipswich Town,,
-Wes Foderingham,West Ham,Ipswich Town,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,0.0,West Ham,False,Tottenham,,-0.3
-Wes Foderingham,West Ham,Tottenham,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,0.0,West Ham,True,Manchester United,,0.39
-Wes Foderingham,West Ham,Manchester United,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,0.0,West Ham,False,Nottingham Forest,,-0.54
-Wes Foderingham,West Ham,Nottingham Forest,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,0.0,West Ham,True,Everton,,0.61
-Wes Foderingham,West Ham,Everton,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,,West Ham,False,Newcastle United,,-0.44
-,West Ham,,,,,,,,,,,,,,,,,,,,,,,West Ham,True,Arsenal,,-0.32
-,West Ham,,,,,,,,,,,,,,,,,,,,,,,West Ham,False,Leicester City,,-0.22
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Wes Foderingham,West Ham,Aston Villa,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,14365.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,0.0,West Ham,False,Crystal Palace,,0.2
+Wes Foderingham,West Ham,Crystal Palace,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,15298.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,0.0,West Ham,True,Manchester City,,-1.18
+Wes Foderingham,West Ham,Manchester City,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,15140.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,0.0,West Ham,False,Fulham,,0.53
+Wes Foderingham,West Ham,Fulham,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,16153.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,0.0,West Ham,True,Chelsea,,0.0
+Wes Foderingham,West Ham,Chelsea,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,16083.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,0.0,West Ham,False,Brentford,,-0.15
+Wes Foderingham,West Ham,Brentford,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,15822.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,0.0,West Ham,True,Ipswich Town,,
+Wes Foderingham,West Ham,Ipswich Town,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,15748.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,0.0,West Ham,False,Tottenham,,-0.3
+Wes Foderingham,West Ham,Tottenham,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,15792.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,0.0,West Ham,True,Manchester United,,0.39
+Wes Foderingham,West Ham,Manchester United,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,15680.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,0.0,West Ham,False,Nottingham Forest,,-0.54
+Wes Foderingham,West Ham,Nottingham Forest,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,15556.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,0.0,West Ham,True,Everton,,0.61
+Wes Foderingham,West Ham,Everton,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,15350.0,0.0,0.0,0.0,0.0,0.0,0.03,133.0,62.03,,West Ham,False,Newcastle United,,-0.44
+,West Ham,,,,,,,,,,,,,,,,,,,,,,,,West Ham,True,Arsenal,,-0.32
+,West Ham,,,,,,,,,,,,,,,,,,,,,,,,West Ham,False,Leicester City,,-0.22

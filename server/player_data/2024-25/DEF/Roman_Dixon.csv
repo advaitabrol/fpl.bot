@@ -1,13 +1,13 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Roman Dixon,Everton,Tottenham,2024-08-24,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.6,0.0,0.0,4.0,2.43,1.0,0.0,0.0,90.0,0.0,0.0,Everton,True,Bournemouth,,0.84
-Roman Dixon,Everton,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0,0.0,0.0,Everton,False,Aston Villa,,0.11
-Roman Dixon,Everton,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,0.0,Everton,False,Leicester City,,-0.22
-Roman Dixon,Everton,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.5,0.0,0.0,Everton,True,Crystal Palace,,0.88
-Roman Dixon,Everton,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,Everton,True,Newcastle United,,0.67
-Roman Dixon,Everton,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,Everton,False,Ipswich Town,,
-Roman Dixon,Everton,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.86,0.0,0.0,Everton,True,Fulham,,0.27
-Roman Dixon,Everton,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.25,0.0,0.0,Everton,False,Southampton,,-0.31
-Roman Dixon,Everton,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,Everton,False,West Ham,,-0.34
-Roman Dixon,Everton,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,,Everton,True,Brentford,,0.54
-,Everton,,,,,,,,,,,,,,,,,,,,,,,Everton,False,Manchester United,,-0.41
-,Everton,,,,,,,,,,,,,,,,,,,,,,,Everton,True,Wolverhampton,,-0.08
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Roman Dixon,Everton,Tottenham,2024-08-24,False,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.6,0.0,0.0,4.0,2.43,1.0,0.0,0.0,0.0,90.0,0.0,0.0,Everton,True,Bournemouth,,0.84
+Roman Dixon,Everton,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,2749.0,0.0,0.0,45.0,0.0,0.0,Everton,False,Aston Villa,,0.11
+Roman Dixon,Everton,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,4649.0,0.0,0.0,30.0,0.0,0.0,Everton,False,Leicester City,,-0.22
+Roman Dixon,Everton,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,5675.0,0.0,0.0,22.5,0.0,0.0,Everton,True,Crystal Palace,,0.88
+Roman Dixon,Everton,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,6322.0,0.0,0.0,18.0,0.0,0.0,Everton,True,Newcastle United,,0.67
+Roman Dixon,Everton,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,6782.0,0.0,0.0,15.0,0.0,0.0,Everton,False,Ipswich Town,,
+Roman Dixon,Everton,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,7225.0,0.0,0.0,12.86,0.0,0.0,Everton,True,Fulham,,0.27
+Roman Dixon,Everton,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,7516.0,0.0,0.0,11.25,0.0,0.0,Everton,False,Southampton,,-0.31
+Roman Dixon,Everton,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,7780.0,0.0,0.0,10.0,0.0,0.0,Everton,False,West Ham,,-0.34
+Roman Dixon,Everton,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,7867.0,0.0,0.0,9.0,0.0,,Everton,True,Brentford,,0.54
+,Everton,,,,,,,,,,,,,,,,,,,,,,,,Everton,False,Manchester United,,-0.41
+,Everton,,,,,,,,,,,,,,,,,,,,,,,,Everton,True,Wolverhampton,,-0.08

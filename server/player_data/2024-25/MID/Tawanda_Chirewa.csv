@@ -1,12 +1,12 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Tawanda Chirewa,Wolves,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,0.0,Wolves,True,Chelsea,,0.0
-Tawanda Chirewa,Wolves,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,0.0,Wolves,False,Nottingham Forest,,-0.54
-Tawanda Chirewa,Wolves,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,0.0,Wolves,True,Newcastle United,,0.67
-Tawanda Chirewa,Wolves,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,0.0,Wolves,False,Aston Villa,,0.11
-Tawanda Chirewa,Wolves,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,0.0,Wolves,True,Liverpool,,0.24
-Tawanda Chirewa,Wolves,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,0.0,Wolves,False,Brentford,,-0.15
-Tawanda Chirewa,Wolves,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,0.0,Wolves,True,Manchester City,,-1.18
-Tawanda Chirewa,Wolves,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,0.0,Wolves,False,Brighton,,-0.61
-Tawanda Chirewa,Wolves,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,0.0,Wolves,True,Crystal Palace,,0.88
-Tawanda Chirewa,Wolves,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,0.0,Wolves,True,Southampton,,0.24
-Tawanda Chirewa,Wolves,Southampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,,,,,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Tawanda Chirewa,Wolves,Arsenal,,False,0,,,,,0,,,0.0,0,0,7608,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,0.0,Wolves,True,Chelsea,,0.0
+Tawanda Chirewa,Wolves,Chelsea,,True,0,,,,,0,,,0.0,0,0,8897,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,0.0,Wolves,False,Nottingham Forest,,-0.54
+Tawanda Chirewa,Wolves,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,7777,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,0.0,Wolves,True,Newcastle United,,0.67
+Tawanda Chirewa,Wolves,Newcastle United,,True,0,,,,,0,,,0.0,0,0,5969,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,0.0,Wolves,False,Aston Villa,,0.11
+Tawanda Chirewa,Wolves,Aston Villa,,False,0,,,,,0,,,0.0,0,0,5419,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,0.0,Wolves,True,Liverpool,,0.24
+Tawanda Chirewa,Wolves,Liverpool,,True,0,,,,,0,,,0.0,0,0,4806,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,0.0,Wolves,False,Brentford,,-0.15
+Tawanda Chirewa,Wolves,Brentford,,False,0,,,,,0,,,0.0,0,0,4412,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,0.0,Wolves,True,Manchester City,,-1.18
+Tawanda Chirewa,Wolves,Manchester City,,True,0,,,,,0,,,0.0,0,0,4122,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,0.0,Wolves,False,Brighton,,-0.61
+Tawanda Chirewa,Wolves,Brighton,,False,0,,,,,0,,,0.0,0,0,3939,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,0.0,Wolves,True,Crystal Palace,,0.88
+Tawanda Chirewa,Wolves,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,3744,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,0.0,Wolves,True,Southampton,,0.24
+Tawanda Chirewa,Wolves,Southampton,,True,0,,,,,0,,,0.0,0,0,3573,0.0,0.0,0.0,0.0,0.0,0.11,0.02,0.06,,,,,,

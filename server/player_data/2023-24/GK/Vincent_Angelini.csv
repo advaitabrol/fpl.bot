@@ -1,26 +1,26 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Vincent Angelini,Brentford,Luton,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,False,Brighton,,-0.6
-Vincent Angelini,Brentford,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,False,Sheffield,,-0.61
-Vincent Angelini,Brentford,Sheffield,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,True,Aston Villa,,0.64
-Vincent Angelini,Brentford,Aston Villa,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,True,Wolverhampton,,0.05
-Vincent Angelini,Brentford,Wolverhampton,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,False,Crystal Palace,,0.38
-Vincent Angelini,Brentford,Crystal Palace,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,True,Nottingham Forest,,1.55
-Vincent Angelini,Brentford,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,False,Tottenham,,-0.36
-Vincent Angelini,Brentford,Tottenham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,True,Manchester City,,-0.96
-Vincent Angelini,Brentford,Manchester City,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,False,Wolverhampton,,-0.52
-Vincent Angelini,Brentford,Wolverhampton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,True,Liverpool,,0.18
-Vincent Angelini,Brentford,Liverpool,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,False,Manchester City,,-1.32
-Vincent Angelini,Brentford,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,False,West Ham,,-0.22
-Vincent Angelini,Brentford,West Ham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,True,Chelsea,,-0.25
-Vincent Angelini,Brentford,Chelsea,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,False,Arsenal,,-0.48
-Vincent Angelini,Brentford,Arsenal,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,False,Burnley,,0.0
-Vincent Angelini,Brentford,Burnley,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,True,Manchester United,,0.38
-Vincent Angelini,Brentford,Manchester United,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,True,Brighton,,-0.66
-Vincent Angelini,Brentford,Brighton,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,False,Aston Villa,,0.29
-Vincent Angelini,Brentford,Aston Villa,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,True,Sheffield,,0.68
-Vincent Angelini,Brentford,Sheffield,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,False,Luton,,
-Vincent Angelini,Brentford,Luton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,False,Everton,,-0.24
-Vincent Angelini,Brentford,Everton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,True,Fulham,,-0.13
-Vincent Angelini,Brentford,Fulham,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,False,Bournemouth,,0.19
-Vincent Angelini,Brentford,Bournemouth,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0.0,Brentford,True,Newcastle United,,0.55
-Vincent Angelini,Brentford,Newcastle United,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,,Nott'm Forest,True,Bournemouth,,1.22
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Vincent Angelini,Brentford,Luton,,True,0,0,0.0,0,0,0,0,0,,0,0,0.0,0,0.0,0,0,0.0,Brentford,False,Brighton,,-0.6
+Vincent Angelini,Brentford,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,127,0.0,0,0.0,0,0,0.0,Brentford,False,Sheffield,,-0.61
+Vincent Angelini,Brentford,Sheffield,,False,0,0,0.0,0,0,0,0,0,,0,286,0.0,0,0.0,0,0,0.0,Brentford,True,Aston Villa,,0.64
+Vincent Angelini,Brentford,Aston Villa,,True,0,0,0.0,0,0,0,0,0,,0,365,0.0,0,0.0,0,0,0.0,Brentford,True,Wolverhampton,,0.05
+Vincent Angelini,Brentford,Wolverhampton,,True,0,0,0.0,0,0,0,0,0,,0,481,0.0,0,0.0,0,0,0.0,Brentford,False,Crystal Palace,,0.38
+Vincent Angelini,Brentford,Crystal Palace,,False,0,0,0.0,0,0,0,0,0,,0,573,0.0,0,0.0,0,0,0.0,Brentford,True,Nottingham Forest,,1.55
+Vincent Angelini,Brentford,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,648,0.0,0,0.0,0,0,0.0,Brentford,False,Tottenham,,-0.36
+Vincent Angelini,Brentford,Tottenham,,False,0,0,0.0,0,0,0,0,0,,0,730,0.0,0,0.0,0,0,0.0,Brentford,True,Manchester City,,-0.96
+Vincent Angelini,Brentford,Manchester City,,True,0,0,0.0,0,0,0,0,0,,0,760,0.0,0,0.0,0,0,0.0,Brentford,False,Wolverhampton,,-0.52
+Vincent Angelini,Brentford,Wolverhampton,,False,0,0,0.0,0,0,0,0,0,,0,853,0.0,0,0.0,0,0,0.0,Brentford,True,Liverpool,,0.18
+Vincent Angelini,Brentford,Liverpool,,True,0,0,0.0,0,0,0,0,0,,0,1123,0.0,0,0.0,0,0,0.0,Brentford,False,Manchester City,,-1.32
+Vincent Angelini,Brentford,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,1123,0.0,0,0.0,0,0,0.0,Brentford,False,West Ham,,-0.22
+Vincent Angelini,Brentford,West Ham,,False,0,0,0.0,0,0,0,0,0,,0,1159,0.0,0,0.0,0,0,0.0,Brentford,True,Chelsea,,-0.25
+Vincent Angelini,Brentford,Chelsea,,True,0,0,0.0,0,0,0,0,0,,0,1196,0.0,0,0.0,0,0,0.0,Brentford,False,Arsenal,,-0.48
+Vincent Angelini,Brentford,Arsenal,,False,0,0,0.0,0,0,0,0,0,,0,1192,0.0,0,0.0,0,0,0.0,Brentford,False,Burnley,,0.0
+Vincent Angelini,Brentford,Burnley,,False,0,0,0.0,0,0,0,0,0,,0,1620,0.0,0,0.0,0,0,0.0,Brentford,True,Manchester United,,0.38
+Vincent Angelini,Brentford,Manchester United,,True,0,0,0.0,0,0,0,0,0,,0,1313,0.0,0,0.0,0,0,0.0,Brentford,True,Brighton,,-0.66
+Vincent Angelini,Brentford,Brighton,,True,0,0,0.0,0,0,0,0,0,,0,1333,0.0,0,0.0,0,0,0.0,Brentford,False,Aston Villa,,0.29
+Vincent Angelini,Brentford,Aston Villa,,False,0,0,0.0,0,0,0,0,0,,0,1375,0.0,0,0.0,0,0,0.0,Brentford,True,Sheffield,,0.68
+Vincent Angelini,Brentford,Sheffield,,True,0,0,0.0,0,0,0,0,0,,0,1447,0.0,0,0.0,0,0,0.0,Brentford,False,Luton,,
+Vincent Angelini,Brentford,Luton,,False,0,0,0.0,0,0,0,0,0,,0,1550,0.0,0,0.0,0,0,0.0,Brentford,False,Everton,,-0.24
+Vincent Angelini,Brentford,Everton,,False,0,0,0.0,0,0,0,0,0,,0,1571,0.0,0,0.0,0,0,0.0,Brentford,True,Fulham,,-0.13
+Vincent Angelini,Brentford,Fulham,,True,0,0,0.0,0,0,0,0,0,,0,1596,0.0,0,0.0,0,0,0.0,Brentford,False,Bournemouth,,0.19
+Vincent Angelini,Brentford,Bournemouth,,False,0,0,0.0,0,0,0,0,0,,0,1659,0.0,0,0.0,0,0,0.0,Brentford,True,Newcastle United,,0.55
+Vincent Angelini,Brentford,Newcastle United,,True,0,0,0.0,0,0,0,0,0,,0,1735,0.0,0,0.0,0,0,,Nott'm Forest,True,Bournemouth,,1.22

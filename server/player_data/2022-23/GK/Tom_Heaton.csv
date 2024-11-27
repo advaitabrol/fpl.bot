@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Tom Heaton,Man Utd,Brighton,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Brentford,,-0.55
-Tom Heaton,Man Utd,Brentford,2022-08-13,False,0,0,0.0,0,0,0,0,0,0.7,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Liverpool,,-0.53
-Tom Heaton,Man Utd,Liverpool,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Southampton,,-1.07
-Tom Heaton,Man Utd,Southampton,2022-08-27,False,0,0,0.0,0,0,0,0,0,0.23,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Leeds United,,-0.8
-Tom Heaton,Man Utd,Leeds United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Arsenal,,0.36
-Tom Heaton,Man Utd,Arsenal,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Manchester City,,-1.26
-Tom Heaton,Man Utd,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Everton,,-0.63
-Tom Heaton,Man Utd,Everton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Newcastle United,,0.73
-Tom Heaton,Man Utd,Newcastle United,2022-10-16,True,0,0,0.0,0,0,0,0,0,0.15,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Tottenham,,1.07
-Tom Heaton,Man Utd,Tottenham,2022-10-19,True,0,0,0.0,0,0,0,0,0,0.05,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Chelsea,,-0.72
-Tom Heaton,Man Utd,Chelsea,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,West Ham,,0.63
-Tom Heaton,Man Utd,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Aston Villa,,0.59
-Tom Heaton,Man Utd,Aston Villa,2022-11-06,False,0,0,0.0,0,0,0,0,0,0.08,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Fulham,,1.37
-Tom Heaton,Man Utd,Fulham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Nottingham Forest,,
-Tom Heaton,Man Utd,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Wolverhampton,,-0.46
-Tom Heaton,Man Utd,Wolverhampton,2022-12-31,False,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Bournemouth,,1.46
-Tom Heaton,Man Utd,Bournemouth,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Manchester City,,-1.17
-Tom Heaton,Man Utd,Manchester City,2023-01-14,True,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Crystal Palace,,0.13
-Tom Heaton,Man Utd,Crystal Palace,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Arsenal,,-0.0
-Tom Heaton,Man Utd,Arsenal,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Crystal Palace,,0.81
-Tom Heaton,Man Utd,Crystal Palace,2023-02-04,True,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Leicester City,,0.83
-Tom Heaton,Man Utd,Leicester City,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Leicester City,,-0.05
-Tom Heaton,Man Utd,Leicester City,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Leeds United,,-0.79
-Tom Heaton,Man Utd,Leeds United,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Liverpool,,-1.33
-Tom Heaton,Man Utd,Liverpool,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Southampton,,-0.38
-Tom Heaton,Man Utd,Southampton,2023-03-12,True,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Newcastle United,,-0.34
-Tom Heaton,Man Utd,Newcastle United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Brentford,,0.69
-Tom Heaton,Man Utd,Brentford,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Everton,,0.34
-Tom Heaton,Man Utd,Everton,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Nottingham Forest,,
-Tom Heaton,Man Utd,Nottingham Forest,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Tottenham,,-0.03
-Tom Heaton,Man Utd,Tottenham,2023-04-27,False,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Aston Villa,,0.55
-Tom Heaton,Man Utd,Aston Villa,2023-04-30,True,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Brighton,,-0.39
-Tom Heaton,Man Utd,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,West Ham,,0.14
-Tom Heaton,Man Utd,West Ham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Wolverhampton,,-0.48
-Tom Heaton,Man Utd,Wolverhampton,2023-05-13,True,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Bournemouth,,0.19
-Tom Heaton,Man Utd,Bournemouth,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Chelsea,,-0.25
-Tom Heaton,Man Utd,Chelsea,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Fulham,,-0.3
-Tom Heaton,Man Utd,Fulham,2023-05-28,True,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Wolverhampton,,-0.48
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Tom Heaton,Man Utd,Brighton,,True,0,0,0.0,0,0,0,0,0,,0,41033,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Brentford,,-0.55
+Tom Heaton,Man Utd,Brentford,2022-08-13,False,0,0,0.0,0,0,0,0,0,0.7,0,45769,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Liverpool,,-0.53
+Tom Heaton,Man Utd,Liverpool,,True,0,0,0.0,0,0,0,0,0,,0,46626,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Southampton,,-1.07
+Tom Heaton,Man Utd,Southampton,2022-08-27,False,0,0,0.0,0,0,0,0,0,0.23,0,46247,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Leeds United,,-0.8
+Tom Heaton,Man Utd,Leeds United,,False,0,0,0.0,0,0,0,0,0,,0,45471,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Arsenal,,0.36
+Tom Heaton,Man Utd,Arsenal,,True,0,0,0.0,0,0,0,0,0,,0,44421,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Manchester City,,-1.26
+Tom Heaton,Man Utd,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,41764,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Everton,,-0.63
+Tom Heaton,Man Utd,Everton,,False,0,0,0.0,0,0,0,0,0,,0,41099,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Newcastle United,,0.73
+Tom Heaton,Man Utd,Newcastle United,2022-10-16,True,0,0,0.0,0,0,0,0,0,0.15,0,43236,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Tottenham,,1.07
+Tom Heaton,Man Utd,Tottenham,2022-10-19,True,0,0,0.0,0,0,0,0,0,0.05,0,43939,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Chelsea,,-0.72
+Tom Heaton,Man Utd,Chelsea,,False,0,0,0.0,0,0,0,0,0,,0,45235,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,West Ham,,0.63
+Tom Heaton,Man Utd,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,44482,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Aston Villa,,0.59
+Tom Heaton,Man Utd,Aston Villa,2022-11-06,False,0,0,0.0,0,0,0,0,0,0.08,0,44291,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Fulham,,1.37
+Tom Heaton,Man Utd,Fulham,,False,0,0,0.0,0,0,0,0,0,,0,44237,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Nottingham Forest,,
+Tom Heaton,Man Utd,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,42217,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Wolverhampton,,-0.46
+Tom Heaton,Man Utd,Wolverhampton,2022-12-31,False,0,0,0.0,0,0,0,0,0,0.0,0,41998,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Bournemouth,,1.46
+Tom Heaton,Man Utd,Bournemouth,,True,0,0,0.0,0,0,0,0,0,,0,41414,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Manchester City,,-1.17
+Tom Heaton,Man Utd,Manchester City,2023-01-14,True,0,0,0.0,0,0,0,0,0,0.0,0,40677,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Crystal Palace,,0.13
+Tom Heaton,Man Utd,Crystal Palace,,False,0,0,0.0,0,0,0,0,0,,0,40677,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Arsenal,,-0.0
+Tom Heaton,Man Utd,Arsenal,,False,0,0,0.0,0,0,0,0,0,,0,40067,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Crystal Palace,,0.81
+Tom Heaton,Man Utd,Crystal Palace,2023-02-04,True,0,0,0.0,0,0,0,0,0,0.0,0,38267,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Leicester City,,0.83
+Tom Heaton,Man Utd,Leicester City,,True,0,0,0.0,0,0,0,0,0,,0,38267,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Leicester City,,-0.05
+Tom Heaton,Man Utd,Leicester City,,False,0,0,0.0,0,0,0,0,0,,0,37926,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Leeds United,,-0.79
+Tom Heaton,Man Utd,Leeds United,,True,0,0,0.0,0,0,0,0,0,,0,37473,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Liverpool,,-1.33
+Tom Heaton,Man Utd,Liverpool,,False,0,0,0.0,0,0,0,0,0,,0,36470,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Southampton,,-0.38
+Tom Heaton,Man Utd,Southampton,2023-03-12,True,0,0,0.0,0,0,0,0,0,0.0,0,36186,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Newcastle United,,-0.34
+Tom Heaton,Man Utd,Newcastle United,,False,0,0,0.0,0,0,0,0,0,,0,36975,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Brentford,,0.69
+Tom Heaton,Man Utd,Brentford,,True,0,0,0.0,0,0,0,0,0,,0,36975,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Everton,,0.34
+Tom Heaton,Man Utd,Everton,,True,0,0,0.0,0,0,0,0,0,,0,36952,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Nottingham Forest,,
+Tom Heaton,Man Utd,Nottingham Forest,,False,0,0,0.0,0,0,0,0,0,,0,37342,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Tottenham,,-0.03
+Tom Heaton,Man Utd,Tottenham,2023-04-27,False,0,0,0.0,0,0,0,0,0,0.0,0,37725,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Aston Villa,,0.55
+Tom Heaton,Man Utd,Aston Villa,2023-04-30,True,0,0,0.0,0,0,0,0,0,0.0,0,39378,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Brighton,,-0.39
+Tom Heaton,Man Utd,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,39378,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,West Ham,,0.14
+Tom Heaton,Man Utd,West Ham,,False,0,0,0.0,0,0,0,0,0,,0,38033,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Wolverhampton,,-0.48
+Tom Heaton,Man Utd,Wolverhampton,2023-05-13,True,0,0,0.0,0,0,0,0,0,0.0,0,37686,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Bournemouth,,0.19
+Tom Heaton,Man Utd,Bournemouth,,False,0,0,0.0,0,0,0,0,0,,0,37219,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Chelsea,,-0.25
+Tom Heaton,Man Utd,Chelsea,,True,0,0,0.0,0,0,0,0,0,,0,37219,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Fulham,,-0.3
+Tom Heaton,Man Utd,Fulham,2023-05-28,True,0,0,0.0,0,0,0,0,0,0.0,0,37621,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Wolverhampton,,-0.48

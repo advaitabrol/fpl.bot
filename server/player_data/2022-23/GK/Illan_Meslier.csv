@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Illan Meslier,Leeds,Wolverhampton,2022-08-06,True,90,1,0.0,5,0,3,0,0,0.0,0,3.0,0,90.0,0.0,5.0,0.14,143,0,1.0,Leeds,False,Southampton,,-1.07
-Illan Meslier,Leeds,Southampton,2022-08-13,False,90,2,0.0,2,0,1,0,0,0.0,0,2.0,0,90.0,0.0,3.5,0.14,143,0,7.0,Leeds,True,Chelsea,,-0.25
-Illan Meslier,Leeds,Chelsea,2022-08-21,True,90,0,0.0,3,0,7,0,1,0.0,0,3.67,0,90.0,0.33,3.33,0.14,143,0,3.0,Leeds,False,Brighton,,-0.39
-Illan Meslier,Leeds,Brighton,2022-08-27,False,90,1,0.0,3,0,3,0,0,0.0,0,3.5,0,90.0,0.25,3.25,0.14,143,0,2.0,Leeds,True,Everton,,0.34
-Illan Meslier,Leeds,Everton,2022-08-30,True,90,1,0.0,1,0,2,0,0,0.0,0,3.2,0,90.0,0.2,2.8,0.14,143,0,1.0,Leeds,False,Brentford,,-0.55
-Illan Meslier,Leeds,Brentford,2022-09-03,False,90,5,0.0,3,0,1,0,0,0.0,0,2.8,0,90.0,0.17,2.83,0.14,143,0,11.0,Leeds,True,Aston Villa,,0.55
-Illan Meslier,Leeds,Aston Villa,2022-10-02,True,90,0,0.0,6,0,11,3,1,0.0,0,4.8,0,90.0,0.29,3.29,0.14,143,0,2.0,Leeds,False,Crystal Palace,,0.13
-Illan Meslier,Leeds,Crystal Palace,2022-10-09,False,90,2,0.0,3,0,2,0,0,0.0,0,3.8,0,90.0,0.25,3.25,0.14,143,0,3.0,Leeds,True,Arsenal,,0.36
-Illan Meslier,Leeds,Arsenal,2022-10-16,True,90,1,0.0,3,0,3,0,0,0.0,0,3.8,0,90.0,0.22,3.22,0.14,143,0,1.0,Leeds,False,Leeds United,,-0.8
-Illan Meslier,Leeds,Leeds United,2022-10-20,False,90,2,0.0,0,0,1,0,0,0.0,0,3.6,0,90.0,0.2,2.9,0.14,143,0,1.0,Leeds,True,Fulham,,-0.3
-Illan Meslier,Leeds,Fulham,2022-10-23,True,90,3,0.0,1,0,1,0,0,0.0,0,3.6,0,90.0,0.18,2.73,0.14,143,0,7.0,Leeds,False,Liverpool,,-1.33
-Illan Meslier,Leeds,Liverpool,2022-10-29,False,90,1,0.0,9,0,7,2,0,0.0,0,2.8,0,90.0,0.17,3.25,0.14,143,0,1.0,Leeds,True,Bournemouth,,1.46
-Illan Meslier,Leeds,Bournemouth,2022-11-05,True,90,3,0.0,2,0,1,0,0,0.0,0,2.6,0,90.0,0.15,3.15,0.14,143,0,1.0,Leeds,False,Tottenham,,-0.03
-Illan Meslier,Leeds,Tottenham,2022-11-12,False,90,4,1.86,3,0,1,0,0,0.0,1,2.2,0,90.0,0.14,3.14,0.14,143,0,3.0,Leeds,True,Manchester City,,-1.17
-Illan Meslier,Leeds,Manchester City,2022-12-28,True,90,3,4.2,6,0,3,0,0,0.0,1,2.6,0,90.0,0.13,3.33,0.14,143,0,8.0,Leeds,False,Newcastle United,,-0.34
-Illan Meslier,Leeds,Newcastle United,2022-12-31,False,90,0,2.01,5,0,8,2,1,0.0,1,4.0,0,90.0,0.19,3.44,0.14,143,0,1.0,Leeds,True,West Ham,,0.63
-Illan Meslier,Leeds,West Ham,2023-01-04,True,90,2,1.42,0,0,1,0,0,0.0,1,2.8,0,90.0,0.18,3.24,0.14,143,0,1.0,Leeds,False,Aston Villa,,0.59
-Illan Meslier,Leeds,Aston Villa,2023-01-13,False,90,2,1.28,3,0,1,0,0,0.0,1,2.8,0,90.0,0.17,3.22,0.14,143,0,6.0,Leeds,True,Brentford,,0.69
-Illan Meslier,Leeds,Brentford,2023-01-22,True,90,0,0.29,0,0,6,0,1,0.0,1,3.8,0,90.0,0.21,3.05,0.14,143,0,2.0,Leeds,False,Nottingham Forest,,
-Illan Meslier,Leeds,Nottingham Forest,2023-02-05,False,90,1,0.27,1,0,2,0,0,0.0,1,3.6,0,90.0,0.2,2.95,0.14,143,0,2.0,Leeds,False,Manchester United,,-0.1
-Illan Meslier,Leeds,Manchester United,2023-02-08,False,90,2,2.19,5,0,2,0,0,0.0,1,2.4,0,90.0,0.19,3.05,0.14,143,0,2.0,Leeds,True,Manchester United,,0.38
-Illan Meslier,Leeds,Manchester United,2023-02-12,True,90,2,1.12,3,0,2,0,0,0.0,1,2.6,0,90.0,0.18,3.05,0.14,143,0,3.0,Leeds,False,Everton,,-0.63
-Illan Meslier,Leeds,Everton,2023-02-18,False,90,1,1.52,3,0,3,0,0,0.0,1,3.0,0,90.0,0.17,3.04,0.14,143,0,6.0,Leeds,True,Southampton,,-0.38
-Illan Meslier,Leeds,Southampton,2023-02-25,True,90,0,0.37,2,0,6,0,1,0.0,1,3.0,0,90.0,0.21,3.0,0.14,143,0,2.0,Leeds,False,Chelsea,,-0.72
-Illan Meslier,Leeds,Chelsea,2023-03-04,False,90,1,1.52,2,0,2,0,0,0.0,1,3.0,0,90.0,0.2,2.96,0.14,143,0,1.0,Leeds,True,Brighton,,-0.71
-Illan Meslier,Leeds,Brighton,2023-03-11,True,90,2,1.63,2,0,1,0,0,0.0,1,2.8,0,90.0,0.19,2.92,0.14,143,0,2.0,Leeds,False,Wolverhampton,,-0.46
-Illan Meslier,Leeds,Wolverhampton,2023-03-18,False,90,2,2.86,6,0,2,0,0,0.0,1,2.8,0,90.0,0.19,3.04,0.14,143,0,0.0,Leeds,False,Arsenal,,-0.0
-Illan Meslier,Leeds,Arsenal,2023-04-01,False,90,4,3.41,1,0,0,0,0,0.0,1,2.2,0,90.0,0.18,2.96,0.14,143,0,2.0,Leeds,True,Nottingham Forest,,
-Illan Meslier,Leeds,Nottingham Forest,2023-04-04,True,90,1,0.79,0,0,2,0,0,0.0,1,1.4,0,90.0,0.17,2.86,0.14,143,0,0.0,Leeds,True,Crystal Palace,,0.81
-Illan Meslier,Leeds,Crystal Palace,2023-04-09,True,90,5,3.03,2,0,0,0,0,0.0,1,1.0,0,90.0,0.17,2.83,0.14,143,0,-1.0,Leeds,True,Liverpool,,-0.53
-Illan Meslier,Leeds,Liverpool,2023-04-17,True,90,6,2.47,1,0,-1,0,0,0.0,1,0.6,0,90.0,0.16,2.77,0.14,143,0,3.0,Leeds,False,Fulham,,1.37
-Illan Meslier,Leeds,Fulham,2023-04-22,False,90,2,1.68,3,0,3,1,0,0.0,1,0.8,0,90.0,0.16,2.78,0.14,143,0,2.0,Leeds,True,Leeds United,,-0.79
-Illan Meslier,Leeds,Leeds United,2023-04-25,True,90,1,2.1,2,0,2,0,0,0.0,1,1.2,0,90.0,0.15,2.76,0.14,143,0,1.0,Leeds,False,Bournemouth,,0.19
-Illan Meslier,Leeds,Bournemouth,2023-04-30,False,90,4,1.98,3,0,1,0,0,0.0,1,1.0,0,90.0,0.15,2.76,0.14,143,0,0.0,Leeds,False,Manchester City,,-1.26
-Illan Meslier,Leeds,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,1.0,0,87.43,0.15,2.76,0.14,143,0,0.0,Leeds,True,Newcastle United,,0.73
-Illan Meslier,Leeds,Newcastle United,,True,0,0,0.0,0,0,0,0,0,,0,1.2,0,85.0,0.15,2.76,0.14,143,0,0.0,Leeds,False,West Ham,,0.14
-Illan Meslier,Leeds,West Ham,,False,0,0,0.0,0,0,0,0,0,,0,0.6,0,82.7,0.15,2.76,0.14,143,0,0.0,Leeds,True,Tottenham,,1.07
-Illan Meslier,Leeds,Tottenham,,True,0,0,0.0,0,0,0,0,0,,0,0.2,0,80.53,0.15,2.76,0.14,143,0,,Liverpool,False,Chelsea,,-0.72
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Illan Meslier,Leeds,Wolverhampton,2022-08-06,True,90,1,0.0,5,0,3,0,0,0.0,0,204130,3.0,0,90.0,0.0,5.0,0.14,143,0,1.0,Leeds,False,Southampton,,-1.07
+Illan Meslier,Leeds,Southampton,2022-08-13,False,90,2,0.0,2,0,1,0,0,0.0,0,223952,2.0,0,90.0,0.0,3.5,0.14,143,0,7.0,Leeds,True,Chelsea,,-0.25
+Illan Meslier,Leeds,Chelsea,2022-08-21,True,90,0,0.0,3,0,7,0,1,0.0,0,207313,3.67,0,90.0,0.33,3.33,0.14,143,0,3.0,Leeds,False,Brighton,,-0.39
+Illan Meslier,Leeds,Brighton,2022-08-27,False,90,1,0.0,3,0,3,0,0,0.0,0,235468,3.5,0,90.0,0.25,3.25,0.14,143,0,2.0,Leeds,True,Everton,,0.34
+Illan Meslier,Leeds,Everton,2022-08-30,True,90,1,0.0,1,0,2,0,0,0.0,0,254807,3.2,0,90.0,0.2,2.8,0.14,143,0,1.0,Leeds,False,Brentford,,-0.55
+Illan Meslier,Leeds,Brentford,2022-09-03,False,90,5,0.0,3,0,1,0,0,0.0,0,254302,2.8,0,90.0,0.17,2.83,0.14,143,0,11.0,Leeds,True,Aston Villa,,0.55
+Illan Meslier,Leeds,Aston Villa,2022-10-02,True,90,0,0.0,6,0,11,3,1,0.0,0,241856,4.8,0,90.0,0.29,3.29,0.14,143,0,2.0,Leeds,False,Crystal Palace,,0.13
+Illan Meslier,Leeds,Crystal Palace,2022-10-09,False,90,2,0.0,3,0,2,0,0,0.0,0,273485,3.8,0,90.0,0.25,3.25,0.14,143,0,3.0,Leeds,True,Arsenal,,0.36
+Illan Meslier,Leeds,Arsenal,2022-10-16,True,90,1,0.0,3,0,3,0,0,0.0,0,283457,3.8,0,90.0,0.22,3.22,0.14,143,0,1.0,Leeds,False,Leeds United,,-0.8
+Illan Meslier,Leeds,Leeds United,2022-10-20,False,90,2,0.0,0,0,1,0,0,0.0,0,280223,3.6,0,90.0,0.2,2.9,0.14,143,0,1.0,Leeds,True,Fulham,,-0.3
+Illan Meslier,Leeds,Fulham,2022-10-23,True,90,3,0.0,1,0,1,0,0,0.0,0,272875,3.6,0,90.0,0.18,2.73,0.14,143,0,7.0,Leeds,False,Liverpool,,-1.33
+Illan Meslier,Leeds,Liverpool,2022-10-29,False,90,1,0.0,9,0,7,2,0,0.0,0,255973,2.8,0,90.0,0.17,3.25,0.14,143,0,1.0,Leeds,True,Bournemouth,,1.46
+Illan Meslier,Leeds,Bournemouth,2022-11-05,True,90,3,0.0,2,0,1,0,0,0.0,0,271750,2.6,0,90.0,0.15,3.15,0.14,143,0,1.0,Leeds,False,Tottenham,,-0.03
+Illan Meslier,Leeds,Tottenham,2022-11-12,False,90,4,1.86,3,0,1,0,0,0.0,1,256850,2.2,0,90.0,0.14,3.14,0.14,143,0,3.0,Leeds,True,Manchester City,,-1.17
+Illan Meslier,Leeds,Manchester City,2022-12-28,True,90,3,4.2,6,0,3,0,0,0.0,1,199664,2.6,0,90.0,0.13,3.33,0.14,143,0,8.0,Leeds,False,Newcastle United,,-0.34
+Illan Meslier,Leeds,Newcastle United,2022-12-31,False,90,0,2.01,5,0,8,2,1,0.0,1,194856,4.0,0,90.0,0.19,3.44,0.14,143,0,1.0,Leeds,True,West Ham,,0.63
+Illan Meslier,Leeds,West Ham,2023-01-04,True,90,2,1.42,0,0,1,0,0,0.0,1,201368,2.8,0,90.0,0.18,3.24,0.14,143,0,1.0,Leeds,False,Aston Villa,,0.59
+Illan Meslier,Leeds,Aston Villa,2023-01-13,False,90,2,1.28,3,0,1,0,0,0.0,1,202428,2.8,0,90.0,0.17,3.22,0.14,143,0,6.0,Leeds,True,Brentford,,0.69
+Illan Meslier,Leeds,Brentford,2023-01-22,True,90,0,0.29,0,0,6,0,1,0.0,1,200861,3.8,0,90.0,0.21,3.05,0.14,143,0,2.0,Leeds,False,Nottingham Forest,,
+Illan Meslier,Leeds,Nottingham Forest,2023-02-05,False,90,1,0.27,1,0,2,0,0,0.0,1,229795,3.6,0,90.0,0.2,2.95,0.14,143,0,2.0,Leeds,False,Manchester United,,-0.1
+Illan Meslier,Leeds,Manchester United,2023-02-08,False,90,2,2.19,5,0,2,0,0,0.0,1,229795,2.4,0,90.0,0.19,3.05,0.14,143,0,2.0,Leeds,True,Manchester United,,0.38
+Illan Meslier,Leeds,Manchester United,2023-02-12,True,90,2,1.12,3,0,2,0,0,0.0,1,218485,2.6,0,90.0,0.18,3.05,0.14,143,0,3.0,Leeds,False,Everton,,-0.63
+Illan Meslier,Leeds,Everton,2023-02-18,False,90,1,1.52,3,0,3,0,0,0.0,1,217170,3.0,0,90.0,0.17,3.04,0.14,143,0,6.0,Leeds,True,Southampton,,-0.38
+Illan Meslier,Leeds,Southampton,2023-02-25,True,90,0,0.37,2,0,6,0,1,0.0,1,222006,3.0,0,90.0,0.21,3.0,0.14,143,0,2.0,Leeds,False,Chelsea,,-0.72
+Illan Meslier,Leeds,Chelsea,2023-03-04,False,90,1,1.52,2,0,2,0,0,0.0,1,215968,3.0,0,90.0,0.2,2.96,0.14,143,0,1.0,Leeds,True,Brighton,,-0.71
+Illan Meslier,Leeds,Brighton,2023-03-11,True,90,2,1.63,2,0,1,0,0,0.0,1,214741,2.8,0,90.0,0.19,2.92,0.14,143,0,2.0,Leeds,False,Wolverhampton,,-0.46
+Illan Meslier,Leeds,Wolverhampton,2023-03-18,False,90,2,2.86,6,0,2,0,0,0.0,1,214829,2.8,0,90.0,0.19,3.04,0.14,143,0,0.0,Leeds,False,Arsenal,,-0.0
+Illan Meslier,Leeds,Arsenal,2023-04-01,False,90,4,3.41,1,0,0,0,0,0.0,1,218541,2.2,0,90.0,0.18,2.96,0.14,143,0,2.0,Leeds,True,Nottingham Forest,,
+Illan Meslier,Leeds,Nottingham Forest,2023-04-04,True,90,1,0.79,0,0,2,0,0,0.0,1,218541,1.4,0,90.0,0.17,2.86,0.14,143,0,0.0,Leeds,True,Crystal Palace,,0.81
+Illan Meslier,Leeds,Crystal Palace,2023-04-09,True,90,5,3.03,2,0,0,0,0,0.0,1,216133,1.0,0,90.0,0.17,2.83,0.14,143,0,-1.0,Leeds,True,Liverpool,,-0.53
+Illan Meslier,Leeds,Liverpool,2023-04-17,True,90,6,2.47,1,0,-1,0,0,0.0,1,213136,0.6,0,90.0,0.16,2.77,0.14,143,0,3.0,Leeds,False,Fulham,,1.37
+Illan Meslier,Leeds,Fulham,2023-04-22,False,90,2,1.68,3,0,3,1,0,0.0,1,213984,0.8,0,90.0,0.16,2.78,0.14,143,0,2.0,Leeds,True,Leeds United,,-0.79
+Illan Meslier,Leeds,Leeds United,2023-04-25,True,90,1,2.1,2,0,2,0,0,0.0,1,214306,1.2,0,90.0,0.15,2.76,0.14,143,0,1.0,Leeds,False,Bournemouth,,0.19
+Illan Meslier,Leeds,Bournemouth,2023-04-30,False,90,4,1.98,3,0,1,0,0,0.0,1,209564,1.0,0,90.0,0.15,2.76,0.14,143,0,0.0,Leeds,False,Manchester City,,-1.26
+Illan Meslier,Leeds,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,206473,1.0,0,87.43,0.15,2.76,0.14,143,0,0.0,Leeds,True,Newcastle United,,0.73
+Illan Meslier,Leeds,Newcastle United,,True,0,0,0.0,0,0,0,0,0,,0,204240,1.2,0,85.0,0.15,2.76,0.14,143,0,0.0,Leeds,False,West Ham,,0.14
+Illan Meslier,Leeds,West Ham,,False,0,0,0.0,0,0,0,0,0,,0,199251,0.6,0,82.7,0.15,2.76,0.14,143,0,0.0,Leeds,True,Tottenham,,1.07
+Illan Meslier,Leeds,Tottenham,,True,0,0,0.0,0,0,0,0,0,,0,198154,0.2,0,80.53,0.15,2.76,0.14,143,0,,Liverpool,False,Chelsea,,-0.72

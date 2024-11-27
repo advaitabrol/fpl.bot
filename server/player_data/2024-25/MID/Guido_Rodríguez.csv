@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Guido Rodríguez,West Ham,Aston Villa,2024-08-17,True,84.0,0.0,0.02,0.0,0.0,2.0,1.0,0.0,0.9,0.0,1.0,2.0,0.02,84.0,3.0,West Ham,False,Crystal Palace,,0.2
-Guido Rodríguez,West Ham,Crystal Palace,2024-08-24,False,90.0,0.0,0.04,0.0,0.0,3.0,2.0,0.0,1.4,0.0,1.0,2.5,0.03,87.0,1.0,West Ham,True,Manchester City,,-1.18
-Guido Rodríguez,West Ham,Manchester City,2024-08-31,True,90.0,0.0,0.01,0.0,0.0,1.0,1.0,0.0,1.2,0.0,1.0,2.0,0.02,88.0,1.0,West Ham,False,Fulham,,0.53
-Guido Rodríguez,West Ham,Fulham,2024-09-14,False,69.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,1.75,0.02,83.25,1.0,West Ham,True,Chelsea,,0.0
-Guido Rodríguez,West Ham,Chelsea,2024-09-21,True,37.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.6,0.0,1.0,1.6,0.01,74.0,2.0,West Ham,False,Brentford,,-0.15
-Guido Rodríguez,West Ham,Brentford,2024-09-28,False,90.0,0.0,0.01,0.0,0.03,2.0,1.0,1.0,3.7,0.0,1.0,1.6,0.01,76.67,2.0,West Ham,True,Ipswich Town,,
-Guido Rodríguez,West Ham,Ipswich Town,2024-10-05,True,69.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.5,0.0,1.0,1.4,0.0,75.57,2.0,West Ham,False,Tottenham,,-0.3
-Guido Rodríguez,West Ham,Tottenham,2024-10-19,False,69.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.6,0.0,1.0,1.6,0.0,74.75,2.0,West Ham,True,Manchester United,,0.39
-Guido Rodríguez,West Ham,Manchester United,2024-10-27,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.4,0.0,1.0,1.8,0.0,76.44,0.0,West Ham,False,Nottingham Forest,,-0.54
-Guido Rodríguez,West Ham,Nottingham Forest,2024-11-02,False,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.0,1.0,1.6,0.0,73.3,3.0,West Ham,True,Everton,,0.61
-Guido Rodríguez,West Ham,Everton,2024-11-09,True,66.0,0.0,0.02,0.0,0.0,3.0,1.0,0.0,3.0,0.0,1.0,1.8,0.0,72.64,,West Ham,False,Newcastle United,,-0.44
-,West Ham,,,,,,,,,,,,,,,,,,,West Ham,True,Arsenal,,-0.32
-,West Ham,,,,,,,,,,,,,,,,,,,West Ham,False,Leicester City,,-0.22
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Guido Rodríguez,West Ham,Aston Villa,2024-08-17,True,84.0,0.0,0.02,0.0,0.0,2.0,1.0,0.0,0.9,0.0,1.0,5566.0,2.0,0.02,84.0,3.0,West Ham,False,Crystal Palace,,0.2
+Guido Rodríguez,West Ham,Crystal Palace,2024-08-24,False,90.0,0.0,0.04,0.0,0.0,3.0,2.0,0.0,1.4,0.0,1.0,7203.0,2.5,0.03,87.0,1.0,West Ham,True,Manchester City,,-1.18
+Guido Rodríguez,West Ham,Manchester City,2024-08-31,True,90.0,0.0,0.01,0.0,0.0,1.0,1.0,0.0,1.2,0.0,1.0,8277.0,2.0,0.02,88.0,1.0,West Ham,False,Fulham,,0.53
+Guido Rodríguez,West Ham,Fulham,2024-09-14,False,69.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,8542.0,1.75,0.02,83.25,1.0,West Ham,True,Chelsea,,0.0
+Guido Rodríguez,West Ham,Chelsea,2024-09-21,True,37.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.6,0.0,1.0,8404.0,1.6,0.01,74.0,2.0,West Ham,False,Brentford,,-0.15
+Guido Rodríguez,West Ham,Brentford,2024-09-28,False,90.0,0.0,0.01,0.0,0.03,2.0,1.0,1.0,3.7,0.0,1.0,8095.0,1.6,0.01,76.67,2.0,West Ham,True,Ipswich Town,,
+Guido Rodríguez,West Ham,Ipswich Town,2024-10-05,True,69.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.5,0.0,1.0,8252.0,1.4,0.0,75.57,2.0,West Ham,False,Tottenham,,-0.3
+Guido Rodríguez,West Ham,Tottenham,2024-10-19,False,69.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.6,0.0,1.0,8260.0,1.6,0.0,74.75,2.0,West Ham,True,Manchester United,,0.39
+Guido Rodríguez,West Ham,Manchester United,2024-10-27,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.4,0.0,1.0,8232.0,1.8,0.0,76.44,0.0,West Ham,False,Nottingham Forest,,-0.54
+Guido Rodríguez,West Ham,Nottingham Forest,2024-11-02,False,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.0,1.0,8419.0,1.6,0.0,73.3,3.0,West Ham,True,Everton,,0.61
+Guido Rodríguez,West Ham,Everton,2024-11-09,True,66.0,0.0,0.02,0.0,0.0,3.0,1.0,0.0,3.0,0.0,1.0,8242.0,1.8,0.0,72.64,,West Ham,False,Newcastle United,,-0.44
+,West Ham,,,,,,,,,,,,,,,,,,,,West Ham,True,Arsenal,,-0.32
+,West Ham,,,,,,,,,,,,,,,,,,,,West Ham,False,Leicester City,,-0.22

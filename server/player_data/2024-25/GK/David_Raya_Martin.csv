@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-David Raya Martin,Arsenal,Wolverhampton,2024-08-17,True,90.0,0.0,0.47,3.0,0.0,8.0,1.0,1.0,0.0,1.0,8.0,0.0,90.0,1.0,3.0,0.5,46.0,22.51,10.0,Arsenal,False,Aston Villa,,0.11
-David Raya Martin,Arsenal,Aston Villa,2024-08-24,False,90.0,0.0,1.28,3.0,0.0,10.0,3.0,1.0,0.0,1.0,9.0,0.0,90.0,1.0,3.0,0.5,46.0,22.51,2.0,Arsenal,True,Brighton,,-0.42
-David Raya Martin,Arsenal,Brighton,2024-08-31,True,90.0,1.0,1.83,3.0,0.0,2.0,0.0,0.0,0.0,1.0,6.67,0.0,90.0,0.67,3.0,0.5,46.0,22.51,9.0,Arsenal,False,Tottenham,,-0.3
-David Raya Martin,Arsenal,Tottenham,2024-09-15,False,90.0,0.0,0.74,5.0,0.0,9.0,2.0,1.0,0.0,1.0,7.25,0.0,90.0,0.75,3.5,0.5,46.0,22.51,4.0,Arsenal,False,Manchester City,,-1.51
-David Raya Martin,Arsenal,Manchester City,2024-09-22,False,90.0,2.0,2.16,9.0,0.0,4.0,0.0,0.0,0.0,1.0,6.6,0.0,90.0,0.6,4.6,0.5,46.0,22.51,1.0,Arsenal,True,Leicester City,,0.47
-David Raya Martin,Arsenal,Leicester City,2024-09-28,True,90.0,2.0,0.32,1.0,0.0,1.0,0.0,0.0,0.0,1.0,5.2,0.0,90.0,0.5,4.0,0.5,46.0,22.51,2.0,Arsenal,True,Southampton,,0.24
-David Raya Martin,Arsenal,Southampton,2024-10-05,True,90.0,1.0,0.65,1.0,0.0,2.0,0.0,0.0,0.0,1.0,3.6,0.0,90.0,0.43,3.57,0.5,46.0,22.51,1.0,Arsenal,False,Bournemouth,,-0.04
-David Raya Martin,Arsenal,Bournemouth,2024-10-19,False,90.0,2.0,1.82,2.0,0.0,1.0,0.0,0.0,0.0,1.0,3.4,0.0,90.0,0.38,3.38,0.5,46.0,22.51,0.0,Arsenal,True,Liverpool,,0.24
-David Raya Martin,Arsenal,Liverpool,2024-10-27,True,90.0,2.0,0.85,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1.6,0.0,90.0,0.33,3.22,0.5,46.0,22.51,3.0,Arsenal,False,Newcastle United,,-0.44
-David Raya Martin,Arsenal,Newcastle United,2024-11-02,False,90.0,1.0,0.53,3.0,0.0,3.0,0.0,0.0,0.0,1.0,1.4,0.0,90.0,0.3,3.2,0.5,46.0,22.51,2.0,Arsenal,False,Chelsea,,-0.9
-David Raya Martin,Arsenal,Chelsea,2024-11-10,False,90.0,1.0,1.28,2.0,0.0,2.0,0.0,0.0,0.0,1.0,1.6,0.0,90.0,0.27,3.09,0.5,46.0,22.51,,Arsenal,True,Nottingham Forest,,1.2
-,Arsenal,,,,,,,,,,,,,,,,,,,,,,,Arsenal,False,West Ham,,-0.34
-,Arsenal,,,,,,,,,,,,,,,,,,,,,,,Arsenal,True,Manchester United,,0.39
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+David Raya Martin,Arsenal,Wolverhampton,2024-08-17,True,90.0,0.0,0.47,3.0,0.0,8.0,1.0,1.0,0.0,1.0,2143198.0,8.0,0.0,90.0,1.0,3.0,0.5,46.0,22.51,10.0,Arsenal,False,Aston Villa,,0.11
+David Raya Martin,Arsenal,Aston Villa,2024-08-24,False,90.0,0.0,1.28,3.0,0.0,10.0,3.0,1.0,0.0,1.0,2377063.0,9.0,0.0,90.0,1.0,3.0,0.5,46.0,22.51,2.0,Arsenal,True,Brighton,,-0.42
+David Raya Martin,Arsenal,Brighton,2024-08-31,True,90.0,1.0,1.83,3.0,0.0,2.0,0.0,0.0,0.0,1.0,2865351.0,6.67,0.0,90.0,0.67,3.0,0.5,46.0,22.51,9.0,Arsenal,False,Tottenham,,-0.3
+David Raya Martin,Arsenal,Tottenham,2024-09-15,False,90.0,0.0,0.74,5.0,0.0,9.0,2.0,1.0,0.0,1.0,2823889.0,7.25,0.0,90.0,0.75,3.5,0.5,46.0,22.51,4.0,Arsenal,False,Manchester City,,-1.51
+David Raya Martin,Arsenal,Manchester City,2024-09-22,False,90.0,2.0,2.16,9.0,0.0,4.0,0.0,0.0,0.0,1.0,2945014.0,6.6,0.0,90.0,0.6,4.6,0.5,46.0,22.51,1.0,Arsenal,True,Leicester City,,0.47
+David Raya Martin,Arsenal,Leicester City,2024-09-28,True,90.0,2.0,0.32,1.0,0.0,1.0,0.0,0.0,0.0,1.0,3172537.0,5.2,0.0,90.0,0.5,4.0,0.5,46.0,22.51,2.0,Arsenal,True,Southampton,,0.24
+David Raya Martin,Arsenal,Southampton,2024-10-05,True,90.0,1.0,0.65,1.0,0.0,2.0,0.0,0.0,0.0,1.0,3344605.0,3.6,0.0,90.0,0.43,3.57,0.5,46.0,22.51,1.0,Arsenal,False,Bournemouth,,-0.04
+David Raya Martin,Arsenal,Bournemouth,2024-10-19,False,90.0,2.0,1.82,2.0,0.0,1.0,0.0,0.0,0.0,1.0,3429779.0,3.4,0.0,90.0,0.38,3.38,0.5,46.0,22.51,0.0,Arsenal,True,Liverpool,,0.24
+David Raya Martin,Arsenal,Liverpool,2024-10-27,True,90.0,2.0,0.85,2.0,0.0,0.0,0.0,0.0,0.0,1.0,3259267.0,1.6,0.0,90.0,0.33,3.22,0.5,46.0,22.51,3.0,Arsenal,False,Newcastle United,,-0.44
+David Raya Martin,Arsenal,Newcastle United,2024-11-02,False,90.0,1.0,0.53,3.0,0.0,3.0,0.0,0.0,0.0,1.0,3200996.0,1.4,0.0,90.0,0.3,3.2,0.5,46.0,22.51,2.0,Arsenal,False,Chelsea,,-0.9
+David Raya Martin,Arsenal,Chelsea,2024-11-10,False,90.0,1.0,1.28,2.0,0.0,2.0,0.0,0.0,0.0,1.0,3095312.0,1.6,0.0,90.0,0.27,3.09,0.5,46.0,22.51,,Arsenal,True,Nottingham Forest,,1.2
+,Arsenal,,,,,,,,,,,,,,,,,,,,,,,,Arsenal,False,West Ham,,-0.34
+,Arsenal,,,,,,,,,,,,,,,,,,,,,,,,Arsenal,True,Manchester United,,0.39

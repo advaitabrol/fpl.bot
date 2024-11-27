@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Diego Carlos Santos Silva,Aston Villa,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.81,0.11,0.32,33.17,0.0,Aston Villa,True,Arsenal,,-0.32
-Diego Carlos Santos Silva,Aston Villa,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.81,0.11,0.32,33.17,0.0,Aston Villa,False,Leicester City,,-0.22
-Diego Carlos Santos Silva,Aston Villa,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.81,0.11,0.32,33.17,0.0,Aston Villa,True,Everton,,0.61
-Diego Carlos Santos Silva,Aston Villa,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.81,0.11,0.32,33.17,2.0,Aston Villa,True,Wolverhampton,,-0.08
-Diego Carlos Santos Silva,Aston Villa,Wolverhampton,2024-09-21,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.2,0.0,0.0,1.0,0.51,1.0,0.4,0.0,18.0,0.0,1.81,0.11,0.32,33.17,1.0,Aston Villa,False,Ipswich Town,,
-Diego Carlos Santos Silva,Aston Villa,Ipswich Town,2024-09-29,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.1,0.0,0.0,2.0,1.18,1.0,0.6,0.0,30.0,0.0,1.81,0.11,0.32,33.17,6.0,Aston Villa,True,Manchester United,,0.39
-Diego Carlos Santos Silva,Aston Villa,Manchester United,2024-10-06,True,78.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,1.6,0.0,1.0,0.0,0.38,0.0,1.8,0.0,36.86,0.33,1.81,0.11,0.32,33.17,2.0,Aston Villa,False,Fulham,,0.53
-Diego Carlos Santos Silva,Aston Villa,Fulham,2024-10-19,False,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.5,0.0,0.0,1.0,1.78,1.0,2.2,0.0,43.5,0.25,1.81,0.11,0.32,33.17,0.0,Aston Villa,True,Bournemouth,,0.84
-Diego Carlos Santos Silva,Aston Villa,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,2.2,0.0,38.67,0.25,1.81,0.11,0.32,33.17,0.0,Aston Villa,False,Tottenham,,-0.3
-Diego Carlos Santos Silva,Aston Villa,Tottenham,2024-11-03,False,30.0,0.0,0.57,0.0,0.0,0.0,1.0,0.0,0.5,0.0,0.0,3.0,1.51,0.0,1.8,0.11,37.8,0.2,1.81,0.11,0.32,33.17,1.0,Aston Villa,False,Liverpool,,-1.08
-Diego Carlos Santos Silva,Aston Villa,Liverpool,2024-11-09,False,90.0,0.0,0.23,0.0,0.0,1.0,1.0,0.0,3.9,0.0,0.0,2.0,2.02,1.0,1.8,0.16,42.55,0.17,1.81,0.11,0.32,33.17,,Aston Villa,True,Crystal Palace,,0.88
-,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,False,Chelsea,,-0.9
-,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,True,Brentford,,0.54
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Diego Carlos Santos Silva,Aston Villa,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,50517.0,0.0,0.0,0.0,0.0,1.81,0.11,0.32,33.17,0.0,Aston Villa,True,Arsenal,,-0.32
+Diego Carlos Santos Silva,Aston Villa,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,54467.0,0.0,0.0,0.0,0.0,1.81,0.11,0.32,33.17,0.0,Aston Villa,False,Leicester City,,-0.22
+Diego Carlos Santos Silva,Aston Villa,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,52558.0,0.0,0.0,0.0,0.0,1.81,0.11,0.32,33.17,0.0,Aston Villa,True,Everton,,0.61
+Diego Carlos Santos Silva,Aston Villa,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,37781.0,0.0,0.0,0.0,0.0,1.81,0.11,0.32,33.17,2.0,Aston Villa,True,Wolverhampton,,-0.08
+Diego Carlos Santos Silva,Aston Villa,Wolverhampton,2024-09-21,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.2,0.0,0.0,1.0,0.51,1.0,39882.0,0.4,0.0,18.0,0.0,1.81,0.11,0.32,33.17,1.0,Aston Villa,False,Ipswich Town,,
+Diego Carlos Santos Silva,Aston Villa,Ipswich Town,2024-09-29,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.1,0.0,0.0,2.0,1.18,1.0,39589.0,0.6,0.0,30.0,0.0,1.81,0.11,0.32,33.17,6.0,Aston Villa,True,Manchester United,,0.39
+Diego Carlos Santos Silva,Aston Villa,Manchester United,2024-10-06,True,78.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,1.6,0.0,1.0,0.0,0.38,0.0,40382.0,1.8,0.0,36.86,0.33,1.81,0.11,0.32,33.17,2.0,Aston Villa,False,Fulham,,0.53
+Diego Carlos Santos Silva,Aston Villa,Fulham,2024-10-19,False,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.5,0.0,0.0,1.0,1.78,1.0,47172.0,2.2,0.0,43.5,0.25,1.81,0.11,0.32,33.17,0.0,Aston Villa,True,Bournemouth,,0.84
+Diego Carlos Santos Silva,Aston Villa,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,50202.0,2.2,0.0,38.67,0.25,1.81,0.11,0.32,33.17,0.0,Aston Villa,False,Tottenham,,-0.3
+Diego Carlos Santos Silva,Aston Villa,Tottenham,2024-11-03,False,30.0,0.0,0.57,0.0,0.0,0.0,1.0,0.0,0.5,0.0,0.0,3.0,1.51,0.0,49777.0,1.8,0.11,37.8,0.2,1.81,0.11,0.32,33.17,1.0,Aston Villa,False,Liverpool,,-1.08
+Diego Carlos Santos Silva,Aston Villa,Liverpool,2024-11-09,False,90.0,0.0,0.23,0.0,0.0,1.0,1.0,0.0,3.9,0.0,0.0,2.0,2.02,1.0,48644.0,1.8,0.16,42.55,0.17,1.81,0.11,0.32,33.17,,Aston Villa,True,Crystal Palace,,0.88
+,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,False,Chelsea,,-0.9
+,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,True,Brentford,,0.54

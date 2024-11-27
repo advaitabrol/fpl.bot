@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Crysencio Summerville,Leeds,Wolverhampton,2022-08-06,True,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,1.0,0.0,5.0,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,False,Southampton,,-1.07
-Crysencio Summerville,Leeds,Southampton,,False,0,,,,,0,,,0.0,0,0,0.5,0.0,2.5,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,True,Chelsea,,-0.25
-Crysencio Summerville,Leeds,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.33,0.0,1.67,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,False,Brighton,,-0.39
-Crysencio Summerville,Leeds,Brighton,,False,0,,,,,0,,,0.0,0,0,0.25,0.0,1.25,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,True,Everton,,0.34
-Crysencio Summerville,Leeds,Everton,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,1.0,0.0,0.0,0.33,0.04,0.05,1.0,Leeds,False,Brentford,,-0.55
-Crysencio Summerville,Leeds,Brentford,2022-09-03,False,31,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0.2,0.0,6.0,0.0,0.0,0.33,0.04,0.05,1.0,Leeds,True,Aston Villa,,0.55
-Crysencio Summerville,Leeds,Aston Villa,2022-10-02,True,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0.4,0.0,6.71,0.0,0.0,0.33,0.04,0.05,1.0,Leeds,False,Crystal Palace,,0.13
-Crysencio Summerville,Leeds,Crystal Palace,2022-10-09,False,28,0.0,0.05,0.0,0.0,1,1.0,0.0,2.8,0,0,0.6,0.01,9.38,0.0,0.0,0.33,0.04,0.05,1.0,Leeds,True,Arsenal,,0.36
-Crysencio Summerville,Leeds,Arsenal,2022-10-16,True,6,0.0,0.1,0.0,0.0,1,1.0,0.0,0.3,0,0,0.8,0.03,9.0,0.0,0.0,0.33,0.04,0.05,2.0,Leeds,False,Leeds United,,-0.8
-Crysencio Summerville,Leeds,Leeds United,2022-10-20,False,90,0.0,0.08,0.0,0.02,2,2.0,1.0,3.8,0,0,1.2,0.05,17.1,0.0,0.0,0.33,0.04,0.05,6.0,Leeds,True,Fulham,,-0.3
-Crysencio Summerville,Leeds,Fulham,2022-10-23,True,26,1.0,0.32,0.0,0.0,6,1.0,0.0,5.6,0,0,2.2,0.11,17.91,0.0,0.0,0.33,0.04,0.05,7.0,Leeds,False,Liverpool,,-1.33
-Crysencio Summerville,Leeds,Liverpool,2022-10-29,False,90,1.0,0.1,0.0,0.0,7,2.0,0.0,6.8,1,0,3.4,0.13,23.92,0.0,0.0,0.33,0.04,0.05,13.0,Leeds,True,Bournemouth,,1.46
-Crysencio Summerville,Leeds,Bournemouth,2022-11-05,True,90,1.0,0.63,0.0,0.22,13,1.0,4.0,11.4,3,0,5.8,0.24,29.0,0.0,0.0,0.33,0.04,0.05,7.0,Leeds,False,Tottenham,,-0.03
-Crysencio Summerville,Leeds,Tottenham,2022-11-12,False,90,1.0,0.78,0.0,0.0,7,3.0,0.0,10.5,0,1,7.0,0.38,33.36,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,True,Manchester City,,-1.17
-Crysencio Summerville,Leeds,Manchester City,,True,0,,,,,0,,,0.0,0,0,6.6,0.36,31.13,0.0,0.0,0.33,0.04,0.05,1.0,Leeds,False,Newcastle United,,-0.34
-Crysencio Summerville,Leeds,Newcastle United,2022-12-31,False,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,5.6,0.3,30.44,0.0,0.0,0.33,0.04,0.05,4.0,Leeds,True,West Ham,,0.63
-Crysencio Summerville,Leeds,West Ham,2023-01-04,True,62,0.0,0.0,1.0,0.35,4,0.0,1.0,3.6,0,1,5.0,0.48,32.29,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,False,Aston Villa,,0.59
-Crysencio Summerville,Leeds,Aston Villa,,False,0,,,,,0,,,0.0,0,0,2.4,0.36,30.5,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,True,Brentford,,0.69
-Crysencio Summerville,Leeds,Brentford,,True,0,,,,,0,,,0.0,0,0,1.0,0.2,28.89,0.0,0.0,0.33,0.04,0.05,1.0,Leeds,False,Nottingham Forest,,
-Crysencio Summerville,Leeds,Nottingham Forest,2023-02-05,False,33,0.0,0.02,0.0,0.06,1,1.0,1.0,2.1,0,0,1.2,0.2,29.1,0.0,0.0,0.33,0.04,0.05,5.0,Leeds,False,Manchester United,,-0.1
-Crysencio Summerville,Leeds,Manchester United,2023-02-08,False,82,0.0,0.08,0.0,0.0,5,1.0,0.0,1.9,0,0,2.0,0.22,31.62,0.0,0.0,0.33,0.04,0.05,2.0,Leeds,True,Manchester United,,0.38
-Crysencio Summerville,Leeds,Manchester United,2023-02-12,True,90,0.0,0.7,0.0,0.0,2,4.0,0.0,6.8,0,1,1.6,0.16,34.27,0.0,0.0,0.33,0.04,0.05,3.0,Leeds,False,Everton,,-0.63
-Crysencio Summerville,Leeds,Everton,2023-02-18,False,60,0.0,0.07,0.0,0.0,3,1.0,0.0,1.1,0,1,2.2,0.17,35.39,0.0,0.0,0.33,0.04,0.05,1.0,Leeds,True,Southampton,,-0.38
-Crysencio Summerville,Leeds,Southampton,2023-02-25,True,29,0.0,0.18,0.0,0.0,1,2.0,0.0,2.4,0,0,2.4,0.21,35.12,0.0,0.0,0.33,0.04,0.05,2.0,Leeds,False,Chelsea,,-0.72
-Crysencio Summerville,Leeds,Chelsea,2023-03-04,False,90,0.0,0.05,0.0,0.0,2,1.0,0.0,1.6,0,1,2.6,0.21,37.32,0.0,0.0,0.33,0.04,0.05,2.0,Leeds,True,Brighton,,-0.71
-Crysencio Summerville,Leeds,Brighton,2023-03-11,True,65,0.0,0.0,0.0,0.02,2,0.0,2.0,3.6,0,1,2.0,0.2,38.38,0.0,0.0,0.33,0.04,0.05,4.0,Leeds,False,Wolverhampton,,-0.46
-Crysencio Summerville,Leeds,Wolverhampton,2023-03-18,False,9,0.0,0.0,1.0,0.33,4,0.0,1.0,3.7,0,0,2.4,0.26,37.3,0.0,0.0,0.33,0.04,0.05,2.0,Leeds,False,Arsenal,,-0.0
-Crysencio Summerville,Leeds,Arsenal,2023-04-01,False,73,0.0,0.11,0.0,0.09,2,2.0,1.0,5.0,0,1,2.2,0.27,38.57,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,True,Nottingham Forest,,
-Crysencio Summerville,Leeds,Nottingham Forest,2023-04-04,True,16,0.0,0.04,0.0,0.0,0,1.0,0.0,0.7,0,0,2.0,0.24,37.79,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,True,Crystal Palace,,0.81
-Crysencio Summerville,Leeds,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,1.6,0.23,36.53,0.0,0.0,0.33,0.04,0.05,1.0,Leeds,True,Liverpool,,-0.53
-Crysencio Summerville,Leeds,Liverpool,2023-04-17,True,24,0.0,0.0,0.0,0.13,1,0.0,2.0,3.4,0,0,1.4,0.23,36.13,0.0,0.0,0.33,0.04,0.05,2.0,Leeds,False,Fulham,,1.37
-Crysencio Summerville,Leeds,Fulham,2023-04-22,False,90,0.0,0.04,0.0,0.14,2,1.0,1.0,2.5,0,1,1.0,0.04,37.81,0.0,0.0,0.33,0.04,0.05,1.0,Leeds,True,Leeds United,,-0.79
-Crysencio Summerville,Leeds,Leeds United,2023-04-25,True,58,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,0.8,0.01,38.42,0.0,0.0,0.33,0.04,0.05,2.0,Leeds,False,Bournemouth,,0.19
-Crysencio Summerville,Leeds,Bournemouth,2023-04-30,False,90,0.0,0.09,0.0,0.05,2,1.0,2.0,4.7,0,1,1.2,0.02,39.94,0.0,0.0,0.33,0.04,0.05,1.0,Leeds,False,Manchester City,,-1.26
-Crysencio Summerville,Leeds,Manchester City,2023-05-06,False,25,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1.4,0.02,39.51,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,True,Newcastle United,,0.73
-Crysencio Summerville,Leeds,Newcastle United,,True,0,,,,,0,,,0.0,0,0,1.2,0.02,38.42,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,False,West Ham,,0.14
-Crysencio Summerville,Leeds,West Ham,2023-05-21,False,28,0.0,0.15,0.0,0.0,0,3.0,0.0,1.4,0,0,0.8,0.05,38.14,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,True,Tottenham,,1.07
-Crysencio Summerville,Leeds,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.6,0.05,37.13,0.0,0.0,0.33,0.04,0.05,,Burnley,True,Aston Villa,,0.55
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Crysencio Summerville,Leeds,Wolverhampton,2022-08-06,True,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,17111,1.0,0.0,5.0,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,False,Southampton,,-1.07
+Crysencio Summerville,Leeds,Southampton,,False,0,,,,,0,,,0.0,0,0,23782,0.5,0.0,2.5,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,True,Chelsea,,-0.25
+Crysencio Summerville,Leeds,Chelsea,,True,0,,,,,0,,,0.0,0,0,23657,0.33,0.0,1.67,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,False,Brighton,,-0.39
+Crysencio Summerville,Leeds,Brighton,,False,0,,,,,0,,,0.0,0,0,21442,0.25,0.0,1.25,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,True,Everton,,0.34
+Crysencio Summerville,Leeds,Everton,,True,0,,,,,0,,,0.0,0,0,19692,0.2,0.0,1.0,0.0,0.0,0.33,0.04,0.05,1.0,Leeds,False,Brentford,,-0.55
+Crysencio Summerville,Leeds,Brentford,2022-09-03,False,31,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,24476,0.2,0.0,6.0,0.0,0.0,0.33,0.04,0.05,1.0,Leeds,True,Aston Villa,,0.55
+Crysencio Summerville,Leeds,Aston Villa,2022-10-02,True,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,24278,0.4,0.0,6.71,0.0,0.0,0.33,0.04,0.05,1.0,Leeds,False,Crystal Palace,,0.13
+Crysencio Summerville,Leeds,Crystal Palace,2022-10-09,False,28,0.0,0.05,0.0,0.0,1,1.0,0.0,2.8,0,0,23781,0.6,0.01,9.38,0.0,0.0,0.33,0.04,0.05,1.0,Leeds,True,Arsenal,,0.36
+Crysencio Summerville,Leeds,Arsenal,2022-10-16,True,6,0.0,0.1,0.0,0.0,1,1.0,0.0,0.3,0,0,23011,0.8,0.03,9.0,0.0,0.0,0.33,0.04,0.05,2.0,Leeds,False,Leeds United,,-0.8
+Crysencio Summerville,Leeds,Leeds United,2022-10-20,False,90,0.0,0.08,0.0,0.02,2,2.0,1.0,3.8,0,0,22117,1.2,0.05,17.1,0.0,0.0,0.33,0.04,0.05,6.0,Leeds,True,Fulham,,-0.3
+Crysencio Summerville,Leeds,Fulham,2022-10-23,True,26,1.0,0.32,0.0,0.0,6,1.0,0.0,5.6,0,0,22412,2.2,0.11,17.91,0.0,0.0,0.33,0.04,0.05,7.0,Leeds,False,Liverpool,,-1.33
+Crysencio Summerville,Leeds,Liverpool,2022-10-29,False,90,1.0,0.1,0.0,0.0,7,2.0,0.0,6.8,1,0,22620,3.4,0.13,23.92,0.0,0.0,0.33,0.04,0.05,13.0,Leeds,True,Bournemouth,,1.46
+Crysencio Summerville,Leeds,Bournemouth,2022-11-05,True,90,1.0,0.63,0.0,0.22,13,1.0,4.0,11.4,3,0,38618,5.8,0.24,29.0,0.0,0.0,0.33,0.04,0.05,7.0,Leeds,False,Tottenham,,-0.03
+Crysencio Summerville,Leeds,Tottenham,2022-11-12,False,90,1.0,0.78,0.0,0.0,7,3.0,0.0,10.5,0,1,77639,7.0,0.38,33.36,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,True,Manchester City,,-1.17
+Crysencio Summerville,Leeds,Manchester City,,True,0,,,,,0,,,0.0,0,0,130250,6.6,0.36,31.13,0.0,0.0,0.33,0.04,0.05,1.0,Leeds,False,Newcastle United,,-0.34
+Crysencio Summerville,Leeds,Newcastle United,2022-12-31,False,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,123868,5.6,0.3,30.44,0.0,0.0,0.33,0.04,0.05,4.0,Leeds,True,West Ham,,0.63
+Crysencio Summerville,Leeds,West Ham,2023-01-04,True,62,0.0,0.0,1.0,0.35,4,0.0,1.0,3.6,0,1,111595,5.0,0.48,32.29,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,False,Aston Villa,,0.59
+Crysencio Summerville,Leeds,Aston Villa,,False,0,,,,,0,,,0.0,0,0,95990,2.4,0.36,30.5,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,True,Brentford,,0.69
+Crysencio Summerville,Leeds,Brentford,,True,0,,,,,0,,,0.0,0,0,72793,1.0,0.2,28.89,0.0,0.0,0.33,0.04,0.05,1.0,Leeds,False,Nottingham Forest,,
+Crysencio Summerville,Leeds,Nottingham Forest,2023-02-05,False,33,0.0,0.02,0.0,0.06,1,1.0,1.0,2.1,0,0,62833,1.2,0.2,29.1,0.0,0.0,0.33,0.04,0.05,5.0,Leeds,False,Manchester United,,-0.1
+Crysencio Summerville,Leeds,Manchester United,2023-02-08,False,82,0.0,0.08,0.0,0.0,5,1.0,0.0,1.9,0,0,62833,2.0,0.22,31.62,0.0,0.0,0.33,0.04,0.05,2.0,Leeds,True,Manchester United,,0.38
+Crysencio Summerville,Leeds,Manchester United,2023-02-12,True,90,0.0,0.7,0.0,0.0,2,4.0,0.0,6.8,0,1,63554,1.6,0.16,34.27,0.0,0.0,0.33,0.04,0.05,3.0,Leeds,False,Everton,,-0.63
+Crysencio Summerville,Leeds,Everton,2023-02-18,False,60,0.0,0.07,0.0,0.0,3,1.0,0.0,1.1,0,1,68544,2.2,0.17,35.39,0.0,0.0,0.33,0.04,0.05,1.0,Leeds,True,Southampton,,-0.38
+Crysencio Summerville,Leeds,Southampton,2023-02-25,True,29,0.0,0.18,0.0,0.0,1,2.0,0.0,2.4,0,0,102958,2.4,0.21,35.12,0.0,0.0,0.33,0.04,0.05,2.0,Leeds,False,Chelsea,,-0.72
+Crysencio Summerville,Leeds,Chelsea,2023-03-04,False,90,0.0,0.05,0.0,0.0,2,1.0,0.0,1.6,0,1,77127,2.6,0.21,37.32,0.0,0.0,0.33,0.04,0.05,2.0,Leeds,True,Brighton,,-0.71
+Crysencio Summerville,Leeds,Brighton,2023-03-11,True,65,0.0,0.0,0.0,0.02,2,0.0,2.0,3.6,0,1,73936,2.0,0.2,38.38,0.0,0.0,0.33,0.04,0.05,4.0,Leeds,False,Wolverhampton,,-0.46
+Crysencio Summerville,Leeds,Wolverhampton,2023-03-18,False,9,0.0,0.0,1.0,0.33,4,0.0,1.0,3.7,0,0,76272,2.4,0.26,37.3,0.0,0.0,0.33,0.04,0.05,2.0,Leeds,False,Arsenal,,-0.0
+Crysencio Summerville,Leeds,Arsenal,2023-04-01,False,73,0.0,0.11,0.0,0.09,2,2.0,1.0,5.0,0,1,70982,2.2,0.27,38.57,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,True,Nottingham Forest,,
+Crysencio Summerville,Leeds,Nottingham Forest,2023-04-04,True,16,0.0,0.04,0.0,0.0,0,1.0,0.0,0.7,0,0,70982,2.0,0.24,37.79,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,True,Crystal Palace,,0.81
+Crysencio Summerville,Leeds,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,70258,1.6,0.23,36.53,0.0,0.0,0.33,0.04,0.05,1.0,Leeds,True,Liverpool,,-0.53
+Crysencio Summerville,Leeds,Liverpool,2023-04-17,True,24,0.0,0.0,0.0,0.13,1,0.0,2.0,3.4,0,0,70475,1.4,0.23,36.13,0.0,0.0,0.33,0.04,0.05,2.0,Leeds,False,Fulham,,1.37
+Crysencio Summerville,Leeds,Fulham,2023-04-22,False,90,0.0,0.04,0.0,0.14,2,1.0,1.0,2.5,0,1,69776,1.0,0.04,37.81,0.0,0.0,0.33,0.04,0.05,1.0,Leeds,True,Leeds United,,-0.79
+Crysencio Summerville,Leeds,Leeds United,2023-04-25,True,58,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,68521,0.8,0.01,38.42,0.0,0.0,0.33,0.04,0.05,2.0,Leeds,False,Bournemouth,,0.19
+Crysencio Summerville,Leeds,Bournemouth,2023-04-30,False,90,0.0,0.09,0.0,0.05,2,1.0,2.0,4.7,0,1,66859,1.2,0.02,39.94,0.0,0.0,0.33,0.04,0.05,1.0,Leeds,False,Manchester City,,-1.26
+Crysencio Summerville,Leeds,Manchester City,2023-05-06,False,25,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,69530,1.4,0.02,39.51,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,True,Newcastle United,,0.73
+Crysencio Summerville,Leeds,Newcastle United,,True,0,,,,,0,,,0.0,0,0,67628,1.2,0.02,38.42,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,False,West Ham,,0.14
+Crysencio Summerville,Leeds,West Ham,2023-05-21,False,28,0.0,0.15,0.0,0.0,0,3.0,0.0,1.4,0,0,66186,0.8,0.05,38.14,0.0,0.0,0.33,0.04,0.05,0.0,Leeds,True,Tottenham,,1.07
+Crysencio Summerville,Leeds,Tottenham,,True,0,,,,,0,,,0.0,0,0,65419,0.6,0.05,37.13,0.0,0.0,0.33,0.04,0.05,,Burnley,True,Aston Villa,,0.55

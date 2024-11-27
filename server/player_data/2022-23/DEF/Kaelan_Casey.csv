@@ -1,17 +1,17 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Kaelan Casey,West Ham,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,West Ham,True,Nottingham Forest,,
-Kaelan Casey,West Ham,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,West Ham,False,Brighton,,-0.39
-Kaelan Casey,West Ham,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,West Ham,True,Aston Villa,,0.55
-Kaelan Casey,West Ham,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,West Ham,True,Southampton,,-0.38
-Kaelan Casey,West Ham,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,West Ham,True,Newcastle United,,0.73
-Kaelan Casey,West Ham,Newcastle United,2023-04-05,True,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,West Ham,False,Fulham,,1.37
-Kaelan Casey,West Ham,Fulham,2023-04-08,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,West Ham,True,Arsenal,,0.36
-Kaelan Casey,West Ham,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,West Ham,False,Bournemouth,,0.19
-Kaelan Casey,West Ham,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,West Ham,True,Liverpool,,-0.53
-Kaelan Casey,West Ham,Liverpool,2023-04-26,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,West Ham,False,Crystal Palace,,0.13
-Kaelan Casey,West Ham,Crystal Palace,2023-04-29,False,0,0.0,0.01,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,West Ham,False,Manchester City,,-1.26
-Kaelan Casey,West Ham,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,West Ham,True,Manchester United,,0.38
-Kaelan Casey,West Ham,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,West Ham,False,Brentford,,-0.55
-Kaelan Casey,West Ham,Brentford,2023-05-14,False,0,0.0,0.06,0.0,0.13,0,1.0,2.0,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,West Ham,True,Leicester City,,0.83
-Kaelan Casey,West Ham,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,West Ham,False,Leeds United,,-0.8
-Kaelan Casey,West Ham,Leeds United,2023-05-28,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,West Ham,True,Brighton,,-0.71
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Kaelan Casey,West Ham,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0,0.0,0.0,0.0,0,0.0,West Ham,True,Nottingham Forest,,
+Kaelan Casey,West Ham,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,929,0.0,0.0,0.0,0,0.0,West Ham,False,Brighton,,-0.39
+Kaelan Casey,West Ham,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,739,0.0,0.0,0.0,0,0.0,West Ham,True,Aston Villa,,0.55
+Kaelan Casey,West Ham,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1034,0.0,0.0,0.0,0,0.0,West Ham,True,Southampton,,-0.38
+Kaelan Casey,West Ham,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1504,0.0,0.0,0.0,0,0.0,West Ham,True,Newcastle United,,0.73
+Kaelan Casey,West Ham,Newcastle United,2023-04-05,True,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,1504,0.0,0.0,0.0,0,0.0,West Ham,False,Fulham,,1.37
+Kaelan Casey,West Ham,Fulham,2023-04-08,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,1674,0.0,0.0,0.0,0,0.0,West Ham,True,Arsenal,,0.36
+Kaelan Casey,West Ham,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1851,0.0,0.0,0.0,0,0.0,West Ham,False,Bournemouth,,0.19
+Kaelan Casey,West Ham,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2168,0.0,0.0,0.0,0,0.0,West Ham,True,Liverpool,,-0.53
+Kaelan Casey,West Ham,Liverpool,2023-04-26,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,2151,0.0,0.0,0.0,0,0.0,West Ham,False,Crystal Palace,,0.13
+Kaelan Casey,West Ham,Crystal Palace,2023-04-29,False,0,0.0,0.01,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,2526,0.0,0.0,0.0,0,0.0,West Ham,False,Manchester City,,-1.26
+Kaelan Casey,West Ham,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2526,0.0,0.0,0.0,0,0.0,West Ham,True,Manchester United,,0.38
+Kaelan Casey,West Ham,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2562,0.0,0.0,0.0,0,0.0,West Ham,False,Brentford,,-0.55
+Kaelan Casey,West Ham,Brentford,2023-05-14,False,0,0.0,0.06,0.0,0.13,0,1.0,2.0,0.0,0,0,0,0.0,0,2743,0.0,0.01,0.0,0,0.0,West Ham,True,Leicester City,,0.83
+Kaelan Casey,West Ham,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3080,0.0,0.01,0.0,0,0.0,West Ham,False,Leeds United,,-0.8
+Kaelan Casey,West Ham,Leeds United,2023-05-28,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,3296,0.0,0.01,0.0,0,0.0,West Ham,True,Brighton,,-0.71

@@ -1,12 +1,12 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Lucas Bergvall,Spurs,Leicester City,2024-08-19,False,12,0.0,0.08,0.0,0.32,1,1.0,1.0,3.6,0,0,1.0,0.08,12.0,1.0,Spurs,True,Everton,,0.61
-Lucas Bergvall,Spurs,Everton,2024-08-24,True,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1.0,0.04,11.5,1.0,Spurs,False,Newcastle United,,-0.44
-Lucas Bergvall,Spurs,Newcastle United,2024-09-01,False,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1.0,0.03,10.33,0.0,Spurs,True,Arsenal,,-0.32
-Lucas Bergvall,Spurs,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.75,0.02,7.75,1.0,Spurs,True,Brentford,,0.54
-Lucas Bergvall,Spurs,Brentford,2024-09-21,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0.8,0.02,6.6,1.0,Spurs,False,Manchester United,,-0.41
-Lucas Bergvall,Spurs,Manchester United,2024-09-29,False,13,0.0,0.05,0.0,0.0,1,1.0,0.0,0.6,0,0,0.8,0.01,7.67,0.0,Spurs,False,Brighton,,-0.61
-Lucas Bergvall,Spurs,Brighton,,False,0,,,,,0,,,0.0,0,0,0.6,0.01,6.57,0.0,Spurs,True,West Ham,,0.48
-Lucas Bergvall,Spurs,West Ham,,True,0,,,,,0,,,0.0,0,0,0.4,0.01,5.75,0.0,Spurs,False,Crystal Palace,,0.2
-Lucas Bergvall,Spurs,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.4,0.01,5.11,0.0,Spurs,True,Aston Villa,,0.66
-Lucas Bergvall,Spurs,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.2,0.01,4.6,0.0,Spurs,True,Ipswich Town,,
-Lucas Bergvall,Spurs,Ipswich Town,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,4.18,,,,,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Lucas Bergvall,Spurs,Leicester City,2024-08-19,False,12,0.0,0.08,0.0,0.32,1,1.0,1.0,3.6,0,0,75912,1.0,0.08,12.0,1.0,Spurs,True,Everton,,0.61
+Lucas Bergvall,Spurs,Everton,2024-08-24,True,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,88305,1.0,0.04,11.5,1.0,Spurs,False,Newcastle United,,-0.44
+Lucas Bergvall,Spurs,Newcastle United,2024-09-01,False,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,93587,1.0,0.03,10.33,0.0,Spurs,True,Arsenal,,-0.32
+Lucas Bergvall,Spurs,Arsenal,,True,0,,,,,0,,,0.0,0,0,106388,0.75,0.02,7.75,1.0,Spurs,True,Brentford,,0.54
+Lucas Bergvall,Spurs,Brentford,2024-09-21,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,105233,0.8,0.02,6.6,1.0,Spurs,False,Manchester United,,-0.41
+Lucas Bergvall,Spurs,Manchester United,2024-09-29,False,13,0.0,0.05,0.0,0.0,1,1.0,0.0,0.6,0,0,97251,0.8,0.01,7.67,0.0,Spurs,False,Brighton,,-0.61
+Lucas Bergvall,Spurs,Brighton,,False,0,,,,,0,,,0.0,0,0,94186,0.6,0.01,6.57,0.0,Spurs,True,West Ham,,0.48
+Lucas Bergvall,Spurs,West Ham,,True,0,,,,,0,,,0.0,0,0,88272,0.4,0.01,5.75,0.0,Spurs,False,Crystal Palace,,0.2
+Lucas Bergvall,Spurs,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,83743,0.4,0.01,5.11,0.0,Spurs,True,Aston Villa,,0.66
+Lucas Bergvall,Spurs,Aston Villa,,True,0,,,,,0,,,0.0,0,0,79718,0.2,0.01,4.6,0.0,Spurs,True,Ipswich Town,,
+Lucas Bergvall,Spurs,Ipswich Town,,True,0,,,,,0,,,0.0,0,0,78228,0.0,0.0,4.18,,,,,,

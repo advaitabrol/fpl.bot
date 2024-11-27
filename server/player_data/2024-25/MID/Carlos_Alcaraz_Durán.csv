@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Carlos Alcaraz Durán,Southampton,Newcastle United,2024-08-17,False,9.0,0.0,0.04,0.0,0.05,1.0,1.0,1.0,4.3,0.0,0.0,1.0,0.04,9.0,0.0,Southampton,True,Nottingham Forest,,1.2
-Carlos Alcaraz Durán,Southampton,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.5,0.02,4.5,0.0,Southampton,False,Brentford,,-0.15
-Carlos Alcaraz Durán,Southampton,Brentford,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.33,0.01,3.0,0.0,Southampton,True,Manchester United,,0.39
-Carlos Alcaraz Durán,Southampton,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.25,0.01,2.25,0.0,Southampton,True,Ipswich Town,,
-Carlos Alcaraz Durán,Southampton,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.2,0.01,1.8,0.0,Southampton,False,Bournemouth,,-0.04
-Carlos Alcaraz Durán,Southampton,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,1.5,0.0,Southampton,False,Arsenal,,-0.56
-Carlos Alcaraz Durán,Southampton,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,1.29,0.0,Southampton,True,Leicester City,,0.47
-Carlos Alcaraz Durán,Southampton,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,1.12,0.0,Southampton,False,Manchester City,,-1.51
-Carlos Alcaraz Durán,Southampton,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Southampton,True,Everton,,0.61
-Carlos Alcaraz Durán,Southampton,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.9,0.0,Southampton,False,Wolverhampton,,-0.53
-Carlos Alcaraz Durán,Southampton,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.82,,Southampton,True,Liverpool,,0.24
-,Southampton,,,,,,,,,,,,,,,,,,,Southampton,False,Brighton,,-0.61
-,Southampton,,,,,,,,,,,,,,,,,,,Southampton,True,Chelsea,,0.0
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Carlos Alcaraz Durán,Southampton,Newcastle United,2024-08-17,False,9.0,0.0,0.04,0.0,0.05,1.0,1.0,1.0,4.3,0.0,0.0,9504.0,1.0,0.04,9.0,0.0,Southampton,True,Nottingham Forest,,1.2
+Carlos Alcaraz Durán,Southampton,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,10045.0,0.5,0.02,4.5,0.0,Southampton,False,Brentford,,-0.15
+Carlos Alcaraz Durán,Southampton,Brentford,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,7659.0,0.33,0.01,3.0,0.0,Southampton,True,Manchester United,,0.39
+Carlos Alcaraz Durán,Southampton,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,4792.0,0.25,0.01,2.25,0.0,Southampton,True,Ipswich Town,,
+Carlos Alcaraz Durán,Southampton,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,4037.0,0.2,0.01,1.8,0.0,Southampton,False,Bournemouth,,-0.04
+Carlos Alcaraz Durán,Southampton,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,3499.0,0.0,0.0,1.5,0.0,Southampton,False,Arsenal,,-0.56
+Carlos Alcaraz Durán,Southampton,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,3136.0,0.0,0.0,1.29,0.0,Southampton,True,Leicester City,,0.47
+Carlos Alcaraz Durán,Southampton,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,2938.0,0.0,0.0,1.12,0.0,Southampton,False,Manchester City,,-1.51
+Carlos Alcaraz Durán,Southampton,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,2823.0,0.0,0.0,1.0,0.0,Southampton,True,Everton,,0.61
+Carlos Alcaraz Durán,Southampton,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,2700.0,0.0,0.0,0.9,0.0,Southampton,False,Wolverhampton,,-0.53
+Carlos Alcaraz Durán,Southampton,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,2641.0,0.0,0.0,0.82,,Southampton,True,Liverpool,,0.24
+,Southampton,,,,,,,,,,,,,,,,,,,,Southampton,False,Brighton,,-0.61
+,Southampton,,,,,,,,,,,,,,,,,,,,Southampton,True,Chelsea,,0.0

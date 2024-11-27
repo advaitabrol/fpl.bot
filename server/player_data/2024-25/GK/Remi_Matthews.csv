@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Remi Matthews,Crystal Palace,Brentford,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,Crystal Palace,True,West Ham,,0.48
-Remi Matthews,Crystal Palace,West Ham,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,Crystal Palace,False,Chelsea,,-0.9
-Remi Matthews,Crystal Palace,Chelsea,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,Crystal Palace,True,Leicester City,,0.47
-Remi Matthews,Crystal Palace,Leicester City,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,Crystal Palace,True,Manchester United,,0.39
-Remi Matthews,Crystal Palace,Manchester United,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,Crystal Palace,False,Everton,,-0.39
-Remi Matthews,Crystal Palace,Everton,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,Crystal Palace,True,Liverpool,,0.24
-Remi Matthews,Crystal Palace,Liverpool,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,Crystal Palace,False,Nottingham Forest,,-0.54
-Remi Matthews,Crystal Palace,Nottingham Forest,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,Crystal Palace,True,Tottenham,,0.74
-Remi Matthews,Crystal Palace,Tottenham,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,Crystal Palace,False,Wolverhampton,,-0.53
-Remi Matthews,Crystal Palace,Wolverhampton,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,Crystal Palace,True,Fulham,,0.27
-Remi Matthews,Crystal Palace,Fulham,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,,Crystal Palace,False,Aston Villa,,0.11
-,Crystal Palace,,,,,,,,,,,,,,,,,,,,,,,Crystal Palace,True,Newcastle United,,0.67
-,Crystal Palace,,,,,,,,,,,,,,,,,,,,,,,Crystal Palace,False,Ipswich Town,,
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Remi Matthews,Crystal Palace,Brentford,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,90762.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,Crystal Palace,True,West Ham,,0.48
+Remi Matthews,Crystal Palace,West Ham,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,97633.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,Crystal Palace,False,Chelsea,,-0.9
+Remi Matthews,Crystal Palace,Chelsea,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,93857.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,Crystal Palace,True,Leicester City,,0.47
+Remi Matthews,Crystal Palace,Leicester City,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,89475.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,Crystal Palace,True,Manchester United,,0.39
+Remi Matthews,Crystal Palace,Manchester United,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,88016.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,Crystal Palace,False,Everton,,-0.39
+Remi Matthews,Crystal Palace,Everton,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,71435.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,Crystal Palace,True,Liverpool,,0.24
+Remi Matthews,Crystal Palace,Liverpool,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,69214.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,Crystal Palace,False,Nottingham Forest,,-0.54
+Remi Matthews,Crystal Palace,Nottingham Forest,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,68680.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,Crystal Palace,True,Tottenham,,0.74
+Remi Matthews,Crystal Palace,Tottenham,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,67663.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,Crystal Palace,False,Wolverhampton,,-0.53
+Remi Matthews,Crystal Palace,Wolverhampton,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,66564.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,Crystal Palace,True,Fulham,,0.27
+Remi Matthews,Crystal Palace,Fulham,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,65617.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.07,,Crystal Palace,False,Aston Villa,,0.11
+,Crystal Palace,,,,,,,,,,,,,,,,,,,,,,,,Crystal Palace,True,Newcastle United,,0.67
+,Crystal Palace,,,,,,,,,,,,,,,,,,,,,,,,Crystal Palace,False,Ipswich Town,,

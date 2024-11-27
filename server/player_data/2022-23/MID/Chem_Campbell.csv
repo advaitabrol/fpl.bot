@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Chem Campbell,Wolves,Leicester City,2022-08-06,False,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1.0,0.0,5.0,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Fulham,,-0.3
-Chem Campbell,Wolves,Fulham,,True,0,,,,,0,,,0.0,0,0,0.5,0.0,2.5,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Tottenham,,-0.03
-Chem Campbell,Wolves,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.33,0.0,1.67,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Newcastle United,,0.73
-Chem Campbell,Wolves,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.25,0.0,1.25,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Bournemouth,,0.19
-Chem Campbell,Wolves,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,1.0,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Southampton,,-0.38
-Chem Campbell,Wolves,Southampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.83,0.0,0.0,0.0,0.0,0.08,1.0,Wolves,True,Manchester City,,-1.17
-Chem Campbell,Wolves,Manchester City,2022-09-17,True,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0.2,0.0,1.29,0.0,0.0,0.0,0.0,0.08,1.0,Wolves,False,West Ham,,0.14
-Chem Campbell,Wolves,West Ham,2022-10-01,False,17,0.0,0.04,0.0,0.0,1,1.0,0.0,1.1,0,0,0.4,0.01,3.25,0.0,0.0,0.0,0.0,0.08,1.0,Wolves,False,Chelsea,,-0.72
-Chem Campbell,Wolves,Chelsea,2022-10-08,False,18,0.0,0.02,0.0,0.0,1,1.0,0.0,0.4,0,0,0.6,0.01,4.89,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Nottingham Forest,,
-Chem Campbell,Wolves,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.6,0.01,4.4,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Crystal Palace,,0.13
-Chem Campbell,Wolves,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.6,0.01,4.0,0.0,0.0,0.0,0.0,0.08,1.0,Wolves,True,Leeds United,,-0.79
-Chem Campbell,Wolves,Leeds United,2022-10-23,True,24,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0.6,0.01,5.67,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Brentford,,-0.55
-Chem Campbell,Wolves,Brentford,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,5.23,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Brighton,,-0.71
-Chem Campbell,Wolves,Brighton,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,4.86,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Arsenal,,0.36
-Chem Campbell,Wolves,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,4.53,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Everton,,-0.63
-Chem Campbell,Wolves,Everton,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,4.25,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Manchester United,,0.38
-Chem Campbell,Wolves,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Aston Villa,,0.59
-Chem Campbell,Wolves,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,3.78,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,West Ham,,0.63
-Chem Campbell,Wolves,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,3.58,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Manchester City,,-1.26
-Chem Campbell,Wolves,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,3.4,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Liverpool,,-0.53
-Chem Campbell,Wolves,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,3.24,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Southampton,,-1.07
-Chem Campbell,Wolves,Southampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,3.09,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Bournemouth,,1.46
-Chem Campbell,Wolves,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.96,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Fulham,,1.37
-Chem Campbell,Wolves,Fulham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,2.83,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Liverpool,,-1.33
-Chem Campbell,Wolves,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,2.72,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Tottenham,,1.07
-Chem Campbell,Wolves,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.62,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Newcastle United,,-0.34
-Chem Campbell,Wolves,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,2.52,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Leicester City,,0.83
-Chem Campbell,Wolves,Leicester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.43,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Nottingham Forest,,
-Chem Campbell,Wolves,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,2.34,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Chelsea,,-0.25
-Chem Campbell,Wolves,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.27,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Brentford,,0.69
-Chem Campbell,Wolves,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.19,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Leeds United,,-0.8
-Chem Campbell,Wolves,Leeds United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,2.12,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Crystal Palace,,0.81
-Chem Campbell,Wolves,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,2.06,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Brighton,,-0.39
-Chem Campbell,Wolves,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Aston Villa,,0.55
-Chem Campbell,Wolves,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.94,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Manchester United,,-0.1
-Chem Campbell,Wolves,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.89,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Everton,,0.34
-Chem Campbell,Wolves,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,1.84,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Arsenal,,-0.0
-Chem Campbell,Wolves,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,1.79,0.0,0.0,0.0,0.0,0.08,,Fulham,False,Everton,,-0.63
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Chem Campbell,Wolves,Leicester City,2022-08-06,False,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,1.0,0.0,5.0,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Fulham,,-0.3
+Chem Campbell,Wolves,Fulham,,True,0,,,,,0,,,0.0,0,0,16292,0.5,0.0,2.5,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Tottenham,,-0.03
+Chem Campbell,Wolves,Tottenham,,False,0,,,,,0,,,0.0,0,0,26382,0.33,0.0,1.67,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Newcastle United,,0.73
+Chem Campbell,Wolves,Newcastle United,,True,0,,,,,0,,,0.0,0,0,23174,0.25,0.0,1.25,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Bournemouth,,0.19
+Chem Campbell,Wolves,Bournemouth,,False,0,,,,,0,,,0.0,0,0,31119,0.2,0.0,1.0,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Southampton,,-0.38
+Chem Campbell,Wolves,Southampton,,True,0,,,,,0,,,0.0,0,0,52428,0.0,0.0,0.83,0.0,0.0,0.0,0.0,0.08,1.0,Wolves,True,Manchester City,,-1.17
+Chem Campbell,Wolves,Manchester City,2022-09-17,True,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,52555,0.2,0.0,1.29,0.0,0.0,0.0,0.0,0.08,1.0,Wolves,False,West Ham,,0.14
+Chem Campbell,Wolves,West Ham,2022-10-01,False,17,0.0,0.04,0.0,0.0,1,1.0,0.0,1.1,0,0,50603,0.4,0.01,3.25,0.0,0.0,0.0,0.0,0.08,1.0,Wolves,False,Chelsea,,-0.72
+Chem Campbell,Wolves,Chelsea,2022-10-08,False,18,0.0,0.02,0.0,0.0,1,1.0,0.0,0.4,0,0,49282,0.6,0.01,4.89,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Nottingham Forest,,
+Chem Campbell,Wolves,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,46901,0.6,0.01,4.4,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Crystal Palace,,0.13
+Chem Campbell,Wolves,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,45047,0.6,0.01,4.0,0.0,0.0,0.0,0.0,0.08,1.0,Wolves,True,Leeds United,,-0.79
+Chem Campbell,Wolves,Leeds United,2022-10-23,True,24,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,44642,0.6,0.01,5.67,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Brentford,,-0.55
+Chem Campbell,Wolves,Brentford,,False,0,,,,,0,,,0.0,0,0,43523,0.4,0.0,5.23,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Brighton,,-0.71
+Chem Campbell,Wolves,Brighton,,True,0,,,,,0,,,0.0,0,0,41607,0.2,0.0,4.86,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Arsenal,,0.36
+Chem Campbell,Wolves,Arsenal,,True,0,,,,,0,,,0.0,0,0,40304,0.2,0.0,4.53,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Everton,,-0.63
+Chem Campbell,Wolves,Everton,,False,0,,,,,0,,,0.0,0,0,38179,0.2,0.0,4.25,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Manchester United,,0.38
+Chem Campbell,Wolves,Manchester United,,True,0,,,,,0,,,0.0,0,0,37698,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Aston Villa,,0.59
+Chem Campbell,Wolves,Aston Villa,,False,0,,,,,0,,,0.0,0,0,37197,0.0,0.0,3.78,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,West Ham,,0.63
+Chem Campbell,Wolves,West Ham,,True,0,,,,,0,,,0.0,0,0,36702,0.0,0.0,3.58,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Manchester City,,-1.26
+Chem Campbell,Wolves,Manchester City,,False,0,,,,,0,,,0.0,0,0,36256,0.0,0.0,3.4,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Liverpool,,-0.53
+Chem Campbell,Wolves,Liverpool,,True,0,,,,,0,,,0.0,0,0,35420,0.0,0.0,3.24,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Southampton,,-1.07
+Chem Campbell,Wolves,Southampton,,False,0,,,,,0,,,0.0,0,0,34760,0.0,0.0,3.09,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Bournemouth,,1.46
+Chem Campbell,Wolves,Bournemouth,,True,0,,,,,0,,,0.0,0,0,34312,0.0,0.0,2.96,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Fulham,,1.37
+Chem Campbell,Wolves,Fulham,,False,0,,,,,0,,,0.0,0,0,33868,0.0,0.0,2.83,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Liverpool,,-1.33
+Chem Campbell,Wolves,Liverpool,,False,0,,,,,0,,,0.0,0,0,33868,0.0,0.0,2.72,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Tottenham,,1.07
+Chem Campbell,Wolves,Tottenham,,True,0,,,,,0,,,0.0,0,0,33588,0.0,0.0,2.62,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Newcastle United,,-0.34
+Chem Campbell,Wolves,Newcastle United,,False,0,,,,,0,,,0.0,0,0,33287,0.0,0.0,2.52,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Leicester City,,0.83
+Chem Campbell,Wolves,Leicester City,,True,0,,,,,0,,,0.0,0,0,33093,0.0,0.0,2.43,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Nottingham Forest,,
+Chem Campbell,Wolves,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,32922,0.0,0.0,2.34,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Chelsea,,-0.25
+Chem Campbell,Wolves,Chelsea,,True,0,,,,,0,,,0.0,0,0,32803,0.0,0.0,2.27,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Brentford,,0.69
+Chem Campbell,Wolves,Brentford,,True,0,,,,,0,,,0.0,0,0,32697,0.0,0.0,2.19,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Leeds United,,-0.8
+Chem Campbell,Wolves,Leeds United,,False,0,,,,,0,,,0.0,0,0,32587,0.0,0.0,2.12,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Crystal Palace,,0.81
+Chem Campbell,Wolves,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,32514,0.0,0.0,2.06,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Brighton,,-0.39
+Chem Campbell,Wolves,Brighton,,False,0,,,,,0,,,0.0,0,0,32432,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Aston Villa,,0.55
+Chem Campbell,Wolves,Aston Villa,,True,0,,,,,0,,,0.0,0,0,32329,0.0,0.0,1.94,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Manchester United,,-0.1
+Chem Campbell,Wolves,Manchester United,,False,0,,,,,0,,,0.0,0,0,32249,0.0,0.0,1.89,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,True,Everton,,0.34
+Chem Campbell,Wolves,Everton,,True,0,,,,,0,,,0.0,0,0,32193,0.0,0.0,1.84,0.0,0.0,0.0,0.0,0.08,0.0,Wolves,False,Arsenal,,-0.0
+Chem Campbell,Wolves,Arsenal,,False,0,,,,,0,,,0.0,0,0,32152,0.0,0.0,1.79,0.0,0.0,0.0,0.0,0.08,,Fulham,False,Everton,,-0.63

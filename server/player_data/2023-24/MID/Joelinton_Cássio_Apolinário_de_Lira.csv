@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Joelinton Cássio Apolinário de Lira,Newcastle,Aston Villa,2023-08-12,True,90,0.0,0.18,0.0,0.0,2,1.0,0.0,2.5,0,1,2.0,0.18,90.0,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,False,Manchester City,,-1.32
-Joelinton Cássio Apolinário de Lira,Newcastle,Manchester City,2023-08-19,False,56,0.0,0.05,0.0,0.1,0,1.0,2.0,3.9,0,1,1.0,0.12,73.0,6.0,1.0,6.25,3.1,0.04,2.0,Newcastle,True,Liverpool,,0.18
-Joelinton Cássio Apolinário de Lira,Newcastle,Liverpool,2023-08-27,True,81,0.0,0.04,0.0,0.23,2,1.0,3.0,7.3,0,1,1.33,0.09,75.67,6.0,1.0,6.25,3.1,0.04,1.0,Newcastle,False,Brighton,,-0.6
-Joelinton Cássio Apolinário de Lira,Newcastle,Brighton,2023-09-02,False,57,0.0,0.08,0.0,0.0,1,1.0,0.0,1.3,0,1,1.25,0.09,71.0,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,True,Brentford,,0.79
-Joelinton Cássio Apolinário de Lira,Newcastle,Brentford,,True,0,,,,,0,,,0.0,0,0,1.0,0.07,56.8,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,False,Sheffield,,-0.61
-Joelinton Cássio Apolinário de Lira,Newcastle,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.6,0.04,47.33,6.0,1.0,6.25,3.1,0.04,1.0,Newcastle,True,Burnley,,0.39
-Joelinton Cássio Apolinário de Lira,Newcastle,Burnley,2023-09-30,True,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.8,0.03,41.14,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,False,West Ham,,-0.22
-Joelinton Cássio Apolinário de Lira,Newcastle,West Ham,,False,0,,,,,0,,,0.0,0,0,0.4,0.02,36.0,6.0,1.0,6.25,3.1,0.04,3.0,Newcastle,True,Crystal Palace,,0.88
-Joelinton Cássio Apolinário de Lira,Newcastle,Crystal Palace,2023-10-21,True,80,0.0,0.0,0.0,0.0,3,0.0,0.0,1.4,0,1,0.8,0.0,40.89,6.0,1.0,6.25,3.1,0.04,2.0,Newcastle,False,Wolverhampton,,-0.52
-Joelinton Cássio Apolinário de Lira,Newcastle,Wolverhampton,2023-10-28,False,90,0.0,0.08,0.0,0.09,2,1.0,3.0,7.3,0,1,1.2,0.02,45.8,6.0,1.0,6.25,3.1,0.04,9.0,Newcastle,True,Arsenal,,-0.11
-Joelinton Cássio Apolinário de Lira,Newcastle,Arsenal,2023-11-04,True,90,0.0,0.18,1.0,0.86,9,2.0,2.0,6.7,3,1,3.0,0.25,49.82,6.0,1.0,6.25,3.1,0.04,2.0,Newcastle,False,Bournemouth,,0.19
-Joelinton Cássio Apolinário de Lira,Newcastle,Bournemouth,2023-11-11,False,90,0.0,0.0,0.0,0.03,2,0.0,1.0,2.3,0,1,3.2,0.25,53.17,6.0,1.0,6.25,3.1,0.04,6.0,Newcastle,True,Chelsea,,-0.25
-Joelinton Cássio Apolinário de Lira,Newcastle,Chelsea,2023-11-25,True,90,1.0,0.87,0.0,0.0,6,3.0,0.0,7.2,0,1,4.4,0.43,56.0,6.0,1.0,6.25,3.1,0.04,2.0,Newcastle,True,Manchester United,,0.38
-Joelinton Cássio Apolinário de Lira,Newcastle,Manchester United,2023-12-02,True,90,0.0,0.08,0.0,0.26,2,1.0,3.0,8.9,0,1,4.2,0.44,58.43,6.0,1.0,6.25,3.1,0.04,2.0,Newcastle,False,Everton,,-0.24
-Joelinton Cássio Apolinário de Lira,Newcastle,Everton,2023-12-07,False,90,0.0,0.0,0.0,0.33,2,0.0,3.0,5.3,0,1,4.2,0.43,60.53,6.0,1.0,6.25,3.1,0.04,6.0,Newcastle,False,Tottenham,,-0.36
-Joelinton Cássio Apolinário de Lira,Newcastle,Tottenham,2023-12-10,False,90,1.0,0.49,0.0,0.02,6,4.0,1.0,9.3,0,1,3.6,0.29,62.38,6.0,1.0,6.25,3.1,0.04,1.0,Newcastle,True,Fulham,,-0.13
-Joelinton Cássio Apolinário de Lira,Newcastle,Fulham,2023-12-16,True,35,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,1,3.4,0.29,60.76,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,False,Luton,,
-Joelinton Cássio Apolinário de Lira,Newcastle,Luton,,False,0,,,,,0,,,0.0,0,0,2.2,0.11,57.39,6.0,1.0,6.25,3.1,0.04,1.0,Newcastle,True,Nottingham Forest,,1.55
-Joelinton Cássio Apolinário de Lira,Newcastle,Nottingham Forest,2023-12-26,True,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,2.0,0.1,55.37,6.0,1.0,6.25,3.1,0.04,1.0,Newcastle,False,Liverpool,,-1.01
-Joelinton Cássio Apolinário de Lira,Newcastle,Liverpool,2024-01-01,False,81,0.0,0.0,0.0,0.0,1,0.0,0.0,2.1,0,1,1.8,0.1,56.65,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,True,Manchester City,,-0.96
-Joelinton Cássio Apolinário de Lira,Newcastle,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.6,0.0,53.95,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,False,Aston Villa,,0.29
-Joelinton Cássio Apolinário de Lira,Newcastle,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,51.5,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,True,Luton,,
-Joelinton Cássio Apolinário de Lira,Newcastle,Luton,,True,0,,,,,0,,,0.0,0,0,0.4,0.0,49.26,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,False,Nottingham Forest,,-0.55
-Joelinton Cássio Apolinário de Lira,Newcastle,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,47.21,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,True,Bournemouth,,1.22
-Joelinton Cássio Apolinário de Lira,Newcastle,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,45.32,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,False,Arsenal,,-0.48
-Joelinton Cássio Apolinário de Lira,Newcastle,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,43.58,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,True,Wolverhampton,,0.05
-Joelinton Cássio Apolinário de Lira,Newcastle,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,41.96,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,False,Chelsea,,-0.85
-Joelinton Cássio Apolinário de Lira,Newcastle,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,40.46,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,True,West Ham,,0.49
-Joelinton Cássio Apolinário de Lira,Newcastle,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,39.07,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,True,Everton,,0.53
-Joelinton Cássio Apolinário de Lira,Newcastle,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,37.77,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,False,Fulham,,0.86
-Joelinton Cássio Apolinário de Lira,Newcastle,Fulham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,36.55,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,True,Tottenham,,0.69
-Joelinton Cássio Apolinário de Lira,Newcastle,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,35.41,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,False,Crystal Palace,,0.38
-Joelinton Cássio Apolinário de Lira,Newcastle,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,34.33,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,True,Sheffield,,0.68
-Joelinton Cássio Apolinário de Lira,Newcastle,Sheffield,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,33.32,6.0,1.0,6.25,3.1,0.04,1.0,Newcastle,False,Burnley,,0.0
-Joelinton Cássio Apolinário de Lira,Newcastle,Burnley,2024-05-04,False,13,0.0,0.0,0.0,0.09,1,0.0,1.0,3.0,0,0,0.2,0.0,32.74,6.0,1.0,6.25,3.1,0.04,1.0,Newcastle,True,Brighton,,-0.66
-Joelinton Cássio Apolinário de Lira,Newcastle,Brighton,2024-05-11,True,22,0.0,0.0,0.0,0.05,1,0.0,1.0,2.5,0,0,0.4,0.0,32.44,6.0,1.0,6.25,3.1,0.04,1.0,Newcastle,False,Manchester United,,-0.63
-Joelinton Cássio Apolinário de Lira,Newcastle,Manchester United,2024-05-15,False,28,0.0,0.11,0.0,0.4,1,3.0,1.0,5.8,0,0,0.6,0.02,32.32,6.0,1.0,6.25,3.1,0.04,1.0,Newcastle,False,Brentford,,-0.53
-Joelinton Cássio Apolinário de Lira,Newcastle,Brentford,2024-05-19,False,80,0.0,0.39,0.0,0.48,1,1.0,2.0,4.2,0,1,0.8,0.1,33.58,6.0,1.0,6.25,3.1,0.04,11.0,Newcastle,True,Southampton,,0.24
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Joelinton Cássio Apolinário de Lira,Newcastle,Aston Villa,2023-08-12,True,90,0.0,0.18,0.0,0.0,2,1.0,0.0,2.5,0,1,95488,2.0,0.18,90.0,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,False,Manchester City,,-1.32
+Joelinton Cássio Apolinário de Lira,Newcastle,Manchester City,2023-08-19,False,56,0.0,0.05,0.0,0.1,0,1.0,2.0,3.9,0,1,97508,1.0,0.12,73.0,6.0,1.0,6.25,3.1,0.04,2.0,Newcastle,True,Liverpool,,0.18
+Joelinton Cássio Apolinário de Lira,Newcastle,Liverpool,2023-08-27,True,81,0.0,0.04,0.0,0.23,2,1.0,3.0,7.3,0,1,72896,1.33,0.09,75.67,6.0,1.0,6.25,3.1,0.04,1.0,Newcastle,False,Brighton,,-0.6
+Joelinton Cássio Apolinário de Lira,Newcastle,Brighton,2023-09-02,False,57,0.0,0.08,0.0,0.0,1,1.0,0.0,1.3,0,1,66501,1.25,0.09,71.0,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,True,Brentford,,0.79
+Joelinton Cássio Apolinário de Lira,Newcastle,Brentford,,True,0,,,,,0,,,0.0,0,0,61488,1.0,0.07,56.8,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,False,Sheffield,,-0.61
+Joelinton Cássio Apolinário de Lira,Newcastle,Sheffield,,False,0,,,,,0,,,0.0,0,0,47696,0.6,0.04,47.33,6.0,1.0,6.25,3.1,0.04,1.0,Newcastle,True,Burnley,,0.39
+Joelinton Cássio Apolinário de Lira,Newcastle,Burnley,2023-09-30,True,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,46998,0.8,0.03,41.14,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,False,West Ham,,-0.22
+Joelinton Cássio Apolinário de Lira,Newcastle,West Ham,,False,0,,,,,0,,,0.0,0,0,42386,0.4,0.02,36.0,6.0,1.0,6.25,3.1,0.04,3.0,Newcastle,True,Crystal Palace,,0.88
+Joelinton Cássio Apolinário de Lira,Newcastle,Crystal Palace,2023-10-21,True,80,0.0,0.0,0.0,0.0,3,0.0,0.0,1.4,0,1,39587,0.8,0.0,40.89,6.0,1.0,6.25,3.1,0.04,2.0,Newcastle,False,Wolverhampton,,-0.52
+Joelinton Cássio Apolinário de Lira,Newcastle,Wolverhampton,2023-10-28,False,90,0.0,0.08,0.0,0.09,2,1.0,3.0,7.3,0,1,40181,1.2,0.02,45.8,6.0,1.0,6.25,3.1,0.04,9.0,Newcastle,True,Arsenal,,-0.11
+Joelinton Cássio Apolinário de Lira,Newcastle,Arsenal,2023-11-04,True,90,0.0,0.18,1.0,0.86,9,2.0,2.0,6.7,3,1,41409,3.0,0.25,49.82,6.0,1.0,6.25,3.1,0.04,2.0,Newcastle,False,Bournemouth,,0.19
+Joelinton Cássio Apolinário de Lira,Newcastle,Bournemouth,2023-11-11,False,90,0.0,0.0,0.0,0.03,2,0.0,1.0,2.3,0,1,54277,3.2,0.25,53.17,6.0,1.0,6.25,3.1,0.04,6.0,Newcastle,True,Chelsea,,-0.25
+Joelinton Cássio Apolinário de Lira,Newcastle,Chelsea,2023-11-25,True,90,1.0,0.87,0.0,0.0,6,3.0,0.0,7.2,0,1,56034,4.4,0.43,56.0,6.0,1.0,6.25,3.1,0.04,2.0,Newcastle,True,Manchester United,,0.38
+Joelinton Cássio Apolinário de Lira,Newcastle,Manchester United,2023-12-02,True,90,0.0,0.08,0.0,0.26,2,1.0,3.0,8.9,0,1,61233,4.2,0.44,58.43,6.0,1.0,6.25,3.1,0.04,2.0,Newcastle,False,Everton,,-0.24
+Joelinton Cássio Apolinário de Lira,Newcastle,Everton,2023-12-07,False,90,0.0,0.0,0.0,0.33,2,0.0,3.0,5.3,0,1,67144,4.2,0.43,60.53,6.0,1.0,6.25,3.1,0.04,6.0,Newcastle,False,Tottenham,,-0.36
+Joelinton Cássio Apolinário de Lira,Newcastle,Tottenham,2023-12-10,False,90,1.0,0.49,0.0,0.02,6,4.0,1.0,9.3,0,1,65782,3.6,0.29,62.38,6.0,1.0,6.25,3.1,0.04,1.0,Newcastle,True,Fulham,,-0.13
+Joelinton Cássio Apolinário de Lira,Newcastle,Fulham,2023-12-16,True,35,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,1,81243,3.4,0.29,60.76,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,False,Luton,,
+Joelinton Cássio Apolinário de Lira,Newcastle,Luton,,False,0,,,,,0,,,0.0,0,0,66876,2.2,0.11,57.39,6.0,1.0,6.25,3.1,0.04,1.0,Newcastle,True,Nottingham Forest,,1.55
+Joelinton Cássio Apolinário de Lira,Newcastle,Nottingham Forest,2023-12-26,True,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,60381,2.0,0.1,55.37,6.0,1.0,6.25,3.1,0.04,1.0,Newcastle,False,Liverpool,,-1.01
+Joelinton Cássio Apolinário de Lira,Newcastle,Liverpool,2024-01-01,False,81,0.0,0.0,0.0,0.0,1,0.0,0.0,2.1,0,1,58116,1.8,0.1,56.65,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,True,Manchester City,,-0.96
+Joelinton Cássio Apolinário de Lira,Newcastle,Manchester City,,True,0,,,,,0,,,0.0,0,0,54490,0.6,0.0,53.95,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,False,Aston Villa,,0.29
+Joelinton Cássio Apolinário de Lira,Newcastle,Aston Villa,,False,0,,,,,0,,,0.0,0,0,48723,0.4,0.0,51.5,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,True,Luton,,
+Joelinton Cássio Apolinário de Lira,Newcastle,Luton,,True,0,,,,,0,,,0.0,0,0,47290,0.4,0.0,49.26,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,False,Nottingham Forest,,-0.55
+Joelinton Cássio Apolinário de Lira,Newcastle,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,45458,0.2,0.0,47.21,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,True,Bournemouth,,1.22
+Joelinton Cássio Apolinário de Lira,Newcastle,Bournemouth,,True,0,,,,,0,,,0.0,0,0,44041,0.0,0.0,45.32,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,False,Arsenal,,-0.48
+Joelinton Cássio Apolinário de Lira,Newcastle,Arsenal,,False,0,,,,,0,,,0.0,0,0,43126,0.0,0.0,43.58,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,True,Wolverhampton,,0.05
+Joelinton Cássio Apolinário de Lira,Newcastle,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,42579,0.0,0.0,41.96,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,False,Chelsea,,-0.85
+Joelinton Cássio Apolinário de Lira,Newcastle,Chelsea,,False,0,,,,,0,,,0.0,0,0,42118,0.0,0.0,40.46,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,True,West Ham,,0.49
+Joelinton Cássio Apolinário de Lira,Newcastle,West Ham,,True,0,,,,,0,,,0.0,0,0,41671,0.0,0.0,39.07,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,True,Everton,,0.53
+Joelinton Cássio Apolinário de Lira,Newcastle,Everton,,True,0,,,,,0,,,0.0,0,0,41536,0.0,0.0,37.77,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,False,Fulham,,0.86
+Joelinton Cássio Apolinário de Lira,Newcastle,Fulham,,False,0,,,,,0,,,0.0,0,0,41329,0.0,0.0,36.55,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,True,Tottenham,,0.69
+Joelinton Cássio Apolinário de Lira,Newcastle,Tottenham,,True,0,,,,,0,,,0.0,0,0,41084,0.0,0.0,35.41,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,False,Crystal Palace,,0.38
+Joelinton Cássio Apolinário de Lira,Newcastle,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,40842,0.0,0.0,34.33,6.0,1.0,6.25,3.1,0.04,0.0,Newcastle,True,Sheffield,,0.68
+Joelinton Cássio Apolinário de Lira,Newcastle,Sheffield,,True,0,,,,,0,,,0.0,0,0,40675,0.0,0.0,33.32,6.0,1.0,6.25,3.1,0.04,1.0,Newcastle,False,Burnley,,0.0
+Joelinton Cássio Apolinário de Lira,Newcastle,Burnley,2024-05-04,False,13,0.0,0.0,0.0,0.09,1,0.0,1.0,3.0,0,0,40576,0.2,0.0,32.74,6.0,1.0,6.25,3.1,0.04,1.0,Newcastle,True,Brighton,,-0.66
+Joelinton Cássio Apolinário de Lira,Newcastle,Brighton,2024-05-11,True,22,0.0,0.0,0.0,0.05,1,0.0,1.0,2.5,0,0,41118,0.4,0.0,32.44,6.0,1.0,6.25,3.1,0.04,1.0,Newcastle,False,Manchester United,,-0.63
+Joelinton Cássio Apolinário de Lira,Newcastle,Manchester United,2024-05-15,False,28,0.0,0.11,0.0,0.4,1,3.0,1.0,5.8,0,0,41118,0.6,0.02,32.32,6.0,1.0,6.25,3.1,0.04,1.0,Newcastle,False,Brentford,,-0.53
+Joelinton Cássio Apolinário de Lira,Newcastle,Brentford,2024-05-19,False,80,0.0,0.39,0.0,0.48,1,1.0,2.0,4.2,0,1,41666,0.8,0.1,33.58,6.0,1.0,6.25,3.1,0.04,11.0,Newcastle,True,Southampton,,0.24

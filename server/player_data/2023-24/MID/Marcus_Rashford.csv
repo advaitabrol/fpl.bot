@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Marcus Rashford,Man Utd,Wolverhampton,2023-08-14,True,87,0.0,0.33,0.0,0.05,3,4.0,1.0,6.9,0,1,3.0,0.33,87.0,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,False,Tottenham,,-0.36
-Marcus Rashford,Man Utd,Tottenham,2023-08-19,False,84,0.0,0.75,0.0,0.16,2,3.0,2.0,5.8,0,1,2.5,0.54,85.5,17.0,5.0,18.76,3.72,0.07,7.0,Man Utd,True,Nottingham Forest,,1.55
-Marcus Rashford,Man Utd,Nottingham Forest,2023-08-26,True,90,0.0,0.11,1.0,0.16,7,2.0,1.0,7.2,0,1,4.0,0.73,87.0,17.0,5.0,18.76,3.72,0.07,7.0,Man Utd,False,Arsenal,,-0.48
-Marcus Rashford,Man Utd,Arsenal,2023-09-03,False,90,1.0,0.67,0.0,0.15,7,5.0,1.0,9.5,0,1,4.75,0.71,87.75,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,True,Brighton,,-0.66
-Marcus Rashford,Man Utd,Brighton,2023-09-16,True,90,0.0,0.56,0.0,0.0,2,9.0,1.0,8.6,0,1,4.2,0.68,88.2,17.0,5.0,18.76,3.72,0.07,3.0,Man Utd,False,Burnley,,0.0
-Marcus Rashford,Man Utd,Burnley,2023-09-23,False,90,0.0,0.26,0.0,0.2,3,3.0,2.0,5.2,0,1,4.2,0.67,88.5,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,True,Crystal Palace,,0.88
-Marcus Rashford,Man Utd,Crystal Palace,2023-09-30,True,76,0.0,0.28,0.0,0.29,2,2.0,1.0,5.5,0,1,4.2,0.58,86.71,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,True,Brentford,,0.79
-Marcus Rashford,Man Utd,Brentford,2023-10-07,True,62,0.0,0.07,0.0,0.0,2,3.0,0.0,3.9,0,1,3.2,0.37,83.62,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,False,Sheffield,,-0.61
-Marcus Rashford,Man Utd,Sheffield,2023-10-21,False,87,0.0,0.36,0.0,0.07,2,2.0,1.0,2.7,0,1,2.2,0.31,84.0,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,True,Manchester City,,-0.96
-Marcus Rashford,Man Utd,Manchester City,2023-10-29,True,85,0.0,0.36,0.0,0.08,2,1.0,2.0,3.9,0,1,2.2,0.27,84.1,17.0,5.0,18.76,3.72,0.07,0.0,Man Utd,False,Fulham,,0.86
-Marcus Rashford,Man Utd,Fulham,,False,0,,,,,0,,,0.0,0,0,1.6,0.22,76.45,17.0,5.0,18.76,3.72,0.07,3.0,Man Utd,True,Luton,,
-Marcus Rashford,Man Utd,Luton,2023-11-11,True,90,0.0,0.55,0.0,0.0,3,2.0,0.0,4.1,0,1,1.8,0.27,77.58,17.0,5.0,18.76,3.72,0.07,8.0,Man Utd,False,Everton,,-0.24
-Marcus Rashford,Man Utd,Everton,2023-11-26,False,90,1.0,0.76,0.0,0.41,8,1.0,2.0,11.0,0,1,3.0,0.41,78.54,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,False,Newcastle United,,-0.41
-Marcus Rashford,Man Utd,Newcastle United,2023-12-02,False,60,0.0,0.0,0.0,0.0,2,0.0,0.0,0.2,0,1,3.0,0.34,77.21,17.0,5.0,18.76,3.72,0.07,1.0,Man Utd,True,Chelsea,,-0.25
-Marcus Rashford,Man Utd,Chelsea,2023-12-06,True,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,2.8,0.26,72.47,17.0,5.0,18.76,3.72,0.07,1.0,Man Utd,True,Bournemouth,,1.22
-Marcus Rashford,Man Utd,Bournemouth,2023-12-09,True,11,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,3.0,0.26,68.62,17.0,5.0,18.76,3.72,0.07,0.0,Man Utd,False,Liverpool,,-1.01
-Marcus Rashford,Man Utd,Liverpool,2023-12-17,False,19,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,0,2.4,0.15,65.71,17.0,5.0,18.76,3.72,0.07,1.0,Man Utd,False,West Ham,,-0.22
-Marcus Rashford,Man Utd,West Ham,2023-12-23,False,33,0.0,0.02,0.0,0.0,1,1.0,0.0,0.6,0,0,1.0,0.0,63.89,17.0,5.0,18.76,3.72,0.07,5.0,Man Utd,True,Aston Villa,,0.64
-Marcus Rashford,Man Utd,Aston Villa,2023-12-26,True,79,0.0,0.23,1.0,0.44,5,3.0,1.0,8.8,0,1,1.6,0.25,64.68,17.0,5.0,18.76,3.72,0.07,7.0,Man Utd,False,Nottingham Forest,,-0.55
-Marcus Rashford,Man Utd,Nottingham Forest,2023-12-30,False,90,1.0,0.07,0.0,0.0,7,1.0,0.0,5.7,0,1,2.8,0.26,65.95,17.0,5.0,18.76,3.72,0.07,7.0,Man Utd,True,Tottenham,,0.69
-Marcus Rashford,Man Utd,Tottenham,2024-01-14,True,87,1.0,0.13,0.0,0.0,7,2.0,0.0,7.6,0,1,4.0,0.29,66.95,17.0,5.0,18.76,3.72,0.07,7.0,Man Utd,False,Wolverhampton,,-0.52
-Marcus Rashford,Man Utd,Wolverhampton,2024-02-01,False,72,1.0,0.05,0.0,0.0,7,1.0,0.0,6.4,0,1,5.4,0.3,67.18,17.0,5.0,18.76,3.72,0.07,3.0,Man Utd,True,West Ham,,0.49
-Marcus Rashford,Man Utd,West Ham,2024-02-04,True,90,0.0,0.11,0.0,0.09,3,2.0,2.0,4.2,0,1,5.8,0.32,68.17,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,False,Aston Villa,,0.29
-Marcus Rashford,Man Utd,Aston Villa,2024-02-11,False,72,0.0,0.46,0.0,0.0,2,3.0,0.0,4.2,0,1,5.2,0.17,68.33,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,False,Luton,,
-Marcus Rashford,Man Utd,Luton,2024-02-18,False,90,0.0,0.22,0.0,0.21,2,3.0,2.0,6.1,0,1,4.2,0.2,69.2,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,True,Fulham,,-0.13
-Marcus Rashford,Man Utd,Fulham,2024-02-24,True,90,0.0,0.07,0.0,0.03,2,2.0,1.0,5.0,0,1,3.2,0.18,70.0,17.0,5.0,18.76,3.72,0.07,7.0,Man Utd,False,Manchester City,,-1.32
-Marcus Rashford,Man Utd,Manchester City,2024-03-03,False,74,1.0,0.15,0.0,0.0,7,2.0,0.0,4.6,0,1,3.2,0.2,70.15,17.0,5.0,18.76,3.72,0.07,8.0,Man Utd,True,Everton,,0.53
-Marcus Rashford,Man Utd,Everton,2024-03-09,True,90,1.0,0.88,0.0,0.0,8,2.0,0.0,6.9,0,1,4.2,0.36,70.86,17.0,5.0,18.76,3.72,0.07,3.0,Man Utd,False,Brentford,,-0.53
-Marcus Rashford,Man Utd,Brentford,2024-03-30,False,79,0.0,0.02,0.0,0.04,3,1.0,2.0,5.4,0,1,4.4,0.27,71.14,17.0,5.0,18.76,3.72,0.07,1.0,Man Utd,False,Chelsea,,-0.85
-Marcus Rashford,Man Utd,Chelsea,2024-04-04,False,24,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,4.2,0.22,69.57,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,True,Liverpool,,0.18
-Marcus Rashford,Man Utd,Liverpool,2024-04-07,True,65,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,1,4.2,0.21,69.42,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,False,Bournemouth,,0.19
-Marcus Rashford,Man Utd,Bournemouth,2024-04-13,False,90,0.0,0.08,0.0,0.03,2,1.0,2.0,4.4,0,1,3.2,0.19,70.06,17.0,5.0,18.76,3.72,0.07,0.0,Man Utd,True,Sheffield,,0.68
-Marcus Rashford,Man Utd,Sheffield,,True,0,,,,,0,,,0.0,0,0,1.6,0.02,67.94,17.0,5.0,18.76,3.72,0.07,0.0,Man Utd,True,Burnley,,0.39
-Marcus Rashford,Man Utd,Burnley,,True,0,,,,,0,,,0.0,0,0,1.0,0.02,65.94,17.0,5.0,18.76,3.72,0.07,0.0,Man Utd,False,Crystal Palace,,0.38
-Marcus Rashford,Man Utd,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.8,0.02,64.06,17.0,5.0,18.76,3.72,0.07,0.0,Man Utd,True,Arsenal,,-0.11
-Marcus Rashford,Man Utd,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.4,0.02,62.28,17.0,5.0,18.76,3.72,0.07,1.0,Man Utd,True,Newcastle United,,0.55
-Marcus Rashford,Man Utd,Newcastle United,2024-05-15,True,7,0.0,0.09,0.0,0.0,1,1.0,0.0,0.8,0,0,0.2,0.02,60.78,17.0,5.0,18.76,3.72,0.07,1.0,Man Utd,False,Brighton,,-0.6
-Marcus Rashford,Man Utd,Brighton,2024-05-19,False,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0.4,0.02,59.58,17.0,5.0,18.76,3.72,0.07,3.0,Man Utd,True,Fulham,,-0.13
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Marcus Rashford,Man Utd,Wolverhampton,2023-08-14,True,87,0.0,0.33,0.0,0.05,3,4.0,1.0,6.9,0,1,4107040,3.0,0.33,87.0,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,False,Tottenham,,-0.36
+Marcus Rashford,Man Utd,Tottenham,2023-08-19,False,84,0.0,0.75,0.0,0.16,2,3.0,2.0,5.8,0,1,4383205,2.5,0.54,85.5,17.0,5.0,18.76,3.72,0.07,7.0,Man Utd,True,Nottingham Forest,,1.55
+Marcus Rashford,Man Utd,Nottingham Forest,2023-08-26,True,90,0.0,0.11,1.0,0.16,7,2.0,1.0,7.2,0,1,3998525,4.0,0.73,87.0,17.0,5.0,18.76,3.72,0.07,7.0,Man Utd,False,Arsenal,,-0.48
+Marcus Rashford,Man Utd,Arsenal,2023-09-03,False,90,1.0,0.67,0.0,0.15,7,5.0,1.0,9.5,0,1,3524760,4.75,0.71,87.75,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,True,Brighton,,-0.66
+Marcus Rashford,Man Utd,Brighton,2023-09-16,True,90,0.0,0.56,0.0,0.0,2,9.0,1.0,8.6,0,1,3373254,4.2,0.68,88.2,17.0,5.0,18.76,3.72,0.07,3.0,Man Utd,False,Burnley,,0.0
+Marcus Rashford,Man Utd,Burnley,2023-09-23,False,90,0.0,0.26,0.0,0.2,3,3.0,2.0,5.2,0,1,3275088,4.2,0.67,88.5,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,True,Crystal Palace,,0.88
+Marcus Rashford,Man Utd,Crystal Palace,2023-09-30,True,76,0.0,0.28,0.0,0.29,2,2.0,1.0,5.5,0,1,2913059,4.2,0.58,86.71,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,True,Brentford,,0.79
+Marcus Rashford,Man Utd,Brentford,2023-10-07,True,62,0.0,0.07,0.0,0.0,2,3.0,0.0,3.9,0,1,2205425,3.2,0.37,83.62,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,False,Sheffield,,-0.61
+Marcus Rashford,Man Utd,Sheffield,2023-10-21,False,87,0.0,0.36,0.0,0.07,2,2.0,1.0,2.7,0,1,2013179,2.2,0.31,84.0,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,True,Manchester City,,-0.96
+Marcus Rashford,Man Utd,Manchester City,2023-10-29,True,85,0.0,0.36,0.0,0.08,2,1.0,2.0,3.9,0,1,1588975,2.2,0.27,84.1,17.0,5.0,18.76,3.72,0.07,0.0,Man Utd,False,Fulham,,0.86
+Marcus Rashford,Man Utd,Fulham,,False,0,,,,,0,,,0.0,0,0,1450257,1.6,0.22,76.45,17.0,5.0,18.76,3.72,0.07,3.0,Man Utd,True,Luton,,
+Marcus Rashford,Man Utd,Luton,2023-11-11,True,90,0.0,0.55,0.0,0.0,3,2.0,0.0,4.1,0,1,1348100,1.8,0.27,77.58,17.0,5.0,18.76,3.72,0.07,8.0,Man Utd,False,Everton,,-0.24
+Marcus Rashford,Man Utd,Everton,2023-11-26,False,90,1.0,0.76,0.0,0.41,8,1.0,2.0,11.0,0,1,1309661,3.0,0.41,78.54,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,False,Newcastle United,,-0.41
+Marcus Rashford,Man Utd,Newcastle United,2023-12-02,False,60,0.0,0.0,0.0,0.0,2,0.0,0.0,0.2,0,1,1280092,3.0,0.34,77.21,17.0,5.0,18.76,3.72,0.07,1.0,Man Utd,True,Chelsea,,-0.25
+Marcus Rashford,Man Utd,Chelsea,2023-12-06,True,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1230686,2.8,0.26,72.47,17.0,5.0,18.76,3.72,0.07,1.0,Man Utd,True,Bournemouth,,1.22
+Marcus Rashford,Man Utd,Bournemouth,2023-12-09,True,11,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,1177665,3.0,0.26,68.62,17.0,5.0,18.76,3.72,0.07,0.0,Man Utd,False,Liverpool,,-1.01
+Marcus Rashford,Man Utd,Liverpool,2023-12-17,False,19,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,0,1132356,2.4,0.15,65.71,17.0,5.0,18.76,3.72,0.07,1.0,Man Utd,False,West Ham,,-0.22
+Marcus Rashford,Man Utd,West Ham,2023-12-23,False,33,0.0,0.02,0.0,0.0,1,1.0,0.0,0.6,0,0,1118644,1.0,0.0,63.89,17.0,5.0,18.76,3.72,0.07,5.0,Man Utd,True,Aston Villa,,0.64
+Marcus Rashford,Man Utd,Aston Villa,2023-12-26,True,79,0.0,0.23,1.0,0.44,5,3.0,1.0,8.8,0,1,1104337,1.6,0.25,64.68,17.0,5.0,18.76,3.72,0.07,7.0,Man Utd,False,Nottingham Forest,,-0.55
+Marcus Rashford,Man Utd,Nottingham Forest,2023-12-30,False,90,1.0,0.07,0.0,0.0,7,1.0,0.0,5.7,0,1,1108752,2.8,0.26,65.95,17.0,5.0,18.76,3.72,0.07,7.0,Man Utd,True,Tottenham,,0.69
+Marcus Rashford,Man Utd,Tottenham,2024-01-14,True,87,1.0,0.13,0.0,0.0,7,2.0,0.0,7.6,0,1,1170405,4.0,0.29,66.95,17.0,5.0,18.76,3.72,0.07,7.0,Man Utd,False,Wolverhampton,,-0.52
+Marcus Rashford,Man Utd,Wolverhampton,2024-02-01,False,72,1.0,0.05,0.0,0.0,7,1.0,0.0,6.4,0,1,1170096,5.4,0.3,67.18,17.0,5.0,18.76,3.72,0.07,3.0,Man Utd,True,West Ham,,0.49
+Marcus Rashford,Man Utd,West Ham,2024-02-04,True,90,0.0,0.11,0.0,0.09,3,2.0,2.0,4.2,0,1,1195976,5.8,0.32,68.17,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,False,Aston Villa,,0.29
+Marcus Rashford,Man Utd,Aston Villa,2024-02-11,False,72,0.0,0.46,0.0,0.0,2,3.0,0.0,4.2,0,1,1179017,5.2,0.17,68.33,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,False,Luton,,
+Marcus Rashford,Man Utd,Luton,2024-02-18,False,90,0.0,0.22,0.0,0.21,2,3.0,2.0,6.1,0,1,1142824,4.2,0.2,69.2,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,True,Fulham,,-0.13
+Marcus Rashford,Man Utd,Fulham,2024-02-24,True,90,0.0,0.07,0.0,0.03,2,2.0,1.0,5.0,0,1,1234574,3.2,0.18,70.0,17.0,5.0,18.76,3.72,0.07,7.0,Man Utd,False,Manchester City,,-1.32
+Marcus Rashford,Man Utd,Manchester City,2024-03-03,False,74,1.0,0.15,0.0,0.0,7,2.0,0.0,4.6,0,1,1141516,3.2,0.2,70.15,17.0,5.0,18.76,3.72,0.07,8.0,Man Utd,True,Everton,,0.53
+Marcus Rashford,Man Utd,Everton,2024-03-09,True,90,1.0,0.88,0.0,0.0,8,2.0,0.0,6.9,0,1,1153702,4.2,0.36,70.86,17.0,5.0,18.76,3.72,0.07,3.0,Man Utd,False,Brentford,,-0.53
+Marcus Rashford,Man Utd,Brentford,2024-03-30,False,79,0.0,0.02,0.0,0.04,3,1.0,2.0,5.4,0,1,1154178,4.4,0.27,71.14,17.0,5.0,18.76,3.72,0.07,1.0,Man Utd,False,Chelsea,,-0.85
+Marcus Rashford,Man Utd,Chelsea,2024-04-04,False,24,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1141964,4.2,0.22,69.57,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,True,Liverpool,,0.18
+Marcus Rashford,Man Utd,Liverpool,2024-04-07,True,65,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,1,1126048,4.2,0.21,69.42,17.0,5.0,18.76,3.72,0.07,2.0,Man Utd,False,Bournemouth,,0.19
+Marcus Rashford,Man Utd,Bournemouth,2024-04-13,False,90,0.0,0.08,0.0,0.03,2,1.0,2.0,4.4,0,1,1100163,3.2,0.19,70.06,17.0,5.0,18.76,3.72,0.07,0.0,Man Utd,True,Sheffield,,0.68
+Marcus Rashford,Man Utd,Sheffield,,True,0,,,,,0,,,0.0,0,0,1092639,1.6,0.02,67.94,17.0,5.0,18.76,3.72,0.07,0.0,Man Utd,True,Burnley,,0.39
+Marcus Rashford,Man Utd,Burnley,,True,0,,,,,0,,,0.0,0,0,1071014,1.0,0.02,65.94,17.0,5.0,18.76,3.72,0.07,0.0,Man Utd,False,Crystal Palace,,0.38
+Marcus Rashford,Man Utd,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,1055664,0.8,0.02,64.06,17.0,5.0,18.76,3.72,0.07,0.0,Man Utd,True,Arsenal,,-0.11
+Marcus Rashford,Man Utd,Arsenal,,True,0,,,,,0,,,0.0,0,0,1043275,0.4,0.02,62.28,17.0,5.0,18.76,3.72,0.07,1.0,Man Utd,True,Newcastle United,,0.55
+Marcus Rashford,Man Utd,Newcastle United,2024-05-15,True,7,0.0,0.09,0.0,0.0,1,1.0,0.0,0.8,0,0,1043275,0.2,0.02,60.78,17.0,5.0,18.76,3.72,0.07,1.0,Man Utd,False,Brighton,,-0.6
+Marcus Rashford,Man Utd,Brighton,2024-05-19,False,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1039988,0.4,0.02,59.58,17.0,5.0,18.76,3.72,0.07,3.0,Man Utd,True,Fulham,,-0.13

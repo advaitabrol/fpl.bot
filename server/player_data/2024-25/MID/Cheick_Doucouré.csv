@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Cheick Doucouré,Crystal Palace,Brentford,,False,6.0,,,,,1.0,,,0.3,0.0,0.0,1.0,0.0,6.0,4.0,1.0,6.85,1.75,0.02,0.0,Crystal Palace,True,West Ham,,0.48
-Cheick Doucouré,Crystal Palace,West Ham,2024-08-24,True,0.0,0.0,0.12,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.5,0.06,3.0,4.0,1.0,6.85,1.75,0.02,4.0,Crystal Palace,False,Chelsea,,-0.9
-Cheick Doucouré,Crystal Palace,Chelsea,,False,40.0,,,,,4.0,,,1.5,0.0,0.0,1.67,0.04,15.33,4.0,1.0,6.85,1.75,0.02,1.0,Crystal Palace,True,Leicester City,,0.47
-Cheick Doucouré,Crystal Palace,Leicester City,,True,45.0,,,,,1.0,,,1.1,0.0,1.0,1.5,0.03,22.75,4.0,1.0,6.85,1.75,0.02,0.0,Crystal Palace,True,Manchester United,,0.39
-Cheick Doucouré,Crystal Palace,Manchester United,2024-09-21,True,0.0,0.0,0.02,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.2,0.03,18.2,4.0,1.0,6.85,1.75,0.02,0.0,Crystal Palace,False,Everton,,-0.39
-Cheick Doucouré,Crystal Palace,Everton,2024-09-28,False,0.0,0.0,0.0,0.0,0.01,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.03,15.17,4.0,1.0,6.85,1.75,0.02,0.0,Crystal Palace,True,Liverpool,,0.24
-Cheick Doucouré,Crystal Palace,Liverpool,2024-10-05,True,0.0,0.0,0.0,0.0,0.06,0.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,13.0,4.0,1.0,6.85,1.75,0.02,0.0,Crystal Palace,False,Nottingham Forest,,-0.54
-Cheick Doucouré,Crystal Palace,Nottingham Forest,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.2,0.0,11.38,4.0,1.0,6.85,1.75,0.02,0.0,Crystal Palace,True,Tottenham,,0.74
-Cheick Doucouré,Crystal Palace,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,10.11,4.0,1.0,6.85,1.75,0.02,1.0,Crystal Palace,False,Wolverhampton,,-0.53
-Cheick Doucouré,Crystal Palace,Wolverhampton,,False,10.0,,,,,1.0,,,0.0,0.0,0.0,0.2,0.0,10.1,4.0,1.0,6.85,1.75,0.02,1.0,Crystal Palace,True,Fulham,,0.27
-Cheick Doucouré,Crystal Palace,Fulham,2024-11-09,True,28.0,0.0,0.13,0.0,0.05,1.0,1.0,2.0,0.2,0.0,0.0,0.4,0.03,11.73,4.0,1.0,6.85,1.75,0.02,,Crystal Palace,False,Aston Villa,,0.11
-,Crystal Palace,,,,,,,,,,,,,,,,,,,,,,,,Crystal Palace,True,Newcastle United,,0.67
-,Crystal Palace,,,,,,,,,,,,,,,,,,,,,,,,Crystal Palace,False,Ipswich Town,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Cheick Doucouré,Crystal Palace,Brentford,,False,6.0,,,,,1.0,,,0.3,0.0,0.0,8122.0,1.0,0.0,6.0,4.0,1.0,6.85,1.75,0.02,0.0,Crystal Palace,True,West Ham,,0.48
+Cheick Doucouré,Crystal Palace,West Ham,2024-08-24,True,0.0,0.0,0.12,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,8765.0,0.5,0.06,3.0,4.0,1.0,6.85,1.75,0.02,4.0,Crystal Palace,False,Chelsea,,-0.9
+Cheick Doucouré,Crystal Palace,Chelsea,,False,40.0,,,,,4.0,,,1.5,0.0,0.0,8205.0,1.67,0.04,15.33,4.0,1.0,6.85,1.75,0.02,1.0,Crystal Palace,True,Leicester City,,0.47
+Cheick Doucouré,Crystal Palace,Leicester City,,True,45.0,,,,,1.0,,,1.1,0.0,1.0,16124.0,1.5,0.03,22.75,4.0,1.0,6.85,1.75,0.02,0.0,Crystal Palace,True,Manchester United,,0.39
+Cheick Doucouré,Crystal Palace,Manchester United,2024-09-21,True,0.0,0.0,0.02,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,12383.0,1.2,0.03,18.2,4.0,1.0,6.85,1.75,0.02,0.0,Crystal Palace,False,Everton,,-0.39
+Cheick Doucouré,Crystal Palace,Everton,2024-09-28,False,0.0,0.0,0.0,0.0,0.01,0.0,0.0,1.0,0.0,0.0,0.0,9053.0,1.0,0.03,15.17,4.0,1.0,6.85,1.75,0.02,0.0,Crystal Palace,True,Liverpool,,0.24
+Cheick Doucouré,Crystal Palace,Liverpool,2024-10-05,True,0.0,0.0,0.0,0.0,0.06,0.0,0.0,3.0,0.0,0.0,0.0,7426.0,1.0,0.0,13.0,4.0,1.0,6.85,1.75,0.02,0.0,Crystal Palace,False,Nottingham Forest,,-0.54
+Cheick Doucouré,Crystal Palace,Nottingham Forest,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,6669.0,0.2,0.0,11.38,4.0,1.0,6.85,1.75,0.02,0.0,Crystal Palace,True,Tottenham,,0.74
+Cheick Doucouré,Crystal Palace,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,6317.0,0.0,0.0,10.11,4.0,1.0,6.85,1.75,0.02,1.0,Crystal Palace,False,Wolverhampton,,-0.53
+Cheick Doucouré,Crystal Palace,Wolverhampton,,False,10.0,,,,,1.0,,,0.0,0.0,0.0,5996.0,0.2,0.0,10.1,4.0,1.0,6.85,1.75,0.02,1.0,Crystal Palace,True,Fulham,,0.27
+Cheick Doucouré,Crystal Palace,Fulham,2024-11-09,True,28.0,0.0,0.13,0.0,0.05,1.0,1.0,2.0,0.2,0.0,0.0,6087.0,0.4,0.03,11.73,4.0,1.0,6.85,1.75,0.02,,Crystal Palace,False,Aston Villa,,0.11
+,Crystal Palace,,,,,,,,,,,,,,,,,,,,,,,,,Crystal Palace,True,Newcastle United,,0.67
+,Crystal Palace,,,,,,,,,,,,,,,,,,,,,,,,,Crystal Palace,False,Ipswich Town,,

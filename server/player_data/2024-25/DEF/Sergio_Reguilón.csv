@@ -1,12 +1,12 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Sergio Reguilón,Spurs,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,0.0,Spurs,True,Everton,,0.61
-Sergio Reguilón,Spurs,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,0.0,Spurs,False,Newcastle United,,-0.44
-Sergio Reguilón,Spurs,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,0.0,Spurs,True,Arsenal,,-0.32
-Sergio Reguilón,Spurs,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,0.0,Spurs,True,Brentford,,0.54
-Sergio Reguilón,Spurs,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,0.0,Spurs,False,Manchester United,,-0.41
-Sergio Reguilón,Spurs,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,0.0,Spurs,False,Brighton,,-0.61
-Sergio Reguilón,Spurs,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,0.0,Spurs,True,West Ham,,0.48
-Sergio Reguilón,Spurs,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,0.0,Spurs,False,Crystal Palace,,0.2
-Sergio Reguilón,Spurs,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,0.0,Spurs,True,Aston Villa,,0.66
-Sergio Reguilón,Spurs,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,0.0,Spurs,True,Ipswich Town,,
-Sergio Reguilón,Spurs,Ipswich Town,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,,,,,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Sergio Reguilón,Spurs,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,27926,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,0.0,Spurs,True,Everton,,0.61
+Sergio Reguilón,Spurs,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,26984,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,0.0,Spurs,False,Newcastle United,,-0.44
+Sergio Reguilón,Spurs,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,23501,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,0.0,Spurs,True,Arsenal,,-0.32
+Sergio Reguilón,Spurs,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,22162,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,0.0,Spurs,True,Brentford,,0.54
+Sergio Reguilón,Spurs,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,21173,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,0.0,Spurs,False,Manchester United,,-0.41
+Sergio Reguilón,Spurs,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,20767,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,0.0,Spurs,False,Brighton,,-0.61
+Sergio Reguilón,Spurs,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,20586,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,0.0,Spurs,True,West Ham,,0.48
+Sergio Reguilón,Spurs,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,20107,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,0.0,Spurs,False,Crystal Palace,,0.2
+Sergio Reguilón,Spurs,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,19608,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,0.0,Spurs,True,Aston Villa,,0.66
+Sergio Reguilón,Spurs,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,19164,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,0.0,Spurs,True,Ipswich Town,,
+Sergio Reguilón,Spurs,Ipswich Town,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,18990,0.0,0.0,0.0,0,1.16,3.62,0.29,30.44,,,,,,

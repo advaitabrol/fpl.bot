@@ -1,12 +1,12 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Sil Swinkels,Aston Villa,Leicester City,2024-08-31,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa,True,Everton,,0.61
-Sil Swinkels,Aston Villa,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa,True,Wolverhampton,,-0.08
-Sil Swinkels,Aston Villa,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa,False,Ipswich Town,,
-Sil Swinkels,Aston Villa,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa,True,Manchester United,,0.39
-Sil Swinkels,Aston Villa,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa,False,Fulham,,0.53
-Sil Swinkels,Aston Villa,Fulham,2024-10-19,False,0.0,0.0,0.6,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.12,0.0,0.0,0.0,Aston Villa,True,Bournemouth,,0.84
-Sil Swinkels,Aston Villa,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.12,0.0,0.0,0.0,Aston Villa,False,Tottenham,,-0.3
-Sil Swinkels,Aston Villa,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.12,0.0,0.0,0.0,Aston Villa,False,Liverpool,,-1.08
-Sil Swinkels,Aston Villa,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.12,0.0,0.0,,Aston Villa,True,Crystal Palace,,0.88
-,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,False,Chelsea,,-0.9
-,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,True,Brentford,,0.54
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Sil Swinkels,Aston Villa,Leicester City,2024-08-31,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa,True,Everton,,0.61
+Sil Swinkels,Aston Villa,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,3799.0,0.0,0.0,0.0,0.0,0.0,Aston Villa,True,Wolverhampton,,-0.08
+Sil Swinkels,Aston Villa,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,4686.0,0.0,0.0,0.0,0.0,0.0,Aston Villa,False,Ipswich Town,,
+Sil Swinkels,Aston Villa,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,5662.0,0.0,0.0,0.0,0.0,0.0,Aston Villa,True,Manchester United,,0.39
+Sil Swinkels,Aston Villa,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,6684.0,0.0,0.0,0.0,0.0,0.0,Aston Villa,False,Fulham,,0.53
+Sil Swinkels,Aston Villa,Fulham,2024-10-19,False,0.0,0.0,0.6,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7122.0,0.0,0.12,0.0,0.0,0.0,Aston Villa,True,Bournemouth,,0.84
+Sil Swinkels,Aston Villa,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,7271.0,0.0,0.12,0.0,0.0,0.0,Aston Villa,False,Tottenham,,-0.3
+Sil Swinkels,Aston Villa,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,7458.0,0.0,0.12,0.0,0.0,0.0,Aston Villa,False,Liverpool,,-1.08
+Sil Swinkels,Aston Villa,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,7561.0,0.0,0.12,0.0,0.0,,Aston Villa,True,Crystal Palace,,0.88
+,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,False,Chelsea,,-0.9
+,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,True,Brentford,,0.54

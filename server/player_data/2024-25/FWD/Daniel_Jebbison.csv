@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Daniel Jebbison,Bournemouth,Nottingham Forest,2024-08-17,False,21.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,1.6,0.0,0.0,1.0,0.0,21.0,0.0,0.0,0.0,0.0,0.05,1.0,Bournemouth,True,Newcastle United,,0.67
-Daniel Jebbison,Bournemouth,Newcastle United,2024-08-25,True,5.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,13.0,0.0,0.0,0.0,0.0,0.05,0.0,Bournemouth,False,Everton,,-0.39
-Daniel Jebbison,Bournemouth,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.67,0.0,8.67,0.0,0.0,0.0,0.0,0.05,0.0,Bournemouth,True,Chelsea,,0.0
-Daniel Jebbison,Bournemouth,Chelsea,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.5,0.0,6.5,0.0,0.0,0.0,0.0,0.05,0.0,Bournemouth,False,Liverpool,,-1.08
-Daniel Jebbison,Bournemouth,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.4,0.0,5.2,0.0,0.0,0.0,0.0,0.05,0.0,Bournemouth,True,Southampton,,0.24
-Daniel Jebbison,Bournemouth,Southampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.2,0.0,4.33,0.0,0.0,0.0,0.0,0.05,0.0,Bournemouth,False,Leicester City,,-0.22
-Daniel Jebbison,Bournemouth,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,3.71,0.0,0.0,0.0,0.0,0.05,0.0,Bournemouth,True,Arsenal,,-0.32
-Daniel Jebbison,Bournemouth,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,3.25,0.0,0.0,0.0,0.0,0.05,0.0,Bournemouth,False,Aston Villa,,0.11
-Daniel Jebbison,Bournemouth,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,2.89,0.0,0.0,0.0,0.0,0.05,0.0,Bournemouth,True,Manchester City,,-1.18
-Daniel Jebbison,Bournemouth,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,2.6,0.0,0.0,0.0,0.0,0.05,0.0,Bournemouth,False,Brentford,,-0.15
-Daniel Jebbison,Bournemouth,Brentford,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,2.36,0.0,0.0,0.0,0.0,0.05,,Bournemouth,True,Brighton,,-0.42
-,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,False,Wolverhampton,,-0.53
-,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,True,Tottenham,,0.74
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Daniel Jebbison,Bournemouth,Nottingham Forest,2024-08-17,False,21.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,1.6,0.0,0.0,123937.0,1.0,0.0,21.0,0.0,0.0,0.0,0.0,0.05,1.0,Bournemouth,True,Newcastle United,,0.67
+Daniel Jebbison,Bournemouth,Newcastle United,2024-08-25,True,5.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,227529.0,1.0,0.0,13.0,0.0,0.0,0.0,0.0,0.05,0.0,Bournemouth,False,Everton,,-0.39
+Daniel Jebbison,Bournemouth,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,455405.0,0.67,0.0,8.67,0.0,0.0,0.0,0.0,0.05,0.0,Bournemouth,True,Chelsea,,0.0
+Daniel Jebbison,Bournemouth,Chelsea,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,320505.0,0.5,0.0,6.5,0.0,0.0,0.0,0.0,0.05,0.0,Bournemouth,False,Liverpool,,-1.08
+Daniel Jebbison,Bournemouth,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,281123.0,0.4,0.0,5.2,0.0,0.0,0.0,0.0,0.05,0.0,Bournemouth,True,Southampton,,0.24
+Daniel Jebbison,Bournemouth,Southampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,239672.0,0.2,0.0,4.33,0.0,0.0,0.0,0.0,0.05,0.0,Bournemouth,False,Leicester City,,-0.22
+Daniel Jebbison,Bournemouth,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,217933.0,0.0,0.0,3.71,0.0,0.0,0.0,0.0,0.05,0.0,Bournemouth,True,Arsenal,,-0.32
+Daniel Jebbison,Bournemouth,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,199582.0,0.0,0.0,3.25,0.0,0.0,0.0,0.0,0.05,0.0,Bournemouth,False,Aston Villa,,0.11
+Daniel Jebbison,Bournemouth,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,183217.0,0.0,0.0,2.89,0.0,0.0,0.0,0.0,0.05,0.0,Bournemouth,True,Manchester City,,-1.18
+Daniel Jebbison,Bournemouth,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,165823.0,0.0,0.0,2.6,0.0,0.0,0.0,0.0,0.05,0.0,Bournemouth,False,Brentford,,-0.15
+Daniel Jebbison,Bournemouth,Brentford,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,151591.0,0.0,0.0,2.36,0.0,0.0,0.0,0.0,0.05,,Bournemouth,True,Brighton,,-0.42
+,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,False,Wolverhampton,,-0.53
+,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,True,Tottenham,,0.74

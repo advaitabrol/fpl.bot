@@ -1,19 +1,19 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Yerson Mosquera,Wolves,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Wolves,True,Manchester United,,0.38
-Yerson Mosquera,Wolves,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Wolves,False,Chelsea,,-0.85
-Yerson Mosquera,Wolves,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Wolves,True,Brentford,,0.79
-Yerson Mosquera,Wolves,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Wolves,False,Tottenham,,-0.36
-Yerson Mosquera,Wolves,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Wolves,True,Sheffield,,0.68
-Yerson Mosquera,Wolves,Sheffield,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Wolves,False,Newcastle United,,-0.41
-Yerson Mosquera,Wolves,Newcastle United,2024-03-02,False,0,0.0,0.0,0.0,0.07,0,0.0,1.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Wolves,True,Fulham,,-0.13
-Yerson Mosquera,Wolves,Fulham,2024-03-09,True,0,0.0,0.03,0.0,0.57,0,2.0,3.0,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,Wolves,False,Aston Villa,,0.29
-Yerson Mosquera,Wolves,Aston Villa,2024-03-30,False,0,0.0,0.03,0.0,0.02,0,2.0,1.0,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,Wolves,False,Burnley,,0.0
-Yerson Mosquera,Wolves,Burnley,2024-04-02,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,Wolves,True,West Ham,,0.49
-Yerson Mosquera,Wolves,West Ham,2024-04-06,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,Wolves,False,Nottingham Forest,,-0.55
-Yerson Mosquera,Wolves,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,Wolves,True,Arsenal,,-0.11
-Yerson Mosquera,Wolves,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,Wolves,True,Bournemouth,,1.22
-Yerson Mosquera,Wolves,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Wolves,True,Luton,,
-Yerson Mosquera,Wolves,Luton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Wolves,False,Manchester City,,-1.32
-Yerson Mosquera,Wolves,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Wolves,True,Crystal Palace,,0.88
-Yerson Mosquera,Wolves,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Wolves,False,Liverpool,,-1.01
-Yerson Mosquera,Wolves,Liverpool,2024-05-19,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,1.0,Wolves,False,Arsenal,,-0.48
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Yerson Mosquera,Wolves,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0,0.0,0.0,0.0,0,0.0,Wolves,True,Manchester United,,0.38
+Yerson Mosquera,Wolves,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,28,0.0,0.0,0.0,0,0.0,Wolves,False,Chelsea,,-0.85
+Yerson Mosquera,Wolves,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,26,0.0,0.0,0.0,0,0.0,Wolves,True,Brentford,,0.79
+Yerson Mosquera,Wolves,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,24,0.0,0.0,0.0,0,0.0,Wolves,False,Tottenham,,-0.36
+Yerson Mosquera,Wolves,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,23,0.0,0.0,0.0,0,0.0,Wolves,True,Sheffield,,0.68
+Yerson Mosquera,Wolves,Sheffield,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,23,0.0,0.0,0.0,0,0.0,Wolves,False,Newcastle United,,-0.41
+Yerson Mosquera,Wolves,Newcastle United,2024-03-02,False,0,0.0,0.0,0.0,0.07,0,0.0,1.0,0.0,0,0,0,0.0,0,22,0.0,0.0,0.0,0,0.0,Wolves,True,Fulham,,-0.13
+Yerson Mosquera,Wolves,Fulham,2024-03-09,True,0,0.0,0.03,0.0,0.57,0,2.0,3.0,0.0,0,0,0,0.0,0,22,0.0,0.01,0.0,0,0.0,Wolves,False,Aston Villa,,0.29
+Yerson Mosquera,Wolves,Aston Villa,2024-03-30,False,0,0.0,0.03,0.0,0.02,0,2.0,1.0,0.0,0,0,0,0.0,0,21,0.0,0.01,0.0,0,0.0,Wolves,False,Burnley,,0.0
+Yerson Mosquera,Wolves,Burnley,2024-04-02,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,21,0.0,0.01,0.0,0,0.0,Wolves,True,West Ham,,0.49
+Yerson Mosquera,Wolves,West Ham,2024-04-06,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,21,0.0,0.01,0.0,0,0.0,Wolves,False,Nottingham Forest,,-0.55
+Yerson Mosquera,Wolves,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,21,0.0,0.01,0.0,0,0.0,Wolves,True,Arsenal,,-0.11
+Yerson Mosquera,Wolves,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,20,0.0,0.01,0.0,0,0.0,Wolves,True,Bournemouth,,1.22
+Yerson Mosquera,Wolves,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,20,0.0,0.0,0.0,0,0.0,Wolves,True,Luton,,
+Yerson Mosquera,Wolves,Luton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,20,0.0,0.0,0.0,0,0.0,Wolves,False,Manchester City,,-1.32
+Yerson Mosquera,Wolves,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,19,0.0,0.0,0.0,0,0.0,Wolves,True,Crystal Palace,,0.88
+Yerson Mosquera,Wolves,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,18,0.0,0.0,0.0,0,0.0,Wolves,False,Liverpool,,-1.01
+Yerson Mosquera,Wolves,Liverpool,2024-05-19,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,17,0.0,0.0,0.0,0,1.0,Wolves,False,Arsenal,,-0.48

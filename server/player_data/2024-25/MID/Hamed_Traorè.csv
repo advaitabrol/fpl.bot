@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Hamed Traorè,Bournemouth,,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,1.16,0.71,0.07,0.0,Bournemouth,True,,,
-Hamed Traorè,Bournemouth,,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,1.16,0.71,0.07,0.0,Bournemouth,False,,,
-Hamed Traorè,Bournemouth,,2024-08-31,False,0.0,1.0,0.34,0.0,0.38,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.11,0.0,1.0,3.0,1.16,0.71,0.07,0.0,Bournemouth,True,,,
-Hamed Traorè,Bournemouth,,2024-09-14,True,0.0,0.0,1.25,0.0,0.13,0.0,4.0,2.0,0.0,0.0,0.0,0.0,0.4,0.0,1.0,3.0,1.16,0.71,0.07,0.0,Bournemouth,False,,,
-Hamed Traorè,Bournemouth,,2024-09-21,False,0.0,0.0,0.12,1.0,0.85,0.0,1.0,4.0,0.0,0.0,0.0,0.0,0.54,0.0,1.0,3.0,1.16,0.71,0.07,0.0,Bournemouth,True,,,
-Hamed Traorè,Bournemouth,,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.54,0.0,1.0,3.0,1.16,0.71,0.07,0.0,Bournemouth,False,,,
-Hamed Traorè,Bournemouth,,2024-10-05,False,0.0,0.0,1.35,0.0,0.1,0.0,3.0,1.0,0.0,0.0,0.0,0.0,0.81,0.0,1.0,3.0,1.16,0.71,0.07,0.0,Bournemouth,True,,,
-Hamed Traorè,Bournemouth,,2024-10-19,True,0.0,0.0,0.0,0.0,0.56,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.74,0.0,1.0,3.0,1.16,0.71,0.07,0.0,Bournemouth,False,,,
-Hamed Traorè,Bournemouth,,2024-10-26,False,0.0,0.0,0.26,0.0,0.13,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.54,0.0,1.0,3.0,1.16,0.71,0.07,0.0,Bournemouth,True,,,
-Hamed Traorè,Bournemouth,,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.32,0.0,1.0,3.0,1.16,0.71,0.07,0.0,Bournemouth,False,,,
-Hamed Traorè,Bournemouth,,2024-11-09,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.32,0.0,1.0,3.0,1.16,0.71,0.07,,Bournemouth,True,Brighton,,-0.42
-,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,False,Wolverhampton,,-0.53
-,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,True,Tottenham,,0.74
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Hamed Traorè,Bournemouth,Nottingham Forest,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,17000.0,0.0,0.0,0.0,1.0,3.0,1.16,0.71,0.07,0.0,Bournemouth,True,Newcastle United,,0.67
+Hamed Traorè,Bournemouth,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,19609.0,0.0,0.0,0.0,1.0,3.0,1.16,0.71,0.07,0.0,Bournemouth,False,Everton,,-0.39
+Hamed Traorè,Bournemouth,Everton,2024-08-31,False,0.0,1.0,0.34,0.0,0.38,0.0,1.0,1.0,0.0,0.0,0.0,17280.0,0.0,0.11,0.0,1.0,3.0,1.16,0.71,0.07,0.0,Bournemouth,True,Chelsea,,0.0
+Hamed Traorè,Bournemouth,Chelsea,2024-09-14,True,0.0,0.0,1.25,0.0,0.13,0.0,4.0,2.0,0.0,0.0,0.0,12360.0,0.0,0.4,0.0,1.0,3.0,1.16,0.71,0.07,0.0,Bournemouth,False,Liverpool,,-1.08
+Hamed Traorè,Bournemouth,Liverpool,2024-09-21,False,0.0,0.0,0.12,1.0,0.85,0.0,1.0,4.0,0.0,0.0,0.0,10962.0,0.0,0.54,0.0,1.0,3.0,1.16,0.71,0.07,0.0,Bournemouth,True,Southampton,,0.24
+Hamed Traorè,Bournemouth,Southampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,9593.0,0.0,0.54,0.0,1.0,3.0,1.16,0.71,0.07,0.0,Bournemouth,False,Leicester City,,-0.22
+Hamed Traorè,Bournemouth,Leicester City,2024-10-05,False,0.0,0.0,1.35,0.0,0.1,0.0,3.0,1.0,0.0,0.0,0.0,8658.0,0.0,0.81,0.0,1.0,3.0,1.16,0.71,0.07,0.0,Bournemouth,True,Arsenal,,-0.32
+Hamed Traorè,Bournemouth,Arsenal,2024-10-19,True,0.0,0.0,0.0,0.0,0.56,0.0,0.0,2.0,0.0,0.0,0.0,8050.0,0.0,0.74,0.0,1.0,3.0,1.16,0.71,0.07,0.0,Bournemouth,False,Aston Villa,,0.11
+Hamed Traorè,Bournemouth,Aston Villa,2024-10-26,False,0.0,0.0,0.26,0.0,0.13,0.0,1.0,2.0,0.0,0.0,0.0,7703.0,0.0,0.54,0.0,1.0,3.0,1.16,0.71,0.07,0.0,Bournemouth,True,Manchester City,,-1.18
+Hamed Traorè,Bournemouth,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,7322.0,0.0,0.32,0.0,1.0,3.0,1.16,0.71,0.07,0.0,Bournemouth,False,Brentford,,-0.15
+Hamed Traorè,Bournemouth,Brentford,2024-11-09,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7045.0,0.0,0.32,0.0,1.0,3.0,1.16,0.71,0.07,,Bournemouth,True,Brighton,,-0.42
+,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,False,Wolverhampton,,-0.53
+,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,True,Tottenham,,0.74

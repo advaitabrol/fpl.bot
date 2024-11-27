@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Emiliano Martínez Romero,Aston Villa,West Ham,2024-08-17,False,90.0,1.0,2.46,3.0,0.0,3.0,0.0,0.0,0.0,1.0,3.0,0.0,90.0,0.0,3.0,0.24,95.0,49.87,1.0,Aston Villa,True,Arsenal,,-0.32
-Emiliano Martínez Romero,Aston Villa,Arsenal,2024-08-24,True,90.0,2.0,0.87,2.0,0.0,1.0,0.0,0.0,0.0,1.0,2.0,0.0,90.0,0.0,2.5,0.24,95.0,49.87,2.0,Aston Villa,False,Leicester City,,-0.22
-Emiliano Martínez Romero,Aston Villa,Leicester City,2024-08-31,False,90.0,1.0,0.45,2.0,0.0,2.0,0.0,0.0,0.0,1.0,2.0,0.0,90.0,0.0,2.33,0.24,95.0,49.87,0.0,Aston Villa,True,Everton,,0.61
-Emiliano Martínez Romero,Aston Villa,Everton,2024-09-14,True,90.0,2.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.5,0.0,90.0,0.0,1.75,0.24,95.0,49.87,3.0,Aston Villa,True,Wolverhampton,,-0.08
-Emiliano Martínez Romero,Aston Villa,Wolverhampton,2024-09-21,True,90.0,1.0,0.51,3.0,0.0,3.0,0.0,0.0,0.0,1.0,1.8,0.0,90.0,0.0,2.0,0.24,95.0,49.87,2.0,Aston Villa,False,Ipswich Town,,
-Emiliano Martínez Romero,Aston Villa,Ipswich Town,2024-09-29,False,90.0,2.0,1.18,3.0,0.0,2.0,0.0,0.0,0.0,1.0,1.6,0.0,90.0,0.0,2.17,0.24,95.0,49.87,9.0,Aston Villa,True,Manchester United,,0.39
-Emiliano Martínez Romero,Aston Villa,Manchester United,2024-10-06,True,90.0,0.0,0.52,4.0,0.0,9.0,2.0,1.0,0.0,1.0,3.2,0.0,90.0,0.14,2.43,0.24,95.0,49.87,8.0,Aston Villa,False,Fulham,,0.53
-Emiliano Martínez Romero,Aston Villa,Fulham,2024-10-19,False,90.0,1.0,1.78,3.0,1.0,8.0,0.0,0.0,0.0,1.0,4.4,0.0,90.0,0.12,2.5,0.24,95.0,49.87,2.0,Aston Villa,True,Bournemouth,,0.84
-Emiliano Martínez Romero,Aston Villa,Bournemouth,2024-10-26,True,90.0,1.0,0.31,2.0,0.0,2.0,0.0,0.0,0.0,1.0,4.8,0.0,90.0,0.11,2.44,0.24,95.0,49.87,0.0,Aston Villa,False,Tottenham,,-0.3
-Emiliano Martínez Romero,Aston Villa,Tottenham,2024-11-03,False,90.0,4.0,2.44,2.0,0.0,0.0,0.0,0.0,0.0,1.0,4.2,0.0,90.0,0.1,2.4,0.24,95.0,49.87,2.0,Aston Villa,False,Liverpool,,-1.08
-Emiliano Martínez Romero,Aston Villa,Liverpool,2024-11-09,False,90.0,2.0,2.02,3.0,0.0,2.0,0.0,0.0,0.0,1.0,4.2,0.0,90.0,0.09,2.45,0.24,95.0,49.87,,Aston Villa,True,Crystal Palace,,0.88
-,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,False,Chelsea,,-0.9
-,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,True,Brentford,,0.54
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Emiliano Martínez Romero,Aston Villa,West Ham,2024-08-17,False,90.0,1.0,2.46,3.0,0.0,3.0,0.0,0.0,0.0,1.0,1108383.0,3.0,0.0,90.0,0.0,3.0,0.24,95.0,49.87,1.0,Aston Villa,True,Arsenal,,-0.32
+Emiliano Martínez Romero,Aston Villa,Arsenal,2024-08-24,True,90.0,2.0,0.87,2.0,0.0,1.0,0.0,0.0,0.0,1.0,1197783.0,2.0,0.0,90.0,0.0,2.5,0.24,95.0,49.87,2.0,Aston Villa,False,Leicester City,,-0.22
+Emiliano Martínez Romero,Aston Villa,Leicester City,2024-08-31,False,90.0,1.0,0.45,2.0,0.0,2.0,0.0,0.0,0.0,1.0,1292696.0,2.0,0.0,90.0,0.0,2.33,0.24,95.0,49.87,0.0,Aston Villa,True,Everton,,0.61
+Emiliano Martínez Romero,Aston Villa,Everton,2024-09-14,True,90.0,2.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1357423.0,1.5,0.0,90.0,0.0,1.75,0.24,95.0,49.87,3.0,Aston Villa,True,Wolverhampton,,-0.08
+Emiliano Martínez Romero,Aston Villa,Wolverhampton,2024-09-21,True,90.0,1.0,0.51,3.0,0.0,3.0,0.0,0.0,0.0,1.0,1382650.0,1.8,0.0,90.0,0.0,2.0,0.24,95.0,49.87,2.0,Aston Villa,False,Ipswich Town,,
+Emiliano Martínez Romero,Aston Villa,Ipswich Town,2024-09-29,False,90.0,2.0,1.18,3.0,0.0,2.0,0.0,0.0,0.0,1.0,1402685.0,1.6,0.0,90.0,0.0,2.17,0.24,95.0,49.87,9.0,Aston Villa,True,Manchester United,,0.39
+Emiliano Martínez Romero,Aston Villa,Manchester United,2024-10-06,True,90.0,0.0,0.52,4.0,0.0,9.0,2.0,1.0,0.0,1.0,1332864.0,3.2,0.0,90.0,0.14,2.43,0.24,95.0,49.87,8.0,Aston Villa,False,Fulham,,0.53
+Emiliano Martínez Romero,Aston Villa,Fulham,2024-10-19,False,90.0,1.0,1.78,3.0,1.0,8.0,0.0,0.0,0.0,1.0,1380557.0,4.4,0.0,90.0,0.12,2.5,0.24,95.0,49.87,2.0,Aston Villa,True,Bournemouth,,0.84
+Emiliano Martínez Romero,Aston Villa,Bournemouth,2024-10-26,True,90.0,1.0,0.31,2.0,0.0,2.0,0.0,0.0,0.0,1.0,1476141.0,4.8,0.0,90.0,0.11,2.44,0.24,95.0,49.87,0.0,Aston Villa,False,Tottenham,,-0.3
+Emiliano Martínez Romero,Aston Villa,Tottenham,2024-11-03,False,90.0,4.0,2.44,2.0,0.0,0.0,0.0,0.0,0.0,1.0,1462663.0,4.2,0.0,90.0,0.1,2.4,0.24,95.0,49.87,2.0,Aston Villa,False,Liverpool,,-1.08
+Emiliano Martínez Romero,Aston Villa,Liverpool,2024-11-09,False,90.0,2.0,2.02,3.0,0.0,2.0,0.0,0.0,0.0,1.0,1405721.0,4.2,0.0,90.0,0.09,2.45,0.24,95.0,49.87,,Aston Villa,True,Crystal Palace,,0.88
+,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,False,Chelsea,,-0.9
+,Aston Villa,,,,,,,,,,,,,,,,,,,,,,,,Aston Villa,True,Brentford,,0.54

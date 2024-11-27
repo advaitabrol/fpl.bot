@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Odsonne Edouard,Crystal Palace,Brentford,2024-08-18,False,45.0,0.0,0.03,0.0,0.02,1.0,1.0,1.0,1.5,0.0,0.0,1.0,0.03,45.0,7.0,0.0,7.84,1.03,0.05,2.0,Crystal Palace,True,West Ham,,0.48
-Odsonne Edouard,Crystal Palace,West Ham,2024-08-24,True,70.0,0.0,0.3,0.0,0.0,2.0,4.0,0.0,3.0,0.0,1.0,1.5,0.16,57.5,7.0,0.0,7.84,1.03,0.05,0.0,Leicester,True,Aston Villa,,0.66
-Odsonne Edouard,Leicester,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1.0,0.11,38.33,7.0,0.0,7.84,1.03,0.05,0.0,Leicester,False,Crystal Palace,,0.2
-Odsonne Edouard,Leicester,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.75,0.08,28.75,7.0,0.0,7.84,1.03,0.05,1.0,Leicester,True,Everton,,0.61
-Odsonne Edouard,Leicester,Everton,2024-09-21,True,7.0,0.0,0.0,0.0,0.08,1.0,0.0,1.0,2.1,0.0,0.0,0.8,0.07,24.4,7.0,0.0,7.84,1.03,0.05,1.0,Leicester,False,Arsenal,,-0.56
-Odsonne Edouard,Leicester,Arsenal,2024-09-28,False,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.8,0.06,20.5,7.0,0.0,7.84,1.03,0.05,1.0,Leicester,True,Bournemouth,,0.84
-Odsonne Edouard,Leicester,Bournemouth,2024-10-05,True,16.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.2,0.0,0.0,0.6,0.0,19.86,7.0,0.0,7.84,1.03,0.05,0.0,Leicester,False,Southampton,,-0.31
-Odsonne Edouard,Leicester,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.6,0.0,17.38,7.0,0.0,7.84,1.03,0.05,0.0,Leicester,True,Nottingham Forest,,1.2
-Odsonne Edouard,Leicester,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.6,0.0,15.44,7.0,0.0,7.84,1.03,0.05,0.0,Leicester,False,Ipswich Town,,
-Odsonne Edouard,Leicester,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.4,0.0,13.9,7.0,0.0,7.84,1.03,0.05,1.0,Leicester,False,Manchester United,,-0.41
-Odsonne Edouard,Leicester,Manchester United,2024-11-10,False,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,0.4,0.0,12.82,7.0,0.0,7.84,1.03,0.05,,Leicester,True,Chelsea,,0.0
-,Leicester,,,,,,,,,,,,,,,,,,,,,,,,Leicester,False,Brentford,,-0.15
-,Leicester,,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,West Ham,,0.48
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Odsonne Edouard,Crystal Palace,Brentford,2024-08-18,False,45.0,0.0,0.03,0.0,0.02,1.0,1.0,1.0,1.5,0.0,0.0,68403.0,1.0,0.03,45.0,7.0,0.0,7.84,1.03,0.05,2.0,Crystal Palace,True,West Ham,,0.48
+Odsonne Edouard,Crystal Palace,West Ham,2024-08-24,True,70.0,0.0,0.3,0.0,0.0,2.0,4.0,0.0,3.0,0.0,1.0,67168.0,1.5,0.16,57.5,7.0,0.0,7.84,1.03,0.05,0.0,Leicester,True,Aston Villa,,0.66
+Odsonne Edouard,Leicester,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,64087.0,1.0,0.11,38.33,7.0,0.0,7.84,1.03,0.05,0.0,Leicester,False,Crystal Palace,,0.2
+Odsonne Edouard,Leicester,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,45640.0,0.75,0.08,28.75,7.0,0.0,7.84,1.03,0.05,1.0,Leicester,True,Everton,,0.61
+Odsonne Edouard,Leicester,Everton,2024-09-21,True,7.0,0.0,0.0,0.0,0.08,1.0,0.0,1.0,2.1,0.0,0.0,41869.0,0.8,0.07,24.4,7.0,0.0,7.84,1.03,0.05,1.0,Leicester,False,Arsenal,,-0.56
+Odsonne Edouard,Leicester,Arsenal,2024-09-28,False,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,37273.0,0.8,0.06,20.5,7.0,0.0,7.84,1.03,0.05,1.0,Leicester,True,Bournemouth,,0.84
+Odsonne Edouard,Leicester,Bournemouth,2024-10-05,True,16.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.2,0.0,0.0,35276.0,0.6,0.0,19.86,7.0,0.0,7.84,1.03,0.05,0.0,Leicester,False,Southampton,,-0.31
+Odsonne Edouard,Leicester,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,33872.0,0.6,0.0,17.38,7.0,0.0,7.84,1.03,0.05,0.0,Leicester,True,Nottingham Forest,,1.2
+Odsonne Edouard,Leicester,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,32375.0,0.6,0.0,15.44,7.0,0.0,7.84,1.03,0.05,0.0,Leicester,False,Ipswich Town,,
+Odsonne Edouard,Leicester,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,30081.0,0.4,0.0,13.9,7.0,0.0,7.84,1.03,0.05,1.0,Leicester,False,Manchester United,,-0.41
+Odsonne Edouard,Leicester,Manchester United,2024-11-10,False,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,28321.0,0.4,0.0,12.82,7.0,0.0,7.84,1.03,0.05,,Leicester,True,Chelsea,,0.0
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,False,Brentford,,-0.15
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,West Ham,,0.48

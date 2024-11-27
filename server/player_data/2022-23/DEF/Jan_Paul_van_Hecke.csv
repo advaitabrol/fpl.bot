@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jan Paul van Hecke,Brighton,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,Brighton,True,Newcastle United,,0.73
-Jan Paul van Hecke,Brighton,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,Brighton,False,West Ham,,0.14
-Jan Paul van Hecke,Brighton,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,1.0,Brighton,True,Leicester City,,0.83
-Jan Paul van Hecke,Brighton,Leicester City,2022-08-27,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,0.25,0.0,0.5,0.0,0.0,Brighton,False,Fulham,,1.37
-Jan Paul van Hecke,Brighton,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,0.4,0.0,0.0,Brighton,True,Leeds United,,-0.79
-Jan Paul van Hecke,Brighton,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,0.33,0.0,0.0,Brighton,False,Liverpool,,-1.33
-Jan Paul van Hecke,Brighton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,0.29,0.0,0.0,Brighton,True,Tottenham,,1.07
-Jan Paul van Hecke,Brighton,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,0.25,0.0,0.0,Brighton,False,Brentford,,-0.55
-Jan Paul van Hecke,Brighton,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.22,0.0,0.0,Brighton,True,Nottingham Forest,,
-Jan Paul van Hecke,Brighton,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.2,0.0,0.0,Brighton,False,Manchester City,,-1.26
-Jan Paul van Hecke,Brighton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.18,0.0,0.0,Brighton,True,Chelsea,,-0.25
-Jan Paul van Hecke,Brighton,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.17,0.0,0.0,Brighton,False,Wolverhampton,,-0.46
-Jan Paul van Hecke,Brighton,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.15,0.0,0.0,Brighton,True,Aston Villa,,0.55
-Jan Paul van Hecke,Brighton,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.14,0.0,0.0,Brighton,False,Southampton,,-1.07
-Jan Paul van Hecke,Brighton,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.13,0.0,0.0,Brighton,True,Arsenal,,0.36
-Jan Paul van Hecke,Brighton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.12,0.0,0.0,Brighton,False,Everton,,-0.63
-Jan Paul van Hecke,Brighton,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.12,0.0,0.0,Brighton,True,Liverpool,,-0.53
-Jan Paul van Hecke,Brighton,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.11,0.0,1.0,Brighton,False,Leeds United,,-0.8
-Jan Paul van Hecke,Brighton,Leeds United,2023-01-21,False,77,0.0,0.55,0.0,0.0,1,2.0,0.0,2.7,0,0,2,1.22,1,0.2,0.11,4.16,0.0,0.0,Brighton,True,Bournemouth,,1.46
-Jan Paul van Hecke,Brighton,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.11,3.95,0.0,0.0,Brighton,False,Crystal Palace,,0.13
-Jan Paul van Hecke,Brighton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.11,3.76,0.0,0.0,Brighton,True,Fulham,,-0.3
-Jan Paul van Hecke,Brighton,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.11,3.59,0.0,0.0,Brighton,True,West Ham,,0.63
-Jan Paul van Hecke,Brighton,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.11,3.43,0.0,1.0,Brighton,False,Leicester City,,-0.05
-Jan Paul van Hecke,Brighton,Leicester City,2023-03-11,False,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,0,0.2,0.0,3.38,0.0,0.0,Brighton,True,Crystal Palace,,0.81
-Jan Paul van Hecke,Brighton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,3.24,0.0,0.0,Brighton,True,Brentford,,0.69
-Jan Paul van Hecke,Brighton,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,3.12,0.0,0.0,Brighton,False,Bournemouth,,0.19
-Jan Paul van Hecke,Brighton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,3.0,0.0,0.0,Brighton,False,Tottenham,,-0.03
-Jan Paul van Hecke,Brighton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,2.89,0.0,1.0,Brighton,False,Chelsea,,-0.72
-Jan Paul van Hecke,Brighton,Chelsea,2023-04-15,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.02,0,0.2,0.0,2.93,0.0,0.0,Brighton,False,Nottingham Forest,,
-Jan Paul van Hecke,Brighton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,2.83,0.0,0.0,Brighton,True,Wolverhampton,,-0.48
-Jan Paul van Hecke,Brighton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,2.74,0.0,0.0,Brighton,True,Manchester United,,0.38
-Jan Paul van Hecke,Brighton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,2.66,0.0,0.0,Brighton,True,Everton,,0.34
-Jan Paul van Hecke,Brighton,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,2.58,0.0,0.0,Brighton,False,Arsenal,,-0.0
-Jan Paul van Hecke,Brighton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,2.5,0.0,-1.0,Brighton,False,Newcastle United,,-0.34
-Jan Paul van Hecke,Brighton,Newcastle United,2023-05-18,False,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,3.9,0,0,4,3.16,1,-0.2,0.0,5.0,0.0,1.0,Brighton,True,Southampton,,-0.38
-Jan Paul van Hecke,Brighton,Southampton,2023-05-21,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,4.89,0.0,1.0,Brighton,True,Manchester City,,-1.17
-Jan Paul van Hecke,Brighton,Manchester City,2023-05-24,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,1,1.78,1,0.2,0.0,7.19,0.0,1.0,Brighton,False,Aston Villa,,0.59
-Jan Paul van Hecke,Brighton,Aston Villa,2023-05-28,False,25,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.52,0,0.4,0.0,7.66,0.0,2.0,Brighton,True,Luton,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jan Paul van Hecke,Brighton,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,13447,0.0,0.0,0.0,0.0,0.0,Brighton,True,Newcastle United,,0.73
+Jan Paul van Hecke,Brighton,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,24072,0.0,0.0,0.0,0.0,0.0,Brighton,False,West Ham,,0.14
+Jan Paul van Hecke,Brighton,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,29179,0.0,0.0,0.0,0.0,1.0,Brighton,True,Leicester City,,0.83
+Jan Paul van Hecke,Brighton,Leicester City,2022-08-27,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,31901,0.25,0.0,0.5,0.0,0.0,Brighton,False,Fulham,,1.37
+Jan Paul van Hecke,Brighton,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,34473,0.2,0.0,0.4,0.0,0.0,Brighton,True,Leeds United,,-0.79
+Jan Paul van Hecke,Brighton,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,34989,0.2,0.0,0.33,0.0,0.0,Brighton,False,Liverpool,,-1.33
+Jan Paul van Hecke,Brighton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,35694,0.2,0.0,0.29,0.0,0.0,Brighton,True,Tottenham,,1.07
+Jan Paul van Hecke,Brighton,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,36302,0.2,0.0,0.25,0.0,0.0,Brighton,False,Brentford,,-0.55
+Jan Paul van Hecke,Brighton,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,36152,0.0,0.0,0.22,0.0,0.0,Brighton,True,Nottingham Forest,,
+Jan Paul van Hecke,Brighton,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,34198,0.0,0.0,0.2,0.0,0.0,Brighton,False,Manchester City,,-1.26
+Jan Paul van Hecke,Brighton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,34837,0.0,0.0,0.18,0.0,0.0,Brighton,True,Chelsea,,-0.25
+Jan Paul van Hecke,Brighton,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,34557,0.0,0.0,0.17,0.0,0.0,Brighton,False,Wolverhampton,,-0.46
+Jan Paul van Hecke,Brighton,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,34100,0.0,0.0,0.15,0.0,0.0,Brighton,True,Aston Villa,,0.55
+Jan Paul van Hecke,Brighton,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,34003,0.0,0.0,0.14,0.0,0.0,Brighton,False,Southampton,,-1.07
+Jan Paul van Hecke,Brighton,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,33067,0.0,0.0,0.13,0.0,0.0,Brighton,True,Arsenal,,0.36
+Jan Paul van Hecke,Brighton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,32946,0.0,0.0,0.12,0.0,0.0,Brighton,False,Everton,,-0.63
+Jan Paul van Hecke,Brighton,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,32803,0.0,0.0,0.12,0.0,0.0,Brighton,True,Liverpool,,-0.53
+Jan Paul van Hecke,Brighton,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,32759,0.0,0.0,0.11,0.0,1.0,Brighton,False,Leeds United,,-0.8
+Jan Paul van Hecke,Brighton,Leeds United,2023-01-21,False,77,0.0,0.55,0.0,0.0,1,2.0,0.0,2.7,0,0,2,1.22,1,32688,0.2,0.11,4.16,0.0,0.0,Brighton,True,Bournemouth,,1.46
+Jan Paul van Hecke,Brighton,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,33027,0.2,0.11,3.95,0.0,0.0,Brighton,False,Crystal Palace,,0.13
+Jan Paul van Hecke,Brighton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,32963,0.2,0.11,3.76,0.0,0.0,Brighton,True,Fulham,,-0.3
+Jan Paul van Hecke,Brighton,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,32864,0.2,0.11,3.59,0.0,0.0,Brighton,True,West Ham,,0.63
+Jan Paul van Hecke,Brighton,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,32620,0.2,0.11,3.43,0.0,1.0,Brighton,False,Leicester City,,-0.05
+Jan Paul van Hecke,Brighton,Leicester City,2023-03-11,False,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,0,32549,0.2,0.0,3.38,0.0,0.0,Brighton,True,Crystal Palace,,0.81
+Jan Paul van Hecke,Brighton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,32549,0.2,0.0,3.24,0.0,0.0,Brighton,True,Brentford,,0.69
+Jan Paul van Hecke,Brighton,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,32526,0.2,0.0,3.12,0.0,0.0,Brighton,False,Bournemouth,,0.19
+Jan Paul van Hecke,Brighton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,32526,0.2,0.0,3.0,0.0,0.0,Brighton,False,Tottenham,,-0.03
+Jan Paul van Hecke,Brighton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,32478,0.2,0.0,2.89,0.0,1.0,Brighton,False,Chelsea,,-0.72
+Jan Paul van Hecke,Brighton,Chelsea,2023-04-15,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.02,0,32486,0.2,0.0,2.93,0.0,0.0,Brighton,False,Nottingham Forest,,
+Jan Paul van Hecke,Brighton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,32678,0.2,0.0,2.83,0.0,0.0,Brighton,True,Wolverhampton,,-0.48
+Jan Paul van Hecke,Brighton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,32943,0.2,0.0,2.74,0.0,0.0,Brighton,True,Manchester United,,0.38
+Jan Paul van Hecke,Brighton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,32943,0.2,0.0,2.66,0.0,0.0,Brighton,True,Everton,,0.34
+Jan Paul van Hecke,Brighton,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,32961,0.2,0.0,2.58,0.0,0.0,Brighton,False,Arsenal,,-0.0
+Jan Paul van Hecke,Brighton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,33115,0.0,0.0,2.5,0.0,-1.0,Brighton,False,Newcastle United,,-0.34
+Jan Paul van Hecke,Brighton,Newcastle United,2023-05-18,False,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,3.9,0,0,4,3.16,1,33115,-0.2,0.0,5.0,0.0,1.0,Brighton,True,Southampton,,-0.38
+Jan Paul van Hecke,Brighton,Southampton,2023-05-21,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,33482,0.0,0.0,4.89,0.0,1.0,Brighton,True,Manchester City,,-1.17
+Jan Paul van Hecke,Brighton,Manchester City,2023-05-24,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,1,1.78,1,33482,0.2,0.0,7.19,0.0,1.0,Brighton,False,Aston Villa,,0.59
+Jan Paul van Hecke,Brighton,Aston Villa,2023-05-28,False,25,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.52,0,33986,0.4,0.0,7.66,0.0,2.0,Brighton,True,Luton,,

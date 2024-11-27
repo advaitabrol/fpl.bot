@@ -2,17 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import { useTeamColors } from '../../hooks/useTeamColors';
 import PlayerIcon from '../../ui/PlayerIcon';
-
-interface PlayerProps {
-  player: {
-    name: string;
-    team: string;
-    price: number;
-    expected_points: number[];
-    isCaptain: boolean[];
-  };
-  weekIndex?: number; // Optional prop to specify a specific week
-}
+import { PlayerWeek } from '../../services/interfaces';
 
 const PlayerWrapper = styled.div`
   display: flex;
@@ -79,7 +69,7 @@ const WeekPoints = styled.div`
     padding-top: 0.1rem;
   }
 `;
-const Player: React.FC<PlayerProps> = ({ player, weekIndex }) => {
+const Player: React.FC<PlayerWeek> = ({ player, weekIndex }) => {
   const { name, team, price, expected_points, isCaptain } = player;
   const { primary, secondary } = useTeamColors(team);
 

@@ -1,19 +1,19 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Daniel Bentley,Wolves,Liverpool,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0,Wolves,False,Southampton,,-1.07
-Daniel Bentley,Wolves,Southampton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0,Wolves,True,Bournemouth,,1.46
-Daniel Bentley,Wolves,Bournemouth,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0,Wolves,False,Fulham,,1.37
-Daniel Bentley,Wolves,Fulham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0,Wolves,False,Liverpool,,-1.33
-Daniel Bentley,Wolves,Liverpool,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0,Wolves,True,Tottenham,,1.07
-Daniel Bentley,Wolves,Tottenham,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0,Wolves,False,Newcastle United,,-0.34
-Daniel Bentley,Wolves,Newcastle United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0,Wolves,True,Leicester City,,0.83
-Daniel Bentley,Wolves,Leicester City,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0,Wolves,False,Nottingham Forest,,
-Daniel Bentley,Wolves,Nottingham Forest,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0,Wolves,True,Chelsea,,-0.25
-Daniel Bentley,Wolves,Chelsea,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0,Wolves,True,Brentford,,0.69
-Daniel Bentley,Wolves,Brentford,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0,Wolves,False,Leeds United,,-0.8
-Daniel Bentley,Wolves,Leeds United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0,Wolves,True,Crystal Palace,,0.81
-Daniel Bentley,Wolves,Crystal Palace,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0,Wolves,False,Brighton,,-0.39
-Daniel Bentley,Wolves,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0,Wolves,True,Aston Villa,,0.55
-Daniel Bentley,Wolves,Aston Villa,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,3.0,Wolves,False,Manchester United,,-0.1
-Daniel Bentley,Wolves,Manchester United,2023-05-13,False,90,2,2.68,8,0,3,0,0,0.0,1,0.6,0,5.62,0.0,8.0,3.0,Wolves,True,Everton,,0.34
-Daniel Bentley,Wolves,Everton,2023-05-20,True,90,1,1.98,3,0,3,0,0,0.0,1,1.2,0,10.59,0.0,5.5,0.0,Wolves,False,Arsenal,,-0.0
-Daniel Bentley,Wolves,Arsenal,,False,0,0,0.0,0,0,0,0,0,,0,1.2,0,10.0,0.0,5.5,,Wolves,False,Manchester United,,-0.1
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Daniel Bentley,Wolves,Liverpool,,True,0,0,0.0,0,0,0,0,0,,0,294,0.0,0,0.0,0.0,0.0,0.0,Wolves,False,Southampton,,-1.07
+Daniel Bentley,Wolves,Southampton,,False,0,0,0.0,0,0,0,0,0,,0,724,0.0,0,0.0,0.0,0.0,0.0,Wolves,True,Bournemouth,,1.46
+Daniel Bentley,Wolves,Bournemouth,,True,0,0,0.0,0,0,0,0,0,,0,956,0.0,0,0.0,0.0,0.0,0.0,Wolves,False,Fulham,,1.37
+Daniel Bentley,Wolves,Fulham,,False,0,0,0.0,0,0,0,0,0,,0,2513,0.0,0,0.0,0.0,0.0,0.0,Wolves,False,Liverpool,,-1.33
+Daniel Bentley,Wolves,Liverpool,,False,0,0,0.0,0,0,0,0,0,,0,2513,0.0,0,0.0,0.0,0.0,0.0,Wolves,True,Tottenham,,1.07
+Daniel Bentley,Wolves,Tottenham,,True,0,0,0.0,0,0,0,0,0,,0,1501,0.0,0,0.0,0.0,0.0,0.0,Wolves,False,Newcastle United,,-0.34
+Daniel Bentley,Wolves,Newcastle United,,False,0,0,0.0,0,0,0,0,0,,0,1643,0.0,0,0.0,0.0,0.0,0.0,Wolves,True,Leicester City,,0.83
+Daniel Bentley,Wolves,Leicester City,,True,0,0,0.0,0,0,0,0,0,,0,2028,0.0,0,0.0,0.0,0.0,0.0,Wolves,False,Nottingham Forest,,
+Daniel Bentley,Wolves,Nottingham Forest,,False,0,0,0.0,0,0,0,0,0,,0,1856,0.0,0,0.0,0.0,0.0,0.0,Wolves,True,Chelsea,,-0.25
+Daniel Bentley,Wolves,Chelsea,,True,0,0,0.0,0,0,0,0,0,,0,1983,0.0,0,0.0,0.0,0.0,0.0,Wolves,True,Brentford,,0.69
+Daniel Bentley,Wolves,Brentford,,True,0,0,0.0,0,0,0,0,0,,0,2080,0.0,0,0.0,0.0,0.0,0.0,Wolves,False,Leeds United,,-0.8
+Daniel Bentley,Wolves,Leeds United,,False,0,0,0.0,0,0,0,0,0,,0,2437,0.0,0,0.0,0.0,0.0,0.0,Wolves,True,Crystal Palace,,0.81
+Daniel Bentley,Wolves,Crystal Palace,,True,0,0,0.0,0,0,0,0,0,,0,2371,0.0,0,0.0,0.0,0.0,0.0,Wolves,False,Brighton,,-0.39
+Daniel Bentley,Wolves,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,2534,0.0,0,0.0,0.0,0.0,0.0,Wolves,True,Aston Villa,,0.55
+Daniel Bentley,Wolves,Aston Villa,,True,0,0,0.0,0,0,0,0,0,,0,2932,0.0,0,0.0,0.0,0.0,3.0,Wolves,False,Manchester United,,-0.1
+Daniel Bentley,Wolves,Manchester United,2023-05-13,False,90,2,2.68,8,0,3,0,0,0.0,1,2638,0.6,0,5.62,0.0,8.0,3.0,Wolves,True,Everton,,0.34
+Daniel Bentley,Wolves,Everton,2023-05-20,True,90,1,1.98,3,0,3,0,0,0.0,1,4196,1.2,0,10.59,0.0,5.5,0.0,Wolves,False,Arsenal,,-0.0
+Daniel Bentley,Wolves,Arsenal,,False,0,0,0.0,0,0,0,0,0,,0,5051,1.2,0,10.0,0.0,5.5,,Wolves,False,Manchester United,,-0.1

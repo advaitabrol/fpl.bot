@@ -1,17 +1,17 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Dominic Sadi,Bournemouth,Fulham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Bournemouth,False,Newcastle United,,-0.41
-Dominic Sadi,Bournemouth,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Bournemouth,True,Manchester City,,-0.96
-Dominic Sadi,Bournemouth,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Bournemouth,False,Burnley,,0.0
-Dominic Sadi,Bournemouth,Burnley,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Bournemouth,True,Sheffield,,0.68
-Dominic Sadi,Bournemouth,Sheffield,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Bournemouth,True,Luton,,
-Dominic Sadi,Bournemouth,Luton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Bournemouth,True,Everton,,0.53
-Dominic Sadi,Bournemouth,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Bournemouth,True,Crystal Palace,,0.88
-Dominic Sadi,Bournemouth,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Bournemouth,False,Luton,,
-Dominic Sadi,Bournemouth,Luton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Bournemouth,True,Manchester United,,0.38
-Dominic Sadi,Bournemouth,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Bournemouth,False,Aston Villa,,0.29
-Dominic Sadi,Bournemouth,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Bournemouth,False,Wolverhampton,,-0.52
-Dominic Sadi,Bournemouth,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,1.0,Bournemouth,True,Brighton,,-0.66
-Dominic Sadi,Bournemouth,Brighton,2024-04-28,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.2,0.0,0.08,0.0,Bournemouth,False,Arsenal,,-0.48
-Dominic Sadi,Bournemouth,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,0.07,0.0,Bournemouth,True,Brentford,,0.79
-Dominic Sadi,Bournemouth,Brentford,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,0.07,0.0,Bournemouth,False,Chelsea,,-0.85
-Dominic Sadi,Bournemouth,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,0.06,,Brighton,False,Everton,,-0.24
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Dominic Sadi,Bournemouth,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0,Bournemouth,False,Newcastle United,,-0.41
+Dominic Sadi,Bournemouth,Newcastle United,,False,0,,,,,0,,,0.0,0,0,95,0.0,0.0,0.0,0.0,Bournemouth,True,Manchester City,,-0.96
+Dominic Sadi,Bournemouth,Manchester City,,True,0,,,,,0,,,0.0,0,0,149,0.0,0.0,0.0,0.0,Bournemouth,False,Burnley,,0.0
+Dominic Sadi,Bournemouth,Burnley,,False,0,,,,,0,,,0.0,0,0,165,0.0,0.0,0.0,0.0,Bournemouth,True,Sheffield,,0.68
+Dominic Sadi,Bournemouth,Sheffield,,True,0,,,,,0,,,0.0,0,0,202,0.0,0.0,0.0,0.0,Bournemouth,True,Luton,,
+Dominic Sadi,Bournemouth,Luton,,True,0,,,,,0,,,0.0,0,0,202,0.0,0.0,0.0,0.0,Bournemouth,True,Everton,,0.53
+Dominic Sadi,Bournemouth,Everton,,True,0,,,,,0,,,0.0,0,0,260,0.0,0.0,0.0,0.0,Bournemouth,True,Crystal Palace,,0.88
+Dominic Sadi,Bournemouth,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,274,0.0,0.0,0.0,0.0,Bournemouth,False,Luton,,
+Dominic Sadi,Bournemouth,Luton,,False,0,,,,,0,,,0.0,0,0,273,0.0,0.0,0.0,0.0,Bournemouth,True,Manchester United,,0.38
+Dominic Sadi,Bournemouth,Manchester United,,True,0,,,,,0,,,0.0,0,0,310,0.0,0.0,0.0,0.0,Bournemouth,False,Aston Villa,,0.29
+Dominic Sadi,Bournemouth,Aston Villa,,False,0,,,,,0,,,0.0,0,0,343,0.0,0.0,0.0,0.0,Bournemouth,False,Wolverhampton,,-0.52
+Dominic Sadi,Bournemouth,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,343,0.0,0.0,0.0,1.0,Bournemouth,True,Brighton,,-0.66
+Dominic Sadi,Bournemouth,Brighton,2024-04-28,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,321,0.2,0.0,0.08,0.0,Bournemouth,False,Arsenal,,-0.48
+Dominic Sadi,Bournemouth,Arsenal,,False,0,,,,,0,,,0.0,0,0,339,0.2,0.0,0.07,0.0,Bournemouth,True,Brentford,,0.79
+Dominic Sadi,Bournemouth,Brentford,,True,0,,,,,0,,,0.0,0,0,381,0.2,0.0,0.07,0.0,Bournemouth,False,Chelsea,,-0.85
+Dominic Sadi,Bournemouth,Chelsea,,False,0,,,,,0,,,0.0,0,0,413,0.2,0.0,0.06,,Brighton,False,Everton,,-0.24

@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Igor Julio dos Santos de Paulo,Brighton,Luton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,Brighton,False,Wolverhampton,,-0.52
-Igor Julio dos Santos de Paulo,Brighton,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,Brighton,True,West Ham,,0.49
-Igor Julio dos Santos de Paulo,Brighton,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,Brighton,True,Newcastle United,,0.55
-Igor Julio dos Santos de Paulo,Brighton,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,Brighton,False,Manchester United,,-0.63
-Igor Julio dos Santos de Paulo,Brighton,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,Brighton,True,Bournemouth,,1.22
-Igor Julio dos Santos de Paulo,Brighton,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,Brighton,False,Aston Villa,,0.29
-Igor Julio dos Santos de Paulo,Brighton,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,1.0,Brighton,True,Liverpool,,0.18
-Igor Julio dos Santos de Paulo,Brighton,Liverpool,2023-10-08,True,62,0.0,0.0,0.0,0.15,1,0.0,2.0,3.6,0,0,2,2.17,1,0.2,0.0,7.75,0.0,0.0,Brighton,False,Manchester City,,-1.32
-Igor Julio dos Santos de Paulo,Brighton,Manchester City,2023-10-21,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.2,0,0,2,0.75,1,0.2,0.0,16.89,0.0,2.0,Brighton,True,Fulham,,-0.13
-Igor Julio dos Santos de Paulo,Brighton,Fulham,2023-10-29,True,90,0.0,0.03,0.0,0.0,2,1.0,0.0,2.0,0,0,1,0.71,1,0.6,0.01,24.2,0.0,1.0,Brighton,False,Everton,,-0.24
-Igor Julio dos Santos de Paulo,Brighton,Everton,2023-11-04,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.04,0,0.8,0.01,22.09,0.0,3.0,Brighton,True,Sheffield,,0.68
-Igor Julio dos Santos de Paulo,Brighton,Sheffield,2023-11-12,True,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.5,1,0,1,1.32,1,1.4,0.01,27.75,0.0,0.0,Brighton,False,Nottingham Forest,,-0.55
-Igor Julio dos Santos de Paulo,Brighton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.2,0.01,25.62,0.0,0.0,Brighton,False,Chelsea,,-0.85
-Igor Julio dos Santos de Paulo,Brighton,Chelsea,2023-12-03,False,83,0.0,0.0,0.0,0.0,0,0.0,0.0,1.9,0,0,3,1.92,1,1.2,0.01,29.71,0.0,2.0,Brighton,True,Brentford,,0.79
-Igor Julio dos Santos de Paulo,Brighton,Brentford,2023-12-06,True,90,0.0,0.08,0.0,0.0,2,1.0,0.0,3.0,0,0,1,1.33,1,1.2,0.02,33.73,0.0,1.0,Brighton,True,Burnley,,0.39
-Igor Julio dos Santos de Paulo,Brighton,Burnley,2023-12-09,True,31,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,0,0.0,0,1.2,0.02,33.56,0.0,1.0,Brighton,False,Arsenal,,-0.48
-Igor Julio dos Santos de Paulo,Brighton,Arsenal,2023-12-17,False,30,0.0,0.0,0.0,0.01,1,0.0,1.0,1.9,0,0,1,0.97,0,0.8,0.02,33.35,0.0,1.0,Brighton,False,Crystal Palace,,0.38
-Igor Julio dos Santos de Paulo,Brighton,Crystal Palace,2023-12-21,False,90,0.0,0.0,0.0,0.05,1,0.0,1.0,3.7,0,0,1,1.36,1,1.0,0.02,36.5,0.0,1.0,Brighton,True,Tottenham,,0.69
-Igor Julio dos Santos de Paulo,Brighton,Tottenham,2023-12-28,True,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.58,1,1.2,0.02,36.95,0.0,0.0,Brighton,False,West Ham,,-0.22
-Igor Julio dos Santos de Paulo,Brighton,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.0,35.1,0.0,0.0,Brighton,True,Wolverhampton,,0.05
-Igor Julio dos Santos de Paulo,Brighton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.0,33.43,0.0,-1.0,Brighton,False,Luton,,
-Igor Julio dos Santos de Paulo,Brighton,Luton,2024-01-30,False,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,1.6,0,0,4,2.89,1,0.2,0.0,36.0,0.0,2.0,Brighton,True,Crystal Palace,,0.88
-Igor Julio dos Santos de Paulo,Brighton,Crystal Palace,2024-02-03,True,87,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,0.28,1,0.4,0.0,38.22,0.0,0.0,Brighton,False,Tottenham,,-0.36
-Igor Julio dos Santos de Paulo,Brighton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,36.62,0.0,1.0,Brighton,False,Sheffield,,-0.61
-Igor Julio dos Santos de Paulo,Brighton,Sheffield,2024-02-18,False,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,0,0.38,0,0.4,0.0,36.96,0.0,1.0,Brighton,True,Everton,,0.53
-Igor Julio dos Santos de Paulo,Brighton,Everton,2024-02-24,True,59,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.05,1,0.6,0.0,37.81,0.0,0.0,Brighton,False,Fulham,,0.86
-Igor Julio dos Santos de Paulo,Brighton,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.0,36.41,0.0,1.0,Brighton,True,Nottingham Forest,,1.55
-Igor Julio dos Santos de Paulo,Brighton,Nottingham Forest,2024-03-10,True,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.06,0,0.6,0.0,35.61,0.0,0.0,Brighton,False,Liverpool,,-1.01
-Igor Julio dos Santos de Paulo,Brighton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.0,34.38,0.0,6.0,Brighton,False,Brentford,,-0.53
-Igor Julio dos Santos de Paulo,Brighton,Brentford,2024-04-03,False,90,0.0,0.03,0.0,0.0,6,2.0,0.0,3.1,0,1,0,0.5,1,1.6,0.01,36.23,0.06,0.0,Brighton,True,Arsenal,,-0.11
-Igor Julio dos Santos de Paulo,Brighton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.4,0.01,35.06,0.06,2.0,Brighton,False,Burnley,,0.0
-Igor Julio dos Santos de Paulo,Brighton,Burnley,2024-04-13,False,77,0.0,0.0,0.0,0.06,2,0.0,1.0,2.9,0,0,1,1.63,0,1.8,0.01,36.38,0.06,1.0,Brighton,True,Manchester City,,-0.96
-Igor Julio dos Santos de Paulo,Brighton,Manchester City,2024-04-25,True,34,0.0,0.0,0.0,0.33,1,0.0,1.0,1.7,0,0,1,0.42,0,1.8,0.01,36.3,0.05,1.0,Brighton,False,Bournemouth,,0.19
-Igor Julio dos Santos de Paulo,Brighton,Bournemouth,2024-04-28,False,73,0.0,0.08,0.0,0.0,1,1.0,0.0,1.3,0,0,2,1.99,1,2.0,0.02,37.38,0.05,6.0,Brighton,True,Aston Villa,,0.64
-Igor Julio dos Santos de Paulo,Brighton,Aston Villa,2024-05-05,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.6,0,1,0,0.06,1,2.0,0.02,38.89,0.1,2.0,Brighton,False,Newcastle United,,-0.41
-Igor Julio dos Santos de Paulo,Brighton,Newcastle United,2024-05-11,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.1,0,0,1,2.27,1,2.4,0.02,40.31,0.09,1.0,Brighton,True,Chelsea,,-0.25
-Igor Julio dos Santos de Paulo,Brighton,Chelsea,2024-05-15,True,90,0.0,0.0,0.0,0.01,1,0.0,1.0,3.4,0,0,2,1.48,1,2.2,0.02,41.65,0.09,1.0,Brighton,True,Manchester United,,0.38
-Igor Julio dos Santos de Paulo,Brighton,Manchester United,2024-05-19,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.3,0,0,2,1.2,1,2.2,0.02,42.92,0.08,0.0,Brighton,False,Everton,,-0.24
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Igor Julio dos Santos de Paulo,Brighton,Luton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,11676,0.0,0.0,0.0,0.0,0.0,Brighton,False,Wolverhampton,,-0.52
+Igor Julio dos Santos de Paulo,Brighton,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,12272,0.0,0.0,0.0,0.0,0.0,Brighton,True,West Ham,,0.49
+Igor Julio dos Santos de Paulo,Brighton,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,11076,0.0,0.0,0.0,0.0,0.0,Brighton,True,Newcastle United,,0.55
+Igor Julio dos Santos de Paulo,Brighton,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,10286,0.0,0.0,0.0,0.0,0.0,Brighton,False,Manchester United,,-0.63
+Igor Julio dos Santos de Paulo,Brighton,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,9942,0.0,0.0,0.0,0.0,0.0,Brighton,True,Bournemouth,,1.22
+Igor Julio dos Santos de Paulo,Brighton,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,9963,0.0,0.0,0.0,0.0,0.0,Brighton,False,Aston Villa,,0.29
+Igor Julio dos Santos de Paulo,Brighton,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,10339,0.0,0.0,0.0,0.0,1.0,Brighton,True,Liverpool,,0.18
+Igor Julio dos Santos de Paulo,Brighton,Liverpool,2023-10-08,True,62,0.0,0.0,0.0,0.15,1,0.0,2.0,3.6,0,0,2,2.17,1,10226,0.2,0.0,7.75,0.0,0.0,Brighton,False,Manchester City,,-1.32
+Igor Julio dos Santos de Paulo,Brighton,Manchester City,2023-10-21,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.2,0,0,2,0.75,1,9982,0.2,0.0,16.89,0.0,2.0,Brighton,True,Fulham,,-0.13
+Igor Julio dos Santos de Paulo,Brighton,Fulham,2023-10-29,True,90,0.0,0.03,0.0,0.0,2,1.0,0.0,2.0,0,0,1,0.71,1,11863,0.6,0.01,24.2,0.0,1.0,Brighton,False,Everton,,-0.24
+Igor Julio dos Santos de Paulo,Brighton,Everton,2023-11-04,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.04,0,14492,0.8,0.01,22.09,0.0,3.0,Brighton,True,Sheffield,,0.68
+Igor Julio dos Santos de Paulo,Brighton,Sheffield,2023-11-12,True,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.5,1,0,1,1.32,1,14825,1.4,0.01,27.75,0.0,0.0,Brighton,False,Nottingham Forest,,-0.55
+Igor Julio dos Santos de Paulo,Brighton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,15083,1.2,0.01,25.62,0.0,0.0,Brighton,False,Chelsea,,-0.85
+Igor Julio dos Santos de Paulo,Brighton,Chelsea,2023-12-03,False,83,0.0,0.0,0.0,0.0,0,0.0,0.0,1.9,0,0,3,1.92,1,13877,1.2,0.01,29.71,0.0,2.0,Brighton,True,Brentford,,0.79
+Igor Julio dos Santos de Paulo,Brighton,Brentford,2023-12-06,True,90,0.0,0.08,0.0,0.0,2,1.0,0.0,3.0,0,0,1,1.33,1,14140,1.2,0.02,33.73,0.0,1.0,Brighton,True,Burnley,,0.39
+Igor Julio dos Santos de Paulo,Brighton,Burnley,2023-12-09,True,31,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,0,0.0,0,16501,1.2,0.02,33.56,0.0,1.0,Brighton,False,Arsenal,,-0.48
+Igor Julio dos Santos de Paulo,Brighton,Arsenal,2023-12-17,False,30,0.0,0.0,0.0,0.01,1,0.0,1.0,1.9,0,0,1,0.97,0,14713,0.8,0.02,33.35,0.0,1.0,Brighton,False,Crystal Palace,,0.38
+Igor Julio dos Santos de Paulo,Brighton,Crystal Palace,2023-12-21,False,90,0.0,0.0,0.0,0.05,1,0.0,1.0,3.7,0,0,1,1.36,1,14878,1.0,0.02,36.5,0.0,1.0,Brighton,True,Tottenham,,0.69
+Igor Julio dos Santos de Paulo,Brighton,Tottenham,2023-12-28,True,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.58,1,14402,1.2,0.02,36.95,0.0,0.0,Brighton,False,West Ham,,-0.22
+Igor Julio dos Santos de Paulo,Brighton,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,13554,0.8,0.0,35.1,0.0,0.0,Brighton,True,Wolverhampton,,0.05
+Igor Julio dos Santos de Paulo,Brighton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,12001,0.6,0.0,33.43,0.0,-1.0,Brighton,False,Luton,,
+Igor Julio dos Santos de Paulo,Brighton,Luton,2024-01-30,False,90,0.0,0.0,0.0,0.0,-1,0.0,0.0,1.6,0,0,4,2.89,1,11630,0.2,0.0,36.0,0.0,2.0,Brighton,True,Crystal Palace,,0.88
+Igor Julio dos Santos de Paulo,Brighton,Crystal Palace,2024-02-03,True,87,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,0.28,1,11583,0.4,0.0,38.22,0.0,0.0,Brighton,False,Tottenham,,-0.36
+Igor Julio dos Santos de Paulo,Brighton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,11603,0.2,0.0,36.62,0.0,1.0,Brighton,False,Sheffield,,-0.61
+Igor Julio dos Santos de Paulo,Brighton,Sheffield,2024-02-18,False,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,0,0.38,0,11587,0.4,0.0,36.96,0.0,1.0,Brighton,True,Everton,,0.53
+Igor Julio dos Santos de Paulo,Brighton,Everton,2024-02-24,True,59,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.05,1,12028,0.6,0.0,37.81,0.0,0.0,Brighton,False,Fulham,,0.86
+Igor Julio dos Santos de Paulo,Brighton,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,11937,0.8,0.0,36.41,0.0,1.0,Brighton,True,Nottingham Forest,,1.55
+Igor Julio dos Santos de Paulo,Brighton,Nottingham Forest,2024-03-10,True,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.06,0,11765,0.6,0.0,35.61,0.0,0.0,Brighton,False,Liverpool,,-1.01
+Igor Julio dos Santos de Paulo,Brighton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,11553,0.6,0.0,34.38,0.0,6.0,Brighton,False,Brentford,,-0.53
+Igor Julio dos Santos de Paulo,Brighton,Brentford,2024-04-03,False,90,0.0,0.03,0.0,0.0,6,2.0,0.0,3.1,0,1,0,0.5,1,11509,1.6,0.01,36.23,0.06,0.0,Brighton,True,Arsenal,,-0.11
+Igor Julio dos Santos de Paulo,Brighton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,11605,1.4,0.01,35.06,0.06,2.0,Brighton,False,Burnley,,0.0
+Igor Julio dos Santos de Paulo,Brighton,Burnley,2024-04-13,False,77,0.0,0.0,0.0,0.06,2,0.0,1.0,2.9,0,0,1,1.63,0,11630,1.8,0.01,36.38,0.06,1.0,Brighton,True,Manchester City,,-0.96
+Igor Julio dos Santos de Paulo,Brighton,Manchester City,2024-04-25,True,34,0.0,0.0,0.0,0.33,1,0.0,1.0,1.7,0,0,1,0.42,0,11607,1.8,0.01,36.3,0.05,1.0,Brighton,False,Bournemouth,,0.19
+Igor Julio dos Santos de Paulo,Brighton,Bournemouth,2024-04-28,False,73,0.0,0.08,0.0,0.0,1,1.0,0.0,1.3,0,0,2,1.99,1,11732,2.0,0.02,37.38,0.05,6.0,Brighton,True,Aston Villa,,0.64
+Igor Julio dos Santos de Paulo,Brighton,Aston Villa,2024-05-05,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.6,0,1,0,0.06,1,12645,2.0,0.02,38.89,0.1,2.0,Brighton,False,Newcastle United,,-0.41
+Igor Julio dos Santos de Paulo,Brighton,Newcastle United,2024-05-11,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.1,0,0,1,2.27,1,25861,2.4,0.02,40.31,0.09,1.0,Brighton,True,Chelsea,,-0.25
+Igor Julio dos Santos de Paulo,Brighton,Chelsea,2024-05-15,True,90,0.0,0.0,0.0,0.01,1,0.0,1.0,3.4,0,0,2,1.48,1,25861,2.2,0.02,41.65,0.09,1.0,Brighton,True,Manchester United,,0.38
+Igor Julio dos Santos de Paulo,Brighton,Manchester United,2024-05-19,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.3,0,0,2,1.2,1,24223,2.2,0.02,42.92,0.08,0.0,Brighton,False,Everton,,-0.24

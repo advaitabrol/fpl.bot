@@ -19,7 +19,7 @@ def clean_fpl_gw_data(fpl_gw_data_dir='fpl_gw_data'):
     # Define columns to always drop
     columns_to_always_drop = [
         'bps', 'creativity', 'element', 'expected_goal_involvements', 'influence', 
-        'round', 'selected', 'team_a_score', 'team_h_score', 'threat', 'transfers_balance', 
+        'round', 'team_a_score', 'team_h_score', 'threat', 'transfers_balance', 
         'transfers_in', 'transfers_out', 'value', 'expected_goals', 'goals_scored', 'assists', 
         'expected_assists', 'penalties_missed', 'red_cards', 'yellow_cards', 'fixture', 'xP'
     ]

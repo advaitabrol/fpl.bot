@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Niels Nkounkou,Everton,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Aston Villa,,0.59
-Niels Nkounkou,Everton,Aston Villa,2022-08-13,False,0,0.0,0.05,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,0.0,0.03,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Nottingham Forest,,
-Niels Nkounkou,Everton,Nottingham Forest,2022-08-20,True,0,0.0,0.03,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.03,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Brentford,,-0.55
-Niels Nkounkou,Everton,Brentford,2022-08-27,False,0,0.0,0.04,0.0,0.16,0,1.0,2.0,0.0,0,0,0,0.0,0,0.0,0.03,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Leicester City,,-0.05
-Niels Nkounkou,Everton,Leicester City,2022-08-30,False,0,0.0,0.6,0.0,0.0,0,3.0,0.0,0.0,0,0,0,0.0,0,0.0,0.15,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Liverpool,,-0.53
-Niels Nkounkou,Everton,Liverpool,2022-09-03,True,0,0.0,0.06,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.16,0.0,0,0.0,0.0,0,0,0.0,Everton,True,West Ham,,0.63
-Niels Nkounkou,Everton,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.15,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Southampton,,-1.07
-Niels Nkounkou,Everton,Southampton,2022-10-01,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.14,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Manchester United,,0.38
-Niels Nkounkou,Everton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.13,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Tottenham,,-0.03
-Niels Nkounkou,Everton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Newcastle United,,-0.34
-Niels Nkounkou,Everton,Newcastle United,2022-10-19,False,0,0.0,0.06,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Crystal Palace,,0.81
-Niels Nkounkou,Everton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Fulham,,1.37
-Niels Nkounkou,Everton,Fulham,2022-10-29,False,0,0.0,0.09,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.03,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Leeds United,,-0.79
-Niels Nkounkou,Everton,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.03,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Bournemouth,,0.19
-Niels Nkounkou,Everton,Bournemouth,2022-11-12,False,0,0.0,0.25,0.0,0.21,0,1.0,3.0,0.0,0,0,0,0.0,0,0.0,0.08,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Wolverhampton,,-0.48
-Niels Nkounkou,Everton,Wolverhampton,2022-12-26,True,0,0.0,0.16,0.0,0.04,0,3.0,1.0,0.0,0,0,0,0.0,0,0.0,0.1,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Manchester City,,-1.26
-Niels Nkounkou,Everton,Manchester City,2022-12-31,False,0,0.0,0.02,0.0,0.35,0,1.0,2.0,0.0,0,0,0,0.0,0,0.0,0.1,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Brighton,,-0.71
-Niels Nkounkou,Everton,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.09,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Southampton,,-0.38
-Niels Nkounkou,Everton,Southampton,2023-01-14,True,0,0.0,0.12,0.0,0.1,0,2.0,1.0,0.0,0,0,0,0.0,0,0.0,0.11,0.0,0,0.0,0.0,0,0,0.0,Everton,False,West Ham,,0.14
-Niels Nkounkou,Everton,West Ham,2023-01-21,False,0,0.0,0.0,0.0,0.04,0,0.0,1.0,0.0,0,0,0,0.0,0,0.0,0.06,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Arsenal,,0.36
-Niels Nkounkou,Everton,Arsenal,2023-02-04,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.03,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Liverpool,,-1.33
-Niels Nkounkou,Everton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.02,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Leicester City,,0.83
-Niels Nkounkou,Everton,Leicester City,2023-02-18,True,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.03,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Aston Villa,,0.55
-Niels Nkounkou,Everton,Aston Villa,2023-02-25,True,0,0.0,0.0,0.0,0.05,0,0.0,2.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Arsenal,,-0.0
-Niels Nkounkou,Everton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Nottingham Forest,,
-Niels Nkounkou,Everton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Brentford,,0.69
-Niels Nkounkou,Everton,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Chelsea,,-0.72
-Niels Nkounkou,Everton,Chelsea,2023-03-18,False,0,0.0,0.03,0.0,0.09,0,1.0,1.0,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Tottenham,,1.07
-Niels Nkounkou,Everton,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Manchester United,,-0.1
-Niels Nkounkou,Everton,Manchester United,2023-04-08,False,0,0.0,0.01,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Fulham,,-0.3
-Niels Nkounkou,Everton,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Crystal Palace,,0.13
-Niels Nkounkou,Everton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Newcastle United,,0.73
-Niels Nkounkou,Everton,Newcastle United,2023-04-27,True,0,0.0,0.0,0.0,0.05,0,0.0,1.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Leeds United,,-0.8
-Niels Nkounkou,Everton,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Brighton,,-0.39
-Niels Nkounkou,Everton,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Manchester City,,-1.17
-Niels Nkounkou,Everton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Wolverhampton,,-0.46
-Niels Nkounkou,Everton,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Bournemouth,,1.46
-Niels Nkounkou,Everton,Bournemouth,2023-05-28,True,0,0.0,0.19,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,0.0,0.04,0.0,0,0.0,0.0,0,0,,Aston Villa,False,Newcastle United,,-0.34
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Niels Nkounkou,Everton,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,40473,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Aston Villa,,0.59
+Niels Nkounkou,Everton,Aston Villa,2022-08-13,False,0,0.0,0.05,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,47972,0.0,0.03,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Nottingham Forest,,
+Niels Nkounkou,Everton,Nottingham Forest,2022-08-20,True,0,0.0,0.03,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,48317,0.0,0.03,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Brentford,,-0.55
+Niels Nkounkou,Everton,Brentford,2022-08-27,False,0,0.0,0.04,0.0,0.16,0,1.0,2.0,0.0,0,0,0,0.0,0,46911,0.0,0.03,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Leicester City,,-0.05
+Niels Nkounkou,Everton,Leicester City,2022-08-30,False,0,0.0,0.6,0.0,0.0,0,3.0,0.0,0.0,0,0,0,0.0,0,41072,0.0,0.15,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Liverpool,,-0.53
+Niels Nkounkou,Everton,Liverpool,2022-09-03,True,0,0.0,0.06,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,33574,0.0,0.16,0.0,0,0.0,0.0,0,0,0.0,Everton,True,West Ham,,0.63
+Niels Nkounkou,Everton,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,28754,0.0,0.15,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Southampton,,-1.07
+Niels Nkounkou,Everton,Southampton,2022-10-01,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,27187,0.0,0.14,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Manchester United,,0.38
+Niels Nkounkou,Everton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,25759,0.0,0.13,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Tottenham,,-0.03
+Niels Nkounkou,Everton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,24812,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Newcastle United,,-0.34
+Niels Nkounkou,Everton,Newcastle United,2022-10-19,False,0,0.0,0.06,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,23570,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Crystal Palace,,0.81
+Niels Nkounkou,Everton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,23372,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Fulham,,1.37
+Niels Nkounkou,Everton,Fulham,2022-10-29,False,0,0.0,0.09,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,22696,0.0,0.03,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Leeds United,,-0.79
+Niels Nkounkou,Everton,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,22064,0.0,0.03,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Bournemouth,,0.19
+Niels Nkounkou,Everton,Bournemouth,2022-11-12,False,0,0.0,0.25,0.0,0.21,0,1.0,3.0,0.0,0,0,0,0.0,0,21532,0.0,0.08,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Wolverhampton,,-0.48
+Niels Nkounkou,Everton,Wolverhampton,2022-12-26,True,0,0.0,0.16,0.0,0.04,0,3.0,1.0,0.0,0,0,0,0.0,0,19870,0.0,0.1,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Manchester City,,-1.26
+Niels Nkounkou,Everton,Manchester City,2022-12-31,False,0,0.0,0.02,0.0,0.35,0,1.0,2.0,0.0,0,0,0,0.0,0,19636,0.0,0.1,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Brighton,,-0.71
+Niels Nkounkou,Everton,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,19488,0.0,0.09,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Southampton,,-0.38
+Niels Nkounkou,Everton,Southampton,2023-01-14,True,0,0.0,0.12,0.0,0.1,0,2.0,1.0,0.0,0,0,0,0.0,0,19248,0.0,0.11,0.0,0,0.0,0.0,0,0,0.0,Everton,False,West Ham,,0.14
+Niels Nkounkou,Everton,West Ham,2023-01-21,False,0,0.0,0.0,0.0,0.04,0,0.0,1.0,0.0,0,0,0,0.0,0,19061,0.0,0.06,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Arsenal,,0.36
+Niels Nkounkou,Everton,Arsenal,2023-02-04,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,18807,0.0,0.03,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Liverpool,,-1.33
+Niels Nkounkou,Everton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,18656,0.0,0.02,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Leicester City,,0.83
+Niels Nkounkou,Everton,Leicester City,2023-02-18,True,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,18516,0.0,0.03,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Aston Villa,,0.55
+Niels Nkounkou,Everton,Aston Villa,2023-02-25,True,0,0.0,0.0,0.0,0.05,0,0.0,2.0,0.0,0,0,0,0.0,0,18319,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Arsenal,,-0.0
+Niels Nkounkou,Everton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,18319,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Nottingham Forest,,
+Niels Nkounkou,Everton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,18262,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Brentford,,0.69
+Niels Nkounkou,Everton,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,18162,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Chelsea,,-0.72
+Niels Nkounkou,Everton,Chelsea,2023-03-18,False,0,0.0,0.03,0.0,0.09,0,1.0,1.0,0.0,0,0,0,0.0,0,18092,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Tottenham,,1.07
+Niels Nkounkou,Everton,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,18016,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Manchester United,,-0.1
+Niels Nkounkou,Everton,Manchester United,2023-04-08,False,0,0.0,0.01,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,17968,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Fulham,,-0.3
+Niels Nkounkou,Everton,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,17916,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Crystal Palace,,0.13
+Niels Nkounkou,Everton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,17874,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Newcastle United,,0.73
+Niels Nkounkou,Everton,Newcastle United,2023-04-27,True,0,0.0,0.0,0.0,0.05,0,0.0,1.0,0.0,0,0,0,0.0,0,17851,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Leeds United,,-0.8
+Niels Nkounkou,Everton,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,17805,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Brighton,,-0.39
+Niels Nkounkou,Everton,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,17754,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Manchester City,,-1.17
+Niels Nkounkou,Everton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,17712,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Everton,False,Wolverhampton,,-0.46
+Niels Nkounkou,Everton,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,17665,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Everton,True,Bournemouth,,1.46
+Niels Nkounkou,Everton,Bournemouth,2023-05-28,True,0,0.0,0.19,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,17632,0.0,0.04,0.0,0,0.0,0.0,0,0,,Aston Villa,False,Newcastle United,,-0.34

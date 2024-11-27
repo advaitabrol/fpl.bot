@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Anthony Gordon,Newcastle,Aston Villa,2023-08-12,True,67,0.0,0.09,1.0,0.84,4,1.0,2.0,5.6,0,1,4.0,1.09,67.0,4.0,0.0,5.56,1.42,0.04,0.0,Newcastle,False,Manchester City,,-1.32
-Anthony Gordon,Newcastle,Manchester City,2023-08-19,False,55,0.0,0.1,0.0,0.0,0,2.0,0.0,1.2,0,1,2.0,0.6,61.0,4.0,0.0,5.56,1.42,0.04,10.0,Newcastle,True,Liverpool,,0.18
-Anthony Gordon,Newcastle,Liverpool,2023-08-27,True,71,1.0,0.48,0.0,0.17,10,4.0,2.0,11.6,2,1,4.67,0.56,64.33,4.0,0.0,5.56,1.42,0.04,1.0,Newcastle,False,Brighton,,-0.6
-Anthony Gordon,Newcastle,Brighton,2023-09-02,False,90,0.0,0.1,0.0,0.08,1,1.0,1.0,2.7,0,1,3.75,0.44,70.75,4.0,0.0,5.56,1.42,0.04,5.0,Newcastle,True,Brentford,,0.79
-Anthony Gordon,Newcastle,Brentford,2023-09-16,True,90,0.0,0.0,0.0,0.0,5,0.0,0.0,2.0,0,1,4.0,0.36,74.6,4.0,0.0,5.56,1.42,0.04,12.0,Newcastle,False,Sheffield,,-0.61
-Anthony Gordon,Newcastle,Sheffield,2023-09-24,False,78,1.0,0.51,1.0,1.28,12,4.0,3.0,16.4,1,0,5.6,0.44,75.17,4.0,0.0,5.56,1.42,0.04,5.0,Newcastle,True,Burnley,,0.39
-Anthony Gordon,Newcastle,Burnley,2023-09-30,True,90,0.0,0.07,0.0,0.0,5,3.0,0.0,4.6,0,1,6.6,0.43,77.29,4.0,0.0,5.56,1.42,0.04,0.0,Newcastle,False,West Ham,,-0.22
-Anthony Gordon,Newcastle,West Ham,,False,0,,,,,0,,,0.0,0,0,4.6,0.34,67.62,4.0,0.0,5.56,1.42,0.04,8.0,Newcastle,True,Crystal Palace,,0.88
-Anthony Gordon,Newcastle,Crystal Palace,2023-10-21,True,69,1.0,1.13,0.0,0.0,8,2.0,0.0,8.5,0,1,6.0,0.54,67.78,4.0,0.0,5.56,1.42,0.04,2.0,Newcastle,False,Wolverhampton,,-0.52
-Anthony Gordon,Newcastle,Wolverhampton,2023-10-28,False,90,0.0,0.16,0.0,0.0,2,1.0,0.0,1.6,0,1,5.4,0.57,70.0,4.0,0.0,5.56,1.42,0.04,7.0,Newcastle,True,Arsenal,,-0.11
-Anthony Gordon,Newcastle,Arsenal,2023-11-04,True,90,1.0,0.89,0.0,0.02,7,2.0,1.0,9.7,0,1,4.4,0.45,71.82,4.0,0.0,5.56,1.42,0.04,2.0,Newcastle,False,Bournemouth,,0.19
-Anthony Gordon,Newcastle,Bournemouth,2023-11-11,False,90,0.0,0.02,0.0,0.0,2,1.0,0.0,2.9,0,1,3.8,0.44,73.33,4.0,0.0,5.56,1.42,0.04,13.0,Newcastle,True,Chelsea,,-0.25
-Anthony Gordon,Newcastle,Chelsea,2023-11-25,True,90,1.0,0.15,1.0,0.37,13,3.0,1.0,9.4,3,1,6.4,0.67,74.62,4.0,0.0,5.56,1.42,0.04,10.0,Newcastle,True,Manchester United,,0.38
-Anthony Gordon,Newcastle,Manchester United,2023-12-02,True,90,1.0,0.83,0.0,0.05,10,3.0,2.0,13.1,2,1,6.8,0.61,75.71,4.0,0.0,5.56,1.42,0.04,2.0,Newcastle,False,Everton,,-0.24
-Anthony Gordon,Newcastle,Everton,2023-12-07,False,90,0.0,0.14,0.0,0.03,2,3.0,1.0,4.6,0,1,6.8,0.6,76.67,4.0,0.0,5.56,1.42,0.04,2.0,Newcastle,False,Tottenham,,-0.36
-Anthony Gordon,Newcastle,Tottenham,2023-12-10,False,73,0.0,0.05,0.0,0.35,2,1.0,2.0,3.6,0,1,5.8,0.44,76.44,4.0,0.0,5.56,1.42,0.04,6.0,Newcastle,True,Fulham,,-0.13
-Anthony Gordon,Newcastle,Fulham,2023-12-16,True,83,0.0,0.39,1.0,0.96,6,4.0,4.0,13.1,0,1,6.6,0.71,76.82,4.0,0.0,5.56,1.42,0.04,2.0,Newcastle,False,Luton,,
-Anthony Gordon,Newcastle,Luton,2023-12-23,False,90,0.0,0.1,0.0,0.42,2,2.0,1.0,3.6,0,1,4.4,0.5,77.56,4.0,0.0,5.56,1.42,0.04,1.0,Newcastle,True,Nottingham Forest,,1.55
-Anthony Gordon,Newcastle,Nottingham Forest,2023-12-26,True,90,0.0,0.69,0.0,0.0,1,3.0,0.0,3.8,0,1,2.6,0.47,78.21,4.0,0.0,5.56,1.42,0.04,5.0,Newcastle,False,Liverpool,,-1.01
-Anthony Gordon,Newcastle,Liverpool,2024-01-01,False,90,0.0,0.01,1.0,0.32,5,1.0,1.0,5.8,0,1,3.2,0.65,78.8,4.0,0.0,5.56,1.42,0.04,7.0,Newcastle,True,Manchester City,,-0.96
-Anthony Gordon,Newcastle,Manchester City,2024-01-13,True,85,1.0,0.2,0.0,0.11,7,3.0,1.0,7.7,0,1,4.2,0.68,79.1,4.0,0.0,5.56,1.42,0.04,1.0,Newcastle,False,Aston Villa,,0.29
-Anthony Gordon,Newcastle,Aston Villa,2024-01-30,False,90,0.0,0.45,0.0,0.0,1,3.0,0.0,3.8,0,1,3.2,0.49,79.59,4.0,0.0,5.56,1.42,0.04,4.0,Newcastle,True,Luton,,
-Anthony Gordon,Newcastle,Luton,2024-02-03,True,45,0.0,0.24,0.0,0.0,4,2.0,0.0,2.4,0,1,3.6,0.52,78.09,4.0,0.0,5.56,1.42,0.04,2.0,Newcastle,False,Nottingham Forest,,-0.55
-Anthony Gordon,Newcastle,Nottingham Forest,2024-02-10,False,90,0.0,0.04,0.0,0.02,2,2.0,1.0,2.9,0,1,3.8,0.39,78.58,4.0,0.0,5.56,1.42,0.04,8.0,Newcastle,True,Bournemouth,,1.22
-Anthony Gordon,Newcastle,Bournemouth,2024-02-17,True,90,1.0,0.97,0.0,0.06,8,4.0,3.0,12.1,1,1,4.4,0.38,79.04,4.0,0.0,5.56,1.42,0.04,2.0,Newcastle,False,Arsenal,,-0.48
-Anthony Gordon,Newcastle,Arsenal,2024-02-24,False,90,0.0,0.07,0.0,0.0,2,1.0,0.0,2.6,0,1,3.4,0.35,79.46,4.0,0.0,5.56,1.42,0.04,8.0,Newcastle,True,Wolverhampton,,0.05
-Anthony Gordon,Newcastle,Wolverhampton,2024-03-02,True,90,1.0,0.54,0.0,0.25,8,1.0,3.0,10.6,0,1,4.8,0.37,79.85,4.0,0.0,5.56,1.42,0.04,1.0,Newcastle,False,Chelsea,,-0.85
-Anthony Gordon,Newcastle,Chelsea,2024-03-11,False,35,0.0,0.06,0.0,0.0,1,1.0,0.0,2.4,0,1,4.2,0.34,78.25,4.0,0.0,5.56,1.42,0.04,8.0,Newcastle,True,West Ham,,0.49
-Anthony Gordon,Newcastle,West Ham,2024-03-30,True,90,0.0,0.55,1.0,0.4,8,6.0,3.0,11.0,0,1,5.4,0.64,78.66,4.0,0.0,5.56,1.42,0.04,0.0,Newcastle,True,Everton,,0.53
-Anthony Gordon,Newcastle,Everton,,True,0,,,,,0,,,0.0,0,0,3.8,0.44,76.03,4.0,0.0,5.56,1.42,0.04,3.0,Newcastle,False,Fulham,,0.86
-Anthony Gordon,Newcastle,Fulham,2024-04-06,False,90,0.0,0.29,0.0,0.0,3,5.0,0.0,5.1,0,1,4.0,0.49,76.48,4.0,0.0,5.56,1.42,0.04,17.0,Newcastle,True,Tottenham,,0.69
-Anthony Gordon,Newcastle,Tottenham,2024-04-13,True,90,1.0,0.88,2.0,1.03,17,2.0,8.0,22.3,3,1,5.8,0.96,76.91,4.0,0.0,5.56,1.42,0.04,1.0,Newcastle,False,Crystal Palace,,0.38
-Anthony Gordon,Newcastle,Crystal Palace,2024-04-24,False,90,0.0,0.3,0.0,0.03,1,1.0,1.0,6.8,0,1,5.8,1.0,77.3,4.0,0.0,5.56,1.42,0.04,10.0,Newcastle,True,Sheffield,,0.68
-Anthony Gordon,Newcastle,Sheffield,2024-04-27,True,81,0.0,0.0,1.0,0.53,10,0.0,3.0,8.4,2,1,6.2,0.89,77.41,4.0,0.0,5.56,1.42,0.04,6.0,Newcastle,False,Burnley,,0.0
-Anthony Gordon,Newcastle,Burnley,2024-05-04,False,84,0.0,0.13,1.0,0.33,6,4.0,4.0,10.2,0,1,7.4,1.12,77.6,4.0,0.0,5.56,1.42,0.04,2.0,Newcastle,True,Brighton,,-0.66
-Anthony Gordon,Newcastle,Brighton,2024-05-11,True,90,0.0,0.12,0.0,0.56,2,2.0,3.0,9.1,0,1,7.2,1.09,77.94,4.0,0.0,5.56,1.42,0.04,6.0,Newcastle,False,Manchester United,,-0.63
-Anthony Gordon,Newcastle,Manchester United,2024-05-15,False,90,1.0,0.55,0.0,0.63,6,3.0,5.0,15.5,0,1,5.0,0.62,78.27,4.0,0.0,5.56,1.42,0.04,0.0,Newcastle,False,Brentford,,-0.53
-Anthony Gordon,Newcastle,Brentford,,False,0,,,,,0,,,0.0,0,0,4.8,0.56,76.21,4.0,0.0,5.56,1.42,0.04,,Newcastle,True,Southampton,,0.24
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Anthony Gordon,Newcastle,Aston Villa,2023-08-12,True,67,0.0,0.09,1.0,0.84,4,1.0,2.0,5.6,0,1,33579,4.0,1.09,67.0,4.0,0.0,5.56,1.42,0.04,0.0,Newcastle,False,Manchester City,,-1.32
+Anthony Gordon,Newcastle,Manchester City,2023-08-19,False,55,0.0,0.1,0.0,0.0,0,2.0,0.0,1.2,0,1,52311,2.0,0.6,61.0,4.0,0.0,5.56,1.42,0.04,10.0,Newcastle,True,Liverpool,,0.18
+Anthony Gordon,Newcastle,Liverpool,2023-08-27,True,71,1.0,0.48,0.0,0.17,10,4.0,2.0,11.6,2,1,49514,4.67,0.56,64.33,4.0,0.0,5.56,1.42,0.04,1.0,Newcastle,False,Brighton,,-0.6
+Anthony Gordon,Newcastle,Brighton,2023-09-02,False,90,0.0,0.1,0.0,0.08,1,1.0,1.0,2.7,0,1,105511,3.75,0.44,70.75,4.0,0.0,5.56,1.42,0.04,5.0,Newcastle,True,Brentford,,0.79
+Anthony Gordon,Newcastle,Brentford,2023-09-16,True,90,0.0,0.0,0.0,0.0,5,0.0,0.0,2.0,0,1,146502,4.0,0.36,74.6,4.0,0.0,5.56,1.42,0.04,12.0,Newcastle,False,Sheffield,,-0.61
+Anthony Gordon,Newcastle,Sheffield,2023-09-24,False,78,1.0,0.51,1.0,1.28,12,4.0,3.0,16.4,1,0,225799,5.6,0.44,75.17,4.0,0.0,5.56,1.42,0.04,5.0,Newcastle,True,Burnley,,0.39
+Anthony Gordon,Newcastle,Burnley,2023-09-30,True,90,0.0,0.07,0.0,0.0,5,3.0,0.0,4.6,0,1,810537,6.6,0.43,77.29,4.0,0.0,5.56,1.42,0.04,0.0,Newcastle,False,West Ham,,-0.22
+Anthony Gordon,Newcastle,West Ham,,False,0,,,,,0,,,0.0,0,0,519462,4.6,0.34,67.62,4.0,0.0,5.56,1.42,0.04,8.0,Newcastle,True,Crystal Palace,,0.88
+Anthony Gordon,Newcastle,Crystal Palace,2023-10-21,True,69,1.0,1.13,0.0,0.0,8,2.0,0.0,8.5,0,1,629884,6.0,0.54,67.78,4.0,0.0,5.56,1.42,0.04,2.0,Newcastle,False,Wolverhampton,,-0.52
+Anthony Gordon,Newcastle,Wolverhampton,2023-10-28,False,90,0.0,0.16,0.0,0.0,2,1.0,0.0,1.6,0,1,801764,5.4,0.57,70.0,4.0,0.0,5.56,1.42,0.04,7.0,Newcastle,True,Arsenal,,-0.11
+Anthony Gordon,Newcastle,Arsenal,2023-11-04,True,90,1.0,0.89,0.0,0.02,7,2.0,1.0,9.7,0,1,785776,4.4,0.45,71.82,4.0,0.0,5.56,1.42,0.04,2.0,Newcastle,False,Bournemouth,,0.19
+Anthony Gordon,Newcastle,Bournemouth,2023-11-11,False,90,0.0,0.02,0.0,0.0,2,1.0,0.0,2.9,0,1,1132019,3.8,0.44,73.33,4.0,0.0,5.56,1.42,0.04,13.0,Newcastle,True,Chelsea,,-0.25
+Anthony Gordon,Newcastle,Chelsea,2023-11-25,True,90,1.0,0.15,1.0,0.37,13,3.0,1.0,9.4,3,1,1160387,6.4,0.67,74.62,4.0,0.0,5.56,1.42,0.04,10.0,Newcastle,True,Manchester United,,0.38
+Anthony Gordon,Newcastle,Manchester United,2023-12-02,True,90,1.0,0.83,0.0,0.05,10,3.0,2.0,13.1,2,1,1720085,6.8,0.61,75.71,4.0,0.0,5.56,1.42,0.04,2.0,Newcastle,False,Everton,,-0.24
+Anthony Gordon,Newcastle,Everton,2023-12-07,False,90,0.0,0.14,0.0,0.03,2,3.0,1.0,4.6,0,1,2055702,6.8,0.6,76.67,4.0,0.0,5.56,1.42,0.04,2.0,Newcastle,False,Tottenham,,-0.36
+Anthony Gordon,Newcastle,Tottenham,2023-12-10,False,73,0.0,0.05,0.0,0.35,2,1.0,2.0,3.6,0,1,2398709,5.8,0.44,76.44,4.0,0.0,5.56,1.42,0.04,6.0,Newcastle,True,Fulham,,-0.13
+Anthony Gordon,Newcastle,Fulham,2023-12-16,True,83,0.0,0.39,1.0,0.96,6,4.0,4.0,13.1,0,1,2420401,6.6,0.71,76.82,4.0,0.0,5.56,1.42,0.04,2.0,Newcastle,False,Luton,,
+Anthony Gordon,Newcastle,Luton,2023-12-23,False,90,0.0,0.1,0.0,0.42,2,2.0,1.0,3.6,0,1,2461200,4.4,0.5,77.56,4.0,0.0,5.56,1.42,0.04,1.0,Newcastle,True,Nottingham Forest,,1.55
+Anthony Gordon,Newcastle,Nottingham Forest,2023-12-26,True,90,0.0,0.69,0.0,0.0,1,3.0,0.0,3.8,0,1,2613221,2.6,0.47,78.21,4.0,0.0,5.56,1.42,0.04,5.0,Newcastle,False,Liverpool,,-1.01
+Anthony Gordon,Newcastle,Liverpool,2024-01-01,False,90,0.0,0.01,1.0,0.32,5,1.0,1.0,5.8,0,1,2109550,3.2,0.65,78.8,4.0,0.0,5.56,1.42,0.04,7.0,Newcastle,True,Manchester City,,-0.96
+Anthony Gordon,Newcastle,Manchester City,2024-01-13,True,85,1.0,0.2,0.0,0.11,7,3.0,1.0,7.7,0,1,1992430,4.2,0.68,79.1,4.0,0.0,5.56,1.42,0.04,1.0,Newcastle,False,Aston Villa,,0.29
+Anthony Gordon,Newcastle,Aston Villa,2024-01-30,False,90,0.0,0.45,0.0,0.0,1,3.0,0.0,3.8,0,1,2119635,3.2,0.49,79.59,4.0,0.0,5.56,1.42,0.04,4.0,Newcastle,True,Luton,,
+Anthony Gordon,Newcastle,Luton,2024-02-03,True,45,0.0,0.24,0.0,0.0,4,2.0,0.0,2.4,0,1,2470782,3.6,0.52,78.09,4.0,0.0,5.56,1.42,0.04,2.0,Newcastle,False,Nottingham Forest,,-0.55
+Anthony Gordon,Newcastle,Nottingham Forest,2024-02-10,False,90,0.0,0.04,0.0,0.02,2,2.0,1.0,2.9,0,1,1742533,3.8,0.39,78.58,4.0,0.0,5.56,1.42,0.04,8.0,Newcastle,True,Bournemouth,,1.22
+Anthony Gordon,Newcastle,Bournemouth,2024-02-17,True,90,1.0,0.97,0.0,0.06,8,4.0,3.0,12.1,1,1,1576347,4.4,0.38,79.04,4.0,0.0,5.56,1.42,0.04,2.0,Newcastle,False,Arsenal,,-0.48
+Anthony Gordon,Newcastle,Arsenal,2024-02-24,False,90,0.0,0.07,0.0,0.0,2,1.0,0.0,2.6,0,1,1634784,3.4,0.35,79.46,4.0,0.0,5.56,1.42,0.04,8.0,Newcastle,True,Wolverhampton,,0.05
+Anthony Gordon,Newcastle,Wolverhampton,2024-03-02,True,90,1.0,0.54,0.0,0.25,8,1.0,3.0,10.6,0,1,1641412,4.8,0.37,79.85,4.0,0.0,5.56,1.42,0.04,1.0,Newcastle,False,Chelsea,,-0.85
+Anthony Gordon,Newcastle,Chelsea,2024-03-11,False,35,0.0,0.06,0.0,0.0,1,1.0,0.0,2.4,0,1,1635741,4.2,0.34,78.25,4.0,0.0,5.56,1.42,0.04,8.0,Newcastle,True,West Ham,,0.49
+Anthony Gordon,Newcastle,West Ham,2024-03-30,True,90,0.0,0.55,1.0,0.4,8,6.0,3.0,11.0,0,1,1490289,5.4,0.64,78.66,4.0,0.0,5.56,1.42,0.04,0.0,Newcastle,True,Everton,,0.53
+Anthony Gordon,Newcastle,Everton,,True,0,,,,,0,,,0.0,0,0,1263493,3.8,0.44,76.03,4.0,0.0,5.56,1.42,0.04,3.0,Newcastle,False,Fulham,,0.86
+Anthony Gordon,Newcastle,Fulham,2024-04-06,False,90,0.0,0.29,0.0,0.0,3,5.0,0.0,5.1,0,1,1262057,4.0,0.49,76.48,4.0,0.0,5.56,1.42,0.04,17.0,Newcastle,True,Tottenham,,0.69
+Anthony Gordon,Newcastle,Tottenham,2024-04-13,True,90,1.0,0.88,2.0,1.03,17,2.0,8.0,22.3,3,1,1301362,5.8,0.96,76.91,4.0,0.0,5.56,1.42,0.04,1.0,Newcastle,False,Crystal Palace,,0.38
+Anthony Gordon,Newcastle,Crystal Palace,2024-04-24,False,90,0.0,0.3,0.0,0.03,1,1.0,1.0,6.8,0,1,1507729,5.8,1.0,77.3,4.0,0.0,5.56,1.42,0.04,10.0,Newcastle,True,Sheffield,,0.68
+Anthony Gordon,Newcastle,Sheffield,2024-04-27,True,81,0.0,0.0,1.0,0.53,10,0.0,3.0,8.4,2,1,1998514,6.2,0.89,77.41,4.0,0.0,5.56,1.42,0.04,6.0,Newcastle,False,Burnley,,0.0
+Anthony Gordon,Newcastle,Burnley,2024-05-04,False,84,0.0,0.13,1.0,0.33,6,4.0,4.0,10.2,0,1,2312678,7.4,1.12,77.6,4.0,0.0,5.56,1.42,0.04,2.0,Newcastle,True,Brighton,,-0.66
+Anthony Gordon,Newcastle,Brighton,2024-05-11,True,90,0.0,0.12,0.0,0.56,2,2.0,3.0,9.1,0,1,2952564,7.2,1.09,77.94,4.0,0.0,5.56,1.42,0.04,6.0,Newcastle,False,Manchester United,,-0.63
+Anthony Gordon,Newcastle,Manchester United,2024-05-15,False,90,1.0,0.55,0.0,0.63,6,3.0,5.0,15.5,0,1,2952564,5.0,0.62,78.27,4.0,0.0,5.56,1.42,0.04,0.0,Newcastle,False,Brentford,,-0.53
+Anthony Gordon,Newcastle,Brentford,,False,0,,,,,0,,,0.0,0,0,2211086,4.8,0.56,76.21,4.0,0.0,5.56,1.42,0.04,,Newcastle,True,Southampton,,0.24

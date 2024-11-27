@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-João Cancelo,Man City,West Ham,2022-08-07,False,90,0.0,0.02,0.0,0.07,7,1.0,1.0,3.9,2,1,0,0.0,0,7.0,0.02,90.0,1.0,11.0,Man City,True,Bournemouth,,1.46
-João Cancelo,Man City,Bournemouth,2022-08-13,True,90,0.0,0.02,0.0,0.08,11,1.0,1.0,4.3,2,1,0,0.0,0,9.0,0.02,90.0,1.0,0.0,Man City,False,Newcastle United,,-0.34
-João Cancelo,Man City,Newcastle United,2022-08-21,False,90,0.0,0.04,0.0,0.0,0,1.0,0.0,4.2,0,0,3,0.0,0,6.0,0.03,90.0,0.67,1.0,Man City,True,Crystal Palace,,0.81
-João Cancelo,Man City,Crystal Palace,2022-08-27,True,60,0.0,0.0,0.0,0.06,1,0.0,1.0,3.5,0,0,2,0.0,0,4.75,0.02,82.5,0.5,12.0,Man City,True,Nottingham Forest,,
-João Cancelo,Man City,Nottingham Forest,2022-08-31,True,67,1.0,0.05,0.0,0.0,12,1.0,0.0,6.1,0,1,0,0.0,0,6.2,0.02,79.4,0.6,2.0,Man City,False,Aston Villa,,0.59
-João Cancelo,Man City,Aston Villa,2022-09-03,False,90,0.0,0.04,0.0,0.11,2,2.0,1.0,6.7,0,0,1,0.0,0,5.2,0.03,81.17,0.5,9.0,Man City,False,Wolverhampton,,-0.46
-João Cancelo,Man City,Wolverhampton,2022-09-17,False,90,0.0,0.04,0.0,0.16,9,2.0,2.0,8.1,3,1,0,0.0,0,4.8,0.03,82.43,0.57,1.0,Man City,True,Manchester United,,0.38
-João Cancelo,Man City,Manchester United,2022-10-02,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,3,0.0,0,5.0,0.03,83.38,0.5,18.0,Man City,True,Southampton,,-0.38
-João Cancelo,Man City,Southampton,2022-10-08,True,69,1.0,0.07,1.0,0.26,18,1.0,3.0,15.1,3,1,0,0.0,0,8.4,0.24,81.78,0.56,2.0,Man City,False,Liverpool,,-1.33
-João Cancelo,Man City,Liverpool,2022-10-16,False,90,0.0,0.03,0.0,0.0,2,1.0,0.0,3.5,0,0,1,0.0,0,6.4,0.24,82.6,0.5,2.0,Man City,True,Brighton,,-0.71
-João Cancelo,Man City,Brighton,2022-10-22,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,1,0.0,0,6.4,0.23,83.27,0.45,6.0,Man City,False,Leeds United,,-0.8
-João Cancelo,Man City,Leeds United,2022-10-29,False,90,0.0,0.04,0.0,0.04,6,2.0,1.0,4.9,0,1,0,0.0,0,5.8,0.23,83.83,0.5,-2.0,Man City,True,Fulham,,-0.3
-João Cancelo,Man City,Fulham,2022-11-05,True,25,0.0,0.0,0.0,0.0,-2,0.0,0.0,0.2,0,0,1,0.0,0,5.2,0.23,79.31,0.46,1.0,Man City,True,Brentford,,0.69
-João Cancelo,Man City,Brentford,2022-11-12,True,85,0.0,0.08,0.0,0.02,1,3.0,1.0,8.7,0,0,1,0.4,1,1.8,0.03,79.71,0.43,1.0,Man City,False,Leicester City,,-0.05
-João Cancelo,Man City,Leicester City,2022-12-28,False,22,0.0,0.11,0.0,0.0,1,1.0,0.0,2.2,0,0,1,0.4,0,1.6,0.05,75.87,0.4,0.0,Man City,True,Everton,,0.34
-João Cancelo,Man City,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.2,0.05,71.12,0.4,1.0,Man City,False,Chelsea,,-0.72
-João Cancelo,Man City,Chelsea,2023-01-05,False,45,0.0,0.05,0.0,0.0,1,1.0,0.0,2.8,0,0,0,0.24,1,0.2,0.05,69.59,0.38,1.0,Man City,False,Manchester United,,-0.1
-João Cancelo,Man City,Manchester United,2023-01-14,False,90,0.0,0.0,0.0,0.04,1,0.0,1.0,3.5,0,0,2,1.75,1,0.8,0.05,70.72,0.35,0.0,Man City,True,Tottenham,,1.07
-João Cancelo,Man City,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.03,67.0,0.35,0.0,Man City,True,Wolverhampton,,-0.48
-João Cancelo,Man City,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.01,63.65,0.35,0.0,Man City,False,Tottenham,,-0.03
-João Cancelo,Man City,Tottenham,2023-02-05,False,0,0.0,0.0,1.0,0.09,0,0.0,1.0,0.0,0,0,0,0.0,0,0.4,0.21,60.62,0.35,0.0,Man City,True,Aston Villa,,0.55
-João Cancelo,Man City,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.2,57.86,0.35,0.0,Man City,False,Arsenal,,-0.0
-João Cancelo,Man City,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.2,55.35,0.35,0.0,Man City,False,Nottingham Forest,,
-João Cancelo,Man City,Nottingham Forest,2023-02-18,False,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.2,53.04,0.35,0.0,Man City,False,Bournemouth,,0.19
-João Cancelo,Man City,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.2,50.92,0.35,0.0,Man City,True,Newcastle United,,0.73
-João Cancelo,Man City,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,48.96,0.35,0.0,Man City,False,Crystal Palace,,0.13
-João Cancelo,Man City,Crystal Palace,2023-03-11,False,0,1.0,0.25,1.0,0.55,0,4.0,1.0,0.0,0,0,0,0.0,0,0.0,0.25,47.15,0.35,0.0,Man City,True,Liverpool,,-0.53
-João Cancelo,Man City,Liverpool,2023-04-01,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.25,45.46,0.35,0.0,Man City,False,Southampton,,-1.07
-João Cancelo,Man City,Southampton,2023-04-08,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.25,43.9,0.35,0.0,Man City,True,Leeds United,,-0.79
-João Cancelo,Man City,Leeds United,2023-04-15,True,0,0.0,0.05,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,0.0,0.26,42.43,0.35,0.0,Man City,True,Arsenal,,0.36
-João Cancelo,Man City,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.26,41.06,0.35,0.0,Man City,False,Fulham,,1.37
-João Cancelo,Man City,Fulham,2023-04-30,False,0,0.0,0.11,0.0,0.1,0,3.0,3.0,0.0,0,0,0,0.0,0,0.0,0.03,39.78,0.35,0.0,Man City,True,West Ham,,0.63
-João Cancelo,Man City,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.03,38.58,0.35,0.0,Man City,True,Leicester City,,0.83
-João Cancelo,Man City,Leicester City,2023-05-06,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.03,37.44,0.35,0.0,Man City,False,Everton,,-0.63
-João Cancelo,Man City,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.02,36.37,0.35,0.0,Man City,True,Chelsea,,-0.25
-João Cancelo,Man City,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.02,35.36,0.35,0.0,Man City,False,Brighton,,-0.39
-João Cancelo,Man City,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,34.41,0.35,0.0,Man City,False,Brentford,,-0.55
-João Cancelo,Man City,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,33.5,0.35,,Man City,False,Burnley,,0.0
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+João Cancelo,Man City,West Ham,2022-08-07,False,90,0.0,0.02,0.0,0.07,7,1.0,1.0,3.9,2,1,0,0.0,0,3569038,7.0,0.02,90.0,1.0,11.0,Man City,True,Bournemouth,,1.46
+João Cancelo,Man City,Bournemouth,2022-08-13,True,90,0.0,0.02,0.0,0.08,11,1.0,1.0,4.3,2,1,0,0.0,0,4003992,9.0,0.02,90.0,1.0,0.0,Man City,False,Newcastle United,,-0.34
+João Cancelo,Man City,Newcastle United,2022-08-21,False,90,0.0,0.04,0.0,0.0,0,1.0,0.0,4.2,0,0,3,0.0,0,4510949,6.0,0.03,90.0,0.67,1.0,Man City,True,Crystal Palace,,0.81
+João Cancelo,Man City,Crystal Palace,2022-08-27,True,60,0.0,0.0,0.0,0.06,1,0.0,1.0,3.5,0,0,2,0.0,0,4624067,4.75,0.02,82.5,0.5,12.0,Man City,True,Nottingham Forest,,
+João Cancelo,Man City,Nottingham Forest,2022-08-31,True,67,1.0,0.05,0.0,0.0,12,1.0,0.0,6.1,0,1,0,0.0,0,4427428,6.2,0.02,79.4,0.6,2.0,Man City,False,Aston Villa,,0.59
+João Cancelo,Man City,Aston Villa,2022-09-03,False,90,0.0,0.04,0.0,0.11,2,2.0,1.0,6.7,0,0,1,0.0,0,4813510,5.2,0.03,81.17,0.5,9.0,Man City,False,Wolverhampton,,-0.46
+João Cancelo,Man City,Wolverhampton,2022-09-17,False,90,0.0,0.04,0.0,0.16,9,2.0,2.0,8.1,3,1,0,0.0,0,5430281,4.8,0.03,82.43,0.57,1.0,Man City,True,Manchester United,,0.38
+João Cancelo,Man City,Manchester United,2022-10-02,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,3,0.0,0,5427739,5.0,0.03,83.38,0.5,18.0,Man City,True,Southampton,,-0.38
+João Cancelo,Man City,Southampton,2022-10-08,True,69,1.0,0.07,1.0,0.26,18,1.0,3.0,15.1,3,1,0,0.0,0,5506710,8.4,0.24,81.78,0.56,2.0,Man City,False,Liverpool,,-1.33
+João Cancelo,Man City,Liverpool,2022-10-16,False,90,0.0,0.03,0.0,0.0,2,1.0,0.0,3.5,0,0,1,0.0,0,5882296,6.4,0.24,82.6,0.5,2.0,Man City,True,Brighton,,-0.71
+João Cancelo,Man City,Brighton,2022-10-22,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,1,0.0,0,5929322,6.4,0.23,83.27,0.45,6.0,Man City,False,Leeds United,,-0.8
+João Cancelo,Man City,Leeds United,2022-10-29,False,90,0.0,0.04,0.0,0.04,6,2.0,1.0,4.9,0,1,0,0.0,0,6026233,5.8,0.23,83.83,0.5,-2.0,Man City,True,Fulham,,-0.3
+João Cancelo,Man City,Fulham,2022-11-05,True,25,0.0,0.0,0.0,0.0,-2,0.0,0.0,0.2,0,0,1,0.0,0,6226591,5.2,0.23,79.31,0.46,1.0,Man City,True,Brentford,,0.69
+João Cancelo,Man City,Brentford,2022-11-12,True,85,0.0,0.08,0.0,0.02,1,3.0,1.0,8.7,0,0,1,0.4,1,5957230,1.8,0.03,79.71,0.43,1.0,Man City,False,Leicester City,,-0.05
+João Cancelo,Man City,Leicester City,2022-12-28,False,22,0.0,0.11,0.0,0.0,1,1.0,0.0,2.2,0,0,1,0.4,0,5676599,1.6,0.05,75.87,0.4,0.0,Man City,True,Everton,,0.34
+João Cancelo,Man City,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,5607218,1.2,0.05,71.12,0.4,1.0,Man City,False,Chelsea,,-0.72
+João Cancelo,Man City,Chelsea,2023-01-05,False,45,0.0,0.05,0.0,0.0,1,1.0,0.0,2.8,0,0,0,0.24,1,5293847,0.2,0.05,69.59,0.38,1.0,Man City,False,Manchester United,,-0.1
+João Cancelo,Man City,Manchester United,2023-01-14,False,90,0.0,0.0,0.0,0.04,1,0.0,1.0,3.5,0,0,2,1.75,1,4837585,0.8,0.05,70.72,0.35,0.0,Man City,True,Tottenham,,1.07
+João Cancelo,Man City,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4837585,0.6,0.03,67.0,0.35,0.0,Man City,True,Wolverhampton,,-0.48
+João Cancelo,Man City,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4590624,0.4,0.01,63.65,0.35,0.0,Man City,False,Tottenham,,-0.03
+João Cancelo,Man City,Tottenham,2023-02-05,False,0,0.0,0.0,1.0,0.09,0,0.0,1.0,0.0,0,0,0,0.0,0,3154305,0.4,0.21,60.62,0.35,0.0,Man City,True,Aston Villa,,0.55
+João Cancelo,Man City,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2550288,0.2,0.2,57.86,0.35,0.0,Man City,False,Arsenal,,-0.0
+João Cancelo,Man City,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2550288,0.0,0.2,55.35,0.35,0.0,Man City,False,Nottingham Forest,,
+João Cancelo,Man City,Nottingham Forest,2023-02-18,False,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,2357623,0.0,0.2,53.04,0.35,0.0,Man City,False,Bournemouth,,0.19
+João Cancelo,Man City,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2258781,0.0,0.2,50.92,0.35,0.0,Man City,True,Newcastle United,,0.73
+João Cancelo,Man City,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2207073,0.0,0.0,48.96,0.35,0.0,Man City,False,Crystal Palace,,0.13
+João Cancelo,Man City,Crystal Palace,2023-03-11,False,0,1.0,0.25,1.0,0.55,0,4.0,1.0,0.0,0,0,0,0.0,0,2163387,0.0,0.25,47.15,0.35,0.0,Man City,True,Liverpool,,-0.53
+João Cancelo,Man City,Liverpool,2023-04-01,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,2117573,0.0,0.25,45.46,0.35,0.0,Man City,False,Southampton,,-1.07
+João Cancelo,Man City,Southampton,2023-04-08,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,2102937,0.0,0.25,43.9,0.35,0.0,Man City,True,Leeds United,,-0.79
+João Cancelo,Man City,Leeds United,2023-04-15,True,0,0.0,0.05,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,2088706,0.0,0.26,42.43,0.35,0.0,Man City,True,Arsenal,,0.36
+João Cancelo,Man City,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2071324,0.0,0.26,41.06,0.35,0.0,Man City,False,Fulham,,1.37
+João Cancelo,Man City,Fulham,2023-04-30,False,0,0.0,0.11,0.0,0.1,0,3.0,3.0,0.0,0,0,0,0.0,0,2062746,0.0,0.03,39.78,0.35,0.0,Man City,True,West Ham,,0.63
+João Cancelo,Man City,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2062746,0.0,0.03,38.58,0.35,0.0,Man City,True,Leicester City,,0.83
+João Cancelo,Man City,Leicester City,2023-05-06,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,2050272,0.0,0.03,37.44,0.35,0.0,Man City,False,Everton,,-0.63
+João Cancelo,Man City,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2043501,0.0,0.02,36.37,0.35,0.0,Man City,True,Chelsea,,-0.25
+João Cancelo,Man City,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2037627,0.0,0.02,35.36,0.35,0.0,Man City,False,Brighton,,-0.39
+João Cancelo,Man City,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2037627,0.0,0.0,34.41,0.35,0.0,Man City,False,Brentford,,-0.55
+João Cancelo,Man City,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2032934,0.0,0.0,33.5,0.35,,Man City,False,Burnley,,0.0

@@ -1,19 +1,19 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Wanya Marçal-Madivadua,Leicester,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leicester,True,Tottenham,,1.07
-Wanya Marçal-Madivadua,Leicester,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leicester,False,Manchester United,,-0.1
-Wanya Marçal-Madivadua,Leicester,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leicester,True,Arsenal,,0.36
-Wanya Marçal-Madivadua,Leicester,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leicester,False,Southampton,,-1.07
-Wanya Marçal-Madivadua,Leicester,Southampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leicester,True,Chelsea,,-0.25
-Wanya Marçal-Madivadua,Leicester,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leicester,False,Brentford,,-0.55
-Wanya Marçal-Madivadua,Leicester,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leicester,False,Crystal Palace,,0.13
-Wanya Marçal-Madivadua,Leicester,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leicester,True,Aston Villa,,0.55
-Wanya Marçal-Madivadua,Leicester,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leicester,True,Bournemouth,,1.46
-Wanya Marçal-Madivadua,Leicester,Bournemouth,2023-04-08,True,0,1.0,0.48,0.0,0.1,0,1.0,1.0,0.0,0,0,0.0,0.1,0.0,0.0,Leicester,False,Manchester City,,-1.26
-Wanya Marçal-Madivadua,Leicester,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.1,0.0,0.0,Leicester,True,Wolverhampton,,-0.48
-Wanya Marçal-Madivadua,Leicester,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.0,0.1,0.0,0.0,Leicester,False,Leicester City,,-0.05
-Wanya Marçal-Madivadua,Leicester,Leicester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.1,0.0,0.0,Leicester,True,Everton,,0.34
-Wanya Marçal-Madivadua,Leicester,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.1,0.0,0.0,Leicester,False,Fulham,,1.37
-Wanya Marçal-Madivadua,Leicester,Fulham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leicester,True,Liverpool,,-0.53
-Wanya Marçal-Madivadua,Leicester,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leicester,False,Newcastle United,,-0.34
-Wanya Marçal-Madivadua,Leicester,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Leicester,True,West Ham,,0.63
-Wanya Marçal-Madivadua,Leicester,West Ham,2023-05-28,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,,Burnley,True,Aston Villa,,0.55
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Wanya Marçal-Madivadua,Leicester,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0,Leicester,True,Tottenham,,1.07
+Wanya Marçal-Madivadua,Leicester,Tottenham,,True,0,,,,,0,,,0.0,0,0,14,0.0,0.0,0.0,0.0,Leicester,False,Manchester United,,-0.1
+Wanya Marçal-Madivadua,Leicester,Manchester United,,False,0,,,,,0,,,0.0,0,0,32,0.0,0.0,0.0,0.0,Leicester,True,Arsenal,,0.36
+Wanya Marçal-Madivadua,Leicester,Arsenal,,True,0,,,,,0,,,0.0,0,0,73,0.0,0.0,0.0,0.0,Leicester,False,Southampton,,-1.07
+Wanya Marçal-Madivadua,Leicester,Southampton,,False,0,,,,,0,,,0.0,0,0,69,0.0,0.0,0.0,0.0,Leicester,True,Chelsea,,-0.25
+Wanya Marçal-Madivadua,Leicester,Chelsea,,True,0,,,,,0,,,0.0,0,0,100,0.0,0.0,0.0,0.0,Leicester,False,Brentford,,-0.55
+Wanya Marçal-Madivadua,Leicester,Brentford,,False,0,,,,,0,,,0.0,0,0,153,0.0,0.0,0.0,0.0,Leicester,False,Crystal Palace,,0.13
+Wanya Marçal-Madivadua,Leicester,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,128,0.0,0.0,0.0,0.0,Leicester,True,Aston Villa,,0.55
+Wanya Marçal-Madivadua,Leicester,Aston Villa,,True,0,,,,,0,,,0.0,0,0,128,0.0,0.0,0.0,0.0,Leicester,True,Bournemouth,,1.46
+Wanya Marçal-Madivadua,Leicester,Bournemouth,2023-04-08,True,0,1.0,0.48,0.0,0.1,0,1.0,1.0,0.0,0,0,140,0.0,0.1,0.0,0.0,Leicester,False,Manchester City,,-1.26
+Wanya Marçal-Madivadua,Leicester,Manchester City,,False,0,,,,,0,,,0.0,0,0,157,0.0,0.1,0.0,0.0,Leicester,True,Wolverhampton,,-0.48
+Wanya Marçal-Madivadua,Leicester,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,171,0.0,0.1,0.0,0.0,Leicester,False,Leicester City,,-0.05
+Wanya Marçal-Madivadua,Leicester,Leicester City,,False,0,,,,,0,,,0.0,0,0,174,0.0,0.1,0.0,0.0,Leicester,True,Everton,,0.34
+Wanya Marçal-Madivadua,Leicester,Everton,,True,0,,,,,0,,,0.0,0,0,175,0.0,0.1,0.0,0.0,Leicester,False,Fulham,,1.37
+Wanya Marçal-Madivadua,Leicester,Fulham,,False,0,,,,,0,,,0.0,0,0,195,0.0,0.0,0.0,0.0,Leicester,True,Liverpool,,-0.53
+Wanya Marçal-Madivadua,Leicester,Liverpool,,True,0,,,,,0,,,0.0,0,0,202,0.0,0.0,0.0,0.0,Leicester,False,Newcastle United,,-0.34
+Wanya Marçal-Madivadua,Leicester,Newcastle United,,False,0,,,,,0,,,0.0,0,0,206,0.0,0.0,0.0,0.0,Leicester,True,West Ham,,0.63
+Wanya Marçal-Madivadua,Leicester,West Ham,2023-05-28,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,224,0.0,0.0,0.0,,Burnley,True,Aston Villa,,0.55

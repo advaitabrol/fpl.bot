@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Mason Mount,Man Utd,Wolverhampton,2023-08-14,True,67,0.0,0.0,0.0,0.0,3,0.0,0.0,0.6,0,1,3.0,0.0,67.0,3.0,2.0,2.13,2.99,0.05,2.0,Man Utd,False,Tottenham,,-0.36
-Mason Mount,Man Utd,Tottenham,2023-08-19,False,84,0.0,0.0,0.0,0.06,2,0.0,2.0,3.9,0,1,2.5,0.0,75.5,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Nottingham Forest,,1.55
-Mason Mount,Man Utd,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,1.67,0.0,50.33,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Arsenal,,-0.48
-Mason Mount,Man Utd,Arsenal,,False,0,,,,,0,,,0.0,0,0,1.25,0.0,37.75,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Brighton,,-0.66
-Mason Mount,Man Utd,Brighton,,True,0,,,,,0,,,0.0,0,0,1.0,0.0,30.2,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Burnley,,0.0
-Mason Mount,Man Utd,Burnley,,False,0,,,,,0,,,0.0,0,0,0.4,0.0,25.17,3.0,2.0,2.13,2.99,0.05,1.0,Man Utd,True,Crystal Palace,,0.88
-Mason Mount,Man Utd,Crystal Palace,2023-09-30,True,76,0.0,0.09,0.0,0.05,1,2.0,1.0,5.6,0,1,0.2,0.02,32.43,3.0,2.0,2.13,2.99,0.05,2.0,Man Utd,True,Brentford,,0.79
-Mason Mount,Man Utd,Brentford,2023-10-07,True,62,0.0,0.08,0.0,0.04,2,1.0,1.0,3.2,0,1,0.6,0.03,36.12,3.0,2.0,2.13,2.99,0.05,1.0,Man Utd,False,Sheffield,,-0.61
-Mason Mount,Man Utd,Sheffield,2023-10-21,False,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0.8,0.03,32.33,3.0,2.0,2.13,2.99,0.05,1.0,Man Utd,True,Manchester City,,-0.96
-Mason Mount,Man Utd,Manchester City,2023-10-29,True,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,1.0,0.03,33.6,3.0,2.0,2.13,2.99,0.05,1.0,Man Utd,False,Fulham,,0.86
-Mason Mount,Man Utd,Fulham,2023-11-04,False,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,1.2,0.03,31.55,3.0,2.0,2.13,2.99,0.05,1.0,Man Utd,True,Luton,,
-Mason Mount,Man Utd,Luton,2023-11-11,True,50,0.0,0.0,0.0,0.01,1,0.0,1.0,3.6,0,0,1.2,0.02,33.08,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Everton,,-0.24
-Mason Mount,Man Utd,Everton,,False,0,,,,,0,,,0.0,0,0,0.8,0.0,30.54,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Newcastle United,,-0.41
-Mason Mount,Man Utd,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.6,0.0,28.36,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Chelsea,,-0.25
-Mason Mount,Man Utd,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.4,0.0,26.47,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Bournemouth,,1.22
-Mason Mount,Man Utd,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,24.81,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Liverpool,,-1.01
-Mason Mount,Man Utd,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,23.35,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,West Ham,,-0.22
-Mason Mount,Man Utd,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,22.06,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Aston Villa,,0.64
-Mason Mount,Man Utd,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,20.89,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Nottingham Forest,,-0.55
-Mason Mount,Man Utd,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,19.85,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Tottenham,,0.69
-Mason Mount,Man Utd,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,18.9,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Wolverhampton,,-0.52
-Mason Mount,Man Utd,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,18.05,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,West Ham,,0.49
-Mason Mount,Man Utd,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,17.26,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Aston Villa,,0.29
-Mason Mount,Man Utd,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,16.54,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Luton,,
-Mason Mount,Man Utd,Luton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,15.88,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Fulham,,-0.13
-Mason Mount,Man Utd,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,15.27,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Manchester City,,-1.32
-Mason Mount,Man Utd,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,14.7,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Everton,,0.53
-Mason Mount,Man Utd,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,14.18,3.0,2.0,2.13,2.99,0.05,6.0,Man Utd,False,Brentford,,-0.53
-Mason Mount,Man Utd,Brentford,2024-03-30,False,10,1.0,0.38,0.0,0.0,6,1.0,0.0,5.2,0,0,1.2,0.08,14.03,3.0,2.0,2.13,2.99,0.05,1.0,Man Utd,False,Chelsea,,-0.85
-Mason Mount,Man Utd,Chelsea,2024-04-04,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,1.4,0.08,13.7,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Liverpool,,0.18
-Mason Mount,Man Utd,Liverpool,2024-04-07,True,6,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,0,1.4,0.08,13.45,3.0,2.0,2.13,2.99,0.05,1.0,Man Utd,False,Bournemouth,,0.19
-Mason Mount,Man Utd,Bournemouth,2024-04-13,False,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1.6,0.08,13.41,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Sheffield,,0.68
-Mason Mount,Man Utd,Sheffield,,True,0,,,,,0,,,0.0,0,0,1.6,0.08,13.0,3.0,2.0,2.13,2.99,0.05,1.0,Man Utd,True,Burnley,,0.39
-Mason Mount,Man Utd,Burnley,2024-04-27,True,1,0.0,0.0,0.0,0.2,1,0.0,1.0,1.5,0,0,0.6,0.0,12.65,3.0,2.0,2.13,2.99,0.05,2.0,Man Utd,False,Crystal Palace,,0.38
-Mason Mount,Man Utd,Crystal Palace,2024-05-06,False,79,0.0,0.07,0.0,0.0,2,1.0,0.0,2.0,0,1,0.8,0.01,14.54,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Arsenal,,-0.11
-Mason Mount,Man Utd,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.8,0.01,14.14,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Newcastle United,,0.55
-Mason Mount,Man Utd,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.6,0.01,13.76,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Brighton,,-0.6
-Mason Mount,Man Utd,Brighton,,False,0,,,,,0,,,0.0,0,0,0.6,0.01,13.39,3.0,2.0,2.13,2.99,0.05,,Man Utd,True,Fulham,,-0.13
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Mason Mount,Man Utd,Wolverhampton,2023-08-14,True,67,0.0,0.0,0.0,0.0,3,0.0,0.0,0.6,0,1,298055,3.0,0.0,67.0,3.0,2.0,2.13,2.99,0.05,2.0,Man Utd,False,Tottenham,,-0.36
+Mason Mount,Man Utd,Tottenham,2023-08-19,False,84,0.0,0.0,0.0,0.06,2,0.0,2.0,3.9,0,1,296832,2.5,0.0,75.5,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Nottingham Forest,,1.55
+Mason Mount,Man Utd,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,190697,1.67,0.0,50.33,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Arsenal,,-0.48
+Mason Mount,Man Utd,Arsenal,,False,0,,,,,0,,,0.0,0,0,129000,1.25,0.0,37.75,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Brighton,,-0.66
+Mason Mount,Man Utd,Brighton,,True,0,,,,,0,,,0.0,0,0,106162,1.0,0.0,30.2,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Burnley,,0.0
+Mason Mount,Man Utd,Burnley,,False,0,,,,,0,,,0.0,0,0,99511,0.4,0.0,25.17,3.0,2.0,2.13,2.99,0.05,1.0,Man Utd,True,Crystal Palace,,0.88
+Mason Mount,Man Utd,Crystal Palace,2023-09-30,True,76,0.0,0.09,0.0,0.05,1,2.0,1.0,5.6,0,1,99880,0.2,0.02,32.43,3.0,2.0,2.13,2.99,0.05,2.0,Man Utd,True,Brentford,,0.79
+Mason Mount,Man Utd,Brentford,2023-10-07,True,62,0.0,0.08,0.0,0.04,2,1.0,1.0,3.2,0,1,101092,0.6,0.03,36.12,3.0,2.0,2.13,2.99,0.05,1.0,Man Utd,False,Sheffield,,-0.61
+Mason Mount,Man Utd,Sheffield,2023-10-21,False,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,101387,0.8,0.03,32.33,3.0,2.0,2.13,2.99,0.05,1.0,Man Utd,True,Manchester City,,-0.96
+Mason Mount,Man Utd,Manchester City,2023-10-29,True,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,98045,1.0,0.03,33.6,3.0,2.0,2.13,2.99,0.05,1.0,Man Utd,False,Fulham,,0.86
+Mason Mount,Man Utd,Fulham,2023-11-04,False,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,96343,1.2,0.03,31.55,3.0,2.0,2.13,2.99,0.05,1.0,Man Utd,True,Luton,,
+Mason Mount,Man Utd,Luton,2023-11-11,True,50,0.0,0.0,0.0,0.01,1,0.0,1.0,3.6,0,0,95443,1.2,0.02,33.08,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Everton,,-0.24
+Mason Mount,Man Utd,Everton,,False,0,,,,,0,,,0.0,0,0,94948,0.8,0.0,30.54,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Newcastle United,,-0.41
+Mason Mount,Man Utd,Newcastle United,,False,0,,,,,0,,,0.0,0,0,92618,0.6,0.0,28.36,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Chelsea,,-0.25
+Mason Mount,Man Utd,Chelsea,,True,0,,,,,0,,,0.0,0,0,91301,0.4,0.0,26.47,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Bournemouth,,1.22
+Mason Mount,Man Utd,Bournemouth,,True,0,,,,,0,,,0.0,0,0,90124,0.2,0.0,24.81,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Liverpool,,-1.01
+Mason Mount,Man Utd,Liverpool,,False,0,,,,,0,,,0.0,0,0,88896,0.0,0.0,23.35,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,West Ham,,-0.22
+Mason Mount,Man Utd,West Ham,,False,0,,,,,0,,,0.0,0,0,88061,0.0,0.0,22.06,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Aston Villa,,0.64
+Mason Mount,Man Utd,Aston Villa,,True,0,,,,,0,,,0.0,0,0,87466,0.0,0.0,20.89,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Nottingham Forest,,-0.55
+Mason Mount,Man Utd,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,86650,0.0,0.0,19.85,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Tottenham,,0.69
+Mason Mount,Man Utd,Tottenham,,True,0,,,,,0,,,0.0,0,0,85674,0.0,0.0,18.9,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Wolverhampton,,-0.52
+Mason Mount,Man Utd,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,85020,0.0,0.0,18.05,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,West Ham,,0.49
+Mason Mount,Man Utd,West Ham,,True,0,,,,,0,,,0.0,0,0,84804,0.0,0.0,17.26,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Aston Villa,,0.29
+Mason Mount,Man Utd,Aston Villa,,False,0,,,,,0,,,0.0,0,0,84351,0.0,0.0,16.54,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Luton,,
+Mason Mount,Man Utd,Luton,,False,0,,,,,0,,,0.0,0,0,83881,0.0,0.0,15.88,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Fulham,,-0.13
+Mason Mount,Man Utd,Fulham,,True,0,,,,,0,,,0.0,0,0,83440,0.0,0.0,15.27,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Manchester City,,-1.32
+Mason Mount,Man Utd,Manchester City,,False,0,,,,,0,,,0.0,0,0,83145,0.0,0.0,14.7,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Everton,,0.53
+Mason Mount,Man Utd,Everton,,True,0,,,,,0,,,0.0,0,0,82876,0.0,0.0,14.18,3.0,2.0,2.13,2.99,0.05,6.0,Man Utd,False,Brentford,,-0.53
+Mason Mount,Man Utd,Brentford,2024-03-30,False,10,1.0,0.38,0.0,0.0,6,1.0,0.0,5.2,0,0,83155,1.2,0.08,14.03,3.0,2.0,2.13,2.99,0.05,1.0,Man Utd,False,Chelsea,,-0.85
+Mason Mount,Man Utd,Chelsea,2024-04-04,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,84002,1.4,0.08,13.7,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Liverpool,,0.18
+Mason Mount,Man Utd,Liverpool,2024-04-07,True,6,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,0,84178,1.4,0.08,13.45,3.0,2.0,2.13,2.99,0.05,1.0,Man Utd,False,Bournemouth,,0.19
+Mason Mount,Man Utd,Bournemouth,2024-04-13,False,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,84627,1.6,0.08,13.41,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Sheffield,,0.68
+Mason Mount,Man Utd,Sheffield,,True,0,,,,,0,,,0.0,0,0,84905,1.6,0.08,13.0,3.0,2.0,2.13,2.99,0.05,1.0,Man Utd,True,Burnley,,0.39
+Mason Mount,Man Utd,Burnley,2024-04-27,True,1,0.0,0.0,0.0,0.2,1,0.0,1.0,1.5,0,0,84746,0.6,0.0,12.65,3.0,2.0,2.13,2.99,0.05,2.0,Man Utd,False,Crystal Palace,,0.38
+Mason Mount,Man Utd,Crystal Palace,2024-05-06,False,79,0.0,0.07,0.0,0.0,2,1.0,0.0,2.0,0,1,84985,0.8,0.01,14.54,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Arsenal,,-0.11
+Mason Mount,Man Utd,Arsenal,,True,0,,,,,0,,,0.0,0,0,85249,0.8,0.01,14.14,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,True,Newcastle United,,0.55
+Mason Mount,Man Utd,Newcastle United,,True,0,,,,,0,,,0.0,0,0,85249,0.6,0.01,13.76,3.0,2.0,2.13,2.99,0.05,0.0,Man Utd,False,Brighton,,-0.6
+Mason Mount,Man Utd,Brighton,,False,0,,,,,0,,,0.0,0,0,84515,0.6,0.01,13.39,3.0,2.0,2.13,2.99,0.05,,Man Utd,True,Fulham,,-0.13

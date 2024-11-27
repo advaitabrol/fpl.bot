@@ -8,6 +8,12 @@ import LabeledInput from '../../ui/LabeledInput';
 import SuggestedTransfer from './SuggestedTransfer';
 import NetTransferRecap from './NetTransferRecap';
 
+import {
+  Player,
+  Transfer,
+  TransferConfiguration,
+} from '../../services/interfaces';
+
 // Styled Components
 const ModalBackground = styled.div`
   position: fixed;
@@ -136,18 +142,11 @@ const ModalContent = styled.div<{ loading: boolean }>`
 
 // Props
 interface ConfigureTransfersProps {
-  team: any[]; // Replace with your specific Player type
+  team: Player[]; // Replace with your specific Player type
   onClose: () => void;
-  onSubmit: (data: {
-    maxTransfers: number;
-    keepTeams: string[];
-    avoidTeams: string[];
-    keepPlayers: string[];
-    avoidPlayers: string[];
-    selectedRange: [number, number];
-  }) => void;
+  onSubmit: (data: TransferConfiguration) => void;
   view: 'configure' | 'suggestions';
-  suggestedTransfers?: any[];
+  suggestedTransfers?: Transfer[];
   totalNetPoints?: number;
   totalNetCost?: number;
   onApprove: () => void;
@@ -205,12 +204,14 @@ const ConfigureTransfers: React.FC<ConfigureTransfersProps> = ({
     setLoading(true);
     try {
       await onSubmit({
-        maxTransfers,
-        keepTeams,
-        avoidTeams,
-        keepPlayers,
-        avoidPlayers,
-        selectedRange,
+        team,
+        max_transfers: maxTransfers,
+        keep_players: keepPlayers,
+        avoid_players: avoidPlayers,
+        keep_teams: keepTeams,
+        avoid_teams: avoidTeams,
+        desired_selected: selectedRange,
+        captain_scale: 2.0,
       });
     } finally {
       setLoading(false);
@@ -321,9 +322,9 @@ const ConfigureTransfers: React.FC<ConfigureTransfersProps> = ({
               {suggestedTransfers.map((transfer, index) => (
                 <SuggestedTransfer
                   key={index}
-                  outPlayer={transfer.out}
-                  inPlayer={transfer.in}
-                  netPoints={transfer.netPoints}
+                  out={transfer.out}
+                  in_player={transfer.in_player}
+                  net_points={transfer.net_points}
                 />
               ))}
               <NetTransferRecap

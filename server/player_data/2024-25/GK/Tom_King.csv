@@ -1,12 +1,12 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Tom King,Wolves,Arsenal,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0.0,0.0,Wolves,True,Chelsea,,0.0
-Tom King,Wolves,Chelsea,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0.0,0.0,Wolves,False,Nottingham Forest,,-0.54
-Tom King,Wolves,Nottingham Forest,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0.0,0.0,Wolves,True,Newcastle United,,0.67
-Tom King,Wolves,Newcastle United,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0.0,0.0,Wolves,False,Aston Villa,,0.11
-Tom King,Wolves,Aston Villa,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0.0,0.0,Wolves,True,Liverpool,,0.24
-Tom King,Wolves,Liverpool,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0.0,0.0,Wolves,False,Brentford,,-0.15
-Tom King,Wolves,Brentford,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0.0,0.0,Wolves,True,Manchester City,,-1.18
-Tom King,Wolves,Manchester City,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0.0,0.0,Wolves,False,Brighton,,-0.61
-Tom King,Wolves,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0.0,0.0,Wolves,True,Crystal Palace,,0.88
-Tom King,Wolves,Crystal Palace,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0.0,0.0,Wolves,True,Southampton,,0.24
-Tom King,Wolves,Southampton,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0.0,,,,,,
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Tom King,Wolves,Arsenal,,False,0,0,0.0,0,0,0,0,0,,0,96111,0.0,0,0.0,0,0,0,0,0.0,0.0,Wolves,True,Chelsea,,0.0
+Tom King,Wolves,Chelsea,,True,0,0,0.0,0,0,0,0,0,,0,121816,0.0,0,0.0,0,0,0,0,0.0,0.0,Wolves,False,Nottingham Forest,,-0.54
+Tom King,Wolves,Nottingham Forest,,False,0,0,0.0,0,0,0,0,0,,0,141813,0.0,0,0.0,0,0,0,0,0.0,0.0,Wolves,True,Newcastle United,,0.67
+Tom King,Wolves,Newcastle United,,True,0,0,0.0,0,0,0,0,0,,0,155082,0.0,0,0.0,0,0,0,0,0.0,0.0,Wolves,False,Aston Villa,,0.11
+Tom King,Wolves,Aston Villa,,False,0,0,0.0,0,0,0,0,0,,0,158944,0.0,0,0.0,0,0,0,0,0.0,0.0,Wolves,True,Liverpool,,0.24
+Tom King,Wolves,Liverpool,,True,0,0,0.0,0,0,0,0,0,,0,162784,0.0,0,0.0,0,0,0,0,0.0,0.0,Wolves,False,Brentford,,-0.15
+Tom King,Wolves,Brentford,,False,0,0,0.0,0,0,0,0,0,,0,171186,0.0,0,0.0,0,0,0,0,0.0,0.0,Wolves,True,Manchester City,,-1.18
+Tom King,Wolves,Manchester City,,True,0,0,0.0,0,0,0,0,0,,0,175704,0.0,0,0.0,0,0,0,0,0.0,0.0,Wolves,False,Brighton,,-0.61
+Tom King,Wolves,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,178109,0.0,0,0.0,0,0,0,0,0.0,0.0,Wolves,True,Crystal Palace,,0.88
+Tom King,Wolves,Crystal Palace,,True,0,0,0.0,0,0,0,0,0,,0,180211,0.0,0,0.0,0,0,0,0,0.0,0.0,Wolves,True,Southampton,,0.24
+Tom King,Wolves,Southampton,,True,0,0,0.0,0,0,0,0,0,,0,180092,0.0,0,0.0,0,0,0,0,0.0,,,,,,

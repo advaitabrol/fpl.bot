@@ -1,13 +1,13 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Issa Kaboré,Man City,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.31,3.15,0.0,38.04,0.0,Man City,False,West Ham,,-0.34
-Issa Kaboré,Man City,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.31,3.15,0.0,38.04,0.0,Man City,True,Brentford,,0.54
-Issa Kaboré,Man City,Brentford,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.31,3.15,0.0,38.04,0.0,Man City,True,Arsenal,,-0.32
-Issa Kaboré,Man City,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.31,3.15,0.0,38.04,0.0,Man City,False,Newcastle United,,-0.44
-Issa Kaboré,Man City,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.31,3.15,0.0,38.04,0.0,Man City,True,Fulham,,0.27
-Issa Kaboré,Man City,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.31,3.15,0.0,38.04,0.0,Man City,False,Wolverhampton,,-0.53
-Issa Kaboré,Man City,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.31,3.15,0.0,38.04,0.0,Man City,True,Southampton,,0.24
-Issa Kaboré,Man City,Southampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.31,3.15,0.0,38.04,0.0,Man City,False,Bournemouth,,-0.04
-Issa Kaboré,Man City,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.31,3.15,0.0,38.04,0.0,Man City,False,Brighton,,-0.61
-Issa Kaboré,Man City,Brighton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.31,3.15,0.0,38.04,,Man City,True,Chelsea,,0.0
-,Man City,,,,,,,,,,,,,,,,,,,,,,,,,,,Man City,False,Brentford,,-0.15
-,Man City,,,,,,,,,,,,,,,,,,,,,,,,,,,Man City,True,West Ham,,0.48
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Issa Kaboré,Man City,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.31,3.15,0.0,38.04,0.0,Man City,False,West Ham,,-0.34
+Issa Kaboré,Man City,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,653.0,0.0,0.0,0.0,0.0,0.31,3.15,0.0,38.04,0.0,Man City,True,Brentford,,0.54
+Issa Kaboré,Man City,Brentford,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,940.0,0.0,0.0,0.0,0.0,0.31,3.15,0.0,38.04,0.0,Man City,True,Arsenal,,-0.32
+Issa Kaboré,Man City,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,775.0,0.0,0.0,0.0,0.0,0.31,3.15,0.0,38.04,0.0,Man City,False,Newcastle United,,-0.44
+Issa Kaboré,Man City,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,701.0,0.0,0.0,0.0,0.0,0.31,3.15,0.0,38.04,0.0,Man City,True,Fulham,,0.27
+Issa Kaboré,Man City,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,654.0,0.0,0.0,0.0,0.0,0.31,3.15,0.0,38.04,0.0,Man City,False,Wolverhampton,,-0.53
+Issa Kaboré,Man City,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,627.0,0.0,0.0,0.0,0.0,0.31,3.15,0.0,38.04,0.0,Man City,True,Southampton,,0.24
+Issa Kaboré,Man City,Southampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,618.0,0.0,0.0,0.0,0.0,0.31,3.15,0.0,38.04,0.0,Man City,False,Bournemouth,,-0.04
+Issa Kaboré,Man City,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,601.0,0.0,0.0,0.0,0.0,0.31,3.15,0.0,38.04,0.0,Man City,False,Brighton,,-0.61
+Issa Kaboré,Man City,Brighton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,596.0,0.0,0.0,0.0,0.0,0.31,3.15,0.0,38.04,,Man City,True,Chelsea,,0.0
+,Man City,,,,,,,,,,,,,,,,,,,,,,,,,,,,Man City,False,Brentford,,-0.15
+,Man City,,,,,,,,,,,,,,,,,,,,,,,,,,,,Man City,True,West Ham,,0.48

@@ -3,11 +3,7 @@ import styled from 'styled-components';
 import PlayerIcon from '../../ui/PlayerIcon';
 import { useTeamColors } from '../../hooks/useTeamColors';
 
-interface SuggestedTransferProps {
-  outPlayer: any; // Replace with specific Player type
-  inPlayer: any; // Replace with specific Player type
-  netPoints: number;
-}
+import { Transfer } from '../../services/interfaces';
 
 const TransferRow = styled.div`
   display: flex;
@@ -66,16 +62,16 @@ const PlayerPoints = styled.p`
   color: #555;
 `;
 
-const SuggestedTransfer: React.FC<SuggestedTransferProps> = ({
-  outPlayer,
-  inPlayer,
-  netPoints,
+const SuggestedTransfer: React.FC<Transfer> = ({
+  out,
+  in_player,
+  net_points,
 }) => {
   const { primary: outPrimary, secondary: outSecondary } = useTeamColors(
-    outPlayer.team
+    out.team
   );
   const { primary: inPrimary, secondary: inSecondary } = useTeamColors(
-    inPlayer.team
+    in_player.team
   );
 
   // Helper to format the player's display name (first and last name only)
@@ -95,13 +91,11 @@ const SuggestedTransfer: React.FC<SuggestedTransferProps> = ({
         />
         <PointsPriceWrapper>
           <PlayerName>
-            {formatName(outPlayer.name)} (£{outPlayer.price.toFixed(2)})
+            {formatName(out.name)} (£{out.price.toFixed(2)})
           </PlayerName>
           <PlayerPoints>
             Points:{' '}
-            {outPlayer.expected_points
-              .map((p: number) => p.toFixed(2))
-              .join(', ')}
+            {out.expected_points.map((p: number) => p.toFixed(2)).join(', ')}
           </PlayerPoints>
         </PointsPriceWrapper>
       </PlayerInfo>
@@ -120,11 +114,11 @@ const SuggestedTransfer: React.FC<SuggestedTransferProps> = ({
         />
         <PointsPriceWrapper>
           <PlayerName>
-            {formatName(inPlayer.name)} (£{inPlayer.price.toFixed(2)})
+            {formatName(in_player.name)} (£{in_player.price.toFixed(2)})
           </PlayerName>
           <PlayerPoints>
             Points:{' '}
-            {inPlayer.expected_points
+            {in_player.expected_points
               .map((p: number) => p.toFixed(2))
               .join(', ')}
           </PlayerPoints>
@@ -132,8 +126,10 @@ const SuggestedTransfer: React.FC<SuggestedTransferProps> = ({
       </PlayerInfo>
 
       {/* Net Points Change */}
-      <PointsChange netPoints={netPoints}>
-        {netPoints > 0 ? `+${netPoints.toFixed(2)}` : `${netPoints.toFixed(2)}`}{' '}
+      <PointsChange netPoints={net_points}>
+        {net_points > 0
+          ? `+${net_points.toFixed(2)}`
+          : `${net_points.toFixed(2)}`}{' '}
         points
       </PointsChange>
     </TransferRow>

@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Igor Thiago Nascimento Rodrigues,Brentford,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,False,Liverpool,,-1.08
-Igor Thiago Nascimento Rodrigues,Brentford,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,True,Southampton,,0.24
-Igor Thiago Nascimento Rodrigues,Brentford,Southampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,False,Manchester City,,-1.51
-Igor Thiago Nascimento Rodrigues,Brentford,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,False,Tottenham,,-0.3
-Igor Thiago Nascimento Rodrigues,Brentford,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,True,West Ham,,0.48
-Igor Thiago Nascimento Rodrigues,Brentford,West Ham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,True,Wolverhampton,,-0.08
-Igor Thiago Nascimento Rodrigues,Brentford,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,False,Manchester United,,-0.41
-Igor Thiago Nascimento Rodrigues,Brentford,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,True,Ipswich Town,,
-Igor Thiago Nascimento Rodrigues,Brentford,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,False,Fulham,,0.53
-Igor Thiago Nascimento Rodrigues,Brentford,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,True,Bournemouth,,0.84
-Igor Thiago Nascimento Rodrigues,Brentford,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,,Brentford,False,Everton,,-0.39
-,Brentford,,,,,,,,,,,,,,,,,,,Brentford,True,Leicester City,,0.47
-,Brentford,,,,,,,,,,,,,,,,,,,Brentford,False,Aston Villa,,0.11
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Igor Thiago Nascimento Rodrigues,Brentford,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,3171.0,0.0,0.0,0.0,0.0,Brentford,False,Liverpool,,-1.08
+Igor Thiago Nascimento Rodrigues,Brentford,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,2479.0,0.0,0.0,0.0,0.0,Brentford,True,Southampton,,0.24
+Igor Thiago Nascimento Rodrigues,Brentford,Southampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,2162.0,0.0,0.0,0.0,0.0,Brentford,False,Manchester City,,-1.51
+Igor Thiago Nascimento Rodrigues,Brentford,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1977.0,0.0,0.0,0.0,0.0,Brentford,False,Tottenham,,-0.3
+Igor Thiago Nascimento Rodrigues,Brentford,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1959.0,0.0,0.0,0.0,0.0,Brentford,True,West Ham,,0.48
+Igor Thiago Nascimento Rodrigues,Brentford,West Ham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1950.0,0.0,0.0,0.0,0.0,Brentford,True,Wolverhampton,,-0.08
+Igor Thiago Nascimento Rodrigues,Brentford,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1945.0,0.0,0.0,0.0,0.0,Brentford,False,Manchester United,,-0.41
+Igor Thiago Nascimento Rodrigues,Brentford,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1982.0,0.0,0.0,0.0,0.0,Brentford,True,Ipswich Town,,
+Igor Thiago Nascimento Rodrigues,Brentford,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1960.0,0.0,0.0,0.0,0.0,Brentford,False,Fulham,,0.53
+Igor Thiago Nascimento Rodrigues,Brentford,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1930.0,0.0,0.0,0.0,0.0,Brentford,True,Bournemouth,,0.84
+Igor Thiago Nascimento Rodrigues,Brentford,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1964.0,0.0,0.0,0.0,,Brentford,False,Everton,,-0.39
+,Brentford,,,,,,,,,,,,,,,,,,,,Brentford,True,Leicester City,,0.47
+,Brentford,,,,,,,,,,,,,,,,,,,,Brentford,False,Aston Villa,,0.11

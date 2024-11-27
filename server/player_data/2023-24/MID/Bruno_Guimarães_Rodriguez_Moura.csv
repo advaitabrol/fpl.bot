@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Bruno Guimarães Rodriguez Moura,Newcastle,Aston Villa,2023-08-12,True,84,0.0,0.07,0.0,0.0,1,2.0,0.0,3.0,0,1,1.0,0.07,84.0,4.0,5.0,2.73,3.8,0.04,1.0,Newcastle,False,Manchester City,,-1.32
-Bruno Guimarães Rodriguez Moura,Newcastle,Manchester City,2023-08-19,False,90,0.0,0.04,0.0,0.0,1,1.0,0.0,0.5,0,1,1.0,0.06,87.0,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,True,Liverpool,,0.18
-Bruno Guimarães Rodriguez Moura,Newcastle,Liverpool,2023-08-27,True,90,0.0,0.02,0.0,0.06,2,1.0,2.0,4.1,0,1,1.33,0.04,88.0,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,False,Brighton,,-0.6
-Bruno Guimarães Rodriguez Moura,Newcastle,Brighton,2023-09-02,False,90,0.0,0.0,0.0,0.12,2,0.0,1.0,2.8,0,1,1.5,0.03,88.5,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,True,Brentford,,0.79
-Bruno Guimarães Rodriguez Moura,Newcastle,Brentford,2023-09-16,True,90,0.0,0.34,0.0,0.01,2,1.0,1.0,6.7,0,1,1.6,0.09,88.8,4.0,5.0,2.73,3.8,0.04,13.0,Newcastle,False,Sheffield,,-0.61
-Bruno Guimarães Rodriguez Moura,Newcastle,Sheffield,2023-09-24,False,80,1.0,0.54,1.0,0.64,13,1.0,4.0,13.9,2,1,4.0,0.39,87.33,4.0,5.0,2.73,3.8,0.04,3.0,Newcastle,True,Burnley,,0.39
-Bruno Guimarães Rodriguez Moura,Newcastle,Burnley,2023-09-30,True,90,0.0,0.0,0.0,0.73,3,0.0,5.0,10.1,0,1,4.4,0.38,87.71,4.0,5.0,2.73,3.8,0.04,1.0,Newcastle,False,West Ham,,-0.22
-Bruno Guimarães Rodriguez Moura,Newcastle,West Ham,2023-10-08,False,90,0.0,0.02,0.0,0.0,1,1.0,0.0,1.9,0,1,4.2,0.38,88.0,4.0,5.0,2.73,3.8,0.04,3.0,Newcastle,True,Crystal Palace,,0.88
-Bruno Guimarães Rodriguez Moura,Newcastle,Crystal Palace,2023-10-21,True,68,0.0,0.58,0.0,0.0,3,1.0,0.0,4.8,0,1,4.4,0.49,85.78,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,False,Wolverhampton,,-0.52
-Bruno Guimarães Rodriguez Moura,Newcastle,Wolverhampton,2023-10-28,False,90,0.0,0.02,0.0,0.06,2,1.0,1.0,4.1,0,1,4.4,0.43,86.2,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,True,Arsenal,,-0.11
-Bruno Guimarães Rodriguez Moura,Newcastle,Arsenal,2023-11-04,True,90,0.0,0.02,0.0,0.06,2,1.0,3.0,4.3,0,1,2.2,0.13,86.55,4.0,5.0,2.73,3.8,0.04,0.0,Newcastle,False,Bournemouth,,0.19
-Bruno Guimarães Rodriguez Moura,Newcastle,Bournemouth,,False,0,,,,,0,,,0.0,0,0,1.6,0.13,79.33,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,True,Chelsea,,-0.25
-Bruno Guimarães Rodriguez Moura,Newcastle,Chelsea,2023-11-25,True,90,0.0,0.16,0.0,0.0,2,2.0,0.0,4.5,0,1,1.8,0.16,80.15,4.0,5.0,2.73,3.8,0.04,3.0,Newcastle,True,Manchester United,,0.38
-Bruno Guimarães Rodriguez Moura,Newcastle,Manchester United,2023-12-02,True,90,0.0,0.09,0.0,0.1,3,2.0,3.0,7.8,0,1,1.8,0.06,80.86,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,False,Everton,,-0.24
-Bruno Guimarães Rodriguez Moura,Newcastle,Everton,2023-12-07,False,90,0.0,0.08,0.0,0.0,2,1.0,0.0,2.1,0,1,1.8,0.07,81.47,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,False,Tottenham,,-0.36
-Bruno Guimarães Rodriguez Moura,Newcastle,Tottenham,2023-12-10,False,90,0.0,0.02,0.0,0.0,2,1.0,0.0,3.2,0,1,1.8,0.07,82.0,4.0,5.0,2.73,3.8,0.04,7.0,Newcastle,True,Fulham,,-0.13
-Bruno Guimarães Rodriguez Moura,Newcastle,Fulham,2023-12-16,True,90,0.0,0.08,1.0,1.18,7,2.0,5.0,13.3,1,1,3.2,0.29,82.47,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,False,Luton,,
-Bruno Guimarães Rodriguez Moura,Newcastle,Luton,2023-12-23,False,90,0.0,0.29,0.0,0.0,2,4.0,0.0,4.9,0,1,3.2,0.31,82.89,4.0,5.0,2.73,3.8,0.04,1.0,Newcastle,True,Nottingham Forest,,1.55
-Bruno Guimarães Rodriguez Moura,Newcastle,Nottingham Forest,2023-12-26,True,90,0.0,0.0,0.0,0.06,1,0.0,1.0,3.6,0,1,2.8,0.3,83.26,4.0,5.0,2.73,3.8,0.04,1.0,Newcastle,False,Liverpool,,-1.01
-Bruno Guimarães Rodriguez Moura,Newcastle,Liverpool,2024-01-01,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,1,2.6,0.28,83.6,4.0,5.0,2.73,3.8,0.04,4.0,Newcastle,True,Manchester City,,-0.96
-Bruno Guimarães Rodriguez Moura,Newcastle,Manchester City,2024-01-13,True,90,0.0,0.15,1.0,0.13,4,2.0,2.0,6.9,0,1,3.0,0.51,83.9,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,False,Aston Villa,,0.29
-Bruno Guimarães Rodriguez Moura,Newcastle,Aston Villa,2024-01-30,False,90,0.0,0.0,0.0,0.59,2,0.0,2.0,4.9,0,1,2.0,0.29,84.18,4.0,5.0,2.73,3.8,0.04,5.0,Newcastle,True,Luton,,
-Bruno Guimarães Rodriguez Moura,Newcastle,Luton,2024-02-03,True,90,0.0,0.02,1.0,0.66,5,1.0,2.0,9.2,0,1,2.6,0.43,84.43,4.0,5.0,2.73,3.8,0.04,15.0,Newcastle,False,Nottingham Forest,,-0.55
-Bruno Guimarães Rodriguez Moura,Newcastle,Nottingham Forest,2024-02-10,False,90,2.0,0.34,0.0,0.0,15,2.0,0.0,12.7,3,1,5.4,0.5,84.67,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,True,Bournemouth,,1.22
-Bruno Guimarães Rodriguez Moura,Newcastle,Bournemouth,2024-02-17,True,90,0.0,0.04,0.0,0.1,2,2.0,3.0,7.9,0,1,5.6,0.51,84.88,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,False,Arsenal,,-0.48
-Bruno Guimarães Rodriguez Moura,Newcastle,Arsenal,2024-02-24,False,72,0.0,0.0,0.0,0.07,2,0.0,1.0,2.8,0,1,5.2,0.28,84.38,4.0,5.0,2.73,3.8,0.04,6.0,Newcastle,True,Wolverhampton,,0.05
-Bruno Guimarães Rodriguez Moura,Newcastle,Wolverhampton,2024-03-02,True,90,0.0,0.12,0.0,0.58,6,2.0,3.0,6.8,0,1,6.0,0.31,84.59,4.0,5.0,2.73,3.8,0.04,5.0,Newcastle,False,Chelsea,,-0.85
-Bruno Guimarães Rodriguez Moura,Newcastle,Chelsea,2024-03-11,False,80,0.0,0.0,1.0,0.06,5,0.0,2.0,5.2,0,1,6.0,0.3,84.43,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,True,West Ham,,0.49
-Bruno Guimarães Rodriguez Moura,Newcastle,West Ham,2024-03-30,True,90,0.0,0.19,0.0,0.1,2,3.0,2.0,6.3,0,1,3.4,0.27,84.62,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,True,Everton,,0.53
-Bruno Guimarães Rodriguez Moura,Newcastle,Everton,2024-04-02,True,90,0.0,0.14,0.0,0.04,2,1.0,2.0,8.1,0,1,3.4,0.29,84.8,4.0,5.0,2.73,3.8,0.04,11.0,Newcastle,False,Fulham,,0.86
-Bruno Guimarães Rodriguez Moura,Newcastle,Fulham,2024-04-06,False,90,1.0,0.08,0.0,0.26,11,1.0,4.0,12.0,3,1,5.2,0.31,84.97,4.0,5.0,2.73,3.8,0.04,6.0,Newcastle,True,Tottenham,,0.69
-Bruno Guimarães Rodriguez Moura,Newcastle,Tottenham,2024-04-13,True,90,0.0,0.0,1.0,0.54,6,0.0,1.0,5.2,0,1,5.2,0.48,85.12,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,False,Crystal Palace,,0.38
-Bruno Guimarães Rodriguez Moura,Newcastle,Crystal Palace,2024-04-24,False,90,0.0,0.03,0.0,0.02,2,1.0,1.0,4.5,0,1,4.6,0.29,85.27,4.0,5.0,2.73,3.8,0.04,8.0,Newcastle,True,Sheffield,,0.68
-Bruno Guimarães Rodriguez Moura,Newcastle,Sheffield,2024-04-27,True,90,1.0,0.55,0.0,0.18,8,4.0,2.0,14.0,1,1,5.8,0.36,85.41,4.0,5.0,2.73,3.8,0.04,9.0,Newcastle,False,Burnley,,0.0
-Bruno Guimarães Rodriguez Moura,Newcastle,Burnley,2024-05-04,False,90,1.0,0.15,0.0,0.14,9,2.0,2.0,11.9,2,1,7.2,0.36,85.54,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,True,Brighton,,-0.66
-Bruno Guimarães Rodriguez Moura,Newcastle,Brighton,2024-05-11,True,90,0.0,0.06,0.0,0.38,2,1.0,3.0,6.5,0,1,5.4,0.36,85.67,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,False,Manchester United,,-0.63
-Bruno Guimarães Rodriguez Moura,Newcastle,Manchester United,2024-05-15,False,90,0.0,0.16,0.0,0.0,2,3.0,0.0,4.1,0,1,4.6,0.19,85.78,4.0,5.0,2.73,3.8,0.04,16.0,Newcastle,False,Brentford,,-0.53
-Bruno Guimarães Rodriguez Moura,Newcastle,Brentford,2024-05-19,False,90,1.0,0.56,2.0,1.02,16,1.0,4.0,15.5,3,1,7.4,0.7,85.89,4.0,5.0,2.73,3.8,0.04,3.0,Newcastle,True,Southampton,,0.24
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Bruno Guimarães Rodriguez Moura,Newcastle,Aston Villa,2023-08-12,True,84,0.0,0.07,0.0,0.0,1,2.0,0.0,3.0,0,1,275501,1.0,0.07,84.0,4.0,5.0,2.73,3.8,0.04,1.0,Newcastle,False,Manchester City,,-1.32
+Bruno Guimarães Rodriguez Moura,Newcastle,Manchester City,2023-08-19,False,90,0.0,0.04,0.0,0.0,1,1.0,0.0,0.5,0,1,279586,1.0,0.06,87.0,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,True,Liverpool,,0.18
+Bruno Guimarães Rodriguez Moura,Newcastle,Liverpool,2023-08-27,True,90,0.0,0.02,0.0,0.06,2,1.0,2.0,4.1,0,1,262036,1.33,0.04,88.0,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,False,Brighton,,-0.6
+Bruno Guimarães Rodriguez Moura,Newcastle,Brighton,2023-09-02,False,90,0.0,0.0,0.0,0.12,2,0.0,1.0,2.8,0,1,241199,1.5,0.03,88.5,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,True,Brentford,,0.79
+Bruno Guimarães Rodriguez Moura,Newcastle,Brentford,2023-09-16,True,90,0.0,0.34,0.0,0.01,2,1.0,1.0,6.7,0,1,227261,1.6,0.09,88.8,4.0,5.0,2.73,3.8,0.04,13.0,Newcastle,False,Sheffield,,-0.61
+Bruno Guimarães Rodriguez Moura,Newcastle,Sheffield,2023-09-24,False,80,1.0,0.54,1.0,0.64,13,1.0,4.0,13.9,2,1,223734,4.0,0.39,87.33,4.0,5.0,2.73,3.8,0.04,3.0,Newcastle,True,Burnley,,0.39
+Bruno Guimarães Rodriguez Moura,Newcastle,Burnley,2023-09-30,True,90,0.0,0.0,0.0,0.73,3,0.0,5.0,10.1,0,1,237036,4.4,0.38,87.71,4.0,5.0,2.73,3.8,0.04,1.0,Newcastle,False,West Ham,,-0.22
+Bruno Guimarães Rodriguez Moura,Newcastle,West Ham,2023-10-08,False,90,0.0,0.02,0.0,0.0,1,1.0,0.0,1.9,0,1,269823,4.2,0.38,88.0,4.0,5.0,2.73,3.8,0.04,3.0,Newcastle,True,Crystal Palace,,0.88
+Bruno Guimarães Rodriguez Moura,Newcastle,Crystal Palace,2023-10-21,True,68,0.0,0.58,0.0,0.0,3,1.0,0.0,4.8,0,1,281540,4.4,0.49,85.78,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,False,Wolverhampton,,-0.52
+Bruno Guimarães Rodriguez Moura,Newcastle,Wolverhampton,2023-10-28,False,90,0.0,0.02,0.0,0.06,2,1.0,1.0,4.1,0,1,270251,4.4,0.43,86.2,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,True,Arsenal,,-0.11
+Bruno Guimarães Rodriguez Moura,Newcastle,Arsenal,2023-11-04,True,90,0.0,0.02,0.0,0.06,2,1.0,3.0,4.3,0,1,260939,2.2,0.13,86.55,4.0,5.0,2.73,3.8,0.04,0.0,Newcastle,False,Bournemouth,,0.19
+Bruno Guimarães Rodriguez Moura,Newcastle,Bournemouth,,False,0,,,,,0,,,0.0,0,0,210702,1.6,0.13,79.33,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,True,Chelsea,,-0.25
+Bruno Guimarães Rodriguez Moura,Newcastle,Chelsea,2023-11-25,True,90,0.0,0.16,0.0,0.0,2,2.0,0.0,4.5,0,1,211174,1.8,0.16,80.15,4.0,5.0,2.73,3.8,0.04,3.0,Newcastle,True,Manchester United,,0.38
+Bruno Guimarães Rodriguez Moura,Newcastle,Manchester United,2023-12-02,True,90,0.0,0.09,0.0,0.1,3,2.0,3.0,7.8,0,1,210548,1.8,0.06,80.86,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,False,Everton,,-0.24
+Bruno Guimarães Rodriguez Moura,Newcastle,Everton,2023-12-07,False,90,0.0,0.08,0.0,0.0,2,1.0,0.0,2.1,0,1,213881,1.8,0.07,81.47,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,False,Tottenham,,-0.36
+Bruno Guimarães Rodriguez Moura,Newcastle,Tottenham,2023-12-10,False,90,0.0,0.02,0.0,0.0,2,1.0,0.0,3.2,0,1,212234,1.8,0.07,82.0,4.0,5.0,2.73,3.8,0.04,7.0,Newcastle,True,Fulham,,-0.13
+Bruno Guimarães Rodriguez Moura,Newcastle,Fulham,2023-12-16,True,90,0.0,0.08,1.0,1.18,7,2.0,5.0,13.3,1,1,213276,3.2,0.29,82.47,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,False,Luton,,
+Bruno Guimarães Rodriguez Moura,Newcastle,Luton,2023-12-23,False,90,0.0,0.29,0.0,0.0,2,4.0,0.0,4.9,0,1,222174,3.2,0.31,82.89,4.0,5.0,2.73,3.8,0.04,1.0,Newcastle,True,Nottingham Forest,,1.55
+Bruno Guimarães Rodriguez Moura,Newcastle,Nottingham Forest,2023-12-26,True,90,0.0,0.0,0.0,0.06,1,0.0,1.0,3.6,0,1,225705,2.8,0.3,83.26,4.0,5.0,2.73,3.8,0.04,1.0,Newcastle,False,Liverpool,,-1.01
+Bruno Guimarães Rodriguez Moura,Newcastle,Liverpool,2024-01-01,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,1,216995,2.6,0.28,83.6,4.0,5.0,2.73,3.8,0.04,4.0,Newcastle,True,Manchester City,,-0.96
+Bruno Guimarães Rodriguez Moura,Newcastle,Manchester City,2024-01-13,True,90,0.0,0.15,1.0,0.13,4,2.0,2.0,6.9,0,1,214267,3.0,0.51,83.9,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,False,Aston Villa,,0.29
+Bruno Guimarães Rodriguez Moura,Newcastle,Aston Villa,2024-01-30,False,90,0.0,0.0,0.0,0.59,2,0.0,2.0,4.9,0,1,214956,2.0,0.29,84.18,4.0,5.0,2.73,3.8,0.04,5.0,Newcastle,True,Luton,,
+Bruno Guimarães Rodriguez Moura,Newcastle,Luton,2024-02-03,True,90,0.0,0.02,1.0,0.66,5,1.0,2.0,9.2,0,1,217372,2.6,0.43,84.43,4.0,5.0,2.73,3.8,0.04,15.0,Newcastle,False,Nottingham Forest,,-0.55
+Bruno Guimarães Rodriguez Moura,Newcastle,Nottingham Forest,2024-02-10,False,90,2.0,0.34,0.0,0.0,15,2.0,0.0,12.7,3,1,219682,5.4,0.5,84.67,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,True,Bournemouth,,1.22
+Bruno Guimarães Rodriguez Moura,Newcastle,Bournemouth,2024-02-17,True,90,0.0,0.04,0.0,0.1,2,2.0,3.0,7.9,0,1,263395,5.6,0.51,84.88,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,False,Arsenal,,-0.48
+Bruno Guimarães Rodriguez Moura,Newcastle,Arsenal,2024-02-24,False,72,0.0,0.0,0.0,0.07,2,0.0,1.0,2.8,0,1,263469,5.2,0.28,84.38,4.0,5.0,2.73,3.8,0.04,6.0,Newcastle,True,Wolverhampton,,0.05
+Bruno Guimarães Rodriguez Moura,Newcastle,Wolverhampton,2024-03-02,True,90,0.0,0.12,0.0,0.58,6,2.0,3.0,6.8,0,1,259495,6.0,0.31,84.59,4.0,5.0,2.73,3.8,0.04,5.0,Newcastle,False,Chelsea,,-0.85
+Bruno Guimarães Rodriguez Moura,Newcastle,Chelsea,2024-03-11,False,80,0.0,0.0,1.0,0.06,5,0.0,2.0,5.2,0,1,259075,6.0,0.3,84.43,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,True,West Ham,,0.49
+Bruno Guimarães Rodriguez Moura,Newcastle,West Ham,2024-03-30,True,90,0.0,0.19,0.0,0.1,2,3.0,2.0,6.3,0,1,259425,3.4,0.27,84.62,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,True,Everton,,0.53
+Bruno Guimarães Rodriguez Moura,Newcastle,Everton,2024-04-02,True,90,0.0,0.14,0.0,0.04,2,1.0,2.0,8.1,0,1,261989,3.4,0.29,84.8,4.0,5.0,2.73,3.8,0.04,11.0,Newcastle,False,Fulham,,0.86
+Bruno Guimarães Rodriguez Moura,Newcastle,Fulham,2024-04-06,False,90,1.0,0.08,0.0,0.26,11,1.0,4.0,12.0,3,1,253581,5.2,0.31,84.97,4.0,5.0,2.73,3.8,0.04,6.0,Newcastle,True,Tottenham,,0.69
+Bruno Guimarães Rodriguez Moura,Newcastle,Tottenham,2024-04-13,True,90,0.0,0.0,1.0,0.54,6,0.0,1.0,5.2,0,1,262091,5.2,0.48,85.12,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,False,Crystal Palace,,0.38
+Bruno Guimarães Rodriguez Moura,Newcastle,Crystal Palace,2024-04-24,False,90,0.0,0.03,0.0,0.02,2,1.0,1.0,4.5,0,1,262476,4.6,0.29,85.27,4.0,5.0,2.73,3.8,0.04,8.0,Newcastle,True,Sheffield,,0.68
+Bruno Guimarães Rodriguez Moura,Newcastle,Sheffield,2024-04-27,True,90,1.0,0.55,0.0,0.18,8,4.0,2.0,14.0,1,1,266787,5.8,0.36,85.41,4.0,5.0,2.73,3.8,0.04,9.0,Newcastle,False,Burnley,,0.0
+Bruno Guimarães Rodriguez Moura,Newcastle,Burnley,2024-05-04,False,90,1.0,0.15,0.0,0.14,9,2.0,2.0,11.9,2,1,289573,7.2,0.36,85.54,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,True,Brighton,,-0.66
+Bruno Guimarães Rodriguez Moura,Newcastle,Brighton,2024-05-11,True,90,0.0,0.06,0.0,0.38,2,1.0,3.0,6.5,0,1,379822,5.4,0.36,85.67,4.0,5.0,2.73,3.8,0.04,2.0,Newcastle,False,Manchester United,,-0.63
+Bruno Guimarães Rodriguez Moura,Newcastle,Manchester United,2024-05-15,False,90,0.0,0.16,0.0,0.0,2,3.0,0.0,4.1,0,1,379822,4.6,0.19,85.78,4.0,5.0,2.73,3.8,0.04,16.0,Newcastle,False,Brentford,,-0.53
+Bruno Guimarães Rodriguez Moura,Newcastle,Brentford,2024-05-19,False,90,1.0,0.56,2.0,1.02,16,1.0,4.0,15.5,3,1,354704,7.4,0.7,85.89,4.0,5.0,2.73,3.8,0.04,3.0,Newcastle,True,Southampton,,0.24

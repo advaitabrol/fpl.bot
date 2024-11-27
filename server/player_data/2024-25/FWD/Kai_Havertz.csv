@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Kai Havertz,Arsenal,Wolverhampton,2024-08-17,True,90.0,1.0,0.7,1.0,0.1,12.0,5.0,2.0,12.5,3.0,1.0,12.0,1.7,90.0,2.0,Arsenal,False,Aston Villa,,0.11
-Kai Havertz,Arsenal,Aston Villa,2024-08-24,False,90.0,0.0,0.61,0.0,0.0,2.0,1.0,0.0,2.0,0.0,1.0,7.0,1.16,90.0,8.0,Arsenal,True,Brighton,,-0.42
-Kai Havertz,Arsenal,Brighton,2024-08-31,True,90.0,1.0,0.75,0.0,0.65,8.0,2.0,2.0,10.2,2.0,1.0,7.33,1.02,90.0,2.0,Arsenal,False,Tottenham,,-0.3
-Kai Havertz,Arsenal,Tottenham,2024-09-15,False,90.0,0.0,0.14,0.0,0.0,2.0,2.0,0.0,6.1,0.0,1.0,6.0,0.8,90.0,2.0,Arsenal,False,Manchester City,,-1.51
-Kai Havertz,Arsenal,Manchester City,2024-09-22,False,90.0,0.0,0.09,0.0,0.0,2.0,1.0,0.0,3.2,0.0,1.0,5.2,0.66,90.0,6.0,Arsenal,True,Leicester City,,0.47
-Kai Havertz,Arsenal,Leicester City,2024-09-28,True,90.0,1.0,2.24,0.0,0.0,6.0,7.0,0.0,14.4,0.0,1.0,4.0,0.77,90.0,8.0,Arsenal,True,Southampton,,0.24
-Kai Havertz,Arsenal,Southampton,2024-10-05,True,90.0,1.0,1.15,0.0,0.17,8.0,7.0,1.0,13.5,2.0,1.0,5.2,0.87,90.0,2.0,Arsenal,False,Bournemouth,,-0.04
-Kai Havertz,Arsenal,Bournemouth,2024-10-19,False,90.0,0.0,0.07,0.0,0.0,2.0,1.0,0.0,1.7,0.0,1.0,4.0,0.74,90.0,2.0,Arsenal,True,Liverpool,,0.24
-Kai Havertz,Arsenal,Liverpool,2024-10-27,True,90.0,0.0,0.17,0.0,0.15,2.0,2.0,2.0,4.7,0.0,1.0,4.0,0.74,90.0,1.0,Arsenal,False,Newcastle United,,-0.44
-Kai Havertz,Arsenal,Newcastle United,2024-11-02,False,90.0,0.0,0.0,0.0,0.06,1.0,0.0,1.0,2.1,0.0,1.0,3.8,0.73,90.0,1.0,Arsenal,False,Chelsea,,-0.9
-Kai Havertz,Arsenal,Chelsea,2024-11-10,False,90.0,0.0,0.0,0.0,0.03,1.0,0.0,1.0,2.7,0.0,1.0,2.8,0.28,90.0,,Arsenal,True,Nottingham Forest,,1.2
-,Arsenal,,,,,,,,,,,,,,,,,,,Arsenal,False,West Ham,,-0.34
-,Arsenal,,,,,,,,,,,,,,,,,,,Arsenal,True,Manchester United,,0.39
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Kai Havertz,Arsenal,Wolverhampton,2024-08-17,True,90.0,1.0,0.7,1.0,0.1,12.0,5.0,2.0,12.5,3.0,1.0,1087445.0,12.0,1.7,90.0,2.0,Arsenal,False,Aston Villa,,0.11
+Kai Havertz,Arsenal,Aston Villa,2024-08-24,False,90.0,0.0,0.61,0.0,0.0,2.0,1.0,0.0,2.0,0.0,1.0,1638743.0,7.0,1.16,90.0,8.0,Arsenal,True,Brighton,,-0.42
+Kai Havertz,Arsenal,Brighton,2024-08-31,True,90.0,1.0,0.75,0.0,0.65,8.0,2.0,2.0,10.2,2.0,1.0,1755160.0,7.33,1.02,90.0,2.0,Arsenal,False,Tottenham,,-0.3
+Kai Havertz,Arsenal,Tottenham,2024-09-15,False,90.0,0.0,0.14,0.0,0.0,2.0,2.0,0.0,6.1,0.0,1.0,1804099.0,6.0,0.8,90.0,2.0,Arsenal,False,Manchester City,,-1.51
+Kai Havertz,Arsenal,Manchester City,2024-09-22,False,90.0,0.0,0.09,0.0,0.0,2.0,1.0,0.0,3.2,0.0,1.0,1733362.0,5.2,0.66,90.0,6.0,Arsenal,True,Leicester City,,0.47
+Kai Havertz,Arsenal,Leicester City,2024-09-28,True,90.0,1.0,2.24,0.0,0.0,6.0,7.0,0.0,14.4,0.0,1.0,1961057.0,4.0,0.77,90.0,8.0,Arsenal,True,Southampton,,0.24
+Kai Havertz,Arsenal,Southampton,2024-10-05,True,90.0,1.0,1.15,0.0,0.17,8.0,7.0,1.0,13.5,2.0,1.0,2162410.0,5.2,0.87,90.0,2.0,Arsenal,False,Bournemouth,,-0.04
+Kai Havertz,Arsenal,Bournemouth,2024-10-19,False,90.0,0.0,0.07,0.0,0.0,2.0,1.0,0.0,1.7,0.0,1.0,1980343.0,4.0,0.74,90.0,2.0,Arsenal,True,Liverpool,,0.24
+Kai Havertz,Arsenal,Liverpool,2024-10-27,True,90.0,0.0,0.17,0.0,0.15,2.0,2.0,2.0,4.7,0.0,1.0,1768961.0,4.0,0.74,90.0,1.0,Arsenal,False,Newcastle United,,-0.44
+Kai Havertz,Arsenal,Newcastle United,2024-11-02,False,90.0,0.0,0.0,0.0,0.06,1.0,0.0,1.0,2.1,0.0,1.0,1625586.0,3.8,0.73,90.0,1.0,Arsenal,False,Chelsea,,-0.9
+Kai Havertz,Arsenal,Chelsea,2024-11-10,False,90.0,0.0,0.0,0.0,0.03,1.0,0.0,1.0,2.7,0.0,1.0,1257354.0,2.8,0.28,90.0,,Arsenal,True,Nottingham Forest,,1.2
+,Arsenal,,,,,,,,,,,,,,,,,,,,Arsenal,False,West Ham,,-0.34
+,Arsenal,,,,,,,,,,,,,,,,,,,,Arsenal,True,Manchester United,,0.39
