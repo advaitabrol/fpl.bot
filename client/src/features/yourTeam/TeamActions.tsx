@@ -33,13 +33,16 @@ const ActionButton = styled.button<{ primary: boolean }>`
 const TeamActions: React.FC<{
   team: Player[];
   setTeam: (team: Player[]) => void;
-}> = ({ team, setTeam }) => {
+  bank: number;
+  setBank: (value: number) => void;
+}> = ({ team, setTeam, bank, setBank }) => {
   const [showModal, setShowModal] = useState(false);
   const [view, setView] = useState<'configure' | 'suggestions'>('configure');
   const [suggestedTransfers, setSuggestedTransfers] = useState<Transfer[]>([]);
   const [totalNetPoints, setTotalNetPoints] = useState(0);
   const [totalNetCost, setTotalNetCost] = useState(0);
   const [updatedTeam, setUpdatedTeam] = useState<Player[]>(team);
+  const [updatedBank, setUpdatedBank] = useState(0);
 
   const { getTransfers } = useGetTransfers();
   const { optimizeTeam } = useOptimizeTeam();
@@ -66,25 +69,29 @@ const TeamActions: React.FC<{
         avoid_teams: transferConfig.avoid_teams,
         desired_selected: transferConfig.desired_selected,
         captain_scale: transferConfig.captain_scale,
+        bank: bank,
       });
 
       setUpdatedTeam(response.optimized_team);
+      setUpdatedBank(response.bank);
 
       const transfers = response.transfers_suggestion.map(
         (transfer: TransferSuggestion) => ({
           out: transfer.out,
-          in: transfer.in_player,
-          netPoints:
+          in_player: transfer.in_player,
+          net_points:
             transfer.in_player.expected_points.reduce(
               (a: number, b: number) => a + b,
-              0
+              0.0
             ) -
             transfer.out.expected_points.reduce(
               (a: number, b: number) => a + b,
-              0
+              0.0
             ),
         })
       );
+
+      console.log(transfers);
 
       const totalPoints = transfers.reduce(
         (sum: number, t: Transfer) => sum + t.net_points,
@@ -106,6 +113,7 @@ const TeamActions: React.FC<{
 
   const handleApprove = () => {
     setTeam(updatedTeam);
+    setBank(updatedBank);
     setShowModal(false);
     setView('configure');
   };

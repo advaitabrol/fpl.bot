@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jesper Lindstrøm,Everton,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,13030.0,0.0,0.0,0.0,1.0,Everton,False,Tottenham,,-0.3
-Jesper Lindstrøm,Everton,Tottenham,2024-08-24,False,33.0,0.0,0.04,0.0,0.0,1.0,1.0,0.0,3.0,0.0,0.0,12039.0,0.5,0.02,16.5,0.0,Everton,True,Bournemouth,,0.84
-Jesper Lindstrøm,Everton,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,10561.0,0.33,0.01,11.0,1.0,Everton,False,Aston Villa,,0.11
-Jesper Lindstrøm,Everton,Aston Villa,2024-09-14,False,9.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,8828.0,0.5,0.01,10.5,3.0,Everton,False,Leicester City,,-0.22
-Jesper Lindstrøm,Everton,Leicester City,2024-09-21,False,60.0,0.0,0.51,0.0,0.1,3.0,4.0,1.0,5.5,0.0,1.0,8196.0,1.0,0.11,20.4,1.0,Everton,True,Crystal Palace,,0.88
-Jesper Lindstrøm,Everton,Crystal Palace,2024-09-28,True,45.0,0.0,0.0,0.0,0.59,1.0,0.0,2.0,4.2,0.0,1.0,7976.0,1.2,0.11,24.5,0.0,Everton,True,Newcastle United,,0.67
-Jesper Lindstrøm,Everton,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,7404.0,1.0,0.1,21.0,0.0,Everton,False,Ipswich Town,,
-Jesper Lindstrøm,Everton,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,7132.0,1.0,0.1,18.38,1.0,Everton,True,Fulham,,0.27
-Jesper Lindstrøm,Everton,Fulham,2024-10-26,True,22.0,0.0,0.02,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,6821.0,1.0,0.11,18.78,2.0,Everton,False,Southampton,,-0.31
-Jesper Lindstrøm,Everton,Southampton,2024-11-02,False,87.0,0.0,0.1,0.0,0.25,2.0,3.0,2.0,7.8,0.0,1.0,6729.0,0.8,0.03,25.6,3.0,Everton,False,West Ham,,-0.34
-Jesper Lindstrøm,Everton,West Ham,2024-11-09,False,90.0,0.0,0.22,0.0,0.09,3.0,3.0,2.0,8.6,0.0,1.0,6855.0,1.2,0.07,31.45,,Everton,True,Brentford,,0.54
-,Everton,,,,,,,,,,,,,,,,,,,,Everton,False,Manchester United,,-0.41
-,Everton,,,,,,,,,,,,,,,,,,,,Everton,True,Wolverhampton,,-0.08
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty,recent_minutes_3g,recent_minutes_5g,adjusted_fixture_difficulty
+Jesper Lindstrøm,Everton,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,13030.0,0.0,0.0,0.0,1.0,Everton,False,Tottenham,,-0.3,0.0,0.0,
+Jesper Lindstrøm,Everton,Tottenham,2024-08-24,False,33.0,0.0,0.04,0.0,0.0,1.0,1.0,0.0,3.0,0.0,0.0,12039.0,0.5,0.02,16.5,0.0,Everton,True,Bournemouth,,0.84,33.0,33.0,
+Jesper Lindstrøm,Everton,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,10561.0,0.33,0.01,11.0,1.0,Everton,False,Aston Villa,,0.11,33.0,33.0,
+Jesper Lindstrøm,Everton,Aston Villa,2024-09-14,False,9.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,8828.0,0.5,0.01,10.5,3.0,Everton,False,Leicester City,,-0.22,42.0,42.0,
+Jesper Lindstrøm,Everton,Leicester City,2024-09-21,False,60.0,0.0,0.51,0.0,0.1,3.0,4.0,1.0,5.5,0.0,1.0,8196.0,1.0,0.11,20.4,1.0,Everton,True,Crystal Palace,,0.88,69.0,102.0,
+Jesper Lindstrøm,Everton,Crystal Palace,2024-09-28,True,45.0,0.0,0.0,0.0,0.59,1.0,0.0,2.0,4.2,0.0,1.0,7976.0,1.2,0.11,24.5,0.0,Everton,True,Newcastle United,,0.67,114.0,147.0,
+Jesper Lindstrøm,Everton,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,7404.0,1.0,0.1,21.0,0.0,Everton,False,Ipswich Town,,,105.0,114.0,
+Jesper Lindstrøm,Everton,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,7132.0,1.0,0.1,18.38,1.0,Everton,True,Fulham,,0.27,45.0,114.0,
+Jesper Lindstrøm,Everton,Fulham,2024-10-26,True,22.0,0.0,0.02,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,6821.0,1.0,0.11,18.78,2.0,Everton,False,Southampton,,-0.31,22.0,127.0,
+Jesper Lindstrøm,Everton,Southampton,2024-11-02,False,87.0,0.0,0.1,0.0,0.25,2.0,3.0,2.0,7.8,0.0,1.0,6729.0,0.8,0.03,25.6,3.0,Everton,False,West Ham,,-0.34,109.0,154.0,
+Jesper Lindstrøm,Everton,West Ham,2024-11-09,False,90.0,0.0,0.22,0.0,0.09,3.0,3.0,2.0,8.6,0.0,1.0,6855.0,1.2,0.07,31.45,,Everton,True,Brentford,,0.54,199.0,199.0,
+Jesper Lindstrøm,Everton,,,,,,,,,,,,,,,,,,,,Everton,False,Manchester United,,-0.41,177.0,199.0,
+Jesper Lindstrøm,Everton,,,,,,,,,,,,,,,,,,,,Everton,True,Wolverhampton,,-0.08,90.0,199.0,

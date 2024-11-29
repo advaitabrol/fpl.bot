@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Renato Palma Veiga,Chelsea,Manchester City,2024-08-18,True,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7438.0,1.0,0.0,10.0,1.0,Chelsea,False,Wolverhampton,,-0.53
-Renato Palma Veiga,Chelsea,Wolverhampton,2024-08-25,False,7.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.4,0.0,0.0,11457.0,1.0,0.0,8.5,0.0,Chelsea,True,Crystal Palace,,0.88
-Renato Palma Veiga,Chelsea,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,16891.0,0.67,0.0,5.67,2.0,Chelsea,False,Bournemouth,,-0.04
-Renato Palma Veiga,Chelsea,Bournemouth,2024-09-14,False,90.0,0.0,0.07,0.0,0.0,2.0,2.0,0.0,3.5,0.0,1.0,21435.0,1.0,0.02,26.75,0.0,Chelsea,False,West Ham,,-0.34
-Renato Palma Veiga,Chelsea,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,28659.0,0.8,0.01,21.4,1.0,Chelsea,True,Brighton,,-0.42
-Renato Palma Veiga,Chelsea,Brighton,2024-09-28,True,20.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.2,0.0,0.0,26635.0,0.8,0.01,21.17,0.0,Chelsea,True,Nottingham Forest,,1.2
-Renato Palma Veiga,Chelsea,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,27174.0,0.6,0.01,18.14,0.0,Chelsea,False,Liverpool,,-1.08
-Renato Palma Veiga,Chelsea,Liverpool,2024-10-20,False,37.0,0.0,0.07,0.0,0.0,0.0,1.0,0.0,0.7,0.0,0.0,28030.0,0.6,0.03,20.5,0.0,Chelsea,True,Newcastle United,,0.67
-Renato Palma Veiga,Chelsea,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,27594.0,0.2,0.01,18.22,0.0,Chelsea,False,Manchester United,,-0.41
-Renato Palma Veiga,Chelsea,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,26173.0,0.2,0.01,16.4,0.0,Chelsea,True,Arsenal,,-0.32
-Renato Palma Veiga,Chelsea,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,24497.0,0.0,0.01,14.91,,Chelsea,False,Leicester City,,-0.22
-,Chelsea,,,,,,,,,,,,,,,,,,,,Chelsea,True,Aston Villa,,0.66
-,Chelsea,,,,,,,,,,,,,,,,,,,,Chelsea,False,Southampton,,-0.31
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty,recent_minutes_3g,recent_minutes_5g,adjusted_fixture_difficulty
+Renato Palma Veiga,Chelsea,Manchester City,2024-08-18,True,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,7438.0,1.0,0.0,10.0,1.0,Chelsea,False,Wolverhampton,,-0.53,10.0,10.0,
+Renato Palma Veiga,Chelsea,Wolverhampton,2024-08-25,False,7.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.4,0.0,0.0,11457.0,1.0,0.0,8.5,0.0,Chelsea,True,Crystal Palace,,0.88,17.0,17.0,
+Renato Palma Veiga,Chelsea,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,16891.0,0.67,0.0,5.67,2.0,Chelsea,False,Bournemouth,,-0.04,17.0,17.0,
+Renato Palma Veiga,Chelsea,Bournemouth,2024-09-14,False,90.0,0.0,0.07,0.0,0.0,2.0,2.0,0.0,3.5,0.0,1.0,21435.0,1.0,0.02,26.75,0.0,Chelsea,False,West Ham,,-0.34,97.0,107.0,
+Renato Palma Veiga,Chelsea,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,28659.0,0.8,0.01,21.4,1.0,Chelsea,True,Brighton,,-0.42,90.0,107.0,
+Renato Palma Veiga,Chelsea,Brighton,2024-09-28,True,20.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.2,0.0,0.0,26635.0,0.8,0.01,21.17,0.0,Chelsea,True,Nottingham Forest,,1.2,110.0,117.0,
+Renato Palma Veiga,Chelsea,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,27174.0,0.6,0.01,18.14,0.0,Chelsea,False,Liverpool,,-1.08,20.0,110.0,
+Renato Palma Veiga,Chelsea,Liverpool,2024-10-20,False,37.0,0.0,0.07,0.0,0.0,0.0,1.0,0.0,0.7,0.0,0.0,28030.0,0.6,0.03,20.5,0.0,Chelsea,True,Newcastle United,,0.67,57.0,147.0,
+Renato Palma Veiga,Chelsea,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,27594.0,0.2,0.01,18.22,0.0,Chelsea,False,Manchester United,,-0.41,37.0,57.0,
+Renato Palma Veiga,Chelsea,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,26173.0,0.2,0.01,16.4,0.0,Chelsea,True,Arsenal,,-0.32,37.0,57.0,
+Renato Palma Veiga,Chelsea,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,24497.0,0.0,0.01,14.91,,Chelsea,False,Leicester City,,-0.22,0.0,37.0,
+Renato Palma Veiga,Chelsea,,,,,,,,,,,,,,,,,,,,Chelsea,True,Aston Villa,,0.66,0.0,37.0,
+Renato Palma Veiga,Chelsea,,,,,,,,,,,,,,,,,,,,Chelsea,False,Southampton,,-0.31,0.0,0.0,

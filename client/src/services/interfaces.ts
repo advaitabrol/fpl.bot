@@ -34,9 +34,26 @@ export interface TransferConfiguration {
   avoid_teams?: string[]; // Added for teams to avoid
   desired_selected?: [number, number]; // Added for selection percentage range
   captain_scale?: number;
+  bank?: number;
 }
 
 export interface PlayerWeek {
   player: Player;
   weekIndex?: number;
+}
+
+export interface TeamData {
+  team: Player[];
+}
+
+export interface TeamSearchResponse {
+  team_name: string;
+  manager_name: string;
+  team_id: string;
+}
+
+export interface TeamDetailsResponse {
+  team_name: string;
+  bank: number;
+  team: Player[];
 }

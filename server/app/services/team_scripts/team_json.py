@@ -6,6 +6,7 @@ from fuzzywuzzy import process
 from app.services.current_gw_service import FPLGWService
 
 
+
 class TeamService:
     BASE_FPL_URL = "https://fantasy.premierleague.com/api/bootstrap-static/"
     PREDICTION_DATA_DIR = os.path.join(os.getcwd(), "prediction_data", "2024-25")
@@ -29,6 +30,7 @@ class TeamService:
         # Transform the raw team data
         transformed_team = {
             "team_name": team_data["team_name"],
+            "bank": team_data["bank"],
             "team": []
         }
 

@@ -1,12 +1,12 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Will Lankshear,Spurs,Leicester City,,False,0,,,,,0,,,0.0,0,0,17747,0.0,0.0,0.0,0.0,Spurs,True,Everton,,0.61
-Will Lankshear,Spurs,Everton,,True,0,,,,,0,,,0.0,0,0,35240,0.0,0.0,0.0,0.0,Spurs,False,Newcastle United,,-0.44
-Will Lankshear,Spurs,Newcastle United,,False,0,,,,,0,,,0.0,0,0,77278,0.0,0.0,0.0,0.0,Spurs,True,Arsenal,,-0.32
-Will Lankshear,Spurs,Arsenal,,True,0,,,,,0,,,0.0,0,0,167672,0.0,0.0,0.0,0.0,Spurs,True,Brentford,,0.54
-Will Lankshear,Spurs,Brentford,2024-09-21,True,0,0.0,0.0,0.0,0.08,0,0.0,2.0,0.0,0,0,136665,0.0,0.0,0.0,0.0,Spurs,False,Manchester United,,-0.41
-Will Lankshear,Spurs,Manchester United,,False,0,,,,,0,,,0.0,0,0,133049,0.0,0.0,0.0,0.0,Spurs,False,Brighton,,-0.61
-Will Lankshear,Spurs,Brighton,,False,0,,,,,0,,,0.0,0,0,174254,0.0,0.0,0.0,0.0,Spurs,True,West Ham,,0.48
-Will Lankshear,Spurs,West Ham,2024-10-19,True,0,0.0,0.07,0.0,0.45,0,1.0,2.0,0.0,0,0,181696,0.0,0.01,0.0,0.0,Spurs,False,Crystal Palace,,0.2
-Will Lankshear,Spurs,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,180498,0.0,0.01,0.0,0.0,Spurs,True,Aston Villa,,0.66
-Will Lankshear,Spurs,Aston Villa,,True,0,,,,,0,,,0.0,0,0,181059,0.0,0.01,0.0,0.0,Spurs,True,Ipswich Town,,
-Will Lankshear,Spurs,Ipswich Town,2024-11-10,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,174469,0.0,0.01,0.0,,,,,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty,recent_minutes_3g,recent_minutes_5g,adjusted_fixture_difficulty
+Will Lankshear,Spurs,Leicester City,,False,0,,,,,0,,,0.0,0,0,17747,0.0,0.0,0.0,0.0,Spurs,True,Everton,,0.61,0.0,0.0,
+Will Lankshear,Spurs,Everton,,True,0,,,,,0,,,0.0,0,0,35240,0.0,0.0,0.0,0.0,Spurs,False,Newcastle United,,-0.44,0.0,0.0,
+Will Lankshear,Spurs,Newcastle United,,False,0,,,,,0,,,0.0,0,0,77278,0.0,0.0,0.0,0.0,Spurs,True,Arsenal,,-0.32,0.0,0.0,
+Will Lankshear,Spurs,Arsenal,,True,0,,,,,0,,,0.0,0,0,167672,0.0,0.0,0.0,0.0,Spurs,True,Brentford,,0.54,0.0,0.0,
+Will Lankshear,Spurs,Brentford,2024-09-21,True,0,0.0,0.0,0.0,0.08,0,0.0,2.0,0.0,0,0,136665,0.0,0.0,0.0,0.0,Spurs,False,Manchester United,,-0.41,0.0,0.0,
+Will Lankshear,Spurs,Manchester United,,False,0,,,,,0,,,0.0,0,0,133049,0.0,0.0,0.0,0.0,Spurs,False,Brighton,,-0.61,0.0,0.0,
+Will Lankshear,Spurs,Brighton,,False,0,,,,,0,,,0.0,0,0,174254,0.0,0.0,0.0,0.0,Spurs,True,West Ham,,0.48,0.0,0.0,
+Will Lankshear,Spurs,West Ham,2024-10-19,True,0,0.0,0.07,0.0,0.45,0,1.0,2.0,0.0,0,0,181696,0.0,0.01,0.0,0.0,Spurs,False,Crystal Palace,,0.2,0.0,0.0,
+Will Lankshear,Spurs,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,180498,0.0,0.01,0.0,0.0,Spurs,True,Aston Villa,,0.66,0.0,0.0,
+Will Lankshear,Spurs,Aston Villa,,True,0,,,,,0,,,0.0,0,0,181059,0.0,0.01,0.0,0.0,Spurs,True,Ipswich Town,,,0.0,0.0,
+Will Lankshear,Spurs,Ipswich Town,2024-11-10,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,174469,0.0,0.01,0.0,,,,,,,0.0,0.0,

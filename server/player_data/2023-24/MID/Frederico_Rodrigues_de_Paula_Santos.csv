@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Frederico Rodrigues de Paula Santos,Man Utd,Wolverhampton,2023-08-14,True,0,0.0,0.41,0.0,0.16,0,3.0,3.0,0.0,0,0,12781,0.0,0.41,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,False,Tottenham,,-0.36
-Frederico Rodrigues de Paula Santos,Man Utd,Tottenham,2023-08-19,False,0,0.0,0.16,0.0,0.4,0,3.0,1.0,0.0,0,0,8539,0.0,0.28,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,True,Nottingham Forest,,1.55
-Frederico Rodrigues de Paula Santos,Man Utd,Nottingham Forest,2023-08-26,True,0,0.0,0.15,0.0,0.72,0,4.0,4.0,0.0,0,0,6223,0.0,0.24,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,False,Arsenal,,-0.48
-Frederico Rodrigues de Paula Santos,Man Utd,Arsenal,2023-09-03,False,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,5257,0.0,0.18,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,True,Brighton,,-0.66
-Frederico Rodrigues de Paula Santos,Man Utd,Brighton,,True,0,,,,,0,,,0.0,0,0,4647,0.0,0.15,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,False,Burnley,,0.0
-Frederico Rodrigues de Paula Santos,Man Utd,Burnley,,False,0,,,,,0,,,0.0,0,0,4453,0.0,0.07,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,True,Crystal Palace,,0.88
-Frederico Rodrigues de Paula Santos,Man Utd,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,4250,0.0,0.03,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,True,Brentford,,0.79
-Frederico Rodrigues de Paula Santos,Man Utd,Brentford,2023-10-07,True,0,0.0,0.12,0.0,0.0,0,3.0,0.0,0.0,0,0,4149,0.0,0.03,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,False,Sheffield,,-0.61
-Frederico Rodrigues de Paula Santos,Man Utd,Sheffield,2023-10-21,False,0,0.0,0.07,0.0,0.0,0,2.0,0.0,0.0,0,0,4068,0.0,0.04,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,True,Manchester City,,-0.96
-Frederico Rodrigues de Paula Santos,Man Utd,Manchester City,2023-10-29,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,4012,0.0,0.04,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,False,Fulham,,0.86
-Frederico Rodrigues de Paula Santos,Man Utd,Fulham,2023-11-04,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,3971,0.0,0.04,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,True,Luton,,
-Frederico Rodrigues de Paula Santos,Man Utd,Luton,2023-11-11,True,0,0.0,0.0,0.0,0.51,0,0.0,1.0,0.0,0,0,3926,0.0,0.04,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,False,Everton,,-0.24
-Frederico Rodrigues de Paula Santos,Man Utd,Everton,,False,0,,,,,0,,,0.0,0,0,3888,0.0,0.01,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,False,Newcastle United,,-0.41
-Frederico Rodrigues de Paula Santos,Man Utd,Newcastle United,2023-12-02,False,0,0.0,0.07,0.0,0.0,0,1.0,0.0,0.0,0,0,3871,0.0,0.01,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,True,Chelsea,,-0.25
-Frederico Rodrigues de Paula Santos,Man Utd,Chelsea,2023-12-06,True,0,0.0,0.28,0.0,0.44,0,4.0,2.0,0.0,0,0,3854,0.0,0.07,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,True,Bournemouth,,1.22
-Frederico Rodrigues de Paula Santos,Man Utd,Bournemouth,2023-12-09,True,0,0.0,0.05,0.0,0.09,0,1.0,2.0,0.0,0,0,3834,0.0,0.08,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,False,Liverpool,,-1.01
-Frederico Rodrigues de Paula Santos,Man Utd,Liverpool,2023-12-17,False,0,0.0,0.04,0.0,0.04,0,1.0,1.0,0.0,0,0,3819,0.0,0.09,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,False,West Ham,,-0.22
-Frederico Rodrigues de Paula Santos,Man Utd,West Ham,2023-12-23,False,0,0.0,0.03,0.0,0.36,0,1.0,2.0,0.0,0,0,3808,0.0,0.09,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,True,Aston Villa,,0.64
-Frederico Rodrigues de Paula Santos,Man Utd,Aston Villa,2023-12-26,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,3798,0.0,0.08,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,False,Nottingham Forest,,-0.55
-Frederico Rodrigues de Paula Santos,Man Utd,Nottingham Forest,2023-12-30,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,3782,0.0,0.02,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,True,Tottenham,,0.69
-Frederico Rodrigues de Paula Santos,Man Utd,Tottenham,2024-01-14,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,3770,0.0,0.01,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,False,Wolverhampton,,-0.52
-Frederico Rodrigues de Paula Santos,Man Utd,Wolverhampton,2024-02-01,False,0,0.0,0.18,0.0,0.0,0,2.0,0.0,0.0,0,0,3757,0.0,0.04,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,True,West Ham,,0.49
-Frederico Rodrigues de Paula Santos,Man Utd,West Ham,2024-02-04,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,3752,0.0,0.04,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,False,Aston Villa,,0.29
-Frederico Rodrigues de Paula Santos,Man Utd,Aston Villa,,False,0,,,,,0,,,0.0,0,0,3745,0.0,0.04,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,False,Luton,,
-Frederico Rodrigues de Paula Santos,Man Utd,Luton,,False,0,,,,,0,,,0.0,0,0,3729,0.0,0.04,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,True,Fulham,,-0.13
-Frederico Rodrigues de Paula Santos,Man Utd,Fulham,2024-02-24,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,3721,0.0,0.04,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,False,Manchester City,,-1.32
-Frederico Rodrigues de Paula Santos,Man Utd,Manchester City,2024-03-03,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,3718,0.0,0.0,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,True,Everton,,0.53
-Frederico Rodrigues de Paula Santos,Man Utd,Everton,2024-03-09,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,3712,0.0,0.0,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,False,Brentford,,-0.53
-Frederico Rodrigues de Paula Santos,Man Utd,Brentford,2024-03-30,False,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,3705,0.0,0.0,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,False,Chelsea,,-0.85
-Frederico Rodrigues de Paula Santos,Man Utd,Chelsea,2024-04-04,False,0,0.0,0.13,1.0,0.26,0,3.0,2.0,0.0,0,0,3703,0.0,0.23,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,True,Liverpool,,0.18
-Frederico Rodrigues de Paula Santos,Man Utd,Liverpool,2024-04-07,True,0,0.0,0.1,0.0,0.0,0,1.0,0.0,0.0,0,0,3699,0.0,0.25,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,False,Bournemouth,,0.19
-Frederico Rodrigues de Paula Santos,Man Utd,Bournemouth,,False,0,,,,,0,,,0.0,0,0,3695,0.0,0.25,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,True,Sheffield,,0.68
-Frederico Rodrigues de Paula Santos,Man Utd,Sheffield,2024-04-24,True,0,0.0,0.11,0.0,0.46,0,2.0,2.0,0.0,0,0,3690,0.0,0.27,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,True,Burnley,,0.39
-Frederico Rodrigues de Paula Santos,Man Utd,Burnley,2024-04-27,True,0,1.0,1.51,0.0,0.03,0,8.0,1.0,0.0,0,0,3687,0.0,0.57,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,False,Crystal Palace,,0.38
-Frederico Rodrigues de Paula Santos,Man Utd,Crystal Palace,2024-05-06,False,0,0.0,0.01,0.0,0.0,0,1.0,0.0,0.0,0,0,3685,0.0,0.35,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,True,Arsenal,,-0.11
-Frederico Rodrigues de Paula Santos,Man Utd,Arsenal,2024-05-12,True,0,0.0,0.05,0.0,0.02,0,1.0,1.0,0.0,0,0,3679,0.0,0.34,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,True,Newcastle United,,0.55
-Frederico Rodrigues de Paula Santos,Man Utd,Newcastle United,,True,0,,,,,0,,,0.0,0,0,3679,0.0,0.34,0.0,4.0,2.0,5.86,2.37,0.05,0.0,Man Utd,False,Brighton,,-0.6
-Frederico Rodrigues de Paula Santos,Man Utd,Brighton,,False,0,,,,,0,,,0.0,0,0,3671,0.0,0.31,0.0,4.0,2.0,5.86,2.37,0.05,,Everton,True,Brighton,,-0.66
+Frederico Rodrigues de Paula Santos,Man Utd,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,12781,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,False,Tottenham,,-0.36
+Frederico Rodrigues de Paula Santos,Man Utd,Tottenham,,False,0,,,,,0,,,0.0,0,0,8539,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,True,Nottingham Forest,,1.55
+Frederico Rodrigues de Paula Santos,Man Utd,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,6223,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,False,Arsenal,,-0.48
+Frederico Rodrigues de Paula Santos,Man Utd,Arsenal,,False,0,,,,,0,,,0.0,0,0,5257,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,True,Brighton,,-0.66
+Frederico Rodrigues de Paula Santos,Man Utd,Brighton,,True,0,,,,,0,,,0.0,0,0,4647,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,False,Burnley,,0.0
+Frederico Rodrigues de Paula Santos,Man Utd,Burnley,,False,0,,,,,0,,,0.0,0,0,4453,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,True,Crystal Palace,,0.88
+Frederico Rodrigues de Paula Santos,Man Utd,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,4250,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,True,Brentford,,0.79
+Frederico Rodrigues de Paula Santos,Man Utd,Brentford,,True,0,,,,,0,,,0.0,0,0,4149,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,False,Sheffield,,-0.61
+Frederico Rodrigues de Paula Santos,Man Utd,Sheffield,,False,0,,,,,0,,,0.0,0,0,4068,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,True,Manchester City,,-0.96
+Frederico Rodrigues de Paula Santos,Man Utd,Manchester City,,True,0,,,,,0,,,0.0,0,0,4012,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,False,Fulham,,0.86
+Frederico Rodrigues de Paula Santos,Man Utd,Fulham,,False,0,,,,,0,,,0.0,0,0,3971,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,True,Luton,,
+Frederico Rodrigues de Paula Santos,Man Utd,Luton,2023-11-11,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,3926,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,False,Everton,,-0.24
+Frederico Rodrigues de Paula Santos,Man Utd,Everton,,False,0,,,,,0,,,0.0,0,0,3888,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,False,Newcastle United,,-0.41
+Frederico Rodrigues de Paula Santos,Man Utd,Newcastle United,,False,0,,,,,0,,,0.0,0,0,3871,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,True,Chelsea,,-0.25
+Frederico Rodrigues de Paula Santos,Man Utd,Chelsea,,True,0,,,,,0,,,0.0,0,0,3854,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,True,Bournemouth,,1.22
+Frederico Rodrigues de Paula Santos,Man Utd,Bournemouth,,True,0,,,,,0,,,0.0,0,0,3834,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,False,Liverpool,,-1.01
+Frederico Rodrigues de Paula Santos,Man Utd,Liverpool,,False,0,,,,,0,,,0.0,0,0,3819,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,False,West Ham,,-0.22
+Frederico Rodrigues de Paula Santos,Man Utd,West Ham,2023-12-23,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,3808,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,True,Aston Villa,,0.64
+Frederico Rodrigues de Paula Santos,Man Utd,Aston Villa,,True,0,,,,,0,,,0.0,0,0,3798,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,False,Nottingham Forest,,-0.55
+Frederico Rodrigues de Paula Santos,Man Utd,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,3782,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,True,Tottenham,,0.69
+Frederico Rodrigues de Paula Santos,Man Utd,Tottenham,,True,0,,,,,0,,,0.0,0,0,3770,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,False,Wolverhampton,,-0.52
+Frederico Rodrigues de Paula Santos,Man Utd,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,3757,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,True,West Ham,,0.49
+Frederico Rodrigues de Paula Santos,Man Utd,West Ham,,True,0,,,,,0,,,0.0,0,0,3752,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,False,Aston Villa,,0.29
+Frederico Rodrigues de Paula Santos,Man Utd,Aston Villa,,False,0,,,,,0,,,0.0,0,0,3745,0.0,0.0,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,False,Luton,,
+Frederico Rodrigues de Paula Santos,Man Utd,Luton,2024-02-18,False,0,0.0,0.07,0.0,0.0,0,1.0,0.0,0.0,0,0,3729,0.0,0.01,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,True,Fulham,,-0.13
+Frederico Rodrigues de Paula Santos,Man Utd,Fulham,2024-02-24,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,3721,0.0,0.01,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,False,Manchester City,,-1.32
+Frederico Rodrigues de Paula Santos,Man Utd,Manchester City,,False,0,,,,,0,,,0.0,0,0,3718,0.0,0.01,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,True,Everton,,0.53
+Frederico Rodrigues de Paula Santos,Man Utd,Everton,2024-03-09,True,0,0.0,0.07,0.0,0.0,0,1.0,0.0,0.0,0,0,3712,0.0,0.03,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,False,Brentford,,-0.53
+Frederico Rodrigues de Paula Santos,Man Utd,Brentford,2024-03-30,False,0,0.0,0.4,0.0,0.0,0,2.0,0.0,0.0,0,0,3705,0.0,0.11,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,False,Chelsea,,-0.85
+Frederico Rodrigues de Paula Santos,Man Utd,Chelsea,,False,0,,,,,0,,,0.0,0,0,3703,0.0,0.09,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,True,Liverpool,,0.18
+Frederico Rodrigues de Paula Santos,Man Utd,Liverpool,,True,0,,,,,0,,,0.0,0,0,3699,0.0,0.09,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,False,Bournemouth,,0.19
+Frederico Rodrigues de Paula Santos,Man Utd,Bournemouth,2024-04-13,False,0,0.0,0.0,0.0,0.04,0,0.0,1.0,0.0,0,0,3695,0.0,0.09,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,True,Sheffield,,0.68
+Frederico Rodrigues de Paula Santos,Man Utd,Sheffield,,True,0,,,,,0,,,0.0,0,0,3690,0.0,0.08,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,True,Burnley,,0.39
+Frederico Rodrigues de Paula Santos,Man Utd,Burnley,2024-04-27,True,0,0.0,0.42,0.0,0.0,0,2.0,0.0,0.0,0,0,3687,0.0,0.08,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,False,Crystal Palace,,0.38
+Frederico Rodrigues de Paula Santos,Man Utd,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,3685,0.0,0.08,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,True,Arsenal,,-0.11
+Frederico Rodrigues de Paula Santos,Man Utd,Arsenal,,True,0,,,,,0,,,0.0,0,0,3679,0.0,0.08,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,True,Newcastle United,,0.55
+Frederico Rodrigues de Paula Santos,Man Utd,Newcastle United,,True,0,,,,,0,,,0.0,0,0,3679,0.0,0.08,0.0,0.0,0.0,0.56,0.29,0.05,0.0,Man Utd,False,Brighton,,-0.6
+Frederico Rodrigues de Paula Santos,Man Utd,Brighton,,False,0,,,,,0,,,0.0,0,0,3671,0.0,0.08,0.0,0.0,0.0,0.56,0.29,0.05,,Everton,True,Brighton,,-0.66

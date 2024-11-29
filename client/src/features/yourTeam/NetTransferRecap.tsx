@@ -52,7 +52,7 @@ const NetTransferRecap: React.FC<NetTransferRecapProps> = ({
         <strong>Net Points Gained:</strong> {totalNetPoints.toFixed(2)}
       </RecapItem>
       <RecapItem>
-        <strong>Net Cost:</strong> {totalNetCost > 0 ? '+' : ''}
+        <strong>Net Cost:</strong> {totalNetCost > 0 ? '-' : '+'}
         {totalNetCost.toFixed(2)}
       </RecapItem>
 

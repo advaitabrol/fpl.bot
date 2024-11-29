@@ -16,7 +16,7 @@ export const PREMIER_LEAGUE_TEAMS = [
   'Newcastle',
   'Nottingham Forest',
   'Southampton',
-  'Tottenham',
+  'Spurs',
   'West Ham',
   'Wolves',
 ];

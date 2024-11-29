@@ -4,7 +4,7 @@ import PlayerRow from '../team/PlayerRow';
 import Bench from '../team/Bench';
 import TeamActions from './TeamActions';
 
-import { Player } from '../../services/interfaces';
+import { Player, TeamDetailsResponse } from '../../services/interfaces';
 
 const TeamStatsContainer = styled.div`
   display: flex;
@@ -23,9 +23,9 @@ const TeamStatsBox = styled.div`
 
 const StatsRow = styled.div`
   display: flex;
-  justify-content: space-around;
-  width: 100%;
+  justify-content: center;
   gap: 1rem;
+  margin-bottom: 1rem;
 `;
 
 const Stat = styled.div`
@@ -40,15 +40,36 @@ const SectionTitle = styled.h2`
   color: #333;
 `;
 
+const WeekColumn = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 8px;
+  padding: 0.5rem;
+  width: 80px; /* Adjust width as needed */
+  text-align: center;
+`;
+
+const WeekLabel = styled.div`
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+  color: #555;
+`;
+
+const WeekPoints = styled.div`
+  font-size: 1rem;
+  font-weight: bold;
+  color: #333;
+`;
+
 interface TeamDetailsProps {
-  teamData: {
-    team_name: string;
-    team: Player[];
-  };
+  teamData: TeamDetailsResponse;
 }
 
 const TeamDetails: React.FC<TeamDetailsProps> = ({ teamData }) => {
   const [team, setTeam] = useState(teamData.team);
+  const [bank, setBank] = useState(teamData.bank);
 
   const calculateProjectedPoints = (team: Player[]) => {
     return [0, 1, 2].map((weekIndex) =>
@@ -59,24 +80,33 @@ const TeamDetails: React.FC<TeamDetailsProps> = ({ teamData }) => {
     );
   };
 
+  const projectedPoints = calculateProjectedPoints(team);
+
   return (
     <div>
-      {/* Display team name and projected points */}
+      {/* Display team name, projected points, and bank amount */}
       <TeamStatsContainer>
         <TeamStatsBox>
           <h3>{teamData.team_name}</h3>
           <StatsRow>
-            {calculateProjectedPoints(team).map((points, index) => (
-              <Stat key={index}>
-                Week {index + 1}: {points}
-              </Stat>
+            {projectedPoints.map((points, index) => (
+              <WeekColumn key={index}>
+                <WeekLabel>Week {index + 1}</WeekLabel>
+                <WeekPoints>{points}</WeekPoints>
+              </WeekColumn>
             ))}
           </StatsRow>
+          <Stat>Bank: £{bank.toFixed(1)}M</Stat>
         </TeamStatsBox>
       </TeamStatsContainer>
 
       {/* Optimize and Suggest Transfers Buttons */}
-      <TeamActions team={team} setTeam={setTeam} />
+      <TeamActions
+        team={team}
+        setTeam={setTeam}
+        bank={bank}
+        setBank={setBank}
+      />
 
       {/* Display starting XI */}
       <SectionTitle>Starting XI</SectionTitle>

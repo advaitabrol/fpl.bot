@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';
 import PlayerRow from '../team/PlayerRow';
 import Bench from '../team/Bench';
-import { Player, TeamData } from './types';
+import { TeamData, Player } from '../../services/interfaces';
 
 const PageWrapper = styled.div`
   display: flex;
@@ -74,8 +74,12 @@ const WildCardTeam: React.FC = () => {
         const data: TeamData = await response.json();
         console.log('Fetched team data:', data); // Debug fetched data
         setTeamData(data);
-      } catch (err: any) {
-        setError(err.message || 'An error occurred');
+      } catch (err: unknown) {
+        if (err instanceof Error) {
+          setError(err.message); // Narrow to Error type
+        } else {
+          setError('An unexpected error occurred'); // Fallback for non-Error objects
+        }
       } finally {
         setLoading(false);
       }
@@ -107,8 +111,8 @@ const WildCardTeam: React.FC = () => {
     MID: teamData.team.filter(
       (player) => player.position === 'MID' && !player.isBench?.[currentWeek]
     ),
-    ATT: teamData.team.filter(
-      (player) => player.position === 'ATT' && !player.isBench?.[currentWeek]
+    FWD: teamData.team.filter(
+      (player) => player.position === 'FWD' && !player.isBench?.[currentWeek]
     ),
   };
 
@@ -143,7 +147,7 @@ const WildCardTeam: React.FC = () => {
         <PlayerRow players={startingPlayers.GK} />
         <PlayerRow players={startingPlayers.DEF} />
         <PlayerRow players={startingPlayers.MID} />
-        <PlayerRow players={startingPlayers.ATT} />
+        <PlayerRow players={startingPlayers.FWD} />
 
         <SectionTitle>Bench</SectionTitle>
         <Bench players={benchPlayers} />

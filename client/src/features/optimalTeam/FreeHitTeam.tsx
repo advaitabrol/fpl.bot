@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';
 import PlayerRow from '../team/PlayerRow';
 import Bench from '../team/Bench';
-import { TeamData, Player } from './types'; // Ensure correct import
+import { TeamData, Player } from '../../services/interfaces'; // Ensure correct import
 
 const PageWrapper = styled.div`
   display: flex;
@@ -57,8 +57,12 @@ const FreeHitTeam: React.FC = () => {
         const data: TeamData = await response.json(); // Specify expected type
         console.log(data);
         setTeamData(data);
-      } catch (err: any) {
-        setError(err.message || 'An error occurred');
+      } catch (err: unknown) {
+        if (err instanceof Error) {
+          setError(err.message); // Narrow to Error type
+        } else {
+          setError('An unexpected error occurred'); // Fallback for non-Error objects
+        }
       } finally {
         setLoading(false);
       }
@@ -90,8 +94,8 @@ const FreeHitTeam: React.FC = () => {
     MID: teamData.team.filter(
       (player: Player) => player.position === 'MID' && !player.isBench[0]
     ),
-    ATT: teamData.team.filter(
-      (player: Player) => player.position === 'ATT' && !player.isBench[0]
+    FWD: teamData.team.filter(
+      (player: Player) => player.position === 'FWD' && !player.isBench[0]
     ),
   };
 
@@ -115,7 +119,7 @@ const FreeHitTeam: React.FC = () => {
         <PlayerRow players={startingPlayers.GK} weekIndex={currentWeek} />
         <PlayerRow players={startingPlayers.DEF} weekIndex={currentWeek} />
         <PlayerRow players={startingPlayers.MID} weekIndex={currentWeek} />
-        <PlayerRow players={startingPlayers.ATT} weekIndex={currentWeek} />
+        <PlayerRow players={startingPlayers.FWD} weekIndex={currentWeek} />
         <SectionTitle>Bench</SectionTitle>
         <Bench players={benchPlayers} weekIndex={currentWeek} />
       </TeamWrapper>

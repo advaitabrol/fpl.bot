@@ -1,26 +1,10 @@
 import { useState } from 'react';
 import axios from 'axios';
 
-interface TeamSearchResponse {
-  team_name: string;
-  manager_name: string;
-  team_id: string;
-}
-
-interface TeamDetailsResponse {
-  team_name: string;
-  team: TeamPlayer[];
-}
-
-interface TeamPlayer {
-  name: string;
-  team: string;
-  position: 'GK' | 'DEF' | 'MID' | 'FWD';
-  price: number;
-  expected_points: number[];
-  isBench: boolean[];
-  isCaptain: boolean[];
-}
+import {
+  TeamSearchResponse,
+  TeamDetailsResponse,
+} from '../services/interfaces';
 
 const useTeamSearch = () => {
   const [searchQuery, setSearchQuery] = useState<string>('');
@@ -56,6 +40,7 @@ const useTeamSearch = () => {
         'http://127.0.0.1:8000/teams/your-team',
         { params: { team_id: teamId } }
       );
+      console.log(response.data);
       setTeamData(response.data);
       setIsSearching(false); // Stop searching once a team is fetched
     } catch (error) {

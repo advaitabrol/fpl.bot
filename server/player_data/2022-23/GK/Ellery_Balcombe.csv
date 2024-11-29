@@ -1,17 +1,17 @@
 name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
 Ellery Balcombe,Brentford,Leeds United,,False,0,0,0.0,0,0,0,0,0,,0,15896,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Manchester United,,0.38
-Ellery Balcombe,Brentford,Manchester United,,True,0,0,0.0,0,0,0,0,0,,0,13970,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Fulham,,1.37
-Ellery Balcombe,Brentford,Fulham,2022-08-20,False,0,0,0.0,0,0,0,0,0,0.0,0,12774,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Everton,,0.34
+Ellery Balcombe,Brentford,Manchester United,2022-08-13,True,0,0,0.0,0,0,0,0,0,0.0,0,13970,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Fulham,,1.37
+Ellery Balcombe,Brentford,Fulham,,False,0,0,0.0,0,0,0,0,0,,0,12774,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Everton,,0.34
 Ellery Balcombe,Brentford,Everton,,True,0,0,0.0,0,0,0,0,0,,0,11964,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Crystal Palace,,0.13
 Ellery Balcombe,Brentford,Crystal Palace,,False,0,0,0.0,0,0,0,0,0,,0,11390,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Leicester City,,0.83
 Ellery Balcombe,Brentford,Leicester City,,True,0,0,0.0,0,0,0,0,0,,0,10793,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Arsenal,,0.36
-Ellery Balcombe,Brentford,Arsenal,2022-09-18,True,0,0,0.0,0,0,0,0,0,0.0,0,9720,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Bournemouth,,0.19
-Ellery Balcombe,Brentford,Bournemouth,2022-10-01,False,0,0,0.0,0,0,0,0,0,0.0,0,9370,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Newcastle United,,-0.34
+Ellery Balcombe,Brentford,Arsenal,,True,0,0,0.0,0,0,0,0,0,,0,9720,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Bournemouth,,0.19
+Ellery Balcombe,Brentford,Bournemouth,2022-10-01,False,0,0,0.0,0,0,0,0,0,0.11,0,9370,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Newcastle United,,-0.34
 Ellery Balcombe,Brentford,Newcastle United,,False,0,0,0.0,0,0,0,0,0,,0,9022,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Brighton,,-0.71
 Ellery Balcombe,Brentford,Brighton,,True,0,0,0.0,0,0,0,0,0,,0,8750,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Chelsea,,-0.25
-Ellery Balcombe,Brentford,Chelsea,,True,0,0,0.0,0,0,0,0,0,,0,8301,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Aston Villa,,0.59
+Ellery Balcombe,Brentford,Chelsea,2022-10-19,True,0,0,0.0,0,0,0,0,0,0.12,0,8301,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Aston Villa,,0.59
 Ellery Balcombe,Brentford,Aston Villa,,False,0,0,0.0,0,0,0,0,0,,0,8311,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Wolverhampton,,-0.48
-Ellery Balcombe,Brentford,Wolverhampton,,True,0,0,0.0,0,0,0,0,0,,0,8107,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Nottingham Forest,,
+Ellery Balcombe,Brentford,Wolverhampton,2022-10-29,True,0,0,0.0,0,0,0,0,0,0.0,0,8107,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Nottingham Forest,,
 Ellery Balcombe,Brentford,Nottingham Forest,,False,0,0,0.0,0,0,0,0,0,,0,7937,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Manchester City,,-1.26
 Ellery Balcombe,Brentford,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,7684,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Tottenham,,1.07
 Ellery Balcombe,Brentford,Tottenham,,True,0,0,0.0,0,0,0,0,0,,0,6697,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,West Ham,,0.14
@@ -19,19 +19,19 @@ Ellery Balcombe,Brentford,West Ham,,False,0,0,0.0,0,0,0,0,0,,0,6639,0.0,0,0.0,0,
 Ellery Balcombe,Brentford,Liverpool,,True,0,0,0.0,0,0,0,0,0,,0,6592,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Bournemouth,,1.46
 Ellery Balcombe,Brentford,Bournemouth,,True,0,0,0.0,0,0,0,0,0,,0,6480,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Leicester City,,-0.05
 Ellery Balcombe,Brentford,Leicester City,,False,0,0,0.0,0,0,0,0,0,,0,6425,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Southampton,,-0.38
-Ellery Balcombe,Brentford,Southampton,2023-02-04,True,0,0,0.0,0,0,0,0,0,0.0,0,6319,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Arsenal,,-0.0
-Ellery Balcombe,Brentford,Arsenal,2023-02-11,False,0,0,0.0,0,0,0,0,0,0.0,0,6247,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Crystal Palace,,0.81
-Ellery Balcombe,Brentford,Crystal Palace,2023-02-18,True,0,0,0.0,0,0,0,0,0,0.0,0,6202,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Fulham,,-0.3
+Ellery Balcombe,Brentford,Southampton,,True,0,0,0.0,0,0,0,0,0,,0,6319,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Arsenal,,-0.0
+Ellery Balcombe,Brentford,Arsenal,,False,0,0,0.0,0,0,0,0,0,,0,6247,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Crystal Palace,,0.81
+Ellery Balcombe,Brentford,Crystal Palace,,True,0,0,0.0,0,0,0,0,0,,0,6202,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Fulham,,-0.3
 Ellery Balcombe,Brentford,Fulham,,True,0,0,0.0,0,0,0,0,0,,0,6032,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Everton,,-0.63
-Ellery Balcombe,Brentford,Everton,2023-03-11,False,0,0,0.0,0,0,0,0,0,0.0,0,5944,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Southampton,,-1.07
-Ellery Balcombe,Brentford,Southampton,2023-03-15,False,0,0,0.0,0,0,0,0,0,0.0,0,5944,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Leeds United,,-0.79
+Ellery Balcombe,Brentford,Everton,,False,0,0,0.0,0,0,0,0,0,,0,5944,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Southampton,,-1.07
+Ellery Balcombe,Brentford,Southampton,,False,0,0,0.0,0,0,0,0,0,,0,5944,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Leeds United,,-0.79
 Ellery Balcombe,Brentford,Leeds United,,True,0,0,0.0,0,0,0,0,0,,0,5875,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Brighton,,-0.39
 Ellery Balcombe,Brentford,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,5783,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Manchester United,,-0.1
 Ellery Balcombe,Brentford,Manchester United,,False,0,0,0.0,0,0,0,0,0,,0,5783,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Newcastle United,,0.73
-Ellery Balcombe,Brentford,Newcastle United,,True,0,0,0.0,0,0,0,0,0,,0,5761,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Wolverhampton,,-0.46
-Ellery Balcombe,Brentford,Wolverhampton,2023-04-15,False,0,0,0.0,0,0,0,0,0,0.0,0,5732,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Aston Villa,,0.55
+Ellery Balcombe,Brentford,Newcastle United,2023-04-08,True,0,0,0.0,0,0,0,0,0,0.03,0,5761,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Wolverhampton,,-0.46
+Ellery Balcombe,Brentford,Wolverhampton,,False,0,0,0.0,0,0,0,0,0,,0,5732,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Aston Villa,,0.55
 Ellery Balcombe,Brentford,Aston Villa,,True,0,0,0.0,0,0,0,0,0,,0,5706,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Chelsea,,-0.72
-Ellery Balcombe,Brentford,Chelsea,,False,0,0,0.0,0,0,0,0,0,,0,5689,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Nottingham Forest,,
+Ellery Balcombe,Brentford,Chelsea,2023-04-26,False,0,0,0.0,0,0,0,0,0,0.0,0,5689,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,Nottingham Forest,,
 Ellery Balcombe,Brentford,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,5657,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Liverpool,,-1.33
 Ellery Balcombe,Brentford,Liverpool,,False,0,0,0.0,0,0,0,0,0,,0,5629,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,True,West Ham,,0.63
 Ellery Balcombe,Brentford,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,5613,0.0,0,0.0,0,0,0,0,0,0.0,Brentford,False,Tottenham,,-0.03

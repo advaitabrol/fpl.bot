@@ -2,7 +2,8 @@ import pandas as pd
 import numpy as np
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
-from sklearn.model_selection import train_test_split, RandomizedSearchCV
+from sklearn.model_selection import train_test_split, RandomizedSearchCV, KFold
+from xgboost import XGBRegressor, XGBClassifier
 from sklearn.ensemble import RandomForestRegressor, RandomForestClassifier
 from sklearn.metrics import mean_squared_error, mean_absolute_error, classification_report
 from sklearn.feature_selection import SelectFromModel
@@ -10,6 +11,10 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import os
 from fuzzywuzzy import process
+import warnings
+
+warnings.filterwarnings("ignore", category=RuntimeWarning)
+warnings.filterwarnings("ignore", category=UserWarning)
 
 # --- Global Variables ---
 GOALKEEPER_FEATURES = [
@@ -20,7 +25,8 @@ GOALKEEPER_FEATURES = [
     'clean_sheets_5g_avg', 'saves_3g_avg', 'saves_5g_avg', 'goals_conceded_3g_avg', 'goals_conceded_5g_avg',
     'expected_goals_conceded_3g_avg', 'expected_goals_conceded_5g_avg', 'bonus_3g_avg', 'bonus_5g_avg',
     'clean_sheets_ema', 'saves_ema', 'expected_goals_conceded_ema', 'expected_goals_conceded_momentum_3g',
-    'expected_goals_conceded_momentum_5g', 'saves_momentum_3g', 'saves_momentum_5g'
+    'expected_goals_conceded_momentum_5g', 'saves_momentum_3g', 'saves_momentum_5g',
+    'recent_minutes_3g', 'recent_minutes_5g', 'adjusted_fixture_difficulty'
 ]
 
 DEFENDER_FEATURES = [
@@ -34,7 +40,8 @@ DEFENDER_FEATURES = [
     'clean_sheets_ema', 'expected_goals_conceded_ema', 'xG_ema', 'xA_ema', 'ict_index_ema', 'bonus_ema',
     'form_ema', 'expected_goals_conceded_momentum_3g', 'expected_goals_conceded_momentum_5g', 'form_momentum_3g',
     'form_momentum_5g', 'clean_sheets_expected_goals_conceded_5g', 'clean_sheets_expected_goals_conceded_3g',
-    'form_difficulty_3g'
+    'form_difficulty_3g', 'clean_sheets_form_interaction', 'recent_minutes_3g', 'recent_minutes_5g',
+    'adjusted_fixture_difficulty'
 ]
 
 MIDFIELDER_FEATURES = [
@@ -46,7 +53,9 @@ MIDFIELDER_FEATURES = [
     'next_week_specific_fixture_difficulty_5g_avg', 'next_week_holistic_fixture_difficulty_3g_avg',
     'next_week_holistic_fixture_difficulty_5g_avg', 'bonus_3g_avg', 'bonus_5g_avg', 'xG_ema', 'xA_ema', 'ict_index_ema',
     'bonus_ema', 'form_ema', 'goals_ema', 'assists_ema', 'form_momentum_3g', 'form_momentum_5g', 'xG_momentum_3g',
-    'xG_momentum_5g', 'xA_momentum_3g', 'xA_momentum_5g', 'form_difficulty_3g'
+    'xG_momentum_5g', 'xA_momentum_3g', 'xA_momentum_5g', 'form_difficulty_3g', 'form_consistency',
+    'goal_contribution', 'assist_contribution', 'recent_minutes_3g', 'recent_minutes_5g',
+    'adjusted_fixture_difficulty', 'points_per_minute_delta'
 ]
 
 FORWARD_FEATURES = [
@@ -57,8 +66,11 @@ FORWARD_FEATURES = [
     'next_week_specific_fixture_difficulty_5g_avg', 'next_week_holistic_fixture_difficulty_3g_avg',
     'next_week_holistic_fixture_difficulty_5g_avg', 'bonus_3g_avg', 'bonus_5g_avg', 'xG_ema', 'xA_ema', 'ict_index_ema',
     'bonus_ema', 'form_ema', 'goals_ema', 'assists_ema', 'form_momentum_3g', 'form_momentum_5g', 'xG_momentum_3g',
-    'xG_momentum_5g', 'xA_momentum_3g', 'xA_momentum_5g', 'form_difficulty_3g'
+    'xG_momentum_5g', 'xA_momentum_3g', 'xA_momentum_5g', 'form_difficulty_3g', 'form_consistency',
+    'goal_contribution', 'assist_contribution', 'recent_minutes_3g', 'recent_minutes_5g',
+    'adjusted_fixture_difficulty', 'points_per_minute_delta'
 ]
+
 
 TARGET = 'next_week_points'
 
@@ -78,154 +90,266 @@ def print_feature_importance(model, features, label):
         print(f"{row['Feature']}: {row['Importance']:.4f}")
 
 def check_multicollinearity(df, features, position):
-    # Scale the data
+    """
+    Check for multicollinearity among features and plot the correlation matrix.
+    """
     scaler = StandardScaler()
     scaled_data = scaler.fit_transform(df[features])
     scaled_df = pd.DataFrame(scaled_data, columns=features)
 
-    # Correlation matrix for scaled data
+    # Correlation matrix
     plt.figure(figsize=(12, 8))
     sns.heatmap(scaled_df.corr(), annot=True, cmap="coolwarm", fmt=".2f")
     plt.title(f"{position} Feature Correlation Matrix (Scaled)")
     plt.show()
 
-    # Identify pairs with high correlation (above 0.8)
+    # Log highly correlated pairs
     corr_matrix = scaled_df.corr().abs()
-    high_corr_pairs = [(col, row) for col in corr_matrix.columns for row in corr_matrix.index
-                       if col != row and corr_matrix.loc[col, row] > 0.8]
-    
+    high_corr_pairs = [
+        (col, row) for col in corr_matrix.columns for row in corr_matrix.index
+        if col != row and corr_matrix.loc[col, row] > 0.8
+    ]
     if high_corr_pairs:
         print(f"High correlation pairs in {position}: {high_corr_pairs}")
     else:
         print(f"No significant multicollinearity in {position}")
-        
+
 def remove_highly_correlated_features(df, feature_list, threshold=0.8):
     """
-    Removes highly correlated features from a DataFrame.
+    Remove features with high correlations from the feature list.
+    """
+    corr_matrix = df[feature_list].corr().abs()
+    upper_tri = corr_matrix.where(~np.tril(np.ones(corr_matrix.shape)).astype(bool))
+
+    # Find features to drop
+    features_to_drop = set()
+    for col in upper_tri.columns:
+        for row in upper_tri.index:
+            if upper_tri.loc[row, col] > threshold:
+                features_to_drop.add(row)
+
+    print(f"Features to drop: {features_to_drop}")
+    return [feature for feature in feature_list if feature not in features_to_drop]
+
+
+def hyperparameter_tune_model(X_train, y_train, model='xgb', task='regression', sqrt_shift=5):
+    """
+    Hyperparameter tuning with optional log-shift transformation, custom loss functions, and evaluation metrics.
 
     Parameters:
-        df (pd.DataFrame): The input DataFrame.
-        feature_list (list): List of features to check for correlations.
-        threshold (float): Correlation threshold above which features are considered highly correlated.
+        X_train (pd.DataFrame): Training features.
+        y_train (pd.Series): Training labels.
+        model (str): Model to use ('xgb' or 'rf').
+        task (str): Task type ('classification' or 'regression').
+        log_shift (float): Shift value for log transformation. Default is 5.
 
     Returns:
-        list: A pruned list of features with reduced multicollinearity.
+        Best estimator from RandomizedSearchCV.
     """
-    print(f"Original feature count: {len(feature_list)}")
+    pipeline = None
 
-    # Compute the correlation matrix for the feature set
-    corr_matrix = df[feature_list].corr().abs()
+    # Validate model input
+    if model not in ['xgb', 'rf']:
+        raise ValueError(f"Invalid model type: {model}. Choose 'xgb' or 'rf'.")
 
-    # Extract upper triangle of the correlation matrix
-    upper_tri = corr_matrix.where(
-        ~np.tril(np.ones(corr_matrix.shape)).astype(bool)
+    # Transform the target variable if regression task
+    if task == 'regression':
+        # Plot original distribution
+        sns.histplot(y_train, kde=True)
+        plt.title('Original Target Variable Distribution')
+        plt.xlabel('Next Week Points')
+        plt.ylabel('Frequency')
+        plt.show()
+
+        # Handle problematic values
+        valid_indices = y_train[y_train + sqrt_shift > 0].index
+        X_train = X_train.loc[valid_indices]
+        y_train = y_train.loc[valid_indices]
+
+        # Log-shift transformation
+        y_train_transformed = np.sqrt(y_train + sqrt_shift)
+        y_train_transformed = y_train_transformed.astype(float)
+
+        # Plot transformed distribution
+        sns.histplot(y_train_transformed, kde=True, color='green')
+        plt.title('Square Root Transformed Target Variable Distribution')
+        plt.xlabel(f'Sqrt(Next Week Points + {sqrt_shift})')
+        plt.ylabel('Frequency')
+        plt.show()
+
+    else:
+        y_train_transformed = y_train.astype(float)
+
+    # Define model-specific parameters and pipeline
+    if model == 'xgb':
+        if task == 'classification':
+            model_class = XGBClassifier
+            param_grid = {
+                'xgb__n_estimators': [100, 300, 500],
+                'xgb__max_depth': [3, 6, 9],
+                'xgb__learning_rate': [0.01, 0.05, 0.1],
+                'xgb__subsample': [0.8, 1.0],
+                'xgb__colsample_bytree': [0.8, 1.0],
+            }
+            pipeline = Pipeline([
+                ('xgb', model_class(random_state=42))
+            ])
+        else:  # Regression task
+            model_class = XGBRegressor
+            param_grid = {
+                'xgb__n_estimators': [100, 300, 500],
+                'xgb__max_depth': [3, 6, 9],
+                'xgb__learning_rate': [0.01, 0.05, 0.1],
+                'xgb__subsample': [0.7, 0.8, 1.0],
+                'xgb__colsample_bytree': [0.6, 0.8, 1.0],
+                'xgb__reg_alpha': [0.1, 0.5, 1],
+                'xgb__reg_lambda': [1, 1.5, 2.0]
+            }
+
+            # Custom weighted loss function
+            def weighted_loss(y_true, y_pred):
+                """
+                Custom weighted loss function for XGBoost.
+                - Penalizes under-predictions more than over-predictions.
+                - Scales penalties based on true values to emphasize high-value predictions.
+                """
+                residual = y_true - y_pred
+                weight = y_true / y_true.max()  # Weight errors proportionally to true values
+                grad = -2 * residual * weight * (1 + 0.5 * (y_true > y_pred))  # Higher penalty for under-predictions
+                hess = 2 * (np.abs(residual) + 1e-6)  # Dynamic hessian to focus on large errors
+                return grad, hess
+
+            # Use XGBoost pipeline with a custom loss function
+            pipeline = Pipeline([
+                ('xgb', model_class(objective=weighted_loss, random_state=42))
+            ])
+
+    elif model == 'rf':
+        if task == 'classification':
+            model_class = RandomForestClassifier
+            param_grid = {
+                'rf__n_estimators': [100, 300, 500],
+                'rf__max_depth': [10, 20, None],
+                'rf__min_samples_split': [2, 5, 10],
+                'rf__min_samples_leaf': [1, 2, 4]
+            }
+            pipeline = Pipeline([
+                ('scaler', StandardScaler()),
+                ('rf', model_class(random_state=42))
+            ])
+        else:  # Regression task
+            model_class = RandomForestRegressor
+            param_grid = {
+                'rf__n_estimators': [100, 300, 500],
+                'rf__max_depth': [10, 20, None],
+                'rf__min_samples_split': [2, 5, 10],
+                'rf__min_samples_leaf': [1, 2, 4]
+            }
+
+            pipeline = Pipeline([
+                ('scaler', StandardScaler()),  # Scale for RF
+                ('rf', model_class(random_state=42))
+            ])
+
+    # Perform RandomizedSearchCV
+    kfold = KFold(n_splits=5, shuffle=True, random_state=42)
+    search = RandomizedSearchCV(
+        pipeline, param_grid,
+        scoring='accuracy' if task == 'classification' else 'neg_mean_squared_error',
+        cv=kfold, n_jobs=-1, random_state=42, 
+        error_score='raise'
     )
+    search.fit(X_train, y_train_transformed)
 
-    # Find feature pairs with correlation above the threshold
-    high_corr_pairs = [(col, row) for col in upper_tri.columns for row in upper_tri.index
-                       if col != row and upper_tri.loc[row, col] > threshold]
-
-    # Log highly correlated pairs
-    print(f"Highly correlated feature pairs (threshold={threshold}): {high_corr_pairs}")
-
-    # Create a set to hold features to drop
-    features_to_drop = set()
-
-    for col, row in high_corr_pairs:
-        # Drop the less relevant feature (here, we arbitrarily drop the second feature in the pair)
-        features_to_drop.add(row)
-
-    # Log dropped features
-    print(f"Features to drop due to high correlation: {features_to_drop}")
-
-    # Return the pruned feature list
-    pruned_features = [feature for feature in feature_list if feature not in features_to_drop]
-    print(f"Pruned feature count: {len(pruned_features)}")
-    return pruned_features
-
-# --- Model Training and Evaluation ---
-def hyperparameter_tune_rf(X_train, y_train):
-    """
-    Hyperparameter tuning for Random Forest Regressor.
-    """
-    rf_model = RandomForestRegressor(random_state=42)
-    pipeline = Pipeline([
-        ('scaler', StandardScaler()),
-        ('rf', rf_model)
-    ])
-    param_grid = {
-        'rf__n_estimators': [100, 200, 300],
-        'rf__max_depth': [None, 10, 20, 30],
-        'rf__min_samples_split': [2, 5, 10],
-        'rf__min_samples_leaf': [1, 2, 4],
-        'rf__max_features': ['auto', 'sqrt', 'log2']
-    }
-
-    search = RandomizedSearchCV(pipeline, param_grid, cv=5, scoring='neg_mean_squared_error', n_jobs=-1, random_state=42)
-    search.fit(X_train, y_train)
+    # Best model
     print("Best Parameters:", search.best_params_)
+
+    # For regression, reverse the log transformation on predictions
+    if task == 'regression':
+        def predict_transformed(pipeline, X):
+            return (pipeline.predict(X))**2 - sqrt_shift
+        
+        search.best_estimator_.predict_transformed = lambda X: predict_transformed(search.best_estimator_, X)
+
     return search.best_estimator_
+
 
 def evaluate_model(model, X_test, y_test, label):
     """
-    Evaluate a model using Mean Squared Error and Mean Absolute Error.
+    Evaluate a model using MSE, MAE, and residual plot.
     """
     predictions = model.predict(X_test)
     mse = mean_squared_error(y_test, predictions)
     mae = mean_absolute_error(y_test, predictions)
+
     print(f"{label} MSE: {mse:.4f}, MAE: {mae:.4f}")
 
+    # Residual Plot
+    residuals = y_test - predictions
+    sns.histplot(residuals, kde=True)
+    plt.title('Residual Distribution')
+    plt.xlabel('Residuals')
+    plt.ylabel('Frequency')
+    plt.show()
+
 # Apply trained model to prediction data and save results
-def apply_trained_model(clf_model, reg_model, features, csv_file):
+def apply_trained_model(clf_model, reg_model, features, csv_file, confidence_threshold=0.5):
     """
-    Apply trained classification and regression models to a CSV file, make predictions, and save the results.
+    Apply trained classification and regression models to a CSV file,
+    add the 'predicted_next_week_points' column, and retain only the required columns.
     """
-    # Load the CSV file
-    df = pd.read_csv(csv_file)
-    
-    # Check for duplicate columns
-    duplicate_columns = df.columns[df.columns.duplicated()]
-    if not duplicate_columns.empty:
-        print(f"Duplicate columns in {csv_file}: {duplicate_columns}")
-    
-    # Remove duplicate columns if any
-    df = df.loc[:, ~df.columns.duplicated()]
-    
-    # Verify and log available features in the CSV
-    available_features = [f for f in features if f in df.columns]
-    missing_features = [f for f in features if f not in df.columns]
-    
-    # Log missing and used features
-    if missing_features:
-        print(f"Missing features in {csv_file}: {missing_features}")
-    if available_features != features:
-        print(f"Only using available features for prediction in {csv_file}: {available_features}")
+    print(f"\nProcessing file: {csv_file}...")
 
-    # Convert available features to numeric, handling non-numeric values by setting them to NaN
-    df.loc[:, available_features] = df[available_features].apply(pd.to_numeric, errors='coerce')
-    df[available_features] = df[available_features].replace([np.inf, -np.inf], np.nan)
-    df[available_features] = df[available_features].fillna(0)
+    try:
+        # Load the CSV file
+        df = pd.read_csv(csv_file)
+        print(f"Loaded {len(df)} rows from {csv_file}.")
 
-    # Proceed with prediction only if all required features are present
-    if not missing_features:
-        # Predict zero vs. non-zero using the classifier
-        X = df[available_features]
-        df['is_predicted_zero'] = clf_model.predict(X)
+        # Check for duplicate columns and remove them
+        duplicate_columns = df.columns[df.columns.duplicated()]
+        if not duplicate_columns.empty:
+            print(f"Duplicate columns found in {csv_file}: {duplicate_columns.tolist()} - Removing duplicates.")
+        df = df.loc[:, ~df.columns.duplicated()]
 
-        # Predict next week's points for non-zero rows using the regressor
-        non_zero_indices = df[df['is_predicted_zero'] == 0].index
-        df.loc[non_zero_indices, 'predicted_next_week_points'] = reg_model.predict(X.loc[non_zero_indices])
+        # Verify available features
+        available_features = [f for f in features if f in df.columns]
+        if not available_features:
+            print(f"No valid features found in {csv_file}. Skipping prediction.")
+            return
 
-        # Set predicted points to 0 for rows classified as zero
-        zero_indices = df[df['is_predicted_zero'] == 1].index
-        df.loc[zero_indices, 'predicted_next_week_points'] = 0
+        # Convert features to numeric
+        df[available_features] = df[available_features].apply(pd.to_numeric, errors="coerce").fillna(0)
 
-        # Save the predictions to the CSV
+        # Classification: Predict zero vs. non-zero
+        X_clf = df[available_features]
+        X_clf = clean_features(X_clf)
+        df["is_predicted_zero"] = clf_model.predict(X_clf)
+
+        # Regression: Predict next week's points for non-zero rows
+        non_zero_indices = df[df["is_predicted_zero"] == 0].index
+        if not non_zero_indices.empty:
+            X_reg = X_clf.loc[non_zero_indices]
+            X_reg = clean_features(X_reg)
+            df.loc[non_zero_indices, "predicted_next_week_points"] = reg_model.predict(X_reg)
+        else:
+            print("No non-zero predictions were made.")
+            df["predicted_next_week_points"] = 0  # Default to 0 if no predictions are possible
+
+        # Set zero predictions explicitly
+        zero_indices = df[df["is_predicted_zero"] == 1].index
+        df.loc[zero_indices, "predicted_next_week_points"] = 0
+        print(f"Processed predictions: {len(non_zero_indices)} non-zero, {len(zero_indices)} zero.")
+
+        # Save updated DataFrame directly to the same file
         df.to_csv(csv_file, index=False)
-        print(f"Predictions saved to {csv_file}")
+        print(f"Updated predictions saved to {csv_file}.")
+
+        # Retain only required columns
         retain_columns(csv_file)
-    else:
-        print(f"Missing essential features in {csv_file}. Skipping prediction.")
+
+    except Exception as e:
+        print(f"Error processing {csv_file}: {e}")
+
 
 
 def adjust_predictions_by_availability(prediction_csv):
@@ -300,205 +424,267 @@ def retain_columns(csv_file):
         missing_cols = set(required_columns) - set(available_columns)
         print(f"Missing columns in {csv_file}: {missing_cols}")
 
+def engineer_features(df, position):
+    """
+    Apply feature engineering to the given DataFrame based on the player's position.
+    Handles rolling averages, EMA, momentum indicators, interaction terms, and others.
+    """
+    print(f"Applying feature engineering for {position}...")
 
-def predict_gw(gw_dir):
-    global GOALKEEPER_FEATURES, DEFENDER_FEATURES, MIDFIELDER_FEATURES, FORWARD_FEATURES
-    # Load the training data
-    goalkeepers = pd.read_csv('train_data/goalkeeper.csv')
-    defenders = pd.read_csv('train_data/defender.csv')
-    midfielders = pd.read_csv('train_data/midfielder.csv')
-    forwards = pd.read_csv('train_data/forward.csv')
+    # --- Universal Features ---
+    if 'minutes' in df.columns:
+        df['recent_minutes_3g'] = df.groupby('name')['minutes'].transform(lambda x: x.rolling(3, min_periods=1).sum())
+        df['recent_minutes_5g'] = df.groupby('name')['minutes'].transform(lambda x: x.rolling(5, min_periods=1).sum())
+    if 'next_week_specific_fixture_difficulty' in df.columns and 'next_week_holistic_fixture_difficulty' in df.columns:
+        df['adjusted_fixture_difficulty'] = (
+            df['next_week_specific_fixture_difficulty'] * 0.5 +
+            df['next_week_holistic_fixture_difficulty'] * 0.5
+        )
 
+    # --- Rolling Averages, EMA, Momentum ---
+    rolling_features = {
+        "goalkeepers": ['clean_sheets', 'saves', 'goals_conceded', 'expected_goals_conceded', 'bonus'],
+        "defenders": ['clean_sheets', 'form', 'xA', 'xG', 'expected_goals_conceded', 'ict_index', 'bonus', 'next_week_specific_fixture_difficulty', 'next_week_holistic_fixture_difficulty'],
+        "midfielders": ['goals', 'assists', 'form', 'xG', 'xA', 'ict_index', 'bonus', 'key_passes', 'shots', 'next_week_specific_fixture_difficulty', 'next_week_holistic_fixture_difficulty'],
+        "forwards": ['goals', 'assists', 'form', 'xG', 'xA', 'ict_index', 'bonus', 'shots', 'next_week_specific_fixture_difficulty', 'next_week_holistic_fixture_difficulty']
+    }
 
-    # Advanced feature engineering
-    # Goal and Assist Stats for Midfielders and Forwards
-    midfielders['goal_stat'] = midfielders['last_season_goals'] + midfielders['last_season_xG']
-    midfielders['assist_stat'] = midfielders['last_season_assists'] + midfielders['last_season_xA']
-    forwards['goal_stat'] = forwards['last_season_goals'] + forwards['last_season_xG']
-    forwards['assist_stat'] = forwards['last_season_assists'] + forwards['last_season_xA']
-
-    # Moving Averages for Recent Form - 3 and 5 game averages, now including 'bonus'
-    for df, features in [(midfielders, ['goals', 'assists', 'form', 'xG', 'xA', 'ict_index', 'bonus', 'key_passes', 'shots']),
-                        (forwards, ['goals', 'assists', 'form', 'xG', 'xA', 'ict_index', 'bonus', 'shots', 'key_passes']),
-                        (defenders, ['clean_sheets', 'form', 'xA', 'xG', 'expected_goals_conceded', 'ict_index', 'bonus']),
-                        (goalkeepers, ['clean_sheets', 'saves', 'goals_conceded', 'expected_goals_conceded', 'bonus'])]:
-        for feature in features:
-            df[f'{feature}_3g_avg'] = df.groupby('name')[feature].transform(lambda x: x.fillna(0).rolling(3, min_periods=1).mean())
-            df[f'{feature}_5g_avg'] = df.groupby('name')[feature].transform(lambda x: x.fillna(0).rolling(5, min_periods=1).mean())
-
-    # Weighted Averages for last 5 games
-    # Apply exponential moving average to key features
-    for df, features in [(midfielders, ['goals', 'assists', 'form', 'xG', 'xA', 'ict_index', 'bonus']),
-                        (forwards, ['goals', 'assists', 'form', 'xG', 'xA', 'ict_index', 'bonus']),
-                        (defenders, ['clean_sheets', 'form', 'xG', 'xA', 'ict_index', 'expected_goals_conceded', 'bonus']),
-                        (goalkeepers, ['clean_sheets', 'saves', 'expected_goals_conceded'])]:
-        for feature in features:
+    if position.lower() in rolling_features:
+        features_to_process = rolling_features[position.lower()]
+        for feature in features_to_process:
             if feature in df.columns:
-                # Calculate EMA with a span of 5
+                df[f'{feature}_3g_avg'] = df.groupby('name')[feature].transform(lambda x: x.fillna(0).rolling(3, min_periods=1).mean())
+                df[f'{feature}_5g_avg'] = df.groupby('name')[feature].transform(lambda x: x.fillna(0).rolling(5, min_periods=1).mean())
                 df[f'{feature}_ema'] = df.groupby('name')[feature].transform(lambda x: x.ewm(span=5, adjust=False).mean())
-
-    # Momentum Indicators based on 3-game averages
-    for df, features in [(midfielders, ['form', 'xG', 'xA']), (forwards, ['form', 'xG', 'xA']), (defenders, ['expected_goals_conceded', 'form']), (goalkeepers, ['expected_goals_conceded', 'saves'])]:
-        for feature in features: 
-            if feature in df.columns:
-                # Calculate momentum as the difference from a 3-game average
                 df[f'{feature}_momentum_3g'] = df[feature] - df[f'{feature}_3g_avg']
-                # Calculate momentum as the difference from a 5-game average
                 df[f'{feature}_momentum_5g'] = df[feature] - df[f'{feature}_5g_avg']
 
+    # --- Interaction Terms ---
+    interaction_features = {
+        "goalkeepers": [
+            ('saves_3g_avg', 'clean_sheets_3g_avg', 'saves_clean_sheets_3g'),
+            ('expected_goals_conceded_3g_avg', 'saves_3g_avg', 'expected_goals_conceded_saves_3g'),
+            ('saves_5g_avg', 'clean_sheets_5g_avg', 'saves_clean_sheets_5g'),
+            ('expected_goals_conceded_5g_avg', 'saves_5g_avg', 'expected_goals_conceded_saves_5g')
+        ],
+        "defenders": [
+            ('clean_sheets_3g_avg', 'expected_goals_conceded_3g_avg', 'clean_sheets_expected_goals_conceded_3g'),
+            ('clean_sheets_5g_avg', 'expected_goals_conceded_5g_avg', 'clean_sheets_expected_goals_conceded_5g'),
+            ('form_3g_avg', 'next_week_specific_fixture_difficulty', 'form_difficulty_3g'),
+            ('clean_sheets_3g_avg', 'form_3g_avg', 'clean_sheets_form_interaction')
+        ],
+        "midfielders": [
+            ('key_passes_3g_avg', 'assists_3g_avg', 'key_passes_assists_3g'),
+            ('shots_3g_avg', 'goals_3g_avg', 'shots_goals_3g'),
+            ('key_passes_5g_avg', 'assists_5g_avg', 'key_passes_assists_5g'),
+            ('shots_5g_avg', 'goals_5g_avg', 'shots_goals_5g'),
+            ('form_3g_avg', 'next_week_specific_fixture_difficulty', 'form_difficulty_3g')
+        ],
+        "forwards": [
+            ('goals_3g_avg', 'ict_index_3g_avg', 'goals_ict_index_3g'),
+            ('goals_5g_avg', 'ict_index_5g_avg', 'goals_ict_index_5g'),
+            ('form_3g_avg', 'next_week_specific_fixture_difficulty', 'form_difficulty_3g')
+        ]
+    }
 
-    # Per-90 Stats - Calculate Cumulative Per-90 Stats
-    for df, feature_list in [(defenders, ['clean_sheets', 'xA', 'xG', 'ict_index']), 
-                            (midfielders, ['xG', 'xA', 'goals', 'assists', 'key_passes', 'shots', 'ict_index']),
-                            (forwards, ['xG', 'xA', 'goals', 'assists', 'ict_index']),
-                            (goalkeepers, ['saves'])]:
-        # Calculate cumulative minutes for each player up to each game
+    if position.lower() in interaction_features:
+        for f1, f2, result in interaction_features[position.lower()]:
+            if f1 in df.columns and f2 in df.columns:
+                df[result] = df[f1] * df[f2]
+
+    # --- Position-Specific Features ---
+    if position.lower() in ["midfielders", "forwards"]:
+        df['goal_stat'] = df['last_season_goals'] + df['last_season_xG']
+        df['assist_stat'] = df['last_season_assists'] + df['last_season_xA']
+        df['form_consistency'] = df.groupby('name')['form'].transform(lambda x: x.rolling(5, min_periods=1).std())
+        df['goal_contribution'] = df['goals'] / (df['total_points'] + 1)
+        df['assist_contribution'] = df['assists'] / (df['total_points'] + 1)
+        df['points_per_minute_delta'] = (
+            (df['total_points'] / df['minutes'].replace(0, 1)) - df['last_season_points_per_minute']
+        )
+
+    # --- Per-90 Metrics ---
+    per_90_features = {
+        "goalkeepers": ['saves'],
+        "defenders": ['clean_sheets', 'xA', 'xG', 'ict_index'],
+        "midfielders": ['goals', 'assists', 'key_passes', 'shots', 'xG', 'xA', 'ict_index'],
+        "forwards": ['goals', 'assists', 'xG', 'xA', 'ict_index']
+    }
+
+    if position.lower() in per_90_features:
         df['cumulative_minutes'] = df.groupby('name')['minutes'].cumsum()
-        
-        for feature in feature_list:
-            # Calculate cumulative total for each feature up to each game
-            df[f'cumulative_{feature}'] = df.groupby('name')[feature].cumsum()
+        for feature in per_90_features[position.lower()]:
+            if feature in df.columns:
+                df[f'{feature}_per_90'] = np.where(
+                    df['cumulative_minutes'] > 0,
+                    df.groupby('name')[feature].cumsum() / (df['cumulative_minutes'] / 90),
+                    0
+                )
+        df.drop(columns=['cumulative_minutes'], inplace=True)
+
+    print(f"Feature engineering complete for {position}.")
+
+    return df
+
+def clean_target(y):
+    """
+    Clean target variable by handling missing or invalid values.
+    """
+    # Replace infinite values with NaN
+    y = y.replace([np.inf, -np.inf], np.nan)
+
+    # Ensure target is numeric and handle missing values
+    y = pd.to_numeric(y, errors='coerce')
+
+    # Fill remaining NaNs with a default value (e.g., 0 for log-transformed data)
+    y = y.fillna(0)
+
+    return y
+
+def clean_features(X):
+    """
+    Clean feature matrix by handling missing values and ensuring numeric data.
+    """
+    # Replace infinite values with NaN
+    X = X.replace([np.inf, -np.inf], np.nan)
+
+    # Convert all columns to numeric types, coercing errors to NaN
+    for col in X.columns:
+        X[col] = pd.to_numeric(X[col], errors='coerce')
+
+    # Fill NaN values with a default value (e.g., 0)
+    X = X.fillna(0)
+
+    return X
+
+
+
+def predict_gw(gw_dir):
+    """
+    Train models on training data and apply predictions for a specific game week.
+    """
+    global GOALKEEPER_FEATURES, DEFENDER_FEATURES, MIDFIELDER_FEATURES, FORWARD_FEATURES
+    # Feature Engineering and Training Data Loading
+    train_data_files = {
+        "goalkeepers": ("train_data/goalkeeper.csv", GOALKEEPER_FEATURES),
+        "defenders": ("train_data/defender.csv", DEFENDER_FEATURES),
+        "midfielders": ("train_data/midfielder.csv", MIDFIELDER_FEATURES),
+        "forwards": ("train_data/forward.csv", FORWARD_FEATURES),
+    }
+
+    models = {}
+
+    # Step 1: Load Training Data, Apply Feature Engineering, Train Models
+    for position, (file_path, features) in train_data_files.items():
+        print(f"\nProcessing training data for {position.capitalize()}...")
+
+        try:
+            # Load training data
+            df = pd.read_csv(file_path)
+            print(f"Loaded {len(df)} rows from {file_path}.")
+
+            # Feature Engineering
+            df = engineer_features(df, position)
+            print(f"Applied feature engineering for {position}.")
+
+            # Classification Model for Zero vs Non-Zero
+            df['is_zero'] = (df[TARGET] <= 0).astype(int)
+            X_clf, y_clf = df[features], df['is_zero']
+            X_clf = clean_features(X_clf)
+            y_clf = clean_target(y_clf)
+            X_clf, y_clf = X_clf.align(y_clf, axis=0, join='inner')
+
+            if X_clf.empty or y_clf.empty:
+                print(f"No classification data available for {position}. Skipping...")
+                continue
+
+            # Train-Test Split and Classification Model Training
+            X_train_clf, X_test_clf, y_train_clf, y_test_clf = train_test_split(
+                X_clf, y_clf, test_size=0.2, random_state=42
+            )
+            clf_pipeline = hyperparameter_tune_model(X_train_clf, y_train_clf, model="xgb", task="classification")
+            evaluate_model(clf_pipeline, X_test_clf, y_test_clf, f"{position.capitalize()} Classifier")
+
+            # Regression Model for Non-Zero Predictions
+            df['predicted_non_zero'] = clf_pipeline.predict(X_clf) == 0
+            non_zero_data = df[df['predicted_non_zero']]
+
+            if non_zero_data.empty:
+                print(f"No non-zero data available for {position}. Skipping regression step...")
+                continue
+
+
             
-            # Calculate per-90 stats based on cumulative values up to each game
-            df[f'{feature}_per_90'] = np.where(df['cumulative_minutes'] > 0, 
-                                            df[f'cumulative_{feature}'] / (df['cumulative_minutes'] / 90), 0)
-        # Drop helper columns after calculating per-90 stats
-    for df in [goalkeepers, defenders, midfielders, forwards]:
-        feature_list = ['clean_sheets', 'goals', 'xG', 'assists', 'key_passes', 'shots', 'saves', 'ict_index']
-        df.drop(columns=['cumulative_minutes'] + [f'cumulative_{feature}' for feature in feature_list if f'cumulative_{feature}' in df.columns], inplace=True)
+            #X_reg, y_reg = non_zero_data[features], np.log1p(non_zero_data[TARGET])
+            X_reg, y_reg = non_zero_data[features], non_zero_data[TARGET]
+            X_reg = clean_features(X_reg)
 
+            X_reg, y_reg = X_reg.align(y_reg, axis=0, join='inner')
 
-    # Calculate 3-game and 5-game rolling averages for fixture difficulties
-    for df in [goalkeepers, defenders, midfielders, forwards]:
-        # Check if the columns exist before performing the calculation
-        if 'next_week_specific_fixture_difficulty' in df.columns:
-            df['next_week_specific_fixture_difficulty_3g_avg'] = df.groupby('name')['next_week_specific_fixture_difficulty'].transform(lambda x: x.fillna(0).rolling(3, min_periods=1).mean())
-            df['next_week_specific_fixture_difficulty_5g_avg'] = df.groupby('name')['next_week_specific_fixture_difficulty'].transform(lambda x: x.fillna(0).rolling(5, min_periods=1).mean())
+            y_reg = clean_target(y_reg)
+            X_train_reg, X_test_reg, y_train_reg, y_test_reg = train_test_split(
+                X_reg, y_reg, test_size=0.2, random_state=42
+            )
+            reg_pipeline = hyperparameter_tune_model(X_train_reg, y_train_reg, model="xgb", task="regression")
+            #y_pred_reg = np.expm1(reg_pipeline.predict(X_test_reg))
+            y_pred_reg = reg_pipeline.predict(X_test_reg)
+            evaluate_model(reg_pipeline, X_test_reg, y_test_reg, f"{position.capitalize()} Regressor")
 
-        if 'next_week_holistic_fixture_difficulty' in df.columns:
-            df['next_week_holistic_fixture_difficulty_3g_avg'] = df.groupby('name')['next_week_holistic_fixture_difficulty'].transform(lambda x: x.fillna(0).rolling(3, min_periods=1).mean())
-            df['next_week_holistic_fixture_difficulty_5g_avg'] = df.groupby('name')['next_week_holistic_fixture_difficulty'].transform(lambda x: x.fillna(0).rolling(5, min_periods=1).mean())
+            # Save trained models
+            models[position] = (clf_pipeline, reg_pipeline)
+            print(f"Saved trained models for {position}.")
 
-    # Interaction Terms based on 3-game and 5-game rolling averages
-    # Defenders
-    if 'clean_sheets_3g_avg' in defenders.columns and 'expected_goals_conceded_3g_avg' in defenders.columns:
-        defenders['clean_sheets_expected_goals_conceded_3g'] = defenders['clean_sheets_3g_avg'] * defenders['expected_goals_conceded_3g_avg']
-    if 'clean_sheets_5g_avg' in defenders.columns and 'expected_goals_conceded_5g_avg' in defenders.columns:
-        defenders['clean_sheets_expected_goals_conceded_5g'] = defenders['clean_sheets_5g_avg'] * defenders['expected_goals_conceded_5g_avg']
-    if 'form_3g_avg' in defenders.columns and 'next_week_specific_fixture_difficulty' in defenders.columns: 
-        defenders['form_difficulty_3g'] = defenders['form_3g_avg'] * defenders['next_week_specific_fixture_difficulty']
+        except Exception as e:
+            print(f"Error processing training data for {position}: {e}")
+            continue
 
-    # Midfielders
-    if 'key_passes_3g_avg' in midfielders.columns and 'assists_3g_avg' in midfielders.columns:
-        midfielders['key_passes_assists_3g'] = midfielders['key_passes_3g_avg'] * midfielders['assists_3g_avg']
-    if 'shots_3g_avg' in midfielders.columns and 'goals_3g_avg' in midfielders.columns:
-        midfielders['shots_goals_3g'] = midfielders['shots_3g_avg'] * midfielders['goals_3g_avg']
-    if 'key_passes_5g_avg' in midfielders.columns and 'assists_5g_avg' in midfielders.columns:
-        midfielders['key_passes_assists_5g'] = midfielders['key_passes_5g_avg'] * midfielders['assists_5g_avg']
-    if 'shots_5g_avg' in midfielders.columns and 'goals_5g_avg' in midfielders.columns:
-        midfielders['shots_goals_5g'] = midfielders['shots_5g_avg'] * midfielders['goals_5g_avg']
-    if 'form_3g_avg' in midfielders.columns and 'next_week_specific_fixture_difficulty' in midfielders.columns: 
-        midfielders['form_difficulty_3g'] = midfielders['form_3g_avg'] * midfielders['next_week_specific_fixture_difficulty']
+    print("\nTraining complete. Proceeding to prediction phase...")
 
+    
+    # Step 2: Prediction Phase
+    prediction_base_path = "prediction_data/2024-25"
+    position_file_map = {
+    "goalkeepers": "gk",
+    "defenders": "def",
+    "midfielders": "mid",
+    "forwards": "fwd"
+    }
 
-    # Forwards
-    if 'goals_3g_avg' in forwards.columns and 'ict_index_3g_avg' in forwards.columns:
-        forwards['goals_ict_index_3g'] = forwards['goals_3g_avg'] * forwards['ict_index_3g_avg']
-    if 'goals_5g_avg' in forwards.columns and 'ict_index_5g_avg' in forwards.columns:
-        forwards['goals_ict_index_5g'] = forwards['goals_5g_avg'] * forwards['ict_index_5g_avg']
-    if 'form_3g_avg' in forwards.columns and 'next_week_specific_fixture_difficulty' in forwards.columns: 
-        forwards['form_difficulty_3g'] = forwards['form_3g_avg'] * forwards['next_week_specific_fixture_difficulty']
+    for gw_dir in os.listdir(prediction_base_path):
+        gw_path = os.path.join(prediction_base_path, gw_dir)
+        if not os.path.isdir(gw_path):
+            continue
 
-    # Goalkeepers
-    if 'saves_3g_avg' in goalkeepers.columns and 'clean_sheets_3g_avg' in goalkeepers.columns:
-        goalkeepers['saves_clean_sheets_3g'] = goalkeepers['saves_3g_avg'] * goalkeepers['clean_sheets_3g_avg']
-    if 'expected_goals_conceded_3g_avg' in goalkeepers.columns and 'saves_3g_avg' in goalkeepers.columns:
-        goalkeepers['expected_goals_conceded_saves_3g'] = goalkeepers['expected_goals_conceded_3g_avg'] * goalkeepers['saves_3g_avg']
+        print(f"\nProcessing predictions for game week: {gw_dir}...")
 
-    if 'saves_5g_avg' in goalkeepers.columns and 'clean_sheets_5g_avg' in goalkeepers.columns:
-        goalkeepers['saves_clean_sheets_5g'] = goalkeepers['saves_5g_avg'] * goalkeepers['clean_sheets_5g_avg']
-    if 'expected_goals_conceded_5g_avg' in goalkeepers.columns and 'saves_5g_avg' in goalkeepers.columns:
-        goalkeepers['expected_goals_conceded_saves_5g'] = goalkeepers['expected_goals_conceded_5g_avg'] * goalkeepers['saves_5g_avg']
+        for position, (file_path, features) in train_data_files.items():
+            clf_pipeline, reg_pipeline = models.get(position, (None, None))
+            if clf_pipeline is None or reg_pipeline is None:
+                print(f"No trained models available for {position.capitalize()}. Skipping...")
+                continue
 
+            # Access the correct file name
+            file_prefix = position_file_map.get(position.lower())
+            prediction_file = f"{gw_path}/{file_prefix}.csv"
+            if not os.path.exists(prediction_file):
+                print(f"Prediction file not found for {position.capitalize()}: {prediction_file}")
+                continue
 
+            try:
+                # Load and Apply Feature Engineering
+                df = pd.read_csv(prediction_file)
+                print(f"Loaded {len(df)} rows from {prediction_file}.")
 
-    for position, df, features, csv_file in [
-            ("Goalkeepers", goalkeepers, GOALKEEPER_FEATURES, f'prediction_data/2024-25/{gw_dir}/gk.csv'),
-            ("Defenders", defenders, DEFENDER_FEATURES, f'prediction_data/2024-25/{gw_dir}/def.csv'),
-            ("Midfielders", midfielders, MIDFIELDER_FEATURES, f'prediction_data/2024-25/{gw_dir}/mid.csv'),
-            ("Forwards", forwards, FORWARD_FEATURES, f'prediction_data/2024-25/{gw_dir}/fwd.csv')
-        ]:
-        print(f"\nProcessing {position}...")
+                # Apply Trained Models
+                apply_trained_model(clf_pipeline, reg_pipeline, features, prediction_file)
 
-        # Step 1: Add a binary target column for zero vs. non-zero
-        df['is_zero'] = (df[TARGET] == 0).astype(int)
+                # Adjust Predictions
+                adjust_predictions_by_availability(prediction_file)
+                print(f"Adjusted predictions for {position.capitalize()} in {gw_dir}.")
 
-        # Train-test split for classification
-        X_clf, y_clf = df[features], df['is_zero']
-        X_train_clf, X_test_clf, y_train_clf, y_test_clf = train_test_split(
-            X_clf, y_clf, test_size=0.2, random_state=42
-        )
+            except Exception as e:
+                print(f"Error applying predictions for {position.capitalize()} in {gw_dir}: {e}")
+                continue
 
-        # Train a Random Forest Classifier
-        print(f"Training classification model for {position}...")
-        clf_pipeline = Pipeline([
-            ('scaler', StandardScaler()),
-            ('clf', RandomForestClassifier(random_state=42))
-        ])
-        clf_pipeline.fit(X_train_clf, y_train_clf)
-
-        # Evaluate the classification model
-        y_pred_clf = clf_pipeline.predict(X_test_clf)
-        print(f"\n{position} Classification Report:")
-        print(classification_report(y_test_clf, y_pred_clf))
-
-        # Display feature importance for the classifier
-        clf_model = clf_pipeline.named_steps['clf']
-        clf_feature_importances = clf_model.feature_importances_
-        print(f"\n{position} Classifier Feature Importances:")
-        sorted_clf_features = sorted(
-            zip(features, clf_feature_importances), key=lambda x: x[1], reverse=True
-        )
-        for feature, importance in sorted_clf_features:
-            print(f"{feature}: {importance:.4f}")
-
-        # Step 2: Use classifier predictions to filter non-zero rows
-        df['predicted_non_zero'] = clf_pipeline.predict(X_clf) == 0
-        non_zero_data = df[df['predicted_non_zero']]
-        X_reg, y_reg = non_zero_data[features], non_zero_data[TARGET]
-
-        # Train-test split for regression
-        X_train_reg, X_test_reg, y_train_reg, y_test_reg = train_test_split(
-            X_reg, y_reg, test_size=0.2, random_state=42
-        )
-
-        # Train a Random Forest Regressor for non-zero values
-        print(f"Training regression model for {position}...")
-        reg_pipeline = hyperparameter_tune_rf(X_train_reg, y_train_reg)
-
-        # Display feature importance for the regressor
-        reg_model = reg_pipeline.named_steps['rf']
-        reg_feature_importances = reg_model.feature_importances_
-        print(f"\n{position} Regressor Feature Importances:")
-        sorted_reg_features = sorted(
-            zip(features, reg_feature_importances), key=lambda x: x[1], reverse=True
-        )
-        for feature, importance in sorted_reg_features:
-            print(f"{feature}: {importance:.4f}")
-
-        # Evaluate regression model
-        print(f"\nEvaluating regression model for {position}...")
-        y_pred_reg = reg_pipeline.predict(X_test_reg)
-        mse_reg = mean_squared_error(y_test_reg, y_pred_reg)
-        mae_reg = mean_absolute_error(y_test_reg, y_pred_reg)
-        print(f"{position} Regression MSE: {mse_reg:.4f}, MAE: {mae_reg:.4f}")
-
-        # Apply models to prediction data in prediction_data/2024-25 folder
-        print(f"Applying trained models to prediction data for {position}...")
-        apply_trained_model(clf_pipeline, reg_pipeline, features, csv_file)
-
-        # Apply adjustments to each prediction CSV file
-        print(f"Adjusting predictions based on availability for {position}...")
-        adjust_predictions_by_availability(csv_file)
-
-    print("\nModel training, prediction, and adjustment complete.")
+    print("\nPrediction phase complete.")
+    

@@ -11,6 +11,7 @@ const useGetTransfers = () => {
     avoid_teams = [],
     desired_selected = [0, 100],
     captain_scale = 2.0,
+    bank = 0.0,
   }: TransferConfiguration) => {
     try {
       const response = await axios.post(
@@ -24,6 +25,7 @@ const useGetTransfers = () => {
           avoid_teams,
           desired_selected,
           captain_scale,
+          bank,
         }
       );
       return response.data;

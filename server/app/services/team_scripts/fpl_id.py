@@ -48,10 +48,13 @@ class FPLService:
                 }
                 for pick in picks_info.get("picks", [])
             ]
+            bank_amount = picks_info.get("entry_history", {}).get("bank", 0) / 10.0
+
             return {
                 "manager_name": f"{team_info.get('player_first_name')} {team_info.get('player_last_name')}",
                 "team_name": team_info.get("name"),
                 "selected_players": selected_players,
+                "bank": bank_amount
             }
         except requests.exceptions.RequestException as e:
             raise HTTPException(status_code=500, detail=f"Error fetching team info: {e}")

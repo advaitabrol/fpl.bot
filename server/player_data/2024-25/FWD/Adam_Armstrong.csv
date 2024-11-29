@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Adam Armstrong,Southampton,Newcastle United,2024-08-17,False,90.0,0.0,0.7,0.0,0.07,2.0,5.0,1.0,5.8,0.0,1.0,147689.0,2.0,0.7,90.0,1.0,Southampton,True,Nottingham Forest,,1.2
-Adam Armstrong,Southampton,Nottingham Forest,2024-08-24,True,70.0,0.0,0.03,0.0,0.0,1.0,1.0,0.0,1.4,0.0,1.0,180975.0,1.5,0.36,80.0,1.0,Southampton,False,Brentford,,-0.15
-Adam Armstrong,Southampton,Brentford,2024-08-31,False,45.0,0.0,0.02,0.0,0.0,1.0,1.0,0.0,0.8,0.0,1.0,159267.0,1.33,0.25,68.33,0.0,Southampton,True,Manchester United,,0.39
-Adam Armstrong,Southampton,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,119236.0,1.0,0.19,51.25,1.0,Southampton,True,Ipswich Town,,
-Adam Armstrong,Southampton,Ipswich Town,2024-09-21,True,8.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,105783.0,1.0,0.15,42.6,0.0,Southampton,False,Bournemouth,,-0.04
-Adam Armstrong,Southampton,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,84608.0,0.6,0.01,35.5,1.0,Southampton,False,Arsenal,,-0.56
-Adam Armstrong,Southampton,Arsenal,2024-10-05,False,16.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.7,0.0,0.0,76380.0,0.6,0.0,32.71,0.0,Southampton,True,Leicester City,,0.47
-Adam Armstrong,Southampton,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,70363.0,0.4,0.0,28.62,0.0,Southampton,False,Manchester City,,-1.51
-Adam Armstrong,Southampton,Manchester City,2024-10-26,False,45.0,0.0,0.09,0.0,0.02,0.0,2.0,1.0,3.3,0.0,0.0,65102.0,0.4,0.02,30.44,7.0,Southampton,True,Everton,,0.61
-Adam Armstrong,Southampton,Everton,2024-11-02,True,90.0,1.0,0.18,0.0,0.01,7.0,3.0,1.0,8.5,1.0,1.0,60314.0,1.6,0.05,36.4,2.0,Southampton,False,Wolverhampton,,-0.53
-Adam Armstrong,Southampton,Wolverhampton,2024-11-09,False,90.0,0.0,0.04,0.0,0.0,2.0,1.0,0.0,1.8,0.0,1.0,64847.0,2.0,0.06,41.27,,Southampton,True,Liverpool,,0.24
-,Southampton,,,,,,,,,,,,,,,,,,,,Southampton,False,Brighton,,-0.61
-,Southampton,,,,,,,,,,,,,,,,,,,,Southampton,True,Chelsea,,0.0
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty,recent_minutes_3g,recent_minutes_5g,adjusted_fixture_difficulty
+Adam Armstrong,Southampton,Newcastle United,2024-08-17,False,90.0,0.0,0.7,0.0,0.07,2.0,5.0,1.0,5.8,0.0,1.0,147689.0,2.0,0.7,90.0,1.0,Southampton,True,Nottingham Forest,,1.2,90.0,90.0,
+Adam Armstrong,Southampton,Nottingham Forest,2024-08-24,True,70.0,0.0,0.03,0.0,0.0,1.0,1.0,0.0,1.4,0.0,1.0,180975.0,1.5,0.36,80.0,1.0,Southampton,False,Brentford,,-0.15,160.0,160.0,
+Adam Armstrong,Southampton,Brentford,2024-08-31,False,45.0,0.0,0.02,0.0,0.0,1.0,1.0,0.0,0.8,0.0,1.0,159267.0,1.33,0.25,68.33,0.0,Southampton,True,Manchester United,,0.39,205.0,205.0,
+Adam Armstrong,Southampton,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,119236.0,1.0,0.19,51.25,1.0,Southampton,True,Ipswich Town,,,115.0,205.0,
+Adam Armstrong,Southampton,Ipswich Town,2024-09-21,True,8.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,105783.0,1.0,0.15,42.6,0.0,Southampton,False,Bournemouth,,-0.04,53.0,213.0,
+Adam Armstrong,Southampton,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,84608.0,0.6,0.01,35.5,1.0,Southampton,False,Arsenal,,-0.56,8.0,123.0,
+Adam Armstrong,Southampton,Arsenal,2024-10-05,False,16.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.7,0.0,0.0,76380.0,0.6,0.0,32.71,0.0,Southampton,True,Leicester City,,0.47,24.0,69.0,
+Adam Armstrong,Southampton,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,70363.0,0.4,0.0,28.62,0.0,Southampton,False,Manchester City,,-1.51,16.0,24.0,
+Adam Armstrong,Southampton,Manchester City,2024-10-26,False,45.0,0.0,0.09,0.0,0.02,0.0,2.0,1.0,3.3,0.0,0.0,65102.0,0.4,0.02,30.44,7.0,Southampton,True,Everton,,0.61,61.0,69.0,
+Adam Armstrong,Southampton,Everton,2024-11-02,True,90.0,1.0,0.18,0.0,0.01,7.0,3.0,1.0,8.5,1.0,1.0,60314.0,1.6,0.05,36.4,2.0,Southampton,False,Wolverhampton,,-0.53,135.0,151.0,
+Adam Armstrong,Southampton,Wolverhampton,2024-11-09,False,90.0,0.0,0.04,0.0,0.0,2.0,1.0,0.0,1.8,0.0,1.0,64847.0,2.0,0.06,41.27,,Southampton,True,Liverpool,,0.24,225.0,241.0,
+Adam Armstrong,Southampton,,,,,,,,,,,,,,,,,,,,Southampton,False,Brighton,,-0.61,180.0,225.0,
+Adam Armstrong,Southampton,,,,,,,,,,,,,,,,,,,,Southampton,True,Chelsea,,0.0,90.0,225.0,

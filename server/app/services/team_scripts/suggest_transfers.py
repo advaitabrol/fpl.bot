@@ -54,13 +54,13 @@ def load_player_data(base_dir):
         # Apply the exclusion criteria based on total expected points
         df['total_expected_points'] = df['expected_points'].apply(sum)  # Sum the points for filtering
         if pos == 'GK':
-            df = df[df['total_expected_points'] >= 7]
+            df = df[df['total_expected_points'] >= 8]
         elif pos == 'DEF':
-            df = df[df['total_expected_points'] >= 9]
+            df = df[df['total_expected_points'] >= 8]
         elif pos == 'MID':
-            df = df[df['total_expected_points'] >= 13]
-        elif pos == 'ATT':
-            df = df[df['total_expected_points'] >= 15]
+            df = df[df['total_expected_points'] >= 8]
+        elif pos == 'FWD':
+            df = df[df['total_expected_points'] >= 8]
 
         # Drop the now redundant total_expected_points column
         df = df.drop(columns=['total_expected_points'])
@@ -185,33 +185,40 @@ def suggest_transfers(
     avoid_teams=[],
     desired_selected=[],
     captain_scale=2.0,
+    bank=0.0
 ):
     try:
+        # Normalize captain's points in the input team
+        for player in input_team_json:
+            if "isCaptain" in player and isinstance(player["isCaptain"], list):
+                player["expected_points"] = [
+                    point / captain_scale if is_captain else point
+                    for point, is_captain in list(zip(player["expected_points"], player["isCaptain"]))
+                ]
+
         # Dynamically get the base directory
         base_dir = get_base_dir()
 
         # Load all potential transfer players
         all_players = load_player_data(base_dir)
 
-        print(all_players.columns)
-        print(all_players[['selected']].head())
-
         # Convert input team JSON into a DataFrame
         input_team = pd.DataFrame(input_team_json)
+
 
         # Identify players and teams to keep in the final team
         keep_player_matches = {
             match[0]
             for player in keep_players
             for match in process.extractBests(player, input_team['name'], scorer=fuzz.partial_ratio, limit=len(input_team))
-            if match[1] > 75
+            if match[1] > 50
         }
 
         keep_team_matches = {
             match[0]
             for team in keep_teams
             for match in process.extractBests(team, input_team['team'], scorer=fuzz.partial_ratio, limit=len(input_team))
-            if match[1] > 75
+            if match[1] > 40
         }
 
         # Ensure these players are always included in the final team
@@ -223,15 +230,6 @@ def suggest_transfers(
         current_team = input_team[
             ~input_team['name'].isin(required_players['name'])
         ].to_dict('records')
-
-        # Apply captain scale adjustments
-        for player in current_team:
-            if "isCaptain" in player and isinstance(player["isCaptain"], list):
-                adjusted_points = [
-                    point * captain_scale if is_captain else point
-                    for point, is_captain in zip(player["expected_points"], player["isCaptain"])
-                ]
-                player["expected_points"] = adjusted_points
 
         # Filter all_players based on avoid criteria
         if avoid_players:
@@ -263,6 +261,7 @@ def suggest_transfers(
         best_team = current_team + required_players.to_dict('records')
         best_score = calculate_team_points_with_roles(best_team, dp_cache, captain_scale)
         transfers_suggestion = []
+        remaining_bank = bank
 
         for t in range(1, max_transfers + 1):
             for out_players in combinations(current_team, t):
@@ -277,7 +276,14 @@ def suggest_transfers(
                     ].to_dict('records')
 
                 for in_players in combinations(sum(position_candidates.values(), []), t):
+                    # Ensure the positions match
                     if sorted(player['position'] for player in in_players) != sorted(out_positions):
+                        continue
+
+                    # Ensure no player being brought in is already on the team
+                    current_team_names = {current_player['name'].strip().lower() for current_player in input_team_json}
+
+                    if any(player['name'].strip().lower() in current_team_names for player in list(in_players)):
                         continue
 
                     # Form the new team including required players
@@ -288,25 +294,30 @@ def suggest_transfers(
                     )
 
                     # Calculate the total price and team constraints
-                    total_price = sum(player['price'] for player in new_team)
-                    team_counts = Counter(player['team'] for player in new_team)
+                    net_transfer_cost = sum(player['price'] for player in in_players) - out_budget
 
-                    if total_price <= 100 and all(count <= 3 for count in team_counts.values()):
-                        new_score = calculate_team_points_with_roles(new_team, dp_cache, captain_scale)
-                        if new_score > best_score:
-                            best_score = new_score
-                            best_team = new_team
-                            transfers_suggestion = [
-                                {"out": out, "in": inp}
-                                for out, inp in zip(out_players, in_players)
-                            ]
+                    # Ensure the net transfer cost fits within the available budget
+                    if net_transfer_cost <= bank:
+                        team_counts = Counter(player['team'] for player in new_team)
+                        if all(count <= 3 for count in team_counts.values()):
+                            new_score = calculate_team_points_with_roles(new_team, dp_cache, captain_scale)
+                            if new_score > best_score:
+                                best_score = new_score
+                                best_team = new_team
+                                transfers_suggestion = [
+                                    {"out": out, "in_player": inp}
+                                    for out, inp in zip(out_players, in_players)
+                                ]
+                                remaining_bank = bank - net_transfer_cost
+
 
         updated_team_json = update_team_json(best_team, dp_cache, captain_scale)
-        return updated_team_json, transfers_suggestion
+        return updated_team_json, transfers_suggestion, remaining_bank
 
     except Exception as e:
         print(f"An error occurred: {e}")
         return [], []
+
 
 
 def update_team_json(best_team, dp_cache, captain_scale):
@@ -354,11 +365,11 @@ def update_team_json(best_team, dp_cache, captain_scale):
 
 
 def main():
-    ''' 
-    def suggest_transfers(input_team_json,max_transfers=2,keep_players=[],avoid_players=[],
-    keep_teams=[], avoid_teams=[], desired_selected=[], captain_scale=2.0,
-    )
-    '''
+    
+    #def suggest_transfers(input_team_json,max_transfers=2,keep_players=[],avoid_players=[],
+    #keep_teams=[], avoid_teams=[], desired_selected=[], captain_scale=2.0,
+    #)
+    
     # Define the test input JSON
     test_input_json = [{'name': 'David Raya Martin', 'team': 'Arsenal', 'position': 'GK', 'price': 5.6, 'expected_points': [3.47, 3.39, 3.42], 'isBench': [False, False, False], 'isCaptain': [False, False, False]}, {'name': 'Joško Gvardiol', 'team': 'Man City', 'position': 'DEF', 'price': 6.3, 'expected_points': [3.3, 3.34, 3.34], 'isBench': [False, False, False], 'isCaptain': [False, False, False]}, {'name': 'Noussair Mazraoui', 'team': 'Man Utd', 'position': 'DEF', 'price': 4.6, 'expected_points': [3.11, 3.11, 3.1], 'isBench': [False, False, False], 'isCaptain': [False, False, False]}, {'name': 'Gabriel dos Santos Magalhães', 'team': 'Arsenal', 'position': 'DEF', 'price': 6.1, 'expected_points': [3.18, 2.92, 3.01], 'isBench': [False, False, False], 'isCaptain': [False, False, False]}, {'name': 'Morgan Rogers', 'team': 'Aston Villa', 'position': 'MID', 'price': 5.4, 'expected_points': [4.33, 3.59, 4.07], 'isBench': [False, False, False], 'isCaptain': [False, False, False]}, {'name': 'Bryan Mbeumo', 'team': 'Brentford', 'position': 'MID', 'price': 7.9, 'expected_points': [4.4, 4.07, 3.92], 'isBench': [False, False, False], 'isCaptain': [False, False, False]}, {'name': 'James Maddison', 'team': 'Spurs', 'position': 'MID', 'price': 7.6, 'expected_points': [4.23, 4.29, 4.42], 'isBench': [False, False, False], 'isCaptain': [False, False, False]}, {'name': 'Bukayo Saka', 'team': 'Arsenal', 'position': 'MID', 'price': 10.1, 'expected_points': [5.39, 5.07, 5.3], 'isBench': [False, False, False], 'isCaptain': [False, False, False]}, {'name': 'Erling Haaland', 'team': 'Man City', 'position': 'FWD', 'price': 15.2, 'expected_points': [6.83, 6.99, 7.01], 'isBench': [False, False, False], 'isCaptain': [False, False, False]}, {'name': 'Yoane Wissa', 'team': 'Brentford', 'position': 'FWD', 'price': 6.1, 'expected_points': [4.31, 4.1, 3.94], 'isBench': [False, False, False], 'isCaptain': [False, False, False]}, {'name': 'Matheus Santos Carneiro Da Cunha', 'team': 'Wolves', 'position': 'FWD', 'price': 6.8, 'expected_points': [7.3, 6.7, 6.86], 'isBench': [False, False, False], 'isCaptain': [True, True, True]}, {'name': 'Łukasz Fabiański', 'team': 'West Ham', 'position': 'GK', 'price': 4.0, 'expected_points': [2.97, 3.04, 2.99], 'isBench': [True, True, True], 'isCaptain': [False, False, False]}, {'name': 'Brennan Johnson', 'team': 'Spurs', 'position': 'MID', 'price': 6.8, 'expected_points': [4.53, 4.59, 4.62], 'isBench': [True, True, True], 'isCaptain': [False, False, False]}, {'name': 'Ola Aina', 'team': "Nott'm Forest", 'position': 'DEF', 'price': 4.8, 'expected_points': [3.07, 3.06, 2.41], 'isBench': [True, True, True], 'isCaptain': [False, False, False]}, {'name': 'Jacob Greaves', 'team': 'Ipswich', 'position': 'DEF', 'price': 4.0, 'expected_points': [0.0, 0.0, 0.0], 'isBench': [True, True, True], 'isCaptain': [False, False, False]}]
 

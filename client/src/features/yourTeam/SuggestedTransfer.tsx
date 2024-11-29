@@ -129,7 +129,7 @@ const SuggestedTransfer: React.FC<Transfer> = ({
       <PointsChange netPoints={net_points}>
         {net_points > 0
           ? `+${net_points.toFixed(2)}`
-          : `${net_points.toFixed(2)}`}{' '}
+          : `-${net_points.toFixed(2)}`}{' '}
         points
       </PointsChange>
     </TransferRow>

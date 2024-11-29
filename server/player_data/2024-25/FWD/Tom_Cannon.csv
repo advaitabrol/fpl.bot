@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Tom Cannon,Leicester,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,116261.0,0.0,0.0,0.0,0.0,Leicester,False,Fulham,,0.53
-Tom Cannon,Leicester,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,135066.0,0.0,0.0,0.0,0.0,Leicester,True,Aston Villa,,0.66
-Tom Cannon,Leicester,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,149554.0,0.0,0.0,0.0,0.0,Leicester,False,Crystal Palace,,0.2
-Tom Cannon,Leicester,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,107773.0,0.0,0.0,0.0,0.0,Leicester,True,Everton,,0.61
-Tom Cannon,Leicester,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,96576.0,0.0,0.0,0.0,0.0,Leicester,False,Arsenal,,-0.56
-Tom Cannon,Leicester,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,82124.0,0.0,0.0,0.0,0.0,Leicester,True,Bournemouth,,0.84
-Tom Cannon,Leicester,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,73809.0,0.0,0.0,0.0,0.0,Leicester,False,Southampton,,-0.31
-Tom Cannon,Leicester,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,68003.0,0.0,0.0,0.0,0.0,Leicester,True,Nottingham Forest,,1.2
-Tom Cannon,Leicester,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,63714.0,0.0,0.0,0.0,0.0,Leicester,False,Ipswich Town,,
-Tom Cannon,Leicester,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,58753.0,0.0,0.0,0.0,0.0,Leicester,False,Manchester United,,-0.41
-Tom Cannon,Leicester,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,55075.0,0.0,0.0,0.0,,Leicester,True,Chelsea,,0.0
-,Leicester,,,,,,,,,,,,,,,,,,,,Leicester,False,Brentford,,-0.15
-,Leicester,,,,,,,,,,,,,,,,,,,,Leicester,True,West Ham,,0.48
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty,recent_minutes_3g,recent_minutes_5g,adjusted_fixture_difficulty
+Tom Cannon,Leicester,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,116261.0,0.0,0.0,0.0,0.0,Leicester,False,Fulham,,0.53,0.0,0.0,
+Tom Cannon,Leicester,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,135066.0,0.0,0.0,0.0,0.0,Leicester,True,Aston Villa,,0.66,0.0,0.0,
+Tom Cannon,Leicester,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,149554.0,0.0,0.0,0.0,0.0,Leicester,False,Crystal Palace,,0.2,0.0,0.0,
+Tom Cannon,Leicester,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,107773.0,0.0,0.0,0.0,0.0,Leicester,True,Everton,,0.61,0.0,0.0,
+Tom Cannon,Leicester,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,96576.0,0.0,0.0,0.0,0.0,Leicester,False,Arsenal,,-0.56,0.0,0.0,
+Tom Cannon,Leicester,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,82124.0,0.0,0.0,0.0,0.0,Leicester,True,Bournemouth,,0.84,0.0,0.0,
+Tom Cannon,Leicester,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,73809.0,0.0,0.0,0.0,0.0,Leicester,False,Southampton,,-0.31,0.0,0.0,
+Tom Cannon,Leicester,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,68003.0,0.0,0.0,0.0,0.0,Leicester,True,Nottingham Forest,,1.2,0.0,0.0,
+Tom Cannon,Leicester,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,63714.0,0.0,0.0,0.0,0.0,Leicester,False,Ipswich Town,,,0.0,0.0,
+Tom Cannon,Leicester,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,58753.0,0.0,0.0,0.0,0.0,Leicester,False,Manchester United,,-0.41,0.0,0.0,
+Tom Cannon,Leicester,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,55075.0,0.0,0.0,0.0,,Leicester,True,Chelsea,,0.0,0.0,0.0,
+Tom Cannon,Leicester,,,,,,,,,,,,,,,,,,,,Leicester,False,Brentford,,-0.15,0.0,0.0,
+Tom Cannon,Leicester,,,,,,,,,,,,,,,,,,,,Leicester,True,West Ham,,0.48,0.0,0.0,

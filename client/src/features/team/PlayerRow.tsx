@@ -1,15 +1,10 @@
 import React from 'react';
 import styled from 'styled-components';
 import Player from './Player';
+import { Player as PlayerInterface } from '../../services/interfaces';
 
 interface PlayerRowProps {
-  players: Array<{
-    name: string;
-    team: string;
-    price: number;
-    expected_points: number[];
-    isCaptain: boolean[];
-  }>;
+  players: PlayerInterface[];
   weekIndex?: number; // Optional weekIndex prop to show specific week's points
 }
 

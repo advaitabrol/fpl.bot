@@ -1,10 +1,10 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Tony Yogane,Brentford,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,True,West Ham,,0.48
-Tony Yogane,Brentford,West Ham,2024-09-28,True,0.0,0.0,0.06,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,764.0,0.0,0.03,0.0,0.0,Brentford,True,Wolverhampton,,-0.08
-Tony Yogane,Brentford,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1074.0,0.0,0.02,0.0,0.0,Brentford,False,Manchester United,,-0.41
-Tony Yogane,Brentford,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1255.0,0.0,0.02,0.0,0.0,Brentford,True,Ipswich Town,,
-Tony Yogane,Brentford,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1322.0,0.0,0.01,0.0,0.0,Brentford,False,Fulham,,0.53
-Tony Yogane,Brentford,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1425.0,0.0,0.01,0.0,0.0,Brentford,True,Bournemouth,,0.84
-Tony Yogane,Brentford,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1432.0,0.0,0.0,0.0,,Brentford,False,Everton,,-0.39
-,Brentford,,,,,,,,,,,,,,,,,,,,Brentford,True,Leicester City,,0.47
-,Brentford,,,,,,,,,,,,,,,,,,,,Brentford,False,Aston Villa,,0.11
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty,recent_minutes_3g,recent_minutes_5g,adjusted_fixture_difficulty
+Tony Yogane,Brentford,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,True,West Ham,,0.48,0.0,0.0,
+Tony Yogane,Brentford,West Ham,2024-09-28,True,0.0,0.0,0.06,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,764.0,0.0,0.03,0.0,0.0,Brentford,True,Wolverhampton,,-0.08,0.0,0.0,
+Tony Yogane,Brentford,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1074.0,0.0,0.02,0.0,0.0,Brentford,False,Manchester United,,-0.41,0.0,0.0,
+Tony Yogane,Brentford,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1255.0,0.0,0.02,0.0,0.0,Brentford,True,Ipswich Town,,,0.0,0.0,
+Tony Yogane,Brentford,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1322.0,0.0,0.01,0.0,0.0,Brentford,False,Fulham,,0.53,0.0,0.0,
+Tony Yogane,Brentford,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1425.0,0.0,0.01,0.0,0.0,Brentford,True,Bournemouth,,0.84,0.0,0.0,
+Tony Yogane,Brentford,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1432.0,0.0,0.0,0.0,,Brentford,False,Everton,,-0.39,0.0,0.0,
+Tony Yogane,Brentford,,,,,,,,,,,,,,,,,,,,Brentford,True,Leicester City,,0.47,0.0,0.0,
+Tony Yogane,Brentford,,,,,,,,,,,,,,,,,,,,Brentford,False,Aston Villa,,0.11,0.0,0.0,

@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Andrew Moran,Brighton,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,486.0,0.0,0.0,0.0,0.0,Brighton,True,Manchester United,,0.39
-Andrew Moran,Brighton,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,653.0,0.0,0.0,0.0,0.0,Brighton,False,Arsenal,,-0.56
-Andrew Moran,Brighton,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,471.0,0.0,0.0,0.0,0.0,Brighton,True,Ipswich Town,,
-Andrew Moran,Brighton,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,394.0,0.0,0.0,0.0,0.0,Brighton,True,Nottingham Forest,,1.2
-Andrew Moran,Brighton,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,369.0,0.0,0.0,0.0,0.0,Brighton,False,Chelsea,,-0.9
-Andrew Moran,Brighton,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,354.0,0.0,0.0,0.0,0.0,Brighton,True,Tottenham,,0.74
-Andrew Moran,Brighton,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,347.0,0.0,0.0,0.0,0.0,Brighton,False,Newcastle United,,-0.44
-Andrew Moran,Brighton,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,334.0,0.0,0.0,0.0,0.0,Brighton,True,Wolverhampton,,-0.08
-Andrew Moran,Brighton,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,327.0,0.0,0.0,0.0,0.0,Brighton,False,Liverpool,,-1.08
-Andrew Moran,Brighton,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,320.0,0.0,0.0,0.0,0.0,Brighton,True,Manchester City,,-1.18
-Andrew Moran,Brighton,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,318.0,0.0,0.0,0.0,,Brighton,False,Bournemouth,,-0.04
-,Brighton,,,,,,,,,,,,,,,,,,,,Brighton,True,Southampton,,0.24
-,Brighton,,,,,,,,,,,,,,,,,,,,Brighton,False,Fulham,,0.53
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty,recent_minutes_3g,recent_minutes_5g,adjusted_fixture_difficulty
+Andrew Moran,Brighton,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,486.0,0.0,0.0,0.0,0.0,Brighton,True,Manchester United,,0.39,0.0,0.0,
+Andrew Moran,Brighton,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,653.0,0.0,0.0,0.0,0.0,Brighton,False,Arsenal,,-0.56,0.0,0.0,
+Andrew Moran,Brighton,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,471.0,0.0,0.0,0.0,0.0,Brighton,True,Ipswich Town,,,0.0,0.0,
+Andrew Moran,Brighton,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,394.0,0.0,0.0,0.0,0.0,Brighton,True,Nottingham Forest,,1.2,0.0,0.0,
+Andrew Moran,Brighton,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,369.0,0.0,0.0,0.0,0.0,Brighton,False,Chelsea,,-0.9,0.0,0.0,
+Andrew Moran,Brighton,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,354.0,0.0,0.0,0.0,0.0,Brighton,True,Tottenham,,0.74,0.0,0.0,
+Andrew Moran,Brighton,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,347.0,0.0,0.0,0.0,0.0,Brighton,False,Newcastle United,,-0.44,0.0,0.0,
+Andrew Moran,Brighton,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,334.0,0.0,0.0,0.0,0.0,Brighton,True,Wolverhampton,,-0.08,0.0,0.0,
+Andrew Moran,Brighton,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,327.0,0.0,0.0,0.0,0.0,Brighton,False,Liverpool,,-1.08,0.0,0.0,
+Andrew Moran,Brighton,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,320.0,0.0,0.0,0.0,0.0,Brighton,True,Manchester City,,-1.18,0.0,0.0,
+Andrew Moran,Brighton,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,318.0,0.0,0.0,0.0,,Brighton,False,Bournemouth,,-0.04,0.0,0.0,
+Andrew Moran,Brighton,,,,,,,,,,,,,,,,,,,,Brighton,True,Southampton,,0.24,0.0,0.0,
+Andrew Moran,Brighton,,,,,,,,,,,,,,,,,,,,Brighton,False,Fulham,,0.53,0.0,0.0,

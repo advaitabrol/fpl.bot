@@ -1,12 +1,12 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Richarlison de Andrade,Spurs,Leicester City,2024-08-19,False,1,0.0,0.32,0.0,0.0,1,1.0,0.0,0.7,0,0,94269,1.0,0.32,1.0,1.0,Spurs,True,Everton,,0.61
-Richarlison de Andrade,Spurs,Everton,2024-08-24,True,24,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,124974,1.0,0.16,12.5,0.0,Spurs,False,Newcastle United,,-0.44
-Richarlison de Andrade,Spurs,Newcastle United,,False,0,,,,,0,,,0.0,0,0,88492,0.67,0.11,8.33,0.0,Spurs,True,Arsenal,,-0.32
-Richarlison de Andrade,Spurs,Arsenal,,True,0,,,,,0,,,0.0,0,0,53310,0.5,0.08,6.25,0.0,Spurs,True,Brentford,,0.54
-Richarlison de Andrade,Spurs,Brentford,,True,0,,,,,0,,,0.0,0,0,46537,0.4,0.06,5.0,0.0,Spurs,False,Manchester United,,-0.41
-Richarlison de Andrade,Spurs,Manchester United,,False,0,,,,,0,,,0.0,0,0,42310,0.2,0.0,4.17,0.0,Spurs,False,Brighton,,-0.61
-Richarlison de Andrade,Spurs,Brighton,,False,0,,,,,0,,,0.0,0,0,39507,0.0,0.0,3.57,1.0,Spurs,True,West Ham,,0.48
-Richarlison de Andrade,Spurs,West Ham,2024-10-19,True,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,38256,0.2,0.0,4.25,0.0,Spurs,False,Crystal Palace,,0.2
-Richarlison de Andrade,Spurs,Crystal Palace,2024-10-27,False,28,0.0,0.0,0.0,0.0,0,0.0,0.0,0.5,0,0,40478,0.2,0.0,6.89,4.0,Spurs,True,Aston Villa,,0.66
-Richarlison de Andrade,Spurs,Aston Villa,2024-11-03,True,25,0.0,0.0,1.0,0.68,4,0.0,2.0,4.5,0,0,41658,1.0,0.2,8.7,0.0,Spurs,True,Ipswich Town,,
-Richarlison de Andrade,Spurs,Ipswich Town,,True,0,,,,,0,,,0.0,0,0,40426,1.0,0.2,7.91,,,,,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty,recent_minutes_3g,recent_minutes_5g,adjusted_fixture_difficulty
+Richarlison de Andrade,Spurs,Leicester City,2024-08-19,False,1,0.0,0.32,0.0,0.0,1,1.0,0.0,0.7,0,0,94269,1.0,0.32,1.0,1.0,Spurs,True,Everton,,0.61,1.0,1.0,
+Richarlison de Andrade,Spurs,Everton,2024-08-24,True,24,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,124974,1.0,0.16,12.5,0.0,Spurs,False,Newcastle United,,-0.44,25.0,25.0,
+Richarlison de Andrade,Spurs,Newcastle United,,False,0,,,,,0,,,0.0,0,0,88492,0.67,0.11,8.33,0.0,Spurs,True,Arsenal,,-0.32,25.0,25.0,
+Richarlison de Andrade,Spurs,Arsenal,,True,0,,,,,0,,,0.0,0,0,53310,0.5,0.08,6.25,0.0,Spurs,True,Brentford,,0.54,24.0,25.0,
+Richarlison de Andrade,Spurs,Brentford,,True,0,,,,,0,,,0.0,0,0,46537,0.4,0.06,5.0,0.0,Spurs,False,Manchester United,,-0.41,0.0,25.0,
+Richarlison de Andrade,Spurs,Manchester United,,False,0,,,,,0,,,0.0,0,0,42310,0.2,0.0,4.17,0.0,Spurs,False,Brighton,,-0.61,0.0,24.0,
+Richarlison de Andrade,Spurs,Brighton,,False,0,,,,,0,,,0.0,0,0,39507,0.0,0.0,3.57,1.0,Spurs,True,West Ham,,0.48,0.0,0.0,
+Richarlison de Andrade,Spurs,West Ham,2024-10-19,True,9,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,38256,0.2,0.0,4.25,0.0,Spurs,False,Crystal Palace,,0.2,9.0,9.0,
+Richarlison de Andrade,Spurs,Crystal Palace,2024-10-27,False,28,0.0,0.0,0.0,0.0,0,0.0,0.0,0.5,0,0,40478,0.2,0.0,6.89,4.0,Spurs,True,Aston Villa,,0.66,37.0,37.0,
+Richarlison de Andrade,Spurs,Aston Villa,2024-11-03,True,25,0.0,0.0,1.0,0.68,4,0.0,2.0,4.5,0,0,41658,1.0,0.2,8.7,0.0,Spurs,True,Ipswich Town,,,62.0,62.0,
+Richarlison de Andrade,Spurs,Ipswich Town,,True,0,,,,,0,,,0.0,0,0,40426,1.0,0.2,7.91,,,,,,,53.0,62.0,

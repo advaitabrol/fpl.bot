@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Mitoma Kaoru,Brighton,Everton,,False,88.0,,,,,8.0,,,13.2,0.0,1.0,164023.0,8.0,0.0,88.0,6.0,Brighton,True,Manchester United,,0.39
-Mitoma Kaoru,Brighton,Manchester United,,True,89.0,,,,,6.0,,,3.6,1.0,1.0,442452.0,7.0,0.0,88.5,2.0,Brighton,False,Arsenal,,-0.56
-Mitoma Kaoru,Brighton,Arsenal,,False,84.0,,,,,2.0,,,4.5,0.0,1.0,672158.0,5.33,0.0,87.0,3.0,Brighton,True,Ipswich Town,,
-Mitoma Kaoru,Brighton,Ipswich Town,,True,90.0,,,,,3.0,,,7.8,0.0,1.0,1080160.0,4.75,0.0,87.75,5.0,Brighton,True,Nottingham Forest,,1.2
-Mitoma Kaoru,Brighton,Nottingham Forest,,True,90.0,,,,,5.0,,,5.8,0.0,1.0,1081542.0,4.8,0.0,88.2,2.0,Brighton,False,Chelsea,,-0.9
-Mitoma Kaoru,Brighton,Chelsea,,False,90.0,,,,,2.0,,,5.9,0.0,1.0,890413.0,3.6,0.0,88.5,5.0,Brighton,True,Tottenham,,0.74
-Mitoma Kaoru,Brighton,Tottenham,,True,90.0,,,,,5.0,,,10.0,0.0,1.0,735328.0,3.4,0.0,88.71,1.0,Brighton,False,Newcastle United,,-0.44
-Mitoma Kaoru,Brighton,Newcastle United,,False,30.0,,,,,1.0,,,3.0,0.0,0.0,706011.0,3.2,0.0,81.38,2.0,Brighton,True,Wolverhampton,,-0.08
-Mitoma Kaoru,Brighton,Wolverhampton,,True,88.0,,,,,2.0,,,8.1,0.0,1.0,707789.0,3.0,0.0,82.11,2.0,Brighton,False,Liverpool,,-1.08
-Mitoma Kaoru,Brighton,Liverpool,,False,86.0,,,,,2.0,,,5.8,0.0,1.0,607504.0,2.4,0.0,82.5,2.0,Brighton,True,Manchester City,,-1.18
-Mitoma Kaoru,Brighton,Manchester City,,True,89.0,,,,,2.0,,,5.6,0.0,1.0,560367.0,2.4,0.0,83.09,,Brighton,False,Bournemouth,,-0.04
-,Brighton,,,,,,,,,,,,,,,,,,,,Brighton,True,Southampton,,0.24
-,Brighton,,,,,,,,,,,,,,,,,,,,Brighton,False,Fulham,,0.53
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty,recent_minutes_3g,recent_minutes_5g,adjusted_fixture_difficulty
+Mitoma Kaoru,Brighton,Everton,,False,88.0,,,,,8.0,,,13.2,0.0,1.0,164023.0,8.0,0.0,88.0,6.0,Brighton,True,Manchester United,,0.39,88.0,88.0,
+Mitoma Kaoru,Brighton,Manchester United,,True,89.0,,,,,6.0,,,3.6,1.0,1.0,442452.0,7.0,0.0,88.5,2.0,Brighton,False,Arsenal,,-0.56,177.0,177.0,
+Mitoma Kaoru,Brighton,Arsenal,,False,84.0,,,,,2.0,,,4.5,0.0,1.0,672158.0,5.33,0.0,87.0,3.0,Brighton,True,Ipswich Town,,,261.0,261.0,
+Mitoma Kaoru,Brighton,Ipswich Town,,True,90.0,,,,,3.0,,,7.8,0.0,1.0,1080160.0,4.75,0.0,87.75,5.0,Brighton,True,Nottingham Forest,,1.2,263.0,351.0,
+Mitoma Kaoru,Brighton,Nottingham Forest,,True,90.0,,,,,5.0,,,5.8,0.0,1.0,1081542.0,4.8,0.0,88.2,2.0,Brighton,False,Chelsea,,-0.9,264.0,441.0,
+Mitoma Kaoru,Brighton,Chelsea,,False,90.0,,,,,2.0,,,5.9,0.0,1.0,890413.0,3.6,0.0,88.5,5.0,Brighton,True,Tottenham,,0.74,270.0,443.0,
+Mitoma Kaoru,Brighton,Tottenham,,True,90.0,,,,,5.0,,,10.0,0.0,1.0,735328.0,3.4,0.0,88.71,1.0,Brighton,False,Newcastle United,,-0.44,270.0,444.0,
+Mitoma Kaoru,Brighton,Newcastle United,,False,30.0,,,,,1.0,,,3.0,0.0,0.0,706011.0,3.2,0.0,81.38,2.0,Brighton,True,Wolverhampton,,-0.08,210.0,390.0,
+Mitoma Kaoru,Brighton,Wolverhampton,,True,88.0,,,,,2.0,,,8.1,0.0,1.0,707789.0,3.0,0.0,82.11,2.0,Brighton,False,Liverpool,,-1.08,208.0,388.0,
+Mitoma Kaoru,Brighton,Liverpool,,False,86.0,,,,,2.0,,,5.8,0.0,1.0,607504.0,2.4,0.0,82.5,2.0,Brighton,True,Manchester City,,-1.18,204.0,384.0,
+Mitoma Kaoru,Brighton,Manchester City,,True,89.0,,,,,2.0,,,5.6,0.0,1.0,560367.0,2.4,0.0,83.09,,Brighton,False,Bournemouth,,-0.04,263.0,383.0,
+Mitoma Kaoru,Brighton,,,,,,,,,,,,,,,,,,,,Brighton,True,Southampton,,0.24,175.0,293.0,
+Mitoma Kaoru,Brighton,,,,,,,,,,,,,,,,,,,,Brighton,False,Fulham,,0.53,89.0,263.0,

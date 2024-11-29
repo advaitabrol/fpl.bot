@@ -65,7 +65,7 @@ def main(prediction_folder, status):
         #prices()
         #availability()
         predict(prediction_folder)
-        clean()
+        #clean()
 
     if(status == 'partial'): 
         some_seasons = ['2023-24', '2024-25']
@@ -80,7 +80,7 @@ def main(prediction_folder, status):
         #prices()
         #availability()
         predict(prediction_folder)
-        clean()
+        #clean()
     
     if(status == 'clean'): 
         clean(); 

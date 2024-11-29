@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Tyler Morton,Liverpool,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,4200.0,0.0,0.0,0.0,0.0,Liverpool,True,Brentford,,0.54
-Tyler Morton,Liverpool,Brentford,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,4837.0,0.0,0.0,0.0,0.0,Liverpool,False,Manchester United,,-0.41
-Tyler Morton,Liverpool,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,5133.0,0.0,0.0,0.0,0.0,Liverpool,True,Nottingham Forest,,1.2
-Tyler Morton,Liverpool,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,5445.0,0.0,0.0,0.0,0.0,Liverpool,True,Bournemouth,,0.84
-Tyler Morton,Liverpool,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,5459.0,0.0,0.0,0.0,0.0,Liverpool,False,Wolverhampton,,-0.53
-Tyler Morton,Liverpool,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,5303.0,0.0,0.0,0.0,0.0,Liverpool,False,Crystal Palace,,0.2
-Tyler Morton,Liverpool,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,5237.0,0.0,0.0,0.0,0.0,Liverpool,True,Chelsea,,0.0
-Tyler Morton,Liverpool,Chelsea,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,8862.0,0.0,0.0,0.0,0.0,Liverpool,False,Arsenal,,-0.56
-Tyler Morton,Liverpool,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,13884.0,0.0,0.0,0.0,0.0,Liverpool,True,Brighton,,-0.42
-Tyler Morton,Liverpool,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,18198.0,0.0,0.0,0.0,0.0,Liverpool,True,Aston Villa,,0.66
-Tyler Morton,Liverpool,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,18996.0,0.0,0.0,0.0,,Liverpool,False,Southampton,,-0.31
-,Liverpool,,,,,,,,,,,,,,,,,,,,Liverpool,True,Manchester City,,-1.18
-,Liverpool,,,,,,,,,,,,,,,,,,,,Liverpool,False,Newcastle United,,-0.44
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty,recent_minutes_3g,recent_minutes_5g,adjusted_fixture_difficulty
+Tyler Morton,Liverpool,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,4200.0,0.0,0.0,0.0,0.0,Liverpool,True,Brentford,,0.54,0.0,0.0,
+Tyler Morton,Liverpool,Brentford,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,4837.0,0.0,0.0,0.0,0.0,Liverpool,False,Manchester United,,-0.41,0.0,0.0,
+Tyler Morton,Liverpool,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,5133.0,0.0,0.0,0.0,0.0,Liverpool,True,Nottingham Forest,,1.2,0.0,0.0,
+Tyler Morton,Liverpool,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,5445.0,0.0,0.0,0.0,0.0,Liverpool,True,Bournemouth,,0.84,0.0,0.0,
+Tyler Morton,Liverpool,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,5459.0,0.0,0.0,0.0,0.0,Liverpool,False,Wolverhampton,,-0.53,0.0,0.0,
+Tyler Morton,Liverpool,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,5303.0,0.0,0.0,0.0,0.0,Liverpool,False,Crystal Palace,,0.2,0.0,0.0,
+Tyler Morton,Liverpool,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,5237.0,0.0,0.0,0.0,0.0,Liverpool,True,Chelsea,,0.0,0.0,0.0,
+Tyler Morton,Liverpool,Chelsea,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,8862.0,0.0,0.0,0.0,0.0,Liverpool,False,Arsenal,,-0.56,0.0,0.0,
+Tyler Morton,Liverpool,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,13884.0,0.0,0.0,0.0,0.0,Liverpool,True,Brighton,,-0.42,0.0,0.0,
+Tyler Morton,Liverpool,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,18198.0,0.0,0.0,0.0,0.0,Liverpool,True,Aston Villa,,0.66,0.0,0.0,
+Tyler Morton,Liverpool,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,18996.0,0.0,0.0,0.0,,Liverpool,False,Southampton,,-0.31,0.0,0.0,
+Tyler Morton,Liverpool,,,,,,,,,,,,,,,,,,,,Liverpool,True,Manchester City,,-1.18,0.0,0.0,
+Tyler Morton,Liverpool,,,,,,,,,,,,,,,,,,,,Liverpool,False,Newcastle United,,-0.44,0.0,0.0,

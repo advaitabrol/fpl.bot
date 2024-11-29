@@ -1,5 +1,5 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Paris Maghoma,Brentford,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,True,Bournemouth,,0.84
-Paris Maghoma,Brentford,Bournemouth,2024-11-09,True,0.0,0.0,0.0,0.0,0.02,0.0,0.0,1.0,0.0,0.0,0.0,112.0,0.0,0.0,0.0,,Brentford,False,Everton,,-0.39
-,Brentford,,,,,,,,,,,,,,,,,,,,Brentford,True,Leicester City,,0.47
-,Brentford,,,,,,,,,,,,,,,,,,,,Brentford,False,Aston Villa,,0.11
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty,recent_minutes_3g,recent_minutes_5g,adjusted_fixture_difficulty
+Paris Maghoma,Brentford,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,True,Bournemouth,,0.84,0.0,0.0,
+Paris Maghoma,Brentford,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,112.0,0.0,0.0,0.0,,Brentford,False,Everton,,-0.39,0.0,0.0,
+Paris Maghoma,Brentford,,,,,,,,,,,,,,,,,,,,Brentford,True,Leicester City,,0.47,0.0,0.0,
+Paris Maghoma,Brentford,,,,,,,,,,,,,,,,,,,,Brentford,False,Aston Villa,,0.11,0.0,0.0,

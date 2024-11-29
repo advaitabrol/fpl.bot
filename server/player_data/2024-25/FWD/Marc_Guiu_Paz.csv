@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Marc Guiu Paz,Chelsea,Manchester City,2024-08-18,True,24.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,62388.0,1.0,0.0,24.0,0.0,Chelsea,False,Wolverhampton,,-0.53
-Marc Guiu Paz,Chelsea,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,77517.0,0.5,0.0,12.0,0.0,Chelsea,True,Crystal Palace,,0.88
-Marc Guiu Paz,Chelsea,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,76704.0,0.33,0.0,8.0,0.0,Chelsea,False,Bournemouth,,-0.04
-Marc Guiu Paz,Chelsea,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,76757.0,0.25,0.0,6.0,0.0,Chelsea,False,West Ham,,-0.34
-Marc Guiu Paz,Chelsea,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,71810.0,0.2,0.0,4.8,0.0,Chelsea,True,Brighton,,-0.42
-Marc Guiu Paz,Chelsea,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,68766.0,0.0,0.0,4.0,0.0,Chelsea,True,Nottingham Forest,,1.2
-Marc Guiu Paz,Chelsea,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,67333.0,0.0,0.0,3.43,0.0,Chelsea,False,Liverpool,,-1.08
-Marc Guiu Paz,Chelsea,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,65792.0,0.0,0.0,3.0,0.0,Chelsea,True,Newcastle United,,0.67
-Marc Guiu Paz,Chelsea,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,63805.0,0.0,0.0,2.67,0.0,Chelsea,False,Manchester United,,-0.41
-Marc Guiu Paz,Chelsea,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,62283.0,0.0,0.0,2.4,0.0,Chelsea,True,Arsenal,,-0.32
-Marc Guiu Paz,Chelsea,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,61541.0,0.0,0.0,2.18,,Chelsea,False,Leicester City,,-0.22
-,Chelsea,,,,,,,,,,,,,,,,,,,,Chelsea,True,Aston Villa,,0.66
-,Chelsea,,,,,,,,,,,,,,,,,,,,Chelsea,False,Southampton,,-0.31
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty,recent_minutes_3g,recent_minutes_5g,adjusted_fixture_difficulty
+Marc Guiu Paz,Chelsea,Manchester City,2024-08-18,True,24.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,62388.0,1.0,0.0,24.0,0.0,Chelsea,False,Wolverhampton,,-0.53,24.0,24.0,
+Marc Guiu Paz,Chelsea,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,77517.0,0.5,0.0,12.0,0.0,Chelsea,True,Crystal Palace,,0.88,24.0,24.0,
+Marc Guiu Paz,Chelsea,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,76704.0,0.33,0.0,8.0,0.0,Chelsea,False,Bournemouth,,-0.04,24.0,24.0,
+Marc Guiu Paz,Chelsea,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,76757.0,0.25,0.0,6.0,0.0,Chelsea,False,West Ham,,-0.34,0.0,24.0,
+Marc Guiu Paz,Chelsea,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,71810.0,0.2,0.0,4.8,0.0,Chelsea,True,Brighton,,-0.42,0.0,24.0,
+Marc Guiu Paz,Chelsea,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,68766.0,0.0,0.0,4.0,0.0,Chelsea,True,Nottingham Forest,,1.2,0.0,0.0,
+Marc Guiu Paz,Chelsea,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,67333.0,0.0,0.0,3.43,0.0,Chelsea,False,Liverpool,,-1.08,0.0,0.0,
+Marc Guiu Paz,Chelsea,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,65792.0,0.0,0.0,3.0,0.0,Chelsea,True,Newcastle United,,0.67,0.0,0.0,
+Marc Guiu Paz,Chelsea,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,63805.0,0.0,0.0,2.67,0.0,Chelsea,False,Manchester United,,-0.41,0.0,0.0,
+Marc Guiu Paz,Chelsea,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,62283.0,0.0,0.0,2.4,0.0,Chelsea,True,Arsenal,,-0.32,0.0,0.0,
+Marc Guiu Paz,Chelsea,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,61541.0,0.0,0.0,2.18,,Chelsea,False,Leicester City,,-0.22,0.0,0.0,
+Marc Guiu Paz,Chelsea,,,,,,,,,,,,,,,,,,,,Chelsea,True,Aston Villa,,0.66,0.0,0.0,
+Marc Guiu Paz,Chelsea,,,,,,,,,,,,,,,,,,,,Chelsea,False,Southampton,,-0.31,0.0,0.0,

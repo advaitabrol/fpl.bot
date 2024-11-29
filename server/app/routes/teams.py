@@ -1,7 +1,7 @@
 import os
 import json
 
-from typing import List  # Ensure this is imported
+from typing import List, Tuple, Optional  # Ensure this is imported
 from pydantic import BaseModel, ValidationError
 from fastapi import APIRouter, HTTPException
 
@@ -32,10 +32,15 @@ class Player(BaseModel):
     isCaptain: List[bool]
 
 class TransferInput(BaseModel):
-    team: List[Player]  # Reuse the Player model from your existing code
-    max_transfers: int = 1
-    keep: List[str] = []  # Optional, default to empty list
-    blacklist: List[str] = []  # Optional, default to empty list
+    team: List[Player]
+    max_transfers: int
+    keep_players: List[str] = []
+    avoid_players: List[str] = []
+    keep_teams: List[str] = []
+    avoid_teams: List[str] = []
+    desired_selected: Tuple[int, int] = (0, 100)  # A range of selected percentages
+    captain_scale: float = 2.0
+    bank: float = 0.0
 
 
 class OptimizeTeamInput(BaseModel):
@@ -147,26 +152,27 @@ def suggest_transfers_route(input_data: TransferInput):
     Suggest optimal transfers for the given team.
     """
     try:
+        # Convert team players to dict format
         team_json = [player.dict() for player in input_data.team]
 
-        # Step 3: Extract other parameters
-        max_transfers = input_data.max_transfers
-        keep = input_data.keep
-        blacklist = input_data.blacklist
-
-        # Step 4: Call the suggest_transfers function
-        from app.services.team_scripts.suggest_transfers import suggest_transfers
-        optimized_team, transfers_suggestion = suggest_transfers(
+        # Call the suggest_transfers function
+        optimized_team, transfers_suggestion, bank = suggest_transfers(
             input_team_json=team_json,
-            max_transfers=max_transfers,
-            keep=keep,
-            blacklist=blacklist
+            max_transfers=input_data.max_transfers,
+            keep_players=input_data.keep_players,
+            avoid_players=input_data.avoid_players,
+            keep_teams=input_data.keep_teams,
+            avoid_teams=input_data.avoid_teams,
+            desired_selected=input_data.desired_selected,
+            captain_scale=input_data.captain_scale,
+            bank=input_data.bank,
         )
 
-        # Step 5: Prepare and return the response
+        # Prepare and return the response
         response = {
             "optimized_team": optimized_team,
             "transfers_suggestion": transfers_suggestion,
+            "bank": bank,
         }
         return response
 

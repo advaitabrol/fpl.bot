@@ -8,7 +8,7 @@ def load_player_data(base_dir):
         'GK': 'gk.csv',
         'DEF': 'def.csv',
         'MID': 'mid.csv',
-        'ATT': 'fwd.csv'
+        'FWD': 'fwd.csv'
     }
 
     all_players = pd.DataFrame()
@@ -48,13 +48,13 @@ def build_freehit_team(base_dir):
     prob += pl.lpSum([player_vars[i] for i in range(len(all_players)) if all_players.iloc[i]['position'] == 'GK']) == 2
     prob += pl.lpSum([player_vars[i] for i in range(len(all_players)) if all_players.iloc[i]['position'] == 'DEF']) == 5
     prob += pl.lpSum([player_vars[i] for i in range(len(all_players)) if all_players.iloc[i]['position'] == 'MID']) == 5
-    prob += pl.lpSum([player_vars[i] for i in range(len(all_players)) if all_players.iloc[i]['position'] == 'ATT']) == 3
+    prob += pl.lpSum([player_vars[i] for i in range(len(all_players)) if all_players.iloc[i]['position'] == 'FWD']) == 3
 
     # Position constraints for the starting XI
     prob += pl.lpSum([start_vars[i] for i in range(len(all_players)) if all_players.iloc[i]['position'] == 'GK']) == 1
     prob += pl.lpSum([start_vars[i] for i in range(len(all_players)) if all_players.iloc[i]['position'] == 'DEF']) >= 3
     prob += pl.lpSum([start_vars[i] for i in range(len(all_players)) if all_players.iloc[i]['position'] == 'MID']) >= 2
-    prob += pl.lpSum([start_vars[i] for i in range(len(all_players)) if all_players.iloc[i]['position'] == 'ATT']) >= 1
+    prob += pl.lpSum([start_vars[i] for i in range(len(all_players)) if all_players.iloc[i]['position'] == 'FWD']) >= 1
 
     # Solve the optimization problem
     prob.solve()
