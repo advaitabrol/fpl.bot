@@ -1,8 +1,9 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty,recent_minutes_3g,recent_minutes_5g,adjusted_fixture_difficulty
-Nathan Butler-Oyedeji,Arsenal,Southampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,False,Bournemouth,,-0.04,0.0,0.0,
-Nathan Butler-Oyedeji,Arsenal,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,8981.0,0.0,0.0,0.0,0.0,Arsenal,True,Liverpool,,0.24,0.0,0.0,
-Nathan Butler-Oyedeji,Arsenal,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,14469.0,0.0,0.0,0.0,0.0,Arsenal,False,Newcastle United,,-0.44,0.0,0.0,
-Nathan Butler-Oyedeji,Arsenal,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,19994.0,0.0,0.0,0.0,0.0,Arsenal,False,Chelsea,,-0.9,0.0,0.0,
-Nathan Butler-Oyedeji,Arsenal,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,21790.0,0.0,0.0,0.0,,Arsenal,True,Nottingham Forest,,1.2,0.0,0.0,
-Nathan Butler-Oyedeji,Arsenal,,,,,,,,,,,,,,,,,,,,Arsenal,False,West Ham,,-0.34,0.0,0.0,
-Nathan Butler-Oyedeji,Arsenal,,,,,,,,,,,,,,,,,,,,Arsenal,True,Manchester United,,0.39,0.0,0.0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Nathan Butler-Oyedeji,Arsenal,Southampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal,False,Bournemouth,,-0.04
+Nathan Butler-Oyedeji,Arsenal,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,8981.0,0.0,0.0,0.0,0.0,Arsenal,True,Liverpool,,0.24
+Nathan Butler-Oyedeji,Arsenal,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,14469.0,0.0,0.0,0.0,0.0,Arsenal,False,Newcastle United,,-0.44
+Nathan Butler-Oyedeji,Arsenal,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,19994.0,0.0,0.0,0.0,0.0,Arsenal,False,Chelsea,,-0.9
+Nathan Butler-Oyedeji,Arsenal,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,21790.0,0.0,0.0,0.0,0.0,Arsenal,True,Nottingham Forest,,1.2
+Nathan Butler-Oyedeji,Arsenal,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,23510.0,0.0,0.0,0.0,,Arsenal,False,West Ham,,-0.34
+,Arsenal,,,,,,,,,,,,,,,,,,,,Arsenal,True,Manchester United,,0.39
+,Arsenal,,,,,,,,,,,,,,,,,,,,Arsenal,False,Fulham,,0.53

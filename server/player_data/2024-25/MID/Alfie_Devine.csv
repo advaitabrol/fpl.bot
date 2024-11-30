@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty,recent_minutes_3g,recent_minutes_5g,adjusted_fixture_difficulty
-Alfie Devine,Spurs,Leicester City,,False,0,,,,,0,,,0.0,0,0,9576,0.0,0.0,0.0,0.0,Spurs,True,Everton,,0.61,0.0,0.0,
-Alfie Devine,Spurs,Everton,,True,0,,,,,0,,,0.0,0,0,10930,0.0,0.0,0.0,0.0,Spurs,False,Newcastle United,,-0.44,0.0,0.0,
-Alfie Devine,Spurs,Newcastle United,,False,0,,,,,0,,,0.0,0,0,11661,0.0,0.0,0.0,0.0,Spurs,True,Arsenal,,-0.32,0.0,0.0,
-Alfie Devine,Spurs,Arsenal,,True,0,,,,,0,,,0.0,0,0,11755,0.0,0.0,0.0,0.0,Spurs,True,Brentford,,0.54,0.0,0.0,
-Alfie Devine,Spurs,Brentford,,True,0,,,,,0,,,0.0,0,0,9970,0.0,0.0,0.0,0.0,Spurs,False,Manchester United,,-0.41,0.0,0.0,
-Alfie Devine,Spurs,Manchester United,,False,0,,,,,0,,,0.0,0,0,8809,0.0,0.0,0.0,0.0,Spurs,False,Brighton,,-0.61,0.0,0.0,
-Alfie Devine,Spurs,Brighton,,False,0,,,,,0,,,0.0,0,0,8055,0.0,0.0,0.0,0.0,Spurs,True,West Ham,,0.48,0.0,0.0,
-Alfie Devine,Spurs,West Ham,,True,0,,,,,0,,,0.0,0,0,7551,0.0,0.0,0.0,0.0,Spurs,False,Crystal Palace,,0.2,0.0,0.0,
-Alfie Devine,Spurs,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,7306,0.0,0.0,0.0,0.0,Spurs,True,Aston Villa,,0.66,0.0,0.0,
-Alfie Devine,Spurs,Aston Villa,,True,0,,,,,0,,,0.0,0,0,6960,0.0,0.0,0.0,0.0,Spurs,True,Ipswich Town,,,0.0,0.0,
-Alfie Devine,Spurs,Ipswich Town,,True,0,,,,,0,,,0.0,0,0,6685,0.0,0.0,0.0,,,,,,,0.0,0.0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Alfie Devine,Spurs,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,9576.0,0.0,0.0,0.0,0.0,Spurs,True,Everton,,0.61
+Alfie Devine,Spurs,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,10930.0,0.0,0.0,0.0,0.0,Spurs,False,Newcastle United,,-0.44
+Alfie Devine,Spurs,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,11661.0,0.0,0.0,0.0,0.0,Spurs,True,Arsenal,,-0.32
+Alfie Devine,Spurs,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,11755.0,0.0,0.0,0.0,0.0,Spurs,True,Brentford,,0.54
+Alfie Devine,Spurs,Brentford,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,9970.0,0.0,0.0,0.0,0.0,Spurs,False,Manchester United,,-0.41
+Alfie Devine,Spurs,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,8809.0,0.0,0.0,0.0,0.0,Spurs,False,Brighton,,-0.61
+Alfie Devine,Spurs,Brighton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,8055.0,0.0,0.0,0.0,0.0,Spurs,True,West Ham,,0.48
+Alfie Devine,Spurs,West Ham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,7551.0,0.0,0.0,0.0,0.0,Spurs,False,Crystal Palace,,0.2
+Alfie Devine,Spurs,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,7306.0,0.0,0.0,0.0,0.0,Spurs,True,Aston Villa,,0.66
+Alfie Devine,Spurs,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,6960.0,0.0,0.0,0.0,0.0,Spurs,True,Ipswich Town,,
+Alfie Devine,Spurs,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,6685.0,0.0,0.0,0.0,0.0,Spurs,False,Manchester City,,-1.51
+Alfie Devine,Spurs,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,6471.0,0.0,0.0,0.0,,Spurs,True,Fulham,,0.27
+,Spurs,,,,,,,,,,,,,,,,,,,,Spurs,False,Bournemouth,,-0.04
+,Spurs,,,,,,,,,,,,,,,,,,,,Spurs,True,Chelsea,,0.0

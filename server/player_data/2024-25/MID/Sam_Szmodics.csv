@@ -1,14 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty,recent_minutes_3g,recent_minutes_5g,adjusted_fixture_difficulty
-Sam Szmodics,Ipswich,Liverpool,2024-08-17,True,16.0,0.0,0.0,0.0,0.05,1.0,0.0,1.0,1.4,0.0,0.0,10540.0,1.0,0.0,16.0,6.0,Ipswich,False,Manchester City,,-1.51,16.0,16.0,
-Sam Szmodics,Ipswich,Manchester City,2024-08-24,False,71.0,1.0,0.48,0.0,0.0,6.0,1.0,0.0,4.2,0.0,1.0,14925.0,3.5,0.24,43.5,2.0,Ipswich,True,Fulham,,0.27,87.0,87.0,
-Sam Szmodics,Ipswich,Fulham,2024-08-31,True,80.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.9,0.0,1.0,46176.0,3.0,0.16,55.67,1.0,Ipswich,False,Brighton,,-0.61,167.0,167.0,
-Sam Szmodics,Ipswich,Brighton,2024-09-14,False,58.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,44029.0,2.5,0.12,56.25,2.0,Ipswich,False,Southampton,,-0.31,209.0,225.0,
-Sam Szmodics,Ipswich,Southampton,2024-09-21,False,60.0,0.0,0.77,0.0,0.0,2.0,3.0,0.0,3.1,0.0,1.0,43968.0,2.4,0.25,57.0,1.0,Ipswich,True,Aston Villa,,0.66,198.0,285.0,
-Sam Szmodics,Ipswich,Aston Villa,2024-09-29,True,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,34322.0,2.4,0.25,47.67,1.0,Ipswich,False,West Ham,,-0.34,119.0,270.0,
-Sam Szmodics,Ipswich,West Ham,2024-10-05,False,17.0,0.0,0.09,0.0,0.0,1.0,1.0,0.0,0.4,0.0,0.0,28101.0,1.4,0.17,43.29,1.0,Ipswich,True,Everton,,0.61,78.0,216.0,
-Sam Szmodics,Ipswich,Everton,2024-10-19,True,19.0,0.0,0.0,0.0,0.06,1.0,0.0,2.0,4.2,0.0,0.0,25365.0,1.2,0.17,40.25,7.0,Ipswich,False,Brentford,,-0.15,37.0,155.0,
-Sam Szmodics,Ipswich,Brentford,2024-10-26,False,72.0,1.0,0.71,0.0,0.0,7.0,3.0,0.0,8.5,0.0,1.0,22912.0,2.4,0.31,43.78,3.0,Ipswich,True,Leicester City,,0.47,108.0,169.0,
-Sam Szmodics,Ipswich,Leicester City,2024-11-02,True,73.0,0.0,0.54,0.0,0.0,3.0,1.0,0.0,0.6,0.0,1.0,32762.0,2.6,0.27,46.7,9.0,Ipswich,False,Tottenham,,-0.3,164.0,182.0,
-Sam Szmodics,Ipswich,Tottenham,2024-11-10,False,70.0,1.0,0.89,0.0,0.0,9.0,2.0,0.0,9.7,2.0,1.0,27580.0,4.2,0.45,48.82,,Ipswich,True,Manchester United,,0.39,215.0,251.0,
-Sam Szmodics,Ipswich,,,,,,,,,,,,,,,,,,,,Ipswich,False,Nottingham Forest,,-0.54,143.0,234.0,
-Sam Szmodics,Ipswich,,,,,,,,,,,,,,,,,,,,Ipswich,True,Crystal Palace,,0.88,70.0,215.0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Sam Szmodics,Ipswich,Liverpool,2024-08-17,True,16.0,0.0,0.0,0.0,0.05,1.0,0.0,1.0,1.4,0.0,0.0,10540.0,1.0,0.0,16.0,6.0,Ipswich,False,Manchester City,,-1.51
+Sam Szmodics,Ipswich,Manchester City,2024-08-24,False,71.0,1.0,0.48,0.0,0.0,6.0,1.0,0.0,4.2,0.0,1.0,14925.0,3.5,0.24,43.5,2.0,Ipswich,True,Fulham,,0.27
+Sam Szmodics,Ipswich,Fulham,2024-08-31,True,80.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.9,0.0,1.0,46176.0,3.0,0.16,55.67,1.0,Ipswich,False,Brighton,,-0.61
+Sam Szmodics,Ipswich,Brighton,2024-09-14,False,58.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,44029.0,2.5,0.12,56.25,2.0,Ipswich,False,Southampton,,-0.31
+Sam Szmodics,Ipswich,Southampton,2024-09-21,False,60.0,0.0,0.77,0.0,0.0,2.0,3.0,0.0,3.1,0.0,1.0,43968.0,2.4,0.25,57.0,1.0,Ipswich,True,Aston Villa,,0.66
+Sam Szmodics,Ipswich,Aston Villa,2024-09-29,True,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,34322.0,2.4,0.25,47.67,1.0,Ipswich,False,West Ham,,-0.34
+Sam Szmodics,Ipswich,West Ham,2024-10-05,False,17.0,0.0,0.09,0.0,0.0,1.0,1.0,0.0,0.4,0.0,0.0,28101.0,1.4,0.17,43.29,1.0,Ipswich,True,Everton,,0.61
+Sam Szmodics,Ipswich,Everton,2024-10-19,True,19.0,0.0,0.0,0.0,0.06,1.0,0.0,2.0,4.2,0.0,0.0,25365.0,1.2,0.17,40.25,7.0,Ipswich,False,Brentford,,-0.15
+Sam Szmodics,Ipswich,Brentford,2024-10-26,False,72.0,1.0,0.71,0.0,0.0,7.0,3.0,0.0,8.5,0.0,1.0,22912.0,2.4,0.31,43.78,3.0,Ipswich,True,Leicester City,,0.47
+Sam Szmodics,Ipswich,Leicester City,2024-11-02,True,73.0,0.0,0.54,0.0,0.0,3.0,1.0,0.0,0.6,0.0,1.0,32762.0,2.6,0.27,46.7,9.0,Ipswich,False,Tottenham,,-0.3
+Sam Szmodics,Ipswich,Tottenham,2024-11-10,False,70.0,1.0,0.89,0.0,0.0,9.0,2.0,0.0,9.7,2.0,1.0,27580.0,4.2,0.45,48.82,2.0,Ipswich,True,Manchester United,,0.39
+Sam Szmodics,Ipswich,Manchester United,2024-11-24,True,64.0,0.0,0.1,0.0,0.0,2.0,2.0,0.0,1.9,0.0,1.0,40037.0,4.4,0.45,50.08,,Ipswich,False,Nottingham Forest,,-0.54
+,Ipswich,,,,,,,,,,,,,,,,,,,,Ipswich,True,Crystal Palace,,0.88
+,Ipswich,,,,,,,,,,,,,,,,,,,,Ipswich,True,Bournemouth,,0.84

@@ -1,14 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty,recent_minutes_3g,recent_minutes_5g,adjusted_fixture_difficulty
-Harry Winks,Leicester,Tottenham,2024-08-19,True,90.0,0.0,0.0,0.0,0.01,2.0,0.0,1.0,3.5,0.0,1.0,1202141.0,2.0,0.0,90.0,2.0,Leicester,False,Fulham,,0.53,90.0,90.0,
-Harry Winks,Leicester,Fulham,2024-08-24,False,90.0,0.0,0.0,0.0,0.11,2.0,0.0,1.0,2.8,0.0,1.0,1336305.0,2.0,0.0,90.0,1.0,Leicester,True,Aston Villa,,0.66,180.0,180.0,
-Harry Winks,Leicester,Aston Villa,2024-08-31,True,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.9,0.0,1.0,1406696.0,1.67,0.0,90.0,2.0,Leicester,False,Crystal Palace,,0.2,270.0,270.0,
-Harry Winks,Leicester,Crystal Palace,2024-09-14,False,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.3,0.0,1.0,1522787.0,1.75,0.0,90.0,2.0,Leicester,True,Everton,,0.61,270.0,360.0,
-Harry Winks,Leicester,Everton,2024-09-21,True,90.0,0.0,0.02,0.0,0.17,2.0,1.0,3.0,6.9,0.0,1.0,1567079.0,1.8,0.0,90.0,2.0,Leicester,False,Arsenal,,-0.56,270.0,450.0,
-Harry Winks,Leicester,Arsenal,2024-09-28,False,90.0,0.0,0.0,0.0,0.04,2.0,0.0,1.0,2.5,0.0,1.0,1458517.0,1.8,0.0,90.0,0.0,Leicester,True,Bournemouth,,0.84,270.0,450.0,
-Harry Winks,Leicester,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1456092.0,1.4,0.0,77.14,3.0,Leicester,False,Southampton,,-0.31,180.0,360.0,
-Harry Winks,Leicester,Southampton,2024-10-19,False,45.0,0.0,0.0,1.0,0.11,3.0,0.0,4.0,7.1,0.0,0.0,1402005.0,1.8,0.2,73.12,4.0,Leicester,True,Nottingham Forest,,1.2,135.0,315.0,
-Harry Winks,Leicester,Nottingham Forest,2024-10-25,True,90.0,0.0,0.01,1.0,0.63,4.0,1.0,2.0,7.3,0.0,1.0,1382080.0,2.2,0.41,75.0,2.0,Leicester,False,Ipswich Town,,,135.0,315.0,
-Harry Winks,Leicester,Ipswich Town,2024-11-02,False,90.0,0.0,0.07,0.0,0.04,2.0,4.0,1.0,3.4,0.0,1.0,1412876.0,2.2,0.42,76.5,2.0,Leicester,False,Manchester United,,-0.41,225.0,315.0,
-Harry Winks,Leicester,Manchester United,2024-11-10,False,90.0,0.0,0.03,0.0,0.0,2.0,1.0,0.0,3.3,0.0,1.0,1355527.0,2.2,0.42,77.73,,Leicester,True,Chelsea,,0.0,270.0,315.0,
-Harry Winks,Leicester,,,,,,,,,,,,,,,,,,,,Leicester,False,Brentford,,-0.15,180.0,315.0,
-Harry Winks,Leicester,,,,,,,,,,,,,,,,,,,,Leicester,True,West Ham,,0.48,90.0,270.0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Harry Winks,Leicester,Tottenham,2024-08-19,True,90.0,0.0,0.0,0.0,0.01,2.0,0.0,1.0,3.5,0.0,1.0,1202141.0,2.0,0.0,90.0,2.0,Leicester,False,Fulham,,0.53
+Harry Winks,Leicester,Fulham,2024-08-24,False,90.0,0.0,0.0,0.0,0.11,2.0,0.0,1.0,2.8,0.0,1.0,1336305.0,2.0,0.0,90.0,1.0,Leicester,True,Aston Villa,,0.66
+Harry Winks,Leicester,Aston Villa,2024-08-31,True,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.9,0.0,1.0,1406696.0,1.67,0.0,90.0,2.0,Leicester,False,Crystal Palace,,0.2
+Harry Winks,Leicester,Crystal Palace,2024-09-14,False,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.3,0.0,1.0,1522787.0,1.75,0.0,90.0,2.0,Leicester,True,Everton,,0.61
+Harry Winks,Leicester,Everton,2024-09-21,True,90.0,0.0,0.02,0.0,0.17,2.0,1.0,3.0,6.9,0.0,1.0,1567079.0,1.8,0.0,90.0,2.0,Leicester,False,Arsenal,,-0.56
+Harry Winks,Leicester,Arsenal,2024-09-28,False,90.0,0.0,0.0,0.0,0.04,2.0,0.0,1.0,2.5,0.0,1.0,1458517.0,1.8,0.0,90.0,0.0,Leicester,True,Bournemouth,,0.84
+Harry Winks,Leicester,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1456092.0,1.4,0.0,77.14,3.0,Leicester,False,Southampton,,-0.31
+Harry Winks,Leicester,Southampton,2024-10-19,False,45.0,0.0,0.0,1.0,0.11,3.0,0.0,4.0,7.1,0.0,0.0,1402005.0,1.8,0.2,73.12,4.0,Leicester,True,Nottingham Forest,,1.2
+Harry Winks,Leicester,Nottingham Forest,2024-10-25,True,90.0,0.0,0.01,1.0,0.63,4.0,1.0,2.0,7.3,0.0,1.0,1382080.0,2.2,0.41,75.0,2.0,Leicester,False,Ipswich Town,,
+Harry Winks,Leicester,Ipswich Town,2024-11-02,False,90.0,0.0,0.07,0.0,0.04,2.0,4.0,1.0,3.4,0.0,1.0,1412876.0,2.2,0.42,76.5,2.0,Leicester,False,Manchester United,,-0.41
+Harry Winks,Leicester,Manchester United,2024-11-10,False,90.0,0.0,0.03,0.0,0.0,2.0,1.0,0.0,3.3,0.0,1.0,1355527.0,2.2,0.42,77.73,1.0,Leicester,True,Chelsea,,0.0
+Harry Winks,Leicester,Chelsea,2024-11-23,True,10.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1303618.0,2.4,0.42,72.08,,Leicester,False,Brentford,,-0.15
+,Leicester,,,,,,,,,,,,,,,,,,,,Leicester,True,West Ham,,0.48
+,Leicester,,,,,,,,,,,,,,,,,,,,Leicester,True,Brighton,,-0.42

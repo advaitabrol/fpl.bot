@@ -5,8 +5,8 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split, RandomizedSearchCV, KFold
 from xgboost import XGBRegressor, XGBClassifier
 from sklearn.ensemble import RandomForestRegressor, RandomForestClassifier
-from sklearn.metrics import mean_squared_error, mean_absolute_error, classification_report
-from sklearn.feature_selection import SelectFromModel
+from sklearn.metrics import mean_squared_error, mean_absolute_error, classification_report, make_scorer, fbeta_score
+from sklearn.feature_selection import SelectFromModel, RFECV
 import seaborn as sns
 import matplotlib.pyplot as plt
 import os
@@ -74,6 +74,7 @@ FORWARD_FEATURES = [
 
 TARGET = 'next_week_points'
 
+'''
 # --- Utility Functions ---
 def print_feature_importance(model, features, label):
     """
@@ -130,57 +131,67 @@ def remove_highly_correlated_features(df, feature_list, threshold=0.8):
 
     print(f"Features to drop: {features_to_drop}")
     return [feature for feature in feature_list if feature not in features_to_drop]
+'''
 
 
-def hyperparameter_tune_model(X_train, y_train, model='xgb', task='regression', sqrt_shift=5):
+def hyperparameter_tune_model(X_train, y_train, model='xgb', task='regression', corr_threshold=0.8):
     """
-    Hyperparameter tuning with optional log-shift transformation, custom loss functions, and evaluation metrics.
+    Hyperparameter tuning with preprocessing for multicollinearity removal, task-specific feature selection,
+    and customized adjustments for classification and regression.
 
     Parameters:
         X_train (pd.DataFrame): Training features.
         y_train (pd.Series): Training labels.
         model (str): Model to use ('xgb' or 'rf').
         task (str): Task type ('classification' or 'regression').
-        log_shift (float): Shift value for log transformation. Default is 5.
+        corr_threshold (float): Threshold for removing multicollinear features.
 
     Returns:
-        Best estimator from RandomizedSearchCV.
+        Best estimator from RandomizedSearchCV with prediction adjustments for regression tasks.
     """
-    pipeline = None
 
-    # Validate model input
-    if model not in ['xgb', 'rf']:
-        raise ValueError(f"Invalid model type: {model}. Choose 'xgb' or 'rf'.")
+    def preprocess_features(df, features, threshold):
+        """
+        Check for multicollinearity and remove highly correlated features.
+        """
+        scaler = StandardScaler()
+        scaled_data = scaler.fit_transform(df[features])
+        scaled_df = pd.DataFrame(scaled_data, columns=features)
+        corr_matrix = scaled_df.corr().abs()
+        upper_tri = corr_matrix.where(~np.tril(np.ones(corr_matrix.shape)).astype(bool))
+        features_to_drop = [col for col in upper_tri.columns if any(upper_tri[col] > threshold)]
+        return [feature for feature in features if feature not in features_to_drop]
 
-    # Transform the target variable if regression task
-    if task == 'regression':
-        # Plot original distribution
-        sns.histplot(y_train, kde=True)
-        plt.title('Original Target Variable Distribution')
-        plt.xlabel('Next Week Points')
-        plt.ylabel('Frequency')
-        plt.show()
+    def select_features_with_rfe(model, X, y, scoring_metric):
+        """
+        Perform Recursive Feature Elimination (RFE) with Cross-Validation.
+        """
+        kfold = KFold(n_splits=5, shuffle=True, random_state=42)
+        rfecv = RFECV(estimator=model, step=1, scoring=scoring_metric, cv=kfold, n_jobs=-1, min_features_to_select=10)
+        rfecv.fit(X, y)
+        return list(X.columns[rfecv.support_])
 
-        # Handle problematic values
-        valid_indices = y_train[y_train + sqrt_shift > 0].index
-        X_train = X_train.loc[valid_indices]
-        y_train = y_train.loc[valid_indices]
+    # Preprocess features
+    initial_features = list(X_train.columns)
+    cleaned_features = preprocess_features(X_train, initial_features, corr_threshold)
+    X_train_cleaned = X_train[cleaned_features]
 
-        # Log-shift transformation
-        y_train_transformed = np.sqrt(y_train + sqrt_shift)
-        y_train_transformed = y_train_transformed.astype(float)
-
-        # Plot transformed distribution
-        sns.histplot(y_train_transformed, kde=True, color='green')
-        plt.title('Square Root Transformed Target Variable Distribution')
-        plt.xlabel(f'Sqrt(Next Week Points + {sqrt_shift})')
-        plt.ylabel('Frequency')
-        plt.show()
-
+    # Task-specific configurations
+    if task == 'classification':
+        scoring_metric = make_scorer(fbeta_score, beta=2)  # Prioritize recall (reduce false negatives)
+        base_model = XGBClassifier(random_state=42)
+    elif task == 'regression':
+        scoring_metric = 'neg_mean_squared_error'
+        base_model = XGBRegressor(random_state=42)
     else:
-        y_train_transformed = y_train.astype(float)
+        raise ValueError(f"Unsupported task type: {task}")
 
-    # Define model-specific parameters and pipeline
+    final_features = select_features_with_rfe(base_model, X_train_cleaned, y_train, scoring_metric)
+    X_train_final = X_train_cleaned[final_features]
+    expected_features = X_train_final.columns
+
+    # Define model-specific pipeline and parameter grid
+    pipeline = None
     if model == 'xgb':
         if task == 'classification':
             model_class = XGBClassifier
@@ -191,10 +202,7 @@ def hyperparameter_tune_model(X_train, y_train, model='xgb', task='regression', 
                 'xgb__subsample': [0.8, 1.0],
                 'xgb__colsample_bytree': [0.8, 1.0],
             }
-            pipeline = Pipeline([
-                ('xgb', model_class(random_state=42))
-            ])
-        else:  # Regression task
+        elif task == 'regression':
             model_class = XGBRegressor
             param_grid = {
                 'xgb__n_estimators': [100, 300, 500],
@@ -202,83 +210,106 @@ def hyperparameter_tune_model(X_train, y_train, model='xgb', task='regression', 
                 'xgb__learning_rate': [0.01, 0.05, 0.1],
                 'xgb__subsample': [0.7, 0.8, 1.0],
                 'xgb__colsample_bytree': [0.6, 0.8, 1.0],
-                'xgb__reg_alpha': [0.1, 0.5, 1],
-                'xgb__reg_lambda': [1, 1.5, 2.0]
+                'xgb__alpha': [0.9],  # Quantile regression for the 90th percentile
             }
-
-            # Custom weighted loss function
-            def weighted_loss(y_true, y_pred):
-                """
-                Custom weighted loss function for XGBoost.
-                - Penalizes under-predictions more than over-predictions.
-                - Scales penalties based on true values to emphasize high-value predictions.
-                """
-                residual = y_true - y_pred
-                weight = y_true / y_true.max()  # Weight errors proportionally to true values
-                grad = -2 * residual * weight * (1 + 0.5 * (y_true > y_pred))  # Higher penalty for under-predictions
-                hess = 2 * (np.abs(residual) + 1e-6)  # Dynamic hessian to focus on large errors
-                return grad, hess
-
-            # Use XGBoost pipeline with a custom loss function
-            pipeline = Pipeline([
-                ('xgb', model_class(objective=weighted_loss, random_state=42))
-            ])
-
+        pipeline = Pipeline([('xgb', model_class(objective='reg:absoluteerror', random_state=42))])
     elif model == 'rf':
-        if task == 'classification':
-            model_class = RandomForestClassifier
-            param_grid = {
-                'rf__n_estimators': [100, 300, 500],
-                'rf__max_depth': [10, 20, None],
-                'rf__min_samples_split': [2, 5, 10],
-                'rf__min_samples_leaf': [1, 2, 4]
-            }
-            pipeline = Pipeline([
-                ('scaler', StandardScaler()),
-                ('rf', model_class(random_state=42))
-            ])
-        else:  # Regression task
-            model_class = RandomForestRegressor
-            param_grid = {
-                'rf__n_estimators': [100, 300, 500],
-                'rf__max_depth': [10, 20, None],
-                'rf__min_samples_split': [2, 5, 10],
-                'rf__min_samples_leaf': [1, 2, 4]
-            }
+        model_class = RandomForestClassifier if task == 'classification' else RandomForestRegressor
+        param_grid = {
+            'rf__n_estimators': [100, 300, 500],
+            'rf__max_depth': [10, 20, None],
+            'rf__min_samples_split': [2, 5, 10],
+            'rf__min_samples_leaf': [1, 2, 4],
+        }
+        pipeline = Pipeline([('scaler', StandardScaler()), ('rf', model_class(random_state=42))])
+    else:
+        raise ValueError(f"Unsupported model type: {model}")
 
-            pipeline = Pipeline([
-                ('scaler', StandardScaler()),  # Scale for RF
-                ('rf', model_class(random_state=42))
-            ])
-
-    # Perform RandomizedSearchCV
     kfold = KFold(n_splits=5, shuffle=True, random_state=42)
-    search = RandomizedSearchCV(
-        pipeline, param_grid,
-        scoring='accuracy' if task == 'classification' else 'neg_mean_squared_error',
-        cv=kfold, n_jobs=-1, random_state=42, 
-        error_score='raise'
-    )
-    search.fit(X_train, y_train_transformed)
+    search = RandomizedSearchCV(pipeline, param_grid, scoring=scoring_metric, cv=kfold, n_jobs=-1, random_state=42)
+    search.fit(X_train_final, y_train)
 
-    # Best model
-    print("Best Parameters:", search.best_params_)
+    best_model = search.best_estimator_.named_steps[model]
 
-    # For regression, reverse the log transformation on predictions
+    if hasattr(best_model, 'feature_importances_'):
+        importance_df = pd.DataFrame({'Feature': final_features, 'Importance': best_model.feature_importances_})
+        importance_df = importance_df.sort_values(by='Importance', ascending=False)
+
+        # Plot feature importances
+        plt.figure(figsize=(10, 6))
+        plt.barh(importance_df['Feature'][:10], importance_df['Importance'][:10], align='center')
+        plt.gca().invert_yaxis()
+        plt.title(f"Top 10 Features by Importance for {task.capitalize()}")
+        plt.xlabel("Importance")
+        plt.ylabel("Feature")
+        #plt.show()
+
+    # Add range-based scaling for regression
     if task == 'regression':
-        def predict_transformed(pipeline, X):
-            return (pipeline.predict(X))**2 - sqrt_shift
-        
-        search.best_estimator_.predict_transformed = lambda X: predict_transformed(search.best_estimator_, X)
+        X_train_aligned = X_train_final.reindex(columns=expected_features, fill_value=0)
+        y_val_preds = pd.Series(search.predict(X_train_aligned), index=X_train_final.index)
+
+        n_ranges = 10
+        quantiles = np.linspace(0, 1, n_ranges + 1)
+        range_bounds = y_val_preds.quantile(quantiles).values
+        ranges = [(range_bounds[i], range_bounds[i + 1]) for i in range(len(range_bounds) - 1)]
+
+        scaling_factors = {}
+        for r in ranges:
+            range_indices = (y_val_preds >= r[0]) & (y_val_preds < r[1])
+            player_count = range_indices.sum()
+            if player_count > 0:
+                true_values = y_train[range_indices]
+                pred_values = y_val_preds[range_indices]
+                true_mean = true_values.mean()
+                pred_mean = pred_values.mean()
+                scaling_factors[r] = true_mean / pred_mean if pred_mean > 0 else 1
+
+        print(f"Computed Scaling Factors: {scaling_factors}")
+
+        def predict_scaled(pipeline, X, expected_features, scaling_factors):
+            X_aligned = X.reindex(columns=expected_features, fill_value=0)
+            raw_preds = pipeline.predict(X_aligned)
+            scaled_preds = np.zeros_like(raw_preds)
+
+            for r, factor in scaling_factors.items():
+                range_indices = (raw_preds >= r[0]) & (raw_preds < r[1])
+                if range_indices.sum() > 0:
+                    scaled_preds[range_indices] = raw_preds[range_indices] * factor
+
+            return scaled_preds
+
+        search.best_estimator_.predict_scaled = lambda X: predict_scaled(
+            search.best_estimator_,
+            X,
+            expected_features=expected_features,
+            scaling_factors=scaling_factors,
+        )
 
     return search.best_estimator_
+
 
 
 def evaluate_model(model, X_test, y_test, label):
     """
     Evaluate a model using MSE, MAE, and residual plot.
     """
-    predictions = model.predict(X_test)
+    # Extract expected feature names from the trained model
+    if hasattr(model, 'named_steps'):
+        if 'xgb' in model.named_steps:
+            expected_features = model.named_steps['xgb'].get_booster().feature_names
+        elif 'rf' in model.named_steps:
+            expected_features = X_test.columns.tolist()  # RandomForest doesn't enforce feature order
+        else:
+            raise ValueError("Unsupported model type in pipeline.")
+    else:
+        expected_features = X_test.columns.tolist()  # For standalone models
+
+    # Align X_test with the features expected by the model
+    X_test_aligned = X_test.reindex(columns=expected_features, fill_value=0)
+
+    # Predict and evaluate
+    predictions = model.predict(X_test_aligned)
     mse = mean_squared_error(y_test, predictions)
     mae = mean_absolute_error(y_test, predictions)
 
@@ -287,10 +318,10 @@ def evaluate_model(model, X_test, y_test, label):
     # Residual Plot
     residuals = y_test - predictions
     sns.histplot(residuals, kde=True)
-    plt.title('Residual Distribution')
+    plt.title(f'{label} - Residual Distribution')
     plt.xlabel('Residuals')
     plt.ylabel('Frequency')
-    plt.show()
+    #plt.show()
 
 # Apply trained model to prediction data and save results
 def apply_trained_model(clf_model, reg_model, features, csv_file, confidence_threshold=0.5):
@@ -321,16 +352,18 @@ def apply_trained_model(clf_model, reg_model, features, csv_file, confidence_thr
         df[available_features] = df[available_features].apply(pd.to_numeric, errors="coerce").fillna(0)
 
         # Classification: Predict zero vs. non-zero
-        X_clf = df[available_features]
+        clf_expected_features = clf_model.named_steps['xgb'].get_booster().feature_names
+        X_clf = df.reindex(columns=clf_expected_features, fill_value=0)
         X_clf = clean_features(X_clf)
         df["is_predicted_zero"] = clf_model.predict(X_clf)
 
         # Regression: Predict next week's points for non-zero rows
         non_zero_indices = df[df["is_predicted_zero"] == 0].index
         if not non_zero_indices.empty:
-            X_reg = X_clf.loc[non_zero_indices]
+            reg_expected_features = reg_model.named_steps['xgb'].get_booster().feature_names
+            X_reg = df.reindex(columns=reg_expected_features, fill_value=0).loc[non_zero_indices]
             X_reg = clean_features(X_reg)
-            df.loc[non_zero_indices, "predicted_next_week_points"] = reg_model.predict(X_reg)
+            df.loc[non_zero_indices, "predicted_next_week_points"] = reg_model.predict_scaled(X_reg)
         else:
             print("No non-zero predictions were made.")
             df["predicted_next_week_points"] = 0  # Default to 0 if no predictions are possible
@@ -345,7 +378,7 @@ def apply_trained_model(clf_model, reg_model, features, csv_file, confidence_thr
         print(f"Updated predictions saved to {csv_file}.")
 
         # Retain only required columns
-        retain_columns(csv_file)
+        #retain_columns(csv_file)
 
     except Exception as e:
         print(f"Error processing {csv_file}: {e}")
@@ -564,6 +597,7 @@ def predict_gw(gw_dir):
     Train models on training data and apply predictions for a specific game week.
     """
     global GOALKEEPER_FEATURES, DEFENDER_FEATURES, MIDFIELDER_FEATURES, FORWARD_FEATURES
+
     # Feature Engineering and Training Data Loading
     train_data_files = {
         "goalkeepers": ("train_data/goalkeeper.csv", GOALKEEPER_FEATURES),
@@ -574,20 +608,17 @@ def predict_gw(gw_dir):
 
     models = {}
 
-    # Step 1: Load Training Data, Apply Feature Engineering, Train Models
     for position, (file_path, features) in train_data_files.items():
         print(f"\nProcessing training data for {position.capitalize()}...")
 
         try:
-            # Load training data
+            # Load Training Data
             df = pd.read_csv(file_path)
-            print(f"Loaded {len(df)} rows from {file_path}.")
 
             # Feature Engineering
             df = engineer_features(df, position)
-            print(f"Applied feature engineering for {position}.")
 
-            # Classification Model for Zero vs Non-Zero
+            # Classification Step: Zero vs Non-Zero
             df['is_zero'] = (df[TARGET] <= 0).astype(int)
             X_clf, y_clf = df[features], df['is_zero']
             X_clf = clean_features(X_clf)
@@ -595,50 +626,63 @@ def predict_gw(gw_dir):
             X_clf, y_clf = X_clf.align(y_clf, axis=0, join='inner')
 
             if X_clf.empty or y_clf.empty:
-                print(f"No classification data available for {position}. Skipping...")
+                print(f"No data available for classification for {position}. Skipping...")
                 continue
 
-            # Train-Test Split and Classification Model Training
+            # Train-Test Split for Classification
             X_train_clf, X_test_clf, y_train_clf, y_test_clf = train_test_split(
                 X_clf, y_clf, test_size=0.2, random_state=42
             )
             clf_pipeline = hyperparameter_tune_model(X_train_clf, y_train_clf, model="xgb", task="classification")
             evaluate_model(clf_pipeline, X_test_clf, y_test_clf, f"{position.capitalize()} Classifier")
 
-            # Regression Model for Non-Zero Predictions
-            df['predicted_non_zero'] = clf_pipeline.predict(X_clf) == 0
-            non_zero_data = df[df['predicted_non_zero']]
+            # Predictions from Classification Model
+            expected_features = clf_pipeline.named_steps['xgb'].get_booster().feature_names if 'xgb' in clf_pipeline.named_steps else clf_pipeline.named_steps['rf'].feature_names_in_
+            X_clf_aligned = X_clf.reindex(columns=expected_features, fill_value=0)
 
+            df['predicted_non_zero'] = clf_pipeline.predict(X_clf_aligned) == 0
+
+            # Regression Step: Non-Zero Predictions
+            non_zero_data = df[df['predicted_non_zero']]
             if non_zero_data.empty:
                 print(f"No non-zero data available for {position}. Skipping regression step...")
                 continue
 
-
-            
-            #X_reg, y_reg = non_zero_data[features], np.log1p(non_zero_data[TARGET])
             X_reg, y_reg = non_zero_data[features], non_zero_data[TARGET]
             X_reg = clean_features(X_reg)
-
             X_reg, y_reg = X_reg.align(y_reg, axis=0, join='inner')
-
             y_reg = clean_target(y_reg)
+
+            # Train-Test Split for Regression
             X_train_reg, X_test_reg, y_train_reg, y_test_reg = train_test_split(
                 X_reg, y_reg, test_size=0.2, random_state=42
             )
-            reg_pipeline = hyperparameter_tune_model(X_train_reg, y_train_reg, model="xgb", task="regression")
-            #y_pred_reg = np.expm1(reg_pipeline.predict(X_test_reg))
-            y_pred_reg = reg_pipeline.predict(X_test_reg)
-            evaluate_model(reg_pipeline, X_test_reg, y_test_reg, f"{position.capitalize()} Regressor")
 
-            # Save trained models
+
+            reg_pipeline = hyperparameter_tune_model(X_train_reg, y_train_reg, model="xgb", task="regression")
+
+            # Train Regression Model
+            expected_features = (
+                reg_pipeline.named_steps['xgb'].get_booster().feature_names
+                if 'xgb' in reg_pipeline.named_steps
+                else reg_pipeline.named_steps['rf'].feature_names_in_
+            )
+            X_test_reg_aligned = X_test_reg.reindex(columns=expected_features, fill_value=0)
+
+            # Use the aligned data for prediction
+            y_pred_reg = reg_pipeline.predict(X_test_reg_aligned)
+
+            evaluate_model(reg_pipeline, X_test_reg_aligned, y_test_reg, f"{position.capitalize()} Regressor")
+
+            # Save Trained Models
             models[position] = (clf_pipeline, reg_pipeline)
-            print(f"Saved trained models for {position}.")
+
 
         except Exception as e:
             print(f"Error processing training data for {position}: {e}")
-            continue
 
     print("\nTraining complete. Proceeding to prediction phase...")
+
 
     
     # Step 2: Prediction Phase
@@ -687,4 +731,4 @@ def predict_gw(gw_dir):
                 continue
 
     print("\nPrediction phase complete.")
-    
+   

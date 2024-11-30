@@ -1,13 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty,recent_minutes_3g,recent_minutes_5g,adjusted_fixture_difficulty
-Ilkay Gündogan,Man City,Ipswich Town,2024-08-24,True,19.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.8,0.0,0.0,8404.0,1.0,0.0,19.0,1.0,Man City,False,West Ham,,-0.34,19.0,19.0,
-Ilkay Gündogan,Man City,West Ham,2024-08-31,False,22.0,0.0,0.0,0.0,0.15,1.0,0.0,1.0,2.2,0.0,0.0,28956.0,1.0,0.0,20.5,2.0,Man City,True,Brentford,,0.54,41.0,41.0,
-Ilkay Gündogan,Man City,Brentford,2024-09-14,True,90.0,0.0,0.05,0.0,0.22,2.0,2.0,4.0,8.6,0.0,1.0,31139.0,1.33,0.02,43.67,2.0,Man City,True,Arsenal,,-0.32,131.0,131.0,
-Ilkay Gündogan,Man City,Arsenal,2024-09-22,True,90.0,0.0,0.38,0.0,0.09,2.0,2.0,2.0,4.8,0.0,1.0,35485.0,1.5,0.11,55.25,2.0,Man City,False,Newcastle United,,-0.44,202.0,221.0,
-Ilkay Gündogan,Man City,Newcastle United,2024-09-28,False,65.0,0.0,0.1,0.0,0.09,2.0,2.0,2.0,5.4,0.0,1.0,51444.0,1.6,0.11,57.2,2.0,Man City,True,Fulham,,0.27,245.0,286.0,
-Ilkay Gündogan,Man City,Fulham,2024-10-05,True,88.0,0.0,0.44,0.0,0.03,2.0,2.0,1.0,3.6,0.0,1.0,62982.0,1.8,0.19,62.33,2.0,Man City,False,Wolverhampton,,-0.53,243.0,355.0,
-Ilkay Gündogan,Man City,Wolverhampton,2024-10-20,False,90.0,0.0,0.33,0.0,0.16,2.0,3.0,3.0,10.3,0.0,1.0,70670.0,2.0,0.26,66.29,1.0,Man City,True,Southampton,,0.24,243.0,423.0,
-Ilkay Gündogan,Man City,Southampton,2024-10-26,True,4.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,77226.0,1.8,0.25,58.5,5.0,Man City,False,Bournemouth,,-0.04,182.0,337.0,
-Ilkay Gündogan,Man City,Bournemouth,2024-11-02,False,84.0,0.0,0.0,1.0,0.15,5.0,0.0,2.0,6.5,0.0,1.0,69806.0,2.4,0.37,61.33,3.0,Man City,False,Brighton,,-0.61,178.0,331.0,
-Ilkay Gündogan,Man City,Brighton,2024-11-09,False,71.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,2.0,0.0,1.0,65989.0,2.6,0.35,62.3,,Man City,True,Chelsea,,0.0,159.0,337.0,
-Ilkay Gündogan,Man City,,,,,,,,,,,,,,,,,,,,Man City,False,Brentford,,-0.15,155.0,249.0,
-Ilkay Gündogan,Man City,,,,,,,,,,,,,,,,,,,,Man City,True,West Ham,,0.48,71.0,159.0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Ilkay Gündogan,Man City,Ipswich Town,2024-08-24,True,19.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.8,0.0,0.0,8404.0,1.0,0.0,19.0,1.0,Man City,False,West Ham,,-0.34
+Ilkay Gündogan,Man City,West Ham,2024-08-31,False,22.0,0.0,0.0,0.0,0.15,1.0,0.0,1.0,2.2,0.0,0.0,28956.0,1.0,0.0,20.5,2.0,Man City,True,Brentford,,0.54
+Ilkay Gündogan,Man City,Brentford,2024-09-14,True,90.0,0.0,0.05,0.0,0.22,2.0,2.0,4.0,8.6,0.0,1.0,31139.0,1.33,0.02,43.67,2.0,Man City,True,Arsenal,,-0.32
+Ilkay Gündogan,Man City,Arsenal,2024-09-22,True,90.0,0.0,0.38,0.0,0.09,2.0,2.0,2.0,4.8,0.0,1.0,35485.0,1.5,0.11,55.25,2.0,Man City,False,Newcastle United,,-0.44
+Ilkay Gündogan,Man City,Newcastle United,2024-09-28,False,65.0,0.0,0.1,0.0,0.09,2.0,2.0,2.0,5.4,0.0,1.0,51444.0,1.6,0.11,57.2,2.0,Man City,True,Fulham,,0.27
+Ilkay Gündogan,Man City,Fulham,2024-10-05,True,88.0,0.0,0.44,0.0,0.03,2.0,2.0,1.0,3.6,0.0,1.0,62982.0,1.8,0.19,62.33,2.0,Man City,False,Wolverhampton,,-0.53
+Ilkay Gündogan,Man City,Wolverhampton,2024-10-20,False,90.0,0.0,0.33,0.0,0.16,2.0,3.0,3.0,10.3,0.0,1.0,70670.0,2.0,0.26,66.29,1.0,Man City,True,Southampton,,0.24
+Ilkay Gündogan,Man City,Southampton,2024-10-26,True,4.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,77226.0,1.8,0.25,58.5,5.0,Man City,False,Bournemouth,,-0.04
+Ilkay Gündogan,Man City,Bournemouth,2024-11-02,False,84.0,0.0,0.0,1.0,0.15,5.0,0.0,2.0,6.5,0.0,1.0,69806.0,2.4,0.37,61.33,3.0,Man City,False,Brighton,,-0.61
+Ilkay Gündogan,Man City,Brighton,2024-11-09,False,71.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,2.0,0.0,1.0,65989.0,2.6,0.35,62.3,2.0,Man City,True,Tottenham,,0.74
+Ilkay Gündogan,Man City,Tottenham,2024-11-23,True,90.0,0.0,0.28,0.0,0.05,2.0,1.0,2.0,7.3,0.0,1.0,63345.0,2.6,0.32,64.82,,Man City,False,Liverpool,,-1.08
+,Man City,,,,,,,,,,,,,,,,,,,,Man City,True,Nottingham Forest,,1.2
+,Man City,,,,,,,,,,,,,,,,,,,,Man City,False,Crystal Palace,,0.2

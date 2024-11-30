@@ -1,9 +1,12 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty,recent_minutes_3g,recent_minutes_5g,adjusted_fixture_difficulty
-Manuel Ugarte,Man Utd,Southampton,2024-09-14,False,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,7689,1.0,0.0,17.0,1.0,Man Utd,False,Crystal Palace,,0.2,17.0,17.0,
-Manuel Ugarte,Man Utd,Crystal Palace,2024-09-21,False,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,10577,1.0,0.0,15.5,1.0,Man Utd,True,Tottenham,,0.74,31.0,31.0,
-Manuel Ugarte,Man Utd,Tottenham,2024-09-29,True,71,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,1,10259,1.0,0.0,34.0,0.0,Man Utd,False,Aston Villa,,0.11,102.0,102.0,
-Manuel Ugarte,Man Utd,Aston Villa,,False,0,,,,,0,,,0.0,0,0,9907,0.75,0.0,25.5,1.0,Man Utd,True,Brentford,,0.54,85.0,102.0,
-Manuel Ugarte,Man Utd,Brentford,2024-10-19,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,8598,0.8,0.0,20.8,0.0,Man Utd,False,West Ham,,-0.34,73.0,104.0,
-Manuel Ugarte,Man Utd,West Ham,,False,0,,,,,0,,,0.0,0,0,8375,0.6,0.0,17.33,1.0,Man Utd,True,Chelsea,,0.0,2.0,87.0,
-Manuel Ugarte,Man Utd,Chelsea,2024-11-03,True,83,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,1,8859,0.6,0.0,26.71,3.0,Man Utd,True,Leicester City,,0.47,85.0,156.0,
-Manuel Ugarte,Man Utd,Leicester City,2024-11-10,True,90,0.0,0.02,0.0,0.51,3,1.0,1.0,4.1,0,1,9415,1.0,0.0,34.62,,,,,,,173.0,175.0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Manuel Ugarte,Man Utd,,2024-09-14,False,17.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.8,0.0,0.0,7689.0,1.0,0.0,17.0,1.0,Man Utd,False,,,
+Manuel Ugarte,Man Utd,,2024-09-21,False,14.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.6,0.0,0.0,10577.0,1.0,0.0,15.5,1.0,Man Utd,True,,,
+Manuel Ugarte,Man Utd,,2024-09-29,True,71.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,10259.0,1.0,0.0,34.0,0.0,Man Utd,False,,,
+Manuel Ugarte,Man Utd,,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,9907.0,0.75,0.0,25.5,1.0,Man Utd,True,,,
+Manuel Ugarte,Man Utd,,2024-10-19,True,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,8598.0,0.8,0.0,20.8,0.0,Man Utd,False,,,
+Manuel Ugarte,Man Utd,,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,8375.0,0.6,0.0,17.33,1.0,Man Utd,True,,,
+Manuel Ugarte,Man Utd,,2024-11-03,True,83.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,8859.0,0.6,0.0,26.71,3.0,Man Utd,True,,,
+Manuel Ugarte,Man Utd,,2024-11-10,True,90.0,0.0,0.02,0.0,0.51,3.0,1.0,1.0,4.1,0.0,1.0,9415.0,1.0,0.0,34.62,1.0,Man Utd,False,,,
+Manuel Ugarte,Man Utd,,2024-11-24,False,34.0,0.0,0.0,0.0,0.12,1.0,0.0,1.0,2.2,0.0,0.0,11351.0,1.2,0.0,34.56,,Man Utd,True,Everton,,0.61
+,Man Utd,,,,,,,,,,,,,,,,,,,,Man Utd,False,Arsenal,,-0.56
+,Man Utd,,,,,,,,,,,,,,,,,,,,Man Utd,True,Nottingham Forest,,1.2

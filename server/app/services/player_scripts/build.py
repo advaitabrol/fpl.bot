@@ -7,6 +7,15 @@ from merge_data.run_merge import main as main_merge
 from prediction_data.run_predict import main_create_prediction as main_predict
 from clean_dirs.remove_files import clean_footprint
 
+from fixture_data.fetch_fixture_list import main as main_fixture_list
+from fixture_data.filter_fixtures_by_team import main as main_fixtures_by_team
+
+
+def fixtures(): 
+    main_fixture_list(); 
+    main_fixtures_by_team(); 
+
+
 def scrape(seasons):
     """
     Runs the main methods of the run_understat.py and run_fpl_data.py scripts,
@@ -59,15 +68,17 @@ def main(prediction_folder, status):
         all_seasons = ['2021-22', '2022-23', '2023-24', '2024-25']
         """Main function to perform tasks with prediction folder and season arguments."""    
         # Now you can call the necessary functions with these arguments
+        fixtures(); 
         scrape(all_seasons)
         merge(all_seasons)
         train()
-        #prices()
-        #availability()
+        prices()
+        availability()
         predict(prediction_folder)
         #clean()
 
     if(status == 'partial'): 
+        fixtures(); 
         some_seasons = ['2023-24', '2024-25']
         scrape(some_seasons)
         merge(some_seasons)

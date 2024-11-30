@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty,recent_minutes_3g,recent_minutes_5g,adjusted_fixture_difficulty
-Archie Gray,Spurs,Leicester City,2024-08-19,False,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,23217,1.0,0.0,12.0,1.0,Spurs,True,Everton,,0.61,12.0,12.0,
-Archie Gray,Spurs,Everton,2024-08-24,True,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,23602,1.0,0.0,15.0,0.0,Spurs,False,Newcastle United,,-0.44,30.0,30.0,
-Archie Gray,Spurs,Newcastle United,,False,0,,,,,0,,,0.0,0,0,21007,0.67,0.0,10.0,0.0,Spurs,True,Arsenal,,-0.32,30.0,30.0,
-Archie Gray,Spurs,Arsenal,,True,0,,,,,0,,,0.0,0,0,19349,0.5,0.0,7.5,1.0,Spurs,True,Brentford,,0.54,18.0,30.0,
-Archie Gray,Spurs,Brentford,2024-09-21,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,18118,0.6,0.0,6.4,0.0,Spurs,False,Manchester United,,-0.41,2.0,32.0,
-Archie Gray,Spurs,Manchester United,,False,0,,,,,0,,,0.0,0,0,17275,0.4,0.0,5.33,0.0,Spurs,False,Brighton,,-0.61,2.0,20.0,
-Archie Gray,Spurs,Brighton,,False,0,,,,,0,,,0.0,0,0,16430,0.2,0.0,4.57,1.0,Spurs,True,West Ham,,0.48,2.0,2.0,
-Archie Gray,Spurs,West Ham,2024-10-19,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,15619,0.4,0.0,4.25,0.0,Spurs,False,Crystal Palace,,0.2,2.0,4.0,
-Archie Gray,Spurs,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,15361,0.4,0.0,3.78,1.0,Spurs,True,Aston Villa,,0.66,2.0,4.0,
-Archie Gray,Spurs,Aston Villa,2024-11-03,True,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,15332,0.4,0.0,4.2,0.0,Spurs,True,Ipswich Town,,,10.0,10.0,
-Archie Gray,Spurs,Ipswich Town,,True,0,,,,,0,,,0.0,0,0,15009,0.4,0.0,3.82,,,,,,,8.0,10.0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Archie Gray,Spurs,Leicester City,2024-08-19,False,12.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.8,0.0,0.0,23217.0,1.0,0.0,12.0,1.0,Spurs,True,Everton,,0.61
+Archie Gray,Spurs,Everton,2024-08-24,True,18.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,23602.0,1.0,0.0,15.0,0.0,Spurs,False,Newcastle United,,-0.44
+Archie Gray,Spurs,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,21007.0,0.67,0.0,10.0,0.0,Spurs,True,Arsenal,,-0.32
+Archie Gray,Spurs,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,19349.0,0.5,0.0,7.5,1.0,Spurs,True,Brentford,,0.54
+Archie Gray,Spurs,Brentford,2024-09-21,True,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,18118.0,0.6,0.0,6.4,0.0,Spurs,False,Manchester United,,-0.41
+Archie Gray,Spurs,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,17275.0,0.4,0.0,5.33,0.0,Spurs,False,Brighton,,-0.61
+Archie Gray,Spurs,Brighton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,16430.0,0.2,0.0,4.57,1.0,Spurs,True,West Ham,,0.48
+Archie Gray,Spurs,West Ham,2024-10-19,True,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,15619.0,0.4,0.0,4.25,0.0,Spurs,False,Crystal Palace,,0.2
+Archie Gray,Spurs,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,15361.0,0.4,0.0,3.78,1.0,Spurs,True,Aston Villa,,0.66
+Archie Gray,Spurs,Aston Villa,2024-11-03,True,8.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,15332.0,0.4,0.0,4.2,0.0,Spurs,True,Ipswich Town,,
+Archie Gray,Spurs,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,15009.0,0.4,0.0,3.82,0.0,Spurs,False,Manchester City,,-1.51
+Archie Gray,Spurs,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,14767.0,0.4,0.0,3.5,,Spurs,True,Fulham,,0.27
+,Spurs,,,,,,,,,,,,,,,,,,,,Spurs,False,Bournemouth,,-0.04
+,Spurs,,,,,,,,,,,,,,,,,,,,Spurs,True,Chelsea,,0.0

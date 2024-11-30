@@ -1,14 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty,recent_minutes_3g,recent_minutes_5g,adjusted_fixture_difficulty
-Fábio Freitas Gouveia Carvalho,Brentford,Crystal Palace,,True,6.0,,,,,1.0,,,0.3,0.0,0.0,130410.0,1.0,0.0,6.0,1.0,Brentford,False,Liverpool,,-1.08,6.0,6.0,
-Fábio Freitas Gouveia Carvalho,Brentford,Liverpool,,False,24.0,,,,,1.0,,,0.4,0.0,0.0,127341.0,1.0,0.0,15.0,1.0,Brentford,True,Southampton,,0.24,30.0,30.0,
-Fábio Freitas Gouveia Carvalho,Brentford,Southampton,,True,8.0,,,,,1.0,,,1.3,0.0,0.0,109700.0,1.0,0.0,12.67,1.0,Brentford,False,Manchester City,,-1.51,38.0,38.0,
-Fábio Freitas Gouveia Carvalho,Brentford,Manchester City,,False,18.0,,,,,1.0,,,0.2,0.0,0.0,89847.0,1.0,0.0,14.0,2.0,Brentford,False,Tottenham,,-0.3,50.0,56.0,
-Fábio Freitas Gouveia Carvalho,Brentford,Tottenham,,False,86.0,,,,,2.0,,,4.0,0.0,1.0,87591.0,1.2,0.0,28.4,6.0,Brentford,True,West Ham,,0.48,112.0,142.0,
-Fábio Freitas Gouveia Carvalho,Brentford,West Ham,,True,84.0,,,,,6.0,,,5.8,1.0,1.0,97632.0,2.2,0.0,37.67,6.0,Brentford,True,Wolverhampton,,-0.08,188.0,220.0,
-Fábio Freitas Gouveia Carvalho,Brentford,Wolverhampton,,True,13.0,,,,,6.0,,,6.9,0.0,0.0,134996.0,3.2,0.0,34.14,1.0,Brentford,False,Manchester United,,-0.41,183.0,209.0,
-Fábio Freitas Gouveia Carvalho,Brentford,Manchester United,,False,16.0,,,,,1.0,,,0.7,0.0,0.0,154821.0,3.2,0.0,31.88,1.0,Brentford,True,Ipswich Town,,,113.0,217.0,
-Fábio Freitas Gouveia Carvalho,Brentford,Ipswich Town,,True,9.0,,,,,1.0,,,0.0,0.0,0.0,153607.0,3.2,0.0,29.33,1.0,Brentford,False,Fulham,,0.53,38.0,208.0,
-Fábio Freitas Gouveia Carvalho,Brentford,Fulham,,False,17.0,,,,,1.0,,,2.3,0.0,0.0,138417.0,3.0,0.0,28.1,0.0,Brentford,True,Bournemouth,,0.84,42.0,139.0,
-Fábio Freitas Gouveia Carvalho,Brentford,Bournemouth,,True,1.0,,,,,0.0,,,0.0,0.0,0.0,120793.0,1.8,0.0,25.64,,Brentford,False,Everton,,-0.39,27.0,56.0,
-Fábio Freitas Gouveia Carvalho,Brentford,,,,,,,,,,,,,,,,,,,,Brentford,True,Leicester City,,0.47,18.0,43.0,
-Fábio Freitas Gouveia Carvalho,Brentford,,,,,,,,,,,,,,,,,,,,Brentford,False,Aston Villa,,0.11,1.0,27.0,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Fábio Freitas Gouveia Carvalho,Brentford,Crystal Palace,,True,6.0,,,,,1.0,,,0.3,0.0,0.0,130410.0,1.0,0.0,6.0,1.0,Brentford,False,Liverpool,,-1.08
+Fábio Freitas Gouveia Carvalho,Brentford,Liverpool,,False,24.0,,,,,1.0,,,0.4,0.0,0.0,127341.0,1.0,0.0,15.0,1.0,Brentford,True,Southampton,,0.24
+Fábio Freitas Gouveia Carvalho,Brentford,Southampton,,True,8.0,,,,,1.0,,,1.3,0.0,0.0,109700.0,1.0,0.0,12.67,1.0,Brentford,False,Manchester City,,-1.51
+Fábio Freitas Gouveia Carvalho,Brentford,Manchester City,,False,18.0,,,,,1.0,,,0.2,0.0,0.0,89847.0,1.0,0.0,14.0,2.0,Brentford,False,Tottenham,,-0.3
+Fábio Freitas Gouveia Carvalho,Brentford,Tottenham,,False,86.0,,,,,2.0,,,4.0,0.0,1.0,87591.0,1.2,0.0,28.4,6.0,Brentford,True,West Ham,,0.48
+Fábio Freitas Gouveia Carvalho,Brentford,West Ham,,True,84.0,,,,,6.0,,,5.8,1.0,1.0,97632.0,2.2,0.0,37.67,6.0,Brentford,True,Wolverhampton,,-0.08
+Fábio Freitas Gouveia Carvalho,Brentford,Wolverhampton,,True,13.0,,,,,6.0,,,6.9,0.0,0.0,134996.0,3.2,0.0,34.14,1.0,Brentford,False,Manchester United,,-0.41
+Fábio Freitas Gouveia Carvalho,Brentford,Manchester United,,False,16.0,,,,,1.0,,,0.7,0.0,0.0,154821.0,3.2,0.0,31.88,1.0,Brentford,True,Ipswich Town,,
+Fábio Freitas Gouveia Carvalho,Brentford,Ipswich Town,,True,9.0,,,,,1.0,,,0.0,0.0,0.0,153607.0,3.2,0.0,29.33,1.0,Brentford,False,Fulham,,0.53
+Fábio Freitas Gouveia Carvalho,Brentford,Fulham,,False,17.0,,,,,1.0,,,2.3,0.0,0.0,138417.0,3.0,0.0,28.1,0.0,Brentford,True,Bournemouth,,0.84
+Fábio Freitas Gouveia Carvalho,Brentford,Bournemouth,,True,1.0,,,,,0.0,,,0.0,0.0,0.0,120793.0,1.8,0.0,25.64,0.0,Brentford,False,Everton,,-0.39
+Fábio Freitas Gouveia Carvalho,Brentford,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,103900.0,0.6,0.0,23.5,,Brentford,True,Leicester City,,0.47
+,Brentford,,,,,,,,,,,,,,,,,,,,Brentford,False,Aston Villa,,0.11
+,Brentford,,,,,,,,,,,,,,,,,,,,Brentford,True,Newcastle United,,0.67

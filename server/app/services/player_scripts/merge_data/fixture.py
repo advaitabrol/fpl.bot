@@ -7,7 +7,7 @@ def map_team_name(team_name, team_name_mappings):
     """Map team names to their canonical versions."""
     return team_name_mappings.get(team_name, team_name)
 
-def get_closest_match(team_name, options, threshold=75):
+def get_closest_match(team_name, options, threshold=40):
     """Get the closest match for a team name using fuzzywuzzy."""
     closest_match, score = process.extractOne(team_name, options)
     return closest_match if score >= threshold else None
@@ -81,7 +81,7 @@ def process_player_file(player_file_path, season, season_index, position, season
     df['next_opponent_team'] = df['opponent_team'].shift(-1)
 
     if season_index == len(seasons) - 1:
-        team_name = df['team'].iloc[-1]
+        team_name = map_team_name(df['team'].iloc[-1], team_name_mappings)
         available_files = os.listdir(fixtures_for_each_team_dir)
         matched_file = get_closest_match(f"{team_name}_{season}.csv", available_files)
 
@@ -174,6 +174,7 @@ def process_fixtures_default(seasons=['2022-23', '2023-24', '2024-25']):
         "Man City": "Manchester City",
         "Man Utd": "Manchester United",
         "Nott'm Forest": "Nottingham Forest"
+        "Wolves": "Wolverhampton"
     }
 
     process_fixture_data(merged_data_dir, fixture_difficulties_dir, holistic_difficulties_dir, fixtures_for_each_team_dir, seasons, positions, team_name_mappings)
