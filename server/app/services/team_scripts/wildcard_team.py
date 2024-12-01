@@ -63,6 +63,12 @@ def build_wildcard_team(base_dir):
         prob += pl.lpSum([start_vars[w][i] for i in range(len(all_players)) if all_players.iloc[i]['position'] == 'MID']) >= 2
         prob += pl.lpSum([start_vars[w][i] for i in range(len(all_players)) if all_players.iloc[i]['position'] == 'FWD']) >= 1
 
+    # Add the constraint: No more than 3 players per team
+    teams = all_players['team'].unique()
+    for team in teams:
+        team_indices = [i for i in range(len(all_players)) if all_players.iloc[i]['team'] == team]
+        prob += pl.lpSum([player_vars[i] for i in team_indices]) <= 3
+        
     prob.solve()
 
     selected_players = [i for i in range(len(all_players)) if player_vars[i].varValue == 1]

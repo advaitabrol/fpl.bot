@@ -1,13 +1,15 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Craig Dawson,Wolves,Arsenal,2024-08-17,False,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,0,16382,1.0,0.0,6.0,0.0,1.35,1.35,0.24,38.47,1.0,Wolves,True,Chelsea,,0.0
-Craig Dawson,Wolves,Chelsea,2024-08-25,True,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,0.32,0,17717,1.0,0.0,14.5,0.0,1.35,1.35,0.24,38.47,2.0,Wolves,False,Nottingham Forest,,-0.54
-Craig Dawson,Wolves,Nottingham Forest,2024-08-31,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.1,0,0,1,1.04,1,17648,1.33,0.0,39.67,0.0,1.35,1.35,0.24,38.47,1.0,Wolves,True,Newcastle United,,0.67
-Craig Dawson,Wolves,Newcastle United,2024-09-15,True,90,0.0,0.0,0.0,0.01,1,0.0,1.0,3.7,0,0,2,1.21,1,18141,1.25,0.0,52.25,0.0,1.35,1.35,0.24,38.47,1.0,Wolves,False,Aston Villa,,0.11
-Craig Dawson,Wolves,Aston Villa,2024-09-21,False,90,0.0,0.05,0.0,0.06,1,1.0,1.0,3.3,0,0,3,1.73,1,20015,1.2,0.01,59.8,0.0,1.35,1.35,0.24,38.47,0.0,Wolves,True,Liverpool,,0.24
-Craig Dawson,Wolves,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,18096,1.0,0.01,49.83,0.0,1.35,1.35,0.24,38.47,-1.0,Wolves,False,Brentford,,-0.15
-Craig Dawson,Wolves,Brentford,2024-10-05,False,90,0.0,0.06,0.0,0.0,-1,1.0,0.0,3.5,0,0,5,4.25,1,17975,0.6,0.02,55.57,0.0,1.35,1.35,0.24,38.47,1.0,Wolves,True,Manchester City,,-1.18
-Craig Dawson,Wolves,Manchester City,2024-10-20,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,2,1.62,1,16765,0.4,0.02,59.88,0.0,1.35,1.35,0.24,38.47,4.0,Wolves,False,Brighton,,-0.61
-Craig Dawson,Wolves,Brighton,2024-10-26,False,90,0.0,0.27,0.0,0.0,4,2.0,0.0,4.9,0,0,2,1.31,1,17139,1.0,0.08,63.22,0.0,1.35,1.35,0.24,38.47,1.0,Wolves,True,Crystal Palace,,0.88
-Craig Dawson,Wolves,Crystal Palace,2024-11-02,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.5,0,0,2,2.51,1,18819,1.0,0.07,65.9,0.0,1.35,1.35,0.24,38.47,7.0,Wolves,True,Southampton,,0.24
-Craig Dawson,Wolves,Southampton,2024-11-09,True,90,0.0,0.0,0.0,0.0,7,0.0,0.0,2.7,1,1,0,0.66,1,21596,2.4,0.07,68.09,0.1,1.35,1.35,0.24,38.47,0.0,Wolves,False,Fulham,,0.53
-Craig Dawson,Wolves,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,23475,2.6,0.05,62.42,0.1,1.35,1.35,0.24,38.47,,,,,,
+Craig Dawson,Wolves,Arsenal,2024-08-17,False,6.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.15,1.0,0.0,6.0,0.0,1.35,1.35,0.24,38.47,1.0,Wolves,True,Chelsea,,0.0
+Craig Dawson,Wolves,Chelsea,2024-08-25,True,23.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,1.0,0.32,0.0,0.16,1.0,0.0,14.5,0.0,1.35,1.35,0.24,38.47,2.0,Wolves,False,Nottingham Forest,,-0.54
+Craig Dawson,Wolves,Nottingham Forest,2024-08-31,False,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.1,0.0,0.0,1.0,1.04,1.0,0.16,1.33,0.0,39.67,0.0,1.35,1.35,0.24,38.47,1.0,Wolves,True,Newcastle United,,0.67
+Craig Dawson,Wolves,Newcastle United,2024-09-15,True,90.0,0.0,0.0,0.0,0.01,1.0,0.0,1.0,3.7,0.0,0.0,2.0,1.21,1.0,0.17,1.25,0.0,52.25,0.0,1.35,1.35,0.24,38.47,1.0,Wolves,False,Aston Villa,,0.11
+Craig Dawson,Wolves,Aston Villa,2024-09-21,False,90.0,0.0,0.05,0.0,0.06,1.0,1.0,1.0,3.3,0.0,0.0,3.0,1.73,1.0,0.18,1.2,0.01,59.8,0.0,1.35,1.35,0.24,38.47,0.0,Wolves,True,Liverpool,,0.24
+Craig Dawson,Wolves,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.17,1.0,0.01,49.83,0.0,1.35,1.35,0.24,38.47,-1.0,Wolves,False,Brentford,,-0.15
+Craig Dawson,Wolves,Brentford,2024-10-05,False,90.0,0.0,0.06,0.0,0.0,-1.0,1.0,0.0,3.5,0.0,0.0,5.0,4.25,1.0,0.17,0.6,0.02,55.57,0.0,1.35,1.35,0.24,38.47,1.0,Wolves,True,Manchester City,,-1.18
+Craig Dawson,Wolves,Manchester City,2024-10-20,True,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.8,0.0,0.0,2.0,1.62,1.0,0.15,0.4,0.02,59.88,0.0,1.35,1.35,0.24,38.47,4.0,Wolves,False,Brighton,,-0.61
+Craig Dawson,Wolves,Brighton,2024-10-26,False,90.0,0.0,0.27,0.0,0.0,4.0,2.0,0.0,4.9,0.0,0.0,2.0,1.31,1.0,0.16,1.0,0.08,63.22,0.0,1.35,1.35,0.24,38.47,1.0,Wolves,True,Crystal Palace,,0.88
+Craig Dawson,Wolves,Crystal Palace,2024-11-02,True,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.5,0.0,0.0,2.0,2.51,1.0,0.17,1.0,0.07,65.9,0.0,1.35,1.35,0.24,38.47,7.0,Wolves,True,Southampton,,0.24
+Craig Dawson,Wolves,Southampton,2024-11-09,True,90.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,2.7,1.0,1.0,0.0,0.66,1.0,0.2,2.4,0.07,68.09,0.1,1.35,1.35,0.24,38.47,0.0,Wolves,False,Fulham,,0.53
+Craig Dawson,Wolves,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.22,2.6,0.05,62.42,0.1,1.35,1.35,0.24,38.47,,Wolves,True,Bournemouth,,0.84
+,Wolves,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wolves,False,Everton,,-0.39
+,Wolves,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wolves,False,West Ham,,-0.34

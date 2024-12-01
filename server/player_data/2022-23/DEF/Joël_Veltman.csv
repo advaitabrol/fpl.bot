@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Joël Veltman,Brighton,Manchester United,2022-08-07,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.6,0,0,1,0.0,0,27438,2.0,0.0,90.0,0.0,0.72,1.61,0.26,0,8.0,Brighton,True,Newcastle United,,0.73
-Joël Veltman,Brighton,Newcastle United,2022-08-13,True,90,0.0,0.05,0.0,0.0,8,1.0,0.0,4.0,2,1,0,0.0,0,33596,5.0,0.03,90.0,0.5,0.72,1.61,0.26,0,8.0,Brighton,False,West Ham,,0.14
-Joël Veltman,Brighton,West Ham,2022-08-21,False,90,0.0,0.0,0.0,0.0,8,0.0,0.0,4.3,2,1,0,0.0,0,62201,6.0,0.02,90.0,0.67,0.72,1.61,0.26,0,6.0,Brighton,True,Leicester City,,0.83
-Joël Veltman,Brighton,Leicester City,2022-08-27,True,69,0.0,0.0,0.0,0.0,6,0.0,0.0,0.4,0,1,0,0.0,0,221971,6.0,0.01,84.75,0.75,0.72,1.61,0.26,0,1.0,Brighton,False,Fulham,,1.37
-Joël Veltman,Brighton,Fulham,2022-08-30,False,63,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,2,0.0,0,354907,5.0,0.01,80.4,0.6,0.72,1.61,0.26,0,1.0,Brighton,True,Leeds United,,-0.79
-Joël Veltman,Brighton,Leeds United,2022-09-04,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,2,0.0,0,539582,4.8,0.01,82.0,0.5,0.72,1.61,0.26,0,1.0,Brighton,False,Liverpool,,-1.33
-Joël Veltman,Brighton,Liverpool,2022-10-01,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.0,0,0,3,0.0,0,489203,3.4,0.0,83.14,0.43,0.72,1.61,0.26,0,1.0,Brighton,True,Tottenham,,1.07
-Joël Veltman,Brighton,Tottenham,2022-10-08,True,87,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,1,0.0,0,486090,2.0,0.0,83.62,0.38,0.72,1.61,0.26,0,1.0,Brighton,False,Brentford,,-0.55
-Joël Veltman,Brighton,Brentford,2022-10-14,False,90,0.0,0.13,0.0,0.0,1,1.0,0.0,4.1,0,0,2,0.0,0,510137,1.0,0.03,84.33,0.33,0.72,1.61,0.26,0,7.0,Brighton,True,Nottingham Forest,,
-Joël Veltman,Brighton,Nottingham Forest,2022-10-18,True,90,0.0,0.08,0.0,0.3,7,1.0,1.0,4.0,1,1,0,0.0,0,633725,2.2,0.04,84.9,0.4,0.72,1.61,0.26,0,1.0,Brighton,False,Manchester City,,-1.26
-Joël Veltman,Brighton,Manchester City,2022-10-22,False,65,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,2,0.0,0,510482,2.2,0.04,83.09,0.36,0.72,1.61,0.26,0,0.0,Brighton,True,Chelsea,,-0.25
-Joël Veltman,Brighton,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,436947,2.0,0.04,76.17,0.36,0.72,1.61,0.26,0,1.0,Brighton,False,Wolverhampton,,-0.46
-Joël Veltman,Brighton,Wolverhampton,2022-11-05,False,1,0.0,0.0,0.0,0.03,1,0.0,1.0,1.3,0,0,0,0.0,0,380407,2.0,0.04,70.38,0.33,0.72,1.61,0.26,0,1.0,Brighton,True,Aston Villa,,0.55
-Joël Veltman,Brighton,Aston Villa,2022-11-13,True,31,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.03,0,372027,2.0,0.02,67.57,0.31,0.72,1.61,0.26,0,5.0,Brighton,False,Southampton,,-1.07
-Joël Veltman,Brighton,Southampton,2022-12-26,False,90,0.0,0.0,1.0,0.04,5,0.0,1.0,5.7,0,0,1,1.91,1,308671,1.6,0.2,69.07,0.29,0.72,1.61,0.26,0,0.0,Brighton,True,Arsenal,,0.36
-Joël Veltman,Brighton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,313539,1.4,0.2,64.75,0.29,0.72,1.61,0.26,0,6.0,Brighton,False,Everton,,-0.63
-Joël Veltman,Brighton,Everton,2023-01-03,False,70,0.0,0.0,0.0,0.0,6,0.0,0.0,0.9,0,1,0,0.49,1,309386,2.6,0.2,65.06,0.33,0.72,1.61,0.26,0,1.0,Brighton,True,Liverpool,,-0.53
-Joël Veltman,Brighton,Liverpool,2023-01-14,True,24,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,0,0.13,0,307862,2.6,0.2,62.78,0.31,0.72,1.61,0.26,0,1.0,Brighton,False,Leeds United,,-0.8
-Joël Veltman,Brighton,Leeds United,2023-01-21,False,60,0.0,0.01,0.0,0.0,1,1.0,0.0,1.4,0,0,2,1.24,0,311540,2.6,0.2,62.63,0.29,0.72,1.61,0.26,0,5.0,Brighton,True,Bournemouth,,1.46
-Joël Veltman,Brighton,Bournemouth,2023-02-04,True,90,0.0,0.0,0.0,0.0,5,0.0,0.0,2.2,0,1,0,1.34,1,301666,2.6,0.0,64.0,0.33,0.72,1.61,0.26,0,2.0,Brighton,False,Crystal Palace,,0.13
-Joël Veltman,Brighton,Crystal Palace,2023-02-11,False,90,0.0,0.0,0.0,0.1,2,0.0,3.0,7.4,0,0,1,0.89,1,299018,3.0,0.0,65.24,0.32,0.72,1.61,0.26,0,2.0,Brighton,True,Fulham,,-0.3
-Joël Veltman,Brighton,Fulham,2023-02-18,True,90,0.0,0.09,0.0,0.36,2,1.0,1.0,3.4,0,0,1,0.31,1,295260,2.2,0.02,66.36,0.3,0.72,1.61,0.26,0,13.0,Brighton,True,West Ham,,0.63
-Joël Veltman,Brighton,West Ham,2023-03-04,True,74,1.0,0.66,0.0,0.0,13,1.0,0.0,7.8,1,1,0,0.38,0,279945,4.6,0.15,66.7,0.33,0.72,1.61,0.26,0,1.0,Brighton,False,Leicester City,,-0.05
-Joël Veltman,Brighton,Leicester City,2023-03-11,False,90,0.0,0.07,0.0,0.0,1,2.0,0.0,1.6,0,0,2,1.54,1,425346,4.6,0.16,67.67,0.32,0.72,1.61,0.26,0,6.0,Brighton,True,Crystal Palace,,0.81
-Joël Veltman,Brighton,Crystal Palace,2023-03-15,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.3,0,1,0,1.2,1,425346,4.8,0.16,68.56,0.35,0.72,1.61,0.26,0,1.0,Brighton,True,Brentford,,0.69
-Joël Veltman,Brighton,Brentford,2023-04-01,True,71,0.0,0.11,0.0,0.0,1,3.0,0.0,5.6,0,0,3,1.5,1,471902,4.6,0.18,68.65,0.33,0.72,1.61,0.26,0,6.0,Brighton,False,Bournemouth,,0.19
-Joël Veltman,Brighton,Bournemouth,2023-04-04,False,90,0.0,0.03,0.0,0.0,6,1.0,0.0,1.3,0,1,0,1.92,1,471902,5.4,0.17,69.44,0.36,0.72,1.61,0.26,0,1.0,Brighton,False,Tottenham,,-0.03
-Joël Veltman,Brighton,Tottenham,2023-04-08,False,84,0.0,0.03,0.0,0.02,1,1.0,1.0,3.7,0,0,2,0.83,1,453127,3.0,0.05,69.96,0.35,0.72,1.61,0.26,0,0.0,Brighton,False,Chelsea,,-0.72
-Joël Veltman,Brighton,Chelsea,2023-04-15,False,27,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,0,1,0.09,1,444563,2.8,0.03,68.48,0.33,0.72,1.61,0.26,0,0.0,Brighton,False,Nottingham Forest,,
-Joël Veltman,Brighton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,363123,1.6,0.03,66.2,0.33,0.72,1.61,0.26,0,5.0,Brighton,True,Wolverhampton,,-0.48
-Joël Veltman,Brighton,Wolverhampton,2023-04-29,True,64,0.0,0.0,0.0,0.13,5,0.0,1.0,1.4,0,1,0,0.53,1,361345,2.4,0.01,66.13,0.36,0.72,1.61,0.26,0,0.0,Brighton,True,Manchester United,,0.38
-Joël Veltman,Brighton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,361345,1.2,0.01,64.06,0.36,0.72,1.61,0.26,0,0.0,Brighton,True,Everton,,0.34
-Joël Veltman,Brighton,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,327849,1.0,0.0,62.12,0.36,0.72,1.61,0.26,0,0.0,Brighton,False,Arsenal,,-0.0
-Joël Veltman,Brighton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,294669,1.0,0.0,60.29,0.36,0.72,1.61,0.26,0,0.0,Brighton,False,Newcastle United,,-0.34
-Joël Veltman,Brighton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,294669,1.0,0.0,58.57,0.36,0.72,1.61,0.26,0,1.0,Brighton,True,Southampton,,-0.38
-Joël Veltman,Brighton,Southampton,2023-05-21,True,73,0.0,0.08,0.0,0.05,1,1.0,1.0,4.2,0,0,1,0.65,1,271708,0.2,0.02,58.97,0.34,0.72,1.61,0.26,0,0.0,Brighton,True,Manchester City,,-1.17
-Joël Veltman,Brighton,Manchester City,2023-05-24,True,15,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.07,0,271708,0.2,0.02,57.78,0.33,0.72,1.61,0.26,0,0.0,Brighton,False,Aston Villa,,0.59
-Joël Veltman,Brighton,Aston Villa,2023-05-28,False,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,2,1.35,1,272136,0.2,0.02,57.45,0.32,0.72,1.61,0.26,0,1.0,Brighton,True,Luton,,
+Joël Veltman,Brighton,Manchester United,2022-08-07,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.6,0,0,1,0.0,0,0.25,2.0,0.0,90.0,0.0,0.72,1.61,0.26,0,8.0,Brighton,True,Newcastle United,,0.73
+Joël Veltman,Brighton,Newcastle United,2022-08-13,True,90,0.0,0.05,0.0,0.0,8,1.0,0.0,4.0,2,1,0,0.0,0,0.31,5.0,0.03,90.0,0.5,0.72,1.61,0.26,0,8.0,Brighton,False,West Ham,,0.14
+Joël Veltman,Brighton,West Ham,2022-08-21,False,90,0.0,0.0,0.0,0.0,8,0.0,0.0,4.3,2,1,0,0.0,0,0.57,6.0,0.02,90.0,0.67,0.72,1.61,0.26,0,6.0,Brighton,True,Leicester City,,0.83
+Joël Veltman,Brighton,Leicester City,2022-08-27,True,69,0.0,0.0,0.0,0.0,6,0.0,0.0,0.4,0,1,0,0.0,0,2.05,6.0,0.01,84.75,0.75,0.72,1.61,0.26,0,1.0,Brighton,False,Fulham,,1.37
+Joël Veltman,Brighton,Fulham,2022-08-30,False,63,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,2,0.0,0,3.28,5.0,0.01,80.4,0.6,0.72,1.61,0.26,0,1.0,Brighton,True,Leeds United,,-0.79
+Joël Veltman,Brighton,Leeds United,2022-09-04,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,2,0.0,0,4.98,4.8,0.01,82.0,0.5,0.72,1.61,0.26,0,1.0,Brighton,False,Liverpool,,-1.33
+Joël Veltman,Brighton,Liverpool,2022-10-01,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.0,0,0,3,0.0,0,4.52,3.4,0.0,83.14,0.43,0.72,1.61,0.26,0,1.0,Brighton,True,Tottenham,,1.07
+Joël Veltman,Brighton,Tottenham,2022-10-08,True,87,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,1,0.0,0,4.49,2.0,0.0,83.62,0.38,0.72,1.61,0.26,0,1.0,Brighton,False,Brentford,,-0.55
+Joël Veltman,Brighton,Brentford,2022-10-14,False,90,0.0,0.13,0.0,0.0,1,1.0,0.0,4.1,0,0,2,0.0,0,4.71,1.0,0.03,84.33,0.33,0.72,1.61,0.26,0,7.0,Brighton,True,Nottingham Forest,,
+Joël Veltman,Brighton,Nottingham Forest,2022-10-18,True,90,0.0,0.08,0.0,0.3,7,1.0,1.0,4.0,1,1,0,0.0,0,5.85,2.2,0.04,84.9,0.4,0.72,1.61,0.26,0,1.0,Brighton,False,Manchester City,,-1.26
+Joël Veltman,Brighton,Manchester City,2022-10-22,False,65,0.0,0.0,0.0,0.0,1,0.0,0.0,1.3,0,0,2,0.0,0,4.71,2.2,0.04,83.09,0.36,0.72,1.61,0.26,0,0.0,Brighton,True,Chelsea,,-0.25
+Joël Veltman,Brighton,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4.03,2.0,0.04,76.17,0.36,0.72,1.61,0.26,0,1.0,Brighton,False,Wolverhampton,,-0.46
+Joël Veltman,Brighton,Wolverhampton,2022-11-05,False,1,0.0,0.0,0.0,0.03,1,0.0,1.0,1.3,0,0,0,0.0,0,3.51,2.0,0.04,70.38,0.33,0.72,1.61,0.26,0,1.0,Brighton,True,Aston Villa,,0.55
+Joël Veltman,Brighton,Aston Villa,2022-11-13,True,31,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.03,0,3.43,2.0,0.02,67.57,0.31,0.72,1.61,0.26,0,5.0,Brighton,False,Southampton,,-1.07
+Joël Veltman,Brighton,Southampton,2022-12-26,False,90,0.0,0.0,1.0,0.04,5,0.0,1.0,5.7,0,0,1,1.91,1,2.85,1.6,0.2,69.07,0.29,0.72,1.61,0.26,0,0.0,Brighton,True,Arsenal,,0.36
+Joël Veltman,Brighton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.89,1.4,0.2,64.75,0.29,0.72,1.61,0.26,0,6.0,Brighton,False,Everton,,-0.63
+Joël Veltman,Brighton,Everton,2023-01-03,False,70,0.0,0.0,0.0,0.0,6,0.0,0.0,0.9,0,1,0,0.49,1,2.86,2.6,0.2,65.06,0.33,0.72,1.61,0.26,0,1.0,Brighton,True,Liverpool,,-0.53
+Joël Veltman,Brighton,Liverpool,2023-01-14,True,24,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,0,0.13,0,2.84,2.6,0.2,62.78,0.31,0.72,1.61,0.26,0,1.0,Brighton,False,Leeds United,,-0.8
+Joël Veltman,Brighton,Leeds United,2023-01-21,False,60,0.0,0.01,0.0,0.0,1,1.0,0.0,1.4,0,0,2,1.24,0,2.88,2.6,0.2,62.63,0.29,0.72,1.61,0.26,0,5.0,Brighton,True,Bournemouth,,1.46
+Joël Veltman,Brighton,Bournemouth,2023-02-04,True,90,0.0,0.0,0.0,0.0,5,0.0,0.0,2.2,0,1,0,1.34,1,2.79,2.6,0.0,64.0,0.33,0.72,1.61,0.26,0,2.0,Brighton,False,Crystal Palace,,0.13
+Joël Veltman,Brighton,Crystal Palace,2023-02-11,False,90,0.0,0.0,0.0,0.1,2,0.0,3.0,7.4,0,0,1,0.89,1,2.76,3.0,0.0,65.24,0.32,0.72,1.61,0.26,0,2.0,Brighton,True,Fulham,,-0.3
+Joël Veltman,Brighton,Fulham,2023-02-18,True,90,0.0,0.09,0.0,0.36,2,1.0,1.0,3.4,0,0,1,0.31,1,2.73,2.2,0.02,66.36,0.3,0.72,1.61,0.26,0,13.0,Brighton,True,West Ham,,0.63
+Joël Veltman,Brighton,West Ham,2023-03-04,True,74,1.0,0.66,0.0,0.0,13,1.0,0.0,7.8,1,1,0,0.38,0,2.58,4.6,0.15,66.7,0.33,0.72,1.61,0.26,0,1.0,Brighton,False,Leicester City,,-0.05
+Joël Veltman,Brighton,Leicester City,2023-03-11,False,90,0.0,0.07,0.0,0.0,1,2.0,0.0,1.6,0,0,2,1.54,1,3.93,4.6,0.16,67.67,0.32,0.72,1.61,0.26,0,6.0,Brighton,True,Crystal Palace,,0.81
+Joël Veltman,Brighton,Crystal Palace,2023-03-15,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.3,0,1,0,1.2,1,3.93,4.8,0.16,68.56,0.35,0.72,1.61,0.26,0,1.0,Brighton,True,Brentford,,0.69
+Joël Veltman,Brighton,Brentford,2023-04-01,True,71,0.0,0.11,0.0,0.0,1,3.0,0.0,5.6,0,0,3,1.5,1,4.36,4.6,0.18,68.65,0.33,0.72,1.61,0.26,0,6.0,Brighton,False,Bournemouth,,0.19
+Joël Veltman,Brighton,Bournemouth,2023-04-04,False,90,0.0,0.03,0.0,0.0,6,1.0,0.0,1.3,0,1,0,1.92,1,4.36,5.4,0.17,69.44,0.36,0.72,1.61,0.26,0,1.0,Brighton,False,Tottenham,,-0.03
+Joël Veltman,Brighton,Tottenham,2023-04-08,False,84,0.0,0.03,0.0,0.02,1,1.0,1.0,3.7,0,0,2,0.83,1,4.18,3.0,0.05,69.96,0.35,0.72,1.61,0.26,0,0.0,Brighton,False,Chelsea,,-0.72
+Joël Veltman,Brighton,Chelsea,2023-04-15,False,27,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,0,1,0.09,1,4.1,2.8,0.03,68.48,0.33,0.72,1.61,0.26,0,0.0,Brighton,False,Nottingham Forest,,
+Joël Veltman,Brighton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3.35,1.6,0.03,66.2,0.33,0.72,1.61,0.26,0,5.0,Brighton,True,Wolverhampton,,-0.48
+Joël Veltman,Brighton,Wolverhampton,2023-04-29,True,64,0.0,0.0,0.0,0.13,5,0.0,1.0,1.4,0,1,0,0.53,1,3.34,2.4,0.01,66.13,0.36,0.72,1.61,0.26,0,0.0,Brighton,True,Manchester United,,0.38
+Joël Veltman,Brighton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3.34,1.2,0.01,64.06,0.36,0.72,1.61,0.26,0,0.0,Brighton,True,Everton,,0.34
+Joël Veltman,Brighton,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3.03,1.0,0.0,62.12,0.36,0.72,1.61,0.26,0,0.0,Brighton,False,Arsenal,,-0.0
+Joël Veltman,Brighton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.72,1.0,0.0,60.29,0.36,0.72,1.61,0.26,0,0.0,Brighton,False,Newcastle United,,-0.34
+Joël Veltman,Brighton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.72,1.0,0.0,58.57,0.36,0.72,1.61,0.26,0,1.0,Brighton,True,Southampton,,-0.38
+Joël Veltman,Brighton,Southampton,2023-05-21,True,73,0.0,0.08,0.0,0.05,1,1.0,1.0,4.2,0,0,1,0.65,1,2.51,0.2,0.02,58.97,0.34,0.72,1.61,0.26,0,0.0,Brighton,True,Manchester City,,-1.17
+Joël Veltman,Brighton,Manchester City,2023-05-24,True,15,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.07,0,2.51,0.2,0.02,57.78,0.33,0.72,1.61,0.26,0,0.0,Brighton,False,Aston Villa,,0.59
+Joël Veltman,Brighton,Aston Villa,2023-05-28,False,45,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,2,1.35,1,2.51,0.2,0.02,57.45,0.32,0.72,1.61,0.26,0,1.0,Brighton,True,Luton,,

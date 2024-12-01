@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Diogo Teixeira da Silva,Liverpool,Fulham,,False,0,,,,,0,,,0.0,0,0,55789,0.0,0.0,0.0,0.0,Liverpool,True,Crystal Palace,,0.81
-Diogo Teixeira da Silva,Liverpool,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,39445,0.0,0.0,0.0,0.0,Liverpool,False,Manchester United,,-0.1
-Diogo Teixeira da Silva,Liverpool,Manchester United,,False,0,,,,,0,,,0.0,0,0,34014,0.0,0.0,0.0,0.0,Liverpool,True,Bournemouth,,1.46
-Diogo Teixeira da Silva,Liverpool,Bournemouth,,True,0,,,,,0,,,0.0,0,0,31172,0.0,0.0,0.0,0.0,Liverpool,True,Newcastle United,,0.73
-Diogo Teixeira da Silva,Liverpool,Newcastle United,,True,0,,,,,0,,,0.0,0,0,29251,0.0,0.0,0.0,1.0,Liverpool,False,Everton,,-0.63
-Diogo Teixeira da Silva,Liverpool,Everton,2022-09-03,False,10,0.0,0.23,0.0,0.11,1,2.0,2.0,3.4,0,0,27647,0.2,0.05,1.67,1.0,Liverpool,True,Brighton,,-0.71
-Diogo Teixeira da Silva,Liverpool,Brighton,2022-10-01,True,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,43811,0.4,0.05,3.57,5.0,Liverpool,False,Arsenal,,-0.0
-Diogo Teixeira da Silva,Liverpool,Arsenal,2022-10-09,False,80,0.0,0.0,1.0,0.11,5,0.0,1.0,4.7,0,0,44517,1.4,0.25,13.12,1.0,Liverpool,True,Manchester City,,-1.17
-Diogo Teixeira da Silva,Liverpool,Manchester City,2022-10-16,True,90,0.0,0.2,0.0,0.42,1,1.0,4.0,9.1,0,0,48378,1.6,0.29,21.67,0.0,Liverpool,True,West Ham,,0.63
-Diogo Teixeira da Silva,Liverpool,West Ham,,True,0,,,,,0,,,0.0,0,0,43343,1.6,0.29,19.5,0.0,Liverpool,False,Nottingham Forest,,
-Diogo Teixeira da Silva,Liverpool,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,36046,1.4,0.24,17.73,0.0,Liverpool,True,Leicester City,,0.83
-Diogo Teixeira da Silva,Liverpool,Leicester City,,True,0,,,,,0,,,0.0,0,0,33567,1.2,0.24,16.25,0.0,Liverpool,False,Tottenham,,-0.03
-Diogo Teixeira da Silva,Liverpool,Tottenham,,False,0,,,,,0,,,0.0,0,0,32488,0.2,0.04,15.0,0.0,Liverpool,True,Southampton,,-0.38
-Diogo Teixeira da Silva,Liverpool,Southampton,,True,0,,,,,0,,,0.0,0,0,31906,0.0,0.0,13.93,0.0,Liverpool,False,Aston Villa,,0.59
-Diogo Teixeira da Silva,Liverpool,Aston Villa,,False,0,,,,,0,,,0.0,0,0,31538,0.0,0.0,13.0,0.0,Liverpool,True,Leeds United,,-0.79
-Diogo Teixeira da Silva,Liverpool,Leeds United,,True,0,,,,,0,,,0.0,0,0,31230,0.0,0.0,12.19,0.0,Liverpool,False,Brentford,,-0.55
-Diogo Teixeira da Silva,Liverpool,Brentford,,False,0,,,,,0,,,0.0,0,0,31086,0.0,0.0,11.47,0.0,Liverpool,False,Brighton,,-0.39
-Diogo Teixeira da Silva,Liverpool,Brighton,,False,0,,,,,0,,,0.0,0,0,30783,0.0,0.0,10.83,0.0,Liverpool,True,Chelsea,,-0.25
-Diogo Teixeira da Silva,Liverpool,Chelsea,,True,0,,,,,0,,,0.0,0,0,30638,0.0,0.0,10.26,0.0,Liverpool,False,Wolverhampton,,-0.46
-Diogo Teixeira da Silva,Liverpool,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,30352,0.0,0.0,9.75,1.0,Liverpool,True,Everton,,0.34
-Diogo Teixeira da Silva,Liverpool,Everton,2023-02-13,True,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,30964,0.2,0.0,10.24,1.0,Liverpool,False,Newcastle United,,-0.34
-Diogo Teixeira da Silva,Liverpool,Newcastle United,2023-02-18,False,31,0.0,0.67,0.0,0.0,1,4.0,0.0,2.6,0,0,35475,0.4,0.13,11.18,2.0,Liverpool,False,Crystal Palace,,0.13
-Diogo Teixeira da Silva,Liverpool,Crystal Palace,2023-02-25,False,70,0.0,0.4,0.0,0.02,2,4.0,1.0,4.4,0,1,57881,0.8,0.22,13.74,5.0,Liverpool,True,Wolverhampton,,-0.48
-Diogo Teixeira da Silva,Liverpool,Wolverhampton,2023-03-01,True,75,0.0,0.16,1.0,0.63,5,2.0,2.0,5.6,0,1,57881,1.8,0.45,16.29,1.0,Liverpool,True,Manchester United,,0.38
-Diogo Teixeira da Silva,Liverpool,Manchester United,2023-03-05,True,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,52446,2.0,0.45,16.12,1.0,Liverpool,False,Bournemouth,,0.19
-Diogo Teixeira da Silva,Liverpool,Bournemouth,2023-03-11,False,45,0.0,0.32,0.0,0.0,1,2.0,0.0,3.6,0,0,45467,2.0,0.51,17.23,5.0,Liverpool,False,Manchester City,,-1.26
-Diogo Teixeira da Silva,Liverpool,Manchester City,2023-04-01,False,69,0.0,0.0,1.0,0.15,5,0.0,2.0,5.2,0,1,46369,2.8,0.58,19.15,2.0,Liverpool,False,Chelsea,,-0.72
-Diogo Teixeira da Silva,Liverpool,Chelsea,2023-04-04,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0,1,46369,2.8,0.5,21.68,2.0,Liverpool,True,Arsenal,,0.36
-Diogo Teixeira da Silva,Liverpool,Arsenal,2023-04-09,True,60,0.0,0.08,0.0,0.13,2,1.0,1.0,2.8,0,1,46023,2.2,0.28,23.0,16.0,Liverpool,False,Leicester City,,-0.05
-Diogo Teixeira da Silva,Liverpool,Leicester City,2023-04-17,False,81,2.0,0.67,1.0,0.11,16,5.0,1.0,12.4,3,1,46209,5.2,0.61,24.93,13.0,Liverpool,True,Nottingham Forest,,
-Diogo Teixeira da Silva,Liverpool,Nottingham Forest,2023-04-22,True,80,2.0,1.68,0.0,0.0,13,4.0,0.0,16.0,3,1,226723,7.6,0.88,26.71,1.0,Liverpool,False,West Ham,,0.14
-Diogo Teixeira da Silva,Liverpool,West Ham,2023-04-26,False,58,0.0,0.64,0.0,0.0,1,2.0,0.0,2.3,0,1,451876,6.8,0.81,27.69,4.0,Liverpool,True,Tottenham,,1.07
-Diogo Teixeira da Silva,Liverpool,Tottenham,2023-04-30,True,27,1.0,0.35,0.0,0.0,4,2.0,0.0,5.4,0,0,660167,7.2,0.88,27.67,1.0,Liverpool,True,Fulham,,-0.3
-Diogo Teixeira da Silva,Liverpool,Fulham,2023-05-03,True,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,660167,7.0,0.87,27.06,2.0,Liverpool,True,Brentford,,0.69
-Diogo Teixeira da Silva,Liverpool,Brentford,2023-05-06,True,72,0.0,0.19,0.0,0.1,2,2.0,3.0,4.8,0,1,403111,4.2,0.57,28.34,1.0,Liverpool,False,Leeds United,,-0.8
-Diogo Teixeira da Silva,Liverpool,Leeds United,2023-05-15,False,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,301035,1.8,0.24,28.0,1.0,Liverpool,True,Aston Villa,,0.55
-Diogo Teixeira da Silva,Liverpool,Aston Villa,2023-05-20,True,27,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,244565,1.8,0.11,27.97,13.0,Liverpool,False,Southampton,,-1.07
-Diogo Teixeira da Silva,Liverpool,Southampton,2023-05-28,False,90,2.0,0.84,0.0,0.0,13,4.0,0.0,0.0,3,1,231073,3.6,0.21,29.61,,Brighton,True,Luton,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Diogo Teixeira da Silva,Liverpool,Fulham,,False,0,,,,,0,,,0.0,0,0,0.52,0.0,0.0,0.0,0,0,0,0,0,0.0,Liverpool,True,Crystal Palace,,0.81
+Diogo Teixeira da Silva,Liverpool,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.36,0.0,0.0,0.0,0,0,0,0,0,0.0,Liverpool,False,Manchester United,,-0.1
+Diogo Teixeira da Silva,Liverpool,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.31,0.0,0.0,0.0,0,0,0,0,0,0.0,Liverpool,True,Bournemouth,,1.46
+Diogo Teixeira da Silva,Liverpool,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.29,0.0,0.0,0.0,0,0,0,0,0,0.0,Liverpool,True,Newcastle United,,0.73
+Diogo Teixeira da Silva,Liverpool,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.27,0.0,0.0,0.0,0,0,0,0,0,1.0,Liverpool,False,Everton,,-0.63
+Diogo Teixeira da Silva,Liverpool,Everton,2022-09-03,False,10,0.0,0.23,0.0,0.11,1,2.0,2.0,3.4,0,0,0.26,0.2,0.05,1.67,0,0,0,0,0,1.0,Liverpool,True,Brighton,,-0.71
+Diogo Teixeira da Silva,Liverpool,Brighton,2022-10-01,True,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0.4,0.4,0.05,3.57,0,0,0,0,0,5.0,Liverpool,False,Arsenal,,-0.0
+Diogo Teixeira da Silva,Liverpool,Arsenal,2022-10-09,False,80,0.0,0.0,1.0,0.11,5,0.0,1.0,4.7,0,0,0.41,1.4,0.25,13.12,0,0,0,0,0,1.0,Liverpool,True,Manchester City,,-1.17
+Diogo Teixeira da Silva,Liverpool,Manchester City,2022-10-16,True,90,0.0,0.2,0.0,0.42,1,1.0,4.0,9.1,0,0,0.45,1.6,0.29,21.67,0,0,0,0,0,0.0,Liverpool,True,West Ham,,0.63
+Diogo Teixeira da Silva,Liverpool,West Ham,,True,0,,,,,0,,,0.0,0,0,0.4,1.6,0.29,19.5,0,0,0,0,0,0.0,Liverpool,False,Nottingham Forest,,
+Diogo Teixeira da Silva,Liverpool,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.33,1.4,0.24,17.73,0,0,0,0,0,0.0,Liverpool,True,Leicester City,,0.83
+Diogo Teixeira da Silva,Liverpool,Leicester City,,True,0,,,,,0,,,0.0,0,0,0.31,1.2,0.24,16.25,0,0,0,0,0,0.0,Liverpool,False,Tottenham,,-0.03
+Diogo Teixeira da Silva,Liverpool,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.3,0.2,0.04,15.0,0,0,0,0,0,0.0,Liverpool,True,Southampton,,-0.38
+Diogo Teixeira da Silva,Liverpool,Southampton,,True,0,,,,,0,,,0.0,0,0,0.29,0.0,0.0,13.93,0,0,0,0,0,0.0,Liverpool,False,Aston Villa,,0.59
+Diogo Teixeira da Silva,Liverpool,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.29,0.0,0.0,13.0,0,0,0,0,0,0.0,Liverpool,True,Leeds United,,-0.79
+Diogo Teixeira da Silva,Liverpool,Leeds United,,True,0,,,,,0,,,0.0,0,0,0.29,0.0,0.0,12.19,0,0,0,0,0,0.0,Liverpool,False,Brentford,,-0.55
+Diogo Teixeira da Silva,Liverpool,Brentford,,False,0,,,,,0,,,0.0,0,0,0.29,0.0,0.0,11.47,0,0,0,0,0,0.0,Liverpool,False,Brighton,,-0.39
+Diogo Teixeira da Silva,Liverpool,Brighton,,False,0,,,,,0,,,0.0,0,0,0.28,0.0,0.0,10.83,0,0,0,0,0,0.0,Liverpool,True,Chelsea,,-0.25
+Diogo Teixeira da Silva,Liverpool,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.28,0.0,0.0,10.26,0,0,0,0,0,0.0,Liverpool,False,Wolverhampton,,-0.46
+Diogo Teixeira da Silva,Liverpool,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.28,0.0,0.0,9.75,0,0,0,0,0,1.0,Liverpool,True,Everton,,0.34
+Diogo Teixeira da Silva,Liverpool,Everton,2023-02-13,True,20,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0.29,0.2,0.0,10.24,0,0,0,0,0,1.0,Liverpool,False,Newcastle United,,-0.34
+Diogo Teixeira da Silva,Liverpool,Newcastle United,2023-02-18,False,31,0.0,0.67,0.0,0.0,1,4.0,0.0,2.6,0,0,0.33,0.4,0.13,11.18,0,0,0,0,0,2.0,Liverpool,False,Crystal Palace,,0.13
+Diogo Teixeira da Silva,Liverpool,Crystal Palace,2023-02-25,False,70,0.0,0.4,0.0,0.02,2,4.0,1.0,4.4,0,1,0.53,0.8,0.22,13.74,0,0,0,0,0,5.0,Liverpool,True,Wolverhampton,,-0.48
+Diogo Teixeira da Silva,Liverpool,Wolverhampton,2023-03-01,True,75,0.0,0.16,1.0,0.63,5,2.0,2.0,5.6,0,1,0.53,1.8,0.45,16.29,0,0,0,0,0,1.0,Liverpool,True,Manchester United,,0.38
+Diogo Teixeira da Silva,Liverpool,Manchester United,2023-03-05,True,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0.48,2.0,0.45,16.12,0,0,0,0,0,1.0,Liverpool,False,Bournemouth,,0.19
+Diogo Teixeira da Silva,Liverpool,Bournemouth,2023-03-11,False,45,0.0,0.32,0.0,0.0,1,2.0,0.0,3.6,0,0,0.42,2.0,0.51,17.23,0,0,0,0,0,5.0,Liverpool,False,Manchester City,,-1.26
+Diogo Teixeira da Silva,Liverpool,Manchester City,2023-04-01,False,69,0.0,0.0,1.0,0.15,5,0.0,2.0,5.2,0,1,0.43,2.8,0.58,19.15,0,0,0,0,0,2.0,Liverpool,False,Chelsea,,-0.72
+Diogo Teixeira da Silva,Liverpool,Chelsea,2023-04-04,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0,1,0.43,2.8,0.5,21.68,0,0,0,0,0,2.0,Liverpool,True,Arsenal,,0.36
+Diogo Teixeira da Silva,Liverpool,Arsenal,2023-04-09,True,60,0.0,0.08,0.0,0.13,2,1.0,1.0,2.8,0,1,0.42,2.2,0.28,23.0,0,0,0,0,0,16.0,Liverpool,False,Leicester City,,-0.05
+Diogo Teixeira da Silva,Liverpool,Leicester City,2023-04-17,False,81,2.0,0.67,1.0,0.11,16,5.0,1.0,12.4,3,1,0.43,5.2,0.61,24.93,0,0,0,0,0,13.0,Liverpool,True,Nottingham Forest,,
+Diogo Teixeira da Silva,Liverpool,Nottingham Forest,2023-04-22,True,80,2.0,1.68,0.0,0.0,13,4.0,0.0,16.0,3,1,2.09,7.6,0.88,26.71,0,0,0,0,0,1.0,Liverpool,False,West Ham,,0.14
+Diogo Teixeira da Silva,Liverpool,West Ham,2023-04-26,False,58,0.0,0.64,0.0,0.0,1,2.0,0.0,2.3,0,1,4.17,6.8,0.81,27.69,0,0,0,0,0,4.0,Liverpool,True,Tottenham,,1.07
+Diogo Teixeira da Silva,Liverpool,Tottenham,2023-04-30,True,27,1.0,0.35,0.0,0.0,4,2.0,0.0,5.4,0,0,6.09,7.2,0.88,27.67,0,0,0,0,0,1.0,Liverpool,True,Fulham,,-0.3
+Diogo Teixeira da Silva,Liverpool,Fulham,2023-05-03,True,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,6.09,7.0,0.87,27.06,0,0,0,0,0,2.0,Liverpool,True,Brentford,,0.69
+Diogo Teixeira da Silva,Liverpool,Brentford,2023-05-06,True,72,0.0,0.19,0.0,0.1,2,2.0,3.0,4.8,0,1,3.72,4.2,0.57,28.34,0,0,0,0,0,1.0,Liverpool,False,Leeds United,,-0.8
+Diogo Teixeira da Silva,Liverpool,Leeds United,2023-05-15,False,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,2.78,1.8,0.24,28.0,0,0,0,0,0,1.0,Liverpool,True,Aston Villa,,0.55
+Diogo Teixeira da Silva,Liverpool,Aston Villa,2023-05-20,True,27,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,2.26,1.8,0.11,27.97,0,0,0,0,0,13.0,Liverpool,False,Southampton,,-1.07
+Diogo Teixeira da Silva,Liverpool,Southampton,2023-05-28,False,90,2.0,0.84,0.0,0.0,13,4.0,0.0,0.0,3,1,2.13,3.6,0.21,29.61,0,0,0,0,0,,Brighton,True,Luton,,

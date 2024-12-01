@@ -1,37 +1,37 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Thilo Kehrer,West Ham,Brighton,2022-08-21,True,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.7,0,0,2,0.0,0,1271,0.0,0.0,90.0,0.0,6.0,West Ham,False,Aston Villa,,0.59
-Thilo Kehrer,West Ham,Aston Villa,2022-08-28,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.4,0,1,0,0.0,0,2743,3.0,0.0,90.0,0.5,0.0,West Ham,True,Tottenham,,1.07
-Thilo Kehrer,West Ham,Tottenham,2022-08-31,True,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.1,0,0,1,0.0,0,4485,2.0,0.0,90.0,0.33,0.0,West Ham,False,Chelsea,,-0.72
-Thilo Kehrer,West Ham,Chelsea,2022-09-03,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.9,0,0,2,0.0,0,6130,1.5,0.0,90.0,0.25,2.0,West Ham,False,Everton,,-0.63
-Thilo Kehrer,West Ham,Everton,2022-09-18,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,0.0,0,9374,1.6,0.0,90.0,0.2,10.0,West Ham,True,Wolverhampton,,-0.48
-Thilo Kehrer,West Ham,Wolverhampton,2022-10-01,True,90,0.0,0.02,0.0,0.05,10,1.0,1.0,4.1,1,1,0,0.0,0,10464,3.6,0.0,90.0,0.33,1.0,West Ham,True,Fulham,,-0.3
-Thilo Kehrer,West Ham,Fulham,2022-10-09,True,90,0.0,0.06,0.0,0.12,1,1.0,1.0,3.9,0,0,1,0.0,0,47378,2.6,0.02,90.0,0.29,3.0,West Ham,False,Southampton,,-1.07
-Thilo Kehrer,West Ham,Southampton,2022-10-16,False,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.8,1,0,1,0.0,0,46981,3.2,0.02,90.0,0.25,2.0,West Ham,False,Liverpool,,-1.33
-Thilo Kehrer,West Ham,Liverpool,2022-10-19,False,90,0.0,0.39,0.0,0.0,2,1.0,0.0,2.2,0,0,1,0.0,0,39586,3.6,0.09,90.0,0.22,6.0,West Ham,True,Bournemouth,,1.46
-Thilo Kehrer,West Ham,Bournemouth,2022-10-24,True,90,0.0,0.01,0.0,0.0,6,1.0,0.0,1.1,0,1,0,0.0,0,45956,4.4,0.1,90.0,0.3,1.0,West Ham,False,Manchester United,,-0.1
-Thilo Kehrer,West Ham,Manchester United,2022-10-30,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.5,0,0,1,0.0,0,42937,2.6,0.09,90.0,0.27,1.0,West Ham,True,Crystal Palace,,0.81
-Thilo Kehrer,West Ham,Crystal Palace,2022-11-06,True,90,0.0,0.03,0.0,0.0,1,1.0,0.0,3.4,0,0,2,0.0,0,43030,2.6,0.09,90.0,0.25,1.0,West Ham,True,Leeds United,,-0.79
-Thilo Kehrer,West Ham,Leeds United,2022-11-12,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,2,1.78,1,40443,2.2,0.09,90.0,0.23,1.0,West Ham,False,Arsenal,,-0.0
-Thilo Kehrer,West Ham,Arsenal,2022-12-26,False,90,0.0,0.01,0.0,0.0,1,1.0,0.0,0.4,0,0,3,2.1,1,30226,2.0,0.01,90.0,0.21,0.0,West Ham,True,Brentford,,0.69
-Thilo Kehrer,West Ham,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,32260,0.8,0.01,84.0,0.21,1.0,West Ham,False,Leicester City,,-0.05
-Thilo Kehrer,West Ham,Leicester City,2023-01-04,False,90,0.0,0.05,0.0,0.0,1,1.0,0.0,1.5,0,0,2,1.48,1,29134,0.8,0.02,84.38,0.2,0.0,West Ham,False,Wolverhampton,,-0.46
-Thilo Kehrer,West Ham,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,27095,0.6,0.01,79.41,0.2,0.0,West Ham,True,Everton,,0.34
-Thilo Kehrer,West Ham,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,25382,0.4,0.01,75.0,0.2,1.0,West Ham,False,Newcastle United,,-0.34
-Thilo Kehrer,West Ham,Newcastle United,2023-02-04,False,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1,0.38,1,23117,0.4,0.01,73.42,0.19,2.0,West Ham,True,Chelsea,,-0.25
-Thilo Kehrer,West Ham,Chelsea,2023-02-11,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,1.15,1,21256,0.8,0.01,74.25,0.18,1.0,West Ham,False,Tottenham,,-0.03
-Thilo Kehrer,West Ham,Tottenham,2023-02-19,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.8,0,0,2,1.48,1,20978,0.8,0.0,75.0,0.17,0.0,West Ham,True,Nottingham Forest,,
-Thilo Kehrer,West Ham,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,23990,0.8,0.0,71.59,0.17,0.0,West Ham,False,Brighton,,-0.39
-Thilo Kehrer,West Ham,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,21445,0.8,0.0,68.48,0.17,2.0,West Ham,True,Aston Villa,,0.55
-Thilo Kehrer,West Ham,Aston Villa,2023-03-12,True,90,0.0,0.0,0.0,0.04,2,0.0,1.0,3.2,0,0,1,1.58,1,19848,1.0,0.0,69.38,0.16,11.0,West Ham,True,Southampton,,-0.38
-Thilo Kehrer,West Ham,Southampton,2023-04-02,True,90,0.0,0.0,1.0,0.15,11,0.0,2.0,5.7,2,1,0,0.39,1,20359,2.8,0.2,70.2,0.2,1.0,West Ham,True,Newcastle United,,0.73
-Thilo Kehrer,West Ham,Newcastle United,2023-04-05,True,62,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,3,2.46,1,20359,2.8,0.2,69.88,0.19,0.0,West Ham,False,Fulham,,1.37
-Thilo Kehrer,West Ham,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,23653,2.8,0.2,67.3,0.19,4.0,West Ham,True,Arsenal,,0.36
-Thilo Kehrer,West Ham,Arsenal,2023-04-16,True,90,0.0,0.0,1.0,0.26,4,0.0,1.0,4.2,0,0,2,2.82,1,22525,3.6,0.4,68.11,0.18,1.0,West Ham,False,Bournemouth,,0.19
-Thilo Kehrer,West Ham,Bournemouth,2023-04-23,False,7,0.0,0.0,0.0,0.07,1,0.0,1.0,2.4,0,0,0,0.07,0,28510,3.4,0.4,66.0,0.17,0.0,West Ham,True,Liverpool,,-0.53
-Thilo Kehrer,West Ham,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,25943,1.2,0.2,63.8,0.17,0.0,West Ham,False,Crystal Palace,,0.13
-Thilo Kehrer,West Ham,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,25353,1.0,0.2,61.74,0.17,1.0,West Ham,False,Manchester City,,-1.26
-Thilo Kehrer,West Ham,Manchester City,2023-05-03,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,3,2.32,1,25353,1.2,0.2,62.62,0.17,6.0,West Ham,True,Manchester United,,0.38
-Thilo Kehrer,West Ham,Manchester United,2023-05-07,True,90,0.0,0.0,0.0,0.01,6,0.0,1.0,3.2,0,1,0,1.19,1,24319,1.6,0.0,63.45,0.2,0.0,West Ham,False,Brentford,,-0.55
-Thilo Kehrer,West Ham,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,25234,1.4,0.0,61.59,0.2,1.0,West Ham,True,Leicester City,,0.83
-Thilo Kehrer,West Ham,Leicester City,2023-05-21,True,45,0.0,0.08,0.0,0.0,1,1.0,0.0,1.4,0,0,0,0.54,0,24654,1.6,0.02,61.11,0.19,1.0,West Ham,False,Leeds United,,-0.8
-Thilo Kehrer,West Ham,Leeds United,2023-05-28,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,2,1.44,1,24412,1.8,0.02,61.92,0.19,1.0,West Ham,False,Bournemouth,,0.19
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Thilo Kehrer,West Ham,Brighton,2022-08-21,True,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.7,0,0,2,0.0,0,0.01,0.0,0.0,90.0,0.0,0,0,0,0,6.0,West Ham,False,Aston Villa,,0.59
+Thilo Kehrer,West Ham,Aston Villa,2022-08-28,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.4,0,1,0,0.0,0,0.03,3.0,0.0,90.0,0.5,0,0,0,0,0.0,West Ham,True,Tottenham,,1.07
+Thilo Kehrer,West Ham,Tottenham,2022-08-31,True,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.1,0,0,1,0.0,0,0.04,2.0,0.0,90.0,0.33,0,0,0,0,0.0,West Ham,False,Chelsea,,-0.72
+Thilo Kehrer,West Ham,Chelsea,2022-09-03,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.9,0,0,2,0.0,0,0.06,1.5,0.0,90.0,0.25,0,0,0,0,2.0,West Ham,False,Everton,,-0.63
+Thilo Kehrer,West Ham,Everton,2022-09-18,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,0.0,0,0.09,1.6,0.0,90.0,0.2,0,0,0,0,10.0,West Ham,True,Wolverhampton,,-0.48
+Thilo Kehrer,West Ham,Wolverhampton,2022-10-01,True,90,0.0,0.02,0.0,0.05,10,1.0,1.0,4.1,1,1,0,0.0,0,0.1,3.6,0.0,90.0,0.33,0,0,0,0,1.0,West Ham,True,Fulham,,-0.3
+Thilo Kehrer,West Ham,Fulham,2022-10-09,True,90,0.0,0.06,0.0,0.12,1,1.0,1.0,3.9,0,0,1,0.0,0,0.44,2.6,0.02,90.0,0.29,0,0,0,0,3.0,West Ham,False,Southampton,,-1.07
+Thilo Kehrer,West Ham,Southampton,2022-10-16,False,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.8,1,0,1,0.0,0,0.43,3.2,0.02,90.0,0.25,0,0,0,0,2.0,West Ham,False,Liverpool,,-1.33
+Thilo Kehrer,West Ham,Liverpool,2022-10-19,False,90,0.0,0.39,0.0,0.0,2,1.0,0.0,2.2,0,0,1,0.0,0,0.37,3.6,0.09,90.0,0.22,0,0,0,0,6.0,West Ham,True,Bournemouth,,1.46
+Thilo Kehrer,West Ham,Bournemouth,2022-10-24,True,90,0.0,0.01,0.0,0.0,6,1.0,0.0,1.1,0,1,0,0.0,0,0.42,4.4,0.1,90.0,0.3,0,0,0,0,1.0,West Ham,False,Manchester United,,-0.1
+Thilo Kehrer,West Ham,Manchester United,2022-10-30,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.5,0,0,1,0.0,0,0.4,2.6,0.09,90.0,0.27,0,0,0,0,1.0,West Ham,True,Crystal Palace,,0.81
+Thilo Kehrer,West Ham,Crystal Palace,2022-11-06,True,90,0.0,0.03,0.0,0.0,1,1.0,0.0,3.4,0,0,2,0.0,0,0.4,2.6,0.09,90.0,0.25,0,0,0,0,1.0,West Ham,True,Leeds United,,-0.79
+Thilo Kehrer,West Ham,Leeds United,2022-11-12,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,2,1.78,1,0.37,2.2,0.09,90.0,0.23,0,0,0,0,1.0,West Ham,False,Arsenal,,-0.0
+Thilo Kehrer,West Ham,Arsenal,2022-12-26,False,90,0.0,0.01,0.0,0.0,1,1.0,0.0,0.4,0,0,3,2.1,1,0.28,2.0,0.01,90.0,0.21,0,0,0,0,0.0,West Ham,True,Brentford,,0.69
+Thilo Kehrer,West Ham,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.3,0.8,0.01,84.0,0.21,0,0,0,0,1.0,West Ham,False,Leicester City,,-0.05
+Thilo Kehrer,West Ham,Leicester City,2023-01-04,False,90,0.0,0.05,0.0,0.0,1,1.0,0.0,1.5,0,0,2,1.48,1,0.27,0.8,0.02,84.38,0.2,0,0,0,0,0.0,West Ham,False,Wolverhampton,,-0.46
+Thilo Kehrer,West Ham,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.25,0.6,0.01,79.41,0.2,0,0,0,0,0.0,West Ham,True,Everton,,0.34
+Thilo Kehrer,West Ham,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.23,0.4,0.01,75.0,0.2,0,0,0,0,1.0,West Ham,False,Newcastle United,,-0.34
+Thilo Kehrer,West Ham,Newcastle United,2023-02-04,False,45,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1,0.38,1,0.21,0.4,0.01,73.42,0.19,0,0,0,0,2.0,West Ham,True,Chelsea,,-0.25
+Thilo Kehrer,West Ham,Chelsea,2023-02-11,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,1.15,1,0.2,0.8,0.01,74.25,0.18,0,0,0,0,1.0,West Ham,False,Tottenham,,-0.03
+Thilo Kehrer,West Ham,Tottenham,2023-02-19,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.8,0,0,2,1.48,1,0.19,0.8,0.0,75.0,0.17,0,0,0,0,0.0,West Ham,True,Nottingham Forest,,
+Thilo Kehrer,West Ham,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.22,0.8,0.0,71.59,0.17,0,0,0,0,0.0,West Ham,False,Brighton,,-0.39
+Thilo Kehrer,West Ham,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.8,0.0,68.48,0.17,0,0,0,0,2.0,West Ham,True,Aston Villa,,0.55
+Thilo Kehrer,West Ham,Aston Villa,2023-03-12,True,90,0.0,0.0,0.0,0.04,2,0.0,1.0,3.2,0,0,1,1.58,1,0.18,1.0,0.0,69.38,0.16,0,0,0,0,11.0,West Ham,True,Southampton,,-0.38
+Thilo Kehrer,West Ham,Southampton,2023-04-02,True,90,0.0,0.0,1.0,0.15,11,0.0,2.0,5.7,2,1,0,0.39,1,0.19,2.8,0.2,70.2,0.2,0,0,0,0,1.0,West Ham,True,Newcastle United,,0.73
+Thilo Kehrer,West Ham,Newcastle United,2023-04-05,True,62,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,3,2.46,1,0.19,2.8,0.2,69.88,0.19,0,0,0,0,0.0,West Ham,False,Fulham,,1.37
+Thilo Kehrer,West Ham,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.22,2.8,0.2,67.3,0.19,0,0,0,0,4.0,West Ham,True,Arsenal,,0.36
+Thilo Kehrer,West Ham,Arsenal,2023-04-16,True,90,0.0,0.0,1.0,0.26,4,0.0,1.0,4.2,0,0,2,2.82,1,0.21,3.6,0.4,68.11,0.18,0,0,0,0,1.0,West Ham,False,Bournemouth,,0.19
+Thilo Kehrer,West Ham,Bournemouth,2023-04-23,False,7,0.0,0.0,0.0,0.07,1,0.0,1.0,2.4,0,0,0,0.07,0,0.26,3.4,0.4,66.0,0.17,0,0,0,0,0.0,West Ham,True,Liverpool,,-0.53
+Thilo Kehrer,West Ham,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.24,1.2,0.2,63.8,0.17,0,0,0,0,0.0,West Ham,False,Crystal Palace,,0.13
+Thilo Kehrer,West Ham,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.23,1.0,0.2,61.74,0.17,0,0,0,0,1.0,West Ham,False,Manchester City,,-1.26
+Thilo Kehrer,West Ham,Manchester City,2023-05-03,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,3,2.32,1,0.23,1.2,0.2,62.62,0.17,0,0,0,0,6.0,West Ham,True,Manchester United,,0.38
+Thilo Kehrer,West Ham,Manchester United,2023-05-07,True,90,0.0,0.0,0.0,0.01,6,0.0,1.0,3.2,0,1,0,1.19,1,0.22,1.6,0.0,63.45,0.2,0,0,0,0,0.0,West Ham,False,Brentford,,-0.55
+Thilo Kehrer,West Ham,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.23,1.4,0.0,61.59,0.2,0,0,0,0,1.0,West Ham,True,Leicester City,,0.83
+Thilo Kehrer,West Ham,Leicester City,2023-05-21,True,45,0.0,0.08,0.0,0.0,1,1.0,0.0,1.4,0,0,0,0.54,0,0.23,1.6,0.02,61.11,0.19,0,0,0,0,1.0,West Ham,False,Leeds United,,-0.8
+Thilo Kehrer,West Ham,Leeds United,2023-05-28,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,2,1.44,1,0.23,1.8,0.02,61.92,0.19,0,0,0,0,1.0,West Ham,False,Bournemouth,,0.19

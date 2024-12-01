@@ -1,14 +1,14 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jimi Tauriainen,Chelsea,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0,Chelsea,True,Newcastle United,,0.55
-Jimi Tauriainen,Chelsea,Newcastle United,,True,0,,,,,0,,,0.0,0,0,19,0.0,0.0,0.0,0.0,Chelsea,True,Burnley,,0.39
-Jimi Tauriainen,Chelsea,Burnley,,True,0,,,,,0,,,0.0,0,0,56,0.0,0.0,0.0,0.0,Chelsea,True,Manchester United,,0.38
-Jimi Tauriainen,Chelsea,Manchester United,,True,0,,,,,0,,,0.0,0,0,59,0.0,0.0,0.0,0.0,Chelsea,False,Sheffield,,-0.61
-Jimi Tauriainen,Chelsea,Sheffield,,False,0,,,,,0,,,0.0,0,0,60,0.0,0.0,0.0,0.0,Chelsea,True,Everton,,0.53
-Jimi Tauriainen,Chelsea,Everton,,True,0,,,,,0,,,0.0,0,0,74,0.0,0.0,0.0,0.0,Chelsea,False,Arsenal,,-0.48
-Jimi Tauriainen,Chelsea,Arsenal,,False,0,,,,,0,,,0.0,0,0,87,0.0,0.0,0.0,0.0,Chelsea,False,Aston Villa,,0.29
-Jimi Tauriainen,Chelsea,Aston Villa,,False,0,,,,,0,,,0.0,0,0,94,0.0,0.0,0.0,1.0,Chelsea,True,Tottenham,,0.69
-Jimi Tauriainen,Chelsea,Tottenham,2024-05-02,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,94,0.2,0.0,0.11,0.0,Chelsea,True,West Ham,,0.49
-Jimi Tauriainen,Chelsea,West Ham,,True,0,,,,,0,,,0.0,0,0,104,0.2,0.0,0.1,0.0,Chelsea,False,Nottingham Forest,,-0.55
-Jimi Tauriainen,Chelsea,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,118,0.2,0.0,0.09,0.0,Chelsea,False,Brighton,,-0.6
-Jimi Tauriainen,Chelsea,Brighton,,False,0,,,,,0,,,0.0,0,0,118,0.2,0.0,0.08,0.0,Chelsea,True,Bournemouth,,1.22
-Jimi Tauriainen,Chelsea,Bournemouth,,True,0,,,,,0,,,0.0,0,0,137,0.2,0.0,0.08,,Fulham,False,Manchester United,,-0.63
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jimi Tauriainen,Chelsea,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Newcastle United,,0.55
+Jimi Tauriainen,Chelsea,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Burnley,,0.39
+Jimi Tauriainen,Chelsea,Burnley,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Manchester United,,0.38
+Jimi Tauriainen,Chelsea,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Sheffield,,-0.61
+Jimi Tauriainen,Chelsea,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Everton,,0.53
+Jimi Tauriainen,Chelsea,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Arsenal,,-0.48
+Jimi Tauriainen,Chelsea,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Aston Villa,,0.29
+Jimi Tauriainen,Chelsea,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,1.0,Chelsea,True,Tottenham,,0.69
+Jimi Tauriainen,Chelsea,Tottenham,2024-05-02,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.0,0.2,0.0,0.11,0,0,0,0,0,0.0,Chelsea,True,West Ham,,0.49
+Jimi Tauriainen,Chelsea,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.2,0.0,0.1,0,0,0,0,0,0.0,Chelsea,False,Nottingham Forest,,-0.55
+Jimi Tauriainen,Chelsea,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.2,0.0,0.09,0,0,0,0,0,0.0,Chelsea,False,Brighton,,-0.6
+Jimi Tauriainen,Chelsea,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.2,0.0,0.08,0,0,0,0,0,0.0,Chelsea,True,Bournemouth,,1.22
+Jimi Tauriainen,Chelsea,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.2,0.0,0.08,0,0,0,0,0,,Fulham,False,Manchester United,,-0.63

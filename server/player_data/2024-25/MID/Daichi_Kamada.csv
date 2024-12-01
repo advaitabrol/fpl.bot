@@ -1,15 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Daichi Kamada,Crystal Palace,Brentford,2024-08-18,False,69.0,0.0,0.0,0.0,0.05,1.0,0.0,2.0,3.7,0.0,1.0,50612.0,1.0,0.0,69.0,1.0,Crystal Palace,True,West Ham,,0.48
-Daichi Kamada,Crystal Palace,West Ham,2024-08-24,True,27.0,0.0,0.0,0.0,0.04,1.0,0.0,2.0,3.4,0.0,0.0,50513.0,1.0,0.0,48.0,2.0,Crystal Palace,False,Chelsea,,-0.9
-Daichi Kamada,Crystal Palace,Chelsea,2024-09-01,False,87.0,0.0,0.1,0.0,0.02,2.0,2.0,1.0,4.0,0.0,1.0,33355.0,1.33,0.03,61.0,1.0,Crystal Palace,True,Leicester City,,0.47
-Daichi Kamada,Crystal Palace,Leicester City,2024-09-14,True,26.0,0.0,0.09,0.0,0.0,1.0,2.0,0.0,1.6,0.0,0.0,29363.0,1.25,0.05,52.25,3.0,Crystal Palace,True,Manchester United,,0.39
-Daichi Kamada,Crystal Palace,Manchester United,2024-09-21,True,90.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,1.7,0.0,1.0,23698.0,1.6,0.04,59.8,2.0,Crystal Palace,False,Everton,,-0.39
-Daichi Kamada,Crystal Palace,Everton,2024-09-28,False,61.0,0.0,0.0,0.0,0.05,2.0,0.0,1.0,2.9,0.0,1.0,20691.0,1.8,0.04,60.0,1.0,Crystal Palace,True,Liverpool,,0.24
-Daichi Kamada,Crystal Palace,Liverpool,2024-10-05,True,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.0,0.0,18073.0,1.8,0.04,51.71,1.0,Crystal Palace,False,Nottingham Forest,,-0.54
-Daichi Kamada,Crystal Palace,Nottingham Forest,2024-10-21,False,87.0,0.0,0.12,0.0,0.09,1.0,2.0,2.0,4.6,0.0,1.0,16876.0,1.6,0.04,56.12,1.0,Crystal Palace,True,Tottenham,,0.74
-Daichi Kamada,Crystal Palace,Tottenham,2024-10-27,True,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.9,0.0,0.0,16107.0,1.6,0.02,50.11,2.0,Crystal Palace,False,Wolverhampton,,-0.53
-Daichi Kamada,Crystal Palace,Wolverhampton,2024-11-02,False,90.0,0.0,0.19,0.0,0.19,2.0,2.0,3.0,8.5,0.0,1.0,16109.0,1.4,0.06,54.1,-1.0,Crystal Palace,True,Fulham,,0.27
-Daichi Kamada,Crystal Palace,Fulham,2024-11-09,True,75.0,0.0,0.0,0.0,0.13,-1.0,0.0,1.0,2.3,0.0,1.0,16561.0,0.8,0.06,56.0,0.0,Crystal Palace,False,Aston Villa,,0.11
-Daichi Kamada,Crystal Palace,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,13647.0,0.6,0.06,51.33,,Crystal Palace,True,Newcastle United,,0.67
-,Crystal Palace,,,,,,,,,,,,,,,,,,,,Crystal Palace,False,Ipswich Town,,
-,Crystal Palace,,,,,,,,,,,,,,,,,,,,Crystal Palace,True,Manchester City,,-1.18
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Daichi Kamada,Crystal Palace,Brentford,2024-08-18,False,69.0,0.0,0.0,0.0,0.05,1.0,0.0,2.0,3.7,0.0,1.0,0.47,1.0,0.0,69.0,0.0,0.0,0.0,0.0,0.0,1.0,Crystal Palace,True,West Ham,,0.48
+Daichi Kamada,Crystal Palace,West Ham,2024-08-24,True,27.0,0.0,0.0,0.0,0.04,1.0,0.0,2.0,3.4,0.0,0.0,0.47,1.0,0.0,48.0,0.0,0.0,0.0,0.0,0.0,2.0,Crystal Palace,False,Chelsea,,-0.9
+Daichi Kamada,Crystal Palace,Chelsea,2024-09-01,False,87.0,0.0,0.1,0.0,0.02,2.0,2.0,1.0,4.0,0.0,1.0,0.31,1.33,0.03,61.0,0.0,0.0,0.0,0.0,0.0,1.0,Crystal Palace,True,Leicester City,,0.47
+Daichi Kamada,Crystal Palace,Leicester City,2024-09-14,True,26.0,0.0,0.09,0.0,0.0,1.0,2.0,0.0,1.6,0.0,0.0,0.27,1.25,0.05,52.25,0.0,0.0,0.0,0.0,0.0,3.0,Crystal Palace,True,Manchester United,,0.39
+Daichi Kamada,Crystal Palace,Manchester United,2024-09-21,True,90.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,1.7,0.0,1.0,0.22,1.6,0.04,59.8,0.0,0.0,0.0,0.0,0.0,2.0,Crystal Palace,False,Everton,,-0.39
+Daichi Kamada,Crystal Palace,Everton,2024-09-28,False,61.0,0.0,0.0,0.0,0.05,2.0,0.0,1.0,2.9,0.0,1.0,0.19,1.8,0.04,60.0,0.0,0.0,0.0,0.0,0.0,1.0,Crystal Palace,True,Liverpool,,0.24
+Daichi Kamada,Crystal Palace,Liverpool,2024-10-05,True,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.0,0.0,0.17,1.8,0.04,51.71,0.0,0.0,0.0,0.0,0.0,1.0,Crystal Palace,False,Nottingham Forest,,-0.54
+Daichi Kamada,Crystal Palace,Nottingham Forest,2024-10-21,False,87.0,0.0,0.12,0.0,0.09,1.0,2.0,2.0,4.6,0.0,1.0,0.16,1.6,0.04,56.12,0.0,0.0,0.0,0.0,0.0,1.0,Crystal Palace,True,Tottenham,,0.74
+Daichi Kamada,Crystal Palace,Tottenham,2024-10-27,True,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.9,0.0,0.0,0.15,1.6,0.02,50.11,0.0,0.0,0.0,0.0,0.0,2.0,Crystal Palace,False,Wolverhampton,,-0.53
+Daichi Kamada,Crystal Palace,Wolverhampton,2024-11-02,False,90.0,0.0,0.19,0.0,0.19,2.0,2.0,3.0,8.5,0.0,1.0,0.15,1.4,0.06,54.1,0.0,0.0,0.0,0.0,0.0,-1.0,Crystal Palace,True,Fulham,,0.27
+Daichi Kamada,Crystal Palace,Fulham,2024-11-09,True,75.0,0.0,0.0,0.0,0.13,-1.0,0.0,1.0,2.3,0.0,1.0,0.15,0.8,0.06,56.0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace,False,Aston Villa,,0.11
+Daichi Kamada,Crystal Palace,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.13,0.6,0.06,51.33,0.0,0.0,0.0,0.0,0.0,,Crystal Palace,True,Newcastle United,,0.67
+,Crystal Palace,,,,,,,,,,,,,,,,,,,,,,,,,Crystal Palace,False,Ipswich Town,,
+,Crystal Palace,,,,,,,,,,,,,,,,,,,,,,,,,Crystal Palace,True,Manchester City,,-1.18

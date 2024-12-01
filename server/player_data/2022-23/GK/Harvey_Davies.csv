@@ -1,37 +1,37 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Harvey Davies,Liverpool,Manchester United,,False,0,0,0.0,0,0,0,0,0,,0,0,0.0,0,0.0,0,0,0.0,Liverpool,True,Bournemouth,,1.46
-Harvey Davies,Liverpool,Bournemouth,2022-08-27,True,0,0,0.0,0,0,0,0,0,0.0,0,339,0.0,0,0.0,0,0,0.0,Liverpool,True,Newcastle United,,0.73
-Harvey Davies,Liverpool,Newcastle United,,True,0,0,0.0,0,0,0,0,0,,0,669,0.0,0,0.0,0,0,0.0,Liverpool,False,Everton,,-0.63
-Harvey Davies,Liverpool,Everton,,False,0,0,0.0,0,0,0,0,0,,0,1041,0.0,0,0.0,0,0,0.0,Liverpool,True,Brighton,,-0.71
-Harvey Davies,Liverpool,Brighton,,True,0,0,0.0,0,0,0,0,0,,0,1769,0.0,0,0.0,0,0,0.0,Liverpool,False,Arsenal,,-0.0
-Harvey Davies,Liverpool,Arsenal,,False,0,0,0.0,0,0,0,0,0,,0,1968,0.0,0,0.0,0,0,0.0,Liverpool,True,Manchester City,,-1.17
-Harvey Davies,Liverpool,Manchester City,,True,0,0,0.0,0,0,0,0,0,,0,2070,0.0,0,0.0,0,0,0.0,Liverpool,True,West Ham,,0.63
-Harvey Davies,Liverpool,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,2125,0.0,0,0.0,0,0,0.0,Liverpool,False,Nottingham Forest,,
-Harvey Davies,Liverpool,Nottingham Forest,,False,0,0,0.0,0,0,0,0,0,,0,2139,0.0,0,0.0,0,0,0.0,Liverpool,True,Leicester City,,0.83
-Harvey Davies,Liverpool,Leicester City,2022-10-29,True,0,0,0.0,0,0,0,0,0,0.0,0,2211,0.0,0,0.0,0,0,0.0,Liverpool,False,Tottenham,,-0.03
-Harvey Davies,Liverpool,Tottenham,,False,0,0,0.0,0,0,0,0,0,,0,2281,0.0,0,0.0,0,0,0.0,Liverpool,True,Southampton,,-0.38
-Harvey Davies,Liverpool,Southampton,2022-11-12,True,0,0,0.0,0,0,0,0,0,0.06,0,2379,0.0,0,0.0,0,0,0.0,Liverpool,False,Aston Villa,,0.59
-Harvey Davies,Liverpool,Aston Villa,2022-12-26,False,0,0,0.0,0,0,0,0,0,0.0,0,2590,0.0,0,0.0,0,0,0.0,Liverpool,True,Leeds United,,-0.79
-Harvey Davies,Liverpool,Leeds United,2022-12-30,True,0,0,0.0,0,0,0,0,0,0.0,0,2628,0.0,0,0.0,0,0,0.0,Liverpool,False,Brentford,,-0.55
-Harvey Davies,Liverpool,Brentford,,False,0,0,0.0,0,0,0,0,0,,0,2645,0.0,0,0.0,0,0,0.0,Liverpool,False,Brighton,,-0.39
-Harvey Davies,Liverpool,Brighton,2023-01-14,False,0,0,0.0,0,0,0,0,0,0.08,0,2710,0.0,0,0.0,0,0,0.0,Liverpool,True,Chelsea,,-0.25
-Harvey Davies,Liverpool,Chelsea,2023-01-21,True,0,0,0.0,0,0,0,0,0,0.0,0,2765,0.0,0,0.0,0,0,0.0,Liverpool,False,Wolverhampton,,-0.46
-Harvey Davies,Liverpool,Wolverhampton,2023-02-04,False,0,0,0.0,0,0,0,0,0,0.5,0,2837,0.0,0,0.0,0,0,0.0,Liverpool,True,Everton,,0.34
-Harvey Davies,Liverpool,Everton,,True,0,0,0.0,0,0,0,0,0,,0,2865,0.0,0,0.0,0,0,0.0,Liverpool,False,Newcastle United,,-0.34
-Harvey Davies,Liverpool,Newcastle United,,False,0,0,0.0,0,0,0,0,0,,0,2892,0.0,0,0.0,0,0,0.0,Liverpool,False,Crystal Palace,,0.13
-Harvey Davies,Liverpool,Crystal Palace,2023-02-25,False,0,0,0.0,0,0,0,0,0,0.0,0,2878,0.0,0,0.0,0,0,0.0,Liverpool,True,Wolverhampton,,-0.48
-Harvey Davies,Liverpool,Wolverhampton,,True,0,0,0.0,0,0,0,0,0,,0,2878,0.0,0,0.0,0,0,0.0,Liverpool,True,Manchester United,,0.38
-Harvey Davies,Liverpool,Manchester United,,True,0,0,0.0,0,0,0,0,0,,0,2927,0.0,0,0.0,0,0,0.0,Liverpool,False,Bournemouth,,0.19
-Harvey Davies,Liverpool,Bournemouth,2023-03-11,False,0,0,0.0,0,0,0,0,0,0.42,0,2961,0.0,0,0.0,0,0,0.0,Liverpool,False,Manchester City,,-1.26
-Harvey Davies,Liverpool,Manchester City,2023-04-01,False,0,0,0.0,0,0,0,0,0,0.0,0,3030,0.0,0,0.0,0,0,0.0,Liverpool,False,Chelsea,,-0.72
-Harvey Davies,Liverpool,Chelsea,2023-04-04,False,0,0,0.0,0,0,0,0,0,0.0,0,3030,0.0,0,0.0,0,0,0.0,Liverpool,True,Arsenal,,0.36
-Harvey Davies,Liverpool,Arsenal,,True,0,0,0.0,0,0,0,0,0,,0,3038,0.0,0,0.0,0,0,0.0,Liverpool,False,Leicester City,,-0.05
-Harvey Davies,Liverpool,Leicester City,,False,0,0,0.0,0,0,0,0,0,,0,3051,0.0,0,0.0,0,0,0.0,Liverpool,True,Nottingham Forest,,
-Harvey Davies,Liverpool,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,3075,0.0,0,0.0,0,0,0.0,Liverpool,False,West Ham,,0.14
-Harvey Davies,Liverpool,West Ham,,False,0,0,0.0,0,0,0,0,0,,0,3083,0.0,0,0.0,0,0,0.0,Liverpool,True,Tottenham,,1.07
-Harvey Davies,Liverpool,Tottenham,,True,0,0,0.0,0,0,0,0,0,,0,3088,0.0,0,0.0,0,0,0.0,Liverpool,True,Fulham,,-0.3
-Harvey Davies,Liverpool,Fulham,,True,0,0,0.0,0,0,0,0,0,,0,3088,0.0,0,0.0,0,0,0.0,Liverpool,True,Brentford,,0.69
-Harvey Davies,Liverpool,Brentford,,True,0,0,0.0,0,0,0,0,0,,0,3120,0.0,0,0.0,0,0,0.0,Liverpool,False,Leeds United,,-0.8
-Harvey Davies,Liverpool,Leeds United,2023-05-15,False,0,0,0.0,0,0,0,0,0,0.36,0,3133,0.0,0,0.0,0,0,0.0,Liverpool,True,Aston Villa,,0.55
-Harvey Davies,Liverpool,Aston Villa,,True,0,0,0.0,0,0,0,0,0,,0,3169,0.0,0,0.0,0,0,0.0,Liverpool,False,Southampton,,-1.07
-Harvey Davies,Liverpool,Southampton,2023-05-28,False,0,0,0.0,0,0,0,0,0,0.06,0,3222,0.0,0,0.0,0,0,,Liverpool,False,Chelsea,,-0.72
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Harvey Davies,Liverpool,Manchester United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,True,Bournemouth,,1.46
+Harvey Davies,Liverpool,Bournemouth,2022-08-27,True,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,True,Newcastle United,,0.73
+Harvey Davies,Liverpool,Newcastle United,,True,0,0,0.0,0,0,0,0,0,,0,0.01,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,False,Everton,,-0.63
+Harvey Davies,Liverpool,Everton,,False,0,0,0.0,0,0,0,0,0,,0,0.01,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,True,Brighton,,-0.71
+Harvey Davies,Liverpool,Brighton,,True,0,0,0.0,0,0,0,0,0,,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,False,Arsenal,,-0.0
+Harvey Davies,Liverpool,Arsenal,,False,0,0,0.0,0,0,0,0,0,,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,True,Manchester City,,-1.17
+Harvey Davies,Liverpool,Manchester City,,True,0,0,0.0,0,0,0,0,0,,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,True,West Ham,,0.63
+Harvey Davies,Liverpool,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,False,Nottingham Forest,,
+Harvey Davies,Liverpool,Nottingham Forest,,False,0,0,0.0,0,0,0,0,0,,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,True,Leicester City,,0.83
+Harvey Davies,Liverpool,Leicester City,2022-10-29,True,0,0,0.0,0,0,0,0,0,0.0,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,False,Tottenham,,-0.03
+Harvey Davies,Liverpool,Tottenham,,False,0,0,0.0,0,0,0,0,0,,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,True,Southampton,,-0.38
+Harvey Davies,Liverpool,Southampton,2022-11-12,True,0,0,0.0,0,0,0,0,0,0.06,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,False,Aston Villa,,0.59
+Harvey Davies,Liverpool,Aston Villa,2022-12-26,False,0,0,0.0,0,0,0,0,0,0.0,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,True,Leeds United,,-0.79
+Harvey Davies,Liverpool,Leeds United,2022-12-30,True,0,0,0.0,0,0,0,0,0,0.0,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,False,Brentford,,-0.55
+Harvey Davies,Liverpool,Brentford,,False,0,0,0.0,0,0,0,0,0,,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,False,Brighton,,-0.39
+Harvey Davies,Liverpool,Brighton,2023-01-14,False,0,0,0.0,0,0,0,0,0,0.08,0,0.03,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,True,Chelsea,,-0.25
+Harvey Davies,Liverpool,Chelsea,2023-01-21,True,0,0,0.0,0,0,0,0,0,0.0,0,0.03,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,False,Wolverhampton,,-0.46
+Harvey Davies,Liverpool,Wolverhampton,2023-02-04,False,0,0,0.0,0,0,0,0,0,0.5,0,0.03,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,True,Everton,,0.34
+Harvey Davies,Liverpool,Everton,,True,0,0,0.0,0,0,0,0,0,,0,0.03,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,False,Newcastle United,,-0.34
+Harvey Davies,Liverpool,Newcastle United,,False,0,0,0.0,0,0,0,0,0,,0,0.03,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,False,Crystal Palace,,0.13
+Harvey Davies,Liverpool,Crystal Palace,2023-02-25,False,0,0,0.0,0,0,0,0,0,0.0,0,0.03,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,True,Wolverhampton,,-0.48
+Harvey Davies,Liverpool,Wolverhampton,,True,0,0,0.0,0,0,0,0,0,,0,0.03,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,True,Manchester United,,0.38
+Harvey Davies,Liverpool,Manchester United,,True,0,0,0.0,0,0,0,0,0,,0,0.03,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,False,Bournemouth,,0.19
+Harvey Davies,Liverpool,Bournemouth,2023-03-11,False,0,0,0.0,0,0,0,0,0,0.42,0,0.03,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,False,Manchester City,,-1.26
+Harvey Davies,Liverpool,Manchester City,2023-04-01,False,0,0,0.0,0,0,0,0,0,0.0,0,0.03,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,False,Chelsea,,-0.72
+Harvey Davies,Liverpool,Chelsea,2023-04-04,False,0,0,0.0,0,0,0,0,0,0.0,0,0.03,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,True,Arsenal,,0.36
+Harvey Davies,Liverpool,Arsenal,,True,0,0,0.0,0,0,0,0,0,,0,0.03,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,False,Leicester City,,-0.05
+Harvey Davies,Liverpool,Leicester City,,False,0,0,0.0,0,0,0,0,0,,0,0.03,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,True,Nottingham Forest,,
+Harvey Davies,Liverpool,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,0.03,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,False,West Ham,,0.14
+Harvey Davies,Liverpool,West Ham,,False,0,0,0.0,0,0,0,0,0,,0,0.03,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,True,Tottenham,,1.07
+Harvey Davies,Liverpool,Tottenham,,True,0,0,0.0,0,0,0,0,0,,0,0.03,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,True,Fulham,,-0.3
+Harvey Davies,Liverpool,Fulham,,True,0,0,0.0,0,0,0,0,0,,0,0.03,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,True,Brentford,,0.69
+Harvey Davies,Liverpool,Brentford,,True,0,0,0.0,0,0,0,0,0,,0,0.03,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,False,Leeds United,,-0.8
+Harvey Davies,Liverpool,Leeds United,2023-05-15,False,0,0,0.0,0,0,0,0,0,0.36,0,0.03,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,True,Aston Villa,,0.55
+Harvey Davies,Liverpool,Aston Villa,,True,0,0,0.0,0,0,0,0,0,,0,0.03,0.0,0,0.0,0,0,0,0,0,0.0,Liverpool,False,Southampton,,-1.07
+Harvey Davies,Liverpool,Southampton,2023-05-28,False,0,0,0.0,0,0,0,0,0,0.06,0,0.03,0.0,0,0.0,0,0,0,0,0,,Liverpool,False,Chelsea,,-0.72

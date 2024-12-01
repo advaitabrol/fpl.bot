@@ -1,13 +1,13 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Habeeb Ogunneye,Man Utd,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Everton,,0.53
-Habeeb Ogunneye,Man Utd,Everton,2024-03-09,True,0,0.0,0.66,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,84,0.0,0.33,0.0,0,0.0,Man Utd,False,Brentford,,-0.53
-Habeeb Ogunneye,Man Utd,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,232,0.0,0.22,0.0,0,0.0,Man Utd,False,Chelsea,,-0.85
-Habeeb Ogunneye,Man Utd,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,268,0.0,0.16,0.0,0,0.0,Man Utd,True,Liverpool,,0.18
-Habeeb Ogunneye,Man Utd,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,325,0.0,0.13,0.0,0,0.0,Man Utd,False,Bournemouth,,0.19
-Habeeb Ogunneye,Man Utd,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,425,0.0,0.13,0.0,0,0.0,Man Utd,True,Sheffield,,0.68
-Habeeb Ogunneye,Man Utd,Sheffield,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,517,0.0,0.0,0.0,0,0.0,Man Utd,True,Burnley,,0.39
-Habeeb Ogunneye,Man Utd,Burnley,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,553,0.0,0.0,0.0,0,0.0,Man Utd,False,Crystal Palace,,0.38
-Habeeb Ogunneye,Man Utd,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,601,0.0,0.0,0.0,0,0.0,Man Utd,True,Arsenal,,-0.11
-Habeeb Ogunneye,Man Utd,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,756,0.0,0.0,0.0,0,0.0,Man Utd,True,Newcastle United,,0.55
-Habeeb Ogunneye,Man Utd,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,756,0.0,0.0,0.0,0,0.0,Man Utd,False,Brighton,,-0.6
-Habeeb Ogunneye,Man Utd,Brighton,2024-05-19,False,0,0.0,0.14,0.0,0.01,0,3.0,1.0,0.0,0,0,0,0.0,0,747,0.0,0.03,0.0,0,,Brentford,True,Crystal Palace,,0.88
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Habeeb Ogunneye,Man Utd,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Man Utd,True,Everton,,0.53
+Habeeb Ogunneye,Man Utd,Everton,2024-03-09,True,0,0.0,0.66,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.33,0.0,0,0,0,0,0,0.0,Man Utd,False,Brentford,,-0.53
+Habeeb Ogunneye,Man Utd,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.22,0.0,0,0,0,0,0,0.0,Man Utd,False,Chelsea,,-0.85
+Habeeb Ogunneye,Man Utd,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.16,0.0,0,0,0,0,0,0.0,Man Utd,True,Liverpool,,0.18
+Habeeb Ogunneye,Man Utd,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.13,0.0,0,0,0,0,0,0.0,Man Utd,False,Bournemouth,,0.19
+Habeeb Ogunneye,Man Utd,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.13,0.0,0,0,0,0,0,0.0,Man Utd,True,Sheffield,,0.68
+Habeeb Ogunneye,Man Utd,Sheffield,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Man Utd,True,Burnley,,0.39
+Habeeb Ogunneye,Man Utd,Burnley,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Man Utd,False,Crystal Palace,,0.38
+Habeeb Ogunneye,Man Utd,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Man Utd,True,Arsenal,,-0.11
+Habeeb Ogunneye,Man Utd,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Man Utd,True,Newcastle United,,0.55
+Habeeb Ogunneye,Man Utd,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Man Utd,False,Brighton,,-0.6
+Habeeb Ogunneye,Man Utd,Brighton,2024-05-19,False,0,0.0,0.14,0.0,0.01,0,3.0,1.0,0.0,0,0,0,0.0,0,0.01,0.0,0.03,0.0,0,0,0,0,0,,Brentford,True,Crystal Palace,,0.88

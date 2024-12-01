@@ -1,12 +1,12 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Michael Olakigbe,Brentford,Brighton,2023-04-01,False,0,0.0,0.18,0.0,0.11,0,4.0,3.0,0.0,0,0,0,0.0,0.18,0.0,0.0,Brentford,False,Manchester United,,-0.1
-Michael Olakigbe,Brentford,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0.09,0.0,0.0,Brentford,True,Newcastle United,,0.73
-Michael Olakigbe,Brentford,Newcastle United,,True,0,,,,,0,,,0.0,0,0,21,0.0,0.06,0.0,0.0,Brentford,False,Wolverhampton,,-0.46
-Michael Olakigbe,Brentford,Wolverhampton,2023-04-15,False,0,0.0,0.05,0.0,0.13,0,1.0,1.0,0.0,0,0,37,0.0,0.06,0.0,0.0,Brentford,True,Aston Villa,,0.55
-Michael Olakigbe,Brentford,Aston Villa,2023-04-22,True,0,0.0,0.03,0.0,0.07,0,2.0,2.0,0.0,0,0,64,0.0,0.05,0.0,0.0,Brentford,False,Chelsea,,-0.72
-Michael Olakigbe,Brentford,Chelsea,,False,0,,,,,0,,,0.0,0,0,57,0.0,0.02,0.0,0.0,Brentford,True,Nottingham Forest,,
-Michael Olakigbe,Brentford,Nottingham Forest,2023-04-29,True,0,0.0,0.06,1.0,0.08,0,2.0,1.0,0.0,0,0,70,0.0,0.23,0.0,0.0,Brentford,False,Liverpool,,-1.33
-Michael Olakigbe,Brentford,Liverpool,2023-05-06,False,0,0.0,0.04,0.0,0.09,0,1.0,2.0,0.0,0,0,86,0.0,0.24,0.0,0.0,Brentford,True,West Ham,,0.63
-Michael Olakigbe,Brentford,West Ham,,True,0,,,,,0,,,0.0,0,0,88,0.0,0.23,0.0,0.0,Brentford,False,Tottenham,,-0.03
-Michael Olakigbe,Brentford,Tottenham,2023-05-20,False,0,0.0,0.09,0.0,0.03,0,2.0,1.0,0.0,0,0,131,0.0,0.24,0.0,0.0,Brentford,True,Manchester City,,-1.17
-Michael Olakigbe,Brentford,Manchester City,2023-05-28,True,0,0.0,0.07,1.0,0.57,0,2.0,7.0,0.0,0,0,129,0.0,0.45,0.0,0.0,Brentford,False,Newcastle United,,-0.34
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Michael Olakigbe,Brentford,Brighton,2023-04-01,False,0,0.0,0.18,0.0,0.11,0,4.0,3.0,0.0,0,0,0.0,0.0,0.18,0.0,0,0,0,0,0,0.0,Brentford,False,Manchester United,,-0.1
+Michael Olakigbe,Brentford,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.09,0.0,0,0,0,0,0,0.0,Brentford,True,Newcastle United,,0.73
+Michael Olakigbe,Brentford,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.06,0.0,0,0,0,0,0,0.0,Brentford,False,Wolverhampton,,-0.46
+Michael Olakigbe,Brentford,Wolverhampton,2023-04-15,False,0,0.0,0.05,0.0,0.13,0,1.0,1.0,0.0,0,0,0.0,0.0,0.06,0.0,0,0,0,0,0,0.0,Brentford,True,Aston Villa,,0.55
+Michael Olakigbe,Brentford,Aston Villa,2023-04-22,True,0,0.0,0.03,0.0,0.07,0,2.0,2.0,0.0,0,0,0.0,0.0,0.05,0.0,0,0,0,0,0,0.0,Brentford,False,Chelsea,,-0.72
+Michael Olakigbe,Brentford,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.02,0.0,0,0,0,0,0,0.0,Brentford,True,Nottingham Forest,,
+Michael Olakigbe,Brentford,Nottingham Forest,2023-04-29,True,0,0.0,0.06,1.0,0.08,0,2.0,1.0,0.0,0,0,0.0,0.0,0.23,0.0,0,0,0,0,0,0.0,Brentford,False,Liverpool,,-1.33
+Michael Olakigbe,Brentford,Liverpool,2023-05-06,False,0,0.0,0.04,0.0,0.09,0,1.0,2.0,0.0,0,0,0.0,0.0,0.24,0.0,0,0,0,0,0,0.0,Brentford,True,West Ham,,0.63
+Michael Olakigbe,Brentford,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.23,0.0,0,0,0,0,0,0.0,Brentford,False,Tottenham,,-0.03
+Michael Olakigbe,Brentford,Tottenham,2023-05-20,False,0,0.0,0.09,0.0,0.03,0,2.0,1.0,0.0,0,0,0.0,0.0,0.24,0.0,0,0,0,0,0,0.0,Brentford,True,Manchester City,,-1.17
+Michael Olakigbe,Brentford,Manchester City,2023-05-28,True,0,0.0,0.07,1.0,0.57,0,2.0,7.0,0.0,0,0,0.0,0.0,0.45,0.0,0,0,0,0,0,0.0,Brentford,False,Newcastle United,,-0.34

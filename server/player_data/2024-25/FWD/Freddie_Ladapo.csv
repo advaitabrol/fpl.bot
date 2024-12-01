@@ -1,15 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Freddie Ladapo,Ipswich,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,179213.0,0.0,0.0,0.0,0.0,Ipswich,False,Manchester City,,-1.51
-Freddie Ladapo,Ipswich,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,193441.0,0.0,0.0,0.0,0.0,Ipswich,True,Fulham,,0.27
-Freddie Ladapo,Ipswich,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,209294.0,0.0,0.0,0.0,0.0,Ipswich,False,Brighton,,-0.61
-Freddie Ladapo,Ipswich,Brighton,2024-09-14,False,0.0,0.0,0.04,0.0,0.11,0.0,1.0,2.0,0.0,0.0,0.0,151747.0,0.0,0.01,0.0,0.0,Ipswich,False,Southampton,,-0.31
-Freddie Ladapo,Ipswich,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,134869.0,0.0,0.01,0.0,0.0,Ipswich,True,Aston Villa,,0.66
-Freddie Ladapo,Ipswich,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,117033.0,0.0,0.01,0.0,0.0,Ipswich,False,West Ham,,-0.34
-Freddie Ladapo,Ipswich,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,106945.0,0.0,0.01,0.0,0.0,Ipswich,True,Everton,,0.61
-Freddie Ladapo,Ipswich,Everton,2024-10-19,True,0.0,0.0,0.37,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,98229.0,0.0,0.08,0.0,0.0,Ipswich,False,Brentford,,-0.15
-Freddie Ladapo,Ipswich,Brentford,2024-10-26,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,91421.0,0.0,0.07,0.0,0.0,Ipswich,True,Leicester City,,0.47
-Freddie Ladapo,Ipswich,Leicester City,2024-11-02,True,0.0,1.0,0.19,0.0,0.02,0.0,2.0,1.0,0.0,0.0,0.0,83917.0,0.0,0.11,0.0,0.0,Ipswich,False,Tottenham,,-0.3
-Freddie Ladapo,Ipswich,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,78032.0,0.0,0.11,0.0,0.0,Ipswich,True,Manchester United,,0.39
-Freddie Ladapo,Ipswich,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,72510.0,0.0,0.11,0.0,,Ipswich,False,Nottingham Forest,,-0.54
-,Ipswich,,,,,,,,,,,,,,,,,,,,Ipswich,True,Crystal Palace,,0.88
-,Ipswich,,,,,,,,,,,,,,,,,,,,Ipswich,True,Bournemouth,,0.84
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Freddie Ladapo,Ipswich,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1.65,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,Manchester City,,-1.51
+Freddie Ladapo,Ipswich,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1.79,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,True,Fulham,,0.27
+Freddie Ladapo,Ipswich,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1.93,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,Brighton,,-0.61
+Freddie Ladapo,Ipswich,Brighton,2024-09-14,False,0.0,0.0,0.04,0.0,0.11,0.0,1.0,2.0,0.0,0.0,0.0,1.4,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,Southampton,,-0.31
+Freddie Ladapo,Ipswich,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1.25,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,True,Aston Villa,,0.66
+Freddie Ladapo,Ipswich,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1.08,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,West Ham,,-0.34
+Freddie Ladapo,Ipswich,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.99,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,True,Everton,,0.61
+Freddie Ladapo,Ipswich,Everton,2024-10-19,True,0.0,0.0,0.37,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.91,0.0,0.08,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,Brentford,,-0.15
+Freddie Ladapo,Ipswich,Brentford,2024-10-26,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.84,0.0,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,True,Leicester City,,0.47
+Freddie Ladapo,Ipswich,Leicester City,2024-11-02,True,0.0,1.0,0.19,0.0,0.02,0.0,2.0,1.0,0.0,0.0,0.0,0.77,0.0,0.11,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,Tottenham,,-0.3
+Freddie Ladapo,Ipswich,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.72,0.0,0.11,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,True,Manchester United,,0.39
+Freddie Ladapo,Ipswich,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.67,0.0,0.11,0.0,0.0,0.0,0.0,0.0,0.0,,Ipswich,False,Nottingham Forest,,-0.54
+,Ipswich,,,,,,,,,,,,,,,,,,,,,,,,,Ipswich,True,Crystal Palace,,0.88
+,Ipswich,,,,,,,,,,,,,,,,,,,,,,,,,Ipswich,True,Bournemouth,,0.84

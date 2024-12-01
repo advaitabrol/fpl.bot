@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Antonee Robinson,Fulham,Liverpool,2022-08-06,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,2,0.0,0,9043,1.0,0.0,90.0,0.0,6.0,Fulham,False,Wolverhampton,,-0.46
-Antonee Robinson,Fulham,Wolverhampton,2022-08-13,False,90,0.0,0.01,0.0,0.07,6,1.0,1.0,4.2,0,1,0,0.0,0,12946,3.5,0.01,90.0,0.5,1.0,Fulham,True,Brentford,,0.69
-Antonee Robinson,Fulham,Brentford,2022-08-20,True,90,0.0,0.0,0.0,0.12,1,0.0,2.0,3.3,0,0,2,0.0,0,16456,2.67,0.0,90.0,0.33,0.0,Fulham,False,Arsenal,,-0.0
-Antonee Robinson,Fulham,Arsenal,2022-08-27,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,3.7,0,0,2,0.0,0,15791,2.0,0.0,90.0,0.25,1.0,Fulham,True,Brighton,,-0.71
-Antonee Robinson,Fulham,Brighton,2022-08-30,True,90,0.0,0.0,0.0,0.02,1,0.0,1.0,3.1,0,0,1,0.0,0,17054,1.8,0.0,90.0,0.2,1.0,Fulham,False,Tottenham,,-0.03
-Antonee Robinson,Fulham,Tottenham,2022-09-03,False,28,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.0,0,16675,1.8,0.0,79.67,0.17,0.0,Fulham,False,Nottingham Forest,,
-Antonee Robinson,Fulham,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,13486,0.6,0.0,68.29,0.17,0.0,Fulham,True,Newcastle United,,0.73
-Antonee Robinson,Fulham,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,12451,0.4,0.0,59.75,0.17,1.0,Fulham,False,West Ham,,0.14
-Antonee Robinson,Fulham,West Ham,2022-10-09,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,3,0.0,0,11627,0.6,0.0,63.11,0.14,1.0,Fulham,True,Bournemouth,,1.46
-Antonee Robinson,Fulham,Bournemouth,2022-10-15,True,90,0.0,0.0,0.0,0.02,1,0.0,1.0,4.3,0,0,2,0.0,0,14354,0.6,0.0,65.8,0.12,6.0,Fulham,True,Aston Villa,,0.55
-Antonee Robinson,Fulham,Aston Villa,2022-10-20,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.7,0,1,0,0.0,0,14301,1.6,0.0,68.0,0.22,0.0,Fulham,False,Leicester City,,-0.05
-Antonee Robinson,Fulham,Leicester City,2022-10-23,False,90,0.0,0.0,0.0,0.04,0,0.0,1.0,3.7,0,0,2,0.0,0,14153,1.6,0.0,69.83,0.2,6.0,Fulham,True,Everton,,0.34
-Antonee Robinson,Fulham,Everton,2022-10-29,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,3.7,0,1,0,0.0,0,14168,2.8,0.0,71.38,0.27,0.0,Fulham,False,Manchester City,,-1.26
-Antonee Robinson,Fulham,Manchester City,2022-11-05,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.9,0,0,2,0.0,0,14550,2.6,0.0,72.71,0.25,1.0,Fulham,True,Manchester United,,0.38
-Antonee Robinson,Fulham,Manchester United,2022-11-13,True,90,0.0,0.0,0.0,0.02,1,0.0,1.0,0.0,0,0,2,2.58,1,14279,2.6,0.0,73.87,0.23,6.0,Fulham,False,Crystal Palace,,0.13
-Antonee Robinson,Fulham,Crystal Palace,2022-12-26,False,90,0.0,0.0,0.0,0.05,6,0.0,1.0,2.9,0,1,0,0.4,1,14989,2.6,0.0,74.88,0.29,2.0,Fulham,True,Southampton,,-0.38
-Antonee Robinson,Fulham,Southampton,2022-12-31,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,1,0.79,1,20959,3.0,0.0,75.76,0.27,7.0,Fulham,False,Leeds United,,-0.8
-Antonee Robinson,Fulham,Leeds United,2023-01-03,False,90,0.0,0.0,0.0,0.13,7,0.0,1.0,3.0,1,1,0,1.69,1,27770,3.2,0.0,76.56,0.31,1.0,Fulham,True,Chelsea,,-0.25
-Antonee Robinson,Fulham,Chelsea,2023-01-12,True,90,0.0,0.0,0.0,0.1,1,0.0,2.0,3.7,0,0,1,2.13,1,27770,3.4,0.0,77.26,0.29,0.0,Fulham,False,Newcastle United,,-0.34
-Antonee Robinson,Fulham,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,24220,3.2,0.0,73.4,0.29,2.0,Fulham,True,Tottenham,,1.07
-Antonee Robinson,Fulham,Tottenham,2023-01-23,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,4.4,0,0,1,0.9,1,23456,2.4,0.0,74.19,0.28,6.0,Fulham,False,Chelsea,,-0.72
-Antonee Robinson,Fulham,Chelsea,2023-02-03,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.2,0,1,0,1.54,1,23693,3.2,0.0,74.91,0.32,8.0,Fulham,True,Nottingham Forest,,
-Antonee Robinson,Fulham,Nottingham Forest,2023-02-11,True,90,0.0,0.0,0.0,0.08,8,0.0,2.0,6.2,2,1,0,0.67,1,28085,3.4,0.0,75.57,0.35,5.0,Fulham,False,Brighton,,-0.39
-Antonee Robinson,Fulham,Brighton,2023-02-18,False,90,0.0,0.0,0.0,0.08,5,0.0,1.0,3.5,0,1,0,2.2,1,28348,4.2,0.0,76.17,0.38,7.0,Fulham,True,Wolverhampton,,-0.48
-Antonee Robinson,Fulham,Wolverhampton,2023-02-24,True,90,0.0,0.0,1.0,0.03,7,0.0,1.0,4.6,2,0,1,0.8,1,55439,5.6,0.2,76.72,0.36,1.0,Fulham,False,Brentford,,-0.55
-Antonee Robinson,Fulham,Brentford,2023-03-06,False,90,0.0,0.0,0.0,0.06,1,0.0,1.0,4.1,0,0,3,2.34,1,62146,5.4,0.2,77.23,0.35,1.0,Fulham,True,Arsenal,,0.36
-Antonee Robinson,Fulham,Arsenal,2023-03-12,True,90,0.0,0.0,0.0,0.03,1,0.0,1.0,3.1,0,0,3,2.38,1,59639,4.4,0.2,77.7,0.33,0.0,Fulham,False,Bournemouth,,0.19
-Antonee Robinson,Fulham,Bournemouth,2023-04-01,False,90,0.0,0.02,0.0,0.03,0,1.0,1.0,4.3,0,0,2,2.32,1,54479,2.8,0.2,78.14,0.32,2.0,Fulham,True,West Ham,,0.63
-Antonee Robinson,Fulham,West Ham,2023-04-08,True,90,0.0,0.02,0.0,0.02,2,1.0,1.0,5.4,0,0,1,1.09,1,56236,2.2,0.21,78.55,0.31,2.0,Fulham,False,Everton,,-0.63
-Antonee Robinson,Fulham,Everton,2023-04-15,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.8,0,0,1,1.31,1,57063,1.2,0.01,78.93,0.3,2.0,Fulham,True,Leicester City,,0.83
-Antonee Robinson,Fulham,Leicester City,2023-04-22,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,0,1,0.89,1,68625,1.4,0.01,79.29,0.29,2.0,Fulham,False,Aston Villa,,0.59
-Antonee Robinson,Fulham,Aston Villa,2023-04-25,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,1,0.97,1,61489,1.6,0.01,79.62,0.28,1.0,Fulham,True,Manchester City,,-1.17
-Antonee Robinson,Fulham,Manchester City,2023-04-30,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.7,0,0,2,2.59,1,59382,1.8,0.0,79.94,0.27,2.0,Fulham,False,Liverpool,,-1.33
-Antonee Robinson,Fulham,Liverpool,2023-05-03,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.8,0,0,1,1.73,1,59382,1.8,0.0,80.24,0.26,4.0,Fulham,True,Leeds United,,-0.79
-Antonee Robinson,Fulham,Leeds United,2023-05-08,True,90,0.0,0.0,0.0,0.04,4,0.0,1.0,2.9,0,0,3,2.84,1,59895,2.2,0.0,80.51,0.25,6.0,Fulham,False,Southampton,,-1.07
-Antonee Robinson,Fulham,Southampton,2023-05-13,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.1,0,1,0,0.25,1,61547,3.0,0.0,80.78,0.27,0.0,Fulham,True,Crystal Palace,,0.81
-Antonee Robinson,Fulham,Crystal Palace,2023-05-20,True,90,0.0,0.0,0.0,0.08,0,0.0,1.0,1.9,0,0,2,1.62,1,65845,2.6,0.0,81.03,0.26,1.0,Fulham,False,Manchester United,,-0.1
-Antonee Robinson,Fulham,Manchester United,2023-05-28,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,2,2.71,1,60044,2.6,0.0,81.26,0.26,6.0,Fulham,False,Everton,,-0.63
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Antonee Robinson,Fulham,Liverpool,2022-08-06,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,2,0.0,0,0.08,1.0,0.0,90.0,0.0,0,0,0,0,6.0,Fulham,False,Wolverhampton,,-0.46
+Antonee Robinson,Fulham,Wolverhampton,2022-08-13,False,90,0.0,0.01,0.0,0.07,6,1.0,1.0,4.2,0,1,0,0.0,0,0.12,3.5,0.01,90.0,0.5,0,0,0,0,1.0,Fulham,True,Brentford,,0.69
+Antonee Robinson,Fulham,Brentford,2022-08-20,True,90,0.0,0.0,0.0,0.12,1,0.0,2.0,3.3,0,0,2,0.0,0,0.15,2.67,0.0,90.0,0.33,0,0,0,0,0.0,Fulham,False,Arsenal,,-0.0
+Antonee Robinson,Fulham,Arsenal,2022-08-27,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,3.7,0,0,2,0.0,0,0.15,2.0,0.0,90.0,0.25,0,0,0,0,1.0,Fulham,True,Brighton,,-0.71
+Antonee Robinson,Fulham,Brighton,2022-08-30,True,90,0.0,0.0,0.0,0.02,1,0.0,1.0,3.1,0,0,1,0.0,0,0.16,1.8,0.0,90.0,0.2,0,0,0,0,1.0,Fulham,False,Tottenham,,-0.03
+Antonee Robinson,Fulham,Tottenham,2022-09-03,False,28,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.0,0,0.15,1.8,0.0,79.67,0.17,0,0,0,0,0.0,Fulham,False,Nottingham Forest,,
+Antonee Robinson,Fulham,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.12,0.6,0.0,68.29,0.17,0,0,0,0,0.0,Fulham,True,Newcastle United,,0.73
+Antonee Robinson,Fulham,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.11,0.4,0.0,59.75,0.17,0,0,0,0,1.0,Fulham,False,West Ham,,0.14
+Antonee Robinson,Fulham,West Ham,2022-10-09,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,3,0.0,0,0.11,0.6,0.0,63.11,0.14,0,0,0,0,1.0,Fulham,True,Bournemouth,,1.46
+Antonee Robinson,Fulham,Bournemouth,2022-10-15,True,90,0.0,0.0,0.0,0.02,1,0.0,1.0,4.3,0,0,2,0.0,0,0.13,0.6,0.0,65.8,0.12,0,0,0,0,6.0,Fulham,True,Aston Villa,,0.55
+Antonee Robinson,Fulham,Aston Villa,2022-10-20,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.7,0,1,0,0.0,0,0.13,1.6,0.0,68.0,0.22,0,0,0,0,0.0,Fulham,False,Leicester City,,-0.05
+Antonee Robinson,Fulham,Leicester City,2022-10-23,False,90,0.0,0.0,0.0,0.04,0,0.0,1.0,3.7,0,0,2,0.0,0,0.13,1.6,0.0,69.83,0.2,0,0,0,0,6.0,Fulham,True,Everton,,0.34
+Antonee Robinson,Fulham,Everton,2022-10-29,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,3.7,0,1,0,0.0,0,0.13,2.8,0.0,71.38,0.27,0,0,0,0,0.0,Fulham,False,Manchester City,,-1.26
+Antonee Robinson,Fulham,Manchester City,2022-11-05,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,0.9,0,0,2,0.0,0,0.13,2.6,0.0,72.71,0.25,0,0,0,0,1.0,Fulham,True,Manchester United,,0.38
+Antonee Robinson,Fulham,Manchester United,2022-11-13,True,90,0.0,0.0,0.0,0.02,1,0.0,1.0,0.0,0,0,2,2.58,1,0.13,2.6,0.0,73.87,0.23,0,0,0,0,6.0,Fulham,False,Crystal Palace,,0.13
+Antonee Robinson,Fulham,Crystal Palace,2022-12-26,False,90,0.0,0.0,0.0,0.05,6,0.0,1.0,2.9,0,1,0,0.4,1,0.14,2.6,0.0,74.88,0.29,0,0,0,0,2.0,Fulham,True,Southampton,,-0.38
+Antonee Robinson,Fulham,Southampton,2022-12-31,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,1,0.79,1,0.19,3.0,0.0,75.76,0.27,0,0,0,0,7.0,Fulham,False,Leeds United,,-0.8
+Antonee Robinson,Fulham,Leeds United,2023-01-03,False,90,0.0,0.0,0.0,0.13,7,0.0,1.0,3.0,1,1,0,1.69,1,0.26,3.2,0.0,76.56,0.31,0,0,0,0,1.0,Fulham,True,Chelsea,,-0.25
+Antonee Robinson,Fulham,Chelsea,2023-01-12,True,90,0.0,0.0,0.0,0.1,1,0.0,2.0,3.7,0,0,1,2.13,1,0.26,3.4,0.0,77.26,0.29,0,0,0,0,0.0,Fulham,False,Newcastle United,,-0.34
+Antonee Robinson,Fulham,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.22,3.2,0.0,73.4,0.29,0,0,0,0,2.0,Fulham,True,Tottenham,,1.07
+Antonee Robinson,Fulham,Tottenham,2023-01-23,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,4.4,0,0,1,0.9,1,0.22,2.4,0.0,74.19,0.28,0,0,0,0,6.0,Fulham,False,Chelsea,,-0.72
+Antonee Robinson,Fulham,Chelsea,2023-02-03,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.2,0,1,0,1.54,1,0.22,3.2,0.0,74.91,0.32,0,0,0,0,8.0,Fulham,True,Nottingham Forest,,
+Antonee Robinson,Fulham,Nottingham Forest,2023-02-11,True,90,0.0,0.0,0.0,0.08,8,0.0,2.0,6.2,2,1,0,0.67,1,0.26,3.4,0.0,75.57,0.35,0,0,0,0,5.0,Fulham,False,Brighton,,-0.39
+Antonee Robinson,Fulham,Brighton,2023-02-18,False,90,0.0,0.0,0.0,0.08,5,0.0,1.0,3.5,0,1,0,2.2,1,0.26,4.2,0.0,76.17,0.38,0,0,0,0,7.0,Fulham,True,Wolverhampton,,-0.48
+Antonee Robinson,Fulham,Wolverhampton,2023-02-24,True,90,0.0,0.0,1.0,0.03,7,0.0,1.0,4.6,2,0,1,0.8,1,0.51,5.6,0.2,76.72,0.36,0,0,0,0,1.0,Fulham,False,Brentford,,-0.55
+Antonee Robinson,Fulham,Brentford,2023-03-06,False,90,0.0,0.0,0.0,0.06,1,0.0,1.0,4.1,0,0,3,2.34,1,0.57,5.4,0.2,77.23,0.35,0,0,0,0,1.0,Fulham,True,Arsenal,,0.36
+Antonee Robinson,Fulham,Arsenal,2023-03-12,True,90,0.0,0.0,0.0,0.03,1,0.0,1.0,3.1,0,0,3,2.38,1,0.55,4.4,0.2,77.7,0.33,0,0,0,0,0.0,Fulham,False,Bournemouth,,0.19
+Antonee Robinson,Fulham,Bournemouth,2023-04-01,False,90,0.0,0.02,0.0,0.03,0,1.0,1.0,4.3,0,0,2,2.32,1,0.5,2.8,0.2,78.14,0.32,0,0,0,0,2.0,Fulham,True,West Ham,,0.63
+Antonee Robinson,Fulham,West Ham,2023-04-08,True,90,0.0,0.02,0.0,0.02,2,1.0,1.0,5.4,0,0,1,1.09,1,0.52,2.2,0.21,78.55,0.31,0,0,0,0,2.0,Fulham,False,Everton,,-0.63
+Antonee Robinson,Fulham,Everton,2023-04-15,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.8,0,0,1,1.31,1,0.53,1.2,0.01,78.93,0.3,0,0,0,0,2.0,Fulham,True,Leicester City,,0.83
+Antonee Robinson,Fulham,Leicester City,2023-04-22,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,0,1,0.89,1,0.63,1.4,0.01,79.29,0.29,0,0,0,0,2.0,Fulham,False,Aston Villa,,0.59
+Antonee Robinson,Fulham,Aston Villa,2023-04-25,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,1,0.97,1,0.57,1.6,0.01,79.62,0.28,0,0,0,0,1.0,Fulham,True,Manchester City,,-1.17
+Antonee Robinson,Fulham,Manchester City,2023-04-30,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.7,0,0,2,2.59,1,0.55,1.8,0.0,79.94,0.27,0,0,0,0,2.0,Fulham,False,Liverpool,,-1.33
+Antonee Robinson,Fulham,Liverpool,2023-05-03,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.8,0,0,1,1.73,1,0.55,1.8,0.0,80.24,0.26,0,0,0,0,4.0,Fulham,True,Leeds United,,-0.79
+Antonee Robinson,Fulham,Leeds United,2023-05-08,True,90,0.0,0.0,0.0,0.04,4,0.0,1.0,2.9,0,0,3,2.84,1,0.55,2.2,0.0,80.51,0.25,0,0,0,0,6.0,Fulham,False,Southampton,,-1.07
+Antonee Robinson,Fulham,Southampton,2023-05-13,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.1,0,1,0,0.25,1,0.57,3.0,0.0,80.78,0.27,0,0,0,0,0.0,Fulham,True,Crystal Palace,,0.81
+Antonee Robinson,Fulham,Crystal Palace,2023-05-20,True,90,0.0,0.0,0.0,0.08,0,0.0,1.0,1.9,0,0,2,1.62,1,0.61,2.6,0.0,81.03,0.26,0,0,0,0,1.0,Fulham,False,Manchester United,,-0.1
+Antonee Robinson,Fulham,Manchester United,2023-05-28,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,2,2.71,1,0.55,2.6,0.0,81.26,0.26,0,0,0,0,6.0,Fulham,False,Everton,,-0.63

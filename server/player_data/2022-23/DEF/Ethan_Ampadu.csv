@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Ethan Ampadu,Chelsea,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,6968,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Tottenham,,1.07
-Ethan Ampadu,Chelsea,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,7979,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Leicester City,,-0.05
-Ethan Ampadu,Chelsea,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,8175,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Leeds United,,-0.79
-Ethan Ampadu,Chelsea,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,8053,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Southampton,,-1.07
-Ethan Ampadu,Chelsea,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,7796,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,West Ham,,0.63
-Ethan Ampadu,Chelsea,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,6970,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Crystal Palace,,0.13
-Ethan Ampadu,Chelsea,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,5223,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Wolverhampton,,-0.48
-Ethan Ampadu,Chelsea,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4967,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Aston Villa,,0.59
-Ethan Ampadu,Chelsea,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4811,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Brentford,,-0.55
-Ethan Ampadu,Chelsea,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4681,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Manchester United,,0.38
-Ethan Ampadu,Chelsea,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4637,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Brighton,,-0.39
-Ethan Ampadu,Chelsea,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4534,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Arsenal,,0.36
-Ethan Ampadu,Chelsea,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4466,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Newcastle United,,-0.34
-Ethan Ampadu,Chelsea,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4412,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Bournemouth,,1.46
-Ethan Ampadu,Chelsea,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4287,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Nottingham Forest,,
-Ethan Ampadu,Chelsea,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4253,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Manchester City,,-1.17
-Ethan Ampadu,Chelsea,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4239,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Fulham,,1.37
-Ethan Ampadu,Chelsea,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4239,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Crystal Palace,,0.81
-Ethan Ampadu,Chelsea,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4210,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Liverpool,,-1.33
-Ethan Ampadu,Chelsea,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4195,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Fulham,,-0.3
-Ethan Ampadu,Chelsea,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4155,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,West Ham,,0.14
-Ethan Ampadu,Chelsea,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4139,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Southampton,,-0.38
-Ethan Ampadu,Chelsea,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4122,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Tottenham,,-0.03
-Ethan Ampadu,Chelsea,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4113,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Leicester City,,0.83
-Ethan Ampadu,Chelsea,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4106,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Leeds United,,-0.8
-Ethan Ampadu,Chelsea,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4100,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Everton,,0.34
-Ethan Ampadu,Chelsea,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4093,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Aston Villa,,0.55
-Ethan Ampadu,Chelsea,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4079,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Liverpool,,-0.53
-Ethan Ampadu,Chelsea,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4079,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Wolverhampton,,-0.46
-Ethan Ampadu,Chelsea,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4071,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Brighton,,-0.71
-Ethan Ampadu,Chelsea,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4068,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Brentford,,0.69
-Ethan Ampadu,Chelsea,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4062,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Arsenal,,-0.0
-Ethan Ampadu,Chelsea,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4058,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Bournemouth,,0.19
-Ethan Ampadu,Chelsea,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4049,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Nottingham Forest,,
-Ethan Ampadu,Chelsea,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4045,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Manchester City,,-1.26
-Ethan Ampadu,Chelsea,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4040,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Manchester United,,-0.1
-Ethan Ampadu,Chelsea,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4040,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Newcastle United,,0.73
-Ethan Ampadu,Chelsea,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4036,0.0,0.0,0.0,0,0.0,0.0,0,0,,Chelsea,True,Liverpool,,-0.53
+Ethan Ampadu,Chelsea,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Tottenham,,1.07
+Ethan Ampadu,Chelsea,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Leicester City,,-0.05
+Ethan Ampadu,Chelsea,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.08,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Leeds United,,-0.79
+Ethan Ampadu,Chelsea,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Southampton,,-1.07
+Ethan Ampadu,Chelsea,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,West Ham,,0.63
+Ethan Ampadu,Chelsea,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Crystal Palace,,0.13
+Ethan Ampadu,Chelsea,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.05,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Wolverhampton,,-0.48
+Ethan Ampadu,Chelsea,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.05,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Aston Villa,,0.59
+Ethan Ampadu,Chelsea,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Brentford,,-0.55
+Ethan Ampadu,Chelsea,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Manchester United,,0.38
+Ethan Ampadu,Chelsea,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Brighton,,-0.39
+Ethan Ampadu,Chelsea,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Arsenal,,0.36
+Ethan Ampadu,Chelsea,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Newcastle United,,-0.34
+Ethan Ampadu,Chelsea,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Bournemouth,,1.46
+Ethan Ampadu,Chelsea,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Nottingham Forest,,
+Ethan Ampadu,Chelsea,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Manchester City,,-1.17
+Ethan Ampadu,Chelsea,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Fulham,,1.37
+Ethan Ampadu,Chelsea,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Crystal Palace,,0.81
+Ethan Ampadu,Chelsea,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Liverpool,,-1.33
+Ethan Ampadu,Chelsea,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Fulham,,-0.3
+Ethan Ampadu,Chelsea,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,West Ham,,0.14
+Ethan Ampadu,Chelsea,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Southampton,,-0.38
+Ethan Ampadu,Chelsea,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Tottenham,,-0.03
+Ethan Ampadu,Chelsea,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Leicester City,,0.83
+Ethan Ampadu,Chelsea,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Leeds United,,-0.8
+Ethan Ampadu,Chelsea,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Everton,,0.34
+Ethan Ampadu,Chelsea,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Aston Villa,,0.55
+Ethan Ampadu,Chelsea,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Liverpool,,-0.53
+Ethan Ampadu,Chelsea,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Wolverhampton,,-0.46
+Ethan Ampadu,Chelsea,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Brighton,,-0.71
+Ethan Ampadu,Chelsea,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Brentford,,0.69
+Ethan Ampadu,Chelsea,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Arsenal,,-0.0
+Ethan Ampadu,Chelsea,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Bournemouth,,0.19
+Ethan Ampadu,Chelsea,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Nottingham Forest,,
+Ethan Ampadu,Chelsea,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Manchester City,,-1.26
+Ethan Ampadu,Chelsea,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,False,Manchester United,,-0.1
+Ethan Ampadu,Chelsea,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Chelsea,True,Newcastle United,,0.73
+Ethan Ampadu,Chelsea,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0,0.0,0.0,0,0,,Chelsea,True,Liverpool,,-0.53

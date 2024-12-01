@@ -1,15 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Sugawara Yukinari,Southampton,Newcastle United,2024-08-17,False,45.0,0.0,0.0,0.0,0.4,1.0,0.0,1.0,2.3,0.0,0.0,1.0,0.25,1.0,13339.0,1.0,0.0,45.0,0.0,2.0,Southampton,True,Nottingham Forest,,1.2
-Sugawara Yukinari,Southampton,Nottingham Forest,2024-08-24,True,71.0,0.0,0.02,0.0,0.0,2.0,1.0,0.0,2.5,0.0,0.0,1.0,2.14,1.0,14982.0,1.5,0.01,58.0,0.0,7.0,Southampton,False,Brentford,,-0.15
-Sugawara Yukinari,Southampton,Brentford,2024-08-31,False,90.0,1.0,0.11,0.0,0.62,7.0,3.0,2.0,11.7,0.0,0.0,3.0,2.78,1.0,14874.0,3.33,0.04,68.67,0.0,1.0,Southampton,True,Manchester United,,0.39
-Sugawara Yukinari,Southampton,Manchester United,2024-09-14,True,90.0,0.0,0.03,0.0,0.48,1.0,1.0,2.0,5.0,0.0,0.0,3.0,2.67,1.0,28080.0,2.75,0.04,74.0,0.0,2.0,Southampton,True,Ipswich Town,,
-Sugawara Yukinari,Southampton,Ipswich Town,2024-09-21,True,90.0,0.0,0.0,0.0,0.13,2.0,0.0,1.0,3.6,0.0,0.0,1.0,1.69,1.0,31524.0,2.6,0.03,77.2,0.0,0.0,Southampton,False,Bournemouth,,-0.04
-Sugawara Yukinari,Southampton,Bournemouth,2024-09-30,False,90.0,0.0,0.0,0.0,0.04,0.0,0.0,1.0,2.4,0.0,0.0,3.0,1.38,1.0,30232.0,2.4,0.03,79.33,0.0,1.0,Southampton,False,Arsenal,,-0.56
-Sugawara Yukinari,Southampton,Arsenal,2024-10-05,False,89.0,0.0,0.0,0.0,0.54,1.0,0.0,1.0,2.3,0.0,0.0,3.0,2.3,1.0,28145.0,2.2,0.03,80.71,0.0,5.0,Southampton,True,Leicester City,,0.47
-Sugawara Yukinari,Southampton,Leicester City,2024-10-19,True,61.0,0.0,0.0,0.0,0.01,5.0,0.0,1.0,2.9,0.0,1.0,0.0,1.01,1.0,27025.0,1.8,0.01,78.25,0.12,0.0,Southampton,False,Manchester City,,-1.51
-Sugawara Yukinari,Southampton,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,24974.0,1.6,0.0,69.56,0.12,4.0,Southampton,True,Everton,,0.61
-Sugawara Yukinari,Southampton,Everton,2024-11-02,True,11.0,0.0,0.0,1.0,0.11,4.0,0.0,1.0,3.0,0.0,0.0,0.0,1.05,0.0,24348.0,2.0,0.2,63.7,0.11,1.0,Southampton,False,Wolverhampton,,-0.53
-Sugawara Yukinari,Southampton,Wolverhampton,2024-11-09,False,30.0,0.0,0.03,0.0,0.0,1.0,1.0,0.0,0.5,0.0,0.0,0.0,0.03,0.0,25802.0,2.2,0.21,60.64,0.1,1.0,Southampton,True,Liverpool,,0.24
-Sugawara Yukinari,Southampton,Liverpool,2024-11-24,True,13.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.0,0.0,1.0,1.19,0.0,23312.0,2.2,0.21,56.67,0.09,,Southampton,False,Brighton,,-0.61
-,Southampton,,,,,,,,,,,,,,,,,,,,,,,,Southampton,True,Chelsea,,0.0
-,Southampton,,,,,,,,,,,,,,,,,,,,,,,,Southampton,False,Aston Villa,,0.11
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Sugawara Yukinari,Southampton,Newcastle United,2024-08-17,False,45.0,0.0,0.0,0.0,0.4,1.0,0.0,1.0,2.3,0.0,0.0,1.0,0.25,1.0,0.12,1.0,0.0,45.0,0.0,0.0,0.0,0.0,0.0,2.0,Southampton,True,Nottingham Forest,,1.2
+Sugawara Yukinari,Southampton,Nottingham Forest,2024-08-24,True,71.0,0.0,0.02,0.0,0.0,2.0,1.0,0.0,2.5,0.0,0.0,1.0,2.14,1.0,0.14,1.5,0.01,58.0,0.0,0.0,0.0,0.0,0.0,7.0,Southampton,False,Brentford,,-0.15
+Sugawara Yukinari,Southampton,Brentford,2024-08-31,False,90.0,1.0,0.11,0.0,0.62,7.0,3.0,2.0,11.7,0.0,0.0,3.0,2.78,1.0,0.14,3.33,0.04,68.67,0.0,0.0,0.0,0.0,0.0,1.0,Southampton,True,Manchester United,,0.39
+Sugawara Yukinari,Southampton,Manchester United,2024-09-14,True,90.0,0.0,0.03,0.0,0.48,1.0,1.0,2.0,5.0,0.0,0.0,3.0,2.67,1.0,0.26,2.75,0.04,74.0,0.0,0.0,0.0,0.0,0.0,2.0,Southampton,True,Ipswich Town,,
+Sugawara Yukinari,Southampton,Ipswich Town,2024-09-21,True,90.0,0.0,0.0,0.0,0.13,2.0,0.0,1.0,3.6,0.0,0.0,1.0,1.69,1.0,0.29,2.6,0.03,77.2,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Bournemouth,,-0.04
+Sugawara Yukinari,Southampton,Bournemouth,2024-09-30,False,90.0,0.0,0.0,0.0,0.04,0.0,0.0,1.0,2.4,0.0,0.0,3.0,1.38,1.0,0.28,2.4,0.03,79.33,0.0,0.0,0.0,0.0,0.0,1.0,Southampton,False,Arsenal,,-0.56
+Sugawara Yukinari,Southampton,Arsenal,2024-10-05,False,89.0,0.0,0.0,0.0,0.54,1.0,0.0,1.0,2.3,0.0,0.0,3.0,2.3,1.0,0.26,2.2,0.03,80.71,0.0,0.0,0.0,0.0,0.0,5.0,Southampton,True,Leicester City,,0.47
+Sugawara Yukinari,Southampton,Leicester City,2024-10-19,True,61.0,0.0,0.0,0.0,0.01,5.0,0.0,1.0,2.9,0.0,1.0,0.0,1.01,1.0,0.25,1.8,0.01,78.25,0.12,0.0,0.0,0.0,0.0,0.0,Southampton,False,Manchester City,,-1.51
+Sugawara Yukinari,Southampton,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.23,1.6,0.0,69.56,0.12,0.0,0.0,0.0,0.0,4.0,Southampton,True,Everton,,0.61
+Sugawara Yukinari,Southampton,Everton,2024-11-02,True,11.0,0.0,0.0,1.0,0.11,4.0,0.0,1.0,3.0,0.0,0.0,0.0,1.05,0.0,0.22,2.0,0.2,63.7,0.11,0.0,0.0,0.0,0.0,1.0,Southampton,False,Wolverhampton,,-0.53
+Sugawara Yukinari,Southampton,Wolverhampton,2024-11-09,False,30.0,0.0,0.03,0.0,0.0,1.0,1.0,0.0,0.5,0.0,0.0,0.0,0.03,0.0,0.24,2.2,0.21,60.64,0.1,0.0,0.0,0.0,0.0,1.0,Southampton,True,Liverpool,,0.24
+Sugawara Yukinari,Southampton,Liverpool,2024-11-24,True,13.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.0,0.0,1.0,1.19,0.0,0.22,2.2,0.21,56.67,0.09,0.0,0.0,0.0,0.0,,Southampton,False,Brighton,,-0.61
+,Southampton,,,,,,,,,,,,,,,,,,,,,,,,,,,,Southampton,True,Chelsea,,0.0
+,Southampton,,,,,,,,,,,,,,,,,,,,,,,,,,,,Southampton,False,Aston Villa,,0.11

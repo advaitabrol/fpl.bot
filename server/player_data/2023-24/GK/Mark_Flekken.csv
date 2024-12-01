@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Mark Flekken,Brentford,Tottenham,2023-08-13,True,90,2,1.26,4,0,2,0,0,0.0,1,159379,2.0,0,90.0,0.0,4.0,6.0,Brentford,False,Fulham,,0.86
-Mark Flekken,Brentford,Fulham,2023-08-19,False,90,0,0.46,2,0,6,0,1,0.0,1,181430,4.0,0,90.0,0.5,3.0,4.0,Brentford,True,Crystal Palace,,0.88
-Mark Flekken,Brentford,Crystal Palace,2023-08-26,True,90,1,0.8,4,0,4,1,0,0.0,1,221996,4.0,0,90.0,0.33,3.33,2.0,Brentford,True,Bournemouth,,1.22
-Mark Flekken,Brentford,Bournemouth,2023-09-02,True,90,2,2.02,3,0,2,0,0,0.0,1,278840,3.5,0,90.0,0.25,3.25,1.0,Brentford,False,Newcastle United,,-0.41
-Mark Flekken,Brentford,Newcastle United,2023-09-16,False,90,1,1.43,1,0,1,0,0,0.0,1,289170,3.0,0,90.0,0.2,2.8,2.0,Brentford,True,Everton,,0.53
-Mark Flekken,Brentford,Everton,2023-09-23,True,90,3,1.84,3,0,2,0,0,0.0,1,388161,3.0,0,90.0,0.17,2.83,2.0,Brentford,False,Nottingham Forest,,-0.55
-Mark Flekken,Brentford,Nottingham Forest,2023-10-01,False,90,1,0.47,0,0,2,0,0,0.0,1,360006,2.2,0,90.0,0.14,2.43,0.0,Brentford,False,Manchester United,,-0.63
-Mark Flekken,Brentford,Manchester United,,False,0,0,0.0,0,0,0,0,0,,0,319162,1.4,0,78.75,0.14,2.43,6.0,Brentford,True,Burnley,,0.39
-Mark Flekken,Brentford,Burnley,2023-10-21,True,90,0,1.14,1,0,6,0,1,0.0,1,301633,2.2,0,80.0,0.25,2.25,6.0,Brentford,False,Chelsea,,-0.85
-Mark Flekken,Brentford,Chelsea,2023-10-28,False,90,0,2.03,2,0,6,0,1,0.0,1,286069,3.2,0,81.0,0.33,2.22,0.0,Brentford,True,West Ham,,0.49
-Mark Flekken,Brentford,West Ham,2023-11-04,True,45,2,1.84,0,0,0,0,0,0.0,1,294000,2.8,0,77.73,0.3,2.0,3.0,Brentford,False,Liverpool,,-1.01
-Mark Flekken,Brentford,Liverpool,2023-11-12,False,90,3,1.53,8,0,3,0,0,0.0,1,267923,3.0,0,78.75,0.27,2.55,3.0,Brentford,True,Arsenal,,-0.11
-Mark Flekken,Brentford,Arsenal,2023-11-25,True,90,1,1.52,3,0,3,0,0,0.0,1,272125,3.6,0,79.62,0.25,2.58,2.0,Brentford,True,Luton,,
-Mark Flekken,Brentford,Luton,2023-12-02,True,90,1,0.23,0,0,2,0,0,0.0,1,339441,2.8,0,80.36,0.23,2.38,2.0,Brentford,False,Brighton,,-0.6
-Mark Flekken,Brentford,Brighton,2023-12-06,False,90,2,1.52,5,0,2,0,0,0.0,1,318393,2.0,0,81.0,0.21,2.57,3.0,Brentford,False,Sheffield,,-0.61
-Mark Flekken,Brentford,Sheffield,2023-12-09,False,90,1,0.89,3,0,3,0,0,0.0,1,339965,2.6,0,81.56,0.2,2.6,2.0,Brentford,True,Aston Villa,,0.64
-Mark Flekken,Brentford,Aston Villa,2023-12-17,True,90,2,1.42,3,0,2,0,0,0.0,1,313881,2.4,0,82.06,0.19,2.62,0.0,Brentford,True,Wolverhampton,,0.05
-Mark Flekken,Brentford,Wolverhampton,2023-12-27,True,90,4,2.1,1,0,0,0,0,0.0,1,300068,1.8,0,82.5,0.18,2.53,2.0,Brentford,False,Crystal Palace,,0.38
-Mark Flekken,Brentford,Crystal Palace,2023-12-30,False,90,3,1.08,3,0,2,0,0,0.0,1,291915,1.8,0,82.89,0.17,2.56,1.0,Brentford,True,Nottingham Forest,,1.55
-Mark Flekken,Brentford,Nottingham Forest,2024-01-20,True,90,2,1.09,1,0,1,0,0,0.0,1,263126,1.6,0,83.25,0.16,2.47,1.0,Brentford,False,Tottenham,,-0.36
-Mark Flekken,Brentford,Tottenham,2024-01-31,False,90,3,2.86,2,0,1,0,0,0.0,1,251102,1.2,0,83.57,0.15,2.45,10.0,Brentford,True,Manchester City,,-0.96
-Mark Flekken,Brentford,Manchester City,2024-02-05,True,90,3,2.15,12,0,10,2,0,0.19,1,242409,2.8,0,83.86,0.14,2.9,7.0,Brentford,False,Wolverhampton,,-0.52
-Mark Flekken,Brentford,Wolverhampton,2024-02-10,False,90,0,1.13,5,0,7,1,1,0.0,1,268310,4.2,0,84.13,0.18,3.0,1.0,Brentford,True,Liverpool,,0.18
-Mark Flekken,Brentford,Liverpool,2024-02-17,True,90,4,2.82,4,0,1,0,0,0.0,1,407643,4.0,0,84.38,0.17,3.04,5.0,Brentford,False,Manchester City,,-1.32
-Mark Flekken,Brentford,Manchester City,2024-02-20,False,90,1,2.46,9,0,5,1,0,0.0,1,407643,4.8,0,84.6,0.17,3.29,0.0,Brentford,False,West Ham,,-0.22
-Mark Flekken,Brentford,West Ham,2024-02-26,False,90,4,1.51,2,0,0,0,0,0.0,1,379319,4.6,0,84.81,0.16,3.24,2.0,Brentford,True,Chelsea,,-0.25
-Mark Flekken,Brentford,Chelsea,2024-03-02,True,90,2,1.81,3,0,2,0,0,0.0,1,374454,3.0,0,85.0,0.15,3.23,2.0,Brentford,False,Arsenal,,-0.48
-Mark Flekken,Brentford,Arsenal,2024-03-09,False,90,2,1.32,4,0,2,0,0,0.0,1,360916,2.0,0,85.18,0.15,3.26,2.0,Brentford,False,Burnley,,0.0
-Mark Flekken,Brentford,Burnley,2024-03-16,False,90,2,2.66,4,0,2,0,0,0.0,1,1369071,2.2,0,85.34,0.14,3.29,3.0,Brentford,True,Manchester United,,0.38
-Mark Flekken,Brentford,Manchester United,2024-03-30,True,90,1,0.5,4,0,3,0,0,0.08,1,407962,1.8,0,85.5,0.14,3.31,11.0,Brentford,True,Brighton,,-0.66
-Mark Flekken,Brentford,Brighton,2024-04-03,True,90,0,1.11,6,0,11,3,1,0.02,1,409756,4.0,0,85.65,0.17,3.4,1.0,Brentford,False,Aston Villa,,0.29
-Mark Flekken,Brentford,Aston Villa,2024-04-06,False,90,3,1.52,0,0,1,0,0,0.0,1,442237,3.8,0,85.78,0.16,3.29,7.0,Brentford,True,Sheffield,,0.68
-Mark Flekken,Brentford,Sheffield,2024-04-13,True,90,0,0.84,2,0,7,1,1,0.0,1,515244,4.8,0,85.91,0.19,3.25,2.0,Brentford,False,Luton,,
-Mark Flekken,Brentford,Luton,2024-04-20,False,90,1,0.59,2,0,2,0,0,0.0,1,517243,4.8,0,86.03,0.18,3.21,2.0,Brentford,False,Everton,,-0.24
-Mark Flekken,Brentford,Everton,2024-04-27,False,90,1,0.77,0,0,2,0,0,0.0,1,512918,4.6,0,86.14,0.18,3.12,10.0,Brentford,True,Fulham,,-0.13
-Mark Flekken,Brentford,Fulham,2024-05-04,True,90,0,1.19,3,0,10,3,1,0.0,1,516515,4.4,0,86.25,0.2,3.11,3.0,Brentford,False,Bournemouth,,0.19
-Mark Flekken,Brentford,Bournemouth,2024-05-11,False,90,1,0.69,3,0,3,0,0,0.0,1,494875,4.8,0,86.35,0.19,3.11,1.0,Brentford,True,Newcastle United,,0.55
-Mark Flekken,Brentford,Newcastle United,2024-05-19,True,90,4,3.41,3,0,1,0,0,0.0,1,487675,3.6,0,86.45,0.19,3.11,4.0,Brentford,True,Crystal Palace,,0.88
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Mark Flekken,Brentford,Tottenham,2023-08-13,True,90,2,1.26,4,0,2,0,0,0.0,1,1.47,2.0,0,90.0,0.0,4.0,0,0,0,6.0,Brentford,False,Fulham,,0.86
+Mark Flekken,Brentford,Fulham,2023-08-19,False,90,0,0.46,2,0,6,0,1,0.0,1,1.67,4.0,0,90.0,0.5,3.0,0,0,0,4.0,Brentford,True,Crystal Palace,,0.88
+Mark Flekken,Brentford,Crystal Palace,2023-08-26,True,90,1,0.8,4,0,4,1,0,0.0,1,2.05,4.0,0,90.0,0.33,3.33,0,0,0,2.0,Brentford,True,Bournemouth,,1.22
+Mark Flekken,Brentford,Bournemouth,2023-09-02,True,90,2,2.02,3,0,2,0,0,0.0,1,2.57,3.5,0,90.0,0.25,3.25,0,0,0,1.0,Brentford,False,Newcastle United,,-0.41
+Mark Flekken,Brentford,Newcastle United,2023-09-16,False,90,1,1.43,1,0,1,0,0,0.0,1,2.67,3.0,0,90.0,0.2,2.8,0,0,0,2.0,Brentford,True,Everton,,0.53
+Mark Flekken,Brentford,Everton,2023-09-23,True,90,3,1.84,3,0,2,0,0,0.0,1,3.58,3.0,0,90.0,0.17,2.83,0,0,0,2.0,Brentford,False,Nottingham Forest,,-0.55
+Mark Flekken,Brentford,Nottingham Forest,2023-10-01,False,90,1,0.47,0,0,2,0,0,0.0,1,3.32,2.2,0,90.0,0.14,2.43,0,0,0,0.0,Brentford,False,Manchester United,,-0.63
+Mark Flekken,Brentford,Manchester United,,False,0,0,0.0,0,0,0,0,0,,0,2.95,1.4,0,78.75,0.14,2.43,0,0,0,6.0,Brentford,True,Burnley,,0.39
+Mark Flekken,Brentford,Burnley,2023-10-21,True,90,0,1.14,1,0,6,0,1,0.0,1,2.78,2.2,0,80.0,0.25,2.25,0,0,0,6.0,Brentford,False,Chelsea,,-0.85
+Mark Flekken,Brentford,Chelsea,2023-10-28,False,90,0,2.03,2,0,6,0,1,0.0,1,2.64,3.2,0,81.0,0.33,2.22,0,0,0,0.0,Brentford,True,West Ham,,0.49
+Mark Flekken,Brentford,West Ham,2023-11-04,True,45,2,1.84,0,0,0,0,0,0.0,1,2.71,2.8,0,77.73,0.3,2.0,0,0,0,3.0,Brentford,False,Liverpool,,-1.01
+Mark Flekken,Brentford,Liverpool,2023-11-12,False,90,3,1.53,8,0,3,0,0,0.0,1,2.47,3.0,0,78.75,0.27,2.55,0,0,0,3.0,Brentford,True,Arsenal,,-0.11
+Mark Flekken,Brentford,Arsenal,2023-11-25,True,90,1,1.52,3,0,3,0,0,0.0,1,2.51,3.6,0,79.62,0.25,2.58,0,0,0,2.0,Brentford,True,Luton,,
+Mark Flekken,Brentford,Luton,2023-12-02,True,90,1,0.23,0,0,2,0,0,0.0,1,3.13,2.8,0,80.36,0.23,2.38,0,0,0,2.0,Brentford,False,Brighton,,-0.6
+Mark Flekken,Brentford,Brighton,2023-12-06,False,90,2,1.52,5,0,2,0,0,0.0,1,2.94,2.0,0,81.0,0.21,2.57,0,0,0,3.0,Brentford,False,Sheffield,,-0.61
+Mark Flekken,Brentford,Sheffield,2023-12-09,False,90,1,0.89,3,0,3,0,0,0.0,1,3.14,2.6,0,81.56,0.2,2.6,0,0,0,2.0,Brentford,True,Aston Villa,,0.64
+Mark Flekken,Brentford,Aston Villa,2023-12-17,True,90,2,1.42,3,0,2,0,0,0.0,1,2.9,2.4,0,82.06,0.19,2.62,0,0,0,0.0,Brentford,True,Wolverhampton,,0.05
+Mark Flekken,Brentford,Wolverhampton,2023-12-27,True,90,4,2.1,1,0,0,0,0,0.0,1,2.77,1.8,0,82.5,0.18,2.53,0,0,0,2.0,Brentford,False,Crystal Palace,,0.38
+Mark Flekken,Brentford,Crystal Palace,2023-12-30,False,90,3,1.08,3,0,2,0,0,0.0,1,2.69,1.8,0,82.89,0.17,2.56,0,0,0,1.0,Brentford,True,Nottingham Forest,,1.55
+Mark Flekken,Brentford,Nottingham Forest,2024-01-20,True,90,2,1.09,1,0,1,0,0,0.0,1,2.43,1.6,0,83.25,0.16,2.47,0,0,0,1.0,Brentford,False,Tottenham,,-0.36
+Mark Flekken,Brentford,Tottenham,2024-01-31,False,90,3,2.86,2,0,1,0,0,0.0,1,2.32,1.2,0,83.57,0.15,2.45,0,0,0,10.0,Brentford,True,Manchester City,,-0.96
+Mark Flekken,Brentford,Manchester City,2024-02-05,True,90,3,2.15,12,0,10,2,0,0.19,1,2.24,2.8,0,83.86,0.14,2.9,0,0,0,7.0,Brentford,False,Wolverhampton,,-0.52
+Mark Flekken,Brentford,Wolverhampton,2024-02-10,False,90,0,1.13,5,0,7,1,1,0.0,1,2.48,4.2,0,84.13,0.18,3.0,0,0,0,1.0,Brentford,True,Liverpool,,0.18
+Mark Flekken,Brentford,Liverpool,2024-02-17,True,90,4,2.82,4,0,1,0,0,0.0,1,3.76,4.0,0,84.38,0.17,3.04,0,0,0,5.0,Brentford,False,Manchester City,,-1.32
+Mark Flekken,Brentford,Manchester City,2024-02-20,False,90,1,2.46,9,0,5,1,0,0.0,1,3.76,4.8,0,84.6,0.17,3.29,0,0,0,0.0,Brentford,False,West Ham,,-0.22
+Mark Flekken,Brentford,West Ham,2024-02-26,False,90,4,1.51,2,0,0,0,0,0.0,1,3.5,4.6,0,84.81,0.16,3.24,0,0,0,2.0,Brentford,True,Chelsea,,-0.25
+Mark Flekken,Brentford,Chelsea,2024-03-02,True,90,2,1.81,3,0,2,0,0,0.0,1,3.46,3.0,0,85.0,0.15,3.23,0,0,0,2.0,Brentford,False,Arsenal,,-0.48
+Mark Flekken,Brentford,Arsenal,2024-03-09,False,90,2,1.32,4,0,2,0,0,0.0,1,3.33,2.0,0,85.18,0.15,3.26,0,0,0,2.0,Brentford,False,Burnley,,0.0
+Mark Flekken,Brentford,Burnley,2024-03-16,False,90,2,2.66,4,0,2,0,0,0.0,1,12.64,2.2,0,85.34,0.14,3.29,0,0,0,3.0,Brentford,True,Manchester United,,0.38
+Mark Flekken,Brentford,Manchester United,2024-03-30,True,90,1,0.5,4,0,3,0,0,0.08,1,3.77,1.8,0,85.5,0.14,3.31,0,0,0,11.0,Brentford,True,Brighton,,-0.66
+Mark Flekken,Brentford,Brighton,2024-04-03,True,90,0,1.11,6,0,11,3,1,0.02,1,3.78,4.0,0,85.65,0.17,3.4,0,0,0,1.0,Brentford,False,Aston Villa,,0.29
+Mark Flekken,Brentford,Aston Villa,2024-04-06,False,90,3,1.52,0,0,1,0,0,0.0,1,4.08,3.8,0,85.78,0.16,3.29,0,0,0,7.0,Brentford,True,Sheffield,,0.68
+Mark Flekken,Brentford,Sheffield,2024-04-13,True,90,0,0.84,2,0,7,1,1,0.0,1,4.76,4.8,0,85.91,0.19,3.25,0,0,0,2.0,Brentford,False,Luton,,
+Mark Flekken,Brentford,Luton,2024-04-20,False,90,1,0.59,2,0,2,0,0,0.0,1,4.78,4.8,0,86.03,0.18,3.21,0,0,0,2.0,Brentford,False,Everton,,-0.24
+Mark Flekken,Brentford,Everton,2024-04-27,False,90,1,0.77,0,0,2,0,0,0.0,1,4.74,4.6,0,86.14,0.18,3.12,0,0,0,10.0,Brentford,True,Fulham,,-0.13
+Mark Flekken,Brentford,Fulham,2024-05-04,True,90,0,1.19,3,0,10,3,1,0.0,1,4.77,4.4,0,86.25,0.2,3.11,0,0,0,3.0,Brentford,False,Bournemouth,,0.19
+Mark Flekken,Brentford,Bournemouth,2024-05-11,False,90,1,0.69,3,0,3,0,0,0.0,1,4.57,4.8,0,86.35,0.19,3.11,0,0,0,1.0,Brentford,True,Newcastle United,,0.55
+Mark Flekken,Brentford,Newcastle United,2024-05-19,True,90,4,3.41,3,0,1,0,0,0.0,1,4.5,3.6,0,86.45,0.19,3.11,0,0,0,4.0,Brentford,True,Crystal Palace,,0.88

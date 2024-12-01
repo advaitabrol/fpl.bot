@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Kevin De Bruyne,Man City,West Ham,2022-08-07,False,87,0.0,0.08,1.0,0.48,6,2.0,3.0,8.7,0,0,1151254,6.0,1.08,87.0,15.0,8.0,5.93,11.28,0.09,14.0,Man City,True,Bournemouth,,1.46
-Kevin De Bruyne,Man City,Bournemouth,2022-08-13,True,90,1.0,0.22,1.0,0.61,14,4.0,5.0,19.2,3,0,1463650,10.0,1.15,88.5,15.0,8.0,5.93,11.28,0.09,5.0,Man City,False,Newcastle United,,-0.34
-Kevin De Bruyne,Man City,Newcastle United,2022-08-21,False,90,0.0,0.37,1.0,1.25,5,3.0,4.0,13.6,0,0,2104831,8.33,1.22,89.0,15.0,8.0,5.93,11.28,0.09,2.0,Man City,True,Crystal Palace,,0.81
-Kevin De Bruyne,Man City,Crystal Palace,2022-08-27,True,88,0.0,0.06,0.0,0.09,2,3.0,2.0,8.9,0,0,2522376,6.75,0.93,88.75,15.0,8.0,5.93,11.28,0.09,1.0,Man City,True,Nottingham Forest,,
-Kevin De Bruyne,Man City,Nottingham Forest,2022-08-31,True,21,0.0,0.41,0.0,0.1,1,1.0,1.0,4.5,0,0,2650570,5.6,0.83,75.2,15.0,8.0,5.93,11.28,0.09,7.0,Man City,False,Aston Villa,,0.59
-Kevin De Bruyne,Man City,Aston Villa,2022-09-03,False,90,0.0,0.61,1.0,0.78,7,4.0,6.0,11.0,2,0,2412531,5.8,0.93,77.67,15.0,8.0,5.93,11.28,0.09,10.0,Man City,False,Wolverhampton,,-0.46
-Kevin De Bruyne,Man City,Wolverhampton,2022-09-17,False,71,0.0,0.06,2.0,0.77,10,2.0,4.0,10.4,1,0,3557645,5.0,1.1,76.71,15.0,8.0,5.93,11.28,0.09,8.0,Man City,True,Manchester United,,0.38
-Kevin De Bruyne,Man City,Manchester United,2022-10-02,True,74,0.0,0.18,2.0,0.62,8,3.0,2.0,10.2,0,0,3387273,5.6,1.26,76.38,15.0,8.0,5.93,11.28,0.09,6.0,Man City,True,Southampton,,-0.38
-Kevin De Bruyne,Man City,Southampton,2022-10-08,True,69,0.0,0.0,1.0,0.44,6,0.0,3.0,6.0,0,0,3810220,6.4,1.45,75.56,15.0,8.0,5.93,11.28,0.09,2.0,Man City,False,Liverpool,,-1.33
-Kevin De Bruyne,Man City,Liverpool,2022-10-16,False,90,0.0,0.03,0.0,0.4,2,1.0,3.0,6.7,0,0,3749684,6.6,1.37,77.0,15.0,8.0,5.93,11.28,0.09,9.0,Man City,True,Brighton,,-0.71
-Kevin De Bruyne,Man City,Brighton,2022-10-22,True,90,1.0,0.13,0.0,0.48,9,2.0,3.0,12.1,2,0,3172794,7.0,1.08,78.18,15.0,8.0,5.93,11.28,0.09,11.0,Man City,False,Leeds United,,-0.8
-Kevin De Bruyne,Man City,Leeds United,2022-10-29,False,90,1.0,0.15,0.0,0.2,11,5.0,3.0,16.0,3,0,3445779,7.2,0.7,79.17,15.0,8.0,5.93,11.28,0.09,7.0,Man City,True,Fulham,,-0.3
-Kevin De Bruyne,Man City,Fulham,2022-11-05,True,90,0.0,0.05,0.0,0.73,7,2.0,5.0,13.0,2,0,4083840,7.0,0.27,80.0,15.0,8.0,5.93,11.28,0.09,2.0,Man City,True,Brentford,,0.69
-Kevin De Bruyne,Man City,Brentford,2022-11-12,True,90,0.0,0.12,0.0,0.09,2,2.0,2.0,10.2,0,1,4109121,6.2,0.1,80.71,15.0,8.0,5.93,11.28,0.09,2.0,Man City,False,Leicester City,,-0.05
-Kevin De Bruyne,Man City,Leicester City,2022-12-28,False,90,0.0,0.13,0.0,0.63,2,3.0,4.0,8.9,0,1,4357075,6.2,0.12,81.33,15.0,8.0,5.93,11.28,0.09,1.0,Man City,True,Everton,,0.34
-Kevin De Bruyne,Man City,Everton,2022-12-31,True,90,0.0,0.24,0.0,0.73,1,4.0,5.0,13.6,0,1,4235796,4.6,0.14,81.88,15.0,8.0,5.93,11.28,0.09,3.0,Man City,False,Chelsea,,-0.72
-Kevin De Bruyne,Man City,Chelsea,2023-01-05,False,90,0.0,0.14,0.0,0.58,3,4.0,3.0,9.4,0,1,3996343,3.0,0.14,82.35,15.0,8.0,5.93,11.28,0.09,5.0,Man City,False,Manchester United,,-0.1
-Kevin De Bruyne,Man City,Manchester United,2023-01-14,False,90,0.0,0.0,1.0,0.59,5,0.0,1.0,6.5,0,1,4312218,2.6,0.33,82.78,15.0,8.0,5.93,11.28,0.09,0.0,Man City,True,Tottenham,,1.07
-Kevin De Bruyne,Man City,Tottenham,,True,0,,,,,0,,,0.0,0,0,4312218,2.2,0.3,78.42,15.0,8.0,5.93,11.28,0.09,6.0,Man City,True,Wolverhampton,,-0.48
-Kevin De Bruyne,Man City,Wolverhampton,2023-01-22,True,76,0.0,0.0,1.0,0.73,6,0.0,3.0,8.4,0,1,4274732,3.0,0.48,78.3,15.0,8.0,5.93,11.28,0.09,1.0,Man City,False,Tottenham,,-0.03
-Kevin De Bruyne,Man City,Tottenham,2023-02-05,False,31,0.0,0.08,0.0,0.17,1,2.0,3.0,5.9,0,0,3914774,3.0,0.44,76.05,15.0,8.0,5.93,11.28,0.09,2.0,Man City,True,Aston Villa,,0.55
-Kevin De Bruyne,Man City,Aston Villa,2023-02-12,True,90,0.0,0.0,0.0,0.11,2,0.0,3.0,6.1,0,1,4064729,2.8,0.42,76.68,15.0,8.0,5.93,11.28,0.09,13.0,Man City,False,Arsenal,,-0.0
-Kevin De Bruyne,Man City,Arsenal,2023-02-15,False,86,1.0,0.25,1.0,0.65,13,1.0,2.0,9.1,3,1,4064729,4.4,0.47,77.09,15.0,8.0,5.93,11.28,0.09,2.0,Man City,False,Nottingham Forest,,
-Kevin De Bruyne,Man City,Nottingham Forest,2023-02-18,False,87,0.0,0.26,0.0,0.85,2,7.0,4.0,9.6,0,1,4044351,4.8,0.52,77.5,15.0,8.0,5.93,11.28,0.09,0.0,Man City,False,Bournemouth,,0.19
-Kevin De Bruyne,Man City,Bournemouth,,False,0,,,,,0,,,0.0,0,0,3207779,3.6,0.32,74.4,15.0,8.0,5.93,11.28,0.09,3.0,Man City,True,Newcastle United,,0.73
-Kevin De Bruyne,Man City,Newcastle United,2023-03-04,True,64,0.0,0.16,0.0,0.26,3,2.0,3.0,6.0,0,1,3253074,4.0,0.33,74.0,15.0,8.0,5.93,11.28,0.09,1.0,Man City,False,Crystal Palace,,0.13
-Kevin De Bruyne,Man City,Crystal Palace,2023-03-11,False,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,2993128,3.8,0.33,71.67,15.0,8.0,5.93,11.28,0.09,13.0,Man City,True,Liverpool,,-0.53
-Kevin De Bruyne,Man City,Liverpool,2023-04-01,True,90,1.0,0.54,1.0,0.95,13,1.0,5.0,16.5,3,1,2700894,3.8,0.39,72.32,15.0,8.0,5.93,11.28,0.09,9.0,Man City,False,Southampton,,-1.07
-Kevin De Bruyne,Man City,Southampton,2023-04-08,False,90,0.0,0.03,1.0,1.21,9,1.0,5.0,11.6,1,1,2906676,5.2,0.55,72.93,15.0,8.0,5.93,11.28,0.09,8.0,Man City,True,Leeds United,,-0.79
-Kevin De Bruyne,Man City,Leeds United,2023-04-15,True,61,0.0,0.02,1.0,0.36,8,1.0,2.0,6.1,2,1,2990766,6.8,0.75,72.53,15.0,8.0,5.93,11.28,0.09,19.0,Man City,True,Arsenal,,0.36
-Kevin De Bruyne,Man City,Arsenal,2023-04-26,True,79,2.0,0.41,1.0,0.67,19,4.0,2.0,15.1,3,1,2941468,10.0,1.0,72.74,15.0,8.0,5.93,11.28,0.09,0.0,Man City,False,Fulham,,1.37
-Kevin De Bruyne,Man City,Fulham,,False,0,,,,,0,,,0.0,0,0,3322499,9.8,1.0,70.47,15.0,8.0,5.93,11.28,0.09,0.0,Man City,True,West Ham,,0.63
-Kevin De Bruyne,Man City,West Ham,,True,0,,,,,0,,,0.0,0,0,3322499,7.2,0.69,68.33,15.0,8.0,5.93,11.28,0.09,3.0,Man City,True,Leicester City,,0.83
-Kevin De Bruyne,Man City,Leicester City,2023-05-06,True,90,0.0,0.03,0.0,0.73,3,1.0,5.0,10.4,1,1,2999082,6.0,0.49,68.97,15.0,8.0,5.93,11.28,0.09,0.0,Man City,False,Everton,,-0.63
-Kevin De Bruyne,Man City,Everton,,False,0,,,,,0,,,0.0,0,0,3006435,4.4,0.29,67.0,15.0,8.0,5.93,11.28,0.09,1.0,Man City,True,Chelsea,,-0.25
-Kevin De Bruyne,Man City,Chelsea,2023-05-21,True,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,3070169,0.8,0.01,65.47,15.0,8.0,5.93,11.28,0.09,1.0,Man City,False,Brighton,,-0.39
-Kevin De Bruyne,Man City,Brighton,2023-05-24,False,56,0.0,0.0,0.0,0.05,1,0.0,1.0,2.7,0,1,3070169,1.0,0.01,65.22,15.0,8.0,5.93,11.28,0.09,0.0,Man City,False,Brentford,,-0.55
-Kevin De Bruyne,Man City,Brentford,,False,0,,,,,0,,,0.0,0,0,2908138,1.0,0.01,63.5,15.0,8.0,5.93,11.28,0.09,,Man City,False,Burnley,,0.0
+Kevin De Bruyne,Man City,West Ham,2022-08-07,False,87,0.0,0.08,1.0,0.48,6,2.0,3.0,8.7,0,0,10.63,6.0,1.08,87.0,15.0,8.0,5.93,11.28,0.09,14.0,Man City,True,Bournemouth,,1.46
+Kevin De Bruyne,Man City,Bournemouth,2022-08-13,True,90,1.0,0.22,1.0,0.61,14,4.0,5.0,19.2,3,0,13.51,10.0,1.15,88.5,15.0,8.0,5.93,11.28,0.09,5.0,Man City,False,Newcastle United,,-0.34
+Kevin De Bruyne,Man City,Newcastle United,2022-08-21,False,90,0.0,0.37,1.0,1.25,5,3.0,4.0,13.6,0,0,19.43,8.33,1.22,89.0,15.0,8.0,5.93,11.28,0.09,2.0,Man City,True,Crystal Palace,,0.81
+Kevin De Bruyne,Man City,Crystal Palace,2022-08-27,True,88,0.0,0.06,0.0,0.09,2,3.0,2.0,8.9,0,0,23.29,6.75,0.93,88.75,15.0,8.0,5.93,11.28,0.09,1.0,Man City,True,Nottingham Forest,,
+Kevin De Bruyne,Man City,Nottingham Forest,2022-08-31,True,21,0.0,0.41,0.0,0.1,1,1.0,1.0,4.5,0,0,24.47,5.6,0.83,75.2,15.0,8.0,5.93,11.28,0.09,7.0,Man City,False,Aston Villa,,0.59
+Kevin De Bruyne,Man City,Aston Villa,2022-09-03,False,90,0.0,0.61,1.0,0.78,7,4.0,6.0,11.0,2,0,22.27,5.8,0.93,77.67,15.0,8.0,5.93,11.28,0.09,10.0,Man City,False,Wolverhampton,,-0.46
+Kevin De Bruyne,Man City,Wolverhampton,2022-09-17,False,71,0.0,0.06,2.0,0.77,10,2.0,4.0,10.4,1,0,32.84,5.0,1.1,76.71,15.0,8.0,5.93,11.28,0.09,8.0,Man City,True,Manchester United,,0.38
+Kevin De Bruyne,Man City,Manchester United,2022-10-02,True,74,0.0,0.18,2.0,0.62,8,3.0,2.0,10.2,0,0,31.27,5.6,1.26,76.38,15.0,8.0,5.93,11.28,0.09,6.0,Man City,True,Southampton,,-0.38
+Kevin De Bruyne,Man City,Southampton,2022-10-08,True,69,0.0,0.0,1.0,0.44,6,0.0,3.0,6.0,0,0,35.18,6.4,1.45,75.56,15.0,8.0,5.93,11.28,0.09,2.0,Man City,False,Liverpool,,-1.33
+Kevin De Bruyne,Man City,Liverpool,2022-10-16,False,90,0.0,0.03,0.0,0.4,2,1.0,3.0,6.7,0,0,34.62,6.6,1.37,77.0,15.0,8.0,5.93,11.28,0.09,9.0,Man City,True,Brighton,,-0.71
+Kevin De Bruyne,Man City,Brighton,2022-10-22,True,90,1.0,0.13,0.0,0.48,9,2.0,3.0,12.1,2,0,29.29,7.0,1.08,78.18,15.0,8.0,5.93,11.28,0.09,11.0,Man City,False,Leeds United,,-0.8
+Kevin De Bruyne,Man City,Leeds United,2022-10-29,False,90,1.0,0.15,0.0,0.2,11,5.0,3.0,16.0,3,0,31.81,7.2,0.7,79.17,15.0,8.0,5.93,11.28,0.09,7.0,Man City,True,Fulham,,-0.3
+Kevin De Bruyne,Man City,Fulham,2022-11-05,True,90,0.0,0.05,0.0,0.73,7,2.0,5.0,13.0,2,0,37.7,7.0,0.27,80.0,15.0,8.0,5.93,11.28,0.09,2.0,Man City,True,Brentford,,0.69
+Kevin De Bruyne,Man City,Brentford,2022-11-12,True,90,0.0,0.12,0.0,0.09,2,2.0,2.0,10.2,0,1,37.94,6.2,0.1,80.71,15.0,8.0,5.93,11.28,0.09,2.0,Man City,False,Leicester City,,-0.05
+Kevin De Bruyne,Man City,Leicester City,2022-12-28,False,90,0.0,0.13,0.0,0.63,2,3.0,4.0,8.9,0,1,40.23,6.2,0.12,81.33,15.0,8.0,5.93,11.28,0.09,1.0,Man City,True,Everton,,0.34
+Kevin De Bruyne,Man City,Everton,2022-12-31,True,90,0.0,0.24,0.0,0.73,1,4.0,5.0,13.6,0,1,39.11,4.6,0.14,81.88,15.0,8.0,5.93,11.28,0.09,3.0,Man City,False,Chelsea,,-0.72
+Kevin De Bruyne,Man City,Chelsea,2023-01-05,False,90,0.0,0.14,0.0,0.58,3,4.0,3.0,9.4,0,1,36.89,3.0,0.14,82.35,15.0,8.0,5.93,11.28,0.09,5.0,Man City,False,Manchester United,,-0.1
+Kevin De Bruyne,Man City,Manchester United,2023-01-14,False,90,0.0,0.0,1.0,0.59,5,0.0,1.0,6.5,0,1,39.81,2.6,0.33,82.78,15.0,8.0,5.93,11.28,0.09,0.0,Man City,True,Tottenham,,1.07
+Kevin De Bruyne,Man City,Tottenham,,True,0,,,,,0,,,0.0,0,0,39.81,2.2,0.3,78.42,15.0,8.0,5.93,11.28,0.09,6.0,Man City,True,Wolverhampton,,-0.48
+Kevin De Bruyne,Man City,Wolverhampton,2023-01-22,True,76,0.0,0.0,1.0,0.73,6,0.0,3.0,8.4,0,1,39.46,3.0,0.48,78.3,15.0,8.0,5.93,11.28,0.09,1.0,Man City,False,Tottenham,,-0.03
+Kevin De Bruyne,Man City,Tottenham,2023-02-05,False,31,0.0,0.08,0.0,0.17,1,2.0,3.0,5.9,0,0,36.14,3.0,0.44,76.05,15.0,8.0,5.93,11.28,0.09,2.0,Man City,True,Aston Villa,,0.55
+Kevin De Bruyne,Man City,Aston Villa,2023-02-12,True,90,0.0,0.0,0.0,0.11,2,0.0,3.0,6.1,0,1,37.53,2.8,0.42,76.68,15.0,8.0,5.93,11.28,0.09,13.0,Man City,False,Arsenal,,-0.0
+Kevin De Bruyne,Man City,Arsenal,2023-02-15,False,86,1.0,0.25,1.0,0.65,13,1.0,2.0,9.1,3,1,37.53,4.4,0.47,77.09,15.0,8.0,5.93,11.28,0.09,2.0,Man City,False,Nottingham Forest,,
+Kevin De Bruyne,Man City,Nottingham Forest,2023-02-18,False,87,0.0,0.26,0.0,0.85,2,7.0,4.0,9.6,0,1,37.34,4.8,0.52,77.5,15.0,8.0,5.93,11.28,0.09,0.0,Man City,False,Bournemouth,,0.19
+Kevin De Bruyne,Man City,Bournemouth,,False,0,,,,,0,,,0.0,0,0,29.61,3.6,0.32,74.4,15.0,8.0,5.93,11.28,0.09,3.0,Man City,True,Newcastle United,,0.73
+Kevin De Bruyne,Man City,Newcastle United,2023-03-04,True,64,0.0,0.16,0.0,0.26,3,2.0,3.0,6.0,0,1,30.03,4.0,0.33,74.0,15.0,8.0,5.93,11.28,0.09,1.0,Man City,False,Crystal Palace,,0.13
+Kevin De Bruyne,Man City,Crystal Palace,2023-03-11,False,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,27.63,3.8,0.33,71.67,15.0,8.0,5.93,11.28,0.09,13.0,Man City,True,Liverpool,,-0.53
+Kevin De Bruyne,Man City,Liverpool,2023-04-01,True,90,1.0,0.54,1.0,0.95,13,1.0,5.0,16.5,3,1,24.94,3.8,0.39,72.32,15.0,8.0,5.93,11.28,0.09,9.0,Man City,False,Southampton,,-1.07
+Kevin De Bruyne,Man City,Southampton,2023-04-08,False,90,0.0,0.03,1.0,1.21,9,1.0,5.0,11.6,1,1,26.83,5.2,0.55,72.93,15.0,8.0,5.93,11.28,0.09,8.0,Man City,True,Leeds United,,-0.79
+Kevin De Bruyne,Man City,Leeds United,2023-04-15,True,61,0.0,0.02,1.0,0.36,8,1.0,2.0,6.1,2,1,27.61,6.8,0.75,72.53,15.0,8.0,5.93,11.28,0.09,19.0,Man City,True,Arsenal,,0.36
+Kevin De Bruyne,Man City,Arsenal,2023-04-26,True,79,2.0,0.41,1.0,0.67,19,4.0,2.0,15.1,3,1,27.16,10.0,1.0,72.74,15.0,8.0,5.93,11.28,0.09,0.0,Man City,False,Fulham,,1.37
+Kevin De Bruyne,Man City,Fulham,,False,0,,,,,0,,,0.0,0,0,30.67,9.8,1.0,70.47,15.0,8.0,5.93,11.28,0.09,0.0,Man City,True,West Ham,,0.63
+Kevin De Bruyne,Man City,West Ham,,True,0,,,,,0,,,0.0,0,0,30.67,7.2,0.69,68.33,15.0,8.0,5.93,11.28,0.09,3.0,Man City,True,Leicester City,,0.83
+Kevin De Bruyne,Man City,Leicester City,2023-05-06,True,90,0.0,0.03,0.0,0.73,3,1.0,5.0,10.4,1,1,27.69,6.0,0.49,68.97,15.0,8.0,5.93,11.28,0.09,0.0,Man City,False,Everton,,-0.63
+Kevin De Bruyne,Man City,Everton,,False,0,,,,,0,,,0.0,0,0,27.76,4.4,0.29,67.0,15.0,8.0,5.93,11.28,0.09,1.0,Man City,True,Chelsea,,-0.25
+Kevin De Bruyne,Man City,Chelsea,2023-05-21,True,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,28.34,0.8,0.01,65.47,15.0,8.0,5.93,11.28,0.09,1.0,Man City,False,Brighton,,-0.39
+Kevin De Bruyne,Man City,Brighton,2023-05-24,False,56,0.0,0.0,0.0,0.05,1,0.0,1.0,2.7,0,1,28.34,1.0,0.01,65.22,15.0,8.0,5.93,11.28,0.09,0.0,Man City,False,Brentford,,-0.55
+Kevin De Bruyne,Man City,Brentford,,False,0,,,,,0,,,0.0,0,0,26.85,1.0,0.01,63.5,15.0,8.0,5.93,11.28,0.09,,Man City,False,Burnley,,0.0

@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Facundo Pellistri Rebollo,Man Utd,Wolverhampton,2023-08-14,True,13,0.0,0.14,0.0,0.0,1,1.0,0.0,0.8,0,0,11697,1.0,0.14,13.0,0.0,0.0,0.0,0.0,0.07,1.0,Man Utd,False,Tottenham,,-0.36
-Facundo Pellistri Rebollo,Man Utd,Tottenham,2023-08-19,False,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,13419,1.0,0.07,9.0,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Nottingham Forest,,1.55
-Facundo Pellistri Rebollo,Man Utd,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,12839,0.67,0.05,6.0,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Arsenal,,-0.48
-Facundo Pellistri Rebollo,Man Utd,Arsenal,,False,0,,,,,0,,,0.0,0,0,11670,0.5,0.04,4.5,0.0,0.0,0.0,0.0,0.07,1.0,Man Utd,True,Brighton,,-0.66
-Facundo Pellistri Rebollo,Man Utd,Brighton,2023-09-16,True,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,17079,0.6,0.03,4.6,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Burnley,,0.0
-Facundo Pellistri Rebollo,Man Utd,Burnley,,False,0,,,,,0,,,0.0,0,0,20759,0.4,0.0,3.83,0.0,0.0,0.0,0.0,0.07,2.0,Man Utd,True,Crystal Palace,,0.88
-Facundo Pellistri Rebollo,Man Utd,Crystal Palace,2023-09-30,True,60,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,1,22009,0.6,0.0,11.86,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Brentford,,0.79
-Facundo Pellistri Rebollo,Man Utd,Brentford,,True,0,,,,,0,,,0.0,0,0,26505,0.6,0.0,10.38,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Sheffield,,-0.61
-Facundo Pellistri Rebollo,Man Utd,Sheffield,,False,0,,,,,0,,,0.0,0,0,25850,0.6,0.0,9.22,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Manchester City,,-0.96
-Facundo Pellistri Rebollo,Man Utd,Manchester City,,True,0,,,,,0,,,0.0,0,0,25363,0.4,0.0,8.3,0.0,0.0,0.0,0.0,0.07,4.0,Man Utd,False,Fulham,,0.86
-Facundo Pellistri Rebollo,Man Utd,Fulham,2023-11-04,False,27,0.0,0.06,1.0,0.07,4,1.0,1.0,5.0,0,0,25096,1.2,0.21,10.0,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Luton,,
-Facundo Pellistri Rebollo,Man Utd,Luton,,True,0,,,,,0,,,0.0,0,0,26239,0.8,0.21,9.17,0.0,0.0,0.0,0.0,0.07,1.0,Man Utd,False,Everton,,-0.24
-Facundo Pellistri Rebollo,Man Utd,Everton,2023-11-26,False,18,0.0,0.09,0.0,0.0,1,1.0,0.0,2.8,0,0,25865,1.0,0.23,9.85,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Newcastle United,,-0.41
-Facundo Pellistri Rebollo,Man Utd,Newcastle United,,False,0,,,,,0,,,0.0,0,0,25672,1.0,0.23,9.14,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Chelsea,,-0.25
-Facundo Pellistri Rebollo,Man Utd,Chelsea,,True,0,,,,,0,,,0.0,0,0,25375,1.0,0.23,8.53,0.0,0.0,0.0,0.0,0.07,1.0,Man Utd,True,Bournemouth,,1.22
-Facundo Pellistri Rebollo,Man Utd,Bournemouth,2023-12-09,True,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,23875,0.4,0.02,8.69,0.0,0.0,0.0,0.0,0.07,1.0,Man Utd,False,Liverpool,,-1.01
-Facundo Pellistri Rebollo,Man Utd,Liverpool,2023-12-17,False,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,22193,0.6,0.02,8.65,0.0,0.0,0.0,0.0,0.07,1.0,Man Utd,False,West Ham,,-0.22
-Facundo Pellistri Rebollo,Man Utd,West Ham,2023-12-23,False,17,0.0,0.08,0.0,0.0,1,1.0,0.0,1.6,0,0,20827,0.6,0.02,9.11,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Aston Villa,,0.64
-Facundo Pellistri Rebollo,Man Utd,Aston Villa,,True,0,,,,,0,,,0.0,0,0,24545,0.6,0.02,8.63,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Nottingham Forest,,-0.55
-Facundo Pellistri Rebollo,Man Utd,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,23699,0.6,0.02,8.2,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Tottenham,,0.69
-Facundo Pellistri Rebollo,Man Utd,Tottenham,,True,0,,,,,0,,,0.0,0,0,21118,0.4,0.02,7.81,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Wolverhampton,,-0.52
-Facundo Pellistri Rebollo,Man Utd,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,22015,0.2,0.02,7.45,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,West Ham,,0.49
-Facundo Pellistri Rebollo,Man Utd,West Ham,,True,0,,,,,0,,,0.0,0,0,23193,0.0,0.0,7.13,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Aston Villa,,0.29
-Facundo Pellistri Rebollo,Man Utd,Aston Villa,2024-02-11,False,0,1.0,0.73,1.0,0.06,0,2.0,1.0,0.0,0,0,20477,0.0,0.35,6.83,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Luton,,
-Facundo Pellistri Rebollo,Man Utd,Luton,2024-02-18,False,0,0.0,0.14,0.0,0.05,0,2.0,2.0,0.0,0,0,18650,0.0,0.37,6.56,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Fulham,,-0.13
-Facundo Pellistri Rebollo,Man Utd,Fulham,,True,0,,,,,0,,,0.0,0,0,17336,0.0,0.37,6.31,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Manchester City,,-1.32
-Facundo Pellistri Rebollo,Man Utd,Manchester City,2024-03-03,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,16838,0.0,0.37,6.07,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Everton,,0.53
-Facundo Pellistri Rebollo,Man Utd,Everton,2024-03-09,True,0,0.0,0.16,0.0,0.09,0,3.0,1.0,0.0,0,0,16277,0.0,0.41,5.86,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Brentford,,-0.53
-Facundo Pellistri Rebollo,Man Utd,Brentford,,False,0,,,,,0,,,0.0,0,0,15583,0.0,0.06,5.66,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Chelsea,,-0.85
-Facundo Pellistri Rebollo,Man Utd,Chelsea,2024-04-04,False,0,0.0,0.15,0.0,0.16,0,2.0,3.0,0.0,0,0,15345,0.0,0.06,5.47,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Liverpool,,0.18
-Facundo Pellistri Rebollo,Man Utd,Liverpool,,True,0,,,,,0,,,0.0,0,0,14996,0.0,0.06,5.29,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Bournemouth,,0.19
-Facundo Pellistri Rebollo,Man Utd,Bournemouth,,False,0,,,,,0,,,0.0,0,0,14746,0.0,0.06,5.12,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Sheffield,,0.68
-Facundo Pellistri Rebollo,Man Utd,Sheffield,,True,0,,,,,0,,,0.0,0,0,14404,0.0,0.03,4.97,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Burnley,,0.39
-Facundo Pellistri Rebollo,Man Utd,Burnley,,True,0,,,,,0,,,0.0,0,0,14154,0.0,0.03,4.82,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Crystal Palace,,0.38
-Facundo Pellistri Rebollo,Man Utd,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,14018,0.0,0.0,4.69,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Arsenal,,-0.11
-Facundo Pellistri Rebollo,Man Utd,Arsenal,,True,0,,,,,0,,,0.0,0,0,13826,0.0,0.0,4.56,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Newcastle United,,0.55
-Facundo Pellistri Rebollo,Man Utd,Newcastle United,2024-05-15,True,0,0.0,0.0,0.0,0.04,0,0.0,1.0,0.0,0,0,13826,0.0,0.0,4.43,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Brighton,,-0.6
-Facundo Pellistri Rebollo,Man Utd,Brighton,2024-05-19,False,0,0.0,0.75,0.0,0.02,0,3.0,1.0,0.0,0,0,13621,0.0,0.15,4.32,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Fulham,,-0.13
+Facundo Pellistri Rebollo,Man Utd,Wolverhampton,2023-08-14,True,13,0.0,0.14,0.0,0.0,1,1.0,0.0,0.8,0,0,0.11,1.0,0.14,13.0,0.0,0.0,0.0,0.0,0.07,1.0,Man Utd,False,Tottenham,,-0.36
+Facundo Pellistri Rebollo,Man Utd,Tottenham,2023-08-19,False,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0.12,1.0,0.07,9.0,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Nottingham Forest,,1.55
+Facundo Pellistri Rebollo,Man Utd,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.12,0.67,0.05,6.0,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Arsenal,,-0.48
+Facundo Pellistri Rebollo,Man Utd,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.11,0.5,0.04,4.5,0.0,0.0,0.0,0.0,0.07,1.0,Man Utd,True,Brighton,,-0.66
+Facundo Pellistri Rebollo,Man Utd,Brighton,2023-09-16,True,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0.16,0.6,0.03,4.6,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Burnley,,0.0
+Facundo Pellistri Rebollo,Man Utd,Burnley,,False,0,,,,,0,,,0.0,0,0,0.19,0.4,0.0,3.83,0.0,0.0,0.0,0.0,0.07,2.0,Man Utd,True,Crystal Palace,,0.88
+Facundo Pellistri Rebollo,Man Utd,Crystal Palace,2023-09-30,True,60,0.0,0.0,0.0,0.0,2,0.0,0.0,0.9,0,1,0.2,0.6,0.0,11.86,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Brentford,,0.79
+Facundo Pellistri Rebollo,Man Utd,Brentford,,True,0,,,,,0,,,0.0,0,0,0.24,0.6,0.0,10.38,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Sheffield,,-0.61
+Facundo Pellistri Rebollo,Man Utd,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.24,0.6,0.0,9.22,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Manchester City,,-0.96
+Facundo Pellistri Rebollo,Man Utd,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.23,0.4,0.0,8.3,0.0,0.0,0.0,0.0,0.07,4.0,Man Utd,False,Fulham,,0.86
+Facundo Pellistri Rebollo,Man Utd,Fulham,2023-11-04,False,27,0.0,0.06,1.0,0.07,4,1.0,1.0,5.0,0,0,0.23,1.2,0.21,10.0,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Luton,,
+Facundo Pellistri Rebollo,Man Utd,Luton,,True,0,,,,,0,,,0.0,0,0,0.24,0.8,0.21,9.17,0.0,0.0,0.0,0.0,0.07,1.0,Man Utd,False,Everton,,-0.24
+Facundo Pellistri Rebollo,Man Utd,Everton,2023-11-26,False,18,0.0,0.09,0.0,0.0,1,1.0,0.0,2.8,0,0,0.24,1.0,0.23,9.85,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Newcastle United,,-0.41
+Facundo Pellistri Rebollo,Man Utd,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.24,1.0,0.23,9.14,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Chelsea,,-0.25
+Facundo Pellistri Rebollo,Man Utd,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.23,1.0,0.23,8.53,0.0,0.0,0.0,0.0,0.07,1.0,Man Utd,True,Bournemouth,,1.22
+Facundo Pellistri Rebollo,Man Utd,Bournemouth,2023-12-09,True,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0.22,0.4,0.02,8.69,0.0,0.0,0.0,0.0,0.07,1.0,Man Utd,False,Liverpool,,-1.01
+Facundo Pellistri Rebollo,Man Utd,Liverpool,2023-12-17,False,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0.2,0.6,0.02,8.65,0.0,0.0,0.0,0.0,0.07,1.0,Man Utd,False,West Ham,,-0.22
+Facundo Pellistri Rebollo,Man Utd,West Ham,2023-12-23,False,17,0.0,0.08,0.0,0.0,1,1.0,0.0,1.6,0,0,0.19,0.6,0.02,9.11,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Aston Villa,,0.64
+Facundo Pellistri Rebollo,Man Utd,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.23,0.6,0.02,8.63,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Nottingham Forest,,-0.55
+Facundo Pellistri Rebollo,Man Utd,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.22,0.6,0.02,8.2,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Tottenham,,0.69
+Facundo Pellistri Rebollo,Man Utd,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.19,0.4,0.02,7.81,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Wolverhampton,,-0.52
+Facundo Pellistri Rebollo,Man Utd,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.2,0.2,0.02,7.45,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,West Ham,,0.49
+Facundo Pellistri Rebollo,Man Utd,West Ham,,True,0,,,,,0,,,0.0,0,0,0.21,0.0,0.0,7.13,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Aston Villa,,0.29
+Facundo Pellistri Rebollo,Man Utd,Aston Villa,2024-02-11,False,0,1.0,0.73,1.0,0.06,0,2.0,1.0,0.0,0,0,0.19,0.0,0.35,6.83,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Luton,,
+Facundo Pellistri Rebollo,Man Utd,Luton,2024-02-18,False,0,0.0,0.14,0.0,0.05,0,2.0,2.0,0.0,0,0,0.17,0.0,0.37,6.56,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Fulham,,-0.13
+Facundo Pellistri Rebollo,Man Utd,Fulham,,True,0,,,,,0,,,0.0,0,0,0.16,0.0,0.37,6.31,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Manchester City,,-1.32
+Facundo Pellistri Rebollo,Man Utd,Manchester City,2024-03-03,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.16,0.0,0.37,6.07,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Everton,,0.53
+Facundo Pellistri Rebollo,Man Utd,Everton,2024-03-09,True,0,0.0,0.16,0.0,0.09,0,3.0,1.0,0.0,0,0,0.15,0.0,0.41,5.86,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Brentford,,-0.53
+Facundo Pellistri Rebollo,Man Utd,Brentford,,False,0,,,,,0,,,0.0,0,0,0.14,0.0,0.06,5.66,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Chelsea,,-0.85
+Facundo Pellistri Rebollo,Man Utd,Chelsea,2024-04-04,False,0,0.0,0.15,0.0,0.16,0,2.0,3.0,0.0,0,0,0.14,0.0,0.06,5.47,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Liverpool,,0.18
+Facundo Pellistri Rebollo,Man Utd,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.14,0.0,0.06,5.29,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Bournemouth,,0.19
+Facundo Pellistri Rebollo,Man Utd,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.14,0.0,0.06,5.12,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Sheffield,,0.68
+Facundo Pellistri Rebollo,Man Utd,Sheffield,,True,0,,,,,0,,,0.0,0,0,0.13,0.0,0.03,4.97,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Burnley,,0.39
+Facundo Pellistri Rebollo,Man Utd,Burnley,,True,0,,,,,0,,,0.0,0,0,0.13,0.0,0.03,4.82,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Crystal Palace,,0.38
+Facundo Pellistri Rebollo,Man Utd,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.13,0.0,0.0,4.69,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Arsenal,,-0.11
+Facundo Pellistri Rebollo,Man Utd,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.13,0.0,0.0,4.56,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Newcastle United,,0.55
+Facundo Pellistri Rebollo,Man Utd,Newcastle United,2024-05-15,True,0,0.0,0.0,0.0,0.04,0,0.0,1.0,0.0,0,0,0.13,0.0,0.0,4.43,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,False,Brighton,,-0.6
+Facundo Pellistri Rebollo,Man Utd,Brighton,2024-05-19,False,0,0.0,0.75,0.0,0.02,0,3.0,1.0,0.0,0,0,0.13,0.0,0.15,4.32,0.0,0.0,0.0,0.0,0.07,0.0,Man Utd,True,Fulham,,-0.13

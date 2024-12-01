@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Phil Jones,Man Utd,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,27156,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Brentford,,-0.55
-Phil Jones,Man Utd,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,33686,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Liverpool,,-0.53
-Phil Jones,Man Utd,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,33099,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Southampton,,-1.07
-Phil Jones,Man Utd,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,32753,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Leeds United,,-0.8
-Phil Jones,Man Utd,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,61254,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Arsenal,,0.36
-Phil Jones,Man Utd,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,73200,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Manchester City,,-1.26
-Phil Jones,Man Utd,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,76706,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Everton,,-0.63
-Phil Jones,Man Utd,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,79091,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Newcastle United,,0.73
-Phil Jones,Man Utd,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,79696,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Tottenham,,1.07
-Phil Jones,Man Utd,Tottenham,2022-10-19,True,0,0.0,0.09,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,78031,0.0,0.02,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Chelsea,,-0.72
-Phil Jones,Man Utd,Chelsea,2022-10-22,False,0,0.0,0.05,0.0,0.11,0,1.0,1.0,0.0,0,0,0,0.0,0,78643,0.0,0.03,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,West Ham,,0.63
-Phil Jones,Man Utd,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,77140,0.0,0.03,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Aston Villa,,0.59
-Phil Jones,Man Utd,Aston Villa,2022-11-06,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,75676,0.0,0.03,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Fulham,,1.37
-Phil Jones,Man Utd,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,75046,0.0,0.03,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Nottingham Forest,,
-Phil Jones,Man Utd,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,70836,0.0,0.01,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Wolverhampton,,-0.46
-Phil Jones,Man Utd,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,70326,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Bournemouth,,1.46
-Phil Jones,Man Utd,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,69340,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Manchester City,,-1.17
-Phil Jones,Man Utd,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,68129,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Crystal Palace,,0.13
-Phil Jones,Man Utd,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,68129,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Arsenal,,-0.0
-Phil Jones,Man Utd,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,67230,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Crystal Palace,,0.81
-Phil Jones,Man Utd,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,65428,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Leicester City,,0.83
-Phil Jones,Man Utd,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,65428,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Leicester City,,-0.05
-Phil Jones,Man Utd,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,64829,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Leeds United,,-0.79
-Phil Jones,Man Utd,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,64232,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Liverpool,,-1.33
-Phil Jones,Man Utd,Liverpool,2023-03-05,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,63354,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Southampton,,-0.38
-Phil Jones,Man Utd,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,63149,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Newcastle United,,-0.34
-Phil Jones,Man Utd,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,62638,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Brentford,,0.69
-Phil Jones,Man Utd,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,62638,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Everton,,0.34
-Phil Jones,Man Utd,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,62980,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Nottingham Forest,,
-Phil Jones,Man Utd,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,63711,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Tottenham,,-0.03
-Phil Jones,Man Utd,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,64824,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Aston Villa,,0.55
-Phil Jones,Man Utd,Aston Villa,2023-04-30,True,0,1.0,0.3,0.0,0.02,0,1.0,1.0,0.0,0,0,0,0.0,0,66599,0.0,0.06,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Brighton,,-0.39
-Phil Jones,Man Utd,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,66599,0.0,0.06,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,West Ham,,0.14
-Phil Jones,Man Utd,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,66615,0.0,0.06,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Wolverhampton,,-0.48
-Phil Jones,Man Utd,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,67476,0.0,0.06,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Bournemouth,,0.19
-Phil Jones,Man Utd,Bournemouth,2023-05-20,False,0,0.0,0.03,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,68140,0.0,0.07,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Chelsea,,-0.25
-Phil Jones,Man Utd,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,68140,0.0,0.01,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Fulham,,-0.3
-Phil Jones,Man Utd,Fulham,2023-05-28,True,0,0.0,0.02,0.0,0.03,0,1.0,2.0,0.0,0,0,0,0.0,0,68839,0.0,0.01,0.0,0,0.0,0.0,0.0,0,,Man Utd,True,Wolverhampton,,-0.48
+Phil Jones,Man Utd,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.25,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Brentford,,-0.55
+Phil Jones,Man Utd,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.31,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Liverpool,,-0.53
+Phil Jones,Man Utd,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.31,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Southampton,,-1.07
+Phil Jones,Man Utd,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.3,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Leeds United,,-0.8
+Phil Jones,Man Utd,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.57,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Arsenal,,0.36
+Phil Jones,Man Utd,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.68,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Manchester City,,-1.26
+Phil Jones,Man Utd,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.71,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Everton,,-0.63
+Phil Jones,Man Utd,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.73,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Newcastle United,,0.73
+Phil Jones,Man Utd,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.74,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Tottenham,,1.07
+Phil Jones,Man Utd,Tottenham,2022-10-19,True,0,0.0,0.09,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.72,0.0,0.02,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Chelsea,,-0.72
+Phil Jones,Man Utd,Chelsea,2022-10-22,False,0,0.0,0.05,0.0,0.11,0,1.0,1.0,0.0,0,0,0,0.0,0,0.73,0.0,0.03,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,West Ham,,0.63
+Phil Jones,Man Utd,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.71,0.0,0.03,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Aston Villa,,0.59
+Phil Jones,Man Utd,Aston Villa,2022-11-06,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.7,0.0,0.03,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Fulham,,1.37
+Phil Jones,Man Utd,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.69,0.0,0.03,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Nottingham Forest,,
+Phil Jones,Man Utd,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.65,0.0,0.01,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Wolverhampton,,-0.46
+Phil Jones,Man Utd,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.65,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Bournemouth,,1.46
+Phil Jones,Man Utd,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.64,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Manchester City,,-1.17
+Phil Jones,Man Utd,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.63,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Crystal Palace,,0.13
+Phil Jones,Man Utd,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.63,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Arsenal,,-0.0
+Phil Jones,Man Utd,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.62,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Crystal Palace,,0.81
+Phil Jones,Man Utd,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Leicester City,,0.83
+Phil Jones,Man Utd,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Leicester City,,-0.05
+Phil Jones,Man Utd,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Leeds United,,-0.79
+Phil Jones,Man Utd,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.59,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Liverpool,,-1.33
+Phil Jones,Man Utd,Liverpool,2023-03-05,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.58,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Southampton,,-0.38
+Phil Jones,Man Utd,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.58,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Newcastle United,,-0.34
+Phil Jones,Man Utd,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.58,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Brentford,,0.69
+Phil Jones,Man Utd,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.58,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Everton,,0.34
+Phil Jones,Man Utd,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.58,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Nottingham Forest,,
+Phil Jones,Man Utd,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.59,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Tottenham,,-0.03
+Phil Jones,Man Utd,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Aston Villa,,0.55
+Phil Jones,Man Utd,Aston Villa,2023-04-30,True,0,1.0,0.3,0.0,0.02,0,1.0,1.0,0.0,0,0,0,0.0,0,0.61,0.0,0.06,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Brighton,,-0.39
+Phil Jones,Man Utd,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.61,0.0,0.06,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,West Ham,,0.14
+Phil Jones,Man Utd,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.61,0.0,0.06,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Wolverhampton,,-0.48
+Phil Jones,Man Utd,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.62,0.0,0.06,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,False,Bournemouth,,0.19
+Phil Jones,Man Utd,Bournemouth,2023-05-20,False,0,0.0,0.03,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.63,0.0,0.07,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Chelsea,,-0.25
+Phil Jones,Man Utd,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.63,0.0,0.01,0.0,0,0.0,0.0,0.0,0,0.0,Man Utd,True,Fulham,,-0.3
+Phil Jones,Man Utd,Fulham,2023-05-28,True,0,0.0,0.02,0.0,0.03,0,1.0,2.0,0.0,0,0,0,0.0,0,0.64,0.0,0.01,0.0,0,0.0,0.0,0.0,0,,Man Utd,True,Wolverhampton,,-0.48

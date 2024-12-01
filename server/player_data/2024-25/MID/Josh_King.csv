@@ -1,15 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Josh King,Fulham,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,3797.0,0.0,0.0,0.0,0.0,Fulham,True,Leicester City,,0.47
-Josh King,Fulham,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,6690.0,0.0,0.0,0.0,0.0,Fulham,False,Ipswich Town,,
-Josh King,Fulham,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,8369.0,0.0,0.0,0.0,0.0,Fulham,True,West Ham,,0.48
-Josh King,Fulham,West Ham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,10671.0,0.0,0.0,0.0,0.0,Fulham,True,Newcastle United,,0.67
-Josh King,Fulham,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,10863.0,0.0,0.0,0.0,0.0,Fulham,False,Nottingham Forest,,-0.54
-Josh King,Fulham,Nottingham Forest,2024-09-28,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10835.0,0.0,0.0,0.0,0.0,Fulham,False,Manchester City,,-1.51
-Josh King,Fulham,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,10498.0,0.0,0.0,0.0,0.0,Fulham,True,Aston Villa,,0.66
-Josh King,Fulham,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,10481.0,0.0,0.0,0.0,0.0,Fulham,False,Everton,,-0.39
-Josh King,Fulham,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,10427.0,0.0,0.0,0.0,0.0,Fulham,True,Brentford,,0.54
-Josh King,Fulham,Brentford,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,10380.0,0.0,0.0,0.0,0.0,Fulham,False,Crystal Palace,,0.2
-Josh King,Fulham,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,10157.0,0.0,0.0,0.0,0.0,Fulham,True,Wolverhampton,,-0.08
-Josh King,Fulham,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,9990.0,0.0,0.0,0.0,,Fulham,False,Tottenham,,-0.3
-,Fulham,,,,,,,,,,,,,,,,,,,,Fulham,True,Brighton,,-0.42
-,Fulham,,,,,,,,,,,,,,,,,,,,Fulham,True,Arsenal,,-0.32
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Josh King,Fulham,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.04,0.0,0.0,0.0,1.0,0.0,0.85,0.06,0.0,0.0,Fulham,True,Leicester City,,0.47
+Josh King,Fulham,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.06,0.0,0.0,0.0,1.0,0.0,0.85,0.06,0.0,0.0,Fulham,False,Ipswich Town,,
+Josh King,Fulham,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.08,0.0,0.0,0.0,1.0,0.0,0.85,0.06,0.0,0.0,Fulham,True,West Ham,,0.48
+Josh King,Fulham,West Ham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.1,0.0,0.0,0.0,1.0,0.0,0.85,0.06,0.0,0.0,Fulham,True,Newcastle United,,0.67
+Josh King,Fulham,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.1,0.0,0.0,0.0,1.0,0.0,0.85,0.06,0.0,0.0,Fulham,False,Nottingham Forest,,-0.54
+Josh King,Fulham,Nottingham Forest,2024-09-28,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,1.0,0.0,0.85,0.06,0.0,0.0,Fulham,False,Manchester City,,-1.51
+Josh King,Fulham,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.1,0.0,0.0,0.0,1.0,0.0,0.85,0.06,0.0,0.0,Fulham,True,Aston Villa,,0.66
+Josh King,Fulham,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.1,0.0,0.0,0.0,1.0,0.0,0.85,0.06,0.0,0.0,Fulham,False,Everton,,-0.39
+Josh King,Fulham,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.1,0.0,0.0,0.0,1.0,0.0,0.85,0.06,0.0,0.0,Fulham,True,Brentford,,0.54
+Josh King,Fulham,Brentford,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.1,0.0,0.0,0.0,1.0,0.0,0.85,0.06,0.0,0.0,Fulham,False,Crystal Palace,,0.2
+Josh King,Fulham,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.09,0.0,0.0,0.0,1.0,0.0,0.85,0.06,0.0,0.0,Fulham,True,Wolverhampton,,-0.08
+Josh King,Fulham,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.09,0.0,0.0,0.0,1.0,0.0,0.85,0.06,0.0,,Fulham,False,Tottenham,,-0.3
+,Fulham,,,,,,,,,,,,,,,,,,,,,,,,,Fulham,True,Brighton,,-0.42
+,Fulham,,,,,,,,,,,,,,,,,,,,,,,,,Fulham,True,Arsenal,,-0.32

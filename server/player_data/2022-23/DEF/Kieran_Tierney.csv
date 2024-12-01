@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Kieran Tierney,Arsenal,Crystal Palace,2022-08-05,False,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.0,0,105345,1.0,0.0,7.0,0.0,0.63,1.25,0.5,0,1.0,Arsenal,True,Leeds United,,-0.79
-Kieran Tierney,Arsenal,Leeds United,2022-08-13,True,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,0,102375,1.0,0.0,10.0,0.0,0.63,1.25,0.5,0,1.0,Arsenal,False,Bournemouth,,0.19
-Kieran Tierney,Arsenal,Bournemouth,2022-08-20,False,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,0,95230,1.0,0.0,7.33,0.0,0.63,1.25,0.5,0,2.0,Arsenal,True,Fulham,,-0.3
-Kieran Tierney,Arsenal,Fulham,2022-08-27,True,60,0.0,0.01,0.0,0.03,2,1.0,1.0,3.5,0,0,1,0.0,0,85062,1.25,0.0,20.5,0.0,0.63,1.25,0.5,0,2.0,Arsenal,True,Aston Villa,,0.55
-Kieran Tierney,Arsenal,Aston Villa,2022-08-31,True,90,0.0,0.17,0.0,0.0,2,2.0,0.0,3.5,0,0,1,0.0,0,91991,1.4,0.04,34.4,0.0,0.63,1.25,0.5,0,0.0,Arsenal,False,Manchester United,,-0.1
-Kieran Tierney,Arsenal,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,97616,1.2,0.04,28.67,0.0,0.63,1.25,0.5,0,6.0,Arsenal,False,Brentford,,-0.55
-Kieran Tierney,Arsenal,Brentford,2022-09-18,False,90,0.0,0.03,0.0,0.09,6,1.0,1.0,3.1,0,1,0,0.0,0,98913,2.2,0.04,37.43,0.17,0.63,1.25,0.5,0,1.0,Arsenal,True,Tottenham,,1.07
-Kieran Tierney,Arsenal,Tottenham,2022-10-01,True,17,0.0,0.02,0.0,0.0,1,1.0,0.0,1.6,0,0,0,0.0,0,91146,2.2,0.04,34.88,0.14,0.63,1.25,0.5,0,1.0,Arsenal,True,Liverpool,,-0.53
-Kieran Tierney,Arsenal,Liverpool,2022-10-09,True,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,0,91159,2.0,0.04,31.89,0.12,0.63,1.25,0.5,0,1.0,Arsenal,False,Leicester City,,-0.05
-Kieran Tierney,Arsenal,Leicester City,2022-10-16,False,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,0,92010,1.8,0.01,30.1,0.11,0.63,1.25,0.5,0,1.0,Arsenal,False,Southampton,,-1.07
-Kieran Tierney,Arsenal,Southampton,2022-10-23,False,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.0,0,90247,2.0,0.01,29.0,0.1,0.63,1.25,0.5,0,1.0,Arsenal,True,Nottingham Forest,,
-Kieran Tierney,Arsenal,Nottingham Forest,2022-10-30,True,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.0,0,90458,1.0,0.0,27.75,0.09,0.63,1.25,0.5,0,1.0,Arsenal,False,Chelsea,,-0.72
-Kieran Tierney,Arsenal,Chelsea,2022-11-06,False,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.0,0,89045,1.0,0.0,26.54,0.08,0.63,1.25,0.5,0,0.0,Arsenal,False,Wolverhampton,,-0.46
-Kieran Tierney,Arsenal,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,87986,0.8,0.0,24.64,0.08,0.63,1.25,0.5,0,2.0,Arsenal,True,West Ham,,0.63
-Kieran Tierney,Arsenal,West Ham,2022-12-26,True,72,0.0,0.0,0.0,0.04,2,0.0,1.0,2.1,0,0,1,0.97,1,93549,1.0,0.0,27.8,0.08,0.63,1.25,0.5,0,0.0,Arsenal,False,Brighton,,-0.39
-Kieran Tierney,Arsenal,Brighton,2022-12-31,False,30,0.0,0.0,0.0,0.0,0,0.0,0.0,0.8,0,0,2,0.78,0,93936,0.8,0.0,27.94,0.07,0.63,1.25,0.5,0,0.0,Arsenal,True,Newcastle United,,0.73
-Kieran Tierney,Arsenal,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,91372,0.6,0.0,26.29,0.07,0.63,1.25,0.5,0,1.0,Arsenal,False,Tottenham,,-0.03
-Kieran Tierney,Arsenal,Tottenham,2023-01-15,False,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.35,0,88248,0.6,0.0,25.44,0.07,0.63,1.25,0.5,0,0.0,Arsenal,True,Manchester United,,0.38
-Kieran Tierney,Arsenal,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,86727,0.6,0.0,24.11,0.07,0.63,1.25,0.5,0,0.0,Arsenal,False,Everton,,-0.63
-Kieran Tierney,Arsenal,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,84001,0.2,0.0,22.9,0.07,0.63,1.25,0.5,0,0.0,Arsenal,True,Brentford,,0.69
-Kieran Tierney,Arsenal,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,82602,0.2,0.0,21.81,0.07,0.63,1.25,0.5,0,0.0,Arsenal,True,Manchester City,,-1.17
-Kieran Tierney,Arsenal,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,82602,0.2,0.0,20.82,0.07,0.63,1.25,0.5,0,1.0,Arsenal,False,Aston Villa,,0.59
-Kieran Tierney,Arsenal,Aston Villa,2023-02-18,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,0,81678,0.2,0.0,19.96,0.06,0.63,1.25,0.5,0,0.0,Arsenal,False,Leeds United,,-0.8
-Kieran Tierney,Arsenal,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,80813,0.2,0.0,19.12,0.06,0.63,1.25,0.5,0,1.0,Arsenal,True,Everton,,0.34
-Kieran Tierney,Arsenal,Everton,2023-03-01,True,8,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,0,0.62,0,80813,0.4,0.0,18.68,0.06,0.63,1.25,0.5,0,0.0,Arsenal,True,Bournemouth,,1.46
-Kieran Tierney,Arsenal,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,80276,0.4,0.0,17.96,0.06,0.63,1.25,0.5,0,1.0,Arsenal,False,Fulham,,1.37
-Kieran Tierney,Arsenal,Fulham,2023-03-12,False,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.21,0,79415,0.6,0.0,17.96,0.06,0.63,1.25,0.5,0,4.0,Arsenal,True,Crystal Palace,,0.81
-Kieran Tierney,Arsenal,Crystal Palace,2023-03-19,True,25,0.0,0.0,1.0,0.12,4,0.0,1.0,3.1,0,0,0,0.34,0,78917,1.2,0.2,18.21,0.05,0.63,1.25,0.5,0,1.0,Arsenal,True,Leicester City,,0.83
-Kieran Tierney,Arsenal,Leicester City,2023-04-01,True,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,0,78564,1.4,0.2,17.76,0.05,0.63,1.25,0.5,0,1.0,Arsenal,False,Liverpool,,-1.33
-Kieran Tierney,Arsenal,Liverpool,2023-04-09,False,2,0.0,0.03,0.0,0.0,1,1.0,0.0,0.6,0,0,0,1.17,0,78631,1.4,0.21,17.23,0.05,0.63,1.25,0.5,0,1.0,Arsenal,False,West Ham,,0.14
-Kieran Tierney,Arsenal,West Ham,2023-04-16,False,84,0.0,0.0,0.0,0.0,1,0.0,0.0,2.9,0,0,2,1.75,1,78741,1.6,0.21,19.39,0.05,0.63,1.25,0.5,0,0.0,Arsenal,True,Southampton,,-0.38
-Kieran Tierney,Arsenal,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,84618,1.4,0.21,18.78,0.05,0.63,1.25,0.5,0,0.0,Arsenal,False,Manchester City,,-1.26
-Kieran Tierney,Arsenal,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,81644,0.6,0.01,18.21,0.05,0.63,1.25,0.5,0,1.0,Arsenal,True,Chelsea,,-0.25
-Kieran Tierney,Arsenal,Chelsea,2023-05-02,True,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,0.33,0,80597,0.6,0.01,18.18,0.04,0.63,1.25,0.5,0,1.0,Arsenal,False,Newcastle United,,-0.34
-Kieran Tierney,Arsenal,Newcastle United,2023-05-07,False,29,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.15,0,80691,0.6,0.0,18.49,0.04,0.63,1.25,0.5,0,1.0,Arsenal,True,Brighton,,-0.71
-Kieran Tierney,Arsenal,Brighton,2023-05-14,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,3,1.78,1,83636,0.6,0.0,20.47,0.04,0.63,1.25,0.5,0,1.0,Arsenal,False,Nottingham Forest,,
-Kieran Tierney,Arsenal,Nottingham Forest,2023-05-20,False,27,0.0,0.05,0.0,0.0,1,1.0,0.0,0.9,0,0,0,0.23,0,88287,0.8,0.01,20.65,0.04,0.63,1.25,0.5,0,1.0,Arsenal,True,Wolverhampton,,-0.48
-Kieran Tierney,Arsenal,Wolverhampton,2023-05-28,True,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.16,0,96420,1.0,0.01,20.37,0.04,0.63,1.25,0.5,0,0.0,Arsenal,True,Nottingham Forest,,
+Kieran Tierney,Arsenal,Crystal Palace,2022-08-05,False,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.0,0,0.97,1.0,0.0,7.0,0.0,0.63,1.25,0.5,0,1.0,Arsenal,True,Leeds United,,-0.79
+Kieran Tierney,Arsenal,Leeds United,2022-08-13,True,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,0,0.95,1.0,0.0,10.0,0.0,0.63,1.25,0.5,0,1.0,Arsenal,False,Bournemouth,,0.19
+Kieran Tierney,Arsenal,Bournemouth,2022-08-20,False,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,0,0.88,1.0,0.0,7.33,0.0,0.63,1.25,0.5,0,2.0,Arsenal,True,Fulham,,-0.3
+Kieran Tierney,Arsenal,Fulham,2022-08-27,True,60,0.0,0.01,0.0,0.03,2,1.0,1.0,3.5,0,0,1,0.0,0,0.79,1.25,0.0,20.5,0.0,0.63,1.25,0.5,0,2.0,Arsenal,True,Aston Villa,,0.55
+Kieran Tierney,Arsenal,Aston Villa,2022-08-31,True,90,0.0,0.17,0.0,0.0,2,2.0,0.0,3.5,0,0,1,0.0,0,0.85,1.4,0.04,34.4,0.0,0.63,1.25,0.5,0,0.0,Arsenal,False,Manchester United,,-0.1
+Kieran Tierney,Arsenal,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.9,1.2,0.04,28.67,0.0,0.63,1.25,0.5,0,6.0,Arsenal,False,Brentford,,-0.55
+Kieran Tierney,Arsenal,Brentford,2022-09-18,False,90,0.0,0.03,0.0,0.09,6,1.0,1.0,3.1,0,1,0,0.0,0,0.91,2.2,0.04,37.43,0.17,0.63,1.25,0.5,0,1.0,Arsenal,True,Tottenham,,1.07
+Kieran Tierney,Arsenal,Tottenham,2022-10-01,True,17,0.0,0.02,0.0,0.0,1,1.0,0.0,1.6,0,0,0,0.0,0,0.84,2.2,0.04,34.88,0.14,0.63,1.25,0.5,0,1.0,Arsenal,True,Liverpool,,-0.53
+Kieran Tierney,Arsenal,Liverpool,2022-10-09,True,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,0,0.84,2.0,0.04,31.89,0.12,0.63,1.25,0.5,0,1.0,Arsenal,False,Leicester City,,-0.05
+Kieran Tierney,Arsenal,Leicester City,2022-10-16,False,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,0,0.85,1.8,0.01,30.1,0.11,0.63,1.25,0.5,0,1.0,Arsenal,False,Southampton,,-1.07
+Kieran Tierney,Arsenal,Southampton,2022-10-23,False,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.0,0,0.83,2.0,0.01,29.0,0.1,0.63,1.25,0.5,0,1.0,Arsenal,True,Nottingham Forest,,
+Kieran Tierney,Arsenal,Nottingham Forest,2022-10-30,True,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.0,0,0.84,1.0,0.0,27.75,0.09,0.63,1.25,0.5,0,1.0,Arsenal,False,Chelsea,,-0.72
+Kieran Tierney,Arsenal,Chelsea,2022-11-06,False,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.0,0,0.82,1.0,0.0,26.54,0.08,0.63,1.25,0.5,0,0.0,Arsenal,False,Wolverhampton,,-0.46
+Kieran Tierney,Arsenal,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.81,0.8,0.0,24.64,0.08,0.63,1.25,0.5,0,2.0,Arsenal,True,West Ham,,0.63
+Kieran Tierney,Arsenal,West Ham,2022-12-26,True,72,0.0,0.0,0.0,0.04,2,0.0,1.0,2.1,0,0,1,0.97,1,0.86,1.0,0.0,27.8,0.08,0.63,1.25,0.5,0,0.0,Arsenal,False,Brighton,,-0.39
+Kieran Tierney,Arsenal,Brighton,2022-12-31,False,30,0.0,0.0,0.0,0.0,0,0.0,0.0,0.8,0,0,2,0.78,0,0.87,0.8,0.0,27.94,0.07,0.63,1.25,0.5,0,0.0,Arsenal,True,Newcastle United,,0.73
+Kieran Tierney,Arsenal,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.84,0.6,0.0,26.29,0.07,0.63,1.25,0.5,0,1.0,Arsenal,False,Tottenham,,-0.03
+Kieran Tierney,Arsenal,Tottenham,2023-01-15,False,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0,0.35,0,0.81,0.6,0.0,25.44,0.07,0.63,1.25,0.5,0,0.0,Arsenal,True,Manchester United,,0.38
+Kieran Tierney,Arsenal,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.6,0.0,24.11,0.07,0.63,1.25,0.5,0,0.0,Arsenal,False,Everton,,-0.63
+Kieran Tierney,Arsenal,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.78,0.2,0.0,22.9,0.07,0.63,1.25,0.5,0,0.0,Arsenal,True,Brentford,,0.69
+Kieran Tierney,Arsenal,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.76,0.2,0.0,21.81,0.07,0.63,1.25,0.5,0,0.0,Arsenal,True,Manchester City,,-1.17
+Kieran Tierney,Arsenal,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.76,0.2,0.0,20.82,0.07,0.63,1.25,0.5,0,1.0,Arsenal,False,Aston Villa,,0.59
+Kieran Tierney,Arsenal,Aston Villa,2023-02-18,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,0,0.75,0.2,0.0,19.96,0.06,0.63,1.25,0.5,0,0.0,Arsenal,False,Leeds United,,-0.8
+Kieran Tierney,Arsenal,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.75,0.2,0.0,19.12,0.06,0.63,1.25,0.5,0,1.0,Arsenal,True,Everton,,0.34
+Kieran Tierney,Arsenal,Everton,2023-03-01,True,8,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,0,0.62,0,0.75,0.4,0.0,18.68,0.06,0.63,1.25,0.5,0,0.0,Arsenal,True,Bournemouth,,1.46
+Kieran Tierney,Arsenal,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.74,0.4,0.0,17.96,0.06,0.63,1.25,0.5,0,1.0,Arsenal,False,Fulham,,1.37
+Kieran Tierney,Arsenal,Fulham,2023-03-12,False,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.21,0,0.73,0.6,0.0,17.96,0.06,0.63,1.25,0.5,0,4.0,Arsenal,True,Crystal Palace,,0.81
+Kieran Tierney,Arsenal,Crystal Palace,2023-03-19,True,25,0.0,0.0,1.0,0.12,4,0.0,1.0,3.1,0,0,0,0.34,0,0.73,1.2,0.2,18.21,0.05,0.63,1.25,0.5,0,1.0,Arsenal,True,Leicester City,,0.83
+Kieran Tierney,Arsenal,Leicester City,2023-04-01,True,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,0,0.73,1.4,0.2,17.76,0.05,0.63,1.25,0.5,0,1.0,Arsenal,False,Liverpool,,-1.33
+Kieran Tierney,Arsenal,Liverpool,2023-04-09,False,2,0.0,0.03,0.0,0.0,1,1.0,0.0,0.6,0,0,0,1.17,0,0.73,1.4,0.21,17.23,0.05,0.63,1.25,0.5,0,1.0,Arsenal,False,West Ham,,0.14
+Kieran Tierney,Arsenal,West Ham,2023-04-16,False,84,0.0,0.0,0.0,0.0,1,0.0,0.0,2.9,0,0,2,1.75,1,0.73,1.6,0.21,19.39,0.05,0.63,1.25,0.5,0,0.0,Arsenal,True,Southampton,,-0.38
+Kieran Tierney,Arsenal,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.78,1.4,0.21,18.78,0.05,0.63,1.25,0.5,0,0.0,Arsenal,False,Manchester City,,-1.26
+Kieran Tierney,Arsenal,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.75,0.6,0.01,18.21,0.05,0.63,1.25,0.5,0,1.0,Arsenal,True,Chelsea,,-0.25
+Kieran Tierney,Arsenal,Chelsea,2023-05-02,True,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0,0.33,0,0.74,0.6,0.01,18.18,0.04,0.63,1.25,0.5,0,1.0,Arsenal,False,Newcastle United,,-0.34
+Kieran Tierney,Arsenal,Newcastle United,2023-05-07,False,29,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.15,0,0.74,0.6,0.0,18.49,0.04,0.63,1.25,0.5,0,1.0,Arsenal,True,Brighton,,-0.71
+Kieran Tierney,Arsenal,Brighton,2023-05-14,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,3,1.78,1,0.77,0.6,0.0,20.47,0.04,0.63,1.25,0.5,0,1.0,Arsenal,False,Nottingham Forest,,
+Kieran Tierney,Arsenal,Nottingham Forest,2023-05-20,False,27,0.0,0.05,0.0,0.0,1,1.0,0.0,0.9,0,0,0,0.23,0,0.82,0.8,0.01,20.65,0.04,0.63,1.25,0.5,0,1.0,Arsenal,True,Wolverhampton,,-0.48
+Kieran Tierney,Arsenal,Wolverhampton,2023-05-28,True,10,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.16,0,0.89,1.0,0.01,20.37,0.04,0.63,1.25,0.5,0,0.0,Arsenal,True,Nottingham Forest,,

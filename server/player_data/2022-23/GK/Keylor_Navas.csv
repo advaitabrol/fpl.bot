@@ -1,19 +1,19 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Keylor Navas,Nott'm Forest,Leicester City,2023-02-05,True,90,0,0.79,4,0,9,2,1,0.0,1,8307,9.0,0,90.0,1.0,4.0,1.0,Nott'm Forest,False,Fulham,,1.37
-Keylor Navas,Nott'm Forest,Fulham,2023-02-11,False,90,2,1.62,1,0,1,0,0,0.0,1,58283,5.0,0,90.0,0.5,2.5,4.0,Nott'm Forest,True,Manchester City,,-1.17
-Keylor Navas,Nott'm Forest,Manchester City,2023-02-18,True,90,1,2.54,5,0,4,1,0,0.0,1,58865,4.67,0,90.0,0.33,3.33,0.0,Nott'm Forest,False,West Ham,,0.14
-Keylor Navas,Nott'm Forest,West Ham,2023-02-25,False,90,4,2.73,1,0,0,0,0,0.0,1,102916,3.5,0,90.0,0.25,2.75,1.0,Nott'm Forest,True,Everton,,0.34
-Keylor Navas,Nott'm Forest,Everton,2023-03-05,True,90,2,1.7,1,0,1,0,0,0.0,1,99513,3.0,0,90.0,0.2,2.4,2.0,Nott'm Forest,False,Tottenham,,-0.03
-Keylor Navas,Nott'm Forest,Tottenham,2023-03-11,False,90,3,2.05,4,0,2,0,0,0.0,1,95832,1.6,0,90.0,0.17,2.67,0.0,Nott'm Forest,True,Newcastle United,,0.73
-Keylor Navas,Nott'm Forest,Newcastle United,2023-03-17,True,90,2,2.42,2,0,0,0,0,0.0,1,102101,1.4,0,90.0,0.14,2.57,2.0,Nott'm Forest,True,Wolverhampton,,-0.48
-Keylor Navas,Nott'm Forest,Wolverhampton,2023-04-01,True,90,1,0.47,0,0,2,0,0,0.0,1,123927,1.0,0,90.0,0.12,2.25,2.0,Nott'm Forest,False,Leicester City,,-0.05
-Keylor Navas,Nott'm Forest,Leicester City,2023-04-04,False,90,2,1.94,4,0,2,0,0,0.0,1,123927,1.4,0,90.0,0.11,2.44,1.0,Nott'm Forest,False,Aston Villa,,0.59
-Keylor Navas,Nott'm Forest,Aston Villa,2023-04-08,False,90,2,1.37,1,0,1,0,0,0.0,1,116133,1.4,0,90.0,0.1,2.3,2.0,Nott'm Forest,True,Manchester United,,0.38
-Keylor Navas,Nott'm Forest,Manchester United,2023-04-16,True,90,2,3.49,5,0,2,0,0,0.0,1,110751,1.4,0,90.0,0.09,2.55,1.0,Nott'm Forest,False,Liverpool,,-1.33
-Keylor Navas,Nott'm Forest,Liverpool,2023-04-22,False,90,3,2.87,2,0,1,0,0,0.0,1,105283,1.6,0,90.0,0.08,2.5,3.0,Nott'm Forest,True,Brighton,,-0.71
-Keylor Navas,Nott'm Forest,Brighton,2023-04-26,True,90,1,2.37,6,0,3,0,0,0.0,1,108226,1.8,0,90.0,0.08,2.77,3.0,Nott'm Forest,False,Brentford,,-0.55
-Keylor Navas,Nott'm Forest,Brentford,2023-04-29,False,90,2,1.63,6,0,3,0,0,0.0,1,103381,2.0,0,90.0,0.07,3.0,1.0,Nott'm Forest,True,Southampton,,-0.38
-Keylor Navas,Nott'm Forest,Southampton,2023-05-08,True,90,3,3.23,2,0,1,0,0,0.0,1,109059,2.0,0,90.0,0.07,2.93,2.0,Nott'm Forest,False,Chelsea,,-0.72
-Keylor Navas,Nott'm Forest,Chelsea,2023-05-13,False,90,2,1.14,4,0,2,0,0,0.0,1,106768,2.0,0,90.0,0.06,3.0,9.0,Nott'm Forest,True,Arsenal,,0.36
-Keylor Navas,Nott'm Forest,Arsenal,2023-05-20,True,90,0,0.64,3,0,9,2,1,0.0,1,102860,3.6,0,90.0,0.12,3.0,0.0,Nott'm Forest,False,Crystal Palace,,0.13
-Keylor Navas,Nott'm Forest,Crystal Palace,,False,0,0,0.0,0,0,0,0,0,,0,94813,3.0,0,85.0,0.12,3.0,,Liverpool,False,Chelsea,,-0.72
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Keylor Navas,Nott'm Forest,Leicester City,2023-02-05,True,90,0,0.79,4,0,9,2,1,0.0,1,0.08,9.0,0,90.0,1.0,4.0,0,0,0,1.0,Nott'm Forest,False,Fulham,,1.37
+Keylor Navas,Nott'm Forest,Fulham,2023-02-11,False,90,2,1.62,1,0,1,0,0,0.0,1,0.54,5.0,0,90.0,0.5,2.5,0,0,0,4.0,Nott'm Forest,True,Manchester City,,-1.17
+Keylor Navas,Nott'm Forest,Manchester City,2023-02-18,True,90,1,2.54,5,0,4,1,0,0.0,1,0.54,4.67,0,90.0,0.33,3.33,0,0,0,0.0,Nott'm Forest,False,West Ham,,0.14
+Keylor Navas,Nott'm Forest,West Ham,2023-02-25,False,90,4,2.73,1,0,0,0,0,0.0,1,0.95,3.5,0,90.0,0.25,2.75,0,0,0,1.0,Nott'm Forest,True,Everton,,0.34
+Keylor Navas,Nott'm Forest,Everton,2023-03-05,True,90,2,1.7,1,0,1,0,0,0.0,1,0.92,3.0,0,90.0,0.2,2.4,0,0,0,2.0,Nott'm Forest,False,Tottenham,,-0.03
+Keylor Navas,Nott'm Forest,Tottenham,2023-03-11,False,90,3,2.05,4,0,2,0,0,0.0,1,0.88,1.6,0,90.0,0.17,2.67,0,0,0,0.0,Nott'm Forest,True,Newcastle United,,0.73
+Keylor Navas,Nott'm Forest,Newcastle United,2023-03-17,True,90,2,2.42,2,0,0,0,0,0.0,1,0.94,1.4,0,90.0,0.14,2.57,0,0,0,2.0,Nott'm Forest,True,Wolverhampton,,-0.48
+Keylor Navas,Nott'm Forest,Wolverhampton,2023-04-01,True,90,1,0.47,0,0,2,0,0,0.0,1,1.14,1.0,0,90.0,0.12,2.25,0,0,0,2.0,Nott'm Forest,False,Leicester City,,-0.05
+Keylor Navas,Nott'm Forest,Leicester City,2023-04-04,False,90,2,1.94,4,0,2,0,0,0.0,1,1.14,1.4,0,90.0,0.11,2.44,0,0,0,1.0,Nott'm Forest,False,Aston Villa,,0.59
+Keylor Navas,Nott'm Forest,Aston Villa,2023-04-08,False,90,2,1.37,1,0,1,0,0,0.0,1,1.07,1.4,0,90.0,0.1,2.3,0,0,0,2.0,Nott'm Forest,True,Manchester United,,0.38
+Keylor Navas,Nott'm Forest,Manchester United,2023-04-16,True,90,2,3.49,5,0,2,0,0,0.0,1,1.02,1.4,0,90.0,0.09,2.55,0,0,0,1.0,Nott'm Forest,False,Liverpool,,-1.33
+Keylor Navas,Nott'm Forest,Liverpool,2023-04-22,False,90,3,2.87,2,0,1,0,0,0.0,1,0.97,1.6,0,90.0,0.08,2.5,0,0,0,3.0,Nott'm Forest,True,Brighton,,-0.71
+Keylor Navas,Nott'm Forest,Brighton,2023-04-26,True,90,1,2.37,6,0,3,0,0,0.0,1,1.0,1.8,0,90.0,0.08,2.77,0,0,0,3.0,Nott'm Forest,False,Brentford,,-0.55
+Keylor Navas,Nott'm Forest,Brentford,2023-04-29,False,90,2,1.63,6,0,3,0,0,0.0,1,0.95,2.0,0,90.0,0.07,3.0,0,0,0,1.0,Nott'm Forest,True,Southampton,,-0.38
+Keylor Navas,Nott'm Forest,Southampton,2023-05-08,True,90,3,3.23,2,0,1,0,0,0.0,1,1.01,2.0,0,90.0,0.07,2.93,0,0,0,2.0,Nott'm Forest,False,Chelsea,,-0.72
+Keylor Navas,Nott'm Forest,Chelsea,2023-05-13,False,90,2,1.14,4,0,2,0,0,0.0,1,0.99,2.0,0,90.0,0.06,3.0,0,0,0,9.0,Nott'm Forest,True,Arsenal,,0.36
+Keylor Navas,Nott'm Forest,Arsenal,2023-05-20,True,90,0,0.64,3,0,9,2,1,0.0,1,0.95,3.6,0,90.0,0.12,3.0,0,0,0,0.0,Nott'm Forest,False,Crystal Palace,,0.13
+Keylor Navas,Nott'm Forest,Crystal Palace,,False,0,0,0.0,0,0,0,0,0,,0,0.88,3.0,0,85.0,0.12,3.0,0,0,0,,Liverpool,False,Chelsea,,-0.72

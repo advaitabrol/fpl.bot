@@ -1,33 +1,33 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Ethan Nwaneri,Arsenal,Brentford,2022-09-18,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,1.0,0.0,1.0,0.0,Arsenal,True,Tottenham,,1.07
-Ethan Nwaneri,Arsenal,Tottenham,,True,0,,,,,0,,,0.0,0,0,418,0.5,0.0,0.5,0.0,Arsenal,True,Liverpool,,-0.53
-Ethan Nwaneri,Arsenal,Liverpool,,True,0,,,,,0,,,0.0,0,0,542,0.33,0.0,0.33,0.0,Arsenal,False,Leicester City,,-0.05
-Ethan Nwaneri,Arsenal,Leicester City,,False,0,,,,,0,,,0.0,0,0,595,0.25,0.0,0.25,0.0,Arsenal,False,Southampton,,-1.07
-Ethan Nwaneri,Arsenal,Southampton,,False,0,,,,,0,,,0.0,0,0,690,0.2,0.0,0.2,0.0,Arsenal,True,Nottingham Forest,,
-Ethan Nwaneri,Arsenal,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,722,0.0,0.0,0.17,0.0,Arsenal,False,Chelsea,,-0.72
-Ethan Nwaneri,Arsenal,Chelsea,,False,0,,,,,0,,,0.0,0,0,719,0.0,0.0,0.14,0.0,Arsenal,False,Wolverhampton,,-0.46
-Ethan Nwaneri,Arsenal,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,741,0.0,0.0,0.12,0.0,Arsenal,True,West Ham,,0.63
-Ethan Nwaneri,Arsenal,West Ham,,True,0,,,,,0,,,0.0,0,0,828,0.0,0.0,0.11,0.0,Arsenal,False,Brighton,,-0.39
-Ethan Nwaneri,Arsenal,Brighton,,False,0,,,,,0,,,0.0,0,0,833,0.0,0.0,0.1,0.0,Arsenal,True,Newcastle United,,0.73
-Ethan Nwaneri,Arsenal,Newcastle United,,True,0,,,,,0,,,0.0,0,0,841,0.0,0.0,0.09,0.0,Arsenal,False,Tottenham,,-0.03
-Ethan Nwaneri,Arsenal,Tottenham,,False,0,,,,,0,,,0.0,0,0,867,0.0,0.0,0.08,0.0,Arsenal,True,Manchester United,,0.38
-Ethan Nwaneri,Arsenal,Manchester United,,True,0,,,,,0,,,0.0,0,0,858,0.0,0.0,0.08,0.0,Arsenal,False,Everton,,-0.63
-Ethan Nwaneri,Arsenal,Everton,,False,0,,,,,0,,,0.0,0,0,889,0.0,0.0,0.07,0.0,Arsenal,True,Brentford,,0.69
-Ethan Nwaneri,Arsenal,Brentford,,True,0,,,,,0,,,0.0,0,0,902,0.0,0.0,0.07,0.0,Arsenal,True,Manchester City,,-1.17
-Ethan Nwaneri,Arsenal,Manchester City,,True,0,,,,,0,,,0.0,0,0,902,0.0,0.0,0.06,0.0,Arsenal,False,Aston Villa,,0.59
-Ethan Nwaneri,Arsenal,Aston Villa,,False,0,,,,,0,,,0.0,0,0,911,0.0,0.0,0.06,0.0,Arsenal,False,Leeds United,,-0.8
-Ethan Nwaneri,Arsenal,Leeds United,,False,0,,,,,0,,,0.0,0,0,913,0.0,0.0,0.06,0.0,Arsenal,True,Everton,,0.34
-Ethan Nwaneri,Arsenal,Everton,,True,0,,,,,0,,,0.0,0,0,913,0.0,0.0,0.05,0.0,Arsenal,True,Bournemouth,,1.46
-Ethan Nwaneri,Arsenal,Bournemouth,,True,0,,,,,0,,,0.0,0,0,918,0.0,0.0,0.05,0.0,Arsenal,False,Fulham,,1.37
-Ethan Nwaneri,Arsenal,Fulham,,False,0,,,,,0,,,0.0,0,0,992,0.0,0.0,0.05,0.0,Arsenal,True,Crystal Palace,,0.81
-Ethan Nwaneri,Arsenal,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,996,0.0,0.0,0.05,0.0,Arsenal,True,Leicester City,,0.83
-Ethan Nwaneri,Arsenal,Leicester City,,True,0,,,,,0,,,0.0,0,0,1025,0.0,0.0,0.04,0.0,Arsenal,False,Liverpool,,-1.33
-Ethan Nwaneri,Arsenal,Liverpool,,False,0,,,,,0,,,0.0,0,0,1029,0.0,0.0,0.04,0.0,Arsenal,False,West Ham,,0.14
-Ethan Nwaneri,Arsenal,West Ham,,False,0,,,,,0,,,0.0,0,0,1049,0.0,0.0,0.04,0.0,Arsenal,True,Southampton,,-0.38
-Ethan Nwaneri,Arsenal,Southampton,,True,0,,,,,0,,,0.0,0,0,1061,0.0,0.0,0.04,0.0,Arsenal,False,Manchester City,,-1.26
-Ethan Nwaneri,Arsenal,Manchester City,,False,0,,,,,0,,,0.0,0,0,1076,0.0,0.0,0.04,0.0,Arsenal,True,Chelsea,,-0.25
-Ethan Nwaneri,Arsenal,Chelsea,,True,0,,,,,0,,,0.0,0,0,1123,0.0,0.0,0.04,0.0,Arsenal,False,Newcastle United,,-0.34
-Ethan Nwaneri,Arsenal,Newcastle United,,False,0,,,,,0,,,0.0,0,0,1154,0.0,0.0,0.03,0.0,Arsenal,True,Brighton,,-0.71
-Ethan Nwaneri,Arsenal,Brighton,,True,0,,,,,0,,,0.0,0,0,1183,0.0,0.0,0.03,0.0,Arsenal,False,Nottingham Forest,,
-Ethan Nwaneri,Arsenal,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,1231,0.0,0.0,0.03,0.0,Arsenal,True,Wolverhampton,,-0.48
-Ethan Nwaneri,Arsenal,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,1228,0.0,0.0,0.03,,Arsenal,True,West Ham,,0.63
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Ethan Nwaneri,Arsenal,Brentford,2022-09-18,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.0,1.0,0.0,1.0,0,0,0,0,0,0.0,Arsenal,True,Tottenham,,1.07
+Ethan Nwaneri,Arsenal,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.5,0.0,0.5,0,0,0,0,0,0.0,Arsenal,True,Liverpool,,-0.53
+Ethan Nwaneri,Arsenal,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.01,0.33,0.0,0.33,0,0,0,0,0,0.0,Arsenal,False,Leicester City,,-0.05
+Ethan Nwaneri,Arsenal,Leicester City,,False,0,,,,,0,,,0.0,0,0,0.01,0.25,0.0,0.25,0,0,0,0,0,0.0,Arsenal,False,Southampton,,-1.07
+Ethan Nwaneri,Arsenal,Southampton,,False,0,,,,,0,,,0.0,0,0,0.01,0.2,0.0,0.2,0,0,0,0,0,0.0,Arsenal,True,Nottingham Forest,,
+Ethan Nwaneri,Arsenal,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.17,0,0,0,0,0,0.0,Arsenal,False,Chelsea,,-0.72
+Ethan Nwaneri,Arsenal,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.14,0,0,0,0,0,0.0,Arsenal,False,Wolverhampton,,-0.46
+Ethan Nwaneri,Arsenal,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.12,0,0,0,0,0,0.0,Arsenal,True,West Ham,,0.63
+Ethan Nwaneri,Arsenal,West Ham,,True,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.11,0,0,0,0,0,0.0,Arsenal,False,Brighton,,-0.39
+Ethan Nwaneri,Arsenal,Brighton,,False,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.1,0,0,0,0,0,0.0,Arsenal,True,Newcastle United,,0.73
+Ethan Nwaneri,Arsenal,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.09,0,0,0,0,0,0.0,Arsenal,False,Tottenham,,-0.03
+Ethan Nwaneri,Arsenal,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.08,0,0,0,0,0,0.0,Arsenal,True,Manchester United,,0.38
+Ethan Nwaneri,Arsenal,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.08,0,0,0,0,0,0.0,Arsenal,False,Everton,,-0.63
+Ethan Nwaneri,Arsenal,Everton,,False,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.07,0,0,0,0,0,0.0,Arsenal,True,Brentford,,0.69
+Ethan Nwaneri,Arsenal,Brentford,,True,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.07,0,0,0,0,0,0.0,Arsenal,True,Manchester City,,-1.17
+Ethan Nwaneri,Arsenal,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.06,0,0,0,0,0,0.0,Arsenal,False,Aston Villa,,0.59
+Ethan Nwaneri,Arsenal,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.06,0,0,0,0,0,0.0,Arsenal,False,Leeds United,,-0.8
+Ethan Nwaneri,Arsenal,Leeds United,,False,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.06,0,0,0,0,0,0.0,Arsenal,True,Everton,,0.34
+Ethan Nwaneri,Arsenal,Everton,,True,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.05,0,0,0,0,0,0.0,Arsenal,True,Bournemouth,,1.46
+Ethan Nwaneri,Arsenal,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.05,0,0,0,0,0,0.0,Arsenal,False,Fulham,,1.37
+Ethan Nwaneri,Arsenal,Fulham,,False,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.05,0,0,0,0,0,0.0,Arsenal,True,Crystal Palace,,0.81
+Ethan Nwaneri,Arsenal,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.05,0,0,0,0,0,0.0,Arsenal,True,Leicester City,,0.83
+Ethan Nwaneri,Arsenal,Leicester City,,True,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.04,0,0,0,0,0,0.0,Arsenal,False,Liverpool,,-1.33
+Ethan Nwaneri,Arsenal,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.04,0,0,0,0,0,0.0,Arsenal,False,West Ham,,0.14
+Ethan Nwaneri,Arsenal,West Ham,,False,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.04,0,0,0,0,0,0.0,Arsenal,True,Southampton,,-0.38
+Ethan Nwaneri,Arsenal,Southampton,,True,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.04,0,0,0,0,0,0.0,Arsenal,False,Manchester City,,-1.26
+Ethan Nwaneri,Arsenal,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.04,0,0,0,0,0,0.0,Arsenal,True,Chelsea,,-0.25
+Ethan Nwaneri,Arsenal,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.04,0,0,0,0,0,0.0,Arsenal,False,Newcastle United,,-0.34
+Ethan Nwaneri,Arsenal,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.03,0,0,0,0,0,0.0,Arsenal,True,Brighton,,-0.71
+Ethan Nwaneri,Arsenal,Brighton,,True,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.03,0,0,0,0,0,0.0,Arsenal,False,Nottingham Forest,,
+Ethan Nwaneri,Arsenal,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.03,0,0,0,0,0,0.0,Arsenal,True,Wolverhampton,,-0.48
+Ethan Nwaneri,Arsenal,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.03,0,0,0,0,0,,Arsenal,True,West Ham,,0.63

@@ -1,15 +1,15 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Pedro Porro,Spurs,Leicester City,2024-08-19,False,90.0,1.0,0.14,0.0,0.26,9.0,1.0,4.0,13.0,1.0,0.0,1.0,0.96,1.0,3078763.0,9.0,0.14,90.0,0.0,2.82,7.28,0.21,58.42,6.0,Spurs,True,Everton,,0.61
-Pedro Porro,Spurs,Everton,2024-08-24,True,90.0,0.0,0.02,0.0,0.08,6.0,1.0,1.0,4.8,0.0,1.0,0.0,1.0,1.0,3281105.0,7.5,0.08,90.0,0.5,2.82,7.28,0.21,58.42,1.0,Spurs,False,Newcastle United,,-0.44
-Pedro Porro,Spurs,Newcastle United,2024-09-01,False,90.0,0.0,0.2,0.0,0.06,1.0,6.0,1.0,5.5,0.0,0.0,2.0,1.57,1.0,3565812.0,5.33,0.12,90.0,0.33,2.82,7.28,0.21,58.42,2.0,Spurs,True,Arsenal,,-0.32
-Pedro Porro,Spurs,Arsenal,2024-09-15,True,90.0,0.0,0.0,0.0,0.23,2.0,0.0,4.0,9.7,0.0,0.0,1.0,0.73,1.0,3445940.0,4.5,0.09,90.0,0.25,2.82,7.28,0.21,58.42,2.0,Spurs,True,Brentford,,0.54
-Pedro Porro,Spurs,Brentford,2024-09-21,True,87.0,0.0,0.02,0.0,0.0,2.0,2.0,0.0,2.8,0.0,0.0,1.0,0.8,1.0,3516690.0,4.0,0.08,89.4,0.2,2.82,7.28,0.21,58.42,5.0,Spurs,False,Manchester United,,-0.41
-Pedro Porro,Spurs,Manchester United,2024-09-29,False,90.0,0.0,0.12,0.0,0.37,5.0,1.0,2.0,6.7,0.0,1.0,0.0,0.96,1.0,3137291.0,3.2,0.07,89.5,0.33,2.82,7.28,0.21,58.42,1.0,Spurs,False,Brighton,,-0.61
-Pedro Porro,Spurs,Brighton,2024-10-06,False,90.0,0.0,0.02,0.0,0.09,1.0,1.0,1.0,4.3,0.0,0.0,3.0,1.82,1.0,3080537.0,2.2,0.07,89.57,0.29,2.82,7.28,0.21,58.42,2.0,Spurs,True,West Ham,,0.48
-Pedro Porro,Spurs,West Ham,2024-10-19,True,90.0,0.0,0.16,0.0,0.08,2.0,4.0,2.0,7.9,0.0,0.0,1.0,0.78,1.0,3085094.0,2.4,0.06,89.62,0.25,2.82,7.28,0.21,58.42,2.0,Spurs,False,Crystal Palace,,0.2
-Pedro Porro,Spurs,Crystal Palace,2024-10-27,False,90.0,0.0,0.03,0.0,0.05,2.0,1.0,1.0,4.1,0.0,0.0,1.0,0.83,1.0,3110514.0,2.4,0.07,89.67,0.22,2.82,7.28,0.21,58.42,1.0,Spurs,True,Aston Villa,,0.66
-Pedro Porro,Spurs,Aston Villa,2024-11-03,True,90.0,0.0,0.08,0.0,0.0,1.0,2.0,0.0,1.8,0.0,0.0,1.0,1.86,1.0,2987001.0,2.2,0.08,89.7,0.2,2.82,7.28,0.21,58.42,4.0,Spurs,True,Ipswich Town,,
-Pedro Porro,Spurs,Ipswich Town,2024-11-10,True,90.0,0.0,0.0,1.0,0.25,4.0,0.0,4.0,10.0,0.0,0.0,2.0,1.74,1.0,3011411.0,2.0,0.26,89.73,0.18,2.82,7.28,0.21,58.42,14.0,Spurs,False,Manchester City,,-1.51
-Pedro Porro,Spurs,Manchester City,2024-11-23,False,90.0,1.0,0.45,0.0,0.0,14.0,1.0,0.0,8.3,2.0,1.0,0.0,2.14,1.0,2774570.0,4.6,0.34,89.75,0.25,2.82,7.28,0.21,58.42,,Spurs,True,Fulham,,0.27
+Pedro Porro,Spurs,Leicester City,2024-08-19,False,90.0,1.0,0.14,0.0,0.26,9.0,1.0,4.0,13.0,1.0,0.0,1.0,0.96,1.0,28.42,9.0,0.14,90.0,0.0,2.82,7.28,0.21,58.42,6.0,Spurs,True,Everton,,0.61
+Pedro Porro,Spurs,Everton,2024-08-24,True,90.0,0.0,0.02,0.0,0.08,6.0,1.0,1.0,4.8,0.0,1.0,0.0,1.0,1.0,30.29,7.5,0.08,90.0,0.5,2.82,7.28,0.21,58.42,1.0,Spurs,False,Newcastle United,,-0.44
+Pedro Porro,Spurs,Newcastle United,2024-09-01,False,90.0,0.0,0.2,0.0,0.06,1.0,6.0,1.0,5.5,0.0,0.0,2.0,1.57,1.0,32.92,5.33,0.12,90.0,0.33,2.82,7.28,0.21,58.42,2.0,Spurs,True,Arsenal,,-0.32
+Pedro Porro,Spurs,Arsenal,2024-09-15,True,90.0,0.0,0.0,0.0,0.23,2.0,0.0,4.0,9.7,0.0,0.0,1.0,0.73,1.0,31.81,4.5,0.09,90.0,0.25,2.82,7.28,0.21,58.42,2.0,Spurs,True,Brentford,,0.54
+Pedro Porro,Spurs,Brentford,2024-09-21,True,87.0,0.0,0.02,0.0,0.0,2.0,2.0,0.0,2.8,0.0,0.0,1.0,0.8,1.0,32.47,4.0,0.08,89.4,0.2,2.82,7.28,0.21,58.42,5.0,Spurs,False,Manchester United,,-0.41
+Pedro Porro,Spurs,Manchester United,2024-09-29,False,90.0,0.0,0.12,0.0,0.37,5.0,1.0,2.0,6.7,0.0,1.0,0.0,0.96,1.0,28.96,3.2,0.07,89.5,0.33,2.82,7.28,0.21,58.42,1.0,Spurs,False,Brighton,,-0.61
+Pedro Porro,Spurs,Brighton,2024-10-06,False,90.0,0.0,0.02,0.0,0.09,1.0,1.0,1.0,4.3,0.0,0.0,3.0,1.82,1.0,28.44,2.2,0.07,89.57,0.29,2.82,7.28,0.21,58.42,2.0,Spurs,True,West Ham,,0.48
+Pedro Porro,Spurs,West Ham,2024-10-19,True,90.0,0.0,0.16,0.0,0.08,2.0,4.0,2.0,7.9,0.0,0.0,1.0,0.78,1.0,28.48,2.4,0.06,89.62,0.25,2.82,7.28,0.21,58.42,2.0,Spurs,False,Crystal Palace,,0.2
+Pedro Porro,Spurs,Crystal Palace,2024-10-27,False,90.0,0.0,0.03,0.0,0.05,2.0,1.0,1.0,4.1,0.0,0.0,1.0,0.83,1.0,28.72,2.4,0.07,89.67,0.22,2.82,7.28,0.21,58.42,1.0,Spurs,True,Aston Villa,,0.66
+Pedro Porro,Spurs,Aston Villa,2024-11-03,True,90.0,0.0,0.08,0.0,0.0,1.0,2.0,0.0,1.8,0.0,0.0,1.0,1.86,1.0,27.58,2.2,0.08,89.7,0.2,2.82,7.28,0.21,58.42,4.0,Spurs,True,Ipswich Town,,
+Pedro Porro,Spurs,Ipswich Town,2024-11-10,True,90.0,0.0,0.0,1.0,0.25,4.0,0.0,4.0,10.0,0.0,0.0,2.0,1.74,1.0,27.8,2.0,0.26,89.73,0.18,2.82,7.28,0.21,58.42,14.0,Spurs,False,Manchester City,,-1.51
+Pedro Porro,Spurs,Manchester City,2024-11-23,False,90.0,1.0,0.45,0.0,0.0,14.0,1.0,0.0,8.3,2.0,1.0,0.0,2.14,1.0,25.62,4.6,0.34,89.75,0.25,2.82,7.28,0.21,58.42,,Spurs,True,Fulham,,0.27
 ,Spurs,,,,,,,,,,,,,,,,,,,,,,,,,,,,Spurs,False,Bournemouth,,-0.04
 ,Spurs,,,,,,,,,,,,,,,,,,,,,,,,,,,,Spurs,True,Chelsea,,0.0

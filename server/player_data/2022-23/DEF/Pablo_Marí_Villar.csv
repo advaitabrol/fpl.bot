@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Pablo Marí Villar,Arsenal,Crystal Palace,2022-08-05,False,0,1.0,0.88,0.0,0.06,0,2.0,1.0,0.0,0,0,0,0.0,0,4463,0.0,0.88,0.0,0,0.0,Arsenal,True,Leeds United,,-0.79
-Pablo Marí Villar,Arsenal,Leeds United,2022-08-13,True,0,1.0,0.05,0.0,0.57,0,1.0,4.0,0.0,0,0,0,0.0,0,4655,0.0,0.46,0.0,0,0.0,Arsenal,False,Bournemouth,,0.19
-Pablo Marí Villar,Arsenal,Bournemouth,2022-08-20,False,0,0.0,0.53,0.0,0.0,0,4.0,0.0,0.0,0,0,0,0.0,0,3150,0.0,0.49,0.0,0,0.0,Arsenal,True,Fulham,,-0.3
-Pablo Marí Villar,Arsenal,Fulham,2022-08-27,True,0,0.0,0.38,0.0,0.58,0,7.0,5.0,0.0,0,0,0,0.0,0,2639,0.0,0.46,0.0,0,0.0,Arsenal,True,Aston Villa,,0.55
-Pablo Marí Villar,Arsenal,Aston Villa,2022-08-31,True,0,1.0,0.21,0.0,0.54,0,5.0,2.0,0.0,0,0,0,0.0,0,2390,0.0,0.41,0.0,0,0.0,Arsenal,False,Manchester United,,-0.1
-Pablo Marí Villar,Arsenal,Manchester United,2022-09-04,False,0,0.0,0.3,0.0,0.09,0,1.0,2.0,0.0,0,0,0,0.0,0,2217,0.0,0.29,0.0,0,0.0,Arsenal,False,Brentford,,-0.55
-Pablo Marí Villar,Arsenal,Brentford,2022-09-18,False,0,0.0,0.1,0.0,0.16,0,1.0,2.0,0.0,0,0,0,0.0,0,2085,0.0,0.3,0.0,0,0.0,Arsenal,True,Tottenham,,1.07
-Pablo Marí Villar,Arsenal,Tottenham,2022-10-01,True,0,0.0,0.1,1.0,0.41,0,3.0,2.0,0.0,0,0,0,0.0,0,2026,0.0,0.42,0.0,0,0.0,Arsenal,True,Liverpool,,-0.53
-Pablo Marí Villar,Arsenal,Liverpool,2022-10-09,True,0,1.0,0.48,1.0,1.03,0,2.0,2.0,0.0,0,0,0,0.0,0,1965,0.0,0.64,0.0,0,0.0,Arsenal,False,Leicester City,,-0.05
-Pablo Marí Villar,Arsenal,Leicester City,2022-10-16,False,0,0.0,0.05,0.0,0.02,0,1.0,1.0,0.0,0,0,0,0.0,0,1942,0.0,0.61,0.0,0,0.0,Arsenal,False,Southampton,,-1.07
-Pablo Marí Villar,Arsenal,Southampton,2022-10-23,False,0,0.0,0.14,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,1901,0.0,0.57,0.0,0,0.0,Arsenal,True,Nottingham Forest,,
-Pablo Marí Villar,Arsenal,Nottingham Forest,2022-10-30,True,0,1.0,0.2,0.0,0.02,0,2.0,1.0,0.0,0,0,0,0.0,0,1866,0.0,0.59,0.0,0,0.0,Arsenal,False,Chelsea,,-0.72
-Pablo Marí Villar,Arsenal,Chelsea,2022-11-06,False,0,0.0,0.07,0.0,0.3,0,2.0,1.0,0.0,0,0,0,0.0,0,1845,0.0,0.39,0.0,0,0.0,Arsenal,False,Wolverhampton,,-0.46
-Pablo Marí Villar,Arsenal,Wolverhampton,2022-11-12,False,0,0.0,0.09,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,1830,0.0,0.11,0.0,0,0.0,Arsenal,True,West Ham,,0.63
-Pablo Marí Villar,Arsenal,West Ham,2022-12-26,True,0,1.0,0.05,0.0,0.03,0,1.0,1.0,0.0,0,0,0,0.0,0,1804,0.0,0.11,0.0,0,0.0,Arsenal,False,Brighton,,-0.39
-Pablo Marí Villar,Arsenal,Brighton,2022-12-31,False,0,1.0,0.81,0.0,0.0,0,5.0,0.0,0.0,0,0,0,0.0,0,1801,0.0,0.24,0.0,0,0.0,Arsenal,True,Newcastle United,,0.73
-Pablo Marí Villar,Arsenal,Newcastle United,2023-01-03,True,0,0.0,0.14,0.0,0.34,0,4.0,3.0,0.0,0,0,0,0.0,0,1800,0.0,0.23,0.0,0,0.0,Arsenal,False,Tottenham,,-0.03
-Pablo Marí Villar,Arsenal,Tottenham,2023-01-15,False,0,0.0,0.11,0.0,1.12,0,1.0,4.0,0.0,0,0,0,0.0,0,1793,0.0,0.24,0.0,0,0.0,Arsenal,True,Manchester United,,0.38
-Pablo Marí Villar,Arsenal,Manchester United,2023-01-22,True,0,0.0,0.27,0.0,0.21,0,5.0,4.0,0.0,0,0,0,0.0,0,1787,0.0,0.28,0.0,0,0.0,Arsenal,False,Everton,,-0.63
-Pablo Marí Villar,Arsenal,Everton,2023-02-04,False,0,0.0,0.0,0.0,0.08,0,0.0,2.0,0.0,0,0,0,0.0,0,1772,0.0,0.27,0.0,0,0.0,Arsenal,True,Brentford,,0.69
-Pablo Marí Villar,Arsenal,Brentford,2023-02-11,True,0,0.0,0.16,0.0,0.0,0,3.0,0.0,0.0,0,0,0,0.0,0,1768,0.0,0.14,0.0,0,0.0,Arsenal,True,Manchester City,,-1.17
-Pablo Marí Villar,Arsenal,Manchester City,2023-02-15,True,0,0.0,0.0,0.0,0.07,0,0.0,1.0,0.0,0,0,0,0.0,0,1768,0.0,0.11,0.0,0,0.0,Arsenal,False,Aston Villa,,0.59
-Pablo Marí Villar,Arsenal,Aston Villa,2023-02-18,False,0,1.0,0.63,0.0,0.03,0,1.0,1.0,0.0,0,0,0,0.0,0,1763,0.0,0.21,0.0,0,0.0,Arsenal,False,Leeds United,,-0.8
-Pablo Marí Villar,Arsenal,Leeds United,2023-02-25,False,0,1.0,0.31,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,1760,0.0,0.22,0.0,0,0.0,Arsenal,True,Everton,,0.34
-Pablo Marí Villar,Arsenal,Everton,2023-03-01,True,0,2.0,1.04,0.0,0.14,0,3.0,1.0,0.0,0,0,0,0.0,0,1760,0.0,0.43,0.0,0,0.0,Arsenal,True,Bournemouth,,1.46
-Pablo Marí Villar,Arsenal,Bournemouth,2023-03-04,True,0,0.0,0.3,0.0,0.17,0,4.0,2.0,0.0,0,0,0,0.0,0,1756,0.0,0.46,0.0,0,0.0,Arsenal,False,Fulham,,1.37
-Pablo Marí Villar,Arsenal,Fulham,2023-03-12,False,0,1.0,1.4,0.0,0.13,0,4.0,1.0,0.0,0,0,0,0.0,0,1754,0.0,0.74,0.0,0,0.0,Arsenal,True,Crystal Palace,,0.81
-Pablo Marí Villar,Arsenal,Crystal Palace,2023-03-19,True,0,1.0,0.06,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,1754,0.0,0.62,0.0,0,0.0,Arsenal,True,Leicester City,,0.83
-Pablo Marí Villar,Arsenal,Leicester City,2023-04-01,True,0,0.0,0.32,1.0,0.77,0,4.0,2.0,0.0,0,0,0,0.0,0,1748,0.0,0.82,0.0,0,0.0,Arsenal,False,Liverpool,,-1.33
-Pablo Marí Villar,Arsenal,Liverpool,2023-04-09,False,0,1.0,0.42,1.0,0.55,0,1.0,3.0,0.0,0,0,0,0.0,0,1744,0.0,0.9,0.0,0,0.0,Arsenal,False,West Ham,,0.14
-Pablo Marí Villar,Arsenal,West Ham,2023-04-16,False,0,0.0,0.1,1.0,0.67,0,2.0,3.0,0.0,0,0,0,0.0,0,1740,0.0,1.06,0.0,0,0.0,Arsenal,True,Southampton,,-0.38
-Pablo Marí Villar,Arsenal,Southampton,2023-04-21,True,0,1.0,0.32,0.0,0.78,0,2.0,6.0,0.0,0,0,0,0.0,0,1738,0.0,0.84,0.0,0,0.0,Arsenal,False,Manchester City,,-1.26
-Pablo Marí Villar,Arsenal,Manchester City,2023-04-26,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,1738,0.0,0.83,0.0,0,0.0,Arsenal,True,Chelsea,,-0.25
-Pablo Marí Villar,Arsenal,Chelsea,2023-05-02,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,1738,0.0,0.57,0.0,0,0.0,Arsenal,False,Newcastle United,,-0.34
-Pablo Marí Villar,Arsenal,Newcastle United,2023-05-07,False,0,0.0,0.53,0.0,0.48,0,3.0,2.0,0.0,0,0,0,0.0,0,1736,0.0,0.39,0.0,0,0.0,Arsenal,True,Brighton,,-0.71
-Pablo Marí Villar,Arsenal,Brighton,2023-05-14,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,1735,0.0,0.17,0.0,0,0.0,Arsenal,False,Nottingham Forest,,
-Pablo Marí Villar,Arsenal,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1733,0.0,0.11,0.0,0,0.0,Arsenal,True,Wolverhampton,,-0.48
-Pablo Marí Villar,Arsenal,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1733,0.0,0.11,0.0,0,,Brentford,True,Tottenham,,1.07
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Pablo Marí Villar,Arsenal,Crystal Palace,2022-08-05,False,0,1.0,0.88,0.0,0.06,0,2.0,1.0,0.0,0,0,0,0.0,0,0.04,0.0,0.88,0.0,0,0,0,0,0,0.0,Arsenal,True,Leeds United,,-0.79
+Pablo Marí Villar,Arsenal,Leeds United,2022-08-13,True,0,1.0,0.05,0.0,0.57,0,1.0,4.0,0.0,0,0,0,0.0,0,0.04,0.0,0.46,0.0,0,0,0,0,0,0.0,Arsenal,False,Bournemouth,,0.19
+Pablo Marí Villar,Arsenal,Bournemouth,2022-08-20,False,0,0.0,0.53,0.0,0.0,0,4.0,0.0,0.0,0,0,0,0.0,0,0.03,0.0,0.49,0.0,0,0,0,0,0,0.0,Arsenal,True,Fulham,,-0.3
+Pablo Marí Villar,Arsenal,Fulham,2022-08-27,True,0,0.0,0.38,0.0,0.58,0,7.0,5.0,0.0,0,0,0,0.0,0,0.02,0.0,0.46,0.0,0,0,0,0,0,0.0,Arsenal,True,Aston Villa,,0.55
+Pablo Marí Villar,Arsenal,Aston Villa,2022-08-31,True,0,1.0,0.21,0.0,0.54,0,5.0,2.0,0.0,0,0,0,0.0,0,0.02,0.0,0.41,0.0,0,0,0,0,0,0.0,Arsenal,False,Manchester United,,-0.1
+Pablo Marí Villar,Arsenal,Manchester United,2022-09-04,False,0,0.0,0.3,0.0,0.09,0,1.0,2.0,0.0,0,0,0,0.0,0,0.02,0.0,0.29,0.0,0,0,0,0,0,0.0,Arsenal,False,Brentford,,-0.55
+Pablo Marí Villar,Arsenal,Brentford,2022-09-18,False,0,0.0,0.1,0.0,0.16,0,1.0,2.0,0.0,0,0,0,0.0,0,0.02,0.0,0.3,0.0,0,0,0,0,0,0.0,Arsenal,True,Tottenham,,1.07
+Pablo Marí Villar,Arsenal,Tottenham,2022-10-01,True,0,0.0,0.1,1.0,0.41,0,3.0,2.0,0.0,0,0,0,0.0,0,0.02,0.0,0.42,0.0,0,0,0,0,0,0.0,Arsenal,True,Liverpool,,-0.53
+Pablo Marí Villar,Arsenal,Liverpool,2022-10-09,True,0,1.0,0.48,1.0,1.03,0,2.0,2.0,0.0,0,0,0,0.0,0,0.02,0.0,0.64,0.0,0,0,0,0,0,0.0,Arsenal,False,Leicester City,,-0.05
+Pablo Marí Villar,Arsenal,Leicester City,2022-10-16,False,0,0.0,0.05,0.0,0.02,0,1.0,1.0,0.0,0,0,0,0.0,0,0.02,0.0,0.61,0.0,0,0,0,0,0,0.0,Arsenal,False,Southampton,,-1.07
+Pablo Marí Villar,Arsenal,Southampton,2022-10-23,False,0,0.0,0.14,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.02,0.0,0.57,0.0,0,0,0,0,0,0.0,Arsenal,True,Nottingham Forest,,
+Pablo Marí Villar,Arsenal,Nottingham Forest,2022-10-30,True,0,1.0,0.2,0.0,0.02,0,2.0,1.0,0.0,0,0,0,0.0,0,0.02,0.0,0.59,0.0,0,0,0,0,0,0.0,Arsenal,False,Chelsea,,-0.72
+Pablo Marí Villar,Arsenal,Chelsea,2022-11-06,False,0,0.0,0.07,0.0,0.3,0,2.0,1.0,0.0,0,0,0,0.0,0,0.02,0.0,0.39,0.0,0,0,0,0,0,0.0,Arsenal,False,Wolverhampton,,-0.46
+Pablo Marí Villar,Arsenal,Wolverhampton,2022-11-12,False,0,0.0,0.09,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.02,0.0,0.11,0.0,0,0,0,0,0,0.0,Arsenal,True,West Ham,,0.63
+Pablo Marí Villar,Arsenal,West Ham,2022-12-26,True,0,1.0,0.05,0.0,0.03,0,1.0,1.0,0.0,0,0,0,0.0,0,0.02,0.0,0.11,0.0,0,0,0,0,0,0.0,Arsenal,False,Brighton,,-0.39
+Pablo Marí Villar,Arsenal,Brighton,2022-12-31,False,0,1.0,0.81,0.0,0.0,0,5.0,0.0,0.0,0,0,0,0.0,0,0.02,0.0,0.24,0.0,0,0,0,0,0,0.0,Arsenal,True,Newcastle United,,0.73
+Pablo Marí Villar,Arsenal,Newcastle United,2023-01-03,True,0,0.0,0.14,0.0,0.34,0,4.0,3.0,0.0,0,0,0,0.0,0,0.02,0.0,0.23,0.0,0,0,0,0,0,0.0,Arsenal,False,Tottenham,,-0.03
+Pablo Marí Villar,Arsenal,Tottenham,2023-01-15,False,0,0.0,0.11,0.0,1.12,0,1.0,4.0,0.0,0,0,0,0.0,0,0.02,0.0,0.24,0.0,0,0,0,0,0,0.0,Arsenal,True,Manchester United,,0.38
+Pablo Marí Villar,Arsenal,Manchester United,2023-01-22,True,0,0.0,0.27,0.0,0.21,0,5.0,4.0,0.0,0,0,0,0.0,0,0.02,0.0,0.28,0.0,0,0,0,0,0,0.0,Arsenal,False,Everton,,-0.63
+Pablo Marí Villar,Arsenal,Everton,2023-02-04,False,0,0.0,0.0,0.0,0.08,0,0.0,2.0,0.0,0,0,0,0.0,0,0.02,0.0,0.27,0.0,0,0,0,0,0,0.0,Arsenal,True,Brentford,,0.69
+Pablo Marí Villar,Arsenal,Brentford,2023-02-11,True,0,0.0,0.16,0.0,0.0,0,3.0,0.0,0.0,0,0,0,0.0,0,0.02,0.0,0.14,0.0,0,0,0,0,0,0.0,Arsenal,True,Manchester City,,-1.17
+Pablo Marí Villar,Arsenal,Manchester City,2023-02-15,True,0,0.0,0.0,0.0,0.07,0,0.0,1.0,0.0,0,0,0,0.0,0,0.02,0.0,0.11,0.0,0,0,0,0,0,0.0,Arsenal,False,Aston Villa,,0.59
+Pablo Marí Villar,Arsenal,Aston Villa,2023-02-18,False,0,1.0,0.63,0.0,0.03,0,1.0,1.0,0.0,0,0,0,0.0,0,0.02,0.0,0.21,0.0,0,0,0,0,0,0.0,Arsenal,False,Leeds United,,-0.8
+Pablo Marí Villar,Arsenal,Leeds United,2023-02-25,False,0,1.0,0.31,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,0.02,0.0,0.22,0.0,0,0,0,0,0,0.0,Arsenal,True,Everton,,0.34
+Pablo Marí Villar,Arsenal,Everton,2023-03-01,True,0,2.0,1.04,0.0,0.14,0,3.0,1.0,0.0,0,0,0,0.0,0,0.02,0.0,0.43,0.0,0,0,0,0,0,0.0,Arsenal,True,Bournemouth,,1.46
+Pablo Marí Villar,Arsenal,Bournemouth,2023-03-04,True,0,0.0,0.3,0.0,0.17,0,4.0,2.0,0.0,0,0,0,0.0,0,0.02,0.0,0.46,0.0,0,0,0,0,0,0.0,Arsenal,False,Fulham,,1.37
+Pablo Marí Villar,Arsenal,Fulham,2023-03-12,False,0,1.0,1.4,0.0,0.13,0,4.0,1.0,0.0,0,0,0,0.0,0,0.02,0.0,0.74,0.0,0,0,0,0,0,0.0,Arsenal,True,Crystal Palace,,0.81
+Pablo Marí Villar,Arsenal,Crystal Palace,2023-03-19,True,0,1.0,0.06,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.02,0.0,0.62,0.0,0,0,0,0,0,0.0,Arsenal,True,Leicester City,,0.83
+Pablo Marí Villar,Arsenal,Leicester City,2023-04-01,True,0,0.0,0.32,1.0,0.77,0,4.0,2.0,0.0,0,0,0,0.0,0,0.02,0.0,0.82,0.0,0,0,0,0,0,0.0,Arsenal,False,Liverpool,,-1.33
+Pablo Marí Villar,Arsenal,Liverpool,2023-04-09,False,0,1.0,0.42,1.0,0.55,0,1.0,3.0,0.0,0,0,0,0.0,0,0.02,0.0,0.9,0.0,0,0,0,0,0,0.0,Arsenal,False,West Ham,,0.14
+Pablo Marí Villar,Arsenal,West Ham,2023-04-16,False,0,0.0,0.1,1.0,0.67,0,2.0,3.0,0.0,0,0,0,0.0,0,0.02,0.0,1.06,0.0,0,0,0,0,0,0.0,Arsenal,True,Southampton,,-0.38
+Pablo Marí Villar,Arsenal,Southampton,2023-04-21,True,0,1.0,0.32,0.0,0.78,0,2.0,6.0,0.0,0,0,0,0.0,0,0.02,0.0,0.84,0.0,0,0,0,0,0,0.0,Arsenal,False,Manchester City,,-1.26
+Pablo Marí Villar,Arsenal,Manchester City,2023-04-26,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.02,0.0,0.83,0.0,0,0,0,0,0,0.0,Arsenal,True,Chelsea,,-0.25
+Pablo Marí Villar,Arsenal,Chelsea,2023-05-02,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.02,0.0,0.57,0.0,0,0,0,0,0,0.0,Arsenal,False,Newcastle United,,-0.34
+Pablo Marí Villar,Arsenal,Newcastle United,2023-05-07,False,0,0.0,0.53,0.0,0.48,0,3.0,2.0,0.0,0,0,0,0.0,0,0.02,0.0,0.39,0.0,0,0,0,0,0,0.0,Arsenal,True,Brighton,,-0.71
+Pablo Marí Villar,Arsenal,Brighton,2023-05-14,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.02,0.0,0.17,0.0,0,0,0,0,0,0.0,Arsenal,False,Nottingham Forest,,
+Pablo Marí Villar,Arsenal,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.02,0.0,0.11,0.0,0,0,0,0,0,0.0,Arsenal,True,Wolverhampton,,-0.48
+Pablo Marí Villar,Arsenal,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.02,0.0,0.11,0.0,0,0,0,0,0,,Brentford,True,Tottenham,,1.07

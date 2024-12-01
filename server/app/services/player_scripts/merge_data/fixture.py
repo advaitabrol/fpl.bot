@@ -173,7 +173,7 @@ def process_fixtures_default(seasons=['2022-23', '2023-24', '2024-25']):
         "Spurs": "Tottenham",
         "Man City": "Manchester City",
         "Man Utd": "Manchester United",
-        "Nott'm Forest": "Nottingham Forest"
+        "Nott'm Forest": "Nottingham Forest",
         "Wolves": "Wolverhampton"
     }
 

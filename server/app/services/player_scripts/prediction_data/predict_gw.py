@@ -178,7 +178,7 @@ def hyperparameter_tune_model(X_train, y_train, model='xgb', task='regression', 
 
     # Task-specific configurations
     if task == 'classification':
-        scoring_metric = make_scorer(fbeta_score, beta=2)  # Prioritize recall (reduce false negatives)
+        scoring_metric = make_scorer(fbeta_score, beta=1)  # Prioritize recall (reduce false negatives)
         base_model = XGBClassifier(random_state=42)
     elif task == 'regression':
         scoring_metric = 'neg_mean_squared_error'
@@ -462,7 +462,6 @@ def engineer_features(df, position):
     Apply feature engineering to the given DataFrame based on the player's position.
     Handles rolling averages, EMA, momentum indicators, interaction terms, and others.
     """
-    print(f"Applying feature engineering for {position}...")
 
     # --- Universal Features ---
     if 'minutes' in df.columns:
@@ -527,14 +526,22 @@ def engineer_features(df, position):
 
     # --- Position-Specific Features ---
     if position.lower() in ["midfielders", "forwards"]:
-        df['goal_stat'] = df['last_season_goals'] + df['last_season_xG']
-        df['assist_stat'] = df['last_season_assists'] + df['last_season_xA']
+        df['goal_stat'] = 0
+        df['assist_stat'] = 0
+
+        if 'last_season_goals' in df.columns and 'last_season_xG' in df.columns:
+            df['goal_stat'] = df['goal_stat'] + df['last_season_goals'].fillna(0) + df['last_season_xG'].fillna(0)
+        if 'last_season_assists' in df.columns and 'last_season_xA' in df.columns:
+            df['assist_stat'] = df['assist_stat'] + df['last_season_assists'].fillna(0) + df['last_season_xA'].fillna(0)
         df['form_consistency'] = df.groupby('name')['form'].transform(lambda x: x.rolling(5, min_periods=1).std())
         df['goal_contribution'] = df['goals'] / (df['total_points'] + 1)
         df['assist_contribution'] = df['assists'] / (df['total_points'] + 1)
-        df['points_per_minute_delta'] = (
-            (df['total_points'] / df['minutes'].replace(0, 1)) - df['last_season_points_per_minute']
-        )
+
+        df['points_per_minute_delta'] = 0
+        if 'last_season_points_per_minute' in df.columns: 
+            df['points_per_minute_delta'] = (
+                (df['total_points'] / df['minutes'].replace(0, 1)) - df['last_season_points_per_minute']
+            )
 
     # --- Per-90 Metrics ---
     per_90_features = {
@@ -554,8 +561,6 @@ def engineer_features(df, position):
                     0
                 )
         df.drop(columns=['cumulative_minutes'], inplace=True)
-
-    print(f"Feature engineering complete for {position}.")
 
     return df
 

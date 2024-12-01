@@ -1,32 +1,32 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Ed Turns,Brighton,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Brentford,,-0.55
-Ed Turns,Brighton,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,760,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Nottingham Forest,,
-Ed Turns,Brighton,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1676,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Manchester City,,-1.26
-Ed Turns,Brighton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1882,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Chelsea,,-0.25
-Ed Turns,Brighton,Chelsea,2022-10-29,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,2179,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Wolverhampton,,-0.46
-Ed Turns,Brighton,Wolverhampton,2022-11-05,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,2327,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Aston Villa,,0.55
-Ed Turns,Brighton,Aston Villa,2022-11-13,True,0,0.0,0.0,0.0,0.02,0,0.0,1.0,0.0,0,0,0,0.0,0,2595,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Southampton,,-1.07
-Ed Turns,Brighton,Southampton,2022-12-26,False,0,0.0,0.0,0.0,0.05,0,0.0,1.0,0.0,0,0,0,0.0,0,3161,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Arsenal,,0.36
-Ed Turns,Brighton,Arsenal,2022-12-31,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,3261,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Everton,,-0.63
-Ed Turns,Brighton,Everton,2023-01-03,False,0,0.0,0.0,0.0,0.13,0,0.0,1.0,0.0,0,0,0,0.0,0,3320,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Liverpool,,-0.53
-Ed Turns,Brighton,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3497,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Leeds United,,-0.8
-Ed Turns,Brighton,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3131,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Bournemouth,,1.46
-Ed Turns,Brighton,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2851,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Crystal Palace,,0.13
-Ed Turns,Brighton,Crystal Palace,2023-02-11,False,0,0.0,0.0,0.0,0.08,0,0.0,2.0,0.0,0,0,0,0.0,0,2759,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Fulham,,-0.3
-Ed Turns,Brighton,Fulham,2023-02-18,True,0,0.0,0.0,0.0,0.08,0,0.0,1.0,0.0,0,0,0,0.0,0,2676,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,West Ham,,0.63
-Ed Turns,Brighton,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2533,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Leicester City,,-0.05
-Ed Turns,Brighton,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2478,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Crystal Palace,,0.81
-Ed Turns,Brighton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2478,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Brentford,,0.69
-Ed Turns,Brighton,Brentford,2023-04-01,True,0,0.0,0.02,0.0,0.03,0,1.0,1.0,0.0,0,0,0,0.0,0,2418,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Bournemouth,,0.19
-Ed Turns,Brighton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2418,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Tottenham,,-0.03
-Ed Turns,Brighton,Tottenham,2023-04-08,False,0,0.0,0.02,0.0,0.02,0,1.0,1.0,0.0,0,0,0,0.0,0,2391,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Chelsea,,-0.72
-Ed Turns,Brighton,Chelsea,2023-04-15,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,2374,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Nottingham Forest,,
-Ed Turns,Brighton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2339,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Wolverhampton,,-0.48
-Ed Turns,Brighton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2326,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Manchester United,,0.38
-Ed Turns,Brighton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2326,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Everton,,0.34
-Ed Turns,Brighton,Everton,2023-05-08,True,0,0.0,0.0,0.0,0.04,0,0.0,1.0,0.0,0,0,0,0.0,0,2308,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Arsenal,,-0.0
-Ed Turns,Brighton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2301,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Newcastle United,,-0.34
-Ed Turns,Brighton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2301,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Southampton,,-0.38
-Ed Turns,Brighton,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2292,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Manchester City,,-1.17
-Ed Turns,Brighton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2292,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Aston Villa,,0.59
-Ed Turns,Brighton,Aston Villa,2023-05-28,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,2282,0.0,0.0,0.0,0,0.0,0.0,0,0,,West Ham,False,Bournemouth,,0.19
+Ed Turns,Brighton,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Brentford,,-0.55
+Ed Turns,Brighton,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Nottingham Forest,,
+Ed Turns,Brighton,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Manchester City,,-1.26
+Ed Turns,Brighton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Chelsea,,-0.25
+Ed Turns,Brighton,Chelsea,2022-10-29,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Wolverhampton,,-0.46
+Ed Turns,Brighton,Wolverhampton,2022-11-05,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Aston Villa,,0.55
+Ed Turns,Brighton,Aston Villa,2022-11-13,True,0,0.0,0.0,0.0,0.02,0,0.0,1.0,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Southampton,,-1.07
+Ed Turns,Brighton,Southampton,2022-12-26,False,0,0.0,0.0,0.0,0.05,0,0.0,1.0,0.0,0,0,0,0.0,0,0.03,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Arsenal,,0.36
+Ed Turns,Brighton,Arsenal,2022-12-31,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.03,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Everton,,-0.63
+Ed Turns,Brighton,Everton,2023-01-03,False,0,0.0,0.0,0.0,0.13,0,0.0,1.0,0.0,0,0,0,0.0,0,0.03,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Liverpool,,-0.53
+Ed Turns,Brighton,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.03,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Leeds United,,-0.8
+Ed Turns,Brighton,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.03,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Bournemouth,,1.46
+Ed Turns,Brighton,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.03,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Crystal Palace,,0.13
+Ed Turns,Brighton,Crystal Palace,2023-02-11,False,0,0.0,0.0,0.0,0.08,0,0.0,2.0,0.0,0,0,0,0.0,0,0.03,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Fulham,,-0.3
+Ed Turns,Brighton,Fulham,2023-02-18,True,0,0.0,0.0,0.0,0.08,0,0.0,1.0,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,West Ham,,0.63
+Ed Turns,Brighton,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Leicester City,,-0.05
+Ed Turns,Brighton,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Crystal Palace,,0.81
+Ed Turns,Brighton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Brentford,,0.69
+Ed Turns,Brighton,Brentford,2023-04-01,True,0,0.0,0.02,0.0,0.03,0,1.0,1.0,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Bournemouth,,0.19
+Ed Turns,Brighton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Tottenham,,-0.03
+Ed Turns,Brighton,Tottenham,2023-04-08,False,0,0.0,0.02,0.0,0.02,0,1.0,1.0,0.0,0,0,0,0.0,0,0.02,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Chelsea,,-0.72
+Ed Turns,Brighton,Chelsea,2023-04-15,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.02,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Nottingham Forest,,
+Ed Turns,Brighton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.02,0.0,0.01,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Wolverhampton,,-0.48
+Ed Turns,Brighton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Manchester United,,0.38
+Ed Turns,Brighton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Everton,,0.34
+Ed Turns,Brighton,Everton,2023-05-08,True,0,0.0,0.0,0.0,0.04,0,0.0,1.0,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Arsenal,,-0.0
+Ed Turns,Brighton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Newcastle United,,-0.34
+Ed Turns,Brighton,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Southampton,,-0.38
+Ed Turns,Brighton,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,True,Manchester City,,-1.17
+Ed Turns,Brighton,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.0,0.0,0,0,0.0,Brighton,False,Aston Villa,,0.59
+Ed Turns,Brighton,Aston Villa,2023-05-28,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.0,0.0,0,0,,West Ham,False,Bournemouth,,0.19

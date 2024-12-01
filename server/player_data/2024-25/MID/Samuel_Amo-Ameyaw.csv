@@ -1,15 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Samuel Amo-Ameyaw,Southampton,Newcastle United,2024-08-17,False,9.0,0.0,0.03,0.0,0.04,1.0,1.0,1.0,2.5,0.0,0.0,8926.0,1.0,0.03,9.0,0.0,Southampton,True,Nottingham Forest,,1.2
-Samuel Amo-Ameyaw,Southampton,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,12749.0,0.5,0.02,4.5,0.0,Southampton,False,Brentford,,-0.15
-Samuel Amo-Ameyaw,Southampton,Brentford,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,12870.0,0.33,0.01,3.0,0.0,Southampton,True,Manchester United,,0.39
-Samuel Amo-Ameyaw,Southampton,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,14189.0,0.25,0.01,2.25,0.0,Southampton,True,Ipswich Town,,
-Samuel Amo-Ameyaw,Southampton,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,13911.0,0.2,0.01,1.8,0.0,Southampton,False,Bournemouth,,-0.04
-Samuel Amo-Ameyaw,Southampton,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,13097.0,0.0,0.0,1.5,0.0,Southampton,False,Arsenal,,-0.56
-Samuel Amo-Ameyaw,Southampton,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,12581.0,0.0,0.0,1.29,0.0,Southampton,True,Leicester City,,0.47
-Samuel Amo-Ameyaw,Southampton,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,12195.0,0.0,0.0,1.12,0.0,Southampton,False,Manchester City,,-1.51
-Samuel Amo-Ameyaw,Southampton,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,11859.0,0.0,0.0,1.0,0.0,Southampton,True,Everton,,0.61
-Samuel Amo-Ameyaw,Southampton,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,11486.0,0.0,0.0,0.9,0.0,Southampton,False,Wolverhampton,,-0.53
-Samuel Amo-Ameyaw,Southampton,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,11138.0,0.0,0.0,0.82,0.0,Southampton,True,Liverpool,,0.24
-Samuel Amo-Ameyaw,Southampton,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,11206.0,0.0,0.0,0.75,,Southampton,False,Brighton,,-0.61
-,Southampton,,,,,,,,,,,,,,,,,,,,Southampton,True,Chelsea,,0.0
-,Southampton,,,,,,,,,,,,,,,,,,,,Southampton,False,Aston Villa,,0.11
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Samuel Amo-Ameyaw,Southampton,Newcastle United,2024-08-17,False,9.0,0.0,0.03,0.0,0.04,1.0,1.0,1.0,2.5,0.0,0.0,0.08,1.0,0.03,9.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Nottingham Forest,,1.2
+Samuel Amo-Ameyaw,Southampton,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.12,0.5,0.02,4.5,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Brentford,,-0.15
+Samuel Amo-Ameyaw,Southampton,Brentford,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.12,0.33,0.01,3.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Manchester United,,0.39
+Samuel Amo-Ameyaw,Southampton,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.13,0.25,0.01,2.25,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Ipswich Town,,
+Samuel Amo-Ameyaw,Southampton,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.13,0.2,0.01,1.8,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Bournemouth,,-0.04
+Samuel Amo-Ameyaw,Southampton,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.12,0.0,0.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Arsenal,,-0.56
+Samuel Amo-Ameyaw,Southampton,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.12,0.0,0.0,1.29,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Leicester City,,0.47
+Samuel Amo-Ameyaw,Southampton,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.11,0.0,0.0,1.12,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Manchester City,,-1.51
+Samuel Amo-Ameyaw,Southampton,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.11,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Everton,,0.61
+Samuel Amo-Ameyaw,Southampton,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.11,0.0,0.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Wolverhampton,,-0.53
+Samuel Amo-Ameyaw,Southampton,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.1,0.0,0.0,0.82,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Liverpool,,0.24
+Samuel Amo-Ameyaw,Southampton,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.1,0.0,0.0,0.75,0.0,0.0,0.0,0.0,0.0,,Southampton,False,Brighton,,-0.61
+,Southampton,,,,,,,,,,,,,,,,,,,,,,,,,Southampton,True,Chelsea,,0.0
+,Southampton,,,,,,,,,,,,,,,,,,,,,,,,,Southampton,False,Aston Villa,,0.11

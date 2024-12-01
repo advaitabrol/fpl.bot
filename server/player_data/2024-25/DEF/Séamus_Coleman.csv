@@ -1,15 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Séamus Coleman,Everton,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,4723.0,0.0,0.0,0.0,0.0,0.0,Everton,False,Tottenham,,-0.3
-Séamus Coleman,Everton,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,3344.0,0.0,0.0,0.0,0.0,1.0,Everton,True,Bournemouth,,0.84
-Séamus Coleman,Everton,Bournemouth,2024-08-31,True,90.0,0.0,0.48,0.0,0.0,1.0,1.0,0.0,3.9,0.0,0.0,3.0,2.22,1.0,3304.0,0.33,0.16,30.0,0.0,0.0,Everton,False,Aston Villa,,0.11
-Séamus Coleman,Everton,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,4047.0,0.25,0.12,22.5,0.0,0.0,Everton,False,Leicester City,,-0.22
-Séamus Coleman,Everton,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,3631.0,0.2,0.1,18.0,0.0,0.0,Everton,True,Crystal Palace,,0.88
-Séamus Coleman,Everton,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,3205.0,0.2,0.1,15.0,0.0,0.0,Everton,True,Newcastle United,,0.67
-Séamus Coleman,Everton,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,2942.0,0.2,0.1,12.86,0.0,0.0,Everton,False,Ipswich Town,,
-Séamus Coleman,Everton,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,3091.0,0.0,0.0,11.25,0.0,0.0,Everton,True,Fulham,,0.27
-Séamus Coleman,Everton,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,3468.0,0.0,0.0,10.0,0.0,0.0,Everton,False,Southampton,,-0.31
-Séamus Coleman,Everton,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,3743.0,0.0,0.0,9.0,0.0,0.0,Everton,False,West Ham,,-0.34
-Séamus Coleman,Everton,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,3600.0,0.0,0.0,8.18,0.0,0.0,Everton,True,Brentford,,0.54
-Séamus Coleman,Everton,Brentford,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,3277.0,0.0,0.0,7.5,0.0,,Everton,False,Manchester United,,-0.41
-,Everton,,,,,,,,,,,,,,,,,,,,,,,,Everton,True,Wolverhampton,,-0.08
-,Everton,,,,,,,,,,,,,,,,,,,,,,,,Everton,True,Liverpool,,0.24
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Séamus Coleman,Everton,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.04,0.0,0.0,0.0,0.0,0.0,0.89,0.67,10.48,0.0,Everton,False,Tottenham,,-0.3
+Séamus Coleman,Everton,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.0,0.0,0.0,0.0,0.89,0.67,10.48,1.0,Everton,True,Bournemouth,,0.84
+Séamus Coleman,Everton,Bournemouth,2024-08-31,True,90.0,0.0,0.48,0.0,0.0,1.0,1.0,0.0,3.9,0.0,0.0,3.0,2.22,1.0,0.03,0.33,0.16,30.0,0.0,0.0,0.89,0.67,10.48,0.0,Everton,False,Aston Villa,,0.11
+Séamus Coleman,Everton,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.04,0.25,0.12,22.5,0.0,0.0,0.89,0.67,10.48,0.0,Everton,False,Leicester City,,-0.22
+Séamus Coleman,Everton,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.2,0.1,18.0,0.0,0.0,0.89,0.67,10.48,0.0,Everton,True,Crystal Palace,,0.88
+Séamus Coleman,Everton,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.2,0.1,15.0,0.0,0.0,0.89,0.67,10.48,0.0,Everton,True,Newcastle United,,0.67
+Séamus Coleman,Everton,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.2,0.1,12.86,0.0,0.0,0.89,0.67,10.48,0.0,Everton,False,Ipswich Town,,
+Séamus Coleman,Everton,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.0,11.25,0.0,0.0,0.89,0.67,10.48,0.0,Everton,True,Fulham,,0.27
+Séamus Coleman,Everton,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.0,10.0,0.0,0.0,0.89,0.67,10.48,0.0,Everton,False,Southampton,,-0.31
+Séamus Coleman,Everton,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.0,9.0,0.0,0.0,0.89,0.67,10.48,0.0,Everton,False,West Ham,,-0.34
+Séamus Coleman,Everton,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.0,8.18,0.0,0.0,0.89,0.67,10.48,0.0,Everton,True,Brentford,,0.54
+Séamus Coleman,Everton,Brentford,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.0,7.5,0.0,0.0,0.89,0.67,10.48,,Everton,False,Manchester United,,-0.41
+,Everton,,,,,,,,,,,,,,,,,,,,,,,,,,,,Everton,True,Wolverhampton,,-0.08
+,Everton,,,,,,,,,,,,,,,,,,,,,,,,,,,,Everton,True,Liverpool,,0.24

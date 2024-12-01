@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Saša Lukić,Fulham,Everton,2023-08-12,False,90,0.0,0.03,0.0,0.05,3,1.0,1.0,2.1,0,1,25104,3.0,0.03,90.0,2.0,Fulham,True,Brentford,,0.79
-Saša Lukić,Fulham,Brentford,2023-08-19,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.3,0,1,72725,2.5,0.01,90.0,1.0,Fulham,False,Arsenal,,-0.48
-Saša Lukić,Fulham,Arsenal,2023-08-26,False,70,0.0,0.03,0.0,0.0,1,1.0,0.0,0.6,0,1,68209,2.0,0.02,83.33,0.0,Fulham,False,Manchester City,,-1.32
-Saša Lukić,Fulham,Manchester City,,False,0,,,,,0,,,0.0,0,0,58765,1.5,0.01,62.5,0.0,Fulham,True,Luton,,
-Saša Lukić,Fulham,Luton,,True,0,,,,,0,,,0.0,0,0,46222,1.2,0.01,50.0,0.0,Fulham,False,Crystal Palace,,0.38
-Saša Lukić,Fulham,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,39552,0.6,0.01,41.67,1.0,Fulham,True,Chelsea,,-0.25
-Saša Lukić,Fulham,Chelsea,2023-10-02,True,15,0.0,0.55,0.0,0.0,1,1.0,0.0,2.6,0,0,34962,0.4,0.12,37.86,0.0,Fulham,True,Sheffield,,0.68
-Saša Lukić,Fulham,Sheffield,,True,0,,,,,0,,,0.0,0,0,35053,0.2,0.11,33.12,2.0,Fulham,False,Tottenham,,-0.36
-Saša Lukić,Fulham,Tottenham,2023-10-23,False,71,0.0,0.01,0.0,0.0,2,1.0,0.0,0.5,0,1,34115,0.6,0.11,37.33,1.0,Fulham,False,Brighton,,-0.6
-Saša Lukić,Fulham,Brighton,2023-10-29,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,34970,0.8,0.11,33.7,1.0,Fulham,True,Manchester United,,0.38
-Saša Lukić,Fulham,Manchester United,2023-11-04,True,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,36560,1.0,0.11,31.91,0.0,Fulham,False,Aston Villa,,0.29
-Saša Lukić,Fulham,Aston Villa,,False,0,,,,,0,,,0.0,0,0,35702,0.8,0.0,29.25,1.0,Fulham,True,Wolverhampton,,0.05
-Saša Lukić,Fulham,Wolverhampton,2023-11-27,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,35056,1.0,0.0,27.08,0.0,Fulham,False,Liverpool,,-1.01
-Saša Lukić,Fulham,Liverpool,,False,0,,,,,0,,,0.0,0,0,34823,0.6,0.0,25.14,1.0,Fulham,True,Nottingham Forest,,1.55
-Saša Lukić,Fulham,Nottingham Forest,2023-12-06,True,11,0.0,0.02,0.0,0.0,1,1.0,0.0,0.0,0,0,34606,0.6,0.0,24.2,0.0,Fulham,True,West Ham,,0.49
-Saša Lukić,Fulham,West Ham,,True,0,,,,,0,,,0.0,0,0,33869,0.4,0.0,22.69,1.0,Fulham,False,Newcastle United,,-0.41
-Saša Lukić,Fulham,Newcastle United,2023-12-16,False,14,0.0,0.0,0.0,0.06,1,0.0,1.0,1.9,0,0,32387,0.6,0.0,22.18,0.0,Fulham,True,Burnley,,0.39
-Saša Lukić,Fulham,Burnley,,True,0,,,,,0,,,0.0,0,0,32279,0.4,0.0,20.94,1.0,Fulham,False,Bournemouth,,0.19
-Saša Lukić,Fulham,Bournemouth,2023-12-26,False,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,35067,0.6,0.0,20.21,0.0,Fulham,True,Arsenal,,-0.11
-Saša Lukić,Fulham,Arsenal,,True,0,,,,,0,,,0.0,0,0,35723,0.4,0.0,19.2,1.0,Fulham,False,Chelsea,,-0.85
-Saša Lukić,Fulham,Chelsea,2024-01-13,False,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,33559,0.6,0.0,18.67,0.0,Fulham,True,Everton,,0.53
-Saša Lukić,Fulham,Everton,,True,0,,,,,0,,,0.0,0,0,33034,0.4,0.0,17.82,0.0,Fulham,False,Burnley,,0.0
-Saša Lukić,Fulham,Burnley,,False,0,,,,,0,,,0.0,0,0,33103,0.4,0.0,17.04,0.0,Fulham,True,Bournemouth,,1.22
-Saša Lukić,Fulham,Bournemouth,,True,0,,,,,0,,,0.0,0,0,32988,0.2,0.0,16.33,0.0,Fulham,True,Aston Villa,,0.64
-Saša Lukić,Fulham,Aston Villa,2024-02-17,True,1,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,33708,0.2,0.0,15.72,2.0,Fulham,False,Manchester United,,-0.63
-Saša Lukić,Fulham,Manchester United,2024-02-24,False,90,0.0,0.09,0.0,0.05,2,1.0,1.0,4.0,0,1,33053,0.4,0.02,18.58,3.0,Fulham,True,Brighton,,-0.66
-Saša Lukić,Fulham,Brighton,2024-03-02,True,87,0.0,0.0,0.0,0.08,3,0.0,1.0,2.2,0,1,34474,1.0,0.02,21.11,2.0,Fulham,False,Wolverhampton,,-0.52
-Saša Lukić,Fulham,Wolverhampton,2024-03-09,False,69,0.0,0.07,0.0,0.0,2,1.0,0.0,1.5,0,1,35523,1.4,0.03,22.82,8.0,Fulham,True,Tottenham,,0.69
-Saša Lukić,Fulham,Tottenham,2024-03-16,True,80,1.0,0.2,0.0,0.0,8,2.0,0.0,7.7,0,1,35051,3.0,0.07,24.79,2.0,Fulham,False,Sheffield,,-0.61
-Saša Lukić,Fulham,Sheffield,2024-03-30,False,62,0.0,0.07,0.0,0.0,2,1.0,0.0,1.9,0,1,43694,3.4,0.09,26.03,1.0,Fulham,False,Nottingham Forest,,-0.55
-Saša Lukić,Fulham,Nottingham Forest,2024-04-02,False,32,0.0,0.0,0.0,0.02,1,0.0,1.0,1.8,0,1,47196,3.2,0.07,26.23,0.0,Fulham,True,Newcastle United,,0.55
-Saša Lukić,Fulham,Newcastle United,2024-04-06,True,25,0.0,0.0,0.0,0.0,0,0.0,0.0,0.4,0,0,45850,2.6,0.07,26.19,3.0,Fulham,False,West Ham,,-0.22
-Saša Lukić,Fulham,West Ham,2024-04-14,False,90,0.0,0.07,0.0,0.19,3,1.0,2.0,5.3,0,1,45426,2.8,0.07,28.12,2.0,Fulham,True,Liverpool,,0.18
-Saša Lukić,Fulham,Liverpool,2024-04-21,True,90,0.0,0.06,0.0,0.0,2,1.0,0.0,1.9,0,1,43060,1.6,0.04,29.94,1.0,Fulham,True,Crystal Palace,,0.88
-Saša Lukić,Fulham,Crystal Palace,2024-04-27,True,21,0.0,0.0,0.0,0.05,1,0.0,1.0,2.1,0,0,40997,1.4,0.03,29.69,3.0,Fulham,False,Brentford,,-0.53
-Saša Lukić,Fulham,Brentford,2024-05-04,False,74,0.0,0.07,0.0,0.1,3,1.0,2.0,4.4,0,1,40346,1.8,0.04,30.92,0.0,Fulham,True,Manchester City,,-0.96
-Saša Lukić,Fulham,Manchester City,,True,0,,,,,0,,,0.0,0,0,40089,1.8,0.04,30.08,0.0,Fulham,False,Luton,,
-Saša Lukić,Fulham,Luton,,False,0,,,,,0,,,0.0,0,0,36518,1.2,0.03,29.29,,Fulham,False,Manchester United,,-0.63
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Saša Lukić,Fulham,Everton,2023-08-12,False,90,0.0,0.03,0.0,0.05,3,1.0,1.0,2.1,0,1,0.23,3.0,0.03,90.0,0,0,0,0,0,2.0,Fulham,True,Brentford,,0.79
+Saša Lukić,Fulham,Brentford,2023-08-19,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.3,0,1,0.67,2.5,0.01,90.0,0,0,0,0,0,1.0,Fulham,False,Arsenal,,-0.48
+Saša Lukić,Fulham,Arsenal,2023-08-26,False,70,0.0,0.03,0.0,0.0,1,1.0,0.0,0.6,0,1,0.63,2.0,0.02,83.33,0,0,0,0,0,0.0,Fulham,False,Manchester City,,-1.32
+Saša Lukić,Fulham,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.54,1.5,0.01,62.5,0,0,0,0,0,0.0,Fulham,True,Luton,,
+Saša Lukić,Fulham,Luton,,True,0,,,,,0,,,0.0,0,0,0.43,1.2,0.01,50.0,0,0,0,0,0,0.0,Fulham,False,Crystal Palace,,0.38
+Saša Lukić,Fulham,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.37,0.6,0.01,41.67,0,0,0,0,0,1.0,Fulham,True,Chelsea,,-0.25
+Saša Lukić,Fulham,Chelsea,2023-10-02,True,15,0.0,0.55,0.0,0.0,1,1.0,0.0,2.6,0,0,0.32,0.4,0.12,37.86,0,0,0,0,0,0.0,Fulham,True,Sheffield,,0.68
+Saša Lukić,Fulham,Sheffield,,True,0,,,,,0,,,0.0,0,0,0.32,0.2,0.11,33.12,0,0,0,0,0,2.0,Fulham,False,Tottenham,,-0.36
+Saša Lukić,Fulham,Tottenham,2023-10-23,False,71,0.0,0.01,0.0,0.0,2,1.0,0.0,0.5,0,1,0.31,0.6,0.11,37.33,0,0,0,0,0,1.0,Fulham,False,Brighton,,-0.6
+Saša Lukić,Fulham,Brighton,2023-10-29,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,0.32,0.8,0.11,33.7,0,0,0,0,0,1.0,Fulham,True,Manchester United,,0.38
+Saša Lukić,Fulham,Manchester United,2023-11-04,True,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0.34,1.0,0.11,31.91,0,0,0,0,0,0.0,Fulham,False,Aston Villa,,0.29
+Saša Lukić,Fulham,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.33,0.8,0.0,29.25,0,0,0,0,0,1.0,Fulham,True,Wolverhampton,,0.05
+Saša Lukić,Fulham,Wolverhampton,2023-11-27,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0.32,1.0,0.0,27.08,0,0,0,0,0,0.0,Fulham,False,Liverpool,,-1.01
+Saša Lukić,Fulham,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.32,0.6,0.0,25.14,0,0,0,0,0,1.0,Fulham,True,Nottingham Forest,,1.55
+Saša Lukić,Fulham,Nottingham Forest,2023-12-06,True,11,0.0,0.02,0.0,0.0,1,1.0,0.0,0.0,0,0,0.32,0.6,0.0,24.2,0,0,0,0,0,0.0,Fulham,True,West Ham,,0.49
+Saša Lukić,Fulham,West Ham,,True,0,,,,,0,,,0.0,0,0,0.31,0.4,0.0,22.69,0,0,0,0,0,1.0,Fulham,False,Newcastle United,,-0.41
+Saša Lukić,Fulham,Newcastle United,2023-12-16,False,14,0.0,0.0,0.0,0.06,1,0.0,1.0,1.9,0,0,0.3,0.6,0.0,22.18,0,0,0,0,0,0.0,Fulham,True,Burnley,,0.39
+Saša Lukić,Fulham,Burnley,,True,0,,,,,0,,,0.0,0,0,0.3,0.4,0.0,20.94,0,0,0,0,0,1.0,Fulham,False,Bournemouth,,0.19
+Saša Lukić,Fulham,Bournemouth,2023-12-26,False,7,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.32,0.6,0.0,20.21,0,0,0,0,0,0.0,Fulham,True,Arsenal,,-0.11
+Saša Lukić,Fulham,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.33,0.4,0.0,19.2,0,0,0,0,0,1.0,Fulham,False,Chelsea,,-0.85
+Saša Lukić,Fulham,Chelsea,2024-01-13,False,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,0.31,0.6,0.0,18.67,0,0,0,0,0,0.0,Fulham,True,Everton,,0.53
+Saša Lukić,Fulham,Everton,,True,0,,,,,0,,,0.0,0,0,0.3,0.4,0.0,17.82,0,0,0,0,0,0.0,Fulham,False,Burnley,,0.0
+Saša Lukić,Fulham,Burnley,,False,0,,,,,0,,,0.0,0,0,0.31,0.4,0.0,17.04,0,0,0,0,0,0.0,Fulham,True,Bournemouth,,1.22
+Saša Lukić,Fulham,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.3,0.2,0.0,16.33,0,0,0,0,0,0.0,Fulham,True,Aston Villa,,0.64
+Saša Lukić,Fulham,Aston Villa,2024-02-17,True,1,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.31,0.2,0.0,15.72,0,0,0,0,0,2.0,Fulham,False,Manchester United,,-0.63
+Saša Lukić,Fulham,Manchester United,2024-02-24,False,90,0.0,0.09,0.0,0.05,2,1.0,1.0,4.0,0,1,0.31,0.4,0.02,18.58,0,0,0,0,0,3.0,Fulham,True,Brighton,,-0.66
+Saša Lukić,Fulham,Brighton,2024-03-02,True,87,0.0,0.0,0.0,0.08,3,0.0,1.0,2.2,0,1,0.32,1.0,0.02,21.11,0,0,0,0,0,2.0,Fulham,False,Wolverhampton,,-0.52
+Saša Lukić,Fulham,Wolverhampton,2024-03-09,False,69,0.0,0.07,0.0,0.0,2,1.0,0.0,1.5,0,1,0.33,1.4,0.03,22.82,0,0,0,0,0,8.0,Fulham,True,Tottenham,,0.69
+Saša Lukić,Fulham,Tottenham,2024-03-16,True,80,1.0,0.2,0.0,0.0,8,2.0,0.0,7.7,0,1,0.32,3.0,0.07,24.79,0,0,0,0,0,2.0,Fulham,False,Sheffield,,-0.61
+Saša Lukić,Fulham,Sheffield,2024-03-30,False,62,0.0,0.07,0.0,0.0,2,1.0,0.0,1.9,0,1,0.4,3.4,0.09,26.03,0,0,0,0,0,1.0,Fulham,False,Nottingham Forest,,-0.55
+Saša Lukić,Fulham,Nottingham Forest,2024-04-02,False,32,0.0,0.0,0.0,0.02,1,0.0,1.0,1.8,0,1,0.44,3.2,0.07,26.23,0,0,0,0,0,0.0,Fulham,True,Newcastle United,,0.55
+Saša Lukić,Fulham,Newcastle United,2024-04-06,True,25,0.0,0.0,0.0,0.0,0,0.0,0.0,0.4,0,0,0.42,2.6,0.07,26.19,0,0,0,0,0,3.0,Fulham,False,West Ham,,-0.22
+Saša Lukić,Fulham,West Ham,2024-04-14,False,90,0.0,0.07,0.0,0.19,3,1.0,2.0,5.3,0,1,0.42,2.8,0.07,28.12,0,0,0,0,0,2.0,Fulham,True,Liverpool,,0.18
+Saša Lukić,Fulham,Liverpool,2024-04-21,True,90,0.0,0.06,0.0,0.0,2,1.0,0.0,1.9,0,1,0.4,1.6,0.04,29.94,0,0,0,0,0,1.0,Fulham,True,Crystal Palace,,0.88
+Saša Lukić,Fulham,Crystal Palace,2024-04-27,True,21,0.0,0.0,0.0,0.05,1,0.0,1.0,2.1,0,0,0.38,1.4,0.03,29.69,0,0,0,0,0,3.0,Fulham,False,Brentford,,-0.53
+Saša Lukić,Fulham,Brentford,2024-05-04,False,74,0.0,0.07,0.0,0.1,3,1.0,2.0,4.4,0,1,0.37,1.8,0.04,30.92,0,0,0,0,0,0.0,Fulham,True,Manchester City,,-0.96
+Saša Lukić,Fulham,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.37,1.8,0.04,30.08,0,0,0,0,0,0.0,Fulham,False,Luton,,
+Saša Lukić,Fulham,Luton,,False,0,,,,,0,,,0.0,0,0,0.34,1.2,0.03,29.29,0,0,0,0,0,,Fulham,False,Manchester United,,-0.63

@@ -1,38 +1,38 @@
 name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Martin Dubravka,Newcastle,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,97650,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Newcastle,False,Brighton,,-0.39
-Martin Dubravka,Newcastle,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,88301,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Newcastle,True,Manchester City,,-1.17
-Martin Dubravka,Newcastle,Manchester City,,True,0,0,0.0,0,0,0,0,0,,0,80477,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Newcastle,False,Wolverhampton,,-0.46
-Martin Dubravka,Newcastle,Wolverhampton,,False,0,0,0.0,0,0,0,0,0,,0,75541,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Newcastle,False,Liverpool,,-1.33
-Martin Dubravka,Newcastle,Liverpool,,False,0,0,0.0,0,0,0,0,0,,0,71700,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,True,Arsenal,,0.36
-Martin Dubravka,Man Utd,Arsenal,,True,0,0,0.0,0,0,0,0,0,,0,67240,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,False,Manchester City,,-1.26
-Martin Dubravka,Man Utd,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,58124,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,False,Everton,,-0.63
-Martin Dubravka,Man Utd,Everton,,False,0,0,0.0,0,0,0,0,0,,0,55102,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,True,Newcastle United,,0.73
-Martin Dubravka,Man Utd,Newcastle United,,True,0,0,0.0,0,0,0,0,0,,0,53914,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,True,Tottenham,,1.07
-Martin Dubravka,Man Utd,Tottenham,,True,0,0,0.0,0,0,0,0,0,,0,51210,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,False,Chelsea,,-0.72
-Martin Dubravka,Man Utd,Chelsea,,False,0,0,0.0,0,0,0,0,0,,0,51121,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,True,West Ham,,0.63
-Martin Dubravka,Man Utd,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,50011,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,False,Aston Villa,,0.59
-Martin Dubravka,Man Utd,Aston Villa,,False,0,0,0.0,0,0,0,0,0,,0,49093,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,False,Fulham,,1.37
-Martin Dubravka,Man Utd,Fulham,,False,0,0,0.0,0,0,0,0,0,,0,48260,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,True,Nottingham Forest,,
-Martin Dubravka,Man Utd,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,45841,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,False,Wolverhampton,,-0.46
-Martin Dubravka,Man Utd,Wolverhampton,,False,0,0,0.0,0,0,0,0,0,,0,45457,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Newcastle,False,Arsenal,,-0.0
-Martin Dubravka,Newcastle,Arsenal,,False,0,0,0.0,0,0,0,0,0,,0,45031,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Newcastle,True,Fulham,,-0.3
-Martin Dubravka,Newcastle,Fulham,,True,0,0,0.0,0,0,0,0,0,,0,43094,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Newcastle,False,Crystal Palace,,0.13
-Martin Dubravka,Newcastle,Crystal Palace,,False,0,0,0.0,0,0,0,0,0,,0,42237,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Newcastle,True,West Ham,,0.63
-Martin Dubravka,Newcastle,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,41627,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Newcastle,False,Bournemouth,,0.19
-Martin Dubravka,Newcastle,Bournemouth,,False,0,0,0.0,0,0,0,0,0,,0,41571,0.0,0,0.0,0.0,0.0,0.31,73,0,8.0,Newcastle,True,Liverpool,,-0.53
-Martin Dubravka,Newcastle,Liverpool,2023-02-18,True,66,0,1.12,5,0,8,1,1,0.0,0,41573,1.6,0,3.0,1.0,5.0,0.31,73,0,0.0,Newcastle,False,Manchester City,,-1.26
-Martin Dubravka,Newcastle,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,44900,1.6,0,2.87,1.0,5.0,0.31,73,0,0.0,Newcastle,True,Wolverhampton,,-0.48
-Martin Dubravka,Newcastle,Wolverhampton,,True,0,0,0.0,0,0,0,0,0,,0,44832,1.6,0,2.75,1.0,5.0,0.31,73,0,0.0,Newcastle,False,Nottingham Forest,,
-Martin Dubravka,Newcastle,Nottingham Forest,,False,0,0,0.0,0,0,0,0,0,,0,45193,1.6,0,2.64,1.0,5.0,0.31,73,0,0.0,Newcastle,True,Manchester United,,0.38
-Martin Dubravka,Newcastle,Manchester United,,True,0,0,0.0,0,0,0,0,0,,0,45006,1.6,0,2.54,1.0,5.0,0.31,73,0,0.0,Newcastle,False,West Ham,,0.14
-Martin Dubravka,Newcastle,West Ham,,False,0,0,0.0,0,0,0,0,0,,0,45006,0.0,0,2.44,1.0,5.0,0.31,73,0,0.0,Newcastle,False,Brentford,,-0.55
-Martin Dubravka,Newcastle,Brentford,,False,0,0,0.0,0,0,0,0,0,,0,44774,0.0,0,2.36,1.0,5.0,0.31,73,0,0.0,Newcastle,False,Aston Villa,,0.59
-Martin Dubravka,Newcastle,Aston Villa,,False,0,0,0.0,0,0,0,0,0,,0,44687,0.0,0,2.28,1.0,5.0,0.31,73,0,0.0,Newcastle,True,Tottenham,,1.07
-Martin Dubravka,Newcastle,Tottenham,,True,0,0,0.0,0,0,0,0,0,,0,44823,0.0,0,2.2,1.0,5.0,0.31,73,0,0.0,Newcastle,False,Everton,,-0.63
-Martin Dubravka,Newcastle,Everton,,False,0,0,0.0,0,0,0,0,0,,0,44568,0.0,0,2.13,1.0,5.0,0.31,73,0,0.0,Newcastle,True,Southampton,,-0.38
-Martin Dubravka,Newcastle,Southampton,,True,0,0,0.0,0,0,0,0,0,,0,44551,0.0,0,2.06,1.0,5.0,0.31,73,0,0.0,Newcastle,True,Arsenal,,0.36
-Martin Dubravka,Newcastle,Arsenal,,True,0,0,0.0,0,0,0,0,0,,0,44382,0.0,0,2.0,1.0,5.0,0.31,73,0,0.0,Newcastle,False,Leicester City,,-0.05
-Martin Dubravka,Newcastle,Leicester City,,False,0,0,0.0,0,0,0,0,0,,0,44000,0.0,0,1.94,1.0,5.0,0.31,73,0,0.0,Newcastle,True,Brighton,,-0.71
-Martin Dubravka,Newcastle,Brighton,,True,0,0,0.0,0,0,0,0,0,,0,44000,0.0,0,1.89,1.0,5.0,0.31,73,0,0.0,Newcastle,True,Leeds United,,-0.79
-Martin Dubravka,Newcastle,Leeds United,,True,0,0,0.0,0,0,0,0,0,,0,44058,0.0,0,1.83,1.0,5.0,0.31,73,0,3.0,Newcastle,False,Chelsea,,-0.72
-Martin Dubravka,Newcastle,Chelsea,2023-05-28,False,90,1,2.21,5,0,3,0,0,0.0,1,51267,0.6,0,4.22,0.5,5.0,0.31,73,0,0.0,Newcastle,True,Aston Villa,,0.55
+Martin Dubravka,Newcastle,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,0.9,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Newcastle,False,Brighton,,-0.39
+Martin Dubravka,Newcastle,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,0.82,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Newcastle,True,Manchester City,,-1.17
+Martin Dubravka,Newcastle,Manchester City,,True,0,0,0.0,0,0,0,0,0,,0,0.74,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Newcastle,False,Wolverhampton,,-0.46
+Martin Dubravka,Newcastle,Wolverhampton,,False,0,0,0.0,0,0,0,0,0,,0,0.7,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Newcastle,False,Liverpool,,-1.33
+Martin Dubravka,Newcastle,Liverpool,,False,0,0,0.0,0,0,0,0,0,,0,0.66,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,True,Arsenal,,0.36
+Martin Dubravka,Man Utd,Arsenal,,True,0,0,0.0,0,0,0,0,0,,0,0.62,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,False,Manchester City,,-1.26
+Martin Dubravka,Man Utd,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,0.54,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,False,Everton,,-0.63
+Martin Dubravka,Man Utd,Everton,,False,0,0,0.0,0,0,0,0,0,,0,0.51,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,True,Newcastle United,,0.73
+Martin Dubravka,Man Utd,Newcastle United,,True,0,0,0.0,0,0,0,0,0,,0,0.5,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,True,Tottenham,,1.07
+Martin Dubravka,Man Utd,Tottenham,,True,0,0,0.0,0,0,0,0,0,,0,0.47,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,False,Chelsea,,-0.72
+Martin Dubravka,Man Utd,Chelsea,,False,0,0,0.0,0,0,0,0,0,,0,0.47,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,True,West Ham,,0.63
+Martin Dubravka,Man Utd,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,0.46,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,False,Aston Villa,,0.59
+Martin Dubravka,Man Utd,Aston Villa,,False,0,0,0.0,0,0,0,0,0,,0,0.45,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,False,Fulham,,1.37
+Martin Dubravka,Man Utd,Fulham,,False,0,0,0.0,0,0,0,0,0,,0,0.45,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,True,Nottingham Forest,,
+Martin Dubravka,Man Utd,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,0.42,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Man Utd,False,Wolverhampton,,-0.46
+Martin Dubravka,Man Utd,Wolverhampton,,False,0,0,0.0,0,0,0,0,0,,0,0.42,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Newcastle,False,Arsenal,,-0.0
+Martin Dubravka,Newcastle,Arsenal,,False,0,0,0.0,0,0,0,0,0,,0,0.42,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Newcastle,True,Fulham,,-0.3
+Martin Dubravka,Newcastle,Fulham,,True,0,0,0.0,0,0,0,0,0,,0,0.4,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Newcastle,False,Crystal Palace,,0.13
+Martin Dubravka,Newcastle,Crystal Palace,,False,0,0,0.0,0,0,0,0,0,,0,0.39,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Newcastle,True,West Ham,,0.63
+Martin Dubravka,Newcastle,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,0.38,0.0,0,0.0,0.0,0.0,0.31,73,0,0.0,Newcastle,False,Bournemouth,,0.19
+Martin Dubravka,Newcastle,Bournemouth,,False,0,0,0.0,0,0,0,0,0,,0,0.38,0.0,0,0.0,0.0,0.0,0.31,73,0,8.0,Newcastle,True,Liverpool,,-0.53
+Martin Dubravka,Newcastle,Liverpool,2023-02-18,True,66,0,1.12,5,0,8,1,1,0.0,0,0.38,1.6,0,3.0,1.0,5.0,0.31,73,0,0.0,Newcastle,False,Manchester City,,-1.26
+Martin Dubravka,Newcastle,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,0.41,1.6,0,2.87,1.0,5.0,0.31,73,0,0.0,Newcastle,True,Wolverhampton,,-0.48
+Martin Dubravka,Newcastle,Wolverhampton,,True,0,0,0.0,0,0,0,0,0,,0,0.41,1.6,0,2.75,1.0,5.0,0.31,73,0,0.0,Newcastle,False,Nottingham Forest,,
+Martin Dubravka,Newcastle,Nottingham Forest,,False,0,0,0.0,0,0,0,0,0,,0,0.42,1.6,0,2.64,1.0,5.0,0.31,73,0,0.0,Newcastle,True,Manchester United,,0.38
+Martin Dubravka,Newcastle,Manchester United,,True,0,0,0.0,0,0,0,0,0,,0,0.42,1.6,0,2.54,1.0,5.0,0.31,73,0,0.0,Newcastle,False,West Ham,,0.14
+Martin Dubravka,Newcastle,West Ham,,False,0,0,0.0,0,0,0,0,0,,0,0.42,0.0,0,2.44,1.0,5.0,0.31,73,0,0.0,Newcastle,False,Brentford,,-0.55
+Martin Dubravka,Newcastle,Brentford,,False,0,0,0.0,0,0,0,0,0,,0,0.41,0.0,0,2.36,1.0,5.0,0.31,73,0,0.0,Newcastle,False,Aston Villa,,0.59
+Martin Dubravka,Newcastle,Aston Villa,,False,0,0,0.0,0,0,0,0,0,,0,0.41,0.0,0,2.28,1.0,5.0,0.31,73,0,0.0,Newcastle,True,Tottenham,,1.07
+Martin Dubravka,Newcastle,Tottenham,,True,0,0,0.0,0,0,0,0,0,,0,0.41,0.0,0,2.2,1.0,5.0,0.31,73,0,0.0,Newcastle,False,Everton,,-0.63
+Martin Dubravka,Newcastle,Everton,,False,0,0,0.0,0,0,0,0,0,,0,0.41,0.0,0,2.13,1.0,5.0,0.31,73,0,0.0,Newcastle,True,Southampton,,-0.38
+Martin Dubravka,Newcastle,Southampton,,True,0,0,0.0,0,0,0,0,0,,0,0.41,0.0,0,2.06,1.0,5.0,0.31,73,0,0.0,Newcastle,True,Arsenal,,0.36
+Martin Dubravka,Newcastle,Arsenal,,True,0,0,0.0,0,0,0,0,0,,0,0.41,0.0,0,2.0,1.0,5.0,0.31,73,0,0.0,Newcastle,False,Leicester City,,-0.05
+Martin Dubravka,Newcastle,Leicester City,,False,0,0,0.0,0,0,0,0,0,,0,0.41,0.0,0,1.94,1.0,5.0,0.31,73,0,0.0,Newcastle,True,Brighton,,-0.71
+Martin Dubravka,Newcastle,Brighton,,True,0,0,0.0,0,0,0,0,0,,0,0.41,0.0,0,1.89,1.0,5.0,0.31,73,0,0.0,Newcastle,True,Leeds United,,-0.79
+Martin Dubravka,Newcastle,Leeds United,,True,0,0,0.0,0,0,0,0,0,,0,0.41,0.0,0,1.83,1.0,5.0,0.31,73,0,3.0,Newcastle,False,Chelsea,,-0.72
+Martin Dubravka,Newcastle,Chelsea,2023-05-28,False,90,1,2.21,5,0,3,0,0,0.0,1,0.47,0.6,0,4.22,0.5,5.0,0.31,73,0,0.0,Newcastle,True,Aston Villa,,0.55

@@ -1,12 +1,12 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jayden Meghoma,Brentford,Manchester City,2024-09-14,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1200.0,0.0,0.0,0.0,0.0,0.0,Brentford,False,Tottenham,,-0.3
-Jayden Meghoma,Brentford,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1804.0,0.0,0.0,0.0,0.0,0.0,Brentford,True,West Ham,,0.48
-Jayden Meghoma,Brentford,West Ham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,2821.0,0.0,0.0,0.0,0.0,0.0,Brentford,True,Wolverhampton,,-0.08
-Jayden Meghoma,Brentford,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,3178.0,0.0,0.0,0.0,0.0,0.0,Brentford,False,Manchester United,,-0.41
-Jayden Meghoma,Brentford,Manchester United,2024-10-19,False,0.0,0.0,0.03,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3460.0,0.0,0.01,0.0,0.0,0.0,Brentford,True,Ipswich Town,,
-Jayden Meghoma,Brentford,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,3651.0,0.0,0.01,0.0,0.0,0.0,Brentford,False,Fulham,,0.53
-Jayden Meghoma,Brentford,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,3928.0,0.0,0.01,0.0,0.0,0.0,Brentford,True,Bournemouth,,0.84
-Jayden Meghoma,Brentford,Bournemouth,2024-11-09,True,0.0,0.0,0.32,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4100.0,0.0,0.07,0.0,0.0,0.0,Brentford,False,Everton,,-0.39
-Jayden Meghoma,Brentford,Everton,2024-11-23,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4359.0,0.0,0.07,0.0,0.0,,Brentford,True,Leicester City,,0.47
-,Brentford,,,,,,,,,,,,,,,,,,,,,,,,Brentford,False,Aston Villa,,0.11
-,Brentford,,,,,,,,,,,,,,,,,,,,,,,,Brentford,True,Newcastle United,,0.67
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jayden Meghoma,Brentford,Manchester City,2024-09-14,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,False,Tottenham,,-0.3
+Jayden Meghoma,Brentford,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,True,West Ham,,0.48
+Jayden Meghoma,Brentford,West Ham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,True,Wolverhampton,,-0.08
+Jayden Meghoma,Brentford,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,False,Manchester United,,-0.41
+Jayden Meghoma,Brentford,Manchester United,2024-10-19,False,0.0,0.0,0.03,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,True,Ipswich Town,,
+Jayden Meghoma,Brentford,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,False,Fulham,,0.53
+Jayden Meghoma,Brentford,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.04,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,True,Bournemouth,,0.84
+Jayden Meghoma,Brentford,Bournemouth,2024-11-09,True,0.0,0.0,0.32,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.04,0.0,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford,False,Everton,,-0.39
+Jayden Meghoma,Brentford,Everton,2024-11-23,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.04,0.0,0.07,0.0,0.0,0.0,0.0,0.0,0.0,,Brentford,True,Leicester City,,0.47
+,Brentford,,,,,,,,,,,,,,,,,,,,,,,,,,,,Brentford,False,Aston Villa,,0.11
+,Brentford,,,,,,,,,,,,,,,,,,,,,,,,,,,,Brentford,True,Newcastle United,,0.67

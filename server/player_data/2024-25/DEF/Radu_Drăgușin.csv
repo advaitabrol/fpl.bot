@@ -1,15 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Radu Drăgușin,Spurs,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,20787.0,0.0,0.0,0.0,0.0,0.0,Spurs,True,Everton,,0.61
-Radu Drăgușin,Spurs,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,21143.0,0.0,0.0,0.0,0.0,1.0,Spurs,False,Newcastle United,,-0.44
-Radu Drăgușin,Spurs,Newcastle United,2024-09-01,False,90.0,0.0,0.04,0.0,0.0,1.0,1.0,0.0,2.4,0.0,0.0,2.0,1.57,1.0,18707.0,0.33,0.01,30.0,0.0,0.0,Spurs,True,Arsenal,,-0.32
-Radu Drăgușin,Spurs,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,19950.0,0.25,0.01,22.5,0.0,0.0,Spurs,True,Brentford,,0.54
-Radu Drăgușin,Spurs,Brentford,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,19178.0,0.2,0.01,18.0,0.0,1.0,Spurs,False,Manchester United,,-0.41
-Radu Drăgușin,Spurs,Manchester United,2024-09-29,False,9.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,0.0,0.19,0.0,18054.0,0.4,0.01,16.5,0.0,0.0,Spurs,False,Brighton,,-0.61
-Radu Drăgușin,Spurs,Brighton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,17475.0,0.4,0.01,14.14,0.0,0.0,Spurs,True,West Ham,,0.48
-Radu Drăgușin,Spurs,West Ham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,17322.0,0.2,0.0,12.38,0.0,0.0,Spurs,False,Crystal Palace,,0.2
-Radu Drăgușin,Spurs,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,17054.0,0.2,0.0,11.0,0.0,2.0,Spurs,True,Aston Villa,,0.66
-Radu Drăgușin,Spurs,Aston Villa,2024-11-03,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.6,0.0,0.0,1.0,1.86,1.0,18008.0,0.6,0.0,18.9,0.0,1.0,Spurs,True,Ipswich Town,,
-Radu Drăgușin,Spurs,Ipswich Town,2024-11-10,True,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.1,0.0,0.0,2.0,1.74,1.0,23690.0,0.6,0.0,25.36,0.0,6.0,Spurs,False,Manchester City,,-1.51
-Radu Drăgușin,Spurs,Manchester City,2024-11-23,False,90.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,2.5,0.0,1.0,0.0,2.14,1.0,22101.0,1.8,0.0,30.75,0.2,,Spurs,True,Fulham,,0.27
-,Spurs,,,,,,,,,,,,,,,,,,,,,,,,Spurs,False,Bournemouth,,-0.04
-,Spurs,,,,,,,,,,,,,,,,,,,,,,,,Spurs,True,Chelsea,,0.0
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Radu Drăgușin,Spurs,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Spurs,True,Everton,,0.61
+Radu Drăgușin,Spurs,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Spurs,False,Newcastle United,,-0.44
+Radu Drăgușin,Spurs,Newcastle United,2024-09-01,False,90.0,0.0,0.04,0.0,0.0,1.0,1.0,0.0,2.4,0.0,0.0,2.0,1.57,1.0,0.17,0.33,0.01,30.0,0.0,0.0,0.0,0.0,0.0,0.0,Spurs,True,Arsenal,,-0.32
+Radu Drăgușin,Spurs,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.18,0.25,0.01,22.5,0.0,0.0,0.0,0.0,0.0,0.0,Spurs,True,Brentford,,0.54
+Radu Drăgușin,Spurs,Brentford,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.18,0.2,0.01,18.0,0.0,0.0,0.0,0.0,0.0,1.0,Spurs,False,Manchester United,,-0.41
+Radu Drăgușin,Spurs,Manchester United,2024-09-29,False,9.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,0.0,0.19,0.0,0.17,0.4,0.01,16.5,0.0,0.0,0.0,0.0,0.0,0.0,Spurs,False,Brighton,,-0.61
+Radu Drăgușin,Spurs,Brighton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.16,0.4,0.01,14.14,0.0,0.0,0.0,0.0,0.0,0.0,Spurs,True,West Ham,,0.48
+Radu Drăgușin,Spurs,West Ham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.16,0.2,0.0,12.38,0.0,0.0,0.0,0.0,0.0,0.0,Spurs,False,Crystal Palace,,0.2
+Radu Drăgușin,Spurs,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.16,0.2,0.0,11.0,0.0,0.0,0.0,0.0,0.0,2.0,Spurs,True,Aston Villa,,0.66
+Radu Drăgușin,Spurs,Aston Villa,2024-11-03,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.6,0.0,0.0,1.0,1.86,1.0,0.17,0.6,0.0,18.9,0.0,0.0,0.0,0.0,0.0,1.0,Spurs,True,Ipswich Town,,
+Radu Drăgușin,Spurs,Ipswich Town,2024-11-10,True,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.1,0.0,0.0,2.0,1.74,1.0,0.22,0.6,0.0,25.36,0.0,0.0,0.0,0.0,0.0,6.0,Spurs,False,Manchester City,,-1.51
+Radu Drăgușin,Spurs,Manchester City,2024-11-23,False,90.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,2.5,0.0,1.0,0.0,2.14,1.0,0.2,1.8,0.0,30.75,0.2,0.0,0.0,0.0,0.0,,Spurs,True,Fulham,,0.27
+,Spurs,,,,,,,,,,,,,,,,,,,,,,,,,,,,Spurs,False,Bournemouth,,-0.04
+,Spurs,,,,,,,,,,,,,,,,,,,,,,,,,,,,Spurs,True,Chelsea,,0.0

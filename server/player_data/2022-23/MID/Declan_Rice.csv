@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Declan Rice,West Ham,Manchester City,2022-08-07,True,90,0.0,0.06,0.0,0.0,2,1.0,0.0,2.5,0,0,501042,2.0,0.06,90.0,1.0,4.0,1.05,1.56,0.03,-1.0,West Ham,False,Nottingham Forest,,
-Declan Rice,West Ham,Nottingham Forest,2022-08-14,False,90,0.0,0.76,0.0,0.0,-1,1.0,0.0,4.1,0,0,567681,0.5,0.41,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Brighton,,-0.71
-Declan Rice,West Ham,Brighton,2022-08-21,True,90,0.0,0.02,0.0,0.08,2,1.0,2.0,5.1,0,0,534098,1.0,0.28,90.0,1.0,4.0,1.05,1.56,0.03,6.0,West Ham,False,Aston Villa,,0.59
-Declan Rice,West Ham,Aston Villa,2022-08-28,False,90,0.0,0.03,1.0,0.05,6,1.0,2.0,5.3,0,0,465152,2.25,0.47,90.0,1.0,4.0,1.05,1.56,0.03,3.0,West Ham,True,Tottenham,,1.07
-Declan Rice,West Ham,Tottenham,2022-08-31,True,90,0.0,0.05,0.0,0.11,3,2.0,1.0,5.3,1,0,450472,2.4,0.38,90.0,1.0,4.0,1.05,1.56,0.03,6.0,West Ham,False,Chelsea,,-0.72
-Declan Rice,West Ham,Chelsea,2022-09-03,False,90,0.0,0.0,0.0,0.02,6,0.0,1.0,3.6,1,0,441325,3.2,0.37,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,False,Everton,,-0.63
-Declan Rice,West Ham,Everton,2022-09-18,False,90,0.0,0.0,0.0,0.07,2,0.0,1.0,3.4,0,0,462736,3.8,0.22,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Wolverhampton,,-0.48
-Declan Rice,West Ham,Wolverhampton,2022-10-01,True,90,0.0,0.05,0.0,0.14,2,1.0,2.0,5.6,0,0,460983,3.8,0.23,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Fulham,,-0.3
-Declan Rice,West Ham,Fulham,2022-10-09,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.4,0,0,449519,3.0,0.02,90.0,1.0,4.0,1.05,1.56,0.03,10.0,West Ham,False,Southampton,,-1.07
-Declan Rice,West Ham,Southampton,2022-10-16,False,90,1.0,0.04,0.0,0.03,10,2.0,2.0,9.3,3,0,433897,4.4,0.02,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,False,Liverpool,,-1.33
-Declan Rice,West Ham,Liverpool,2022-10-19,False,90,0.0,0.0,0.0,0.3,2,0.0,1.0,4.6,0,0,441911,3.6,0.02,90.0,1.0,4.0,1.05,1.56,0.03,3.0,West Ham,True,Bournemouth,,1.46
-Declan Rice,West Ham,Bournemouth,2022-10-24,True,90,0.0,0.07,0.0,0.08,3,3.0,3.0,7.5,0,0,458629,3.8,0.03,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,False,Manchester United,,-0.1
-Declan Rice,West Ham,Manchester United,2022-10-30,False,90,0.0,0.03,0.0,0.02,2,2.0,1.0,5.5,0,0,441946,3.8,0.03,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Crystal Palace,,0.81
-Declan Rice,West Ham,Crystal Palace,2022-11-06,True,90,0.0,0.04,0.0,0.05,2,1.0,1.0,2.6,0,0,431264,3.8,0.04,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Leeds United,,-0.79
-Declan Rice,West Ham,Leeds United,2022-11-12,True,90,0.0,0.08,0.0,0.01,2,3.0,1.0,3.2,0,1,414921,2.2,0.04,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,False,Arsenal,,-0.0
-Declan Rice,West Ham,Arsenal,2022-12-26,False,90,0.0,0.0,0.0,0.05,2,0.0,2.0,3.8,0,1,395405,2.2,0.04,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Brentford,,0.69
-Declan Rice,West Ham,Brentford,2022-12-30,True,90,0.0,0.01,0.0,0.0,2,1.0,0.0,3.0,0,1,390615,2.0,0.03,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,False,Leicester City,,-0.05
-Declan Rice,West Ham,Leicester City,2023-01-04,False,90,0.0,0.08,0.0,0.05,2,3.0,1.0,1.9,0,1,380827,2.0,0.04,90.0,1.0,4.0,1.05,1.56,0.03,1.0,West Ham,False,Wolverhampton,,-0.46
-Declan Rice,West Ham,Wolverhampton,2023-01-14,False,90,0.0,0.08,0.0,0.08,1,2.0,2.0,5.4,0,1,369377,1.8,0.05,90.0,1.0,4.0,1.05,1.56,0.03,3.0,West Ham,True,Everton,,0.34
-Declan Rice,West Ham,Everton,2023-01-21,True,90,0.0,0.11,0.0,0.02,3,1.0,1.0,3.9,0,1,359257,2.0,0.06,90.0,1.0,4.0,1.05,1.56,0.03,7.0,West Ham,False,Newcastle United,,-0.34
-Declan Rice,West Ham,Newcastle United,2023-02-04,False,90,0.0,0.0,0.0,0.08,7,0.0,1.0,2.8,2,1,348082,3.0,0.06,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Chelsea,,-0.25
-Declan Rice,West Ham,Chelsea,2023-02-11,True,90,0.0,0.01,0.0,0.0,2,1.0,0.0,2.4,0,1,347307,3.0,0.06,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,False,Tottenham,,-0.03
-Declan Rice,West Ham,Tottenham,2023-02-19,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.1,0,1,345589,3.0,0.04,90.0,1.0,4.0,1.05,1.56,0.03,10.0,West Ham,True,Nottingham Forest,,
-Declan Rice,West Ham,Nottingham Forest,2023-02-25,True,90,1.0,0.03,0.0,0.25,10,1.0,4.0,11.4,2,1,352698,4.8,0.03,90.0,1.0,4.0,1.05,1.56,0.03,1.0,West Ham,False,Brighton,,-0.39
-Declan Rice,West Ham,Brighton,2023-03-04,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,1,363488,4.4,0.01,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Aston Villa,,0.55
-Declan Rice,West Ham,Aston Villa,2023-03-12,True,90,0.0,0.0,0.0,0.45,2,0.0,2.0,5.2,0,1,356218,3.4,0.01,90.0,1.0,4.0,1.05,1.56,0.03,3.0,West Ham,True,Southampton,,-0.38
-Declan Rice,West Ham,Southampton,2023-04-02,True,90,0.0,0.0,0.0,0.0,3,0.0,0.0,2.4,0,1,353054,3.6,0.01,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Newcastle United,,0.73
-Declan Rice,West Ham,Newcastle United,2023-04-05,True,90,0.0,0.03,0.0,0.12,2,1.0,1.0,3.7,0,1,353054,3.6,0.01,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,False,Fulham,,1.37
-Declan Rice,West Ham,Fulham,2023-04-08,False,90,0.0,0.03,0.0,0.0,2,1.0,0.0,3.0,0,1,351571,2.0,0.01,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Arsenal,,0.36
-Declan Rice,West Ham,Arsenal,2023-04-16,True,90,0.0,0.07,0.0,0.0,2,1.0,0.0,2.3,0,1,350420,2.2,0.02,90.0,1.0,4.0,1.05,1.56,0.03,9.0,West Ham,False,Bournemouth,,0.19
-Declan Rice,West Ham,Bournemouth,2023-04-23,False,90,1.0,0.11,0.0,0.08,9,2.0,1.0,8.3,1,1,355048,3.6,0.05,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Liverpool,,-0.53
-Declan Rice,West Ham,Liverpool,2023-04-26,True,90,0.0,0.0,0.0,0.17,2,0.0,2.0,5.1,0,1,358748,3.4,0.05,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,False,Crystal Palace,,0.13
-Declan Rice,West Ham,Crystal Palace,2023-04-29,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,1,369013,3.4,0.04,90.0,1.0,4.0,1.05,1.56,0.03,0.0,West Ham,False,Manchester City,,-1.26
-Declan Rice,West Ham,Manchester City,,False,0,,,,,0,,,0.0,0,0,369013,3.0,0.04,87.35,1.0,4.0,1.05,1.56,0.03,3.0,West Ham,True,Manchester United,,0.38
-Declan Rice,West Ham,Manchester United,2023-05-07,True,90,0.0,0.03,0.0,0.0,3,1.0,0.0,3.4,0,1,356819,3.2,0.03,87.43,1.0,4.0,1.05,1.56,0.03,1.0,West Ham,False,Brentford,,-0.55
-Declan Rice,West Ham,Brentford,2023-05-14,False,32,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,357455,1.6,0.01,85.89,1.0,4.0,1.05,1.56,0.03,9.0,West Ham,True,Leicester City,,0.83
-Declan Rice,West Ham,Leicester City,2023-05-21,True,90,1.0,0.4,0.0,0.0,9,3.0,0.0,8.8,2,1,360890,3.0,0.09,86.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,False,Leeds United,,-0.8
-Declan Rice,West Ham,Leeds United,2023-05-28,False,90,0.0,0.0,0.0,0.03,2,0.0,1.0,0.0,0,1,370842,3.0,0.09,86.11,1.0,4.0,1.05,1.56,0.03,2.0,Arsenal,True,Nottingham Forest,,
+Declan Rice,West Ham,Manchester City,2022-08-07,True,90,0.0,0.06,0.0,0.0,2,1.0,0.0,2.5,0,0,4.63,2.0,0.06,90.0,1.0,4.0,1.05,1.56,0.03,-1.0,West Ham,False,Nottingham Forest,,
+Declan Rice,West Ham,Nottingham Forest,2022-08-14,False,90,0.0,0.76,0.0,0.0,-1,1.0,0.0,4.1,0,0,5.24,0.5,0.41,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Brighton,,-0.71
+Declan Rice,West Ham,Brighton,2022-08-21,True,90,0.0,0.02,0.0,0.08,2,1.0,2.0,5.1,0,0,4.93,1.0,0.28,90.0,1.0,4.0,1.05,1.56,0.03,6.0,West Ham,False,Aston Villa,,0.59
+Declan Rice,West Ham,Aston Villa,2022-08-28,False,90,0.0,0.03,1.0,0.05,6,1.0,2.0,5.3,0,0,4.29,2.25,0.47,90.0,1.0,4.0,1.05,1.56,0.03,3.0,West Ham,True,Tottenham,,1.07
+Declan Rice,West Ham,Tottenham,2022-08-31,True,90,0.0,0.05,0.0,0.11,3,2.0,1.0,5.3,1,0,4.16,2.4,0.38,90.0,1.0,4.0,1.05,1.56,0.03,6.0,West Ham,False,Chelsea,,-0.72
+Declan Rice,West Ham,Chelsea,2022-09-03,False,90,0.0,0.0,0.0,0.02,6,0.0,1.0,3.6,1,0,4.07,3.2,0.37,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,False,Everton,,-0.63
+Declan Rice,West Ham,Everton,2022-09-18,False,90,0.0,0.0,0.0,0.07,2,0.0,1.0,3.4,0,0,4.27,3.8,0.22,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Wolverhampton,,-0.48
+Declan Rice,West Ham,Wolverhampton,2022-10-01,True,90,0.0,0.05,0.0,0.14,2,1.0,2.0,5.6,0,0,4.26,3.8,0.23,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Fulham,,-0.3
+Declan Rice,West Ham,Fulham,2022-10-09,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.4,0,0,4.15,3.0,0.02,90.0,1.0,4.0,1.05,1.56,0.03,10.0,West Ham,False,Southampton,,-1.07
+Declan Rice,West Ham,Southampton,2022-10-16,False,90,1.0,0.04,0.0,0.03,10,2.0,2.0,9.3,3,0,4.01,4.4,0.02,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,False,Liverpool,,-1.33
+Declan Rice,West Ham,Liverpool,2022-10-19,False,90,0.0,0.0,0.0,0.3,2,0.0,1.0,4.6,0,0,4.08,3.6,0.02,90.0,1.0,4.0,1.05,1.56,0.03,3.0,West Ham,True,Bournemouth,,1.46
+Declan Rice,West Ham,Bournemouth,2022-10-24,True,90,0.0,0.07,0.0,0.08,3,3.0,3.0,7.5,0,0,4.23,3.8,0.03,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,False,Manchester United,,-0.1
+Declan Rice,West Ham,Manchester United,2022-10-30,False,90,0.0,0.03,0.0,0.02,2,2.0,1.0,5.5,0,0,4.08,3.8,0.03,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Crystal Palace,,0.81
+Declan Rice,West Ham,Crystal Palace,2022-11-06,True,90,0.0,0.04,0.0,0.05,2,1.0,1.0,2.6,0,0,3.98,3.8,0.04,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Leeds United,,-0.79
+Declan Rice,West Ham,Leeds United,2022-11-12,True,90,0.0,0.08,0.0,0.01,2,3.0,1.0,3.2,0,1,3.83,2.2,0.04,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,False,Arsenal,,-0.0
+Declan Rice,West Ham,Arsenal,2022-12-26,False,90,0.0,0.0,0.0,0.05,2,0.0,2.0,3.8,0,1,3.65,2.2,0.04,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Brentford,,0.69
+Declan Rice,West Ham,Brentford,2022-12-30,True,90,0.0,0.01,0.0,0.0,2,1.0,0.0,3.0,0,1,3.61,2.0,0.03,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,False,Leicester City,,-0.05
+Declan Rice,West Ham,Leicester City,2023-01-04,False,90,0.0,0.08,0.0,0.05,2,3.0,1.0,1.9,0,1,3.52,2.0,0.04,90.0,1.0,4.0,1.05,1.56,0.03,1.0,West Ham,False,Wolverhampton,,-0.46
+Declan Rice,West Ham,Wolverhampton,2023-01-14,False,90,0.0,0.08,0.0,0.08,1,2.0,2.0,5.4,0,1,3.41,1.8,0.05,90.0,1.0,4.0,1.05,1.56,0.03,3.0,West Ham,True,Everton,,0.34
+Declan Rice,West Ham,Everton,2023-01-21,True,90,0.0,0.11,0.0,0.02,3,1.0,1.0,3.9,0,1,3.32,2.0,0.06,90.0,1.0,4.0,1.05,1.56,0.03,7.0,West Ham,False,Newcastle United,,-0.34
+Declan Rice,West Ham,Newcastle United,2023-02-04,False,90,0.0,0.0,0.0,0.08,7,0.0,1.0,2.8,2,1,3.21,3.0,0.06,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Chelsea,,-0.25
+Declan Rice,West Ham,Chelsea,2023-02-11,True,90,0.0,0.01,0.0,0.0,2,1.0,0.0,2.4,0,1,3.21,3.0,0.06,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,False,Tottenham,,-0.03
+Declan Rice,West Ham,Tottenham,2023-02-19,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.1,0,1,3.19,3.0,0.04,90.0,1.0,4.0,1.05,1.56,0.03,10.0,West Ham,True,Nottingham Forest,,
+Declan Rice,West Ham,Nottingham Forest,2023-02-25,True,90,1.0,0.03,0.0,0.25,10,1.0,4.0,11.4,2,1,3.26,4.8,0.03,90.0,1.0,4.0,1.05,1.56,0.03,1.0,West Ham,False,Brighton,,-0.39
+Declan Rice,West Ham,Brighton,2023-03-04,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,1,3.36,4.4,0.01,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Aston Villa,,0.55
+Declan Rice,West Ham,Aston Villa,2023-03-12,True,90,0.0,0.0,0.0,0.45,2,0.0,2.0,5.2,0,1,3.29,3.4,0.01,90.0,1.0,4.0,1.05,1.56,0.03,3.0,West Ham,True,Southampton,,-0.38
+Declan Rice,West Ham,Southampton,2023-04-02,True,90,0.0,0.0,0.0,0.0,3,0.0,0.0,2.4,0,1,3.26,3.6,0.01,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Newcastle United,,0.73
+Declan Rice,West Ham,Newcastle United,2023-04-05,True,90,0.0,0.03,0.0,0.12,2,1.0,1.0,3.7,0,1,3.26,3.6,0.01,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,False,Fulham,,1.37
+Declan Rice,West Ham,Fulham,2023-04-08,False,90,0.0,0.03,0.0,0.0,2,1.0,0.0,3.0,0,1,3.25,2.0,0.01,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Arsenal,,0.36
+Declan Rice,West Ham,Arsenal,2023-04-16,True,90,0.0,0.07,0.0,0.0,2,1.0,0.0,2.3,0,1,3.24,2.2,0.02,90.0,1.0,4.0,1.05,1.56,0.03,9.0,West Ham,False,Bournemouth,,0.19
+Declan Rice,West Ham,Bournemouth,2023-04-23,False,90,1.0,0.11,0.0,0.08,9,2.0,1.0,8.3,1,1,3.28,3.6,0.05,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,True,Liverpool,,-0.53
+Declan Rice,West Ham,Liverpool,2023-04-26,True,90,0.0,0.0,0.0,0.17,2,0.0,2.0,5.1,0,1,3.31,3.4,0.05,90.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,False,Crystal Palace,,0.13
+Declan Rice,West Ham,Crystal Palace,2023-04-29,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.3,0,1,3.41,3.4,0.04,90.0,1.0,4.0,1.05,1.56,0.03,0.0,West Ham,False,Manchester City,,-1.26
+Declan Rice,West Ham,Manchester City,,False,0,,,,,0,,,0.0,0,0,3.41,3.0,0.04,87.35,1.0,4.0,1.05,1.56,0.03,3.0,West Ham,True,Manchester United,,0.38
+Declan Rice,West Ham,Manchester United,2023-05-07,True,90,0.0,0.03,0.0,0.0,3,1.0,0.0,3.4,0,1,3.29,3.2,0.03,87.43,1.0,4.0,1.05,1.56,0.03,1.0,West Ham,False,Brentford,,-0.55
+Declan Rice,West Ham,Brentford,2023-05-14,False,32,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,3.3,1.6,0.01,85.89,1.0,4.0,1.05,1.56,0.03,9.0,West Ham,True,Leicester City,,0.83
+Declan Rice,West Ham,Leicester City,2023-05-21,True,90,1.0,0.4,0.0,0.0,9,3.0,0.0,8.8,2,1,3.33,3.0,0.09,86.0,1.0,4.0,1.05,1.56,0.03,2.0,West Ham,False,Leeds United,,-0.8
+Declan Rice,West Ham,Leeds United,2023-05-28,False,90,0.0,0.0,0.0,0.03,2,0.0,1.0,0.0,0,1,3.42,3.0,0.09,86.11,1.0,4.0,1.05,1.56,0.03,2.0,Arsenal,True,Nottingham Forest,,

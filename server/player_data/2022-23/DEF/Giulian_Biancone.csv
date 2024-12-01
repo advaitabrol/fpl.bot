@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Giulian Biancone,Nott'm Forest,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,6448,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,True,West Ham,,0.63
-Giulian Biancone,Nott'm Forest,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,6632,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,False,Everton,,-0.63
-Giulian Biancone,Nott'm Forest,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,6673,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,True,Tottenham,,1.07
-Giulian Biancone,Nott'm Forest,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,6147,0.0,0.0,0.0,0.0,1.0,Nott'm Forest,False,Manchester City,,-1.26
-Giulian Biancone,Nott'm Forest,Manchester City,2022-08-31,False,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1,0.0,0,5856,0.2,0.0,2.2,0.0,0.0,Nott'm Forest,True,Bournemouth,,1.46
-Giulian Biancone,Nott'm Forest,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,5653,0.2,0.0,1.83,0.0,0.0,Nott'm Forest,True,Fulham,,-0.3
-Giulian Biancone,Nott'm Forest,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,5545,0.2,0.0,1.57,0.0,0.0,Nott'm Forest,False,Leeds United,,-0.8
-Giulian Biancone,Nott'm Forest,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,5413,0.2,0.0,1.38,0.0,0.0,Nott'm Forest,True,Aston Villa,,0.55
-Giulian Biancone,Nott'm Forest,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,5325,0.2,0.0,1.22,0.0,0.0,Nott'm Forest,False,Wolverhampton,,-0.46
-Giulian Biancone,Nott'm Forest,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,5292,0.0,0.0,1.1,0.0,1.0,Nott'm Forest,False,Brighton,,-0.39
-Giulian Biancone,Nott'm Forest,Brighton,2022-10-18,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,0,5212,0.2,0.0,1.36,0.0,0.0,Nott'm Forest,True,Liverpool,,-0.53
-Giulian Biancone,Nott'm Forest,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,5213,0.2,0.0,1.25,0.0,0.0,Nott'm Forest,False,Arsenal,,-0.0
-Giulian Biancone,Nott'm Forest,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,5139,0.2,0.0,1.15,0.0,0.0,Nott'm Forest,True,Brentford,,0.69
-Giulian Biancone,Nott'm Forest,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4994,0.2,0.0,1.07,0.0,0.0,Nott'm Forest,True,Crystal Palace,,0.81
-Giulian Biancone,Nott'm Forest,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4724,0.2,0.0,1.0,0.0,0.0,Nott'm Forest,False,Manchester United,,-0.1
-Giulian Biancone,Nott'm Forest,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4402,0.0,0.0,0.94,0.0,0.0,Nott'm Forest,True,Chelsea,,-0.25
-Giulian Biancone,Nott'm Forest,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4261,0.0,0.0,0.88,0.0,0.0,Nott'm Forest,False,Southampton,,-1.07
-Giulian Biancone,Nott'm Forest,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4219,0.0,0.0,0.83,0.0,0.0,Nott'm Forest,True,Leeds United,,-0.79
-Giulian Biancone,Nott'm Forest,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4142,0.0,0.0,0.79,0.0,0.0,Nott'm Forest,False,Bournemouth,,0.19
-Giulian Biancone,Nott'm Forest,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4095,0.0,0.0,0.75,0.0,0.0,Nott'm Forest,True,Leicester City,,0.83
-Giulian Biancone,Nott'm Forest,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4035,0.0,0.0,0.71,0.0,0.0,Nott'm Forest,False,Fulham,,1.37
-Giulian Biancone,Nott'm Forest,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4032,0.0,0.0,0.68,0.0,0.0,Nott'm Forest,True,Manchester City,,-1.17
-Giulian Biancone,Nott'm Forest,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3992,0.0,0.0,0.65,0.0,0.0,Nott'm Forest,False,West Ham,,0.14
-Giulian Biancone,Nott'm Forest,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3967,0.0,0.0,0.62,0.0,0.0,Nott'm Forest,True,Everton,,0.34
-Giulian Biancone,Nott'm Forest,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3931,0.0,0.0,0.6,0.0,0.0,Nott'm Forest,False,Tottenham,,-0.03
-Giulian Biancone,Nott'm Forest,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3909,0.0,0.0,0.58,0.0,0.0,Nott'm Forest,True,Newcastle United,,0.73
-Giulian Biancone,Nott'm Forest,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3934,0.0,0.0,0.56,0.0,0.0,Nott'm Forest,True,Wolverhampton,,-0.48
-Giulian Biancone,Nott'm Forest,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3901,0.0,0.0,0.54,0.0,0.0,Nott'm Forest,False,Leicester City,,-0.05
-Giulian Biancone,Nott'm Forest,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3901,0.0,0.0,0.52,0.0,0.0,Nott'm Forest,False,Aston Villa,,0.59
-Giulian Biancone,Nott'm Forest,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3953,0.0,0.0,0.5,0.0,0.0,Nott'm Forest,True,Manchester United,,0.38
-Giulian Biancone,Nott'm Forest,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3883,0.0,0.0,0.48,0.0,0.0,Nott'm Forest,False,Liverpool,,-1.33
-Giulian Biancone,Nott'm Forest,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3864,0.0,0.0,0.47,0.0,0.0,Nott'm Forest,True,Brighton,,-0.71
-Giulian Biancone,Nott'm Forest,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3876,0.0,0.0,0.45,0.0,0.0,Nott'm Forest,False,Brentford,,-0.55
-Giulian Biancone,Nott'm Forest,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3888,0.0,0.0,0.44,0.0,0.0,Nott'm Forest,True,Southampton,,-0.38
-Giulian Biancone,Nott'm Forest,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3846,0.0,0.0,0.43,0.0,0.0,Nott'm Forest,False,Chelsea,,-0.72
-Giulian Biancone,Nott'm Forest,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3845,0.0,0.0,0.42,0.0,0.0,Nott'm Forest,True,Arsenal,,0.36
-Giulian Biancone,Nott'm Forest,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3829,0.0,0.0,0.41,0.0,0.0,Nott'm Forest,False,Crystal Palace,,0.13
-Giulian Biancone,Nott'm Forest,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,3829,0.0,0.0,0.39,0.0,,Nott'm Forest,False,Arsenal,,-0.0
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Giulian Biancone,Nott'm Forest,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Nott'm Forest,True,West Ham,,0.63
+Giulian Biancone,Nott'm Forest,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Nott'm Forest,False,Everton,,-0.63
+Giulian Biancone,Nott'm Forest,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Nott'm Forest,True,Tottenham,,1.07
+Giulian Biancone,Nott'm Forest,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.0,0.0,0.0,0.0,0,0,0,0,1.0,Nott'm Forest,False,Manchester City,,-1.26
+Giulian Biancone,Nott'm Forest,Manchester City,2022-08-31,False,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1,0.0,0,0.05,0.2,0.0,2.2,0.0,0,0,0,0,0.0,Nott'm Forest,True,Bournemouth,,1.46
+Giulian Biancone,Nott'm Forest,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.05,0.2,0.0,1.83,0.0,0,0,0,0,0.0,Nott'm Forest,True,Fulham,,-0.3
+Giulian Biancone,Nott'm Forest,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.05,0.2,0.0,1.57,0.0,0,0,0,0,0.0,Nott'm Forest,False,Leeds United,,-0.8
+Giulian Biancone,Nott'm Forest,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.05,0.2,0.0,1.38,0.0,0,0,0,0,0.0,Nott'm Forest,True,Aston Villa,,0.55
+Giulian Biancone,Nott'm Forest,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.05,0.2,0.0,1.22,0.0,0,0,0,0,0.0,Nott'm Forest,False,Wolverhampton,,-0.46
+Giulian Biancone,Nott'm Forest,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.05,0.0,0.0,1.1,0.0,0,0,0,0,1.0,Nott'm Forest,False,Brighton,,-0.39
+Giulian Biancone,Nott'm Forest,Brighton,2022-10-18,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,0,0.05,0.2,0.0,1.36,0.0,0,0,0,0,0.0,Nott'm Forest,True,Liverpool,,-0.53
+Giulian Biancone,Nott'm Forest,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.05,0.2,0.0,1.25,0.0,0,0,0,0,0.0,Nott'm Forest,False,Arsenal,,-0.0
+Giulian Biancone,Nott'm Forest,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.05,0.2,0.0,1.15,0.0,0,0,0,0,0.0,Nott'm Forest,True,Brentford,,0.69
+Giulian Biancone,Nott'm Forest,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.05,0.2,0.0,1.07,0.0,0,0,0,0,0.0,Nott'm Forest,True,Crystal Palace,,0.81
+Giulian Biancone,Nott'm Forest,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.2,0.0,1.0,0.0,0,0,0,0,0.0,Nott'm Forest,False,Manchester United,,-0.1
+Giulian Biancone,Nott'm Forest,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.94,0.0,0,0,0,0,0.0,Nott'm Forest,True,Chelsea,,-0.25
+Giulian Biancone,Nott'm Forest,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.88,0.0,0,0,0,0,0.0,Nott'm Forest,False,Southampton,,-1.07
+Giulian Biancone,Nott'm Forest,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.83,0.0,0,0,0,0,0.0,Nott'm Forest,True,Leeds United,,-0.79
+Giulian Biancone,Nott'm Forest,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.79,0.0,0,0,0,0,0.0,Nott'm Forest,False,Bournemouth,,0.19
+Giulian Biancone,Nott'm Forest,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.75,0.0,0,0,0,0,0.0,Nott'm Forest,True,Leicester City,,0.83
+Giulian Biancone,Nott'm Forest,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.71,0.0,0,0,0,0,0.0,Nott'm Forest,False,Fulham,,1.37
+Giulian Biancone,Nott'm Forest,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.68,0.0,0,0,0,0,0.0,Nott'm Forest,True,Manchester City,,-1.17
+Giulian Biancone,Nott'm Forest,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.65,0.0,0,0,0,0,0.0,Nott'm Forest,False,West Ham,,0.14
+Giulian Biancone,Nott'm Forest,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.62,0.0,0,0,0,0,0.0,Nott'm Forest,True,Everton,,0.34
+Giulian Biancone,Nott'm Forest,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.6,0.0,0,0,0,0,0.0,Nott'm Forest,False,Tottenham,,-0.03
+Giulian Biancone,Nott'm Forest,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.58,0.0,0,0,0,0,0.0,Nott'm Forest,True,Newcastle United,,0.73
+Giulian Biancone,Nott'm Forest,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.56,0.0,0,0,0,0,0.0,Nott'm Forest,True,Wolverhampton,,-0.48
+Giulian Biancone,Nott'm Forest,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.54,0.0,0,0,0,0,0.0,Nott'm Forest,False,Leicester City,,-0.05
+Giulian Biancone,Nott'm Forest,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.52,0.0,0,0,0,0,0.0,Nott'm Forest,False,Aston Villa,,0.59
+Giulian Biancone,Nott'm Forest,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.5,0.0,0,0,0,0,0.0,Nott'm Forest,True,Manchester United,,0.38
+Giulian Biancone,Nott'm Forest,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.48,0.0,0,0,0,0,0.0,Nott'm Forest,False,Liverpool,,-1.33
+Giulian Biancone,Nott'm Forest,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.47,0.0,0,0,0,0,0.0,Nott'm Forest,True,Brighton,,-0.71
+Giulian Biancone,Nott'm Forest,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.45,0.0,0,0,0,0,0.0,Nott'm Forest,False,Brentford,,-0.55
+Giulian Biancone,Nott'm Forest,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.44,0.0,0,0,0,0,0.0,Nott'm Forest,True,Southampton,,-0.38
+Giulian Biancone,Nott'm Forest,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.43,0.0,0,0,0,0,0.0,Nott'm Forest,False,Chelsea,,-0.72
+Giulian Biancone,Nott'm Forest,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.42,0.0,0,0,0,0,0.0,Nott'm Forest,True,Arsenal,,0.36
+Giulian Biancone,Nott'm Forest,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.41,0.0,0,0,0,0,0.0,Nott'm Forest,False,Crystal Palace,,0.13
+Giulian Biancone,Nott'm Forest,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.39,0.0,0,0,0,0,,Nott'm Forest,False,Arsenal,,-0.0

@@ -1,15 +1,15 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Manuel Akanji,Man City,Chelsea,2024-08-18,False,90.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,1.8,0.0,1.0,0.0,1.01,1.0,377453.0,6.0,0.0,90.0,1.0,2.19,0.53,0.41,25.72,2.0,Man City,True,Ipswich Town,,
-Manuel Akanji,Man City,Ipswich Town,2024-08-24,True,90.0,0.0,0.0,0.0,0.06,2.0,0.0,1.0,5.4,0.0,0.0,1.0,0.29,1.0,538683.0,4.0,0.0,90.0,0.5,2.19,0.53,0.41,25.72,1.0,Man City,False,West Ham,,-0.34
-Manuel Akanji,Man City,West Ham,2024-08-31,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.9,0.0,0.0,1.0,0.73,1.0,579233.0,3.0,0.0,90.0,0.33,2.19,0.53,0.41,25.72,2.0,Man City,True,Brentford,,0.54
-Manuel Akanji,Man City,Brentford,2024-09-14,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.7,0.0,0.0,1.0,0.96,1.0,571611.0,2.75,0.0,90.0,0.25,2.19,0.53,0.41,25.72,1.0,Man City,True,Arsenal,,-0.32
-Manuel Akanji,Man City,Arsenal,2024-09-22,True,90.0,0.0,0.04,0.0,0.1,1.0,2.0,4.0,9.9,0.0,0.0,2.0,0.65,1.0,551559.0,2.4,0.01,90.0,0.2,2.19,0.53,0.41,25.72,2.0,Man City,False,Newcastle United,,-0.44
-Manuel Akanji,Man City,Newcastle United,2024-09-28,False,90.0,0.0,0.08,0.0,0.0,2.0,2.0,0.0,3.2,0.0,0.0,1.0,1.57,1.0,534261.0,1.6,0.02,90.0,0.17,2.19,0.53,0.41,25.72,2.0,Man City,True,Fulham,,0.27
-Manuel Akanji,Man City,Fulham,2024-10-05,True,61.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.9,0.0,0.0,1.0,1.74,1.0,528537.0,1.6,0.02,85.86,0.14,2.19,0.53,0.41,25.72,0.0,Man City,False,Wolverhampton,,-0.53
-Manuel Akanji,Man City,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,526572.0,1.4,0.02,75.12,0.14,2.19,0.53,0.41,25.72,6.0,Man City,True,Southampton,,0.24
-Manuel Akanji,Man City,Southampton,2024-10-26,True,90.0,0.0,0.02,0.0,0.12,6.0,1.0,1.0,5.9,0.0,1.0,0.0,0.21,1.0,508815.0,2.2,0.03,76.78,0.25,2.19,0.53,0.41,25.72,1.0,Man City,False,Bournemouth,,-0.04
-Manuel Akanji,Man City,Bournemouth,2024-11-02,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.2,0.0,0.0,2.0,2.04,1.0,474018.0,2.2,0.02,78.1,0.22,2.19,0.53,0.41,25.72,0.0,Man City,False,Brighton,,-0.61
-Manuel Akanji,Man City,Brighton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,469888.0,1.8,0.0,71.0,0.22,2.19,0.53,0.41,25.72,-1.0,Man City,True,Tottenham,,0.74
-Manuel Akanji,Man City,Tottenham,2024-11-23,True,90.0,0.0,0.04,0.0,0.0,-1.0,2.0,0.0,2.7,0.0,0.0,4.0,2.51,1.0,425265.0,1.2,0.01,72.58,0.2,2.19,0.53,0.41,25.72,,Man City,False,Liverpool,,-1.08
+Manuel Akanji,Man City,Chelsea,2024-08-18,False,90.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,1.8,0.0,1.0,0.0,1.01,1.0,3.48,6.0,0.0,90.0,1.0,2.19,0.53,0.41,25.72,2.0,Man City,True,Ipswich Town,,
+Manuel Akanji,Man City,Ipswich Town,2024-08-24,True,90.0,0.0,0.0,0.0,0.06,2.0,0.0,1.0,5.4,0.0,0.0,1.0,0.29,1.0,4.97,4.0,0.0,90.0,0.5,2.19,0.53,0.41,25.72,1.0,Man City,False,West Ham,,-0.34
+Manuel Akanji,Man City,West Ham,2024-08-31,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.9,0.0,0.0,1.0,0.73,1.0,5.35,3.0,0.0,90.0,0.33,2.19,0.53,0.41,25.72,2.0,Man City,True,Brentford,,0.54
+Manuel Akanji,Man City,Brentford,2024-09-14,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.7,0.0,0.0,1.0,0.96,1.0,5.28,2.75,0.0,90.0,0.25,2.19,0.53,0.41,25.72,1.0,Man City,True,Arsenal,,-0.32
+Manuel Akanji,Man City,Arsenal,2024-09-22,True,90.0,0.0,0.04,0.0,0.1,1.0,2.0,4.0,9.9,0.0,0.0,2.0,0.65,1.0,5.09,2.4,0.01,90.0,0.2,2.19,0.53,0.41,25.72,2.0,Man City,False,Newcastle United,,-0.44
+Manuel Akanji,Man City,Newcastle United,2024-09-28,False,90.0,0.0,0.08,0.0,0.0,2.0,2.0,0.0,3.2,0.0,0.0,1.0,1.57,1.0,4.93,1.6,0.02,90.0,0.17,2.19,0.53,0.41,25.72,2.0,Man City,True,Fulham,,0.27
+Manuel Akanji,Man City,Fulham,2024-10-05,True,61.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.9,0.0,0.0,1.0,1.74,1.0,4.88,1.6,0.02,85.86,0.14,2.19,0.53,0.41,25.72,0.0,Man City,False,Wolverhampton,,-0.53
+Manuel Akanji,Man City,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,4.86,1.4,0.02,75.12,0.14,2.19,0.53,0.41,25.72,6.0,Man City,True,Southampton,,0.24
+Manuel Akanji,Man City,Southampton,2024-10-26,True,90.0,0.0,0.02,0.0,0.12,6.0,1.0,1.0,5.9,0.0,1.0,0.0,0.21,1.0,4.7,2.2,0.03,76.78,0.25,2.19,0.53,0.41,25.72,1.0,Man City,False,Bournemouth,,-0.04
+Manuel Akanji,Man City,Bournemouth,2024-11-02,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.2,0.0,0.0,2.0,2.04,1.0,4.38,2.2,0.02,78.1,0.22,2.19,0.53,0.41,25.72,0.0,Man City,False,Brighton,,-0.61
+Manuel Akanji,Man City,Brighton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,4.34,1.8,0.0,71.0,0.22,2.19,0.53,0.41,25.72,-1.0,Man City,True,Tottenham,,0.74
+Manuel Akanji,Man City,Tottenham,2024-11-23,True,90.0,0.0,0.04,0.0,0.0,-1.0,2.0,0.0,2.7,0.0,0.0,4.0,2.51,1.0,3.93,1.2,0.01,72.58,0.2,2.19,0.53,0.41,25.72,,Man City,False,Liverpool,,-1.08
 ,Man City,,,,,,,,,,,,,,,,,,,,,,,,,,,,Man City,True,Nottingham Forest,,1.2
 ,Man City,,,,,,,,,,,,,,,,,,,,,,,,,,,,Man City,False,Crystal Palace,,0.2

@@ -1,25 +1,25 @@
-name,team,opponent_team,date,was_home,position,minutes,xG,total_points,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Rhys Bennett,Man Utd,Nottingham Forest,,True,DEF,0,,0,0.0,0,0,0,0.0,0,0,0.0,0,0.0,0,0.0,Man Utd,False,Wolverhampton,,-0.46
-Rhys Bennett,Man Utd,Wolverhampton,,False,DEF,0,,0,0.0,0,0,0,0.0,0,155,0.0,0,0.0,0,0.0,Man Utd,True,Bournemouth,,1.46
-Rhys Bennett,Man Utd,Bournemouth,,True,DEF,0,,0,0.0,0,0,0,0.0,0,279,0.0,0,0.0,0,0.0,Man Utd,True,Manchester City,,-1.17
-Rhys Bennett,Man Utd,Manchester City,2023-01-14,True,DEF,0,1.3,0,0.0,0,0,0,0.0,0,545,0.0,0,0.0,0,0.0,Man Utd,False,Crystal Palace,,0.13
-Rhys Bennett,Man Utd,Crystal Palace,,False,DEF,0,,0,0.0,0,0,0,0.0,0,545,0.0,0,0.0,0,0.0,Man Utd,False,Arsenal,,-0.0
-Rhys Bennett,Man Utd,Arsenal,2023-01-22,False,DEF,0,0.17,0,0.0,0,0,0,0.0,0,676,0.0,0,0.0,0,0.0,Man Utd,True,Crystal Palace,,0.81
-Rhys Bennett,Man Utd,Crystal Palace,2023-02-04,True,DEF,0,2.37,0,0.0,0,0,0,0.0,0,901,0.0,0,0.0,0,0.0,Man Utd,True,Leicester City,,0.83
-Rhys Bennett,Man Utd,Leicester City,,True,DEF,0,,0,0.0,0,0,0,0.0,0,901,0.0,0,0.0,0,0.0,Man Utd,False,Leicester City,,-0.05
-Rhys Bennett,Man Utd,Leicester City,,False,DEF,0,,0,0.0,0,0,0,0.0,0,1042,0.0,0,0.0,0,0.0,Man Utd,True,Leeds United,,-0.79
-Rhys Bennett,Man Utd,Leeds United,,True,DEF,0,,0,0.0,0,0,0,0.0,0,1147,0.0,0,0.0,0,0.0,Man Utd,False,Liverpool,,-1.33
-Rhys Bennett,Man Utd,Liverpool,,False,DEF,0,,0,0.0,0,0,0,0.0,0,1364,0.0,0,0.0,0,0.0,Man Utd,True,Southampton,,-0.38
-Rhys Bennett,Man Utd,Southampton,,True,DEF,0,,0,0.0,0,0,0,0.0,0,1523,0.0,0,0.0,0,0.0,Man Utd,False,Newcastle United,,-0.34
-Rhys Bennett,Man Utd,Newcastle United,,False,DEF,0,,0,0.0,0,0,0,0.0,0,1734,0.0,0,0.0,0,0.0,Man Utd,True,Brentford,,0.69
-Rhys Bennett,Man Utd,Brentford,2023-04-05,True,DEF,0,0.64,0,0.0,0,0,0,0.0,0,1734,0.0,0,0.0,0,0.0,Man Utd,True,Everton,,0.34
-Rhys Bennett,Man Utd,Everton,2023-04-08,True,DEF,0,2.07,0,0.0,0,0,0,0.0,0,1806,0.0,0,0.0,0,0.0,Man Utd,False,Nottingham Forest,,
-Rhys Bennett,Man Utd,Nottingham Forest,,False,DEF,0,,0,0.0,0,0,0,0.0,0,1893,0.0,0,0.0,0,0.0,Man Utd,False,Tottenham,,-0.03
-Rhys Bennett,Man Utd,Tottenham,,False,DEF,0,,0,0.0,0,0,0,0.0,0,2018,0.0,0,0.0,0,0.0,Man Utd,True,Aston Villa,,0.55
-Rhys Bennett,Man Utd,Aston Villa,,True,DEF,0,,0,0.0,0,0,0,0.0,0,2077,0.0,0,0.0,0,0.0,Man Utd,False,Brighton,,-0.39
-Rhys Bennett,Man Utd,Brighton,,False,DEF,0,,0,0.0,0,0,0,0.0,0,2077,0.0,0,0.0,0,0.0,Man Utd,False,West Ham,,0.14
-Rhys Bennett,Man Utd,West Ham,,False,DEF,0,,0,0.0,0,0,0,0.0,0,2188,0.0,0,0.0,0,0.0,Man Utd,True,Wolverhampton,,-0.48
-Rhys Bennett,Man Utd,Wolverhampton,,True,DEF,0,,0,0.0,0,0,0,0.0,0,2273,0.0,0,0.0,0,0.0,Man Utd,False,Bournemouth,,0.19
-Rhys Bennett,Man Utd,Bournemouth,2023-05-20,False,DEF,0,1.15,0,0.0,0,0,0,0.0,0,2373,0.0,0,0.0,0,0.0,Man Utd,True,Chelsea,,-0.25
-Rhys Bennett,Man Utd,Chelsea,,True,DEF,0,,0,0.0,0,0,0,0.0,0,2373,0.0,0,0.0,0,0.0,Man Utd,True,Fulham,,-0.3
-Rhys Bennett,Man Utd,Fulham,2023-05-28,True,DEF,0,1.44,0,0.0,0,0,0,0.0,0,2458,0.0,0,0.0,0,0.0,Man Utd,False,West Ham,,0.14
+name,team,opponent_team,date,was_home,position,minutes,xG,total_points,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Rhys Bennett,Man Utd,Nottingham Forest,,True,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Wolverhampton,,-0.46
+Rhys Bennett,Man Utd,Wolverhampton,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Bournemouth,,1.46
+Rhys Bennett,Man Utd,Bournemouth,,True,DEF,0,,0,0.0,0,0,0,0.0,0,0.0,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Manchester City,,-1.17
+Rhys Bennett,Man Utd,Manchester City,2023-01-14,True,DEF,0,1.3,0,0.0,0,0,0,0.0,0,0.01,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Crystal Palace,,0.13
+Rhys Bennett,Man Utd,Crystal Palace,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.01,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Arsenal,,-0.0
+Rhys Bennett,Man Utd,Arsenal,2023-01-22,False,DEF,0,0.17,0,0.0,0,0,0,0.0,0,0.01,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Crystal Palace,,0.81
+Rhys Bennett,Man Utd,Crystal Palace,2023-02-04,True,DEF,0,2.37,0,0.0,0,0,0,0.0,0,0.01,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Leicester City,,0.83
+Rhys Bennett,Man Utd,Leicester City,,True,DEF,0,,0,0.0,0,0,0,0.0,0,0.01,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Leicester City,,-0.05
+Rhys Bennett,Man Utd,Leicester City,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.01,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Leeds United,,-0.79
+Rhys Bennett,Man Utd,Leeds United,,True,DEF,0,,0,0.0,0,0,0,0.0,0,0.01,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Liverpool,,-1.33
+Rhys Bennett,Man Utd,Liverpool,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.01,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Southampton,,-0.38
+Rhys Bennett,Man Utd,Southampton,,True,DEF,0,,0,0.0,0,0,0,0.0,0,0.01,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Newcastle United,,-0.34
+Rhys Bennett,Man Utd,Newcastle United,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Brentford,,0.69
+Rhys Bennett,Man Utd,Brentford,2023-04-05,True,DEF,0,0.64,0,0.0,0,0,0,0.0,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Everton,,0.34
+Rhys Bennett,Man Utd,Everton,2023-04-08,True,DEF,0,2.07,0,0.0,0,0,0,0.0,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Nottingham Forest,,
+Rhys Bennett,Man Utd,Nottingham Forest,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Tottenham,,-0.03
+Rhys Bennett,Man Utd,Tottenham,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Aston Villa,,0.55
+Rhys Bennett,Man Utd,Aston Villa,,True,DEF,0,,0,0.0,0,0,0,0.0,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Brighton,,-0.39
+Rhys Bennett,Man Utd,Brighton,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,West Ham,,0.14
+Rhys Bennett,Man Utd,West Ham,,False,DEF,0,,0,0.0,0,0,0,0.0,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Wolverhampton,,-0.48
+Rhys Bennett,Man Utd,Wolverhampton,,True,DEF,0,,0,0.0,0,0,0,0.0,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,Bournemouth,,0.19
+Rhys Bennett,Man Utd,Bournemouth,2023-05-20,False,DEF,0,1.15,0,0.0,0,0,0,0.0,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Chelsea,,-0.25
+Rhys Bennett,Man Utd,Chelsea,,True,DEF,0,,0,0.0,0,0,0,0.0,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,True,Fulham,,-0.3
+Rhys Bennett,Man Utd,Fulham,2023-05-28,True,DEF,0,1.44,0,0.0,0,0,0,0.0,0,0.02,0.0,0,0.0,0,0,0,0,0,0.0,Man Utd,False,West Ham,,0.14

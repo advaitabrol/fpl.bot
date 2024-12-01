@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Rodrigo Muniz Carvalho,Fulham,Liverpool,2022-08-06,True,0,1.0,0.14,0.0,0.0,0,3.0,0.0,0.0,0,0,10991,0.0,0.14,0.0,0.0,Fulham,False,Wolverhampton,,-0.46
-Rodrigo Muniz Carvalho,Fulham,Wolverhampton,2022-08-13,False,0,2.0,1.42,0.0,0.42,0,5.0,3.0,0.0,0,0,11995,0.0,0.78,0.0,0.0,Fulham,True,Brentford,,0.69
-Rodrigo Muniz Carvalho,Fulham,Brentford,,True,0,,,,,0,,,0.0,0,0,11672,0.0,0.52,0.0,0.0,Fulham,False,Arsenal,,-0.0
-Rodrigo Muniz Carvalho,Fulham,Arsenal,2022-08-27,False,0,0.0,0.24,0.0,0.0,0,5.0,0.0,0.0,0,0,9000,0.0,0.45,0.0,0.0,Fulham,True,Brighton,,-0.71
-Rodrigo Muniz Carvalho,Fulham,Brighton,2022-08-30,True,0,0.0,0.05,0.0,0.0,0,1.0,0.0,0.0,0,0,7116,0.0,0.37,0.0,0.0,Fulham,False,Tottenham,,-0.03
-Rodrigo Muniz Carvalho,Fulham,Tottenham,,False,0,,,,,0,,,0.0,0,0,5732,0.0,0.34,0.0,0.0,Fulham,False,Nottingham Forest,,
-Rodrigo Muniz Carvalho,Fulham,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,4881,0.0,0.06,0.0,0.0,Fulham,True,Newcastle United,,0.73
-Rodrigo Muniz Carvalho,Fulham,Newcastle United,,True,0,,,,,0,,,0.0,0,0,4628,0.0,0.06,0.0,0.0,Fulham,False,West Ham,,0.14
-Rodrigo Muniz Carvalho,Fulham,West Ham,2022-10-09,False,0,0.0,0.02,0.0,0.23,0,1.0,3.0,0.0,0,0,4401,0.0,0.01,0.0,0.0,Fulham,True,Bournemouth,,1.46
-Rodrigo Muniz Carvalho,Fulham,Bournemouth,,True,0,,,,,0,,,0.0,0,0,4277,0.0,0.0,0.0,0.0,Fulham,True,Aston Villa,,0.55
-Rodrigo Muniz Carvalho,Fulham,Aston Villa,2022-10-20,True,0,0.0,0.09,0.0,0.0,0,2.0,0.0,0.0,0,0,4174,0.0,0.02,0.0,0.0,Fulham,False,Leicester City,,-0.05
-Rodrigo Muniz Carvalho,Fulham,Leicester City,2022-10-23,False,0,1.0,0.84,0.0,0.0,0,3.0,0.0,0.0,0,0,4128,0.0,0.19,0.0,0.0,Fulham,True,Everton,,0.34
-Rodrigo Muniz Carvalho,Fulham,Everton,2022-10-29,True,0,1.0,0.77,0.0,0.14,0,2.0,2.0,0.0,0,0,4047,0.0,0.34,0.0,0.0,Fulham,False,Manchester City,,-1.26
-Rodrigo Muniz Carvalho,Fulham,Manchester City,2022-11-05,False,0,1.0,0.95,0.0,0.0,0,3.0,0.0,0.0,0,0,3979,0.0,0.53,0.0,0.0,Fulham,True,Manchester United,,0.38
-Rodrigo Muniz Carvalho,Fulham,Manchester United,,True,0,,,,,0,,,0.0,0,0,3933,0.0,0.53,0.0,0.0,Fulham,False,Crystal Palace,,0.13
-Rodrigo Muniz Carvalho,Fulham,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,3849,0.0,0.51,0.0,0.0,Fulham,True,Southampton,,-0.38
-Rodrigo Muniz Carvalho,Fulham,Southampton,2022-12-31,True,0,0.0,0.19,0.0,0.0,0,3.0,0.0,0.0,0,0,3829,0.0,0.38,0.0,0.0,Fulham,False,Leeds United,,-0.8
-Rodrigo Muniz Carvalho,Fulham,Leeds United,,False,0,,,,,0,,,0.0,0,0,3818,0.0,0.23,0.0,0.0,Fulham,True,Chelsea,,-0.25
-Rodrigo Muniz Carvalho,Fulham,Chelsea,,True,0,,,,,0,,,0.0,0,0,3818,0.0,0.04,0.0,0.0,Fulham,False,Newcastle United,,-0.34
-Rodrigo Muniz Carvalho,Fulham,Newcastle United,,False,0,,,,,0,,,0.0,0,0,3789,0.0,0.04,0.0,0.0,Fulham,True,Tottenham,,1.07
-Rodrigo Muniz Carvalho,Fulham,Tottenham,,True,0,,,,,0,,,0.0,0,0,3774,0.0,0.04,0.0,0.0,Fulham,False,Chelsea,,-0.72
-Rodrigo Muniz Carvalho,Fulham,Chelsea,,False,0,,,,,0,,,0.0,0,0,3744,0.0,0.0,0.0,0.0,Fulham,True,Nottingham Forest,,
-Rodrigo Muniz Carvalho,Fulham,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,3728,0.0,0.0,0.0,0.0,Fulham,False,Brighton,,-0.39
-Rodrigo Muniz Carvalho,Fulham,Brighton,,False,0,,,,,0,,,0.0,0,0,3712,0.0,0.0,0.0,0.0,Fulham,True,Wolverhampton,,-0.48
-Rodrigo Muniz Carvalho,Fulham,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,3699,0.0,0.0,0.0,0.0,Fulham,False,Brentford,,-0.55
-Rodrigo Muniz Carvalho,Fulham,Brentford,,False,0,,,,,0,,,0.0,0,0,3689,0.0,0.0,0.0,0.0,Fulham,True,Arsenal,,0.36
-Rodrigo Muniz Carvalho,Fulham,Arsenal,,True,0,,,,,0,,,0.0,0,0,3678,0.0,0.0,0.0,0.0,Fulham,False,Bournemouth,,0.19
-Rodrigo Muniz Carvalho,Fulham,Bournemouth,2023-04-01,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,3667,0.0,0.0,0.0,0.0,Fulham,True,West Ham,,0.63
-Rodrigo Muniz Carvalho,Fulham,West Ham,,True,0,,,,,0,,,0.0,0,0,3662,0.0,0.0,0.0,0.0,Fulham,False,Everton,,-0.63
-Rodrigo Muniz Carvalho,Fulham,Everton,,False,0,,,,,0,,,0.0,0,0,3654,0.0,0.0,0.0,0.0,Fulham,True,Leicester City,,0.83
-Rodrigo Muniz Carvalho,Fulham,Leicester City,2023-04-22,True,0,0.0,0.14,0.0,0.0,0,1.0,0.0,0.0,0,0,3652,0.0,0.03,0.0,0.0,Fulham,False,Aston Villa,,0.59
-Rodrigo Muniz Carvalho,Fulham,Aston Villa,2023-04-25,False,0,0.0,0.2,0.0,0.0,0,2.0,0.0,0.0,0,0,3651,0.0,0.07,0.0,0.0,Fulham,True,Manchester City,,-1.17
-Rodrigo Muniz Carvalho,Fulham,Manchester City,2023-04-30,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,3651,0.0,0.07,0.0,0.0,Fulham,False,Liverpool,,-1.33
-Rodrigo Muniz Carvalho,Fulham,Liverpool,,False,0,,,,,0,,,0.0,0,0,3651,0.0,0.07,0.0,0.0,Fulham,True,Leeds United,,-0.79
-Rodrigo Muniz Carvalho,Fulham,Leeds United,,True,0,,,,,0,,,0.0,0,0,3646,0.0,0.07,0.0,0.0,Fulham,False,Southampton,,-1.07
-Rodrigo Muniz Carvalho,Fulham,Southampton,2023-05-13,False,0,0.0,0.05,0.0,0.07,0,1.0,1.0,0.0,0,0,3642,0.0,0.05,0.0,0.0,Fulham,True,Crystal Palace,,0.81
-Rodrigo Muniz Carvalho,Fulham,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,3638,0.0,0.01,0.0,0.0,Fulham,False,Manchester United,,-0.1
-Rodrigo Muniz Carvalho,Fulham,Manchester United,2023-05-28,False,0,0.0,0.15,0.0,0.26,0,2.0,1.0,0.0,0,0,3638,0.0,0.04,0.0,0.0,Fulham,False,Everton,,-0.63
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Rodrigo Muniz Carvalho,Fulham,Liverpool,2022-08-06,True,0,1.0,0.14,0.0,0.0,0,3.0,0.0,0.0,0,0,0.1,0.0,0.14,0.0,0,0,0,0,0,0.0,Fulham,False,Wolverhampton,,-0.46
+Rodrigo Muniz Carvalho,Fulham,Wolverhampton,2022-08-13,False,0,2.0,1.42,0.0,0.42,0,5.0,3.0,0.0,0,0,0.11,0.0,0.78,0.0,0,0,0,0,0,0.0,Fulham,True,Brentford,,0.69
+Rodrigo Muniz Carvalho,Fulham,Brentford,,True,0,,,,,0,,,0.0,0,0,0.11,0.0,0.52,0.0,0,0,0,0,0,0.0,Fulham,False,Arsenal,,-0.0
+Rodrigo Muniz Carvalho,Fulham,Arsenal,2022-08-27,False,0,0.0,0.24,0.0,0.0,0,5.0,0.0,0.0,0,0,0.08,0.0,0.45,0.0,0,0,0,0,0,0.0,Fulham,True,Brighton,,-0.71
+Rodrigo Muniz Carvalho,Fulham,Brighton,2022-08-30,True,0,0.0,0.05,0.0,0.0,0,1.0,0.0,0.0,0,0,0.07,0.0,0.37,0.0,0,0,0,0,0,0.0,Fulham,False,Tottenham,,-0.03
+Rodrigo Muniz Carvalho,Fulham,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.05,0.0,0.34,0.0,0,0,0,0,0,0.0,Fulham,False,Nottingham Forest,,
+Rodrigo Muniz Carvalho,Fulham,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.05,0.0,0.06,0.0,0,0,0,0,0,0.0,Fulham,True,Newcastle United,,0.73
+Rodrigo Muniz Carvalho,Fulham,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.04,0.0,0.06,0.0,0,0,0,0,0,0.0,Fulham,False,West Ham,,0.14
+Rodrigo Muniz Carvalho,Fulham,West Ham,2022-10-09,False,0,0.0,0.02,0.0,0.23,0,1.0,3.0,0.0,0,0,0.04,0.0,0.01,0.0,0,0,0,0,0,0.0,Fulham,True,Bournemouth,,1.46
+Rodrigo Muniz Carvalho,Fulham,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.04,0.0,0.0,0.0,0,0,0,0,0,0.0,Fulham,True,Aston Villa,,0.55
+Rodrigo Muniz Carvalho,Fulham,Aston Villa,2022-10-20,True,0,0.0,0.09,0.0,0.0,0,2.0,0.0,0.0,0,0,0.04,0.0,0.02,0.0,0,0,0,0,0,0.0,Fulham,False,Leicester City,,-0.05
+Rodrigo Muniz Carvalho,Fulham,Leicester City,2022-10-23,False,0,1.0,0.84,0.0,0.0,0,3.0,0.0,0.0,0,0,0.04,0.0,0.19,0.0,0,0,0,0,0,0.0,Fulham,True,Everton,,0.34
+Rodrigo Muniz Carvalho,Fulham,Everton,2022-10-29,True,0,1.0,0.77,0.0,0.14,0,2.0,2.0,0.0,0,0,0.04,0.0,0.34,0.0,0,0,0,0,0,0.0,Fulham,False,Manchester City,,-1.26
+Rodrigo Muniz Carvalho,Fulham,Manchester City,2022-11-05,False,0,1.0,0.95,0.0,0.0,0,3.0,0.0,0.0,0,0,0.04,0.0,0.53,0.0,0,0,0,0,0,0.0,Fulham,True,Manchester United,,0.38
+Rodrigo Muniz Carvalho,Fulham,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.04,0.0,0.53,0.0,0,0,0,0,0,0.0,Fulham,False,Crystal Palace,,0.13
+Rodrigo Muniz Carvalho,Fulham,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0.04,0.0,0.51,0.0,0,0,0,0,0,0.0,Fulham,True,Southampton,,-0.38
+Rodrigo Muniz Carvalho,Fulham,Southampton,2022-12-31,True,0,0.0,0.19,0.0,0.0,0,3.0,0.0,0.0,0,0,0.04,0.0,0.38,0.0,0,0,0,0,0,0.0,Fulham,False,Leeds United,,-0.8
+Rodrigo Muniz Carvalho,Fulham,Leeds United,,False,0,,,,,0,,,0.0,0,0,0.04,0.0,0.23,0.0,0,0,0,0,0,0.0,Fulham,True,Chelsea,,-0.25
+Rodrigo Muniz Carvalho,Fulham,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.04,0.0,0.04,0.0,0,0,0,0,0,0.0,Fulham,False,Newcastle United,,-0.34
+Rodrigo Muniz Carvalho,Fulham,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.03,0.0,0.04,0.0,0,0,0,0,0,0.0,Fulham,True,Tottenham,,1.07
+Rodrigo Muniz Carvalho,Fulham,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.03,0.0,0.04,0.0,0,0,0,0,0,0.0,Fulham,False,Chelsea,,-0.72
+Rodrigo Muniz Carvalho,Fulham,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.03,0.0,0.0,0.0,0,0,0,0,0,0.0,Fulham,True,Nottingham Forest,,
+Rodrigo Muniz Carvalho,Fulham,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.03,0.0,0.0,0.0,0,0,0,0,0,0.0,Fulham,False,Brighton,,-0.39
+Rodrigo Muniz Carvalho,Fulham,Brighton,,False,0,,,,,0,,,0.0,0,0,0.03,0.0,0.0,0.0,0,0,0,0,0,0.0,Fulham,True,Wolverhampton,,-0.48
+Rodrigo Muniz Carvalho,Fulham,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.03,0.0,0.0,0.0,0,0,0,0,0,0.0,Fulham,False,Brentford,,-0.55
+Rodrigo Muniz Carvalho,Fulham,Brentford,,False,0,,,,,0,,,0.0,0,0,0.03,0.0,0.0,0.0,0,0,0,0,0,0.0,Fulham,True,Arsenal,,0.36
+Rodrigo Muniz Carvalho,Fulham,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.03,0.0,0.0,0.0,0,0,0,0,0,0.0,Fulham,False,Bournemouth,,0.19
+Rodrigo Muniz Carvalho,Fulham,Bournemouth,2023-04-01,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.03,0.0,0.0,0.0,0,0,0,0,0,0.0,Fulham,True,West Ham,,0.63
+Rodrigo Muniz Carvalho,Fulham,West Ham,,True,0,,,,,0,,,0.0,0,0,0.03,0.0,0.0,0.0,0,0,0,0,0,0.0,Fulham,False,Everton,,-0.63
+Rodrigo Muniz Carvalho,Fulham,Everton,,False,0,,,,,0,,,0.0,0,0,0.03,0.0,0.0,0.0,0,0,0,0,0,0.0,Fulham,True,Leicester City,,0.83
+Rodrigo Muniz Carvalho,Fulham,Leicester City,2023-04-22,True,0,0.0,0.14,0.0,0.0,0,1.0,0.0,0.0,0,0,0.03,0.0,0.03,0.0,0,0,0,0,0,0.0,Fulham,False,Aston Villa,,0.59
+Rodrigo Muniz Carvalho,Fulham,Aston Villa,2023-04-25,False,0,0.0,0.2,0.0,0.0,0,2.0,0.0,0.0,0,0,0.03,0.0,0.07,0.0,0,0,0,0,0,0.0,Fulham,True,Manchester City,,-1.17
+Rodrigo Muniz Carvalho,Fulham,Manchester City,2023-04-30,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.03,0.0,0.07,0.0,0,0,0,0,0,0.0,Fulham,False,Liverpool,,-1.33
+Rodrigo Muniz Carvalho,Fulham,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.03,0.0,0.07,0.0,0,0,0,0,0,0.0,Fulham,True,Leeds United,,-0.79
+Rodrigo Muniz Carvalho,Fulham,Leeds United,,True,0,,,,,0,,,0.0,0,0,0.03,0.0,0.07,0.0,0,0,0,0,0,0.0,Fulham,False,Southampton,,-1.07
+Rodrigo Muniz Carvalho,Fulham,Southampton,2023-05-13,False,0,0.0,0.05,0.0,0.07,0,1.0,1.0,0.0,0,0,0.03,0.0,0.05,0.0,0,0,0,0,0,0.0,Fulham,True,Crystal Palace,,0.81
+Rodrigo Muniz Carvalho,Fulham,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.03,0.0,0.01,0.0,0,0,0,0,0,0.0,Fulham,False,Manchester United,,-0.1
+Rodrigo Muniz Carvalho,Fulham,Manchester United,2023-05-28,False,0,0.0,0.15,0.0,0.26,0,2.0,1.0,0.0,0,0,0.03,0.0,0.04,0.0,0,0,0,0,0,0.0,Fulham,False,Everton,,-0.63

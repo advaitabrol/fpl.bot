@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Pontus Jansson,Brentford,Leeds United,2022-08-07,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,2,0.0,0,186616,1.0,0.0,90.0,0.0,4.6,0.57,0.22,0,6.0,Brentford,True,Manchester United,,0.38
-Pontus Jansson,Brentford,Manchester United,2022-08-13,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.5,0,1,0,0.0,0,179674,3.5,0.0,90.0,0.5,4.6,0.57,0.22,0,1.0,Brentford,False,Fulham,,1.37
-Pontus Jansson,Brentford,Fulham,2022-08-20,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,3,0.0,0,189224,2.67,0.0,90.0,0.33,4.6,0.57,0.22,0,0.0,Brentford,True,Everton,,0.34
-Pontus Jansson,Brentford,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,180714,2.0,0.0,67.5,0.33,4.6,0.57,0.22,0,0.0,Brentford,False,Crystal Palace,,0.13
-Pontus Jansson,Brentford,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,133098,1.6,0.0,54.0,0.33,4.6,0.57,0.22,0,1.0,Brentford,True,Leicester City,,0.83
-Pontus Jansson,Brentford,Leicester City,2022-09-03,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.3,0,0,2,0.0,0,111209,1.6,0.0,60.0,0.25,4.6,0.57,0.22,0,1.0,Brentford,True,Arsenal,,0.36
-Pontus Jansson,Brentford,Arsenal,2022-09-18,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,3,0.0,0,103448,0.6,0.0,64.29,0.2,4.6,0.57,0.22,0,6.0,Brentford,False,Bournemouth,,0.19
-Pontus Jansson,Brentford,Bournemouth,2022-10-01,False,63,0.0,0.02,0.0,0.0,6,1.0,0.0,1.6,0,1,0,0.0,0,102392,1.6,0.0,64.12,0.33,4.6,0.57,0.22,0,0.0,Brentford,False,Newcastle United,,-0.34
-Pontus Jansson,Brentford,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,83677,1.6,0.0,57.0,0.33,4.6,0.57,0.22,0,0.0,Brentford,True,Brighton,,-0.71
-Pontus Jansson,Brentford,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,72494,1.6,0.0,51.3,0.33,4.6,0.57,0.22,0,0.0,Brentford,True,Chelsea,,-0.25
-Pontus Jansson,Brentford,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,59380,1.4,0.0,46.64,0.33,4.6,0.57,0.22,0,0.0,Brentford,False,Aston Villa,,0.59
-Pontus Jansson,Brentford,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,58302,1.2,0.0,42.75,0.33,4.6,0.57,0.22,0,0.0,Brentford,True,Wolverhampton,,-0.48
-Pontus Jansson,Brentford,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,53227,0.0,0.0,39.46,0.33,4.6,0.57,0.22,0,0.0,Brentford,False,Nottingham Forest,,
-Pontus Jansson,Brentford,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,49212,0.0,0.0,36.64,0.33,4.6,0.57,0.22,0,0.0,Brentford,False,Manchester City,,-1.26
-Pontus Jansson,Brentford,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,46615,0.0,0.0,34.2,0.33,4.6,0.57,0.22,0,0.0,Brentford,True,Tottenham,,1.07
-Pontus Jansson,Brentford,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,44589,0.0,0.0,32.06,0.33,4.6,0.57,0.22,0,1.0,Brentford,False,West Ham,,0.14
-Pontus Jansson,Brentford,West Ham,2022-12-30,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.04,0,44542,0.2,0.0,30.24,0.29,4.6,0.57,0.22,0,0.0,Brentford,True,Liverpool,,-0.53
-Pontus Jansson,Brentford,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,44340,0.2,0.0,28.56,0.29,4.6,0.57,0.22,0,0.0,Brentford,True,Bournemouth,,1.46
-Pontus Jansson,Brentford,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,42939,0.2,0.0,27.05,0.29,4.6,0.57,0.22,0,0.0,Brentford,False,Leicester City,,-0.05
-Pontus Jansson,Brentford,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,41498,0.2,0.0,25.7,0.29,4.6,0.57,0.22,0,0.0,Brentford,True,Southampton,,-0.38
-Pontus Jansson,Brentford,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,39907,0.2,0.0,24.48,0.29,4.6,0.57,0.22,0,0.0,Brentford,False,Arsenal,,-0.0
-Pontus Jansson,Brentford,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,39060,0.0,0.0,23.36,0.29,4.6,0.57,0.22,0,0.0,Brentford,True,Crystal Palace,,0.81
-Pontus Jansson,Brentford,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,38483,0.0,0.0,22.35,0.29,4.6,0.57,0.22,0,0.0,Brentford,True,Fulham,,-0.3
-Pontus Jansson,Brentford,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,37554,0.0,0.0,21.42,0.29,4.6,0.57,0.22,0,0.0,Brentford,False,Everton,,-0.63
-Pontus Jansson,Brentford,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,37912,0.0,0.0,20.56,0.29,4.6,0.57,0.22,0,1.0,Brentford,False,Southampton,,-1.07
-Pontus Jansson,Brentford,Southampton,2023-03-15,False,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.08,0,37912,0.2,0.0,20.23,0.25,4.6,0.57,0.22,0,1.0,Brentford,True,Leeds United,,-0.79
-Pontus Jansson,Brentford,Leeds United,2023-03-18,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.06,0,38111,0.4,0.0,19.52,0.22,4.6,0.57,0.22,0,7.0,Brentford,False,Brighton,,-0.39
-Pontus Jansson,Brentford,Brighton,2023-04-01,False,90,1.0,0.05,0.0,0.0,7,1.0,0.0,7.3,0,0,3,4.45,1,38082,1.8,0.01,22.04,0.2,4.6,0.57,0.22,0,2.0,Brentford,False,Manchester United,,-0.1
-Pontus Jansson,Brentford,Manchester United,2023-04-05,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.4,0,0,1,1.1,1,38082,2.2,0.01,24.38,0.18,4.6,0.57,0.22,0,1.0,Brentford,True,Newcastle United,,0.73
-Pontus Jansson,Brentford,Newcastle United,2023-04-08,True,15,0.0,0.12,0.0,0.0,1,2.0,0.0,2.7,0,0,0,0.0,1,40006,2.4,0.04,24.07,0.17,4.6,0.57,0.22,0,0.0,Brentford,False,Wolverhampton,,-0.46
-Pontus Jansson,Brentford,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,38794,2.2,0.04,23.29,0.17,4.6,0.57,0.22,0,0.0,Brentford,True,Aston Villa,,0.55
-Pontus Jansson,Brentford,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,37751,2.0,0.04,22.56,0.17,4.6,0.57,0.22,0,0.0,Brentford,False,Chelsea,,-0.72
-Pontus Jansson,Brentford,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,37443,0.6,0.02,21.88,0.17,4.6,0.57,0.22,0,0.0,Brentford,True,Nottingham Forest,,
-Pontus Jansson,Brentford,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,36950,0.2,0.02,21.24,0.17,4.6,0.57,0.22,0,0.0,Brentford,False,Liverpool,,-1.33
-Pontus Jansson,Brentford,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,36576,0.0,0.0,20.63,0.17,4.6,0.57,0.22,0,0.0,Brentford,True,West Ham,,0.63
-Pontus Jansson,Brentford,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,36318,0.0,0.0,20.06,0.17,4.6,0.57,0.22,0,0.0,Brentford,False,Tottenham,,-0.03
-Pontus Jansson,Brentford,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,36072,0.0,0.0,19.51,0.17,4.6,0.57,0.22,0,0.0,Brentford,True,Manchester City,,-1.17
-Pontus Jansson,Brentford,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,35863,0.0,0.0,19.0,0.17,4.6,0.57,0.22,0,,Aston Villa,False,Newcastle United,,-0.34
+Pontus Jansson,Brentford,Leeds United,2022-08-07,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,2,0.0,0,1.72,1.0,0.0,90.0,0.0,4.6,0.57,0.22,0,6.0,Brentford,True,Manchester United,,0.38
+Pontus Jansson,Brentford,Manchester United,2022-08-13,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.5,0,1,0,0.0,0,1.66,3.5,0.0,90.0,0.5,4.6,0.57,0.22,0,1.0,Brentford,False,Fulham,,1.37
+Pontus Jansson,Brentford,Fulham,2022-08-20,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,3,0.0,0,1.75,2.67,0.0,90.0,0.33,4.6,0.57,0.22,0,0.0,Brentford,True,Everton,,0.34
+Pontus Jansson,Brentford,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.67,2.0,0.0,67.5,0.33,4.6,0.57,0.22,0,0.0,Brentford,False,Crystal Palace,,0.13
+Pontus Jansson,Brentford,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.23,1.6,0.0,54.0,0.33,4.6,0.57,0.22,0,1.0,Brentford,True,Leicester City,,0.83
+Pontus Jansson,Brentford,Leicester City,2022-09-03,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.3,0,0,2,0.0,0,1.03,1.6,0.0,60.0,0.25,4.6,0.57,0.22,0,1.0,Brentford,True,Arsenal,,0.36
+Pontus Jansson,Brentford,Arsenal,2022-09-18,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,3,0.0,0,0.96,0.6,0.0,64.29,0.2,4.6,0.57,0.22,0,6.0,Brentford,False,Bournemouth,,0.19
+Pontus Jansson,Brentford,Bournemouth,2022-10-01,False,63,0.0,0.02,0.0,0.0,6,1.0,0.0,1.6,0,1,0,0.0,0,0.95,1.6,0.0,64.12,0.33,4.6,0.57,0.22,0,0.0,Brentford,False,Newcastle United,,-0.34
+Pontus Jansson,Brentford,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.77,1.6,0.0,57.0,0.33,4.6,0.57,0.22,0,0.0,Brentford,True,Brighton,,-0.71
+Pontus Jansson,Brentford,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.67,1.6,0.0,51.3,0.33,4.6,0.57,0.22,0,0.0,Brentford,True,Chelsea,,-0.25
+Pontus Jansson,Brentford,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.55,1.4,0.0,46.64,0.33,4.6,0.57,0.22,0,0.0,Brentford,False,Aston Villa,,0.59
+Pontus Jansson,Brentford,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.54,1.2,0.0,42.75,0.33,4.6,0.57,0.22,0,0.0,Brentford,True,Wolverhampton,,-0.48
+Pontus Jansson,Brentford,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.49,0.0,0.0,39.46,0.33,4.6,0.57,0.22,0,0.0,Brentford,False,Nottingham Forest,,
+Pontus Jansson,Brentford,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.45,0.0,0.0,36.64,0.33,4.6,0.57,0.22,0,0.0,Brentford,False,Manchester City,,-1.26
+Pontus Jansson,Brentford,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.43,0.0,0.0,34.2,0.33,4.6,0.57,0.22,0,0.0,Brentford,True,Tottenham,,1.07
+Pontus Jansson,Brentford,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.41,0.0,0.0,32.06,0.33,4.6,0.57,0.22,0,1.0,Brentford,False,West Ham,,0.14
+Pontus Jansson,Brentford,West Ham,2022-12-30,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.04,0,0.41,0.2,0.0,30.24,0.29,4.6,0.57,0.22,0,0.0,Brentford,True,Liverpool,,-0.53
+Pontus Jansson,Brentford,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.41,0.2,0.0,28.56,0.29,4.6,0.57,0.22,0,0.0,Brentford,True,Bournemouth,,1.46
+Pontus Jansson,Brentford,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.2,0.0,27.05,0.29,4.6,0.57,0.22,0,0.0,Brentford,False,Leicester City,,-0.05
+Pontus Jansson,Brentford,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.38,0.2,0.0,25.7,0.29,4.6,0.57,0.22,0,0.0,Brentford,True,Southampton,,-0.38
+Pontus Jansson,Brentford,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.37,0.2,0.0,24.48,0.29,4.6,0.57,0.22,0,0.0,Brentford,False,Arsenal,,-0.0
+Pontus Jansson,Brentford,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.36,0.0,0.0,23.36,0.29,4.6,0.57,0.22,0,0.0,Brentford,True,Crystal Palace,,0.81
+Pontus Jansson,Brentford,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.36,0.0,0.0,22.35,0.29,4.6,0.57,0.22,0,0.0,Brentford,True,Fulham,,-0.3
+Pontus Jansson,Brentford,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.35,0.0,0.0,21.42,0.29,4.6,0.57,0.22,0,0.0,Brentford,False,Everton,,-0.63
+Pontus Jansson,Brentford,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.35,0.0,0.0,20.56,0.29,4.6,0.57,0.22,0,1.0,Brentford,False,Southampton,,-1.07
+Pontus Jansson,Brentford,Southampton,2023-03-15,False,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.08,0,0.35,0.2,0.0,20.23,0.25,4.6,0.57,0.22,0,1.0,Brentford,True,Leeds United,,-0.79
+Pontus Jansson,Brentford,Leeds United,2023-03-18,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.06,0,0.35,0.4,0.0,19.52,0.22,4.6,0.57,0.22,0,7.0,Brentford,False,Brighton,,-0.39
+Pontus Jansson,Brentford,Brighton,2023-04-01,False,90,1.0,0.05,0.0,0.0,7,1.0,0.0,7.3,0,0,3,4.45,1,0.35,1.8,0.01,22.04,0.2,4.6,0.57,0.22,0,2.0,Brentford,False,Manchester United,,-0.1
+Pontus Jansson,Brentford,Manchester United,2023-04-05,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.4,0,0,1,1.1,1,0.35,2.2,0.01,24.38,0.18,4.6,0.57,0.22,0,1.0,Brentford,True,Newcastle United,,0.73
+Pontus Jansson,Brentford,Newcastle United,2023-04-08,True,15,0.0,0.12,0.0,0.0,1,2.0,0.0,2.7,0,0,0,0.0,1,0.37,2.4,0.04,24.07,0.17,4.6,0.57,0.22,0,0.0,Brentford,False,Wolverhampton,,-0.46
+Pontus Jansson,Brentford,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.36,2.2,0.04,23.29,0.17,4.6,0.57,0.22,0,0.0,Brentford,True,Aston Villa,,0.55
+Pontus Jansson,Brentford,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.35,2.0,0.04,22.56,0.17,4.6,0.57,0.22,0,0.0,Brentford,False,Chelsea,,-0.72
+Pontus Jansson,Brentford,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.35,0.6,0.02,21.88,0.17,4.6,0.57,0.22,0,0.0,Brentford,True,Nottingham Forest,,
+Pontus Jansson,Brentford,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.34,0.2,0.02,21.24,0.17,4.6,0.57,0.22,0,0.0,Brentford,False,Liverpool,,-1.33
+Pontus Jansson,Brentford,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.34,0.0,0.0,20.63,0.17,4.6,0.57,0.22,0,0.0,Brentford,True,West Ham,,0.63
+Pontus Jansson,Brentford,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.34,0.0,0.0,20.06,0.17,4.6,0.57,0.22,0,0.0,Brentford,False,Tottenham,,-0.03
+Pontus Jansson,Brentford,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.33,0.0,0.0,19.51,0.17,4.6,0.57,0.22,0,0.0,Brentford,True,Manchester City,,-1.17
+Pontus Jansson,Brentford,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.33,0.0,0.0,19.0,0.17,4.6,0.57,0.22,0,,Aston Villa,False,Newcastle United,,-0.34

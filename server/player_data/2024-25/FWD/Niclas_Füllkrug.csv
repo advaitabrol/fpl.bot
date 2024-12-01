@@ -1,15 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Niclas Füllkrug,West Ham,Aston Villa,2024-08-17,True,17.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,362778.0,1.0,0.0,17.0,1.0,West Ham,False,Crystal Palace,,0.2
-Niclas Füllkrug,West Ham,Crystal Palace,2024-08-24,False,27.0,0.0,0.26,0.0,0.0,1.0,2.0,0.0,2.5,0.0,0.0,361419.0,1.0,0.13,22.0,1.0,West Ham,True,Manchester City,,-1.18
-Niclas Füllkrug,West Ham,Manchester City,2024-08-31,True,19.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.8,0.0,0.0,265520.0,1.0,0.09,21.0,0.0,West Ham,False,Fulham,,0.53
-Niclas Füllkrug,West Ham,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,189047.0,0.75,0.06,15.75,0.0,West Ham,True,Chelsea,,0.0
-Niclas Füllkrug,West Ham,Chelsea,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,150348.0,0.6,0.05,12.6,0.0,West Ham,False,Brentford,,-0.15
-Niclas Füllkrug,West Ham,Brentford,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,127205.0,0.4,0.05,10.5,0.0,West Ham,True,Ipswich Town,,
-Niclas Füllkrug,West Ham,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,112649.0,0.2,0.0,9.0,0.0,West Ham,False,Tottenham,,-0.3
-Niclas Füllkrug,West Ham,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,104701.0,0.0,0.0,7.88,0.0,West Ham,True,Manchester United,,0.39
-Niclas Füllkrug,West Ham,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,100797.0,0.0,0.0,7.0,0.0,West Ham,False,Nottingham Forest,,-0.54
-Niclas Füllkrug,West Ham,Nottingham Forest,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,97092.0,0.0,0.0,6.3,0.0,West Ham,True,Everton,,0.61
-Niclas Füllkrug,West Ham,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,94818.0,0.0,0.0,5.73,0.0,West Ham,False,Newcastle United,,-0.44
-Niclas Füllkrug,West Ham,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,92832.0,0.0,0.0,5.25,,West Ham,True,Arsenal,,-0.32
-,West Ham,,,,,,,,,,,,,,,,,,,,West Ham,False,Leicester City,,-0.22
-,West Ham,,,,,,,,,,,,,,,,,,,,West Ham,True,Wolverhampton,,-0.08
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Niclas Füllkrug,West Ham,Aston Villa,2024-08-17,True,17.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,3.35,1.0,0.0,17.0,0.0,0.0,0.0,0.0,0.0,1.0,West Ham,False,Crystal Palace,,0.2
+Niclas Füllkrug,West Ham,Crystal Palace,2024-08-24,False,27.0,0.0,0.26,0.0,0.0,1.0,2.0,0.0,2.5,0.0,0.0,3.34,1.0,0.13,22.0,0.0,0.0,0.0,0.0,0.0,1.0,West Ham,True,Manchester City,,-1.18
+Niclas Füllkrug,West Ham,Manchester City,2024-08-31,True,19.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.8,0.0,0.0,2.45,1.0,0.09,21.0,0.0,0.0,0.0,0.0,0.0,0.0,West Ham,False,Fulham,,0.53
+Niclas Füllkrug,West Ham,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1.75,0.75,0.06,15.75,0.0,0.0,0.0,0.0,0.0,0.0,West Ham,True,Chelsea,,0.0
+Niclas Füllkrug,West Ham,Chelsea,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1.39,0.6,0.05,12.6,0.0,0.0,0.0,0.0,0.0,0.0,West Ham,False,Brentford,,-0.15
+Niclas Füllkrug,West Ham,Brentford,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1.17,0.4,0.05,10.5,0.0,0.0,0.0,0.0,0.0,0.0,West Ham,True,Ipswich Town,,
+Niclas Füllkrug,West Ham,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1.04,0.2,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,West Ham,False,Tottenham,,-0.3
+Niclas Füllkrug,West Ham,Tottenham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.97,0.0,0.0,7.88,0.0,0.0,0.0,0.0,0.0,0.0,West Ham,True,Manchester United,,0.39
+Niclas Füllkrug,West Ham,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.93,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,0.0,West Ham,False,Nottingham Forest,,-0.54
+Niclas Füllkrug,West Ham,Nottingham Forest,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.9,0.0,0.0,6.3,0.0,0.0,0.0,0.0,0.0,0.0,West Ham,True,Everton,,0.61
+Niclas Füllkrug,West Ham,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.88,0.0,0.0,5.73,0.0,0.0,0.0,0.0,0.0,0.0,West Ham,False,Newcastle United,,-0.44
+Niclas Füllkrug,West Ham,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.86,0.0,0.0,5.25,0.0,0.0,0.0,0.0,0.0,,West Ham,True,Arsenal,,-0.32
+,West Ham,,,,,,,,,,,,,,,,,,,,,,,,,West Ham,False,Leicester City,,-0.22
+,West Ham,,,,,,,,,,,,,,,,,,,,,,,,,West Ham,True,Wolverhampton,,-0.08

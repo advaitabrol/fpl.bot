@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Ivan Perišić,Spurs,Brentford,2023-08-13,False,15,0.0,0.0,0.0,0.14,1,0.0,1.0,2.5,0,0,0,0.3,0,257169,1.0,0.0,15.0,0.0,3.01,6.62,0.27,24.16,1.0,Spurs,True,Manchester United,,0.38
-Ivan Perišić,Spurs,Manchester United,2023-08-19,True,20,0.0,0.0,0.0,0.58,1,0.0,2.0,3.3,0,0,0,0.35,0,262482,1.0,0.0,17.5,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Bournemouth,,0.19
-Ivan Perišić,Spurs,Bournemouth,2023-08-26,False,31,0.0,0.09,0.0,0.0,0,1.0,0.0,1.5,0,0,0,0.16,0,251525,0.67,0.03,22.0,0.0,3.01,6.62,0.27,24.16,1.0,Spurs,False,Burnley,,0.0
-Ivan Perišić,Spurs,Burnley,2023-09-02,False,22,0.0,0.0,0.0,0.1,1,0.0,1.0,2.4,0,0,1,0.62,0,225412,0.75,0.02,22.0,0.0,3.01,6.62,0.27,24.16,3.0,Spurs,True,Sheffield,,0.68
-Ivan Perišić,Spurs,Sheffield,2023-09-16,True,10,0.0,0.04,1.0,0.34,3,1.0,1.0,4.3,0,0,0,0.01,0,205817,1.2,0.23,19.6,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Arsenal,,-0.48
-Ivan Perišić,Spurs,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,167208,1.0,0.23,16.33,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Liverpool,,0.18
-Ivan Perišić,Spurs,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,127921,0.8,0.23,14.0,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Luton,,
-Ivan Perišić,Spurs,Luton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,111945,0.8,0.21,12.25,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Fulham,,-0.13
-Ivan Perišić,Spurs,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,102831,0.6,0.21,10.89,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Crystal Palace,,0.38
-Ivan Perišić,Spurs,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,97572,0.0,0.0,9.8,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Chelsea,,-0.25
-Ivan Perišić,Spurs,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,93324,0.0,0.0,8.91,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Wolverhampton,,-0.52
-Ivan Perišić,Spurs,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,90743,0.0,0.0,8.17,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Aston Villa,,0.64
-Ivan Perišić,Spurs,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,88223,0.0,0.0,7.54,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Manchester City,,-1.32
-Ivan Perišić,Spurs,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,86979,0.0,0.0,7.0,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,West Ham,,0.49
-Ivan Perišić,Spurs,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,86067,0.0,0.0,6.53,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Newcastle United,,0.55
-Ivan Perišić,Spurs,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,85189,0.0,0.0,6.12,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Nottingham Forest,,-0.55
-Ivan Perišić,Spurs,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,84181,0.0,0.0,5.76,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Everton,,0.53
-Ivan Perišić,Spurs,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,83532,0.0,0.0,5.44,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Brighton,,-0.6
-Ivan Perišić,Spurs,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,83102,0.0,0.0,5.16,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Bournemouth,,1.22
-Ivan Perišić,Spurs,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,82567,0.0,0.0,4.9,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Manchester United,,-0.63
-Ivan Perišić,Spurs,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,81644,0.0,0.0,4.67,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Brentford,,0.79
-Ivan Perišić,Spurs,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,81105,0.0,0.0,4.45,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Everton,,-0.24
-Ivan Perišić,Spurs,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,80904,0.0,0.0,4.26,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Brighton,,-0.66
-Ivan Perišić,Spurs,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,80477,0.0,0.0,4.08,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Wolverhampton,,0.05
-Ivan Perišić,Spurs,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,80019,0.0,0.0,3.92,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Crystal Palace,,0.88
-Ivan Perišić,Spurs,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,79363,0.0,0.0,3.77,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Aston Villa,,0.29
-Ivan Perišić,Spurs,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,79105,0.0,0.0,3.63,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Fulham,,0.86
-Ivan Perišić,Spurs,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,78893,0.0,0.0,3.5,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Luton,,
-Ivan Perišić,Spurs,Luton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,78743,0.0,0.0,3.38,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,West Ham,,-0.22
-Ivan Perišić,Spurs,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,78663,0.0,0.0,3.27,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Nottingham Forest,,1.55
-Ivan Perišić,Spurs,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,78517,0.0,0.0,3.16,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Newcastle United,,-0.41
-Ivan Perišić,Spurs,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,78343,0.0,0.0,3.06,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Arsenal,,-0.11
-Ivan Perišić,Spurs,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,78023,0.0,0.0,2.97,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Chelsea,,-0.85
-Ivan Perišić,Spurs,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,78023,0.0,0.0,2.88,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Liverpool,,-1.01
-Ivan Perišić,Spurs,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,77903,0.0,0.0,2.8,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Burnley,,0.39
-Ivan Perišić,Spurs,Burnley,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,77746,0.0,0.0,2.72,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Manchester City,,-0.96
-Ivan Perišić,Spurs,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,77746,0.0,0.0,2.65,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Sheffield,,-0.61
-Ivan Perišić,Spurs,Sheffield,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,77630,0.0,0.0,2.58,0.0,3.01,6.62,0.27,24.16,,Aston Villa,False,West Ham,,-0.22
+Ivan Perišić,Spurs,Brentford,2023-08-13,False,15,0.0,0.0,0.0,0.14,1,0.0,1.0,2.5,0,0,0,0.3,0,2.37,1.0,0.0,15.0,0.0,3.01,6.62,0.27,24.16,1.0,Spurs,True,Manchester United,,0.38
+Ivan Perišić,Spurs,Manchester United,2023-08-19,True,20,0.0,0.0,0.0,0.58,1,0.0,2.0,3.3,0,0,0,0.35,0,2.42,1.0,0.0,17.5,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Bournemouth,,0.19
+Ivan Perišić,Spurs,Bournemouth,2023-08-26,False,31,0.0,0.09,0.0,0.0,0,1.0,0.0,1.5,0,0,0,0.16,0,2.32,0.67,0.03,22.0,0.0,3.01,6.62,0.27,24.16,1.0,Spurs,False,Burnley,,0.0
+Ivan Perišić,Spurs,Burnley,2023-09-02,False,22,0.0,0.0,0.0,0.1,1,0.0,1.0,2.4,0,0,1,0.62,0,2.08,0.75,0.02,22.0,0.0,3.01,6.62,0.27,24.16,3.0,Spurs,True,Sheffield,,0.68
+Ivan Perišić,Spurs,Sheffield,2023-09-16,True,10,0.0,0.04,1.0,0.34,3,1.0,1.0,4.3,0,0,0,0.01,0,1.9,1.2,0.23,19.6,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Arsenal,,-0.48
+Ivan Perišić,Spurs,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.54,1.0,0.23,16.33,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Liverpool,,0.18
+Ivan Perišić,Spurs,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.18,0.8,0.23,14.0,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Luton,,
+Ivan Perišić,Spurs,Luton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.03,0.8,0.21,12.25,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Fulham,,-0.13
+Ivan Perišić,Spurs,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.95,0.6,0.21,10.89,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Crystal Palace,,0.38
+Ivan Perišić,Spurs,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.9,0.0,0.0,9.8,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Chelsea,,-0.25
+Ivan Perišić,Spurs,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.86,0.0,0.0,8.91,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Wolverhampton,,-0.52
+Ivan Perišić,Spurs,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.84,0.0,0.0,8.17,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Aston Villa,,0.64
+Ivan Perišić,Spurs,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.81,0.0,0.0,7.54,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Manchester City,,-1.32
+Ivan Perišić,Spurs,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.0,0.0,7.0,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,West Ham,,0.49
+Ivan Perišić,Spurs,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.79,0.0,0.0,6.53,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Newcastle United,,0.55
+Ivan Perišić,Spurs,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.79,0.0,0.0,6.12,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Nottingham Forest,,-0.55
+Ivan Perišić,Spurs,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.78,0.0,0.0,5.76,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Everton,,0.53
+Ivan Perišić,Spurs,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.77,0.0,0.0,5.44,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Brighton,,-0.6
+Ivan Perišić,Spurs,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.77,0.0,0.0,5.16,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Bournemouth,,1.22
+Ivan Perišić,Spurs,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.76,0.0,0.0,4.9,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Manchester United,,-0.63
+Ivan Perišić,Spurs,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.75,0.0,0.0,4.67,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Brentford,,0.79
+Ivan Perišić,Spurs,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.75,0.0,0.0,4.45,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Everton,,-0.24
+Ivan Perišić,Spurs,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.75,0.0,0.0,4.26,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Brighton,,-0.66
+Ivan Perišić,Spurs,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.74,0.0,0.0,4.08,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Wolverhampton,,0.05
+Ivan Perišić,Spurs,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.74,0.0,0.0,3.92,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Crystal Palace,,0.88
+Ivan Perišić,Spurs,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.73,0.0,0.0,3.77,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Aston Villa,,0.29
+Ivan Perišić,Spurs,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.73,0.0,0.0,3.63,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Fulham,,0.86
+Ivan Perišić,Spurs,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.73,0.0,0.0,3.5,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Luton,,
+Ivan Perišić,Spurs,Luton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.73,0.0,0.0,3.38,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,West Ham,,-0.22
+Ivan Perišić,Spurs,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.73,0.0,0.0,3.27,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Nottingham Forest,,1.55
+Ivan Perišić,Spurs,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.72,0.0,0.0,3.16,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Newcastle United,,-0.41
+Ivan Perišić,Spurs,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.72,0.0,0.0,3.06,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Arsenal,,-0.11
+Ivan Perišić,Spurs,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.72,0.0,0.0,2.97,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Chelsea,,-0.85
+Ivan Perišić,Spurs,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.72,0.0,0.0,2.88,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Liverpool,,-1.01
+Ivan Perišić,Spurs,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.72,0.0,0.0,2.8,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Burnley,,0.39
+Ivan Perišić,Spurs,Burnley,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.72,0.0,0.0,2.72,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,True,Manchester City,,-0.96
+Ivan Perišić,Spurs,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.72,0.0,0.0,2.65,0.0,3.01,6.62,0.27,24.16,0.0,Spurs,False,Sheffield,,-0.61
+Ivan Perišić,Spurs,Sheffield,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.72,0.0,0.0,2.58,0.0,3.01,6.62,0.27,24.16,,Aston Villa,False,West Ham,,-0.22

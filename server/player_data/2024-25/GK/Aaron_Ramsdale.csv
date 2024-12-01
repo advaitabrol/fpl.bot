@@ -1,15 +1,15 @@
 name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Aaron Ramsdale,Arsenal,Wolverhampton,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,68531.0,0.0,0.0,0.0,0.0,0.0,0.33,9.0,5.81,0.0,Arsenal,False,Aston Villa,,0.11
-Aaron Ramsdale,Arsenal,Aston Villa,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,74765.0,0.0,0.0,0.0,0.0,0.0,0.33,9.0,5.81,2.0,Southampton,False,Brentford,,-0.15
-Aaron Ramsdale,Southampton,Brentford,2024-08-31,False,90.0,3.0,2.78,4.0,0.0,2.0,0.0,0.0,0.0,1.0,107644.0,0.67,0.0,30.0,0.0,4.0,0.33,9.0,5.81,3.0,Southampton,True,Manchester United,,0.39
-Aaron Ramsdale,Southampton,Manchester United,2024-09-14,True,90.0,3.0,2.67,7.0,0.0,3.0,0.0,0.0,0.0,1.0,176635.0,1.25,0.0,45.0,0.0,5.5,0.33,9.0,5.81,3.0,Southampton,True,Ipswich Town,,
-Aaron Ramsdale,Southampton,Ipswich Town,2024-09-21,True,90.0,1.0,1.69,5.0,0.0,3.0,0.0,0.0,0.0,1.0,206185.0,1.6,0.0,54.0,0.0,5.33,0.33,9.0,5.81,2.0,Southampton,False,Bournemouth,,-0.04
-Aaron Ramsdale,Southampton,Bournemouth,2024-09-30,False,90.0,3.0,1.38,3.0,0.0,2.0,0.0,0.0,0.0,1.0,220949.0,2.0,0.0,60.0,0.0,4.75,0.33,9.0,5.81,2.0,Southampton,False,Arsenal,,-0.56
-Aaron Ramsdale,Southampton,Arsenal,2024-10-05,False,90.0,3.0,2.83,3.0,0.0,2.0,0.0,0.0,0.0,1.0,222857.0,2.4,0.0,64.29,0.0,4.4,0.33,9.0,5.81,1.0,Southampton,True,Leicester City,,0.47
-Aaron Ramsdale,Southampton,Leicester City,2024-10-19,True,90.0,3.0,3.21,1.0,0.0,1.0,0.0,0.0,0.0,1.0,234313.0,2.2,0.0,67.5,0.0,3.83,0.33,9.0,5.81,4.0,Southampton,False,Manchester City,,-1.51
-Aaron Ramsdale,Southampton,Manchester City,2024-10-26,False,90.0,1.0,2.95,6.0,0.0,4.0,0.0,0.0,0.0,1.0,226240.0,2.4,0.0,70.0,0.0,4.14,0.33,9.0,5.81,9.0,Southampton,True,Everton,,0.61
-Aaron Ramsdale,Southampton,Everton,2024-11-02,True,90.0,0.0,1.56,5.0,0.0,9.0,2.0,1.0,0.0,1.0,228937.0,3.6,0.0,72.0,0.12,4.25,0.33,9.0,5.81,0.0,Southampton,False,Wolverhampton,,-0.53
-Aaron Ramsdale,Southampton,Wolverhampton,2024-11-09,False,90.0,2.0,1.26,2.0,0.0,0.0,0.0,0.0,0.0,1.0,245406.0,3.2,0.0,73.64,0.11,4.0,0.33,9.0,5.81,0.0,Southampton,True,Liverpool,,0.24
-Aaron Ramsdale,Southampton,Liverpool,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,212243.0,2.8,0.0,67.5,0.11,4.0,0.33,9.0,5.81,,Southampton,False,Brighton,,-0.61
+Aaron Ramsdale,Arsenal,Wolverhampton,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.63,0.0,0.0,0.0,0.0,0.0,0.33,9.0,5.81,0.0,Arsenal,False,Aston Villa,,0.11
+Aaron Ramsdale,Arsenal,Aston Villa,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.69,0.0,0.0,0.0,0.0,0.0,0.33,9.0,5.81,2.0,Southampton,False,Brentford,,-0.15
+Aaron Ramsdale,Southampton,Brentford,2024-08-31,False,90.0,3.0,2.78,4.0,0.0,2.0,0.0,0.0,0.0,1.0,0.99,0.67,0.0,30.0,0.0,4.0,0.33,9.0,5.81,3.0,Southampton,True,Manchester United,,0.39
+Aaron Ramsdale,Southampton,Manchester United,2024-09-14,True,90.0,3.0,2.67,7.0,0.0,3.0,0.0,0.0,0.0,1.0,1.63,1.25,0.0,45.0,0.0,5.5,0.33,9.0,5.81,3.0,Southampton,True,Ipswich Town,,
+Aaron Ramsdale,Southampton,Ipswich Town,2024-09-21,True,90.0,1.0,1.69,5.0,0.0,3.0,0.0,0.0,0.0,1.0,1.9,1.6,0.0,54.0,0.0,5.33,0.33,9.0,5.81,2.0,Southampton,False,Bournemouth,,-0.04
+Aaron Ramsdale,Southampton,Bournemouth,2024-09-30,False,90.0,3.0,1.38,3.0,0.0,2.0,0.0,0.0,0.0,1.0,2.04,2.0,0.0,60.0,0.0,4.75,0.33,9.0,5.81,2.0,Southampton,False,Arsenal,,-0.56
+Aaron Ramsdale,Southampton,Arsenal,2024-10-05,False,90.0,3.0,2.83,3.0,0.0,2.0,0.0,0.0,0.0,1.0,2.06,2.4,0.0,64.29,0.0,4.4,0.33,9.0,5.81,1.0,Southampton,True,Leicester City,,0.47
+Aaron Ramsdale,Southampton,Leicester City,2024-10-19,True,90.0,3.0,3.21,1.0,0.0,1.0,0.0,0.0,0.0,1.0,2.16,2.2,0.0,67.5,0.0,3.83,0.33,9.0,5.81,4.0,Southampton,False,Manchester City,,-1.51
+Aaron Ramsdale,Southampton,Manchester City,2024-10-26,False,90.0,1.0,2.95,6.0,0.0,4.0,0.0,0.0,0.0,1.0,2.09,2.4,0.0,70.0,0.0,4.14,0.33,9.0,5.81,9.0,Southampton,True,Everton,,0.61
+Aaron Ramsdale,Southampton,Everton,2024-11-02,True,90.0,0.0,1.56,5.0,0.0,9.0,2.0,1.0,0.0,1.0,2.11,3.6,0.0,72.0,0.12,4.25,0.33,9.0,5.81,0.0,Southampton,False,Wolverhampton,,-0.53
+Aaron Ramsdale,Southampton,Wolverhampton,2024-11-09,False,90.0,2.0,1.26,2.0,0.0,0.0,0.0,0.0,0.0,1.0,2.27,3.2,0.0,73.64,0.11,4.0,0.33,9.0,5.81,0.0,Southampton,True,Liverpool,,0.24
+Aaron Ramsdale,Southampton,Liverpool,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,1.96,2.8,0.0,67.5,0.11,4.0,0.33,9.0,5.81,,Southampton,False,Brighton,,-0.61
 ,Southampton,,,,,,,,,,,,,,,,,,,,,,,,Southampton,True,Chelsea,,0.0
 ,Southampton,,,,,,,,,,,,,,,,,,,,,,,,Southampton,False,Aston Villa,,0.11

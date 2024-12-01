@@ -1,23 +1,23 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Benoît Badiashile,Chelsea,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,Chelsea,False,Fulham,,1.37
-Benoît Badiashile,Chelsea,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0,0.0,0.0,0.0,0.0,8.0,Chelsea,True,Crystal Palace,,0.81
-Benoît Badiashile,Chelsea,Crystal Palace,2023-01-15,True,90,0.0,0.0,0.0,0.0,8,0.0,0.0,3.6,2,1,0,0.58,1,546,2.67,0.0,30.0,1.0,6.0,Chelsea,False,Liverpool,,-1.33
-Benoît Badiashile,Chelsea,Liverpool,2023-01-21,False,90,0.0,0.44,0.0,0.55,6,1.0,1.0,7.4,0,1,0,1.4,1,12082,3.5,0.11,45.0,1.0,6.0,Chelsea,True,Fulham,,-0.3
-Benoît Badiashile,Chelsea,Fulham,2023-02-03,True,90,0.0,0.11,0.0,0.07,6,1.0,1.0,3.5,0,1,0,0.67,1,59102,4.0,0.11,54.0,1.0,1.0,Chelsea,False,West Ham,,0.14
-Benoît Badiashile,Chelsea,West Ham,2023-02-11,False,90,0.0,0.09,0.0,0.0,1,2.0,0.0,2.2,0,0,1,1.29,1,92042,4.2,0.13,60.0,0.75,2.0,Chelsea,True,Southampton,,-0.38
-Benoît Badiashile,Chelsea,Southampton,2023-02-18,True,90,0.0,0.0,0.0,0.07,2,0.0,1.0,2.7,0,0,1,0.83,1,121648,4.6,0.13,64.29,0.6,0.0,Chelsea,False,Tottenham,,-0.03
-Benoît Badiashile,Chelsea,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,109265,3.0,0.13,56.25,0.6,6.0,Chelsea,True,Leicester City,,0.83
-Benoît Badiashile,Chelsea,Leicester City,2023-03-04,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.6,0,1,0,0.94,1,104548,3.0,0.04,60.0,0.67,1.0,Chelsea,False,Leeds United,,-0.8
-Benoît Badiashile,Chelsea,Leeds United,2023-03-11,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,0,104468,2.0,0.02,54.4,0.57,1.0,Chelsea,True,Everton,,0.34
-Benoît Badiashile,Chelsea,Everton,2023-03-18,True,90,0.0,0.08,0.0,0.0,1,1.0,0.0,2.5,0,0,2,1.43,1,96591,2.0,0.02,57.64,0.5,0.0,Chelsea,True,Aston Villa,,0.55
-Benoît Badiashile,Chelsea,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,93907,1.6,0.02,52.83,0.5,0.0,Chelsea,True,Liverpool,,-0.53
-Benoît Badiashile,Chelsea,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,93907,1.6,0.02,48.77,0.5,0.0,Chelsea,False,Wolverhampton,,-0.46
-Benoît Badiashile,Chelsea,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,76914,0.4,0.02,45.29,0.5,1.0,Chelsea,True,Brighton,,-0.71
-Benoît Badiashile,Chelsea,Brighton,2023-04-15,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.0,0,0,2,2.28,1,66291,0.4,0.02,48.27,0.44,0.0,Chelsea,True,Brentford,,0.69
-Benoît Badiashile,Chelsea,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,53627,0.2,0.0,45.25,0.44,0.0,Chelsea,False,Arsenal,,-0.0
-Benoît Badiashile,Chelsea,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,47565,0.2,0.0,42.59,0.44,7.0,Chelsea,False,Bournemouth,,0.19
-Benoît Badiashile,Chelsea,Bournemouth,2023-05-06,False,90,1.0,0.5,0.0,0.0,7,1.0,0.0,6.7,0,0,1,1.26,1,44480,1.6,0.1,45.22,0.4,1.0,Chelsea,True,Nottingham Forest,,
-Benoît Badiashile,Chelsea,Nottingham Forest,2023-05-13,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.6,0,0,2,1.63,1,59607,1.8,0.1,47.58,0.36,0.0,Chelsea,False,Manchester City,,-1.26
-Benoît Badiashile,Chelsea,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,53842,1.6,0.1,45.2,0.36,0.0,Chelsea,False,Manchester United,,-0.1
-Benoît Badiashile,Chelsea,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,53842,1.6,0.1,43.05,0.36,0.0,Chelsea,True,Newcastle United,,0.73
-Benoît Badiashile,Chelsea,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,46549,1.6,0.1,41.09,0.36,,Chelsea,True,Liverpool,,-0.53
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Benoît Badiashile,Chelsea,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Chelsea,False,Fulham,,1.37
+Benoît Badiashile,Chelsea,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,0,0,0,0,8.0,Chelsea,True,Crystal Palace,,0.81
+Benoît Badiashile,Chelsea,Crystal Palace,2023-01-15,True,90,0.0,0.0,0.0,0.0,8,0.0,0.0,3.6,2,1,0,0.58,1,0.01,2.67,0.0,30.0,1.0,0,0,0,0,6.0,Chelsea,False,Liverpool,,-1.33
+Benoît Badiashile,Chelsea,Liverpool,2023-01-21,False,90,0.0,0.44,0.0,0.55,6,1.0,1.0,7.4,0,1,0,1.4,1,0.11,3.5,0.11,45.0,1.0,0,0,0,0,6.0,Chelsea,True,Fulham,,-0.3
+Benoît Badiashile,Chelsea,Fulham,2023-02-03,True,90,0.0,0.11,0.0,0.07,6,1.0,1.0,3.5,0,1,0,0.67,1,0.55,4.0,0.11,54.0,1.0,0,0,0,0,1.0,Chelsea,False,West Ham,,0.14
+Benoît Badiashile,Chelsea,West Ham,2023-02-11,False,90,0.0,0.09,0.0,0.0,1,2.0,0.0,2.2,0,0,1,1.29,1,0.85,4.2,0.13,60.0,0.75,0,0,0,0,2.0,Chelsea,True,Southampton,,-0.38
+Benoît Badiashile,Chelsea,Southampton,2023-02-18,True,90,0.0,0.0,0.0,0.07,2,0.0,1.0,2.7,0,0,1,0.83,1,1.12,4.6,0.13,64.29,0.6,0,0,0,0,0.0,Chelsea,False,Tottenham,,-0.03
+Benoît Badiashile,Chelsea,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.01,3.0,0.13,56.25,0.6,0,0,0,0,6.0,Chelsea,True,Leicester City,,0.83
+Benoît Badiashile,Chelsea,Leicester City,2023-03-04,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.6,0,1,0,0.94,1,0.97,3.0,0.04,60.0,0.67,0,0,0,0,1.0,Chelsea,False,Leeds United,,-0.8
+Benoît Badiashile,Chelsea,Leeds United,2023-03-11,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,0,0.96,2.0,0.02,54.4,0.57,0,0,0,0,1.0,Chelsea,True,Everton,,0.34
+Benoît Badiashile,Chelsea,Everton,2023-03-18,True,90,0.0,0.08,0.0,0.0,1,1.0,0.0,2.5,0,0,2,1.43,1,0.89,2.0,0.02,57.64,0.5,0,0,0,0,0.0,Chelsea,True,Aston Villa,,0.55
+Benoît Badiashile,Chelsea,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.87,1.6,0.02,52.83,0.5,0,0,0,0,0.0,Chelsea,True,Liverpool,,-0.53
+Benoît Badiashile,Chelsea,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.87,1.6,0.02,48.77,0.5,0,0,0,0,0.0,Chelsea,False,Wolverhampton,,-0.46
+Benoît Badiashile,Chelsea,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.71,0.4,0.02,45.29,0.5,0,0,0,0,1.0,Chelsea,True,Brighton,,-0.71
+Benoît Badiashile,Chelsea,Brighton,2023-04-15,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.0,0,0,2,2.28,1,0.61,0.4,0.02,48.27,0.44,0,0,0,0,0.0,Chelsea,True,Brentford,,0.69
+Benoît Badiashile,Chelsea,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.5,0.2,0.0,45.25,0.44,0,0,0,0,0.0,Chelsea,False,Arsenal,,-0.0
+Benoît Badiashile,Chelsea,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.44,0.2,0.0,42.59,0.44,0,0,0,0,7.0,Chelsea,False,Bournemouth,,0.19
+Benoît Badiashile,Chelsea,Bournemouth,2023-05-06,False,90,1.0,0.5,0.0,0.0,7,1.0,0.0,6.7,0,0,1,1.26,1,0.41,1.6,0.1,45.22,0.4,0,0,0,0,1.0,Chelsea,True,Nottingham Forest,,
+Benoît Badiashile,Chelsea,Nottingham Forest,2023-05-13,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.6,0,0,2,1.63,1,0.55,1.8,0.1,47.58,0.36,0,0,0,0,0.0,Chelsea,False,Manchester City,,-1.26
+Benoît Badiashile,Chelsea,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.5,1.6,0.1,45.2,0.36,0,0,0,0,0.0,Chelsea,False,Manchester United,,-0.1
+Benoît Badiashile,Chelsea,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.5,1.6,0.1,43.05,0.36,0,0,0,0,0.0,Chelsea,True,Newcastle United,,0.73
+Benoît Badiashile,Chelsea,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.43,1.6,0.1,41.09,0.36,0,0,0,0,,Chelsea,True,Liverpool,,-0.53

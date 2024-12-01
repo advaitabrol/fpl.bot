@@ -1,15 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Joshua Zirkzee,Man Utd,Fulham,2024-08-16,True,29.0,1.0,0.1,0.0,0.0,8.0,1.0,0.0,5.2,3.0,0.0,172194.0,8.0,0.1,29.0,1.0,Man Utd,False,Brighton,,-0.61
-Joshua Zirkzee,Man Utd,Brighton,2024-08-24,False,45.0,0.0,0.0,0.0,0.09,1.0,0.0,1.0,2.6,0.0,0.0,482527.0,4.5,0.05,37.0,1.0,Man Utd,True,Liverpool,,0.24
-Joshua Zirkzee,Man Utd,Liverpool,2024-09-01,True,85.0,0.0,1.02,0.0,0.0,1.0,3.0,0.0,4.4,0.0,1.0,404151.0,3.33,0.37,53.0,2.0,Man Utd,False,Southampton,,-0.31
-Joshua Zirkzee,Man Utd,Southampton,2024-09-14,False,90.0,0.0,1.24,0.0,0.09,2.0,3.0,2.0,9.5,0.0,1.0,391281.0,3.0,0.59,62.25,2.0,Man Utd,False,Crystal Palace,,0.2
-Joshua Zirkzee,Man Utd,Crystal Palace,2024-09-21,False,60.0,0.0,0.05,0.0,0.39,2.0,1.0,2.0,4.5,0.0,1.0,370580.0,2.8,0.48,61.8,1.0,Man Utd,True,Tottenham,,0.74
-Joshua Zirkzee,Man Utd,Tottenham,2024-09-29,True,45.0,0.0,0.12,0.0,0.0,1.0,1.0,0.0,2.6,0.0,1.0,311001.0,1.4,0.49,59.0,1.0,Man Utd,False,Aston Villa,,0.11
-Joshua Zirkzee,Man Utd,Aston Villa,2024-10-06,False,26.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,264215.0,1.4,0.49,54.29,1.0,Man Utd,True,Brentford,,0.54
-Joshua Zirkzee,Man Utd,Brentford,2024-10-19,True,16.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.0,0.0,238824.0,1.4,0.28,49.5,4.0,Man Utd,False,West Ham,,-0.34
-Joshua Zirkzee,Man Utd,West Ham,2024-10-27,False,11.0,0.0,0.12,1.0,0.56,4.0,2.0,1.0,3.7,0.0,0.0,218550.0,1.8,0.26,45.22,1.0,Man Utd,True,Chelsea,,0.0
-Joshua Zirkzee,Man Utd,Chelsea,2024-11-03,True,6.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,203676.0,1.6,0.25,41.3,1.0,Man Utd,True,Leicester City,,0.47
-Joshua Zirkzee,Man Utd,Leicester City,2024-11-10,True,15.0,0.0,0.05,0.0,0.0,1.0,1.0,0.0,0.7,0.0,0.0,193169.0,1.6,0.23,38.91,1.0,Man Utd,False,Ipswich Town,,
-Joshua Zirkzee,Man Utd,Ipswich Town,2024-11-24,False,22.0,0.0,0.03,0.0,0.0,1.0,1.0,0.0,0.3,0.0,0.0,184898.0,1.6,0.24,37.5,,Man Utd,True,Everton,,0.61
-,Man Utd,,,,,,,,,,,,,,,,,,,,Man Utd,False,Arsenal,,-0.56
-,Man Utd,,,,,,,,,,,,,,,,,,,,Man Utd,True,Nottingham Forest,,1.2
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Joshua Zirkzee,Man Utd,Fulham,2024-08-16,True,29.0,1.0,0.1,0.0,0.0,8.0,1.0,0.0,5.2,3.0,0.0,1.59,8.0,0.1,29.0,0.0,0.0,0.0,0.0,0.0,1.0,Man Utd,False,Brighton,,-0.61
+Joshua Zirkzee,Man Utd,Brighton,2024-08-24,False,45.0,0.0,0.0,0.0,0.09,1.0,0.0,1.0,2.6,0.0,0.0,4.45,4.5,0.05,37.0,0.0,0.0,0.0,0.0,0.0,1.0,Man Utd,True,Liverpool,,0.24
+Joshua Zirkzee,Man Utd,Liverpool,2024-09-01,True,85.0,0.0,1.02,0.0,0.0,1.0,3.0,0.0,4.4,0.0,1.0,3.73,3.33,0.37,53.0,0.0,0.0,0.0,0.0,0.0,2.0,Man Utd,False,Southampton,,-0.31
+Joshua Zirkzee,Man Utd,Southampton,2024-09-14,False,90.0,0.0,1.24,0.0,0.09,2.0,3.0,2.0,9.5,0.0,1.0,3.61,3.0,0.59,62.25,0.0,0.0,0.0,0.0,0.0,2.0,Man Utd,False,Crystal Palace,,0.2
+Joshua Zirkzee,Man Utd,Crystal Palace,2024-09-21,False,60.0,0.0,0.05,0.0,0.39,2.0,1.0,2.0,4.5,0.0,1.0,3.42,2.8,0.48,61.8,0.0,0.0,0.0,0.0,0.0,1.0,Man Utd,True,Tottenham,,0.74
+Joshua Zirkzee,Man Utd,Tottenham,2024-09-29,True,45.0,0.0,0.12,0.0,0.0,1.0,1.0,0.0,2.6,0.0,1.0,2.87,1.4,0.49,59.0,0.0,0.0,0.0,0.0,0.0,1.0,Man Utd,False,Aston Villa,,0.11
+Joshua Zirkzee,Man Utd,Aston Villa,2024-10-06,False,26.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,2.44,1.4,0.49,54.29,0.0,0.0,0.0,0.0,0.0,1.0,Man Utd,True,Brentford,,0.54
+Joshua Zirkzee,Man Utd,Brentford,2024-10-19,True,16.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.0,0.0,2.2,1.4,0.28,49.5,0.0,0.0,0.0,0.0,0.0,4.0,Man Utd,False,West Ham,,-0.34
+Joshua Zirkzee,Man Utd,West Ham,2024-10-27,False,11.0,0.0,0.12,1.0,0.56,4.0,2.0,1.0,3.7,0.0,0.0,2.02,1.8,0.26,45.22,0.0,0.0,0.0,0.0,0.0,1.0,Man Utd,True,Chelsea,,0.0
+Joshua Zirkzee,Man Utd,Chelsea,2024-11-03,True,6.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,1.88,1.6,0.25,41.3,0.0,0.0,0.0,0.0,0.0,1.0,Man Utd,True,Leicester City,,0.47
+Joshua Zirkzee,Man Utd,Leicester City,2024-11-10,True,15.0,0.0,0.05,0.0,0.0,1.0,1.0,0.0,0.7,0.0,0.0,1.78,1.6,0.23,38.91,0.0,0.0,0.0,0.0,0.0,1.0,Man Utd,False,Ipswich Town,,
+Joshua Zirkzee,Man Utd,Ipswich Town,2024-11-24,False,22.0,0.0,0.03,0.0,0.0,1.0,1.0,0.0,0.3,0.0,0.0,1.71,1.6,0.24,37.5,0.0,0.0,0.0,0.0,0.0,,Man Utd,True,Everton,,0.61
+,Man Utd,,,,,,,,,,,,,,,,,,,,,,,,,Man Utd,False,Arsenal,,-0.56
+,Man Utd,,,,,,,,,,,,,,,,,,,,,,,,,Man Utd,True,Nottingham Forest,,1.2

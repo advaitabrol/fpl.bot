@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Daniel Amartey,Leicester,Brentford,2022-08-07,True,90,0.0,0.01,0.0,0.02,1,1.0,1.0,2.5,0,0,2,0.0,0,23381,1.0,0.01,90.0,0.0,0.02,0.24,0.23,0,1.0,Leicester,False,Arsenal,,-0.0
-Daniel Amartey,Leicester,Arsenal,2022-08-13,False,62,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,3,0.0,0,27409,1.0,0.01,76.0,0.0,0.02,0.24,0.23,0,1.0,Leicester,True,Southampton,,-0.38
-Daniel Amartey,Leicester,Southampton,2022-08-20,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.6,0,0,2,0.0,0,27687,1.0,0.0,80.67,0.0,0.02,0.24,0.23,0,1.0,Leicester,False,Chelsea,,-0.72
-Daniel Amartey,Leicester,Chelsea,2022-08-27,False,90,0.0,0.0,0.0,0.13,1,0.0,2.0,5.2,0,0,2,0.0,0,26223,1.0,0.0,83.0,0.0,0.02,0.24,0.23,0,0.0,Leicester,True,Manchester United,,0.38
-Daniel Amartey,Leicester,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,25461,0.8,0.0,66.4,0.0,0.02,0.24,0.23,0,1.0,Leicester,False,Brighton,,-0.39
-Daniel Amartey,Leicester,Brighton,2022-09-04,False,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,0.0,0,24045,0.8,0.0,58.33,0.0,0.02,0.24,0.23,0,0.0,Leicester,False,Tottenham,,-0.03
-Daniel Amartey,Leicester,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,21639,0.6,0.0,50.0,0.0,0.02,0.24,0.23,0,0.0,Leicester,True,Nottingham Forest,,
-Daniel Amartey,Leicester,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,21176,0.4,0.0,43.75,0.0,0.02,0.24,0.23,0,0.0,Leicester,False,Bournemouth,,0.19
-Daniel Amartey,Leicester,Bournemouth,2022-10-08,False,23,0.0,0.0,0.0,0.0,0,0.0,0.0,0.5,0,0,2,0.0,0,20857,0.2,0.0,41.44,0.0,0.02,0.24,0.23,0,6.0,Leicester,True,Crystal Palace,,0.81
-Daniel Amartey,Leicester,Crystal Palace,2022-10-15,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.3,0,1,0,0.0,0,20423,1.4,0.0,46.3,0.14,0.02,0.24,0.23,0,9.0,Leicester,True,Leicester City,,0.83
-Daniel Amartey,Leicester,Leicester City,2022-10-20,True,90,0.0,0.0,0.0,0.0,9,0.0,0.0,2.5,3,1,0,0.0,0,21527,3.0,0.0,50.27,0.25,0.02,0.24,0.23,0,6.0,Leicester,False,Wolverhampton,,-0.46
-Daniel Amartey,Leicester,Wolverhampton,2022-10-23,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.1,0,1,0,0.0,0,22880,4.2,0.0,53.58,0.33,0.02,0.24,0.23,0,2.0,Leicester,True,Manchester City,,-1.17
-Daniel Amartey,Leicester,Manchester City,2022-10-29,True,90,0.0,0.02,0.0,0.0,2,1.0,0.0,3.3,0,0,1,0.0,0,23902,4.6,0.0,56.38,0.3,0.02,0.24,0.23,0,6.0,Leicester,False,Everton,,-0.63
-Daniel Amartey,Leicester,Everton,2022-11-05,False,90,0.0,0.0,0.0,0.3,6,0.0,1.0,3.3,0,1,0,0.0,0,26264,5.8,0.0,58.79,0.36,0.02,0.24,0.23,0,7.0,Leicester,False,West Ham,,0.14
-Daniel Amartey,Leicester,West Ham,2022-11-12,False,90,0.0,0.03,0.0,0.0,7,1.0,0.0,3.4,1,1,0,1.4,1,50570,6.0,0.01,60.87,0.42,0.02,0.24,0.23,0,1.0,Leicester,True,Newcastle United,,0.73
-Daniel Amartey,Leicester,Newcastle United,2022-12-26,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,3,1.9,1,125817,4.4,0.01,62.69,0.38,0.02,0.24,0.23,0,1.0,Leicester,False,Liverpool,,-1.33
-Daniel Amartey,Leicester,Liverpool,2022-12-30,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.6,0,0,2,2.12,1,122850,3.4,0.01,64.29,0.36,0.02,0.24,0.23,0,2.0,Leicester,True,Fulham,,-0.3
-Daniel Amartey,Leicester,Fulham,2023-01-03,True,90,0.0,0.0,0.0,0.01,2,0.0,1.0,3.4,0,0,1,1.73,1,118329,3.4,0.01,65.72,0.33,0.02,0.24,0.23,0,0.0,Leicester,False,Nottingham Forest,,
-Daniel Amartey,Leicester,Nottingham Forest,2023-01-14,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.4,0,0,2,2.14,1,111639,2.2,0.01,67.0,0.31,0.02,0.24,0.23,0,1.0,Leicester,True,Brighton,,-0.71
-Daniel Amartey,Leicester,Brighton,2023-01-21,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,2,1.53,1,106246,1.0,0.0,68.15,0.29,0.02,0.24,0.23,0,0.0,Leicester,False,Aston Villa,,0.59
-Daniel Amartey,Leicester,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,97770,0.8,0.0,64.9,0.29,0.02,0.24,0.23,0,0.0,Leicester,True,Tottenham,,1.07
-Daniel Amartey,Leicester,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,92136,0.6,0.0,61.95,0.29,0.02,0.24,0.23,0,0.0,Leicester,False,Manchester United,,-0.1
-Daniel Amartey,Leicester,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,86334,0.2,0.0,59.26,0.29,0.02,0.24,0.23,0,0.0,Leicester,True,Arsenal,,0.36
-Daniel Amartey,Leicester,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,80478,0.2,0.0,56.79,0.29,0.02,0.24,0.23,0,0.0,Leicester,False,Southampton,,-1.07
-Daniel Amartey,Leicester,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,78592,0.0,0.0,54.52,0.29,0.02,0.24,0.23,0,1.0,Leicester,True,Chelsea,,-0.25
-Daniel Amartey,Leicester,Chelsea,2023-03-11,True,65,0.0,0.94,0.0,0.0,1,1.0,0.0,1.3,0,0,2,1.24,1,76495,0.2,0.19,54.92,0.28,0.02,0.24,0.23,0,2.0,Leicester,False,Brentford,,-0.55
-Daniel Amartey,Leicester,Brentford,2023-03-18,False,90,0.0,0.05,0.0,0.0,2,1.0,0.0,2.2,0,0,1,0.64,1,79683,0.6,0.2,56.22,0.26,0.02,0.24,0.23,0,0.0,Leicester,False,Crystal Palace,,0.13
-Daniel Amartey,Leicester,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,83146,0.6,0.2,54.21,0.26,0.02,0.24,0.23,0,0.0,Leicester,True,Aston Villa,,0.55
-Daniel Amartey,Leicester,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,83146,0.6,0.2,52.34,0.26,0.02,0.24,0.23,0,2.0,Leicester,True,Bournemouth,,1.46
-Daniel Amartey,Leicester,Bournemouth,2023-04-08,True,90,0.0,0.01,0.0,0.0,2,1.0,0.0,4.4,0,0,1,2.22,1,80640,1.0,0.2,53.6,0.25,0.02,0.24,0.23,0,0.0,Leicester,False,Manchester City,,-1.26
-Daniel Amartey,Leicester,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,80989,0.8,0.01,51.87,0.25,0.02,0.24,0.23,0,0.0,Leicester,True,Wolverhampton,,-0.48
-Daniel Amartey,Leicester,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,80424,0.4,0.0,50.25,0.25,0.02,0.24,0.23,0,0.0,Leicester,False,Leicester City,,-0.05
-Daniel Amartey,Leicester,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,77124,0.4,0.0,48.73,0.25,0.02,0.24,0.23,0,0.0,Leicester,True,Everton,,0.34
-Daniel Amartey,Leicester,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,74351,0.4,0.0,47.29,0.25,0.02,0.24,0.23,0,0.0,Leicester,False,Fulham,,1.37
-Daniel Amartey,Leicester,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,77088,0.0,0.0,45.94,0.25,0.02,0.24,0.23,0,0.0,Leicester,True,Liverpool,,-0.53
-Daniel Amartey,Leicester,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,77813,0.0,0.0,44.67,0.25,0.02,0.24,0.23,0,0.0,Leicester,False,Newcastle United,,-0.34
-Daniel Amartey,Leicester,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,78688,0.0,0.0,43.46,0.25,0.02,0.24,0.23,0,0.0,Leicester,True,West Ham,,0.63
-Daniel Amartey,Leicester,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,77916,0.0,0.0,42.32,0.25,0.02,0.24,0.23,0,,Aston Villa,False,Newcastle United,,-0.34
+Daniel Amartey,Leicester,Brentford,2022-08-07,True,90,0.0,0.01,0.0,0.02,1,1.0,1.0,2.5,0,0,2,0.0,0,0.22,1.0,0.01,90.0,0.0,0.02,0.24,0.23,0,1.0,Leicester,False,Arsenal,,-0.0
+Daniel Amartey,Leicester,Arsenal,2022-08-13,False,62,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,3,0.0,0,0.25,1.0,0.01,76.0,0.0,0.02,0.24,0.23,0,1.0,Leicester,True,Southampton,,-0.38
+Daniel Amartey,Leicester,Southampton,2022-08-20,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.6,0,0,2,0.0,0,0.26,1.0,0.0,80.67,0.0,0.02,0.24,0.23,0,1.0,Leicester,False,Chelsea,,-0.72
+Daniel Amartey,Leicester,Chelsea,2022-08-27,False,90,0.0,0.0,0.0,0.13,1,0.0,2.0,5.2,0,0,2,0.0,0,0.24,1.0,0.0,83.0,0.0,0.02,0.24,0.23,0,0.0,Leicester,True,Manchester United,,0.38
+Daniel Amartey,Leicester,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.24,0.8,0.0,66.4,0.0,0.02,0.24,0.23,0,1.0,Leicester,False,Brighton,,-0.39
+Daniel Amartey,Leicester,Brighton,2022-09-04,False,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,0.0,0,0.22,0.8,0.0,58.33,0.0,0.02,0.24,0.23,0,0.0,Leicester,False,Tottenham,,-0.03
+Daniel Amartey,Leicester,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.6,0.0,50.0,0.0,0.02,0.24,0.23,0,0.0,Leicester,True,Nottingham Forest,,
+Daniel Amartey,Leicester,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.4,0.0,43.75,0.0,0.02,0.24,0.23,0,0.0,Leicester,False,Bournemouth,,0.19
+Daniel Amartey,Leicester,Bournemouth,2022-10-08,False,23,0.0,0.0,0.0,0.0,0,0.0,0.0,0.5,0,0,2,0.0,0,0.19,0.2,0.0,41.44,0.0,0.02,0.24,0.23,0,6.0,Leicester,True,Crystal Palace,,0.81
+Daniel Amartey,Leicester,Crystal Palace,2022-10-15,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.3,0,1,0,0.0,0,0.19,1.4,0.0,46.3,0.14,0.02,0.24,0.23,0,9.0,Leicester,True,Leicester City,,0.83
+Daniel Amartey,Leicester,Leicester City,2022-10-20,True,90,0.0,0.0,0.0,0.0,9,0.0,0.0,2.5,3,1,0,0.0,0,0.2,3.0,0.0,50.27,0.25,0.02,0.24,0.23,0,6.0,Leicester,False,Wolverhampton,,-0.46
+Daniel Amartey,Leicester,Wolverhampton,2022-10-23,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.1,0,1,0,0.0,0,0.21,4.2,0.0,53.58,0.33,0.02,0.24,0.23,0,2.0,Leicester,True,Manchester City,,-1.17
+Daniel Amartey,Leicester,Manchester City,2022-10-29,True,90,0.0,0.02,0.0,0.0,2,1.0,0.0,3.3,0,0,1,0.0,0,0.22,4.6,0.0,56.38,0.3,0.02,0.24,0.23,0,6.0,Leicester,False,Everton,,-0.63
+Daniel Amartey,Leicester,Everton,2022-11-05,False,90,0.0,0.0,0.0,0.3,6,0.0,1.0,3.3,0,1,0,0.0,0,0.24,5.8,0.0,58.79,0.36,0.02,0.24,0.23,0,7.0,Leicester,False,West Ham,,0.14
+Daniel Amartey,Leicester,West Ham,2022-11-12,False,90,0.0,0.03,0.0,0.0,7,1.0,0.0,3.4,1,1,0,1.4,1,0.47,6.0,0.01,60.87,0.42,0.02,0.24,0.23,0,1.0,Leicester,True,Newcastle United,,0.73
+Daniel Amartey,Leicester,Newcastle United,2022-12-26,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,3,1.9,1,1.16,4.4,0.01,62.69,0.38,0.02,0.24,0.23,0,1.0,Leicester,False,Liverpool,,-1.33
+Daniel Amartey,Leicester,Liverpool,2022-12-30,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.6,0,0,2,2.12,1,1.13,3.4,0.01,64.29,0.36,0.02,0.24,0.23,0,2.0,Leicester,True,Fulham,,-0.3
+Daniel Amartey,Leicester,Fulham,2023-01-03,True,90,0.0,0.0,0.0,0.01,2,0.0,1.0,3.4,0,0,1,1.73,1,1.09,3.4,0.01,65.72,0.33,0.02,0.24,0.23,0,0.0,Leicester,False,Nottingham Forest,,
+Daniel Amartey,Leicester,Nottingham Forest,2023-01-14,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.4,0,0,2,2.14,1,1.03,2.2,0.01,67.0,0.31,0.02,0.24,0.23,0,1.0,Leicester,True,Brighton,,-0.71
+Daniel Amartey,Leicester,Brighton,2023-01-21,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,2,1.53,1,0.98,1.0,0.0,68.15,0.29,0.02,0.24,0.23,0,0.0,Leicester,False,Aston Villa,,0.59
+Daniel Amartey,Leicester,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.9,0.8,0.0,64.9,0.29,0.02,0.24,0.23,0,0.0,Leicester,True,Tottenham,,1.07
+Daniel Amartey,Leicester,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.85,0.6,0.0,61.95,0.29,0.02,0.24,0.23,0,0.0,Leicester,False,Manchester United,,-0.1
+Daniel Amartey,Leicester,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.2,0.0,59.26,0.29,0.02,0.24,0.23,0,0.0,Leicester,True,Arsenal,,0.36
+Daniel Amartey,Leicester,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.74,0.2,0.0,56.79,0.29,0.02,0.24,0.23,0,0.0,Leicester,False,Southampton,,-1.07
+Daniel Amartey,Leicester,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.73,0.0,0.0,54.52,0.29,0.02,0.24,0.23,0,1.0,Leicester,True,Chelsea,,-0.25
+Daniel Amartey,Leicester,Chelsea,2023-03-11,True,65,0.0,0.94,0.0,0.0,1,1.0,0.0,1.3,0,0,2,1.24,1,0.71,0.2,0.19,54.92,0.28,0.02,0.24,0.23,0,2.0,Leicester,False,Brentford,,-0.55
+Daniel Amartey,Leicester,Brentford,2023-03-18,False,90,0.0,0.05,0.0,0.0,2,1.0,0.0,2.2,0,0,1,0.64,1,0.74,0.6,0.2,56.22,0.26,0.02,0.24,0.23,0,0.0,Leicester,False,Crystal Palace,,0.13
+Daniel Amartey,Leicester,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.77,0.6,0.2,54.21,0.26,0.02,0.24,0.23,0,0.0,Leicester,True,Aston Villa,,0.55
+Daniel Amartey,Leicester,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.77,0.6,0.2,52.34,0.26,0.02,0.24,0.23,0,2.0,Leicester,True,Bournemouth,,1.46
+Daniel Amartey,Leicester,Bournemouth,2023-04-08,True,90,0.0,0.01,0.0,0.0,2,1.0,0.0,4.4,0,0,1,2.22,1,0.74,1.0,0.2,53.6,0.25,0.02,0.24,0.23,0,0.0,Leicester,False,Manchester City,,-1.26
+Daniel Amartey,Leicester,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.75,0.8,0.01,51.87,0.25,0.02,0.24,0.23,0,0.0,Leicester,True,Wolverhampton,,-0.48
+Daniel Amartey,Leicester,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.74,0.4,0.0,50.25,0.25,0.02,0.24,0.23,0,0.0,Leicester,False,Leicester City,,-0.05
+Daniel Amartey,Leicester,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.71,0.4,0.0,48.73,0.25,0.02,0.24,0.23,0,0.0,Leicester,True,Everton,,0.34
+Daniel Amartey,Leicester,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.69,0.4,0.0,47.29,0.25,0.02,0.24,0.23,0,0.0,Leicester,False,Fulham,,1.37
+Daniel Amartey,Leicester,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.71,0.0,0.0,45.94,0.25,0.02,0.24,0.23,0,0.0,Leicester,True,Liverpool,,-0.53
+Daniel Amartey,Leicester,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.72,0.0,0.0,44.67,0.25,0.02,0.24,0.23,0,0.0,Leicester,False,Newcastle United,,-0.34
+Daniel Amartey,Leicester,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.73,0.0,0.0,43.46,0.25,0.02,0.24,0.23,0,0.0,Leicester,True,West Ham,,0.63
+Daniel Amartey,Leicester,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.72,0.0,0.0,42.32,0.25,0.02,0.24,0.23,0,,Aston Villa,False,Newcastle United,,-0.34

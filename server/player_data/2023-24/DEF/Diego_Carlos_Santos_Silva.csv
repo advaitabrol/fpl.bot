@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Diego Carlos Santos Silva,Aston Villa,Newcastle United,2023-08-12,False,26,0.0,0.03,0.0,0.0,0,1.0,0.0,4.7,0,0,2,1.64,0,36482,0.0,0.03,26.0,0.0,0.74,0.03,0.0,0.0,1.0,Aston Villa,True,Everton,,0.53
-Diego Carlos Santos Silva,Aston Villa,Everton,2023-08-20,True,26,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,0,0.03,0,44605,0.5,0.02,26.0,0.0,0.74,0.03,0.0,0.0,2.0,Aston Villa,False,Burnley,,0.0
-Diego Carlos Santos Silva,Aston Villa,Burnley,2023-08-27,False,90,0.0,0.11,0.0,0.0,2,1.0,0.0,2.3,0,0,1,0.73,1,44528,1.0,0.05,47.33,0.0,0.74,0.03,0.0,0.0,1.0,Aston Villa,False,Liverpool,,-1.01
-Diego Carlos Santos Silva,Aston Villa,Liverpool,2023-09-03,False,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,0.06,1,44857,1.0,0.04,40.0,0.0,0.74,0.03,0.0,0.0,0.0,Aston Villa,True,Crystal Palace,,0.88
-Diego Carlos Santos Silva,Aston Villa,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,38368,0.8,0.03,32.0,0.0,0.74,0.03,0.0,0.0,0.0,Aston Villa,False,Chelsea,,-0.85
-Diego Carlos Santos Silva,Aston Villa,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,32459,0.8,0.02,26.67,0.0,0.74,0.03,0.0,0.0,0.0,Aston Villa,True,Brighton,,-0.66
-Diego Carlos Santos Silva,Aston Villa,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,28978,0.6,0.02,22.86,0.0,0.74,0.03,0.0,0.0,2.0,Aston Villa,False,Wolverhampton,,-0.52
-Diego Carlos Santos Silva,Aston Villa,Wolverhampton,2023-10-08,False,90,0.0,0.0,0.0,0.01,2,0.0,1.0,2.2,0,0,1,1.19,1,30087,0.6,0.0,31.25,0.0,0.74,0.03,0.0,0.0,0.0,Aston Villa,True,West Ham,,0.49
-Diego Carlos Santos Silva,Aston Villa,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,31718,0.4,0.0,27.78,0.0,0.74,0.03,0.0,0.0,1.0,Aston Villa,True,Luton,,
-Diego Carlos Santos Silva,Aston Villa,Luton,2023-10-29,True,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,0.37,0,32681,0.6,0.0,26.1,0.0,0.74,0.03,0.0,0.0,1.0,Aston Villa,False,Nottingham Forest,,-0.55
-Diego Carlos Santos Silva,Aston Villa,Nottingham Forest,2023-11-05,False,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.0,0,33215,0.8,0.0,24.82,0.0,0.74,0.03,0.0,0.0,0.0,Aston Villa,True,Fulham,,-0.13
-Diego Carlos Santos Silva,Aston Villa,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,32464,0.8,0.0,22.75,0.0,0.74,0.03,0.0,0.0,2.0,Aston Villa,False,Tottenham,,-0.36
-Diego Carlos Santos Silva,Aston Villa,Tottenham,2023-11-26,False,90,0.0,0.1,0.0,0.0,2,1.0,0.0,1.9,0,0,1,2.32,1,30416,0.8,0.02,27.92,0.0,0.74,0.03,0.0,0.0,1.0,Aston Villa,False,Bournemouth,,0.19
-Diego Carlos Santos Silva,Aston Villa,Bournemouth,2023-12-03,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.3,0,0,2,2.02,1,31479,1.0,0.02,32.36,0.0,0.74,0.03,0.0,0.0,6.0,Aston Villa,True,Manchester City,,-0.96
-Diego Carlos Santos Silva,Aston Villa,Manchester City,2023-12-06,True,90,0.0,0.0,0.0,0.02,6,0.0,1.0,2.0,0,1,0,0.83,1,31903,2.0,0.02,36.2,0.1,0.74,0.03,0.0,0.0,6.0,Aston Villa,True,Arsenal,,-0.11
-Diego Carlos Santos Silva,Aston Villa,Arsenal,2023-12-09,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.3,1,1,0,1.36,1,33967,3.0,0.02,39.56,0.18,0.74,0.03,0.0,0.0,2.0,Aston Villa,False,Brentford,,-0.53
-Diego Carlos Santos Silva,Aston Villa,Brentford,2023-12-17,False,90,0.0,0.0,0.0,0.04,2,0.0,1.0,3.6,0,0,1,0.51,1,50247,3.4,0.02,42.53,0.17,0.74,0.03,0.0,0.0,0.0,Aston Villa,True,Sheffield,,0.68
-Diego Carlos Santos Silva,Aston Villa,Sheffield,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,80589,3.0,0.0,40.17,0.17,0.74,0.03,0.0,0.0,0.0,Aston Villa,False,Manchester United,,-0.63
-Diego Carlos Santos Silva,Aston Villa,Manchester United,2023-12-26,False,90,0.0,0.08,0.0,0.0,0,1.0,0.0,2.6,0,0,3,1.04,1,73261,2.8,0.02,42.79,0.15,0.74,0.03,0.0,0.0,1.0,Aston Villa,True,Burnley,,0.39
-Diego Carlos Santos Silva,Aston Villa,Burnley,2023-12-30,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.7,0,0,2,0.98,1,76607,1.8,0.02,45.15,0.14,0.74,0.03,0.0,0.0,5.0,Aston Villa,False,Everton,,-0.24
-Diego Carlos Santos Silva,Aston Villa,Everton,2024-01-14,False,73,0.0,0.0,0.0,0.0,5,0.0,0.0,0.7,0,1,0,1.05,1,73761,1.6,0.02,46.48,0.2,0.74,0.03,0.0,0.0,0.0,Aston Villa,True,Newcastle United,,0.55
-Diego Carlos Santos Silva,Aston Villa,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,73375,1.2,0.02,44.36,0.2,0.74,0.03,0.0,0.0,6.0,Aston Villa,False,Sheffield,,-0.61
-Diego Carlos Santos Silva,Aston Villa,Sheffield,2024-02-03,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.3,0,1,0,1.26,1,70278,2.4,0.02,46.35,0.25,0.74,0.03,0.0,0.0,1.0,Aston Villa,True,Manchester United,,0.38
-Diego Carlos Santos Silva,Aston Villa,Manchester United,2024-02-11,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.5,0,0,2,1.8,1,76187,2.6,0.0,48.17,0.24,0.74,0.03,0.0,0.0,0.0,Aston Villa,False,Fulham,,0.86
-Diego Carlos Santos Silva,Aston Villa,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,66444,2.4,0.0,46.24,0.24,0.74,0.03,0.0,0.0,0.0,Aston Villa,True,Nottingham Forest,,1.55
-Diego Carlos Santos Silva,Aston Villa,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,50967,1.4,0.0,44.46,0.24,0.74,0.03,0.0,0.0,0.0,Aston Villa,False,Luton,,
-Diego Carlos Santos Silva,Aston Villa,Luton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,47971,1.4,0.0,42.81,0.24,0.74,0.03,0.0,0.0,0.0,Aston Villa,True,Tottenham,,0.69
-Diego Carlos Santos Silva,Aston Villa,Tottenham,2024-03-10,True,5,0.0,0.0,0.0,0.0,0,0.0,0.0,0.5,0,0,2,0.49,0,45389,0.2,0.0,41.46,0.22,0.74,0.03,0.0,0.0,0.0,Aston Villa,False,West Ham,,-0.22
-Diego Carlos Santos Silva,Aston Villa,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,43578,0.0,0.0,40.03,0.22,0.74,0.03,0.0,0.0,6.0,Aston Villa,True,Wolverhampton,,0.05
-Diego Carlos Santos Silva,Aston Villa,Wolverhampton,2024-03-30,True,90,0.0,0.36,0.0,0.04,6,1.0,1.0,3.5,0,1,0,1.49,1,44623,1.2,0.07,41.7,0.26,0.74,0.03,0.0,0.0,0.0,Aston Villa,False,Manchester City,,-1.32
-Diego Carlos Santos Silva,Aston Villa,Manchester City,2024-04-03,False,90,0.0,0.08,0.0,0.0,0,1.0,0.0,2.3,0,0,4,3.28,1,45063,1.2,0.09,43.26,0.25,0.74,0.03,0.0,0.0,0.0,Aston Villa,True,Brentford,,0.79
-Diego Carlos Santos Silva,Aston Villa,Brentford,2024-04-06,True,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.5,0,0,3,1.56,1,46162,1.2,0.09,44.72,0.24,0.74,0.03,0.0,0.0,6.0,Aston Villa,False,Arsenal,,-0.48
-Diego Carlos Santos Silva,Aston Villa,Arsenal,2024-04-14,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.7,0,1,0,1.62,1,45447,2.4,0.09,46.09,0.27,0.74,0.03,0.0,0.0,1.0,Aston Villa,True,Bournemouth,,1.22
-Diego Carlos Santos Silva,Aston Villa,Bournemouth,2024-04-21,True,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.33,0,49791,2.6,0.09,44.82,0.26,0.74,0.03,0.0,0.0,1.0,Aston Villa,True,Chelsea,,-0.25
-Diego Carlos Santos Silva,Aston Villa,Chelsea,2024-04-27,True,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,0.31,0,49737,1.6,0.02,43.97,0.25,0.74,0.03,0.0,0.0,2.0,Aston Villa,False,Brighton,,-0.6
-Diego Carlos Santos Silva,Aston Villa,Brighton,2024-05-05,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.2,0,0,1,2.69,1,49885,2.0,0.0,45.25,0.24,0.74,0.03,0.0,0.0,1.0,Aston Villa,True,Liverpool,,0.18
-Diego Carlos Santos Silva,Aston Villa,Liverpool,2024-05-13,True,90,0.0,0.98,0.0,0.0,1,2.0,0.0,2.2,0,0,3,1.73,1,49517,2.2,0.2,46.46,0.23,0.74,0.03,0.0,0.0,0.0,Aston Villa,False,Crystal Palace,,0.38
-Diego Carlos Santos Silva,Aston Villa,Crystal Palace,2024-05-19,False,90,0.0,0.07,0.0,0.0,0,1.0,0.0,2.4,0,0,5,2.48,1,50053,1.0,0.21,47.61,0.22,0.74,0.03,0.0,0.0,0.0,Aston Villa,False,West Ham,,-0.22
+Diego Carlos Santos Silva,Aston Villa,Newcastle United,2023-08-12,False,26,0.0,0.03,0.0,0.0,0,1.0,0.0,4.7,0,0,2,1.64,0,0.34,0.0,0.03,26.0,0.0,0.74,0.03,0.0,0.0,1.0,Aston Villa,True,Everton,,0.53
+Diego Carlos Santos Silva,Aston Villa,Everton,2023-08-20,True,26,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,0,0.03,0,0.41,0.5,0.02,26.0,0.0,0.74,0.03,0.0,0.0,2.0,Aston Villa,False,Burnley,,0.0
+Diego Carlos Santos Silva,Aston Villa,Burnley,2023-08-27,False,90,0.0,0.11,0.0,0.0,2,1.0,0.0,2.3,0,0,1,0.73,1,0.41,1.0,0.05,47.33,0.0,0.74,0.03,0.0,0.0,1.0,Aston Villa,False,Liverpool,,-1.01
+Diego Carlos Santos Silva,Aston Villa,Liverpool,2023-09-03,False,18,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,0.06,1,0.41,1.0,0.04,40.0,0.0,0.74,0.03,0.0,0.0,0.0,Aston Villa,True,Crystal Palace,,0.88
+Diego Carlos Santos Silva,Aston Villa,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.35,0.8,0.03,32.0,0.0,0.74,0.03,0.0,0.0,0.0,Aston Villa,False,Chelsea,,-0.85
+Diego Carlos Santos Silva,Aston Villa,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.3,0.8,0.02,26.67,0.0,0.74,0.03,0.0,0.0,0.0,Aston Villa,True,Brighton,,-0.66
+Diego Carlos Santos Silva,Aston Villa,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.27,0.6,0.02,22.86,0.0,0.74,0.03,0.0,0.0,2.0,Aston Villa,False,Wolverhampton,,-0.52
+Diego Carlos Santos Silva,Aston Villa,Wolverhampton,2023-10-08,False,90,0.0,0.0,0.0,0.01,2,0.0,1.0,2.2,0,0,1,1.19,1,0.28,0.6,0.0,31.25,0.0,0.74,0.03,0.0,0.0,0.0,Aston Villa,True,West Ham,,0.49
+Diego Carlos Santos Silva,Aston Villa,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.29,0.4,0.0,27.78,0.0,0.74,0.03,0.0,0.0,1.0,Aston Villa,True,Luton,,
+Diego Carlos Santos Silva,Aston Villa,Luton,2023-10-29,True,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,0.37,0,0.3,0.6,0.0,26.1,0.0,0.74,0.03,0.0,0.0,1.0,Aston Villa,False,Nottingham Forest,,-0.55
+Diego Carlos Santos Silva,Aston Villa,Nottingham Forest,2023-11-05,False,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.0,0,0.31,0.8,0.0,24.82,0.0,0.74,0.03,0.0,0.0,0.0,Aston Villa,True,Fulham,,-0.13
+Diego Carlos Santos Silva,Aston Villa,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.3,0.8,0.0,22.75,0.0,0.74,0.03,0.0,0.0,2.0,Aston Villa,False,Tottenham,,-0.36
+Diego Carlos Santos Silva,Aston Villa,Tottenham,2023-11-26,False,90,0.0,0.1,0.0,0.0,2,1.0,0.0,1.9,0,0,1,2.32,1,0.28,0.8,0.02,27.92,0.0,0.74,0.03,0.0,0.0,1.0,Aston Villa,False,Bournemouth,,0.19
+Diego Carlos Santos Silva,Aston Villa,Bournemouth,2023-12-03,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.3,0,0,2,2.02,1,0.29,1.0,0.02,32.36,0.0,0.74,0.03,0.0,0.0,6.0,Aston Villa,True,Manchester City,,-0.96
+Diego Carlos Santos Silva,Aston Villa,Manchester City,2023-12-06,True,90,0.0,0.0,0.0,0.02,6,0.0,1.0,2.0,0,1,0,0.83,1,0.29,2.0,0.02,36.2,0.1,0.74,0.03,0.0,0.0,6.0,Aston Villa,True,Arsenal,,-0.11
+Diego Carlos Santos Silva,Aston Villa,Arsenal,2023-12-09,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.3,1,1,0,1.36,1,0.31,3.0,0.02,39.56,0.18,0.74,0.03,0.0,0.0,2.0,Aston Villa,False,Brentford,,-0.53
+Diego Carlos Santos Silva,Aston Villa,Brentford,2023-12-17,False,90,0.0,0.0,0.0,0.04,2,0.0,1.0,3.6,0,0,1,0.51,1,0.46,3.4,0.02,42.53,0.17,0.74,0.03,0.0,0.0,0.0,Aston Villa,True,Sheffield,,0.68
+Diego Carlos Santos Silva,Aston Villa,Sheffield,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.74,3.0,0.0,40.17,0.17,0.74,0.03,0.0,0.0,0.0,Aston Villa,False,Manchester United,,-0.63
+Diego Carlos Santos Silva,Aston Villa,Manchester United,2023-12-26,False,90,0.0,0.08,0.0,0.0,0,1.0,0.0,2.6,0,0,3,1.04,1,0.68,2.8,0.02,42.79,0.15,0.74,0.03,0.0,0.0,1.0,Aston Villa,True,Burnley,,0.39
+Diego Carlos Santos Silva,Aston Villa,Burnley,2023-12-30,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.7,0,0,2,0.98,1,0.71,1.8,0.02,45.15,0.14,0.74,0.03,0.0,0.0,5.0,Aston Villa,False,Everton,,-0.24
+Diego Carlos Santos Silva,Aston Villa,Everton,2024-01-14,False,73,0.0,0.0,0.0,0.0,5,0.0,0.0,0.7,0,1,0,1.05,1,0.68,1.6,0.02,46.48,0.2,0.74,0.03,0.0,0.0,0.0,Aston Villa,True,Newcastle United,,0.55
+Diego Carlos Santos Silva,Aston Villa,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.68,1.2,0.02,44.36,0.2,0.74,0.03,0.0,0.0,6.0,Aston Villa,False,Sheffield,,-0.61
+Diego Carlos Santos Silva,Aston Villa,Sheffield,2024-02-03,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.3,0,1,0,1.26,1,0.65,2.4,0.02,46.35,0.25,0.74,0.03,0.0,0.0,1.0,Aston Villa,True,Manchester United,,0.38
+Diego Carlos Santos Silva,Aston Villa,Manchester United,2024-02-11,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.5,0,0,2,1.8,1,0.7,2.6,0.0,48.17,0.24,0.74,0.03,0.0,0.0,0.0,Aston Villa,False,Fulham,,0.86
+Diego Carlos Santos Silva,Aston Villa,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.61,2.4,0.0,46.24,0.24,0.74,0.03,0.0,0.0,0.0,Aston Villa,True,Nottingham Forest,,1.55
+Diego Carlos Santos Silva,Aston Villa,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.47,1.4,0.0,44.46,0.24,0.74,0.03,0.0,0.0,0.0,Aston Villa,False,Luton,,
+Diego Carlos Santos Silva,Aston Villa,Luton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.44,1.4,0.0,42.81,0.24,0.74,0.03,0.0,0.0,0.0,Aston Villa,True,Tottenham,,0.69
+Diego Carlos Santos Silva,Aston Villa,Tottenham,2024-03-10,True,5,0.0,0.0,0.0,0.0,0,0.0,0.0,0.5,0,0,2,0.49,0,0.42,0.2,0.0,41.46,0.22,0.74,0.03,0.0,0.0,0.0,Aston Villa,False,West Ham,,-0.22
+Diego Carlos Santos Silva,Aston Villa,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,0.0,40.03,0.22,0.74,0.03,0.0,0.0,6.0,Aston Villa,True,Wolverhampton,,0.05
+Diego Carlos Santos Silva,Aston Villa,Wolverhampton,2024-03-30,True,90,0.0,0.36,0.0,0.04,6,1.0,1.0,3.5,0,1,0,1.49,1,0.41,1.2,0.07,41.7,0.26,0.74,0.03,0.0,0.0,0.0,Aston Villa,False,Manchester City,,-1.32
+Diego Carlos Santos Silva,Aston Villa,Manchester City,2024-04-03,False,90,0.0,0.08,0.0,0.0,0,1.0,0.0,2.3,0,0,4,3.28,1,0.42,1.2,0.09,43.26,0.25,0.74,0.03,0.0,0.0,0.0,Aston Villa,True,Brentford,,0.79
+Diego Carlos Santos Silva,Aston Villa,Brentford,2024-04-06,True,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.5,0,0,3,1.56,1,0.43,1.2,0.09,44.72,0.24,0.74,0.03,0.0,0.0,6.0,Aston Villa,False,Arsenal,,-0.48
+Diego Carlos Santos Silva,Aston Villa,Arsenal,2024-04-14,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.7,0,1,0,1.62,1,0.42,2.4,0.09,46.09,0.27,0.74,0.03,0.0,0.0,1.0,Aston Villa,True,Bournemouth,,1.22
+Diego Carlos Santos Silva,Aston Villa,Bournemouth,2024-04-21,True,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.33,0,0.46,2.6,0.09,44.82,0.26,0.74,0.03,0.0,0.0,1.0,Aston Villa,True,Chelsea,,-0.25
+Diego Carlos Santos Silva,Aston Villa,Chelsea,2024-04-27,True,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,0.31,0,0.46,1.6,0.02,43.97,0.25,0.74,0.03,0.0,0.0,2.0,Aston Villa,False,Brighton,,-0.6
+Diego Carlos Santos Silva,Aston Villa,Brighton,2024-05-05,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.2,0,0,1,2.69,1,0.46,2.0,0.0,45.25,0.24,0.74,0.03,0.0,0.0,1.0,Aston Villa,True,Liverpool,,0.18
+Diego Carlos Santos Silva,Aston Villa,Liverpool,2024-05-13,True,90,0.0,0.98,0.0,0.0,1,2.0,0.0,2.2,0,0,3,1.73,1,0.46,2.2,0.2,46.46,0.23,0.74,0.03,0.0,0.0,0.0,Aston Villa,False,Crystal Palace,,0.38
+Diego Carlos Santos Silva,Aston Villa,Crystal Palace,2024-05-19,False,90,0.0,0.07,0.0,0.0,0,1.0,0.0,2.4,0,0,5,2.48,1,0.46,1.0,0.21,47.61,0.22,0.74,0.03,0.0,0.0,0.0,Aston Villa,False,West Ham,,-0.22

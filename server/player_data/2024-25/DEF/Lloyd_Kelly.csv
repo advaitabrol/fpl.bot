@@ -1,15 +1,15 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Lloyd Kelly,Newcastle,Southampton,2024-08-17,True,20.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.9,0.0,0.0,0.0,0.44,0.0,12480.0,1.0,0.0,20.0,0.0,0.31,1.65,0.27,25.04,2.0,Newcastle,False,Bournemouth,,-0.04
-Lloyd Kelly,Newcastle,Bournemouth,2024-08-25,False,68.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.1,0.0,0.0,1.0,1.81,1.0,13293.0,1.5,0.0,44.0,0.0,0.31,1.65,0.27,25.04,4.0,Newcastle,True,Tottenham,,0.74
-Lloyd Kelly,Newcastle,Tottenham,2024-09-01,True,67.0,0.0,0.13,1.0,0.33,4.0,1.0,1.0,4.6,0.0,0.0,1.0,0.99,1.0,13311.0,2.33,0.38,51.67,0.0,0.31,1.65,0.27,25.04,1.0,Newcastle,False,Wolverhampton,,-0.53
-Lloyd Kelly,Newcastle,Wolverhampton,2024-09-15,False,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.4,0.0,0.0,0.0,0.12,0.0,18328.0,2.0,0.28,39.5,0.0,0.31,1.65,0.27,25.04,0.0,Newcastle,False,Fulham,,0.53
-Lloyd Kelly,Newcastle,Fulham,2024-09-21,False,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,0.0,0.0,2.0,1.28,1.0,17976.0,1.6,0.23,40.6,0.0,0.31,1.65,0.27,25.04,0.0,Newcastle,True,Manchester City,,-1.18
-Lloyd Kelly,Newcastle,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,16258.0,1.4,0.23,33.83,0.0,0.31,1.65,0.27,25.04,0.0,Newcastle,False,Everton,,-0.39
-Lloyd Kelly,Newcastle,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,15423.0,1.0,0.23,29.0,0.0,0.31,1.65,0.27,25.04,0.0,Newcastle,True,Brighton,,-0.42
-Lloyd Kelly,Newcastle,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,14720.0,0.2,0.0,25.38,0.0,0.31,1.65,0.27,25.04,1.0,Newcastle,False,Chelsea,,-0.9
-Lloyd Kelly,Newcastle,Chelsea,2024-10-27,False,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14172.0,0.2,0.0,22.67,0.0,0.31,1.65,0.27,25.04,1.0,Newcastle,True,Arsenal,,-0.32
-Lloyd Kelly,Newcastle,Arsenal,2024-11-02,True,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13801.0,0.4,0.0,20.5,0.0,0.31,1.65,0.27,25.04,0.0,Newcastle,False,Nottingham Forest,,-0.54
-Lloyd Kelly,Newcastle,Nottingham Forest,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,13492.0,0.4,0.0,18.64,0.0,0.31,1.65,0.27,25.04,0.0,Newcastle,True,West Ham,,0.48
-Lloyd Kelly,Newcastle,West Ham,2024-11-25,True,90.0,0.0,0.08,0.0,0.04,0.0,1.0,1.0,4.1,0.0,0.0,2.0,0.91,1.0,13466.0,0.4,0.02,24.58,0.0,0.31,1.65,0.27,25.04,,Newcastle,False,Crystal Palace,,0.2
+Lloyd Kelly,Newcastle,Southampton,2024-08-17,True,20.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.9,0.0,0.0,0.0,0.44,0.0,0.12,1.0,0.0,20.0,0.0,0.31,1.65,0.27,25.04,2.0,Newcastle,False,Bournemouth,,-0.04
+Lloyd Kelly,Newcastle,Bournemouth,2024-08-25,False,68.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.1,0.0,0.0,1.0,1.81,1.0,0.12,1.5,0.0,44.0,0.0,0.31,1.65,0.27,25.04,4.0,Newcastle,True,Tottenham,,0.74
+Lloyd Kelly,Newcastle,Tottenham,2024-09-01,True,67.0,0.0,0.13,1.0,0.33,4.0,1.0,1.0,4.6,0.0,0.0,1.0,0.99,1.0,0.12,2.33,0.38,51.67,0.0,0.31,1.65,0.27,25.04,1.0,Newcastle,False,Wolverhampton,,-0.53
+Lloyd Kelly,Newcastle,Wolverhampton,2024-09-15,False,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.4,0.0,0.0,0.0,0.12,0.0,0.17,2.0,0.28,39.5,0.0,0.31,1.65,0.27,25.04,0.0,Newcastle,False,Fulham,,0.53
+Lloyd Kelly,Newcastle,Fulham,2024-09-21,False,45.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,0.0,0.0,2.0,1.28,1.0,0.17,1.6,0.23,40.6,0.0,0.31,1.65,0.27,25.04,0.0,Newcastle,True,Manchester City,,-1.18
+Lloyd Kelly,Newcastle,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.15,1.4,0.23,33.83,0.0,0.31,1.65,0.27,25.04,0.0,Newcastle,False,Everton,,-0.39
+Lloyd Kelly,Newcastle,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.14,1.0,0.23,29.0,0.0,0.31,1.65,0.27,25.04,0.0,Newcastle,True,Brighton,,-0.42
+Lloyd Kelly,Newcastle,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.14,0.2,0.0,25.38,0.0,0.31,1.65,0.27,25.04,1.0,Newcastle,False,Chelsea,,-0.9
+Lloyd Kelly,Newcastle,Chelsea,2024-10-27,False,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.13,0.2,0.0,22.67,0.0,0.31,1.65,0.27,25.04,1.0,Newcastle,True,Arsenal,,-0.32
+Lloyd Kelly,Newcastle,Arsenal,2024-11-02,True,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.13,0.4,0.0,20.5,0.0,0.31,1.65,0.27,25.04,0.0,Newcastle,False,Nottingham Forest,,-0.54
+Lloyd Kelly,Newcastle,Nottingham Forest,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.12,0.4,0.0,18.64,0.0,0.31,1.65,0.27,25.04,0.0,Newcastle,True,West Ham,,0.48
+Lloyd Kelly,Newcastle,West Ham,2024-11-25,True,90.0,0.0,0.08,0.0,0.04,0.0,1.0,1.0,4.1,0.0,0.0,2.0,0.91,1.0,0.12,0.4,0.02,24.58,0.0,0.31,1.65,0.27,25.04,,Newcastle,False,Crystal Palace,,0.2
 ,Newcastle,,,,,,,,,,,,,,,,,,,,,,,,,,,,Newcastle,True,Liverpool,,0.24
 ,Newcastle,,,,,,,,,,,,,,,,,,,,,,,,,,,,Newcastle,False,Brentford,,-0.15

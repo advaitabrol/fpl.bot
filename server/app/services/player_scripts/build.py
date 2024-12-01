@@ -1,14 +1,14 @@
 import subprocess;
 import argparse; 
 
-from understat.run_understat import main as main_understat
-from fpl_gw.run_fpl_data import main as main_fpl
-from merge_data.run_merge import main as main_merge
-from prediction_data.run_predict import main_create_prediction as main_predict
-from clean_dirs.remove_files import clean_footprint
+from app.services.player_scripts.understat.run_understat import main as main_understat
+from app.services.player_scripts.fpl_gw.run_fpl_data import main as main_fpl
+from app.services.player_scripts.merge_data.run_merge import main as main_merge
+from app.services.player_scripts.prediction_data.run_predict import main_create_prediction as main_predict
+from app.services.player_scripts.clean_dirs.remove_files import clean_footprint
 
-from fixture_data.fetch_fixture_list import main as main_fixture_list
-from fixture_data.filter_fixtures_by_team import main as main_fixtures_by_team
+from app.services.player_scripts.fixture_data.fetch_fixture_list import main as main_fixture_list
+from app.services.player_scripts.fixture_data.filter_fixtures_by_team import main as main_fixtures_by_team
 
 
 def fixtures(): 
@@ -68,14 +68,14 @@ def main(prediction_folder, status):
         all_seasons = ['2021-22', '2022-23', '2023-24', '2024-25']
         """Main function to perform tasks with prediction folder and season arguments."""    
         # Now you can call the necessary functions with these arguments
-        fixtures(); 
+        fixtures()
         scrape(all_seasons)
         merge(all_seasons)
         train()
         prices()
         availability()
         predict(prediction_folder)
-        #clean()
+        clean()
 
     if(status == 'partial'): 
         fixtures(); 
@@ -88,8 +88,8 @@ def main(prediction_folder, status):
         clean(); 
 
     if(status == 'recalculate'): 
-        #prices()
-        #availability()
+        prices()
+        availability()
         predict(prediction_folder)
         #clean()
     

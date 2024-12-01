@@ -1,15 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Michael Golding,Leicester,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,4727.0,0.0,0.0,0.0,0.0,Leicester,False,Fulham,,0.53
-Michael Golding,Leicester,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,5109.0,0.0,0.0,0.0,0.0,Leicester,True,Aston Villa,,0.66
-Michael Golding,Leicester,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,4961.0,0.0,0.0,0.0,0.0,Leicester,False,Crystal Palace,,0.2
-Michael Golding,Leicester,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,5255.0,0.0,0.0,0.0,0.0,Leicester,True,Everton,,0.61
-Michael Golding,Leicester,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,5190.0,0.0,0.0,0.0,0.0,Leicester,False,Arsenal,,-0.56
-Michael Golding,Leicester,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,5094.0,0.0,0.0,0.0,0.0,Leicester,True,Bournemouth,,0.84
-Michael Golding,Leicester,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,15911.0,0.0,0.0,0.0,0.0,Leicester,False,Southampton,,-0.31
-Michael Golding,Leicester,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,25819.0,0.0,0.0,0.0,0.0,Leicester,True,Nottingham Forest,,1.2
-Michael Golding,Leicester,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,28009.0,0.0,0.0,0.0,0.0,Leicester,False,Ipswich Town,,
-Michael Golding,Leicester,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,32739.0,0.0,0.0,0.0,0.0,Leicester,False,Manchester United,,-0.41
-Michael Golding,Leicester,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,31901.0,0.0,0.0,0.0,0.0,Leicester,True,Chelsea,,0.0
-Michael Golding,Leicester,Chelsea,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,30856.0,0.0,0.0,0.0,,Leicester,False,Brentford,,-0.15
-,Leicester,,,,,,,,,,,,,,,,,,,,Leicester,True,West Ham,,0.48
-,Leicester,,,,,,,,,,,,,,,,,,,,Leicester,True,Brighton,,-0.42
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Michael Golding,Leicester,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Fulham,,0.53
+Michael Golding,Leicester,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Aston Villa,,0.66
+Michael Golding,Leicester,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Crystal Palace,,0.2
+Michael Golding,Leicester,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Everton,,0.61
+Michael Golding,Leicester,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Arsenal,,-0.56
+Michael Golding,Leicester,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Bournemouth,,0.84
+Michael Golding,Leicester,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Southampton,,-0.31
+Michael Golding,Leicester,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Nottingham Forest,,1.2
+Michael Golding,Leicester,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Ipswich Town,,
+Michael Golding,Leicester,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Manchester United,,-0.41
+Michael Golding,Leicester,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Chelsea,,0.0
+Michael Golding,Leicester,Chelsea,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Leicester,False,Brentford,,-0.15
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,West Ham,,0.48
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,Brighton,,-0.42

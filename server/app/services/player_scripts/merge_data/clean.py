@@ -2,6 +2,8 @@ import os
 import pandas as pd
 from concurrent.futures import ThreadPoolExecutor
 
+from ...active_users import get_total_players
+
 def process_and_sort_data(merged_data_dir='player_data', seasons=['2021-22', '2022-23', '2023-24', '2024-25']):
     positions = ['FWD', 'MID', 'DEF', 'GK']
 
@@ -38,6 +40,12 @@ def process_and_sort_data(merged_data_dir='player_data', seasons=['2021-22', '20
     }
 
     def process_csv_file(season, position, csv_file):
+        try:
+            total_players = get_total_players()
+        except Exception as e:
+            print(f"Failed to fetch total number of players: {e}")
+            return
+
         file_path = os.path.join(merged_data_dir, season, position, csv_file)
         df = pd.read_csv(file_path)
 
@@ -54,6 +62,9 @@ def process_and_sort_data(merged_data_dir='player_data', seasons=['2021-22', '20
         desired_column_order = column_config[position]['desired_column_order']
         existing_columns = [col for col in desired_column_order if col in df.columns]
         df = df[existing_columns]
+
+        if 'selected' in df.columns:
+            df['selected'] = (df['selected'] / total_players) * 100
 
         # Save the processed CSV file
         df.to_csv(file_path, index=False)

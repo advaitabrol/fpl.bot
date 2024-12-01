@@ -5,7 +5,6 @@ from collections import Counter
 from fuzzywuzzy import fuzz, process
 
 from app.services.current_gw_service import FPLGWService
-from app.services.active_users import get_total_players
 
 # Directory containing the player data
 def get_base_dir():
@@ -71,10 +70,6 @@ def load_player_data(base_dir):
     required_columns = {'price', 'name', 'expected_points', 'selected'}
     if not required_columns.issubset(all_players.columns):
         raise ValueError(f"Required columns {required_columns} not found in player data files.")
-
-    # Mutate the 'selected' column to represent percentages
-    total_players = get_total_players()
-    all_players['selected'] = (all_players['selected'] / total_players) * 100
     
     return all_players
 

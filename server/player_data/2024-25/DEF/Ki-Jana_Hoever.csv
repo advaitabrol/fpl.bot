@@ -1,13 +1,15 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Ki-Jana Hoever,Wolves,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,27953,0.0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,Wolves,True,Chelsea,,0.0
-Ki-Jana Hoever,Wolves,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,32530,0.0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,Wolves,False,Nottingham Forest,,-0.54
-Ki-Jana Hoever,Wolves,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,28663,0.0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,Wolves,True,Newcastle United,,0.67
-Ki-Jana Hoever,Wolves,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,23949,0.0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,Wolves,False,Aston Villa,,0.11
-Ki-Jana Hoever,Wolves,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,22372,0.0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,Wolves,True,Liverpool,,0.24
-Ki-Jana Hoever,Wolves,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,20829,0.0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,Wolves,False,Brentford,,-0.15
-Ki-Jana Hoever,Wolves,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,19720,0.0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,Wolves,True,Manchester City,,-1.18
-Ki-Jana Hoever,Wolves,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,18851,0.0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,Wolves,False,Brighton,,-0.61
-Ki-Jana Hoever,Wolves,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,18246,0.0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,Wolves,True,Crystal Palace,,0.88
-Ki-Jana Hoever,Wolves,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,17448,0.0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,Wolves,True,Southampton,,0.24
-Ki-Jana Hoever,Wolves,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,16956,0.0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,Wolves,False,Fulham,,0.53
-Ki-Jana Hoever,Wolves,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,16403,0.0,0.0,0.0,0,0.0,0.0,0,0.0,,,,,,
+Ki-Jana Hoever,Wolves,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Wolves,True,Chelsea,,0.0
+Ki-Jana Hoever,Wolves,Chelsea,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Wolves,False,Nottingham Forest,,-0.54
+Ki-Jana Hoever,Wolves,Nottingham Forest,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Wolves,True,Newcastle United,,0.67
+Ki-Jana Hoever,Wolves,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Wolves,False,Aston Villa,,0.11
+Ki-Jana Hoever,Wolves,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Wolves,True,Liverpool,,0.24
+Ki-Jana Hoever,Wolves,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Wolves,False,Brentford,,-0.15
+Ki-Jana Hoever,Wolves,Brentford,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Wolves,True,Manchester City,,-1.18
+Ki-Jana Hoever,Wolves,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Wolves,False,Brighton,,-0.61
+Ki-Jana Hoever,Wolves,Brighton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Wolves,True,Crystal Palace,,0.88
+Ki-Jana Hoever,Wolves,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.16,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Wolves,True,Southampton,,0.24
+Ki-Jana Hoever,Wolves,Southampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.16,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Wolves,False,Fulham,,0.53
+Ki-Jana Hoever,Wolves,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Wolves,True,Bournemouth,,0.84
+,Wolves,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wolves,False,Everton,,-0.39
+,Wolves,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wolves,False,West Ham,,-0.34

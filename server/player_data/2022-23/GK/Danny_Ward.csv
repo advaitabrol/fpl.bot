@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Danny Ward,Leicester,Brentford,2022-08-07,True,90,2,0.0,1,0,1,0,0,0.0,0,1983925,1.0,0,90.0,0.0,1.0,0.0,4,0,1.0,Leicester,False,Arsenal,,-0.0
-Danny Ward,Leicester,Arsenal,2022-08-13,False,90,4,0.0,4,0,1,0,0,0.0,0,2358777,1.0,0,90.0,0.0,2.5,0.0,4,0,1.0,Leicester,True,Southampton,,-0.38
-Danny Ward,Leicester,Southampton,2022-08-20,True,90,2,0.0,1,0,1,0,0,0.0,0,2576533,1.0,0,90.0,0.0,2.0,0.0,4,0,1.0,Leicester,False,Chelsea,,-0.72
-Danny Ward,Leicester,Chelsea,2022-08-27,False,90,2,0.0,1,0,1,0,0,0.0,0,2645665,1.0,0,90.0,0.0,1.75,0.0,4,0,2.0,Leicester,True,Manchester United,,0.38
-Danny Ward,Leicester,Manchester United,2022-09-01,True,90,1,0.0,1,0,2,0,0,0.0,0,2662635,1.2,0,90.0,0.0,1.6,0.0,4,0,2.0,Leicester,False,Brighton,,-0.39
-Danny Ward,Leicester,Brighton,2022-09-04,False,90,5,0.0,7,0,2,0,0,0.0,0,2723072,1.4,0,90.0,0.0,2.5,0.0,4,0,0.0,Leicester,False,Tottenham,,-0.03
-Danny Ward,Leicester,Tottenham,2022-09-17,False,90,6,0.0,5,0,0,0,0,0.0,0,2704953,1.2,0,90.0,0.0,2.86,0.0,4,0,8.0,Leicester,True,Nottingham Forest,,
-Danny Ward,Leicester,Nottingham Forest,2022-10-03,True,90,0,0.0,3,0,8,1,1,0.0,0,2708331,2.6,0,90.0,0.12,2.88,0.0,4,0,1.0,Leicester,False,Bournemouth,,0.19
-Danny Ward,Leicester,Bournemouth,2022-10-08,False,90,2,0.0,2,0,1,0,0,0.0,0,2762134,2.6,0,90.0,0.11,2.78,0.0,4,0,6.0,Leicester,True,Crystal Palace,,0.81
-Danny Ward,Leicester,Crystal Palace,2022-10-15,True,90,0,0.0,1,0,6,0,1,0.0,0,2764649,3.4,0,90.0,0.2,2.6,0.0,4,0,9.0,Leicester,True,Leicester City,,0.83
-Danny Ward,Leicester,Leicester City,2022-10-20,True,90,0,0.0,2,0,9,3,1,0.0,0,2723920,4.8,0,90.0,0.27,2.55,0.0,4,0,8.0,Leicester,False,Wolverhampton,,-0.46
-Danny Ward,Leicester,Wolverhampton,2022-10-23,False,90,0,0.0,5,0,8,1,1,0.0,0,2792445,6.4,0,90.0,0.33,2.75,0.0,4,0,3.0,Leicester,True,Manchester City,,-1.17
-Danny Ward,Leicester,Manchester City,2022-10-29,True,90,1,0.0,4,0,3,0,0,0.0,0,2810827,5.4,0,90.0,0.31,2.85,0.0,4,0,6.0,Leicester,False,Everton,,-0.63
-Danny Ward,Leicester,Everton,2022-11-05,False,90,0,0.0,2,0,6,0,1,0.0,0,2849225,6.4,0,90.0,0.36,2.79,0.0,4,0,11.0,Leicester,False,West Ham,,0.14
-Danny Ward,Leicester,West Ham,2022-11-12,False,90,0,1.4,6,0,11,3,1,0.0,1,2918468,7.4,0,90.0,0.4,3.0,0.0,4,0,1.0,Leicester,True,Newcastle United,,0.73
-Danny Ward,Leicester,Newcastle United,2022-12-26,True,90,3,1.9,2,0,1,0,0,0.0,1,3491200,5.8,0,90.0,0.38,2.94,0.0,4,0,3.0,Leicester,False,Liverpool,,-1.33
-Danny Ward,Leicester,Liverpool,2022-12-30,False,90,2,2.12,5,0,3,1,0,0.0,1,3466571,4.8,0,90.0,0.35,3.06,0.0,4,0,2.0,Leicester,True,Fulham,,-0.3
-Danny Ward,Leicester,Fulham,2023-01-03,True,90,1,1.73,1,0,2,0,0,0.0,1,3439417,4.6,0,90.0,0.33,2.94,0.0,4,0,2.0,Leicester,False,Nottingham Forest,,
-Danny Ward,Leicester,Nottingham Forest,2023-01-14,False,90,2,2.14,3,0,2,0,0,0.0,1,3400376,3.8,0,90.0,0.32,2.95,0.0,4,0,1.0,Leicester,True,Brighton,,-0.71
-Danny Ward,Leicester,Brighton,2023-01-21,True,90,2,1.53,2,0,1,0,0,0.0,1,3354494,1.8,0,90.0,0.3,2.9,0.0,4,0,2.0,Leicester,False,Aston Villa,,0.59
-Danny Ward,Leicester,Aston Villa,2023-02-04,False,90,2,1.68,3,0,2,0,0,0.0,1,3264673,2.0,0,90.0,0.29,2.9,0.0,4,0,3.0,Leicester,True,Tottenham,,1.07
-Danny Ward,Leicester,Tottenham,2023-02-11,True,90,1,1.28,3,0,3,0,0,0.0,1,3198639,2.0,0,90.0,0.27,2.91,0.0,4,0,2.0,Leicester,False,Manchester United,,-0.1
-Danny Ward,Leicester,Manchester United,2023-02-19,False,90,3,4.23,5,0,2,0,0,0.0,1,3164982,2.0,0,90.0,0.26,3.0,0.0,4,0,2.0,Leicester,True,Arsenal,,0.36
-Danny Ward,Leicester,Arsenal,2023-02-25,True,90,1,0.64,1,0,2,0,0,0.0,1,3030474,2.0,0,90.0,0.25,2.92,0.0,4,0,11.0,Leicester,False,Southampton,,-1.07
-Danny Ward,Leicester,Southampton,2023-03-04,False,90,1,1.38,4,1,11,3,0,0.0,1,2901227,4.0,0,90.0,0.24,2.96,0.0,4,0,2.0,Leicester,True,Chelsea,,-0.25
-Danny Ward,Leicester,Chelsea,2023-03-11,True,90,3,1.53,3,0,2,0,0,0.0,1,2846050,4.0,0,90.0,0.23,2.96,0.0,4,0,0.0,Leicester,False,Brentford,,-0.55
-Danny Ward,Leicester,Brentford,,False,0,0,0.0,0,0,0,0,0,,0,2778147,3.4,0,86.67,0.23,2.96,0.0,4,0,0.0,Leicester,False,Crystal Palace,,0.13
-Danny Ward,Leicester,Crystal Palace,,False,0,0,0.0,0,0,0,0,0,,0,2646060,3.0,0,83.57,0.23,2.96,0.0,4,0,0.0,Leicester,True,Aston Villa,,0.55
-Danny Ward,Leicester,Aston Villa,,True,0,0,0.0,0,0,0,0,0,,0,2646060,2.6,0,80.69,0.23,2.96,0.0,4,0,0.0,Leicester,True,Bournemouth,,1.46
-Danny Ward,Leicester,Bournemouth,,True,0,0,0.0,0,0,0,0,0,,0,2583698,0.4,0,78.0,0.23,2.96,0.0,4,0,0.0,Leicester,False,Manchester City,,-1.26
-Danny Ward,Leicester,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,2528943,0.0,0,75.48,0.23,2.96,0.0,4,0,0.0,Leicester,True,Wolverhampton,,-0.48
-Danny Ward,Leicester,Wolverhampton,,True,0,0,0.0,0,0,0,0,0,,0,2415694,0.0,0,73.12,0.23,2.96,0.0,4,0,0.0,Leicester,False,Leicester City,,-0.05
-Danny Ward,Leicester,Leicester City,,False,0,0,0.0,0,0,0,0,0,,0,2367283,0.0,0,70.91,0.23,2.96,0.0,4,0,0.0,Leicester,True,Everton,,0.34
-Danny Ward,Leicester,Everton,,True,0,0,0.0,0,0,0,0,0,,0,2265906,0.0,0,68.82,0.23,2.96,0.0,4,0,0.0,Leicester,False,Fulham,,1.37
-Danny Ward,Leicester,Fulham,,False,0,0,0.0,0,0,0,0,0,,0,2230268,0.0,0,66.86,0.23,2.96,0.0,4,0,0.0,Leicester,True,Liverpool,,-0.53
-Danny Ward,Leicester,Liverpool,,True,0,0,0.0,0,0,0,0,0,,0,2213635,0.0,0,65.0,0.23,2.96,0.0,4,0,0.0,Leicester,False,Newcastle United,,-0.34
-Danny Ward,Leicester,Newcastle United,,False,0,0,0.0,0,0,0,0,0,,0,2157777,0.0,0,63.24,0.23,2.96,0.0,4,0,0.0,Leicester,True,West Ham,,0.63
-Danny Ward,Leicester,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,2094773,0.0,0,61.58,0.23,2.96,0.0,4,0,,Liverpool,False,Chelsea,,-0.72
+Danny Ward,Leicester,Brentford,2022-08-07,True,90,2,0.0,1,0,1,0,0,0.0,0,18.32,1.0,0,90.0,0.0,1.0,0.0,4,0,1.0,Leicester,False,Arsenal,,-0.0
+Danny Ward,Leicester,Arsenal,2022-08-13,False,90,4,0.0,4,0,1,0,0,0.0,0,21.78,1.0,0,90.0,0.0,2.5,0.0,4,0,1.0,Leicester,True,Southampton,,-0.38
+Danny Ward,Leicester,Southampton,2022-08-20,True,90,2,0.0,1,0,1,0,0,0.0,0,23.79,1.0,0,90.0,0.0,2.0,0.0,4,0,1.0,Leicester,False,Chelsea,,-0.72
+Danny Ward,Leicester,Chelsea,2022-08-27,False,90,2,0.0,1,0,1,0,0,0.0,0,24.43,1.0,0,90.0,0.0,1.75,0.0,4,0,2.0,Leicester,True,Manchester United,,0.38
+Danny Ward,Leicester,Manchester United,2022-09-01,True,90,1,0.0,1,0,2,0,0,0.0,0,24.58,1.2,0,90.0,0.0,1.6,0.0,4,0,2.0,Leicester,False,Brighton,,-0.39
+Danny Ward,Leicester,Brighton,2022-09-04,False,90,5,0.0,7,0,2,0,0,0.0,0,25.14,1.4,0,90.0,0.0,2.5,0.0,4,0,0.0,Leicester,False,Tottenham,,-0.03
+Danny Ward,Leicester,Tottenham,2022-09-17,False,90,6,0.0,5,0,0,0,0,0.0,0,24.97,1.2,0,90.0,0.0,2.86,0.0,4,0,8.0,Leicester,True,Nottingham Forest,,
+Danny Ward,Leicester,Nottingham Forest,2022-10-03,True,90,0,0.0,3,0,8,1,1,0.0,0,25.0,2.6,0,90.0,0.12,2.88,0.0,4,0,1.0,Leicester,False,Bournemouth,,0.19
+Danny Ward,Leicester,Bournemouth,2022-10-08,False,90,2,0.0,2,0,1,0,0,0.0,0,25.5,2.6,0,90.0,0.11,2.78,0.0,4,0,6.0,Leicester,True,Crystal Palace,,0.81
+Danny Ward,Leicester,Crystal Palace,2022-10-15,True,90,0,0.0,1,0,6,0,1,0.0,0,25.52,3.4,0,90.0,0.2,2.6,0.0,4,0,9.0,Leicester,True,Leicester City,,0.83
+Danny Ward,Leicester,Leicester City,2022-10-20,True,90,0,0.0,2,0,9,3,1,0.0,0,25.15,4.8,0,90.0,0.27,2.55,0.0,4,0,8.0,Leicester,False,Wolverhampton,,-0.46
+Danny Ward,Leicester,Wolverhampton,2022-10-23,False,90,0,0.0,5,0,8,1,1,0.0,0,25.78,6.4,0,90.0,0.33,2.75,0.0,4,0,3.0,Leicester,True,Manchester City,,-1.17
+Danny Ward,Leicester,Manchester City,2022-10-29,True,90,1,0.0,4,0,3,0,0,0.0,0,25.95,5.4,0,90.0,0.31,2.85,0.0,4,0,6.0,Leicester,False,Everton,,-0.63
+Danny Ward,Leicester,Everton,2022-11-05,False,90,0,0.0,2,0,6,0,1,0.0,0,26.3,6.4,0,90.0,0.36,2.79,0.0,4,0,11.0,Leicester,False,West Ham,,0.14
+Danny Ward,Leicester,West Ham,2022-11-12,False,90,0,1.4,6,0,11,3,1,0.0,1,26.94,7.4,0,90.0,0.4,3.0,0.0,4,0,1.0,Leicester,True,Newcastle United,,0.73
+Danny Ward,Leicester,Newcastle United,2022-12-26,True,90,3,1.9,2,0,1,0,0,0.0,1,32.23,5.8,0,90.0,0.38,2.94,0.0,4,0,3.0,Leicester,False,Liverpool,,-1.33
+Danny Ward,Leicester,Liverpool,2022-12-30,False,90,2,2.12,5,0,3,1,0,0.0,1,32.0,4.8,0,90.0,0.35,3.06,0.0,4,0,2.0,Leicester,True,Fulham,,-0.3
+Danny Ward,Leicester,Fulham,2023-01-03,True,90,1,1.73,1,0,2,0,0,0.0,1,31.75,4.6,0,90.0,0.33,2.94,0.0,4,0,2.0,Leicester,False,Nottingham Forest,,
+Danny Ward,Leicester,Nottingham Forest,2023-01-14,False,90,2,2.14,3,0,2,0,0,0.0,1,31.39,3.8,0,90.0,0.32,2.95,0.0,4,0,1.0,Leicester,True,Brighton,,-0.71
+Danny Ward,Leicester,Brighton,2023-01-21,True,90,2,1.53,2,0,1,0,0,0.0,1,30.97,1.8,0,90.0,0.3,2.9,0.0,4,0,2.0,Leicester,False,Aston Villa,,0.59
+Danny Ward,Leicester,Aston Villa,2023-02-04,False,90,2,1.68,3,0,2,0,0,0.0,1,30.14,2.0,0,90.0,0.29,2.9,0.0,4,0,3.0,Leicester,True,Tottenham,,1.07
+Danny Ward,Leicester,Tottenham,2023-02-11,True,90,1,1.28,3,0,3,0,0,0.0,1,29.53,2.0,0,90.0,0.27,2.91,0.0,4,0,2.0,Leicester,False,Manchester United,,-0.1
+Danny Ward,Leicester,Manchester United,2023-02-19,False,90,3,4.23,5,0,2,0,0,0.0,1,29.22,2.0,0,90.0,0.26,3.0,0.0,4,0,2.0,Leicester,True,Arsenal,,0.36
+Danny Ward,Leicester,Arsenal,2023-02-25,True,90,1,0.64,1,0,2,0,0,0.0,1,27.98,2.0,0,90.0,0.25,2.92,0.0,4,0,11.0,Leicester,False,Southampton,,-1.07
+Danny Ward,Leicester,Southampton,2023-03-04,False,90,1,1.38,4,1,11,3,0,0.0,1,26.78,4.0,0,90.0,0.24,2.96,0.0,4,0,2.0,Leicester,True,Chelsea,,-0.25
+Danny Ward,Leicester,Chelsea,2023-03-11,True,90,3,1.53,3,0,2,0,0,0.0,1,26.28,4.0,0,90.0,0.23,2.96,0.0,4,0,0.0,Leicester,False,Brentford,,-0.55
+Danny Ward,Leicester,Brentford,,False,0,0,0.0,0,0,0,0,0,,0,25.65,3.4,0,86.67,0.23,2.96,0.0,4,0,0.0,Leicester,False,Crystal Palace,,0.13
+Danny Ward,Leicester,Crystal Palace,,False,0,0,0.0,0,0,0,0,0,,0,24.43,3.0,0,83.57,0.23,2.96,0.0,4,0,0.0,Leicester,True,Aston Villa,,0.55
+Danny Ward,Leicester,Aston Villa,,True,0,0,0.0,0,0,0,0,0,,0,24.43,2.6,0,80.69,0.23,2.96,0.0,4,0,0.0,Leicester,True,Bournemouth,,1.46
+Danny Ward,Leicester,Bournemouth,,True,0,0,0.0,0,0,0,0,0,,0,23.85,0.4,0,78.0,0.23,2.96,0.0,4,0,0.0,Leicester,False,Manchester City,,-1.26
+Danny Ward,Leicester,Manchester City,,False,0,0,0.0,0,0,0,0,0,,0,23.35,0.0,0,75.48,0.23,2.96,0.0,4,0,0.0,Leicester,True,Wolverhampton,,-0.48
+Danny Ward,Leicester,Wolverhampton,,True,0,0,0.0,0,0,0,0,0,,0,22.3,0.0,0,73.12,0.23,2.96,0.0,4,0,0.0,Leicester,False,Leicester City,,-0.05
+Danny Ward,Leicester,Leicester City,,False,0,0,0.0,0,0,0,0,0,,0,21.86,0.0,0,70.91,0.23,2.96,0.0,4,0,0.0,Leicester,True,Everton,,0.34
+Danny Ward,Leicester,Everton,,True,0,0,0.0,0,0,0,0,0,,0,20.92,0.0,0,68.82,0.23,2.96,0.0,4,0,0.0,Leicester,False,Fulham,,1.37
+Danny Ward,Leicester,Fulham,,False,0,0,0.0,0,0,0,0,0,,0,20.59,0.0,0,66.86,0.23,2.96,0.0,4,0,0.0,Leicester,True,Liverpool,,-0.53
+Danny Ward,Leicester,Liverpool,,True,0,0,0.0,0,0,0,0,0,,0,20.44,0.0,0,65.0,0.23,2.96,0.0,4,0,0.0,Leicester,False,Newcastle United,,-0.34
+Danny Ward,Leicester,Newcastle United,,False,0,0,0.0,0,0,0,0,0,,0,19.92,0.0,0,63.24,0.23,2.96,0.0,4,0,0.0,Leicester,True,West Ham,,0.63
+Danny Ward,Leicester,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,19.34,0.0,0,61.58,0.23,2.96,0.0,4,0,,Liverpool,False,Chelsea,,-0.72

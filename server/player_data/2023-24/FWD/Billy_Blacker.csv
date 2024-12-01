@@ -1,15 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Billy Blacker,Sheffield Utd,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0,Sheffield Utd,False,Wolverhampton,,-0.52
-Billy Blacker,Sheffield Utd,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,335,0.0,0.0,0.0,0.0,Sheffield Utd,True,Arsenal,,-0.11
-Billy Blacker,Sheffield Utd,Arsenal,,True,0,,,,,0,,,0.0,0,0,503,0.0,0.0,0.0,0.0,Sheffield Utd,False,Bournemouth,,0.19
-Billy Blacker,Sheffield Utd,Bournemouth,,False,0,,,,,0,,,0.0,0,0,696,0.0,0.0,0.0,0.0,Sheffield Utd,True,Fulham,,-0.13
-Billy Blacker,Sheffield Utd,Fulham,,True,0,,,,,0,,,0.0,0,0,838,0.0,0.0,0.0,0.0,Sheffield Utd,False,Liverpool,,-1.01
-Billy Blacker,Sheffield Utd,Liverpool,,False,0,,,,,0,,,0.0,0,0,909,0.0,0.0,0.0,0.0,Sheffield Utd,True,Chelsea,,-0.25
-Billy Blacker,Sheffield Utd,Chelsea,,True,0,,,,,0,,,0.0,0,0,1002,0.0,0.0,0.0,0.0,Sheffield Utd,False,Brentford,,-0.53
-Billy Blacker,Sheffield Utd,Brentford,,False,0,,,,,0,,,0.0,0,0,1155,0.0,0.0,0.0,0.0,Sheffield Utd,True,Burnley,,0.39
-Billy Blacker,Sheffield Utd,Burnley,,True,0,,,,,0,,,0.0,0,0,1275,0.0,0.0,0.0,0.0,Sheffield Utd,False,Manchester United,,-0.63
-Billy Blacker,Sheffield Utd,Manchester United,,False,0,,,,,0,,,0.0,0,0,1275,0.0,0.0,0.0,0.0,Sheffield Utd,False,Newcastle United,,-0.41
-Billy Blacker,Sheffield Utd,Newcastle United,,False,0,,,,,0,,,0.0,0,0,1251,0.0,0.0,0.0,0.0,Sheffield Utd,True,Nottingham Forest,,1.55
-Billy Blacker,Sheffield Utd,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,1272,0.0,0.0,0.0,0.0,Sheffield Utd,False,Everton,,-0.24
-Billy Blacker,Sheffield Utd,Everton,2024-05-11,False,0,0.0,0.02,0.0,0.1,0,1.0,1.0,0.0,0,0,1350,0.0,0.0,0.0,0.0,Sheffield Utd,True,Tottenham,,0.69
-Billy Blacker,Sheffield Utd,Tottenham,,True,0,,,,,0,,,0.0,0,0,1527,0.0,0.0,0.0,,Fulham,False,Manchester United,,-0.63
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Billy Blacker,Sheffield Utd,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Sheffield Utd,False,Wolverhampton,,-0.52
+Billy Blacker,Sheffield Utd,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Sheffield Utd,True,Arsenal,,-0.11
+Billy Blacker,Sheffield Utd,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Sheffield Utd,False,Bournemouth,,0.19
+Billy Blacker,Sheffield Utd,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Sheffield Utd,True,Fulham,,-0.13
+Billy Blacker,Sheffield Utd,Fulham,,True,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Sheffield Utd,False,Liverpool,,-1.01
+Billy Blacker,Sheffield Utd,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Sheffield Utd,True,Chelsea,,-0.25
+Billy Blacker,Sheffield Utd,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Sheffield Utd,False,Brentford,,-0.53
+Billy Blacker,Sheffield Utd,Brentford,,False,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Sheffield Utd,True,Burnley,,0.39
+Billy Blacker,Sheffield Utd,Burnley,,True,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Sheffield Utd,False,Manchester United,,-0.63
+Billy Blacker,Sheffield Utd,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Sheffield Utd,False,Newcastle United,,-0.41
+Billy Blacker,Sheffield Utd,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Sheffield Utd,True,Nottingham Forest,,1.55
+Billy Blacker,Sheffield Utd,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Sheffield Utd,False,Everton,,-0.24
+Billy Blacker,Sheffield Utd,Everton,2024-05-11,False,0,0.0,0.02,0.0,0.1,0,1.0,1.0,0.0,0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Sheffield Utd,True,Tottenham,,0.69
+Billy Blacker,Sheffield Utd,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,,Fulham,False,Manchester United,,-0.63

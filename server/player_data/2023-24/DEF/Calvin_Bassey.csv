@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Calvin Bassey,Fulham,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,29050,0.0,0.0,0.0,0.0,1.0,Fulham,True,Brentford,,0.79
-Calvin Bassey,Fulham,Brentford,2023-08-19,True,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1,1.87,0,29878,0.5,0.0,11.5,0.0,-2.0,Fulham,False,Arsenal,,-0.48
-Calvin Bassey,Fulham,Arsenal,2023-08-26,False,82,0.0,0.0,0.0,0.0,-2,0.0,0.0,0.7,0,0,2,3.92,1,27642,-0.33,0.0,35.0,0.0,0.0,Fulham,False,Manchester City,,-1.32
-Calvin Bassey,Fulham,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,24826,-0.25,0.0,26.25,0.0,1.0,Fulham,True,Luton,,
-Calvin Bassey,Fulham,Luton,2023-09-16,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.28,0,24943,0.0,0.0,21.2,0.0,0.0,Fulham,False,Crystal Palace,,0.38
-Calvin Bassey,Fulham,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,23908,0.0,0.0,17.67,0.0,0.0,Fulham,True,Chelsea,,-0.25
-Calvin Bassey,Fulham,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,21362,-0.2,0.0,15.14,0.0,1.0,Fulham,True,Sheffield,,0.68
-Calvin Bassey,Fulham,Sheffield,2023-10-07,True,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.02,0,20188,0.4,0.0,15.62,0.0,1.0,Fulham,False,Tottenham,,-0.36
-Calvin Bassey,Fulham,Tottenham,2023-10-23,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,2,1.51,1,19833,0.6,0.0,23.89,0.0,2.0,Fulham,False,Brighton,,-0.6
-Calvin Bassey,Fulham,Brighton,2023-10-29,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.6,0,0,1,1.32,1,19535,0.8,0.0,30.5,0.0,2.0,Fulham,True,Manchester United,,0.38
-Calvin Bassey,Fulham,Manchester United,2023-11-04,True,90,0.0,0.06,0.0,0.0,2,1.0,0.0,2.3,0,0,1,0.69,1,19516,1.2,0.01,35.91,0.0,1.0,Fulham,False,Aston Villa,,0.29
-Calvin Bassey,Fulham,Aston Villa,2023-11-12,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,3,3.08,1,19790,1.4,0.01,40.42,0.0,1.0,Fulham,True,Wolverhampton,,0.05
-Calvin Bassey,Fulham,Wolverhampton,2023-11-27,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,2,1.41,1,20008,1.4,0.01,44.23,0.0,0.0,Fulham,False,Liverpool,,-1.01
-Calvin Bassey,Fulham,Liverpool,2023-12-03,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.5,0,0,4,2.22,1,19806,1.2,0.01,47.5,0.0,6.0,Fulham,True,Nottingham Forest,,1.55
-Calvin Bassey,Fulham,Nottingham Forest,2023-12-06,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.7,0,1,0,0.29,1,19901,2.0,0.01,50.33,0.09,6.0,Fulham,True,West Ham,,0.49
-Calvin Bassey,Fulham,West Ham,2023-12-10,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.0,0,1,0,1.39,1,20285,2.8,0.0,52.81,0.17,0.0,Fulham,False,Newcastle United,,-0.41
-Calvin Bassey,Fulham,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,21671,2.6,0.0,49.71,0.17,0.0,Fulham,True,Burnley,,0.39
-Calvin Bassey,Fulham,Burnley,2023-12-23,True,90,0.0,0.0,0.0,0.07,0,0.0,1.0,1.9,0,0,2,0.41,1,22704,2.4,0.0,51.94,0.15,1.0,Fulham,False,Bournemouth,,0.19
-Calvin Bassey,Fulham,Bournemouth,2023-12-26,False,90,0.0,0.0,0.0,0.04,1,0.0,1.0,4.3,0,0,3,1.82,1,22002,2.6,0.0,53.95,0.14,1.0,Fulham,True,Arsenal,,-0.11
-Calvin Bassey,Fulham,Arsenal,2023-12-31,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.3,0,0,1,1.64,1,21291,1.6,0.0,55.75,0.13,0.0,Fulham,False,Chelsea,,-0.85
-Calvin Bassey,Fulham,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,18668,0.4,0.0,53.1,0.13,0.0,Fulham,True,Everton,,0.53
-Calvin Bassey,Fulham,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,17773,0.4,0.0,50.68,0.13,0.0,Fulham,False,Burnley,,0.0
-Calvin Bassey,Fulham,Burnley,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,17460,0.4,0.0,48.48,0.13,0.0,Fulham,True,Bournemouth,,1.22
-Calvin Bassey,Fulham,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,17016,0.2,0.0,46.46,0.13,1.0,Fulham,True,Aston Villa,,0.64
-Calvin Bassey,Fulham,Aston Villa,2024-02-17,True,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,0,16977,0.2,0.0,45.16,0.12,10.0,Fulham,False,Manchester United,,-0.63
-Calvin Bassey,Fulham,Manchester United,2024-02-24,False,90,1.0,0.15,0.0,0.0,10,2.0,0.0,6.7,2,0,1,1.67,1,17554,2.2,0.03,46.88,0.12,6.0,Fulham,True,Brighton,,-0.66
-Calvin Bassey,Fulham,Brighton,2024-03-02,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.0,0,1,0,1.17,1,21733,3.4,0.03,48.48,0.17,2.0,Fulham,False,Wolverhampton,,-0.52
-Calvin Bassey,Fulham,Wolverhampton,2024-03-09,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.6,1,0,2,0.83,1,31071,3.8,0.03,49.96,0.16,6.0,Fulham,True,Tottenham,,0.69
-Calvin Bassey,Fulham,Tottenham,2024-03-16,True,90,0.0,0.13,0.0,0.0,6,1.0,0.0,1.7,0,1,0,2.37,1,164847,5.0,0.06,51.34,0.2,0.0,Fulham,False,Sheffield,,-0.61
-Calvin Bassey,Fulham,Sheffield,2024-03-30,False,90,0.0,0.02,0.0,0.0,0,1.0,0.0,2.4,0,0,3,1.87,1,58642,4.8,0.06,52.63,0.19,1.0,Fulham,False,Nottingham Forest,,-0.55
-Calvin Bassey,Fulham,Nottingham Forest,2024-04-02,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.3,0,0,3,1.51,1,56684,3.0,0.03,53.84,0.18,2.0,Fulham,True,Newcastle United,,0.55
-Calvin Bassey,Fulham,Newcastle United,2024-04-06,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,0.59,1,52807,2.2,0.03,54.97,0.17,7.0,Fulham,False,West Ham,,-0.22
-Calvin Bassey,Fulham,West Ham,2024-04-14,False,90,0.0,0.0,0.0,0.0,7,0.0,0.0,2.9,1,1,0,0.93,1,49915,3.2,0.03,56.03,0.21,1.0,Fulham,True,Liverpool,,0.18
-Calvin Bassey,Fulham,Liverpool,2024-04-21,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,3,1.02,1,47727,2.2,0.0,57.03,0.2,2.0,Fulham,True,Crystal Palace,,0.88
-Calvin Bassey,Fulham,Crystal Palace,2024-04-27,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,1.01,1,47670,2.6,0.0,57.97,0.19,5.0,Fulham,False,Brentford,,-0.53
-Calvin Bassey,Fulham,Brentford,2024-05-04,False,90,0.0,0.0,0.0,0.0,5,0.0,0.0,2.3,0,1,0,0.63,1,47119,3.4,0.0,58.86,0.22,0.0,Fulham,True,Manchester City,,-0.96
-Calvin Bassey,Fulham,Manchester City,2024-05-11,True,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.3,0,0,4,3.25,1,44522,3.0,0.0,59.7,0.21,1.0,Fulham,False,Luton,,
-Calvin Bassey,Fulham,Luton,2024-05-19,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,2,2.11,1,44283,1.8,0.0,60.5,0.21,1.0,Fulham,False,Manchester United,,-0.63
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Calvin Bassey,Fulham,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.27,0.0,0.0,0.0,0.0,0,0,0,0,1.0,Fulham,True,Brentford,,0.79
+Calvin Bassey,Fulham,Brentford,2023-08-19,True,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1,1.87,0,0.28,0.5,0.0,11.5,0.0,0,0,0,0,-2.0,Fulham,False,Arsenal,,-0.48
+Calvin Bassey,Fulham,Arsenal,2023-08-26,False,82,0.0,0.0,0.0,0.0,-2,0.0,0.0,0.7,0,0,2,3.92,1,0.26,-0.33,0.0,35.0,0.0,0,0,0,0,0.0,Fulham,False,Manchester City,,-1.32
+Calvin Bassey,Fulham,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.23,-0.25,0.0,26.25,0.0,0,0,0,0,1.0,Fulham,True,Luton,,
+Calvin Bassey,Fulham,Luton,2023-09-16,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.28,0,0.23,0.0,0.0,21.2,0.0,0,0,0,0,0.0,Fulham,False,Crystal Palace,,0.38
+Calvin Bassey,Fulham,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.22,0.0,0.0,17.67,0.0,0,0,0,0,0.0,Fulham,True,Chelsea,,-0.25
+Calvin Bassey,Fulham,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,-0.2,0.0,15.14,0.0,0,0,0,0,1.0,Fulham,True,Sheffield,,0.68
+Calvin Bassey,Fulham,Sheffield,2023-10-07,True,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,0,0.02,0,0.19,0.4,0.0,15.62,0.0,0,0,0,0,1.0,Fulham,False,Tottenham,,-0.36
+Calvin Bassey,Fulham,Tottenham,2023-10-23,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,2,1.51,1,0.18,0.6,0.0,23.89,0.0,0,0,0,0,2.0,Fulham,False,Brighton,,-0.6
+Calvin Bassey,Fulham,Brighton,2023-10-29,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.6,0,0,1,1.32,1,0.18,0.8,0.0,30.5,0.0,0,0,0,0,2.0,Fulham,True,Manchester United,,0.38
+Calvin Bassey,Fulham,Manchester United,2023-11-04,True,90,0.0,0.06,0.0,0.0,2,1.0,0.0,2.3,0,0,1,0.69,1,0.18,1.2,0.01,35.91,0.0,0,0,0,0,1.0,Fulham,False,Aston Villa,,0.29
+Calvin Bassey,Fulham,Aston Villa,2023-11-12,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,3,3.08,1,0.18,1.4,0.01,40.42,0.0,0,0,0,0,1.0,Fulham,True,Wolverhampton,,0.05
+Calvin Bassey,Fulham,Wolverhampton,2023-11-27,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,2,1.41,1,0.18,1.4,0.01,44.23,0.0,0,0,0,0,0.0,Fulham,False,Liverpool,,-1.01
+Calvin Bassey,Fulham,Liverpool,2023-12-03,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.5,0,0,4,2.22,1,0.18,1.2,0.01,47.5,0.0,0,0,0,0,6.0,Fulham,True,Nottingham Forest,,1.55
+Calvin Bassey,Fulham,Nottingham Forest,2023-12-06,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.7,0,1,0,0.29,1,0.18,2.0,0.01,50.33,0.09,0,0,0,0,6.0,Fulham,True,West Ham,,0.49
+Calvin Bassey,Fulham,West Ham,2023-12-10,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.0,0,1,0,1.39,1,0.19,2.8,0.0,52.81,0.17,0,0,0,0,0.0,Fulham,False,Newcastle United,,-0.41
+Calvin Bassey,Fulham,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,2.6,0.0,49.71,0.17,0,0,0,0,0.0,Fulham,True,Burnley,,0.39
+Calvin Bassey,Fulham,Burnley,2023-12-23,True,90,0.0,0.0,0.0,0.07,0,0.0,1.0,1.9,0,0,2,0.41,1,0.21,2.4,0.0,51.94,0.15,0,0,0,0,1.0,Fulham,False,Bournemouth,,0.19
+Calvin Bassey,Fulham,Bournemouth,2023-12-26,False,90,0.0,0.0,0.0,0.04,1,0.0,1.0,4.3,0,0,3,1.82,1,0.2,2.6,0.0,53.95,0.14,0,0,0,0,1.0,Fulham,True,Arsenal,,-0.11
+Calvin Bassey,Fulham,Arsenal,2023-12-31,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.3,0,0,1,1.64,1,0.2,1.6,0.0,55.75,0.13,0,0,0,0,0.0,Fulham,False,Chelsea,,-0.85
+Calvin Bassey,Fulham,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.17,0.4,0.0,53.1,0.13,0,0,0,0,0.0,Fulham,True,Everton,,0.53
+Calvin Bassey,Fulham,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.16,0.4,0.0,50.68,0.13,0,0,0,0,0.0,Fulham,False,Burnley,,0.0
+Calvin Bassey,Fulham,Burnley,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.16,0.4,0.0,48.48,0.13,0,0,0,0,0.0,Fulham,True,Bournemouth,,1.22
+Calvin Bassey,Fulham,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.16,0.2,0.0,46.46,0.13,0,0,0,0,1.0,Fulham,True,Aston Villa,,0.64
+Calvin Bassey,Fulham,Aston Villa,2024-02-17,True,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,0,0.16,0.2,0.0,45.16,0.12,0,0,0,0,10.0,Fulham,False,Manchester United,,-0.63
+Calvin Bassey,Fulham,Manchester United,2024-02-24,False,90,1.0,0.15,0.0,0.0,10,2.0,0.0,6.7,2,0,1,1.67,1,0.16,2.2,0.03,46.88,0.12,0,0,0,0,6.0,Fulham,True,Brighton,,-0.66
+Calvin Bassey,Fulham,Brighton,2024-03-02,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.0,0,1,0,1.17,1,0.2,3.4,0.03,48.48,0.17,0,0,0,0,2.0,Fulham,False,Wolverhampton,,-0.52
+Calvin Bassey,Fulham,Wolverhampton,2024-03-09,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.6,1,0,2,0.83,1,0.29,3.8,0.03,49.96,0.16,0,0,0,0,6.0,Fulham,True,Tottenham,,0.69
+Calvin Bassey,Fulham,Tottenham,2024-03-16,True,90,0.0,0.13,0.0,0.0,6,1.0,0.0,1.7,0,1,0,2.37,1,1.52,5.0,0.06,51.34,0.2,0,0,0,0,0.0,Fulham,False,Sheffield,,-0.61
+Calvin Bassey,Fulham,Sheffield,2024-03-30,False,90,0.0,0.02,0.0,0.0,0,1.0,0.0,2.4,0,0,3,1.87,1,0.54,4.8,0.06,52.63,0.19,0,0,0,0,1.0,Fulham,False,Nottingham Forest,,-0.55
+Calvin Bassey,Fulham,Nottingham Forest,2024-04-02,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.3,0,0,3,1.51,1,0.52,3.0,0.03,53.84,0.18,0,0,0,0,2.0,Fulham,True,Newcastle United,,0.55
+Calvin Bassey,Fulham,Newcastle United,2024-04-06,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,0.59,1,0.49,2.2,0.03,54.97,0.17,0,0,0,0,7.0,Fulham,False,West Ham,,-0.22
+Calvin Bassey,Fulham,West Ham,2024-04-14,False,90,0.0,0.0,0.0,0.0,7,0.0,0.0,2.9,1,1,0,0.93,1,0.46,3.2,0.03,56.03,0.21,0,0,0,0,1.0,Fulham,True,Liverpool,,0.18
+Calvin Bassey,Fulham,Liverpool,2024-04-21,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,3,1.02,1,0.44,2.2,0.0,57.03,0.2,0,0,0,0,2.0,Fulham,True,Crystal Palace,,0.88
+Calvin Bassey,Fulham,Crystal Palace,2024-04-27,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.5,0,0,1,1.01,1,0.44,2.6,0.0,57.97,0.19,0,0,0,0,5.0,Fulham,False,Brentford,,-0.53
+Calvin Bassey,Fulham,Brentford,2024-05-04,False,90,0.0,0.0,0.0,0.0,5,0.0,0.0,2.3,0,1,0,0.63,1,0.44,3.4,0.0,58.86,0.22,0,0,0,0,0.0,Fulham,True,Manchester City,,-0.96
+Calvin Bassey,Fulham,Manchester City,2024-05-11,True,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.3,0,0,4,3.25,1,0.41,3.0,0.0,59.7,0.21,0,0,0,0,1.0,Fulham,False,Luton,,
+Calvin Bassey,Fulham,Luton,2024-05-19,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,2,2.11,1,0.41,1.8,0.0,60.5,0.21,0,0,0,0,1.0,Fulham,False,Manchester United,,-0.63

@@ -3,12 +3,12 @@ import numpy as np
 import pandas as pd
 import argparse
 
-from prediction_data.add_prices import add_price_to_prediction_data;
-from prediction_data.predict_gw import predict_gw; 
-from prediction_data.reformat import merge_player_weeks;
-from prediction_data.consolidate import combine_csv_files; 
+from app.services.player_scripts.prediction_data.add_prices import add_price_to_prediction_data;
+from app.services.player_scripts.prediction_data.predict_gw import predict_gw; 
+from app.services.player_scripts.prediction_data.reformat import merge_player_weeks;
+from app.services.player_scripts.prediction_data.consolidate import combine_csv_files; 
 
-from prediction_data.predict_gw import engineer_features
+from app.services.player_scripts.prediction_data.predict_gw import engineer_features
 
 def create_prediction_data(base_dir, prediction_dir, gw_folder_name, season='2024-25'):
     positions_mapping = {
@@ -81,7 +81,12 @@ def create_prediction_data(base_dir, prediction_dir, gw_folder_name, season='202
 
             # Keep only the last three rows for prediction data
             if len(df) >= 3:
+                # Initialize last_three_rows DataFrame
                 last_three_rows = df.iloc[-3:].copy()
+
+                # Base the last two rows entirely on the third-to-last row
+                base_row = df.iloc[-3]
+
                 exclude_cols = (
                     [f'next_week_{difficulty}_3g_avg' for difficulty in ['specific_fixture_difficulty', 'holistic_fixture_difficulty']] +
                     [f'next_week_{difficulty}_5g_avg' for difficulty in ['specific_fixture_difficulty', 'holistic_fixture_difficulty']] +
@@ -106,13 +111,30 @@ def create_prediction_data(base_dir, prediction_dir, gw_folder_name, season='202
                     ]
                 )
 
-                for col in last_three_rows.columns:
-                    if col == 'name':
-                        last_three_rows.iloc[-2, last_three_rows.columns.get_loc(col)] = last_three_rows.iloc[-3][col]
-                        last_three_rows.iloc[-1, last_three_rows.columns.get_loc(col)] = last_three_rows.iloc[-3][col]
-                    elif col not in exclude_cols:
-                        last_three_rows.iloc[-2, last_three_rows.columns.get_loc(col)] = last_three_rows.iloc[-3][col]
-                        last_three_rows.iloc[-1, last_three_rows.columns.get_loc(col)] = last_three_rows.iloc[-3][col]
+                # Update the last two rows based on the base_row with manual overrides
+                for idx in [-2, -1]:
+                    for col in last_three_rows.columns:
+                        if col in exclude_cols:
+                            continue
+                        last_three_rows.iloc[idx, last_three_rows.columns.get_loc(col)] = base_row[col]
+
+                for idx in [-3, -2, -1]:
+                    # Override stats if selected percentage is > 2.5
+                    if base_row.get('selected', 0) > 2.5:
+                        if 'minutes' in last_three_rows.columns:
+                            last_three_rows.iloc[idx, last_three_rows.columns.get_loc('minutes')] = max(75, base_row.get('minutes', 0))
+                        if 'recent_minutes_3g' in last_three_rows.columns:
+                            last_three_rows.iloc[idx, last_three_rows.columns.get_loc('recent_minutes_3g')] = max(75, base_row.get('recent_minutes_3g', 0))
+                        if 'recent_minutes_5g' in last_three_rows.columns:
+                            last_three_rows.iloc[idx, last_three_rows.columns.get_loc('recent_minutes_5g')] = max(75, base_row.get('recent_minutes_5g', 0))
+                        if 'starts' in last_three_rows.columns:
+                            if last_three_rows['starts'].dtype == 'float64':
+                                last_three_rows.iloc[idx, last_three_rows.columns.get_loc('starts')] = 1.0
+                            else:
+                                last_three_rows.iloc[idx, last_three_rows.columns.get_loc('starts')] = True
+                        if 'minutes_per_game' in last_three_rows.columns:
+                            last_three_rows.iloc[idx, last_three_rows.columns.get_loc('minutes_per_game')] = max(75, base_row.get('recent_minutes_5g', 0))
+
 
                 # Calculate next_week difficulty stats for the last two rows
                 for difficulty in ['specific_fixture_difficulty', 'holistic_fixture_difficulty']:
@@ -127,38 +149,34 @@ def create_prediction_data(base_dir, prediction_dir, gw_folder_name, season='202
                         for idx in [-2, -1]:  # Only update for the last two rows
                             base_value = last_three_rows.iloc[idx][f'next_week_{difficulty}']
 
-                            # Determine the previous row based on the current row's index
-                            if idx == -2:
-                                # For second-to-last row, use the row before it
-                                previous_row = last_three_rows.iloc[idx - 1] if idx > -len(last_three_rows) else None
-                                divisor_3g, divisor_5g = 4, 6
-                            else:
-                                # For last row, use the second-to-last row
-                                previous_row = last_three_rows.iloc[-2]
-                                divisor_3g, divisor_5g = 5, 7
-
                             if pd.notna(base_value):  # Only calculate if the base value exists
-                                # Include the previous row's value if it exists
-                                additional_value = previous_row[f'next_week_{difficulty}'] if previous_row is not None and pd.notna(previous_row[f'next_week_{difficulty}']) else 0
+                                # Define divisors for 3g and 5g averages based on the row index
+                                if idx == -2:
+                                    divisor_3g, divisor_5g = 4, 6  # Divisors for the second-to-last row
+                                else:
+                                    divisor_3g, divisor_5g = 5, 7  # Divisors for the last row
+
+                                # Fetch the additional values (averages) from the row above
+                                additional_value_3g = last_three_rows.iloc[idx - 1][col_3g_avg] if idx - 1 >= 0 and pd.notna(last_three_rows.iloc[idx - 1][col_3g_avg]) else 0
+                                additional_value_5g = last_three_rows.iloc[idx - 1][col_5g_avg] if idx - 1 >= 0 and pd.notna(last_three_rows.iloc[idx - 1][col_5g_avg]) else 0
 
                                 # Calculate 3g_avg and 5g_avg
-                                last_three_rows.iloc[idx, last_three_rows.columns.get_loc(col_3g_avg)] = (base_value + additional_value) / divisor_3g
-                                last_three_rows.iloc[idx, last_three_rows.columns.get_loc(col_5g_avg)] = (base_value + additional_value) / divisor_5g
+                                last_three_rows.iloc[idx, last_three_rows.columns.get_loc(col_3g_avg)] = (base_value + additional_value_3g) / divisor_3g
+                                last_three_rows.iloc[idx, last_three_rows.columns.get_loc(col_5g_avg)] = (base_value + additional_value_5g) / divisor_5g
 
-                                # Calculate ema (using exponential smoothing similar to engineer_features)
-                                smoothing_factor = 2 / (divisor_3g + 1)  # Slightly adjusted for 3g divisor
-                                previous_ema = previous_row[col_ema] if previous_row is not None and pd.notna(previous_row[col_ema]) else 0
+                                # Calculate ema (using exponential smoothing)
+                                smoothing_factor = 2 / (divisor_3g + 1)  # Smoothing factor depends on divisor_3g
+                                previous_ema = last_three_rows.iloc[idx - 1][col_ema] if idx - 1 >= 0 and pd.notna(last_three_rows.iloc[idx - 1][col_ema]) else 0
                                 ema_value = (base_value * smoothing_factor) + (previous_ema * (1 - smoothing_factor))
                                 last_three_rows.iloc[idx, last_three_rows.columns.get_loc(col_ema)] = ema_value
 
                                 # Calculate momentum (difference from averages)
                                 last_three_rows.iloc[idx, last_three_rows.columns.get_loc(col_momentum_3g)] = base_value - last_three_rows.iloc[idx, last_three_rows.columns.get_loc(col_3g_avg)]
-                                last_three_rows.iloc[idx, last_three_rows.columns.get_loc(col_momentum_5g)] = base_value - last_three_rows.iloc[idx, last_three_rows.columns.get_loc(col_5g_avg)]
+                                last_three_rows.iloc[idx, last_three_rows.columns.get_loc(col_momentum_5g)] = base_value - last_three_rows.iloc[idx, last_three_rows.columns.get_loc(col_5g_avg)]       
 
-
-                                # Append the updated rows back to the position DataFrame
+                # Append the last three rows to the position DataFrame
                 position_dfs[position] = pd.concat([position_dfs[position], last_three_rows])
-
+        
     # Save processed prediction data
     prediction_season_dir = os.path.join(prediction_dir, '2024-25', gw_folder_name)
     os.makedirs(prediction_season_dir, exist_ok=True)
@@ -192,6 +210,7 @@ def main_create_prediction(gw_folder_name, seasons=['2024-25']):
     merge_player_weeks(f'{GW_DIR}{gw_folder_name}/gk.csv', f'{GW_DIR}{gw_folder_name}/GK.csv')
     merge_player_weeks(f'{GW_DIR}{gw_folder_name}/mid.csv', f'{GW_DIR}{gw_folder_name}/MID.csv')
     merge_player_weeks(f'{GW_DIR}{gw_folder_name}/fwd.csv', f'{GW_DIR}{gw_folder_name}/FWD.csv')
+    
 
     combine_csv_files(gw_folder_name)
     

@@ -1,15 +1,15 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Simon Adingra,Brighton,Everton,2024-08-17,False,45.0,1.0,0.21,0.0,0.0,6.0,2.0,0.0,7.2,0.0,0.0,42304.0,6.0,0.21,45.0,6.0,1.0,5.09,3.29,0.04,4.0,Brighton,True,Manchester United,,0.39
-Simon Adingra,Brighton,Manchester United,2024-08-24,True,1.0,0.0,0.05,1.0,0.44,4.0,1.0,1.0,3.5,0.0,0.0,78578.0,5.0,0.63,23.0,6.0,1.0,5.09,3.29,0.04,1.0,Brighton,False,Arsenal,,-0.56
-Simon Adingra,Brighton,Arsenal,2024-08-31,False,5.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,0.0,0.0,95769.0,3.67,0.42,17.0,6.0,1.0,5.09,3.29,0.04,1.0,Brighton,True,Ipswich Town,,
-Simon Adingra,Brighton,Ipswich Town,2024-09-14,True,22.0,0.0,0.08,0.0,0.0,1.0,1.0,0.0,0.8,0.0,0.0,104017.0,3.0,0.34,18.25,6.0,1.0,5.09,3.29,0.04,2.0,Brighton,True,Nottingham Forest,,1.2
-Simon Adingra,Brighton,Nottingham Forest,2024-09-22,True,61.0,0.0,0.07,0.0,0.03,2.0,1.0,1.0,2.4,0.0,1.0,94940.0,2.8,0.28,26.8,6.0,1.0,5.09,3.29,0.04,0.0,Brighton,False,Chelsea,,-0.9
-Simon Adingra,Brighton,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,80778.0,1.6,0.24,22.33,6.0,1.0,5.09,3.29,0.04,0.0,Brighton,True,Tottenham,,0.74
-Simon Adingra,Brighton,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,59222.0,0.8,0.03,19.14,6.0,1.0,5.09,3.29,0.04,0.0,Brighton,False,Newcastle United,,-0.44
-Simon Adingra,Brighton,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,50281.0,0.6,0.03,16.75,6.0,1.0,5.09,3.29,0.04,0.0,Brighton,True,Wolverhampton,,-0.08
-Simon Adingra,Brighton,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,48168.0,0.4,0.01,14.89,6.0,1.0,5.09,3.29,0.04,1.0,Brighton,False,Liverpool,,-1.08
-Simon Adingra,Brighton,Liverpool,2024-11-02,False,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.4,0.0,0.0,45056.0,0.2,0.0,13.7,6.0,1.0,5.09,3.29,0.04,2.0,Brighton,True,Manchester City,,-1.18
-Simon Adingra,Brighton,Manchester City,2024-11-09,True,64.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.6,0.0,1.0,42932.0,0.6,0.0,18.27,6.0,1.0,5.09,3.29,0.04,1.0,Brighton,False,Bournemouth,,-0.04
-Simon Adingra,Brighton,Bournemouth,2024-11-23,False,26.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.6,0.0,0.0,42846.0,0.8,0.0,18.92,6.0,1.0,5.09,3.29,0.04,,Brighton,True,Southampton,,0.24
+Simon Adingra,Brighton,Everton,2024-08-17,False,45.0,1.0,0.21,0.0,0.0,6.0,2.0,0.0,7.2,0.0,0.0,0.39,6.0,0.21,45.0,6.0,1.0,5.09,3.29,0.04,4.0,Brighton,True,Manchester United,,0.39
+Simon Adingra,Brighton,Manchester United,2024-08-24,True,1.0,0.0,0.05,1.0,0.44,4.0,1.0,1.0,3.5,0.0,0.0,0.73,5.0,0.63,23.0,6.0,1.0,5.09,3.29,0.04,1.0,Brighton,False,Arsenal,,-0.56
+Simon Adingra,Brighton,Arsenal,2024-08-31,False,5.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,0.0,0.0,0.88,3.67,0.42,17.0,6.0,1.0,5.09,3.29,0.04,1.0,Brighton,True,Ipswich Town,,
+Simon Adingra,Brighton,Ipswich Town,2024-09-14,True,22.0,0.0,0.08,0.0,0.0,1.0,1.0,0.0,0.8,0.0,0.0,0.96,3.0,0.34,18.25,6.0,1.0,5.09,3.29,0.04,2.0,Brighton,True,Nottingham Forest,,1.2
+Simon Adingra,Brighton,Nottingham Forest,2024-09-22,True,61.0,0.0,0.07,0.0,0.03,2.0,1.0,1.0,2.4,0.0,1.0,0.88,2.8,0.28,26.8,6.0,1.0,5.09,3.29,0.04,0.0,Brighton,False,Chelsea,,-0.9
+Simon Adingra,Brighton,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.75,1.6,0.24,22.33,6.0,1.0,5.09,3.29,0.04,0.0,Brighton,True,Tottenham,,0.74
+Simon Adingra,Brighton,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.55,0.8,0.03,19.14,6.0,1.0,5.09,3.29,0.04,0.0,Brighton,False,Newcastle United,,-0.44
+Simon Adingra,Brighton,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.46,0.6,0.03,16.75,6.0,1.0,5.09,3.29,0.04,0.0,Brighton,True,Wolverhampton,,-0.08
+Simon Adingra,Brighton,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.44,0.4,0.01,14.89,6.0,1.0,5.09,3.29,0.04,1.0,Brighton,False,Liverpool,,-1.08
+Simon Adingra,Brighton,Liverpool,2024-11-02,False,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.4,0.0,0.0,0.42,0.2,0.0,13.7,6.0,1.0,5.09,3.29,0.04,2.0,Brighton,True,Manchester City,,-1.18
+Simon Adingra,Brighton,Manchester City,2024-11-09,True,64.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.6,0.0,1.0,0.4,0.6,0.0,18.27,6.0,1.0,5.09,3.29,0.04,1.0,Brighton,False,Bournemouth,,-0.04
+Simon Adingra,Brighton,Bournemouth,2024-11-23,False,26.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.6,0.0,0.0,0.4,0.8,0.0,18.92,6.0,1.0,5.09,3.29,0.04,,Brighton,True,Southampton,,0.24
 ,Brighton,,,,,,,,,,,,,,,,,,,,,,,,,Brighton,False,Fulham,,0.53
 ,Brighton,,,,,,,,,,,,,,,,,,,,,,,,,Brighton,False,Leicester City,,-0.22

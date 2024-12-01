@@ -1,13 +1,13 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Justin Devenny,Crystal Palace,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace,True,Leicester City,,0.47
-Justin Devenny,Crystal Palace,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,531.0,0.0,0.0,0.0,0.0,Crystal Palace,True,Manchester United,,0.39
-Justin Devenny,Crystal Palace,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,718.0,0.0,0.0,0.0,0.0,Crystal Palace,False,Everton,,-0.39
-Justin Devenny,Crystal Palace,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,813.0,0.0,0.0,0.0,0.0,Crystal Palace,True,Liverpool,,0.24
-Justin Devenny,Crystal Palace,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,930.0,0.0,0.0,0.0,0.0,Crystal Palace,False,Nottingham Forest,,-0.54
-Justin Devenny,Crystal Palace,Nottingham Forest,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1005.0,0.0,0.0,0.0,0.0,Crystal Palace,True,Tottenham,,0.74
-Justin Devenny,Crystal Palace,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1030.0,0.0,0.0,0.0,0.0,Crystal Palace,False,Wolverhampton,,-0.53
-Justin Devenny,Crystal Palace,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1071.0,0.0,0.0,0.0,2.0,Crystal Palace,True,Fulham,,0.27
-Justin Devenny,Crystal Palace,Fulham,2024-11-09,True,73.0,0.0,0.04,0.0,0.29,2.0,1.0,2.0,3.7,0.0,1.0,1085.0,0.4,0.01,8.11,8.0,Crystal Palace,False,Aston Villa,,0.11
-Justin Devenny,Crystal Palace,Aston Villa,2024-11-23,False,73.0,1.0,0.52,0.0,0.0,8.0,2.0,0.0,5.5,1.0,1.0,1449.0,2.0,0.11,14.6,,Crystal Palace,True,Newcastle United,,0.67
-,Crystal Palace,,,,,,,,,,,,,,,,,,,,Crystal Palace,False,Ipswich Town,,
-,Crystal Palace,,,,,,,,,,,,,,,,,,,,Crystal Palace,True,Manchester City,,-1.18
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Justin Devenny,Crystal Palace,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace,True,Leicester City,,0.47
+Justin Devenny,Crystal Palace,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace,True,Manchester United,,0.39
+Justin Devenny,Crystal Palace,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace,False,Everton,,-0.39
+Justin Devenny,Crystal Palace,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace,True,Liverpool,,0.24
+Justin Devenny,Crystal Palace,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace,False,Nottingham Forest,,-0.54
+Justin Devenny,Crystal Palace,Nottingham Forest,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace,True,Tottenham,,0.74
+Justin Devenny,Crystal Palace,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace,False,Wolverhampton,,-0.53
+Justin Devenny,Crystal Palace,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,Crystal Palace,True,Fulham,,0.27
+Justin Devenny,Crystal Palace,Fulham,2024-11-09,True,73.0,0.0,0.04,0.0,0.29,2.0,1.0,2.0,3.7,0.0,1.0,0.01,0.4,0.01,8.11,0.0,0.0,0.0,0.0,0.0,8.0,Crystal Palace,False,Aston Villa,,0.11
+Justin Devenny,Crystal Palace,Aston Villa,2024-11-23,False,73.0,1.0,0.52,0.0,0.0,8.0,2.0,0.0,5.5,1.0,1.0,0.01,2.0,0.11,14.6,0.0,0.0,0.0,0.0,0.0,,Crystal Palace,True,Newcastle United,,0.67
+,Crystal Palace,,,,,,,,,,,,,,,,,,,,,,,,,Crystal Palace,False,Ipswich Town,,
+,Crystal Palace,,,,,,,,,,,,,,,,,,,,,,,,,Crystal Palace,True,Manchester City,,-1.18

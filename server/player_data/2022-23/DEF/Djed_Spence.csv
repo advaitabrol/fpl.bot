@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Djed Spence,Spurs,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,56013,0.0,0.0,0.0,0.0,0.0,Spurs,False,Chelsea,,-0.72
-Djed Spence,Spurs,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,49980,0.0,0.0,0.0,0.0,0.0,Spurs,True,Wolverhampton,,-0.48
-Djed Spence,Spurs,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,43077,0.0,0.0,0.0,0.0,1.0,Spurs,False,Nottingham Forest,,
-Djed Spence,Spurs,Nottingham Forest,2022-08-28,False,1,0.0,0.11,0.0,0.0,1,1.0,0.0,1.8,0,0,0,0.0,0,36287,0.25,0.03,0.25,0.0,0.0,Spurs,False,West Ham,,0.14
-Djed Spence,Spurs,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,33759,0.2,0.02,0.2,0.0,0.0,Spurs,True,Fulham,,-0.3
-Djed Spence,Spurs,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,31309,0.2,0.02,0.17,0.0,0.0,Spurs,True,Leeds United,,-0.79
-Djed Spence,Spurs,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,28904,0.2,0.02,0.14,0.0,0.0,Spurs,False,Arsenal,,-0.0
-Djed Spence,Spurs,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,28276,0.2,0.02,0.12,0.0,0.0,Spurs,False,Brighton,,-0.39
-Djed Spence,Spurs,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,28083,0.0,0.0,0.11,0.0,1.0,Spurs,True,Everton,,0.34
-Djed Spence,Spurs,Everton,2022-10-15,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,27384,0.2,0.0,0.2,0.0,1.0,Spurs,False,Manchester United,,-0.1
-Djed Spence,Spurs,Manchester United,2022-10-19,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,0,26559,0.4,0.0,0.27,0.0,0.0,Spurs,True,Newcastle United,,0.73
-Djed Spence,Spurs,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,26438,0.4,0.0,0.25,0.0,0.0,Spurs,False,Bournemouth,,0.19
-Djed Spence,Spurs,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,26055,0.4,0.0,0.23,0.0,0.0,Spurs,True,Liverpool,,-0.53
-Djed Spence,Spurs,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,25684,0.4,0.0,0.21,0.0,0.0,Spurs,True,Leicester City,,0.83
-Djed Spence,Spurs,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,25836,0.2,0.0,0.2,0.0,0.0,Spurs,False,Brentford,,-0.55
-Djed Spence,Spurs,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,23807,0.0,0.0,0.19,0.0,1.0,Spurs,True,Aston Villa,,0.55
-Djed Spence,Spurs,Aston Villa,2023-01-01,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.18,0,23052,0.2,0.0,0.29,0.0,0.0,Spurs,False,Crystal Palace,,0.13
-Djed Spence,Spurs,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,22915,0.2,0.0,0.28,0.0,0.0,Spurs,True,Arsenal,,0.36
-Djed Spence,Spurs,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,23141,0.2,0.0,0.26,0.0,0.0,Spurs,False,Manchester City,,-1.26
-Djed Spence,Spurs,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,23141,0.2,0.0,0.25,0.0,0.0,Spurs,False,Fulham,,1.37
-Djed Spence,Spurs,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,22936,0.2,0.0,0.24,0.0,0.0,Spurs,True,Manchester City,,-1.17
-Djed Spence,Spurs,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,22172,0.0,0.0,0.23,0.0,0.0,Spurs,False,Leeds United,,-0.8
-Djed Spence,Spurs,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,21271,0.0,0.0,0.22,0.0,0.0,Spurs,True,West Ham,,0.63
-Djed Spence,Spurs,West Ham,2023-02-19,True,0,0.0,0.09,0.0,0.1,0,1.0,1.0,0.0,0,0,0,0.0,0,20708,0.0,0.02,0.21,0.0,0.0,Spurs,True,Chelsea,,-0.25
-Djed Spence,Spurs,Chelsea,2023-02-26,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,20109,0.0,0.02,0.2,0.0,0.0,Spurs,False,Wolverhampton,,-0.46
-Djed Spence,Spurs,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,19862,0.0,0.02,0.19,0.0,0.0,Spurs,True,Nottingham Forest,,
-Djed Spence,Spurs,Nottingham Forest,2023-03-11,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,19597,0.0,0.02,0.19,0.0,0.0,Spurs,False,Southampton,,-1.07
-Djed Spence,Spurs,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,19398,0.0,0.02,0.18,0.0,0.0,Spurs,False,Everton,,-0.63
-Djed Spence,Spurs,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,19214,0.0,0.0,0.17,0.0,0.0,Spurs,True,Brighton,,-0.71
-Djed Spence,Spurs,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,19094,0.0,0.0,0.17,0.0,0.0,Spurs,True,Bournemouth,,1.46
-Djed Spence,Spurs,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,18997,0.0,0.0,0.16,0.0,0.0,Spurs,False,Newcastle United,,-0.34
-Djed Spence,Spurs,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,18917,0.0,0.0,0.16,0.0,0.0,Spurs,True,Manchester United,,0.38
-Djed Spence,Spurs,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,18867,0.0,0.0,0.15,0.0,0.0,Spurs,False,Liverpool,,-1.33
-Djed Spence,Spurs,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,18782,0.0,0.0,0.15,0.0,0.0,Spurs,True,Crystal Palace,,0.81
-Djed Spence,Spurs,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,18691,0.0,0.0,0.14,0.0,0.0,Spurs,False,Aston Villa,,0.59
-Djed Spence,Spurs,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,18625,0.0,0.0,0.14,0.0,0.0,Spurs,True,Brentford,,0.69
-Djed Spence,Spurs,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,18558,0.0,0.0,0.14,0.0,0.0,Spurs,False,Leicester City,,-0.05
-Djed Spence,Spurs,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,18511,0.0,0.0,0.13,0.0,,Spurs,False,Brentford,,-0.55
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Djed Spence,Spurs,Southampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.52,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Spurs,False,Chelsea,,-0.72
+Djed Spence,Spurs,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.46,0.0,0.0,0.0,0.0,0,0,0,0,0.0,Spurs,True,Wolverhampton,,-0.48
+Djed Spence,Spurs,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,0.0,0.0,0.0,0,0,0,0,1.0,Spurs,False,Nottingham Forest,,
+Djed Spence,Spurs,Nottingham Forest,2022-08-28,False,1,0.0,0.11,0.0,0.0,1,1.0,0.0,1.8,0,0,0,0.0,0,0.34,0.25,0.03,0.25,0.0,0,0,0,0,0.0,Spurs,False,West Ham,,0.14
+Djed Spence,Spurs,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.31,0.2,0.02,0.2,0.0,0,0,0,0,0.0,Spurs,True,Fulham,,-0.3
+Djed Spence,Spurs,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.29,0.2,0.02,0.17,0.0,0,0,0,0,0.0,Spurs,True,Leeds United,,-0.79
+Djed Spence,Spurs,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.27,0.2,0.02,0.14,0.0,0,0,0,0,0.0,Spurs,False,Arsenal,,-0.0
+Djed Spence,Spurs,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.26,0.2,0.02,0.12,0.0,0,0,0,0,0.0,Spurs,False,Brighton,,-0.39
+Djed Spence,Spurs,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.26,0.0,0.0,0.11,0.0,0,0,0,0,1.0,Spurs,True,Everton,,0.34
+Djed Spence,Spurs,Everton,2022-10-15,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,0.25,0.2,0.0,0.2,0.0,0,0,0,0,1.0,Spurs,False,Manchester United,,-0.1
+Djed Spence,Spurs,Manchester United,2022-10-19,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0,0.0,0,0.25,0.4,0.0,0.27,0.0,0,0,0,0,0.0,Spurs,True,Newcastle United,,0.73
+Djed Spence,Spurs,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.24,0.4,0.0,0.25,0.0,0,0,0,0,0.0,Spurs,False,Bournemouth,,0.19
+Djed Spence,Spurs,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.24,0.4,0.0,0.23,0.0,0,0,0,0,0.0,Spurs,True,Liverpool,,-0.53
+Djed Spence,Spurs,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.24,0.4,0.0,0.21,0.0,0,0,0,0,0.0,Spurs,True,Leicester City,,0.83
+Djed Spence,Spurs,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.24,0.2,0.0,0.2,0.0,0,0,0,0,0.0,Spurs,False,Brentford,,-0.55
+Djed Spence,Spurs,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.22,0.0,0.0,0.19,0.0,0,0,0,0,1.0,Spurs,True,Aston Villa,,0.55
+Djed Spence,Spurs,Aston Villa,2023-01-01,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.18,0,0.21,0.2,0.0,0.29,0.0,0,0,0,0,0.0,Spurs,False,Crystal Palace,,0.13
+Djed Spence,Spurs,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.21,0.2,0.0,0.28,0.0,0,0,0,0,0.0,Spurs,True,Arsenal,,0.36
+Djed Spence,Spurs,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.21,0.2,0.0,0.26,0.0,0,0,0,0,0.0,Spurs,False,Manchester City,,-1.26
+Djed Spence,Spurs,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.21,0.2,0.0,0.25,0.0,0,0,0,0,0.0,Spurs,False,Fulham,,1.37
+Djed Spence,Spurs,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.21,0.2,0.0,0.24,0.0,0,0,0,0,0.0,Spurs,True,Manchester City,,-1.17
+Djed Spence,Spurs,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,0.0,0.23,0.0,0,0,0,0,0.0,Spurs,False,Leeds United,,-0.8
+Djed Spence,Spurs,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,0.0,0.22,0.0,0,0,0,0,0.0,Spurs,True,West Ham,,0.63
+Djed Spence,Spurs,West Ham,2023-02-19,True,0,0.0,0.09,0.0,0.1,0,1.0,1.0,0.0,0,0,0,0.0,0,0.19,0.0,0.02,0.21,0.0,0,0,0,0,0.0,Spurs,True,Chelsea,,-0.25
+Djed Spence,Spurs,Chelsea,2023-02-26,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.19,0.0,0.02,0.2,0.0,0,0,0,0,0.0,Spurs,False,Wolverhampton,,-0.46
+Djed Spence,Spurs,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.18,0.0,0.02,0.19,0.0,0,0,0,0,0.0,Spurs,True,Nottingham Forest,,
+Djed Spence,Spurs,Nottingham Forest,2023-03-11,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.18,0.0,0.02,0.19,0.0,0,0,0,0,0.0,Spurs,False,Southampton,,-1.07
+Djed Spence,Spurs,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.18,0.0,0.02,0.18,0.0,0,0,0,0,0.0,Spurs,False,Everton,,-0.63
+Djed Spence,Spurs,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.18,0.0,0.0,0.17,0.0,0,0,0,0,0.0,Spurs,True,Brighton,,-0.71
+Djed Spence,Spurs,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.18,0.0,0.0,0.17,0.0,0,0,0,0,0.0,Spurs,True,Bournemouth,,1.46
+Djed Spence,Spurs,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.18,0.0,0.0,0.16,0.0,0,0,0,0,0.0,Spurs,False,Newcastle United,,-0.34
+Djed Spence,Spurs,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.17,0.0,0.0,0.16,0.0,0,0,0,0,0.0,Spurs,True,Manchester United,,0.38
+Djed Spence,Spurs,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.17,0.0,0.0,0.15,0.0,0,0,0,0,0.0,Spurs,False,Liverpool,,-1.33
+Djed Spence,Spurs,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.17,0.0,0.0,0.15,0.0,0,0,0,0,0.0,Spurs,True,Crystal Palace,,0.81
+Djed Spence,Spurs,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.17,0.0,0.0,0.14,0.0,0,0,0,0,0.0,Spurs,False,Aston Villa,,0.59
+Djed Spence,Spurs,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.17,0.0,0.0,0.14,0.0,0,0,0,0,0.0,Spurs,True,Brentford,,0.69
+Djed Spence,Spurs,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.17,0.0,0.0,0.14,0.0,0,0,0,0,0.0,Spurs,False,Leicester City,,-0.05
+Djed Spence,Spurs,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.17,0.0,0.0,0.13,0.0,0,0,0,0,,Spurs,False,Brentford,,-0.55

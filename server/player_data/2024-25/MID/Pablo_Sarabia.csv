@@ -1,13 +1,15 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Pablo Sarabia,Wolves,Arsenal,2024-08-17,False,6,0.0,0.04,0.0,0.0,1,1.0,0.0,2.6,0,0,20559,1.0,0.04,6.0,4.0,7.0,5.97,6.07,0.06,1.0,Wolves,True,Chelsea,,0.0
-Pablo Sarabia,Wolves,Chelsea,2024-08-25,True,22,0.0,0.01,0.0,0.0,1,1.0,0.0,2.9,0,0,19657,1.0,0.02,14.0,4.0,7.0,5.97,6.07,0.06,0.0,Wolves,False,Nottingham Forest,,-0.54
-Pablo Sarabia,Wolves,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,16910,0.67,0.02,9.33,4.0,7.0,5.97,6.07,0.06,0.0,Wolves,True,Newcastle United,,0.67
-Pablo Sarabia,Wolves,Newcastle United,,True,0,,,,,0,,,0.0,0,0,14103,0.5,0.01,7.0,4.0,7.0,5.97,6.07,0.06,0.0,Wolves,False,Aston Villa,,0.11
-Pablo Sarabia,Wolves,Aston Villa,,False,0,,,,,0,,,0.0,0,0,12844,0.4,0.01,5.6,4.0,7.0,5.97,6.07,0.06,0.0,Wolves,True,Liverpool,,0.24
-Pablo Sarabia,Wolves,Liverpool,,True,0,,,,,0,,,0.0,0,0,11471,0.2,0.0,4.67,4.0,7.0,5.97,6.07,0.06,0.0,Wolves,False,Brentford,,-0.15
-Pablo Sarabia,Wolves,Brentford,,False,0,,,,,0,,,0.0,0,0,10773,0.0,0.0,4.0,4.0,7.0,5.97,6.07,0.06,-1.0,Wolves,True,Manchester City,,-1.18
-Pablo Sarabia,Wolves,Manchester City,,True,0,,,,,-1,,,0.0,0,0,10205,-0.2,0.0,3.5,4.0,7.0,5.97,6.07,0.06,1.0,Wolves,False,Brighton,,-0.61
-Pablo Sarabia,Wolves,Brighton,2024-10-26,False,45,0.0,0.0,0.0,0.25,1,0.0,3.0,5.1,0,0,10047,0.0,0.0,8.11,4.0,7.0,5.97,6.07,0.06,2.0,Wolves,True,Crystal Palace,,0.88
-Pablo Sarabia,Wolves,Crystal Palace,2024-11-02,True,61,0.0,0.36,0.0,0.0,2,1.0,0.0,3.1,0,1,10174,0.4,0.07,13.4,4.0,7.0,5.97,6.07,0.06,6.0,Wolves,True,Southampton,,0.24
-Pablo Sarabia,Wolves,Southampton,2024-11-09,True,45,1.0,0.53,0.0,0.0,6,1.0,0.0,5.7,0,1,11397,1.6,0.18,16.27,4.0,7.0,5.97,6.07,0.06,0.0,Wolves,False,Fulham,,0.53
-Pablo Sarabia,Wolves,Fulham,,False,0,,,,,0,,,0.0,0,0,11222,1.6,0.18,14.92,4.0,7.0,5.97,6.07,0.06,,,,,,
+Pablo Sarabia,Wolves,Arsenal,2024-08-17,False,6.0,0.0,0.04,0.0,0.0,1.0,1.0,0.0,2.6,0.0,0.0,0.19,1.0,0.04,6.0,4.0,7.0,5.97,6.07,0.06,1.0,Wolves,True,Chelsea,,0.0
+Pablo Sarabia,Wolves,Chelsea,2024-08-25,True,22.0,0.0,0.01,0.0,0.0,1.0,1.0,0.0,2.9,0.0,0.0,0.18,1.0,0.02,14.0,4.0,7.0,5.97,6.07,0.06,0.0,Wolves,False,Nottingham Forest,,-0.54
+Pablo Sarabia,Wolves,Nottingham Forest,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.16,0.67,0.02,9.33,4.0,7.0,5.97,6.07,0.06,0.0,Wolves,True,Newcastle United,,0.67
+Pablo Sarabia,Wolves,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.13,0.5,0.01,7.0,4.0,7.0,5.97,6.07,0.06,0.0,Wolves,False,Aston Villa,,0.11
+Pablo Sarabia,Wolves,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.12,0.4,0.01,5.6,4.0,7.0,5.97,6.07,0.06,0.0,Wolves,True,Liverpool,,0.24
+Pablo Sarabia,Wolves,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.11,0.2,0.0,4.67,4.0,7.0,5.97,6.07,0.06,0.0,Wolves,False,Brentford,,-0.15
+Pablo Sarabia,Wolves,Brentford,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.1,0.0,0.0,4.0,4.0,7.0,5.97,6.07,0.06,-1.0,Wolves,True,Manchester City,,-1.18
+Pablo Sarabia,Wolves,Manchester City,,True,0.0,,,,,-1.0,,,0.0,0.0,0.0,0.09,-0.2,0.0,3.5,4.0,7.0,5.97,6.07,0.06,1.0,Wolves,False,Brighton,,-0.61
+Pablo Sarabia,Wolves,Brighton,2024-10-26,False,45.0,0.0,0.0,0.0,0.25,1.0,0.0,3.0,5.1,0.0,0.0,0.09,0.0,0.0,8.11,4.0,7.0,5.97,6.07,0.06,2.0,Wolves,True,Crystal Palace,,0.88
+Pablo Sarabia,Wolves,Crystal Palace,2024-11-02,True,61.0,0.0,0.36,0.0,0.0,2.0,1.0,0.0,3.1,0.0,1.0,0.09,0.4,0.07,13.4,4.0,7.0,5.97,6.07,0.06,6.0,Wolves,True,Southampton,,0.24
+Pablo Sarabia,Wolves,Southampton,2024-11-09,True,45.0,1.0,0.53,0.0,0.0,6.0,1.0,0.0,5.7,0.0,1.0,0.11,1.6,0.18,16.27,4.0,7.0,5.97,6.07,0.06,0.0,Wolves,False,Fulham,,0.53
+Pablo Sarabia,Wolves,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.1,1.6,0.18,14.92,4.0,7.0,5.97,6.07,0.06,,Wolves,True,Bournemouth,,0.84
+,Wolves,,,,,,,,,,,,,,,,,,,,,,,,,Wolves,False,Everton,,-0.39
+,Wolves,,,,,,,,,,,,,,,,,,,,,,,,,Wolves,False,West Ham,,-0.34

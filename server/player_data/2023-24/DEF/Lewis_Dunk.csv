@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Lewis Dunk,Brighton,Luton,2023-08-12,True,90,0.0,0.11,0.0,0.0,2,2.0,0.0,2.4,0,0,1,1.45,1,360947,2.0,0.11,90.0,0.0,2.02,0.86,0.33,31.89,2.0,Brighton,False,Wolverhampton,,-0.52
-Lewis Dunk,Brighton,Wolverhampton,2023-08-19,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,2.06,1,409437,2.0,0.06,90.0,0.0,2.02,0.86,0.33,31.89,1.0,Brighton,True,West Ham,,0.49
-Lewis Dunk,Brighton,West Ham,2023-08-26,True,90,0.0,0.18,0.0,0.03,1,5.0,1.0,7.6,0,0,3,3.33,1,396760,1.67,0.1,90.0,0.0,2.02,0.86,0.33,31.89,2.0,Brighton,True,Newcastle United,,0.55
-Lewis Dunk,Brighton,Newcastle United,2023-09-02,True,90,0.0,0.01,0.0,0.01,2,1.0,1.0,3.3,0,0,1,1.3,1,380390,1.75,0.08,90.0,0.0,2.02,0.86,0.33,31.89,2.0,Brighton,False,Manchester United,,-0.63
-Lewis Dunk,Brighton,Manchester United,2023-09-16,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,0.96,1,383682,1.8,0.06,90.0,0.0,2.02,0.86,0.33,31.89,1.0,Brighton,True,Bournemouth,,1.22
-Lewis Dunk,Brighton,Bournemouth,2023-09-24,True,90,0.0,0.15,0.0,0.0,1,2.0,0.0,3.8,0,0,1,1.37,1,373577,1.6,0.07,90.0,0.0,2.02,0.86,0.33,31.89,-2.0,Brighton,False,Aston Villa,,0.29
-Lewis Dunk,Brighton,Aston Villa,2023-09-30,False,90,0.0,0.0,0.0,0.0,-2,0.0,0.0,2.9,0,0,6,1.58,1,358030,0.8,0.07,90.0,0.0,2.02,0.86,0.33,31.89,8.0,Brighton,True,Liverpool,,0.18
-Lewis Dunk,Brighton,Liverpool,2023-10-08,True,90,1.0,0.71,0.0,0.07,8,3.0,1.0,10.9,1,0,2,2.49,1,344242,2.2,0.17,90.0,0.0,2.02,0.86,0.33,31.89,1.0,Brighton,False,Manchester City,,-1.32
-Lewis Dunk,Brighton,Manchester City,2023-10-21,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,2,0.75,1,368227,2.0,0.17,90.0,0.0,2.02,0.86,0.33,31.89,2.0,Brighton,True,Fulham,,-0.13
-Lewis Dunk,Brighton,Fulham,2023-10-29,True,90,0.0,0.09,0.0,0.0,2,1.0,0.0,3.1,0,0,1,0.71,1,397161,2.0,0.19,90.0,0.0,2.02,0.86,0.33,31.89,1.0,Brighton,False,Everton,,-0.24
-Lewis Dunk,Brighton,Everton,2023-11-04,False,90,0.0,0.15,0.0,0.0,1,1.0,0.0,4.5,0,0,1,0.71,1,438002,2.0,0.19,90.0,0.0,2.02,0.86,0.33,31.89,0.0,Brighton,True,Sheffield,,0.68
-Lewis Dunk,Brighton,Sheffield,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,424595,2.4,0.19,82.5,0.0,2.02,0.86,0.33,31.89,-2.0,Brighton,False,Nottingham Forest,,-0.55
-Lewis Dunk,Brighton,Nottingham Forest,2023-11-25,False,72,0.0,0.09,0.0,0.0,-2,2.0,0.0,3.7,0,0,2,2.55,1,374505,0.4,0.06,81.69,0.0,2.02,0.86,0.33,31.89,0.0,Brighton,False,Chelsea,,-0.85
-Lewis Dunk,Brighton,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,316942,0.2,0.06,75.86,0.0,2.02,0.86,0.33,31.89,0.0,Brighton,True,Brentford,,0.79
-Lewis Dunk,Brighton,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,294161,-0.2,0.05,70.8,0.0,2.02,0.86,0.33,31.89,2.0,Brighton,True,Burnley,,0.39
-Lewis Dunk,Brighton,Burnley,2023-12-09,True,84,0.0,0.0,0.0,0.1,2,0.0,2.0,4.8,0,0,1,0.94,1,306042,0.0,0.02,71.62,0.0,2.02,0.86,0.33,31.89,1.0,Brighton,False,Arsenal,,-0.48
-Lewis Dunk,Brighton,Arsenal,2023-12-17,False,90,0.0,0.01,0.0,0.0,1,1.0,0.0,3.9,0,0,2,2.26,1,299635,0.2,0.02,72.71,0.0,2.02,0.86,0.33,31.89,2.0,Brighton,False,Crystal Palace,,0.38
-Lewis Dunk,Brighton,Crystal Palace,2023-12-21,False,90,0.0,0.32,0.0,0.0,2,1.0,0.0,2.5,0,0,1,1.36,1,320068,1.0,0.07,73.67,0.0,2.02,0.86,0.33,31.89,0.0,Brighton,True,Tottenham,,0.69
-Lewis Dunk,Brighton,Tottenham,2023-12-28,True,90,0.0,0.3,0.0,0.0,0,3.0,0.0,7.2,0,0,2,2.48,1,312813,1.0,0.13,74.53,0.0,2.02,0.86,0.33,31.89,0.0,Brighton,False,West Ham,,-0.22
-Lewis Dunk,Brighton,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,287620,1.0,0.13,70.8,0.0,2.02,0.86,0.33,31.89,6.0,Brighton,True,Wolverhampton,,0.05
-Lewis Dunk,Brighton,Wolverhampton,2024-01-22,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.3,0,1,0,1.38,1,290073,1.8,0.13,71.71,0.06,2.02,0.86,0.33,31.89,0.0,Brighton,False,Luton,,
-Lewis Dunk,Brighton,Luton,2024-01-30,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,3.2,0,0,4,2.89,1,298940,1.6,0.13,72.55,0.06,2.02,0.86,0.33,31.89,9.0,Brighton,True,Crystal Palace,,0.88
-Lewis Dunk,Brighton,Crystal Palace,2024-02-03,True,90,1.0,0.35,0.0,0.18,9,1.0,2.0,11.2,1,0,1,0.32,1,294971,3.0,0.13,73.3,0.05,2.02,0.86,0.33,31.89,0.0,Brighton,False,Tottenham,,-0.36
-Lewis Dunk,Brighton,Tottenham,2024-02-10,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,0,0,2,1.6,1,308805,3.0,0.07,74.0,0.05,2.02,0.86,0.33,31.89,12.0,Brighton,False,Sheffield,,-0.61
-Lewis Dunk,Brighton,Sheffield,2024-02-18,False,90,0.0,0.12,1.0,0.61,12,2.0,2.0,9.5,3,1,0,0.58,1,316868,5.4,0.29,74.64,0.1,2.02,0.86,0.33,31.89,10.0,Brighton,True,Everton,,0.53
-Lewis Dunk,Brighton,Everton,2024-02-24,True,90,1.0,0.17,0.0,0.09,10,3.0,2.0,12.1,2,0,1,0.28,1,628412,6.2,0.33,75.23,0.09,2.02,0.86,0.33,31.89,0.0,Brighton,False,Fulham,,0.86
-Lewis Dunk,Brighton,Fulham,2024-03-02,False,58,0.0,0.02,0.0,0.0,0,1.0,0.0,3.9,0,0,2,0.62,1,637504,6.2,0.33,74.59,0.09,2.02,0.86,0.33,31.89,7.0,Brighton,True,Nottingham Forest,,1.55
-Lewis Dunk,Brighton,Nottingham Forest,2024-03-10,True,90,0.0,0.02,0.0,0.0,7,1.0,0.0,3.2,1,1,0,0.68,1,657085,5.8,0.27,75.14,0.12,2.02,0.86,0.33,31.89,1.0,Brighton,False,Liverpool,,-1.01
-Lewis Dunk,Brighton,Liverpool,2024-03-31,False,90,0.0,0.05,0.0,0.0,1,2.0,0.0,8.0,0,0,2,2.79,1,604854,6.0,0.28,75.66,0.12,2.02,0.86,0.33,31.89,7.0,Brighton,False,Brentford,,-0.53
-Lewis Dunk,Brighton,Brentford,2024-04-03,False,90,0.0,0.0,0.0,0.03,7,0.0,1.0,3.4,1,1,0,0.5,1,602767,5.0,0.05,76.13,0.15,2.02,0.86,0.33,31.89,1.0,Brighton,True,Arsenal,,-0.11
-Lewis Dunk,Brighton,Arsenal,2024-04-06,True,90,0.0,0.0,0.0,0.05,1,0.0,1.0,3.8,0,0,3,3.23,1,606479,3.2,0.02,76.58,0.15,2.02,0.86,0.33,31.89,3.0,Brighton,False,Burnley,,0.0
-Lewis Dunk,Brighton,Burnley,2024-04-13,False,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.5,1,0,1,1.7,1,628262,3.8,0.01,77.0,0.14,2.02,0.86,0.33,31.89,0.0,Brighton,True,Manchester City,,-0.96
-Lewis Dunk,Brighton,Manchester City,2024-04-25,True,90,0.0,0.08,0.0,0.0,0,1.0,0.0,3.6,0,0,4,1.3,1,583707,2.4,0.03,77.39,0.14,2.02,0.86,0.33,31.89,1.0,Brighton,False,Bournemouth,,0.19
-Lewis Dunk,Brighton,Bournemouth,2024-04-28,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,4.0,0,0,3,2.26,1,588322,2.4,0.02,77.76,0.13,2.02,0.86,0.33,31.89,7.0,Brighton,True,Aston Villa,,0.64
-Lewis Dunk,Brighton,Aston Villa,2024-05-05,True,90,0.0,0.0,0.0,0.0,7,0.0,0.0,1.6,1,1,0,0.06,1,595821,2.4,0.02,78.11,0.16,2.02,0.86,0.33,31.89,2.0,Brighton,False,Newcastle United,,-0.41
-Lewis Dunk,Brighton,Newcastle United,2024-05-11,False,90,0.0,0.04,0.0,0.0,2,1.0,0.0,1.9,0,0,1,2.27,1,716612,2.6,0.02,78.44,0.16,2.02,0.86,0.33,31.89,0.0,Brighton,True,Chelsea,,-0.25
-Lewis Dunk,Brighton,Chelsea,2024-05-15,True,45,0.0,0.0,0.0,0.0,0,0.0,0.0,1.1,0,0,1,1.0,1,716612,2.0,0.02,77.54,0.15,2.02,0.86,0.33,31.89,0.0,Brighton,True,Manchester United,,0.38
-Lewis Dunk,Brighton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,563756,2.0,0.01,75.5,0.15,2.02,0.86,0.33,31.89,,Brighton,False,Everton,,-0.24
+Lewis Dunk,Brighton,Luton,2023-08-12,True,90,0.0,0.11,0.0,0.0,2,2.0,0.0,2.4,0,0,1,1.45,1,3.33,2.0,0.11,90.0,0.0,2.02,0.86,0.33,31.89,2.0,Brighton,False,Wolverhampton,,-0.52
+Lewis Dunk,Brighton,Wolverhampton,2023-08-19,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,2.06,1,3.78,2.0,0.06,90.0,0.0,2.02,0.86,0.33,31.89,1.0,Brighton,True,West Ham,,0.49
+Lewis Dunk,Brighton,West Ham,2023-08-26,True,90,0.0,0.18,0.0,0.03,1,5.0,1.0,7.6,0,0,3,3.33,1,3.66,1.67,0.1,90.0,0.0,2.02,0.86,0.33,31.89,2.0,Brighton,True,Newcastle United,,0.55
+Lewis Dunk,Brighton,Newcastle United,2023-09-02,True,90,0.0,0.01,0.0,0.01,2,1.0,1.0,3.3,0,0,1,1.3,1,3.51,1.75,0.08,90.0,0.0,2.02,0.86,0.33,31.89,2.0,Brighton,False,Manchester United,,-0.63
+Lewis Dunk,Brighton,Manchester United,2023-09-16,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,0.96,1,3.54,1.8,0.06,90.0,0.0,2.02,0.86,0.33,31.89,1.0,Brighton,True,Bournemouth,,1.22
+Lewis Dunk,Brighton,Bournemouth,2023-09-24,True,90,0.0,0.15,0.0,0.0,1,2.0,0.0,3.8,0,0,1,1.37,1,3.45,1.6,0.07,90.0,0.0,2.02,0.86,0.33,31.89,-2.0,Brighton,False,Aston Villa,,0.29
+Lewis Dunk,Brighton,Aston Villa,2023-09-30,False,90,0.0,0.0,0.0,0.0,-2,0.0,0.0,2.9,0,0,6,1.58,1,3.31,0.8,0.07,90.0,0.0,2.02,0.86,0.33,31.89,8.0,Brighton,True,Liverpool,,0.18
+Lewis Dunk,Brighton,Liverpool,2023-10-08,True,90,1.0,0.71,0.0,0.07,8,3.0,1.0,10.9,1,0,2,2.49,1,3.18,2.2,0.17,90.0,0.0,2.02,0.86,0.33,31.89,1.0,Brighton,False,Manchester City,,-1.32
+Lewis Dunk,Brighton,Manchester City,2023-10-21,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.2,0,0,2,0.75,1,3.4,2.0,0.17,90.0,0.0,2.02,0.86,0.33,31.89,2.0,Brighton,True,Fulham,,-0.13
+Lewis Dunk,Brighton,Fulham,2023-10-29,True,90,0.0,0.09,0.0,0.0,2,1.0,0.0,3.1,0,0,1,0.71,1,3.67,2.0,0.19,90.0,0.0,2.02,0.86,0.33,31.89,1.0,Brighton,False,Everton,,-0.24
+Lewis Dunk,Brighton,Everton,2023-11-04,False,90,0.0,0.15,0.0,0.0,1,1.0,0.0,4.5,0,0,1,0.71,1,4.04,2.0,0.19,90.0,0.0,2.02,0.86,0.33,31.89,0.0,Brighton,True,Sheffield,,0.68
+Lewis Dunk,Brighton,Sheffield,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3.92,2.4,0.19,82.5,0.0,2.02,0.86,0.33,31.89,-2.0,Brighton,False,Nottingham Forest,,-0.55
+Lewis Dunk,Brighton,Nottingham Forest,2023-11-25,False,72,0.0,0.09,0.0,0.0,-2,2.0,0.0,3.7,0,0,2,2.55,1,3.46,0.4,0.06,81.69,0.0,2.02,0.86,0.33,31.89,0.0,Brighton,False,Chelsea,,-0.85
+Lewis Dunk,Brighton,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.93,0.2,0.06,75.86,0.0,2.02,0.86,0.33,31.89,0.0,Brighton,True,Brentford,,0.79
+Lewis Dunk,Brighton,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.72,-0.2,0.05,70.8,0.0,2.02,0.86,0.33,31.89,2.0,Brighton,True,Burnley,,0.39
+Lewis Dunk,Brighton,Burnley,2023-12-09,True,84,0.0,0.0,0.0,0.1,2,0.0,2.0,4.8,0,0,1,0.94,1,2.83,0.0,0.02,71.62,0.0,2.02,0.86,0.33,31.89,1.0,Brighton,False,Arsenal,,-0.48
+Lewis Dunk,Brighton,Arsenal,2023-12-17,False,90,0.0,0.01,0.0,0.0,1,1.0,0.0,3.9,0,0,2,2.26,1,2.77,0.2,0.02,72.71,0.0,2.02,0.86,0.33,31.89,2.0,Brighton,False,Crystal Palace,,0.38
+Lewis Dunk,Brighton,Crystal Palace,2023-12-21,False,90,0.0,0.32,0.0,0.0,2,1.0,0.0,2.5,0,0,1,1.36,1,2.95,1.0,0.07,73.67,0.0,2.02,0.86,0.33,31.89,0.0,Brighton,True,Tottenham,,0.69
+Lewis Dunk,Brighton,Tottenham,2023-12-28,True,90,0.0,0.3,0.0,0.0,0,3.0,0.0,7.2,0,0,2,2.48,1,2.89,1.0,0.13,74.53,0.0,2.02,0.86,0.33,31.89,0.0,Brighton,False,West Ham,,-0.22
+Lewis Dunk,Brighton,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.66,1.0,0.13,70.8,0.0,2.02,0.86,0.33,31.89,6.0,Brighton,True,Wolverhampton,,0.05
+Lewis Dunk,Brighton,Wolverhampton,2024-01-22,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.3,0,1,0,1.38,1,2.68,1.8,0.13,71.71,0.06,2.02,0.86,0.33,31.89,0.0,Brighton,False,Luton,,
+Lewis Dunk,Brighton,Luton,2024-01-30,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,3.2,0,0,4,2.89,1,2.76,1.6,0.13,72.55,0.06,2.02,0.86,0.33,31.89,9.0,Brighton,True,Crystal Palace,,0.88
+Lewis Dunk,Brighton,Crystal Palace,2024-02-03,True,90,1.0,0.35,0.0,0.18,9,1.0,2.0,11.2,1,0,1,0.32,1,2.72,3.0,0.13,73.3,0.05,2.02,0.86,0.33,31.89,0.0,Brighton,False,Tottenham,,-0.36
+Lewis Dunk,Brighton,Tottenham,2024-02-10,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,0,0,2,1.6,1,2.85,3.0,0.07,74.0,0.05,2.02,0.86,0.33,31.89,12.0,Brighton,False,Sheffield,,-0.61
+Lewis Dunk,Brighton,Sheffield,2024-02-18,False,90,0.0,0.12,1.0,0.61,12,2.0,2.0,9.5,3,1,0,0.58,1,2.93,5.4,0.29,74.64,0.1,2.02,0.86,0.33,31.89,10.0,Brighton,True,Everton,,0.53
+Lewis Dunk,Brighton,Everton,2024-02-24,True,90,1.0,0.17,0.0,0.09,10,3.0,2.0,12.1,2,0,1,0.28,1,5.8,6.2,0.33,75.23,0.09,2.02,0.86,0.33,31.89,0.0,Brighton,False,Fulham,,0.86
+Lewis Dunk,Brighton,Fulham,2024-03-02,False,58,0.0,0.02,0.0,0.0,0,1.0,0.0,3.9,0,0,2,0.62,1,5.89,6.2,0.33,74.59,0.09,2.02,0.86,0.33,31.89,7.0,Brighton,True,Nottingham Forest,,1.55
+Lewis Dunk,Brighton,Nottingham Forest,2024-03-10,True,90,0.0,0.02,0.0,0.0,7,1.0,0.0,3.2,1,1,0,0.68,1,6.07,5.8,0.27,75.14,0.12,2.02,0.86,0.33,31.89,1.0,Brighton,False,Liverpool,,-1.01
+Lewis Dunk,Brighton,Liverpool,2024-03-31,False,90,0.0,0.05,0.0,0.0,1,2.0,0.0,8.0,0,0,2,2.79,1,5.58,6.0,0.28,75.66,0.12,2.02,0.86,0.33,31.89,7.0,Brighton,False,Brentford,,-0.53
+Lewis Dunk,Brighton,Brentford,2024-04-03,False,90,0.0,0.0,0.0,0.03,7,0.0,1.0,3.4,1,1,0,0.5,1,5.56,5.0,0.05,76.13,0.15,2.02,0.86,0.33,31.89,1.0,Brighton,True,Arsenal,,-0.11
+Lewis Dunk,Brighton,Arsenal,2024-04-06,True,90,0.0,0.0,0.0,0.05,1,0.0,1.0,3.8,0,0,3,3.23,1,5.6,3.2,0.02,76.58,0.15,2.02,0.86,0.33,31.89,3.0,Brighton,False,Burnley,,0.0
+Lewis Dunk,Brighton,Burnley,2024-04-13,False,90,0.0,0.0,0.0,0.0,3,0.0,0.0,1.5,1,0,1,1.7,1,5.8,3.8,0.01,77.0,0.14,2.02,0.86,0.33,31.89,0.0,Brighton,True,Manchester City,,-0.96
+Lewis Dunk,Brighton,Manchester City,2024-04-25,True,90,0.0,0.08,0.0,0.0,0,1.0,0.0,3.6,0,0,4,1.3,1,5.39,2.4,0.03,77.39,0.14,2.02,0.86,0.33,31.89,1.0,Brighton,False,Bournemouth,,0.19
+Lewis Dunk,Brighton,Bournemouth,2024-04-28,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,4.0,0,0,3,2.26,1,5.43,2.4,0.02,77.76,0.13,2.02,0.86,0.33,31.89,7.0,Brighton,True,Aston Villa,,0.64
+Lewis Dunk,Brighton,Aston Villa,2024-05-05,True,90,0.0,0.0,0.0,0.0,7,0.0,0.0,1.6,1,1,0,0.06,1,5.5,2.4,0.02,78.11,0.16,2.02,0.86,0.33,31.89,2.0,Brighton,False,Newcastle United,,-0.41
+Lewis Dunk,Brighton,Newcastle United,2024-05-11,False,90,0.0,0.04,0.0,0.0,2,1.0,0.0,1.9,0,0,1,2.27,1,6.62,2.6,0.02,78.44,0.16,2.02,0.86,0.33,31.89,0.0,Brighton,True,Chelsea,,-0.25
+Lewis Dunk,Brighton,Chelsea,2024-05-15,True,45,0.0,0.0,0.0,0.0,0,0.0,0.0,1.1,0,0,1,1.0,1,6.62,2.0,0.02,77.54,0.15,2.02,0.86,0.33,31.89,0.0,Brighton,True,Manchester United,,0.38
+Lewis Dunk,Brighton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,5.2,2.0,0.01,75.5,0.15,2.02,0.86,0.33,31.89,,Brighton,False,Everton,,-0.24

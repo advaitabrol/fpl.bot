@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Joseph Gomez,Liverpool,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,19160,0.0,0.0,0.0,0.0,0.01,0.71,0.67,0,1.0,Liverpool,True,Crystal Palace,,0.81
-Joseph Gomez,Liverpool,Crystal Palace,2022-08-15,True,27,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,0,0.0,0,24045,0.5,0.0,13.5,0.0,0.01,0.71,0.67,0,1.0,Liverpool,False,Manchester United,,-0.1
-Joseph Gomez,Liverpool,Manchester United,2022-08-22,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.3,0,0,2,0.0,0,31060,0.67,0.0,39.0,0.0,0.01,0.71,0.67,0,6.0,Liverpool,True,Bournemouth,,1.46
-Joseph Gomez,Liverpool,Bournemouth,2022-08-27,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.0,0,1,0,0.0,0,44203,2.0,0.0,51.75,0.33,0.01,0.71,0.67,0,2.0,Liverpool,True,Newcastle United,,0.73
-Joseph Gomez,Liverpool,Newcastle United,2022-08-31,True,90,0.0,0.05,0.0,0.0,2,3.0,0.0,2.3,0,0,1,0.0,0,55644,2.0,0.01,59.4,0.25,0.01,0.71,0.67,0,9.0,Liverpool,False,Everton,,-0.63
-Joseph Gomez,Liverpool,Everton,2022-09-03,False,90,0.0,0.0,0.0,0.04,9,0.0,1.0,4.1,3,1,0,0.0,0,64759,3.8,0.01,64.5,0.4,0.01,0.71,0.67,0,0.0,Liverpool,True,Brighton,,-0.71
-Joseph Gomez,Liverpool,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,93297,3.6,0.01,55.29,0.4,0.01,0.71,0.67,0,0.0,Liverpool,False,Arsenal,,-0.0
-Joseph Gomez,Liverpool,Arsenal,2022-10-09,False,45,0.0,0.0,0.0,0.0,0,0.0,0.0,1.4,0,0,1,0.0,0,83744,3.4,0.01,54.0,0.33,0.01,0.71,0.67,0,8.0,Liverpool,True,Manchester City,,-1.17
-Joseph Gomez,Liverpool,Manchester City,2022-10-16,True,90,0.0,0.0,0.0,0.0,8,0.0,0.0,2.2,2,1,0,0.0,0,86368,3.8,0.01,58.0,0.43,0.01,0.71,0.67,0,6.0,Liverpool,True,West Ham,,0.63
-Joseph Gomez,Liverpool,West Ham,2022-10-19,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,0.5,0,1,0,0.0,0,234889,4.6,0.0,61.2,0.5,0.01,0.71,0.67,0,1.0,Liverpool,False,Nottingham Forest,,
-Joseph Gomez,Liverpool,Nottingham Forest,2022-10-22,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.5,0,0,1,0.0,0,330538,3.0,0.0,63.82,0.44,0.01,0.71,0.67,0,1.0,Liverpool,True,Leicester City,,0.83
-Joseph Gomez,Liverpool,Leicester City,2022-10-29,True,90,0.0,0.02,0.0,0.0,1,1.0,0.0,2.5,0,0,2,0.0,0,329445,3.2,0.0,66.0,0.4,0.01,0.71,0.67,0,1.0,Liverpool,False,Tottenham,,-0.03
-Joseph Gomez,Liverpool,Tottenham,2022-11-06,False,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,0,278052,3.4,0.0,61.15,0.36,0.01,0.71,0.67,0,2.0,Liverpool,True,Southampton,,-0.38
-Joseph Gomez,Liverpool,Southampton,2022-11-12,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.7,0,0,1,1.05,1,244379,2.2,0.0,63.21,0.33,0.01,0.71,0.67,0,1.0,Liverpool,False,Aston Villa,,0.59
-Joseph Gomez,Liverpool,Aston Villa,2022-12-26,False,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.14,0,159333,1.2,0.0,59.73,0.31,0.01,0.71,0.67,0,1.0,Liverpool,True,Leeds United,,-0.79
-Joseph Gomez,Liverpool,Leeds United,2022-12-30,True,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,149408,1.2,0.0,56.25,0.29,0.01,0.71,0.67,0,0.0,Liverpool,False,Brentford,,-0.55
-Joseph Gomez,Liverpool,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,138085,1.0,0.0,52.94,0.29,0.01,0.71,0.67,0,1.0,Liverpool,False,Brighton,,-0.39
-Joseph Gomez,Liverpool,Brighton,2023-01-14,False,21,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,1,0.82,0,124490,1.0,0.0,51.17,0.27,0.01,0.71,0.67,0,7.0,Liverpool,True,Chelsea,,-0.25
-Joseph Gomez,Liverpool,Chelsea,2023-01-21,True,90,0.0,0.0,0.0,0.0,7,0.0,0.0,2.8,1,1,0,1.59,1,119167,2.0,0.0,53.21,0.31,0.01,0.71,0.67,0,0.0,Liverpool,False,Wolverhampton,,-0.46
-Joseph Gomez,Liverpool,Wolverhampton,2023-02-04,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.8,0,0,3,2.09,1,123927,1.8,0.0,55.05,0.29,0.01,0.71,0.67,0,8.0,Liverpool,True,Everton,,0.34
-Joseph Gomez,Liverpool,Everton,2023-02-13,True,90,0.0,0.01,0.0,0.0,8,1.0,0.0,2.5,2,1,0,0.28,1,121852,3.2,0.0,56.71,0.33,0.01,0.71,0.67,0,6.0,Liverpool,False,Newcastle United,,-0.34
-Joseph Gomez,Liverpool,Newcastle United,2023-02-18,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.4,0,1,0,2.05,1,139892,4.4,0.0,58.23,0.37,0.01,0.71,0.67,0,0.0,Liverpool,False,Crystal Palace,,0.13
-Joseph Gomez,Liverpool,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,213950,4.2,0.0,55.7,0.37,0.01,0.71,0.67,0,0.0,Liverpool,True,Wolverhampton,,-0.48
-Joseph Gomez,Liverpool,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,213950,2.8,0.0,53.38,0.37,0.01,0.71,0.67,0,0.0,Liverpool,True,Manchester United,,0.38
-Joseph Gomez,Liverpool,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,153438,2.8,0.0,51.24,0.37,0.01,0.71,0.67,0,0.0,Liverpool,False,Bournemouth,,0.19
-Joseph Gomez,Liverpool,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,117977,1.2,0.0,49.27,0.37,0.01,0.71,0.67,0,0.0,Liverpool,False,Manchester City,,-1.26
-Joseph Gomez,Liverpool,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,97322,0.0,0.0,47.44,0.37,0.01,0.71,0.67,0,6.0,Liverpool,False,Chelsea,,-0.72
-Joseph Gomez,Liverpool,Chelsea,2023-04-04,False,90,0.0,0.03,0.0,0.0,6,1.0,0.0,2.6,0,1,0,2.12,1,97322,1.2,0.01,48.96,0.4,0.01,0.71,0.67,0,0.0,Liverpool,True,Arsenal,,0.36
-Joseph Gomez,Liverpool,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,97183,1.2,0.01,47.28,0.4,0.01,0.71,0.67,0,0.0,Liverpool,False,Leicester City,,-0.05
-Joseph Gomez,Liverpool,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,97175,1.2,0.01,45.7,0.4,0.01,0.71,0.67,0,0.0,Liverpool,True,Nottingham Forest,,
-Joseph Gomez,Liverpool,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,96021,1.2,0.01,44.23,0.4,0.01,0.71,0.67,0,0.0,Liverpool,False,West Ham,,0.14
-Joseph Gomez,Liverpool,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,94644,1.2,0.01,42.84,0.4,0.01,0.71,0.67,0,0.0,Liverpool,True,Tottenham,,1.07
-Joseph Gomez,Liverpool,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,93196,0.0,0.0,41.55,0.4,0.01,0.71,0.67,0,0.0,Liverpool,True,Fulham,,-0.3
-Joseph Gomez,Liverpool,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,93196,0.0,0.0,40.32,0.4,0.01,0.71,0.67,0,0.0,Liverpool,True,Brentford,,0.69
-Joseph Gomez,Liverpool,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,91566,0.0,0.0,39.17,0.4,0.01,0.71,0.67,0,0.0,Liverpool,False,Leeds United,,-0.8
-Joseph Gomez,Liverpool,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,90569,0.0,0.0,38.08,0.4,0.01,0.71,0.67,0,0.0,Liverpool,True,Aston Villa,,0.55
-Joseph Gomez,Liverpool,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,89762,0.0,0.0,37.05,0.4,0.01,0.71,0.67,0,0.0,Liverpool,False,Southampton,,-1.07
-Joseph Gomez,Liverpool,Southampton,2023-05-28,False,90,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,4,1.77,1,89792,0.0,0.0,38.45,0.38,0.01,0.71,0.67,0,,Liverpool,False,Chelsea,,-0.72
+Joseph Gomez,Liverpool,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.18,0.0,0.0,0.0,0.0,0.01,0.71,0.67,0,1.0,Liverpool,True,Crystal Palace,,0.81
+Joseph Gomez,Liverpool,Crystal Palace,2022-08-15,True,27,0.0,0.0,0.0,0.0,1,0.0,0.0,1.1,0,0,0,0.0,0,0.22,0.5,0.0,13.5,0.0,0.01,0.71,0.67,0,1.0,Liverpool,False,Manchester United,,-0.1
+Joseph Gomez,Liverpool,Manchester United,2022-08-22,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.3,0,0,2,0.0,0,0.29,0.67,0.0,39.0,0.0,0.01,0.71,0.67,0,6.0,Liverpool,True,Bournemouth,,1.46
+Joseph Gomez,Liverpool,Bournemouth,2022-08-27,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.0,0,1,0,0.0,0,0.41,2.0,0.0,51.75,0.33,0.01,0.71,0.67,0,2.0,Liverpool,True,Newcastle United,,0.73
+Joseph Gomez,Liverpool,Newcastle United,2022-08-31,True,90,0.0,0.05,0.0,0.0,2,3.0,0.0,2.3,0,0,1,0.0,0,0.51,2.0,0.01,59.4,0.25,0.01,0.71,0.67,0,9.0,Liverpool,False,Everton,,-0.63
+Joseph Gomez,Liverpool,Everton,2022-09-03,False,90,0.0,0.0,0.0,0.04,9,0.0,1.0,4.1,3,1,0,0.0,0,0.6,3.8,0.01,64.5,0.4,0.01,0.71,0.67,0,0.0,Liverpool,True,Brighton,,-0.71
+Joseph Gomez,Liverpool,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.86,3.6,0.01,55.29,0.4,0.01,0.71,0.67,0,0.0,Liverpool,False,Arsenal,,-0.0
+Joseph Gomez,Liverpool,Arsenal,2022-10-09,False,45,0.0,0.0,0.0,0.0,0,0.0,0.0,1.4,0,0,1,0.0,0,0.77,3.4,0.01,54.0,0.33,0.01,0.71,0.67,0,8.0,Liverpool,True,Manchester City,,-1.17
+Joseph Gomez,Liverpool,Manchester City,2022-10-16,True,90,0.0,0.0,0.0,0.0,8,0.0,0.0,2.2,2,1,0,0.0,0,0.8,3.8,0.01,58.0,0.43,0.01,0.71,0.67,0,6.0,Liverpool,True,West Ham,,0.63
+Joseph Gomez,Liverpool,West Ham,2022-10-19,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,0.5,0,1,0,0.0,0,2.17,4.6,0.0,61.2,0.5,0.01,0.71,0.67,0,1.0,Liverpool,False,Nottingham Forest,,
+Joseph Gomez,Liverpool,Nottingham Forest,2022-10-22,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.5,0,0,1,0.0,0,3.05,3.0,0.0,63.82,0.44,0.01,0.71,0.67,0,1.0,Liverpool,True,Leicester City,,0.83
+Joseph Gomez,Liverpool,Leicester City,2022-10-29,True,90,0.0,0.02,0.0,0.0,1,1.0,0.0,2.5,0,0,2,0.0,0,3.04,3.2,0.0,66.0,0.4,0.01,0.71,0.67,0,1.0,Liverpool,False,Tottenham,,-0.03
+Joseph Gomez,Liverpool,Tottenham,2022-11-06,False,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,0,2.57,3.4,0.0,61.15,0.36,0.01,0.71,0.67,0,2.0,Liverpool,True,Southampton,,-0.38
+Joseph Gomez,Liverpool,Southampton,2022-11-12,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.7,0,0,1,1.05,1,2.26,2.2,0.0,63.21,0.33,0.01,0.71,0.67,0,1.0,Liverpool,False,Aston Villa,,0.59
+Joseph Gomez,Liverpool,Aston Villa,2022-12-26,False,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.14,0,1.47,1.2,0.0,59.73,0.31,0.01,0.71,0.67,0,1.0,Liverpool,True,Leeds United,,-0.79
+Joseph Gomez,Liverpool,Leeds United,2022-12-30,True,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,1.38,1.2,0.0,56.25,0.29,0.01,0.71,0.67,0,0.0,Liverpool,False,Brentford,,-0.55
+Joseph Gomez,Liverpool,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.27,1.0,0.0,52.94,0.29,0.01,0.71,0.67,0,1.0,Liverpool,False,Brighton,,-0.39
+Joseph Gomez,Liverpool,Brighton,2023-01-14,False,21,0.0,0.0,0.0,0.0,1,0.0,0.0,0.8,0,0,1,0.82,0,1.15,1.0,0.0,51.17,0.27,0.01,0.71,0.67,0,7.0,Liverpool,True,Chelsea,,-0.25
+Joseph Gomez,Liverpool,Chelsea,2023-01-21,True,90,0.0,0.0,0.0,0.0,7,0.0,0.0,2.8,1,1,0,1.59,1,1.1,2.0,0.0,53.21,0.31,0.01,0.71,0.67,0,0.0,Liverpool,False,Wolverhampton,,-0.46
+Joseph Gomez,Liverpool,Wolverhampton,2023-02-04,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,2.8,0,0,3,2.09,1,1.14,1.8,0.0,55.05,0.29,0.01,0.71,0.67,0,8.0,Liverpool,True,Everton,,0.34
+Joseph Gomez,Liverpool,Everton,2023-02-13,True,90,0.0,0.01,0.0,0.0,8,1.0,0.0,2.5,2,1,0,0.28,1,1.12,3.2,0.0,56.71,0.33,0.01,0.71,0.67,0,6.0,Liverpool,False,Newcastle United,,-0.34
+Joseph Gomez,Liverpool,Newcastle United,2023-02-18,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.4,0,1,0,2.05,1,1.29,4.4,0.0,58.23,0.37,0.01,0.71,0.67,0,0.0,Liverpool,False,Crystal Palace,,0.13
+Joseph Gomez,Liverpool,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.98,4.2,0.0,55.7,0.37,0.01,0.71,0.67,0,0.0,Liverpool,True,Wolverhampton,,-0.48
+Joseph Gomez,Liverpool,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.98,2.8,0.0,53.38,0.37,0.01,0.71,0.67,0,0.0,Liverpool,True,Manchester United,,0.38
+Joseph Gomez,Liverpool,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.42,2.8,0.0,51.24,0.37,0.01,0.71,0.67,0,0.0,Liverpool,False,Bournemouth,,0.19
+Joseph Gomez,Liverpool,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.09,1.2,0.0,49.27,0.37,0.01,0.71,0.67,0,0.0,Liverpool,False,Manchester City,,-1.26
+Joseph Gomez,Liverpool,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.9,0.0,0.0,47.44,0.37,0.01,0.71,0.67,0,6.0,Liverpool,False,Chelsea,,-0.72
+Joseph Gomez,Liverpool,Chelsea,2023-04-04,False,90,0.0,0.03,0.0,0.0,6,1.0,0.0,2.6,0,1,0,2.12,1,0.9,1.2,0.01,48.96,0.4,0.01,0.71,0.67,0,0.0,Liverpool,True,Arsenal,,0.36
+Joseph Gomez,Liverpool,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.9,1.2,0.01,47.28,0.4,0.01,0.71,0.67,0,0.0,Liverpool,False,Leicester City,,-0.05
+Joseph Gomez,Liverpool,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.9,1.2,0.01,45.7,0.4,0.01,0.71,0.67,0,0.0,Liverpool,True,Nottingham Forest,,
+Joseph Gomez,Liverpool,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.89,1.2,0.01,44.23,0.4,0.01,0.71,0.67,0,0.0,Liverpool,False,West Ham,,0.14
+Joseph Gomez,Liverpool,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.87,1.2,0.01,42.84,0.4,0.01,0.71,0.67,0,0.0,Liverpool,True,Tottenham,,1.07
+Joseph Gomez,Liverpool,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.86,0.0,0.0,41.55,0.4,0.01,0.71,0.67,0,0.0,Liverpool,True,Fulham,,-0.3
+Joseph Gomez,Liverpool,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.86,0.0,0.0,40.32,0.4,0.01,0.71,0.67,0,0.0,Liverpool,True,Brentford,,0.69
+Joseph Gomez,Liverpool,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.85,0.0,0.0,39.17,0.4,0.01,0.71,0.67,0,0.0,Liverpool,False,Leeds United,,-0.8
+Joseph Gomez,Liverpool,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.84,0.0,0.0,38.08,0.4,0.01,0.71,0.67,0,0.0,Liverpool,True,Aston Villa,,0.55
+Joseph Gomez,Liverpool,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.83,0.0,0.0,37.05,0.4,0.01,0.71,0.67,0,0.0,Liverpool,False,Southampton,,-1.07
+Joseph Gomez,Liverpool,Southampton,2023-05-28,False,90,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,4,1.77,1,0.83,0.0,0.0,38.45,0.38,0.01,0.71,0.67,0,,Liverpool,False,Chelsea,,-0.72

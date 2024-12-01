@@ -1,39 +1,39 @@
 name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Matt Ritchie,Newcastle,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,8772,0.0,0.0,0.0,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Brighton,,-0.39
-Matt Ritchie,Newcastle,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,9052,0.0,0.0,0.0,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Manchester City,,-1.17
-Matt Ritchie,Newcastle,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,8485,0.0,0.0,0.0,0.0,0.37,1.95,0.0,0,1.0,Newcastle,False,Wolverhampton,,-0.46
-Matt Ritchie,Newcastle,Wolverhampton,2022-08-28,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,8066,0.25,0.0,0.25,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Liverpool,,-1.33
-Matt Ritchie,Newcastle,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,7775,0.2,0.0,0.2,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Crystal Palace,,0.81
-Matt Ritchie,Newcastle,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,7788,0.2,0.0,0.17,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Bournemouth,,1.46
-Matt Ritchie,Newcastle,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,7930,0.2,0.0,0.14,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Fulham,,1.37
-Matt Ritchie,Newcastle,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,7822,0.2,0.0,0.12,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Brentford,,0.69
-Matt Ritchie,Newcastle,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,7833,0.0,0.0,0.11,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Manchester United,,-0.1
-Matt Ritchie,Newcastle,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,7632,0.0,0.0,0.1,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Everton,,0.34
-Matt Ritchie,Newcastle,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,6875,0.0,0.0,0.09,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Tottenham,,-0.03
-Matt Ritchie,Newcastle,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,6645,0.0,0.0,0.08,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Aston Villa,,0.55
-Matt Ritchie,Newcastle,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,6227,0.0,0.0,0.08,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Southampton,,-1.07
-Matt Ritchie,Newcastle,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,5919,0.0,0.0,0.07,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Chelsea,,-0.25
-Matt Ritchie,Newcastle,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,5773,0.0,0.0,0.07,0.0,0.37,1.95,0.0,0,1.0,Newcastle,False,Leeds United,,-0.8
-Matt Ritchie,Newcastle,Leeds United,2022-12-26,False,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,5815,0.2,0.0,0.19,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Leicester City,,0.83
-Matt Ritchie,Newcastle,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,5962,0.2,0.0,0.18,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Arsenal,,-0.0
-Matt Ritchie,Newcastle,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,5979,0.2,0.0,0.17,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Fulham,,-0.3
-Matt Ritchie,Newcastle,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,6066,0.2,0.0,0.16,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Crystal Palace,,0.13
-Matt Ritchie,Newcastle,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,6095,0.2,0.0,0.15,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,West Ham,,0.63
-Matt Ritchie,Newcastle,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,6140,0.0,0.0,0.14,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Bournemouth,,0.19
-Matt Ritchie,Newcastle,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,6174,0.0,0.0,0.14,0.0,0.37,1.95,0.0,0,1.0,Newcastle,True,Liverpool,,-0.53
-Matt Ritchie,Newcastle,Liverpool,2023-02-18,True,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.74,0,6232,0.2,0.0,0.96,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Manchester City,,-1.26
-Matt Ritchie,Newcastle,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,6309,0.2,0.0,0.92,0.0,0.37,1.95,0.0,0,1.0,Newcastle,True,Wolverhampton,,-0.48
-Matt Ritchie,Newcastle,Wolverhampton,2023-03-12,True,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,6331,0.4,0.0,1.08,0.0,0.37,1.95,0.0,0,1.0,Newcastle,False,Nottingham Forest,,
-Matt Ritchie,Newcastle,Nottingham Forest,2023-03-17,False,6,0.0,0.0,0.0,0.08,1,0.0,1.0,2.1,0,0,0,0.16,0,6451,0.6,0.0,1.27,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Manchester United,,0.38
-Matt Ritchie,Newcastle,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,6487,0.6,0.0,1.22,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,West Ham,,0.14
-Matt Ritchie,Newcastle,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,6487,0.4,0.0,1.18,0.0,0.37,1.95,0.0,0,1.0,Newcastle,False,Brentford,,-0.55
-Matt Ritchie,Newcastle,Brentford,2023-04-08,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,6505,0.6,0.0,1.17,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Aston Villa,,0.59
-Matt Ritchie,Newcastle,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,6568,0.4,0.0,1.13,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Tottenham,,1.07
-Matt Ritchie,Newcastle,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,6611,0.2,0.0,1.1,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Everton,,-0.63
-Matt Ritchie,Newcastle,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,6605,0.2,0.0,1.06,0.0,0.37,1.95,0.0,0,1.0,Newcastle,True,Southampton,,-0.38
-Matt Ritchie,Newcastle,Southampton,2023-04-30,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,0,6627,0.4,0.0,1.06,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Arsenal,,0.36
-Matt Ritchie,Newcastle,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,6683,0.2,0.0,1.03,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Leicester City,,-0.05
-Matt Ritchie,Newcastle,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,6672,0.2,0.0,1.0,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Brighton,,-0.71
-Matt Ritchie,Newcastle,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,6672,0.2,0.0,0.97,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Leeds United,,-0.79
-Matt Ritchie,Newcastle,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,6511,0.2,0.0,0.95,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Chelsea,,-0.72
-Matt Ritchie,Newcastle,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,6441,0.0,0.0,0.92,0.0,0.37,1.95,0.0,0,,Luton,False,Brighton,,-0.39
+Matt Ritchie,Newcastle,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.08,0.0,0.0,0.0,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Brighton,,-0.39
+Matt Ritchie,Newcastle,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.08,0.0,0.0,0.0,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Manchester City,,-1.17
+Matt Ritchie,Newcastle,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.08,0.0,0.0,0.0,0.0,0.37,1.95,0.0,0,1.0,Newcastle,False,Wolverhampton,,-0.46
+Matt Ritchie,Newcastle,Wolverhampton,2022-08-28,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,0.07,0.25,0.0,0.25,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Liverpool,,-1.33
+Matt Ritchie,Newcastle,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.2,0.0,0.2,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Crystal Palace,,0.81
+Matt Ritchie,Newcastle,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.2,0.0,0.17,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Bournemouth,,1.46
+Matt Ritchie,Newcastle,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.2,0.0,0.14,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Fulham,,1.37
+Matt Ritchie,Newcastle,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.2,0.0,0.12,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Brentford,,0.69
+Matt Ritchie,Newcastle,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.0,0.0,0.11,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Manchester United,,-0.1
+Matt Ritchie,Newcastle,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.0,0.0,0.1,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Everton,,0.34
+Matt Ritchie,Newcastle,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.0,0.0,0.09,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Tottenham,,-0.03
+Matt Ritchie,Newcastle,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.0,0.0,0.08,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Aston Villa,,0.55
+Matt Ritchie,Newcastle,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.0,0.0,0.08,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Southampton,,-1.07
+Matt Ritchie,Newcastle,Southampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.05,0.0,0.0,0.07,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Chelsea,,-0.25
+Matt Ritchie,Newcastle,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.05,0.0,0.0,0.07,0.0,0.37,1.95,0.0,0,1.0,Newcastle,False,Leeds United,,-0.8
+Matt Ritchie,Newcastle,Leeds United,2022-12-26,False,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,0.05,0.2,0.0,0.19,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Leicester City,,0.83
+Matt Ritchie,Newcastle,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.2,0.0,0.18,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Arsenal,,-0.0
+Matt Ritchie,Newcastle,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.2,0.0,0.17,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Fulham,,-0.3
+Matt Ritchie,Newcastle,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.2,0.0,0.16,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Crystal Palace,,0.13
+Matt Ritchie,Newcastle,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.2,0.0,0.15,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,West Ham,,0.63
+Matt Ritchie,Newcastle,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.0,0.0,0.14,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Bournemouth,,0.19
+Matt Ritchie,Newcastle,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.0,0.0,0.14,0.0,0.37,1.95,0.0,0,1.0,Newcastle,True,Liverpool,,-0.53
+Matt Ritchie,Newcastle,Liverpool,2023-02-18,True,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0,0.74,0,0.06,0.2,0.0,0.96,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Manchester City,,-1.26
+Matt Ritchie,Newcastle,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.2,0.0,0.92,0.0,0.37,1.95,0.0,0,1.0,Newcastle,True,Wolverhampton,,-0.48
+Matt Ritchie,Newcastle,Wolverhampton,2023-03-12,True,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,0.06,0.4,0.0,1.08,0.0,0.37,1.95,0.0,0,1.0,Newcastle,False,Nottingham Forest,,
+Matt Ritchie,Newcastle,Nottingham Forest,2023-03-17,False,6,0.0,0.0,0.0,0.08,1,0.0,1.0,2.1,0,0,0,0.16,0,0.06,0.6,0.0,1.27,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Manchester United,,0.38
+Matt Ritchie,Newcastle,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.6,0.0,1.22,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,West Ham,,0.14
+Matt Ritchie,Newcastle,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.4,0.0,1.18,0.0,0.37,1.95,0.0,0,1.0,Newcastle,False,Brentford,,-0.55
+Matt Ritchie,Newcastle,Brentford,2023-04-08,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,0.06,0.6,0.0,1.17,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Aston Villa,,0.59
+Matt Ritchie,Newcastle,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.4,0.0,1.13,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Tottenham,,1.07
+Matt Ritchie,Newcastle,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.2,0.0,1.1,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Everton,,-0.63
+Matt Ritchie,Newcastle,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.2,0.0,1.06,0.0,0.37,1.95,0.0,0,1.0,Newcastle,True,Southampton,,-0.38
+Matt Ritchie,Newcastle,Southampton,2023-04-30,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,0,0.06,0.4,0.0,1.06,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Arsenal,,0.36
+Matt Ritchie,Newcastle,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.2,0.0,1.03,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Leicester City,,-0.05
+Matt Ritchie,Newcastle,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.2,0.0,1.0,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Brighton,,-0.71
+Matt Ritchie,Newcastle,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.2,0.0,0.97,0.0,0.37,1.95,0.0,0,0.0,Newcastle,True,Leeds United,,-0.79
+Matt Ritchie,Newcastle,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.2,0.0,0.95,0.0,0.37,1.95,0.0,0,0.0,Newcastle,False,Chelsea,,-0.72
+Matt Ritchie,Newcastle,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.0,0.0,0.92,0.0,0.37,1.95,0.0,0,,Luton,False,Brighton,,-0.39

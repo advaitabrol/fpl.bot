@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-James Garner,Man Utd,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0.0,0.0,0.0,Man Utd,False,Brentford,,-0.55
-James Garner,Man Utd,Brentford,,False,0,,,,,0,,,0.0,0,0,1008,0.0,0.0,0.0,0.0,Man Utd,True,Liverpool,,-0.53
-James Garner,Man Utd,Liverpool,,True,0,,,,,0,,,0.0,0,0,1960,0.0,0.0,0.0,0.0,Man Utd,False,Southampton,,-1.07
-James Garner,Man Utd,Southampton,,False,0,,,,,0,,,0.0,0,0,1950,0.0,0.0,0.0,0.0,Man Utd,False,Leeds United,,-0.8
-James Garner,Man Utd,Leeds United,,False,0,,,,,0,,,0.0,0,0,2081,0.0,0.0,0.0,0.0,Everton,True,Liverpool,,-0.53
-James Garner,Everton,Liverpool,,True,0,,,,,0,,,0.0,0,0,5891,0.0,0.0,0.0,0.0,Everton,True,West Ham,,0.63
-James Garner,Everton,West Ham,,True,0,,,,,0,,,0.0,0,0,7467,0.0,0.0,0.0,0.0,Everton,False,Southampton,,-1.07
-James Garner,Everton,Southampton,,False,0,,,,,0,,,0.0,0,0,7216,0.0,0.0,0.0,1.0,Everton,True,Manchester United,,0.38
-James Garner,Everton,Manchester United,2022-10-09,True,15,0.0,0.04,0.0,0.0,1,2.0,0.0,2.8,0,0,6978,0.2,0.01,1.67,1.0,Everton,False,Tottenham,,-0.03
-James Garner,Everton,Tottenham,2022-10-15,False,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,7184,0.4,0.01,3.8,1.0,Everton,False,Newcastle United,,-0.34
-James Garner,Everton,Newcastle United,2022-10-19,False,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,7125,0.6,0.01,5.0,0.0,Everton,True,Crystal Palace,,0.81
-James Garner,Everton,Crystal Palace,2022-10-22,True,12,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,0,7315,0.6,0.01,5.58,1.0,Everton,False,Fulham,,1.37
-James Garner,Everton,Fulham,2022-10-29,False,25,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,6894,0.8,0.01,7.08,1.0,Everton,True,Leeds United,,-0.79
-James Garner,Everton,Leeds United,2022-11-05,True,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,6541,0.8,0.0,9.79,0.0,Everton,False,Bournemouth,,0.19
-James Garner,Everton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,6457,0.6,0.0,9.13,0.0,Everton,True,Wolverhampton,,-0.48
-James Garner,Everton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,5398,0.4,0.0,8.56,0.0,Everton,False,Manchester City,,-1.26
-James Garner,Everton,Manchester City,,False,0,,,,,0,,,0.0,0,0,5049,0.4,0.0,8.06,0.0,Everton,True,Brighton,,-0.71
-James Garner,Everton,Brighton,,True,0,,,,,0,,,0.0,0,0,4896,0.2,0.0,7.61,0.0,Everton,True,Southampton,,-0.38
-James Garner,Everton,Southampton,,True,0,,,,,0,,,0.0,0,0,4689,0.0,0.0,7.21,0.0,Everton,False,West Ham,,0.14
-James Garner,Everton,West Ham,,False,0,,,,,0,,,0.0,0,0,4517,0.0,0.0,6.85,0.0,Everton,True,Arsenal,,0.36
-James Garner,Everton,Arsenal,,True,0,,,,,0,,,0.0,0,0,4425,0.0,0.0,6.52,0.0,Everton,False,Liverpool,,-1.33
-James Garner,Everton,Liverpool,,False,0,,,,,0,,,0.0,0,0,4286,0.0,0.0,6.23,0.0,Everton,True,Leicester City,,0.83
-James Garner,Everton,Leicester City,,True,0,,,,,0,,,0.0,0,0,4230,0.0,0.0,5.96,0.0,Everton,True,Aston Villa,,0.55
-James Garner,Everton,Aston Villa,,True,0,,,,,0,,,0.0,0,0,4205,0.0,0.0,5.71,0.0,Everton,False,Arsenal,,-0.0
-James Garner,Everton,Arsenal,,False,0,,,,,0,,,0.0,0,0,4205,0.0,0.0,5.48,0.0,Everton,False,Nottingham Forest,,
-James Garner,Everton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,4144,0.0,0.0,5.27,0.0,Everton,True,Brentford,,0.69
-James Garner,Everton,Brentford,,True,0,,,,,0,,,0.0,0,0,4180,0.0,0.0,5.07,0.0,Everton,False,Chelsea,,-0.72
-James Garner,Everton,Chelsea,,False,0,,,,,0,,,0.0,0,0,4200,0.0,0.0,4.89,1.0,Everton,True,Tottenham,,1.07
-James Garner,Everton,Tottenham,2023-04-03,True,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,4188,0.2,0.0,4.93,1.0,Everton,False,Manchester United,,-0.1
-James Garner,Everton,Manchester United,2023-04-08,False,30,0.0,0.02,0.0,0.0,1,1.0,0.0,0.9,0,0,4256,0.4,0.0,5.77,5.0,Everton,True,Fulham,,-0.3
-James Garner,Everton,Fulham,2023-04-15,True,90,0.0,0.08,1.0,0.13,5,3.0,2.0,6.1,0,1,4312,1.4,0.22,8.48,3.0,Everton,False,Crystal Palace,,0.13
-James Garner,Everton,Crystal Palace,2023-04-22,False,90,0.0,0.0,0.0,0.0,3,0.0,0.0,0.8,0,1,4901,2.0,0.22,11.03,1.0,Everton,True,Newcastle United,,0.73
-James Garner,Everton,Newcastle United,2023-04-27,True,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,4738,2.2,0.22,10.94,2.0,Everton,False,Leeds United,,-0.8
-James Garner,Everton,Leeds United,2023-05-01,False,90,0.0,0.0,0.0,0.14,2,0.0,2.0,5.0,0,1,4700,2.4,0.22,13.26,2.0,Everton,False,Brighton,,-0.39
-James Garner,Everton,Brighton,2023-05-08,False,90,0.0,0.6,0.0,0.0,2,1.0,0.0,1.7,0,1,4883,2.6,0.33,15.46,1.0,Everton,True,Manchester City,,-1.17
-James Garner,Everton,Manchester City,2023-05-14,True,75,0.0,0.0,0.0,0.13,1,0.0,1.0,2.6,0,1,4970,1.8,0.12,17.11,1.0,Everton,False,Wolverhampton,,-0.46
-James Garner,Everton,Wolverhampton,2023-05-20,False,90,0.0,0.06,0.0,0.04,1,1.0,2.0,3.1,0,1,5126,1.4,0.13,19.08,3.0,Everton,True,Bournemouth,,1.46
-James Garner,Everton,Bournemouth,2023-05-28,True,90,0.0,0.04,0.0,0.0,3,1.0,0.0,0.0,0,1,5349,1.8,0.14,20.95,2.0,Everton,True,Fulham,,-0.3
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+James Garner,Man Utd,Brighton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Man Utd,False,Brentford,,-0.55
+James Garner,Man Utd,Brentford,,False,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Man Utd,True,Liverpool,,-0.53
+James Garner,Man Utd,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.02,0.0,0.0,0.0,0,0,0,0,0,0.0,Man Utd,False,Southampton,,-1.07
+James Garner,Man Utd,Southampton,,False,0,,,,,0,,,0.0,0,0,0.02,0.0,0.0,0.0,0,0,0,0,0,0.0,Man Utd,False,Leeds United,,-0.8
+James Garner,Man Utd,Leeds United,,False,0,,,,,0,,,0.0,0,0,0.02,0.0,0.0,0.0,0,0,0,0,0,0.0,Everton,True,Liverpool,,-0.53
+James Garner,Everton,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.05,0.0,0.0,0.0,0,0,0,0,0,0.0,Everton,True,West Ham,,0.63
+James Garner,Everton,West Ham,,True,0,,,,,0,,,0.0,0,0,0.07,0.0,0.0,0.0,0,0,0,0,0,0.0,Everton,False,Southampton,,-1.07
+James Garner,Everton,Southampton,,False,0,,,,,0,,,0.0,0,0,0.07,0.0,0.0,0.0,0,0,0,0,0,1.0,Everton,True,Manchester United,,0.38
+James Garner,Everton,Manchester United,2022-10-09,True,15,0.0,0.04,0.0,0.0,1,2.0,0.0,2.8,0,0,0.06,0.2,0.01,1.67,0,0,0,0,0,1.0,Everton,False,Tottenham,,-0.03
+James Garner,Everton,Tottenham,2022-10-15,False,23,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0.07,0.4,0.01,3.8,0,0,0,0,0,1.0,Everton,False,Newcastle United,,-0.34
+James Garner,Everton,Newcastle United,2022-10-19,False,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0.07,0.6,0.01,5.0,0,0,0,0,0,0.0,Everton,True,Crystal Palace,,0.81
+James Garner,Everton,Crystal Palace,2022-10-22,True,12,0.0,0.0,0.0,0.0,0,0.0,0.0,0.1,0,0,0.07,0.6,0.01,5.58,0,0,0,0,0,1.0,Everton,False,Fulham,,1.37
+James Garner,Everton,Fulham,2022-10-29,False,25,0.0,0.0,0.0,0.0,1,0.0,0.0,0.9,0,0,0.06,0.8,0.01,7.08,0,0,0,0,0,1.0,Everton,True,Leeds United,,-0.79
+James Garner,Everton,Leeds United,2022-11-05,True,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.2,0,0,0.06,0.8,0.0,9.79,0,0,0,0,0,0.0,Everton,False,Bournemouth,,0.19
+James Garner,Everton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.06,0.6,0.0,9.13,0,0,0,0,0,0.0,Everton,True,Wolverhampton,,-0.48
+James Garner,Everton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.05,0.4,0.0,8.56,0,0,0,0,0,0.0,Everton,False,Manchester City,,-1.26
+James Garner,Everton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.05,0.4,0.0,8.06,0,0,0,0,0,0.0,Everton,True,Brighton,,-0.71
+James Garner,Everton,Brighton,,True,0,,,,,0,,,0.0,0,0,0.05,0.2,0.0,7.61,0,0,0,0,0,0.0,Everton,True,Southampton,,-0.38
+James Garner,Everton,Southampton,,True,0,,,,,0,,,0.0,0,0,0.04,0.0,0.0,7.21,0,0,0,0,0,0.0,Everton,False,West Ham,,0.14
+James Garner,Everton,West Ham,,False,0,,,,,0,,,0.0,0,0,0.04,0.0,0.0,6.85,0,0,0,0,0,0.0,Everton,True,Arsenal,,0.36
+James Garner,Everton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.04,0.0,0.0,6.52,0,0,0,0,0,0.0,Everton,False,Liverpool,,-1.33
+James Garner,Everton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.04,0.0,0.0,6.23,0,0,0,0,0,0.0,Everton,True,Leicester City,,0.83
+James Garner,Everton,Leicester City,,True,0,,,,,0,,,0.0,0,0,0.04,0.0,0.0,5.96,0,0,0,0,0,0.0,Everton,True,Aston Villa,,0.55
+James Garner,Everton,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0.04,0.0,0.0,5.71,0,0,0,0,0,0.0,Everton,False,Arsenal,,-0.0
+James Garner,Everton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.04,0.0,0.0,5.48,0,0,0,0,0,0.0,Everton,False,Nottingham Forest,,
+James Garner,Everton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.04,0.0,0.0,5.27,0,0,0,0,0,0.0,Everton,True,Brentford,,0.69
+James Garner,Everton,Brentford,,True,0,,,,,0,,,0.0,0,0,0.04,0.0,0.0,5.07,0,0,0,0,0,0.0,Everton,False,Chelsea,,-0.72
+James Garner,Everton,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.04,0.0,0.0,4.89,0,0,0,0,0,1.0,Everton,True,Tottenham,,1.07
+James Garner,Everton,Tottenham,2023-04-03,True,6,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0.04,0.2,0.0,4.93,0,0,0,0,0,1.0,Everton,False,Manchester United,,-0.1
+James Garner,Everton,Manchester United,2023-04-08,False,30,0.0,0.02,0.0,0.0,1,1.0,0.0,0.9,0,0,0.04,0.4,0.0,5.77,0,0,0,0,0,5.0,Everton,True,Fulham,,-0.3
+James Garner,Everton,Fulham,2023-04-15,True,90,0.0,0.08,1.0,0.13,5,3.0,2.0,6.1,0,1,0.04,1.4,0.22,8.48,0,0,0,0,0,3.0,Everton,False,Crystal Palace,,0.13
+James Garner,Everton,Crystal Palace,2023-04-22,False,90,0.0,0.0,0.0,0.0,3,0.0,0.0,0.8,0,1,0.05,2.0,0.22,11.03,0,0,0,0,0,1.0,Everton,True,Newcastle United,,0.73
+James Garner,Everton,Newcastle United,2023-04-27,True,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.04,2.2,0.22,10.94,0,0,0,0,0,2.0,Everton,False,Leeds United,,-0.8
+James Garner,Everton,Leeds United,2023-05-01,False,90,0.0,0.0,0.0,0.14,2,0.0,2.0,5.0,0,1,0.04,2.4,0.22,13.26,0,0,0,0,0,2.0,Everton,False,Brighton,,-0.39
+James Garner,Everton,Brighton,2023-05-08,False,90,0.0,0.6,0.0,0.0,2,1.0,0.0,1.7,0,1,0.05,2.6,0.33,15.46,0,0,0,0,0,1.0,Everton,True,Manchester City,,-1.17
+James Garner,Everton,Manchester City,2023-05-14,True,75,0.0,0.0,0.0,0.13,1,0.0,1.0,2.6,0,1,0.05,1.8,0.12,17.11,0,0,0,0,0,1.0,Everton,False,Wolverhampton,,-0.46
+James Garner,Everton,Wolverhampton,2023-05-20,False,90,0.0,0.06,0.0,0.04,1,1.0,2.0,3.1,0,1,0.05,1.4,0.13,19.08,0,0,0,0,0,3.0,Everton,True,Bournemouth,,1.46
+James Garner,Everton,Bournemouth,2023-05-28,True,90,0.0,0.04,0.0,0.0,3,1.0,0.0,0.0,0,1,0.05,1.8,0.14,20.95,0,0,0,0,0,2.0,Everton,True,Fulham,,-0.3

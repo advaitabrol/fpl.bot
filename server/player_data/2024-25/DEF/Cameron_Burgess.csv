@@ -1,15 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Cameron Burgess,Ipswich,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,31764.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,Manchester City,,-1.51
-Cameron Burgess,Ipswich,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,32534.0,0.0,0.0,0.0,0.0,0.0,Ipswich,True,Fulham,,0.27
-Cameron Burgess,Ipswich,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,32052.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,Brighton,,-0.61
-Cameron Burgess,Ipswich,Brighton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,31764.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,Southampton,,-0.31
-Cameron Burgess,Ipswich,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,31066.0,0.0,0.0,0.0,0.0,0.0,Ipswich,True,Aston Villa,,0.66
-Cameron Burgess,Ipswich,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,30225.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,West Ham,,-0.34
-Cameron Burgess,Ipswich,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,48898.0,0.0,0.0,0.0,0.0,1.0,Ipswich,True,Everton,,0.61
-Cameron Burgess,Ipswich,Everton,2024-10-19,True,90.0,0.0,0.09,0.0,0.0,1.0,2.0,0.0,3.3,0.0,0.0,2.0,1.74,1.0,110416.0,0.2,0.02,11.25,0.0,0.0,Ipswich,False,Brentford,,-0.15
-Cameron Burgess,Ipswich,Brentford,2024-10-26,False,90.0,0.0,0.03,0.0,0.04,0.0,1.0,1.0,7.3,0.0,0.0,4.0,4.11,1.0,129985.0,0.2,0.02,20.0,0.0,2.0,Ipswich,True,Leicester City,,0.47
-Cameron Burgess,Ipswich,Leicester City,2024-11-02,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.9,0.0,0.0,1.0,1.55,1.0,146037.0,0.6,0.02,27.0,0.0,2.0,Ipswich,False,Tottenham,,-0.3
-Cameron Burgess,Ipswich,Tottenham,2024-11-10,False,90.0,0.0,0.03,0.0,0.0,2.0,1.0,0.0,2.0,0.0,0.0,1.0,1.82,1.0,162929.0,1.0,0.03,32.73,0.0,2.0,Ipswich,True,Manchester United,,0.39
-Cameron Burgess,Ipswich,Manchester United,2024-11-24,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.6,0.0,0.0,1.0,0.8,1.0,211012.0,1.4,0.03,37.5,0.0,,Ipswich,False,Nottingham Forest,,-0.54
-,Ipswich,,,,,,,,,,,,,,,,,,,,,,,,Ipswich,True,Crystal Palace,,0.88
-,Ipswich,,,,,,,,,,,,,,,,,,,,,,,,Ipswich,True,Bournemouth,,0.84
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Cameron Burgess,Ipswich,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,Manchester City,,-1.51
+Cameron Burgess,Ipswich,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,True,Fulham,,0.27
+Cameron Burgess,Ipswich,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,Brighton,,-0.61
+Cameron Burgess,Ipswich,Brighton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,Southampton,,-0.31
+Cameron Burgess,Ipswich,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,True,Aston Villa,,0.66
+Cameron Burgess,Ipswich,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,West Ham,,-0.34
+Cameron Burgess,Ipswich,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Ipswich,True,Everton,,0.61
+Cameron Burgess,Ipswich,Everton,2024-10-19,True,90.0,0.0,0.09,0.0,0.0,1.0,2.0,0.0,3.3,0.0,0.0,2.0,1.74,1.0,1.02,0.2,0.02,11.25,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,Brentford,,-0.15
+Cameron Burgess,Ipswich,Brentford,2024-10-26,False,90.0,0.0,0.03,0.0,0.04,0.0,1.0,1.0,7.3,0.0,0.0,4.0,4.11,1.0,1.2,0.2,0.02,20.0,0.0,0.0,0.0,0.0,0.0,2.0,Ipswich,True,Leicester City,,0.47
+Cameron Burgess,Ipswich,Leicester City,2024-11-02,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.9,0.0,0.0,1.0,1.55,1.0,1.35,0.6,0.02,27.0,0.0,0.0,0.0,0.0,0.0,2.0,Ipswich,False,Tottenham,,-0.3
+Cameron Burgess,Ipswich,Tottenham,2024-11-10,False,90.0,0.0,0.03,0.0,0.0,2.0,1.0,0.0,2.0,0.0,0.0,1.0,1.82,1.0,1.5,1.0,0.03,32.73,0.0,0.0,0.0,0.0,0.0,2.0,Ipswich,True,Manchester United,,0.39
+Cameron Burgess,Ipswich,Manchester United,2024-11-24,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.6,0.0,0.0,1.0,0.8,1.0,1.95,1.4,0.03,37.5,0.0,0.0,0.0,0.0,0.0,,Ipswich,False,Nottingham Forest,,-0.54
+,Ipswich,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ipswich,True,Crystal Palace,,0.88
+,Ipswich,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ipswich,True,Bournemouth,,0.84

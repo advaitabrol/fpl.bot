@@ -1,15 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Ryan Manning,Southampton,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,6978.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Nottingham Forest,,1.2
-Ryan Manning,Southampton,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,7563.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Brentford,,-0.15
-Ryan Manning,Southampton,Brentford,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,7344.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Manchester United,,0.39
-Ryan Manning,Southampton,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,6914.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Ipswich Town,,
-Ryan Manning,Southampton,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,6693.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Bournemouth,,-0.04
-Ryan Manning,Southampton,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,6463.0,0.0,0.0,0.0,0.0,1.0,Southampton,False,Arsenal,,-0.56
-Ryan Manning,Southampton,Arsenal,2024-10-05,False,73.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.1,0.0,0.0,2.0,2.13,1.0,6334.0,0.2,0.0,10.43,0.0,3.0,Southampton,True,Leicester City,,0.47
-Ryan Manning,Southampton,Leicester City,2024-10-19,True,77.0,0.0,0.07,0.0,0.17,3.0,1.0,4.0,7.9,0.0,0.0,2.0,2.93,1.0,6346.0,0.8,0.01,18.75,0.0,2.0,Southampton,False,Manchester City,,-1.51
-Ryan Manning,Southampton,Manchester City,2024-10-26,False,76.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.9,0.0,0.0,1.0,2.39,1.0,6512.0,1.2,0.01,25.11,0.0,1.0,Southampton,True,Everton,,0.61
-Ryan Manning,Southampton,Everton,2024-11-02,True,58.0,0.0,0.0,0.0,0.06,1.0,0.0,1.0,2.3,0.0,0.0,0.0,0.33,1.0,6620.0,1.4,0.01,28.4,0.0,1.0,Southampton,False,Wolverhampton,,-0.53
-Ryan Manning,Southampton,Wolverhampton,2024-11-09,False,45.0,0.0,0.0,0.0,0.16,1.0,0.0,2.0,4.8,0.0,0.0,1.0,1.01,1.0,6627.0,1.6,0.01,29.91,0.0,0.0,Southampton,True,Liverpool,,0.24
-Ryan Manning,Southampton,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,6573.0,1.4,0.01,27.42,0.0,,Southampton,False,Brighton,,-0.61
-,Southampton,,,,,,,,,,,,,,,,,,,,,,,,Southampton,True,Chelsea,,0.0
-,Southampton,,,,,,,,,,,,,,,,,,,,,,,,Southampton,False,Aston Villa,,0.11
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Ryan Manning,Southampton,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Nottingham Forest,,1.2
+Ryan Manning,Southampton,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Brentford,,-0.15
+Ryan Manning,Southampton,Brentford,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Manchester United,,0.39
+Ryan Manning,Southampton,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Ipswich Town,,
+Ryan Manning,Southampton,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Bournemouth,,-0.04
+Ryan Manning,Southampton,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Southampton,False,Arsenal,,-0.56
+Ryan Manning,Southampton,Arsenal,2024-10-05,False,73.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.1,0.0,0.0,2.0,2.13,1.0,0.06,0.2,0.0,10.43,0.0,0.0,0.0,0.0,0.0,3.0,Southampton,True,Leicester City,,0.47
+Ryan Manning,Southampton,Leicester City,2024-10-19,True,77.0,0.0,0.07,0.0,0.17,3.0,1.0,4.0,7.9,0.0,0.0,2.0,2.93,1.0,0.06,0.8,0.01,18.75,0.0,0.0,0.0,0.0,0.0,2.0,Southampton,False,Manchester City,,-1.51
+Ryan Manning,Southampton,Manchester City,2024-10-26,False,76.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.9,0.0,0.0,1.0,2.39,1.0,0.06,1.2,0.01,25.11,0.0,0.0,0.0,0.0,0.0,1.0,Southampton,True,Everton,,0.61
+Ryan Manning,Southampton,Everton,2024-11-02,True,58.0,0.0,0.0,0.0,0.06,1.0,0.0,1.0,2.3,0.0,0.0,0.0,0.33,1.0,0.06,1.4,0.01,28.4,0.0,0.0,0.0,0.0,0.0,1.0,Southampton,False,Wolverhampton,,-0.53
+Ryan Manning,Southampton,Wolverhampton,2024-11-09,False,45.0,0.0,0.0,0.0,0.16,1.0,0.0,2.0,4.8,0.0,0.0,1.0,1.01,1.0,0.06,1.6,0.01,29.91,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Liverpool,,0.24
+Ryan Manning,Southampton,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.06,1.4,0.01,27.42,0.0,0.0,0.0,0.0,0.0,,Southampton,False,Brighton,,-0.61
+,Southampton,,,,,,,,,,,,,,,,,,,,,,,,,,,,Southampton,True,Chelsea,,0.0
+,Southampton,,,,,,,,,,,,,,,,,,,,,,,,,,,,Southampton,False,Aston Villa,,0.11
