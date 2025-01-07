@@ -1,10 +1,13 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jack Clarke,Ipswich,Fulham,2024-08-31,True,9.0,0.0,0.09,0.0,0.0,1.0,2.0,0.0,0.4,0.0,0.0,1.0,0.09,9.0,1.0,Ipswich,False,Brighton,,-0.61
-Jack Clarke,Ipswich,Brighton,2024-09-14,False,31.0,0.0,0.02,0.0,0.0,1.0,1.0,0.0,0.3,0.0,0.0,1.0,0.05,20.0,1.0,Ipswich,False,Southampton,,-0.31
-Jack Clarke,Ipswich,Southampton,2024-09-21,False,29.0,0.0,0.0,0.0,0.48,1.0,0.0,1.0,2.5,0.0,0.0,1.0,0.04,23.0,5.0,Ipswich,True,Aston Villa,,0.66
-Jack Clarke,Ipswich,Aston Villa,2024-09-29,True,90.0,0.0,0.31,1.0,0.28,5.0,2.0,3.0,8.0,0.0,1.0,2.0,0.35,39.75,1.0,Ipswich,False,West Ham,,-0.34
-Jack Clarke,Ipswich,West Ham,2024-10-05,False,72.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,2.5,0.0,1.0,1.8,0.28,46.2,2.0,Ipswich,True,Everton,,0.61
-Jack Clarke,Ipswich,Everton,2024-10-19,True,70.0,0.0,0.37,0.0,0.0,2.0,1.0,0.0,1.8,0.0,1.0,2.0,0.34,50.17,1.0,Ipswich,False,Brentford,,-0.15
-Jack Clarke,Ipswich,Brentford,2024-10-26,False,17.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,2.0,0.34,45.43,,Ipswich,True,Leicester City,,0.47
-,Ipswich,,,,,,,,,,,,,,,,,,,Ipswich,False,Tottenham,,-0.3
-,Ipswich,,,,,,,,,,,,,,,,,,,Ipswich,True,Manchester United,,0.39
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jack Clarke,Ipswich,Fulham,2024-08-31,True,9.0,0.0,0.09,0.0,0.0,1.0,2.0,0.0,0.4,0.0,0.0,0.01,1.0,0.09,9.0,0.0,0.0,0.0,0.0,0.0,1.0,Ipswich,False,Brighton,,-0.61
+Jack Clarke,Ipswich,Brighton,2024-09-14,False,31.0,0.0,0.02,0.0,0.0,1.0,1.0,0.0,0.3,0.0,0.0,0.02,1.0,0.05,20.0,0.0,0.0,0.0,0.0,0.0,1.0,Ipswich,False,Southampton,,-0.31
+Jack Clarke,Ipswich,Southampton,2024-09-21,False,29.0,0.0,0.0,0.0,0.48,1.0,0.0,1.0,2.5,0.0,0.0,0.02,1.0,0.04,23.0,0.0,0.0,0.0,0.0,0.0,5.0,Ipswich,True,Aston Villa,,0.66
+Jack Clarke,Ipswich,Aston Villa,2024-09-29,True,90.0,0.0,0.31,1.0,0.28,5.0,2.0,3.0,8.0,0.0,1.0,0.02,2.0,0.35,39.75,0.0,0.0,0.0,0.0,0.0,1.0,Ipswich,False,West Ham,,-0.34
+Jack Clarke,Ipswich,West Ham,2024-10-05,False,72.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,2.5,0.0,1.0,0.04,1.8,0.28,46.2,0.0,0.0,0.0,0.0,0.0,2.0,Ipswich,True,Everton,,0.61
+Jack Clarke,Ipswich,Everton,2024-10-19,True,70.0,0.0,0.37,0.0,0.0,2.0,1.0,0.0,1.8,0.0,1.0,0.04,2.0,0.34,50.17,0.0,0.0,0.0,0.0,0.0,1.0,Ipswich,False,Brentford,,-0.15
+Jack Clarke,Ipswich,Brentford,2024-10-26,False,17.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,0.04,2.0,0.34,45.43,0.0,0.0,0.0,0.0,0.0,1.0,Ipswich,True,Leicester City,,0.47
+Jack Clarke,Ipswich,Leicester City,2024-11-02,True,16.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,0.04,2.0,0.34,41.75,0.0,0.0,0.0,0.0,0.0,1.0,Ipswich,False,Tottenham,,-0.3
+Jack Clarke,Ipswich,Tottenham,2024-11-10,False,19.0,0.0,0.02,0.0,0.0,1.0,1.0,0.0,0.4,0.0,0.0,0.04,1.2,0.08,39.22,0.0,0.0,0.0,0.0,0.0,1.0,Ipswich,True,Manchester United,,0.39
+Jack Clarke,Ipswich,Manchester United,2024-11-24,True,25.0,0.0,0.0,0.0,0.47,1.0,0.0,1.0,1.7,0.0,0.0,0.04,1.2,0.08,37.8,0.0,0.0,0.0,0.0,0.0,,Ipswich,False,Nottingham Forest,,-0.54
+,Ipswich,,,,,,,,,,,,,,,,,,,,,,,,,Ipswich,True,Crystal Palace,,0.88
+,Ipswich,,,,,,,,,,,,,,,,,,,,,,,,,Ipswich,True,Bournemouth,,0.84

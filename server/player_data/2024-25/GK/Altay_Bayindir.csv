@@ -1,10 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Altay Bayindir,Man Utd,Fulham,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0.0,0.0,Man Utd,False,Brighton,0.65,-0.61
-Altay Bayindir,Man Utd,Brighton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0.0,0.0,Man Utd,True,Liverpool,0.35,0.24
-Altay Bayindir,Man Utd,Liverpool,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0.0,0.0,Man Utd,False,Southampton,-0.99,-0.31
-Altay Bayindir,Man Utd,Southampton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0.0,0.0,Man Utd,False,Crystal Palace,2.45,0.2
-Altay Bayindir,Man Utd,Crystal Palace,2024-09-21,False,0,0,0.0,0,0,0,0,0,0.0,0,0.0,0,0.0,0,0,0,0,0.0,0.0,Man Utd,True,Tottenham,-2.02,0.74
-Altay Bayindir,Man Utd,Tottenham,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0.0,0.0,Man Utd,False,Aston Villa,-0.18,0.11
-Altay Bayindir,Man Utd,Aston Villa,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0.0,0.0,Man Utd,True,Brentford,-1.08,0.54
-Altay Bayindir,Man Utd,Brentford,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0.0,0.0,Man Utd,False,West Ham,2.3,-0.34
-Altay Bayindir,Man Utd,West Ham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0,0,0,0,0.0,,,,,,
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Altay Bayindir,Man Utd,Fulham,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd,False,Brighton,,-0.61
+Altay Bayindir,Man Utd,Brighton,2024-08-24,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd,True,Liverpool,,0.24
+Altay Bayindir,Man Utd,Liverpool,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd,False,Southampton,,-0.31
+Altay Bayindir,Man Utd,Southampton,2024-09-14,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd,False,Crystal Palace,,0.2
+Altay Bayindir,Man Utd,Crystal Palace,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd,True,Tottenham,,0.74
+Altay Bayindir,Man Utd,Tottenham,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd,False,Aston Villa,,0.11
+Altay Bayindir,Man Utd,Aston Villa,2024-10-06,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd,True,Brentford,,0.54
+Altay Bayindir,Man Utd,Brentford,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd,False,West Ham,,-0.34
+Altay Bayindir,Man Utd,West Ham,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd,True,Chelsea,,0.0
+Altay Bayindir,Man Utd,Chelsea,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd,True,Leicester City,,0.47
+Altay Bayindir,Man Utd,Leicester City,2024-11-10,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd,False,Ipswich Town,,
+Altay Bayindir,Man Utd,Ipswich Town,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Man Utd,True,Everton,,0.61
+,Man Utd,,,,,,,,,,,,,,,,,,,,,,,,Man Utd,False,Arsenal,,-0.56
+,Man Utd,,,,,,,,,,,,,,,,,,,,,,,,Man Utd,True,Nottingham Forest,,1.2

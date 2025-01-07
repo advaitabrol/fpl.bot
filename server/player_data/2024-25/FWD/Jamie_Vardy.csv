@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jamie Vardy,Leicester,Tottenham,2024-08-19,True,78.0,1.0,0.85,0.0,0.0,8.0,2.0,0.0,9.5,2.0,1.0,8.0,0.85,78.0,2.0,Leicester,False,Fulham,,0.53
-Jamie Vardy,Leicester,Fulham,2024-08-24,False,70.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.1,0.0,1.0,5.0,0.42,74.0,1.0,Leicester,True,Aston Villa,-0.34,0.66
-Jamie Vardy,Leicester,Aston Villa,2024-08-31,True,90.0,0.0,0.0,0.0,0.03,1.0,0.0,1.0,1.6,0.0,1.0,3.67,0.28,79.33,8.0,Leicester,False,Crystal Palace,2.07,0.2
-Jamie Vardy,Leicester,Crystal Palace,2024-09-14,False,90.0,1.0,0.5,0.0,0.1,8.0,1.0,1.0,7.5,2.0,1.0,4.75,0.34,82.0,2.0,Leicester,True,Everton,4.46,0.61
-Jamie Vardy,Leicester,Everton,2024-09-21,True,82.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.8,0.0,1.0,4.2,0.27,82.0,1.0,Leicester,False,Arsenal,-1.31,-0.56
-Jamie Vardy,Leicester,Arsenal,2024-09-28,False,90.0,0.0,0.0,0.0,0.12,1.0,0.0,1.0,2.1,0.0,1.0,2.8,0.1,83.33,2.0,Leicester,True,Bournemouth,,0.84
-Jamie Vardy,Leicester,Bournemouth,2024-10-05,True,73.0,0.0,0.38,0.0,0.0,2.0,2.0,0.0,0.9,0.0,1.0,2.8,0.18,81.86,6.0,Leicester,False,Southampton,-3.27,-0.31
-Jamie Vardy,Leicester,Southampton,2024-10-19,False,90.0,1.0,0.92,0.0,0.0,6.0,4.0,0.0,6.1,1.0,1.0,3.8,0.36,82.88,8.0,Leicester,True,Nottingham Forest,,1.2
-Jamie Vardy,Leicester,Nottingham Forest,2024-10-25,True,90.0,1.0,0.64,0.0,0.08,8.0,2.0,2.0,11.8,2.0,1.0,3.8,0.39,83.67,,Leicester,False,Ipswich Town,,
-,Leicester,,,,,,,,,,,,,,,,,,,Leicester,False,Manchester United,0.11,-0.41
-,Leicester,,,,,,,,,,,,,,,,,,,Leicester,True,Chelsea,-2.98,0.0
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jamie Vardy,Leicester,Tottenham,2024-08-19,True,78.0,1.0,0.85,0.0,0.0,8.0,2.0,0.0,9.5,2.0,1.0,1.1,8.0,0.85,78.0,0.0,0.0,0.0,0.0,0.0,2.0,Leicester,False,Fulham,,0.53
+Jamie Vardy,Leicester,Fulham,2024-08-24,False,70.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.1,0.0,1.0,4.93,5.0,0.42,74.0,0.0,0.0,0.0,0.0,0.0,1.0,Leicester,True,Aston Villa,,0.66
+Jamie Vardy,Leicester,Aston Villa,2024-08-31,True,90.0,0.0,0.0,0.0,0.03,1.0,0.0,1.0,1.6,0.0,1.0,6.72,3.67,0.28,79.33,0.0,0.0,0.0,0.0,0.0,8.0,Leicester,False,Crystal Palace,,0.2
+Jamie Vardy,Leicester,Crystal Palace,2024-09-14,False,90.0,1.0,0.5,0.0,0.1,8.0,1.0,1.0,7.5,2.0,1.0,6.39,4.75,0.34,82.0,0.0,0.0,0.0,0.0,0.0,2.0,Leicester,True,Everton,,0.61
+Jamie Vardy,Leicester,Everton,2024-09-21,True,82.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.8,0.0,1.0,11.3,4.2,0.27,82.0,0.0,0.0,0.0,0.0,0.0,1.0,Leicester,False,Arsenal,,-0.56
+Jamie Vardy,Leicester,Arsenal,2024-09-28,False,90.0,0.0,0.0,0.0,0.12,1.0,0.0,1.0,2.1,0.0,1.0,10.11,2.8,0.1,83.33,0.0,0.0,0.0,0.0,0.0,2.0,Leicester,True,Bournemouth,,0.84
+Jamie Vardy,Leicester,Bournemouth,2024-10-05,True,73.0,0.0,0.38,0.0,0.0,2.0,2.0,0.0,0.9,0.0,1.0,11.56,2.8,0.18,81.86,0.0,0.0,0.0,0.0,0.0,6.0,Leicester,False,Southampton,,-0.31
+Jamie Vardy,Leicester,Southampton,2024-10-19,False,90.0,1.0,0.92,0.0,0.0,6.0,4.0,0.0,6.1,1.0,1.0,10.95,3.8,0.36,82.88,0.0,0.0,0.0,0.0,0.0,8.0,Leicester,True,Nottingham Forest,,1.2
+Jamie Vardy,Leicester,Nottingham Forest,2024-10-25,True,90.0,1.0,0.64,0.0,0.08,8.0,2.0,2.0,11.8,2.0,1.0,10.85,3.8,0.39,83.67,0.0,0.0,0.0,0.0,0.0,5.0,Leicester,False,Ipswich Town,,
+Jamie Vardy,Leicester,Ipswich Town,2024-11-02,False,90.0,0.0,0.04,1.0,0.57,5.0,1.0,2.0,5.8,0.0,1.0,11.55,4.4,0.6,84.3,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Manchester United,,-0.41
+Jamie Vardy,Leicester,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,10.07,4.2,0.6,76.64,0.0,0.0,0.0,0.0,0.0,2.0,Leicester,True,Chelsea,,0.0
+Jamie Vardy,Leicester,Chelsea,2024-11-23,True,78.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.7,0.0,1.0,7.72,4.2,0.52,76.75,0.0,0.0,0.0,0.0,0.0,,Leicester,False,Brentford,,-0.15
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,West Ham,,0.48
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,Brighton,,-0.42

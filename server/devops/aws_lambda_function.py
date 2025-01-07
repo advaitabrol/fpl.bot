@@ -1,1 +1,0 @@
-# AWS Lambda function for automated tasks

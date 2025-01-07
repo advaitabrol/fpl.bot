@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Enzo Fernández,Chelsea,Manchester City,2024-08-18,True,90.0,0.0,0.2,0.0,0.0,2.0,3.0,0.0,4.6,0.0,1.0,2.0,0.2,90.0,3.0,2.0,6.16,3.54,0.03,2.0,Chelsea,False,Wolverhampton,1.62,-0.53
-Enzo Fernández,Chelsea,Wolverhampton,2024-08-25,False,90.0,0.0,0.0,0.0,0.12,2.0,0.0,2.0,5.0,0.0,1.0,2.0,0.1,90.0,3.0,2.0,6.16,3.54,0.03,2.0,Chelsea,True,Crystal Palace,-1.51,0.88
-Enzo Fernández,Chelsea,Crystal Palace,2024-09-01,True,90.0,0.0,0.0,0.0,0.02,2.0,0.0,1.0,4.5,0.0,1.0,2.0,0.07,90.0,3.0,2.0,6.16,3.54,0.03,0.0,Chelsea,False,Bournemouth,-1.53,-0.04
-Enzo Fernández,Chelsea,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1.5,0.05,67.5,3.0,2.0,6.16,3.54,0.03,3.0,Chelsea,False,West Ham,2.89,-0.34
-Enzo Fernández,Chelsea,West Ham,2024-09-21,False,83.0,0.0,0.0,0.0,0.21,3.0,0.0,2.0,3.7,0.0,1.0,1.8,0.04,70.6,3.0,2.0,6.16,3.54,0.03,1.0,Chelsea,True,Brighton,-0.67,-0.42
-Enzo Fernández,Chelsea,Brighton,2024-09-28,True,78.0,0.0,0.0,0.0,0.3,1.0,0.0,1.0,2.7,0.0,1.0,1.6,0.0,71.83,3.0,2.0,6.16,3.54,0.03,2.0,Chelsea,True,Nottingham Forest,1.3,1.2
-Enzo Fernández,Chelsea,Nottingham Forest,2024-10-06,True,80.0,0.0,0.06,0.0,0.05,2.0,1.0,2.0,6.2,0.0,1.0,1.6,0.01,73.0,3.0,2.0,6.16,3.54,0.03,1.0,Chelsea,False,Liverpool,0.96,-1.08
-Enzo Fernández,Chelsea,Liverpool,2024-10-20,False,37.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,1.9,0.0,0.0,1.4,0.01,68.5,3.0,2.0,6.16,3.54,0.03,1.0,Chelsea,True,Newcastle United,-0.99,0.67
-Enzo Fernández,Chelsea,Newcastle United,2024-10-27,True,18.0,0.0,0.0,0.0,0.13,1.0,0.0,1.0,1.7,0.0,0.0,1.6,0.01,62.89,3.0,2.0,6.16,3.54,0.03,,Chelsea,False,Manchester United,1.87,-0.41
-,Chelsea,,,,,,,,,,,,,,,,,,,,,,,,Chelsea,True,Arsenal,2.1,-0.32
-,Chelsea,,,,,,,,,,,,,,,,,,,,,,,,Chelsea,False,Leicester City,1.68,-0.22
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Enzo Fernández,Chelsea,Manchester City,2024-08-18,True,90.0,0.0,0.2,0.0,0.0,2.0,3.0,0.0,4.6,0.0,1.0,1.09,2.0,0.2,90.0,3.0,2.0,6.16,3.54,0.03,2.0,Chelsea,False,Wolverhampton,,-0.53
+Enzo Fernández,Chelsea,Wolverhampton,2024-08-25,False,90.0,0.0,0.0,0.0,0.12,2.0,0.0,2.0,5.0,0.0,1.0,1.52,2.0,0.1,90.0,3.0,2.0,6.16,3.54,0.03,2.0,Chelsea,True,Crystal Palace,,0.88
+Enzo Fernández,Chelsea,Crystal Palace,2024-09-01,True,90.0,0.0,0.0,0.0,0.02,2.0,0.0,1.0,4.5,0.0,1.0,1.56,2.0,0.07,90.0,3.0,2.0,6.16,3.54,0.03,0.0,Chelsea,False,Bournemouth,,-0.04
+Enzo Fernández,Chelsea,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1.56,1.5,0.05,67.5,3.0,2.0,6.16,3.54,0.03,3.0,Chelsea,False,West Ham,,-0.34
+Enzo Fernández,Chelsea,West Ham,2024-09-21,False,83.0,0.0,0.0,0.0,0.21,3.0,0.0,2.0,3.7,0.0,1.0,1.45,1.8,0.04,70.6,3.0,2.0,6.16,3.54,0.03,1.0,Chelsea,True,Brighton,,-0.42
+Enzo Fernández,Chelsea,Brighton,2024-09-28,True,78.0,0.0,0.0,0.0,0.3,1.0,0.0,1.0,2.7,0.0,1.0,1.39,1.6,0.0,71.83,3.0,2.0,6.16,3.54,0.03,2.0,Chelsea,True,Nottingham Forest,,1.2
+Enzo Fernández,Chelsea,Nottingham Forest,2024-10-06,True,80.0,0.0,0.06,0.0,0.05,2.0,1.0,2.0,6.2,0.0,1.0,1.33,1.6,0.01,73.0,3.0,2.0,6.16,3.54,0.03,1.0,Chelsea,False,Liverpool,,-1.08
+Enzo Fernández,Chelsea,Liverpool,2024-10-20,False,37.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,1.9,0.0,0.0,1.27,1.4,0.01,68.5,3.0,2.0,6.16,3.54,0.03,1.0,Chelsea,True,Newcastle United,,0.67
+Enzo Fernández,Chelsea,Newcastle United,2024-10-27,True,18.0,0.0,0.0,0.0,0.13,1.0,0.0,1.0,1.7,0.0,0.0,1.23,1.6,0.01,62.89,3.0,2.0,6.16,3.54,0.03,1.0,Chelsea,False,Manchester United,,-0.41
+Enzo Fernández,Chelsea,Manchester United,2024-11-03,False,19.0,0.0,0.06,0.0,0.0,1.0,1.0,0.0,0.3,0.0,0.0,1.17,1.2,0.02,58.5,3.0,2.0,6.16,3.54,0.03,4.0,Chelsea,True,Arsenal,,-0.32
+Enzo Fernández,Chelsea,Arsenal,2024-11-10,True,22.0,0.0,0.0,1.0,0.05,4.0,0.0,2.0,5.3,0.0,0.0,1.12,1.8,0.22,55.18,3.0,2.0,6.16,3.54,0.03,12.0,Chelsea,False,Leicester City,,-0.22
+Enzo Fernández,Chelsea,Leicester City,2024-11-23,False,90.0,1.0,0.79,1.0,0.52,12.0,3.0,3.0,15.3,2.0,1.0,1.13,3.8,0.57,58.08,3.0,2.0,6.16,3.54,0.03,,Chelsea,True,Aston Villa,,0.66
+,Chelsea,,,,,,,,,,,,,,,,,,,,,,,,,Chelsea,False,Southampton,,-0.31
+,Chelsea,,,,,,,,,,,,,,,,,,,,,,,,,Chelsea,False,Tottenham,,-0.3

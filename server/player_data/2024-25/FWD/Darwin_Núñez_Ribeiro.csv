@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Darwin Núñez Ribeiro,Liverpool,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,11.0,8.0,19.21,5.94,0.06,1.0,Liverpool,True,Brentford,-2.96,0.54
-Darwin Núñez Ribeiro,Liverpool,Brentford,2024-08-25,True,18.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.7,0.0,0.0,0.5,0.0,9.0,11.0,8.0,19.21,5.94,0.06,1.0,Liverpool,False,Manchester United,0.18,-0.41
-Darwin Núñez Ribeiro,Liverpool,Manchester United,2024-09-01,False,14.0,0.0,0.1,0.0,0.0,1.0,1.0,0.0,0.5,0.0,0.0,0.67,0.03,10.67,11.0,8.0,19.21,5.94,0.06,1.0,Liverpool,True,Nottingham Forest,-1.23,1.2
-Darwin Núñez Ribeiro,Liverpool,Nottingham Forest,2024-09-14,True,30.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,1.5,0.0,0.0,0.75,0.03,15.5,11.0,8.0,19.21,5.94,0.06,6.0,Liverpool,True,Bournemouth,-4.12,0.84
-Darwin Núñez Ribeiro,Liverpool,Bournemouth,2024-09-21,True,71.0,1.0,0.29,0.0,0.0,6.0,3.0,0.0,9.1,0.0,1.0,1.8,0.08,26.6,11.0,8.0,19.21,5.94,0.06,0.0,Liverpool,False,Wolverhampton,1.32,-0.53
-Darwin Núñez Ribeiro,Liverpool,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1.8,0.08,22.17,11.0,8.0,19.21,5.94,0.06,0.0,Liverpool,False,Crystal Palace,0.35,0.2
-Darwin Núñez Ribeiro,Liverpool,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1.6,0.08,19.0,11.0,8.0,19.21,5.94,0.06,1.0,Liverpool,True,Chelsea,-1.38,0.0
-Darwin Núñez Ribeiro,Liverpool,Chelsea,2024-10-20,True,60.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.6,0.06,24.12,11.0,8.0,19.21,5.94,0.06,4.0,Liverpool,False,Arsenal,2.26,-0.56
-Darwin Núñez Ribeiro,Liverpool,Arsenal,2024-10-27,False,90.0,0.0,0.0,1.0,0.59,4.0,0.0,1.0,3.9,0.0,1.0,2.2,0.26,31.44,11.0,8.0,19.21,5.94,0.06,,Liverpool,True,Brighton,1.7,-0.42
-,Liverpool,,,,,,,,,,,,,,,,,,,,,,,,Liverpool,True,Aston Villa,-0.35,0.66
-,Liverpool,,,,,,,,,,,,,,,,,,,,,,,,Liverpool,False,Southampton,2.18,-0.31
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Darwin Núñez Ribeiro,Liverpool,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,4.72,0.0,0.0,0.0,11.0,8.0,19.21,5.94,0.06,1.0,Liverpool,True,Brentford,,0.54
+Darwin Núñez Ribeiro,Liverpool,Brentford,2024-08-25,True,18.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.7,0.0,0.0,3.87,0.5,0.0,9.0,11.0,8.0,19.21,5.94,0.06,1.0,Liverpool,False,Manchester United,,-0.41
+Darwin Núñez Ribeiro,Liverpool,Manchester United,2024-09-01,False,14.0,0.0,0.1,0.0,0.0,1.0,1.0,0.0,0.5,0.0,0.0,2.92,0.67,0.03,10.67,11.0,8.0,19.21,5.94,0.06,1.0,Liverpool,True,Nottingham Forest,,1.2
+Darwin Núñez Ribeiro,Liverpool,Nottingham Forest,2024-09-14,True,30.0,0.0,0.0,0.0,0.02,1.0,0.0,1.0,1.5,0.0,0.0,2.36,0.75,0.03,15.5,11.0,8.0,19.21,5.94,0.06,6.0,Liverpool,True,Bournemouth,,0.84
+Darwin Núñez Ribeiro,Liverpool,Bournemouth,2024-09-21,True,71.0,1.0,0.29,0.0,0.0,6.0,3.0,0.0,9.1,0.0,1.0,2.19,1.8,0.08,26.6,11.0,8.0,19.21,5.94,0.06,0.0,Liverpool,False,Wolverhampton,,-0.53
+Darwin Núñez Ribeiro,Liverpool,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,2.33,1.8,0.08,22.17,11.0,8.0,19.21,5.94,0.06,0.0,Liverpool,False,Crystal Palace,,0.2
+Darwin Núñez Ribeiro,Liverpool,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,2.21,1.6,0.08,19.0,11.0,8.0,19.21,5.94,0.06,1.0,Liverpool,True,Chelsea,,0.0
+Darwin Núñez Ribeiro,Liverpool,Chelsea,2024-10-20,True,60.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,2.08,1.6,0.06,24.12,11.0,8.0,19.21,5.94,0.06,4.0,Liverpool,False,Arsenal,,-0.56
+Darwin Núñez Ribeiro,Liverpool,Arsenal,2024-10-27,False,90.0,0.0,0.0,1.0,0.59,4.0,0.0,1.0,3.9,0.0,1.0,2.1,2.2,0.26,31.44,11.0,8.0,19.21,5.94,0.06,2.0,Liverpool,True,Brighton,,-0.42
+Darwin Núñez Ribeiro,Liverpool,Brighton,2024-11-02,True,76.0,0.0,0.08,0.0,0.27,2.0,1.0,1.0,4.8,0.0,1.0,2.34,1.4,0.22,35.9,11.0,8.0,19.21,5.94,0.06,7.0,Liverpool,True,Aston Villa,,0.66
+Darwin Núñez Ribeiro,Liverpool,Aston Villa,2024-11-09,True,64.0,1.0,1.48,0.0,0.0,7.0,6.0,0.0,8.8,1.0,1.0,2.23,2.8,0.51,38.45,11.0,8.0,19.21,5.94,0.06,2.0,Liverpool,False,Southampton,,-0.31
+Darwin Núñez Ribeiro,Liverpool,Southampton,2024-11-24,False,89.0,0.0,0.13,0.0,0.09,2.0,2.0,1.0,4.5,0.0,1.0,2.56,3.2,0.54,42.67,11.0,8.0,19.21,5.94,0.06,,Liverpool,True,Manchester City,,-1.18
+,Liverpool,,,,,,,,,,,,,,,,,,,,,,,,,Liverpool,False,Newcastle United,,-0.44
+,Liverpool,,,,,,,,,,,,,,,,,,,,,,,,,Liverpool,False,Everton,,-0.39

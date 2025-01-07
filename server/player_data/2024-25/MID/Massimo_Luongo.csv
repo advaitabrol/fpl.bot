@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Massimo Luongo,Ipswich,Liverpool,2024-08-17,True,64.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.2,0.0,1.0,2.0,0.0,64.0,2.0,Ipswich,False,Manchester City,,-1.51
-Massimo Luongo,Ipswich,Manchester City,2024-08-24,False,71.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.9,0.0,1.0,2.0,0.0,67.5,0.0,Ipswich,True,Fulham,,0.27
-Massimo Luongo,Ipswich,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,1.33,0.0,45.0,1.0,Ipswich,False,Brighton,,-0.61
-Massimo Luongo,Ipswich,Brighton,2024-09-14,False,6.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.7,0.0,0.0,1.25,0.0,35.25,0.0,Ipswich,False,Southampton,,-0.31
-Massimo Luongo,Ipswich,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1.0,0.0,28.2,1.0,Ipswich,True,Aston Villa,,0.66
-Massimo Luongo,Ipswich,Aston Villa,2024-09-29,True,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,0.8,0.0,23.67,0.0,Ipswich,False,West Ham,,-0.34
-Massimo Luongo,Ipswich,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.4,0.0,20.29,0.0,Ipswich,True,Everton,,0.61
-Massimo Luongo,Ipswich,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.4,0.0,17.75,0.0,Ipswich,False,Brentford,,-0.15
-Massimo Luongo,Ipswich,Brentford,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.2,0.0,15.78,,Ipswich,True,Leicester City,,0.47
-,Ipswich,,,,,,,,,,,,,,,,,,,Ipswich,False,Tottenham,,-0.3
-,Ipswich,,,,,,,,,,,,,,,,,,,Ipswich,True,Manchester United,,0.39
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Massimo Luongo,Ipswich,Liverpool,2024-08-17,True,64.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.2,0.0,1.0,0.22,2.0,0.0,64.0,0.0,0.0,0.0,0.0,0.0,2.0,Ipswich,False,Manchester City,,-1.51
+Massimo Luongo,Ipswich,Manchester City,2024-08-24,False,71.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.9,0.0,1.0,0.34,2.0,0.0,67.5,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,True,Fulham,,0.27
+Massimo Luongo,Ipswich,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.56,1.33,0.0,45.0,0.0,0.0,0.0,0.0,0.0,1.0,Ipswich,False,Brighton,,-0.61
+Massimo Luongo,Ipswich,Brighton,2024-09-14,False,6.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.7,0.0,0.0,0.6,1.25,0.0,35.25,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,Southampton,,-0.31
+Massimo Luongo,Ipswich,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.6,1.0,0.0,28.2,0.0,0.0,0.0,0.0,0.0,1.0,Ipswich,True,Aston Villa,,0.66
+Massimo Luongo,Ipswich,Aston Villa,2024-09-29,True,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,0.53,0.8,0.0,23.67,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,West Ham,,-0.34
+Massimo Luongo,Ipswich,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.51,0.4,0.0,20.29,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,True,Everton,,0.61
+Massimo Luongo,Ipswich,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.45,0.4,0.0,17.75,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,False,Brentford,,-0.15
+Massimo Luongo,Ipswich,Brentford,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.39,0.2,0.0,15.78,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,True,Leicester City,,0.47
+Massimo Luongo,Ipswich,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.35,0.2,0.0,14.2,0.0,0.0,0.0,0.0,0.0,1.0,Ipswich,False,Tottenham,,-0.3
+Massimo Luongo,Ipswich,Tottenham,2024-11-10,False,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.33,0.2,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,Ipswich,True,Manchester United,,0.39
+Massimo Luongo,Ipswich,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.31,0.2,0.0,11.92,0.0,0.0,0.0,0.0,0.0,,Ipswich,False,Nottingham Forest,,-0.54
+,Ipswich,,,,,,,,,,,,,,,,,,,,,,,,,Ipswich,True,Crystal Palace,,0.88
+,Ipswich,,,,,,,,,,,,,,,,,,,,,,,,,Ipswich,True,Bournemouth,,0.84

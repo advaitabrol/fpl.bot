@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Scott Carson,Man City,Chelsea,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City,True,Ipswich Town,,
-Scott Carson,Man City,Ipswich Town,2024-08-24,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City,False,West Ham,-1.27,-0.34
-Scott Carson,Man City,West Ham,2024-08-31,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City,True,Brentford,0.69,0.54
-Scott Carson,Man City,Brentford,2024-09-14,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City,True,Arsenal,-3.0,-0.32
-Scott Carson,Man City,Arsenal,2024-09-22,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City,False,Newcastle United,-1.93,-0.44
-Scott Carson,Man City,Newcastle United,2024-09-28,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City,True,Fulham,-1.5,0.27
-Scott Carson,Man City,Fulham,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City,False,Wolverhampton,-1.76,-0.53
-Scott Carson,Man City,Wolverhampton,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City,True,Southampton,-3.23,0.24
-Scott Carson,Man City,Southampton,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Man City,False,Bournemouth,-2.29,-0.04
-,Man City,,,,,,,,,,,,,,,,,,,,,,,Man City,False,Brighton,-3.49,-0.61
-,Man City,,,,,,,,,,,,,,,,,,,,,,,Man City,True,Tottenham,1.5,0.74
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Scott Carson,Man City,Chelsea,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City,True,Ipswich Town,,
+Scott Carson,Man City,Ipswich Town,2024-08-24,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.16,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City,False,West Ham,,-0.34
+Scott Carson,Man City,West Ham,2024-08-31,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City,True,Brentford,,0.54
+Scott Carson,Man City,Brentford,2024-09-14,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City,True,Arsenal,,-0.32
+Scott Carson,Man City,Arsenal,2024-09-22,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City,False,Newcastle United,,-0.44
+Scott Carson,Man City,Newcastle United,2024-09-28,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.02,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City,True,Fulham,,0.27
+Scott Carson,Man City,Fulham,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City,False,Wolverhampton,,-0.53
+Scott Carson,Man City,Wolverhampton,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City,True,Southampton,,0.24
+Scott Carson,Man City,Southampton,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City,False,Bournemouth,,-0.04
+Scott Carson,Man City,Bournemouth,2024-11-02,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.86,0.0,0.21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City,False,Brighton,,-0.61
+Scott Carson,Man City,Brighton,,False,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Man City,True,Tottenham,,0.74
+Scott Carson,Man City,Tottenham,,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Man City,False,Liverpool,,-1.08
+,Man City,,,,,,,,,,,,,,,,,,,,,,,,Man City,True,Nottingham Forest,,1.2
+,Man City,,,,,,,,,,,,,,,,,,,,,,,,Man City,False,Crystal Palace,,0.2

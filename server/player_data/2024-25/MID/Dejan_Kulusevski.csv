@@ -1,10 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Dejan Kulusevski,Spurs,Leicester City,2024-08-19,False,11,0,0.0,0,0.0,1,0,0,2.6,0,0,1.0,0.0,11.0,8.0,3.0,5.82,8.6,0.05,6.0,Spurs,True,Everton,-2.75,0.61
-Dejan Kulusevski,Spurs,Everton,2024-08-24,True,66,0,0.0,1,0.22,6,0,4,8.2,0,1,3.5,0.5,38.5,8.0,3.0,5.82,8.6,0.05,2.0,Spurs,False,Newcastle United,4.3,-0.44
-Dejan Kulusevski,Spurs,Newcastle United,2024-09-01,False,90,0,0.12,0,0.09,2,2,3,8.1,0,1,3.0,0.37,55.67,8.0,3.0,5.82,8.6,0.05,1.0,Spurs,True,Arsenal,-0.34,-0.32
-Dejan Kulusevski,Spurs,Arsenal,2024-09-15,True,90,0,0.18,0,0.07,1,3,1,5.4,0,1,2.5,0.32,64.25,8.0,3.0,5.82,8.6,0.05,2.0,Spurs,True,Brentford,-1.31,0.54
-Dejan Kulusevski,Spurs,Brentford,2024-09-21,True,90,0,0.44,0,0.13,2,4,3,9.9,0,1,2.4,0.35,69.4,8.0,3.0,5.82,8.6,0.05,11.0,Spurs,False,Manchester United,2.48,-0.41
-Dejan Kulusevski,Spurs,Manchester United,2024-09-29,False,90,1,0.68,0,1.45,11,2,9,20.8,3,1,4.4,0.48,72.83,8.0,3.0,5.82,8.6,0.05,1.0,Spurs,False,Brighton,0.26,-0.61
-Dejan Kulusevski,Spurs,Brighton,2024-10-06,False,90,0,0.07,0,0.14,1,1,1,4.2,0,1,3.4,0.3,75.29,8.0,3.0,5.82,8.6,0.05,9.0,Spurs,True,West Ham,0.26,0.48
-Dejan Kulusevski,Spurs,West Ham,2024-10-19,True,90,1,0.21,0,0.16,9,4,2,10.2,2,1,4.8,0.32,77.12,8.0,3.0,5.82,8.6,0.05,1.0,Spurs,False,Crystal Palace,0.96,0.2
-Dejan Kulusevski,Spurs,Crystal Palace,2024-10-27,False,61,0,0.35,0,0.01,1,1,1,5.0,0,1,4.8,0.35,75.33,8.0,3.0,5.82,8.6,0.05,,,,,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Dejan Kulusevski,Spurs,Leicester City,2024-08-19,False,11.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.6,0.0,0.0,2.12,1.0,0.0,11.0,8.0,3.0,5.82,8.6,0.05,6.0,Spurs,True,Everton,,0.61
+Dejan Kulusevski,Spurs,Everton,2024-08-24,True,66.0,0.0,0.0,1.0,0.22,6.0,0.0,4.0,8.2,0.0,1.0,1.92,3.5,0.5,38.5,8.0,3.0,5.82,8.6,0.05,2.0,Spurs,False,Newcastle United,,-0.44
+Dejan Kulusevski,Spurs,Newcastle United,2024-09-01,False,90.0,0.0,0.12,0.0,0.09,2.0,2.0,3.0,8.1,0.0,1.0,1.8,3.0,0.37,55.67,8.0,3.0,5.82,8.6,0.05,1.0,Spurs,True,Arsenal,,-0.32
+Dejan Kulusevski,Spurs,Arsenal,2024-09-15,True,90.0,0.0,0.18,0.0,0.07,1.0,3.0,1.0,5.4,0.0,1.0,1.48,2.5,0.32,64.25,8.0,3.0,5.82,8.6,0.05,2.0,Spurs,True,Brentford,,0.54
+Dejan Kulusevski,Spurs,Brentford,2024-09-21,True,90.0,0.0,0.44,0.0,0.13,2.0,4.0,3.0,9.9,0.0,1.0,1.48,2.4,0.35,69.4,8.0,3.0,5.82,8.6,0.05,11.0,Spurs,False,Manchester United,,-0.41
+Dejan Kulusevski,Spurs,Manchester United,2024-09-29,False,90.0,1.0,0.68,0.0,1.45,11.0,2.0,9.0,20.8,3.0,1.0,1.26,4.4,0.48,72.83,8.0,3.0,5.82,8.6,0.05,1.0,Spurs,False,Brighton,,-0.61
+Dejan Kulusevski,Spurs,Brighton,2024-10-06,False,90.0,0.0,0.07,0.0,0.14,1.0,1.0,1.0,4.2,0.0,1.0,1.75,3.4,0.3,75.29,8.0,3.0,5.82,8.6,0.05,9.0,Spurs,True,West Ham,,0.48
+Dejan Kulusevski,Spurs,West Ham,2024-10-19,True,90.0,1.0,0.21,0.0,0.16,9.0,4.0,2.0,10.2,2.0,1.0,1.93,4.8,0.32,77.12,8.0,3.0,5.82,8.6,0.05,1.0,Spurs,False,Crystal Palace,,0.2
+Dejan Kulusevski,Spurs,Crystal Palace,2024-10-27,False,61.0,0.0,0.35,0.0,0.01,1.0,1.0,1.0,5.0,0.0,1.0,3.41,4.8,0.35,75.33,8.0,3.0,5.82,8.6,0.05,5.0,Spurs,True,Aston Villa,,0.66
+Dejan Kulusevski,Spurs,Aston Villa,2024-11-03,True,90.0,0.0,0.0,1.0,0.42,5.0,0.0,3.0,7.7,0.0,1.0,3.66,5.4,0.46,76.8,8.0,3.0,5.82,8.6,0.05,2.0,Spurs,True,Ipswich Town,,
+Dejan Kulusevski,Spurs,Ipswich Town,2024-11-10,True,90.0,0.0,0.0,0.0,0.09,2.0,0.0,3.0,6.0,0.0,1.0,4.31,3.6,0.33,78.0,8.0,3.0,5.82,8.6,0.05,6.0,Spurs,False,Manchester City,,-1.51
+Dejan Kulusevski,Spurs,Manchester City,2024-11-23,False,90.0,0.0,0.13,1.0,1.17,6.0,1.0,3.0,9.4,0.0,1.0,3.63,4.6,0.54,79.0,8.0,3.0,5.82,8.6,0.05,,Spurs,True,Fulham,,0.27
+,Spurs,,,,,,,,,,,,,,,,,,,,,,,,,Spurs,False,Bournemouth,,-0.04
+,Spurs,,,,,,,,,,,,,,,,,,,,,,,,,Spurs,True,Chelsea,,0.0

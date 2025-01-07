@@ -1,1 +1,0 @@
-# Schemas for player-related requests

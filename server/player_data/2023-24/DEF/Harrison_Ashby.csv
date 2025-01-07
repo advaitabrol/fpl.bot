@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Harrison Ashby,Newcastle,Aston Villa,2023-08-12,True,0,0.0,0.0,0.0,0.1,0,0.0,1.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,False,Manchester City,3.85,-1.32
-Harrison Ashby,Newcastle,Manchester City,2023-08-19,False,0,0.0,0.0,0.0,0.12,0,0.0,3.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,True,Liverpool,1.51,0.18
-Harrison Ashby,Newcastle,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,False,Brighton,-0.84,-0.6
-Harrison Ashby,Newcastle,Brighton,2023-09-02,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,True,Brentford,-2.67,0.79
-Harrison Ashby,Newcastle,Brentford,2023-09-16,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,False,Sheffield,,-0.61
-Harrison Ashby,Newcastle,Sheffield,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,True,Burnley,-3.46,0.39
-Harrison Ashby,Newcastle,Burnley,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,False,West Ham,-0.73,-0.22
-Harrison Ashby,Newcastle,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,True,Crystal Palace,-1.3,0.88
-Harrison Ashby,Newcastle,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,False,Wolverhampton,1.1,-0.52
-Harrison Ashby,Newcastle,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,True,Arsenal,0.14,-0.11
-Harrison Ashby,Newcastle,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,False,Bournemouth,1.71,0.19
-Harrison Ashby,Newcastle,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,True,Chelsea,0.4,-0.25
-Harrison Ashby,Newcastle,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,True,Manchester United,-2.03,0.38
-Harrison Ashby,Newcastle,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,False,Everton,0.0,-0.24
-Harrison Ashby,Newcastle,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,False,Tottenham,2.46,-0.36
-Harrison Ashby,Newcastle,Tottenham,2023-12-10,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,True,Fulham,-0.08,-0.13
-Harrison Ashby,Newcastle,Fulham,2023-12-16,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,False,Luton,,
-Harrison Ashby,Newcastle,Luton,2023-12-23,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,True,Nottingham Forest,-0.46,1.55
-Harrison Ashby,Newcastle,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,False,Liverpool,0.9,-1.01
-Harrison Ashby,Newcastle,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,True,Manchester City,4.58,-0.96
-Harrison Ashby,Newcastle,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,False,Aston Villa,3.3,0.29
-Harrison Ashby,Newcastle,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,True,Luton,,
-Harrison Ashby,Newcastle,Luton,2024-02-03,True,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,False,Nottingham Forest,,-0.55
-Harrison Ashby,Newcastle,Nottingham Forest,2024-02-10,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,True,Bournemouth,2.6,1.22
-Harrison Ashby,Newcastle,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,False,Arsenal,0.96,-0.48
-Harrison Ashby,Newcastle,Arsenal,2024-02-24,False,0,0.0,0.09,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,0.0,0.02,0.0,0,0.0,Newcastle,True,Wolverhampton,,0.05
-Harrison Ashby,Newcastle,Wolverhampton,2024-03-02,True,0,0.0,0.03,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.03,0.0,0,0.0,Newcastle,False,Chelsea,,-0.85
-Harrison Ashby,Newcastle,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.02,0.0,0,0.0,Newcastle,True,West Ham,0.49,0.49
-Harrison Ashby,Newcastle,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.02,0.0,0,0.0,Newcastle,True,Everton,-1.47,0.53
-Harrison Ashby,Newcastle,Everton,2024-04-02,True,0,0.0,0.0,0.0,0.07,0,0.0,1.0,0.0,0,0,0,0.0,0,0.0,0.02,0.0,0,0.0,Newcastle,False,Fulham,-1.62,0.86
-Harrison Ashby,Newcastle,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,Newcastle,True,Tottenham,-0.29,0.69
-Harrison Ashby,Newcastle,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,False,Crystal Palace,-1.13,0.38
-Harrison Ashby,Newcastle,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Newcastle,True,Sheffield,,0.68
-Harrison Ashby,Newcastle,Sheffield,2024-04-27,True,0,0.0,0.05,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,Newcastle,False,Burnley,,0.0
-Harrison Ashby,Newcastle,Burnley,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,Newcastle,True,Brighton,,-0.66
-Harrison Ashby,Newcastle,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,Newcastle,False,Manchester United,0.66,-0.63
-Harrison Ashby,Newcastle,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,Newcastle,False,Brentford,,-0.53
-Harrison Ashby,Newcastle,Brentford,2024-05-19,False,0,0.0,0.03,1.0,0.15,0,1.0,2.0,0.0,0,0,0,0.0,0,0.0,0.22,0.0,0,,Brentford,True,Crystal Palace,0.84,0.88
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Harrison Ashby,Newcastle,Aston Villa,2023-08-12,True,0,0.0,0.0,0.0,0.1,0,0.0,1.0,0.0,0,0,0,0.0,0,0.03,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,False,Manchester City,,-1.32
+Harrison Ashby,Newcastle,Manchester City,2023-08-19,False,0,0.0,0.0,0.0,0.12,0,0.0,3.0,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,True,Liverpool,,0.18
+Harrison Ashby,Newcastle,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,False,Brighton,,-0.6
+Harrison Ashby,Newcastle,Brighton,2023-09-02,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,True,Brentford,,0.79
+Harrison Ashby,Newcastle,Brentford,2023-09-16,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,False,Sheffield,,-0.61
+Harrison Ashby,Newcastle,Sheffield,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.02,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,True,Burnley,,0.39
+Harrison Ashby,Newcastle,Burnley,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,False,West Ham,,-0.22
+Harrison Ashby,Newcastle,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,True,Crystal Palace,,0.88
+Harrison Ashby,Newcastle,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,False,Wolverhampton,,-0.52
+Harrison Ashby,Newcastle,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,True,Arsenal,,-0.11
+Harrison Ashby,Newcastle,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,False,Bournemouth,,0.19
+Harrison Ashby,Newcastle,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,True,Chelsea,,-0.25
+Harrison Ashby,Newcastle,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,True,Manchester United,,0.38
+Harrison Ashby,Newcastle,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,False,Everton,,-0.24
+Harrison Ashby,Newcastle,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,False,Tottenham,,-0.36
+Harrison Ashby,Newcastle,Tottenham,2023-12-10,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,True,Fulham,,-0.13
+Harrison Ashby,Newcastle,Fulham,2023-12-16,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,False,Luton,,
+Harrison Ashby,Newcastle,Luton,2023-12-23,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,True,Nottingham Forest,,1.55
+Harrison Ashby,Newcastle,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,False,Liverpool,,-1.01
+Harrison Ashby,Newcastle,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,True,Manchester City,,-0.96
+Harrison Ashby,Newcastle,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,False,Aston Villa,,0.29
+Harrison Ashby,Newcastle,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,True,Luton,,
+Harrison Ashby,Newcastle,Luton,2024-02-03,True,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,False,Nottingham Forest,,-0.55
+Harrison Ashby,Newcastle,Nottingham Forest,2024-02-10,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,True,Bournemouth,,1.22
+Harrison Ashby,Newcastle,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,False,Arsenal,,-0.48
+Harrison Ashby,Newcastle,Arsenal,2024-02-24,False,0,0.0,0.09,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,0.01,0.0,0.02,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,True,Wolverhampton,,0.05
+Harrison Ashby,Newcastle,Wolverhampton,2024-03-02,True,0,0.0,0.03,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.01,0.0,0.03,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,False,Chelsea,,-0.85
+Harrison Ashby,Newcastle,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.02,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,True,West Ham,,0.49
+Harrison Ashby,Newcastle,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.02,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,True,Everton,,0.53
+Harrison Ashby,Newcastle,Everton,2024-04-02,True,0,0.0,0.0,0.0,0.07,0,0.0,1.0,0.0,0,0,0,0.0,0,0.01,0.0,0.02,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,False,Fulham,,0.86
+Harrison Ashby,Newcastle,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.01,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,True,Tottenham,,0.69
+Harrison Ashby,Newcastle,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,False,Crystal Palace,,0.38
+Harrison Ashby,Newcastle,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,True,Sheffield,,0.68
+Harrison Ashby,Newcastle,Sheffield,2024-04-27,True,0,0.0,0.05,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.01,0.0,0.01,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,False,Burnley,,0.0
+Harrison Ashby,Newcastle,Burnley,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.01,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,True,Brighton,,-0.66
+Harrison Ashby,Newcastle,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.01,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,False,Manchester United,,-0.63
+Harrison Ashby,Newcastle,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.01,0.0,0,0.4,1.17,0,0.0,0.0,Newcastle,False,Brentford,,-0.53
+Harrison Ashby,Newcastle,Brentford,2024-05-19,False,0,0.0,0.03,1.0,0.15,0,1.0,2.0,0.0,0,0,0,0.0,0,0.01,0.0,0.22,0.0,0,0.4,1.17,0,0.0,,Brentford,True,Crystal Palace,,0.88

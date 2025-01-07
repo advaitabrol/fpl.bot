@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Sékou Mara,Southampton,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Nottingham Forest,3.03,1.2
-Sékou Mara,Southampton,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Brentford,4.79,-0.15
-Sékou Mara,Southampton,Brentford,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Manchester United,1.12,0.39
-Sékou Mara,Southampton,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Ipswich Town,,
-Sékou Mara,Southampton,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Bournemouth,-0.76,-0.04
-Sékou Mara,Southampton,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Arsenal,0.71,-0.56
-Sékou Mara,Southampton,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Leicester City,-1.16,0.47
-Sékou Mara,Southampton,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Manchester City,3.44,-1.51
-Sékou Mara,Southampton,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,,Southampton,True,Everton,0.11,0.61
-,Southampton,,,,,,,,,,,,,,,,,,,Southampton,False,Wolverhampton,2.86,-0.53
-,Southampton,,,,,,,,,,,,,,,,,,,Southampton,True,Liverpool,-0.47,0.24
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Sékou Mara,Southampton,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.08,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Nottingham Forest,,1.2
+Sékou Mara,Southampton,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.08,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Brentford,,-0.15
+Sékou Mara,Southampton,Brentford,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.06,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Manchester United,,0.39
+Sékou Mara,Southampton,Manchester United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Ipswich Town,,
+Sékou Mara,Southampton,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Bournemouth,,-0.04
+Sékou Mara,Southampton,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Arsenal,,-0.56
+Sékou Mara,Southampton,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Leicester City,,0.47
+Sékou Mara,Southampton,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Manchester City,,-1.51
+Sékou Mara,Southampton,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Everton,,0.61
+Sékou Mara,Southampton,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Wolverhampton,,-0.53
+Sékou Mara,Southampton,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Liverpool,,0.24
+Sékou Mara,Southampton,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Southampton,False,Brighton,,-0.61
+,Southampton,,,,,,,,,,,,,,,,,,,,,,,,,Southampton,True,Chelsea,,0.0
+,Southampton,,,,,,,,,,,,,,,,,,,,,,,,,Southampton,False,Aston Villa,,0.11

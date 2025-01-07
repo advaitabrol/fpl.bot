@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Boubakary Soumaré,Leicester,Tottenham,2024-08-19,True,11.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,0.0,0.0,1.0,0.0,11.0,0.0,Leicester,False,Fulham,,0.53
-Boubakary Soumaré,Leicester,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.5,0.0,5.5,0.0,Leicester,True,Aston Villa,-0.34,0.66
-Boubakary Soumaré,Leicester,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.33,0.0,3.67,0.0,Leicester,False,Crystal Palace,2.07,0.2
-Boubakary Soumaré,Leicester,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.25,0.0,2.75,0.0,Leicester,True,Everton,4.46,0.61
-Boubakary Soumaré,Leicester,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.2,0.0,2.2,0.0,Leicester,False,Arsenal,-1.31,-0.56
-Boubakary Soumaré,Leicester,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,1.83,0.0,Leicester,True,Bournemouth,,0.84
-Boubakary Soumaré,Leicester,Bournemouth,2024-10-05,True,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.86,0.0,Leicester,False,Southampton,-3.27,-0.31
-Boubakary Soumaré,Leicester,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,1.62,0.0,Leicester,True,Nottingham Forest,,1.2
-Boubakary Soumaré,Leicester,Nottingham Forest,2024-10-25,True,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,3.22,,Leicester,False,Ipswich Town,,
-,Leicester,,,,,,,,,,,,,,,,,,,Leicester,False,Manchester United,0.11,-0.41
-,Leicester,,,,,,,,,,,,,,,,,,,Leicester,True,Chelsea,-2.98,0.0
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Boubakary Soumaré,Leicester,Tottenham,2024-08-19,True,11.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.1,0.0,0.0,0.17,1.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Fulham,,0.53
+Boubakary Soumaré,Leicester,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.19,0.5,0.0,5.5,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Aston Villa,,0.66
+Boubakary Soumaré,Leicester,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.19,0.33,0.0,3.67,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Crystal Palace,,0.2
+Boubakary Soumaré,Leicester,Crystal Palace,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.19,0.25,0.0,2.75,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Everton,,0.61
+Boubakary Soumaré,Leicester,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.18,0.2,0.0,2.2,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Arsenal,,-0.56
+Boubakary Soumaré,Leicester,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.17,0.0,0.0,1.83,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Bournemouth,,0.84
+Boubakary Soumaré,Leicester,Bournemouth,2024-10-05,True,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.16,0.0,0.0,1.86,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Southampton,,-0.31
+Boubakary Soumaré,Leicester,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.16,0.0,0.0,1.62,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Nottingham Forest,,1.2
+Boubakary Soumaré,Leicester,Nottingham Forest,2024-10-25,True,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.2,0.0,0.0,3.22,0.0,0.0,0.0,0.0,0.0,1.0,Leicester,False,Ipswich Town,,
+Boubakary Soumaré,Leicester,Ipswich Town,2024-11-02,False,19.0,0.0,0.06,0.0,0.0,1.0,1.0,0.0,0.7,0.0,0.0,0.26,0.2,0.01,4.8,0.0,0.0,0.0,0.0,0.0,2.0,Leicester,False,Manchester United,,-0.41
+Boubakary Soumaré,Leicester,Manchester United,2024-11-10,False,90.0,0.0,0.0,0.0,0.01,2.0,0.0,1.0,3.6,0.0,1.0,0.28,0.6,0.01,12.55,0.0,0.0,0.0,0.0,0.0,1.0,Leicester,True,Chelsea,,0.0
+Boubakary Soumaré,Leicester,Chelsea,2024-11-23,True,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.9,0.0,1.0,0.34,0.8,0.01,19.0,0.0,0.0,0.0,0.0,0.0,,Leicester,False,Brentford,,-0.15
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,West Ham,,0.48
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,Brighton,,-0.42

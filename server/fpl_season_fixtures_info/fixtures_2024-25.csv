@@ -89,36 +89,36 @@ Newcastle United,1.0,Chelsea,2.0
 Tottenham,0.0,Crystal Palace,1.0
 Manchester United,1.0,West Ham,2.0
 Liverpool,2.0,Arsenal,2.0
-Arsenal,,Newcastle United,
-Manchester City,,Bournemouth,
-Leicester City,,Ipswich Town,
-Brighton,,Liverpool,
-West Ham,,Nottingham Forest,
-Everton,,Southampton,
-Crystal Palace,,Wolverhampton,
-Aston Villa,,Tottenham,
-Chelsea,,Manchester United,
-Brentford,,Fulham,
-Bournemouth,,Brentford,
-Fulham,,Crystal Palace,
-Everton,,West Ham,
-Southampton,,Wolverhampton,
-Manchester City,,Brighton,
-Aston Villa,,Liverpool,
-Leicester City,,Manchester United,
-Newcastle United,,Nottingham Forest,
-Ipswich Town,,Tottenham,
-Arsenal,,Chelsea,
-Chelsea,,Leicester City,
-Nottingham Forest,,Arsenal,
-Crystal Palace,,Aston Villa,
-Brighton,,Bournemouth,
-Brentford,,Everton,
-Wolverhampton,,Fulham,
-Tottenham,,Manchester City,
-Liverpool,,Southampton,
-Manchester United,,Ipswich Town,
-West Ham,,Newcastle United,
+Arsenal,0.0,Newcastle United,1.0
+Manchester City,1.0,Bournemouth,2.0
+Leicester City,1.0,Ipswich Town,1.0
+Brighton,1.0,Liverpool,2.0
+West Ham,0.0,Nottingham Forest,3.0
+Everton,0.0,Southampton,1.0
+Crystal Palace,2.0,Wolverhampton,2.0
+Aston Villa,1.0,Tottenham,4.0
+Chelsea,1.0,Manchester United,1.0
+Brentford,1.0,Fulham,2.0
+Bournemouth,2.0,Brentford,3.0
+Fulham,2.0,Crystal Palace,0.0
+Everton,0.0,West Ham,0.0
+Southampton,0.0,Wolverhampton,2.0
+Manchester City,1.0,Brighton,2.0
+Aston Villa,0.0,Liverpool,2.0
+Leicester City,0.0,Manchester United,3.0
+Newcastle United,3.0,Nottingham Forest,1.0
+Ipswich Town,2.0,Tottenham,1.0
+Arsenal,1.0,Chelsea,1.0
+Chelsea,2.0,Leicester City,1.0
+Nottingham Forest,0.0,Arsenal,3.0
+Crystal Palace,2.0,Aston Villa,2.0
+Brighton,2.0,Bournemouth,1.0
+Brentford,0.0,Everton,0.0
+Wolverhampton,4.0,Fulham,1.0
+Tottenham,4.0,Manchester City,0.0
+Liverpool,3.0,Southampton,2.0
+Manchester United,1.0,Ipswich Town,1.0
+West Ham,2.0,Newcastle United,0.0
 Southampton,,Brighton,
 Leicester City,,Brentford,
 Newcastle United,,Crystal Palace,
@@ -154,20 +154,20 @@ Fulham,,Liverpool,
 Leicester City,,Newcastle United,
 Ipswich Town,,Wolverhampton,
 Aston Villa,,Nottingham Forest,
-West Ham,,Bournemouth,
+Crystal Palace,,Brighton,
 Manchester United,,Manchester City,
 Brentford,,Chelsea,
 Tottenham,,Southampton,
-Crystal Palace,,Brighton,
+West Ham,,Bournemouth,
 Manchester City,,Aston Villa,
 Nottingham Forest,,Brentford,
 Newcastle United,,Ipswich Town,
-Bournemouth,,Manchester United,
 Brighton,,West Ham,
 Arsenal,,Crystal Palace,
 Chelsea,,Everton,
 Southampton,,Fulham,
 Wolverhampton,,Leicester City,
+Bournemouth,,Manchester United,
 Liverpool,,Tottenham,
 Everton,,Manchester City,
 Crystal Palace,,Bournemouth,

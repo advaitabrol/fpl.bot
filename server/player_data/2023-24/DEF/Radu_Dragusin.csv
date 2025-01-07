@@ -1,19 +1,19 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Radu Dragusin,Spurs,Manchester United,2024-01-14,False,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.45,0,1.0,0.0,5.0,0.0,1.0,Spurs,True,Brentford,-1.06,0.79
-Radu Dragusin,Spurs,Brentford,2024-01-31,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.19,0,1.0,0.0,3.5,0.0,1.0,Spurs,False,Everton,-0.31,-0.24
-Radu Dragusin,Spurs,Everton,2024-02-03,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,0.86,0,1.0,0.0,2.67,0.0,0.0,Spurs,True,Brighton,0.56,-0.66
-Radu Dragusin,Spurs,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.75,0.0,2.0,0.0,0.0,Spurs,True,Wolverhampton,2.48,0.05
-Radu Dragusin,Spurs,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.0,1.6,0.0,0.0,Spurs,True,Crystal Palace,-2.5,0.88
-Radu Dragusin,Spurs,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,1.33,0.0,0.0,Spurs,False,Aston Villa,-1.56,0.29
-Radu Dragusin,Spurs,Aston Villa,2024-03-10,False,41,0.0,0.0,0.0,0.0,0,0.0,0.0,1.9,0,0,0,0.42,0,0.2,0.0,7.0,0.0,1.0,Spurs,False,Fulham,-1.25,0.86
-Radu Dragusin,Spurs,Fulham,2024-03-16,False,90,0.0,0.07,0.0,0.0,1,1.0,0.0,2.7,0,0,3,2.79,1,0.2,0.01,17.38,0.0,2.0,Spurs,True,Luton,,
-Radu Dragusin,Spurs,Luton,2024-03-30,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.7,0,0,1,0.39,1,0.6,0.01,25.44,0.0,0.0,Spurs,False,West Ham,2.68,-0.22
-Radu Dragusin,Spurs,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.01,22.9,0.0,0.0,Spurs,True,Nottingham Forest,-1.17,1.55
-Radu Dragusin,Spurs,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.01,20.82,0.0,0.0,Spurs,False,Newcastle United,3.01,-0.41
-Radu Dragusin,Spurs,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.01,19.08,0.0,0.0,Spurs,True,Arsenal,-0.99,-0.11
-Radu Dragusin,Spurs,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,17.62,0.0,0.0,Spurs,False,Chelsea,0.79,-0.85
-Radu Dragusin,Spurs,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,16.36,0.0,0.0,Spurs,False,Liverpool,-0.61,-1.01
-Radu Dragusin,Spurs,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,15.27,0.0,1.0,Spurs,True,Burnley,-1.32,0.39
-Radu Dragusin,Spurs,Burnley,2024-05-11,True,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,0,0.2,0.0,15.25,0.0,1.0,Spurs,True,Manchester City,-1.77,-0.96
-Radu Dragusin,Spurs,Manchester City,2024-05-14,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,2,2.4,1,0.4,0.0,19.65,0.0,6.0,Spurs,False,Sheffield,,-0.61
-Radu Dragusin,Spurs,Sheffield,2024-05-19,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.0,0,1,0,0.7,1,1.6,0.0,23.56,0.11,,Spurs,False,Leicester City,-4.57,-0.22
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Radu Dragusin,Spurs,Manchester United,2024-01-14,False,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,0,0.45,0,0.02,1.0,0.0,5.0,0.0,0,0,0,0,1.0,Spurs,True,Brentford,,0.79
+Radu Dragusin,Spurs,Brentford,2024-01-31,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.19,0,0.06,1.0,0.0,3.5,0.0,0,0,0,0,1.0,Spurs,False,Everton,,-0.24
+Radu Dragusin,Spurs,Everton,2024-02-03,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1,0.86,0,0.05,1.0,0.0,2.67,0.0,0,0,0,0,0.0,Spurs,True,Brighton,,-0.66
+Radu Dragusin,Spurs,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.05,0.75,0.0,2.0,0.0,0,0,0,0,0.0,Spurs,True,Wolverhampton,,0.05
+Radu Dragusin,Spurs,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.6,0.0,1.6,0.0,0,0,0,0,0.0,Spurs,True,Crystal Palace,,0.88
+Radu Dragusin,Spurs,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.4,0.0,1.33,0.0,0,0,0,0,0.0,Spurs,False,Aston Villa,,0.29
+Radu Dragusin,Spurs,Aston Villa,2024-03-10,False,41,0.0,0.0,0.0,0.0,0,0.0,0.0,1.9,0,0,0,0.42,0,0.04,0.2,0.0,7.0,0.0,0,0,0,0,1.0,Spurs,False,Fulham,,0.86
+Radu Dragusin,Spurs,Fulham,2024-03-16,False,90,0.0,0.07,0.0,0.0,1,1.0,0.0,2.7,0,0,3,2.79,1,0.09,0.2,0.01,17.38,0.0,0,0,0,0,2.0,Spurs,True,Luton,,
+Radu Dragusin,Spurs,Luton,2024-03-30,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.7,0,0,1,0.39,1,0.08,0.6,0.01,25.44,0.0,0,0,0,0,0.0,Spurs,False,West Ham,,-0.22
+Radu Dragusin,Spurs,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.08,0.6,0.01,22.9,0.0,0,0,0,0,0.0,Spurs,True,Nottingham Forest,,1.55
+Radu Dragusin,Spurs,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.6,0.01,20.82,0.0,0,0,0,0,0.0,Spurs,False,Newcastle United,,-0.41
+Radu Dragusin,Spurs,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.6,0.01,19.08,0.0,0,0,0,0,0.0,Spurs,True,Arsenal,,-0.11
+Radu Dragusin,Spurs,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.05,0.4,0.0,17.62,0.0,0,0,0,0,0.0,Spurs,False,Chelsea,,-0.85
+Radu Dragusin,Spurs,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.05,0.0,0.0,16.36,0.0,0,0,0,0,0.0,Spurs,False,Liverpool,,-1.01
+Radu Dragusin,Spurs,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.05,0.0,0.0,15.27,0.0,0,0,0,0,1.0,Spurs,True,Burnley,,0.39
+Radu Dragusin,Spurs,Burnley,2024-05-11,True,15,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.0,0,0.04,0.2,0.0,15.25,0.0,0,0,0,0,1.0,Spurs,True,Manchester City,,-0.96
+Radu Dragusin,Spurs,Manchester City,2024-05-14,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,0,2,2.4,1,0.04,0.4,0.0,19.65,0.0,0,0,0,0,6.0,Spurs,False,Sheffield,,-0.61
+Radu Dragusin,Spurs,Sheffield,2024-05-19,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.0,0,1,0,0.7,1,0.07,1.6,0.0,23.56,0.11,0,0,0,0,,Spurs,False,Leicester City,,-0.22

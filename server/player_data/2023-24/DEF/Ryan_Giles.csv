@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Ryan Giles,Luton,Brighton,,False,90,,,,,0,,,6.1,0,0,4,4.1,1,0.0,0.0,90.0,0.0,1.0,Luton,False,Chelsea,,-0.85
-Ryan Giles,Luton,Chelsea,,False,90,,,,,1,,,4.8,0,0,3,2.09,1,0.5,0.0,90.0,0.0,2.0,Luton,True,West Ham,,0.49
-Ryan Giles,Luton,West Ham,,True,70,,,,,2,,,3.7,0,0,1,0.86,1,1.0,0.0,83.33,0.0,0.0,Luton,False,Fulham,,0.86
-Ryan Giles,Luton,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.75,0.0,62.5,0.0,1.0,Luton,True,Wolverhampton,,0.05
-Ryan Giles,Luton,Wolverhampton,,True,18,,,,,1,,,0.4,0,0,0,0.0,0,0.8,0.0,53.6,0.0,0.0,Luton,False,Everton,,-0.24
-Ryan Giles,Luton,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.0,44.67,0.0,0.0,Luton,True,Burnley,,0.39
-Ryan Giles,Luton,Burnley,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.0,38.29,0.0,0.0,Luton,True,Tottenham,,0.69
-Ryan Giles,Luton,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,33.5,0.0,0.0,Luton,False,Nottingham Forest,,-0.55
-Ryan Giles,Luton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,29.78,0.0,1.0,Luton,False,Aston Villa,,0.29
-Ryan Giles,Luton,Aston Villa,,False,11,,,,,1,,,0.0,0,0,0,0.28,0,0.2,0.0,27.9,0.0,0.0,Luton,True,Liverpool,,0.18
-Ryan Giles,Luton,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,25.36,0.0,1.0,Luton,False,Manchester United,,-0.63
-Ryan Giles,Luton,Manchester United,2023-11-11,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.11,0,0.4,0.0,23.58,0.0,0.0,Luton,True,Crystal Palace,,0.88
-Ryan Giles,Luton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,21.77,0.0,1.0,Luton,False,Brentford,,-0.53
-Ryan Giles,Luton,Brentford,,False,14,,,,,1,,,1.0,0,0,1,1.71,0,0.6,0.0,21.21,0.0,1.0,Luton,True,Arsenal,,-0.11
-Ryan Giles,Luton,Arsenal,,True,2,,,,,1,,,0.1,0,0,1,0.09,0,0.6,0.0,19.93,0.0,1.0,Luton,True,Manchester City,,-0.96
-Ryan Giles,Luton,Manchester City,2023-12-10,True,83,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,2,1.6,1,0.8,0.0,23.88,0.0,1.0,Luton,True,Newcastle United,,0.55
-Ryan Giles,Luton,Newcastle United,,True,45,,,,,1,,,2.6,0,0,0,0.74,0,0.8,0.0,25.12,0.0,1.0,Luton,False,Sheffield,,-0.61
-Ryan Giles,Luton,Sheffield,,False,71,,,,,1,,,2.8,0,0,2,2.46,1,1.0,0.0,27.67,0.0,0.0,Luton,True,Chelsea,,-0.25
-Ryan Giles,Luton,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.8,0.0,26.21,0.0,0.0,Luton,False,Burnley,,0.0
-Ryan Giles,Luton,Burnley,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.0,24.9,0.0,0.0,Luton,True,Brighton,,-0.66
-Ryan Giles,Luton,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,23.71,0.0,0.0,Luton,False,Newcastle United,,-0.41
-Ryan Giles,Luton,Newcastle United,2024-02-03,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.2,0.0,22.64,0.0,0.0,Luton,True,Sheffield,,0.68
-Ryan Giles,Luton,Sheffield,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,21.65,0.0,0.0,Luton,True,Manchester United,,0.38
-Ryan Giles,Luton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,20.75,0.0,0.0,Luton,False,Liverpool,,-1.01
-Ryan Giles,Luton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,19.92,0.0,0.0,Luton,True,Aston Villa,,0.64
-Ryan Giles,Luton,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,19.15,0.0,0.0,Luton,False,Crystal Palace,,0.38
-Ryan Giles,Luton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,18.44,0.0,0.0,Luton,False,Bournemouth,,0.19
-Ryan Giles,Luton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,17.79,0.0,0.0,Luton,True,Nottingham Forest,,1.55
-Ryan Giles,Luton,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,17.17,0.0,0.0,Luton,False,Tottenham,,-0.36
-Ryan Giles,Luton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,16.6,0.0,0.0,Luton,False,Arsenal,,-0.48
-Ryan Giles,Luton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,16.06,0.0,0.0,Luton,True,Bournemouth,,1.22
-Ryan Giles,Luton,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,15.56,0.0,0.0,Luton,False,Manchester City,,-1.32
-Ryan Giles,Luton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,15.09,0.0,0.0,Luton,True,Brentford,,0.79
-Ryan Giles,Luton,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,14.65,0.0,0.0,Luton,False,Wolverhampton,,-0.52
-Ryan Giles,Luton,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,14.23,0.0,0.0,Luton,True,Everton,,0.53
-Ryan Giles,Luton,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,13.83,0.0,0.0,Luton,False,West Ham,,-0.22
-Ryan Giles,Luton,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,13.46,0.0,0.0,Luton,True,Fulham,,-0.13
-Ryan Giles,Luton,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,13.11,0.0,,West Ham,True,Aston Villa,,0.64
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Ryan Giles,Luton,Brighton,,False,90,,,,,0,,,6.1,0,0,4,4.1,1,0.13,0.0,0.0,90.0,0.0,0,0,0,0,1.0,Luton,False,Chelsea,,-0.85
+Ryan Giles,Luton,Chelsea,,False,90,,,,,1,,,4.8,0,0,3,2.09,1,0.12,0.5,0.0,90.0,0.0,0,0,0,0,2.0,Luton,True,West Ham,,0.49
+Ryan Giles,Luton,West Ham,,True,70,,,,,2,,,3.7,0,0,1,0.86,1,0.13,1.0,0.0,83.33,0.0,0,0,0,0,0.0,Luton,False,Fulham,,0.86
+Ryan Giles,Luton,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.15,0.75,0.0,62.5,0.0,0,0,0,0,1.0,Luton,True,Wolverhampton,,0.05
+Ryan Giles,Luton,Wolverhampton,,True,18,,,,,1,,,0.4,0,0,0,0.0,0,0.14,0.8,0.0,53.6,0.0,0,0,0,0,0.0,Luton,False,Everton,,-0.24
+Ryan Giles,Luton,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.15,0.8,0.0,44.67,0.0,0,0,0,0,0.0,Luton,True,Burnley,,0.39
+Ryan Giles,Luton,Burnley,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.15,0.6,0.0,38.29,0.0,0,0,0,0,0.0,Luton,True,Tottenham,,0.69
+Ryan Giles,Luton,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.13,0.2,0.0,33.5,0.0,0,0,0,0,0.0,Luton,False,Nottingham Forest,,-0.55
+Ryan Giles,Luton,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.12,0.2,0.0,29.78,0.0,0,0,0,0,1.0,Luton,False,Aston Villa,,0.29
+Ryan Giles,Luton,Aston Villa,,False,11,,,,,1,,,0.0,0,0,0,0.28,0,0.11,0.2,0.0,27.9,0.0,0,0,0,0,0.0,Luton,True,Liverpool,,0.18
+Ryan Giles,Luton,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.1,0.2,0.0,25.36,0.0,0,0,0,0,1.0,Luton,False,Manchester United,,-0.63
+Ryan Giles,Luton,Manchester United,2023-11-11,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.11,0,0.1,0.4,0.0,23.58,0.0,0,0,0,0,0.0,Luton,True,Crystal Palace,,0.88
+Ryan Giles,Luton,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.1,0.4,0.0,21.77,0.0,0,0,0,0,1.0,Luton,False,Brentford,,-0.53
+Ryan Giles,Luton,Brentford,,False,14,,,,,1,,,1.0,0,0,1,1.71,0,0.1,0.6,0.0,21.21,0.0,0,0,0,0,1.0,Luton,True,Arsenal,,-0.11
+Ryan Giles,Luton,Arsenal,,True,2,,,,,1,,,0.1,0,0,1,0.09,0,0.1,0.6,0.0,19.93,0.0,0,0,0,0,1.0,Luton,True,Manchester City,,-0.96
+Ryan Giles,Luton,Manchester City,2023-12-10,True,83,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,2,1.6,1,0.1,0.8,0.0,23.88,0.0,0,0,0,0,1.0,Luton,True,Newcastle United,,0.55
+Ryan Giles,Luton,Newcastle United,,True,45,,,,,1,,,2.6,0,0,0,0.74,0,0.09,0.8,0.0,25.12,0.0,0,0,0,0,1.0,Luton,False,Sheffield,,-0.61
+Ryan Giles,Luton,Sheffield,,False,71,,,,,1,,,2.8,0,0,2,2.46,1,0.09,1.0,0.0,27.67,0.0,0,0,0,0,0.0,Luton,True,Chelsea,,-0.25
+Ryan Giles,Luton,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.09,0.8,0.0,26.21,0.0,0,0,0,0,0.0,Luton,False,Burnley,,0.0
+Ryan Giles,Luton,Burnley,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.09,0.6,0.0,24.9,0.0,0,0,0,0,0.0,Luton,True,Brighton,,-0.66
+Ryan Giles,Luton,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.09,0.4,0.0,23.71,0.0,0,0,0,0,0.0,Luton,False,Newcastle United,,-0.41
+Ryan Giles,Luton,Newcastle United,2024-02-03,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.09,0.2,0.0,22.64,0.0,0,0,0,0,0.0,Luton,True,Sheffield,,0.68
+Ryan Giles,Luton,Sheffield,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.08,0.0,0.0,21.65,0.0,0,0,0,0,0.0,Luton,True,Manchester United,,0.38
+Ryan Giles,Luton,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.08,0.0,0.0,20.75,0.0,0,0,0,0,0.0,Luton,False,Liverpool,,-1.01
+Ryan Giles,Luton,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.08,0.0,0.0,19.92,0.0,0,0,0,0,0.0,Luton,True,Aston Villa,,0.64
+Ryan Giles,Luton,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.08,0.0,0.0,19.15,0.0,0,0,0,0,0.0,Luton,False,Crystal Palace,,0.38
+Ryan Giles,Luton,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.08,0.0,0.0,18.44,0.0,0,0,0,0,0.0,Luton,False,Bournemouth,,0.19
+Ryan Giles,Luton,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.08,0.0,0.0,17.79,0.0,0,0,0,0,0.0,Luton,True,Nottingham Forest,,1.55
+Ryan Giles,Luton,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.08,0.0,0.0,17.17,0.0,0,0,0,0,0.0,Luton,False,Tottenham,,-0.36
+Ryan Giles,Luton,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.0,0.0,16.6,0.0,0,0,0,0,0.0,Luton,False,Arsenal,,-0.48
+Ryan Giles,Luton,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.0,0.0,16.06,0.0,0,0,0,0,0.0,Luton,True,Bournemouth,,1.22
+Ryan Giles,Luton,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.0,0.0,15.56,0.0,0,0,0,0,0.0,Luton,False,Manchester City,,-1.32
+Ryan Giles,Luton,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.0,0.0,15.09,0.0,0,0,0,0,0.0,Luton,True,Brentford,,0.79
+Ryan Giles,Luton,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.0,0.0,14.65,0.0,0,0,0,0,0.0,Luton,False,Wolverhampton,,-0.52
+Ryan Giles,Luton,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.0,0.0,14.23,0.0,0,0,0,0,0.0,Luton,True,Everton,,0.53
+Ryan Giles,Luton,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.0,0.0,13.83,0.0,0,0,0,0,0.0,Luton,False,West Ham,,-0.22
+Ryan Giles,Luton,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.0,0.0,13.46,0.0,0,0,0,0,0.0,Luton,True,Fulham,,-0.13
+Ryan Giles,Luton,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.0,0.0,13.11,0.0,0,0,0,0,,West Ham,True,Aston Villa,,0.64

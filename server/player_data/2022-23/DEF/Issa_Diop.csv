@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Issa Diop,West Ham,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.12,0.0,0.0,0.0,0.0,0.06,0.29,0.18,0,0.0,Fulham,False,Wolverhampton,,-0.46
+Issa Diop,Fulham,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.14,0.0,0.0,0.0,0.0,0.06,0.29,0.18,0,0.0,Fulham,True,Brentford,,0.69
+Issa Diop,Fulham,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.14,0.0,0.0,0.0,0.0,0.06,0.29,0.18,0,1.0,Fulham,False,Arsenal,,-0.0
+Issa Diop,Fulham,Arsenal,2022-08-27,False,11,0.0,0.0,0.0,0.0,1,0.0,0.0,0.7,0,0,1,0.0,0,0.13,0.25,0.0,2.75,0.0,0.06,0.29,0.18,0,0.0,Fulham,True,Brighton,,-0.71
+Issa Diop,Fulham,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.12,0.2,0.0,2.2,0.0,0.06,0.29,0.18,0,0.0,Fulham,False,Tottenham,,-0.03
+Issa Diop,Fulham,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.12,0.2,0.0,1.83,0.0,0.06,0.29,0.18,0,0.0,Fulham,False,Nottingham Forest,,
+Issa Diop,Fulham,Nottingham Forest,2022-09-16,False,90,0.0,0.0,0.0,0.0,0,0.0,0.0,1.6,0,0,2,0.0,0,0.12,0.2,0.0,14.43,0.0,0.06,0.29,0.18,0,1.0,Fulham,True,Newcastle United,,0.73
+Issa Diop,Fulham,Newcastle United,2022-10-01,True,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,1,0.0,0,0.12,0.4,0.0,18.25,0.0,0.06,0.29,0.18,0,0.0,Fulham,False,West Ham,,0.14
+Issa Diop,Fulham,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.12,0.2,0.0,16.22,0.0,0.06,0.29,0.18,0,9.0,Fulham,True,Bournemouth,,1.46
+Issa Diop,Fulham,Bournemouth,2022-10-15,True,90,1.0,0.16,0.0,0.0,9,1.0,0.0,8.5,2,0,2,0.0,0,0.12,2.0,0.03,23.6,0.0,0.06,0.29,0.18,0,6.0,Fulham,True,Aston Villa,,0.55
+Issa Diop,Fulham,Aston Villa,2022-10-20,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,0.8,0,1,0,0.0,0,0.22,3.2,0.03,29.64,0.2,0.06,0.29,0.18,0,0.0,Fulham,False,Leicester City,,-0.05
+Issa Diop,Fulham,Leicester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.19,3.2,0.03,27.17,0.2,0.06,0.29,0.18,0,7.0,Fulham,True,Everton,,0.34
+Issa Diop,Fulham,Everton,2022-10-29,True,90,0.0,0.0,0.0,0.0,7,0.0,0.0,1.2,1,1,0,0.0,0,0.19,4.4,0.03,32.0,0.33,0.06,0.29,0.18,0,1.0,Fulham,False,Manchester City,,-1.26
+Issa Diop,Fulham,Manchester City,2022-11-05,False,90,0.0,0.02,0.0,0.0,1,1.0,0.0,4.3,0,0,2,0.0,0,0.2,4.6,0.03,36.14,0.29,0.06,0.29,0.18,0,1.0,Fulham,True,Manchester United,,0.38
+Issa Diop,Fulham,Manchester United,2022-11-13,True,90,0.0,0.0,0.0,0.05,1,0.0,1.0,0.0,0,0,2,2.58,1,0.22,3.0,0.0,39.73,0.25,0.06,0.29,0.18,0,6.0,Fulham,False,Crystal Palace,,0.13
+Issa Diop,Fulham,Crystal Palace,2022-12-26,False,90,0.0,0.02,0.0,0.0,6,1.0,0.0,3.8,0,1,0,0.4,1,0.27,3.0,0.01,42.88,0.33,0.06,0.29,0.18,0,2.0,Fulham,True,Southampton,,-0.38
+Issa Diop,Fulham,Southampton,2022-12-31,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.2,0,0,1,0.79,1,0.33,3.4,0.01,45.65,0.3,0.06,0.29,0.18,0,1.0,Fulham,False,Leeds United,,-0.8
+Issa Diop,Fulham,Leeds United,2023-01-03,False,8,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.15,0,0.41,2.2,0.01,43.56,0.27,0.06,0.29,0.18,0,0.0,Fulham,True,Chelsea,,-0.25
+Issa Diop,Fulham,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.41,2.0,0.0,41.26,0.27,0.06,0.29,0.18,0,2.0,Fulham,False,Newcastle United,,-0.34
+Issa Diop,Fulham,Newcastle United,2023-01-15,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.6,0,0,1,2.13,1,0.34,2.2,0.0,43.7,0.25,0.06,0.29,0.18,0,2.0,Fulham,True,Tottenham,,1.07
+Issa Diop,Fulham,Tottenham,2023-01-23,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,1,0.9,1,0.33,1.4,0.0,45.9,0.23,0.06,0.29,0.18,0,8.0,Fulham,False,Chelsea,,-0.72
+Issa Diop,Fulham,Chelsea,2023-02-03,False,90,0.0,0.0,0.0,0.0,8,0.0,0.0,2.3,2,1,0,1.54,1,0.31,2.6,0.0,47.91,0.29,0.06,0.29,0.18,0,6.0,Fulham,True,Nottingham Forest,,
+Issa Diop,Fulham,Nottingham Forest,2023-02-11,True,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.3,0,1,0,0.67,1,0.34,3.6,0.0,49.74,0.33,0.06,0.29,0.18,0,6.0,Fulham,False,Brighton,,-0.39
+Issa Diop,Fulham,Brighton,2023-02-18,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,2.9,1,1,0,2.2,1,0.35,4.8,0.0,51.42,0.38,0.06,0.29,0.18,0,2.0,Fulham,True,Wolverhampton,,-0.48
+Issa Diop,Fulham,Wolverhampton,2023-02-24,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.0,0,0,1,0.8,1,0.58,4.8,0.0,52.96,0.35,0.06,0.29,0.18,0,1.0,Fulham,False,Brentford,,-0.55
+Issa Diop,Fulham,Brentford,2023-03-06,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,3,2.34,1,0.46,4.6,0.0,54.38,0.33,0.06,0.29,0.18,0,0.0,Fulham,True,Arsenal,,0.36
+Issa Diop,Fulham,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.42,3.0,0.0,52.37,0.33,0.06,0.29,0.18,0,1.0,Fulham,False,Bournemouth,,0.19
+Issa Diop,Fulham,Bournemouth,2023-04-01,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.0,0,0,2,2.32,1,0.36,2.0,0.0,53.71,0.32,0.06,0.29,0.18,0,0.0,Fulham,True,West Ham,,0.63
+Issa Diop,Fulham,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.36,0.8,0.0,51.86,0.32,0.06,0.29,0.18,0,0.0,Fulham,False,Everton,,-0.63
+Issa Diop,Fulham,Everton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.35,0.4,0.0,50.13,0.32,0.06,0.29,0.18,0,0.0,Fulham,True,Leicester City,,0.83
+Issa Diop,Fulham,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.33,0.2,0.0,48.52,0.32,0.06,0.29,0.18,0,0.0,Fulham,False,Aston Villa,,0.59
+Issa Diop,Fulham,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.32,0.2,0.0,47.0,0.32,0.06,0.29,0.18,0,2.0,Fulham,True,Manchester City,,-1.17
+Issa Diop,Fulham,Manchester City,2023-04-30,True,68,0.0,0.0,0.0,0.0,2,0.0,0.0,1.8,0,0,1,1.68,0,0.3,0.4,0.0,47.64,0.3,0.06,0.29,0.18,0,2.0,Fulham,False,Liverpool,,-1.33
+Issa Diop,Fulham,Liverpool,2023-05-03,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.3,0,0,1,1.73,1,0.3,0.8,0.0,48.88,0.29,0.06,0.29,0.18,0,2.0,Fulham,True,Leeds United,,-0.79
+Issa Diop,Fulham,Leeds United,2023-05-08,True,76,0.0,0.0,0.0,0.0,2,0.0,0.0,1.9,0,0,1,1.88,1,0.31,1.2,0.0,49.66,0.27,0.06,0.29,0.18,0,8.0,Fulham,False,Southampton,,-1.07
+Issa Diop,Fulham,Southampton,2023-05-13,False,90,0.0,0.0,0.0,0.0,8,0.0,0.0,2.5,2,1,0,0.25,1,0.3,2.8,0.0,50.78,0.3,0.06,0.29,0.18,0,1.0,Fulham,True,Crystal Palace,,0.81
+Issa Diop,Fulham,Crystal Palace,2023-05-20,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,0,2,1.62,1,0.34,3.0,0.0,51.84,0.29,0.06,0.29,0.18,0,1.0,Fulham,False,Manchester United,,-0.1
+Issa Diop,Fulham,Manchester United,2023-05-28,False,90,0.0,0.0,0.0,0.48,1,0.0,1.0,0.0,0,0,2,2.71,1,0.32,2.8,0.0,52.84,0.28,0.06,0.29,0.18,0,8.0,Fulham,False,Everton,,-0.63

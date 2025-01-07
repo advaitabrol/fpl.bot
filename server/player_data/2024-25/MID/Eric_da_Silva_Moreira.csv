@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Eric da Silva Moreira,Nott'm Forest,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,False,Southampton,-1.72,-0.31
-Eric da Silva Moreira,Nott'm Forest,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,True,Wolverhampton,-0.63,-0.08
-Eric da Silva Moreira,Nott'm Forest,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,False,Liverpool,2.76,-1.08
-Eric da Silva Moreira,Nott'm Forest,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,False,Brighton,1.21,-0.61
-Eric da Silva Moreira,Nott'm Forest,Brighton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,True,Fulham,-2.25,0.27
-Eric da Silva Moreira,Nott'm Forest,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,False,Chelsea,-2.46,-0.9
-Eric da Silva Moreira,Nott'm Forest,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,True,Crystal Palace,-0.57,0.88
-Eric da Silva Moreira,Nott'm Forest,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,False,Leicester City,1.63,-0.22
-Eric da Silva Moreira,Nott'm Forest,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,,Nott'm Forest,True,West Ham,-2.72,0.48
-,Nott'm Forest,,,,,,,,,,,,,,,,,,,Nott'm Forest,True,Newcastle United,0.52,0.67
-,Nott'm Forest,,,,,,,,,,,,,,,,,,,Nott'm Forest,False,Arsenal,1.87,-0.56
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Eric da Silva Moreira,Nott'm Forest,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.06,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,False,Southampton,,-0.31
+Eric da Silva Moreira,Nott'm Forest,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.06,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,True,Wolverhampton,,-0.08
+Eric da Silva Moreira,Nott'm Forest,Wolverhampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.06,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,False,Liverpool,,-1.08
+Eric da Silva Moreira,Nott'm Forest,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,False,Brighton,,-0.61
+Eric da Silva Moreira,Nott'm Forest,Brighton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,True,Fulham,,0.27
+Eric da Silva Moreira,Nott'm Forest,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,False,Chelsea,,-0.9
+Eric da Silva Moreira,Nott'm Forest,Chelsea,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,True,Crystal Palace,,0.88
+Eric da Silva Moreira,Nott'm Forest,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,False,Leicester City,,-0.22
+Eric da Silva Moreira,Nott'm Forest,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Nott'm Forest,True,West Ham,,0.48
+Eric da Silva Moreira,Nott'm Forest,West Ham,2024-11-02,True,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.07,0.2,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,True,Newcastle United,,0.67
+Eric da Silva Moreira,Nott'm Forest,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.07,0.2,0.0,0.09,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest,False,Arsenal,,-0.56
+Eric da Silva Moreira,Nott'm Forest,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.07,0.2,0.0,0.08,0.0,0.0,0.0,0.0,0.0,,Nott'm Forest,True,Ipswich Town,,
+,Nott'm Forest,,,,,,,,,,,,,,,,,,,,,,,,,Nott'm Forest,False,Manchester City,,-1.51
+,Nott'm Forest,,,,,,,,,,,,,,,,,,,,,,,,,Nott'm Forest,False,Manchester United,,-0.41

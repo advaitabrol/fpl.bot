@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Romain Faivre,Bournemouth,Nottingham Forest,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,0.0,Bournemouth,True,Newcastle United,-1.78,0.67
-Romain Faivre,Bournemouth,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,0.0,Bournemouth,False,Everton,3.85,-0.39
-Romain Faivre,Bournemouth,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,0.0,Bournemouth,True,Chelsea,-0.01,0.0
-Romain Faivre,Bournemouth,Chelsea,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,0.0,Bournemouth,False,Liverpool,4.89,-1.08
-Romain Faivre,Bournemouth,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,0.0,Bournemouth,True,Southampton,2.91,0.24
-Romain Faivre,Bournemouth,Southampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,0.0,Bournemouth,False,Leicester City,-1.39,-0.22
-Romain Faivre,Bournemouth,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,0.0,Bournemouth,True,Arsenal,4.06,-0.32
-Romain Faivre,Bournemouth,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,0.0,Bournemouth,False,Aston Villa,2.29,0.11
-Romain Faivre,Bournemouth,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,,Bournemouth,True,Manchester City,1.44,-1.18
-,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,False,Brentford,0.82,-0.15
-,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,True,Brighton,-1.19,-0.42
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Romain Faivre,Bournemouth,Nottingham Forest,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.02,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,0.0,Bournemouth,True,Newcastle United,,0.67
+Romain Faivre,Bournemouth,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,0.0,Bournemouth,False,Everton,,-0.39
+Romain Faivre,Bournemouth,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,0.0,Bournemouth,True,Chelsea,,0.0
+Romain Faivre,Bournemouth,Chelsea,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,0.0,Bournemouth,False,Liverpool,,-1.08
+Romain Faivre,Bournemouth,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,0.0,Bournemouth,True,Southampton,,0.24
+Romain Faivre,Bournemouth,Southampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,0.0,Bournemouth,False,Leicester City,,-0.22
+Romain Faivre,Bournemouth,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,0.0,Bournemouth,True,Arsenal,,-0.32
+Romain Faivre,Bournemouth,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,0.0,Bournemouth,False,Aston Villa,,0.11
+Romain Faivre,Bournemouth,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,0.0,Bournemouth,True,Manchester City,,-1.18
+Romain Faivre,Bournemouth,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,0.0,Bournemouth,False,Brentford,,-0.15
+Romain Faivre,Bournemouth,Brentford,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,0.0,Bournemouth,True,Brighton,,-0.42
+Romain Faivre,Bournemouth,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.01,0.0,0.0,0.0,0.0,0.0,0.13,0.0,0.11,,Bournemouth,False,Wolverhampton,,-0.53
+,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,True,Tottenham,,0.74
+,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,False,Ipswich Town,,

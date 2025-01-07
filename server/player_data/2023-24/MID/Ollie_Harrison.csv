@@ -1,15 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Ollie Harrison,Chelsea,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Brentford,0.19,-0.53
-Ollie Harrison,Chelsea,Brentford,2024-03-02,False,0,0.0,0.0,0.0,0.57,0,0.0,1.0,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,True,Newcastle United,-0.46,0.55
-Ollie Harrison,Chelsea,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,True,Burnley,-0.18,0.39
-Ollie Harrison,Chelsea,Burnley,2024-03-30,True,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.01,0.0,0.0,Chelsea,True,Manchester United,-1.38,0.38
-Ollie Harrison,Chelsea,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Sheffield,,-0.61
-Ollie Harrison,Chelsea,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,True,Everton,-0.15,0.53
-Ollie Harrison,Chelsea,Everton,2024-04-15,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Arsenal,-0.54,-0.48
-Ollie Harrison,Chelsea,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Chelsea,False,Aston Villa,-2.75,0.29
-Ollie Harrison,Chelsea,Aston Villa,2024-04-27,False,0,0.0,0.2,0.0,0.0,0,4.0,0.0,0.0,0,0,0.0,0.04,0.0,0.0,Chelsea,True,Tottenham,-1.39,0.69
-Ollie Harrison,Chelsea,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.04,0.0,0.0,Chelsea,True,West Ham,-1.06,0.49
-Ollie Harrison,Chelsea,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.04,0.0,0.0,Chelsea,False,Nottingham Forest,-1.51,-0.55
-Ollie Harrison,Chelsea,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0.0,0.04,0.0,0.0,Chelsea,False,Brighton,2.15,-0.6
-Ollie Harrison,Chelsea,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.04,0.0,0.0,Chelsea,True,Bournemouth,-5.36,1.22
-Ollie Harrison,Chelsea,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,,Fulham,False,Manchester United,0.59,-0.63
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Ollie Harrison,Chelsea,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Brentford,,-0.53
+Ollie Harrison,Chelsea,Brentford,2024-03-02,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Newcastle United,,0.55
+Ollie Harrison,Chelsea,Newcastle United,2024-03-11,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Burnley,,0.39
+Ollie Harrison,Chelsea,Burnley,2024-03-30,True,0,0.0,0.0,0.0,0.01,0,0.0,1.0,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Manchester United,,0.38
+Ollie Harrison,Chelsea,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Sheffield,,-0.61
+Ollie Harrison,Chelsea,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,True,Everton,,0.53
+Ollie Harrison,Chelsea,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Arsenal,,-0.48
+Ollie Harrison,Chelsea,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Chelsea,False,Aston Villa,,0.29
+Ollie Harrison,Chelsea,Aston Villa,2024-04-27,False,0,0.0,0.11,0.0,0.0,0,2.0,0.0,0.0,0,0,0.0,0.0,0.02,0.0,0,0,0,0,0,0.0,Chelsea,True,Tottenham,,0.69
+Ollie Harrison,Chelsea,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.02,0.0,0,0,0,0,0,0.0,Chelsea,True,West Ham,,0.49
+Ollie Harrison,Chelsea,West Ham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.02,0.0,0,0,0,0,0,0.0,Chelsea,False,Nottingham Forest,,-0.55
+Ollie Harrison,Chelsea,Nottingham Forest,2024-05-11,False,0,0.0,0.09,1.0,0.63,0,2.0,3.0,0.0,0,0,0.0,0.0,0.24,0.0,0,0,0,0,0,0.0,Chelsea,False,Brighton,,-0.6
+Ollie Harrison,Chelsea,Brighton,2024-05-15,False,0,0.0,0.07,0.0,0.0,0,1.0,0.0,0.0,0,0,0.0,0.0,0.25,0.0,0,0,0,0,0,0.0,Chelsea,True,Bournemouth,,1.22
+Ollie Harrison,Chelsea,Bournemouth,2024-05-19,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.0,0.0,0.23,0.0,0,0,0,0,0,,Fulham,False,Manchester United,,-0.63

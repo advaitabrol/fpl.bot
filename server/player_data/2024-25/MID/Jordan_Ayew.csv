@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jordan Ayew,Crystal Palace,Brentford,2024-08-18,False,20.0,0.0,0.51,0.0,0.03,0.0,1.0,1.0,2.0,0.0,0.0,0.0,0.51,20.0,4.0,7.0,4.27,4.95,0.04,1.0,Leicester,False,Fulham,,0.53
-Jordan Ayew,Leicester,Fulham,2024-08-24,False,27.0,0.0,0.06,0.0,0.05,1.0,1.0,1.0,2.1,0.0,0.0,0.5,0.29,23.5,4.0,7.0,4.27,4.95,0.04,2.0,Leicester,True,Aston Villa,-0.34,0.66
-Jordan Ayew,Leicester,Aston Villa,2024-08-31,True,66.0,0.0,0.02,0.0,0.01,2.0,1.0,1.0,3.1,0.0,1.0,1.0,0.2,37.67,4.0,7.0,4.27,4.95,0.04,1.0,Leicester,False,Crystal Palace,2.07,0.2
-Jordan Ayew,Leicester,Crystal Palace,2024-09-14,False,82.0,0.0,0.32,0.0,0.0,1.0,2.0,0.0,3.3,0.0,1.0,1.0,0.23,48.75,4.0,7.0,4.27,4.95,0.04,2.0,Leicester,True,Everton,4.46,0.61
-Jordan Ayew,Leicester,Everton,2024-09-21,True,90.0,0.0,0.11,0.0,0.0,2.0,2.0,0.0,1.7,0.0,1.0,1.2,0.2,57.0,4.0,7.0,4.27,4.95,0.04,1.0,Leicester,False,Arsenal,-1.31,-0.56
-Jordan Ayew,Leicester,Arsenal,2024-09-28,False,5.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.4,0.1,48.33,4.0,7.0,4.27,4.95,0.04,2.0,Leicester,True,Bournemouth,,0.84
-Jordan Ayew,Leicester,Bournemouth,2024-10-05,True,87.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,1.0,1.6,0.09,53.86,4.0,7.0,4.27,4.95,0.04,6.0,Leicester,False,Southampton,-3.27,-0.31
-Jordan Ayew,Leicester,Southampton,2024-10-19,False,22.0,1.0,0.06,0.0,0.02,6.0,1.0,1.0,6.7,0.0,0.0,2.4,0.1,49.88,4.0,7.0,4.27,4.95,0.04,0.0,Leicester,True,Nottingham Forest,,1.2
-Jordan Ayew,Leicester,Nottingham Forest,2024-10-25,True,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,2.2,0.03,46.78,4.0,7.0,4.27,4.95,0.04,,Leicester,False,Ipswich Town,,
-,Leicester,,,,,,,,,,,,,,,,,,,,,,,,Leicester,False,Manchester United,0.11,-0.41
-,Leicester,,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,Chelsea,-2.98,0.0
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jordan Ayew,Crystal Palace,Brentford,2024-08-18,False,20.0,0.0,0.51,0.0,0.03,0.0,1.0,1.0,2.0,0.0,0.0,0.37,0.0,0.51,20.0,4.0,7.0,4.27,4.95,0.04,1.0,Leicester,False,Fulham,,0.53
+Jordan Ayew,Leicester,Fulham,2024-08-24,False,27.0,0.0,0.06,0.0,0.05,1.0,1.0,1.0,2.1,0.0,0.0,0.34,0.5,0.29,23.5,4.0,7.0,4.27,4.95,0.04,2.0,Leicester,True,Aston Villa,,0.66
+Jordan Ayew,Leicester,Aston Villa,2024-08-31,True,66.0,0.0,0.02,0.0,0.01,2.0,1.0,1.0,3.1,0.0,1.0,0.28,1.0,0.2,37.67,4.0,7.0,4.27,4.95,0.04,1.0,Leicester,False,Crystal Palace,,0.2
+Jordan Ayew,Leicester,Crystal Palace,2024-09-14,False,82.0,0.0,0.32,0.0,0.0,1.0,2.0,0.0,3.3,0.0,1.0,0.26,1.0,0.23,48.75,4.0,7.0,4.27,4.95,0.04,2.0,Leicester,True,Everton,,0.61
+Jordan Ayew,Leicester,Everton,2024-09-21,True,90.0,0.0,0.11,0.0,0.0,2.0,2.0,0.0,1.7,0.0,1.0,0.25,1.2,0.2,57.0,4.0,7.0,4.27,4.95,0.04,1.0,Leicester,False,Arsenal,,-0.56
+Jordan Ayew,Leicester,Arsenal,2024-09-28,False,5.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.22,1.4,0.1,48.33,4.0,7.0,4.27,4.95,0.04,2.0,Leicester,True,Bournemouth,,0.84
+Jordan Ayew,Leicester,Bournemouth,2024-10-05,True,87.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,1.0,0.21,1.6,0.09,53.86,4.0,7.0,4.27,4.95,0.04,6.0,Leicester,False,Southampton,,-0.31
+Jordan Ayew,Leicester,Southampton,2024-10-19,False,22.0,1.0,0.06,0.0,0.02,6.0,1.0,1.0,6.7,0.0,0.0,0.2,2.4,0.1,49.88,4.0,7.0,4.27,4.95,0.04,0.0,Leicester,True,Nottingham Forest,,1.2
+Jordan Ayew,Leicester,Nottingham Forest,2024-10-25,True,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.0,0.0,0.21,2.2,0.03,46.78,4.0,7.0,4.27,4.95,0.04,7.0,Leicester,False,Ipswich Town,,
+Jordan Ayew,Leicester,Ipswich Town,2024-11-02,False,4.0,1.0,1.3,0.0,0.0,7.0,5.0,0.0,9.0,1.0,0.0,0.21,3.2,0.27,42.5,4.0,7.0,4.27,4.95,0.04,2.0,Leicester,False,Manchester United,,-0.41
+Jordan Ayew,Leicester,Manchester United,2024-11-10,False,87.0,0.0,0.05,0.0,0.0,2.0,1.0,0.0,3.8,0.0,1.0,0.22,3.4,0.28,46.55,4.0,7.0,4.27,4.95,0.04,7.0,Leicester,True,Chelsea,,0.0
+Jordan Ayew,Leicester,Chelsea,2024-11-23,True,19.0,1.0,0.76,0.0,0.0,7.0,1.0,0.0,5.3,1.0,0.0,0.21,4.4,0.43,44.25,4.0,7.0,4.27,4.95,0.04,,Leicester,False,Brentford,,-0.15
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,West Ham,,0.48
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,Brighton,,-0.42

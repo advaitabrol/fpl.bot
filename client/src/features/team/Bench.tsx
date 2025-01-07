@@ -1,15 +1,10 @@
 import React from 'react';
 import styled from 'styled-components';
 import Player from './Player';
+import { Player as PlayerType } from '../../services/interfaces';
 
 interface BenchProps {
-  players: Array<{
-    name: string;
-    team: string;
-    price: number;
-    expected_points: number[];
-    isCaptain: boolean[];
-  }>;
+  players: PlayerType[];
   weekIndex?: number; // Optional weekIndex prop to show specific week's points
 }
 
@@ -21,9 +16,27 @@ const BenchWrapper = styled.div`
 `;
 
 const Bench: React.FC<BenchProps> = ({ players, weekIndex }) => {
+  // Sort players: GK always first, others ordered by highest expected points
+  const sortedPlayers = [
+    ...players.filter((player) => player.position === 'GK'), // GK always first
+    ...players
+      .filter((player) => player.position !== 'GK') // Other players
+      .sort((a, b) => {
+        const pointsA =
+          weekIndex !== undefined
+            ? a.expected_points[weekIndex]
+            : Math.max(...a.expected_points);
+        const pointsB =
+          weekIndex !== undefined
+            ? b.expected_points[weekIndex]
+            : Math.max(...b.expected_points);
+        return pointsB - pointsA; // Descending order by expected points
+      }),
+  ];
+
   return (
     <BenchWrapper>
-      {players.map((player, index) => (
+      {sortedPlayers.map((player, index) => (
         <Player key={index} player={player} weekIndex={weekIndex} />
       ))}
     </BenchWrapper>

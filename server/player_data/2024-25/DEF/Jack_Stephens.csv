@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jack Stephens,Southampton,Newcastle United,2024-08-17,False,90.0,0.0,0.0,0.0,0.03,1.0,0.0,1.0,3.3,0.0,0.0,1.0,0.25,1.0,1.0,0.0,90.0,0.0,2.0,Southampton,True,Nottingham Forest,3.03,1.2
-Jack Stephens,Southampton,Nottingham Forest,2024-08-24,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.1,0.0,0.0,1.0,2.45,1.0,1.5,0.0,90.0,0.0,1.0,Southampton,False,Brentford,4.79,-0.15
-Jack Stephens,Southampton,Brentford,2024-08-31,False,90.0,0.0,0.14,0.0,0.0,1.0,1.0,0.0,1.1,0.0,0.0,3.0,2.78,1.0,1.33,0.05,90.0,0.0,-2.0,Southampton,True,Manchester United,1.12,0.39
-Jack Stephens,Southampton,Manchester United,2024-09-14,True,78.0,0.0,0.0,0.0,0.0,-2.0,0.0,0.0,1.5,0.0,0.0,3.0,1.9,1.0,0.5,0.03,87.0,0.0,0.0,Southampton,True,Ipswich Town,,
-Jack Stephens,Southampton,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.03,69.6,0.0,0.0,Southampton,False,Bournemouth,-0.76,-0.04
-Jack Stephens,Southampton,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.03,58.0,0.0,0.0,Southampton,False,Arsenal,0.71,-0.56
-Jack Stephens,Southampton,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,-0.2,0.03,49.71,0.0,0.0,Southampton,True,Leicester City,-1.16,0.47
-Jack Stephens,Southampton,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,-0.4,0.0,43.5,0.0,2.0,Southampton,False,Manchester City,3.44,-1.51
-Jack Stephens,Southampton,Manchester City,2024-10-26,False,90.0,0.0,0.0,0.0,0.23,2.0,0.0,1.0,2.8,0.0,0.0,1.0,2.95,1.0,0.4,0.0,48.67,0.0,,Southampton,True,Everton,0.11,0.61
-,Southampton,,,,,,,,,,,,,,,,,,,,,,,Southampton,False,Wolverhampton,2.86,-0.53
-,Southampton,,,,,,,,,,,,,,,,,,,,,,,Southampton,True,Liverpool,-0.47,0.24
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jack Stephens,Southampton,Newcastle United,2024-08-17,False,90.0,0.0,0.0,0.0,0.03,1.0,0.0,1.0,3.3,0.0,0.0,1.0,0.25,1.0,0.2,1.0,0.0,90.0,0.0,0.0,0.0,0.0,0.0,2.0,Southampton,True,Nottingham Forest,,1.2
+Jack Stephens,Southampton,Nottingham Forest,2024-08-24,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.1,0.0,0.0,1.0,2.45,1.0,0.32,1.5,0.0,90.0,0.0,0.0,0.0,0.0,0.0,1.0,Southampton,False,Brentford,,-0.15
+Jack Stephens,Southampton,Brentford,2024-08-31,False,90.0,0.0,0.14,0.0,0.0,1.0,1.0,0.0,1.1,0.0,0.0,3.0,2.78,1.0,0.65,1.33,0.05,90.0,0.0,0.0,0.0,0.0,0.0,-2.0,Southampton,True,Manchester United,,0.39
+Jack Stephens,Southampton,Manchester United,2024-09-14,True,78.0,0.0,0.0,0.0,0.0,-2.0,0.0,0.0,1.5,0.0,0.0,3.0,1.9,1.0,0.95,0.5,0.03,87.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Ipswich Town,,
+Jack Stephens,Southampton,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.77,0.4,0.03,69.6,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Bournemouth,,-0.04
+Jack Stephens,Southampton,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.69,0.2,0.03,58.0,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,False,Arsenal,,-0.56
+Jack Stephens,Southampton,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.65,-0.2,0.03,49.71,0.0,0.0,0.0,0.0,0.0,0.0,Southampton,True,Leicester City,,0.47
+Jack Stephens,Southampton,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.6,-0.4,0.0,43.5,0.0,0.0,0.0,0.0,0.0,2.0,Southampton,False,Manchester City,,-1.51
+Jack Stephens,Southampton,Manchester City,2024-10-26,False,90.0,0.0,0.0,0.0,0.23,2.0,0.0,1.0,2.8,0.0,0.0,1.0,2.95,1.0,0.59,0.4,0.0,48.67,0.0,0.0,0.0,0.0,0.0,6.0,Southampton,True,Everton,,0.61
+Jack Stephens,Southampton,Everton,2024-11-02,True,78.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,1.2,0.0,1.0,0.0,0.51,1.0,0.59,1.6,0.0,51.6,0.17,0.0,0.0,0.0,0.0,0.0,Southampton,False,Wolverhampton,,-0.53
+Jack Stephens,Southampton,Wolverhampton,2024-11-09,False,59.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2,0.0,0.0,2.0,1.23,1.0,0.66,1.6,0.0,52.27,0.14,0.0,0.0,0.0,0.0,0.0,Southampton,True,Liverpool,,0.24
+Jack Stephens,Southampton,Liverpool,2024-11-24,True,90.0,0.0,0.07,0.0,0.0,0.0,1.0,0.0,2.6,0.0,0.0,3.0,3.15,1.0,0.7,1.6,0.01,55.42,0.12,0.0,0.0,0.0,0.0,,Southampton,False,Brighton,,-0.61
+,Southampton,,,,,,,,,,,,,,,,,,,,,,,,,,,,Southampton,True,Chelsea,,0.0
+,Southampton,,,,,,,,,,,,,,,,,,,,,,,,,,,,Southampton,False,Aston Villa,,0.11

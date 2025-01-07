@@ -1,10 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Mikey Moore,Spurs,Leicester City,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.67,0.0,Spurs,True,Everton,-2.75,0.61
-Mikey Moore,Spurs,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.67,0.0,Spurs,False,Newcastle United,4.3,-0.44
-Mikey Moore,Spurs,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.67,0.0,Spurs,True,Arsenal,-0.34,-0.32
-Mikey Moore,Spurs,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.67,1.0,Spurs,True,Brentford,-1.31,0.54
-Mikey Moore,Spurs,Brentford,2024-09-21,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0.2,0.0,0.4,0.0,0.0,0.0,0.0,0.67,1.0,Spurs,False,Manchester United,2.48,-0.41
-Mikey Moore,Spurs,Manchester United,2024-09-29,False,14,0.0,0.05,0.0,0.0,1,1.0,0.0,0.2,0,0,0.4,0.01,2.67,0.0,0.0,0.0,0.0,0.67,1.0,Spurs,False,Brighton,0.26,-0.61
-Mikey Moore,Spurs,Brighton,2024-10-06,False,5,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0.6,0.01,3.0,0.0,0.0,0.0,0.0,0.67,0.0,Spurs,True,West Ham,0.26,0.48
-Mikey Moore,Spurs,West Ham,,True,0,,,,,0,,,0.0,0,0,0.6,0.01,2.62,0.0,0.0,0.0,0.0,0.67,2.0,Spurs,False,Crystal Palace,0.96,0.2
-Mikey Moore,Spurs,Crystal Palace,2024-10-27,False,61,0.0,0.0,0.0,0.0,2,0.0,0.0,0.3,0,1,1.0,0.01,9.11,0.0,0.0,0.0,0.0,0.67,,,,,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Mikey Moore,Spurs,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.08,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.67,0.0,Spurs,True,Everton,,0.61
+Mikey Moore,Spurs,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.67,0.0,Spurs,False,Newcastle United,,-0.44
+Mikey Moore,Spurs,Newcastle United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.67,0.0,Spurs,True,Arsenal,,-0.32
+Mikey Moore,Spurs,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.67,1.0,Spurs,True,Brentford,,0.54
+Mikey Moore,Spurs,Brentford,2024-09-21,True,2.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,0.3,0.2,0.0,0.4,0.0,0.0,0.0,0.0,0.67,1.0,Spurs,False,Manchester United,,-0.41
+Mikey Moore,Spurs,Manchester United,2024-09-29,False,14.0,0.0,0.05,0.0,0.0,1.0,1.0,0.0,0.2,0.0,0.0,0.29,0.4,0.01,2.67,0.0,0.0,0.0,0.0,0.67,1.0,Spurs,False,Brighton,,-0.61
+Mikey Moore,Spurs,Brighton,2024-10-06,False,5.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,0.3,0.6,0.01,3.0,0.0,0.0,0.0,0.0,0.67,0.0,Spurs,True,West Ham,,0.48
+Mikey Moore,Spurs,West Ham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.31,0.6,0.01,2.62,0.0,0.0,0.0,0.0,0.67,2.0,Spurs,False,Crystal Palace,,0.2
+Mikey Moore,Spurs,Crystal Palace,2024-10-27,False,61.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.3,0.0,1.0,0.31,1.0,0.01,9.11,0.0,0.0,0.0,0.0,0.67,0.0,Spurs,True,Aston Villa,,0.66
+Mikey Moore,Spurs,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.36,0.8,0.01,8.2,0.0,0.0,0.0,0.0,0.67,0.0,Spurs,True,Ipswich Town,,
+Mikey Moore,Spurs,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.33,0.6,0.0,7.45,0.0,0.0,0.0,0.0,0.67,0.0,Spurs,False,Manchester City,,-1.51
+Mikey Moore,Spurs,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.3,0.4,0.0,6.83,0.0,0.0,0.0,0.0,0.67,,Spurs,True,Fulham,,0.27
+,Spurs,,,,,,,,,,,,,,,,,,,,,,,,,Spurs,False,Bournemouth,,-0.04
+,Spurs,,,,,,,,,,,,,,,,,,,,,,,,,Spurs,True,Chelsea,,0.0

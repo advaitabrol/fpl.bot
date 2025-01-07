@@ -1,8 +1,8 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';
 import PlayerRow from '../team/PlayerRow';
 import Bench from '../team/Bench';
-import teamData from '../../data/testTeam.json';
+import { TeamData, Player } from '../../services/interfaces'; // Ensure correct import
 
 const PageWrapper = styled.div`
   display: flex;
@@ -25,12 +25,12 @@ const SectionTitle = styled.h2`
 const TeamStatsBox = styled.div`
   background-color: #f0f0f0;
   border: 1px solid #ccc;
-  padding: 0.8rem; /* Reduced padding for a more compact look */
+  padding: 0.8rem;
   border-radius: 8px;
   margin-bottom: 0.5rem;
   text-align: center;
-  width: 250px; /* Slightly reduced width */
-  min-height: 30px; /* Slightly reduced minimum height */
+  width: 250px;
+  min-height: 30px;
 `;
 
 const Stat = styled.div`
@@ -39,30 +39,73 @@ const Stat = styled.div`
 `;
 
 const FreeHitTeam: React.FC = () => {
-  const currentWeek = 0;
+  const [teamData, setTeamData] = useState<TeamData | null>(null);
+  const [loading, setLoading] = useState<boolean>(true);
+  const [error, setError] = useState<string | null>(null);
+  const currentWeek = 0; // Assuming current week is 0-based index
 
+  useEffect(() => {
+    const fetchTeamData = async () => {
+      try {
+        setLoading(true);
+        const response = await fetch(
+          `${import.meta.env.VITE_API_URL}/teams/freehit-team`
+        );
+        if (!response.ok) {
+          throw new Error('Failed to fetch team data.');
+        }
+        const data: TeamData = await response.json(); // Specify expected type
+        console.log(data);
+        setTeamData(data);
+      } catch (err: unknown) {
+        if (err instanceof Error) {
+          setError(err.message); // Narrow to Error type
+        } else {
+          setError('An unexpected error occurred'); // Fallback for non-Error objects
+        }
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchTeamData();
+  }, []);
+
+  if (loading) {
+    return <PageWrapper>Loading...</PageWrapper>;
+  }
+
+  if (error) {
+    return <PageWrapper>Error: {error}</PageWrapper>;
+  }
+
+  if (!teamData || !teamData.team) {
+    return <PageWrapper>No team data available.</PageWrapper>;
+  }
+
+  // Safeguard: Ensure teamData and its properties are defined
   const startingPlayers = {
     GK: teamData.team.filter(
-      (player) => player.position === 'GK' && !player.isBench[currentWeek]
+      (player: Player) => player.position === 'GK' && !player.isBench[0]
     ),
     DEF: teamData.team.filter(
-      (player) => player.position === 'DEF' && !player.isBench[currentWeek]
+      (player: Player) => player.position === 'DEF' && !player.isBench[0]
     ),
     MID: teamData.team.filter(
-      (player) => player.position === 'MID' && !player.isBench[currentWeek]
+      (player: Player) => player.position === 'MID' && !player.isBench[0]
     ),
-    ATT: teamData.team.filter(
-      (player) => player.position === 'ATT' && !player.isBench[currentWeek]
+    FWD: teamData.team.filter(
+      (player: Player) => player.position === 'FWD' && !player.isBench[0]
     ),
   };
 
   const benchPlayers = teamData.team.filter(
-    (player) => player.isBench[currentWeek]
+    (player: Player) => player.isBench[0]
   );
 
   const projectedPoints = teamData.team
-    .filter((player) => !player.isBench[currentWeek])
-    .reduce((sum, player) => sum + player.expected_points[currentWeek], 0)
+    .filter((player: Player) => !player.isBench[0])
+    .reduce((sum: number, player: Player) => sum + player.expected_points[0], 0)
     .toFixed(2);
 
   return (
@@ -73,13 +116,12 @@ const FreeHitTeam: React.FC = () => {
 
       <TeamWrapper>
         <SectionTitle>Starting XI</SectionTitle>
-        <PlayerRow players={startingPlayers.GK} weekIndex={0} />
-        <PlayerRow players={startingPlayers.DEF} weekIndex={0} />
-        <PlayerRow players={startingPlayers.MID} weekIndex={0} />
-        <PlayerRow players={startingPlayers.ATT} weekIndex={0} />
+        <PlayerRow players={startingPlayers.GK} weekIndex={currentWeek} />
+        <PlayerRow players={startingPlayers.DEF} weekIndex={currentWeek} />
+        <PlayerRow players={startingPlayers.MID} weekIndex={currentWeek} />
+        <PlayerRow players={startingPlayers.FWD} weekIndex={currentWeek} />
         <SectionTitle>Bench</SectionTitle>
-        <Bench players={benchPlayers} weekIndex={0} />{' '}
-        {/* Pass weekIndex to Bench */}
+        <Bench players={benchPlayers} weekIndex={currentWeek} />
       </TeamWrapper>
     </PageWrapper>
   );

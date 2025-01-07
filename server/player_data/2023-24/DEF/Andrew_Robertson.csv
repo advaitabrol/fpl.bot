@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Andrew Robertson,Liverpool,Chelsea,2023-08-13,False,90,0.0,0.0,0.0,0.02,2,0.0,1.0,4.1,0,0,1,1.28,1,2.0,0.0,90.0,0.0,2.0,Liverpool,True,Bournemouth,-5.88,1.22
-Andrew Robertson,Liverpool,Bournemouth,2023-08-19,True,90,0.0,0.0,0.0,0.17,2,0.0,3.0,7.0,0,0,1,1.29,1,2.0,0.0,90.0,0.0,2.0,Liverpool,False,Newcastle United,-0.28,-0.41
-Andrew Robertson,Liverpool,Newcastle United,2023-08-27,False,90,0.0,0.0,0.0,0.01,2,0.0,1.0,3.2,0,0,1,2.0,1,2.0,0.0,90.0,0.0,6.0,Liverpool,True,Aston Villa,0.6,0.64
-Andrew Robertson,Liverpool,Aston Villa,2023-09-03,True,90,0.0,0.0,0.0,0.02,6,0.0,1.0,4.4,0,1,0,0.66,1,3.0,0.0,90.0,0.25,11.0,Liverpool,False,Wolverhampton,3.36,-0.52
-Andrew Robertson,Liverpool,Wolverhampton,2023-09-16,False,90,1.0,0.49,0.0,0.14,11,1.0,2.0,11.1,3,0,1,0.63,1,4.6,0.1,90.0,0.2,2.0,Liverpool,True,West Ham,0.54,0.49
-Andrew Robertson,Liverpool,West Ham,2023-09-24,True,90,0.0,0.0,0.0,0.51,2,0.0,5.0,8.8,0,0,1,1.11,1,4.6,0.1,90.0,0.17,0.0,Liverpool,False,Tottenham,1.74,-0.36
-Andrew Robertson,Liverpool,Tottenham,2023-09-30,False,90,0.0,0.06,0.0,0.2,0,1.0,4.0,9.2,0,0,2,2.1,1,4.2,0.11,90.0,0.14,1.0,Liverpool,False,Brighton,0.48,-0.6
-Andrew Robertson,Liverpool,Brighton,2023-10-08,False,90,0.0,0.0,0.0,0.06,1,0.0,2.0,4.9,0,0,2,2.3,1,4.0,0.11,90.0,0.12,0.0,Liverpool,True,Everton,-1.32,0.53
-Andrew Robertson,Liverpool,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.8,0.11,80.0,0.12,0.0,Liverpool,True,Nottingham Forest,0.91,1.55
-Andrew Robertson,Liverpool,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.01,72.0,0.12,0.0,Liverpool,False,Luton,,
-Andrew Robertson,Liverpool,Luton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.01,65.45,0.12,0.0,Liverpool,True,Brentford,-2.91,0.79
-Andrew Robertson,Liverpool,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,60.0,0.12,0.0,Liverpool,False,Manchester City,1.92,-1.32
-Andrew Robertson,Liverpool,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,55.38,0.12,0.0,Liverpool,True,Fulham,0.11,-0.13
-Andrew Robertson,Liverpool,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,51.43,0.12,0.0,Liverpool,False,Sheffield,,-0.61
-Andrew Robertson,Liverpool,Sheffield,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,48.0,0.12,0.0,Liverpool,False,Crystal Palace,-0.31,0.38
-Andrew Robertson,Liverpool,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,45.0,0.12,0.0,Liverpool,True,Manchester United,-4.17,0.38
-Andrew Robertson,Liverpool,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,42.35,0.12,0.0,Liverpool,True,Arsenal,-1.17,-0.11
-Andrew Robertson,Liverpool,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,40.0,0.12,0.0,Liverpool,False,Burnley,-0.79,0.0
-Andrew Robertson,Liverpool,Burnley,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,37.89,0.12,0.0,Liverpool,True,Newcastle United,0.08,0.55
-Andrew Robertson,Liverpool,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,36.0,0.12,0.0,Liverpool,False,Bournemouth,2.9,0.19
-Andrew Robertson,Liverpool,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,34.29,0.12,1.0,Liverpool,True,Chelsea,0.25,-0.25
-Andrew Robertson,Liverpool,Chelsea,2024-01-31,True,21,0.0,0.0,0.0,0.43,1,0.0,1.0,2.4,0,0,1,0.18,0,0.2,0.0,33.68,0.11,0.0,Liverpool,False,Arsenal,3.5,-0.48
-Andrew Robertson,Liverpool,Arsenal,2024-02-04,False,32,0.0,0.0,0.0,0.0,0,0.0,0.0,0.5,0,0,2,1.42,0,0.2,0.0,33.61,0.1,2.0,Liverpool,True,Burnley,-2.64,0.39
-Andrew Robertson,Liverpool,Burnley,2024-02-10,True,90,0.0,0.35,0.0,0.63,2,1.0,5.0,11.6,0,0,1,1.33,1,0.6,0.07,35.96,0.09,2.0,Liverpool,False,Brentford,5.51,-0.53
-Andrew Robertson,Liverpool,Brentford,2024-02-17,False,90,0.0,0.0,0.0,0.13,2,0.0,2.0,6.9,0,0,1,1.69,1,1.0,0.07,38.12,0.08,4.0,Liverpool,True,Luton,,
-Andrew Robertson,Liverpool,Luton,2024-02-21,True,22,0.0,0.0,1.0,0.42,4,0.0,1.0,3.3,0,0,0,0.16,0,1.8,0.27,37.5,0.08,0.0,Liverpool,False,Nottingham Forest,3.7,-0.55
-Andrew Robertson,Liverpool,Nottingham Forest,2024-03-02,False,59,0.0,0.08,0.0,0.1,0,1.0,4.0,7.7,0,0,0,0.64,1,1.6,0.29,38.3,0.07,1.0,Liverpool,True,Manchester City,-1.69,-0.96
-Andrew Robertson,Liverpool,Manchester City,2024-03-10,True,29,0.0,0.0,0.0,0.53,1,0.0,3.0,5.7,0,0,0,0.07,0,1.8,0.29,37.96,0.07,0.0,Liverpool,True,Brighton,2.85,-0.66
-Andrew Robertson,Liverpool,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.4,0.22,36.66,0.07,4.0,Liverpool,True,Sheffield,,0.68
-Andrew Robertson,Liverpool,Sheffield,2024-04-04,True,30,0.0,0.21,1.0,0.17,4,1.0,1.0,5.3,0,0,0,0.0,0,1.8,0.46,36.43,0.06,1.0,Liverpool,False,Manchester United,-0.0,-0.63
-Andrew Robertson,Liverpool,Manchester United,2024-04-07,False,90,0.0,0.07,0.0,0.94,1,2.0,4.0,9.2,0,0,2,0.71,1,1.2,0.27,38.16,0.06,2.0,Liverpool,True,Crystal Palace,0.33,0.88
-Andrew Robertson,Liverpool,Crystal Palace,2024-04-14,True,90,0.0,0.0,0.0,0.21,2,0.0,4.0,10.3,0,0,1,1.87,1,1.6,0.26,39.78,0.06,2.0,Liverpool,False,Fulham,1.98,0.86
-Andrew Robertson,Liverpool,Fulham,2024-04-21,False,90,0.0,0.0,0.0,0.15,2,0.0,2.0,4.0,0,0,1,0.8,1,1.8,0.26,41.3,0.05,1.0,Liverpool,False,Everton,-0.44,-0.24
-Andrew Robertson,Liverpool,Everton,2024-04-24,False,83,0.0,0.07,0.0,0.14,1,1.0,3.0,10.7,0,0,2,1.05,1,2.0,0.27,42.53,0.05,9.0,Liverpool,False,West Ham,4.92,-0.22
-Andrew Robertson,Liverpool,West Ham,2024-04-27,False,90,1.0,0.16,0.0,0.25,9,2.0,5.0,18.0,2,0,2,0.7,1,3.0,0.06,43.89,0.05,13.0,Liverpool,True,Tottenham,,0.69
-Andrew Robertson,Liverpool,Tottenham,2024-05-05,True,63,1.0,0.95,0.0,0.52,13,2.0,1.0,10.1,1,1,0,0.28,1,5.4,0.23,44.42,0.09,0.0,Liverpool,False,Aston Villa,-0.35,0.29
-Andrew Robertson,Liverpool,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,5.0,0.23,43.22,0.09,8.0,Liverpool,True,Wolverhampton,,0.05
-Andrew Robertson,Liverpool,Wolverhampton,2024-05-19,True,90,0.0,0.0,0.0,0.92,8,0.0,7.0,13.5,2,1,0,0.56,1,6.2,0.23,44.45,0.13,6.0,Liverpool,False,Ipswich Town,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Andrew Robertson,Liverpool,Chelsea,2023-08-13,False,90,0.0,0.0,0.0,0.02,2,0.0,1.0,4.1,0,0,1,1.28,1,2.71,2.0,0.0,90.0,0.0,1.09,6.81,0.31,24.94,2.0,Liverpool,True,Bournemouth,,1.22
+Andrew Robertson,Liverpool,Bournemouth,2023-08-19,True,90,0.0,0.0,0.0,0.17,2,0.0,3.0,7.0,0,0,1,1.29,1,3.62,2.0,0.0,90.0,0.0,1.09,6.81,0.31,24.94,2.0,Liverpool,False,Newcastle United,,-0.41
+Andrew Robertson,Liverpool,Newcastle United,2023-08-27,False,90,0.0,0.0,0.0,0.01,2,0.0,1.0,3.2,0,0,1,2.0,1,3.65,2.0,0.0,90.0,0.0,1.09,6.81,0.31,24.94,6.0,Liverpool,True,Aston Villa,,0.64
+Andrew Robertson,Liverpool,Aston Villa,2023-09-03,True,90,0.0,0.0,0.0,0.02,6,0.0,1.0,4.4,0,1,0,0.66,1,3.85,3.0,0.0,90.0,0.25,1.09,6.81,0.31,24.94,11.0,Liverpool,False,Wolverhampton,,-0.52
+Andrew Robertson,Liverpool,Wolverhampton,2023-09-16,False,90,1.0,0.49,0.0,0.14,11,1.0,2.0,11.1,3,0,1,0.63,1,4.65,4.6,0.1,90.0,0.2,1.09,6.81,0.31,24.94,2.0,Liverpool,True,West Ham,,0.49
+Andrew Robertson,Liverpool,West Ham,2023-09-24,True,90,0.0,0.0,0.0,0.51,2,0.0,5.0,8.8,0,0,1,1.11,1,6.2,4.6,0.1,90.0,0.17,1.09,6.81,0.31,24.94,0.0,Liverpool,False,Tottenham,,-0.36
+Andrew Robertson,Liverpool,Tottenham,2023-09-30,False,90,0.0,0.06,0.0,0.2,0,1.0,4.0,9.2,0,0,2,2.1,1,6.28,4.2,0.11,90.0,0.14,1.09,6.81,0.31,24.94,1.0,Liverpool,False,Brighton,,-0.6
+Andrew Robertson,Liverpool,Brighton,2023-10-08,False,90,0.0,0.0,0.0,0.06,1,0.0,2.0,4.9,0,0,2,2.3,1,6.28,4.0,0.11,90.0,0.12,1.09,6.81,0.31,24.94,0.0,Liverpool,True,Everton,,0.53
+Andrew Robertson,Liverpool,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,4.61,2.8,0.11,80.0,0.12,1.09,6.81,0.31,24.94,0.0,Liverpool,True,Nottingham Forest,,1.55
+Andrew Robertson,Liverpool,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3.31,0.6,0.01,72.0,0.12,1.09,6.81,0.31,24.94,0.0,Liverpool,False,Luton,,
+Andrew Robertson,Liverpool,Luton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.79,0.2,0.01,65.45,0.12,1.09,6.81,0.31,24.94,0.0,Liverpool,True,Brentford,,0.79
+Andrew Robertson,Liverpool,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.57,0.2,0.0,60.0,0.12,1.09,6.81,0.31,24.94,0.0,Liverpool,False,Manchester City,,-1.32
+Andrew Robertson,Liverpool,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.41,0.0,0.0,55.38,0.12,1.09,6.81,0.31,24.94,0.0,Liverpool,True,Fulham,,-0.13
+Andrew Robertson,Liverpool,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.35,0.0,0.0,51.43,0.12,1.09,6.81,0.31,24.94,0.0,Liverpool,False,Sheffield,,-0.61
+Andrew Robertson,Liverpool,Sheffield,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.31,0.0,0.0,48.0,0.12,1.09,6.81,0.31,24.94,0.0,Liverpool,False,Crystal Palace,,0.38
+Andrew Robertson,Liverpool,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.28,0.0,0.0,45.0,0.12,1.09,6.81,0.31,24.94,0.0,Liverpool,True,Manchester United,,0.38
+Andrew Robertson,Liverpool,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.24,0.0,0.0,42.35,0.12,1.09,6.81,0.31,24.94,0.0,Liverpool,True,Arsenal,,-0.11
+Andrew Robertson,Liverpool,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.22,0.0,0.0,40.0,0.12,1.09,6.81,0.31,24.94,0.0,Liverpool,False,Burnley,,0.0
+Andrew Robertson,Liverpool,Burnley,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.2,0.0,0.0,37.89,0.12,1.09,6.81,0.31,24.94,0.0,Liverpool,True,Newcastle United,,0.55
+Andrew Robertson,Liverpool,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,2.19,0.0,0.0,36.0,0.12,1.09,6.81,0.31,24.94,0.0,Liverpool,False,Bournemouth,,0.19
+Andrew Robertson,Liverpool,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,2.16,0.0,0.0,34.29,0.12,1.09,6.81,0.31,24.94,1.0,Liverpool,True,Chelsea,,-0.25
+Andrew Robertson,Liverpool,Chelsea,2024-01-31,True,21,0.0,0.0,0.0,0.43,1,0.0,1.0,2.4,0,0,1,0.18,0,2.25,0.2,0.0,33.68,0.11,1.09,6.81,0.31,24.94,0.0,Liverpool,False,Arsenal,,-0.48
+Andrew Robertson,Liverpool,Arsenal,2024-02-04,False,32,0.0,0.0,0.0,0.0,0,0.0,0.0,0.5,0,0,2,1.42,0,2.3,0.2,0.0,33.61,0.1,1.09,6.81,0.31,24.94,2.0,Liverpool,True,Burnley,,0.39
+Andrew Robertson,Liverpool,Burnley,2024-02-10,True,90,0.0,0.35,0.0,0.63,2,1.0,5.0,11.6,0,0,1,1.33,1,2.61,0.6,0.07,35.96,0.09,1.09,6.81,0.31,24.94,2.0,Liverpool,False,Brentford,,-0.53
+Andrew Robertson,Liverpool,Brentford,2024-02-17,False,90,0.0,0.0,0.0,0.13,2,0.0,2.0,6.9,0,0,1,1.69,1,4.38,1.0,0.07,38.12,0.08,1.09,6.81,0.31,24.94,4.0,Liverpool,True,Luton,,
+Andrew Robertson,Liverpool,Luton,2024-02-21,True,22,0.0,0.0,1.0,0.42,4,0.0,1.0,3.3,0,0,0,0.16,0,4.38,1.8,0.27,37.5,0.08,1.09,6.81,0.31,24.94,0.0,Liverpool,False,Nottingham Forest,,-0.55
+Andrew Robertson,Liverpool,Nottingham Forest,2024-03-02,False,59,0.0,0.08,0.0,0.1,0,1.0,4.0,7.7,0,0,0,0.64,1,3.76,1.6,0.29,38.3,0.07,1.09,6.81,0.31,24.94,1.0,Liverpool,True,Manchester City,,-0.96
+Andrew Robertson,Liverpool,Manchester City,2024-03-10,True,29,0.0,0.0,0.0,0.53,1,0.0,3.0,5.7,0,0,0,0.07,0,3.72,1.8,0.29,37.96,0.07,1.09,6.81,0.31,24.94,0.0,Liverpool,True,Brighton,,-0.66
+Andrew Robertson,Liverpool,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,3.37,1.4,0.22,36.66,0.07,1.09,6.81,0.31,24.94,4.0,Liverpool,True,Sheffield,,0.68
+Andrew Robertson,Liverpool,Sheffield,2024-04-04,True,30,0.0,0.21,1.0,0.17,4,1.0,1.0,5.3,0,0,0,0.0,0,3.04,1.8,0.46,36.43,0.06,1.09,6.81,0.31,24.94,1.0,Liverpool,False,Manchester United,,-0.63
+Andrew Robertson,Liverpool,Manchester United,2024-04-07,False,90,0.0,0.07,0.0,0.94,1,2.0,4.0,9.2,0,0,2,0.71,1,3.17,1.2,0.27,38.16,0.06,1.09,6.81,0.31,24.94,2.0,Liverpool,True,Crystal Palace,,0.88
+Andrew Robertson,Liverpool,Crystal Palace,2024-04-14,True,90,0.0,0.0,0.0,0.21,2,0.0,4.0,10.3,0,0,1,1.87,1,3.54,1.6,0.26,39.78,0.06,1.09,6.81,0.31,24.94,2.0,Liverpool,False,Fulham,,0.86
+Andrew Robertson,Liverpool,Fulham,2024-04-21,False,90,0.0,0.0,0.0,0.15,2,0.0,2.0,4.0,0,0,1,0.8,1,5.23,1.8,0.26,41.3,0.05,1.09,6.81,0.31,24.94,1.0,Liverpool,False,Everton,,-0.24
+Andrew Robertson,Liverpool,Everton,2024-04-24,False,83,0.0,0.07,0.0,0.14,1,1.0,3.0,10.7,0,0,2,1.05,1,5.23,2.0,0.27,42.53,0.05,1.09,6.81,0.31,24.94,9.0,Liverpool,False,West Ham,,-0.22
+Andrew Robertson,Liverpool,West Ham,2024-04-27,False,90,1.0,0.16,0.0,0.25,9,2.0,5.0,18.0,2,0,2,0.7,1,4.52,3.0,0.06,43.89,0.05,1.09,6.81,0.31,24.94,13.0,Liverpool,True,Tottenham,,0.69
+Andrew Robertson,Liverpool,Tottenham,2024-05-05,True,63,1.0,0.95,0.0,0.52,13,2.0,1.0,10.1,1,1,0,0.28,1,4.58,5.4,0.23,44.42,0.09,1.09,6.81,0.31,24.94,0.0,Liverpool,False,Aston Villa,,0.29
+Andrew Robertson,Liverpool,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,4.59,5.0,0.23,43.22,0.09,1.09,6.81,0.31,24.94,8.0,Liverpool,True,Wolverhampton,,0.05
+Andrew Robertson,Liverpool,Wolverhampton,2024-05-19,True,90,0.0,0.0,0.0,0.92,8,0.0,7.0,13.5,2,1,0,0.56,1,4.17,6.2,0.23,44.45,0.13,1.09,6.81,0.31,24.94,6.0,Liverpool,False,Ipswich Town,,

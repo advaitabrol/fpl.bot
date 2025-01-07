@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Ben Brereton Díaz,Southampton,Newcastle United,2024-08-17,False,70.0,0.0,0.81,0.0,0.08,1.0,2.0,1.0,3.3,0.0,1.0,1.0,0.81,70.0,2.0,Southampton,True,Nottingham Forest,3.03,1.2
-Ben Brereton Díaz,Southampton,Nottingham Forest,2024-08-24,True,90.0,0.0,0.0,0.0,0.08,2.0,0.0,2.0,4.1,0.0,1.0,1.5,0.41,80.0,2.0,Southampton,False,Brentford,4.79,-0.15
-Ben Brereton Díaz,Southampton,Brentford,2024-08-31,False,90.0,0.0,0.17,0.0,0.0,2.0,5.0,0.0,4.1,0.0,1.0,1.67,0.33,83.33,2.0,Southampton,True,Manchester United,1.12,0.39
-Ben Brereton Díaz,Southampton,Manchester United,2024-09-14,True,63.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.5,0.0,1.0,1.75,0.24,78.25,1.0,Southampton,True,Ipswich Town,,
-Ben Brereton Díaz,Southampton,Ipswich Town,2024-09-21,True,31.0,0.0,0.24,0.0,0.0,1.0,2.0,0.0,1.1,0.0,0.0,1.6,0.24,68.8,1.0,Southampton,False,Bournemouth,-0.76,-0.04
-Ben Brereton Díaz,Southampton,Bournemouth,2024-09-30,False,45.0,0.0,0.04,0.0,0.0,1.0,1.0,0.0,1.6,0.0,0.0,1.6,0.09,64.83,0.0,Southampton,False,Arsenal,0.71,-0.56
-Ben Brereton Díaz,Southampton,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1.2,0.09,55.57,0.0,Southampton,True,Leicester City,-1.16,0.47
-Ben Brereton Díaz,Southampton,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.8,0.06,48.62,0.0,Southampton,False,Manchester City,3.44,-1.51
-Ben Brereton Díaz,Southampton,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.4,0.06,43.22,,Southampton,True,Everton,0.11,0.61
-,Southampton,,,,,,,,,,,,,,,,,,,Southampton,False,Wolverhampton,2.86,-0.53
-,Southampton,,,,,,,,,,,,,,,,,,,Southampton,True,Liverpool,-0.47,0.24
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Ben Brereton Díaz,Southampton,Newcastle United,2024-08-17,False,70.0,0.0,0.81,0.0,0.08,1.0,2.0,1.0,3.3,0.0,1.0,0.61,1.0,0.81,70.0,6.0,1.0,6.05,1.62,0.06,2.0,Southampton,True,Nottingham Forest,,1.2
+Ben Brereton Díaz,Southampton,Nottingham Forest,2024-08-24,True,90.0,0.0,0.0,0.0,0.08,2.0,0.0,2.0,4.1,0.0,1.0,0.67,1.5,0.41,80.0,6.0,1.0,6.05,1.62,0.06,2.0,Southampton,False,Brentford,,-0.15
+Ben Brereton Díaz,Southampton,Brentford,2024-08-31,False,90.0,0.0,0.17,0.0,0.0,2.0,5.0,0.0,4.1,0.0,1.0,0.56,1.67,0.33,83.33,6.0,1.0,6.05,1.62,0.06,2.0,Southampton,True,Manchester United,,0.39
+Ben Brereton Díaz,Southampton,Manchester United,2024-09-14,True,63.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.5,0.0,1.0,0.46,1.75,0.24,78.25,6.0,1.0,6.05,1.62,0.06,1.0,Southampton,True,Ipswich Town,,
+Ben Brereton Díaz,Southampton,Ipswich Town,2024-09-21,True,31.0,0.0,0.24,0.0,0.0,1.0,2.0,0.0,1.1,0.0,0.0,0.44,1.6,0.24,68.8,6.0,1.0,6.05,1.62,0.06,1.0,Southampton,False,Bournemouth,,-0.04
+Ben Brereton Díaz,Southampton,Bournemouth,2024-09-30,False,45.0,0.0,0.04,0.0,0.0,1.0,1.0,0.0,1.6,0.0,0.0,0.33,1.6,0.09,64.83,6.0,1.0,6.05,1.62,0.06,0.0,Southampton,False,Arsenal,,-0.56
+Ben Brereton Díaz,Southampton,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.27,1.2,0.09,55.57,6.0,1.0,6.05,1.62,0.06,0.0,Southampton,True,Leicester City,,0.47
+Ben Brereton Díaz,Southampton,Leicester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.24,0.8,0.06,48.62,6.0,1.0,6.05,1.62,0.06,0.0,Southampton,False,Manchester City,,-1.51
+Ben Brereton Díaz,Southampton,Manchester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.22,0.4,0.06,43.22,6.0,1.0,6.05,1.62,0.06,0.0,Southampton,True,Everton,,0.61
+Ben Brereton Díaz,Southampton,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.21,0.2,0.01,38.9,6.0,1.0,6.05,1.62,0.06,1.0,Southampton,False,Wolverhampton,,-0.53
+Ben Brereton Díaz,Southampton,Wolverhampton,2024-11-09,False,17.0,0.0,0.05,0.0,0.0,1.0,1.0,0.0,0.7,0.0,0.0,0.2,0.2,0.01,36.91,6.0,1.0,6.05,1.62,0.06,0.0,Southampton,True,Liverpool,,0.24
+Ben Brereton Díaz,Southampton,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.19,0.2,0.01,33.83,6.0,1.0,6.05,1.62,0.06,,Southampton,False,Brighton,,-0.61
+,Southampton,,,,,,,,,,,,,,,,,,,,,,,,,Southampton,True,Chelsea,,0.0
+,Southampton,,,,,,,,,,,,,,,,,,,,,,,,,Southampton,False,Aston Villa,,0.11

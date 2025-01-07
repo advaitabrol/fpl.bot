@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Abdoulaye Doucouré,Everton,Brighton,2024-08-17,True,62.0,0.0,0.11,0.0,0.0,2.0,1.0,0.0,1.1,0.0,1.0,2.0,0.11,62.0,7.0,1.0,10.18,2.56,0.04,1.0,Everton,False,Tottenham,2.99,-0.3
-Abdoulaye Doucouré,Everton,Tottenham,2024-08-24,False,56.0,0.0,0.12,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.5,0.12,59.0,7.0,1.0,10.18,2.56,0.04,1.0,Everton,True,Bournemouth,-4.02,0.84
-Abdoulaye Doucouré,Everton,Bournemouth,2024-08-31,True,7.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.0,0.0,1.33,0.08,41.67,7.0,1.0,10.18,2.56,0.04,0.0,Everton,False,Aston Villa,3.22,0.11
-Abdoulaye Doucouré,Everton,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,1.0,0.06,31.25,7.0,1.0,10.18,2.56,0.04,2.0,Everton,False,Leicester City,-1.63,-0.22
-Abdoulaye Doucouré,Everton,Leicester City,2024-09-21,False,90.0,0.0,0.02,0.0,0.0,2.0,1.0,0.0,1.8,0.0,1.0,1.2,0.05,43.0,7.0,1.0,10.18,2.56,0.04,2.0,Everton,True,Crystal Palace,-1.89,0.88
-Abdoulaye Doucouré,Everton,Crystal Palace,2024-09-28,True,90.0,0.0,0.0,0.0,0.01,2.0,0.0,1.0,2.3,0.0,1.0,1.2,0.03,50.83,7.0,1.0,10.18,2.56,0.04,3.0,Everton,True,Newcastle United,-0.27,0.67
-Abdoulaye Doucouré,Everton,Newcastle United,2024-10-05,True,90.0,0.0,0.0,0.0,0.06,3.0,0.0,3.0,4.4,0.0,1.0,1.6,0.0,56.43,7.0,1.0,10.18,2.56,0.04,3.0,Everton,False,Ipswich Town,,
-Abdoulaye Doucouré,Everton,Ipswich Town,2024-10-19,False,90.0,0.0,0.0,0.0,0.13,3.0,0.0,2.0,3.9,0.0,1.0,2.0,0.0,60.62,7.0,1.0,10.18,2.56,0.04,2.0,Everton,True,Fulham,2.03,0.27
-Abdoulaye Doucouré,Everton,Fulham,2024-10-26,True,79.0,0.0,0.05,0.0,0.02,2.0,1.0,1.0,4.5,0.0,1.0,2.4,0.01,62.67,7.0,1.0,10.18,2.56,0.04,,Everton,False,Southampton,1.08,-0.31
-,Everton,,,,,,,,,,,,,,,,,,,,,,,,Everton,False,West Ham,2.5,-0.34
-,Everton,,,,,,,,,,,,,,,,,,,,,,,,Everton,True,Brentford,-2.0,0.54
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Abdoulaye Doucouré,Everton,Brighton,2024-08-17,True,62.0,0.0,0.11,0.0,0.0,2.0,1.0,0.0,1.1,0.0,1.0,0.43,2.0,0.11,62.0,7.0,1.0,10.18,2.56,0.04,1.0,Everton,False,Tottenham,,-0.3
+Abdoulaye Doucouré,Everton,Tottenham,2024-08-24,False,56.0,0.0,0.12,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.4,1.5,0.12,59.0,7.0,1.0,10.18,2.56,0.04,1.0,Everton,True,Bournemouth,,0.84
+Abdoulaye Doucouré,Everton,Bournemouth,2024-08-31,True,7.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.0,0.0,0.35,1.33,0.08,41.67,7.0,1.0,10.18,2.56,0.04,0.0,Everton,False,Aston Villa,,0.11
+Abdoulaye Doucouré,Everton,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.28,1.0,0.06,31.25,7.0,1.0,10.18,2.56,0.04,2.0,Everton,False,Leicester City,,-0.22
+Abdoulaye Doucouré,Everton,Leicester City,2024-09-21,False,90.0,0.0,0.02,0.0,0.0,2.0,1.0,0.0,1.8,0.0,1.0,0.26,1.2,0.05,43.0,7.0,1.0,10.18,2.56,0.04,2.0,Everton,True,Crystal Palace,,0.88
+Abdoulaye Doucouré,Everton,Crystal Palace,2024-09-28,True,90.0,0.0,0.0,0.0,0.01,2.0,0.0,1.0,2.3,0.0,1.0,0.24,1.2,0.03,50.83,7.0,1.0,10.18,2.56,0.04,3.0,Everton,True,Newcastle United,,0.67
+Abdoulaye Doucouré,Everton,Newcastle United,2024-10-05,True,90.0,0.0,0.0,0.0,0.06,3.0,0.0,3.0,4.4,0.0,1.0,0.22,1.6,0.0,56.43,7.0,1.0,10.18,2.56,0.04,3.0,Everton,False,Ipswich Town,,
+Abdoulaye Doucouré,Everton,Ipswich Town,2024-10-19,False,90.0,0.0,0.0,0.0,0.13,3.0,0.0,2.0,3.9,0.0,1.0,0.24,2.0,0.0,60.62,7.0,1.0,10.18,2.56,0.04,2.0,Everton,True,Fulham,,0.27
+Abdoulaye Doucouré,Everton,Fulham,2024-10-26,True,79.0,0.0,0.05,0.0,0.02,2.0,1.0,1.0,4.5,0.0,1.0,0.23,2.4,0.01,62.67,7.0,1.0,10.18,2.56,0.04,0.0,Everton,False,Southampton,,-0.31
+Abdoulaye Doucouré,Everton,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.22,2.0,0.01,56.4,7.0,1.0,10.18,2.56,0.04,3.0,Everton,False,West Ham,,-0.34
+Abdoulaye Doucouré,Everton,West Ham,2024-11-09,False,85.0,0.0,0.13,0.0,0.05,3.0,1.0,2.0,4.1,0.0,1.0,0.2,2.2,0.03,59.0,7.0,1.0,10.18,2.56,0.04,3.0,Everton,True,Brentford,,0.54
+Abdoulaye Doucouré,Everton,Brentford,2024-11-23,True,71.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.9,0.0,1.0,0.2,2.2,0.03,60.0,7.0,1.0,10.18,2.56,0.04,,Everton,False,Manchester United,,-0.41
+,Everton,,,,,,,,,,,,,,,,,,,,,,,,,Everton,True,Wolverhampton,,-0.08
+,Everton,,,,,,,,,,,,,,,,,,,,,,,,,Everton,True,Liverpool,,0.24

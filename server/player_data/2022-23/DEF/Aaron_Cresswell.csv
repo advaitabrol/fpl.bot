@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Aaron Cresswell,West Ham,Manchester City,2022-08-07,True,90,0.0,0.0,0.0,0.07,1,0.0,1.0,4.1,0,0,2,0.0,0,2.46,1.0,0.0,90.0,0.0,0.91,3.65,0.24,0,2.0,West Ham,False,Nottingham Forest,,
+Aaron Cresswell,West Ham,Nottingham Forest,2022-08-14,False,90,0.0,0.05,0.0,0.29,2,1.0,5.0,8.1,0,0,1,0.0,0,2.96,1.5,0.03,90.0,0.0,0.91,3.65,0.24,0,0.0,West Ham,True,Brighton,,-0.71
+Aaron Cresswell,West Ham,Brighton,2022-08-21,True,90,0.0,0.06,0.0,0.18,0,1.0,2.0,6.7,0,0,2,0.0,0,2.84,1.0,0.04,90.0,0.0,0.91,3.65,0.24,0,6.0,West Ham,False,Aston Villa,,0.59
+Aaron Cresswell,West Ham,Aston Villa,2022-08-28,False,90,0.0,0.06,0.0,0.0,6,1.0,0.0,2.8,0,1,0,0.0,0,2.38,2.25,0.05,90.0,0.25,0.91,3.65,0.24,0,2.0,West Ham,True,Tottenham,,1.07
+Aaron Cresswell,West Ham,Tottenham,2022-08-31,True,71,0.0,0.0,0.0,0.0,2,0.0,0.0,2.9,0,0,1,0.0,0,2.21,2.2,0.04,86.2,0.2,0.91,3.65,0.24,0,0.0,West Ham,False,Chelsea,,-0.72
+Aaron Cresswell,West Ham,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.92,2.0,0.04,71.83,0.2,0.91,3.65,0.24,0,2.0,West Ham,False,Everton,,-0.63
+Aaron Cresswell,West Ham,Everton,2022-09-18,False,90,0.0,0.04,0.0,0.03,2,1.0,2.0,5.3,0,0,1,0.0,0,1.78,2.0,0.03,74.43,0.17,0.91,3.65,0.24,0,5.0,West Ham,True,Wolverhampton,,-0.48
+Aaron Cresswell,West Ham,Wolverhampton,2022-10-01,True,90,0.0,0.0,0.0,0.04,5,0.0,1.0,2.8,0,1,0,0.0,0,1.92,3.0,0.02,76.38,0.29,0.91,3.65,0.24,0,2.0,West Ham,True,Fulham,,-0.3
+Aaron Cresswell,West Ham,Fulham,2022-10-09,True,90,0.0,0.0,0.0,0.39,2,0.0,3.0,6.9,0,0,1,0.0,0,2.31,2.2,0.01,77.89,0.25,0.91,3.65,0.24,0,3.0,West Ham,False,Southampton,,-1.07
+Aaron Cresswell,West Ham,Southampton,2022-10-16,False,90,0.0,0.0,0.0,0.2,3,0.0,4.0,7.1,1,0,1,0.0,0,2.47,2.4,0.01,79.1,0.22,0.91,3.65,0.24,0,2.0,West Ham,False,Liverpool,,-1.33
+Aaron Cresswell,West Ham,Liverpool,2022-10-19,False,90,0.0,0.0,0.0,0.69,2,0.0,2.0,5.8,0,0,1,0.0,0,2.3,2.8,0.01,80.09,0.2,0.91,3.65,0.24,0,8.0,West Ham,True,Bournemouth,,1.46
+Aaron Cresswell,West Ham,Bournemouth,2022-10-24,True,90,0.0,0.04,0.0,0.15,8,1.0,4.0,10.5,2,1,0,0.0,0,2.57,4.0,0.01,80.92,0.27,0.91,3.65,0.24,0,2.0,West Ham,False,Manchester United,,-0.1
+Aaron Cresswell,West Ham,Manchester United,2022-10-30,False,90,0.0,0.0,0.0,0.02,2,0.0,1.0,3.4,0,0,1,0.0,0,2.53,3.4,0.01,81.62,0.25,0.91,3.65,0.24,0,1.0,West Ham,True,Crystal Palace,,0.81
+Aaron Cresswell,West Ham,Crystal Palace,2022-11-06,True,90,0.0,0.0,0.0,0.04,1,0.0,1.0,2.4,0,0,2,0.0,0,2.76,3.2,0.01,82.21,0.23,0.91,3.65,0.24,0,1.0,West Ham,True,Leeds United,,-0.79
+Aaron Cresswell,West Ham,Leeds United,2022-11-12,True,90,0.0,0.0,0.0,0.14,1,0.0,4.0,8.0,0,0,2,1.78,1,2.65,2.8,0.01,82.73,0.21,0.91,3.65,0.24,0,1.0,West Ham,False,Arsenal,,-0.0
+Aaron Cresswell,West Ham,Arsenal,2022-12-26,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.5,0,0,3,2.1,1,1.64,2.6,0.01,83.19,0.2,0.91,3.65,0.24,0,1.0,West Ham,True,Brentford,,0.69
+Aaron Cresswell,West Ham,Brentford,2022-12-30,True,90,0.0,0.03,0.0,0.0,1,1.0,0.0,3.5,0,0,2,1.63,1,1.73,1.2,0.01,83.59,0.19,0.91,3.65,0.24,0,1.0,West Ham,False,Leicester City,,-0.05
+Aaron Cresswell,West Ham,Leicester City,2023-01-04,False,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,1,0.67,0,1.71,1.0,0.01,80.17,0.18,0.91,3.65,0.24,0,2.0,West Ham,False,Wolverhampton,,-0.46
+Aaron Cresswell,West Ham,Wolverhampton,2023-01-14,False,90,0.0,0.04,0.0,0.0,2,1.0,0.0,3.2,0,0,1,0.84,1,1.64,1.2,0.01,80.68,0.17,0.91,3.65,0.24,0,0.0,West Ham,True,Everton,,0.34
+Aaron Cresswell,West Ham,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.66,1.0,0.01,76.65,0.17,0.91,3.65,0.24,0,0.0,West Ham,False,Newcastle United,,-0.34
+Aaron Cresswell,West Ham,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.55,0.8,0.01,73.0,0.17,0.91,3.65,0.24,0,0.0,West Ham,True,Chelsea,,-0.25
+Aaron Cresswell,West Ham,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.5,0.6,0.01,69.68,0.17,0.91,3.65,0.24,0,0.0,West Ham,False,Tottenham,,-0.03
+Aaron Cresswell,West Ham,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.41,0.4,0.01,66.65,0.17,0.91,3.65,0.24,0,1.0,West Ham,True,Nottingham Forest,,
+Aaron Cresswell,West Ham,Nottingham Forest,2023-02-25,True,45,0.0,0.0,0.0,0.05,1,0.0,1.0,2.3,0,0,0,0.31,0,1.48,0.2,0.0,65.75,0.16,0.91,3.65,0.24,0,0.0,West Ham,False,Brighton,,-0.39
+Aaron Cresswell,West Ham,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.41,0.2,0.0,63.12,0.16,0.91,3.65,0.24,0,0.0,West Ham,True,Aston Villa,,0.55
+Aaron Cresswell,West Ham,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.36,0.2,0.0,60.69,0.16,0.91,3.65,0.24,0,1.0,West Ham,True,Southampton,,-0.38
+Aaron Cresswell,West Ham,Southampton,2023-04-02,True,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,0,1.38,0.4,0.0,58.52,0.15,0.91,3.65,0.24,0,0.0,West Ham,True,Newcastle United,,0.73
+Aaron Cresswell,West Ham,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.38,0.4,0.0,56.43,0.15,0.91,3.65,0.24,0,8.0,West Ham,False,Fulham,,1.37
+Aaron Cresswell,West Ham,Fulham,2023-04-08,False,90,0.0,0.0,0.0,0.05,8,0.0,2.0,5.8,2,1,0,0.68,1,1.35,1.8,0.0,57.59,0.19,0.91,3.65,0.24,0,0.0,West Ham,True,Arsenal,,0.36
+Aaron Cresswell,West Ham,Arsenal,2023-04-16,True,90,0.0,0.05,0.0,0.17,0,1.0,3.0,6.2,0,0,2,2.82,1,1.37,1.8,0.01,58.67,0.18,0.91,3.65,0.24,0,12.0,West Ham,False,Bournemouth,,0.19
+Aaron Cresswell,West Ham,Bournemouth,2023-04-23,False,90,0.0,0.05,1.0,0.54,12,1.0,2.0,5.5,3,1,0,1.14,1,1.49,4.2,0.22,59.68,0.22,0.91,3.65,0.24,0,1.0,West Ham,True,Liverpool,,-0.53
+Aaron Cresswell,West Ham,Liverpool,2023-04-26,True,90,0.0,0.0,0.0,0.08,1,0.0,1.0,2.8,0,0,2,2.0,1,1.59,4.2,0.22,60.62,0.21,0.91,3.65,0.24,0,1.0,West Ham,False,Crystal Palace,,0.13
+Aaron Cresswell,West Ham,Crystal Palace,2023-04-29,False,45,0.0,0.0,0.0,0.0,1,0.0,0.0,1.4,0,0,1,1.09,0,1.77,4.4,0.22,60.15,0.2,0.91,3.65,0.24,0,1.0,West Ham,False,Manchester City,,-1.26
+Aaron Cresswell,West Ham,Manchester City,2023-05-03,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.0,0,0,3,2.32,1,1.77,3.0,0.22,61.03,0.19,0.91,3.65,0.24,0,6.0,West Ham,True,Manchester United,,0.38
+Aaron Cresswell,West Ham,Manchester United,2023-05-07,True,90,0.0,0.0,0.0,0.04,6,0.0,1.0,2.6,0,1,0,1.19,1,1.65,4.2,0.21,61.86,0.22,0.91,3.65,0.24,0,0.0,West Ham,False,Brentford,,-0.55
+Aaron Cresswell,West Ham,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,1.65,1.8,0.0,60.14,0.22,0.91,3.65,0.24,0,0.0,West Ham,True,Leicester City,,0.83
+Aaron Cresswell,West Ham,Leicester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.64,1.6,0.0,58.51,0.22,0.91,3.65,0.24,0,1.0,West Ham,False,Leeds United,,-0.8
+Aaron Cresswell,West Ham,Leeds United,2023-05-28,False,70,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,2,1.39,1,1.63,1.6,0.0,58.82,0.21,0.91,3.65,0.24,0,0.0,West Ham,False,Bournemouth,,0.19

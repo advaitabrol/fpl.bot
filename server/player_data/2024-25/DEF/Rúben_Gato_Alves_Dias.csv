@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Rúben Gato Alves Dias,Man City,Chelsea,,False,90.0,,,,,6.0,,,1.5,0.0,1.0,0.0,1.01,1.0,6.0,0.0,90.0,1.0,0.0,0.03,0.32,25.12,1.0,Man City,True,Ipswich Town,,
-Rúben Gato Alves Dias,Man City,Ipswich Town,,True,90.0,,,,,1.0,,,2.8,0.0,0.0,1.0,0.29,1.0,3.5,0.0,90.0,0.5,0.0,0.03,0.32,25.12,0.0,Man City,False,West Ham,-1.27,-0.34
-Rúben Gato Alves Dias,Man City,West Ham,,False,90.0,,,,,0.0,,,4.3,0.0,0.0,1.0,0.73,1.0,2.33,0.0,90.0,0.33,0.0,0.03,0.32,25.12,1.0,Man City,True,Brentford,0.69,0.54
-Rúben Gato Alves Dias,Man City,Brentford,,True,6.0,,,,,1.0,,,0.0,0.0,0.0,0.0,0.04,0.0,2.0,0.0,69.0,0.25,0.0,0.03,0.32,25.12,0.0,Man City,True,Arsenal,-3.0,-0.32
-Rúben Gato Alves Dias,Man City,Arsenal,,True,90.0,,,,,0.0,,,7.1,0.0,0.0,2.0,0.65,1.0,1.6,0.0,73.2,0.2,0.0,0.03,0.32,25.12,1.0,Man City,False,Newcastle United,-1.93,-0.44
-Rúben Gato Alves Dias,Man City,Newcastle United,,False,90.0,,,,,1.0,,,1.9,0.0,0.0,1.0,1.57,1.0,0.6,0.0,76.0,0.17,0.0,0.03,0.32,25.12,1.0,Man City,True,Fulham,-1.5,0.27
-Rúben Gato Alves Dias,Man City,Fulham,,True,90.0,,,,,1.0,,,3.8,0.0,0.0,2.0,2.6,1.0,0.6,0.0,78.0,0.14,0.0,0.03,0.32,25.12,2.0,Man City,False,Wolverhampton,-1.76,-0.53
-Rúben Gato Alves Dias,Man City,Wolverhampton,,False,90.0,,,,,2.0,,,5.0,0.0,0.0,1.0,0.97,1.0,1.0,0.0,79.5,0.12,0.0,0.03,0.32,25.12,7.0,Man City,True,Southampton,-3.23,0.24
-Rúben Gato Alves Dias,Man City,Southampton,,True,90.0,,,,,7.0,,,4.7,1.0,1.0,0.0,0.21,1.0,2.2,0.0,80.67,0.22,0.0,0.03,0.32,25.12,,Man City,False,Bournemouth,-2.29,-0.04
-,Man City,,,,,,,,,,,,,,,,,,,,,,,,,,,Man City,False,Brighton,-3.49,-0.61
-,Man City,,,,,,,,,,,,,,,,,,,,,,,,,,,Man City,True,Tottenham,1.5,0.74
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Rúben Gato Alves Dias,Man City,Chelsea,2024-08-18,False,90.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,1.5,0.0,1.0,0.0,1.01,1.0,2.71,6.0,0.0,90.0,1.0,0.0,0.03,0.32,25.12,1.0,Man City,True,Ipswich Town,,
+Rúben Gato Alves Dias,Man City,Ipswich Town,,True,90.0,,,,,1.0,,,2.8,0.0,0.0,1.0,0.29,1.0,4.15,3.5,0.0,90.0,0.5,0.0,0.03,0.32,25.12,0.0,Man City,False,West Ham,,-0.34
+Rúben Gato Alves Dias,Man City,West Ham,,False,90.0,,,,,0.0,,,4.3,0.0,0.0,1.0,0.73,1.0,4.37,2.33,0.0,90.0,0.33,0.0,0.03,0.32,25.12,1.0,Man City,True,Brentford,,0.54
+Rúben Gato Alves Dias,Man City,Brentford,2024-09-14,True,6.0,0.0,0.07,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.04,0.0,4.3,2.0,0.02,69.0,0.25,0.0,0.03,0.32,25.12,0.0,Man City,True,Arsenal,,-0.32
+Rúben Gato Alves Dias,Man City,Arsenal,,True,90.0,,,,,0.0,,,7.1,0.0,0.0,2.0,0.65,1.0,4.06,1.6,0.01,73.2,0.2,0.0,0.03,0.32,25.12,1.0,Man City,False,Newcastle United,,-0.44
+Rúben Gato Alves Dias,Man City,Newcastle United,2024-09-28,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.9,0.0,0.0,1.0,1.57,1.0,3.85,0.6,0.01,76.0,0.17,0.0,0.03,0.32,25.12,1.0,Man City,True,Fulham,,0.27
+Rúben Gato Alves Dias,Man City,Fulham,,True,90.0,,,,,1.0,,,3.8,0.0,0.0,2.0,2.6,1.0,3.77,0.6,0.01,78.0,0.14,0.0,0.03,0.32,25.12,2.0,Man City,False,Wolverhampton,,-0.53
+Rúben Gato Alves Dias,Man City,Wolverhampton,2024-10-20,False,90.0,0.0,0.07,0.0,0.0,2.0,1.0,0.0,5.0,0.0,0.0,1.0,0.97,1.0,3.78,1.0,0.03,79.5,0.12,0.0,0.03,0.32,25.12,7.0,Man City,True,Southampton,,0.24
+Rúben Gato Alves Dias,Man City,Southampton,,True,90.0,,,,,7.0,,,4.7,1.0,1.0,0.0,0.21,1.0,3.92,2.2,0.01,80.67,0.22,0.0,0.03,0.32,25.12,0.0,Man City,False,Bournemouth,,-0.04
+Rúben Gato Alves Dias,Man City,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,4.05,2.2,0.01,72.6,0.22,0.0,0.03,0.32,25.12,0.0,Man City,False,Brighton,,-0.61
+Rúben Gato Alves Dias,Man City,Brighton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,3.15,2.0,0.01,66.0,0.22,0.0,0.03,0.32,25.12,0.0,Man City,True,Tottenham,,0.74
+Rúben Gato Alves Dias,Man City,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,2.84,1.8,0.01,60.5,0.22,0.0,0.03,0.32,25.12,,Man City,False,Liverpool,,-1.08
+,Man City,,,,,,,,,,,,,,,,,,,,,,,,,,,,Man City,True,Nottingham Forest,,1.2
+,Man City,,,,,,,,,,,,,,,,,,,,,,,,,,,,Man City,False,Crystal Palace,,0.2

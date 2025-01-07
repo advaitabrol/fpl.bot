@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Harrison Armstrong,Everton,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Everton,False,Tottenham,2.99,-0.3
-Harrison Armstrong,Everton,Tottenham,2024-08-24,False,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,0.5,0.0,0.5,0.0,Everton,True,Bournemouth,-4.02,0.84
-Harrison Armstrong,Everton,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.33,0.0,0.33,0.0,Everton,False,Aston Villa,3.22,0.11
-Harrison Armstrong,Everton,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.25,0.0,0.25,0.0,Everton,False,Leicester City,-1.63,-0.22
-Harrison Armstrong,Everton,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.2,0.0,0.2,0.0,Everton,True,Crystal Palace,-1.89,0.88
-Harrison Armstrong,Everton,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.2,0.0,0.17,0.0,Everton,True,Newcastle United,-0.27,0.67
-Harrison Armstrong,Everton,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.14,0.0,Everton,False,Ipswich Town,,
-Harrison Armstrong,Everton,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.12,0.0,Everton,True,Fulham,2.03,0.27
-Harrison Armstrong,Everton,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.11,,Everton,False,Southampton,1.08,-0.31
-,Everton,,,,,,,,,,,,,,,,,,,Everton,False,West Ham,2.5,-0.34
-,Everton,,,,,,,,,,,,,,,,,,,Everton,True,Brentford,-2.0,0.54
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Harrison Armstrong,Everton,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.08,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Everton,False,Tottenham,,-0.3
+Harrison Armstrong,Everton,Tottenham,2024-08-24,False,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.2,0.0,0.0,0.13,0.5,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,Everton,True,Bournemouth,,0.84
+Harrison Armstrong,Everton,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.18,0.33,0.0,0.33,0.0,0.0,0.0,0.0,0.0,0.0,Everton,False,Aston Villa,,0.11
+Harrison Armstrong,Everton,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.22,0.25,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,Everton,False,Leicester City,,-0.22
+Harrison Armstrong,Everton,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.23,0.2,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,Everton,True,Crystal Palace,,0.88
+Harrison Armstrong,Everton,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.23,0.2,0.0,0.17,0.0,0.0,0.0,0.0,0.0,0.0,Everton,True,Newcastle United,,0.67
+Harrison Armstrong,Everton,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.22,0.0,0.0,0.14,0.0,0.0,0.0,0.0,0.0,0.0,Everton,False,Ipswich Town,,
+Harrison Armstrong,Everton,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.22,0.0,0.0,0.12,0.0,0.0,0.0,0.0,0.0,0.0,Everton,True,Fulham,,0.27
+Harrison Armstrong,Everton,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.22,0.0,0.0,0.11,0.0,0.0,0.0,0.0,0.0,0.0,Everton,False,Southampton,,-0.31
+Harrison Armstrong,Everton,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.22,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,Everton,False,West Ham,,-0.34
+Harrison Armstrong,Everton,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.21,0.0,0.0,0.09,0.0,0.0,0.0,0.0,0.0,0.0,Everton,True,Brentford,,0.54
+Harrison Armstrong,Everton,Brentford,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.21,0.0,0.0,0.08,0.0,0.0,0.0,0.0,0.0,,Everton,False,Manchester United,,-0.41
+,Everton,,,,,,,,,,,,,,,,,,,,,,,,,Everton,True,Wolverhampton,,-0.08
+,Everton,,,,,,,,,,,,,,,,,,,,,,,,,Everton,True,Liverpool,,0.24

@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Tosin Adarabioyo,Fulham,Liverpool,2022-08-06,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.9,0,0,2,0.0,0,0.06,1.0,0.0,90.0,0.0,0,0,0,0,6.0,Fulham,False,Wolverhampton,,-0.46
+Tosin Adarabioyo,Fulham,Wolverhampton,2022-08-13,False,90,0.0,0.0,0.0,0.0,6,0.0,0.0,1.0,0,1,0,0.0,0,0.07,3.5,0.0,90.0,0.5,0,0,0,0,1.0,Fulham,True,Brentford,,0.69
+Tosin Adarabioyo,Fulham,Brentford,2022-08-20,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,1.7,0,0,2,0.0,0,0.08,2.67,0.0,90.0,0.33,0,0,0,0,1.0,Fulham,False,Arsenal,,-0.0
+Tosin Adarabioyo,Fulham,Arsenal,2022-08-27,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.3,0,0,2,0.0,0,0.08,2.25,0.0,90.0,0.25,0,0,0,0,2.0,Fulham,True,Brighton,,-0.71
+Tosin Adarabioyo,Fulham,Brighton,2022-08-30,True,90,0.0,0.0,0.0,0.03,2,0.0,1.0,2.4,0,0,1,0.0,0,0.09,2.2,0.0,90.0,0.2,0,0,0,0,1.0,Fulham,False,Tottenham,,-0.03
+Tosin Adarabioyo,Fulham,Tottenham,2022-09-03,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,3.2,0,0,2,0.0,0,0.09,2.2,0.0,90.0,0.17,0,0,0,0,7.0,Fulham,False,Nottingham Forest,,
+Tosin Adarabioyo,Fulham,Nottingham Forest,2022-09-16,False,90,1.0,0.07,0.0,0.0,7,2.0,0.0,8.6,0,0,2,0.0,0,0.11,2.4,0.01,90.0,0.14,0,0,0,0,0.0,Fulham,True,Newcastle United,,0.73
+Tosin Adarabioyo,Fulham,Newcastle United,2022-10-01,True,90,0.0,0.04,0.0,0.0,0,1.0,0.0,0.8,0,0,4,0.0,0,0.16,2.2,0.02,90.0,0.12,0,0,0,0,1.0,Fulham,False,West Ham,,0.14
+Tosin Adarabioyo,Fulham,West Ham,2022-10-09,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.8,0,0,3,0.0,0,0.14,2.2,0.02,90.0,0.11,0,0,0,0,0.0,Fulham,True,Bournemouth,,1.46
+Tosin Adarabioyo,Fulham,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.25,1.8,0.02,81.0,0.11,0,0,0,0,0.0,Fulham,True,Aston Villa,,0.55
+Tosin Adarabioyo,Fulham,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.21,1.6,0.02,73.64,0.11,0,0,0,0,1.0,Fulham,False,Leicester City,,-0.05
+Tosin Adarabioyo,Fulham,Leicester City,2022-10-23,False,90,0.0,0.06,0.0,0.0,1,1.0,0.0,2.1,0,0,2,0.0,0,0.17,0.4,0.02,75.0,0.1,0,0,0,0,0.0,Fulham,True,Everton,,0.34
+Tosin Adarabioyo,Fulham,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.16,0.4,0.01,69.23,0.1,0,0,0,0,0.0,Fulham,False,Manchester City,,-1.26
+Tosin Adarabioyo,Fulham,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.15,0.2,0.01,64.29,0.1,0,0,0,0,0.0,Fulham,True,Manchester United,,0.38
+Tosin Adarabioyo,Fulham,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.14,0.2,0.01,60.0,0.1,0,0,0,0,0.0,Fulham,False,Crystal Palace,,0.13
+Tosin Adarabioyo,Fulham,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.12,0.2,0.01,56.25,0.1,0,0,0,0,1.0,Fulham,True,Southampton,,-0.38
+Tosin Adarabioyo,Fulham,Southampton,2022-12-31,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0,0.0,0,0.12,0.2,0.0,53.0,0.09,0,0,0,0,6.0,Fulham,False,Leeds United,,-0.8
+Tosin Adarabioyo,Fulham,Leeds United,2023-01-03,False,90,0.0,0.01,0.0,0.0,6,1.0,0.0,3.0,1,1,0,1.69,1,0.12,1.4,0.0,55.06,0.17,0,0,0,0,1.0,Fulham,True,Chelsea,,-0.25
+Tosin Adarabioyo,Fulham,Chelsea,2023-01-12,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.4,0,0,1,2.13,1,0.12,1.6,0.0,56.89,0.15,0,0,0,0,1.0,Fulham,False,Newcastle United,,-0.34
+Tosin Adarabioyo,Fulham,Newcastle United,2023-01-15,False,13,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1,0.95,0,0.12,1.8,0.0,54.7,0.14,0,0,0,0,0.0,Fulham,True,Tottenham,,1.07
+Tosin Adarabioyo,Fulham,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.12,1.8,0.0,52.1,0.14,0,0,0,0,0.0,Fulham,False,Chelsea,,-0.72
+Tosin Adarabioyo,Fulham,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.12,1.6,0.0,49.73,0.14,0,0,0,0,0.0,Fulham,True,Nottingham Forest,,
+Tosin Adarabioyo,Fulham,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.12,0.4,0.0,47.57,0.14,0,0,0,0,0.0,Fulham,False,Brighton,,-0.39
+Tosin Adarabioyo,Fulham,Brighton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.12,0.2,0.0,45.58,0.14,0,0,0,0,0.0,Fulham,True,Wolverhampton,,-0.48
+Tosin Adarabioyo,Fulham,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.12,0.0,0.0,43.76,0.14,0,0,0,0,0.0,Fulham,False,Brentford,,-0.55
+Tosin Adarabioyo,Fulham,Brentford,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.12,0.0,0.0,42.08,0.14,0,0,0,0,1.0,Fulham,True,Arsenal,,0.36
+Tosin Adarabioyo,Fulham,Arsenal,2023-03-12,True,90,0.0,0.02,0.0,0.0,1,1.0,0.0,3.9,0,0,3,2.38,1,0.12,0.2,0.0,43.85,0.13,0,0,0,0,0.0,Fulham,False,Bournemouth,,0.19
+Tosin Adarabioyo,Fulham,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.11,0.2,0.0,42.29,0.13,0,0,0,0,2.0,Fulham,True,West Ham,,0.63
+Tosin Adarabioyo,Fulham,West Ham,2023-04-08,True,90,0.0,0.05,0.0,0.1,2,2.0,2.0,9.0,0,0,1,1.09,1,0.11,0.6,0.01,43.93,0.12,0,0,0,0,1.0,Fulham,False,Everton,,-0.63
+Tosin Adarabioyo,Fulham,Everton,2023-04-15,False,90,0.0,0.01,0.0,0.02,1,1.0,1.0,4.6,0,0,1,1.31,1,0.11,0.8,0.02,45.47,0.12,0,0,0,0,2.0,Fulham,True,Leicester City,,0.83
+Tosin Adarabioyo,Fulham,Leicester City,2023-04-22,True,90,0.0,0.01,0.0,0.0,2,1.0,0.0,3.3,0,0,1,0.89,1,0.12,1.2,0.02,46.9,0.11,0,0,0,0,2.0,Fulham,False,Aston Villa,,0.59
+Tosin Adarabioyo,Fulham,Aston Villa,2023-04-25,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,3.9,0,0,1,0.97,1,0.12,1.4,0.02,48.25,0.11,0,0,0,0,1.0,Fulham,True,Manchester City,,-1.17
+Tosin Adarabioyo,Fulham,Manchester City,2023-04-30,True,90,0.0,0.0,0.0,0.0,1,0.0,0.0,2.1,0,0,2,2.59,1,0.12,1.6,0.02,49.52,0.1,0,0,0,0,2.0,Fulham,False,Liverpool,,-1.33
+Tosin Adarabioyo,Fulham,Liverpool,2023-05-03,False,90,0.0,0.0,0.0,0.06,2,0.0,1.0,3.6,0,0,1,1.73,1,0.12,1.6,0.01,50.71,0.1,0,0,0,0,1.0,Fulham,True,Leeds United,,-0.79
+Tosin Adarabioyo,Fulham,Leeds United,2023-05-08,True,90,0.0,0.18,0.0,0.02,1,3.0,1.0,3.7,0,0,3,2.84,1,0.12,1.6,0.04,51.83,0.09,0,0,0,0,6.0,Fulham,False,Southampton,,-1.07
+Tosin Adarabioyo,Fulham,Southampton,2023-05-13,False,90,0.0,0.01,0.0,0.0,6,1.0,0.0,1.4,0,1,0,0.25,1,0.12,2.4,0.04,52.89,0.13,0,0,0,0,0.0,Fulham,True,Crystal Palace,,0.81
+Tosin Adarabioyo,Fulham,Crystal Palace,2023-05-20,True,90,0.0,0.11,0.0,0.0,0,3.0,0.0,3.7,0,0,2,1.62,1,0.13,2.0,0.06,53.89,0.12,0,0,0,0,1.0,Fulham,False,Manchester United,,-0.1
+Tosin Adarabioyo,Fulham,Manchester United,2023-05-28,False,90,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,2,2.71,1,0.12,2.0,0.06,54.84,0.12,0,0,0,0,0.0,Fulham,False,Everton,,-0.63

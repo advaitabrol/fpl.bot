@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Dominik Szoboszlai,Liverpool,Chelsea,2023-08-13,False,90,0.0,0.02,0.0,0.53,2,1.0,3.0,0.0,0,1,2.0,0.02,90.0,5.0,Liverpool,True,Bournemouth,-5.88,1.22
-Dominik Szoboszlai,Liverpool,Bournemouth,2023-08-19,True,90,0.0,0.13,0.0,0.01,5,3.0,1.0,5.3,0,1,3.5,0.07,90.0,2.0,Liverpool,False,Newcastle United,-0.28,-0.41
-Dominik Szoboszlai,Liverpool,Newcastle United,2023-08-27,False,90,0.0,0.09,0.0,0.14,2,2.0,1.0,2.9,0,1,3.0,0.08,90.0,10.0,Liverpool,True,Aston Villa,0.6,0.64
-Dominik Szoboszlai,Liverpool,Aston Villa,2023-09-03,True,90,1.0,0.05,0.0,0.05,10,2.0,2.0,8.5,2,1,4.75,0.07,90.0,2.0,Liverpool,False,Wolverhampton,3.36,-0.52
-Dominik Szoboszlai,Liverpool,Wolverhampton,2023-09-16,False,90,0.0,0.11,0.0,0.0,2,2.0,0.0,5.6,0,1,4.2,0.08,90.0,2.0,Liverpool,True,West Ham,0.54,0.49
-Dominik Szoboszlai,Liverpool,West Ham,2023-09-24,True,90,0.0,0.09,0.0,0.18,2,3.0,4.0,8.1,0,1,4.2,0.09,90.0,2.0,Liverpool,False,Tottenham,1.74,-0.36
-Dominik Szoboszlai,Liverpool,Tottenham,2023-09-30,False,90,0.0,0.01,0.0,0.03,2,1.0,1.0,4.9,0,1,3.6,0.07,90.0,4.0,Liverpool,False,Brighton,0.48,-0.6
-Dominik Szoboszlai,Liverpool,Brighton,2023-10-08,False,90,0.0,0.01,0.0,0.9,4,1.0,4.0,7.6,0,1,4.0,0.05,90.0,3.0,Liverpool,True,Everton,-1.32,0.53
-Dominik Szoboszlai,Liverpool,Everton,2023-10-21,True,90,0.0,0.12,0.0,0.23,3,5.0,4.0,8.4,0,1,2.6,0.07,90.0,12.0,Liverpool,True,Nottingham Forest,0.91,1.55
-Dominik Szoboszlai,Liverpool,Nottingham Forest,2023-10-29,True,90,0.0,0.1,2.0,1.03,12,1.0,4.0,13.3,3,1,4.6,0.46,90.0,3.0,Liverpool,False,Luton,,
-Dominik Szoboszlai,Liverpool,Luton,2023-11-05,False,65,0.0,0.01,0.0,0.01,3,1.0,1.0,2.2,0,1,4.8,0.45,87.73,3.0,Liverpool,True,Brentford,-2.91,0.79
-Dominik Szoboszlai,Liverpool,Brentford,2023-11-12,True,90,0.0,0.05,0.0,0.05,3,2.0,2.0,4.0,0,1,5.0,0.46,87.92,2.0,Liverpool,False,Manchester City,1.92,-1.32
-Dominik Szoboszlai,Liverpool,Manchester City,2023-11-25,False,72,0.0,0.06,0.0,0.37,2,1.0,1.0,2.9,0,1,4.6,0.47,86.69,2.0,Liverpool,True,Fulham,0.11,-0.13
-Dominik Szoboszlai,Liverpool,Fulham,2023-12-03,True,64,0.0,0.09,0.0,0.02,2,3.0,1.0,4.0,0,1,4.4,0.46,85.07,9.0,Liverpool,False,Sheffield,,-0.61
-Dominik Szoboszlai,Liverpool,Sheffield,2023-12-06,False,90,1.0,0.31,0.0,0.11,9,1.0,2.0,10.0,1,1,3.8,0.1,85.4,2.0,Liverpool,False,Crystal Palace,-0.31,0.38
-Dominik Szoboszlai,Liverpool,Crystal Palace,2023-12-09,False,73,0.0,0.08,0.0,0.0,2,2.0,0.0,1.4,0,1,3.6,0.12,84.62,3.0,Liverpool,True,Manchester United,-4.17,0.38
-Dominik Szoboszlai,Liverpool,Manchester United,2023-12-17,True,61,0.0,0.02,0.0,0.0,3,1.0,0.0,1.0,0,1,3.6,0.11,83.24,2.0,Liverpool,True,Arsenal,-1.17,-0.11
-Dominik Szoboszlai,Liverpool,Arsenal,2023-12-23,True,90,0.0,0.05,0.0,0.0,2,2.0,0.0,2.5,0,1,3.6,0.11,83.61,1.0,Liverpool,False,Burnley,-0.79,0.0
-Dominik Szoboszlai,Liverpool,Burnley,2023-12-26,False,23,0.0,0.02,0.0,0.0,1,1.0,0.0,0.2,0,0,3.4,0.1,80.42,2.0,Liverpool,True,Newcastle United,0.08,0.55
-Dominik Szoboszlai,Liverpool,Newcastle United,2024-01-01,True,63,0.0,0.14,0.0,0.13,2,3.0,3.0,6.3,0,1,2.0,0.06,79.55,0.0,Liverpool,False,Bournemouth,2.9,0.19
-Dominik Szoboszlai,Liverpool,Bournemouth,,False,0,,,,,0,,,0.0,0,0,1.6,0.05,75.76,9.0,Liverpool,True,Chelsea,0.25,-0.25
-Dominik Szoboszlai,Liverpool,Chelsea,2024-01-31,True,68,1.0,0.22,0.0,0.04,9,3.0,2.0,10.6,1,1,2.8,0.09,75.41,0.0,Liverpool,False,Arsenal,3.5,-0.48
-Dominik Szoboszlai,Liverpool,Arsenal,,False,0,,,,,0,,,0.0,0,0,2.4,0.08,72.13,0.0,Liverpool,True,Burnley,-2.64,0.39
-Dominik Szoboszlai,Liverpool,Burnley,,True,0,,,,,0,,,0.0,0,0,2.2,0.07,69.12,0.0,Liverpool,False,Brentford,5.51,-0.53
-Dominik Szoboszlai,Liverpool,Brentford,,False,0,,,,,0,,,0.0,0,0,1.8,0.04,66.36,0.0,Liverpool,True,Luton,,
-Dominik Szoboszlai,Liverpool,Luton,,True,0,,,,,0,,,0.0,0,0,1.8,0.04,63.81,1.0,Liverpool,False,Nottingham Forest,3.7,-0.55
-Dominik Szoboszlai,Liverpool,Nottingham Forest,2024-03-02,False,14,0.0,0.05,0.0,0.0,1,1.0,0.0,0.9,0,0,0.2,0.01,61.96,2.0,Liverpool,True,Manchester City,-1.69,-0.96
-Dominik Szoboszlai,Liverpool,Manchester City,2024-03-10,True,60,0.0,0.14,0.0,0.07,2,3.0,1.0,3.0,0,1,0.6,0.04,61.89,2.0,Liverpool,True,Brighton,2.85,-0.66
-Dominik Szoboszlai,Liverpool,Brighton,2024-03-31,True,90,0.0,0.18,0.0,0.13,2,3.0,3.0,6.3,0,1,1.0,0.07,62.86,2.0,Liverpool,True,Sheffield,,0.68
-Dominik Szoboszlai,Liverpool,Sheffield,2024-04-04,True,72,0.0,0.04,0.0,0.13,2,1.0,3.0,8.5,0,1,1.4,0.08,63.17,2.0,Liverpool,False,Manchester United,-0.0,-0.63
-Dominik Szoboszlai,Liverpool,Manchester United,2024-04-07,False,65,0.0,0.73,0.0,0.32,2,5.0,4.0,9.6,0,1,1.8,0.23,63.23,1.0,Liverpool,True,Crystal Palace,0.33,0.88
-Dominik Szoboszlai,Liverpool,Crystal Palace,2024-04-14,True,45,0.0,0.02,0.0,0.55,1,1.0,3.0,5.7,0,0,1.8,0.22,62.66,1.0,Liverpool,False,Fulham,1.98,0.86
-Dominik Szoboszlai,Liverpool,Fulham,2024-04-21,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1.6,0.19,60.88,2.0,Liverpool,False,Everton,-0.44,-0.24
-Dominik Szoboszlai,Liverpool,Everton,2024-04-24,False,62,0.0,0.03,0.0,0.08,2,1.0,1.0,3.2,0,1,1.6,0.16,60.91,1.0,Liverpool,False,West Ham,4.92,-0.22
-Dominik Szoboszlai,Liverpool,West Ham,2024-04-27,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,1.4,0.16,59.2,1.0,Liverpool,True,Tottenham,,0.69
-Dominik Szoboszlai,Liverpool,Tottenham,2024-05-05,True,7,0.0,0.09,0.0,0.02,1,1.0,1.0,2.0,0,0,1.2,0.03,57.75,1.0,Liverpool,False,Aston Villa,-0.35,0.29
-Dominik Szoboszlai,Liverpool,Aston Villa,2024-05-13,False,14,0.0,0.45,0.0,0.03,1,2.0,1.0,4.0,0,0,1.2,0.12,56.57,1.0,Liverpool,True,Wolverhampton,,0.05
-Dominik Szoboszlai,Liverpool,Wolverhampton,2024-05-19,True,9,0.0,0.02,0.0,0.5,1,1.0,2.0,3.8,0,0,1.2,0.12,55.32,7.0,Liverpool,False,Ipswich Town,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Dominik Szoboszlai,Liverpool,Chelsea,2023-08-13,False,90,0.0,0.02,0.0,0.53,2,1.0,3.0,0.0,0,1,2.85,2.0,0.02,90.0,0,0,0,0,0,5.0,Liverpool,True,Bournemouth,,1.22
+Dominik Szoboszlai,Liverpool,Bournemouth,2023-08-19,True,90,0.0,0.13,0.0,0.01,5,3.0,1.0,5.3,0,1,3.14,3.5,0.07,90.0,0,0,0,0,0,2.0,Liverpool,False,Newcastle United,,-0.41
+Dominik Szoboszlai,Liverpool,Newcastle United,2023-08-27,False,90,0.0,0.09,0.0,0.14,2,2.0,1.0,2.9,0,1,3.51,3.0,0.08,90.0,0,0,0,0,0,10.0,Liverpool,True,Aston Villa,,0.64
+Dominik Szoboszlai,Liverpool,Aston Villa,2023-09-03,True,90,1.0,0.05,0.0,0.05,10,2.0,2.0,8.5,2,1,3.39,4.75,0.07,90.0,0,0,0,0,0,2.0,Liverpool,False,Wolverhampton,,-0.52
+Dominik Szoboszlai,Liverpool,Wolverhampton,2023-09-16,False,90,0.0,0.11,0.0,0.0,2,2.0,0.0,5.6,0,1,4.58,4.2,0.08,90.0,0,0,0,0,0,2.0,Liverpool,True,West Ham,,0.49
+Dominik Szoboszlai,Liverpool,West Ham,2023-09-24,True,90,0.0,0.09,0.0,0.18,2,3.0,4.0,8.1,0,1,4.75,4.2,0.09,90.0,0,0,0,0,0,2.0,Liverpool,False,Tottenham,,-0.36
+Dominik Szoboszlai,Liverpool,Tottenham,2023-09-30,False,90,0.0,0.01,0.0,0.03,2,1.0,1.0,4.9,0,1,4.96,3.6,0.07,90.0,0,0,0,0,0,4.0,Liverpool,False,Brighton,,-0.6
+Dominik Szoboszlai,Liverpool,Brighton,2023-10-08,False,90,0.0,0.01,0.0,0.9,4,1.0,4.0,7.6,0,1,5.1,4.0,0.05,90.0,0,0,0,0,0,3.0,Liverpool,True,Everton,,0.53
+Dominik Szoboszlai,Liverpool,Everton,2023-10-21,True,90,0.0,0.12,0.0,0.23,3,5.0,4.0,8.4,0,1,5.35,2.6,0.07,90.0,0,0,0,0,0,12.0,Liverpool,True,Nottingham Forest,,1.55
+Dominik Szoboszlai,Liverpool,Nottingham Forest,2023-10-29,True,90,0.0,0.1,2.0,1.03,12,1.0,4.0,13.3,3,1,4.99,4.6,0.46,90.0,0,0,0,0,0,3.0,Liverpool,False,Luton,,
+Dominik Szoboszlai,Liverpool,Luton,2023-11-05,False,65,0.0,0.01,0.0,0.01,3,1.0,1.0,2.2,0,1,6.24,4.8,0.45,87.73,0,0,0,0,0,3.0,Liverpool,True,Brentford,,0.79
+Dominik Szoboszlai,Liverpool,Brentford,2023-11-12,True,90,0.0,0.05,0.0,0.05,3,2.0,2.0,4.0,0,1,6.16,5.0,0.46,87.92,0,0,0,0,0,2.0,Liverpool,False,Manchester City,,-1.32
+Dominik Szoboszlai,Liverpool,Manchester City,2023-11-25,False,72,0.0,0.06,0.0,0.37,2,1.0,1.0,2.9,0,1,6.08,4.6,0.47,86.69,0,0,0,0,0,2.0,Liverpool,True,Fulham,,-0.13
+Dominik Szoboszlai,Liverpool,Fulham,2023-12-03,True,64,0.0,0.09,0.0,0.02,2,3.0,1.0,4.0,0,1,6.16,4.4,0.46,85.07,0,0,0,0,0,9.0,Liverpool,False,Sheffield,,-0.61
+Dominik Szoboszlai,Liverpool,Sheffield,2023-12-06,False,90,1.0,0.31,0.0,0.11,9,1.0,2.0,10.0,1,1,5.95,3.8,0.1,85.4,0,0,0,0,0,2.0,Liverpool,False,Crystal Palace,,0.38
+Dominik Szoboszlai,Liverpool,Crystal Palace,2023-12-09,False,73,0.0,0.08,0.0,0.0,2,2.0,0.0,1.4,0,1,6.25,3.6,0.12,84.62,0,0,0,0,0,3.0,Liverpool,True,Manchester United,,0.38
+Dominik Szoboszlai,Liverpool,Manchester United,2023-12-17,True,61,0.0,0.02,0.0,0.0,3,1.0,0.0,1.0,0,1,6.03,3.6,0.11,83.24,0,0,0,0,0,2.0,Liverpool,True,Arsenal,,-0.11
+Dominik Szoboszlai,Liverpool,Arsenal,2023-12-23,True,90,0.0,0.05,0.0,0.0,2,2.0,0.0,2.5,0,1,5.73,3.6,0.11,83.61,0,0,0,0,0,1.0,Liverpool,False,Burnley,,0.0
+Dominik Szoboszlai,Liverpool,Burnley,2023-12-26,False,23,0.0,0.02,0.0,0.0,1,1.0,0.0,0.2,0,0,5.8,3.4,0.1,80.42,0,0,0,0,0,2.0,Liverpool,True,Newcastle United,,0.55
+Dominik Szoboszlai,Liverpool,Newcastle United,2024-01-01,True,63,0.0,0.14,0.0,0.13,2,3.0,3.0,6.3,0,1,5.39,2.0,0.06,79.55,0,0,0,0,0,0.0,Liverpool,False,Bournemouth,,0.19
+Dominik Szoboszlai,Liverpool,Bournemouth,,False,0,,,,,0,,,0.0,0,0,4.65,1.6,0.05,75.76,0,0,0,0,0,9.0,Liverpool,True,Chelsea,,-0.25
+Dominik Szoboszlai,Liverpool,Chelsea,2024-01-31,True,68,1.0,0.22,0.0,0.04,9,3.0,2.0,10.6,1,1,4.29,2.8,0.09,75.41,0,0,0,0,0,0.0,Liverpool,False,Arsenal,,-0.48
+Dominik Szoboszlai,Liverpool,Arsenal,,False,0,,,,,0,,,0.0,0,0,4.32,2.4,0.08,72.13,0,0,0,0,0,0.0,Liverpool,True,Burnley,,0.39
+Dominik Szoboszlai,Liverpool,Burnley,,True,0,,,,,0,,,0.0,0,0,3.9,2.2,0.07,69.12,0,0,0,0,0,0.0,Liverpool,False,Brentford,,-0.53
+Dominik Szoboszlai,Liverpool,Brentford,,False,0,,,,,0,,,0.0,0,0,3.47,1.8,0.04,66.36,0,0,0,0,0,0.0,Liverpool,True,Luton,,
+Dominik Szoboszlai,Liverpool,Luton,,True,0,,,,,0,,,0.0,0,0,3.47,1.8,0.04,63.81,0,0,0,0,0,1.0,Liverpool,False,Nottingham Forest,,-0.55
+Dominik Szoboszlai,Liverpool,Nottingham Forest,2024-03-02,False,14,0.0,0.05,0.0,0.0,1,1.0,0.0,0.9,0,0,3.28,0.2,0.01,61.96,0,0,0,0,0,2.0,Liverpool,True,Manchester City,,-0.96
+Dominik Szoboszlai,Liverpool,Manchester City,2024-03-10,True,60,0.0,0.14,0.0,0.07,2,3.0,1.0,3.0,0,1,3.29,0.6,0.04,61.89,0,0,0,0,0,2.0,Liverpool,True,Brighton,,-0.66
+Dominik Szoboszlai,Liverpool,Brighton,2024-03-31,True,90,0.0,0.18,0.0,0.13,2,3.0,3.0,6.3,0,1,3.35,1.0,0.07,62.86,0,0,0,0,0,2.0,Liverpool,True,Sheffield,,0.68
+Dominik Szoboszlai,Liverpool,Sheffield,2024-04-04,True,72,0.0,0.04,0.0,0.13,2,1.0,3.0,8.5,0,1,3.37,1.4,0.08,63.17,0,0,0,0,0,2.0,Liverpool,False,Manchester United,,-0.63
+Dominik Szoboszlai,Liverpool,Manchester United,2024-04-07,False,65,0.0,0.73,0.0,0.32,2,5.0,4.0,9.6,0,1,3.35,1.8,0.23,63.23,0,0,0,0,0,1.0,Liverpool,True,Crystal Palace,,0.88
+Dominik Szoboszlai,Liverpool,Crystal Palace,2024-04-14,True,45,0.0,0.02,0.0,0.55,1,1.0,3.0,5.7,0,0,3.38,1.8,0.22,62.66,0,0,0,0,0,1.0,Liverpool,False,Fulham,,0.86
+Dominik Szoboszlai,Liverpool,Fulham,2024-04-21,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,3.41,1.6,0.19,60.88,0,0,0,0,0,2.0,Liverpool,False,Everton,,-0.24
+Dominik Szoboszlai,Liverpool,Everton,2024-04-24,False,62,0.0,0.03,0.0,0.08,2,1.0,1.0,3.2,0,1,3.41,1.6,0.16,60.91,0,0,0,0,0,1.0,Liverpool,False,West Ham,,-0.22
+Dominik Szoboszlai,Liverpool,West Ham,2024-04-27,False,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.4,0,0,3.37,1.4,0.16,59.2,0,0,0,0,0,1.0,Liverpool,True,Tottenham,,0.69
+Dominik Szoboszlai,Liverpool,Tottenham,2024-05-05,True,7,0.0,0.09,0.0,0.02,1,1.0,1.0,2.0,0,0,3.34,1.2,0.03,57.75,0,0,0,0,0,1.0,Liverpool,False,Aston Villa,,0.29
+Dominik Szoboszlai,Liverpool,Aston Villa,2024-05-13,False,14,0.0,0.45,0.0,0.03,1,2.0,1.0,4.0,0,0,3.31,1.2,0.12,56.57,0,0,0,0,0,1.0,Liverpool,True,Wolverhampton,,0.05
+Dominik Szoboszlai,Liverpool,Wolverhampton,2024-05-19,True,9,0.0,0.02,0.0,0.5,1,1.0,2.0,3.8,0,0,3.31,1.2,0.12,55.32,0,0,0,0,0,7.0,Liverpool,False,Ipswich Town,,

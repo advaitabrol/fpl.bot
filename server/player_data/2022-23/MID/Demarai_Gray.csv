@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Demarai Gray,Everton,Chelsea,2022-08-06,True,90,0.0,0.1,0.0,0.01,2,1.0,1.0,4.8,0,0,0.63,2.0,0.1,90.0,5.0,4.0,4.36,4.44,0.05,2.0,Everton,False,Aston Villa,,0.59
+Demarai Gray,Everton,Aston Villa,2022-08-13,False,80,0.0,0.09,0.0,0.05,2,2.0,1.0,5.2,0,0,0.74,2.0,0.09,85.0,5.0,4.0,4.36,4.44,0.05,9.0,Everton,True,Nottingham Forest,,
+Demarai Gray,Everton,Nottingham Forest,2022-08-20,True,90,1.0,0.43,0.0,0.06,9,6.0,2.0,12.8,2,0,0.83,4.33,0.21,86.67,5.0,4.0,4.36,4.44,0.05,2.0,Everton,False,Brentford,,-0.55
+Demarai Gray,Everton,Brentford,2022-08-27,False,90,0.0,0.21,0.0,0.04,2,2.0,1.0,7.9,0,0,0.96,3.75,0.21,87.5,5.0,4.0,4.36,4.44,0.05,2.0,Everton,False,Leicester City,,-0.05
+Demarai Gray,Everton,Leicester City,2022-08-30,False,90,0.0,0.05,0.0,0.0,2,1.0,0.0,1.8,0,0,0.9,3.4,0.18,88.0,5.0,4.0,4.36,4.44,0.05,3.0,Everton,True,Liverpool,,-0.53
+Demarai Gray,Everton,Liverpool,2022-09-03,True,90,0.0,0.1,0.0,0.67,3,2.0,2.0,8.5,0,0,0.8,3.6,0.18,88.33,5.0,4.0,4.36,4.44,0.05,3.0,Everton,True,West Ham,,0.63
+Demarai Gray,Everton,West Ham,2022-09-18,True,80,0.0,0.06,0.0,0.17,3,1.0,2.0,7.1,0,0,0.97,3.8,0.17,87.14,5.0,4.0,4.36,4.44,0.05,2.0,Everton,False,Southampton,,-1.07
+Demarai Gray,Everton,Southampton,2022-10-01,False,90,0.0,0.69,0.0,0.02,2,4.0,1.0,7.7,0,0,0.94,2.4,0.22,87.5,5.0,4.0,4.36,4.44,0.05,2.0,Everton,True,Manchester United,,0.38
+Demarai Gray,Everton,Manchester United,2022-10-09,True,90,0.0,0.04,0.0,0.07,2,1.0,2.0,6.8,0,0,0.85,2.4,0.19,87.78,5.0,4.0,4.36,4.44,0.05,2.0,Everton,False,Tottenham,,-0.03
+Demarai Gray,Everton,Tottenham,2022-10-15,False,90,0.0,0.11,0.0,0.0,2,1.0,0.0,0.8,0,0,0.8,2.4,0.2,88.0,5.0,4.0,4.36,4.44,0.05,2.0,Everton,False,Newcastle United,,-0.34
+Demarai Gray,Everton,Newcastle United,2022-10-19,False,78,0.0,0.0,0.0,0.06,2,0.0,1.0,4.1,0,0,0.78,2.2,0.18,87.09,5.0,4.0,4.36,4.44,0.05,2.0,Everton,True,Crystal Palace,,0.81
+Demarai Gray,Everton,Crystal Palace,2022-10-22,True,72,0.0,0.14,0.0,0.0,2,2.0,0.0,3.6,0,0,0.81,2.0,0.19,85.83,5.0,4.0,4.36,4.44,0.05,3.0,Everton,False,Fulham,,1.37
+Demarai Gray,Everton,Fulham,2022-10-29,False,75,0.0,0.09,0.0,0.85,3,2.0,3.0,10.5,0,0,0.73,2.2,0.08,85.0,5.0,4.0,4.36,4.44,0.05,2.0,Everton,True,Leeds United,,-0.79
+Demarai Gray,Everton,Leeds United,2022-11-05,True,90,0.0,0.03,0.0,0.04,2,1.0,2.0,5.1,0,0,0.69,2.2,0.07,85.36,5.0,4.0,4.36,4.44,0.05,2.0,Everton,False,Bournemouth,,0.19
+Demarai Gray,Everton,Bournemouth,2022-11-12,False,90,0.0,0.12,0.0,0.02,2,3.0,1.0,5.2,0,1,0.67,2.2,0.07,85.67,5.0,4.0,4.36,4.44,0.05,1.0,Everton,True,Wolverhampton,,-0.48
+Demarai Gray,Everton,Wolverhampton,2022-12-26,True,34,0.0,0.04,0.0,0.01,1,1.0,1.0,1.9,0,0,0.61,2.0,0.08,82.44,5.0,4.0,4.36,4.44,0.05,9.0,Everton,False,Manchester City,,-1.26
+Demarai Gray,Everton,Manchester City,2022-12-31,False,90,1.0,0.06,0.0,0.0,9,1.0,0.0,6.0,2,1,0.57,3.4,0.07,82.88,5.0,4.0,4.36,4.44,0.05,7.0,Everton,True,Brighton,,-0.71
+Demarai Gray,Everton,Brighton,2023-01-03,True,90,1.0,0.81,0.0,0.09,7,3.0,1.0,9.6,0,1,0.62,4.2,0.21,83.28,5.0,4.0,4.36,4.44,0.05,5.0,Everton,True,Southampton,,-0.38
+Demarai Gray,Everton,Southampton,2023-01-14,True,90,0.0,0.32,1.0,0.18,5,3.0,3.0,8.2,0,1,0.76,4.8,0.47,83.63,5.0,4.0,4.36,4.44,0.05,2.0,Everton,False,West Ham,,0.14
+Demarai Gray,Everton,West Ham,2023-01-21,False,90,0.0,0.0,0.0,0.11,2,0.0,1.0,4.1,0,1,0.73,4.8,0.45,83.95,5.0,4.0,4.36,4.44,0.05,0.0,Everton,True,Arsenal,,0.36
+Demarai Gray,Everton,Arsenal,,True,0,,,,,0,,,0.0,0,0,0.67,4.6,0.44,79.95,5.0,4.0,4.36,4.44,0.05,1.0,Everton,False,Liverpool,,-1.33
+Demarai Gray,Everton,Liverpool,2023-02-13,False,29,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0.63,3.0,0.43,77.64,5.0,4.0,4.36,4.44,0.05,0.0,Everton,True,Leicester City,,0.83
+Demarai Gray,Everton,Leicester City,,True,0,,,,,0,,,0.0,0,0,0.65,1.6,0.26,74.26,5.0,4.0,4.36,4.44,0.05,1.0,Everton,True,Aston Villa,,0.55
+Demarai Gray,Everton,Aston Villa,2023-02-25,True,20,0.0,0.1,0.0,0.0,1,2.0,0.0,2.2,0,0,0.85,0.8,0.02,72.0,5.0,4.0,4.36,4.44,0.05,1.0,Everton,False,Arsenal,,-0.0
+Demarai Gray,Everton,Arsenal,2023-03-01,False,29,0.0,0.06,0.0,0.0,1,1.0,0.0,2.3,0,0,0.85,0.6,0.03,70.28,5.0,4.0,4.36,4.44,0.05,6.0,Everton,False,Nottingham Forest,,
+Demarai Gray,Everton,Nottingham Forest,2023-03-05,False,88,1.0,0.91,0.0,0.05,6,2.0,1.0,8.3,0,1,0.68,1.8,0.21,70.96,5.0,4.0,4.36,4.44,0.05,3.0,Everton,True,Brentford,,0.69
+Demarai Gray,Everton,Brentford,2023-03-11,True,85,0.0,0.23,0.0,0.26,3,3.0,2.0,7.4,0,1,0.66,2.2,0.26,71.48,5.0,4.0,4.36,4.44,0.05,2.0,Everton,False,Chelsea,,-0.72
+Demarai Gray,Everton,Chelsea,2023-03-18,False,90,0.0,0.04,0.0,0.59,2,1.0,3.0,5.3,0,1,0.66,2.6,0.27,72.14,5.0,4.0,4.36,4.44,0.05,2.0,Everton,True,Tottenham,,1.07
+Demarai Gray,Everton,Tottenham,2023-04-03,True,76,0.0,0.09,0.0,0.07,2,2.0,2.0,6.9,0,1,0.61,2.8,0.26,72.28,5.0,4.0,4.36,4.44,0.05,2.0,Everton,False,Manchester United,,-0.1
+Demarai Gray,Everton,Manchester United,2023-04-08,False,90,0.0,0.08,0.0,0.14,2,1.0,1.0,3.3,0,1,0.62,3.0,0.27,72.87,5.0,4.0,4.36,4.44,0.05,1.0,Everton,True,Fulham,,-0.3
+Demarai Gray,Everton,Fulham,2023-04-15,True,90,0.0,0.46,0.0,0.0,1,3.0,0.0,2.8,0,1,0.68,2.0,0.18,73.42,5.0,4.0,4.36,4.44,0.05,3.0,Everton,False,Crystal Palace,,0.13
+Demarai Gray,Everton,Crystal Palace,2023-04-22,False,80,0.0,0.0,0.0,0.0,3,0.0,0.0,0.8,0,1,0.65,2.0,0.13,73.62,5.0,4.0,4.36,4.44,0.05,0.0,Everton,True,Newcastle United,,0.73
+Demarai Gray,Everton,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.63,1.6,0.13,71.39,5.0,4.0,4.36,4.44,0.05,0.0,Everton,False,Leeds United,,-0.8
+Demarai Gray,Everton,Leeds United,,False,0,,,,,0,,,0.0,0,0,0.6,1.2,0.11,69.29,5.0,4.0,4.36,4.44,0.05,0.0,Everton,False,Brighton,,-0.39
+Demarai Gray,Everton,Brighton,,False,0,,,,,0,,,0.0,0,0,0.58,0.8,0.09,67.31,5.0,4.0,4.36,4.44,0.05,1.0,Everton,True,Manchester City,,-1.17
+Demarai Gray,Everton,Manchester City,2023-05-14,True,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0.57,0.8,0.0,65.83,5.0,4.0,4.36,4.44,0.05,1.0,Everton,False,Wolverhampton,,-0.46
+Demarai Gray,Everton,Wolverhampton,2023-05-20,False,45,0.0,0.14,0.0,0.06,1,3.0,2.0,6.4,0,0,0.57,0.4,0.03,65.27,5.0,4.0,4.36,4.44,0.05,3.0,Everton,True,Bournemouth,,1.46
+Demarai Gray,Everton,Bournemouth,2023-05-28,True,86,0.0,0.74,0.0,0.0,3,4.0,0.0,0.0,0,1,0.61,1.0,0.18,65.82,5.0,4.0,4.36,4.44,0.05,0.0,Everton,True,Fulham,,-0.3

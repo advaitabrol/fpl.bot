@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jeffrey Schlupp,Crystal Palace,Arsenal,2022-08-05,True,85,0.0,0.16,0.0,0.0,2,3.0,0.0,5.2,0,0,0.15,2.0,0.16,85.0,4.0,1.0,3.62,2.03,0.05,2.0,Crystal Palace,False,Liverpool,,-1.33
+Jeffrey Schlupp,Crystal Palace,Liverpool,2022-08-15,False,87,0.0,0.0,0.0,0.0,2,0.0,0.0,1.6,0,0,0.16,2.0,0.08,86.0,4.0,1.0,3.62,2.03,0.05,1.0,Crystal Palace,True,Aston Villa,,0.55
+Jeffrey Schlupp,Crystal Palace,Aston Villa,2022-08-20,True,81,0.0,0.34,0.0,0.0,1,1.0,0.0,0.4,0,0,0.16,1.67,0.16,84.33,4.0,1.0,3.62,2.03,0.05,2.0,Crystal Palace,False,Manchester City,,-1.26
+Jeffrey Schlupp,Crystal Palace,Manchester City,2022-08-27,False,90,0.0,0.0,0.0,0.0,2,0.0,0.0,1.4,0,0,0.14,1.75,0.12,85.75,4.0,1.0,3.62,2.03,0.05,3.0,Crystal Palace,True,Brentford,,0.69
+Jeffrey Schlupp,Crystal Palace,Brentford,2022-08-30,True,75,0.0,0.15,0.0,0.0,3,2.0,0.0,4.0,0,0,0.15,2.0,0.13,83.6,4.0,1.0,3.62,2.03,0.05,3.0,Crystal Palace,False,Newcastle United,,-0.34
+Jeffrey Schlupp,Crystal Palace,Newcastle United,2022-09-03,False,90,0.0,0.09,0.0,0.0,3,3.0,0.0,3.8,0,0,0.15,2.2,0.12,84.67,4.0,1.0,3.62,2.03,0.05,1.0,Crystal Palace,True,Chelsea,,-0.25
+Jeffrey Schlupp,Crystal Palace,Chelsea,2022-10-01,True,16,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.14,2.0,0.12,74.86,4.0,1.0,3.62,2.03,0.05,2.0,Crystal Palace,True,Leicester City,,0.83
+Jeffrey Schlupp,Crystal Palace,Leicester City,2022-10-09,True,90,0.0,0.0,0.0,0.0,2,0.0,0.0,2.7,0,0,0.13,2.2,0.05,76.75,4.0,1.0,3.62,2.03,0.05,3.0,Crystal Palace,False,Leeds United,,-0.8
+Jeffrey Schlupp,Crystal Palace,Leeds United,2022-10-15,False,90,0.0,0.0,0.0,0.0,3,0.0,0.0,0.4,0,0,0.13,2.4,0.05,78.22,4.0,1.0,3.62,2.03,0.05,2.0,Crystal Palace,True,Wolverhampton,,-0.48
+Jeffrey Schlupp,Crystal Palace,Wolverhampton,2022-10-18,True,90,0.0,0.0,0.0,0.17,2,0.0,3.0,5.4,0,0,0.13,2.2,0.02,79.4,4.0,1.0,3.62,2.03,0.05,0.0,Crystal Palace,False,Everton,,-0.63
+Jeffrey Schlupp,Crystal Palace,Everton,2022-10-22,False,28,0.0,0.0,0.0,0.0,0,0.0,0.0,0.5,0,0,0.13,1.6,0.0,74.73,4.0,1.0,3.62,2.03,0.05,3.0,Crystal Palace,True,Southampton,,-0.38
+Jeffrey Schlupp,Crystal Palace,Southampton,2022-10-29,True,90,0.0,0.0,0.0,0.03,3,0.0,1.0,2.9,0,0,0.12,2.0,0.0,76.0,4.0,1.0,3.62,2.03,0.05,2.0,Crystal Palace,False,West Ham,,0.14
+Jeffrey Schlupp,Crystal Palace,West Ham,2022-11-06,False,90,0.0,0.06,0.0,0.04,2,1.0,1.0,3.5,0,0,0.12,2.0,0.01,77.08,4.0,1.0,3.62,2.03,0.05,1.0,Crystal Palace,False,Nottingham Forest,,
+Jeffrey Schlupp,Crystal Palace,Nottingham Forest,2022-11-12,False,90,0.0,0.13,0.0,0.0,1,2.0,0.0,1.5,0,1,0.12,1.6,0.04,78.0,4.0,1.0,3.62,2.03,0.05,2.0,Crystal Palace,True,Fulham,,-0.3
+Jeffrey Schlupp,Crystal Palace,Fulham,2022-12-26,True,83,0.0,0.0,0.0,0.0,2,0.0,0.0,1.0,0,1,0.12,1.6,0.04,78.33,4.0,1.0,3.62,2.03,0.05,3.0,Crystal Palace,False,Bournemouth,,0.19
+Jeffrey Schlupp,Crystal Palace,Bournemouth,2022-12-31,False,90,0.0,0.01,0.0,0.08,3,1.0,1.0,2.2,0,1,0.12,2.2,0.04,79.06,4.0,1.0,3.62,2.03,0.05,1.0,Crystal Palace,True,Tottenham,,1.07
+Jeffrey Schlupp,Crystal Palace,Tottenham,2023-01-04,True,60,0.0,0.0,0.0,0.0,1,0.0,0.0,1.8,0,1,0.11,1.8,0.04,77.94,4.0,1.0,3.62,2.03,0.05,2.0,Crystal Palace,False,Chelsea,,-0.72
+Jeffrey Schlupp,Crystal Palace,Chelsea,2023-01-15,False,68,0.0,0.06,0.0,0.0,2,1.0,0.0,4.2,0,1,0.12,1.8,0.04,77.39,4.0,1.0,3.62,2.03,0.05,4.0,Crystal Palace,True,Manchester United,,0.38
+Jeffrey Schlupp,Crystal Palace,Manchester United,2023-01-18,True,19,0.0,0.0,0.0,0.0,4,0.0,0.0,0.4,0,0,0.12,2.4,0.01,74.32,4.0,1.0,3.62,2.03,0.05,3.0,Crystal Palace,True,Newcastle United,,0.73
+Jeffrey Schlupp,Crystal Palace,Newcastle United,2023-01-21,True,64,0.0,0.0,0.0,0.0,3,0.0,0.0,0.4,0,1,0.11,2.6,0.01,73.8,4.0,1.0,3.62,2.03,0.05,6.0,Crystal Palace,False,Manchester United,,-0.1
+Jeffrey Schlupp,Crystal Palace,Manchester United,2023-02-04,False,82,1.0,0.48,0.0,0.0,6,2.0,0.0,7.5,0,1,0.11,3.2,0.11,74.19,4.0,1.0,3.62,2.03,0.05,2.0,Crystal Palace,True,Brighton,,-0.71
+Jeffrey Schlupp,Crystal Palace,Brighton,2023-02-11,True,70,0.0,0.0,0.0,0.0,2,0.0,0.0,0.6,0,1,0.12,3.4,0.11,74.0,4.0,1.0,3.62,2.03,0.05,2.0,Crystal Palace,False,Brentford,,-0.55
+Jeffrey Schlupp,Crystal Palace,Brentford,2023-02-18,False,90,0.0,0.09,0.0,0.02,2,1.0,1.0,2.3,0,1,0.12,3.4,0.11,74.7,4.0,1.0,3.62,2.03,0.05,3.0,Crystal Palace,True,Liverpool,,-0.53
+Jeffrey Schlupp,Crystal Palace,Liverpool,2023-02-25,True,70,0.0,0.08,0.0,0.42,3,1.0,1.0,3.1,0,1,0.12,3.2,0.13,74.5,4.0,1.0,3.62,2.03,0.05,0.0,Crystal Palace,False,Aston Villa,,0.59
+Jeffrey Schlupp,Crystal Palace,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0.12,2.6,0.13,71.52,4.0,1.0,3.62,2.03,0.05,2.0,Crystal Palace,True,Manchester City,,-1.17
+Jeffrey Schlupp,Crystal Palace,Manchester City,2023-03-11,True,79,0.0,0.0,0.0,0.0,2,0.0,0.0,1.1,0,1,0.12,1.8,0.03,71.81,4.0,1.0,3.62,2.03,0.05,2.0,Crystal Palace,False,Brighton,,-0.39
+Jeffrey Schlupp,Crystal Palace,Brighton,2023-03-15,False,79,0.0,0.02,0.0,0.0,2,1.0,0.0,0.9,0,1,0.12,1.8,0.04,72.07,4.0,1.0,3.62,2.03,0.05,8.0,Crystal Palace,False,Arsenal,,-0.0
+Jeffrey Schlupp,Crystal Palace,Arsenal,2023-03-19,False,81,1.0,0.57,0.0,0.34,8,1.0,2.0,9.8,1,1,0.12,3.0,0.13,72.39,4.0,1.0,3.62,2.03,0.05,2.0,Crystal Palace,True,Leeds United,,-0.79
+Jeffrey Schlupp,Crystal Palace,Leeds United,2023-04-01,True,80,0.0,0.0,0.0,0.28,2,0.0,5.0,7.4,0,1,0.11,2.8,0.12,72.66,4.0,1.0,3.62,2.03,0.05,5.0,Crystal Palace,False,Leicester City,,-0.05
+Jeffrey Schlupp,Crystal Palace,Leicester City,2023-04-09,False,79,0.0,0.56,1.0,0.87,5,2.0,2.0,7.1,0,1,0.12,3.8,0.43,72.87,4.0,1.0,3.62,2.03,0.05,3.0,Crystal Palace,False,Southampton,,-1.07
+Jeffrey Schlupp,Crystal Palace,Southampton,2023-04-15,False,84,0.0,0.04,0.0,0.0,3,1.0,0.0,2.5,0,1,0.14,4.0,0.44,73.23,4.0,1.0,3.62,2.03,0.05,3.0,Crystal Palace,True,Everton,,0.34
+Jeffrey Schlupp,Crystal Palace,Everton,2023-04-22,True,70,0.0,0.0,0.0,0.04,3,0.0,1.0,1.7,0,1,0.15,4.2,0.43,73.12,4.0,1.0,3.62,2.03,0.05,0.0,Crystal Palace,False,Wolverhampton,,-0.46
+Jeffrey Schlupp,Crystal Palace,Wolverhampton,2023-04-25,False,25,0.0,0.03,0.0,0.0,0,1.0,0.0,1.1,0,0,0.14,2.6,0.33,71.67,4.0,1.0,3.62,2.03,0.05,8.0,Crystal Palace,True,West Ham,,0.63
+Jeffrey Schlupp,Crystal Palace,West Ham,2023-04-29,True,90,1.0,0.57,0.0,0.0,8,4.0,0.0,7.9,1,1,0.13,3.8,0.44,72.21,4.0,1.0,3.62,2.03,0.05,1.0,Crystal Palace,False,Tottenham,,-0.03
+Jeffrey Schlupp,Crystal Palace,Tottenham,2023-05-06,False,73,0.0,0.0,0.0,0.0,1,0.0,0.0,1.6,0,1,0.15,3.0,0.13,72.23,4.0,1.0,3.62,2.03,0.05,0.0,Crystal Palace,True,Bournemouth,,1.46
+Jeffrey Schlupp,Crystal Palace,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0.14,2.4,0.12,70.22,4.0,1.0,3.62,2.03,0.05,0.0,Crystal Palace,False,Fulham,,1.37
+Jeffrey Schlupp,Crystal Palace,Fulham,,False,0,,,,,0,,,0.0,0,0,0.13,1.8,0.12,68.32,4.0,1.0,3.62,2.03,0.05,0.0,Crystal Palace,True,Nottingham Forest,,
+Jeffrey Schlupp,Crystal Palace,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.12,1.8,0.11,66.53,4.0,1.0,3.62,2.03,0.05,,Crystal Palace,False,Sheffield,,-0.61

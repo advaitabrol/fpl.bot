@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Caleb Okoli,Leicester,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Fulham,,0.53
-Caleb Okoli,Leicester,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Aston Villa,-0.34,0.66
-Caleb Okoli,Leicester,Aston Villa,2024-08-31,True,90.0,0.0,0.02,0.0,0.0,0.0,1.0,0.0,2.4,0.0,0.0,2.0,1.54,1.0,0.0,0.01,30.0,0.0,1.0,Leicester,False,Crystal Palace,2.07,0.2
-Caleb Okoli,Leicester,Crystal Palace,2024-09-14,False,90.0,0.0,0.02,0.0,0.0,1.0,1.0,0.0,4.6,0.0,0.0,2.0,2.55,1.0,0.25,0.01,45.0,0.0,2.0,Leicester,True,Everton,4.46,0.61
-Caleb Okoli,Leicester,Everton,2024-09-21,True,90.0,0.0,0.3,0.0,0.0,2.0,1.0,0.0,2.6,0.0,0.0,1.0,1.1,1.0,0.6,0.07,54.0,0.0,1.0,Leicester,False,Arsenal,-1.31,-0.56
-Caleb Okoli,Leicester,Arsenal,2024-09-28,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.3,0.0,0.0,3.0,3.7,1.0,0.8,0.07,60.0,0.0,7.0,Leicester,True,Bournemouth,,0.84
-Caleb Okoli,Leicester,Bournemouth,2024-10-05,True,90.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,3.1,1.0,1.0,0.0,2.16,1.0,2.2,0.07,64.29,0.2,1.0,Leicester,False,Southampton,-3.27,-0.31
-Caleb Okoli,Leicester,Southampton,2024-10-19,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.2,0.0,0.0,2.0,2.15,1.0,2.4,0.06,67.5,0.17,1.0,Leicester,True,Nottingham Forest,,1.2
-Caleb Okoli,Leicester,Nottingham Forest,2024-10-25,True,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,4.5,0.0,0.0,3.0,1.73,1.0,2.4,0.06,70.0,0.14,,Leicester,False,Ipswich Town,,
-,Leicester,,,,,,,,,,,,,,,,,,,,,,,Leicester,False,Manchester United,0.11,-0.41
-,Leicester,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,Chelsea,-2.98,0.0
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Caleb Okoli,Leicester,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.16,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Fulham,,0.53
+Caleb Okoli,Leicester,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Aston Villa,,0.66
+Caleb Okoli,Leicester,Aston Villa,2024-08-31,True,90.0,0.0,0.02,0.0,0.0,0.0,1.0,0.0,2.4,0.0,0.0,2.0,1.54,1.0,0.17,0.0,0.01,30.0,0.0,0.0,0.0,0.0,0.0,1.0,Leicester,False,Crystal Palace,,0.2
+Caleb Okoli,Leicester,Crystal Palace,2024-09-14,False,90.0,0.0,0.02,0.0,0.0,1.0,1.0,0.0,4.6,0.0,0.0,2.0,2.55,1.0,0.2,0.25,0.01,45.0,0.0,0.0,0.0,0.0,0.0,2.0,Leicester,True,Everton,,0.61
+Caleb Okoli,Leicester,Everton,2024-09-21,True,90.0,0.0,0.3,0.0,0.0,2.0,1.0,0.0,2.6,0.0,0.0,1.0,1.1,1.0,0.22,0.6,0.07,54.0,0.0,0.0,0.0,0.0,0.0,1.0,Leicester,False,Arsenal,,-0.56
+Caleb Okoli,Leicester,Arsenal,2024-09-28,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.3,0.0,0.0,3.0,3.7,1.0,0.29,0.8,0.07,60.0,0.0,0.0,0.0,0.0,0.0,7.0,Leicester,True,Bournemouth,,0.84
+Caleb Okoli,Leicester,Bournemouth,2024-10-05,True,90.0,0.0,0.0,0.0,0.0,7.0,0.0,0.0,3.1,1.0,1.0,0.0,2.16,1.0,0.33,2.2,0.07,64.29,0.2,0.0,0.0,0.0,0.0,1.0,Leicester,False,Southampton,,-0.31
+Caleb Okoli,Leicester,Southampton,2024-10-19,False,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,3.2,0.0,0.0,2.0,2.15,1.0,0.69,2.4,0.06,67.5,0.17,0.0,0.0,0.0,0.0,1.0,Leicester,True,Nottingham Forest,,1.2
+Caleb Okoli,Leicester,Nottingham Forest,2024-10-25,True,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,4.5,0.0,0.0,3.0,1.73,1.0,0.96,2.4,0.06,70.0,0.14,0.0,0.0,0.0,0.0,0.0,Leicester,False,Ipswich Town,,
+Caleb Okoli,Leicester,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.36,2.0,0.0,63.0,0.14,0.0,0.0,0.0,0.0,0.0,Leicester,False,Manchester United,,-0.41
+Caleb Okoli,Leicester,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.28,1.8,0.0,57.27,0.14,0.0,0.0,0.0,0.0,1.0,Leicester,True,Chelsea,,0.0
+Caleb Okoli,Leicester,Chelsea,2024-11-23,True,90.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.8,0.0,0.0,2.0,2.75,1.0,1.21,0.6,0.0,60.0,0.12,0.0,0.0,0.0,0.0,,Leicester,False,Brentford,,-0.15
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,West Ham,,0.48
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,Brighton,,-0.42

@@ -1,26 +1,26 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Tawanda Chirewa,Wolves,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Burnley,0.01,0.39
-Tawanda Chirewa,Wolves,Burnley,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Nottingham Forest,-1.37,1.55
-Tawanda Chirewa,Wolves,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,West Ham,2.37,-0.22
-Tawanda Chirewa,Wolves,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Chelsea,-1.82,-0.25
-Tawanda Chirewa,Wolves,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,False,Brentford,-1.35,-0.53
-Tawanda Chirewa,Wolves,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,Wolves,True,Everton,-0.67,0.53
-Tawanda Chirewa,Wolves,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,1.0,Wolves,False,Brighton,2.18,-0.6
-Tawanda Chirewa,Wolves,Brighton,2024-01-22,False,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0.2,0.0,0.25,0.0,Wolves,True,Manchester United,0.17,0.38
-Tawanda Chirewa,Wolves,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,0.22,0.0,Wolves,False,Chelsea,0.12,-0.85
-Tawanda Chirewa,Wolves,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,0.2,0.0,Wolves,True,Brentford,0.29,0.79
-Tawanda Chirewa,Wolves,Brentford,,True,0,,,,,0,,,0.0,0,0,0.2,0.0,0.18,0.0,Wolves,False,Tottenham,-1.64,-0.36
-Tawanda Chirewa,Wolves,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.2,0.0,0.17,0.0,Wolves,True,Sheffield,,0.68
-Tawanda Chirewa,Wolves,Sheffield,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.15,1.0,Wolves,False,Newcastle United,1.8,-0.41
-Tawanda Chirewa,Wolves,Newcastle United,2024-03-02,False,9,0.0,0.06,0.0,0.02,1,1.0,1.0,2.5,0,0,0.2,0.01,0.79,0.0,Wolves,True,Fulham,0.54,-0.13
-Tawanda Chirewa,Wolves,Fulham,,True,0,,,,,0,,,0.0,0,0,0.2,0.01,0.73,0.0,Wolves,False,Aston Villa,-0.98,0.29
-Tawanda Chirewa,Wolves,Aston Villa,2024-03-30,False,19,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,0,0.2,0.01,1.88,0.0,Wolves,False,Burnley,3.56,0.0
-Tawanda Chirewa,Wolves,Burnley,,False,0,,,,,0,,,0.0,0,0,0.2,0.01,1.76,1.0,Wolves,True,West Ham,-2.07,0.49
-Tawanda Chirewa,Wolves,West Ham,2024-04-06,True,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0.4,0.01,1.83,1.0,Wolves,False,Nottingham Forest,1.25,-0.55
-Tawanda Chirewa,Wolves,Nottingham Forest,2024-04-13,False,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.4,0.0,1.84,2.0,Wolves,True,Arsenal,2.55,-0.11
-Tawanda Chirewa,Wolves,Arsenal,2024-04-20,True,74,0.0,0.02,0.0,0.0,2,1.0,0.0,1.7,0,1,0.8,0.0,5.45,1.0,Wolves,True,Bournemouth,3.94,1.22
-Tawanda Chirewa,Wolves,Bournemouth,2024-04-24,True,26,0.0,0.03,0.0,0.0,1,1.0,0.0,1.1,0,0,1.0,0.01,6.43,0.0,Wolves,True,Luton,,
-Tawanda Chirewa,Wolves,Luton,,True,0,,,,,0,,,0.0,0,0,1.0,0.01,6.14,1.0,Wolves,False,Manchester City,-0.09,-1.32
-Tawanda Chirewa,Wolves,Manchester City,2024-05-04,False,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,1.0,0.01,6.0,0.0,Wolves,True,Crystal Palace,,0.88
-Tawanda Chirewa,Wolves,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.8,0.01,5.75,0.0,Wolves,False,Liverpool,,-1.01
-Tawanda Chirewa,Wolves,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.4,0.01,5.52,,Wolves,False,Arsenal,-0.53,-0.48
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Tawanda Chirewa,Wolves,Arsenal,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,True,Burnley,,0.39
+Tawanda Chirewa,Wolves,Burnley,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,True,Nottingham Forest,,1.55
+Tawanda Chirewa,Wolves,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,False,West Ham,,-0.22
+Tawanda Chirewa,Wolves,West Ham,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,True,Chelsea,,-0.25
+Tawanda Chirewa,Wolves,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,False,Brentford,,-0.53
+Tawanda Chirewa,Wolves,Brentford,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Wolves,True,Everton,,0.53
+Tawanda Chirewa,Wolves,Everton,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,1.0,Wolves,False,Brighton,,-0.6
+Tawanda Chirewa,Wolves,Brighton,2024-01-22,False,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.6,0,0,0.0,0.2,0.0,0.25,0,0,0,0,0,0.0,Wolves,True,Manchester United,,0.38
+Tawanda Chirewa,Wolves,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.0,0.2,0.0,0.22,0,0,0,0,0,0.0,Wolves,False,Chelsea,,-0.85
+Tawanda Chirewa,Wolves,Chelsea,,False,0,,,,,0,,,0.0,0,0,0.0,0.2,0.0,0.2,0,0,0,0,0,0.0,Wolves,True,Brentford,,0.79
+Tawanda Chirewa,Wolves,Brentford,,True,0,,,,,0,,,0.0,0,0,0.0,0.2,0.0,0.18,0,0,0,0,0,0.0,Wolves,False,Tottenham,,-0.36
+Tawanda Chirewa,Wolves,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.0,0.2,0.0,0.17,0,0,0,0,0,0.0,Wolves,True,Sheffield,,0.68
+Tawanda Chirewa,Wolves,Sheffield,,True,0,,,,,0,,,0.0,0,0,0.01,0.0,0.0,0.15,0,0,0,0,0,1.0,Wolves,False,Newcastle United,,-0.41
+Tawanda Chirewa,Wolves,Newcastle United,2024-03-02,False,9,0.0,0.06,0.0,0.02,1,1.0,1.0,2.5,0,0,0.0,0.2,0.01,0.79,0,0,0,0,0,0.0,Wolves,True,Fulham,,-0.13
+Tawanda Chirewa,Wolves,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.2,0.01,0.73,0,0,0,0,0,0.0,Wolves,False,Aston Villa,,0.29
+Tawanda Chirewa,Wolves,Aston Villa,2024-03-30,False,19,0.0,0.0,0.0,0.0,0,0.0,0.0,0.2,0,0,0.01,0.2,0.01,1.88,0,0,0,0,0,0.0,Wolves,False,Burnley,,0.0
+Tawanda Chirewa,Wolves,Burnley,,False,0,,,,,0,,,0.0,0,0,0.01,0.2,0.01,1.76,0,0,0,0,0,1.0,Wolves,True,West Ham,,0.49
+Tawanda Chirewa,Wolves,West Ham,2024-04-06,True,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.3,0,0,0.01,0.4,0.01,1.83,0,0,0,0,0,1.0,Wolves,False,Nottingham Forest,,-0.55
+Tawanda Chirewa,Wolves,Nottingham Forest,2024-04-13,False,2,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.01,0.4,0.0,1.84,0,0,0,0,0,2.0,Wolves,True,Arsenal,,-0.11
+Tawanda Chirewa,Wolves,Arsenal,2024-04-20,True,74,0.0,0.02,0.0,0.0,2,1.0,0.0,1.7,0,1,0.01,0.8,0.0,5.45,0,0,0,0,0,1.0,Wolves,True,Bournemouth,,1.22
+Tawanda Chirewa,Wolves,Bournemouth,2024-04-24,True,26,0.0,0.03,0.0,0.0,1,1.0,0.0,1.1,0,0,0.01,1.0,0.01,6.43,0,0,0,0,0,0.0,Wolves,True,Luton,,
+Tawanda Chirewa,Wolves,Luton,,True,0,,,,,0,,,0.0,0,0,0.01,1.0,0.01,6.14,0,0,0,0,0,1.0,Wolves,False,Manchester City,,-1.32
+Tawanda Chirewa,Wolves,Manchester City,2024-05-04,False,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0.01,1.0,0.01,6.0,0,0,0,0,0,0.0,Wolves,True,Crystal Palace,,0.88
+Tawanda Chirewa,Wolves,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.01,0.8,0.01,5.75,0,0,0,0,0,0.0,Wolves,False,Liverpool,,-1.01
+Tawanda Chirewa,Wolves,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.01,0.4,0.01,5.52,0,0,0,0,0,,Wolves,False,Arsenal,,-0.48

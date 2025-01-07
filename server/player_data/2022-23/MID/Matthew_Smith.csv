@@ -1,0 +1,35 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Matthew Smith,Arsenal,Aston Villa,2022-08-31,True,0,0.0,0.0,0.0,0.06,0,0.0,1.0,0.0,0,0,0.0,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Manchester United,,-0.1
+Matthew Smith,Arsenal,Manchester United,,False,0,,,,,0,,,0.0,0,0,0.03,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Brentford,,-0.55
+Matthew Smith,Arsenal,Brentford,,False,0,,,,,0,,,0.0,0,0,0.06,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Tottenham,,1.07
+Matthew Smith,Arsenal,Tottenham,,True,0,,,,,0,,,0.0,0,0,0.07,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Liverpool,,-0.53
+Matthew Smith,Arsenal,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.08,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Leicester City,,-0.05
+Matthew Smith,Arsenal,Leicester City,2022-10-16,False,0,0.0,0.0,0.0,0.12,0,0.0,3.0,0.0,0,0,0.07,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Southampton,,-1.07
+Matthew Smith,Arsenal,Southampton,2022-10-23,False,0,0.0,0.04,0.0,0.0,0,2.0,0.0,0.0,0,0,0.08,0.0,0.01,0.0,0,0,0,0,0,0.0,Arsenal,True,Nottingham Forest,,
+Matthew Smith,Arsenal,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0.07,0.0,0.01,0.0,0,0,0,0,0,0.0,Arsenal,False,Chelsea,,-0.72
+Matthew Smith,Arsenal,Chelsea,2022-11-06,False,0,0.0,0.02,0.0,0.0,0,1.0,0.0,0.0,0,0,0.07,0.0,0.01,0.0,0,0,0,0,0,0.0,Arsenal,False,Wolverhampton,,-0.46
+Matthew Smith,Arsenal,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0.07,0.0,0.01,0.0,0,0,0,0,0,0.0,Arsenal,True,West Ham,,0.63
+Matthew Smith,Arsenal,West Ham,,True,0,,,,,0,,,0.0,0,0,0.08,0.0,0.01,0.0,0,0,0,0,0,0.0,Arsenal,False,Brighton,,-0.39
+Matthew Smith,Arsenal,Brighton,,False,0,,,,,0,,,0.0,0,0,0.08,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Newcastle United,,0.73
+Matthew Smith,Arsenal,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0.08,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Tottenham,,-0.03
+Matthew Smith,Arsenal,Tottenham,,False,0,,,,,0,,,0.0,0,0,0.08,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Manchester United,,0.38
+Matthew Smith,Arsenal,Manchester United,,True,0,,,,,0,,,0.0,0,0,0.08,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Everton,,-0.63
+Matthew Smith,Arsenal,Everton,2023-02-04,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.08,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Brentford,,0.69
+Matthew Smith,Arsenal,Brentford,,True,0,,,,,0,,,0.0,0,0,0.08,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Manchester City,,-1.17
+Matthew Smith,Arsenal,Manchester City,,True,0,,,,,0,,,0.0,0,0,0.08,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Aston Villa,,0.59
+Matthew Smith,Arsenal,Aston Villa,2023-02-18,False,0,0.0,0.0,1.0,0.1,0,0.0,1.0,0.0,0,0,0.08,0.0,0.2,0.0,0,0,0,0,0,0.0,Arsenal,False,Leeds United,,-0.8
+Matthew Smith,Arsenal,Leeds United,2023-02-25,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.08,0.0,0.2,0.0,0,0,0,0,0,0.0,Arsenal,True,Everton,,0.34
+Matthew Smith,Arsenal,Everton,,True,0,,,,,0,,,0.0,0,0,0.08,0.0,0.2,0.0,0,0,0,0,0,0.0,Arsenal,True,Bournemouth,,1.46
+Matthew Smith,Arsenal,Bournemouth,2023-03-04,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.08,0.0,0.2,0.0,0,0,0,0,0,0.0,Arsenal,False,Fulham,,1.37
+Matthew Smith,Arsenal,Fulham,2023-03-12,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.08,0.0,0.2,0.0,0,0,0,0,0,0.0,Arsenal,True,Crystal Palace,,0.81
+Matthew Smith,Arsenal,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0.08,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Leicester City,,0.83
+Matthew Smith,Arsenal,Leicester City,,True,0,,,,,0,,,0.0,0,0,0.08,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Liverpool,,-1.33
+Matthew Smith,Arsenal,Liverpool,,False,0,,,,,0,,,0.0,0,0,0.08,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,West Ham,,0.14
+Matthew Smith,Arsenal,West Ham,,False,0,,,,,0,,,0.0,0,0,0.08,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Southampton,,-0.38
+Matthew Smith,Arsenal,Southampton,,True,0,,,,,0,,,0.0,0,0,0.08,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Manchester City,,-1.26
+Matthew Smith,Arsenal,Manchester City,,False,0,,,,,0,,,0.0,0,0,0.08,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Chelsea,,-0.25
+Matthew Smith,Arsenal,Chelsea,,True,0,,,,,0,,,0.0,0,0,0.08,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Newcastle United,,-0.34
+Matthew Smith,Arsenal,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0.08,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Brighton,,-0.71
+Matthew Smith,Arsenal,Brighton,,True,0,,,,,0,,,0.0,0,0,0.08,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,False,Nottingham Forest,,
+Matthew Smith,Arsenal,Nottingham Forest,2023-05-20,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.08,0.0,0.0,0.0,0,0,0,0,0,0.0,Arsenal,True,Wolverhampton,,-0.48
+Matthew Smith,Arsenal,Wolverhampton,2023-05-28,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.08,0.0,0.0,0.0,0,0,0,0,0,,Fulham,False,Everton,,-0.63

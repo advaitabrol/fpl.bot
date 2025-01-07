@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Thomas Kaminski,Luton,Brighton,2023-08-12,False,90,4,4.1,8,0,3,1,0,0.0,1,3.0,0,90.0,0.0,8.0,2.0,Luton,False,Chelsea,,-0.85
-Thomas Kaminski,Luton,Chelsea,2023-08-25,False,90,3,2.09,5,0,2,0,0,0.0,1,2.5,0,90.0,0.0,6.5,1.0,Luton,True,West Ham,,0.49
-Thomas Kaminski,Luton,West Ham,2023-09-01,True,90,2,1.06,1,0,1,0,0,0.0,1,2.0,0,90.0,0.0,4.67,1.0,Luton,False,Fulham,,0.86
-Thomas Kaminski,Luton,Fulham,2023-09-16,False,90,1,0.98,1,0,1,0,0,0.0,1,1.75,0,90.0,0.0,3.75,2.0,Luton,True,Wolverhampton,,0.05
-Thomas Kaminski,Luton,Wolverhampton,2023-09-23,True,90,1,0.59,2,0,2,0,0,0.0,1,1.8,0,90.0,0.0,3.4,3.0,Luton,False,Everton,,-0.24
-Thomas Kaminski,Luton,Everton,2023-09-30,False,90,1,2.9,3,0,3,0,0,0.0,1,1.8,0,90.0,0.0,3.33,1.0,Luton,True,Burnley,,0.39
-Thomas Kaminski,Luton,Burnley,2023-10-03,True,90,2,1.04,2,0,1,0,0,0.0,1,1.6,0,90.0,0.0,3.14,3.0,Luton,True,Tottenham,,0.69
-Thomas Kaminski,Luton,Tottenham,2023-10-07,True,90,1,1.99,3,0,3,0,0,0.0,1,2.0,0,90.0,0.0,3.12,3.0,Luton,False,Nottingham Forest,,-0.55
-Thomas Kaminski,Luton,Nottingham Forest,2023-10-21,False,90,2,2.97,6,0,3,0,0,0.0,1,2.4,0,90.0,0.0,3.44,2.0,Luton,False,Aston Villa,,0.29
-Thomas Kaminski,Luton,Aston Villa,2023-10-29,False,90,3,2.39,4,0,2,0,0,0.0,1,2.4,0,90.0,0.0,3.5,3.0,Luton,True,Liverpool,,0.18
-Thomas Kaminski,Luton,Liverpool,2023-11-05,True,90,1,3.04,5,0,3,0,0,0.0,1,2.4,0,90.0,0.0,3.64,3.0,Luton,False,Manchester United,,-0.63
-Thomas Kaminski,Luton,Manchester United,2023-11-11,False,90,1,2.12,3,0,3,0,0,0.0,1,2.8,0,90.0,0.0,3.58,3.0,Luton,True,Crystal Palace,,0.88
-Thomas Kaminski,Luton,Crystal Palace,2023-11-25,True,90,1,1.68,7,0,3,0,0,0.0,1,2.8,0,90.0,0.0,3.85,1.0,Luton,False,Brentford,,-0.53
-Thomas Kaminski,Luton,Brentford,2023-12-02,False,90,3,3.47,3,0,1,0,0,0.0,1,2.4,0,90.0,0.0,3.79,1.0,Luton,True,Arsenal,,-0.11
-Thomas Kaminski,Luton,Arsenal,2023-12-05,True,90,4,2.44,5,0,1,0,0,0.0,1,2.2,0,90.0,0.0,3.87,2.0,Luton,True,Manchester City,,-0.96
-Thomas Kaminski,Luton,Manchester City,2023-12-10,True,90,2,1.6,4,0,2,0,0,0.0,1,2.0,0,90.0,0.0,3.88,6.0,Luton,True,Newcastle United,,0.55
-Thomas Kaminski,Luton,Newcastle United,2023-12-23,True,90,0,1.68,2,0,6,0,1,0.0,1,2.6,0,90.0,0.06,3.76,1.0,Luton,False,Sheffield,,-0.61
-Thomas Kaminski,Luton,Sheffield,2023-12-26,False,90,2,2.59,2,0,1,0,0,0.0,1,2.2,0,90.0,0.06,3.67,2.0,Luton,True,Chelsea,,-0.25
-Thomas Kaminski,Luton,Chelsea,2023-12-30,True,90,3,1.5,5,0,2,0,0,0.0,1,2.4,0,90.0,0.05,3.74,5.0,Luton,False,Burnley,,0.0
-Thomas Kaminski,Luton,Burnley,2024-01-12,False,90,1,0.99,7,0,5,1,0,0.0,1,3.2,0,90.0,0.05,3.9,6.0,Luton,True,Brighton,,-0.66
-Thomas Kaminski,Luton,Brighton,2024-01-30,True,90,0,0.88,2,0,6,0,1,0.0,1,4.0,0,90.0,0.1,3.81,0.0,Luton,False,Newcastle United,,-0.41
-Thomas Kaminski,Luton,Newcastle United,2024-02-03,False,90,4,2.28,2,0,0,0,0,0.0,1,2.8,0,90.0,0.09,3.73,1.0,Luton,True,Sheffield,,0.68
-Thomas Kaminski,Luton,Sheffield,2024-02-10,True,90,3,1.81,0,0,1,0,0,0.0,1,2.8,0,90.0,0.09,3.57,4.0,Luton,True,Manchester United,,0.38
-Thomas Kaminski,Luton,Manchester United,2024-02-18,True,90,2,2.81,6,0,4,1,0,0.0,1,3.2,0,90.0,0.08,3.67,3.0,Luton,False,Liverpool,,-1.01
-Thomas Kaminski,Luton,Liverpool,2024-02-21,False,90,4,3.31,9,0,3,0,0,0.0,1,2.8,0,90.0,0.08,3.88,2.0,Luton,True,Aston Villa,,0.64
-Thomas Kaminski,Luton,Aston Villa,2024-03-02,True,90,3,1.83,5,0,2,0,0,0.0,1,2.0,0,90.0,0.08,3.92,3.0,Luton,False,Crystal Palace,,0.38
-Thomas Kaminski,Luton,Crystal Palace,2024-03-09,False,90,1,2.59,3,0,3,0,0,0.0,1,2.6,0,90.0,0.07,3.89,1.0,Luton,False,Bournemouth,,0.19
-Thomas Kaminski,Luton,Bournemouth,2024-03-13,False,90,4,2.66,5,0,1,0,0,0.0,1,2.6,0,90.0,0.07,3.93,2.0,Luton,True,Nottingham Forest,,1.55
-Thomas Kaminski,Luton,Nottingham Forest,2024-03-16,True,90,1,1.71,2,0,2,0,0,0.0,1,2.2,0,90.0,0.07,3.86,1.0,Luton,False,Tottenham,,-0.36
-Thomas Kaminski,Luton,Tottenham,2024-03-30,False,90,2,2.98,2,0,1,0,0,0.0,1,1.8,0,90.0,0.07,3.8,2.0,Luton,False,Arsenal,,-0.48
-Thomas Kaminski,Luton,Arsenal,2024-04-03,False,90,2,0.82,4,0,2,0,0,0.0,1,1.8,0,90.0,0.06,3.81,2.0,Luton,True,Bournemouth,,1.22
-Thomas Kaminski,Luton,Bournemouth,2024-04-06,True,90,1,0.34,1,0,2,0,0,0.0,1,1.6,0,90.0,0.06,3.72,3.0,Luton,False,Manchester City,,-1.32
-Thomas Kaminski,Luton,Manchester City,2024-04-13,False,90,5,4.26,9,0,3,0,0,0.0,1,2.0,0,90.0,0.06,3.88,1.0,Luton,True,Brentford,,0.79
-Thomas Kaminski,Luton,Brentford,2024-04-20,True,90,5,3.14,4,0,1,0,0,0.0,1,1.8,0,90.0,0.06,3.88,2.0,Luton,False,Wolverhampton,,-0.52
-Thomas Kaminski,Luton,Wolverhampton,2024-04-27,False,90,2,1.21,3,0,2,0,0,0.0,1,2.0,0,90.0,0.06,3.86,3.0,Luton,True,Everton,,0.53
-Thomas Kaminski,Luton,Everton,2024-05-03,True,90,1,1.43,3,0,3,0,0,0.0,1,2.2,0,90.0,0.06,3.83,2.0,Luton,False,West Ham,,-0.22
-Thomas Kaminski,Luton,West Ham,2024-05-11,False,90,3,3.24,5,0,2,0,0,0.0,1,2.2,0,90.0,0.05,3.86,0.0,Luton,True,Fulham,,-0.13
-Thomas Kaminski,Luton,Fulham,2024-05-19,True,75,4,0.63,1,0,0,0,0,0.04,1,1.6,0,89.61,0.05,3.79,,Nott'm Forest,True,Bournemouth,0.52,1.22
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Thomas Kaminski,Luton,Brighton,2023-08-12,False,90,4,4.1,8,0,3,1,0,0.0,1,0.1,3.0,0,90.0,0.0,8.0,0,0,0,2.0,Luton,False,Chelsea,,-0.85
+Thomas Kaminski,Luton,Chelsea,2023-08-25,False,90,3,2.09,5,0,2,0,0,0.0,1,0.14,2.5,0,90.0,0.0,6.5,0,0,0,1.0,Luton,True,West Ham,,0.49
+Thomas Kaminski,Luton,West Ham,2023-09-01,True,90,2,1.06,1,0,1,0,0,0.0,1,0.16,2.0,0,90.0,0.0,4.67,0,0,0,1.0,Luton,False,Fulham,,0.86
+Thomas Kaminski,Luton,Fulham,2023-09-16,False,90,1,0.98,1,0,1,0,0,0.0,1,0.19,1.75,0,90.0,0.0,3.75,0,0,0,2.0,Luton,True,Wolverhampton,,0.05
+Thomas Kaminski,Luton,Wolverhampton,2023-09-23,True,90,1,0.59,2,0,2,0,0,0.0,1,0.23,1.8,0,90.0,0.0,3.4,0,0,0,3.0,Luton,False,Everton,,-0.24
+Thomas Kaminski,Luton,Everton,2023-09-30,False,90,1,2.9,3,0,3,0,0,0.0,1,0.33,1.8,0,90.0,0.0,3.33,0,0,0,1.0,Luton,True,Burnley,,0.39
+Thomas Kaminski,Luton,Burnley,2023-10-03,True,90,2,1.04,2,0,1,0,0,0.0,1,0.33,1.6,0,90.0,0.0,3.14,0,0,0,3.0,Luton,True,Tottenham,,0.69
+Thomas Kaminski,Luton,Tottenham,2023-10-07,True,90,1,1.99,3,0,3,0,0,0.0,1,0.27,2.0,0,90.0,0.0,3.12,0,0,0,3.0,Luton,False,Nottingham Forest,,-0.55
+Thomas Kaminski,Luton,Nottingham Forest,2023-10-21,False,90,2,2.97,6,0,3,0,0,0.0,1,0.24,2.4,0,90.0,0.0,3.44,0,0,0,2.0,Luton,False,Aston Villa,,0.29
+Thomas Kaminski,Luton,Aston Villa,2023-10-29,False,90,3,2.39,4,0,2,0,0,0.0,1,0.22,2.4,0,90.0,0.0,3.5,0,0,0,3.0,Luton,True,Liverpool,,0.18
+Thomas Kaminski,Luton,Liverpool,2023-11-05,True,90,1,3.04,5,0,3,0,0,0.0,1,0.21,2.4,0,90.0,0.0,3.64,0,0,0,3.0,Luton,False,Manchester United,,-0.63
+Thomas Kaminski,Luton,Manchester United,2023-11-11,False,90,1,2.12,3,0,3,0,0,0.0,1,0.23,2.8,0,90.0,0.0,3.58,0,0,0,3.0,Luton,True,Crystal Palace,,0.88
+Thomas Kaminski,Luton,Crystal Palace,2023-11-25,True,90,1,1.68,7,0,3,0,0,0.0,1,0.26,2.8,0,90.0,0.0,3.85,0,0,0,1.0,Luton,False,Brentford,,-0.53
+Thomas Kaminski,Luton,Brentford,2023-12-02,False,90,3,3.47,3,0,1,0,0,0.0,1,0.27,2.4,0,90.0,0.0,3.79,0,0,0,1.0,Luton,True,Arsenal,,-0.11
+Thomas Kaminski,Luton,Arsenal,2023-12-05,True,90,4,2.44,5,0,1,0,0,0.0,1,0.27,2.2,0,90.0,0.0,3.87,0,0,0,2.0,Luton,True,Manchester City,,-0.96
+Thomas Kaminski,Luton,Manchester City,2023-12-10,True,90,2,1.6,4,0,2,0,0,0.0,1,0.25,2.0,0,90.0,0.0,3.88,0,0,0,6.0,Luton,True,Newcastle United,,0.55
+Thomas Kaminski,Luton,Newcastle United,2023-12-23,True,90,0,1.68,2,0,6,0,1,0.0,1,0.26,2.6,0,90.0,0.06,3.76,0,0,0,1.0,Luton,False,Sheffield,,-0.61
+Thomas Kaminski,Luton,Sheffield,2023-12-26,False,90,2,2.59,2,0,1,0,0,0.0,1,0.32,2.2,0,90.0,0.06,3.67,0,0,0,2.0,Luton,True,Chelsea,,-0.25
+Thomas Kaminski,Luton,Chelsea,2023-12-30,True,90,3,1.5,5,0,2,0,0,0.0,1,0.33,2.4,0,90.0,0.05,3.74,0,0,0,5.0,Luton,False,Burnley,,0.0
+Thomas Kaminski,Luton,Burnley,2024-01-12,False,90,1,0.99,7,0,5,1,0,0.0,1,0.34,3.2,0,90.0,0.05,3.9,0,0,0,6.0,Luton,True,Brighton,,-0.66
+Thomas Kaminski,Luton,Brighton,2024-01-30,True,90,0,0.88,2,0,6,0,1,0.0,1,0.35,4.0,0,90.0,0.1,3.81,0,0,0,0.0,Luton,False,Newcastle United,,-0.41
+Thomas Kaminski,Luton,Newcastle United,2024-02-03,False,90,4,2.28,2,0,0,0,0,0.0,1,0.36,2.8,0,90.0,0.09,3.73,0,0,0,1.0,Luton,True,Sheffield,,0.68
+Thomas Kaminski,Luton,Sheffield,2024-02-10,True,90,3,1.81,0,0,1,0,0,0.0,1,0.61,2.8,0,90.0,0.09,3.57,0,0,0,4.0,Luton,True,Manchester United,,0.38
+Thomas Kaminski,Luton,Manchester United,2024-02-18,True,90,2,2.81,6,0,4,1,0,0.0,1,0.8,3.2,0,90.0,0.08,3.67,0,0,0,3.0,Luton,False,Liverpool,,-1.01
+Thomas Kaminski,Luton,Liverpool,2024-02-21,False,90,4,3.31,9,0,3,0,0,0.0,1,0.8,2.8,0,90.0,0.08,3.88,0,0,0,2.0,Luton,True,Aston Villa,,0.64
+Thomas Kaminski,Luton,Aston Villa,2024-03-02,True,90,3,1.83,5,0,2,0,0,0.0,1,0.68,2.0,0,90.0,0.08,3.92,0,0,0,3.0,Luton,False,Crystal Palace,,0.38
+Thomas Kaminski,Luton,Crystal Palace,2024-03-09,False,90,1,2.59,3,0,3,0,0,0.0,1,0.88,2.6,0,90.0,0.07,3.89,0,0,0,1.0,Luton,False,Bournemouth,,0.19
+Thomas Kaminski,Luton,Bournemouth,2024-03-13,False,90,4,2.66,5,0,1,0,0,0.0,1,0.88,2.6,0,90.0,0.07,3.93,0,0,0,2.0,Luton,True,Nottingham Forest,,1.55
+Thomas Kaminski,Luton,Nottingham Forest,2024-03-16,True,90,1,1.71,2,0,2,0,0,0.0,1,3.37,2.2,0,90.0,0.07,3.86,0,0,0,1.0,Luton,False,Tottenham,,-0.36
+Thomas Kaminski,Luton,Tottenham,2024-03-30,False,90,2,2.98,2,0,1,0,0,0.0,1,0.89,1.8,0,90.0,0.07,3.8,0,0,0,2.0,Luton,False,Arsenal,,-0.48
+Thomas Kaminski,Luton,Arsenal,2024-04-03,False,90,2,0.82,4,0,2,0,0,0.0,1,0.84,1.8,0,90.0,0.06,3.81,0,0,0,2.0,Luton,True,Bournemouth,,1.22
+Thomas Kaminski,Luton,Bournemouth,2024-04-06,True,90,1,0.34,1,0,2,0,0,0.0,1,0.83,1.6,0,90.0,0.06,3.72,0,0,0,3.0,Luton,False,Manchester City,,-1.32
+Thomas Kaminski,Luton,Manchester City,2024-04-13,False,90,5,4.26,9,0,3,0,0,0.0,1,0.81,2.0,0,90.0,0.06,3.88,0,0,0,1.0,Luton,True,Brentford,,0.79
+Thomas Kaminski,Luton,Brentford,2024-04-20,True,90,5,3.14,4,0,1,0,0,0.0,1,0.74,1.8,0,90.0,0.06,3.88,0,0,0,2.0,Luton,False,Wolverhampton,,-0.52
+Thomas Kaminski,Luton,Wolverhampton,2024-04-27,False,90,2,1.21,3,0,2,0,0,0.0,1,0.74,2.0,0,90.0,0.06,3.86,0,0,0,3.0,Luton,True,Everton,,0.53
+Thomas Kaminski,Luton,Everton,2024-05-03,True,90,1,1.43,3,0,3,0,0,0.0,1,0.73,2.2,0,90.0,0.06,3.83,0,0,0,2.0,Luton,False,West Ham,,-0.22
+Thomas Kaminski,Luton,West Ham,2024-05-11,False,90,3,3.24,5,0,2,0,0,0.0,1,0.68,2.2,0,90.0,0.05,3.86,0,0,0,0.0,Luton,True,Fulham,,-0.13
+Thomas Kaminski,Luton,Fulham,2024-05-19,True,75,4,0.63,1,0,0,0,0,0.04,1,0.72,1.6,0,89.61,0.05,3.79,0,0,0,,Nott'm Forest,True,Bournemouth,,1.22

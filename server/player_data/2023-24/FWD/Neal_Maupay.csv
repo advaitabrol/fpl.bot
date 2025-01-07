@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Neal Maupay,Everton,Fulham,2023-08-12,True,71,0.0,1.14,0.0,0.13,2,4.0,1.0,9.6,0,1,2.0,1.14,71.0,1.0,Everton,False,Aston Villa,1.9,0.29
-Neal Maupay,Everton,Aston Villa,2023-08-20,False,39,0.0,0.24,0.0,0.0,1,1.0,0.0,2.4,0,0,1.5,0.69,55.0,0.0,Everton,True,Wolverhampton,1.66,0.05
-Neal Maupay,Everton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,1.0,0.46,36.67,0.0,Everton,False,Sheffield,,-0.61
-Neal Maupay,Everton,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.75,0.34,27.5,1.0,Brentford,False,Newcastle United,2.83,-0.41
-Neal Maupay,Brentford,Newcastle United,2023-09-16,False,18,0.0,0.01,0.0,0.0,1,1.0,0.0,0.8,0,0,0.8,0.28,25.6,0.0,Brentford,True,Everton,-0.64,0.53
-Neal Maupay,Brentford,Everton,,True,0,,,,,0,,,0.0,0,0,0.4,0.05,21.33,1.0,Brentford,False,Nottingham Forest,1.16,-0.55
-Neal Maupay,Brentford,Nottingham Forest,2023-10-01,False,15,0.0,0.25,0.0,0.0,1,3.0,0.0,3.9,0,0,0.4,0.05,20.43,0.0,Brentford,False,Manchester United,2.35,-0.63
-Neal Maupay,Brentford,Manchester United,2023-10-07,False,20,0.0,0.03,0.0,0.0,0,1.0,0.0,0.8,0,0,0.4,0.06,20.38,5.0,Brentford,True,Burnley,-3.42,0.39
-Neal Maupay,Brentford,Burnley,2023-10-21,True,87,0.0,0.61,1.0,0.06,5,4.0,1.0,6.5,0,1,1.4,0.38,27.78,3.0,Brentford,False,Chelsea,-4.09,-0.85
-Neal Maupay,Brentford,Chelsea,2023-10-28,False,14,0.0,0.0,1.0,0.78,3,0.0,2.0,4.6,0,0,1.8,0.58,26.4,8.0,Brentford,True,West Ham,-2.81,0.49
-Neal Maupay,Brentford,West Ham,2023-11-04,True,90,1.0,0.91,0.0,0.01,8,3.0,1.0,10.5,2,1,3.4,0.76,32.18,1.0,Brentford,False,Liverpool,3.61,-1.01
-Neal Maupay,Brentford,Liverpool,2023-11-12,False,18,0.0,0.04,0.0,0.0,1,1.0,0.0,0.3,0,0,3.4,0.72,31.0,1.0,Brentford,True,Arsenal,-0.45,-0.11
-Neal Maupay,Brentford,Arsenal,2023-11-25,True,18,0.0,0.58,0.0,0.0,1,2.0,0.0,1.4,0,0,3.6,0.83,30.0,8.0,Brentford,True,Luton,,
-Neal Maupay,Brentford,Luton,2023-12-02,True,90,1.0,0.9,0.0,0.09,8,4.0,2.0,15.7,2,1,4.2,0.69,34.29,2.0,Brentford,False,Brighton,1.94,-0.6
-Neal Maupay,Brentford,Brighton,2023-12-06,False,90,0.0,0.14,0.0,0.02,2,1.0,1.0,2.5,0,1,4.0,0.52,38.0,2.0,Brentford,False,Sheffield,,-0.61
-Neal Maupay,Brentford,Sheffield,2023-12-09,False,90,0.0,0.1,0.0,0.05,2,1.0,1.0,3.2,0,1,2.8,0.35,41.25,0.0,Brentford,True,Aston Villa,0.1,0.64
-Neal Maupay,Brentford,Aston Villa,2023-12-17,True,22,0.0,0.0,0.0,0.0,0,0.0,0.0,0.3,0,0,2.6,0.35,40.12,5.0,Brentford,True,Wolverhampton,1.61,0.05
-Neal Maupay,Brentford,Wolverhampton,2023-12-27,True,90,0.0,0.12,1.0,0.29,5,1.0,1.0,4.5,0,1,3.4,0.45,42.89,1.0,Brentford,False,Crystal Palace,0.48,0.38
-Neal Maupay,Brentford,Crystal Palace,2023-12-30,False,27,0.0,0.08,0.0,0.0,1,2.0,0.0,1.9,0,0,2.0,0.29,42.05,6.0,Brentford,True,Nottingham Forest,0.65,1.55
-Neal Maupay,Brentford,Nottingham Forest,2024-01-20,True,73,1.0,0.25,0.0,0.0,6,2.0,0.0,6.9,0,1,2.8,0.31,43.6,6.0,Brentford,False,Tottenham,1.78,-0.36
-Neal Maupay,Brentford,Tottenham,2024-01-31,False,90,1.0,0.16,0.0,0.42,6,1.0,1.0,7.7,1,1,3.6,0.32,45.81,6.0,Brentford,True,Manchester City,0.85,-0.96
-Neal Maupay,Brentford,Manchester City,2024-02-05,True,90,1.0,0.26,0.0,0.28,6,2.0,1.0,7.6,1,1,4.8,0.37,47.82,2.0,Brentford,False,Wolverhampton,-3.56,-0.52
-Neal Maupay,Brentford,Wolverhampton,2024-02-10,False,75,0.0,0.71,0.0,0.0,2,3.0,0.0,6.6,0,1,4.2,0.29,49.0,2.0,Brentford,True,Liverpool,-3.47,0.18
-Neal Maupay,Brentford,Liverpool,2024-02-17,True,62,0.0,0.02,0.0,0.2,2,1.0,2.0,5.4,0,1,4.4,0.28,49.54,1.0,Brentford,False,Manchester City,-4.0,-1.32
-Neal Maupay,Brentford,Manchester City,2024-02-20,False,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,3.4,0.23,48.44,6.0,Brentford,False,West Ham,-2.81,-0.22
-Neal Maupay,Brentford,West Ham,2024-02-26,False,72,1.0,0.31,0.0,0.0,6,1.0,0.0,5.6,0,1,3.4,0.26,49.35,1.0,Brentford,True,Chelsea,0.13,-0.25
-Neal Maupay,Brentford,Chelsea,2024-03-02,True,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,2.4,0.21,47.63,1.0,Brentford,False,Arsenal,,-0.48
-Neal Maupay,Brentford,Arsenal,2024-03-09,False,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,2.2,0.06,46.36,1.0,Brentford,False,Burnley,4.94,0.0
-Neal Maupay,Brentford,Burnley,2024-03-16,False,10,0.0,0.0,0.0,0.02,1,0.0,1.0,1.3,0,0,2.0,0.06,45.1,0.0,Brentford,True,Manchester United,-5.51,0.38
-Neal Maupay,Brentford,Manchester United,2024-03-30,True,3,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,1.8,0.06,43.7,0.0,Brentford,True,Brighton,-1.03,-0.66
-Neal Maupay,Brentford,Brighton,,True,0,,,,,0,,,0.0,0,0,0.6,0.0,42.29,1.0,Brentford,False,Aston Villa,3.41,0.29
-Neal Maupay,Brentford,Aston Villa,2024-04-06,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.6,0.0,41.09,1.0,Brentford,True,Sheffield,,0.68
-Neal Maupay,Brentford,Sheffield,2024-04-13,True,78,0.0,0.34,0.0,0.03,1,1.0,1.0,2.6,0,1,0.6,0.07,42.21,1.0,Brentford,False,Luton,,
-Neal Maupay,Brentford,Luton,2024-04-20,False,8,0.0,0.03,0.0,0.0,1,2.0,0.0,0.0,0,0,0.6,0.07,41.21,0.0,Brentford,False,Everton,,-0.24
-Neal Maupay,Brentford,Everton,,False,0,,,,,0,,,0.0,0,0,0.6,0.07,40.03,0.0,Brentford,True,Fulham,,-0.13
-Neal Maupay,Brentford,Fulham,,True,0,,,,,0,,,0.0,0,0,0.6,0.07,38.92,0.0,Brentford,False,Bournemouth,2.35,0.19
-Neal Maupay,Brentford,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.4,0.07,37.86,0.0,Brentford,True,Newcastle United,,0.55
-Neal Maupay,Brentford,Newcastle United,2024-05-19,True,16,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.2,0.01,37.29,0.0,Everton,True,Brighton,0.33,-0.66
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Neal Maupay,Everton,Fulham,2023-08-12,True,71,0.0,1.14,0.0,0.13,2,4.0,1.0,9.6,0,1,0.91,2.0,1.14,71.0,1.0,0.0,5.45,0.36,0.04,1.0,Everton,False,Aston Villa,,0.29
+Neal Maupay,Everton,Aston Villa,2023-08-20,False,39,0.0,0.24,0.0,0.0,1,1.0,0.0,2.4,0,0,1.05,1.5,0.69,55.0,1.0,0.0,5.45,0.36,0.04,0.0,Everton,True,Wolverhampton,,0.05
+Neal Maupay,Everton,Wolverhampton,,True,0,,,,,0,,,0.0,0,0,0.95,1.0,0.46,36.67,1.0,0.0,5.45,0.36,0.04,0.0,Everton,False,Sheffield,,-0.61
+Neal Maupay,Everton,Sheffield,,False,0,,,,,0,,,0.0,0,0,0.83,0.75,0.34,27.5,1.0,0.0,5.45,0.36,0.04,1.0,Brentford,False,Newcastle United,,-0.41
+Neal Maupay,Brentford,Newcastle United,2023-09-16,False,18,0.0,0.01,0.0,0.0,1,1.0,0.0,0.8,0,0,0.76,0.8,0.28,25.6,1.0,0.0,5.45,0.36,0.04,0.0,Brentford,True,Everton,,0.53
+Neal Maupay,Brentford,Everton,,True,0,,,,,0,,,0.0,0,0,0.68,0.4,0.05,21.33,1.0,0.0,5.45,0.36,0.04,1.0,Brentford,False,Nottingham Forest,,-0.55
+Neal Maupay,Brentford,Nottingham Forest,2023-10-01,False,15,0.0,0.25,0.0,0.0,1,3.0,0.0,3.9,0,0,0.65,0.4,0.05,20.43,1.0,0.0,5.45,0.36,0.04,0.0,Brentford,False,Manchester United,,-0.63
+Neal Maupay,Brentford,Manchester United,2023-10-07,False,20,0.0,0.03,0.0,0.0,0,1.0,0.0,0.8,0,0,0.62,0.4,0.06,20.38,1.0,0.0,5.45,0.36,0.04,5.0,Brentford,True,Burnley,,0.39
+Neal Maupay,Brentford,Burnley,2023-10-21,True,87,0.0,0.61,1.0,0.06,5,4.0,1.0,6.5,0,1,0.62,1.4,0.38,27.78,1.0,0.0,5.45,0.36,0.04,3.0,Brentford,False,Chelsea,,-0.85
+Neal Maupay,Brentford,Chelsea,2023-10-28,False,14,0.0,0.0,1.0,0.78,3,0.0,2.0,4.6,0,0,0.65,1.8,0.58,26.4,1.0,0.0,5.45,0.36,0.04,8.0,Brentford,True,West Ham,,0.49
+Neal Maupay,Brentford,West Ham,2023-11-04,True,90,1.0,0.91,0.0,0.01,8,3.0,1.0,10.5,2,1,0.7,3.4,0.76,32.18,1.0,0.0,5.45,0.36,0.04,1.0,Brentford,False,Liverpool,,-1.01
+Neal Maupay,Brentford,Liverpool,2023-11-12,False,18,0.0,0.04,0.0,0.0,1,1.0,0.0,0.3,0,0,0.95,3.4,0.72,31.0,1.0,0.0,5.45,0.36,0.04,1.0,Brentford,True,Arsenal,,-0.11
+Neal Maupay,Brentford,Arsenal,2023-11-25,True,18,0.0,0.58,0.0,0.0,1,2.0,0.0,1.4,0,0,1.01,3.6,0.83,30.0,1.0,0.0,5.45,0.36,0.04,8.0,Brentford,True,Luton,,
+Neal Maupay,Brentford,Luton,2023-12-02,True,90,1.0,0.9,0.0,0.09,8,4.0,2.0,15.7,2,1,1.08,4.2,0.69,34.29,1.0,0.0,5.45,0.36,0.04,2.0,Brentford,False,Brighton,,-0.6
+Neal Maupay,Brentford,Brighton,2023-12-06,False,90,0.0,0.14,0.0,0.02,2,1.0,1.0,2.5,0,1,1.26,4.0,0.52,38.0,1.0,0.0,5.45,0.36,0.04,2.0,Brentford,False,Sheffield,,-0.61
+Neal Maupay,Brentford,Sheffield,2023-12-09,False,90,0.0,0.1,0.0,0.05,2,1.0,1.0,3.2,0,1,1.42,2.8,0.35,41.25,1.0,0.0,5.45,0.36,0.04,0.0,Brentford,True,Aston Villa,,0.64
+Neal Maupay,Brentford,Aston Villa,2023-12-17,True,22,0.0,0.0,0.0,0.0,0,0.0,0.0,0.3,0,0,1.29,2.6,0.35,40.12,1.0,0.0,5.45,0.36,0.04,5.0,Brentford,True,Wolverhampton,,0.05
+Neal Maupay,Brentford,Wolverhampton,2023-12-27,True,90,0.0,0.12,1.0,0.29,5,1.0,1.0,4.5,0,1,1.13,3.4,0.45,42.89,1.0,0.0,5.45,0.36,0.04,1.0,Brentford,False,Crystal Palace,,0.38
+Neal Maupay,Brentford,Crystal Palace,2023-12-30,False,27,0.0,0.08,0.0,0.0,1,2.0,0.0,1.9,0,0,1.09,2.0,0.29,42.05,1.0,0.0,5.45,0.36,0.04,6.0,Brentford,True,Nottingham Forest,,1.55
+Neal Maupay,Brentford,Nottingham Forest,2024-01-20,True,73,1.0,0.25,0.0,0.0,6,2.0,0.0,6.9,0,1,0.95,2.8,0.31,43.6,1.0,0.0,5.45,0.36,0.04,6.0,Brentford,False,Tottenham,,-0.36
+Neal Maupay,Brentford,Tottenham,2024-01-31,False,90,1.0,0.16,0.0,0.42,6,1.0,1.0,7.7,1,1,0.91,3.6,0.32,45.81,1.0,0.0,5.45,0.36,0.04,6.0,Brentford,True,Manchester City,,-0.96
+Neal Maupay,Brentford,Manchester City,2024-02-05,True,90,1.0,0.26,0.0,0.28,6,2.0,1.0,7.6,1,1,0.94,4.8,0.37,47.82,1.0,0.0,5.45,0.36,0.04,2.0,Brentford,False,Wolverhampton,,-0.52
+Neal Maupay,Brentford,Wolverhampton,2024-02-10,False,75,0.0,0.71,0.0,0.0,2,3.0,0.0,6.6,0,1,1.11,4.2,0.29,49.0,1.0,0.0,5.45,0.36,0.04,2.0,Brentford,True,Liverpool,,0.18
+Neal Maupay,Brentford,Liverpool,2024-02-17,True,62,0.0,0.02,0.0,0.2,2,1.0,2.0,5.4,0,1,1.57,4.4,0.28,49.54,1.0,0.0,5.45,0.36,0.04,1.0,Brentford,False,Manchester City,,-1.32
+Neal Maupay,Brentford,Manchester City,2024-02-20,False,22,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1.57,3.4,0.23,48.44,1.0,0.0,5.45,0.36,0.04,6.0,Brentford,False,West Ham,,-0.22
+Neal Maupay,Brentford,West Ham,2024-02-26,False,72,1.0,0.31,0.0,0.0,6,1.0,0.0,5.6,0,1,1.54,3.4,0.26,49.35,1.0,0.0,5.45,0.36,0.04,1.0,Brentford,True,Chelsea,,-0.25
+Neal Maupay,Brentford,Chelsea,2024-03-02,True,3,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1.67,2.4,0.21,47.63,1.0,0.0,5.45,0.36,0.04,1.0,Brentford,False,Arsenal,,-0.48
+Neal Maupay,Brentford,Arsenal,2024-03-09,False,12,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1.39,2.2,0.06,46.36,1.0,0.0,5.45,0.36,0.04,1.0,Brentford,False,Burnley,,0.0
+Neal Maupay,Brentford,Burnley,2024-03-16,False,10,0.0,0.0,0.0,0.02,1,0.0,1.0,1.3,0,0,1.43,2.0,0.06,45.1,1.0,0.0,5.45,0.36,0.04,0.0,Brentford,True,Manchester United,,0.38
+Neal Maupay,Brentford,Manchester United,2024-03-30,True,3,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,1.32,1.8,0.06,43.7,1.0,0.0,5.45,0.36,0.04,0.0,Brentford,True,Brighton,,-0.66
+Neal Maupay,Brentford,Brighton,,True,0,,,,,0,,,0.0,0,0,1.25,0.6,0.0,42.29,1.0,0.0,5.45,0.36,0.04,1.0,Brentford,False,Aston Villa,,0.29
+Neal Maupay,Brentford,Aston Villa,2024-04-06,False,4,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,1.18,0.6,0.0,41.09,1.0,0.0,5.45,0.36,0.04,1.0,Brentford,True,Sheffield,,0.68
+Neal Maupay,Brentford,Sheffield,2024-04-13,True,78,0.0,0.34,0.0,0.03,1,1.0,1.0,2.6,0,1,1.14,0.6,0.07,42.21,1.0,0.0,5.45,0.36,0.04,1.0,Brentford,False,Luton,,
+Neal Maupay,Brentford,Luton,2024-04-20,False,8,0.0,0.03,0.0,0.0,1,2.0,0.0,0.0,0,0,1.08,0.6,0.07,41.21,1.0,0.0,5.45,0.36,0.04,0.0,Brentford,False,Everton,,-0.24
+Neal Maupay,Brentford,Everton,,False,0,,,,,0,,,0.0,0,0,0.97,0.6,0.07,40.03,1.0,0.0,5.45,0.36,0.04,0.0,Brentford,True,Fulham,,-0.13
+Neal Maupay,Brentford,Fulham,,True,0,,,,,0,,,0.0,0,0,0.94,0.6,0.07,38.92,1.0,0.0,5.45,0.36,0.04,0.0,Brentford,False,Bournemouth,,0.19
+Neal Maupay,Brentford,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0.91,0.4,0.07,37.86,1.0,0.0,5.45,0.36,0.04,0.0,Brentford,True,Newcastle United,,0.55
+Neal Maupay,Brentford,Newcastle United,2024-05-19,True,16,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0.89,0.2,0.01,37.29,1.0,0.0,5.45,0.36,0.04,0.0,Everton,True,Brighton,,-0.66

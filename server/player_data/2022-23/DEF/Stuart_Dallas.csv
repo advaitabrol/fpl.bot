@@ -1,0 +1,39 @@
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Stuart Dallas,Leeds,Wolverhampton,2022-08-06,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Leeds,False,Southampton,,-1.07
+Stuart Dallas,Leeds,Southampton,2022-08-13,False,0,0.0,0.11,0.0,0.05,0,2.0,1.0,0.0,0,0,0,0.0,0,0.01,0.0,0.05,0.0,0,0,0,0,0,0.0,Leeds,True,Chelsea,,-0.25
+Stuart Dallas,Leeds,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.04,0.0,0,0,0,0,0,0.0,Leeds,False,Brighton,,-0.39
+Stuart Dallas,Leeds,Brighton,2022-08-27,False,0,0.0,0.0,0.0,0.02,0,0.0,1.0,0.0,0,0,0,0.0,0,0.01,0.0,0.03,0.0,0,0,0,0,0,0.0,Leeds,True,Everton,,0.34
+Stuart Dallas,Leeds,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.02,0.0,0,0,0,0,0,0.0,Leeds,False,Brentford,,-0.55
+Stuart Dallas,Leeds,Brentford,2022-09-03,False,0,0.0,0.05,0.0,0.56,0,1.0,1.0,0.0,0,0,0,0.0,0,0.01,0.0,0.03,0.0,0,0,0,0,0,0.0,Leeds,True,Aston Villa,,0.55
+Stuart Dallas,Leeds,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.01,0.0,0,0,0,0,0,0.0,Leeds,False,Crystal Palace,,0.13
+Stuart Dallas,Leeds,Crystal Palace,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.01,0.0,0,0,0,0,0,0.0,Leeds,True,Arsenal,,0.36
+Stuart Dallas,Leeds,Arsenal,2022-10-16,True,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.01,0.0,0.01,0.0,0,0,0,0,0,0.0,Leeds,False,Leeds United,,-0.8
+Stuart Dallas,Leeds,Leeds United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.01,0.0,0,0,0,0,0,0.0,Leeds,True,Fulham,,-0.3
+Stuart Dallas,Leeds,Fulham,2022-10-23,True,0,1.0,0.43,0.0,0.04,0,2.0,3.0,0.0,0,0,0,0.0,0,0.01,0.0,0.09,0.0,0,0,0,0,0,0.0,Leeds,False,Liverpool,,-1.33
+Stuart Dallas,Leeds,Liverpool,2022-10-29,False,0,0.0,0.1,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,0.01,0.0,0.11,0.0,0,0,0,0,0,0.0,Leeds,True,Bournemouth,,1.46
+Stuart Dallas,Leeds,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.11,0.0,0,0,0,0,0,0.0,Leeds,False,Tottenham,,-0.03
+Stuart Dallas,Leeds,Tottenham,2022-11-12,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.01,0.0,0.11,0.0,0,0,0,0,0,0.0,Leeds,True,Manchester City,,-1.17
+Stuart Dallas,Leeds,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.11,0.0,0,0,0,0,0,0.0,Leeds,False,Newcastle United,,-0.34
+Stuart Dallas,Leeds,Newcastle United,2022-12-31,False,0,0.0,0.07,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.01,0.0,0.03,0.0,0,0,0,0,0,0.0,Leeds,True,West Ham,,0.63
+Stuart Dallas,Leeds,West Ham,2023-01-04,True,0,0.0,0.0,0.0,0.04,0,0.0,1.0,0.0,0,0,0,0.0,0,0.01,0.0,0.01,0.0,0,0,0,0,0,0.0,Leeds,False,Aston Villa,,0.59
+Stuart Dallas,Leeds,Aston Villa,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.01,0.0,0,0,0,0,0,0.0,Leeds,True,Brentford,,0.69
+Stuart Dallas,Leeds,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.01,0.0,0,0,0,0,0,0.0,Leeds,False,Nottingham Forest,,
+Stuart Dallas,Leeds,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.01,0.0,0,0,0,0,0,0.0,Leeds,False,Manchester United,,-0.1
+Stuart Dallas,Leeds,Manchester United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Leeds,True,Manchester United,,0.38
+Stuart Dallas,Leeds,Manchester United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Leeds,False,Everton,,-0.63
+Stuart Dallas,Leeds,Everton,2023-02-18,False,0,0.0,0.01,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Leeds,True,Southampton,,-0.38
+Stuart Dallas,Leeds,Southampton,2023-02-25,True,0,0.0,0.07,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,0.01,0.0,0.02,0.0,0,0,0,0,0,0.0,Leeds,False,Chelsea,,-0.72
+Stuart Dallas,Leeds,Chelsea,2023-03-04,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.01,0.0,0.02,0.0,0,0,0,0,0,0.0,Leeds,True,Brighton,,-0.71
+Stuart Dallas,Leeds,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.02,0.0,0,0,0,0,0,0.0,Leeds,False,Wolverhampton,,-0.46
+Stuart Dallas,Leeds,Wolverhampton,2023-03-18,False,0,0.0,0.1,0.0,0.02,0,1.0,1.0,0.0,0,0,0,0.0,0,0.01,0.0,0.04,0.0,0,0,0,0,0,0.0,Leeds,False,Arsenal,,-0.0
+Stuart Dallas,Leeds,Arsenal,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.04,0.0,0,0,0,0,0,0.0,Leeds,True,Nottingham Forest,,
+Stuart Dallas,Leeds,Nottingham Forest,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.02,0.0,0,0,0,0,0,0.0,Leeds,True,Crystal Palace,,0.81
+Stuart Dallas,Leeds,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.02,0.0,0,0,0,0,0,0.0,Leeds,True,Liverpool,,-0.53
+Stuart Dallas,Leeds,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.02,0.0,0,0,0,0,0,0.0,Leeds,False,Fulham,,1.37
+Stuart Dallas,Leeds,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Leeds,True,Leeds United,,-0.79
+Stuart Dallas,Leeds,Leeds United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.0,0.0,0,0,0,0,0,0.0,Leeds,False,Bournemouth,,0.19
+Stuart Dallas,Leeds,Bournemouth,2023-04-30,False,0,1.0,0.81,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,0.01,0.0,0.16,0.0,0,0,0,0,0,0.0,Leeds,False,Manchester City,,-1.26
+Stuart Dallas,Leeds,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.01,0.0,0.16,0.0,0,0,0,0,0,0.0,Leeds,True,Newcastle United,,0.73
+Stuart Dallas,Leeds,Newcastle United,2023-05-13,True,0,0.0,0.0,0.0,0.01,0,0.0,1.0,0.0,0,0,0,0.0,0,0.01,0.0,0.16,0.0,0,0,0,0,0,0.0,Leeds,False,West Ham,,0.14
+Stuart Dallas,Leeds,West Ham,2023-05-21,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.01,0.0,0.16,0.0,0,0,0,0,0,0.0,Leeds,True,Tottenham,,1.07
+Stuart Dallas,Leeds,Tottenham,2023-05-28,True,0,0.0,0.0,0.0,0.05,0,0.0,1.0,0.0,0,0,0,0.0,0,0.01,0.0,0.16,0.0,0,0,0,0,0,,Aston Villa,False,Newcastle United,,-0.34

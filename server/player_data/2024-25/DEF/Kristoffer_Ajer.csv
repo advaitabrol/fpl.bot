@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Kristoffer Ajer,Brentford,Crystal Palace,2024-08-18,True,90.0,0.0,0.37,0.0,0.0,2.0,1.0,0.0,4.2,0.0,0.0,1.0,1.17,1.0,2.0,0.37,90.0,0.0,1.48,2.6,0.25,29.41,1.0,Brentford,False,Liverpool,3.48,-1.08
-Kristoffer Ajer,Brentford,Liverpool,2024-08-25,False,90.0,0.0,0.0,0.0,0.04,1.0,0.0,1.0,2.5,0.0,0.0,2.0,2.65,1.0,1.5,0.19,90.0,0.0,1.48,2.6,0.25,29.41,1.0,Brentford,True,Southampton,-4.06,0.24
-Kristoffer Ajer,Brentford,Southampton,2024-08-31,True,38.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.6,0.0,0.0,0.0,0.87,1.0,1.33,0.12,72.67,0.0,1.48,2.6,0.25,29.41,1.0,Brentford,False,Manchester City,-0.6,-1.51
-Kristoffer Ajer,Brentford,Manchester City,2024-09-14,False,71.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.8,0.0,0.0,2.0,1.08,1.0,1.25,0.09,72.25,0.0,1.48,2.6,0.25,29.41,0.0,Brentford,False,Tottenham,2.11,-0.3
-Kristoffer Ajer,Brentford,Tottenham,2024-09-21,False,78.0,0.0,0.0,0.0,0.23,0.0,0.0,1.0,1.5,0.0,0.0,2.0,3.01,1.0,1.0,0.07,73.4,0.0,1.48,2.6,0.25,29.41,2.0,Brentford,True,West Ham,-1.97,0.48
-Kristoffer Ajer,Brentford,West Ham,2024-09-28,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.3,0.0,0.0,1.0,0.99,1.0,1.0,0.0,76.17,0.0,1.48,2.6,0.25,29.41,0.0,Brentford,True,Wolverhampton,2.5,-0.08
-Kristoffer Ajer,Brentford,Wolverhampton,2024-10-05,True,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.9,0.0,0.0,2.0,0.84,1.0,0.8,0.0,78.14,0.0,1.48,2.6,0.25,29.41,0.0,Brentford,False,Manchester United,1.62,-0.41
-Kristoffer Ajer,Brentford,Manchester United,2024-10-19,False,90.0,0.0,0.0,0.0,0.06,0.0,0.0,1.0,1.1,0.0,0.0,2.0,1.33,1.0,0.6,0.0,79.62,0.0,1.48,2.6,0.25,29.41,0.0,Brentford,True,Ipswich Town,,
-Kristoffer Ajer,Brentford,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.0,70.78,0.0,1.48,2.6,0.25,29.41,,Brentford,False,Fulham,-1.2,0.53
-,Brentford,,,,,,,,,,,,,,,,,,,,,,,,,,,Brentford,True,Bournemouth,-0.5,0.84
-,Brentford,,,,,,,,,,,,,,,,,,,,,,,,,,,Brentford,False,Everton,2.1,-0.39
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Kristoffer Ajer,Brentford,Crystal Palace,2024-08-18,True,90.0,0.0,0.37,0.0,0.0,2.0,1.0,0.0,4.2,0.0,0.0,1.0,1.17,1.0,0.3,2.0,0.37,90.0,0.0,1.48,2.6,0.25,29.41,1.0,Brentford,False,Liverpool,,-1.08
+Kristoffer Ajer,Brentford,Liverpool,2024-08-25,False,90.0,0.0,0.0,0.0,0.04,1.0,0.0,1.0,2.5,0.0,0.0,2.0,2.65,1.0,0.35,1.5,0.19,90.0,0.0,1.48,2.6,0.25,29.41,1.0,Brentford,True,Southampton,,0.24
+Kristoffer Ajer,Brentford,Southampton,2024-08-31,True,38.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.6,0.0,0.0,0.0,0.87,1.0,0.46,1.33,0.12,72.67,0.0,1.48,2.6,0.25,29.41,1.0,Brentford,False,Manchester City,,-1.51
+Kristoffer Ajer,Brentford,Manchester City,2024-09-14,False,71.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.8,0.0,0.0,2.0,1.08,1.0,0.34,1.25,0.09,72.25,0.0,1.48,2.6,0.25,29.41,0.0,Brentford,False,Tottenham,,-0.3
+Kristoffer Ajer,Brentford,Tottenham,2024-09-21,False,78.0,0.0,0.0,0.0,0.23,0.0,0.0,1.0,1.5,0.0,0.0,2.0,3.01,1.0,0.34,1.0,0.07,73.4,0.0,1.48,2.6,0.25,29.41,2.0,Brentford,True,West Ham,,0.48
+Kristoffer Ajer,Brentford,West Ham,2024-09-28,True,90.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.3,0.0,0.0,1.0,0.99,1.0,0.35,1.0,0.0,76.17,0.0,1.48,2.6,0.25,29.41,0.0,Brentford,True,Wolverhampton,,-0.08
+Kristoffer Ajer,Brentford,Wolverhampton,2024-10-05,True,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.9,0.0,0.0,2.0,0.84,1.0,0.37,0.8,0.0,78.14,0.0,1.48,2.6,0.25,29.41,0.0,Brentford,False,Manchester United,,-0.41
+Kristoffer Ajer,Brentford,Manchester United,2024-10-19,False,90.0,0.0,0.0,0.0,0.06,0.0,0.0,1.0,1.1,0.0,0.0,2.0,1.33,1.0,0.35,0.6,0.0,79.62,0.0,1.48,2.6,0.25,29.41,0.0,Brentford,True,Ipswich Town,,
+Kristoffer Ajer,Brentford,Ipswich Town,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.37,0.4,0.0,70.78,0.0,1.48,2.6,0.25,29.41,0.0,Brentford,False,Fulham,,0.53
+Kristoffer Ajer,Brentford,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.31,0.4,0.0,63.7,0.0,1.48,2.6,0.25,29.41,0.0,Brentford,True,Bournemouth,,0.84
+Kristoffer Ajer,Brentford,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.28,0.0,0.0,57.91,0.0,1.48,2.6,0.25,29.41,0.0,Brentford,False,Everton,,-0.39
+Kristoffer Ajer,Brentford,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.0,53.08,0.0,1.48,2.6,0.25,29.41,,Brentford,True,Leicester City,,0.47
+,Brentford,,,,,,,,,,,,,,,,,,,,,,,,,,,,Brentford,False,Aston Villa,,0.11
+,Brentford,,,,,,,,,,,,,,,,,,,,,,,,,,,,Brentford,True,Newcastle United,,0.67

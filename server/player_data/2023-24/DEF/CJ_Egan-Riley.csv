@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-CJ Egan-Riley,Burnley,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Burnley,True,Aston Villa,3.22,0.64
-CJ Egan-Riley,Burnley,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Burnley,True,Tottenham,-3.78,0.69
-CJ Egan-Riley,Burnley,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Burnley,False,Nottingham Forest,,-0.55
-CJ Egan-Riley,Burnley,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Burnley,True,Manchester United,-0.59,0.38
-CJ Egan-Riley,Burnley,Manchester United,2023-09-23,True,0,0.0,0.12,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.02,0.0,0,0.0,Burnley,False,Newcastle United,4.0,-0.41
-CJ Egan-Riley,Burnley,Newcastle United,2023-09-30,False,0,0.0,0.0,0.0,0.21,0,0.0,2.0,0.0,0,0,0,0.0,0,0.0,0.02,0.0,0,0.0,Burnley,False,Luton,,
-CJ Egan-Riley,Burnley,Luton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.02,0.0,0,0.0,Burnley,True,Chelsea,6.1,-0.25
-CJ Egan-Riley,Burnley,Chelsea,2023-10-07,True,0,0.0,0.34,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,0.0,0.09,0.0,0,0.0,Burnley,False,Brentford,4.04,-0.53
-CJ Egan-Riley,Burnley,Brentford,2023-10-21,False,0,0.0,0.11,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.12,0.0,0,0.0,Burnley,False,Bournemouth,,0.19
-CJ Egan-Riley,Burnley,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.09,0.0,0,0.0,Burnley,True,Crystal Palace,0.07,0.88
-CJ Egan-Riley,Burnley,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.09,0.0,0,0.0,Burnley,False,Arsenal,-1.08,-0.48
-CJ Egan-Riley,Burnley,Arsenal,2023-11-11,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.0,0.09,0.0,0,0.0,Burnley,True,West Ham,-0.48,0.49
-CJ Egan-Riley,Burnley,West Ham,2023-11-25,True,0,0.0,0.07,0.0,0.16,0,1.0,3.0,0.0,0,0,0,0.0,0,0.0,0.04,0.0,0,0.0,Burnley,True,Sheffield,,0.68
-CJ Egan-Riley,Burnley,Sheffield,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,Burnley,False,Wolverhampton,0.24,-0.52
-CJ Egan-Riley,Burnley,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,Burnley,False,Brighton,-6.77,-0.6
-CJ Egan-Riley,Burnley,Brighton,2023-12-09,False,0,1.0,0.82,0.0,0.04,0,2.0,1.0,0.0,0,0,0,0.0,0,0.0,0.18,0.0,0,0.0,Burnley,True,Everton,-1.19,0.53
-CJ Egan-Riley,Burnley,Everton,2023-12-16,True,0,1.0,0.74,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.33,0.0,0,0.0,Burnley,False,Fulham,,0.86
-CJ Egan-Riley,Burnley,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.31,0.0,0,0.0,Burnley,True,Liverpool,1.07,0.18
-CJ Egan-Riley,Burnley,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.31,0.0,0,0.0,Burnley,False,Aston Villa,-2.94,0.29
-CJ Egan-Riley,Burnley,Aston Villa,2023-12-30,False,0,0.0,0.0,0.0,0.15,0,0.0,3.0,0.0,0,0,0,0.0,0,0.0,0.31,0.0,0,0.0,Burnley,True,Luton,,
-CJ Egan-Riley,Burnley,Luton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.15,0.0,0,0.0,Burnley,False,Manchester City,1.29,-1.32
-CJ Egan-Riley,Burnley,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0,0.0,Burnley,True,Fulham,,-0.13
-CJ Egan-Riley,Burnley,Fulham,2024-02-03,True,0,1.0,0.06,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,Burnley,False,Liverpool,3.66,-1.01
-CJ Egan-Riley,Burnley,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,Burnley,True,Arsenal,2.1,-0.11
-CJ Egan-Riley,Burnley,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.01,0.0,0,0.0,Burnley,False,Crystal Palace,,0.38
-CJ Egan-Riley,Burnley,Crystal Palace,2024-02-24,False,0,1.0,0.84,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,0.0,0.18,0.0,0,0.0,Burnley,True,Bournemouth,,1.22
-CJ Egan-Riley,Burnley,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.18,0.0,0,0.0,Burnley,False,West Ham,,-0.22
-CJ Egan-Riley,Burnley,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.17,0.0,0,0.0,Burnley,True,Brentford,-6.41,0.79
-CJ Egan-Riley,Burnley,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.17,0.0,0,0.0,Burnley,False,Chelsea,1.09,-0.85
-CJ Egan-Riley,Burnley,Chelsea,2024-03-30,False,0,1.0,0.22,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,0.0,0.21,0.0,0,0.0,Burnley,True,Wolverhampton,,0.05
-CJ Egan-Riley,Burnley,Wolverhampton,2024-04-02,True,0,0.0,0.1,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.06,0.0,0,0.0,Burnley,False,Everton,2.03,-0.24
-CJ Egan-Riley,Burnley,Everton,2024-04-06,False,0,1.0,0.48,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.16,0.0,0,0.0,Burnley,True,Brighton,-0.51,-0.66
-CJ Egan-Riley,Burnley,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.16,0.0,0,0.0,Burnley,False,Sheffield,,-0.61
-CJ Egan-Riley,Burnley,Sheffield,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.16,0.0,0,0.0,Burnley,False,Manchester United,4.49,-0.63
-CJ Egan-Riley,Burnley,Manchester United,2024-04-27,False,0,0.0,0.33,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.0,0.18,0.0,0,0.0,Burnley,True,Newcastle United,,0.55
-CJ Egan-Riley,Burnley,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.16,0.0,0,0.0,Burnley,False,Tottenham,,-0.36
-CJ Egan-Riley,Burnley,Tottenham,2024-05-11,False,0,1.0,0.64,0.0,0.36,0,1.0,2.0,0.0,0,0,0,0.0,0,0.0,0.19,0.0,0,0.0,Burnley,True,Nottingham Forest,,1.55
-CJ Egan-Riley,Burnley,Nottingham Forest,2024-05-19,True,0,3.0,1.33,1.0,0.16,0,3.0,2.0,0.0,0,0,0,0.0,0,0.0,0.66,0.0,0,,Brentford,True,Crystal Palace,0.84,0.88
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+CJ Egan-Riley,Burnley,Manchester City,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.12,0.0,0.0,0.0,0,0,0,0,0,0.0,Burnley,True,Aston Villa,,0.64
+CJ Egan-Riley,Burnley,Aston Villa,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.11,0.0,0.0,0.0,0,0,0,0,0,0.0,Burnley,True,Tottenham,,0.69
+CJ Egan-Riley,Burnley,Tottenham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.11,0.0,0.0,0.0,0,0,0,0,0,0.0,Burnley,False,Nottingham Forest,,-0.55
+CJ Egan-Riley,Burnley,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.18,0.0,0.0,0.0,0,0,0,0,0,0.0,Burnley,True,Manchester United,,0.38
+CJ Egan-Riley,Burnley,Manchester United,2023-09-23,True,0,0.0,0.12,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.2,0.0,0.02,0.0,0,0,0,0,0,0.0,Burnley,False,Newcastle United,,-0.41
+CJ Egan-Riley,Burnley,Newcastle United,2023-09-30,False,0,0.0,0.0,0.0,0.21,0,0.0,2.0,0.0,0,0,0,0.0,0,0.2,0.0,0.02,0.0,0,0,0,0,0,0.0,Burnley,False,Luton,,
+CJ Egan-Riley,Burnley,Luton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,0.02,0.0,0,0,0,0,0,0.0,Burnley,True,Chelsea,,-0.25
+CJ Egan-Riley,Burnley,Chelsea,2023-10-07,True,0,0.0,0.34,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,0.2,0.0,0.09,0.0,0,0,0,0,0,0.0,Burnley,False,Brentford,,-0.53
+CJ Egan-Riley,Burnley,Brentford,2023-10-21,False,0,0.0,0.11,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.21,0.0,0.12,0.0,0,0,0,0,0,0.0,Burnley,False,Bournemouth,,0.19
+CJ Egan-Riley,Burnley,Bournemouth,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.21,0.0,0.09,0.0,0,0,0,0,0,0.0,Burnley,True,Crystal Palace,,0.88
+CJ Egan-Riley,Burnley,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.21,0.0,0.09,0.0,0,0,0,0,0,0.0,Burnley,False,Arsenal,,-0.48
+CJ Egan-Riley,Burnley,Arsenal,2023-11-11,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.21,0.0,0.09,0.0,0,0,0,0,0,0.0,Burnley,True,West Ham,,0.49
+CJ Egan-Riley,Burnley,West Ham,2023-11-25,True,0,0.0,0.07,0.0,0.16,0,1.0,3.0,0.0,0,0,0,0.0,0,0.22,0.0,0.04,0.0,0,0,0,0,0,0.0,Burnley,True,Sheffield,,0.68
+CJ Egan-Riley,Burnley,Sheffield,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.22,0.0,0.01,0.0,0,0,0,0,0,0.0,Burnley,False,Wolverhampton,,-0.52
+CJ Egan-Riley,Burnley,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.22,0.0,0.01,0.0,0,0,0,0,0,0.0,Burnley,False,Brighton,,-0.6
+CJ Egan-Riley,Burnley,Brighton,2023-12-09,False,0,1.0,0.82,0.0,0.04,0,2.0,1.0,0.0,0,0,0,0.0,0,0.22,0.0,0.18,0.0,0,0,0,0,0,0.0,Burnley,True,Everton,,0.53
+CJ Egan-Riley,Burnley,Everton,2023-12-16,True,0,1.0,0.74,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.22,0.0,0.33,0.0,0,0,0,0,0,0.0,Burnley,False,Fulham,,0.86
+CJ Egan-Riley,Burnley,Fulham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.22,0.0,0.31,0.0,0,0,0,0,0,0.0,Burnley,True,Liverpool,,0.18
+CJ Egan-Riley,Burnley,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.22,0.0,0.31,0.0,0,0,0,0,0,0.0,Burnley,False,Aston Villa,,0.29
+CJ Egan-Riley,Burnley,Aston Villa,2023-12-30,False,0,0.0,0.0,0.0,0.15,0,0.0,3.0,0.0,0,0,0,0.0,0,0.22,0.0,0.31,0.0,0,0,0,0,0,0.0,Burnley,True,Luton,,
+CJ Egan-Riley,Burnley,Luton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,0.15,0.0,0,0,0,0,0,0.0,Burnley,False,Manchester City,,-1.32
+CJ Egan-Riley,Burnley,Manchester City,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.2,0.0,0.0,0.0,0,0,0,0,0,0.0,Burnley,True,Fulham,,-0.13
+CJ Egan-Riley,Burnley,Fulham,2024-02-03,True,0,1.0,0.06,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.2,0.0,0.01,0.0,0,0,0,0,0,0.0,Burnley,False,Liverpool,,-1.01
+CJ Egan-Riley,Burnley,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.19,0.0,0.01,0.0,0,0,0,0,0,0.0,Burnley,True,Arsenal,,-0.11
+CJ Egan-Riley,Burnley,Arsenal,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.18,0.0,0.01,0.0,0,0,0,0,0,0.0,Burnley,False,Crystal Palace,,0.38
+CJ Egan-Riley,Burnley,Crystal Palace,2024-02-24,False,0,1.0,0.84,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,0.17,0.0,0.18,0.0,0,0,0,0,0,0.0,Burnley,True,Bournemouth,,1.22
+CJ Egan-Riley,Burnley,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.17,0.0,0.18,0.0,0,0,0,0,0,0.0,Burnley,False,West Ham,,-0.22
+CJ Egan-Riley,Burnley,West Ham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.17,0.0,0.17,0.0,0,0,0,0,0,0.0,Burnley,True,Brentford,,0.79
+CJ Egan-Riley,Burnley,Brentford,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.16,0.0,0.17,0.0,0,0,0,0,0,0.0,Burnley,False,Chelsea,,-0.85
+CJ Egan-Riley,Burnley,Chelsea,2024-03-30,False,0,1.0,0.22,0.0,0.0,0,2.0,0.0,0.0,0,0,0,0.0,0,0.16,0.0,0.21,0.0,0,0,0,0,0,0.0,Burnley,True,Wolverhampton,,0.05
+CJ Egan-Riley,Burnley,Wolverhampton,2024-04-02,True,0,0.0,0.1,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.16,0.0,0.06,0.0,0,0,0,0,0,0.0,Burnley,False,Everton,,-0.24
+CJ Egan-Riley,Burnley,Everton,2024-04-06,False,0,1.0,0.48,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.16,0.0,0.16,0.0,0,0,0,0,0,0.0,Burnley,True,Brighton,,-0.66
+CJ Egan-Riley,Burnley,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.15,0.0,0.16,0.0,0,0,0,0,0,0.0,Burnley,False,Sheffield,,-0.61
+CJ Egan-Riley,Burnley,Sheffield,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.15,0.0,0.16,0.0,0,0,0,0,0,0.0,Burnley,False,Manchester United,,-0.63
+CJ Egan-Riley,Burnley,Manchester United,2024-04-27,False,0,0.0,0.33,0.0,0.0,0,1.0,0.0,0.0,0,0,0,0.0,0,0.15,0.0,0.18,0.0,0,0,0,0,0,0.0,Burnley,True,Newcastle United,,0.55
+CJ Egan-Riley,Burnley,Newcastle United,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.15,0.0,0.16,0.0,0,0,0,0,0,0.0,Burnley,False,Tottenham,,-0.36
+CJ Egan-Riley,Burnley,Tottenham,2024-05-11,False,0,1.0,0.64,0.0,0.36,0,1.0,2.0,0.0,0,0,0,0.0,0,0.15,0.0,0.19,0.0,0,0,0,0,0,0.0,Burnley,True,Nottingham Forest,,1.55
+CJ Egan-Riley,Burnley,Nottingham Forest,2024-05-19,True,0,3.0,1.33,1.0,0.16,0,3.0,2.0,0.0,0,0,0,0.0,0,0.14,0.0,0.66,0.0,0,0,0,0,0,,Brentford,True,Crystal Palace,,0.88

@@ -2,17 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import { useTeamColors } from '../../hooks/useTeamColors';
 import PlayerIcon from '../../ui/PlayerIcon';
-
-interface PlayerProps {
-  player: {
-    name: string;
-    team: string;
-    price: number;
-    expected_points: number[];
-    isCaptain: boolean[];
-  };
-  weekIndex?: number; // Optional prop to specify a specific week
-}
+import { PlayerWeek } from '../../services/interfaces';
 
 const PlayerWrapper = styled.div`
   display: flex;
@@ -79,11 +69,11 @@ const WeekPoints = styled.div`
     padding-top: 0.1rem;
   }
 `;
-const Player: React.FC<PlayerProps> = ({ player, weekIndex }) => {
+const Player: React.FC<PlayerWeek> = ({ player, weekIndex }) => {
   const { name, team, price, expected_points, isCaptain } = player;
   const { primary, secondary } = useTeamColors(team);
 
-  const isCaptainForCurrentWeek = isCaptain[0];
+  const isCaptainForCurrentWeek = Boolean(isCaptain[0]);
   const nameParts = name.split(' ');
   const displayName = `${nameParts[0]} ${nameParts[nameParts.length - 1]}`;
 
@@ -98,7 +88,9 @@ const Player: React.FC<PlayerProps> = ({ player, weekIndex }) => {
       <PlayerName>{displayName}</PlayerName>
       <PointsBox>
         {weekIndex !== undefined ? (
-          <div className="points">{expected_points[weekIndex]} pts</div>
+          <div className="points" style={{ fontWeight: 'bold' }}>
+            {expected_points[weekIndex]} pts
+          </div>
         ) : (
           expected_points.slice(0, 3).map((points, index) => (
             <WeekPoints key={index}>

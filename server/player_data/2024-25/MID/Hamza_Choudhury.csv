@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Hamza Choudhury,Leicester,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Fulham,,0.53
-Hamza Choudhury,Leicester,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Aston Villa,-0.34,0.66
-Hamza Choudhury,Leicester,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Leicester,False,Crystal Palace,2.07,0.2
-Hamza Choudhury,Leicester,Crystal Palace,2024-09-14,False,14.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,0.25,0.0,3.5,0.0,Leicester,True,Everton,4.46,0.61
-Hamza Choudhury,Leicester,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.2,0.0,2.8,0.0,Leicester,False,Arsenal,-1.31,-0.56
-Hamza Choudhury,Leicester,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.2,0.0,2.33,0.0,Leicester,True,Bournemouth,,0.84
-Hamza Choudhury,Leicester,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.2,0.0,2.0,0.0,Leicester,False,Southampton,-3.27,-0.31
-Hamza Choudhury,Leicester,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.2,0.0,1.75,0.0,Leicester,True,Nottingham Forest,,1.2
-Hamza Choudhury,Leicester,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,1.56,,Leicester,False,Ipswich Town,,
-,Leicester,,,,,,,,,,,,,,,,,,,Leicester,False,Manchester United,0.11,-0.41
-,Leicester,,,,,,,,,,,,,,,,,,,Leicester,True,Chelsea,-2.98,0.0
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Hamza Choudhury,Leicester,Tottenham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Fulham,,0.53
+Hamza Choudhury,Leicester,Fulham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Aston Villa,,0.66
+Hamza Choudhury,Leicester,Aston Villa,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Leicester,False,Crystal Palace,,0.2
+Hamza Choudhury,Leicester,Crystal Palace,2024-09-14,False,14.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.3,0.0,0.0,0.23,0.25,0.0,3.5,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Everton,,0.61
+Hamza Choudhury,Leicester,Everton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.22,0.2,0.0,2.8,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Arsenal,,-0.56
+Hamza Choudhury,Leicester,Arsenal,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.51,0.2,0.0,2.33,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Bournemouth,,0.84
+Hamza Choudhury,Leicester,Bournemouth,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.59,0.2,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Southampton,,-0.31
+Hamza Choudhury,Leicester,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.48,0.2,0.0,1.75,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Nottingham Forest,,1.2
+Hamza Choudhury,Leicester,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.44,0.0,0.0,1.56,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Ipswich Town,,
+Hamza Choudhury,Leicester,Ipswich Town,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.41,0.0,0.0,1.4,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,False,Manchester United,,-0.41
+Hamza Choudhury,Leicester,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.38,0.0,0.0,1.27,0.0,0.0,0.0,0.0,0.0,0.0,Leicester,True,Chelsea,,0.0
+Hamza Choudhury,Leicester,Chelsea,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.37,0.0,0.0,1.17,0.0,0.0,0.0,0.0,0.0,,Leicester,False,Brentford,,-0.15
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,West Ham,,0.48
+,Leicester,,,,,,,,,,,,,,,,,,,,,,,,,Leicester,True,Brighton,,-0.42

@@ -1,10 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Rasmus Højlund,Man Utd,Fulham,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,10.0,2.0,9.34,1.78,0.05,0.0,Man Utd,False,Brighton,0.65,-0.61
-Rasmus Højlund,Man Utd,Brighton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,10.0,2.0,9.34,1.78,0.05,0.0,Man Utd,True,Liverpool,0.35,0.24
-Rasmus Højlund,Man Utd,Liverpool,,True,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,10.0,2.0,9.34,1.78,0.05,0.0,Man Utd,False,Southampton,-0.99,-0.31
-Rasmus Højlund,Man Utd,Southampton,,False,0,,,,,0,,,0.0,0,0,0.0,0.0,0.0,10.0,2.0,9.34,1.78,0.05,1.0,Man Utd,False,Crystal Palace,2.45,0.2
-Rasmus Højlund,Man Utd,Crystal Palace,2024-09-21,False,14,0.0,0.0,0.0,0.0,1,0.0,0.0,0.5,0,0,0.2,0.0,2.8,10.0,2.0,9.34,1.78,0.05,1.0,Man Utd,True,Tottenham,-2.02,0.74
-Rasmus Højlund,Man Utd,Tottenham,2024-09-29,True,17,0.0,0.0,0.0,0.0,1,0.0,0.0,0.0,0,0,0.4,0.0,5.17,10.0,2.0,9.34,1.78,0.05,2.0,Man Utd,False,Aston Villa,-0.18,0.11
-Rasmus Højlund,Man Utd,Aston Villa,2024-10-06,False,63,0.0,0.0,0.0,0.0,2,0.0,0.0,0.1,0,1,0.8,0.0,13.43,10.0,2.0,9.34,1.78,0.05,8.0,Man Utd,True,Brentford,-1.08,0.54
-Rasmus Højlund,Man Utd,Brentford,2024-10-19,True,73,1.0,0.35,0.0,0.03,8,2.0,1.0,7.7,2,1,2.4,0.07,20.88,10.0,2.0,9.34,1.78,0.05,2.0,Man Utd,False,West Ham,2.3,-0.34
-Rasmus Højlund,Man Utd,West Ham,2024-10-27,False,90,0.0,0.55,0.0,0.02,2,2.0,1.0,5.5,0,1,2.8,0.18,28.56,10.0,2.0,9.34,1.78,0.05,,,,,,
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Rasmus Højlund,Man Utd,Fulham,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.58,0.0,0.0,0.0,10.0,2.0,9.34,1.78,0.05,0.0,Man Utd,False,Brighton,,-0.61
+Rasmus Højlund,Man Utd,Brighton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.41,0.0,0.0,0.0,10.0,2.0,9.34,1.78,0.05,0.0,Man Utd,True,Liverpool,,0.24
+Rasmus Højlund,Man Utd,Liverpool,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.35,0.0,0.0,0.0,10.0,2.0,9.34,1.78,0.05,0.0,Man Utd,False,Southampton,,-0.31
+Rasmus Højlund,Man Utd,Southampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.33,0.0,0.0,0.0,10.0,2.0,9.34,1.78,0.05,1.0,Man Utd,False,Crystal Palace,,0.2
+Rasmus Højlund,Man Utd,Crystal Palace,2024-09-21,False,14.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.5,0.0,0.0,0.33,0.2,0.0,2.8,10.0,2.0,9.34,1.78,0.05,1.0,Man Utd,True,Tottenham,,0.74
+Rasmus Højlund,Man Utd,Tottenham,2024-09-29,True,17.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.42,0.4,0.0,5.17,10.0,2.0,9.34,1.78,0.05,2.0,Man Utd,False,Aston Villa,,0.11
+Rasmus Højlund,Man Utd,Aston Villa,2024-10-06,False,63.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.1,0.0,1.0,0.55,0.8,0.0,13.43,10.0,2.0,9.34,1.78,0.05,8.0,Man Utd,True,Brentford,,0.54
+Rasmus Højlund,Man Utd,Brentford,2024-10-19,True,73.0,1.0,0.35,0.0,0.03,8.0,2.0,1.0,7.7,2.0,1.0,0.73,2.4,0.07,20.88,10.0,2.0,9.34,1.78,0.05,2.0,Man Utd,False,West Ham,,-0.34
+Rasmus Højlund,Man Utd,West Ham,2024-10-27,False,90.0,0.0,0.55,0.0,0.02,2.0,2.0,1.0,5.5,0.0,1.0,1.11,2.8,0.18,28.56,10.0,2.0,9.34,1.78,0.05,5.0,Man Utd,True,Chelsea,,0.0
+Rasmus Højlund,Man Utd,Chelsea,2024-11-03,True,83.0,0.0,0.0,0.0,0.1,5.0,0.0,2.0,3.7,0.0,1.0,1.16,3.6,0.18,34.0,10.0,2.0,9.34,1.78,0.05,2.0,Man Utd,True,Leicester City,,0.47
+Rasmus Højlund,Man Utd,Leicester City,2024-11-10,True,74.0,0.0,0.1,0.0,0.0,2.0,1.0,0.0,0.5,0.0,1.0,1.72,3.8,0.2,37.64,10.0,2.0,9.34,1.78,0.05,1.0,Man Utd,False,Ipswich Town,,
+Rasmus Højlund,Man Utd,Ipswich Town,2024-11-24,False,22.0,0.0,0.0,0.0,0.03,1.0,0.0,1.0,1.8,0.0,0.0,1.81,3.6,0.2,36.33,10.0,2.0,9.34,1.78,0.05,,Man Utd,True,Everton,,0.61
+,Man Utd,,,,,,,,,,,,,,,,,,,,,,,,,Man Utd,False,Arsenal,,-0.56
+,Man Utd,,,,,,,,,,,,,,,,,,,,,,,,,Man Utd,True,Nottingham Forest,,1.2

@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Jaidon Anthony,Bournemouth,Nottingham Forest,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,0.0,Bournemouth,True,Newcastle United,-1.78,0.67
-Jaidon Anthony,Bournemouth,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,0.0,Bournemouth,False,Everton,3.85,-0.39
-Jaidon Anthony,Bournemouth,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,0.0,Bournemouth,True,Chelsea,-0.01,0.0
-Jaidon Anthony,Bournemouth,Chelsea,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,0.0,Bournemouth,False,Liverpool,4.89,-1.08
-Jaidon Anthony,Bournemouth,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,0.0,Bournemouth,True,Southampton,2.91,0.24
-Jaidon Anthony,Bournemouth,Southampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,0.0,Bournemouth,False,Leicester City,-1.39,-0.22
-Jaidon Anthony,Bournemouth,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,0.0,Bournemouth,True,Arsenal,4.06,-0.32
-Jaidon Anthony,Bournemouth,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,0.0,Bournemouth,False,Aston Villa,2.29,0.11
-Jaidon Anthony,Bournemouth,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,,Bournemouth,True,Manchester City,1.44,-1.18
-,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,False,Brentford,0.82,-0.15
-,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,True,Brighton,-1.19,-0.42
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Jaidon Anthony,Bournemouth,Nottingham Forest,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.38,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,0.0,Bournemouth,True,Newcastle United,,0.67
+Jaidon Anthony,Bournemouth,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.42,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,0.0,Bournemouth,False,Everton,,-0.39
+Jaidon Anthony,Bournemouth,Everton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.38,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,0.0,Bournemouth,True,Chelsea,,0.0
+Jaidon Anthony,Bournemouth,Chelsea,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.27,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,0.0,Bournemouth,False,Liverpool,,-1.08
+Jaidon Anthony,Bournemouth,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.24,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,0.0,Bournemouth,True,Southampton,,0.24
+Jaidon Anthony,Bournemouth,Southampton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.21,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,0.0,Bournemouth,False,Leicester City,,-0.22
+Jaidon Anthony,Bournemouth,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.19,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,0.0,Bournemouth,True,Arsenal,,-0.32
+Jaidon Anthony,Bournemouth,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.17,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,0.0,Bournemouth,False,Aston Villa,,0.11
+Jaidon Anthony,Bournemouth,Aston Villa,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.16,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,0.0,Bournemouth,True,Manchester City,,-1.18
+Jaidon Anthony,Bournemouth,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,0.0,Bournemouth,False,Brentford,,-0.15
+Jaidon Anthony,Bournemouth,Brentford,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.15,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,0.0,Bournemouth,True,Brighton,,-0.42
+Jaidon Anthony,Bournemouth,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.14,0.0,0.0,0.0,0.0,0.0,0.08,0.0,0.02,,Bournemouth,False,Wolverhampton,,-0.53
+,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,True,Tottenham,,0.74
+,Bournemouth,,,,,,,,,,,,,,,,,,,,,,,,,Bournemouth,False,Ipswich Town,,

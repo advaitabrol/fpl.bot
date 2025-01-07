@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Vitaly Janelt,Brentford,Tottenham,2023-08-13,True,90,0,0.03,0,0.06,2,1,1,4.3,0,1,2.0,0.03,90.0,3.0,Brentford,False,Fulham,3.1,0.86
-Vitaly Janelt,Brentford,Fulham,2023-08-19,False,90,0,0.0,0,0.1,3,0,1,2.6,0,1,2.5,0.01,90.0,2.0,Brentford,True,Crystal Palace,1.16,0.88
-Vitaly Janelt,Brentford,Crystal Palace,2023-08-26,True,90,0,0.04,0,0.0,2,1,0,1.3,0,1,2.33,0.02,90.0,2.0,Brentford,True,Bournemouth,-2.25,1.22
-Vitaly Janelt,Brentford,Bournemouth,2023-09-02,True,70,0,0.19,0,0.0,2,2,0,2.9,0,1,2.25,0.06,85.0,2.0,Brentford,False,Newcastle United,2.83,-0.41
-Vitaly Janelt,Brentford,Newcastle United,2023-09-16,False,71,0,0.0,0,0.06,2,0,2,3.5,0,1,2.2,0.05,82.2,5.0,Brentford,True,Everton,-0.64,0.53
-Vitaly Janelt,Brentford,Everton,2023-09-23,True,61,0,0.04,1,0.07,5,1,1,3.5,0,1,2.8,0.25,78.67,2.0,Brentford,False,Nottingham Forest,1.16,-0.55
-Vitaly Janelt,Brentford,Nottingham Forest,2023-10-01,False,88,0,0.07,0,0.12,2,1,1,3.5,0,1,2.6,0.27,80.0,2.0,Brentford,False,Manchester United,2.35,-0.63
-Vitaly Janelt,Brentford,Manchester United,2023-10-07,False,69,0,0.0,0,0.05,2,0,2,3.2,0,1,2.6,0.26,78.62,2.0,Brentford,True,Burnley,-3.42,0.39
-Vitaly Janelt,Brentford,Burnley,2023-10-21,True,90,0,0.0,0,0.16,2,0,2,4.4,0,1,2.6,0.22,79.89,3.0,Brentford,False,Chelsea,-4.09,-0.85
-Vitaly Janelt,Brentford,Chelsea,2023-10-28,False,75,0,0.36,0,0.0,3,1,0,3.0,0,1,2.8,0.29,79.4,2.0,Brentford,True,West Ham,-2.81,0.49
-Vitaly Janelt,Brentford,West Ham,2023-11-04,True,90,0,0.01,0,0.11,2,1,2,5.3,0,1,2.2,0.09,80.36,1.0,Brentford,False,Liverpool,3.61,-1.01
-Vitaly Janelt,Brentford,Liverpool,2023-11-12,False,45,0,0.0,0,0.07,1,0,1,2.0,0,1,2.0,0.08,77.42,2.0,Brentford,True,Arsenal,-0.45,-0.11
-Vitaly Janelt,Brentford,Arsenal,2023-11-25,True,90,0,0.0,0,0.54,2,0,1,3.5,0,1,2.0,0.08,78.38,2.0,Brentford,True,Luton,,
-Vitaly Janelt,Brentford,Luton,2023-12-02,True,90,0,0.0,0,0.53,2,0,4,9.2,0,1,2.0,0.08,79.21,6.0,Brentford,False,Brighton,1.94,-0.6
-Vitaly Janelt,Brentford,Brighton,2023-12-06,False,90,0,0.0,0,0.06,6,0,1,4.4,1,1,2.6,0.0,79.93,2.0,Brentford,False,Sheffield,,-0.61
-Vitaly Janelt,Brentford,Sheffield,2023-12-09,False,90,0,0.0,0,0.15,2,0,2,5.1,0,1,2.6,0.0,80.56,1.0,Brentford,True,Aston Villa,0.1,0.64
-Vitaly Janelt,Brentford,Aston Villa,2023-12-17,True,87,0,0.0,0,0.0,1,0,0,0.5,0,1,2.6,0.0,80.94,2.0,Brentford,True,Wolverhampton,1.61,0.05
-Vitaly Janelt,Brentford,Wolverhampton,2023-12-27,True,90,0,0.52,0,0.08,2,2,1,10.7,0,1,2.6,0.1,81.44,2.0,Brentford,False,Crystal Palace,0.48,0.38
-Vitaly Janelt,Brentford,Crystal Palace,2023-12-30,False,79,0,0.0,0,0.58,2,0,1,3.3,0,1,2.6,0.1,81.32,2.0,Brentford,True,Nottingham Forest,0.65,1.55
-Vitaly Janelt,Brentford,Nottingham Forest,2024-01-20,True,90,0,0.05,0,0.02,2,1,1,3.4,0,1,1.8,0.11,81.75,2.0,Brentford,False,Tottenham,1.78,-0.36
-Vitaly Janelt,Brentford,Tottenham,2024-01-31,False,87,0,0.0,0,0.0,2,0,0,1.6,0,1,1.8,0.11,82.0,2.0,Brentford,True,Manchester City,0.85,-0.96
-Vitaly Janelt,Brentford,Manchester City,2024-02-05,True,75,0,0.0,0,0.0,2,0,0,0.9,0,1,2.0,0.11,81.68,5.0,Brentford,False,Wolverhampton,-3.56,-0.52
-Vitaly Janelt,Brentford,Wolverhampton,2024-02-10,False,84,0,0.0,1,0.33,5,0,1,4.3,0,1,2.6,0.21,81.78,2.0,Brentford,True,Liverpool,-3.47,0.18
-Vitaly Janelt,Brentford,Liverpool,2024-02-17,True,90,0,0.04,0,0.0,2,1,0,1.3,0,1,2.6,0.22,82.12,2.0,Brentford,False,Manchester City,-4.0,-1.32
-Vitaly Janelt,Brentford,Manchester City,2024-02-20,False,76,0,0.0,0,0.0,2,0,0,1.2,0,1,2.6,0.21,81.88,1.0,Brentford,False,West Ham,-2.81,-0.22
-Vitaly Janelt,Brentford,West Ham,2024-02-26,False,17,0,0.0,0,0.0,1,0,0,1.1,0,0,2.4,0.21,79.38,1.0,Brentford,True,Chelsea,0.13,-0.25
-Vitaly Janelt,Brentford,Chelsea,2024-03-02,True,86,0,0.1,0,0.0,1,2,0,1.5,0,1,2.2,0.23,79.63,2.0,Brentford,False,Arsenal,,-0.48
-Vitaly Janelt,Brentford,Arsenal,2024-03-09,False,89,0,0.05,0,0.09,2,1,2,4.6,0,1,1.6,0.04,79.96,1.0,Brentford,False,Burnley,4.94,0.0
-Vitaly Janelt,Brentford,Burnley,2024-03-16,False,79,0,0.0,0,0.0,1,0,0,1.7,0,1,1.4,0.03,79.93,2.0,Brentford,True,Manchester United,-5.51,0.38
-Vitaly Janelt,Brentford,Manchester United,2024-03-30,True,90,0,0.13,0,0.16,2,3,3,9.1,0,1,1.4,0.06,80.27,2.0,Brentford,True,Brighton,-1.03,-0.66
-Vitaly Janelt,Brentford,Brighton,2024-04-03,True,90,0,0.0,0,0.0,2,0,0,2.7,0,1,1.6,0.06,80.58,2.0,Brentford,False,Aston Villa,3.41,0.29
-Vitaly Janelt,Brentford,Aston Villa,2024-04-06,False,90,0,0.0,0,0.0,2,0,0,1.5,0,1,1.8,0.04,80.88,2.0,Brentford,True,Sheffield,,0.68
-Vitaly Janelt,Brentford,Sheffield,2024-04-13,True,90,0,0.03,0,0.07,2,1,1,3.5,0,1,1.8,0.03,81.15,5.0,Brentford,False,Luton,,
-Vitaly Janelt,Brentford,Luton,2024-04-20,False,90,0,0.03,1,0.67,5,1,2,6.3,0,1,2.6,0.24,81.41,2.0,Brentford,False,Everton,,-0.24
-Vitaly Janelt,Brentford,Everton,2024-04-27,False,66,0,0.0,0,0.13,2,0,1,2.2,0,1,2.6,0.21,80.97,3.0,Brentford,True,Fulham,,-0.13
-Vitaly Janelt,Brentford,Fulham,2024-05-04,True,65,0,0.0,0,0.02,3,0,1,2.5,0,1,2.8,0.21,80.53,3.0,Brentford,False,Bournemouth,2.35,0.19
-Vitaly Janelt,Brentford,Bournemouth,2024-05-11,False,82,0,0.0,0,0.04,3,0,1,2.3,0,1,3.0,0.21,80.57,7.0,Brentford,True,Newcastle United,,0.55
-Vitaly Janelt,Brentford,Newcastle United,2024-05-19,True,73,1,0.33,0,0.07,7,1,1,7.4,0,1,4.0,0.27,80.37,2.0,Brentford,True,Crystal Palace,0.84,0.88
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Vitaly Janelt,Brentford,Tottenham,2023-08-13,True,90,0,0.03,0,0.06,2,1,1,4.3,0,1,0.06,2.0,0.03,90.0,3.0,1.0,2.2,1.47,0.04,3.0,Brentford,False,Fulham,,0.86
+Vitaly Janelt,Brentford,Fulham,2023-08-19,False,90,0,0.0,0,0.1,3,0,1,2.6,0,1,0.07,2.5,0.01,90.0,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,True,Crystal Palace,,0.88
+Vitaly Janelt,Brentford,Crystal Palace,2023-08-26,True,90,0,0.04,0,0.0,2,1,0,1.3,0,1,0.07,2.33,0.02,90.0,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,True,Bournemouth,,1.22
+Vitaly Janelt,Brentford,Bournemouth,2023-09-02,True,70,0,0.19,0,0.0,2,2,0,2.9,0,1,0.07,2.25,0.06,85.0,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,False,Newcastle United,,-0.41
+Vitaly Janelt,Brentford,Newcastle United,2023-09-16,False,71,0,0.0,0,0.06,2,0,2,3.5,0,1,0.07,2.2,0.05,82.2,3.0,1.0,2.2,1.47,0.04,5.0,Brentford,True,Everton,,0.53
+Vitaly Janelt,Brentford,Everton,2023-09-23,True,61,0,0.04,1,0.07,5,1,1,3.5,0,1,0.07,2.8,0.25,78.67,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,False,Nottingham Forest,,-0.55
+Vitaly Janelt,Brentford,Nottingham Forest,2023-10-01,False,88,0,0.07,0,0.12,2,1,1,3.5,0,1,0.06,2.6,0.27,80.0,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,False,Manchester United,,-0.63
+Vitaly Janelt,Brentford,Manchester United,2023-10-07,False,69,0,0.0,0,0.05,2,0,2,3.2,0,1,0.06,2.6,0.26,78.62,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,True,Burnley,,0.39
+Vitaly Janelt,Brentford,Burnley,2023-10-21,True,90,0,0.0,0,0.16,2,0,2,4.4,0,1,0.07,2.6,0.22,79.89,3.0,1.0,2.2,1.47,0.04,3.0,Brentford,False,Chelsea,,-0.85
+Vitaly Janelt,Brentford,Chelsea,2023-10-28,False,75,0,0.36,0,0.0,3,1,0,3.0,0,1,0.06,2.8,0.29,79.4,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,True,West Ham,,0.49
+Vitaly Janelt,Brentford,West Ham,2023-11-04,True,90,0,0.01,0,0.11,2,1,2,5.3,0,1,0.06,2.2,0.09,80.36,3.0,1.0,2.2,1.47,0.04,1.0,Brentford,False,Liverpool,,-1.01
+Vitaly Janelt,Brentford,Liverpool,2023-11-12,False,45,0,0.0,0,0.07,1,0,1,2.0,0,1,0.06,2.0,0.08,77.42,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,True,Arsenal,,-0.11
+Vitaly Janelt,Brentford,Arsenal,2023-11-25,True,90,0,0.0,0,0.54,2,0,1,3.5,0,1,0.06,2.0,0.08,78.38,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,True,Luton,,
+Vitaly Janelt,Brentford,Luton,2023-12-02,True,90,0,0.0,0,0.53,2,0,4,9.2,0,1,0.07,2.0,0.08,79.21,3.0,1.0,2.2,1.47,0.04,6.0,Brentford,False,Brighton,,-0.6
+Vitaly Janelt,Brentford,Brighton,2023-12-06,False,90,0,0.0,0,0.06,6,0,1,4.4,1,1,0.07,2.6,0.0,79.93,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,False,Sheffield,,-0.61
+Vitaly Janelt,Brentford,Sheffield,2023-12-09,False,90,0,0.0,0,0.15,2,0,2,5.1,0,1,0.1,2.6,0.0,80.56,3.0,1.0,2.2,1.47,0.04,1.0,Brentford,True,Aston Villa,,0.64
+Vitaly Janelt,Brentford,Aston Villa,2023-12-17,True,87,0,0.0,0,0.0,1,0,0,0.5,0,1,0.08,2.6,0.0,80.94,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,True,Wolverhampton,,0.05
+Vitaly Janelt,Brentford,Wolverhampton,2023-12-27,True,90,0,0.52,0,0.08,2,2,1,10.7,0,1,0.07,2.6,0.1,81.44,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,False,Crystal Palace,,0.38
+Vitaly Janelt,Brentford,Crystal Palace,2023-12-30,False,79,0,0.0,0,0.58,2,0,1,3.3,0,1,0.08,2.6,0.1,81.32,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,True,Nottingham Forest,,1.55
+Vitaly Janelt,Brentford,Nottingham Forest,2024-01-20,True,90,0,0.05,0,0.02,2,1,1,3.4,0,1,0.07,1.8,0.11,81.75,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,False,Tottenham,,-0.36
+Vitaly Janelt,Brentford,Tottenham,2024-01-31,False,87,0,0.0,0,0.0,2,0,0,1.6,0,1,0.07,1.8,0.11,82.0,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,True,Manchester City,,-0.96
+Vitaly Janelt,Brentford,Manchester City,2024-02-05,True,75,0,0.0,0,0.0,2,0,0,0.9,0,1,0.07,2.0,0.11,81.68,3.0,1.0,2.2,1.47,0.04,5.0,Brentford,False,Wolverhampton,,-0.52
+Vitaly Janelt,Brentford,Wolverhampton,2024-02-10,False,84,0,0.0,1,0.33,5,0,1,4.3,0,1,0.07,2.6,0.21,81.78,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,True,Liverpool,,0.18
+Vitaly Janelt,Brentford,Liverpool,2024-02-17,True,90,0,0.04,0,0.0,2,1,0,1.3,0,1,0.11,2.6,0.22,82.12,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,False,Manchester City,,-1.32
+Vitaly Janelt,Brentford,Manchester City,2024-02-20,False,76,0,0.0,0,0.0,2,0,0,1.2,0,1,0.11,2.6,0.21,81.88,3.0,1.0,2.2,1.47,0.04,1.0,Brentford,False,West Ham,,-0.22
+Vitaly Janelt,Brentford,West Ham,2024-02-26,False,17,0,0.0,0,0.0,1,0,0,1.1,0,0,0.08,2.4,0.21,79.38,3.0,1.0,2.2,1.47,0.04,1.0,Brentford,True,Chelsea,,-0.25
+Vitaly Janelt,Brentford,Chelsea,2024-03-02,True,86,0,0.1,0,0.0,1,2,0,1.5,0,1,0.08,2.2,0.23,79.63,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,False,Arsenal,,-0.48
+Vitaly Janelt,Brentford,Arsenal,2024-03-09,False,89,0,0.05,0,0.09,2,1,2,4.6,0,1,0.08,1.6,0.04,79.96,3.0,1.0,2.2,1.47,0.04,1.0,Brentford,False,Burnley,,0.0
+Vitaly Janelt,Brentford,Burnley,2024-03-16,False,79,0,0.0,0,0.0,1,0,0,1.7,0,1,0.15,1.4,0.03,79.93,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,True,Manchester United,,0.38
+Vitaly Janelt,Brentford,Manchester United,2024-03-30,True,90,0,0.13,0,0.16,2,3,3,9.1,0,1,0.09,1.4,0.06,80.27,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,True,Brighton,,-0.66
+Vitaly Janelt,Brentford,Brighton,2024-04-03,True,90,0,0.0,0,0.0,2,0,0,2.7,0,1,0.08,1.6,0.06,80.58,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,False,Aston Villa,,0.29
+Vitaly Janelt,Brentford,Aston Villa,2024-04-06,False,90,0,0.0,0,0.0,2,0,0,1.5,0,1,0.08,1.8,0.04,80.88,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,True,Sheffield,,0.68
+Vitaly Janelt,Brentford,Sheffield,2024-04-13,True,90,0,0.03,0,0.07,2,1,1,3.5,0,1,0.08,1.8,0.03,81.15,3.0,1.0,2.2,1.47,0.04,5.0,Brentford,False,Luton,,
+Vitaly Janelt,Brentford,Luton,2024-04-20,False,90,0,0.03,1,0.67,5,1,2,6.3,0,1,0.08,2.6,0.24,81.41,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,False,Everton,,-0.24
+Vitaly Janelt,Brentford,Everton,2024-04-27,False,66,0,0.0,0,0.13,2,0,1,2.2,0,1,0.08,2.6,0.21,80.97,3.0,1.0,2.2,1.47,0.04,3.0,Brentford,True,Fulham,,-0.13
+Vitaly Janelt,Brentford,Fulham,2024-05-04,True,65,0,0.0,0,0.02,3,0,1,2.5,0,1,0.08,2.8,0.21,80.53,3.0,1.0,2.2,1.47,0.04,3.0,Brentford,False,Bournemouth,,0.19
+Vitaly Janelt,Brentford,Bournemouth,2024-05-11,False,82,0,0.0,0,0.04,3,0,1,2.3,0,1,0.08,3.0,0.21,80.57,3.0,1.0,2.2,1.47,0.04,7.0,Brentford,True,Newcastle United,,0.55
+Vitaly Janelt,Brentford,Newcastle United,2024-05-19,True,73,1,0.33,0,0.07,7,1,1,7.4,0,1,0.08,4.0,0.27,80.37,3.0,1.0,2.2,1.47,0.04,2.0,Brentford,True,Crystal Palace,,0.88

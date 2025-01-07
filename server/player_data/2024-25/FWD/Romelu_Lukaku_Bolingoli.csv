@@ -1,12 +1,15 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Romelu Lukaku Bolingoli,Chelsea,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea,False,Wolverhampton,1.62,-0.53
-Romelu Lukaku Bolingoli,Chelsea,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea,True,Crystal Palace,-1.51,0.88
-Romelu Lukaku Bolingoli,Chelsea,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea,False,Bournemouth,-1.53,-0.04
-Romelu Lukaku Bolingoli,Chelsea,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea,False,West Ham,2.89,-0.34
-Romelu Lukaku Bolingoli,Chelsea,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea,True,Brighton,-0.67,-0.42
-Romelu Lukaku Bolingoli,Chelsea,Brighton,2024-09-28,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea,True,Nottingham Forest,1.3,1.2
-Romelu Lukaku Bolingoli,Chelsea,Nottingham Forest,2024-10-06,True,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea,False,Liverpool,0.96,-1.08
-Romelu Lukaku Bolingoli,Chelsea,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea,True,Newcastle United,-0.99,0.67
-Romelu Lukaku Bolingoli,Chelsea,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Chelsea,False,Manchester United,1.87,-0.41
-,Chelsea,,,,,,,,,,,,,,,,,,,,,,,,Chelsea,True,Arsenal,2.1,-0.32
-,Chelsea,,,,,,,,,,,,,,,,,,,,,,,,Chelsea,False,Leicester City,1.68,-0.22
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,starts,selected,form,xG&A_form,minutes_per_game,last_season_goals,last_season_assists,last_season_xG,last_season_xA,last_season_points_per_minute,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Romelu Lukaku Bolingoli,Chelsea,Manchester City,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea,False,Wolverhampton,,-0.53
+Romelu Lukaku Bolingoli,Chelsea,Wolverhampton,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea,True,Crystal Palace,,0.88
+Romelu Lukaku Bolingoli,Chelsea,Crystal Palace,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.39,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea,False,Bournemouth,,-0.04
+Romelu Lukaku Bolingoli,Chelsea,Bournemouth,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea,False,West Ham,,-0.34
+Romelu Lukaku Bolingoli,Chelsea,West Ham,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea,True,Brighton,,-0.42
+Romelu Lukaku Bolingoli,Chelsea,Brighton,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea,True,Nottingham Forest,,1.2
+Romelu Lukaku Bolingoli,Chelsea,Nottingham Forest,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.22,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea,False,Liverpool,,-1.08
+Romelu Lukaku Bolingoli,Chelsea,Liverpool,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea,True,Newcastle United,,0.67
+Romelu Lukaku Bolingoli,Chelsea,Newcastle United,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea,False,Manchester United,,-0.41
+Romelu Lukaku Bolingoli,Chelsea,Manchester United,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea,True,Arsenal,,-0.32
+Romelu Lukaku Bolingoli,Chelsea,Arsenal,,True,0.0,,,,,0.0,,,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea,False,Leicester City,,-0.22
+Romelu Lukaku Bolingoli,Chelsea,Leicester City,,False,0.0,,,,,0.0,,,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,Chelsea,True,Aston Villa,,0.66
+,Chelsea,,,,,,,,,,,,,,,,,,,,,,,,,Chelsea,False,Southampton,,-0.31
+,Chelsea,,,,,,,,,,,,,,,,,,,,,,,,,Chelsea,False,Tottenham,,-0.3

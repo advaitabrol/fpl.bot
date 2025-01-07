@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Robin Olsen,Aston Villa,Newcastle United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,0.0,Aston Villa,True,Everton,-1.63,0.53
-Robin Olsen,Aston Villa,Everton,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,0.0,0.0,0.0,2.0,Aston Villa,False,Burnley,-3.46,0.0
-Robin Olsen,Aston Villa,Burnley,2023-08-27,False,90,1,0.73,1,0,2,0,0,0.0,1,0.67,0,30.0,0.0,1.0,0.0,Aston Villa,False,Liverpool,-0.55,-1.01
-Robin Olsen,Aston Villa,Liverpool,,False,0,0,0.0,0,0,0,0,0,,0,0.5,0,22.5,0.0,1.0,0.0,Aston Villa,True,Crystal Palace,-0.31,0.88
-Robin Olsen,Aston Villa,Crystal Palace,,True,0,0,0.0,0,0,0,0,0,,0,0.4,0,18.0,0.0,1.0,0.0,Aston Villa,False,Chelsea,0.29,-0.85
-Robin Olsen,Aston Villa,Chelsea,,False,0,0,0.0,0,0,0,0,0,,0,0.4,0,15.0,0.0,1.0,0.0,Aston Villa,True,Brighton,-2.73,-0.66
-Robin Olsen,Aston Villa,Brighton,,True,0,0,0.0,0,0,0,0,0,,0,0.4,0,12.86,0.0,1.0,0.0,Aston Villa,False,Wolverhampton,1.42,-0.52
-Robin Olsen,Aston Villa,Wolverhampton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,11.25,0.0,1.0,0.0,Aston Villa,True,West Ham,3.13,0.49
-Robin Olsen,Aston Villa,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,10.0,0.0,1.0,0.0,Aston Villa,True,Luton,,
-Robin Olsen,Aston Villa,Luton,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,9.0,0.0,1.0,0.0,Aston Villa,False,Nottingham Forest,2.68,-0.55
-Robin Olsen,Aston Villa,Nottingham Forest,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,8.18,0.0,1.0,0.0,Aston Villa,True,Fulham,-1.21,-0.13
-Robin Olsen,Aston Villa,Fulham,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,7.5,0.0,1.0,0.0,Aston Villa,False,Tottenham,-0.44,-0.36
-Robin Olsen,Aston Villa,Tottenham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,6.92,0.0,1.0,0.0,Aston Villa,False,Bournemouth,4.38,0.19
-Robin Olsen,Aston Villa,Bournemouth,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,6.43,0.0,1.0,0.0,Aston Villa,True,Manchester City,-0.28,-0.96
-Robin Olsen,Aston Villa,Manchester City,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,6.0,0.0,1.0,0.0,Aston Villa,True,Arsenal,1.9,-0.11
-Robin Olsen,Aston Villa,Arsenal,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,5.62,0.0,1.0,0.0,Aston Villa,False,Brentford,0.23,-0.53
-Robin Olsen,Aston Villa,Brentford,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,5.29,0.0,1.0,0.0,Aston Villa,True,Sheffield,,0.68
-Robin Olsen,Aston Villa,Sheffield,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,5.0,0.0,1.0,0.0,Aston Villa,False,Manchester United,-0.31,-0.63
-Robin Olsen,Aston Villa,Manchester United,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,4.74,0.0,1.0,0.0,Aston Villa,True,Burnley,2.78,0.39
-Robin Olsen,Aston Villa,Burnley,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,4.5,0.0,1.0,0.0,Aston Villa,False,Everton,-1.98,-0.24
-Robin Olsen,Aston Villa,Everton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,4.29,0.0,1.0,0.0,Aston Villa,True,Newcastle United,-3.47,0.55
-Robin Olsen,Aston Villa,Newcastle United,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,4.09,0.0,1.0,0.0,Aston Villa,False,Sheffield,,-0.61
-Robin Olsen,Aston Villa,Sheffield,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,3.91,0.0,1.0,0.0,Aston Villa,True,Manchester United,-3.02,0.38
-Robin Olsen,Aston Villa,Manchester United,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,3.75,0.0,1.0,0.0,Aston Villa,False,Fulham,4.62,0.86
-Robin Olsen,Aston Villa,Fulham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,3.6,0.0,1.0,0.0,Aston Villa,True,Nottingham Forest,,1.55
-Robin Olsen,Aston Villa,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,3.46,0.0,1.0,0.0,Aston Villa,False,Luton,,
-Robin Olsen,Aston Villa,Luton,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,3.33,0.0,1.0,0.0,Aston Villa,True,Tottenham,,0.69
-Robin Olsen,Aston Villa,Tottenham,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,3.21,0.0,1.0,0.0,Aston Villa,False,West Ham,,-0.22
-Robin Olsen,Aston Villa,West Ham,,False,0,0,0.0,0,0,0,0,0,,0,0.0,0,3.1,0.0,1.0,0.0,Aston Villa,True,Wolverhampton,0.86,0.05
-Robin Olsen,Aston Villa,Wolverhampton,,True,0,0,0.0,0,0,0,0,0,,0,0.0,0,3.0,0.0,1.0,2.0,Aston Villa,False,Manchester City,,-1.32
-Robin Olsen,Aston Villa,Manchester City,2024-04-03,False,90,4,3.28,7,0,2,0,0,0.0,1,0.4,0,5.81,0.0,4.0,0.0,Aston Villa,True,Brentford,-3.34,0.79
-Robin Olsen,Aston Villa,Brentford,,True,0,0,0.0,0,0,0,0,0,,0,0.4,0,5.62,0.0,4.0,0.0,Aston Villa,False,Arsenal,2.49,-0.48
-Robin Olsen,Aston Villa,Arsenal,,False,0,0,0.0,0,0,0,0,0,,0,0.4,0,5.45,0.0,4.0,0.0,Aston Villa,True,Bournemouth,,1.22
-Robin Olsen,Aston Villa,Bournemouth,,True,0,0,0.0,0,0,0,0,0,,0,0.4,0,5.29,0.0,4.0,0.0,Aston Villa,True,Chelsea,2.3,-0.25
-Robin Olsen,Aston Villa,Chelsea,2024-04-27,True,45,2,0.85,2,0,0,0,0,0.0,0,0.4,0,6.43,0.0,3.33,12.0,Aston Villa,False,Brighton,-2.08,-0.6
-Robin Olsen,Aston Villa,Brighton,2024-05-05,False,90,1,2.69,7,1,12,3,0,0.0,1,2.4,0,8.75,0.0,4.25,0.0,Aston Villa,True,Liverpool,2.82,0.18
-Robin Olsen,Aston Villa,Liverpool,,True,0,0,0.0,0,0,0,0,0,,0,2.4,0,8.51,0.0,4.25,1.0,Aston Villa,False,Crystal Palace,1.07,0.38
-Robin Olsen,Aston Villa,Crystal Palace,2024-05-19,False,90,5,2.48,4,0,1,0,0,0.0,1,2.6,0,10.66,0.0,4.2,0.0,Aston Villa,False,West Ham,,-0.22
+name,team,opponent_team,date,was_home,minutes,goals_conceded,expected_goals_conceded,saves,penalties_saved,total_points,bonus,clean_sheets,xA,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,saves_per_game,last_season_clean_sheet_probability,last_season_total_saves,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Robin Olsen,Aston Villa,Newcastle United,,False,0,0,0.0,0,0,0,0,0,,0,0.69,0.0,0,0.0,0.0,0.0,0.5,11,5.67,0.0,Aston Villa,True,Everton,,0.53
+Robin Olsen,Aston Villa,Everton,,True,0,0,0.0,0,0,0,0,0,,0,0.75,0.0,0,0.0,0.0,0.0,0.5,11,5.67,2.0,Aston Villa,False,Burnley,,0.0
+Robin Olsen,Aston Villa,Burnley,2023-08-27,False,90,1,0.73,1,0,2,0,0,0.0,1,0.74,0.67,0,30.0,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,False,Liverpool,,-1.01
+Robin Olsen,Aston Villa,Liverpool,,False,0,0,0.0,0,0,0,0,0,,0,0.76,0.5,0,22.5,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,True,Crystal Palace,,0.88
+Robin Olsen,Aston Villa,Crystal Palace,,True,0,0,0.0,0,0,0,0,0,,0,0.77,0.4,0,18.0,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,False,Chelsea,,-0.85
+Robin Olsen,Aston Villa,Chelsea,,False,0,0,0.0,0,0,0,0,0,,0,0.76,0.4,0,15.0,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,True,Brighton,,-0.66
+Robin Olsen,Aston Villa,Brighton,,True,0,0,0.0,0,0,0,0,0,,0,0.75,0.4,0,12.86,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,False,Wolverhampton,,-0.52
+Robin Olsen,Aston Villa,Wolverhampton,,False,0,0,0.0,0,0,0,0,0,,0,0.73,0.0,0,11.25,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,True,West Ham,,0.49
+Robin Olsen,Aston Villa,West Ham,,True,0,0,0.0,0,0,0,0,0,,0,0.72,0.0,0,10.0,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,True,Luton,,
+Robin Olsen,Aston Villa,Luton,,True,0,0,0.0,0,0,0,0,0,,0,0.71,0.0,0,9.0,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,False,Nottingham Forest,,-0.55
+Robin Olsen,Aston Villa,Nottingham Forest,,False,0,0,0.0,0,0,0,0,0,,0,0.7,0.0,0,8.18,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,True,Fulham,,-0.13
+Robin Olsen,Aston Villa,Fulham,,True,0,0,0.0,0,0,0,0,0,,0,0.69,0.0,0,7.5,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,False,Tottenham,,-0.36
+Robin Olsen,Aston Villa,Tottenham,,False,0,0,0.0,0,0,0,0,0,,0,0.69,0.0,0,6.92,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,False,Bournemouth,,0.19
+Robin Olsen,Aston Villa,Bournemouth,,False,0,0,0.0,0,0,0,0,0,,0,0.68,0.0,0,6.43,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,True,Manchester City,,-0.96
+Robin Olsen,Aston Villa,Manchester City,,True,0,0,0.0,0,0,0,0,0,,0,0.67,0.0,0,6.0,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,True,Arsenal,,-0.11
+Robin Olsen,Aston Villa,Arsenal,,True,0,0,0.0,0,0,0,0,0,,0,0.67,0.0,0,5.62,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,False,Brentford,,-0.53
+Robin Olsen,Aston Villa,Brentford,,False,0,0,0.0,0,0,0,0,0,,0,0.67,0.0,0,5.29,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,True,Sheffield,,0.68
+Robin Olsen,Aston Villa,Sheffield,,True,0,0,0.0,0,0,0,0,0,,0,0.64,0.0,0,5.0,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,False,Manchester United,,-0.63
+Robin Olsen,Aston Villa,Manchester United,,False,0,0,0.0,0,0,0,0,0,,0,0.64,0.0,0,4.74,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,True,Burnley,,0.39
+Robin Olsen,Aston Villa,Burnley,,True,0,0,0.0,0,0,0,0,0,,0,0.62,0.0,0,4.5,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,False,Everton,,-0.24
+Robin Olsen,Aston Villa,Everton,,False,0,0,0.0,0,0,0,0,0,,0,0.58,0.0,0,4.29,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,True,Newcastle United,,0.55
+Robin Olsen,Aston Villa,Newcastle United,,True,0,0,0.0,0,0,0,0,0,,0,0.58,0.0,0,4.09,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,False,Sheffield,,-0.61
+Robin Olsen,Aston Villa,Sheffield,,False,0,0,0.0,0,0,0,0,0,,0,0.58,0.0,0,3.91,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,True,Manchester United,,0.38
+Robin Olsen,Aston Villa,Manchester United,,True,0,0,0.0,0,0,0,0,0,,0,0.58,0.0,0,3.75,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,False,Fulham,,0.86
+Robin Olsen,Aston Villa,Fulham,,False,0,0,0.0,0,0,0,0,0,,0,0.59,0.0,0,3.6,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,True,Nottingham Forest,,1.55
+Robin Olsen,Aston Villa,Nottingham Forest,,True,0,0,0.0,0,0,0,0,0,,0,0.58,0.0,0,3.46,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,False,Luton,,
+Robin Olsen,Aston Villa,Luton,,False,0,0,0.0,0,0,0,0,0,,0,0.57,0.0,0,3.33,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,True,Tottenham,,0.69
+Robin Olsen,Aston Villa,Tottenham,,True,0,0,0.0,0,0,0,0,0,,0,0.57,0.0,0,3.21,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,False,West Ham,,-0.22
+Robin Olsen,Aston Villa,West Ham,,False,0,0,0.0,0,0,0,0,0,,0,0.55,0.0,0,3.1,0.0,1.0,0.5,11,5.67,0.0,Aston Villa,True,Wolverhampton,,0.05
+Robin Olsen,Aston Villa,Wolverhampton,,True,0,0,0.0,0,0,0,0,0,,0,0.56,0.0,0,3.0,0.0,1.0,0.5,11,5.67,2.0,Aston Villa,False,Manchester City,,-1.32
+Robin Olsen,Aston Villa,Manchester City,2024-04-03,False,90,4,3.28,7,0,2,0,0,0.0,1,0.56,0.4,0,5.81,0.0,4.0,0.5,11,5.67,0.0,Aston Villa,True,Brentford,,0.79
+Robin Olsen,Aston Villa,Brentford,,True,0,0,0.0,0,0,0,0,0,,0,0.58,0.4,0,5.62,0.0,4.0,0.5,11,5.67,0.0,Aston Villa,False,Arsenal,,-0.48
+Robin Olsen,Aston Villa,Arsenal,,False,0,0,0.0,0,0,0,0,0,,0,0.57,0.4,0,5.45,0.0,4.0,0.5,11,5.67,0.0,Aston Villa,True,Bournemouth,,1.22
+Robin Olsen,Aston Villa,Bournemouth,,True,0,0,0.0,0,0,0,0,0,,0,0.57,0.4,0,5.29,0.0,4.0,0.5,11,5.67,0.0,Aston Villa,True,Chelsea,,-0.25
+Robin Olsen,Aston Villa,Chelsea,2024-04-27,True,45,2,0.85,2,0,0,0,0,0.0,0,0.57,0.4,0,6.43,0.0,3.33,0.5,11,5.67,12.0,Aston Villa,False,Brighton,,-0.6
+Robin Olsen,Aston Villa,Brighton,2024-05-05,False,90,1,2.69,7,1,12,3,0,0.0,1,0.57,2.4,0,8.75,0.0,4.25,0.5,11,5.67,0.0,Aston Villa,True,Liverpool,,0.18
+Robin Olsen,Aston Villa,Liverpool,,True,0,0,0.0,0,0,0,0,0,,0,0.64,2.4,0,8.51,0.0,4.25,0.5,11,5.67,1.0,Aston Villa,False,Crystal Palace,,0.38
+Robin Olsen,Aston Villa,Crystal Palace,2024-05-19,False,90,5,2.48,4,0,1,0,0,0.0,1,0.63,2.6,0,10.66,0.0,4.2,0.5,11,5.67,0.0,Aston Villa,False,West Ham,,-0.22

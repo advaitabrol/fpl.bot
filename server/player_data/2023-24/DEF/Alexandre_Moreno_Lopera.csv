@@ -1,39 +1,39 @@
-name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,form,xG&A_form,minutes_per_game,clean_sheet_probability,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
-Alexandre Moreno Lopera,Aston Villa,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,Aston Villa,True,Everton,-1.63,0.53
-Alexandre Moreno Lopera,Aston Villa,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,Aston Villa,False,Burnley,-3.46,0.0
-Alexandre Moreno Lopera,Aston Villa,Burnley,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,Aston Villa,False,Liverpool,-0.55,-1.01
-Alexandre Moreno Lopera,Aston Villa,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,Aston Villa,True,Crystal Palace,-0.31,0.88
-Alexandre Moreno Lopera,Aston Villa,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,Aston Villa,False,Chelsea,0.29,-0.85
-Alexandre Moreno Lopera,Aston Villa,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,Aston Villa,True,Brighton,-2.73,-0.66
-Alexandre Moreno Lopera,Aston Villa,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,Aston Villa,False,Wolverhampton,1.42,-0.52
-Alexandre Moreno Lopera,Aston Villa,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,Aston Villa,True,West Ham,3.13,0.49
-Alexandre Moreno Lopera,Aston Villa,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,Aston Villa,True,Luton,,
-Alexandre Moreno Lopera,Aston Villa,Luton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,Aston Villa,False,Nottingham Forest,2.68,-0.55
-Alexandre Moreno Lopera,Aston Villa,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,Aston Villa,True,Fulham,-1.21,-0.13
-Alexandre Moreno Lopera,Aston Villa,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,0.0,Aston Villa,False,Tottenham,-0.44,-0.36
-Alexandre Moreno Lopera,Aston Villa,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.0,0.0,0.0,0.0,1.0,Aston Villa,False,Bournemouth,4.38,0.19
-Alexandre Moreno Lopera,Aston Villa,Bournemouth,,False,16,,,,,1,,,0.5,0,0,0,0.15,0,0.2,0.0,1.14,0.0,1.0,Aston Villa,True,Manchester City,-0.28,-0.96
-Alexandre Moreno Lopera,Aston Villa,Manchester City,,True,1,,,,,1,,,0.0,0,0,0,0.0,0,0.4,0.0,1.13,0.0,1.0,Aston Villa,True,Arsenal,1.9,-0.11
-Alexandre Moreno Lopera,Aston Villa,Arsenal,,True,12,,,,,1,,,0.5,0,0,0,0.05,0,0.6,0.0,1.81,0.0,10.0,Aston Villa,False,Brentford,0.23,-0.53
-Alexandre Moreno Lopera,Aston Villa,Brentford,,False,90,,,,,10,,,11.1,2,0,1,0.51,1,2.6,0.0,7.0,0.0,1.0,Aston Villa,True,Sheffield,,0.68
-Alexandre Moreno Lopera,Aston Villa,Sheffield,,True,16,,,,,1,,,2.2,0,0,1,0.56,0,2.8,0.0,7.5,0.0,0.0,Aston Villa,False,Manchester United,-0.31,-0.63
-Alexandre Moreno Lopera,Aston Villa,Manchester United,,False,40,,,,,0,,,4.3,0,0,3,0.71,0,2.6,0.0,9.21,0.0,1.0,Aston Villa,True,Burnley,2.78,0.39
-Alexandre Moreno Lopera,Aston Villa,Burnley,,True,90,,,,,1,,,4.5,0,0,2,0.98,1,2.6,0.0,13.25,0.0,7.0,Aston Villa,False,Everton,-1.98,-0.24
-Alexandre Moreno Lopera,Aston Villa,Everton,,False,90,,,,,7,,,6.3,1,1,0,1.13,1,3.8,0.0,16.9,0.12,-1.0,Aston Villa,True,Newcastle United,-3.47,0.55
-Alexandre Moreno Lopera,Aston Villa,Newcastle United,,True,90,,,,,-1,,,1.3,0,0,3,2.54,1,1.6,0.0,20.23,0.11,14.0,Aston Villa,False,Sheffield,,-0.61
-Alexandre Moreno Lopera,Aston Villa,Sheffield,,False,90,,,,,14,,,7.4,2,1,0,1.26,1,4.2,0.0,23.26,0.2,1.0,Aston Villa,True,Manchester United,-3.02,0.38
-Alexandre Moreno Lopera,Aston Villa,Manchester United,,True,86,,,,,1,,,6.9,0,0,2,1.75,1,4.4,0.0,25.88,0.18,1.0,Aston Villa,False,Fulham,4.62,0.86
-Alexandre Moreno Lopera,Aston Villa,Fulham,,False,80,,,,,1,,,0.2,0,0,1,0.82,1,4.4,0.0,28.04,0.17,-1.0,Aston Villa,True,Nottingham Forest,,1.55
-Alexandre Moreno Lopera,Aston Villa,Nottingham Forest,,True,58,,,,,-1,,,2.3,0,0,2,1.87,1,2.8,0.0,29.19,0.15,1.0,Aston Villa,False,Luton,,
-Alexandre Moreno Lopera,Aston Villa,Luton,,False,78,,,,,1,,,1.4,0,0,2,2.15,1,3.2,0.0,31.0,0.14,0.0,Aston Villa,True,Tottenham,,0.69
-Alexandre Moreno Lopera,Aston Villa,Tottenham,2024-03-10,True,32,0.0,0.0,0.0,0.0,0,0.0,0.0,0.3,0,0,2,0.68,0,0.4,0.0,31.04,0.13,2.0,Aston Villa,False,West Ham,,-0.22
-Alexandre Moreno Lopera,Aston Villa,West Ham,,False,62,,,,,2,,,2.0,0,0,1,1.25,1,0.6,0.0,32.1,0.12,6.0,Aston Villa,True,Wolverhampton,0.86,0.05
-Alexandre Moreno Lopera,Aston Villa,Wolverhampton,,True,62,,,,,6,,,0.7,0,1,0,1.31,1,1.6,0.0,33.1,0.18,1.0,Aston Villa,False,Manchester City,,-1.32
-Alexandre Moreno Lopera,Aston Villa,Manchester City,2024-04-03,False,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.7,0,2.0,0.0,32.65,0.17,1.0,Aston Villa,True,Brentford,-3.34,0.79
-Alexandre Moreno Lopera,Aston Villa,Brentford,2024-04-06,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,0,2.0,0.0,31.66,0.16,1.0,Aston Villa,False,Arsenal,2.49,-0.48
-Alexandre Moreno Lopera,Aston Villa,Arsenal,,False,10,,,,,1,,,0.4,0,0,0,0.03,0,2.2,0.0,31.0,0.15,0.0,Aston Villa,True,Bournemouth,,1.22
-Alexandre Moreno Lopera,Aston Villa,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.8,0.0,30.09,0.15,0.0,Aston Villa,True,Chelsea,2.3,-0.25
-Alexandre Moreno Lopera,Aston Villa,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.6,0.0,29.23,0.15,1.0,Aston Villa,False,Brighton,-2.08,-0.6
-Alexandre Moreno Lopera,Aston Villa,Brighton,,False,1,,,,,1,,,0.1,0,0,0,0.05,0,0.6,0.0,28.44,0.14,0.0,Aston Villa,True,Liverpool,2.82,0.18
-Alexandre Moreno Lopera,Aston Villa,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.4,0.0,27.68,0.14,0.0,Aston Villa,False,Crystal Palace,1.07,0.38
-Alexandre Moreno Lopera,Aston Villa,Crystal Palace,2024-05-19,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,0.2,0.0,26.95,0.14,,Aston Villa,False,West Ham,,-0.22
+name,team,opponent_team,date,was_home,minutes,goals,xG,assists,xA,total_points,shots,key_passes,ict_index,bonus,clean_sheets,goals_conceded,expected_goals_conceded,starts,selected,form,xG&A_form,minutes_per_game,clean_sheet_probability,last_season_xG,last_season_xA,last_season_clean_sheet_probability,last_season_expected_goals_conceded,next_week_points,next_team,next_was_home,next_opponent_team,next_week_specific_fixture_difficulty,next_week_holistic_fixture_difficulty
+Alexandre Moreno Lopera,Aston Villa,Newcastle United,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.47,17.83,0.0,Aston Villa,True,Everton,,0.53
+Alexandre Moreno Lopera,Aston Villa,Everton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.47,17.83,0.0,Aston Villa,False,Burnley,,0.0
+Alexandre Moreno Lopera,Aston Villa,Burnley,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.47,17.83,0.0,Aston Villa,False,Liverpool,,-1.01
+Alexandre Moreno Lopera,Aston Villa,Liverpool,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.47,17.83,0.0,Aston Villa,True,Crystal Palace,,0.88
+Alexandre Moreno Lopera,Aston Villa,Crystal Palace,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.47,17.83,0.0,Aston Villa,False,Chelsea,,-0.85
+Alexandre Moreno Lopera,Aston Villa,Chelsea,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.47,17.83,0.0,Aston Villa,True,Brighton,,-0.66
+Alexandre Moreno Lopera,Aston Villa,Brighton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.06,0.0,0.0,0.0,0.0,0.0,0.0,0.47,17.83,0.0,Aston Villa,False,Wolverhampton,,-0.52
+Alexandre Moreno Lopera,Aston Villa,Wolverhampton,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.47,17.83,0.0,Aston Villa,True,West Ham,,0.49
+Alexandre Moreno Lopera,Aston Villa,West Ham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.47,17.83,0.0,Aston Villa,True,Luton,,
+Alexandre Moreno Lopera,Aston Villa,Luton,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.47,17.83,0.0,Aston Villa,False,Nottingham Forest,,-0.55
+Alexandre Moreno Lopera,Aston Villa,Nottingham Forest,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.47,17.83,0.0,Aston Villa,True,Fulham,,-0.13
+Alexandre Moreno Lopera,Aston Villa,Fulham,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.47,17.83,0.0,Aston Villa,False,Tottenham,,-0.36
+Alexandre Moreno Lopera,Aston Villa,Tottenham,,False,0,,,,,0,,,0.0,0,0,0,0.0,0,0.09,0.0,0.0,0.0,0.0,0.0,0.0,0.47,17.83,1.0,Aston Villa,False,Bournemouth,,0.19
+Alexandre Moreno Lopera,Aston Villa,Bournemouth,,False,16,,,,,1,,,0.5,0,0,0,0.15,0,0.11,0.2,0.0,1.14,0.0,0.0,0.0,0.47,17.83,1.0,Aston Villa,True,Manchester City,,-0.96
+Alexandre Moreno Lopera,Aston Villa,Manchester City,,True,1,,,,,1,,,0.0,0,0,0,0.0,0,0.11,0.4,0.0,1.13,0.0,0.0,0.0,0.47,17.83,1.0,Aston Villa,True,Arsenal,,-0.11
+Alexandre Moreno Lopera,Aston Villa,Arsenal,,True,12,,,,,1,,,0.5,0,0,0,0.05,0,0.12,0.6,0.0,1.81,0.0,0.0,0.0,0.47,17.83,10.0,Aston Villa,False,Brentford,,-0.53
+Alexandre Moreno Lopera,Aston Villa,Brentford,,False,90,,,,,10,,,11.1,2,0,1,0.51,1,0.21,2.6,0.0,7.0,0.0,0.0,0.0,0.47,17.83,1.0,Aston Villa,True,Sheffield,,0.68
+Alexandre Moreno Lopera,Aston Villa,Sheffield,,True,16,,,,,1,,,2.2,0,0,1,0.56,0,0.76,2.8,0.0,7.5,0.0,0.0,0.0,0.47,17.83,0.0,Aston Villa,False,Manchester United,,-0.63
+Alexandre Moreno Lopera,Aston Villa,Manchester United,,False,40,,,,,0,,,4.3,0,0,3,0.71,0,0.64,2.6,0.0,9.21,0.0,0.0,0.0,0.47,17.83,1.0,Aston Villa,True,Burnley,,0.39
+Alexandre Moreno Lopera,Aston Villa,Burnley,,True,90,,,,,1,,,4.5,0,0,2,0.98,1,1.17,2.6,0.0,13.25,0.0,0.0,0.0,0.47,17.83,7.0,Aston Villa,False,Everton,,-0.24
+Alexandre Moreno Lopera,Aston Villa,Everton,,False,90,,,,,7,,,6.3,1,1,0,1.13,1,1.38,3.8,0.0,16.9,0.12,0.0,0.0,0.47,17.83,-1.0,Aston Villa,True,Newcastle United,,0.55
+Alexandre Moreno Lopera,Aston Villa,Newcastle United,,True,90,,,,,-1,,,1.3,0,0,3,2.54,1,1.53,1.6,0.0,20.23,0.11,0.0,0.0,0.47,17.83,14.0,Aston Villa,False,Sheffield,,-0.61
+Alexandre Moreno Lopera,Aston Villa,Sheffield,,False,90,,,,,14,,,7.4,2,1,0,1.26,1,1.53,4.2,0.0,23.26,0.2,0.0,0.0,0.47,17.83,1.0,Aston Villa,True,Manchester United,,0.38
+Alexandre Moreno Lopera,Aston Villa,Manchester United,,True,86,,,,,1,,,6.9,0,0,2,1.75,1,2.28,4.4,0.0,25.88,0.18,0.0,0.0,0.47,17.83,1.0,Aston Villa,False,Fulham,,0.86
+Alexandre Moreno Lopera,Aston Villa,Fulham,,False,80,,,,,1,,,0.2,0,0,1,0.82,1,2.54,4.4,0.0,28.04,0.17,0.0,0.0,0.47,17.83,-1.0,Aston Villa,True,Nottingham Forest,,1.55
+Alexandre Moreno Lopera,Aston Villa,Nottingham Forest,,True,58,,,,,-1,,,2.3,0,0,2,1.87,1,4.48,2.8,0.0,29.19,0.15,0.0,0.0,0.47,17.83,1.0,Aston Villa,False,Luton,,
+Alexandre Moreno Lopera,Aston Villa,Luton,,False,78,,,,,1,,,1.4,0,0,2,2.15,1,3.63,3.2,0.0,31.0,0.14,0.0,0.0,0.47,17.83,0.0,Aston Villa,True,Tottenham,,0.69
+Alexandre Moreno Lopera,Aston Villa,Tottenham,2024-03-10,True,32,0.0,0.0,0.0,0.0,0,0.0,0.0,0.3,0,0,2,0.68,0,3.41,0.4,0.0,31.04,0.13,0.0,0.0,0.47,17.83,2.0,Aston Villa,False,West Ham,,-0.22
+Alexandre Moreno Lopera,Aston Villa,West Ham,,False,62,,,,,2,,,2.0,0,0,1,1.25,1,4.7,0.6,0.0,32.1,0.12,0.0,0.0,0.47,17.83,6.0,Aston Villa,True,Wolverhampton,,0.05
+Alexandre Moreno Lopera,Aston Villa,Wolverhampton,,True,62,,,,,6,,,0.7,0,1,0,1.31,1,3.27,1.6,0.0,33.1,0.18,0.0,0.0,0.47,17.83,1.0,Aston Villa,False,Manchester City,,-1.32
+Alexandre Moreno Lopera,Aston Villa,Manchester City,2024-04-03,False,19,0.0,0.0,0.0,0.0,1,0.0,0.0,0.2,0,0,0,0.7,0,3.05,2.0,0.0,32.65,0.17,0.0,0.0,0.47,17.83,1.0,Aston Villa,True,Brentford,,0.79
+Alexandre Moreno Lopera,Aston Villa,Brentford,2024-04-06,True,1,0.0,0.0,0.0,0.0,1,0.0,0.0,0.1,0,0,0,0.0,0,2.95,2.0,0.0,31.66,0.16,0.0,0.0,0.47,17.83,1.0,Aston Villa,False,Arsenal,,-0.48
+Alexandre Moreno Lopera,Aston Villa,Arsenal,,False,10,,,,,1,,,0.4,0,0,0,0.03,0,2.62,2.2,0.0,31.0,0.15,0.0,0.0,0.47,17.83,0.0,Aston Villa,True,Bournemouth,,1.22
+Alexandre Moreno Lopera,Aston Villa,Bournemouth,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.93,1.8,0.0,30.09,0.15,0.0,0.0,0.47,17.83,0.0,Aston Villa,True,Chelsea,,-0.25
+Alexandre Moreno Lopera,Aston Villa,Chelsea,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.55,0.6,0.0,29.23,0.15,0.0,0.0,0.47,17.83,1.0,Aston Villa,False,Brighton,,-0.6
+Alexandre Moreno Lopera,Aston Villa,Brighton,,False,1,,,,,1,,,0.1,0,0,0,0.05,0,1.37,0.6,0.0,28.44,0.14,0.0,0.0,0.47,17.83,0.0,Aston Villa,True,Liverpool,,0.18
+Alexandre Moreno Lopera,Aston Villa,Liverpool,,True,0,,,,,0,,,0.0,0,0,0,0.0,0,1.24,0.4,0.0,27.68,0.14,0.0,0.0,0.47,17.83,0.0,Aston Villa,False,Crystal Palace,,0.38
+Alexandre Moreno Lopera,Aston Villa,Crystal Palace,2024-05-19,False,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0,0,0,0.0,0,1.14,0.2,0.0,26.95,0.14,0.0,0.0,0.47,17.83,,Aston Villa,False,West Ham,,-0.22
